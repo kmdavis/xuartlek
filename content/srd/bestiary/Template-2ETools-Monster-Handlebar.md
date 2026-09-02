@@ -7,6 +7,7 @@ tags: {{#each traits}}{{#if (test this (toRegex "^(aberration|dream|time|humanoi
 statblock: inline
 name: "{{{name}}}"
 level: {{level}}
+publish: false
 ---
 
 ```statblock
