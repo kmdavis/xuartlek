@@ -1,0 +1,1870 @@
+{
+  "books": [
+    "Player Core",
+    "Player Core 2",
+    "GM Core",
+    "Monster Core",
+    "Monster Core 2",
+    "NPC Core",
+    "Rage of Elements",
+    "Howl of the Wild",
+    "War of Immortals",
+    "War of Immortals Alternate Mythic Rules",
+    "Guns & Gears (Remastered)",
+    "Treasure Vault (Remastered)",
+    "Battlecry!",
+    "Dark Archives (Remastered)",
+    "Impossible Magic",
+    "Secrets of the Unlit Star Game Master's Guide"
+  ],
+  "entries": [
+    {
+      "aon_id": 1995,
+      "title": "Chapter 1: Introduction",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/index.md"
+    },
+    {
+      "aon_id": 1996,
+      "title": "What is a Roleplaying Game?",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/what-is-a-roleplaying-game.md"
+    },
+    {
+      "aon_id": 2002,
+      "title": "Basics of Play",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/basics-of-play.md"
+    },
+    {
+      "aon_id": 2005,
+      "title": "Playing the Game",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/playing-the-game.md"
+    },
+    {
+      "aon_id": 2009,
+      "title": "Example of Play",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/example-of-play.md"
+    },
+    {
+      "aon_id": 2010,
+      "title": "Using this book",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/using-this-book.md"
+    },
+    {
+      "aon_id": 2020,
+      "title": "Format of Rules",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/format-of-rules.md"
+    },
+    {
+      "aon_id": 2027,
+      "title": "Character Creation",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/character-creation.md"
+    },
+    {
+      "aon_id": 2065,
+      "title": "Leveling Up",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/leveling-up.md"
+    },
+    {
+      "aon_id": 2066,
+      "title": "Golarion and the Inner Sea",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/golarion-and-the-inner-sea.md"
+    },
+    {
+      "aon_id": 2071,
+      "title": "Religion",
+      "book": "Player Core",
+      "path": "player-core/chapter-1-introduction/religion.md"
+    },
+    {
+      "aon_id": 2074,
+      "title": "Chapter 2: Ancestries & Backgrounds",
+      "book": "Player Core",
+      "path": "player-core/chapter-2-ancestries-backgrounds/index.md"
+    },
+    {
+      "aon_id": 2075,
+      "title": "Ancestry Entries",
+      "book": "Player Core",
+      "path": "player-core/chapter-2-ancestries-backgrounds/ancestry-entries.md"
+    },
+    {
+      "aon_id": 2085,
+      "title": "Versatile Heritages",
+      "book": "Player Core",
+      "path": "player-core/chapter-2-ancestries-backgrounds/versatile-heritages.md"
+    },
+    {
+      "aon_id": 2093,
+      "title": "Mixed Ancestry",
+      "book": "Player Core",
+      "path": "player-core/chapter-2-ancestries-backgrounds/mixed-ancestry.md"
+    },
+    {
+      "aon_id": 2094,
+      "title": "Backgrounds",
+      "book": "Player Core",
+      "path": "player-core/chapter-2-ancestries-backgrounds/backgrounds.md"
+    },
+    {
+      "aon_id": 2095,
+      "title": "Languages",
+      "book": "Player Core",
+      "path": "player-core/chapter-2-ancestries-backgrounds/languages.md"
+    },
+    {
+      "aon_id": 2098,
+      "title": "Chapter 3: Classes",
+      "book": "Player Core",
+      "path": "player-core/chapter-3-classes/index.md"
+    },
+    {
+      "aon_id": 2099,
+      "title": "Reading Class Entries",
+      "book": "Player Core",
+      "path": "player-core/chapter-3-classes/reading-class-entries.md"
+    },
+    {
+      "aon_id": 2112,
+      "title": "Companions",
+      "book": "Player Core",
+      "path": "player-core/chapter-3-classes/companions.md"
+    },
+    {
+      "aon_id": 2127,
+      "title": "Archetypes",
+      "book": "Player Core",
+      "path": "player-core/chapter-3-classes/archetypes.md"
+    },
+    {
+      "aon_id": 2134,
+      "title": "Chapter 4: Skills",
+      "book": "Player Core",
+      "path": "player-core/chapter-4-skills/index.md"
+    },
+    {
+      "aon_id": 2135,
+      "title": "Key Attribute",
+      "book": "Player Core",
+      "path": "player-core/chapter-4-skills/key-attribute.md"
+    },
+    {
+      "aon_id": 2136,
+      "title": "Skill Actions",
+      "book": "Player Core",
+      "path": "player-core/chapter-4-skills/skill-actions.md"
+    },
+    {
+      "aon_id": 2137,
+      "title": "Skill Checks and DCs",
+      "book": "Player Core",
+      "path": "player-core/chapter-4-skills/skill-checks-and-dcs.md"
+    },
+    {
+      "aon_id": 2141,
+      "title": "General Skill Actions",
+      "book": "Player Core",
+      "path": "player-core/chapter-4-skills/general-skill-actions.md"
+    },
+    {
+      "aon_id": 2142,
+      "title": "Chapter 5: Feats",
+      "book": "Player Core",
+      "path": "player-core/chapter-5-feats.md"
+    },
+    {
+      "aon_id": 2143,
+      "title": "Chapter 6: Equipment",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/index.md"
+    },
+    {
+      "aon_id": 2144,
+      "title": "Coins and Currency",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/coins-and-currency.md"
+    },
+    {
+      "aon_id": 2146,
+      "title": "Price",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/price.md"
+    },
+    {
+      "aon_id": 2147,
+      "title": "Item Level",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/item-level.md"
+    },
+    {
+      "aon_id": 2148,
+      "title": "Carrying Items",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/carrying-items.md"
+    },
+    {
+      "aon_id": 2153,
+      "title": "Bulk",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/bulk.md"
+    },
+    {
+      "aon_id": 2160,
+      "title": "Item Damage",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/item-damage.md"
+    },
+    {
+      "aon_id": 2162,
+      "title": "Shoddy Items",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/shoddy-items.md"
+    },
+    {
+      "aon_id": 2163,
+      "title": "Items and Sizes",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/items-and-sizes.md"
+    },
+    {
+      "aon_id": 2166,
+      "title": "Armor",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/armor.md"
+    },
+    {
+      "aon_id": 2180,
+      "title": "Shields",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/shields.md"
+    },
+    {
+      "aon_id": 2186,
+      "title": "Weapons",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/weapons.md"
+    },
+    {
+      "aon_id": 2204,
+      "title": "Gear",
+      "book": "Player Core",
+      "path": "player-core/chapter-6-equipment/gear.md"
+    },
+    {
+      "aon_id": 2221,
+      "title": "Chapter 7: Spells",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/index.md"
+    },
+    {
+      "aon_id": 2222,
+      "title": "Spell Slots",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/spell-slots.md"
+    },
+    {
+      "aon_id": 2227,
+      "title": "Cantrips",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/cantrips.md"
+    },
+    {
+      "aon_id": 2228,
+      "title": "Focus Spells",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/focus-spells.md"
+    },
+    {
+      "aon_id": 2232,
+      "title": "Innate Spells",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/innate-spells.md"
+    },
+    {
+      "aon_id": 2233,
+      "title": "Casting Spells",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/casting-spells.md"
+    },
+    {
+      "aon_id": 2237,
+      "title": "Ranges, Areas, and Targets",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/ranges-areas-and-targets.md"
+    },
+    {
+      "aon_id": 2242,
+      "title": "Durations",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/durations.md"
+    },
+    {
+      "aon_id": 2246,
+      "title": "Defenses",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/defenses.md"
+    },
+    {
+      "aon_id": 2248,
+      "title": "Spell Attacks",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/spell-attacks.md"
+    },
+    {
+      "aon_id": 2249,
+      "title": "Identifying Spells",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/identifying-spells.md"
+    },
+    {
+      "aon_id": 2250,
+      "title": "Counteracting",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/counteracting.md"
+    },
+    {
+      "aon_id": 2251,
+      "title": "Hostile Actions",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/hostile-actions.md"
+    },
+    {
+      "aon_id": 2252,
+      "title": "Setting Triggers",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/setting-triggers.md"
+    },
+    {
+      "aon_id": 2253,
+      "title": "Walls",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/walls.md"
+    },
+    {
+      "aon_id": 2254,
+      "title": "Reading Spells",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/reading-spells.md"
+    },
+    {
+      "aon_id": 2255,
+      "title": "Rituals",
+      "book": "Player Core",
+      "path": "player-core/chapter-7-spells/rituals.md"
+    },
+    {
+      "aon_id": 2263,
+      "title": "Chapter 8: Playing the Game",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/index.md"
+    },
+    {
+      "aon_id": 2264,
+      "title": "Making Choices",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/making-choices.md"
+    },
+    {
+      "aon_id": 2265,
+      "title": "The Pathfinder Baseline",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/the-pathfinder-baseline.md"
+    },
+    {
+      "aon_id": 2266,
+      "title": "Rules Overview",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/rules-overview.md"
+    },
+    {
+      "aon_id": 2278,
+      "title": "Checks",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/checks.md"
+    },
+    {
+      "aon_id": 2301,
+      "title": "Damage Rolls",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/damage-rolls.md"
+    },
+    {
+      "aon_id": 2312,
+      "title": "Immunity, Weakness, and Resistance",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance.md"
+    },
+    {
+      "aon_id": 2319,
+      "title": "Hit Points, Healing, and Dying",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/hit-points-healing-and-dying.md"
+    },
+    {
+      "aon_id": 2333,
+      "title": "Hero Points",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/hero-points.md"
+    },
+    {
+      "aon_id": 2335,
+      "title": "Actions",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/actions.md"
+    },
+    {
+      "aon_id": 2345,
+      "title": "Movement",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/movement.md"
+    },
+    {
+      "aon_id": 2377,
+      "title": "Effects",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/effects.md"
+    },
+    {
+      "aon_id": 2384,
+      "title": "Area",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/area.md"
+    },
+    {
+      "aon_id": 2389,
+      "title": "Afflictions",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/afflictions.md"
+    },
+    {
+      "aon_id": 2400,
+      "title": "Perception and Detection",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/perception-and-detection.md"
+    },
+    {
+      "aon_id": 2421,
+      "title": "Encounter Mode",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/encounter-mode.md"
+    },
+    {
+      "aon_id": 2440,
+      "title": "Exploration Mode",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/exploration-mode.md"
+    },
+    {
+      "aon_id": 2444,
+      "title": "Downtime Mode",
+      "book": "Player Core",
+      "path": "player-core/chapter-8-playing-the-game/downtime-mode.md"
+    },
+    {
+      "aon_id": 2455,
+      "title": "Conditions Appendix",
+      "book": "Player Core",
+      "path": "player-core/conditions-appendix/index.md"
+    },
+    {
+      "aon_id": 2456,
+      "title": "Condition Values",
+      "book": "Player Core",
+      "path": "player-core/conditions-appendix/condition-values.md"
+    },
+    {
+      "aon_id": 2457,
+      "title": "Overriding Conditions",
+      "book": "Player Core",
+      "path": "player-core/conditions-appendix/overriding-conditions.md"
+    },
+    {
+      "aon_id": 2460,
+      "title": "Introduction",
+      "book": "GM Core",
+      "path": "gm-core/introduction/index.md"
+    },
+    {
+      "aon_id": 2461,
+      "title": "The Game Master",
+      "book": "GM Core",
+      "path": "gm-core/introduction/the-game-master.md"
+    },
+    {
+      "aon_id": 2462,
+      "title": "How to Use This Book",
+      "book": "GM Core",
+      "path": "gm-core/introduction/how-to-use-this-book.md"
+    },
+    {
+      "aon_id": 2463,
+      "title": "Choosing Your Tools",
+      "book": "GM Core",
+      "path": "gm-core/introduction/choosing-your-tools.md"
+    },
+    {
+      "aon_id": 2468,
+      "title": "Chapter 1: Running the Game",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/index.md"
+    },
+    {
+      "aon_id": 2469,
+      "title": "A Welcoming Environment",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/a-welcoming-environment.md"
+    },
+    {
+      "aon_id": 2473,
+      "title": "Preparing Adventures",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/preparing-adventures.md"
+    },
+    {
+      "aon_id": 2477,
+      "title": "Character Creation",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/character-creation.md"
+    },
+    {
+      "aon_id": 2479,
+      "title": "Planning a Session",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/planning-a-session.md"
+    },
+    {
+      "aon_id": 2480,
+      "title": "Running a Session",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/running-a-session.md"
+    },
+    {
+      "aon_id": 2496,
+      "title": "Special Considerations",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/special-considerations.md"
+    },
+    {
+      "aon_id": 2538,
+      "title": "Running Encounters",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/running-encounters.md"
+    },
+    {
+      "aon_id": 2573,
+      "title": "Running Exploration",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/running-exploration.md"
+    },
+    {
+      "aon_id": 2604,
+      "title": "Running Downtime",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/running-downtime.md"
+    },
+    {
+      "aon_id": 2627,
+      "title": "Difficulty Classes",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/difficulty-classes.md"
+    },
+    {
+      "aon_id": 2647,
+      "title": "Rewards",
+      "book": "GM Core",
+      "path": "gm-core/chapter-1-running-the-game/rewards.md"
+    },
+    {
+      "aon_id": 2665,
+      "title": "Chapter 2: Building Games",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/index.md"
+    },
+    {
+      "aon_id": 2666,
+      "title": "To Create or Adapt",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/to-create-or-adapt.md"
+    },
+    {
+      "aon_id": 2667,
+      "title": "Scope of Changes",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/scope-of-changes.md"
+    },
+    {
+      "aon_id": 2668,
+      "title": "Campaign Structure",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/campaign-structure.md"
+    },
+    {
+      "aon_id": 2688,
+      "title": "Adventure Design",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/adventure-design.md"
+    },
+    {
+      "aon_id": 2715,
+      "title": "Encounter Design",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/encounter-design.md"
+    },
+    {
+      "aon_id": 2739,
+      "title": "Variant Rules",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/variant-rules.md"
+    },
+    {
+      "aon_id": 2765,
+      "title": "Afflictions",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/afflictions.md"
+    },
+    {
+      "aon_id": 2768,
+      "title": "Environment",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/environment.md"
+    },
+    {
+      "aon_id": 2846,
+      "title": "Hazards",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/hazards.md"
+    },
+    {
+      "aon_id": 2864,
+      "title": "Building Hazards",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/building-hazards.md"
+    },
+    {
+      "aon_id": 2874,
+      "title": "Building Creatures",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/building-creatures.md"
+    },
+    {
+      "aon_id": 2923,
+      "title": "Building Items",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/building-items.md"
+    },
+    {
+      "aon_id": 2952,
+      "title": "Building Worlds",
+      "book": "GM Core",
+      "path": "gm-core/chapter-2-building-games/building-worlds.md"
+    },
+    {
+      "aon_id": 2989,
+      "title": "Chapter 3: Age of Lost Omens",
+      "book": "GM Core",
+      "path": "gm-core/chapter-3-age-of-lost-omens/index.md"
+    },
+    {
+      "aon_id": 2990,
+      "title": "History",
+      "book": "GM Core",
+      "path": "gm-core/chapter-3-age-of-lost-omens/history.md"
+    },
+    {
+      "aon_id": 2991,
+      "title": "The Inner Sea Region",
+      "book": "GM Core",
+      "path": "gm-core/chapter-3-age-of-lost-omens/the-inner-sea-region.md"
+    },
+    {
+      "aon_id": 2992,
+      "title": "Beyond the Inner Sea",
+      "book": "GM Core",
+      "path": "gm-core/chapter-3-age-of-lost-omens/beyond-the-inner-sea.md"
+    },
+    {
+      "aon_id": 2995,
+      "title": "The Great Beyond",
+      "book": "GM Core",
+      "path": "gm-core/chapter-3-age-of-lost-omens/the-great-beyond.md"
+    },
+    {
+      "aon_id": 2996,
+      "title": "Nations",
+      "book": "GM Core",
+      "path": "gm-core/chapter-3-age-of-lost-omens/nations.md"
+    },
+    {
+      "aon_id": 2999,
+      "title": "Settlements",
+      "book": "GM Core",
+      "path": "gm-core/chapter-3-age-of-lost-omens/settlements.md"
+    },
+    {
+      "aon_id": 3014,
+      "title": "The Planes",
+      "book": "GM Core",
+      "path": "gm-core/chapter-3-age-of-lost-omens/the-planes.md"
+    },
+    {
+      "aon_id": 3026,
+      "title": "Chapter 4: Subsystems",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/index.md"
+    },
+    {
+      "aon_id": 3027,
+      "title": "Deciding to Use a Subsystem",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/deciding-to-use-a-subsystem.md"
+    },
+    {
+      "aon_id": 3028,
+      "title": "Victory Points",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/victory-points.md"
+    },
+    {
+      "aon_id": 3040,
+      "title": "Influence",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/influence.md"
+    },
+    {
+      "aon_id": 3045,
+      "title": "Research",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/research.md"
+    },
+    {
+      "aon_id": 3049,
+      "title": "Chases",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/chases.md"
+    },
+    {
+      "aon_id": 3059,
+      "title": "Infiltration",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/infiltration.md"
+    },
+    {
+      "aon_id": 3072,
+      "title": "Reputation",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/reputation.md"
+    },
+    {
+      "aon_id": 3084,
+      "title": "Duels",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/duels.md"
+    },
+    {
+      "aon_id": 3096,
+      "title": "Leadership",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/leadership.md"
+    },
+    {
+      "aon_id": 3103,
+      "title": "Hexploration",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/hexploration.md"
+    },
+    {
+      "aon_id": 3116,
+      "title": "Vehicles",
+      "book": "GM Core",
+      "path": "gm-core/chapter-4-subsystems/vehicles.md"
+    },
+    {
+      "aon_id": 3135,
+      "title": "Chapter 5: Treasure Trove",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/index.md"
+    },
+    {
+      "aon_id": 3136,
+      "title": "Using Items",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/using-items.md"
+    },
+    {
+      "aon_id": 3137,
+      "title": "Constant Abilities",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/constant-abilities.md"
+    },
+    {
+      "aon_id": 3138,
+      "title": "Investing Magic Items",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/investing-magic-items.md"
+    },
+    {
+      "aon_id": 3139,
+      "title": "Activating Items",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/activating-items.md"
+    },
+    {
+      "aon_id": 3147,
+      "title": "Reading Items",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/reading-items.md"
+    },
+    {
+      "aon_id": 3157,
+      "title": "Crafting Items",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/crafting-items.md"
+    },
+    {
+      "aon_id": 3160,
+      "title": "Important Items",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/important-items.md"
+    },
+    {
+      "aon_id": 3161,
+      "title": "Armor & Armaments",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/armor-armaments.md"
+    },
+    {
+      "aon_id": 3180,
+      "title": "Alchemy",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/alchemy.md"
+    },
+    {
+      "aon_id": 3188,
+      "title": "Materials",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/materials.md"
+    },
+    {
+      "aon_id": 3192,
+      "title": "Momentary Magic",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/momentary-magic.md"
+    },
+    {
+      "aon_id": 3195,
+      "title": "Oils",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/oils.md"
+    },
+    {
+      "aon_id": 3196,
+      "title": "Potions",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/potions.md"
+    },
+    {
+      "aon_id": 3197,
+      "title": "Scrolls",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/scrolls.md"
+    },
+    {
+      "aon_id": 3203,
+      "title": "Talismans",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/talismans.md"
+    },
+    {
+      "aon_id": 3206,
+      "title": "Wondrous Consumables",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/wondrous-consumables.md"
+    },
+    {
+      "aon_id": 3207,
+      "title": "Trappings of Power",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/trappings-of-power.md"
+    },
+    {
+      "aon_id": 3227,
+      "title": "Gems & Art Objects",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/gems-art-objects.md"
+    },
+    {
+      "aon_id": 3230,
+      "title": "Artifacts",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/artifacts.md"
+    },
+    {
+      "aon_id": 3235,
+      "title": "Intelligent Items",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/intelligent-items.md"
+    },
+    {
+      "aon_id": 3245,
+      "title": "Cursed Items",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/cursed-items.md"
+    },
+    {
+      "aon_id": 3248,
+      "title": "Relics",
+      "book": "GM Core",
+      "path": "gm-core/chapter-5-treasure-trove/relics.md"
+    },
+    {
+      "aon_id": 3258,
+      "title": "Introduction",
+      "book": "Monster Core",
+      "path": "monster-core/introduction/index.md"
+    },
+    {
+      "aon_id": 3259,
+      "title": "Playing Creatures",
+      "book": "Monster Core",
+      "path": "monster-core/introduction/playing-creatures.md"
+    },
+    {
+      "aon_id": 3262,
+      "title": "Adjusting Creatures",
+      "book": "Monster Core",
+      "path": "monster-core/introduction/adjusting-creatures.md"
+    },
+    {
+      "aon_id": 3315,
+      "title": "Snares",
+      "book": "Player Core 2",
+      "path": "player-core-2/snares/index.md"
+    },
+    {
+      "aon_id": 3316,
+      "title": "Crafting Snares",
+      "book": "Player Core 2",
+      "path": "player-core-2/snares/crafting-snares.md"
+    },
+    {
+      "aon_id": 3317,
+      "title": "Detecting Snares",
+      "book": "Player Core 2",
+      "path": "player-core-2/snares/detecting-snares.md"
+    },
+    {
+      "aon_id": 3318,
+      "title": "Triggering Snares",
+      "book": "Player Core 2",
+      "path": "player-core-2/snares/triggering-snares.md"
+    },
+    {
+      "aon_id": 3319,
+      "title": "Disabling Snares",
+      "book": "Player Core 2",
+      "path": "player-core-2/snares/disabling-snares.md"
+    },
+    {
+      "aon_id": 3355,
+      "title": "Introduction",
+      "book": "NPC Core",
+      "path": "npc-core/introduction/index.md"
+    },
+    {
+      "aon_id": 3356,
+      "title": "Adjusting Creatures",
+      "book": "NPC Core",
+      "path": "npc-core/introduction/adjusting-creatures.md"
+    },
+    {
+      "aon_id": 3363,
+      "title": "Chapter 1: NPC Gallery",
+      "book": "NPC Core",
+      "path": "npc-core/chapter-1-npc-gallery/index.md"
+    },
+    {
+      "aon_id": 3364,
+      "title": "Troops",
+      "book": "NPC Core",
+      "path": "npc-core/chapter-1-npc-gallery/troops.md"
+    },
+    {
+      "aon_id": 3369,
+      "title": "Ancestry Adjustments",
+      "book": "NPC Core",
+      "path": "npc-core/chapter-1-npc-gallery/ancestry-adjustments.md"
+    },
+    {
+      "aon_id": 3367,
+      "title": "Chapter 2: Ancestry NPCs",
+      "book": "NPC Core",
+      "path": "npc-core/chapter-2-ancestry-npcs/index.md"
+    },
+    {
+      "aon_id": 3368,
+      "title": "Crossover Ancestry NPCs",
+      "book": "NPC Core",
+      "path": "npc-core/chapter-2-ancestry-npcs/crossover-ancestry-npcs.md"
+    },
+    {
+      "aon_id": 3370,
+      "title": "Creature Companions",
+      "book": "NPC Core",
+      "path": "npc-core/creature-companions/index.md"
+    },
+    {
+      "aon_id": 3371,
+      "title": "Pets and Familiars",
+      "book": "NPC Core",
+      "path": "npc-core/creature-companions/pets-and-familiars.md"
+    },
+    {
+      "aon_id": 3379,
+      "title": "Animal Companions",
+      "book": "NPC Core",
+      "path": "npc-core/creature-companions/animal-companions.md"
+    },
+    {
+      "aon_id": 3382,
+      "title": "Eidolons",
+      "book": "NPC Core",
+      "path": "npc-core/creature-companions/eidolons.md"
+    },
+    {
+      "aon_id": 3383,
+      "title": "Themed Spell Lists",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/index.md"
+    },
+    {
+      "aon_id": 3384,
+      "title": "Animalist",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/animalist.md"
+    },
+    {
+      "aon_id": 3385,
+      "title": "Conjurer",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/conjurer.md"
+    },
+    {
+      "aon_id": 3386,
+      "title": "Earthkeeper",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/earthkeeper.md"
+    },
+    {
+      "aon_id": 3387,
+      "title": "Eldritch Occultist",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/eldritch-occultist.md"
+    },
+    {
+      "aon_id": 3388,
+      "title": "Hierophant",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/hierophant.md"
+    },
+    {
+      "aon_id": 3389,
+      "title": "Magus",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/magus.md"
+    },
+    {
+      "aon_id": 3390,
+      "title": "Mentalist",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/mentalist.md"
+    },
+    {
+      "aon_id": 3391,
+      "title": "Necromancer",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/necromancer.md"
+    },
+    {
+      "aon_id": 3392,
+      "title": "Pyromancer",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/pyromancer.md"
+    },
+    {
+      "aon_id": 3393,
+      "title": "Stormcaller",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/stormcaller.md"
+    },
+    {
+      "aon_id": 3394,
+      "title": "Warder",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/warder.md"
+    },
+    {
+      "aon_id": 3395,
+      "title": "Warrior of Faith",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/warrior-of-faith.md"
+    },
+    {
+      "aon_id": 3396,
+      "title": "War Mage",
+      "book": "NPC Core",
+      "path": "npc-core/themed-spell-lists/war-mage.md"
+    },
+    {
+      "aon_id": 3397,
+      "title": "Relationships and Advancement",
+      "book": "NPC Core",
+      "path": "npc-core/relationships-and-advancement/index.md"
+    },
+    {
+      "aon_id": 3398,
+      "title": "Connection Subsystem",
+      "book": "NPC Core",
+      "path": "npc-core/relationships-and-advancement/connection-subsystem.md"
+    },
+    {
+      "aon_id": 3412,
+      "title": "NPC Advancement",
+      "book": "NPC Core",
+      "path": "npc-core/relationships-and-advancement/npc-advancement.md"
+    },
+    {
+      "aon_id": 1993,
+      "title": "Elemental Companions",
+      "book": "Rage of Elements",
+      "path": "rage-of-elements/elemental-companions.md"
+    },
+    {
+      "aon_id": 3269,
+      "title": "Special Ancestry Rules",
+      "book": "Howl of the Wild",
+      "path": "howl-of-the-wild/special-ancestry-rules/index.md"
+    },
+    {
+      "aon_id": 3270,
+      "title": "Large PCs",
+      "book": "Howl of the Wild",
+      "path": "howl-of-the-wild/special-ancestry-rules/large-pcs.md"
+    },
+    {
+      "aon_id": 3271,
+      "title": "Tiny PCs",
+      "book": "Howl of the Wild",
+      "path": "howl-of-the-wild/special-ancestry-rules/tiny-pcs.md"
+    },
+    {
+      "aon_id": 3272,
+      "title": "Riding PCs",
+      "book": "Howl of the Wild",
+      "path": "howl-of-the-wild/special-ancestry-rules/riding-pcs.md"
+    },
+    {
+      "aon_id": 3273,
+      "title": "Aquatic PCs",
+      "book": "Howl of the Wild",
+      "path": "howl-of-the-wild/special-ancestry-rules/aquatic-pcs.md"
+    },
+    {
+      "aon_id": 3274,
+      "title": "Flying PCs",
+      "book": "Howl of the Wild",
+      "path": "howl-of-the-wild/special-ancestry-rules/flying-pcs.md"
+    },
+    {
+      "aon_id": 3275,
+      "title": "Grafting Rules",
+      "book": "Howl of the Wild",
+      "path": "howl-of-the-wild/grafting-rules/index.md"
+    },
+    {
+      "aon_id": 3277,
+      "title": "Implanting a Graft",
+      "book": "Howl of the Wild",
+      "path": "howl-of-the-wild/grafting-rules/implanting-a-graft.md"
+    },
+    {
+      "aon_id": 3278,
+      "title": "Damaging a Graft",
+      "book": "Howl of the Wild",
+      "path": "howl-of-the-wild/grafting-rules/damaging-a-graft.md"
+    },
+    {
+      "aon_id": 3279,
+      "title": "The Graft Trait",
+      "book": "Howl of the Wild",
+      "path": "howl-of-the-wild/grafting-rules/the-graft-trait.md"
+    },
+    {
+      "aon_id": 3320,
+      "title": "Mythic Rules",
+      "book": "War of Immortals",
+      "path": "war-of-immortals/mythic-rules/index.md"
+    },
+    {
+      "aon_id": 3321,
+      "title": "Mythic Characters",
+      "book": "War of Immortals",
+      "path": "war-of-immortals/mythic-rules/mythic-characters.md"
+    },
+    {
+      "aon_id": 3329,
+      "title": "Mythic Progression",
+      "book": "War of Immortals",
+      "path": "war-of-immortals/mythic-rules/mythic-progression.md"
+    },
+    {
+      "aon_id": 3332,
+      "title": "Designing Mythic Encounters",
+      "book": "War of Immortals",
+      "path": "war-of-immortals/mythic-rules/designing-mythic-encounters.md"
+    },
+    {
+      "aon_id": 3339,
+      "title": "Mythic Runes",
+      "book": "War of Immortals",
+      "path": "war-of-immortals/mythic-rules/mythic-runes.md"
+    },
+    {
+      "aon_id": 3340,
+      "title": "Mythic Monster Templates",
+      "book": "War of Immortals",
+      "path": "war-of-immortals/mythic-rules/mythic-monster-templates.md"
+    },
+    {
+      "aon_id": 3343,
+      "title": "Mythic Variant Rules",
+      "book": "War of Immortals Alternate Mythic Rules",
+      "path": "war-of-immortals-alternate-mythic-rules/mythic-variant-rules/index.md"
+    },
+    {
+      "aon_id": 3344,
+      "title": "Mixed Play",
+      "book": "War of Immortals Alternate Mythic Rules",
+      "path": "war-of-immortals-alternate-mythic-rules/mythic-variant-rules/mixed-play.md"
+    },
+    {
+      "aon_id": 3347,
+      "title": "Alternate Mythic Progression",
+      "book": "War of Immortals Alternate Mythic Rules",
+      "path": "war-of-immortals-alternate-mythic-rules/mythic-variant-rules/alternate-mythic-progression.md"
+    },
+    {
+      "aon_id": 1587,
+      "title": "Introduction",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/introduction/index.md"
+    },
+    {
+      "aon_id": 1635,
+      "title": "Gears, Guns, or Both",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/introduction/gears-guns-or-both.md"
+    },
+    {
+      "aon_id": 1636,
+      "title": "How to Use this Book",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/introduction/how-to-use-this-book.md"
+    },
+    {
+      "aon_id": 1638,
+      "title": "World-Building and Tone",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/introduction/world-building-and-tone.md"
+    },
+    {
+      "aon_id": 1599,
+      "title": "Gears Characters",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/gears-characters/index.md"
+    },
+    {
+      "aon_id": 1600,
+      "title": "Construct Companions",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/gears-characters/construct-companions.md"
+    },
+    {
+      "aon_id": 1615,
+      "title": "Gears Character Options",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/gears-characters/gears-character-options.md"
+    },
+    {
+      "aon_id": 1616,
+      "title": "Gears Equipment",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/gears-equipment/index.md"
+    },
+    {
+      "aon_id": 1617,
+      "title": "Three Innovations",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/gears-equipment/three-innovations.md"
+    },
+    {
+      "aon_id": 1621,
+      "title": "Gadgets",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/gears-equipment/gadgets.md"
+    },
+    {
+      "aon_id": 1622,
+      "title": "Siege Weapons",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/gears-equipment/siege-weapons.md"
+    },
+    {
+      "aon_id": 1633,
+      "title": "Mobility Devices",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/gears-equipment/mobility-devices.md"
+    },
+    {
+      "aon_id": 1646,
+      "title": "Guns Characters",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/guns-characters/index.md"
+    },
+    {
+      "aon_id": 1647,
+      "title": "Character Options",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/guns-characters/character-options.md"
+    },
+    {
+      "aon_id": 1648,
+      "title": "Guns Equipment",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/guns-equipment/index.md"
+    },
+    {
+      "aon_id": 1649,
+      "title": "Classic Firearms",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/guns-equipment/classic-firearms.md"
+    },
+    {
+      "aon_id": 1651,
+      "title": "Fantasy Firearms",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/guns-equipment/fantasy-firearms.md"
+    },
+    {
+      "aon_id": 1656,
+      "title": "Black Powder Siege Weapons",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/guns-equipment/black-powder-siege-weapons.md"
+    },
+    {
+      "aon_id": 1658,
+      "title": "Customization Options",
+      "book": "Guns & Gears (Remastered)",
+      "path": "guns-gears-remastered/guns-equipment/customization-options.md"
+    },
+    {
+      "aon_id": 1904,
+      "title": "Alchemy Unleashed",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/alchemy-unleashed/index.md"
+    },
+    {
+      "aon_id": 1905,
+      "title": "Alchemical Foods",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/alchemy-unleashed/alchemical-foods.md"
+    },
+    {
+      "aon_id": 1906,
+      "title": "Bottled Monstrosities",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/alchemy-unleashed/bottled-monstrosities.md"
+    },
+    {
+      "aon_id": 1907,
+      "title": "Momentary Magic",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/momentary-magic/index.md"
+    },
+    {
+      "aon_id": 1908,
+      "title": "Missive",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/momentary-magic/missive.md"
+    },
+    {
+      "aon_id": 1911,
+      "title": "Spellguns",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/momentary-magic/spellguns.md"
+    },
+    {
+      "aon_id": 1912,
+      "title": "Trappings of Power",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/trappings-of-power/index.md"
+    },
+    {
+      "aon_id": 1913,
+      "title": "Coda Instruments",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/trappings-of-power/coda-instruments.md"
+    },
+    {
+      "aon_id": 1958,
+      "title": "Animal Companion Mobility Aids",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/trappings-of-power/animal-companion-mobility-aids.md"
+    },
+    {
+      "aon_id": 1959,
+      "title": "Tails",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/trappings-of-power/tails.md"
+    },
+    {
+      "aon_id": 1914,
+      "title": "Secrets of Crafting",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/secrets-of-crafting/index.md"
+    },
+    {
+      "aon_id": 1955,
+      "title": "Crafting Alternate Rules",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/secrets-of-crafting/crafting-alternate-rules.md"
+    },
+    {
+      "aon_id": 1956,
+      "title": "Nature Crafting",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/secrets-of-crafting/nature-crafting.md"
+    },
+    {
+      "aon_id": 1957,
+      "title": "Story-Based Crafting",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/secrets-of-crafting/story-based-crafting.md"
+    },
+    {
+      "aon_id": 1960,
+      "title": "Game Master's Trove",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/game-master-s-trove/index.md"
+    },
+    {
+      "aon_id": 1961,
+      "title": "Archetype Artifacts",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/game-master-s-trove/archetype-artifacts.md"
+    },
+    {
+      "aon_id": 1962,
+      "title": "Blighted Boons",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/game-master-s-trove/blighted-boons.md"
+    },
+    {
+      "aon_id": 1970,
+      "title": "Set Relics",
+      "book": "Treasure Vault (Remastered)",
+      "path": "treasure-vault-remastered/game-master-s-trove/set-relics.md"
+    },
+    {
+      "aon_id": 3420,
+      "title": "Whetstones",
+      "book": "Battlecry!",
+      "path": "battlecry/whetstones.md"
+    },
+    {
+      "aon_id": 3421,
+      "title": "Banners",
+      "book": "Battlecry!",
+      "path": "battlecry/banners.md"
+    },
+    {
+      "aon_id": 3422,
+      "title": "Followers",
+      "book": "Battlecry!",
+      "path": "battlecry/followers/index.md"
+    },
+    {
+      "aon_id": 3423,
+      "title": "Follower Actions",
+      "book": "Battlecry!",
+      "path": "battlecry/followers/follower-actions.md"
+    },
+    {
+      "aon_id": 3424,
+      "title": "Roleplaying Followers",
+      "book": "Battlecry!",
+      "path": "battlecry/followers/roleplaying-followers.md"
+    },
+    {
+      "aon_id": 3425,
+      "title": "Novice Followers",
+      "book": "Battlecry!",
+      "path": "battlecry/followers/novice-followers.md"
+    },
+    {
+      "aon_id": 3426,
+      "title": "Follower Types",
+      "book": "Battlecry!",
+      "path": "battlecry/followers/follower-types.md"
+    },
+    {
+      "aon_id": 3427,
+      "title": "Designing Troops",
+      "book": "Battlecry!",
+      "path": "battlecry/designing-troops.md"
+    },
+    {
+      "aon_id": 3428,
+      "title": "Genres of War",
+      "book": "Battlecry!",
+      "path": "battlecry/genres-of-war/index.md"
+    },
+    {
+      "aon_id": 3429,
+      "title": "War as a Backdrop",
+      "book": "Battlecry!",
+      "path": "battlecry/genres-of-war/war-as-a-backdrop.md"
+    },
+    {
+      "aon_id": 3430,
+      "title": "War on the Horizon",
+      "book": "Battlecry!",
+      "path": "battlecry/genres-of-war/war-on-the-horizon.md"
+    },
+    {
+      "aon_id": 3431,
+      "title": "On the Front Lines",
+      "book": "Battlecry!",
+      "path": "battlecry/genres-of-war/on-the-front-lines.md"
+    },
+    {
+      "aon_id": 3432,
+      "title": "Behind Enemy Lines",
+      "book": "Battlecry!",
+      "path": "battlecry/genres-of-war/behind-enemy-lines.md"
+    },
+    {
+      "aon_id": 3433,
+      "title": "How to Have a War",
+      "book": "Battlecry!",
+      "path": "battlecry/how-to-have-a-war/index.md"
+    },
+    {
+      "aon_id": 3434,
+      "title": "What Kind of War?",
+      "book": "Battlecry!",
+      "path": "battlecry/how-to-have-a-war/what-kind-of-war.md"
+    },
+    {
+      "aon_id": 3435,
+      "title": "Where Are the Heroes?",
+      "book": "Battlecry!",
+      "path": "battlecry/how-to-have-a-war/where-are-the-heroes.md"
+    },
+    {
+      "aon_id": 3436,
+      "title": "What Do the Heroes Do?",
+      "book": "Battlecry!",
+      "path": "battlecry/how-to-have-a-war/what-do-the-heroes-do.md"
+    },
+    {
+      "aon_id": 3437,
+      "title": "Onward to Victory (Points)!",
+      "book": "Battlecry!",
+      "path": "battlecry/how-to-have-a-war/onward-to-victory-points.md"
+    },
+    {
+      "aon_id": 3438,
+      "title": "Being in Command",
+      "book": "Battlecry!",
+      "path": "battlecry/how-to-have-a-war/being-in-command.md"
+    },
+    {
+      "aon_id": 3477,
+      "title": "Downtime",
+      "book": "Battlecry!",
+      "path": "battlecry/how-to-have-a-war/downtime.md"
+    },
+    {
+      "aon_id": 3439,
+      "title": "Skirmish Units",
+      "book": "Battlecry!",
+      "path": "battlecry/skirmish-units/index.md"
+    },
+    {
+      "aon_id": 3440,
+      "title": "Shared Space and Movement",
+      "book": "Battlecry!",
+      "path": "battlecry/skirmish-units/shared-space-and-movement.md"
+    },
+    {
+      "aon_id": 3443,
+      "title": "Five Actions",
+      "book": "Battlecry!",
+      "path": "battlecry/skirmish-units/five-actions.md"
+    },
+    {
+      "aon_id": 3444,
+      "title": "Boosted Morale",
+      "book": "Battlecry!",
+      "path": "battlecry/skirmish-units/boosted-morale.md"
+    },
+    {
+      "aon_id": 3445,
+      "title": "Troops in Skirmishes",
+      "book": "Battlecry!",
+      "path": "battlecry/skirmish-units/troops-in-skirmishes.md"
+    },
+    {
+      "aon_id": 3453,
+      "title": "Building Skirmish Encounters",
+      "book": "Battlecry!",
+      "path": "battlecry/skirmish-units/building-skirmish-encounters.md"
+    },
+    {
+      "aon_id": 3469,
+      "title": "Customizing Troops",
+      "book": "Battlecry!",
+      "path": "battlecry/skirmish-units/customizing-troops.md"
+    },
+    {
+      "aon_id": 3470,
+      "title": "Quick Skirmish Groups",
+      "book": "Battlecry!",
+      "path": "battlecry/skirmish-units/quick-skirmish-groups.md"
+    },
+    {
+      "aon_id": 3452,
+      "title": "Skirmish Bonds",
+      "book": "Battlecry!",
+      "path": "battlecry/skirmish-bonds.md"
+    },
+    {
+      "aon_id": 3478,
+      "title": "Skirmish Overview",
+      "book": "Battlecry!",
+      "path": "battlecry/skirmish-overview.md"
+    },
+    {
+      "aon_id": 3479,
+      "title": "Taking the Lead",
+      "book": "Battlecry!",
+      "path": "battlecry/taking-the-lead.md"
+    },
+    {
+      "aon_id": 3492,
+      "title": "Aftermath Feats",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/aftermath-feats.md"
+    },
+    {
+      "aon_id": 3493,
+      "title": "Cryptid Adjustments",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/cryptid-adjustments/index.md"
+    },
+    {
+      "aon_id": 3494,
+      "title": "Experimental Cryptids",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/cryptid-adjustments/experimental-cryptids.md"
+    },
+    {
+      "aon_id": 3495,
+      "title": "Mutant Cryptids",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/cryptid-adjustments/mutant-cryptids.md"
+    },
+    {
+      "aon_id": 3496,
+      "title": "Primeval Cryptid",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/cryptid-adjustments/primeval-cryptid.md"
+    },
+    {
+      "aon_id": 3497,
+      "title": "Rumored Cryptid",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/cryptid-adjustments/rumored-cryptid.md"
+    },
+    {
+      "aon_id": 3498,
+      "title": "Unseen Animal Companion",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/unseen-animal-companion.md"
+    },
+    {
+      "aon_id": 3499,
+      "title": "Secret Society Member",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/secret-society-member.md"
+    },
+    {
+      "aon_id": 3500,
+      "title": "Deviant Abilities",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/deviant-abilities/index.md"
+    },
+    {
+      "aon_id": 3501,
+      "title": "Acquiring a Deviant Ability",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/deviant-abilities/acquiring-a-deviant-ability.md"
+    },
+    {
+      "aon_id": 3504,
+      "title": "Building a Deviant Ability",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/deviant-abilities/building-a-deviant-ability.md"
+    },
+    {
+      "aon_id": 3505,
+      "title": "Deviant Classifications",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/deviant-abilities/deviant-classifications.md"
+    },
+    {
+      "aon_id": 3509,
+      "title": "Quirks",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/deviant-abilities/quirks.md"
+    },
+    {
+      "aon_id": 3510,
+      "title": "Apocryphal Domain Spells",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/apocryphal-domain-spells.md"
+    },
+    {
+      "aon_id": 3511,
+      "title": "Tempting Curses",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/tempting-curses.md"
+    },
+    {
+      "aon_id": 3512,
+      "title": "Bargained Contracts",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/bargained-contracts.md"
+    },
+    {
+      "aon_id": 3513,
+      "title": "Mindscape Statistics",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/mindscape-statistics.md"
+    },
+    {
+      "aon_id": 3514,
+      "title": "Psychic Duels",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/psychic-duels/index.md"
+    },
+    {
+      "aon_id": 3515,
+      "title": "Terms of the Duel",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/psychic-duels/terms-of-the-duel.md"
+    },
+    {
+      "aon_id": 3516,
+      "title": "Initiative and Dueling Actions",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/psychic-duels/initiative-and-dueling-actions.md"
+    },
+    {
+      "aon_id": 3517,
+      "title": "Attacks and Defenses",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/psychic-duels/attacks-and-defenses.md"
+    },
+    {
+      "aon_id": 3520,
+      "title": "Movement and Location",
+      "book": "Dark Archives (Remastered)",
+      "path": "dark-archives-remastered/psychic-duels/movement-and-location.md"
+    },
+    {
+      "aon_id": 3682,
+      "title": "Eidolons",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/eidolons/index.md"
+    },
+    {
+      "aon_id": 3683,
+      "title": "Proficiencies",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/eidolons/proficiencies.md"
+    },
+    {
+      "aon_id": 3684,
+      "title": "Attribute Modifiers and Defenses",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/eidolons/attribute-modifiers-and-defenses.md"
+    },
+    {
+      "aon_id": 3685,
+      "title": "Unarmed Attacks",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/eidolons/unarmed-attacks.md"
+    },
+    {
+      "aon_id": 3686,
+      "title": "Eidolon Spells",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/eidolons/eidolon-spells.md"
+    },
+    {
+      "aon_id": 3687,
+      "title": "Reading an Eidolon Entry",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/eidolons/reading-an-eidolon-entry.md"
+    },
+    {
+      "aon_id": 3688,
+      "title": "Soulforger",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/soulforger/index.md"
+    },
+    {
+      "aon_id": 3689,
+      "title": "Essence Powers",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/soulforger/essence-powers.md"
+    },
+    {
+      "aon_id": 3690,
+      "title": "Binding an Armament",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/soulforger/binding-an-armament.md"
+    },
+    {
+      "aon_id": 3692,
+      "title": "Soul Path",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/soulforger/soul-path.md"
+    },
+    {
+      "aon_id": 3695,
+      "title": "Casting Impossible Spells",
+      "book": "Impossible Magic",
+      "path": "impossible-magic/casting-impossible-spells.md"
+    }
+  ]
+}

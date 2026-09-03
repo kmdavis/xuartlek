@@ -1,0 +1,87 @@
+---
+obsidianUIMode: preview
+noteType: pf2eMonster
+aliases: "Ancient Resurrection Dragon"
+tags:
+  - pf2e/creature/level/17
+  - pf2e/creature/trait/divine
+  - pf2e/creature/trait/dragon
+  - pf2e/creature/trait/uncommon
+  - pf2e/creature/trait/huge
+statblock: inline
+name: "Ancient Resurrection Dragon"
+level: 17
+source: "Monster Core 2"
+aon_id: "creature-4362"
+aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4362"
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "MC2"
+name: "Ancient Resurrection Dragon"
+level: "Creature 17"
+size: "Huge"
+trait_01: "Divine"
+trait_02: "Dragon"
+trait_03: "Uncommon"
+modifier: 32
+perception:
+  - name: "Perception"
+    desc: "Perception +32; darkvision, scent (imprecise) 60 feet"
+languages: "Common, Draconic, Necril"
+skills:
+  - name: "Skills"
+    desc: "Acrobatics +28, Arcana +28, Athletics +33, Diplomacy +31, Medicine +33, Necromancy Lore +36, Religion +33, Stealth +30"
+abilityMods: [9, 5, 6, 5, 9, 6]
+ac: 39
+armorclass:
+  - name: "AC"
+    desc: "39; __Fort__: +28; __Ref__: +27; __Will__: +32"
+hp: 320
+health:
+  - name: "HP"
+    desc: "320; __Immunities__ death effects, paralyzed, sleep; __Resistances__ spirit 20"
+abilities_mid:
+  - name: "Risen Commander"
+    desc: "(divine) A resurrection dragon has a strong connection with its minions and can Sustain _summon undead_ or _invoke spirits_ as a free action once per turn. __Reawaken!__ ⬲ (divine, spirit, vitality)"
+  - name: "Trigger"
+    desc: "A living creature the resurrection dragon can see dies"
+  - name: "Effect"
+    desc: "The resurrection dragon uses divine and vital energy to retether the soul to its dead body. The willing creature is returned to life with half of their total Hit Points. A creature can be resurrected by this ability only once."
+  - name: "Siphon Life"
+    desc: "⬲ (divine, healing, vitality)"
+  - name: "Trigger"
+    desc: "A creature within 60 feet uses a healing effect that restores Hit Points"
+  - name: "Effect"
+    desc: "The resurrection dragon redirects vital energies away from the effect, minimizing its impact. The triggering effect results in the minimum amount on any dice rolls to restore Hit Points, and any flat values for restoring Hit Points (such as the additional Hit Points for a two-action _heal_ spell) are cut in half. The dragon then gains 3d8 temporary Hit Points that last for 1 round."
+speed: "50 feet, fly 200 feet"
+attacks:
+  - name: "Melee"
+    desc: "⬻ jaws +33 (Magical, reach 15 feet) __Damage__ 3d12+15 piercing plus 1d6 void"
+  - name: "Melee"
+    desc: "⬻ claw +33 (Agile, magical, reach 10 feet) __Damage__ 3d10+15 slashing"
+  - name: "Melee"
+    desc: "⬻ tail +31 (Magical, reach 20 feet) __Damage__ 3d12+15 bludgeoning"
+abilities_bot:
+  - name: "Draconic Frenzy"
+    desc: "⬺ The dragon makes two claw strikes and one tail strike in any order."
+  - name: "Draconic Momentum"
+    desc: "The dragon recharges their Soul Siphoning Breath whenever they score a critical hit with a Strike."
+  - name: "Necro Puppeteer"
+    desc: "⬺ (Divine, void) The dragon siphons energy into an undead creature, a dying creature, or a corpse they can see within 60 feet. The dragon moves the target creature 30 feet and causes it to unleash a wave of void energy in a 10-foot emanation, dealing 6d8 void damage (DC 32 basic Reflex save)."
+  - name: "Soul Siphoning Breath"
+    desc: "⬺ (Divine, void) The dragon unleashes a torrent of divine energy, dealing 16d6 void damage in a 50-foot cone (DC 38 basic Fortitude save) that draws the life force from creatures within. The dragon gains fast healing 15 until their Soul Siphoning Breath recharges. The resurrection dragon can't use Soul Siphoning Breath again for 1d4 rounds."
+spellcasting:
+  - name: "Divine Innate Spells"
+    desc: "DC 38 - __Cantrips (9th)__ Guidance, Stabilize, Void Warp - __4th__ Talking Corpse (at will) - __9th__ Harm (×2), Invoke Spirits (×2), Raise Dead, Summon Undead (at will) __Arise!__ (Divine, exploration, healing) The resurrection dragon uses their mastery over life energy to cast their own soul into the Boneyard and pull a willing creature's soul back to its body in a process that takes 1 hour. This has the effects of _raise dead_, except the maximum level of the target is 13th and the soul is tethered to the dragon's. Only one creature can be tethered to the dragon's soul at a time. If the creature and the dragon are no longer on the same plane or the dragon dies, the raised creature dies and can't be raised with Arise! again. The dragon can Dismiss the connection at any time. Doing so doesn't prevent the dragon from raising the creature with Arise! again. While raised in this way, the creature is still a valid target for _raise dead_, _resurrection_, and similar effects. Returning the creature to life in this way fully restores the creature, severing the connection to the dragon and allowing the dragon to establish a connection with a different creature."
+sourcebook: "_Monster Core 2_, page 130."
+```
+
+```encounter-table
+name: Ancient Resurrection Dragon
+creatures:
+  - 1: Ancient Resurrection Dragon
+```

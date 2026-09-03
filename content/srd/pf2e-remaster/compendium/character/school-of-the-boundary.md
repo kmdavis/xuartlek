@@ -1,0 +1,41 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-arcane-school
+tags:
+- compendium/src/pf2e-remaster/player-core
+aliases: ["School of the Boundary"]
+aon_id: "arcane-school-17"
+source: "Player Core"
+---
+
+# School of the Boundary  *Wizard Arcane School*
+
+Why use your magic to affect something as pedestrian as the physical world? Whether you studied at the College of Dimensional Studies in Katapesh or an underground school in haunted Ustalav, you've turned your magic past the Universe to the forces beyond, summoning spirits and shades, manipulating dimensions and planes, and treading in a place not meant for mortals.
+
+**Curriculum**
+- Cantrips:
+Telekinetic Hand, Void Warp
+- 1st:
+Grim Tendrils, Phantasmal Minion, Summon Undead
+- 2nd:
+Darkness, See the Unseen
+- 3rd:
+Bind Undead, Ghostly Weapon
+- 4th:
+Flicker, Translocate
+- 5th:
+Banishment, Invoke Spirits
+- 6th:
+Teleport, Vampiric Exsanguination
+- 7th:
+Eclipse Burst, Interplanar Teleport
+- 8th:
+Quandary, Unrelenting Observation
+- 9th:
+Massacre
+
+**School Spells**
+- Initial: Fortify Summoning
+- Advanced: Spiral of Horrors
+
+*Source: Player Core p. 199*

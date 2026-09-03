@@ -1,0 +1,20 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e-remaster/battlecry
+- trait/flourish
+- trait/guardian
+- feat/level/14
+aliases: ["Blanket Defense"]
+aon_id: "feat-7873"
+source: "Battlecry!"
+---
+
+# Blanket Defense  *Feat 14*  [>>>](rules/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
+
+`Flourish`  `Guardian`
+
+You become a bulwark against foes' attacks that target you and your allies. Raise a Shield. Until the start of your next turn or until you no longer have your shield raised, each ally that ends their turn adjacent to you gains the benefits of your raised shield. You can Shield Block a hit against any adjacent ally (each one costs you a reaction as normal). If you are wielding a tower shield, fortress shield, or another shield that grants a higher circumstance bonus to AC when you Take Cover behind it, any adjacent ally can Take Cover behind your shield to gain the increased bonus to Armor Class.
+
+*Source: Battlecry! p. 48*

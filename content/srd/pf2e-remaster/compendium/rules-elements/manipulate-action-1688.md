@@ -1,0 +1,15 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-action
+tags:
+- compendium/src/pf2e-remaster/treasure-vault-remastered
+aliases: ["(manipulate)"]
+aon_id: "action-1688"
+source: "Treasure Vault (Remastered)"
+---
+
+# (manipulate)
+
+**Activate** [<](rules/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (manipulate) **Trigger** You fail a check or attack; **Effect** Flip the coin. If it lands on the seraph side, you get a 12 on the die instead of what you rolled. If it lands on the fiend side, one of the eyes on the fiend closes. Either way, you're temporarily immune to _fortune's coin_ for 1 hour. When all seven eyes are closed, the coin vanishes into a puff of smoke, disappearing forever. This activation is a fortune effect, regardless of how the coin flip lands.
+
+*Source: Treasure Vault (Remastered) p. 114*

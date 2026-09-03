@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-class-feature
+tags:
+- compendium/src/pf2e-remaster/player-core-2
+- class-feature/level/19
+aliases: ["Bloodline Paragon"]
+aon_id: "class-feature-1000"
+source: "Player Core 2"
+---
+
+# Bloodline Paragon  *Class Feature 19*
+
+- **Class**: Sorcerer
+
+You have perfected the magic in your bloodline. Add two common 10th-rank spells of your tradition to your repertoire. You gain a single 10th-rank spell slot you can use to cast these spells, using sorcerer spellcasting. Unlike other spell slots, you don’t gain more 10th-rank spells as you level up, and they can’t be used for abilities that let you cast spells without expending spell slots or abilities that give you more spell slots. You can take the Bloodline Perfection sorcerer feat to gain a second slot.
+
+*Source: Player Core 2 p. 144*

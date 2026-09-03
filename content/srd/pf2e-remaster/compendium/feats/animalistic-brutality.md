@@ -1,0 +1,25 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e-remaster/player-core-2
+- trait/barbarian
+- trait/concentrate
+- trait/morph
+- trait/primal
+- trait/rage
+- feat/level/8
+aliases: ["Animalistic Brutality"]
+aon_id: "feat-5835"
+source: "Player Core 2"
+---
+
+# Animalistic Brutality  *Feat 8*  [>](rules/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+
+`Barbarian`  `Concentrate`  `Morph`  `Primal`  `Rage`
+
+- **Prerequisites**: animal instinct
+
+You deepen the connection into your animal instincts. Your unarmed attack from bestial rage gains one of the following traits until you stop raging: backswing, forceful, parry, razing, or sweep. You can't use this ability again until the next time you Rage. You can choose a different trait each time you use Animalistic Brutality
+
+*Source: Player Core 2 p. 80*

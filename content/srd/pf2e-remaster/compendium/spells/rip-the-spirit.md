@@ -1,0 +1,33 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-spell
+tags:
+- compendium/src/pf2e-remaster/impossible-magic
+- trait/death
+- trait/manipulate
+- trait/void
+- trait/negative
+- spell/level/5
+aliases: ["Rip the Spirit"]
+aon_id: "spell-2806"
+source: "Impossible Magic"
+---
+
+# Rip the Spirit  *Spell 5*  [?](rules/player-core/chapter-8-playing-the-game/actions#Actions "Varies")
+
+`Death`  `Manipulate`  `Void`  `Negative`
+
+- **Traditions**: Divine, Occult
+- **Range**: 30 feet
+- **Target**: 1 living creature
+- **Defense**: basic Fortitude
+
+You supernaturally rip the spirit from a living creature’s body, dooming the target to pain and death. The target takes 5d6 void damage, depending on its basic Fortitude save, and is also drained 1 if it fails its save. The spell’s effect is based on how many actions you spend when Casting the Spell.
+[>](rules/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") The spell targets one living creature in range.
+[>>](rules/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) The spell targets one living creature in range, and the damage is 10d6 void damage instead of 5d6.
+[>>>](rules/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (concentrate) The spell targets all living creatures in a 30-foot emanation.
+
+---
+**Heightened (+1)** The amount of damage increases by 1d6, or by 2d6 for the 2-action version.
+
+*Source: Impossible Magic p. 160*

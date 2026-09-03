@@ -1,0 +1,60 @@
+---
+obsidianUIMode: preview
+noteType: pf2eMonster
+aliases: "Sporeback Frog"
+tags:
+  - pf2e/creature/level/5
+  - pf2e/creature/trait/animal
+  - pf2e/creature/trait/large
+statblock: inline
+name: "Sporeback Frog"
+level: 5
+source: "Howl of the Wild"
+aon_id: "creature-3280"
+aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=3280"
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "HotW"
+name: "Sporeback Frog"
+level: "Creature 5"
+size: "Large"
+trait_01: "Animal"
+modifier: 12
+perception:
+  - name: "Perception"
+    desc: "Perception +12; low-light vision"
+skills:
+  - name: "Skills"
+    desc: "Acrobatics +10, Athletics +12, Stealth +13"
+abilityMods: [4, 3, 5, -4, 2, 1]
+ac: 21
+armorclass:
+  - name: "AC"
+    desc: "21; __Fort__: +15; __Ref__: +12; __Will__: +9"
+hp: 94
+health:
+  - name: "HP"
+    desc: "94; __Resistances__ poison 8; __Weaknesses__ fire 4"
+speed: "25 feet, burrow 20 feet"
+attacks:
+  - name: "Melee"
+    desc: "⬻ jaws +13 __Damage__ 2d8+6 piercing plus Grab"
+  - name: "Melee"
+    desc: "⬻ tongue +15 (reach 15 feet) __Damage__ seed spores"
+abilities_bot:
+  - name: "Seed Spores"
+    desc: "A creature hit by the sporeback frog's tongue Strike takes 1d6 persistent poison damage as fungal spores begin to grow."
+  - name: "Soporific Spores"
+    desc: "⬺ (Mental, Poison) The sporeback frog shakes the plants and fungi on its back until they emit a cloud of spores in a 20-foot emanation. All creatures in the area must succeed a DC 22 Fortitude save or become clumsy 2 and stupefied 2 for 1 minute (clumsy 3 and stupefied 3 on a critical failure). This ability can't be used again for 1d4 rounds."
+sourcebook: "_Howl of the Wild_, page 151."
+```
+
+```encounter-table
+name: Sporeback Frog
+creatures:
+  - 1: Sporeback Frog
+```

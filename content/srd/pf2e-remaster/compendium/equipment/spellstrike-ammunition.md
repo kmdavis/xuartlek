@@ -1,0 +1,97 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-equipment
+tags:
+- compendium/src/pf2e-remaster/gm-core
+- trait/consumable
+- trait/magical
+- equipment/level/3
+aliases: ["Spellstrike Ammunition"]
+aon_id: "equipment-2927"
+source: "GM Core"
+---
+
+# Spellstrike Ammunition  *Item 3+*
+
+`Consumable`  `Magical`
+
+- **Ammunition**: any
+- **Activate**: [>>](rules/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") Cast a Spell
+
+Mystic patterns create a magic reservoir within this ammunition. You activate _spellstrike ammunition_ by Casting a Spell on the ammunition. The spell must be of a spell rank the ammunition can hold, must take 1 or 2 actions to cast, and must be able to target a creature other than the caster. A creature hit by activated spellstrike ammunition is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.
+ The ammunition affects only the target hit, even if the spell would normally affect more than one target. If the spell requires a spell attack roll, use the result of your ranged attack roll to determine the degree of success of the spell. If the spell requires a save, the target attempts the save against your spell DC.
+ The maximum rank of spell the ammunition can hold determines its item level and Price.
+
+### Spellstrike Ammunition (Type I)
+
+**Price** 12 gp
+
+---
+
+**Maximum Spell Rank** 1st
+
+### Spellstrike Ammunition (Type II)
+
+**Price** 30 gp
+
+---
+
+**Maximum Spell Rank** 2nd
+
+### Spellstrike Ammunition (Type III)
+
+**Price** 70 gp
+
+---
+
+**Maximum Spell Rank** 3rd
+
+### Spellstrike Ammunition (Type IV)
+
+**Price** 150 gp
+
+---
+
+**Maximum Spell Rank** 4th
+
+### Spellstrike Ammunition (Type V)
+
+**Price** 300 gp
+
+---
+
+**Maximum Spell Rank** 5th
+
+### Spellstrike Ammunition (Type VI)
+
+**Price** 600 gp
+
+---
+
+**Maximum Spell Rank** 6th
+
+### Spellstrike Ammunition (Type VII)
+
+**Price** 1,300 gp
+
+---
+
+**Maximum Spell Rank** 7th
+
+### Spellstrike Ammunition (Type VIII)
+
+**Price** 3,000 gp
+
+---
+
+**Maximum Spell Rank** 8th
+
+### Spellstrike Ammunition (Type IX)
+
+**Price** 8,000 gp
+
+---
+
+**Maximum Spell Rank** 9th
+
+*Source: GM Core p. 256*

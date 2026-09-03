@@ -1,0 +1,84 @@
+---
+obsidianUIMode: preview
+noteType: pf2eMonster
+aliases: "Clockwork Dragon"
+tags:
+  - pf2e/creature/level/16
+  - pf2e/creature/trait/clockwork
+  - pf2e/creature/trait/construct
+  - pf2e/creature/trait/mindless
+  - pf2e/creature/trait/rare
+  - pf2e/creature/trait/huge
+statblock: inline
+name: "Clockwork Dragon"
+level: 16
+source: "Monster Core 2"
+aon_id: "creature-4297"
+aon_url: "https://2e.aonprd.com/Monsters.aspx?ID=4297"
+---
+
+```statblock
+columns: 2
+forcecolumns: true
+layout: Basic Pathfinder 2e Layout
+source: "MC2"
+name: "Clockwork Dragon"
+level: "Creature 16"
+size: "Huge"
+trait_01: "Clockwork"
+trait_02: "Construct"
+trait_03: "Mindless"
+trait_04: "Rare"
+modifier: 28
+perception:
+  - name: "Perception"
+    desc: "Perception +28; darkvision"
+skills:
+  - name: "Skills"
+    desc: "Acrobatics +29, Athletics +33"
+abilityMods: [9, 5, 5, -5, 4, -5]
+abilities_top:
+  - name: "Wind-Up"
+    desc: "1 week, DC 35, standby"
+ac: 39
+armorclass:
+  - name: "AC"
+    desc: "39; __Fort__: +30; __Ref__: +28; __Will__: +25"
+hp: 265
+health:
+  - name: "HP"
+    desc: "265; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; __Resistances__ physical 15 (except adamantine or orichalcum); __Weaknesses__ electricity 15, orichalcum 15"
+abilities_mid:
+  - name: "Self-Destruct"
+    desc: "⬲ A clockwork dragon must use this reaction unless specifically programmed otherwise by its creator"
+  - name: "Trigger"
+    desc: "The clockwork dragon is reduced to 0 Hit Points"
+  - name: "Effect"
+    desc: "The dragon screeches to a stop and emits a steady, loud ticking sound. At the beginning of what would have been its next turn, the dragon explodes, dealing 12d10 piercing damage in a 40-foot emanation (DC 37 basic Reflex save). An adjacent creature can cancel the self-destruct sequence by succeeding at a DC 37 Thievery check to Disable a Device."
+speed: "40 feet, fly 120 feet"
+attacks:
+  - name: "Melee"
+    desc: "⬻ adamantine jaws +33 (reach 15 feet) __Damage__ 3d12+17 piercing"
+  - name: "Melee"
+    desc: "⬻ adamantine claw +33 (Agile, reach 10 feet) __Damage__ 3d8+17 slashing"
+  - name: "Melee"
+    desc: "⬻ tail +31 (reach 20 feet) __Damage__ 3d12+15 bludgeoning"
+  - name: "Melee"
+    desc: "⬻ wing +31 (Agile, reach 15 feet) __Damage__ 2d10+15 piercing"
+abilities_bot:
+  - name: "Breathe Oil"
+    desc: "⬺ (Arcane, fire)"
+  - name: "Effect"
+    desc: "The clockwork dragon breathes a spray of flaming oil that deals 16d6 fire damage in a 40-foot cone with a DC 37 basic Reflex save. Creatures that fail their saves are covered in burning oil and take 2d6 persistent fire damage. The clockwork dragon can't Breathe Oil again for 2 rounds."
+  - name: "Draconic Frenzy"
+    desc: "⬺ The clockwork dragon makes two adamantine claw Strikes and one wing Strike in any order."
+  - name: "Spearing Tail"
+    desc: "⬺ The clockwork dragon attacks with the sharp point of its tail. It makes a tail Strike against each creature in a 20-foot line, rolling the attack roll once and applying the result to each target. Any creature that takes damage also takes 4d6 persistent bleed damage (doubled on a critical hit). This counts as two attacks for the dragon's multiple attack penalty."
+sourcebook: "_Monster Core 2_, page 72."
+```
+
+```encounter-table
+name: Clockwork Dragon
+creatures:
+  - 1: Clockwork Dragon
+```

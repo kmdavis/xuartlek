@@ -1,0 +1,31 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-spell
+tags:
+- compendium/src/pf2e-remaster/rage-of-elements
+- trait/concentrate
+- trait/manipulate
+- trait/plant
+- trait/wood
+- spell/level/1
+aliases: ["Wall of Shrubs"]
+aon_id: "spell-1414"
+source: "Rage of Elements"
+---
+
+# Wall of Shrubs  *Spell 1*  [>>>](rules/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")
+
+`Concentrate`  `Manipulate`  `Plant`  `Wood`
+
+- **Traditions**: Arcane, Primal
+- **Range**: 120 feet
+- **Duration**: 1 minute
+
+You call forth a line of bushes native to the region to spring from the ground. The wall of shrubs stands in a line 60 feet long, is less than 5 feet tall, and is a foot thick, providing lesser cover.
+
+---
+**Heightened (3rd)** The shrubs are 10 feet tall and 5 feet thick, provide standard cover, are difficult terrain, and have a Climb DC of 15. The duration increases to 10 minutes.
+
+**Heightened (5th)** As 3rd rank, but the shrubs provide greater cover and the duration is 1 hour. You can choose to form a ring of shrubs with a diameter of up to 30 feet instead of a line.
+
+*Source: Rage of Elements p. 199*

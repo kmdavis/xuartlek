@@ -1,0 +1,42 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-equipment
+tags:
+- compendium/src/pf2e-remaster/treasure-vault-remastered
+- trait/alchemical
+- trait/consumable
+- trait/force
+- equipment/level/13
+aliases: ["Rusting Ammunition (Moderate)"]
+aon_id: "equipment-1901-1645"
+source: "Treasure Vault (Remastered)"
+---
+
+# Rusting Ammunition (Moderate)  *Item 13+*
+
+`Alchemical`  `Consumable`  `Force`
+
+- **Ammunition**: any
+- **Activate**: [>](rules/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+
+Rusting ammunition is made using a ore louse's saliva and, when activated, deals damage to objects or creatures primarily made of metal. The target takes persistent damage for a duration determined by the type of ammunition used. A creature that drops to 0 Hit Points while taking this persistent damage crumbles into fine powder; its gear remains. The ammunition's type determines the maximum amount of an object that's destroyed.
+
+**Craft Requirements** Supply the saliva of an ore louse.
+
+### Rusting Ammunition (Moderate)
+
+**Price** 600 gp
+
+---
+
+The ammunition deals 3d8 persistent damage for up to 5 rounds. For an object, the ammunition destroys a 5-foot cube.
+
+### Rusting Ammunition (Greater)
+
+**Price** 3,600 gp
+
+---
+
+The ammunition deals 4d8 persistent damage for up to 6 rounds. For an object, the ammunition destroys a 10-foot cube.
+
+*Source: Treasure Vault (Remastered) p. 43*

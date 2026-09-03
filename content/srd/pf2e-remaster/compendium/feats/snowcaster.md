@@ -1,0 +1,21 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e-remaster/treasure-vault-remastered
+- trait/archetype
+- feat/level/4
+aliases: ["Snowcaster"]
+aon_id: "feat-4097"
+source: "Treasure Vault (Remastered)"
+---
+
+# Snowcaster  *Feat 4*
+
+`Archetype`
+
+- **Archetype**: Gelid Shard
+
+Your magical power grows as the shard's icy influence spreads ever deeper into your being. You gain the basic spellcasting benefits. Each time you gain a spell slot of a new rank from this archetype, add a spell of the appropriate spell rank (including heightened versions of lower-rank spells) to your repertoire, either a common spell of the arcane tradition that has the cold trait or another cold spell you have access to.
+
+*Source: Treasure Vault (Remastered) p. 185*

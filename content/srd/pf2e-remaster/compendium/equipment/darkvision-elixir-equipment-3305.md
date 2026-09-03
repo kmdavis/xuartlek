@@ -1,0 +1,55 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-equipment
+tags:
+- compendium/src/pf2e-remaster/player-core-2
+- trait/alchemical
+- trait/consumable
+- trait/elixir
+- equipment/level/2
+aliases: ["Darkvision Elixir"]
+aon_id: "equipment-3305"
+source: "Player Core 2"
+---
+
+# Darkvision Elixir  *Item 2+*
+
+`Alchemical`  `Consumable`  `Elixir`
+
+- **Usage**: held in 1 hand
+- **Bulk**: L
+- **Activate**: [>](rules/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+
+After you drink this elixir, your sight becomes sharper in darkness. You gain darkvision for the listed duration.
+
+### Darkvision Elixir (Lesser)
+
+**Price** 6 gp
+
+**Bulk** L
+
+---
+
+The duration is 10 minutes.
+
+### Darkvision Elixir (Moderate)
+
+**Price** 11 gp
+
+**Bulk** L
+
+---
+
+The duration is 1 hour.
+
+### Darkvision Elixir (Greater)
+
+**Price** 90 gp
+
+**Bulk** L
+
+---
+
+The duration is 24 hours.
+
+*Source: Player Core 2 p. 287*

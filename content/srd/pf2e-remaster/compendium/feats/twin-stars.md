@@ -1,0 +1,20 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e-remaster/war-of-immortals
+- trait/exemplar
+- trait/ikon
+- feat/level/1
+aliases: ["Twin Stars"]
+aon_id: "feat-7156"
+source: "War of Immortals"
+---
+
+# Twin Stars  *Feat 1*
+
+`Exemplar`  `Ikon`
+
+Your divine spark embodies a primordial duality, and your ikon splits itself accordingly into two corresponding halves. You can use an Interact action to split the imbued ikon into two copies of itself, which both gain the twin trait; these copies are identical except for one mirrored feature, such as a sun motif on one and a moon motif on another. You can use this ability again to fuse the two halves back into their original form. As these are both manifestations of the same object, your divine spark empowers the two halves as if they were a single ikon.
+
+*Source: War of Immortals p. 35*

@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-trait
+tags:
+- compendium/src/pf2e-remaster/battlecry
+- trait/guardian
+aliases: ["Guardian"]
+aon_id: "trait-859"
+source: "Battlecry!"
+---
+
+# Guardian  *Trait*
+
+`Guardian`
+
+This trait indicates abilities from the guardian class.
+
+*Source: Battlecry! p. 219*

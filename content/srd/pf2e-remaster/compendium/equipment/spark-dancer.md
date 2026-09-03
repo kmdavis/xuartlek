@@ -1,0 +1,28 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-equipment
+tags:
+- compendium/src/pf2e-remaster/treasure-vault-remastered
+- trait/arcane
+- trait/fire
+- trait/uncommon
+- equipment/level/13
+aliases: ["Spark Dancer"]
+aon_id: "equipment-1893"
+source: "Treasure Vault (Remastered)"
+---
+
+# Spark Dancer  *Item 13*
+
+`Arcane`  `Fire`  `Uncommon`
+
+- **Price**: 2,900 gp
+- **Usage**: held in 1 hand
+- **Bulk**: L
+- **Base Weapon**: Pepperbox
+
+This _+2 greater striking pepperbox_ cycles through several magical cores, swapping in new ones while the previous ones cool. The gun deals fire or electricity damage, alternating with each attack as it rotates cores. Arcadian gunslingers liken the rotating cores to a group of dancers, each taking their turn in the spotlight.
+
+**Activate** [>>](rules/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Frequency** once per day; **Effect** The _spark dancer_ casts either _fireball_ or _lightning bolt_, depending on whether the current core would deal fire or electricity damage, as a 7th-level arcane spell (DC 30).
+
+*Source: Treasure Vault (Remastered) p. 39*
