@@ -8,8 +8,8 @@ tags:
 - trait/transmutation
 aliases: ["Arcane Propulsion"]
 ---
-# Arcane Propulsion  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [automaton](rules/traits/automaton-g-g.md "Automaton Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Arcane Propulsion  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [automaton](automaton-g-g.md "Automaton Ancestry & Heritage Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

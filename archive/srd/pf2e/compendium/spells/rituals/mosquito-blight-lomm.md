@@ -12,14 +12,14 @@ tags:
 aliases: ["Mosquito Blight"]
 ---
 # Mosquito Blight *Ritual 5*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** amber and rare incense worth 750 gp
-- **Primary Checks** [Nature](compendium/skills.md#Nature) (expert; you must be the Mosquito Witch)
+- **Primary Checks** [Nature](skills.md#Nature) (expert; you must be the Mosquito Witch)
 - **Area**: 1-mile-radius circle centered on you
 
-You infest the area with tenacious, biting insects that disease and drain life from creatures in the area. Arthropods (insects, spiders, and similar invertebrates) are unaffected and instead gain a +1 status bonus to attack rolls, skill checks, saving throws, and [Perception](compendium/skills.md#Perception) checks while within the area. All other creatures are harassed by insects and exposed to the disease witch's hunger when they enter the area and once per day thereafter that they remain in the area. As part of casting this ritual, you create a Tiny ritual insect hive (Hardness 5, 10 HP) that must remain in the ritual's area. If the hive is removed or destroyed, the ritual's effect ends 1 hour later.
+You infest the area with tenacious, biting insects that disease and drain life from creatures in the area. Arthropods (insects, spiders, and similar invertebrates) are unaffected and instead gain a +1 status bonus to attack rolls, skill checks, saving throws, and [Perception](skills.md#Perception) checks while within the area. All other creatures are harassed by insects and exposed to the disease witch's hunger when they enter the area and once per day thereafter that they remain in the area. As part of casting this ritual, you create a Tiny ritual insect hive (Hardness 5, 10 HP) that must remain in the ritual's area. If the hive is removed or destroyed, the ritual's effect ends 1 hour later.
 
 ````ad-embed-affliction
 title: Witch's Hunger, _Disease 1_

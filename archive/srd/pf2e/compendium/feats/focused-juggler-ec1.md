@@ -9,10 +9,10 @@ tags:
 - trait/uncommon
 aliases: ["Focused Juggler"]
 ---
-# Focused Juggler  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Focused Juggler  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Juggler Dedication](compendium/feats/juggler-dedication-ec1.md)
+- **Prerequisites**: [Juggler Dedication](juggler-dedication-ec1.md)
 - **Trigger** Your turn begins.
 - **Activity** Free Action
 

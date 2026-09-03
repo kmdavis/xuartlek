@@ -9,14 +9,14 @@ tags:
 aliases: ["Magic Warrior Dedication"]
 ---
 # Magic Warrior Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Mwangi Expanse.
 - **Prerequisites**: ability to cast focus spells
 
-You have taken up a nameless mask and sworn the oath of the magic warriors. You become trained in your choice of [Arcana](compendium/skills.md#Arcana) or [Nature](compendium/skills.md#Nature) and in [Magic Warrior Lore](compendium/skills.md#Lore); if you were already trained in the skill, you become an expert instead.
+You have taken up a nameless mask and sworn the oath of the magic warriors. You become trained in your choice of [Arcana](skills.md#Arcana) or [Nature](skills.md#Nature) and in [Magic Warrior Lore](skills.md#Lore); if you were already trained in the skill, you become an expert instead.
 
-You hide your identity behind a mask representing an animal of your choice, corresponding to one of the general animal types in the [animal form](compendium/spells/animal-form.md) spell. You gain a +1 circumstance bonus to saves against [divination](rules/traits/divination.md "Divination School Trait") effects, though sometimes refusing to remove your mask can cause issues in areas that don't respect or understand the magic warrior tradition.
+You hide your identity behind a mask representing an animal of your choice, corresponding to one of the general animal types in the [animal form](archive/srd/pf2e/compendium/spells/animal-form.md) spell. You gain a +1 circumstance bonus to saves against [divination](divination.md "Divination School Trait") effects, though sometimes refusing to remove your mask can cause issues in areas that don't respect or understand the magic warrior tradition.
 
 Once you take this feat, if another creature ever learns your true face or name, you lose your abilities from this archetype.
 
@@ -26,7 +26,7 @@ Close allies who knew of your decision to take the mask before your dedication d
 
 ## Magic Warrior Dedication leads to...
 
-[Magic Warrior Aspect](compendium/feats/magic-warrior-aspect-lowg.md), [Magic Warrior Transformation](compendium/feats/magic-warrior-transformation-lowg.md), [Nameless Anonymity](compendium/feats/nameless-anonymity-lowg.md)
+[Magic Warrior Aspect](archive/srd/pf2e/compendium/feats/magic-warrior-aspect-lowg.md), [Magic Warrior Transformation](archive/srd/pf2e/compendium/feats/magic-warrior-transformation-lowg.md), [Nameless Anonymity](nameless-anonymity-lowg.md)
 
 ## Summary
 

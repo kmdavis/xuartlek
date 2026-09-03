@@ -8,7 +8,7 @@ tags:
 aliases: ["Atlatl"]
 ---
 # Atlatl *Item 0*  
-[propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  
+[propulsive](archive/srd/pf2e/rules/traits/propulsive.md "Propulsive Weapon Trait")  
 
 - **Price** 2 sp
 - **Bulk** 1

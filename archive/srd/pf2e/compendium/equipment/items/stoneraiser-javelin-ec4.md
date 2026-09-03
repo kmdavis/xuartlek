@@ -11,7 +11,7 @@ tags:
 aliases: ["Stoneraiser Javelin"]
 ---
 # Stoneraiser Javelin *Item 11*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1200 gp
 - **Bulk** L; **Usage** held in 1 hand

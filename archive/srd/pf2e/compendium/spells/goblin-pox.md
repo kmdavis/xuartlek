@@ -9,10 +9,10 @@ tags:
 aliases: ["Goblin Pox"]
 ---
 # Goblin Pox *Spell 1*   
-[disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Saving Throw**: Fortitude
@@ -21,7 +21,7 @@ Your touch afflicts the target with goblin pox, an irritating allergenic rash. T
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [sickened](rules/conditions.md#Sickened).
+> - **Success** The target is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
 > - **Failure** The target is afflicted with goblin pox at stage 1.
 > - **Critical Failure** The target is afflicted with goblin pox at stage 2.
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Mistsoul"]
 ---
 # Mistsoul  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
+[lineage](lineage-apg.md "Lineage  Trait")  [undine](undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 
 You have a connection to vaporous forms of water, such as fog and mist. You gain the Mist Blending reaction.

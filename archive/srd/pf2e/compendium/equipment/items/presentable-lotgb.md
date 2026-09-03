@@ -10,11 +10,11 @@ tags:
 aliases: ["Presentable"]
 ---
 # Presentable *Item 3+*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** applied to any visible article of clothing
 
-A garment with this rune is always clean, as though it had just been affected by [prestidigitation](compendium/spells/prestidigitation.md). You gain a +1 item bonus to [Make an Impression](rules/actions/make-an-impression.md) on those who would be impressed by a particular presentable outfit while wearing this garment.
+A garment with this rune is always clean, as though it had just been affected by [prestidigitation](archive/srd/pf2e/compendium/spells/prestidigitation.md). You gain a +1 item bonus to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md) on those who would be impressed by a particular presentable outfit while wearing this garment.
 
 ---
 

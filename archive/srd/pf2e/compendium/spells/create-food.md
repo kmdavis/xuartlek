@@ -8,9 +8,9 @@ tags:
 aliases: ["Create Food"]
 ---
 # Create Food *Spell 2*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 hour 
 - **Range**: 30 foot
 

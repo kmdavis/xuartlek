@@ -10,12 +10,12 @@ tags:
 aliases: ["Darkvision Elixir"]
 ---
 # Darkvision Elixir *Item 2+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-After you drink this elixir, your sight becomes sharper in darkness. You gain [darkvision](rules/abilities/darkvision.md) for the listed duration.
+After you drink this elixir, your sight becomes sharper in darkness. You gain [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) for the listed duration.
 
 ---
 

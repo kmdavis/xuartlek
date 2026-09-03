@@ -9,13 +9,13 @@ tags:
 aliases: ["Barbarian Dedication"]
 ---
 # Barbarian Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](archive/srd/pf2e/rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Strength 14, Constitution 14
 
-You become trained in [Athletics](compendium/skills.md#Athletics); if you were already trained in [Athletics](compendium/skills.md#Athletics), you instead become trained in a skill of your choice. You become trained in barbarian class DC.
+You become trained in [Athletics](skills.md#Athletics); if you were already trained in [Athletics](skills.md#Athletics), you instead become trained in a skill of your choice. You become trained in barbarian class DC.
 
-You can use the [Rage](rules/actions/rage.md) action.
+You can use the [Rage](archive/srd/pf2e/rules/actions/rage.md) action.
 
 Choose an instinct|Barbarian||1 as you would if you were a barbarian. You have that instinct for all purposes and become bound by its anathema, but you don't gain any of the other abilities it grants.
 
@@ -23,7 +23,7 @@ Choose an instinct|Barbarian||1 as you would if you were a barbarian. You have t
 
 ## Barbarian Dedication leads to...
 
-[Barbarian Resiliency](compendium/feats/barbarian-resiliency.md), [Basic Fury](compendium/feats/basic-fury.md), [Advanced Fury](compendium/feats/advanced-fury.md), [Instinct Ability](compendium/feats/instinct-ability.md), [Juggernaut's Fortitude](compendium/feats/juggernauts-fortitude.md)
+[Barbarian Resiliency](archive/srd/pf2e/compendium/feats/barbarian-resiliency.md), [Basic Fury](archive/srd/pf2e/compendium/feats/basic-fury.md), [Advanced Fury](archive/srd/pf2e/compendium/feats/advanced-fury.md), [Instinct Ability](archive/srd/pf2e/compendium/feats/instinct-ability.md), [Juggernaut's Fortitude](archive/srd/pf2e/compendium/feats/juggernauts-fortitude.md)
 
 ## Summary
 

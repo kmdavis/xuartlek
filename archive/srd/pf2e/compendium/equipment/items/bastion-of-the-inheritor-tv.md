@@ -11,13 +11,13 @@ tags:
 aliases: ["Bastion of the Inheritor"]
 ---
 # Bastion of the Inheritor *Item 12*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1750 gp
-- **Craft Requirements** You worship [Iomedae](compendium/setting/deities/iomedae.md).
+- **Craft Requirements** You worship [Iomedae](iomedae.md).
 - **Bulk** 5; **Usage** worn armor
 
-Worn by [Iomedae](compendium/setting/deities/iomedae.md)'s prestigious knights, this +2 resilient bastion plate is emblazoned with the Inheritor's religious symbol and sports a white cloak. While the cloak is white, this armor grants you a +2 item bonus to [Diplomacy](compendium/skills.md#Diplomacy) checks to [Make an Impression](rules/actions/make-an-impression.md), provided your target has no enmity toward [Iomedae](compendium/setting/deities/iomedae.md).
+Worn by [Iomedae](iomedae.md)'s prestigious knights, this +2 resilient bastion plate is emblazoned with the Inheritor's religious symbol and sports a white cloak. While the cloak is white, this armor grants you a +2 item bonus to [Diplomacy](skills.md#Diplomacy) checks to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md), provided your target has no enmity toward [Iomedae](iomedae.md).
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

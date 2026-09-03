@@ -9,11 +9,11 @@ tags:
 aliases: ["Split The Tongue"]
 ---
 # Split The Tongue *Focus 1*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [naga](compendium/setting/domains.md#Naga)
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**: A creature within 30 feet fails a [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy) check.
+- **Domains** [naga](archive/srd/pf2e/compendium/setting/domains.md#Naga)
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Trigger**: A creature within 30 feet fails a [Deception](skills.md#Deception) or [Diplomacy](skills.md#Diplomacy) check.
 - 
 - **Saving Throw**:  basic Fortitude
 
@@ -22,8 +22,8 @@ The deceiving creature's tongue splits like a serpent's tongue. The creature tak
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and is [stupefied](rules/conditions.md#Stupefied) for `1d4` rounds.
-> - **Critical Failure** As failure, but the creature takes double damage and is [stupefied](rules/conditions.md#Stupefied) for `1d4` rounds.
+> - **Failure** The creature takes full damage and is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for `1d4` rounds.
+> - **Critical Failure** As failure, but the creature takes double damage and is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for `1d4` rounds.
 
 **Heightened (+ 1)** The damage increases by `1d8`.
 

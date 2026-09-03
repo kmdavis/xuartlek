@@ -7,9 +7,9 @@ tags:
 aliases: ["Shadow Sneak Attack"]
 ---
 # Shadow Sneak Attack  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Shadowdancer Dedication](compendium/feats/shadowdancer-dedication-apg.md)
+- **Prerequisites**: [Shadowdancer Dedication](shadowdancer-dedication-apg.md)
 
 You gain the sneak attack|rogue|crb|1 class feature, except you deal `1d6` precision damage regardless of your level.
 

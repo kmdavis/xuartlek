@@ -7,11 +7,11 @@ tags:
 aliases: ["Bloodline Wellspring"]
 ---
 # Bloodline Wellspring  *Feat 18*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
-- **Prerequisites**: [Bloodline Focus](compendium/feats/bloodline-focus.md)
+- **Prerequisites**: [Bloodline Focus](archive/srd/pf2e/compendium/feats/bloodline-focus.md)
 
-Your blood's power replenishes your focus. If you have spent at least 3 Focus Points since the last time you [Refocused](rules/actions/refocus.md), you recover 3 Focus Points when you [Refocus](rules/actions/refocus.md) instead of 1.
+Your blood's power replenishes your focus. If you have spent at least 3 Focus Points since the last time you [Refocused](archive/srd/pf2e/rules/actions/refocus.md), you recover 3 Focus Points when you [Refocus](archive/srd/pf2e/rules/actions/refocus.md) instead of 1.
 
 *Source: Core Rulebook p. 201*  
 %% #compendium/src/pf2e/crb #trait/sorcerer %%

@@ -8,7 +8,7 @@ tags:
 aliases: ["Study"]
 ---
 # Study
-[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
+[downtime](archive/srd/pf2e/rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Strength of Thousands #1: Kindled Magic p. 63*  
 
 - **Requirements**: You are an initiate, attendant, or conversant.

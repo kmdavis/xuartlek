@@ -1,0 +1,40 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-spell
+tags:
+- compendium/src/pf2e/player-core
+- trait/concentrate
+- trait/illusion
+- trait/manipulate
+- trait/mental
+- spell/level/2
+aliases: ["Paranoia"]
+aon_id: "spell-1623"
+source: "Player Core"
+---
+
+# Paranoia  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+
+`Concentrate`  `Illusion`  `Manipulate`  `Mental`
+
+- **Tradition**: Occult
+- **Deities**: Gyronna, Imot, Ongalte, Ulon
+- **Range**: 30 feet
+- **Target**: 1 creature
+- **Defense**: Will
+- **Duration**: 1 minute
+
+You cause the target to see all other creatures as dire threats. The target is stricken by intense paranoia toward all creatures around it and must attempt a Will save.
+
+**Critical Success** The target is unaffected.
+
+**Success** The target believes everyone it sees is a potential threat. It becomes unfriendly to all creatures to which it wasn't already hostile, even those that were previously allies. It treats no one as an ally. The spell ends after 1 round.
+
+**Failure** As success, but the effect lasts 1 minute.
+
+**Critical Failure** As failure, except the target believes that everyone it sees is a mortal enemy. It uses its reactions and free actions against everyone, regardless of whether they were previously its allies, as determined by the GM. It otherwise acts as rationally as it normally does and likely prefers to attack creatures that are actively attacking or hindering it over those leaving it alone.
+
+---
+**Heightened (6th)** You can target up to 5 creatures.
+
+*Source: Player Core p. 348*

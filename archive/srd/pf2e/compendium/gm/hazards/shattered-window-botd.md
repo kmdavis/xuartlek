@@ -7,14 +7,14 @@ tags:
 aliases: ["Shattered Window"]
 ---
 # Shattered Window *Hazard 1*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 trained to notice cracks spider-webbing across the window  
 
 The anger trapped within a structure shatters a window, showering glass in adjacent spaces.
 
-- **Disable** DC 19 [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) (trained) to suppress the spiritual energy or DC 20 [Diplomacy](compendium/skills.md#Diplomacy) (trained) to soothe the latent anger  
+- **Disable** DC 19 [Occultism](skills.md#Occultism) or [Religion](skills.md#Religion) (trained) to suppress the spiritual energy or DC 20 [Diplomacy](skills.md#Diplomacy) (trained) to soothe the latent anger  
 
 ```ad-embed-ability
 title: **Shatter** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Bard Spellcasting"]
 ---
 # Basic Bard Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Bard Dedication](compendium/feats/bard-dedication.md)
+- **Prerequisites**: [Bard Dedication](archive/srd/pf2e/compendium/feats/bard-dedication.md)
 
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the bard archetype, add a common occult spell or another spell you learned or discovered to your repertoire, of the appropriate spell level.
 
 ## Basic Bard Spellcasting leads to...
 
-[Expert Bard Spellcasting](compendium/feats/expert-bard-spellcasting.md), [Master Bard Spellcasting](compendium/feats/master-bard-spellcasting.md), [Occult Breadth](compendium/feats/occult-breadth.md)
+[Expert Bard Spellcasting](archive/srd/pf2e/compendium/feats/expert-bard-spellcasting.md), [Master Bard Spellcasting](archive/srd/pf2e/compendium/feats/master-bard-spellcasting.md), [Occult Breadth](archive/srd/pf2e/compendium/feats/occult-breadth.md)
 
 ## Summary
 

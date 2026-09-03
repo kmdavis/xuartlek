@@ -11,7 +11,7 @@ tags:
 aliases: ["Lost Ember"]
 ---
 # Lost Ember *Item 10*  
-[contract](rules/traits/contract-lol.md "Contract Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[contract](contract-lol.md "Contract Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
 Sealed with a vial containing the ashes from your childhood home, you traded the memories of your early life to stay focused on the present, allowing you to avoid distractions during combat. Once per day, from any distance, the entity that holds your bargained contract can take one of your memories.

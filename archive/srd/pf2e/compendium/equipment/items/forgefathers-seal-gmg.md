@@ -11,11 +11,11 @@ tags:
 aliases: ["Forgefather's Seal"]
 ---
 # Forgefather's Seal *Item 24*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [artifact](artifact-gmg.md "Artifact Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** etched onto armor
 
-This rune was created by [Torag](compendium/setting/deities/torag.md), god of the forge, protection, and strategy, and shared with his greatest artisans and warriors. [Torag](compendium/setting/deities/torag.md) designed a small number of these seals as gifts to allied good deities; each one is nearly identical but has a different spell effect when using the reaction activation; for instance, [Sarenrae](compendium/setting/deities/sarenrae.md)'s seal casts [sunburst](compendium/spells/sunburst.md) instead of [earthquake](compendium/spells/earthquake.md).
+This rune was created by [Torag](torag.md), god of the forge, protection, and strategy, and shared with his greatest artisans and warriors. [Torag](torag.md) designed a small number of these seals as gifts to allied good deities; each one is nearly identical but has a different spell effect when using the reaction activation; for instance, [Sarenrae](sarenrae.md)'s seal casts [sunburst](archive/srd/pf2e/compendium/spells/sunburst.md) instead of [earthquake](archive/srd/pf2e/compendium/spells/earthquake.md).
 
 A seal constantly rings with the quiet sound of a hammer striking an anvil when etched onto a runestone. A Forgefather's seal can be etched only onto armor that can bear two or more property runes, and it is so powerful that it takes the place of two property runes. While wearing armor etched with a Forgefather's seal, you gain fire resistance 40. You ignore the armor's check penalty and Speed penalty (if any); if the armor is light or medium, increase its item bonus to AC by 1.
 

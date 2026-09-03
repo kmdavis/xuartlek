@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-trait
+tags:
+- compendium/src/pf2e/gm-core
+- trait/subjective-gravity
+aliases: ["Subjective Gravity"]
+aon_id: "trait-705"
+source: "GM Core"
+---
+
+# Subjective Gravity  *Trait*
+
+`Subjective Gravity`
+
+All bodies of mass can be centers of gravity with the same force, but only if a non-mindless creature wills it. Unattended items, objects, and mindless creatures treat the plane as having microgravity. Creatures on a plane with subjective gravity can move normally along a solid surface by imagining “down” near their feet. Designating this downward direction is a free action that has the concentration trait. If suspended in midair, a creature can replicate flight by choosing a “down” direction and falling in that direction, moving up to their Speed or fly Speed. This pseudo-flight uses the Fly action.
+
+*Source: GM Core p. 172*

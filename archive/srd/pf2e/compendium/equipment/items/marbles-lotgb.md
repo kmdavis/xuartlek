@@ -11,7 +11,7 @@ aliases: ["Marbles"]
 - **Price** 2 sp
 - **Bulk** L; **Usage** held in 1 hand
 
-These tiny round balls are made of polished stone and colorful glass, and come in a bag of 200. You can pour marbles in an empty square adjacent to you with an [Interact](rules/actions/interact.md) action. The first creature that moves into that square must succeed at a DC 13 [Acrobatics](compendium/skills.md#Acrobatics) check or Reflex save (its choice) or fall [prone](rules/conditions.md#Prone). Once a creature enters a space with marbles, enough marbles are scattered that other creatures moving into that space don't need to attempt a roll to avoid falling.
+These tiny round balls are made of polished stone and colorful glass, and come in a bag of 200. You can pour marbles in an empty square adjacent to you with an [Interact](archive/srd/pf2e/rules/actions/interact.md) action. The first creature that moves into that square must succeed at a DC 13 [Acrobatics](skills.md#Acrobatics) check or Reflex save (its choice) or fall [prone](archive/srd/pf2e/rules/conditions.md#Prone). Once a creature enters a space with marbles, enough marbles are scattered that other creatures moving into that space don't need to attempt a roll to avoid falling.
 
 Merrygleam Toys.
 

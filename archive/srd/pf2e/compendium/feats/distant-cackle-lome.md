@@ -7,11 +7,11 @@ tags:
 aliases: ["Distant Cackle"]
 ---
 # Distant Cackle  *Feat 5*  
-[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
+[gnoll](gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 - **Prerequisites**: witch gnoll heritage
 
-It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast [ventriloquism](compendium/spells/ventriloquism.md) once per day as a 1st-level occult innate spell.
+It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast [ventriloquism](archive/srd/pf2e/compendium/spells/ventriloquism.md) once per day as a 1st-level occult innate spell.
 
 *Source: Lost Omens: The Mwangi Expanse p. 113*  
 %% #compendium/src/pf2e/lome #trait/gnoll %%

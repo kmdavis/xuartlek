@@ -8,10 +8,10 @@ tags:
 aliases: ["Tortoise And The Hare"]
 ---
 # Tortoise And The Hare *Spell 4*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 foe, and either yourself or 1 ally
 - **Saving Throw**: Fortitude
@@ -20,8 +20,8 @@ You prove that slow and steady doesn't always win the race by turning a foe into
 
 > [!success-degree] 
 > - **Critical Success** The targets are unaffected.
-> - **Success** The foe is [slowed](rules/conditions.md#Slowed) for 1 round, and the other target is unaffected.
-> - **Failure** The foe is [slowed](rules/conditions.md#Slowed) for 3 rounds and the other target is [quickened](rules/conditions.md#Quickened) for 1 round. It can use the extra action to [Step](rules/actions/step.md), [Stride](rules/actions/stride.md), or [Strike](rules/actions/strike.md).
-> - **Critical Failure** The foe is [slowed](rules/conditions.md#Slowed) for 3 minutes and the other target is [quickened](rules/conditions.md#Quickened) for 1 minute. It can use the extra action to [Step](rules/actions/step.md), [Stride](rules/actions/stride.md), or [Strike](rules/actions/strike.md).
+> - **Success** The foe is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 1 round, and the other target is unaffected.
+> - **Failure** The foe is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 3 rounds and the other target is [quickened](archive/srd/pf2e/rules/conditions.md#Quickened) for 1 round. It can use the extra action to [Step](archive/srd/pf2e/rules/actions/step.md), [Stride](archive/srd/pf2e/rules/actions/stride.md), or [Strike](archive/srd/pf2e/rules/actions/strike.md).
+> - **Critical Failure** The foe is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 3 minutes and the other target is [quickened](archive/srd/pf2e/rules/conditions.md#Quickened) for 1 minute. It can use the extra action to [Step](archive/srd/pf2e/rules/actions/step.md), [Stride](archive/srd/pf2e/rules/actions/stride.md), or [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 *Source: Secrets of Magic p. 137*

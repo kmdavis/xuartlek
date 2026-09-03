@@ -8,9 +8,9 @@ tags:
 aliases: ["Quick Juggler"]
 ---
 # Quick Juggler  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: expert in [Performance](compendium/skills.md#Performance), [Juggler Dedication](compendium/feats/juggler-dedication-ec1.md)
+- **Prerequisites**: expert in [Performance](skills.md#Performance), [Juggler Dedication](juggler-dedication-ec1.md)
 
 When you start to Juggle or add another item to those you are Juggling, you add two items instead of one. Increase the maximum number of items you can Juggle by one.
 

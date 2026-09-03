@@ -11,14 +11,14 @@ tags:
 aliases: ["Punishing Altar"]
 ---
 # Punishing Altar *Hazard 4*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 trained to notice the bowl is the center point for a magical trap  
 
 The bowl releases a wave of negative energy when a living creature approaches without displaying a religious symbol of Venexus.
 
-- **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (expert) to remove the bowl without triggering the magic, or dispel magic (2nd level, counteract DC 20) to counteract the runes  
+- **Disable** DC 22 [Thievery](skills.md#Thievery) (expert) to remove the bowl without triggering the magic, or dispel magic (2nd level, counteract DC 20) to counteract the runes  
 
 - **AC** 21, **Fort** +14, **Ref** +14
 - **Hardness** 12, **HP** 46 (BT 23)

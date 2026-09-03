@@ -15,4 +15,4 @@ You live by the adage that one person's trash is another's treasure. Whether by 
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and your choice of either the [Engineering Lore](compendium/skills.md#Lore) or [Mining Lore](compendium/skills.md#Lore) skill. You gain the [Crafter's Appraisal](compendium/feats/crafters-appraisal-apg.md) skill feat.
+You're trained in the [Crafting](skills.md#Crafting) skill and your choice of either the [Engineering Lore](skills.md#Lore) or [Mining Lore](skills.md#Lore) skill. You gain the [Crafter's Appraisal](crafters-appraisal-apg.md) skill feat.

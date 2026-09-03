@@ -10,12 +10,12 @@ tags:
 aliases: ["Composite Longbow"]
 ---
 # Composite Longbow *Item 0*  
-[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [volley <30 ft.>](rules/traits/volley-30-ft.md "Volley Weapon Trait")  
+[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [propulsive](archive/srd/pf2e/rules/traits/propulsive.md "Propulsive Weapon Trait")  [volley <30 ft.>](rules/traits/volley-30-ft.md "Volley Weapon Trait")  
 
 - **Price** 20 gp
 - **Bulk** 2
   - **Damage**: `1d8` P
-  - **Ammunution** [Arrow](compendium/equipment/items/arrow.md); **Range** 100 ft.; **Reload** 0
+  - **Ammunution** [Arrow](arrow.md); **Range** 100 ft.; **Reload** 0
 - **Hands** 1+
 - **Category** Martial; **Group** Bow 
 

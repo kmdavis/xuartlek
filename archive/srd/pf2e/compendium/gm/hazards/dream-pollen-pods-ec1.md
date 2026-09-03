@@ -9,14 +9,14 @@ tags:
 aliases: ["Dream Pollen Pods"]
 ---
 # Dream Pollen Pods *Hazard 3*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +12 trained  
 
 Four magical plants inside the wagon release hallucinogenic pollen when disturbed.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 18 (trained) to carefully remove a pollen pod or [Nature](compendium/skills.md#Nature) DC 18 (trained) to prevent a pod from bursting.  
+- **Disable** [Thievery](skills.md#Thievery) DC 18 (trained) to carefully remove a pollen pod or [Nature](skills.md#Nature) DC 18 (trained) to prevent a pod from bursting.  
 
 - **AC** 18, **Fort** +9, **Ref** +3
 - **Hardness** 1, **HP** 32 (BT 16)

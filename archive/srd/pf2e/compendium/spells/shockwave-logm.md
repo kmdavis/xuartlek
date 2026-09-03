@@ -10,10 +10,10 @@ tags:
 aliases: ["Shockwave"]
 ---
 # Shockwave *Spell 1*   
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot cone
 - **Saving Throw**: Reflex
 
@@ -23,8 +23,8 @@ Terrestrial creatures in the affected area must attempt a Reflex save to avoid s
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is [flat-footed](rules/conditions.md#Flat-footed) until the start of its next turn.
-> - **Failure** The creature falls [prone](rules/conditions.md#Prone).
+> - **Success** The creature is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until the start of its next turn.
+> - **Failure** The creature falls [prone](archive/srd/pf2e/rules/conditions.md#Prone).
 > - **Critical Failure** As failure, plus the creature takes `1d6` damage.
 
 **Heightened (+ 1)** The area increases by 5 feet (to a 20-foot cone at 2nd level, and so on).

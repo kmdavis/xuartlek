@@ -8,11 +8,11 @@ tags:
 aliases: ["Intuitive Cooperation"]
 ---
 # Intuitive Cooperation  *Feat 1*  
-[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[halfling](archive/srd/pf2e/rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Jaric ethnicity
 
-You are accustomed to working alongside others, relying on each other to get by. You gain a +2 circumstance bonus to checks to [Aid](rules/actions/aid.md), and your allies gain a +2 circumstance bonus to checks to [Aid](rules/actions/aid.md) you.
+You are accustomed to working alongside others, relying on each other to get by. You gain a +2 circumstance bonus to checks to [Aid](archive/srd/pf2e/rules/actions/aid.md), and your allies gain a +2 circumstance bonus to checks to [Aid](archive/srd/pf2e/rules/actions/aid.md) you.
 
 *Source: Lost Omens: Character Guide p. 44*  
 %% #compendium/src/pf2e/locg #trait/halfling #trait/uncommon %%

@@ -26,12 +26,12 @@ aliases: ["Arundhat", "The Sacred Perfume"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
-- **Domains**: [healing](compendium/setting/domains.md#Healing), [magic](compendium/setting/domains.md#Magic), [nature](compendium/setting/domains.md#Nature), [protection](compendium/setting/domains.md#Protection)
-- **Alternate Domains**: [passion](compendium/setting/domains.md#Passion)
-- **Cleric Spells**: 1st: [shillelagh](compendium/spells/shillelagh.md); 3rd: [ghostly weapon](compendium/spells/ghostly-weapon.md); 4th: [speak with plants](compendium/spells/speak-with-plants.md)
+- **Favored Weapon**: [staff](archive/srd/pf2e/compendium/equipment/items/staff.md)
+- **Domains**: [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Alternate Domains**: [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion)
+- **Cleric Spells**: 1st: [shillelagh](shillelagh.md); 3rd: [ghostly weapon](archive/srd/pf2e/compendium/spells/ghostly-weapon.md); 4th: [speak with plants](archive/srd/pf2e/compendium/spells/speak-with-plants.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Arundhat

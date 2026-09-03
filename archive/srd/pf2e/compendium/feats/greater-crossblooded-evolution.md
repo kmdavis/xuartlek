@@ -7,9 +7,9 @@ tags:
 aliases: ["Greater Crossblooded Evolution"]
 ---
 # Greater Crossblooded Evolution  *Feat 18*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
-- **Prerequisites**: [Crossblooded Evolution](compendium/feats/crossblooded-evolution.md)
+- **Prerequisites**: [Crossblooded Evolution](archive/srd/pf2e/compendium/feats/crossblooded-evolution.md)
 
 Your bloodline is extraordinarily complex. You can have up to three spells from other traditions in your spell repertoire, rather than just one. These spells must each be of a different spell level, but they don't need to be from the same tradition.
 

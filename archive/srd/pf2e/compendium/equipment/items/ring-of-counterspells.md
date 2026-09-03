@@ -11,12 +11,12 @@ tags:
 aliases: ["Ring of Counterspells"]
 ---
 # Ring of Counterspells *Item 10*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 925 gp
 - **Bulk** —; **Usage** worn
 
-This ornate silver ring bears two competing geometric designs of brightly colored and wildly clashing inlaid gemstones. A spellcaster can cast a single spell into this ring as long as no spell is currently stored within, expending the normal time, costs, and so forth to [Cast the Spell](rules/actions/cast-a-spell.md). The spell's effect doesn't occur; the spell's power is instead stored within the ring.
+This ornate silver ring bears two competing geometric designs of brightly colored and wildly clashing inlaid gemstones. A spellcaster can cast a single spell into this ring as long as no spell is currently stored within, expending the normal time, costs, and so forth to [Cast the Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md). The spell's effect doesn't occur; the spell's power is instead stored within the ring.
 
 When you invest a ring of counterspells, you immediately know the name and level of the spell stored inside, if any. A ring of counterspells found as treasure has a 50% chance of having a spell stored in it. The GM determines that spell.
 

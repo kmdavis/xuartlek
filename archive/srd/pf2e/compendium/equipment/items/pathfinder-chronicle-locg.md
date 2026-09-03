@@ -8,7 +8,7 @@ tags:
 aliases: ["Pathfinder Chronicle"]
 ---
 # Pathfinder Chronicle *Item 3*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6 gp
 - **Bulk** L; **Usage** held in one hand

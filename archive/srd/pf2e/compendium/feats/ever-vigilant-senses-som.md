@@ -8,10 +8,10 @@ tags:
 aliases: ["Ever-vigilant Senses"]
 ---
 # Ever-vigilant Senses  *Feat 16*  
-[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[evolution](evolution-som.md "Evolution Feat Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
-Your eidolon has enhanced senses. It gains a +2 circumstance bonus to [Perception](compendium/skills.md#Perception), and can't be flanked except by creatures that are higher level than it. It can see [invisible](rules/conditions.md#Invisible) creatures and objects; they appear translucent and are [concealed](rules/conditions.md#Concealed). When your eidolon moves within 30 feet of an illusion that can be 0, the GM rolls a secret check to 0 it, even if your eidolon didn't spend an action to [Interact](rules/actions/interact.md).
+Your eidolon has enhanced senses. It gains a +2 circumstance bonus to [Perception](skills.md#Perception), and can't be flanked except by creatures that are higher level than it. It can see [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) creatures and objects; they appear translucent and are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed). When your eidolon moves within 30 feet of an illusion that can be 0, the GM rolls a secret check to 0 it, even if your eidolon didn't spend an action to [Interact](archive/srd/pf2e/rules/actions/interact.md).
 
 *Source: Secrets of Magic p. 73*  
 %% #compendium/src/pf2e/som #trait/evolution #trait/summoner %%

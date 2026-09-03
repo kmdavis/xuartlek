@@ -11,7 +11,7 @@ tags:
 aliases: ["Hexing Jar"]
 ---
 # Hexing Jar *Item 11*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [focused](archive/srd/pf2e/rules/traits/focused.md "Focused Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1200 gp
 - **Craft Requirements** You are a witch.

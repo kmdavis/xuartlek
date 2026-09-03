@@ -6,14 +6,14 @@ tags:
 - trait/barbarian
 aliases: ["Scouring Rage"]
 ---
-# Scouring Rage  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
+# Scouring Rage  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  
 
-- **Prerequisites**: an instinct that allows you to change your additional damage from [Rage](rules/actions/rage.md) to a different damage type
-- **Trigger** You [Rage](rules/actions/rage.md).
+- **Prerequisites**: an instinct that allows you to change your additional damage from [Rage](archive/srd/pf2e/rules/actions/rage.md) to a different damage type
+- **Trigger** You [Rage](archive/srd/pf2e/rules/actions/rage.md).
 - **Activity** Free Action
 
-You emit a powerful surge of instinctual energy when you unleash your potential. Each adjacent creature takes damage equal to your level (basic Fortitude save against your class DC) of the same type as your additional damage during that [Rage](rules/actions/rage.md).
+You emit a powerful surge of instinctual energy when you unleash your potential. Each adjacent creature takes damage equal to your level (basic Fortitude save against your class DC) of the same type as your additional damage during that [Rage](archive/srd/pf2e/rules/actions/rage.md).
 
 *Source: Advanced Player's Guide p. 110*  
 %% #compendium/src/pf2e/apg #trait/barbarian %%

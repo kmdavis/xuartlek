@@ -15,4 +15,4 @@ Whether willing or unwilling, you have been involved in the many cutthroat polit
 
 Choose two ability boosts. One must be to Charisma or Constitution, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Politics Lore](compendium/skills.md#Lore) skill. You gain the [Hobnobber](compendium/feats/hobnobber.md) skill feat.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Politics Lore](skills.md#Lore) skill. You gain the [Hobnobber](archive/srd/pf2e/compendium/feats/hobnobber.md) skill feat.

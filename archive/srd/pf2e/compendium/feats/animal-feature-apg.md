@@ -7,11 +7,11 @@ tags:
 aliases: ["Animal Feature"]
 ---
 # Animal Feature  *Feat 4*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: warden spells
 
-You are so connected with the animal world that you can grant yourself an animal's features and abilities. You gain the [animal feature](compendium/spells/animal-feature-apg.md) warden spell. Increase the number of Focus Points in your focus pool by 1.
+You are so connected with the animal world that you can grant yourself an animal's features and abilities. You gain the [animal feature](archive/srd/pf2e/compendium/spells/animal-feature-apg.md) warden spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Advanced Player's Guide p. 132*  
 %% #compendium/src/pf2e/apg #trait/ranger %%

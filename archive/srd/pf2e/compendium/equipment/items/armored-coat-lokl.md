@@ -9,7 +9,7 @@ tags:
 aliases: ["Armored Coat"]
 ---
 # Armored Coat *Item 0*  
-[comfort](rules/traits/comfort.md "Comfort Armor Trait")  [flexible](rules/traits/flexible.md "Flexible Armor Trait")  
+[comfort](archive/srd/pf2e/rules/traits/comfort.md "Comfort Armor Trait")  [flexible](archive/srd/pf2e/rules/traits/flexible.md "Flexible Armor Trait")  
 
 - **Price** 20 gp
 - **Bulk** 2

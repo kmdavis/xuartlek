@@ -10,10 +10,10 @@ tags:
 aliases: ["Addiction Suppressant"]
 ---
 # Addiction Suppressant *Item 1+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 When you use a dose of addiction suppressant, it suppresses the effects of that addiction for 1 day, as if you had taken an actual dose of the drug, but without any of the drug's effects, and it doesn't increase the addiction DC. You also gain an item bonus against the ongoing save against the drug's addiction depending on the type of addiction suppressant.
 

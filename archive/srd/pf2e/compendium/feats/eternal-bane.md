@@ -7,11 +7,11 @@ tags:
 aliases: ["Eternal Bane"]
 ---
 # Eternal Bane  *Feat 16*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: evil alignment
 
-A life of evil has made you a nexus for your deity's vile power. You're continuously surrounded by a [bane](compendium/spells/bane.md) spell with a spell level equal to half your level (rounded up). The radius is 15 feet, and you can't increase it. You can [Dismiss](rules/actions/dismiss.md) the spell; if you do, it returns automatically after 1 minute.
+A life of evil has made you a nexus for your deity's vile power. You're continuously surrounded by a [bane](archive/srd/pf2e/compendium/spells/bane.md) spell with a spell level equal to half your level (rounded up). The radius is 15 feet, and you can't increase it. You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the spell; if you do, it returns automatically after 1 minute.
 
 *Source: Core Rulebook p. 126*  
 %% #compendium/src/pf2e/crb #trait/cleric %%

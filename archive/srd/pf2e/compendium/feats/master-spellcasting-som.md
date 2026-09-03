@@ -9,9 +9,9 @@ tags:
 aliases: ["Master Spellcasting"]
 ---
 # Master Spellcasting  *Feat 18*  
-[[class]](rules/traits/class-som.md "Any Class Class Trait")  [pervasive magic](rules/traits/pervasive-magic-som.md "Pervasive Magic General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[[class]](rules/traits/class-som.md "Any Class Class Trait")  [pervasive magic](pervasive-magic-som.md "Pervasive Magic General Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Prerequisites**: [Expert Spellcasting](compendium/feats/expert-spellcasting-som.md)
+- **Prerequisites**: [Expert Spellcasting](expert-spellcasting-som.md)
 
 You gain the master spellcasting archetype benefits.
 

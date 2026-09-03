@@ -7,11 +7,11 @@ tags:
 aliases: ["Greater Enhance Venom"]
 ---
 # Greater Enhance Venom  *Feat 17*  
-[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
+[vishkanya](vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Moderate Enhance Venom
 
-You upgrade the vishkanyan venom you can apply with [Envenom](rules/actions/envenom-loil.md) to greater vishkanyan venom. [Envenom](rules/actions/envenom-loil.md)'s frequency becomes once per minute.
+You upgrade the vishkanyan venom you can apply with [Envenom](envenom-loil.md) to greater vishkanyan venom. [Envenom](envenom-loil.md)'s frequency becomes once per minute.
 
 ```ad-inline-affliction
 title: Greater Vishkanyan Venom

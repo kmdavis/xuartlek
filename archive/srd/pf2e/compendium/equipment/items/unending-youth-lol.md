@@ -12,10 +12,10 @@ tags:
 aliases: ["Unending Youth"]
 ---
 # Unending Youth *Item 20*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [contract](rules/traits/contract-lol.md "Contract Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [contract](contract-lol.md "Contract Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
-You cease aging, and if you were older than young adult in age, you become a young adult again. You gain a +4 status bonus to saves against [death](rules/traits/death.md "Death Effect Trait") effects and resistance to negative damage equal to half your level. Once per day, from any distance, Abrogail Thrune II can recite a mandatory appearance clause in your Thrune contract as a 3-action activity to summon you to her side, where you are [controlled](rules/conditions.md#Controlled) by Abrogail for 1 minute before you return.
+You cease aging, and if you were older than young adult in age, you become a young adult again. You gain a +4 status bonus to saves against [death](archive/srd/pf2e/rules/traits/death.md "Death Effect Trait") effects and resistance to negative damage equal to half your level. Once per day, from any distance, Abrogail Thrune II can recite a mandatory appearance clause in your Thrune contract as a 3-action activity to summon you to her side, where you are [controlled](archive/srd/pf2e/rules/conditions.md#Controlled) by Abrogail for 1 minute before you return.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command

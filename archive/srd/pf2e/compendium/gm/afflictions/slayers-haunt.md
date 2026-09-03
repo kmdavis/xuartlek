@@ -13,7 +13,7 @@ aliases: ["Slayer's Haunt"]
 ---
 # Slayer's Haunt
 *Curse 4*  
-[curse](rules/traits/curse.md "Curse Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
 You are haunted by all those you have killed.
 

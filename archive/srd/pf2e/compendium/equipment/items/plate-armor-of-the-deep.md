@@ -11,12 +11,12 @@ tags:
 aliases: ["Plate Armor of the Deep"]
 ---
 # Plate Armor of the Deep *Item 15*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6500 gp
 - **Bulk** 4; **Usage** worn armor
 
-This suit of +2 greater resilient full plate is decorated with swirling, ornate motifs of waves and fish scales. While wearing it, you take no Speed reduction or check penalty from armor when Swimming, gain a +2 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [Swim](rules/actions/swim.md), can breathe underwater, and can speak Aquan.
+This suit of +2 greater resilient full plate is decorated with swirling, ornate motifs of waves and fish scales. While wearing it, you take no Speed reduction or check penalty from armor when Swimming, gain a +2 item bonus to [Athletics](skills.md#Athletics) checks to [Swim](archive/srd/pf2e/rules/actions/swim.md), can breathe underwater, and can speak Aquan.
 
 
 ---

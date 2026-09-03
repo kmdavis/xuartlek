@@ -10,14 +10,14 @@ tags:
 aliases: ["Stone Bullet"]
 ---
 # Stone Bullet *Item 15*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 1300 gp
 - **Craft Requirements** Supply one casting of flesh to stone.
-- **Ammunition** [sling bullets](compendium/equipment/items/sling-bullets.md)
-- **Activate** [Interact](rules/actions/interact.md)
+- **Ammunition** [sling bullets](archive/srd/pf2e/compendium/equipment/items/sling-bullets.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-This sling bullet looks like a [petrified](rules/conditions.md#Petrified) serpent's eye. A creature hit by an activated stone bullet is subject to the effects of a 6th-level [flesh to stone](compendium/spells/flesh-to-stone.md) spell (DC 34).
+This sling bullet looks like a [petrified](archive/srd/pf2e/rules/conditions.md#Petrified) serpent's eye. A creature hit by an activated stone bullet is subject to the effects of a 6th-level [flesh to stone](flesh-to-stone.md) spell (DC 34).
 
 
 ---

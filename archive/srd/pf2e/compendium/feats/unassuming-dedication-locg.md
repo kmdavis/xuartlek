@@ -8,7 +8,7 @@ tags:
 aliases: ["Unassuming Dedication"]
 ---
 # Unassuming Dedication  *Feat 1*  
-[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[halfling](archive/srd/pf2e/rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Uhlam ethnicity
 

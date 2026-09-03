@@ -12,7 +12,7 @@ tags:
 aliases: ["Stiletto Pen"]
 ---
 # Stiletto Pen *Item 1*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [concealable](rules/traits/concealable-g-g.md "Concealable Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [thrown <10 feet>](rules/traits/thrown-10-feet.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [concealable](concealable-g-g.md "Concealable Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [thrown <10 feet>](rules/traits/thrown-10-feet.md "Thrown Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8 gp
 - **Bulk** L

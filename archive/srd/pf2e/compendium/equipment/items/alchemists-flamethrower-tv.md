@@ -10,7 +10,7 @@ tags:
 aliases: ["Alchemist's Flamethrower"]
 ---
 # Alchemist's Flamethrower *Item 2*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 35 gp
 - **Bulk** 1; **Usage** held in two hands

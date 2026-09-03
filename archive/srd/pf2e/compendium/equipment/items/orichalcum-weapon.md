@@ -8,7 +8,7 @@ tags:
 aliases: ["Orichalcum Weapon"]
 ---
 # Orichalcum Weapon *Item 18*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** varies by weapon
 

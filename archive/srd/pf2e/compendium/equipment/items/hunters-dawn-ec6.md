@@ -11,11 +11,11 @@ tags:
 aliases: ["Hunter's Dawn"]
 ---
 # Hunter's Dawn *Item 23*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [artifact](artifact-gmg.md "Artifact Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
-Hunter's Dawn is a club. However, the notched head of the weapon marks it as an atlatl, an ancient tool used for throwing [darts](compendium/equipment/items/dart.md) and [javelins](compendium/equipment/items/javelin.md). You can use Hunter's Dawn with a mundane dart or javelin like you would use a bow with an arrow; when you do so, the range of the dart or javelin is doubled, and the dart or javelin uses Hunter's Dawn to determine its attack modifier and damage dice.
+Hunter's Dawn is a club. However, the notched head of the weapon marks it as an atlatl, an ancient tool used for throwing [darts](archive/srd/pf2e/compendium/equipment/items/dart.md) and [javelins](archive/srd/pf2e/compendium/equipment/items/javelin.md). You can use Hunter's Dawn with a mundane dart or javelin like you would use a bow with an arrow; when you do so, the range of the dart or javelin is doubled, and the dart or javelin uses Hunter's Dawn to determine its attack modifier and damage dice.
 
 ```ad-embed-ability
 title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"), [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"), or [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")) [Interact](rules/actions/interact.md)

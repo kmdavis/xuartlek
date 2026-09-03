@@ -9,13 +9,13 @@ tags:
 aliases: ["Scope Of Truth"]
 ---
 # Scope Of Truth *Item 13*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 3000 gp
 - **Bulk** L; **Usage** attached <to firearm or crossbow (scope)>
 - **Category** Scope
 
-The scope of truth is a bit bigger than most to accommodate larger lenses, which have been magically prepared with tiny shards from crystal balls to reveal the truth. The scope grants you a +2 item bonus to [Perception](compendium/skills.md#Perception) checks made to [Seek](rules/actions/seek.md) in areas you can see through the scope.
+The scope of truth is a bit bigger than most to accommodate larger lenses, which have been magically prepared with tiny shards from crystal balls to reveal the truth. The scope grants you a +2 item bonus to [Perception](skills.md#Perception) checks made to [Seek](archive/srd/pf2e/rules/actions/seek.md) in areas you can see through the scope.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)

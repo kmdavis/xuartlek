@@ -9,14 +9,14 @@ tags:
 aliases: ["Dart Barrage"]
 ---
 # Dart Barrage *Hazard 3*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained or DC 23 (trained) to notice scratches around the musical pipes and a slight give to the seal.  
 
-Four dart-loaded pipes [hidden](rules/conditions.md#Hidden) in the diagonal walls are connected to a pressure plate under the brass seal in the room's center.
+Four dart-loaded pipes [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) in the diagonal walls are connected to a pressure plate under the brass seal in the room's center.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 22 (trained) to disable the pressure plate, or four [Thievery](compendium/skills.md#Thievery) DC 18 (trained) checks to plug the dart launchers.  
+- **Disable** [Thievery](skills.md#Thievery) DC 22 (trained) to disable the pressure plate, or four [Thievery](skills.md#Thievery) DC 18 (trained) checks to plug the dart launchers.  
 
 - **AC** 22, **Fort** +13, **Ref** +7
 - **Hardness** 10, **HP** 60 (BT 30) to destroy the seal and disable the trap

@@ -7,11 +7,11 @@ tags:
 aliases: ["Asura Magic"]
 ---
 # Asura Magic  *Feat 9*  
-[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
+[tiefling](tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Faultspawn](compendium/feats/faultspawn-loil.md)
+- **Prerequisites**: [Faultspawn](faultspawn-loil.md)
 
-You can cast [blood vendetta](compendium/spells/blood-vendetta-apg.md) and [death knell](compendium/spells/death-knell.md) once per day each as 2nd-level [divine](rules/traits/divine.md "Divine Tradition Trait") innate spells.
+You can cast [blood vendetta](blood-vendetta-apg.md) and [death knell](death-knell.md) once per day each as 2nd-level [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait") innate spells.
 
 *Source: Lost Omens: Impossible Lands p. 33*  
 %% #compendium/src/pf2e/loil #trait/tiefling %%

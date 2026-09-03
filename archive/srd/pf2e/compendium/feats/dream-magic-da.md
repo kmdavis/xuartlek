@@ -7,9 +7,9 @@ tags:
 aliases: ["Dream Magic"]
 ---
 # Dream Magic  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Sleepwalker Dedication](compendium/feats/sleepwalker-dedication-da.md)
+- **Prerequisites**: [Sleepwalker Dedication](sleepwalker-dedication-da.md)
 
 You learn dream-related magic to aid your studies. Choose dream message or sleep upon taking this feat; you learn this spell as a 4th-level innate occult spell. If you choose sleep, you can cast the spell only while in a Daydream Trance. You become trained in occult spell attack rolls and spell DCs, and your spellcasting ability for these spells is Wisdom.
 

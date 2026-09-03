@@ -11,13 +11,13 @@ tags:
 aliases: ["Mind Swap"]
 ---
 # Mind Swap *Ritual 5*  
-[mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [possession](rules/traits/possession.md "Possession Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [possession](archive/srd/pf2e/rules/traits/possession.md "Possession Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** a pair of jeweled mirrors worth a total value of 50 gp × the level of the highest-level target
 - **Secondary Casters** 1
-- **Primary Checks** [Occultism](compendium/skills.md#Occultism) (expert)
-- **Secondary Checks** [Medicine](compendium/skills.md#Medicine) or [Occultism](compendium/skills.md#Occultism)
+- **Primary Checks** [Occultism](skills.md#Occultism) (expert)
+- **Secondary Checks** [Medicine](skills.md#Medicine) or [Occultism](skills.md#Occultism)
 - **Range**: 10 feet
 - **Targets**: 2 creatures of the same ancestry, of up to twice the level of mind swap
 
@@ -26,10 +26,10 @@ This ritual allows two subjects to exchange minds, fully inhabiting one another'
 If a body dies, the mind and spirit controlling it dies instantly. When the spell ends, the minds and souls snap back to their original bodies. At this time, if the original body is dead, the mind and soul attempting to return to that body die as well.
 
 > [!success-degree] 
-> - **Critical Success** Each target's mind and spirit possess the other's body and can control it normally. The mind swap is unusually smooth, and the targets gain a +4 circumstance bonus to [Deception](compendium/skills.md#Deception) checks to [Impersonate](rules/actions/impersonate.md) each other.
+> - **Critical Success** Each target's mind and spirit possess the other's body and can control it normally. The mind swap is unusually smooth, and the targets gain a +4 circumstance bonus to [Deception](skills.md#Deception) checks to [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md) each other.
 > - **Success** Each target's mind and spirit possess the other's body and can control it normally.
 > - **Failure** The ritual has no effect.
-> - **Critical Failure** The ritual is scrambled, sending a welter of [confused](rules/conditions.md#Confused) memories into the target's minds. You and the secondary casters are [stupefied](rules/conditions.md#Stupefied) for the next week.
+> - **Critical Failure** The ritual is scrambled, sending a welter of [confused](archive/srd/pf2e/rules/conditions.md#Confused) memories into the target's minds. You and the secondary casters are [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for the next week.
 
 **Heightened (9th)** You can cast the ritual without a duration, leaving no magic to counteract. The effects are reversible only by another mind swap ritual or powerful magic like wish. This increases the cost of the ritual to 10,000 gp and is an evil act unless both targets are willing.
 

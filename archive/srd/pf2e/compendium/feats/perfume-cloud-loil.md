@@ -7,8 +7,8 @@ tags:
 - trait/ghoran
 aliases: ["Perfume Cloud"]
 ---
-# Perfume Cloud  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[disease](rules/traits/disease.md "Disease Effect Trait")  [ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
+# Perfume Cloud  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
+[disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait")  [ghoran](ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Two-Action
@@ -17,9 +17,9 @@ You issue a cloud of your fragrance like a full-body sneeze—but one that might
 
 > [!success-degree] 
 > - **Critical Success** No effect.
-> - **Success** The creature is [dazzled](rules/conditions.md#Dazzled) for 1 round.
-> - **Failure** The creature is [dazzled](rules/conditions.md#Dazzled) and can see only 10 feet away for 1 round.
-> - **Critical Failure** The creature is [blinded](rules/conditions.md#Blinded) for 1 round.
+> - **Success** The creature is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 round.
+> - **Failure** The creature is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) and can see only 10 feet away for 1 round.
+> - **Critical Failure** The creature is [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) for 1 round.
 
 *Source: Lost Omens: Impossible Lands p. 38*  
 %% #compendium/src/pf2e/loil #trait/disease #trait/ghoran %%

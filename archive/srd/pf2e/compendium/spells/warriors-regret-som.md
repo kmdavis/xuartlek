@@ -11,10 +11,10 @@ tags:
 aliases: ["Warrior's Regret"]
 ---
 # Warrior's Regret *Spell 2*   
-[curse](rules/traits/curse.md "Curse Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Saving Throw**: Will

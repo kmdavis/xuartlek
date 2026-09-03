@@ -11,7 +11,7 @@ tags:
 aliases: ["Linnorm's Sankeit"]
 ---
 # Linnorm's Sankeit *Item 18*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 22750 gp
 - **Craft Requirements** The initial raw materials must include the hide and skull of a taiga linnorm (Bestiary 2 164).

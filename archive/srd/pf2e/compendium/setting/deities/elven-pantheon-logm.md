@@ -21,8 +21,8 @@ aliases: ["Elven Pantheon"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Intelligence
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md), [shortbow](compendium/equipment/items/shortbow.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [magic](compendium/setting/domains.md#Magic), [moon](compendium/setting/domains.md#Moon), [nature](compendium/setting/domains.md#Nature)
-- **Cleric Spells**: 1st: [shillelagh](compendium/spells/shillelagh.md); 2nd: [shape wood](compendium/spells/shape-wood.md); 5th: [tree stride](compendium/spells/tree-stride.md)
+- **Favored Weapon**: [longbow](archive/srd/pf2e/compendium/equipment/items/longbow.md), [shortbow](archive/srd/pf2e/compendium/equipment/items/shortbow.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [moon](archive/srd/pf2e/compendium/setting/domains.md#Moon), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature)
+- **Cleric Spells**: 1st: [shillelagh](shillelagh.md); 2nd: [shape wood](archive/srd/pf2e/compendium/spells/shape-wood.md); 5th: [tree stride](tree-stride.md)

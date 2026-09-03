@@ -20,8 +20,8 @@ aliases: ["Ra", "King of the Heavens"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Intelligence
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
-- **Domains**: [fire](compendium/setting/domains.md#Fire), [nature](compendium/setting/domains.md#Nature), [sun](compendium/setting/domains.md#Sun), [time](compendium/setting/domains.md#Time)
-- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 2nd: [flaming sphere](compendium/spells/flaming-sphere.md); 3rd: threefold aspect
+- **Favored Weapon**: [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun), [time](archive/srd/pf2e/compendium/setting/domains.md#Time)
+- **Cleric Spells**: 1st: [burning hands](burning-hands.md); 2nd: [flaming sphere](flaming-sphere.md); 3rd: threefold aspect

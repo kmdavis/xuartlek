@@ -8,14 +8,14 @@ tags:
 aliases: ["Confounding Betrayal"]
 ---
 # Confounding Betrayal *Hazard 8*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +21 expert  
 
 Allies appear to shed their disguises and reveal themselves to be malevolent monsters.
 
-- **Disable** DC 28 [Deception](compendium/skills.md#Deception) (expert) twice to confound the haunt with your own deceptions, or DC 28 [Occultism](compendium/skills.md#Occultism) (trained) twice to create a ward against the haunt's mental influence  
+- **Disable** DC 28 [Deception](skills.md#Deception) (expert) twice to confound the haunt with your own deceptions, or DC 28 [Occultism](skills.md#Occultism) (trained) twice to create a ward against the haunt's mental influence  
 
 ```ad-embed-ability
 title: **Unmask** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([illusion](rules/traits/illusion.md), [occult](rules/traits/occult.md))

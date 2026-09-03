@@ -9,21 +9,21 @@ tags:
 aliases: ["Cup Of Dust"]
 ---
 # Cup Of Dust *Spell 3*   
-[curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 living creature
 - **Saving Throw**: Fortitude
 - **Duration**: 1 day
 
-You curse the target with a thirst no drink can quench. You can [Dismiss](rules/actions/dismiss.md) the spell. The target must attempt a Fortitude save.
+You curse the target with a thirst no drink can quench. You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the spell. The target must attempt a Fortitude save.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected and is temporarily immune for 1 hour.
-> - **Success** The creature is [fatigued](rules/conditions.md#Fatigued) for 1 round.
-> - **Failure** The creature is immediately afflicted by thirst as if it hadn't had a drink in days. It becomes [fatigued](rules/conditions.md#Fatigued) and takes `1d4` damage each hour that can't be healed until it quenches its thirst. No amount of drinking can quench the creature's thirst during the spell's duration.
+> - **Success** The creature is [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) for 1 round.
+> - **Failure** The creature is immediately afflicted by thirst as if it hadn't had a drink in days. It becomes [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) and takes `1d4` damage each hour that can't be healed until it quenches its thirst. No amount of drinking can quench the creature's thirst during the spell's duration.
 > - **Critical Failure** As failure but the creature takes `2d4` damage each hour, twice as much as usual for thirst.
 
 **Heightened (+ 3)** The thirst becomes more unbearable, increasing the damage each hour by `1d4`, or by `2d4` on a critical failure.

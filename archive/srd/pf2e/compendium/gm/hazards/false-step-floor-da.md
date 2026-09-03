@@ -10,14 +10,14 @@ tags:
 aliases: ["False Step Floor"]
 ---
 # False Step Floor *Hazard 6*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25  
 
 Each time a creature enters the room, it slips through the floor, tumbles through an interdimensional void, and falls back into the room through the ceiling, landing on the floor.
 
-- **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) (trained) to disrupt the magical energy, or DC 27 [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (trained) to realign the magical energy  
+- **Disable** DC 28 [Thievery](skills.md#Thievery) (trained) to disrupt the magical energy, or DC 27 [Arcana](skills.md#Arcana) or [Occultism](skills.md#Occultism) (trained) to realign the magical energy  
 
 ```ad-embed-ability
 title: **False Step** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [conjuration](rules/traits/conjuration.md), [teleportation](rules/traits/teleportation.md))

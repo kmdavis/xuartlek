@@ -12,7 +12,7 @@ tags:
 aliases: ["Dragonscale Cameo"]
 ---
 # Dragonscale Cameo *Item 12*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 400 gp
 - **Craft Requirements** Supply one scale from an adult or older dragon.

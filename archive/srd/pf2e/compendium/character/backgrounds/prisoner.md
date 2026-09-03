@@ -17,4 +17,4 @@ In your adventuring life, you take full advantage of your newfound freedom.
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [Stealth](compendium/skills.md#Stealth) skill and the [Underworld Lore](compendium/skills.md#Lore) skill. You gain the [Experienced Smuggler](compendium/feats/experienced-smuggler.md) skill feat.
+You're trained in the [Stealth](skills.md#Stealth) skill and the [Underworld Lore](skills.md#Lore) skill. You gain the [Experienced Smuggler](archive/srd/pf2e/compendium/feats/experienced-smuggler.md) skill feat.

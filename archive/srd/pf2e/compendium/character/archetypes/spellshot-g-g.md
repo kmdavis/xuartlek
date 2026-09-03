@@ -7,7 +7,7 @@ aliases: ["Spellshot"]
 ---
 # Spellshot *Dedication Level 2*  
 
-**Rarity:** [Uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")
+**Rarity:** [Uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")
 
 Spellshots aren't ordinary gunslingers. They come from a tradition of ancient secrets and principles, which they temper with modern innovation and perspective. Spellshots combine magical power into the art of gunplay to create a distinct and mystical way known only to spellshots, enigmatic and unavailable to other gunslingers in the world at large. The first to identify themselves as spellshots tied their magical traditions to the history of the Star Code and the Crowned Regents in Arcadia. Ancient, reclusive crafters known as the Crowned Regents created star guns, the legendary magical firearms that shot white-hot blasts of energy. Wielders of star guns became bound together by the Star Code—a set of cultural expectations that defined how one should behave while using these powerful weapons. You can find more information about star guns, the Crowned Regents, and the Star Code on page 206.
 
@@ -16,14 +16,14 @@ Most spellshots continue to come from Arcadia, as the stories describing the rel
 ## Way of the Spellshot
 <sup>G&G p. 140</sup>
 
-You've learned the intricacies of magic and technology, blending the two together with deadly results. You combine a knowledge of arcane theories with a strong connection to your chosen weapon that allows you to manifest unique effects, though your knowledge doesn't extend as far as actual spellcasting. You can imbue energy into your weapon and conjure bullets from thin air. As you progress, you eventually learn to phase bullets through walls or even to teleport yourself along the path of your bullets. You must select [Spellshot Dedication](compendium/feats/spellshot-dedication-g-g.md) as your 2nd-level class feat.
+You've learned the intricacies of magic and technology, blending the two together with deadly results. You combine a knowledge of arcane theories with a strong connection to your chosen weapon that allows you to manifest unique effects, though your knowledge doesn't extend as far as actual spellcasting. You can imbue energy into your weapon and conjure bullets from thin air. As you progress, you eventually learn to phase bullets through walls or even to teleport yourself along the path of your bullets. You must select [Spellshot Dedication](spellshot-dedication-g-g.md) as your 2nd-level class feat.
 
 - **Prerequisites.** You must be a gunslinger.
 - **Spellshot Adjustments.** Instead of choosing a way from the options listed in the gunslinger class, you have the way of the spellshot. It has the following way skill, slinger's reload, and deeds. You gain these abilities at the same levels as normal for the class. You use Intelligence for your class DC.
 
-- **Way Skill.** [Arcana](compendium/skills.md#Arcana)
-- **Slinger's Reload.** [Thoughtful Reload](rules/actions/thoughtful-reload-g-g.md)
-- **Deeds.** _Initial_ [Energy Shot](rules/actions/energy-shot-g-g.md); _Advanced_ [Recall Ammunition](rules/actions/recall-ammunition-g-g.md); _Greater_ [Dispelling Bullet](rules/actions/dispelling-bullet-g-g.md)
+- **Way Skill.** [Arcana](skills.md#Arcana)
+- **Slinger's Reload.** [Thoughtful Reload](thoughtful-reload-g-g.md)
+- **Deeds.** _Initial_ [Energy Shot](energy-shot-g-g.md); _Advanced_ [Recall Ammunition](recall-ammunition-g-g.md); _Greater_ [Dispelling Bullet](dispelling-bullet-g-g.md)
 
 ### Slinger's Reload
 <sup>G&G p. 140</sup>

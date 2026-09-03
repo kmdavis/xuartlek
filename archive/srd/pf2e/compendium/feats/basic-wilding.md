@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Wilding"]
 ---
 # Basic Wilding  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Druid Dedication](compendium/feats/druid-dedication.md)
+- **Prerequisites**: [Druid Dedication](archive/srd/pf2e/compendium/feats/druid-dedication.md)
 
 You gain a 1st- or 2nd-level druid feat.
 
 ## Basic Wilding leads to...
 
-[Advanced Wilding](compendium/feats/advanced-wilding.md)
+[Advanced Wilding](archive/srd/pf2e/compendium/feats/advanced-wilding.md)
 
 ## Summary
 

@@ -11,7 +11,7 @@ aliases: ["Heavy Crossbow"]
 - **Price** 4 gp
 - **Bulk** 2
   - **Damage**: `1d10` P
-  - **Ammunution** [Bolt](compendium/equipment/items/bolt.md); **Range** 120 ft.; **Reload** 2
+  - **Ammunution** [Bolt](bolt.md); **Range** 120 ft.; **Reload** 2
 - **Hands** 2
 - **Category** Simple; **Group** Bow 
 

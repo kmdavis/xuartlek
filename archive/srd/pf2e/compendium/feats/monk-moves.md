@@ -7,9 +7,9 @@ tags:
 aliases: ["Monk Moves"]
 ---
 # Monk Moves  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Monk Dedication](compendium/feats/monk-dedication.md)
+- **Prerequisites**: [Monk Dedication](archive/srd/pf2e/compendium/feats/monk-dedication.md)
 
 You gain a +10-foot status bonus to your Speed when you're not wearing armor.
 

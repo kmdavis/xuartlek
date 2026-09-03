@@ -9,23 +9,23 @@ tags:
 aliases: ["Worm's Repast"]
 ---
 # Worm's Repast *Spell 2*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 corporeal creature
 - **Saving Throw**: Fortitude
 - **Duration**: see below
 
-Gnawing worms materialize within the flesh of the target creature, dealing `4d6` piercing damage and `1d6` [persistent piercing damage](rules/conditions.md#Persistent%20Damage). If the target is a non-skeletal corporeal undead creature, you deal an extra `2d6` [persistent piercing damage](rules/conditions.md#Persistent%20Damage). The target must attempt a Fortitude save.
+Gnawing worms materialize within the flesh of the target creature, dealing `4d6` piercing damage and `1d6` [persistent piercing damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage). If the target is a non-skeletal corporeal undead creature, you deal an extra `2d6` [persistent piercing damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage). The target must attempt a Fortitude save.
 
 > [!success-degree] 
 > - **Critical Success** The worms writhe away harmlessly and the target takes no damage.
-> - **Success** The target takes full initial damage but no [persistent damage](rules/conditions.md#Persistent%20Damage), and the spell ends immediately.
-> - **Failure** The target takes full initial and [persistent damage](rules/conditions.md#Persistent%20Damage) and is [flat-footed](rules/conditions.md#Flat-footed) due to the pain for as long as it takes [persistent damage](rules/conditions.md#Persistent%20Damage).
-> - **Critical Failure** As failure, but the target takes double the initial damage and is also [slowed](rules/conditions.md#Slowed) by the pain for as long as it takes [persistent damage](rules/conditions.md#Persistent%20Damage).
+> - **Success** The target takes full initial damage but no [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), and the spell ends immediately.
+> - **Failure** The target takes full initial and [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) and is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) due to the pain for as long as it takes [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
+> - **Critical Failure** As failure, but the target takes double the initial damage and is also [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) by the pain for as long as it takes [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
-**Heightened (+ 2)** : The initial and [persistent damage](rules/conditions.md#Persistent%20Damage) increase by `2d6` and `1d6`, respectively.
+**Heightened (+ 2)** : The initial and [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) increase by `2d6` and `1d6`, respectively.
 
 *Source: Abomination Vaults #1: Ruins of Gauntlight p. 80*

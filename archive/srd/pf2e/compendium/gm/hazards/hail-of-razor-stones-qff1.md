@@ -8,14 +8,14 @@ tags:
 aliases: ["Hail of Razor Stones"]
 ---
 # Hail of Razor Stones *Hazard 2*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 21 trained  
 
-When a [concealed](rules/conditions.md#Concealed) cord is tripped, several sharp stones fall onto the square containing the cord.
+When a [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) cord is tripped, several sharp stones fall onto the square containing the cord.
 
-- **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) (trained) to safely cut the trip cord  
+- **Disable** DC 18 [Thievery](skills.md#Thievery) (trained) to safely cut the trip cord  
 
 - **AC** 16, **Fort** +9, **Ref** +5
 - **Hardness** 8, **HP** 32 (BT 16)

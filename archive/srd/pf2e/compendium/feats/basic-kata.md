@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Kata"]
 ---
 # Basic Kata  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Monk Dedication](compendium/feats/monk-dedication.md)
+- **Prerequisites**: [Monk Dedication](archive/srd/pf2e/compendium/feats/monk-dedication.md)
 
 You gain a 1st- or 2nd-level monk feat.
 
 ## Basic Kata leads to...
 
-[Advanced Kata](compendium/feats/advanced-kata.md)
+[Advanced Kata](archive/srd/pf2e/compendium/feats/advanced-kata.md)
 
 ## Summary
 

@@ -10,8 +10,8 @@ tags:
 - trait/water
 aliases: ["Winter's Clutch"]
 ---
-# Winter's Clutch  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
-[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+# Winter's Clutch  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
+[cold](archive/srd/pf2e/rules/traits/cold.md "Cold Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Activity** Two-Action
 

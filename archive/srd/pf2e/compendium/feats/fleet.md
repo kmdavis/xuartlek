@@ -7,14 +7,14 @@ tags:
 aliases: ["Fleet"]
 ---
 # Fleet  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  
 
 
 You move more quickly on foot. Your Speed increases by 5 feet.
 
 ## Fleet leads to...
 
-[Skitter](compendium/feats/skitter-apg.md)
+[Skitter](skitter-apg.md)
 
 ## Summary
 

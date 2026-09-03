@@ -15,4 +15,4 @@ Where you hail from, the ocean is the lifeblood of your community; knowing how i
 
 Choose two ability boosts. One must be to Charisma or Intelligence, and one is a free ability boost.
 
-You're trained in [Nature](compendium/skills.md#Nature) and [Ocean Lore](compendium/skills.md#Lore). During the night when you can see the moon, you gain a +1 circumstance bonus to [Survival](compendium/skills.md#Survival) checks to discern weather patterns and predict upcoming weather conditions—this bonus increases to +2 if you're in the vicinity of the ocean.
+You're trained in [Nature](skills.md#Nature) and [Ocean Lore](skills.md#Lore). During the night when you can see the moon, you gain a +1 circumstance bonus to [Survival](skills.md#Survival) checks to discern weather patterns and predict upcoming weather conditions—this bonus increases to +2 if you're in the vicinity of the ocean.

@@ -10,12 +10,12 @@ tags:
 aliases: ["Iris Of The Sky"]
 ---
 # Iris Of The Sky *Item 6*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 240 gp
 - **Bulk** 2; **Usage** held in 2 hands
 
-This +1 striking jezail is built from white hot metal and has a ruby fused into the palm wood stock. When the iris of the sky misfires, you take 5 [persistent fire damage](rules/conditions.md#Persistent%20Damage).
+This +1 striking jezail is built from white hot metal and has a ruby fused into the palm wood stock. When the iris of the sky misfires, you take 5 [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
 The first firearm of this type came as the result of a gunslinger who entreated an efreeti, wishing for the might of the desert sun. The weapon constantly glows and burns with a brilliant intensity. The firearm has since belonged to an extensive string of users and been replicated several times, though each wielder of the weapon, whether the original or one of its copies, has eventually ended up as a charred husk, slain by fire in battle or unusual accidents that no one could quite explain except, perhaps, the efreet.
 

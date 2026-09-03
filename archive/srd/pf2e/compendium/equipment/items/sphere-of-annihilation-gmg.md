@@ -11,7 +11,7 @@ tags:
 aliases: ["Sphere Of Annihilation"]
 ---
 # Sphere Of Annihilation *Item 27*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 
 A sphere of annihilation is a floating black sphere that pulls any matter that comes into contact with it into a void, destroying it utterly. Anything or anyone destroyed by the sphere can be brought back only by a deity's direct intervention. The sphere can't be counteracted by dispel magic or similar effects.

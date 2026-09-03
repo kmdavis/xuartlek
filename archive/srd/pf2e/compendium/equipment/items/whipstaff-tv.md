@@ -13,7 +13,7 @@ tags:
 aliases: ["Whipstaff"]
 ---
 # Whipstaff *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [parry](archive/srd/pf2e/rules/traits/parry.md "Parry Weapon Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Bulk** L

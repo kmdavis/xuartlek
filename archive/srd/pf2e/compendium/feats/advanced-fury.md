@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Fury"]
 ---
 # Advanced Fury  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Fury](compendium/feats/basic-fury.md)
+- **Prerequisites**: [Basic Fury](archive/srd/pf2e/compendium/feats/basic-fury.md)
 
 You gain one barbarian feat. For the purpose of meeting its prerequisites, your barbarian level is equal to half your character level.
 

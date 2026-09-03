@@ -7,11 +7,11 @@ tags:
 aliases: ["Fiendish Eyes"]
 ---
 # Fiendish Eyes  *Feat 1*  
-[tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
+[tiefling](tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 - **Prerequisites**: low-light vision
 
-You can see in the darkness as easily as a fiend. You gain [darkvision](rules/abilities/darkvision.md).
+You can see in the darkness as easily as a fiend. You gain [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md).
 
 **Special.** You can select this feat only at 1st level, and you can't retrain into or out of this feat.
 

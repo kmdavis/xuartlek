@@ -23,9 +23,9 @@ aliases: ["The Deliberate Journey"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [crossbow](compendium/equipment/items/crossbow.md)
-- **Domains**: [earth](compendium/setting/domains.md#Earth), [knowledge](compendium/setting/domains.md#Knowledge), [luck](compendium/setting/domains.md#Luck), [travel](compendium/setting/domains.md#Travel)
-- **Alternate Domains**: [secrecy](compendium/setting/domains.md#Secrecy), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [longstrider](compendium/spells/longstrider.md); 2nd: [knock](compendium/spells/knock.md); 9th: [resplendent mansion](compendium/spells/resplendent-mansion.md)
+- **Favored Weapon**: [crossbow](archive/srd/pf2e/compendium/equipment/items/crossbow.md)
+- **Domains**: [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [luck](archive/srd/pf2e/compendium/setting/domains.md#Luck), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel)
+- **Alternate Domains**: [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [longstrider](longstrider.md); 2nd: [knock](archive/srd/pf2e/compendium/spells/knock.md); 9th: [resplendent mansion](archive/srd/pf2e/compendium/spells/resplendent-mansion.md)

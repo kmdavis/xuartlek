@@ -11,15 +11,15 @@ tags:
 aliases: ["Garrote Bolt"]
 ---
 # Garrote Bolt *Item 15*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1200 gp
-- **Ammunition** [bolt](compendium/equipment/items/bolt.md)
-- **Activate** [Interact](rules/actions/interact.md)
+- **Ammunition** [bolt](bolt.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 The shaft of this silver bolt is engraved with wiry designs.
 
-When a garrote bolt hits a target, it transforms into a silver garrote and wraps around one of the target's appendages, dealing an additional `2d12` [persistent slashing damage](rules/conditions.md#Persistent%20Damage). On a critical hit, it wraps around the target's throat, and the target can't breathe until the [persistent damage](rules/conditions.md#Persistent%20Damage) ends.
+When a garrote bolt hits a target, it transforms into a silver garrote and wraps around one of the target's appendages, dealing an additional `2d12` [persistent slashing damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage). On a critical hit, it wraps around the target's throat, and the target can't breathe until the [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) ends.
 
 
 ---

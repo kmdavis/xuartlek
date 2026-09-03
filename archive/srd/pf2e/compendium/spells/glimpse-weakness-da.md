@@ -11,14 +11,14 @@ tags:
 aliases: ["Glimpse Weakness"]
 ---
 # Glimpse Weakness *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](divination.md "Divination School Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 60 foot
 - **Targets**: 1 creature
 - **Duration**: 1 minute
 
-You glimpse a loose scale, a seam in a foe's armor, or a similar weakness, aiding your allies in landing a precise hit. The first ally that hits the target with a successful [Strike](rules/actions/strike.md) deals additional precision damage equal to 1 + this spell's level, and then the spell ends.
+You glimpse a loose scale, a seam in a foe's armor, or a similar weakness, aiding your allies in landing a precise hit. The first ally that hits the target with a successful [Strike](archive/srd/pf2e/rules/actions/strike.md) deals additional precision damage equal to 1 + this spell's level, and then the spell ends.
 
 ## Amp
 

@@ -7,14 +7,14 @@ tags:
 aliases: ["Gnoll Weapon Familiarity"]
 ---
 # Gnoll Weapon Familiarity  *Feat 1*  
-[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
+[gnoll](gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 
-You were taught to be a hunter and a raider. You are trained with [flails](compendium/equipment/items/flail.md), khopeshes, mambeles, [spears](compendium/equipment/items/spear.md), and [war flails](compendium/equipment/items/war-flail.md).
+You were taught to be a hunter and a raider. You are trained with [flails](archive/srd/pf2e/compendium/equipment/items/flail.md), khopeshes, mambeles, [spears](archive/srd/pf2e/compendium/equipment/items/spear.md), and [war flails](archive/srd/pf2e/compendium/equipment/items/war-flail.md).
 
 ## Gnoll Weapon Familiarity leads to...
 
-[Gnoll Weapon Practicality](compendium/feats/gnoll-weapon-practicality-lome.md), [Gnoll Weapon Expertise](compendium/feats/gnoll-weapon-expertise-lome.md)
+[Gnoll Weapon Practicality](gnoll-weapon-practicality-lome.md), [Gnoll Weapon Expertise](gnoll-weapon-expertise-lome.md)
 
 ## Summary
 

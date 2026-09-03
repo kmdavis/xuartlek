@@ -8,7 +8,7 @@ tags:
 aliases: ["Air Cartridge Firing System"]
 ---
 # Air Cartridge Firing System *Item 4*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 75 gp
 - **Usage** attached <to firearm (firing mechanism)>

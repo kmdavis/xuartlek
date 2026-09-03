@@ -11,10 +11,10 @@ tags:
 - trait/teleportation
 aliases: ["Swap Reflections"]
 ---
-# Swap Reflections  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+# Swap Reflections  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [extradimensional](archive/srd/pf2e/rules/traits/extradimensional.md "Extradimensional Effect Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  
 
-- **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
+- **Prerequisites**: [Alter Ego Dedication](alter-ego-dedication-da.md)
 - **Frequency**: once per 10 minutes
 - **Activity** Two-Action
 

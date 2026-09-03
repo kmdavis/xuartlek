@@ -11,12 +11,12 @@ tags:
 aliases: ["Serpent Oil"]
 ---
 # Serpent Oil *Item 3+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [oil](archive/srd/pf2e/rules/traits/oil.md "Oil Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-This glistening oil has a green hue and tiny snake scales floating within. If you slather serpent oil on a Tiny object that is snakelike in shape, from a stick to a scarf, the object transforms into a viper, keeping some of the same colors and patterns of the original item. If placed on other objects, the oil fails and is wasted. This false snake has the [minion](rules/traits/minion.md "Minion Creature Trait") trait. It remains in snake form for 1 minute before returning to its object state. If slain, the item returns to its original form, unharmed.
+This glistening oil has a green hue and tiny snake scales floating within. If you slather serpent oil on a Tiny object that is snakelike in shape, from a stick to a scarf, the object transforms into a viper, keeping some of the same colors and patterns of the original item. If placed on other objects, the oil fails and is wasted. This false snake has the [minion](archive/srd/pf2e/rules/traits/minion.md "Minion Creature Trait") trait. It remains in snake form for 1 minute before returning to its object state. If slain, the item returns to its original form, unharmed.
 
 ---
 

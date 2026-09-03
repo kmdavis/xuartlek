@@ -7,11 +7,11 @@ tags:
 aliases: ["Overpowering Charge (Fighter)"]
 ---
 # Overpowering Charge (Fighter)  *Feat 10*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Prerequisites**: Barreling Charge
 
-You trample foes as you charge past. When you use Barreling Charge and successfully move through a creature's space, that creature takes bludgeoning damage equal to your Strength modifier. On a critical success, the creature takes double damage and is [flat-footed](rules/conditions.md#Flat-footed) until the end of your next turn.
+You trample foes as you charge past. When you use Barreling Charge and successfully move through a creature's space, that creature takes bludgeoning damage equal to your Strength modifier. On a critical success, the creature takes double damage and is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until the end of your next turn.
 
 *Source: Advanced Player's Guide p. 127*  
 %% #compendium/src/pf2e/apg #trait/fighter %%

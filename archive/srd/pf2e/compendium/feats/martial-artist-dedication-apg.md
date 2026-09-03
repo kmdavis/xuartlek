@@ -8,10 +8,10 @@ tags:
 aliases: ["Martial Artist Dedication"]
 ---
 # Martial Artist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
 
-You have trained to use your fists as deadly weapons. The damage die for your fist unarmed attacks becomes `1d6` instead of `1d4`. You don't take the –2 circumstance penalty for making a lethal attack with your [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") unarmed attacks.
+You have trained to use your fists as deadly weapons. The damage die for your fist unarmed attacks becomes `1d6` instead of `1d4`. You don't take the –2 circumstance penalty for making a lethal attack with your [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait") unarmed attacks.
 
 Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all unarmed attacks.
 
@@ -19,7 +19,7 @@ Whenever you gain a class feature that grants you expert or greater proficiency 
 
 ## Martial Artist Dedication leads to...
 
-[Follow-up Strike](compendium/feats/follow-up-strike-apg.md), [Grievous Blow](compendium/feats/grievous-blow-apg.md), [Path Of Iron](compendium/feats/path-of-iron-apg.md), [Powder Punch Stance](compendium/feats/powder-punch-stance-ooa1.md), [Black Powder Flash](compendium/feats/black-powder-flash-ooa1.md), [Thunder Clap](compendium/feats/thunder-clap-ooa1.md)
+[Follow-up Strike](follow-up-strike-apg.md), [Grievous Blow](grievous-blow-apg.md), [Path Of Iron](path-of-iron-apg.md), [Powder Punch Stance](powder-punch-stance-ooa1.md), [Black Powder Flash](black-powder-flash-ooa1.md), [Thunder Clap](thunder-clap-ooa1.md)
 
 ## Summary
 

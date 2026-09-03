@@ -12,7 +12,7 @@ tags:
 aliases: ["Gnome Hooked Hammer"]
 ---
 # Gnome Hooked Hammer *Item 0*  
-[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
+[gnome](archive/srd/pf2e/rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

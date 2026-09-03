@@ -10,13 +10,13 @@ tags:
 aliases: ["Vigilant Eye"]
 ---
 # Vigilant Eye *Focus 4*   
-[divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+[divination](divination.md "Divination School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 500 foot
 - **Duration**: 1 hour
 
-You create an [invisible](rules/conditions.md#Invisible) eye sensor, as [clairvoyance](compendium/spells/clairvoyance.md).
+You create an [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) eye sensor, as [clairvoyance](archive/srd/pf2e/compendium/spells/clairvoyance.md).
 
 When created, this eye must be in your line of sight. When the spell's duration ends, you can spend 1 Focus Point as a free action to extend the duration for another hour, though as normal, it ends immediately during your next daily preparations.
 

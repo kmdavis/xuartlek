@@ -7,9 +7,9 @@ tags:
 aliases: ["Swashbuckler's Riposte"]
 ---
 # Swashbuckler's Riposte  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Swashbuckler Dedication](compendium/feats/swashbuckler-dedication-apg.md)
+- **Prerequisites**: [Swashbuckler Dedication](swashbuckler-dedication-apg.md)
 
 You've learned to riposte against ill-conceived attacks. You gain the Opportune Riposte|Swashbuckler|APG|3 reaction.
 

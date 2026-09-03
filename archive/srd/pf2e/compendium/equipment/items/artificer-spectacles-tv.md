@@ -11,12 +11,12 @@ tags:
 aliases: ["Artificer Spectacles"]
 ---
 # Artificer Spectacles *Item 17*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 15000 gp
 - **Bulk** —; **Usage** worn eyeglasses
 
-These seemingly ordinary rectangular eyeglasses feature clear lenses framed in copper. When invested and worn, they rest perfectly on the bridge of the nose and can only be removed by the wearer. You gain a +3 item bonus to [Crafting](compendium/skills.md#Crafting) checks and any skill check made to [Identify Magic](rules/actions/identify-magic.md).
+These seemingly ordinary rectangular eyeglasses feature clear lenses framed in copper. When invested and worn, they rest perfectly on the bridge of the nose and can only be removed by the wearer. You gain a +3 item bonus to [Crafting](skills.md#Crafting) checks and any skill check made to [Identify Magic](archive/srd/pf2e/rules/actions/identify-magic.md).
 
 When you invest the spectacles, you either increase your Intelligence score by 2 or increase it to 18, whichever is higher. You must select the skills and languages the first time you invest the item, and whenever you invest the same artificer spectacles, you get the same skills and languages you chose the first time.
 

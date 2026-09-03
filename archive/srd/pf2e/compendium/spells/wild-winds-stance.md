@@ -12,13 +12,13 @@ tags:
 aliases: ["Wild Winds Stance"]
 ---
 # Wild Winds Stance *Focus 4*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - 
 - **Duration**: until you leave the stance
 
-You take on the stance of the flowing winds, sending out waves of energy at a distance. You can make wind crash unarmed [Strikes](rules/actions/strike.md) as ranged [Strikes](rules/actions/strike.md) against targets within 30 feet. These deal `1d6` bludgeoning damage, use the brawling group, and have the [agile](rules/traits/agile.md "Agile Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits. Wind crash [Strikes](rules/actions/strike.md) ignore concealment and all cover.
+You take on the stance of the flowing winds, sending out waves of energy at a distance. You can make wind crash unarmed [Strikes](archive/srd/pf2e/rules/actions/strike.md) as ranged [Strikes](archive/srd/pf2e/rules/actions/strike.md) against targets within 30 feet. These deal `1d6` bludgeoning damage, use the brawling group, and have the [agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait"), [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [propulsive](archive/srd/pf2e/rules/traits/propulsive.md "Propulsive Weapon Trait"), and [unarmed](archive/srd/pf2e/rules/traits/unarmed.md "Unarmed Weapon Trait") traits. Wind crash [Strikes](archive/srd/pf2e/rules/actions/strike.md) ignore concealment and all cover.
 
 While in wild winds stance, you gain a +2 circumstance bonus to AC against ranged attacks.
 

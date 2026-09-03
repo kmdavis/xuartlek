@@ -10,7 +10,7 @@ tags:
 aliases: ["Courtier's Pillow Book"]
 ---
 # Courtier's Pillow Book *Item 6*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 250 gp
 - **Bulk** L

@@ -8,11 +8,11 @@ tags:
 aliases: ["Terrain Expertise"]
 ---
 # Terrain Expertise  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Survival](compendium/skills.md#Survival)
+- **Prerequisites**: trained in [Survival](skills.md#Survival)
 
-Your experience in navigating a certain type of terrain makes you supremely confident while doing so. You gain a +1 circumstance bonus to [Survival](compendium/skills.md#Survival) checks in one of the following types of terrain, chosen when you select this feat: aquatic, arctic, desert, forest, mountain, plains, sky, swamp, or underground.
+Your experience in navigating a certain type of terrain makes you supremely confident while doing so. You gain a +1 circumstance bonus to [Survival](skills.md#Survival) checks in one of the following types of terrain, chosen when you select this feat: aquatic, arctic, desert, forest, mountain, plains, sky, swamp, or underground.
 
 **Special.** You can select this feat more than once, choosing a different type of terrain each time.
 

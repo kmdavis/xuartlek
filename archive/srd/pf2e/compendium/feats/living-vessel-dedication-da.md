@@ -9,16 +9,16 @@ tags:
 aliases: ["Living Vessel Dedication"]
 ---
 # Living Vessel Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
 Whether willingly or not, you've become a vessel for a being of unimaginable power. You and your GM should work together to determine the being's nature and decide how much you know and how much remains a mystery to you for now. Some decisions might influence your options later.
 
 You might need to decide whether the entity is a demon, for instance, to know if you qualify for later feats.
 
-You need to spend at least an hour each day assuaging the entity within you or you take a –1 penalty to Will saves for 24 hours. The process of assuaging the entity is determined together between you and the GM. It might be as simple as meditating with the entity to learn more about them, but it might be as extreme as committing gruesome, unspeakable sacrifices to keep their unknowable blessings. After a full week of failing to assuage your entity, you become [doomed](rules/conditions.md#Doomed), and you can't remove or ameliorate the condition until you allow your entity to take full possession of your body for 24 hours, during which time it pursues its own agenda.
+You need to spend at least an hour each day assuaging the entity within you or you take a –1 penalty to Will saves for 24 hours. The process of assuaging the entity is determined together between you and the GM. It might be as simple as meditating with the entity to learn more about them, but it might be as extreme as committing gruesome, unspeakable sacrifices to keep their unknowable blessings. After a full week of failing to assuage your entity, you become [doomed](archive/srd/pf2e/rules/conditions.md#Doomed), and you can't remove or ameliorate the condition until you allow your entity to take full possession of your body for 24 hours, during which time it pursues its own agenda.
 
-You also gain the Entity's Resurgence reaction, allowing you to unleash your entity in lieu of falling [unconscious](rules/conditions.md#Unconscious), though at the risk of letting it enact its will.
+You also gain the Entity's Resurgence reaction, allowing you to unleash your entity in lieu of falling [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious), though at the risk of letting it enact its will.
 
 ```ad-embed-ability
 title: **Entity's Resurgence** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
@@ -36,7 +36,7 @@ No matter the entity's nature, the entity is sure to wreak vengeance upon the fo
 
 ## Living Vessel Dedication leads to...
 
-[Entity's Strike](compendium/feats/entitys-strike-da.md), [Tap Vitality](compendium/feats/tap-vitality-da.md), [Exude Abyssal Corruption](compendium/feats/exude-abyssal-corruption-da.md), [Fey's Trickery](compendium/feats/feys-trickery-da.md), [Warped Constriction](compendium/feats/warped-constriction-da.md), [Vessel's Form](compendium/feats/vessels-form-da.md)
+[Entity's Strike](entitys-strike-da.md), [Tap Vitality](tap-vitality-da.md), [Exude Abyssal Corruption](exude-abyssal-corruption-da.md), [Fey's Trickery](feys-trickery-da.md), [Warped Constriction](warped-constriction-da.md), [Vessel's Form](vessels-form-da.md)
 
 ## Summary
 

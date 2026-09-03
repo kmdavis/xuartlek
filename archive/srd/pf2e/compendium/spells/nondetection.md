@@ -9,9 +9,9 @@ tags:
 aliases: ["Nondetection"]
 ---
 # Nondetection *Spell 3*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**: touch
 - **Targets**: 1 creature or object

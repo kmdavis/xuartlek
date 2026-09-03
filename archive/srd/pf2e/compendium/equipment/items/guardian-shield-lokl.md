@@ -11,7 +11,7 @@ tags:
 aliases: ["Guardian Shield"]
 ---
 # Guardian Shield *Item 11*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 1200 gp

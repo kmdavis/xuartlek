@@ -11,7 +11,7 @@ aliases: ["Lock"]
 - **Bulk** —
 - **Hands** 2
 
-Picking a poor lock requires two successful DC 15 [Thievery](compendium/skills.md#Thievery) checks, a simple lock requires three successful DC 20 [Thievery](compendium/skills.md#Thievery) checks, an average lock requires four successes at DC 25, a good lock requires five successes at DC 30, and a superior lock six successes at DC 40.
+Picking a poor lock requires two successful DC 15 [Thievery](skills.md#Thievery) checks, a simple lock requires three successful DC 20 [Thievery](skills.md#Thievery) checks, an average lock requires four successes at DC 25, a good lock requires five successes at DC 30, and a superior lock six successes at DC 40.
 
 ---
 

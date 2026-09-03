@@ -11,7 +11,7 @@ tags:
 aliases: ["Headband of Inspired Wisdom"]
 ---
 # Headband of Inspired Wisdom *Item 17*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 15000 gp
 - **Bulk** —; **Usage** worn circlet

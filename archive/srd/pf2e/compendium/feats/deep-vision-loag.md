@@ -7,10 +7,10 @@ tags:
 aliases: ["Deep Vision"]
 ---
 # Deep Vision  *Feat 1*  
-[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
+[fleshwarp](fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 
-Your vision is suited for night or the underground. You gain [darkvision](rules/abilities/darkvision.md).
+Your vision is suited for night or the underground. You gain [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md).
 
 *Source: Lost Omens: Ancestry Guide p. 93*  
 %% #compendium/src/pf2e/loag #trait/fleshwarp %%

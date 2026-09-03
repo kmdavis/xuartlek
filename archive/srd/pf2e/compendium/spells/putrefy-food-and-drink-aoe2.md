@@ -8,10 +8,10 @@ tags:
 aliases: ["Putrefy Food And Drink"]
 ---
 # Putrefy Food And Drink *Spell 1*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 cubic foot of clean food or water
 

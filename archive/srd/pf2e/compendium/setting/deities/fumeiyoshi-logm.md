@@ -20,8 +20,8 @@ aliases: ["Fumeiyoshi", "Lord of Envy"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
 - **Favored Weapon**: naginata
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [destruction](compendium/setting/domains.md#Destruction), [earth](compendium/setting/domains.md#Earth), [undeath](compendium/setting/domains.md#Undeath)
-- **Cleric Spells**: 1st: [grim tendrils](compendium/spells/grim-tendrils.md); 2nd: [feast of ashes](compendium/spells/feast-of-ashes-logm.md); 7th: [possession](compendium/spells/possession.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [undeath](archive/srd/pf2e/compendium/setting/domains.md#Undeath)
+- **Cleric Spells**: 1st: [grim tendrils](archive/srd/pf2e/compendium/spells/grim-tendrils.md); 2nd: [feast of ashes](feast-of-ashes-logm.md); 7th: [possession](archive/srd/pf2e/compendium/spells/possession.md)

@@ -6,17 +6,17 @@ tags:
 - trait/gunslinger
 aliases: ["Hit The Dirt!"]
 ---
-# Hit The Dirt!  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
+# Hit The Dirt!  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[gunslinger](archive/srd/pf2e/rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
-- **Trigger** A creature you can see attempts a ranged [Strike](rules/actions/strike.md) against you.
+- **Trigger** A creature you can see attempts a ranged [Strike](archive/srd/pf2e/rules/actions/strike.md) against you.
 - **Activity** Reaction
 
-You fling yourself out of harm's way. You [Leap](rules/actions/leap.md). Your movement gives you a +2 circumstance bonus to AC against the triggering attack. Regardless of whether or not the triggering attack hits, you land [prone](rules/conditions.md#Prone) after completing your [Leap](rules/actions/leap.md).
+You fling yourself out of harm's way. You [Leap](archive/srd/pf2e/rules/actions/leap.md). Your movement gives you a +2 circumstance bonus to AC against the triggering attack. Regardless of whether or not the triggering attack hits, you land [prone](archive/srd/pf2e/rules/conditions.md#Prone) after completing your [Leap](archive/srd/pf2e/rules/actions/leap.md).
 
 ## Hit The Dirt! leads to...
 
-[Leap And Fire](compendium/feats/leap-and-fire-g-g.md)
+[Leap And Fire](leap-and-fire-g-g.md)
 
 ## Summary
 

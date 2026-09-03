@@ -20,8 +20,8 @@ aliases: ["Thoth", "Lord of Divine Words"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Arcana
-- **Favored Weapon**: [sickle](compendium/equipment/items/sickle.md)
-- **Domains**: [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [magic](compendium/setting/domains.md#Magic), [moon](compendium/setting/domains.md#Moon)
-- **Cleric Spells**: 1st: message rune; 2nd: [comprehend language](compendium/spells/comprehend-language.md); 3rd: [secret page](compendium/spells/secret-page.md)
+- **Favored Weapon**: [sickle](archive/srd/pf2e/compendium/equipment/items/sickle.md)
+- **Domains**: [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [moon](archive/srd/pf2e/compendium/setting/domains.md#Moon)
+- **Cleric Spells**: 1st: message rune; 2nd: [comprehend language](comprehend-language.md); 3rd: [secret page](secret-page.md)

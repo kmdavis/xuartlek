@@ -27,14 +27,14 @@ aliases: ["Hei Feng", "Duke of Thunder"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Performance
-- **Favored Weapon**: [nine-ring sword](compendium/equipment/items/nine-ring-sword-logm.md)
-- **Domains**: [air](compendium/setting/domains.md#Air), [indulgence](compendium/setting/domains.md#Indulgence), [lightning](compendium/setting/domains.md#Lightning), [water](compendium/setting/domains.md#Water)
-- **Alternate Domains**: [destruction](compendium/setting/domains.md#Destruction), [travel](compendium/setting/domains.md#Travel)
-- **Cleric Spells**: 1st: [gust of wind](compendium/spells/gust-of-wind.md); 2nd: [hydraulic torrent](compendium/spells/hydraulic-torrent.md); 3rd: [chain lightning](compendium/spells/chain-lightning.md)
+- **Favored Weapon**: [nine-ring sword](nine-ring-sword-logm.md)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [lightning](archive/srd/pf2e/compendium/setting/domains.md#Lightning), [water](archive/srd/pf2e/compendium/setting/domains.md#Water)
+- **Alternate Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel)
+- **Cleric Spells**: 1st: [gust of wind](archive/srd/pf2e/compendium/spells/gust-of-wind.md); 2nd: [hydraulic torrent](archive/srd/pf2e/compendium/spells/hydraulic-torrent.md); 3rd: [chain lightning](archive/srd/pf2e/compendium/spells/chain-lightning.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Hei Feng gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Hei Feng gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Hei Feng
@@ -50,10 +50,10 @@ title: [Avatar](compendium/spells/avatar.md) of Hei Feng
 
 The Duke of Thunder's intercessions are seen more commonly than other deities' because of the god's closeness to mortals, but also because of his tendency to dispense both boons and curses while in the depths of his drink.
 
-- **Minor Boon** The Heavenly Court's most boastful deity ensures your boasts hit home. Once, when you fail an [Intimidation](compendium/skills.md#Intimidation) check, you critically succeed instead. Hei Feng grants this boon capriciously based on his mood, sometimes even for trivial or inconsequential boasts, and he sometimes grants it for other skill checks related to boasts.
+- **Minor Boon** The Heavenly Court's most boastful deity ensures your boasts hit home. Once, when you fail an [Intimidation](skills.md#Intimidation) check, you critically succeed instead. Hei Feng grants this boon capriciously based on his mood, sometimes even for trivial or inconsequential boasts, and he sometimes grants it for other skill checks related to boasts.
 - **Moderate Boon**: Fair winds and currents speed your passage. Any vessel you use to travel over the sea gains a +10-foot status bonus to its Speeds.
 - **Major Boon**: The instruments of the storm spare you from their fury. You ignore all effects and penalties caused by precipitation and winds, and you can see normally through fog, rain, and other weather conditions.
 
 - **Minor Curse**: Hei Feng's belligerence hangs over you like a thunderhead. You take a –1 status penalty to checks with Charisma-based skills. If you consume even a drop of alcohol, this penalty becomes –3 until the next sunrise.
-- **Moderate Curse** Your heart is as quick to change as Hei Feng's. If you roll a failure on a saving throw against an [emotion](rules/traits/emotion.md "Emotion Effect Trait") effect, you get a critical failure instead.
+- **Moderate Curse** Your heart is as quick to change as Hei Feng's. If you roll a failure on a saving throw against an [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") effect, you get a critical failure instead.
 - **Major Curse**: The Duke of Thunder's ire follows you wherever you go. The weather in a 500-foot radius around you is always stormy. Roughly twice each minute you are outside, you are struck by a bolt of lightning that deals `10d6` electricity damage (DC 40 basic Reflex save).

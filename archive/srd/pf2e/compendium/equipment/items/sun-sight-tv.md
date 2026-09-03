@@ -11,12 +11,12 @@ tags:
 aliases: ["Sun Sight"]
 ---
 # Sun Sight *Item 10*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Price** 850 gp
 - **Bulk** —; **Usage** tattooed on the body
 
-Placed under the eyes like rays of light, this tattoo burns away illusions with the unmerciful brilliance of the sun. You gain a +2 bonus to [Perception](compendium/skills.md#Perception) checks that involve sight. If you're [dazzled](rules/conditions.md#Dazzled), you receive a new save at the start of each of your turns to end your [dazzled](rules/conditions.md#Dazzled) condition.
+Placed under the eyes like rays of light, this tattoo burns away illusions with the unmerciful brilliance of the sun. You gain a +2 bonus to [Perception](skills.md#Perception) checks that involve sight. If you're [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled), you receive a new save at the start of each of your turns to end your [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) condition.
 
 ```ad-embed-ability
 title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")) envision

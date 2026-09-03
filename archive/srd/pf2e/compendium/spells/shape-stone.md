@@ -9,19 +9,19 @@ tags:
 aliases: ["Shape Stone"]
 ---
 # Shape Stone *Spell 4*   
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: cube of stone 10 feet across or smaller
 
-You shape the stone into a rough shape of your choice. The shaping process is too crude to produce intricate parts, fine details, moving pieces, or the like. Any creatures standing atop the stone when you reshape it must each attempt a Reflex save or [Acrobatics](compendium/skills.md#Acrobatics) check.
+You shape the stone into a rough shape of your choice. The shaping process is too crude to produce intricate parts, fine details, moving pieces, or the like. Any creatures standing atop the stone when you reshape it must each attempt a Reflex save or [Acrobatics](skills.md#Acrobatics) check.
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.
-> - **Failure** The creature falls [prone](rules/conditions.md#Prone) atop the stone.
-> - **Critical Failure** The creature falls off the stone (if applicable) and lands [prone](rules/conditions.md#Prone).
+> - **Failure** The creature falls [prone](archive/srd/pf2e/rules/conditions.md#Prone) atop the stone.
+> - **Critical Failure** The creature falls off the stone (if applicable) and lands [prone](archive/srd/pf2e/rules/conditions.md#Prone).
 
 **Spell Lists**: Elemental
 

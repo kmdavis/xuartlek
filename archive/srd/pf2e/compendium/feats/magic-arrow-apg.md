@@ -8,10 +8,10 @@ tags:
 - trait/transmutation
 aliases: ["Magic Arrow"]
 ---
-# Magic Arrow  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Magic Arrow  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Prerequisites**: [Eldritch Archer Dedication](compendium/feats/eldritch-archer-dedication-apg.md)
+- **Prerequisites**: [Eldritch Archer Dedication](eldritch-archer-dedication-apg.md)
 - **Frequency**: once per round
 - **Activity** Free Action
 

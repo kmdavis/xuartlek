@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Thaumaturgy"]
 ---
 # Advanced Thaumaturgy  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Thaumaturgy](compendium/feats/basic-thaumaturgy-da.md)
+- **Prerequisites**: [Basic Thaumaturgy](basic-thaumaturgy-da.md)
 
 You gain one thaumaturge feat. For the purpose of meeting its prerequisites, your thaumaturge level is equal to half your character level.
 

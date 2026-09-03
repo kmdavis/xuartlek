@@ -9,17 +9,17 @@ tags:
 aliases: ["Empower Ley Line"]
 ---
 # Empower Ley Line *Ritual 7*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** magical foci worth a total value of 50 gp × the spell level × the target's level
 - **Secondary Casters** 6
-- **Primary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion), matching the ley line's tradition (legendary)
-- **Secondary Checks** [Ley Line Lore](compendium/skills.md#Lore) or [Occultism](compendium/skills.md#Occultism)
+- **Primary Checks** [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion), matching the ley line's tradition (legendary)
+- **Secondary Checks** [Ley Line Lore](skills.md#Lore) or [Occultism](skills.md#Occultism)
 - **Range**: 10 feet
 - **Targets**: 1 ley line or ley line node up to double this ritual's level
 
-You draw upon surrounding magical energy to empower a ley line, enhancing both its [positive](rules/traits/positive.md "Positive Energy & Element Trait") and [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects.
+You draw upon surrounding magical energy to empower a ley line, enhancing both its [positive](positive.md "Positive Energy & Element Trait") and [negative](negative.md "Negative Energy & Element Trait") effects.
 
 The duration of an empowered ley line's benefits increases: when you successfully Tap a Ley Line that's empowered, you gain its benefits until the end of your next turn on a success (1 minute on a critical success)
 

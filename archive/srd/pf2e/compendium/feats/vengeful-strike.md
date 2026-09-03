@@ -7,15 +7,15 @@ tags:
 - trait/rage
 aliases: ["Vengeful Strike"]
 ---
-# Vengeful Strike  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
+# Vengeful Strike  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [rage](archive/srd/pf2e/rules/traits/rage.md "Rage Combat Trait")  
 
-- **Prerequisites**: [Come and Get Me](compendium/feats/come-and-get-me.md)
+- **Prerequisites**: [Come and Get Me](archive/srd/pf2e/compendium/feats/come-and-get-me.md)
 - **Trigger** A creature within your reach succeeds or critically succeeds at an attack against you.
 - **Requirements**: You're under the effect of Come and Get Me.
 - **Activity** Reaction
 
-When struck by an enemy, you respond in turn. Make a melee [Strike](rules/actions/strike.md) against the triggering creature. This [Strike](rules/actions/strike.md) doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this [Strike](rules/actions/strike.md).
+When struck by an enemy, you respond in turn. Make a melee [Strike](archive/srd/pf2e/rules/actions/strike.md) against the triggering creature. This [Strike](archive/srd/pf2e/rules/actions/strike.md) doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 *Source: Core Rulebook p. 93*  
 %% #compendium/src/pf2e/crb #trait/barbarian #trait/rage %%

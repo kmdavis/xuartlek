@@ -7,15 +7,15 @@ tags:
 aliases: ["Replenishment Of War"]
 ---
 # Replenishment Of War  *Feat 10*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: expert in your deity's favored weapon
 
-Striking out against your enemies draws praise and protection from your deity. When you damage a creature with a [Strike](rules/actions/strike.md) using your deity's favored weapon, you gain a number of temporary Hit Points equal to half your level, or equal to your level if the [Strike](rules/actions/strike.md) was a critical hit. These temporary Hit Points last until the start of your next turn.
+Striking out against your enemies draws praise and protection from your deity. When you damage a creature with a [Strike](archive/srd/pf2e/rules/actions/strike.md) using your deity's favored weapon, you gain a number of temporary Hit Points equal to half your level, or equal to your level if the [Strike](archive/srd/pf2e/rules/actions/strike.md) was a critical hit. These temporary Hit Points last until the start of your next turn.
 
 ## Replenishment Of War leads to...
 
-[Shared Replenishment](compendium/feats/shared-replenishment.md)
+[Shared Replenishment](archive/srd/pf2e/compendium/feats/shared-replenishment.md)
 
 ## Summary
 

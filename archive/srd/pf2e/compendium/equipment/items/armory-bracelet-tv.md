@@ -10,7 +10,7 @@ tags:
 aliases: ["Armory Bracelet"]
 ---
 # Armory Bracelet *Item 3+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** —; **Usage** worn
 

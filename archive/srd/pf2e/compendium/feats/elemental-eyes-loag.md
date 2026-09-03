@@ -11,11 +11,11 @@ tags:
 aliases: ["Elemental Eyes"]
 ---
 # Elemental Eyes  *Feat 1*  
-[ifrit](rules/traits/ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  [oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  [suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  [sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  [undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
+[ifrit](ifrit-b2.md "Ifrit Ancestry & Heritage Trait")  [oread](oread-b2.md "Oread Ancestry & Heritage Trait")  [suli](suli-b2.md "Suli Ancestry & Heritage Trait")  [sylph](sylph-b2.md "Sylph Ancestry & Heritage Trait")  [undine](undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 - **Prerequisites**: low-light vision
 
-You can see in the darkness as easily as an elemental. You gain [darkvision](rules/abilities/darkvision.md).
+You can see in the darkness as easily as an elemental. You gain [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md).
 
 **Special.** You can select this feat only at 1st level, and you can't retrain into or out of this feat.
 

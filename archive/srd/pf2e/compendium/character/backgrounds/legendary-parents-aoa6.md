@@ -15,4 +15,4 @@ One or more of your parents (either biological or adoptive) were heroes of the A
 
 Choose two ability boosts. One must be in Dexterity or Charisma, and the other is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and the [Genealogy Lore](compendium/skills.md#Lore) skill. You gain the [Group Coercion](compendium/feats/group-coercion.md) skill feat.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and the [Genealogy Lore](skills.md#Lore) skill. You gain the [Group Coercion](archive/srd/pf2e/compendium/feats/group-coercion.md) skill feat.

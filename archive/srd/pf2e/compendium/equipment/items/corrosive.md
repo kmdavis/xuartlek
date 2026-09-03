@@ -10,7 +10,7 @@ tags:
 aliases: ["Corrosive"]
 ---
 # Corrosive *Item 8+*  
-[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[acid](archive/srd/pf2e/rules/traits/acid.md "Acid Energy & Element Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto a weapon
 

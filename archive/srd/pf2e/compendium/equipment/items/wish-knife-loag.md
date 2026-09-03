@@ -14,7 +14,7 @@ tags:
 aliases: ["Wish Knife"]
 ---
 # Wish Knife *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [geniekin](rules/traits/geniekin-loag.md "Geniekin Ancestry & Heritage Trait")  [resonant](rules/traits/resonant-loag.md "Resonant Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [geniekin](geniekin-loag.md "Geniekin Ancestry & Heritage Trait")  [resonant](resonant-loag.md "Resonant Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** L
@@ -22,7 +22,7 @@ aliases: ["Wish Knife"]
 - **Hands** 1
 - **Category** Martial; **Group** Knife 
 
-Much like a [wish blade](compendium/equipment/items/wish-blade-loag.md), the length of this knife is scored with intricate grooves capable of retaining energy. Wish knives are lighter than their counterparts, making them the weapon of choice for agile combatants.
+Much like a [wish blade](wish-blade-loag.md), the length of this knife is scored with intricate grooves capable of retaining energy. Wish knives are lighter than their counterparts, making them the weapon of choice for agile combatants.
 
 
 ---

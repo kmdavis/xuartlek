@@ -17,4 +17,4 @@ You might have used these skills to guide your community, or simply to make mone
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Occultism](compendium/skills.md#Occultism) skill and the [Fortune-Telling Lore](compendium/skills.md#Lore) skill. You gain the [Oddity Identification](compendium/feats/oddity-identification.md) skill feat.
+You're trained in the [Occultism](skills.md#Occultism) skill and the [Fortune-Telling Lore](skills.md#Lore) skill. You gain the [Oddity Identification](archive/srd/pf2e/compendium/feats/oddity-identification.md) skill feat.

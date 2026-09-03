@@ -13,11 +13,11 @@ tags:
 aliases: ["Truth Potion"]
 ---
 # Truth Potion *Item 6*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [potion](archive/srd/pf2e/rules/traits/potion.md "Potion Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 46 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 For 10 minutes after drinking this astringent potion, you can't intentionally lie and may be compelled to tell the truth.
 

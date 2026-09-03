@@ -7,15 +7,15 @@ tags:
 aliases: ["Advanced Domain"]
 ---
 # Advanced Domain  *Feat 8*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
-- **Prerequisites**: [Domain Initiate](compendium/feats/domain-initiate.md)
+- **Prerequisites**: [Domain Initiate](archive/srd/pf2e/compendium/feats/domain-initiate.md)
 
 Your studies or prayers have unlocked deeper secrets of your deity's domain. You gain an advanced domain spell from one.
 
 ## Advanced Domain leads to...
 
-[Deity's Protection](compendium/feats/deitys-protection.md)
+[Deity's Protection](archive/srd/pf2e/compendium/feats/deitys-protection.md)
 
 ## Summary
 

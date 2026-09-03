@@ -9,14 +9,14 @@ tags:
 aliases: ["Poisoned Secret Door Trap"]
 ---
 # Poisoned Secret Door Trap *Hazard 14*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 34 master  
 
 Multiple tiny needles filled with poison are embedded in this secret door, spring-loaded to pop out.
 
-- **Disable** DC 34 [Thievery](compendium/skills.md#Thievery) (expert) to break the mechanism,  
+- **Disable** DC 34 [Thievery](skills.md#Thievery) (expert) to break the mechanism,  
 
 ```ad-embed-ability
 title: **or DC** 39 [Perception](compendium/skills.md#Perception) (master) to identify the three stones that, when pressed, prevent the trap from triggering AC 36; Fort +28, Ref +19 Hardness 23; HP 92 (BT 46); Immunities critical hits, object immunities, precision damage.

@@ -7,17 +7,17 @@ tags:
 - trait/rage
 aliases: ["Knockback"]
 ---
-# Knockback  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
+# Knockback  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [rage](archive/srd/pf2e/rules/traits/rage.md "Rage Combat Trait")  
 
-- **Requirements**: Your last action was a successful [Strike](rules/actions/strike.md).
+- **Requirements**: Your last action was a successful [Strike](archive/srd/pf2e/rules/actions/strike.md).
 - **Activity** Single Action
 
-The weight of your swing drives your enemy back. You push the foe back 5 feet, with the effects of a successful [Shove](rules/actions/shove.md). You can follow the foe as normal for a successful [Shove](rules/actions/shove.md).
+The weight of your swing drives your enemy back. You push the foe back 5 feet, with the effects of a successful [Shove](archive/srd/pf2e/rules/actions/shove.md). You can follow the foe as normal for a successful [Shove](archive/srd/pf2e/rules/actions/shove.md).
 
 ## Knockback leads to...
 
-[Awesome Blow](compendium/feats/awesome-blow.md)
+[Awesome Blow](archive/srd/pf2e/compendium/feats/awesome-blow.md)
 
 ## Summary
 

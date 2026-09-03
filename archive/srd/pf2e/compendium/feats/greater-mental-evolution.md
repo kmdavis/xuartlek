@@ -7,9 +7,9 @@ tags:
 aliases: ["Greater Mental Evolution"]
 ---
 # Greater Mental Evolution  *Feat 16*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
-- **Prerequisites**: [Arcane Evolution](compendium/feats/arcane-evolution.md) or [Occult Evolution](compendium/feats/occult-evolution.md)
+- **Prerequisites**: [Arcane Evolution](archive/srd/pf2e/compendium/feats/arcane-evolution.md) or [Occult Evolution](archive/srd/pf2e/compendium/feats/occult-evolution.md)
 
 Your bloodline's deep connection to mental essence greatly enhances your spell repertoire. Add one spell to your spell repertoire for each spell level you can cast.
 

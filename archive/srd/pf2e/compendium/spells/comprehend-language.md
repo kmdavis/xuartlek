@@ -8,10 +8,10 @@ tags:
 aliases: ["Comprehend Language"]
 ---
 # Comprehend Language *Spell 2*   
-[divination](rules/traits/divination.md "Divination School Trait")  
+[divination](divination.md "Divination School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Duration**: 1 hour

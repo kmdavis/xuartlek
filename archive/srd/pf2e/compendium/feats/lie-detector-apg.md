@@ -7,11 +7,11 @@ tags:
 aliases: ["Lie Detector"]
 ---
 # Lie Detector  *Feat 4*  
-[investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  
+[investigator](archive/srd/pf2e/rules/traits/investigator-apg.md "Investigator Class Trait")  
 
 - **Prerequisites**: empiricism or interrogation methodology
 
-You're adept at noticing the tells of a liar—sweat, flushing, a quavering voice, a quickening pulse. You gain a +1 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to [Sense Motive](rules/actions/sense-motive.md) and to [Perception](compendium/skills.md#Perception) DCs against attempts to [Lie](rules/actions/lie.md) to you. When you determine someone is lying to you, you can use their deceit to your advantage to gain a +1 circumstance bonus to the next [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), or [Performance](compendium/skills.md#Performance) check you attempt against that creature within the next minute.
+You're adept at noticing the tells of a liar—sweat, flushing, a quavering voice, a quickening pulse. You gain a +1 circumstance bonus to [Perception](skills.md#Perception) checks to [Sense Motive](archive/srd/pf2e/rules/actions/sense-motive.md) and to [Perception](skills.md#Perception) DCs against attempts to [Lie](archive/srd/pf2e/rules/actions/lie.md) to you. When you determine someone is lying to you, you can use their deceit to your advantage to gain a +1 circumstance bonus to the next [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), [Intimidation](skills.md#Intimidation), or [Performance](skills.md#Performance) check you attempt against that creature within the next minute.
 
 *Source: Advanced Player's Guide p. 62*  
 %% #compendium/src/pf2e/apg #trait/investigator %%

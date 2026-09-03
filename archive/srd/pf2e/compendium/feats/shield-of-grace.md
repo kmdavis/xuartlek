@@ -7,11 +7,11 @@ tags:
 aliases: ["Shield Of Grace"]
 ---
 # Shield Of Grace  *Feat 16*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
-- **Prerequisites**: [Shield Warden](compendium/feats/shield-warden-champion.md)
+- **Prerequisites**: [Shield Warden](shield-warden-champion.md)
 
-You protect an ally with both your shield and your body. Whenever you use the [Shield Block](compendium/feats/shield-block.md) reaction to prevent damage to an ally, you can evenly split the remaining damage after the [Shield Block](compendium/feats/shield-block.md) between the ally and yourself.
+You protect an ally with both your shield and your body. Whenever you use the [Shield Block](archive/srd/pf2e/compendium/feats/shield-block.md) reaction to prevent damage to an ally, you can evenly split the remaining damage after the [Shield Block](archive/srd/pf2e/compendium/feats/shield-block.md) between the ally and yourself.
 
 *Source: Core Rulebook p. 115*  
 %% #compendium/src/pf2e/crb #trait/champion %%

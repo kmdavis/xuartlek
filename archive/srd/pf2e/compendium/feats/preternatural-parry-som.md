@@ -6,11 +6,11 @@ tags:
 - trait/magus
 aliases: ["Preternatural Parry"]
 ---
-# Preternatural Parry  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[magus](rules/traits/magus-som.md "Magus Class Trait")  
+# Preternatural Parry  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
+[magus](archive/srd/pf2e/rules/traits/magus-som.md "Magus Class Trait")  
 
-- **Prerequisites**: [Spell Parry](compendium/feats/spell-parry-som.md)
-- **Trigger** You're targeted by a [Strike](rules/actions/strike.md) or a spell attack roll, or you're about to roll a saving throw against a spell effect.
+- **Prerequisites**: [Spell Parry](spell-parry-som.md)
+- **Trigger** You're targeted by a [Strike](archive/srd/pf2e/rules/actions/strike.md) or a spell attack roll, or you're about to roll a saving throw against a spell effect.
 - **Requirements**: You have one or more hands free.
 - **Activity** Reaction
 

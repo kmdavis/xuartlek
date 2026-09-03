@@ -8,8 +8,8 @@ tags:
 - trait/kobold
 aliases: ["Kobold Breath"]
 ---
-# Kobold Breath  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
+# Kobold Breath  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [kobold](kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
 - **Activity** Two-Action
 
@@ -19,7 +19,7 @@ At 3rd level and every 2 levels thereafter, the damage increases by `1d4`. The s
 
 ## Kobold Breath leads to...
 
-[Dragon's Breath](compendium/feats/dragons-breath-apg.md), [Dragonblood Paragon](compendium/feats/dragonblood-paragon-loag.md)
+[Dragon's Breath](dragons-breath-apg.md), [Dragonblood Paragon](dragonblood-paragon-loag.md)
 
 ## Summary
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Soft-landing"]
 ---
 # Soft-landing *Item 3*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 60 gp
 - **Usage** applied to boots, cape, cloak, or umbrella

@@ -20,8 +20,8 @@ aliases: ["Narriseminek", "The Crownless, the Maker of Kings"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [hatchet](compendium/equipment/items/hatchet.md)
-- **Domains**: [delirium](compendium/setting/domains.md#Delirium), [freedom](compendium/setting/domains.md#Freedom), [knowledge](compendium/setting/domains.md#Knowledge), [perfection](compendium/setting/domains.md#Perfection)
-- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 4th: [confusion](compendium/spells/confusion.md); 5th: [synesthesia](compendium/spells/synesthesia.md)
+- **Favored Weapon**: [hatchet](archive/srd/pf2e/compendium/equipment/items/hatchet.md)
+- **Domains**: [delirium](archive/srd/pf2e/compendium/setting/domains.md#Delirium), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection)
+- **Cleric Spells**: 1st: [mindlink](archive/srd/pf2e/compendium/spells/mindlink.md); 4th: [confusion](archive/srd/pf2e/compendium/spells/confusion.md); 5th: [synesthesia](archive/srd/pf2e/compendium/spells/synesthesia.md)

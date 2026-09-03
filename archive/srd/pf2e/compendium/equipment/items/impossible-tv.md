@@ -9,7 +9,7 @@ tags:
 aliases: ["Impossible"]
 ---
 # Impossible *Item 20*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 70000 gp
 - **Usage** etched onto a weapon

@@ -11,10 +11,10 @@ tags:
 aliases: ["String of Fate"]
 ---
 # String of Fate *Focus 1*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Domains** [fate (apocryphal)](compendium/setting/domains.md#Fate)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Domains** [fate (apocryphal)](archive/srd/pf2e/compendium/setting/domains.md#Fate)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 60 foot
 - **Targets**: you and 1 ally
 - **Duration**: sustained up to 1 minute

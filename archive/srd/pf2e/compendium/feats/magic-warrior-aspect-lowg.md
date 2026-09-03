@@ -7,11 +7,11 @@ tags:
 aliases: ["Magic Warrior Aspect"]
 ---
 # Magic Warrior Aspect  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Magic Warrior Dedication](compendium/feats/magic-warrior-dedication-lowg.md)
+- **Prerequisites**: [Magic Warrior Dedication](magic-warrior-dedication-lowg.md)
 
-You can alter your form to gain an aspect of the animal your mask represents. You gain the [magic warrior aspect](compendium/spells/magic-warrior-aspect-lowg.md) focus spell.
+You can alter your form to gain an aspect of the animal your mask represents. You gain the [magic warrior aspect](archive/srd/pf2e/compendium/spells/magic-warrior-aspect-lowg.md) focus spell.
 
 *Source: Lost Omens: World Guide p. 95*  
 %% #compendium/src/pf2e/lowg #trait/archetype %%

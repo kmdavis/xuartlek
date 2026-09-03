@@ -12,7 +12,7 @@ tags:
 aliases: ["Main-gauche"]
 ---
 # Main-gauche *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [parry](archive/srd/pf2e/rules/traits/parry.md "Parry Weapon Trait")  [versatile <s>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Price** 5 sp
 - **Bulk** L

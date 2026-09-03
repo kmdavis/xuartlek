@@ -7,16 +7,16 @@ tags:
 aliases: ["Gnome Weapon Familiarity"]
 ---
 # Gnome Weapon Familiarity  *Feat 1*  
-[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
+[gnome](archive/srd/pf2e/rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 
-You favor unusual weapons tied to your people, such as blades with curved and peculiar shapes. You are trained with the [glaive](compendium/equipment/items/glaive.md) and [kukri](compendium/equipment/items/kukri.md).
+You favor unusual weapons tied to your people, such as blades with curved and peculiar shapes. You are trained with the [glaive](archive/srd/pf2e/compendium/equipment/items/glaive.md) and [kukri](archive/srd/pf2e/compendium/equipment/items/kukri.md).
 
-In addition, you gain access to [kukris](compendium/equipment/items/kukri.md) and all uncommon gnome weapons. For the purpose of determining your proficiency, martial gnome weapons are simple weapons and advanced gnome weapons are martial weapons.
+In addition, you gain access to [kukris](archive/srd/pf2e/compendium/equipment/items/kukri.md) and all uncommon gnome weapons. For the purpose of determining your proficiency, martial gnome weapons are simple weapons and advanced gnome weapons are martial weapons.
 
 ## Gnome Weapon Familiarity leads to...
 
-[Gnome Weapon Expertise](compendium/feats/gnome-weapon-expertise.md), [Gnome Weapon Innovator](compendium/feats/gnome-weapon-innovator.md)
+[Gnome Weapon Expertise](gnome-weapon-expertise.md), [Gnome Weapon Innovator](gnome-weapon-innovator.md)
 
 ## Summary
 

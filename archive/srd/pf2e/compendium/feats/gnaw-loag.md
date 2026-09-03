@@ -6,10 +6,10 @@ tags:
 - trait/ratfolk
 aliases: ["Gnaw"]
 ---
-# Gnaw  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 5*  
-[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
+# Gnaw  [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 5*  
+[ratfolk](ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Vicious Incisors](compendium/feats/vicious-incisors-apg.md)
+- **Prerequisites**: [Vicious Incisors](vicious-incisors-apg.md)
 - **Activity** Three-Action
 
 With enough time and determination, you can chew through nearly anything. You deal double your jaws damage to an unattended, inanimate object.

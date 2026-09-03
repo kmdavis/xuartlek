@@ -9,7 +9,7 @@ tags:
 aliases: ["Gossip's Eye"]
 ---
 # Gossip's Eye *Item 8*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 30 gp
 - **Bulk** L; **Usage** worn

@@ -12,7 +12,7 @@ aliases: ["Basic Hearing Aid"]
 - **Usage** worn
 - **Category** Hearing
 
-A basic hearing aid rests on the ear and is made from carved wood, shaped metal, or even small clockwork pieces. The shape of the device aids those that are hard of hearing, and you can wear one or two depending on your hearing loss. You can attach or remove your hearing aids as an [Interact](rules/actions/interact.md) action.
+A basic hearing aid rests on the ear and is made from carved wood, shaped metal, or even small clockwork pieces. The shape of the device aids those that are hard of hearing, and you can wear one or two depending on your hearing loss. You can attach or remove your hearing aids as an [Interact](archive/srd/pf2e/rules/actions/interact.md) action.
 
 
 ---

@@ -11,7 +11,7 @@ tags:
 aliases: ["Spy Staff"]
 ---
 # Spy Staff *Item 7+*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
@@ -41,7 +41,7 @@ You expend a number of charges from the staff to cast a spell from its list.
 - **Price**: 340 gp
 
 - Cantrip message
-- 1st illusory disguise, [invisible](rules/conditions.md#Invisible) item , message rune
+- 1st illusory disguise, [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) item , message rune
 - 2nd humanoid form, illusory disguise, misdirection
 
 #### greater spy staff *Item 11*

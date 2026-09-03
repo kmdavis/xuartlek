@@ -10,9 +10,9 @@ tags:
 aliases: ["Magic Mailbox"]
 ---
 # Magic Mailbox *Spell 4*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 hour 
 - **Range**: touch
 - **Targets**: 2 containers, each no larger than 5 feet in any dimension

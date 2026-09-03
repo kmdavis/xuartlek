@@ -11,11 +11,11 @@ tags:
 aliases: ["Elder Sign"]
 ---
 # Elder Sign *Item 25*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [artifact](artifact-gmg.md "Artifact Item Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in one hand
 
-This stone tablet is carved with the symbol of a five-branched twig. There are only a limited number of elder signs, and each time one is destroyed, the universe's doom creeps inexorably closer. Reciting one of three different occult mantras (DC 20 [Occultism](compendium/skills.md#Occultism) check to do so correctly) allows three different activations. All three abilities work only on a creature connected to the Elder Mythos or a cosmic horror, such as a wendigo or gug; the activations refer to them as "eldritch creatures."
+This stone tablet is carved with the symbol of a five-branched twig. There are only a limited number of elder signs, and each time one is destroyed, the universe's doom creeps inexorably closer. Reciting one of three different occult mantras (DC 20 [Occultism](skills.md#Occultism) check to do so correctly) allows three different activations. All three abilities work only on a creature connected to the Elder Mythos or a cosmic horror, such as a wendigo or gug; the activations refer to them as "eldritch creatures."
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, envision, [Interact](rules/actions/interact.md)

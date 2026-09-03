@@ -11,7 +11,7 @@ aliases: ["Earplugs"]
 - **Price** 1 sp
 - **Hands** 1
 
-These small pieces of cloth and stuffing have been crafted to dramatically muffle sound and easily slide into and out of the ear canals of humanoid creatures. You can insert or remove earplugs from your ears or a willing creature's ears with a single [Interact](rules/actions/interact.md) action using one hand. They take a –2 circumstance penalty to all [auditory](rules/traits/auditory.md "Auditory Effect Trait") [Perception](compendium/skills.md#Perception) checks but also gain a +2 circumstance bonus to saving throws against [auditory](rules/traits/auditory.md "Auditory Effect Trait") effects.
+These small pieces of cloth and stuffing have been crafted to dramatically muffle sound and easily slide into and out of the ear canals of humanoid creatures. You can insert or remove earplugs from your ears or a willing creature's ears with a single [Interact](archive/srd/pf2e/rules/actions/interact.md) action using one hand. They take a –2 circumstance penalty to all [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait") [Perception](skills.md#Perception) checks but also gain a +2 circumstance bonus to saving throws against [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait") effects.
 
 
 ---

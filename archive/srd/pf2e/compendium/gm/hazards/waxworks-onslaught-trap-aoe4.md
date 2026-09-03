@@ -9,14 +9,14 @@ tags:
 aliases: ["Waxworks Onslaught Trap"]
 ---
 # Waxworks Onslaught Trap *Hazard 16*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +27 master  
 
 Four huge tubs containing congealed wax, enchanted to melt and envelop unwary intruders, each sit atop a cold fire.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 43 (master) to drain the wax from a tub or [Athletics](compendium/skills.md#Athletics) DC 45 (master) to push through the wax blocking a sealed door and escape (other creatures must push their own way through, as the wax reseals)  
+- **Disable** [Thievery](skills.md#Thievery) DC 43 (master) to drain the wax from a tub or [Athletics](skills.md#Athletics) DC 45 (master) to push through the wax blocking a sealed door and escape (other creatures must push their own way through, as the wax reseals)  
 
 - **AC** 39, **Fort** +30, **Ref** +25
 - **HP** 72 (BT 36) to destroy the wax on a sealed door and allow anyone to escape through the door; **Tub Hardness** 25, **Tub HP** 104 (BT 52) to destroy a tub and prevent it from making any further attacks

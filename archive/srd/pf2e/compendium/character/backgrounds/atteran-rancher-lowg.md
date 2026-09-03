@@ -15,4 +15,4 @@ You grew up breeding and training the famous horses of the Atteran Ranches in no
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in the [Nature](compendium/skills.md#Nature) skill and the [Animal Lore](compendium/skills.md#Lore) skill. You gain the [Train Animal](compendium/feats/train-animal.md) skill feat.
+You're trained in the [Nature](skills.md#Nature) skill and the [Animal Lore](skills.md#Lore) skill. You gain the [Train Animal](archive/srd/pf2e/compendium/feats/train-animal.md) skill feat.

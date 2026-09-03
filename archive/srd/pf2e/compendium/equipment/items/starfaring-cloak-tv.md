@@ -13,7 +13,7 @@ tags:
 aliases: ["Starfaring Cloak"]
 ---
 # Starfaring Cloak *Item 24*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [light](rules/traits/light.md "Light Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** L; **Usage** worn
 

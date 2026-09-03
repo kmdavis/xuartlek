@@ -12,11 +12,11 @@ tags:
 aliases: ["Pummel-Growth Toxin"]
 ---
 # Pummel-Growth Toxin *Item 13*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [injury](archive/srd/pf2e/rules/traits/injury.md "Injury Item Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 550 gp
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This substance is the result of a failed alchemical experiment to regrow a severed arm. An extra outsized, uncontrolled limb of the sort used for manipulation grows from the victim's body. The limb initially flails about, throwing the creature off-balance. Once it "matures," the limb pummels the victim instead. The limb can't deal its bludgeoning damage if the victim is unable to take actions. Upon recovery from the poison, the extra limb withers and falls off.
 

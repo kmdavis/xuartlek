@@ -7,14 +7,14 @@ tags:
 aliases: ["Spirit Window"]
 ---
 # Spirit Window *Hazard 20*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 51  
 
 Spirits trapped inside a haunted window harm those who touch the window.
 
-- **Disable** DC 48 [Occultism](compendium/skills.md#Occultism) (legendary) to free the spirits from the mirror, or DC 48 [Religion](compendium/skills.md#Religion) (legendary) to banish the spirits  
+- **Disable** DC 48 [Occultism](skills.md#Occultism) (legendary) to free the spirits from the mirror, or DC 48 [Religion](skills.md#Religion) (legendary) to banish the spirits  
 
 - **AC** 45, **Fort** +36, **Ref** +30
 - **Window Hardness** 35, **Window HP** 132 (BT 66)

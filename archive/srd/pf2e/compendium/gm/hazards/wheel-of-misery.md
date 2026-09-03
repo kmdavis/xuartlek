@@ -10,14 +10,14 @@ tags:
 aliases: ["Wheel Of Misery"]
 ---
 # Wheel Of Misery *Hazard 6*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +16 expert to detect the magical sensor; noticing the wheel has a DC of 0.  
 
-An ornate wheel set into a wall—divided into six segments with colored runes on each—is [controlled](rules/conditions.md#Controlled) by a magical sensor that detects any creature within 100 feet in front of it.
+An ornate wheel set into a wall—divided into six segments with colored runes on each—is [controlled](archive/srd/pf2e/rules/conditions.md#Controlled) by a magical sensor that detects any creature within 100 feet in front of it.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 26 (expert) on the wheel to stop it from spinning, [Thievery](compendium/skills.md#Thievery) DC 22 (master) to erase each rune, or dispel magic (4th level; counteract DC 22) to counteract each rune.  
+- **Disable** [Thievery](skills.md#Thievery) DC 26 (expert) on the wheel to stop it from spinning, [Thievery](skills.md#Thievery) DC 22 (master) to erase each rune, or dispel magic (4th level; counteract DC 22) to counteract each rune.  
 
 - **AC** 24, **Fort** +15, **Ref** +13
 - **Hardness** 14, **HP** 56 (BT 28)

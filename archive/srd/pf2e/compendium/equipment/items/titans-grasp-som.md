@@ -11,12 +11,12 @@ tags:
 aliases: ["Titan's Grasp"]
 ---
 # Titan's Grasp *Item 18*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 24000 gp
 - **Bulk** L; **Usage** worn gloves
 
-These bronze gauntlets each have a small red gem embedded in the wrist. You gain a +3 item bonus to [Athletics](compendium/skills.md#Athletics) checks and a +1 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks to [Grapple](rules/actions/grapple.md). If you successfully [Grapple](rules/actions/grapple.md) an enemy that's at least one size category larger than you, the gauntlets dig into it, dealing bludgeoning damage equal to your Strength modifier, plus an additional `2d6` on a critical success.
+These bronze gauntlets each have a small red gem embedded in the wrist. You gain a +3 item bonus to [Athletics](skills.md#Athletics) checks and a +1 circumstance bonus to [Athletics](skills.md#Athletics) checks to [Grapple](archive/srd/pf2e/rules/actions/grapple.md). If you successfully [Grapple](archive/srd/pf2e/rules/actions/grapple.md) an enemy that's at least one size category larger than you, the gauntlets dig into it, dealing bludgeoning damage equal to your Strength modifier, plus an additional `2d6` on a critical success.
 
 When you invest the gloves, you either increase your Strength score by 2 or increase it to 18, whichever would give you a higher score.
 

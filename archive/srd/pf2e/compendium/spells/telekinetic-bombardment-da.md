@@ -9,10 +9,10 @@ tags:
 aliases: ["Telekinetic Bombardment"]
 ---
 # Telekinetic Bombardment *Spell 7*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  
+[evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 500 foot
 - **Area**: 10-foot burst or 30-foot line
 - **Saving Throw**: Reflex
@@ -22,8 +22,8 @@ You grasp a piece of the landscape—such as a tree, carriage, or piece of mason
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and is knocked [prone](rules/conditions.md#Prone).
-> - **Critical Failure** The creature takes double damage, is knocked [prone](rules/conditions.md#Prone), and is [stunned](rules/conditions.md#Stunned).
+> - **Failure** The creature takes full damage and is knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone).
+> - **Critical Failure** The creature takes double damage, is knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone), and is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
 
 **Heightened (+ 1)** The damage increases by `2d6`.
 

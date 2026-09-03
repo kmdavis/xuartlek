@@ -8,10 +8,10 @@ tags:
 aliases: ["Azaersi's Roads"]
 ---
 # Azaersi's Roads  *Feat 17*  
-[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[hobgoblin](hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
-Azaersi has granted you limited access to the Stone Roads, attuning you to the tiniest sliver of the Onyx Key. You gain [plane shift](compendium/spells/plane-shift.md) as a primal innate spell. You can cast it twice per week. This can be used only to travel back and forth between the Plane of Earth and the Material Plane. Due to your attunement to the Onyx Key, you can act as the spell focus, and you do not require a tuning fork.
+Azaersi has granted you limited access to the Stone Roads, attuning you to the tiniest sliver of the Onyx Key. You gain [plane shift](plane-shift.md) as a primal innate spell. You can cast it twice per week. This can be used only to travel back and forth between the Plane of Earth and the Material Plane. Due to your attunement to the Onyx Key, you can act as the spell focus, and you do not require a tuning fork.
 
 *Source: Lost Omens: Legends p. 28*  
 %% #compendium/src/pf2e/lol #trait/hobgoblin #trait/rare %%

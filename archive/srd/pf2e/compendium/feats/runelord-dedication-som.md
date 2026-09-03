@@ -10,7 +10,7 @@ tags:
 aliases: ["Runelord Dedication"]
 ---
 # Runelord Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [class](class-som.md "Class Class Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: runelord specialization
 
@@ -20,7 +20,7 @@ Your rune magic increases, and you practice with your school's associated weapon
 
 ## Runelord Dedication leads to...
 
-[Embed Aeon Stone](compendium/feats/embed-aeon-stone-som.md), [Aeon Resonance](compendium/feats/aeon-resonance-som.md), [Fused Polearm](compendium/feats/fused-polearm-som.md), [Polearm Tricks](compendium/feats/polearm-tricks-som.md), [School Counterspell](compendium/feats/school-counterspell-som.md), [School Spell Redirection](compendium/feats/school-spell-redirection-som.md), [Sin Reservoir](compendium/feats/sin-reservoir-som.md)
+[Embed Aeon Stone](embed-aeon-stone-som.md), [Aeon Resonance](aeon-resonance-som.md), [Fused Polearm](fused-polearm-som.md), [Polearm Tricks](polearm-tricks-som.md), [School Counterspell](school-counterspell-som.md), [School Spell Redirection](school-spell-redirection-som.md), [Sin Reservoir](sin-reservoir-som.md)
 
 ## Summary
 

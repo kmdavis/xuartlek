@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Magus Spellcasting"]
 ---
 # Basic Magus Spellcasting  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Magus Dedication](compendium/feats/magus-dedication-som.md)
+- **Prerequisites**: [Magus Dedication](magus-dedication-som.md)
 
 You gain the basic bounded spellcasting benefits.
 
 ## Basic Magus Spellcasting leads to...
 
-[Expert Magus Spellcasting](compendium/feats/expert-magus-spellcasting-som.md), [Master Magus Spellcasting](compendium/feats/master-magus-spellcasting-som.md)
+[Expert Magus Spellcasting](expert-magus-spellcasting-som.md), [Master Magus Spellcasting](master-magus-spellcasting-som.md)
 
 ## Summary
 

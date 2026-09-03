@@ -15,4 +15,4 @@ You were enrolled at a prestigious magical academy, but you've since dropped out
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in [Arcana](compendium/skills.md#Arcana) and [Academia Lore](compendium/skills.md#Lore). You gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat.
+You're trained in [Arcana](skills.md#Arcana) and [Academia Lore](skills.md#Lore). You gain the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) skill feat.

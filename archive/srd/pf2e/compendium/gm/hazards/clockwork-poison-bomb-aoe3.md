@@ -10,14 +10,14 @@ tags:
 aliases: ["Clockwork Poison Bomb"]
 ---
 # Clockwork Poison Bomb *Hazard 11*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** The bomb uses Oggvurm's initiative roll as its [Stealth](compendium/skills.md#Stealth) roll.  
+- **Stealth** The bomb uses Oggvurm's initiative roll as its [Stealth](skills.md#Stealth) roll.  
 
 A clockwork bomb releases gouts of poisonous smoke. The smoke issues forth from a single nozzle attached to two tanks of pressurized poison.
 
-- **Disable** three DC 31 [Thievery](compendium/skills.md#Thievery) (expert) checks to a Device to disable the latches that lock the nozzle in place, then one DC 35 [Thievery](compendium/skills.md#Thievery) (master) check to a Device to turn off the nozzle; DCs decrease by 2 if Oggvurm is [immobilized](rules/conditions.md#Immobilized), [paralyzed](rules/conditions.md#Paralyzed), [unconscious](rules/conditions.md#Unconscious), or dead.  
+- **Disable** three DC 31 [Thievery](skills.md#Thievery) (expert) checks to a Device to disable the latches that lock the nozzle in place, then one DC 35 [Thievery](skills.md#Thievery) (master) check to a Device to turn off the nozzle; DCs decrease by 2 if Oggvurm is [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized), [paralyzed](archive/srd/pf2e/rules/conditions.md#Paralyzed), [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious), or dead.  
 
 - **AC** 32, **Fort** +24, **Ref** +26
 - **Nozzle Hardness** 5, **Nozzle HP** 20 (BT 10) to ruin the nozzle (making it impossible to disable, in which case the only way to disarm the bomb is to destroy both its tanks); **Tank Hardness** 15, **Tank HP** 80 (BT 40) to destroy one of the tanks (both tanks must be destroyed to disarm the bomb)

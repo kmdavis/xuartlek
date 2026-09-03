@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Devotion"]
 ---
 # Advanced Devotion  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Devotion](compendium/feats/basic-devotion.md)
+- **Prerequisites**: [Basic Devotion](archive/srd/pf2e/compendium/feats/basic-devotion.md)
 
 You gain one champion feat. For the purpose of meeting its prerequisites, your champion level is equal to half your character level.
 

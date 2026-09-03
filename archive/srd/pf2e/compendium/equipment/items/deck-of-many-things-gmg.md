@@ -11,11 +11,11 @@ tags:
 aliases: ["Deck Of Many Things"]
 ---
 # Deck Of Many Things *Item 22*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Usage** held in 1 hand
 
-These 22 cards of heavy vellum, usually stored in a box or a pouch, bear images or glyphs depicting symbols of magical power. Looking at a card without activating it shows the card face but has no [magical](rules/traits/magical.md "Magical Item Trait") effect. Once the deck is face down, the cards randomize themselves—if you look at the top card multiple times, you may find it changes. Any card removed from the deck goes missing after a few seconds, reappearing in the deck. Advice on randomly selecting cards appears on page 108.
+These 22 cards of heavy vellum, usually stored in a box or a pouch, bear images or glyphs depicting symbols of magical power. Looking at a card without activating it shows the card face but has no [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait") effect. Once the deck is face down, the cards randomize themselves—if you look at the top card multiple times, you may find it changes. Any card removed from the deck goes missing after a few seconds, reappearing in the deck. Advice on randomly selecting cards appears on page 108.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision, [Interact](rules/actions/interact.md)

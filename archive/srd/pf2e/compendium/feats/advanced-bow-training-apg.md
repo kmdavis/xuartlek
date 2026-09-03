@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Bow Training"]
 ---
 # Advanced Bow Training  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
+- **Prerequisites**: [Archer Dedication](archer-dedication-apg.md)
 
 Through constant practice and the crucible of experience, you increase your skill with advanced bows. You gain proficiency with all advanced bows as if they were martial weapons in the bow weapon group.
 

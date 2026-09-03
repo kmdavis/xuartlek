@@ -18,4 +18,4 @@ This might be a welcome reprieve from solitude or an unwanted change, but in eit
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Nature](compendium/skills.md#Nature) or [Occultism](compendium/skills.md#Occultism) skill, plus a [Lore](compendium/skills.md#Lore) skill related to the terrain you lived in as a hermit (such as [Cave Lore](compendium/skills.md#Lore) or [Desert Lore](compendium/skills.md#Lore)). You gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat.
+You're trained in the [Nature](skills.md#Nature) or [Occultism](skills.md#Occultism) skill, plus a [Lore](skills.md#Lore) skill related to the terrain you lived in as a hermit (such as [Cave Lore](skills.md#Lore) or [Desert Lore](skills.md#Lore)). You gain the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) skill feat.

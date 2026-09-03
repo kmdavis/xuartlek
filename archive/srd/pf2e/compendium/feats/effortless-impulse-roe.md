@@ -6,8 +6,8 @@ tags:
 - trait/kineticist
 aliases: ["Effortless Impulse"]
 ---
-# Effortless Impulse  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  
+# Effortless Impulse  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
+[kineticist](kineticist-roe.md "Kineticist Class Trait")  
 
 - **Trigger** Your turn begins.
 - **Activity** Free Action

@@ -11,14 +11,14 @@ tags:
 aliases: ["Thousand-blade Thesis"]
 ---
 # Thousand-blade Thesis *Item 9*  
-[extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[extradimensional](archive/srd/pf2e/rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 600 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-This collection of lacquered rice paper scrolls mounted on flexible bamboo contains a wealth of calligraphic essays and paintings on the art of war, specifically focused on the use of various weapons in warfare and how to tactically deploy warriors using those weapons to the best possible advantage. Consulting the thesis grants a +2 item bonus to [Warfare Lore](compendium/skills.md#Lore) checks. Like most scholarly compendiums, this usage requires holding the thesis in one hand.
+This collection of lacquered rice paper scrolls mounted on flexible bamboo contains a wealth of calligraphic essays and paintings on the art of war, specifically focused on the use of various weapons in warfare and how to tactically deploy warriors using those weapons to the best possible advantage. Consulting the thesis grants a +2 item bonus to [Warfare Lore](skills.md#Lore) checks. Like most scholarly compendiums, this usage requires holding the thesis in one hand.
 
-The thesis also serves as an extradimensional armory for weapons and ammunition. The thesis has a capacity of 5 Bulk, and only weapons and ammunition can be stored within it. You and others can [Interact](rules/actions/interact.md) with the thesis to store or retrieve a weapon or piece of ammunition in it, like a mundane container.
+The thesis also serves as an extradimensional armory for weapons and ammunition. The thesis has a capacity of 5 Bulk, and only weapons and ammunition can be stored within it. You and others can [Interact](archive/srd/pf2e/rules/actions/interact.md) with the thesis to store or retrieve a weapon or piece of ammunition in it, like a mundane container.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

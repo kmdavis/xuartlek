@@ -9,7 +9,7 @@ tags:
 aliases: ["Blade Of Four Energies"]
 ---
 # Blade Of Four Energies *Item 13+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -46,7 +46,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Price**: 20000 gp
 
-The blade is a +3 greater striking shifting shortsword and gains the greater corrosive, greater flaming, greater frost, or greater shock runes instead of their base versions. When Activated to [Cast a Spell](rules/actions/cast-a-spell.md), the blade casts the spell heightened to 7th level, and the DC is 38.
+The blade is a +3 greater striking shifting shortsword and gains the greater corrosive, greater flaming, greater frost, or greater shock runes instead of their base versions. When Activated to [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md), the blade casts the spell heightened to 7th level, and the DC is 38.
 
 ---
 *Source: Secrets of Magic p. 180*

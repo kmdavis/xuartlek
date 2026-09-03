@@ -12,11 +12,11 @@ tags:
 aliases: ["Looter's Lethargy"]
 ---
 # Looter's Lethargy *Item 2*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [contact](archive/srd/pf2e/rules/traits/contact.md "Contact Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Traps may keep many a thief at bay, but the poison known as looter's lethargy ensures that no thieves are strong enough to walk off with pilfered treasures.
 

@@ -10,14 +10,14 @@ tags:
 aliases: ["Shuffling Scythe Blades"]
 ---
 # Shuffling Scythe Blades *Hazard 8*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 18 expert  
 
-Six long blades, [hidden](rules/conditions.md#Hidden) in grooves in the walls and floor, zigzag through different parts of this hallway when any pressure plate in the hallway intersection is depressed; there are so many plates it's impossible to avoid them when moving through the room. The blades retreat into the floor and move through the [hidden](rules/conditions.md#Hidden) grooves before swinging out from the wall again in a different location.
+Six long blades, [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) in grooves in the walls and floor, zigzag through different parts of this hallway when any pressure plate in the hallway intersection is depressed; there are so many plates it's impossible to avoid them when moving through the room. The blades retreat into the floor and move through the [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) grooves before swinging out from the wall again in a different location.
 
-- **Disable** DC 26 [Thievery](compendium/skills.md#Thievery) (expert) to disable each blade, or utter the magical passphrase (which only Chafkhem knows) to deactivate the trap for 10 minutes.  
+- **Disable** DC 26 [Thievery](skills.md#Thievery) (expert) to disable each blade, or utter the magical passphrase (which only Chafkhem knows) to deactivate the trap for 10 minutes.  
 
 - **AC** 27, **Fort** +19, **Ref** +13
 - 

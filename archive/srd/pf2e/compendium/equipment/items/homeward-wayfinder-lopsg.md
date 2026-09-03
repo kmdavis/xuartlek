@@ -13,7 +13,7 @@ tags:
 aliases: ["Homeward Wayfinder"]
 ---
 # Homeward Wayfinder *Item 13*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2750 gp
 - **Usage** worn

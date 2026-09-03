@@ -20,8 +20,8 @@ aliases: ["Barzahk", "The Passage"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [club](compendium/equipment/items/club.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [knowledge](compendium/setting/domains.md#Knowledge), [travel](compendium/setting/domains.md#Travel), [vigil](compendium/setting/domains.md#Vigil)
-- **Cleric Spells**: 1st: [longstrider](compendium/spells/longstrider.md); 2nd: [knock](compendium/spells/knock.md); 6th: [teleport](compendium/spells/teleport.md)
+- **Favored Weapon**: [club](archive/srd/pf2e/compendium/equipment/items/club.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [longstrider](longstrider.md); 2nd: [knock](archive/srd/pf2e/compendium/spells/knock.md); 6th: [teleport](archive/srd/pf2e/compendium/spells/teleport.md)

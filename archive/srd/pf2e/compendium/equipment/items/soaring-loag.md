@@ -9,7 +9,7 @@ tags:
 aliases: ["Soaring"]
 ---
 # Soaring *Item 14*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 3750 gp
 - **Usage** etched onto armor

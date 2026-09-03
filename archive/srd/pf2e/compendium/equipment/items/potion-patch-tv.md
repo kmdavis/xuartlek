@@ -10,12 +10,12 @@ tags:
 aliases: ["Potion Patch"]
 ---
 # Potion Patch *Item 4+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** —; **Usage** worn
 - **Activate** command; **Requirements** You must have the potion patch affixed to your skin.
 
-A potion patch is a sticky, bandage-like pad that can be filled with one potion and affixed to the skin. Filling the patch and affixing it is a 1-minute activity that takes two hands and has the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait. A patch has a maximum level of potion it can absorb, depending on the patch's type. When you Activate the patch, the potion affects you without you needing to have the potion in your hand. The patch's magic is negated after it's used, the next time you make your daily preparations, or when another potion patch is affixed to you, whichever comes first.
+A potion patch is a sticky, bandage-like pad that can be filled with one potion and affixed to the skin. Filling the patch and affixing it is a 1-minute activity that takes two hands and has the [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait") trait. A patch has a maximum level of potion it can absorb, depending on the patch's type. When you Activate the patch, the potion affects you without you needing to have the potion in your hand. The patch's magic is negated after it's used, the next time you make your daily preparations, or when another potion patch is affixed to you, whichever comes first.
 
 ---
 

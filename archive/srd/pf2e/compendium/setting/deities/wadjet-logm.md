@@ -20,8 +20,8 @@ aliases: ["Wadjet", "The Green Empress"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
-- **Domains**: [protection](compendium/setting/domains.md#Protection), [travel](compendium/setting/domains.md#Travel), [water](compendium/setting/domains.md#Water), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [mage armor](compendium/spells/mage-armor.md); 2nd: animal form (snake only); 4th: fly Light
+- **Favored Weapon**: [mace](archive/srd/pf2e/compendium/equipment/items/mace.md)
+- **Domains**: [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [water](archive/srd/pf2e/compendium/setting/domains.md#Water), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [mage armor](mage-armor.md); 2nd: animal form (snake only); 4th: fly Light

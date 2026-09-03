@@ -7,11 +7,11 @@ tags:
 aliases: ["Ceaseless Shadows"]
 ---
 # Ceaseless Shadows  *Feat 13*  
-[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
+[halfling](archive/srd/pf2e/rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Distracting Shadows](compendium/feats/distracting-shadows.md)
+- **Prerequisites**: [Distracting Shadows](archive/srd/pf2e/compendium/feats/distracting-shadows.md)
 
-You excel at going unnoticed, especially among a crowd. You no longer need to have cover or be [concealed](rules/conditions.md#Concealed) to [Hide](rules/actions/hide.md) or [Sneak](rules/actions/sneak.md). If you would have lesser cover from creatures, you gain cover and can [Take Cover](rules/actions/take-cover.md), and if you would have cover from creatures, you gain greater cover.
+You excel at going unnoticed, especially among a crowd. You no longer need to have cover or be [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) to [Hide](archive/srd/pf2e/rules/actions/hide.md) or [Sneak](archive/srd/pf2e/rules/actions/sneak.md). If you would have lesser cover from creatures, you gain cover and can [Take Cover](archive/srd/pf2e/rules/actions/take-cover.md), and if you would have cover from creatures, you gain greater cover.
 
 *Source: Core Rulebook p. 53*  
 %% #compendium/src/pf2e/crb #trait/halfling %%

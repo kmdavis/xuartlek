@@ -11,13 +11,13 @@ tags:
 aliases: ["Dispelling Sliver"]
 ---
 # Dispelling Sliver *Item 17*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 2400 gp
 - **Bulk** —; **Usage** affixed to a weapon
-- **Activate** envision; **Trigger** Your [Strike](rules/actions/strike.md) damages a target; **Requirements** You're a master with the affixed weapon.
+- **Activate** envision; **Trigger** Your [Strike](archive/srd/pf2e/rules/actions/strike.md) damages a target; **Requirements** You're a master with the affixed weapon.
 
-Made from a treated sliver of cold iron, this talisman allows you to counteract [magical](rules/traits/magical.md "Magical Item Trait") effects. When you activate the dispelling sliver, it attempts to counteract a single spell active on the target, with the effects of an 8th-level [dispel magic](compendium/spells/dispel-magic.md) spell (counteract modifier +29).
+Made from a treated sliver of cold iron, this talisman allows you to counteract [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait") effects. When you activate the dispelling sliver, it attempts to counteract a single spell active on the target, with the effects of an 8th-level [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) spell (counteract modifier +29).
 
 If you activate the talisman on a successful Dispelling Slice, the talisman attempts to counteract all spells active on the target.
 

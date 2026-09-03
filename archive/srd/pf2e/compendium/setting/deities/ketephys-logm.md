@@ -20,8 +20,8 @@ aliases: ["Ketephys", "The Hunter"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md)
-- **Domains**: [darkness](compendium/setting/domains.md#Darkness), [moon](compendium/setting/domains.md#Moon), [nature](compendium/setting/domains.md#Nature), [secrecy](compendium/setting/domains.md#Secrecy)
-- **Cleric Spells**: 1st: [pass without trace](compendium/spells/pass-without-trace.md); 2nd: [invisibility](compendium/spells/invisibility.md); 3rd: [animal vision](compendium/spells/animal-vision.md)
+- **Favored Weapon**: [longbow](archive/srd/pf2e/compendium/equipment/items/longbow.md)
+- **Domains**: [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [moon](archive/srd/pf2e/compendium/setting/domains.md#Moon), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy)
+- **Cleric Spells**: 1st: [pass without trace](pass-without-trace.md); 2nd: [invisibility](archive/srd/pf2e/compendium/spells/invisibility.md); 3rd: [animal vision](archive/srd/pf2e/compendium/spells/animal-vision.md)

@@ -11,11 +11,11 @@ tags:
 aliases: ["Mindfog Mist"]
 ---
 # Mindfog Mist *Item 15*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [inhaled](archive/srd/pf2e/rules/traits/inhaled.md "Inhaled Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 1000 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Mindfog mist can be used to undermine spellcasters, as its effect on a victim's mental faculties are swift and powerful.
 

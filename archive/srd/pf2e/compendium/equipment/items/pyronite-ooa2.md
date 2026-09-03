@@ -11,7 +11,7 @@ tags:
 aliases: ["Pyronite"]
 ---
 # Pyronite *Item 11*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 250 gp
 - **Bulk** L; **Usage** held in one hand
@@ -37,9 +37,9 @@ Once a stick of pyronite's fuse is lit, it explodes at the end of your turn, reg
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature takes half damage and is [deafened](rules/conditions.md#Deafened) for 1 round.
-> - **Failure** The creature takes full damage and is [deafened](rules/conditions.md#Deafened) for 1 minute.
-> - **Critical Failure** The creature takes double damage and is knocked [prone](rules/conditions.md#Prone), [stunned](rules/conditions.md#Stunned), and [deafened](rules/conditions.md#Deafened) for 1 hour.
+> - **Success** The creature takes half damage and is [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 round.
+> - **Failure** The creature takes full damage and is [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 minute.
+> - **Critical Failure** The creature takes double damage and is knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone), [stunned](archive/srd/pf2e/rules/conditions.md#Stunned), and [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 hour.
 
 
 ---

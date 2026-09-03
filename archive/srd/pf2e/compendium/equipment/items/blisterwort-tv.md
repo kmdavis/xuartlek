@@ -11,11 +11,11 @@ tags:
 aliases: ["Blisterwort"]
 ---
 # Blisterwort *Item 11*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [injury](archive/srd/pf2e/rules/traits/injury.md "Injury Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 280 gp
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This clear, viscous liquid causes lesions and blisters that spread quickly. The victim's pain response increases and flesh breaks easily under physical stress.
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Jiu Huan Dao"]
 ---
 # Jiu Huan Dao *Item 0*  
-[sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 9 sp
 - **Bulk** 1

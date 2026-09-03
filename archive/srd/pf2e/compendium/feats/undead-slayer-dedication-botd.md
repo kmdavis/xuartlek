@@ -8,11 +8,11 @@ tags:
 aliases: ["Undead Slayer Dedication"]
 ---
 # Undead Slayer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
-- **Prerequisites**: trained in [Religion](compendium/skills.md#Religion)
+- **Prerequisites**: trained in [Religion](skills.md#Religion)
 
-Your training has prepared you to recognize most undead on sight. You become trained in two [Lore](compendium/skills.md#Lore) skills, each about a specific type of undead, or become an expert if you were already trained. You gain the Slayer's Identification free action.
+Your training has prepared you to recognize most undead on sight. You become trained in two [Lore](skills.md#Lore) skills, each about a specific type of undead, or become an expert if you were already trained. You gain the Slayer's Identification free action.
 
 ```ad-embed-ability
 title: **Slayer's Identification** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
@@ -24,7 +24,7 @@ title: **Slayer's Identification** [F](rules/core-rulebook/chapter-9-playing-the
 
 ## Undead Slayer Dedication leads to...
 
-[Blessed Medicine](compendium/feats/blessed-medicine-botd.md), [Hunter's Sanctum](compendium/feats/hunters-sanctum-botd.md), [Necromantic Resistance](compendium/feats/necromantic-resistance-botd.md), [Slayer's Strike](compendium/feats/slayers-strike-botd.md), [Slayer's Blessing](compendium/feats/slayers-blessing-botd.md), [Frighten Undead](compendium/feats/frighten-undead-botd.md), [Slayer's Presence](compendium/feats/slayers-presence-botd.md), [Gear Up](compendium/feats/gear-up-botd.md)
+[Blessed Medicine](blessed-medicine-botd.md), [Hunter's Sanctum](hunters-sanctum-botd.md), [Necromantic Resistance](necromantic-resistance-botd.md), [Slayer's Strike](slayers-strike-botd.md), [Slayer's Blessing](slayers-blessing-botd.md), [Frighten Undead](frighten-undead-botd.md), [Slayer's Presence](slayers-presence-botd.md), [Gear Up](gear-up-botd.md)
 
 ## Summary
 

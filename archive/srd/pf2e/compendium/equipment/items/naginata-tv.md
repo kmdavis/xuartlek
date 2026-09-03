@@ -11,7 +11,7 @@ tags:
 aliases: ["Naginata"]
 ---
 # Naginata *Item 0*  
-[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 3 gp
 - **Bulk** 2

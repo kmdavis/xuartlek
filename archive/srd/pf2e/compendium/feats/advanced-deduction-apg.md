@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Deduction"]
 ---
 # Advanced Deduction  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Deduction](compendium/feats/basic-deduction-apg.md)
+- **Prerequisites**: [Basic Deduction](basic-deduction-apg.md)
 
 You gain one investigator feat. For the purpose of meeting its prerequisites, your investigator level is equal to half your character level.
 

@@ -9,8 +9,8 @@ tags:
 - trait/primal
 aliases: ["Flinging Updraft"]
 ---
-# Flinging Updraft  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Flinging Updraft  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Two-Action
 

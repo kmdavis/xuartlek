@@ -9,11 +9,11 @@ tags:
 aliases: ["Trackless"]
 ---
 # Trackless *Item 6+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** applied to footwear
 
-Trackless runes are common among hunters and trappers, as well as thieves and anyone [fleeing](rules/conditions.md#Fleeing) pursuit. While wearing trackless footwear, you have a +4 item bonus to the DC to track you. However, this bonus doesn't stack with the status bonus from pass without trace.
+Trackless runes are common among hunters and trappers, as well as thieves and anyone [fleeing](archive/srd/pf2e/rules/conditions.md#Fleeing) pursuit. While wearing trackless footwear, you have a +4 item bonus to the DC to track you. However, this bonus doesn't stack with the status bonus from pass without trace.
 
 ---
 

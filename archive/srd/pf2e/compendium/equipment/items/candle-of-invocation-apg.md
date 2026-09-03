@@ -11,11 +11,11 @@ tags:
 aliases: ["Candle Of Invocation"]
 ---
 # Candle Of Invocation *Item 16*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2000 gp
 - **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This golden candle bears the symbol of a specific deity emblazoned on its surface, surrounded by the iconography of that deity's faith. Once lit, this candle burns for 1 hour, and it can't be extinguished.
 

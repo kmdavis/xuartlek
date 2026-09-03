@@ -7,11 +7,11 @@ tags:
 aliases: ["Very, Very Sneaky"]
 ---
 # Very, Very Sneaky  *Feat 13*  
-[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
+[goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Very Sneaky](compendium/feats/very-sneaky.md)
+- **Prerequisites**: [Very Sneaky](archive/srd/pf2e/compendium/feats/very-sneaky.md)
 
-You can move up to your Speed when you use the [Sneak](rules/actions/sneak.md) action, and you no longer need to have cover or greater cover or be [concealed](rules/conditions.md#Concealed) to [Hide](rules/actions/hide.md) or [Sneak](rules/actions/sneak.md).
+You can move up to your Speed when you use the [Sneak](archive/srd/pf2e/rules/actions/sneak.md) action, and you no longer need to have cover or greater cover or be [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) to [Hide](archive/srd/pf2e/rules/actions/hide.md) or [Sneak](archive/srd/pf2e/rules/actions/sneak.md).
 
 *Source: Core Rulebook p. 49*  
 %% #compendium/src/pf2e/crb #trait/goblin %%

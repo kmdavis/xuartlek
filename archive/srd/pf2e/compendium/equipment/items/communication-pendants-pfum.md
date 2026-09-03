@@ -12,12 +12,12 @@ tags:
 aliases: ["Communication Pendants"]
 ---
 # Communication Pendants *Item 13*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 3000 gp
 - **Bulk** L; **Usage** worn
 
-Each of these matching necklaces has been constructed using one half of a purple teardrop-shaped gem, split in two. These pendants function only with the other pendant in their pair and must be crafted together. If one pendant becomes [broken](rules/conditions.md#Broken), the other shatters into non-magical shards. The Price listed above is for a pair of pendants.
+Each of these matching necklaces has been constructed using one half of a purple teardrop-shaped gem, split in two. These pendants function only with the other pendant in their pair and must be crafted together. If one pendant becomes [broken](archive/srd/pf2e/rules/conditions.md#Broken), the other shatters into non-magical shards. The Price listed above is for a pair of pendants.
 
 ```ad-embed-ability
 title: **Activate**  [Interact](rules/actions/interact.md)

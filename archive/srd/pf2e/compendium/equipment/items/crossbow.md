@@ -11,7 +11,7 @@ aliases: ["Crossbow"]
 - **Price** 3 gp
 - **Bulk** 1
   - **Damage**: `1d8` P
-  - **Ammunution** [Bolt](compendium/equipment/items/bolt.md); **Range** 120 ft.; **Reload** 1
+  - **Ammunution** [Bolt](bolt.md); **Range** 120 ft.; **Reload** 1
 - **Hands** 2
 - **Category** Simple; **Group** Bow 
 

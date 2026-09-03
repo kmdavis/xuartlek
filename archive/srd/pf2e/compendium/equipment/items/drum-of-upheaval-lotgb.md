@@ -11,13 +11,13 @@ tags:
 aliases: ["Drum Of Upheaval"]
 ---
 # Drum Of Upheaval *Item 20*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 60000 gp
 - **Craft Requirements** You are a centaur.
 - **Bulk** 1; **Usage** held in 2 hands
 
-This heavy drum is engraved along the sides with images of centaurs in fierce combat. The drum grants you a +3 item bonus on [Performance](compendium/skills.md#Performance) checks you make using the drum.
+This heavy drum is engraved along the sides with images of centaurs in fierce combat. The drum grants you a +3 item bonus on [Performance](skills.md#Performance) checks you make using the drum.
 
 Additionally, it imparts the rhythms of two songs upon your mind as soon as you touch it. One is a fast marching cadence; the other is a frenetic ritual dance. Each song has a different activation.
 

@@ -8,14 +8,14 @@ tags:
 aliases: ["Tupilaq Carver"]
 ---
 # Tupilaq Carver  *Feat 1*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Erutaki ethnicity
 - **Prerequisites**: You have a spellcasting class feature with the divine or primal tradition
 
 You know the truth behind old stories that tell of sending a fetish of bone and sinew to seek vengeance. These old magics allow you to conjure constructs with ease.
 
-Add the [summon construct](compendium/spells/summon-construct.md) spell to your spell list. The constructs you summon have a distinct ivory scrimshaw appearance, and if you include a drop of blood, lock of hair, or other portion of a creature's body as part of the spell's material component, the summoned construct gains a +4 status bonus to [Perception](compendium/skills.md#Perception) checks to sense or locate that creature.
+Add the [summon construct](archive/srd/pf2e/compendium/spells/summon-construct.md) spell to your spell list. The constructs you summon have a distinct ivory scrimshaw appearance, and if you include a drop of blood, lock of hair, or other portion of a creature's body as part of the spell's material component, the summoned construct gains a +4 status bonus to [Perception](skills.md#Perception) checks to sense or locate that creature.
 
 *Source: Lost Omens: Character Guide p. 13*  
 %% #compendium/src/pf2e/locg #trait/human #trait/uncommon %%

@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-trait
+tags:
+- compendium/src/pf2e/treasure-vault-remastered
+- trait/entrench
+aliases: ["Entrench"]
+aon_id: "trait-474"
+source: "Treasure Vault (Remastered)"
+---
+
+# Entrench  *Trait*
+
+`Entrench`
+
+You can position yourself in the armor or reposition its articulated pieces to better protect against some attacks. If you're trained in this armor, while wearing it you can spend a single action to gain a +1 circumstance bonus to AC against a certain type of attack until the start of your next turn. The entrench trait lists the type of attack this bonus applies against, typically entrench melee or entrench ranged.
+
+*Source: Treasure Vault (Remastered) p. 218*

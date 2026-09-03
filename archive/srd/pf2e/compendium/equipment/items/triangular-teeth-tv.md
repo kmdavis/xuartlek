@@ -11,12 +11,12 @@ tags:
 aliases: ["Triangular Teeth"]
 ---
 # Triangular Teeth *Item 2*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Price** 33 gp
 - **Bulk** —; **Usage** tattooed on the body
 
-Rows of triangles symbolizing shark teeth protect you from danger and enable you to take fierce retaliation against those who try to harm you. Seafarers, especially those on the seas of Minata, wear these tattoos in patterns, with multiple rows of regular triangles. You gain a +1 item bonus to [Survival](compendium/skills.md#Survival) checks to navigate bodies of water.
+Rows of triangles symbolizing shark teeth protect you from danger and enable you to take fierce retaliation against those who try to harm you. Seafarers, especially those on the seas of Minata, wear these tattoos in patterns, with multiple rows of regular triangles. You gain a +1 item bonus to [Survival](skills.md#Survival) checks to navigate bodies of water.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") command

@@ -9,7 +9,7 @@ tags:
 aliases: ["Soulforger Dedication"]
 ---
 # Soulforger Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Wis 14 or ability to cast divine spells
 
@@ -36,7 +36,7 @@ After 1 minute, the essence form armament is automatically Dismissed.
 
 ## Soulforger Dedication leads to...
 
-[Rapid Manifestation](compendium/feats/rapid-manifestation-som.md), [Soul Arsenal](compendium/feats/soul-arsenal-som.md), [Soul Flare](compendium/feats/soul-flare-som.md)
+[Rapid Manifestation](rapid-manifestation-som.md), [Soul Arsenal](soul-arsenal-som.md), [Soul Flare](soul-flare-som.md)
 
 ## Summary
 

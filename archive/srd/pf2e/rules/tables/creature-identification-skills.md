@@ -10,21 +10,21 @@ aliases: ["Creature Identification Skills"]
 
 | Creature Trait | Skills |
 |----------------|--------|
-| Aberration | [Occultism](compendium/skills.md#Occultism) |
-| Animal | [Nature](compendium/skills.md#Nature) |
-| Astral | [Occultism](compendium/skills.md#Occultism) |
-| Beast | [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature) |
-| Celestial | [Religion](compendium/skills.md#Religion) |
-| Construct | [Arcana](compendium/skills.md#Arcana), [Crafting](compendium/skills.md#Crafting) |
-| Dragon | [Arcana](compendium/skills.md#Arcana) |
-| Elemental | [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature) |
-| Ethereal | [Occultism](compendium/skills.md#Occultism) |
-| Fey | [Nature](compendium/skills.md#Nature) |
-| Fiend | [Religion](compendium/skills.md#Religion) |
-| Fungus | [Nature](compendium/skills.md#Nature) |
-| Humanoid | [Society](compendium/skills.md#Society) |
-| Monitor | [Religion](compendium/skills.md#Religion) |
-| Ooze | [Occultism](compendium/skills.md#Occultism) |
-| Plant | [Nature](compendium/skills.md#Nature) |
-| Spirit | [Occultism](compendium/skills.md#Occultism) |
-| Undead | [Religion](compendium/skills.md#Religion) |
+| Aberration | [Occultism](skills.md#Occultism) |
+| Animal | [Nature](skills.md#Nature) |
+| Astral | [Occultism](skills.md#Occultism) |
+| Beast | [Arcana](skills.md#Arcana), [Nature](skills.md#Nature) |
+| Celestial | [Religion](skills.md#Religion) |
+| Construct | [Arcana](skills.md#Arcana), [Crafting](skills.md#Crafting) |
+| Dragon | [Arcana](skills.md#Arcana) |
+| Elemental | [Arcana](skills.md#Arcana), [Nature](skills.md#Nature) |
+| Ethereal | [Occultism](skills.md#Occultism) |
+| Fey | [Nature](skills.md#Nature) |
+| Fiend | [Religion](skills.md#Religion) |
+| Fungus | [Nature](skills.md#Nature) |
+| Humanoid | [Society](skills.md#Society) |
+| Monitor | [Religion](skills.md#Religion) |
+| Ooze | [Occultism](skills.md#Occultism) |
+| Plant | [Nature](skills.md#Nature) |
+| Spirit | [Occultism](skills.md#Occultism) |
+| Undead | [Religion](skills.md#Religion) |

@@ -11,10 +11,10 @@ tags:
 aliases: ["Touch Of The Moon"]
 ---
 # Touch Of The Moon *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [moon](compendium/setting/domains.md#Moon)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Domains** [moon](archive/srd/pf2e/compendium/setting/domains.md#Moon)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Duration**: 1 minute

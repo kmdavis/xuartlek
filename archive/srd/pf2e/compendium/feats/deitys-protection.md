@@ -7,9 +7,9 @@ tags:
 aliases: ["Deity's Protection"]
 ---
 # Deity's Protection  *Feat 14*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
-- **Prerequisites**: [Advanced Domain](compendium/feats/advanced-domain.md)
+- **Prerequisites**: [Advanced Domain](archive/srd/pf2e/compendium/feats/advanced-domain.md)
 
 When you call upon your deity's power to fulfill the promise of their domain, you gain divine protection. After you cast a domain spell, you gain resistance to all damage until the start of your next turn. The amount of resistance is equal to the level of the domain spell you cast.
 

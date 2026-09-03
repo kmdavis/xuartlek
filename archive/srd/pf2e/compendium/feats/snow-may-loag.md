@@ -8,14 +8,14 @@ tags:
 aliases: ["Snow May"]
 ---
 # Snow May  *Feat 1*  
-[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  [lineage](rules/traits/lineage-apg.md "Lineage  Trait")  
+[changeling](changeling-b1.md "Changeling Ancestry & Heritage Trait")  [lineage](lineage-apg.md "Lineage  Trait")  
 
 
-You're the child of a winter hag, with one blue-white eye and an affinity for rime and snow. When moving over ice or snow in arctic terrain, you always gain the benefits of the [Cover Tracks](rules/actions/cover-tracks.md) action without needing to use the activity or having to move half your Speed. You don't treat icy terrain as uneven ground (though it's still difficult terrain for you), and you ignore difficult terrain caused by snow. Cold precipitation and environmental [cold](rules/traits/cold.md "Cold Energy & Element Trait") effects don't alter the time it takes for you to become [fatigued](rules/conditions.md#Fatigued).
+You're the child of a winter hag, with one blue-white eye and an affinity for rime and snow. When moving over ice or snow in arctic terrain, you always gain the benefits of the [Cover Tracks](archive/srd/pf2e/rules/actions/cover-tracks.md) action without needing to use the activity or having to move half your Speed. You don't treat icy terrain as uneven ground (though it's still difficult terrain for you), and you ignore difficult terrain caused by snow. Cold precipitation and environmental [cold](archive/srd/pf2e/rules/traits/cold.md "Cold Energy & Element Trait") effects don't alter the time it takes for you to become [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued).
 
 ## Snow May leads to...
 
-[Invoke The Elements](compendium/feats/invoke-the-elements-loag.md), [Stormy Heart](compendium/feats/stormy-heart-loag.md)
+[Invoke The Elements](invoke-the-elements-loag.md), [Stormy Heart](stormy-heart-loag.md)
 
 ## Summary
 

@@ -10,20 +10,20 @@ tags:
 aliases: ["Hypnotic Pattern"]
 ---
 # Hypnotic Pattern *Spell 3*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Area**: 10-foot burst
 - **Saving Throw**: Will
 - **Duration**: sustained up to 1 minute
 
-You create a pattern of shifting colors that hovers in the air in a geometric cloud. Creatures are [dazzled](rules/conditions.md#Dazzled) while inside the pattern. In addition, a creature must attempt a Will saving throw if it is inside the pattern when you cast it, when it enters the pattern, when it ends its turn within the pattern, or if it uses a [Seek](rules/actions/seek.md) or [Interact](rules/actions/interact.md) action on the pattern. A creature currently [fascinated](rules/conditions.md#Fascinated) by the pattern doesn't attempt new saves.
+You create a pattern of shifting colors that hovers in the air in a geometric cloud. Creatures are [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) while inside the pattern. In addition, a creature must attempt a Will saving throw if it is inside the pattern when you cast it, when it enters the pattern, when it ends its turn within the pattern, or if it uses a [Seek](archive/srd/pf2e/rules/actions/seek.md) or [Interact](archive/srd/pf2e/rules/actions/interact.md) action on the pattern. A creature currently [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) by the pattern doesn't attempt new saves.
 
 > [!success-degree] 
 > - **Success** The target is unaffected.
-> - **Failure** The target is [fascinated](rules/conditions.md#Fascinated) by the pattern.
-> - **Critical Failure** The target is [fascinated](rules/conditions.md#Fascinated) by the pattern. While it remains [fascinated](rules/conditions.md#Fascinated), it can't use reactions.
+> - **Failure** The target is [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) by the pattern.
+> - **Critical Failure** The target is [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) by the pattern. While it remains [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated), it can't use reactions.
 
 *Source: Core Rulebook p. 344*

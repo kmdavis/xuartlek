@@ -7,9 +7,9 @@ tags:
 aliases: ["Ephemeral Tracking"]
 ---
 # Ephemeral Tracking  *Feat 6*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Prerequisites**: expert in [Survival](compendium/skills.md#Survival), warden spells
+- **Prerequisites**: expert in [Survival](skills.md#Survival), warden spells
 
 You are able to track your quarry through impossible places.
 

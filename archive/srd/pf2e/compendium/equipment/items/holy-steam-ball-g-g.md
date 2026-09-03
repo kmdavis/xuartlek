@@ -12,7 +12,7 @@ tags:
 aliases: ["Holy Steam Ball"]
 ---
 # Holy Steam Ball *Item 2*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [good](good.md "Good Alignment Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 30 gp
 - **Bulk** L; **Usage** held in 1 hand

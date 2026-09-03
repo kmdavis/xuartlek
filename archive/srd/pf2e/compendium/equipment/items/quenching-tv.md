@@ -9,11 +9,11 @@ tags:
 aliases: ["Quenching"]
 ---
 # Quenching *Item 6+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto armor
 
-This rune counters burning and corrosive agents. Armor with this rune reduces the DC of the flat check to end [persistent acid](rules/conditions.md#Persistent%20Damage) or fire damage affecting you from 15 to 12 (7 with particularly effective assistance).
+This rune counters burning and corrosive agents. Armor with this rune reduces the DC of the flat check to end [persistent acid](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) or fire damage affecting you from 15 to 12 (7 with particularly effective assistance).
 
 ---
 
@@ -39,7 +39,7 @@ The DC of the flat check is reduced from 15 to 8 (3 with particularly effective 
 
 - **Price**: 24000 gp
 
-The DC of the flat check is reduced from 15 to 5 (particularly effective assistance automatically removes the [persistent acid](rules/conditions.md#Persistent%20Damage) or fire damage).
+The DC of the flat check is reduced from 15 to 5 (particularly effective assistance automatically removes the [persistent acid](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) or fire damage).
 
 ---
 *Source: Treasure Vault p. 13*

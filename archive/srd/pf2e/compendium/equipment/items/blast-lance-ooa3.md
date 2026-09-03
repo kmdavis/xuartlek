@@ -11,7 +11,7 @@ tags:
 aliases: ["Blast Lance"]
 ---
 # Blast Lance *Item 4+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 2; **Usage** held in 2 hands
 

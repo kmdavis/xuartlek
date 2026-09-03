@@ -10,11 +10,11 @@ tags:
 aliases: ["Thunderbird Tuft"]
 ---
 # Thunderbird Tuft *Item 1+*  
-[catalyst](rules/traits/catalyst-som.md "Catalyst Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[catalyst](catalyst-som.md "Catalyst Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
-This carved chunk of amber contains a single tuft of gray feathers, which spark with electricity to create an odd jittery sensation in anyone holding the amber for long. When used as part of a [shocking grasp](compendium/spells/shocking-grasp.md) spell, thunderbird tuft funnels electricity back into the spellcaster in a defensive nimbus. For 1 minute, any creature that touches you or that hits you with a melee unarmed attack or non-reach melee weapon attack takes the listed electricity damage.
+This carved chunk of amber contains a single tuft of gray feathers, which spark with electricity to create an odd jittery sensation in anyone holding the amber for long. When used as part of a [shocking grasp](shocking-grasp.md) spell, thunderbird tuft funnels electricity back into the spellcaster in a defensive nimbus. For 1 minute, any creature that touches you or that hits you with a melee unarmed attack or non-reach melee weapon attack takes the listed electricity damage.
 
 ---
 

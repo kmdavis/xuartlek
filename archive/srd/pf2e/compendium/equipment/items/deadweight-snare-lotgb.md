@@ -13,7 +13,7 @@ tags:
 aliases: ["Deadweight Snare"]
 ---
 # Deadweight Snare *Item 2*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [kobold](kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6 gp
 
@@ -21,8 +21,8 @@ This snare is made of magnetized weights and heavy ropes rigged to a trip wire o
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature takes a –1 status penalty to attack rolls for 1 round or until it [Escapes](rules/actions/escape.md) (DC 18).
-> - **Failure** The creature takes a –2 status penalty to attack rolls for 1 minute or until it [Escapes](rules/actions/escape.md) (DC 18).
+> - **Success** The creature takes a –1 status penalty to attack rolls for 1 round or until it [Escapes](archive/srd/pf2e/rules/actions/escape.md) (DC 18).
+> - **Failure** The creature takes a –2 status penalty to attack rolls for 1 minute or until it [Escapes](archive/srd/pf2e/rules/actions/escape.md) (DC 18).
 > - **Critical Failure** As failure, but the creature drops any metallic items it's holding.
 
 

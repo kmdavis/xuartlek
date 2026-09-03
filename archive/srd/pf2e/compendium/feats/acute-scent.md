@@ -7,15 +7,15 @@ tags:
 aliases: ["Acute Scent"]
 ---
 # Acute Scent  *Feat 2*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  
 
-- **Prerequisites**: [Acute Vision](compendium/feats/acute-vision.md) or [darkvision](rules/abilities/darkvision.md)
+- **Prerequisites**: [Acute Vision](archive/srd/pf2e/compendium/feats/acute-vision.md) or [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md)
 
-When you [Rage](rules/actions/rage.md), your sense of smell improves. You gain imprecise [scent](rules/abilities/scent.md) with a range of 30 feet.
+When you [Rage](archive/srd/pf2e/rules/actions/rage.md), your sense of smell improves. You gain imprecise [scent](archive/srd/pf2e/rules/abilities/scent.md) with a range of 30 feet.
 
 ## Acute Scent leads to...
 
-[Instinctive Strike](compendium/feats/instinctive-strike-apg.md), [Nocturnal Sense](compendium/feats/nocturnal-sense-apg.md), [Supernatural Senses](compendium/feats/supernatural-senses-apg.md)
+[Instinctive Strike](instinctive-strike-apg.md), [Nocturnal Sense](nocturnal-sense-apg.md), [Supernatural Senses](supernatural-senses-apg.md)
 
 ## Summary
 

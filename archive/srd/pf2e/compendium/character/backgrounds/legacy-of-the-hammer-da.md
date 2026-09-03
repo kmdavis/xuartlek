@@ -15,4 +15,4 @@ Your introduction to the criminal life was spurred forward by a seemingly innocu
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [Thievery](compendium/skills.md#Thievery) skill and [Engineering Lore](compendium/skills.md#Lore). You gain the [Concealing Legerdemain](compendium/feats/concealing-legerdemain-apg.md) skill feat.
+You're trained in the [Thievery](skills.md#Thievery) skill and [Engineering Lore](skills.md#Lore). You gain the [Concealing Legerdemain](concealing-legerdemain-apg.md) skill feat.

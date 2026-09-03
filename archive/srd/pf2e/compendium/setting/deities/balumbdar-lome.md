@@ -22,13 +22,13 @@ aliases: ["Balumbdar", "The World-Shaker"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [greatclub](compendium/equipment/items/greatclub.md)
-- **Domains**: [might](compendium/setting/domains.md#Might), [nature](compendium/setting/domains.md#Nature), [perfection](compendium/setting/domains.md#Perfection), [protection](compendium/setting/domains.md#Protection)
-- **Cleric Spells**: 1st: [ant haul](compendium/spells/ant-haul.md); 2nd: [enlarge](compendium/spells/enlarge.md); 4th: [dinosaur form](compendium/spells/dinosaur-form.md)
+- **Favored Weapon**: [greatclub](archive/srd/pf2e/compendium/equipment/items/greatclub.md)
+- **Domains**: [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [ant haul](archive/srd/pf2e/compendium/spells/ant-haul.md); 2nd: [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md); 4th: [dinosaur form](archive/srd/pf2e/compendium/spells/dinosaur-form.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Balumbdar gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Balumbdar gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Balumbdar

@@ -11,7 +11,7 @@ tags:
 aliases: ["Rime Crystal"]
 ---
 # Rime Crystal *Item 3+*  
-[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
+[cold](archive/srd/pf2e/rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Bulk** —; **Usage** affixed to armor or a weapon
 

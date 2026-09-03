@@ -9,11 +9,11 @@ tags:
 aliases: ["Primeval Mistletoe"]
 ---
 # Primeval Mistletoe *Item 6+*  
-[primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** —; **Usage** held in 1 hand
 
-This sprig of berry-festooned holly and mistletoe doesn't wilt or rot. It can be used as a primal focus, and it also grants the creature holding it a +1 item bonus to [Nature](compendium/skills.md#Nature) checks.
+This sprig of berry-festooned holly and mistletoe doesn't wilt or rot. It can be used as a primal focus, and it also grants the creature holding it a +1 item bonus to [Nature](skills.md#Nature) checks.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
@@ -43,7 +43,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Price**: 3900 gp
 
-The sprig grants a +2 bonus and can be activated in one additional way: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md); **Frequency** once per day; **Effect** You plant the primeval mistletoe into an area of natural earth or stone. Once planted, the plant immediately sprouts into an area of holly bushes that don't impede movement and that pulse with positive energy, replicating the effects of a [field of life](compendium/spells/field-of-life.md) spell. This lasts for up to 1 minute, as long as you continue to Sustain the Activation. When this magic ends, the holly bushes revert back into the original primeval mistletoe.
+The sprig grants a +2 bonus and can be activated in one additional way: **Activate** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](archive/srd/pf2e/rules/actions/interact.md); **Frequency** once per day; **Effect** You plant the primeval mistletoe into an area of natural earth or stone. Once planted, the plant immediately sprouts into an area of holly bushes that don't impede movement and that pulse with positive energy, replicating the effects of a [field of life](archive/srd/pf2e/compendium/spells/field-of-life.md) spell. This lasts for up to 1 minute, as long as you continue to Sustain the Activation. When this magic ends, the holly bushes revert back into the original primeval mistletoe.
 
 ---
 *Source: Core Rulebook p. 574*

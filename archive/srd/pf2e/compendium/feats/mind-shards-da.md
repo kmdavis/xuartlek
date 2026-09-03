@@ -10,10 +10,10 @@ tags:
 - trait/mental
 aliases: ["Mind Shards"]
 ---
-# Mind Shards  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+# Mind Shards  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Prerequisites**: [Mind Smith Dedication](compendium/feats/mind-smith-dedication-da.md)
+- **Prerequisites**: [Mind Smith Dedication](mind-smith-dedication-da.md)
 - **Activity** Two-Action
 
 With a swing and a thought, you detonate your mind weapon into a burst of psychic shards that shred the mind.

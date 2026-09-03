@@ -7,11 +7,11 @@ tags:
 aliases: ["Devoted Focus"]
 ---
 # Devoted Focus  *Feat 10*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: devotion spells
 
-Your devotion is strong enough to increase your focus to incredible heights. If you have spent at least 2 Focus Points since the last time you [Refocused](rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](rules/actions/refocus.md) instead of 1.
+Your devotion is strong enough to increase your focus to incredible heights. If you have spent at least 2 Focus Points since the last time you [Refocused](archive/srd/pf2e/rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](archive/srd/pf2e/rules/actions/refocus.md) instead of 1.
 
 *Source: Core Rulebook p. 113*  
 %% #compendium/src/pf2e/crb #trait/champion %%

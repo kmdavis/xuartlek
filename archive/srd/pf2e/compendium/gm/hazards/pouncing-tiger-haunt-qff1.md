@@ -7,14 +7,14 @@ tags:
 aliases: ["Pouncing Tiger Haunt"]
 ---
 # Pouncing Tiger Haunt *Hazard 2*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 21 trained  
 
 A cave painting of a great cat roars to life and leaps off the wall to attack.
 
-- **Disable** DC 18 [Nature](compendium/skills.md#Nature) (trained) or [Religion](compendium/skills.md#Religion) (trained) to quell the spirit  
+- **Disable** DC 18 [Nature](skills.md#Nature) (trained) or [Religion](skills.md#Religion) (trained) to quell the spirit  
 
 - **AC** 18, **Fort** +11, **Ref** +5
 - **Hardness** 8, **HP** 30 (BT 15)

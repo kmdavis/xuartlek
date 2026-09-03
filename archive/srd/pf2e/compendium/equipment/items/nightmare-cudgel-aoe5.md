@@ -10,7 +10,7 @@ tags:
 aliases: ["Nightmare Cudgel"]
 ---
 # Nightmare Cudgel *Item 11*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1000 gp
 - **Bulk** 1; **Usage** held in 1 hand

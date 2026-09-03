@@ -17,4 +17,4 @@ You've heard that these ruins are pretty well picked over, and mostly collapsed,
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in [Acrobatics](compendium/skills.md#Acrobatics) and the [Roseguard Lore](compendium/skills.md#Lore) skill. You gain the [Cat Fall](compendium/feats/cat-fall.md) skill feat.
+You're trained in [Acrobatics](skills.md#Acrobatics) and the [Roseguard Lore](skills.md#Lore) skill. You gain the [Cat Fall](archive/srd/pf2e/compendium/feats/cat-fall.md) skill feat.

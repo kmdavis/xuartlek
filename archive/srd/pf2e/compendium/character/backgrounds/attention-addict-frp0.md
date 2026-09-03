@@ -19,4 +19,4 @@ It's already clear that you'll be named Ruby Phoenix Champion—the challenges l
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in [Performance](compendium/skills.md#Performance) and the [Gladiatorial Lore](compendium/skills.md#Lore) skill. You gain the [Impressive Performance](compendium/feats/impressive-performance.md) skill feat.
+You're trained in [Performance](skills.md#Performance) and the [Gladiatorial Lore](skills.md#Lore) skill. You gain the [Impressive Performance](archive/srd/pf2e/compendium/feats/impressive-performance.md) skill feat.

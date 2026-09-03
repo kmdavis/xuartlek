@@ -15,4 +15,4 @@ After an altercation with an undead creature, you feared you might be infected. 
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Medicine](compendium/skills.md#Medicine) skill and the [Undead Lore](compendium/skills.md#Lore) skill. You gain the [Battle Medicine](compendium/feats/battle-medicine.md) skill feat.
+You're trained in the [Medicine](skills.md#Medicine) skill and the [Undead Lore](skills.md#Lore) skill. You gain the [Battle Medicine](archive/srd/pf2e/compendium/feats/battle-medicine.md) skill feat.

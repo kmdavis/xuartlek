@@ -10,10 +10,10 @@ tags:
 aliases: ["Enduring Might"]
 ---
 # Enduring Might *Focus 4*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [might](compendium/setting/domains.md#Might)
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Domains** [might](archive/srd/pf2e/compendium/setting/domains.md#Might)
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: An attack or effect would deal damage to you.
 - 
 

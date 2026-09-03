@@ -7,17 +7,17 @@ tags:
 aliases: ["Lore Seeker"]
 ---
 # Lore Seeker  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Scrollmaster Dedication](compendium/feats/scrollmaster-dedication-locg.md)
+- **Prerequisites**: [Scrollmaster Dedication](scrollmaster-dedication-locg.md)
 
-You see what others don't, and you've developed magical tricks to find [hidden](rules/conditions.md#Hidden) truth.
+You see what others don't, and you've developed magical tricks to find [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) truth.
 
-You can cast [comprehend language](compendium/spells/comprehend-language.md), restore senses, and see invisibility as innate spells, each once per day. If you could already cast spells, these spells are of the same tradition. Otherwise, they are arcane spells, you use Intelligence as your spellcasting ability, and you become trained in spell attack rolls and spell DCs for arcane spells.
+You can cast [comprehend language](comprehend-language.md), restore senses, and see invisibility as innate spells, each once per day. If you could already cast spells, these spells are of the same tradition. Otherwise, they are arcane spells, you use Intelligence as your spellcasting ability, and you become trained in spell attack rolls and spell DCs for arcane spells.
 
 ## Lore Seeker leads to...
 
-[Determined Lore Seeker](compendium/feats/determined-lore-seeker-lopsg.md)
+[Determined Lore Seeker](determined-lore-seeker-lopsg.md)
 
 ## Summary
 

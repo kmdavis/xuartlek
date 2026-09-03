@@ -27,12 +27,12 @@ aliases: ["Urgathoa", "Pallid Princess"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [scythe](compendium/equipment/items/scythe.md)
-- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [magic](compendium/setting/domains.md#Magic), [might](compendium/setting/domains.md#Might), [undeath](compendium/setting/domains.md#Undeath)
-- **Alternate Domains**: [decay](compendium/setting/domains.md#Decay), [swarm](compendium/setting/domains.md#Swarm), [plague](compendium/setting/domains.md#Plague)
-- **Cleric Spells**: 1st: [goblin pox](compendium/spells/goblin-pox.md); 2nd: [false life](compendium/spells/false-life.md); 7th: [mask of terror](compendium/spells/mask-of-terror.md)
+- **Favored Weapon**: [scythe](archive/srd/pf2e/compendium/equipment/items/scythe.md)
+- **Domains**: [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [undeath](archive/srd/pf2e/compendium/setting/domains.md#Undeath)
+- **Alternate Domains**: [decay](archive/srd/pf2e/compendium/setting/domains.md#Decay), [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm), [plague](archive/srd/pf2e/compendium/setting/domains.md#Plague)
+- **Cleric Spells**: 1st: [goblin pox](archive/srd/pf2e/compendium/spells/goblin-pox.md); 2nd: [false life](false-life.md); 7th: [mask of terror](archive/srd/pf2e/compendium/spells/mask-of-terror.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Urgathoa
@@ -49,9 +49,9 @@ title: [Avatar](compendium/spells/avatar.md) of Urgathoa
 Urgathoa interferes in mortal affairs to fuel her own self-gratification and obsession with observing new sensations.
 
 - **Minor Boon** You feast on the spoils of life and death. You gain the benefits of the irongut Goblin heritage, regardless of your ancestry. If you already have this heritage, the circumstance bonus increases to +4.
-- **Moderate Boon**: Urgathoa blesses you as one of her children. You gain [negative healing](rules/abilities/negative-healing-b2.md).
-- **Major Boon**: When you contract contagions, you experience fever dreams filled with insight. Once afflicted with a disease, you gain the effects of [foresight](compendium/spells/foresight.md) with yourself as the target until no longer afflicted with any disease.
+- **Moderate Boon**: Urgathoa blesses you as one of her children. You gain [negative healing](negative-healing-b2.md).
+- **Major Boon**: When you contract contagions, you experience fever dreams filled with insight. Once afflicted with a disease, you gain the effects of [foresight](archive/srd/pf2e/compendium/spells/foresight.md) with yourself as the target until no longer afflicted with any disease.
 
 - **Minor Curse**: You must overindulge or partake in forbidden feasts before you find yourself even remotely sated. You need to eat 20 times as much food as normal to avoid starvation, though you always feel hungry regardless of how much you eat. If you dine on the flesh and blood of sapient creatures, you need to eat only the normal amount of such meals and your hunger abates.
 - **Moderate Curse** Urgathoa cuts you off from positive energy without granting you the blessing of undeath. You are harmed by positive effects and don't recover Hit Points from them, as if you were an undead or had negative healing, but you are still harmed by negative effects as normal.
-- **Major Curse**: Urgathoa teaches you that pointless lives in slavery to death and morality are bound to end in tragedy. You develop an incurable wasting disease that leaves you [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), and unable to move except by [Crawling](rules/actions/crawl.md). This disease never progresses further to kill you, but it passes to your friends and loved ones merely by sight, wasting them away unto death before your eyes and causing them to rise as undead to haunt you.
+- **Major Curse**: Urgathoa teaches you that pointless lives in slavery to death and morality are bound to end in tragedy. You develop an incurable wasting disease that leaves you [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy), [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled), and unable to move except by [Crawling](archive/srd/pf2e/rules/actions/crawl.md). This disease never progresses further to kill you, but it passes to your friends and loved ones merely by sight, wasting them away unto death before your eyes and causing them to rise as undead to haunt you.

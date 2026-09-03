@@ -7,21 +7,21 @@ tags:
 aliases: ["Expert Captivator Spellcasting"]
 ---
 # Expert Captivator Spellcasting  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Captivator Spellcasting](compendium/feats/basic-captivator-spellcasting-lotgb.md)
+- **Prerequisites**: [Basic Captivator Spellcasting](basic-captivator-spellcasting-lotgb.md)
 
 You learn more powerful spells to enchant and deceive.
 
 You learn a 4th-level occult spell. At 12th level, you learn a 5th-level spell, and at 14th level, you learn a 6th-level spell.
 
-Each of these spells must come from either the enchantment or illusion school. You [Cast these Spells](rules/actions/cast-a-spell.md) as occult innate spells.
+Each of these spells must come from either the enchantment or illusion school. You [Cast these Spells](archive/srd/pf2e/rules/actions/cast-a-spell.md) as occult innate spells.
 
 You become an expert with spell attack rolls and spell DCs for occult spells.
 
 ## Expert Captivator Spellcasting leads to...
 
-[Master Captivator Spellcasting](compendium/feats/master-captivator-spellcasting-lotgb.md)
+[Master Captivator Spellcasting](master-captivator-spellcasting-lotgb.md)
 
 ## Summary
 

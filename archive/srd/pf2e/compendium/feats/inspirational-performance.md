@@ -7,11 +7,11 @@ tags:
 aliases: ["Inspirational Performance"]
 ---
 # Inspirational Performance  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Bard Dedication](compendium/feats/bard-dedication.md)
+- **Prerequisites**: [Bard Dedication](archive/srd/pf2e/compendium/feats/bard-dedication.md)
 
-You gain the [inspire courage](compendium/spells/inspire-courage.md) composition cantrip.
+You gain the [inspire courage](inspire-courage.md) composition cantrip.
 
 *Source: Core Rulebook p. 222*  
 %% #compendium/src/pf2e/crb #trait/archetype %%

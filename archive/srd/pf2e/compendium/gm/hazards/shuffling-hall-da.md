@@ -8,14 +8,14 @@ tags:
 aliases: ["Shuffling Hall"]
 ---
 # Shuffling Hall *Hazard -1*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 15  
 
 Four pressure plates along this mirrored hall rotate vertically when stepped on, sending a creature on the pressure plate tipping into an adjacent featureless room while simultaneously replacing the pressure plate and walls in the hall. Each pressure plate dumps creatures into a different room.
 
-- **Disable** DC 12 [Thievery](compendium/skills.md#Thievery) to deactivate one pressure plate  
+- **Disable** DC 12 [Thievery](skills.md#Thievery) to deactivate one pressure plate  
 
 - **AC** 18, **Fort** +2, **Ref** +5
 - **Hardness** 4, **HP** 12 (BT 6)

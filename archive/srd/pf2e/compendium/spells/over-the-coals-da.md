@@ -12,10 +12,10 @@ tags:
 aliases: ["Over the Coals"]
 ---
 # Over the Coals *Focus 5*   
-[hex](rules/traits/hex-apg.md "Hex Combat Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
+[hex](hex-apg.md "Hex Combat Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [witch](archive/srd/pf2e/rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -25,9 +25,9 @@ You accuse the target of breaking its word to you and invoke the wrath of your p
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected and is immune to your pact broker cantrips for 1 day.
-> - **Success** If the target doesn't comply with your request by the end of its next turn, it takes `3d8` [persistent negative damage](rules/conditions.md#Persistent%20Damage). If it later complies, the spell automatically ends.
-> - **Failure** As success, but if the target doesn't comply, it is [drained](rules/conditions.md#Drained) and takes `6d8` [persistent negative damage](rules/conditions.md#Persistent%20Damage).
-> - **Critical Failure** As success, but if the target doesn't comply, it is [drained](rules/conditions.md#Drained), [doomed](rules/conditions.md#Doomed), and takes `6d8` [persistent negative damage](rules/conditions.md#Persistent%20Damage). Even if the target completes your commands later, the spell doesn't end until all the conditions end.
+> - **Success** If the target doesn't comply with your request by the end of its next turn, it takes `3d8` [persistent negative damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage). If it later complies, the spell automatically ends.
+> - **Failure** As success, but if the target doesn't comply, it is [drained](archive/srd/pf2e/rules/conditions.md#Drained) and takes `6d8` [persistent negative damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
+> - **Critical Failure** As success, but if the target doesn't comply, it is [drained](archive/srd/pf2e/rules/conditions.md#Drained), [doomed](archive/srd/pf2e/rules/conditions.md#Doomed), and takes `6d8` [persistent negative damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage). Even if the target completes your commands later, the spell doesn't end until all the conditions end.
 
 **Heightened (9th)** You can target up to two creatures.
 

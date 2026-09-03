@@ -13,7 +13,7 @@ tags:
 aliases: ["Burning Badger Guts Snare"]
 ---
 # Burning Badger Guts Snare *Item 10*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 170 gp
 
@@ -21,9 +21,9 @@ When a creature enters the trapped square, putrefied badger guts coated in hyper
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature takes half damage and `1d8` [persistent fire damage](rules/conditions.md#Persistent%20Damage).
-> - **Failure** The creature takes full damage and `2d8` [persistent fire damage](rules/conditions.md#Persistent%20Damage), and is [sickened](rules/conditions.md#Sickened).
-> - **Critical Failure** As failure, but the creature is [sickened](rules/conditions.md#Sickened).
+> - **Success** The creature takes half damage and `1d8` [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
+> - **Failure** The creature takes full damage and `2d8` [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), and is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Critical Failure** As failure, but the creature is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
 
 
 ---

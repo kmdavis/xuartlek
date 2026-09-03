@@ -11,14 +11,14 @@ tags:
 aliases: ["Hallowed Wheel"]
 ---
 # Hallowed Wheel *Hazard 10*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +19 expert to detect the magical sensor; noticing the wheel has a DC of 0.  
 
-An ornate wheel, divided into eight segments with a rune painted on each, is mounted on a pole and [controlled](rules/conditions.md#Controlled) by a lever that can be triggered manually or a sensor that detects creatures within 30 feet in front of it.
+An ornate wheel, divided into eight segments with a rune painted on each, is mounted on a pole and [controlled](archive/srd/pf2e/rules/conditions.md#Controlled) by a lever that can be triggered manually or a sensor that detects creatures within 30 feet in front of it.
 
-- **Disable** DC 31 [Thievery](compendium/skills.md#Thievery) (master) on the wheel to flip the switch returning it to a harmless carnival game, DC 26 [Thievery](compendium/skills.md#Thievery) (expert) to erase each rune, or dispel magic (5th level; counteract DC 28) to counteract each rune.  
+- **Disable** DC 31 [Thievery](skills.md#Thievery) (master) on the wheel to flip the switch returning it to a harmless carnival game, DC 26 [Thievery](skills.md#Thievery) (expert) to erase each rune, or dispel magic (5th level; counteract DC 28) to counteract each rune.  
 
 - **AC** 30, **Fort** +21, **Ref** +15
 - **Hardness** 16, **HP** 80 (BT 40)

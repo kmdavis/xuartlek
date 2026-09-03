@@ -11,9 +11,9 @@ tags:
 aliases: ["Mind Probe"]
 ---
 # Mind Probe *Spell 5*   
-[divination](rules/traits/divination.md "Divination School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Range**: 30 foot
 - **Targets**: 1 creature
@@ -24,7 +24,7 @@ You cast your thoughts through a creature's mind, sifting for information. You a
 
 > [!success-degree] 
 > - **Success** The target is unaffected.
-> - **Failure** Each round of the spell's duration, you can [Sustain the Spell](rules/actions/sustain-a-spell.md) to ask a different question and attempt to uncover the answer. For each question, the target can attempt a [Deception](compendium/skills.md#Deception) check against your spell DC; if the target succeeds, you don't learn the answer, and on a critical success, the target gives you a false answer that you believe is truthful Once you've asked the target a given question, asking it again, even with a separate casting of mind probe, produces the same result.
-> - **Critical Failure** As failure, and the target takes a –4 circumstance penalty to [Deception](compendium/skills.md#Deception) checks against your questions.
+> - **Failure** Each round of the spell's duration, you can [Sustain the Spell](sustain-a-spell.md) to ask a different question and attempt to uncover the answer. For each question, the target can attempt a [Deception](skills.md#Deception) check against your spell DC; if the target succeeds, you don't learn the answer, and on a critical success, the target gives you a false answer that you believe is truthful Once you've asked the target a given question, asking it again, even with a separate casting of mind probe, produces the same result.
+> - **Critical Failure** As failure, and the target takes a –4 circumstance penalty to [Deception](skills.md#Deception) checks against your questions.
 
 *Source: Core Rulebook p. 351*

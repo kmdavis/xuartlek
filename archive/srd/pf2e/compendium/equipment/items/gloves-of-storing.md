@@ -12,7 +12,7 @@ tags:
 aliases: ["Gloves of Storing"]
 ---
 # Gloves of Storing *Item 7*  
-[extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[extradimensional](archive/srd/pf2e/rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 340 gp
 - **Bulk** —; **Usage** worn gloves

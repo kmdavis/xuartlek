@@ -10,14 +10,14 @@ tags:
 aliases: ["Steam Vents"]
 ---
 # Steam Vents *Hazard 4*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [steam](rules/traits/steam-g-g.md "Steam  Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [steam](steam-g-g.md "Steam  Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained  
 
 Large pressurized pipes connected to a trip wire are rigged to release a blast of steam on trespassers.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 22 (trained) to disconnect the trip wire or [Crafting](compendium/skills.md#Crafting) DC 24 (expert) to carefully reduce the pressure and prevent the blast  
+- **Disable** [Thievery](skills.md#Thievery) DC 22 (trained) to disconnect the trip wire or [Crafting](skills.md#Crafting) DC 24 (expert) to carefully reduce the pressure and prevent the blast  
 
 - **AC** 20, **Fort** +12, **Ref** +12
 - **Hardness** 12, **HP** 48 (BT 24)

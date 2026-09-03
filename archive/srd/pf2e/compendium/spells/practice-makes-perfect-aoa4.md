@@ -10,10 +10,10 @@ tags:
 aliases: ["Practice Makes Perfect"]
 ---
 # Practice Makes Perfect *Focus 1*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [divination](divination.md "Divination School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [toil](compendium/setting/domains.md#Toil)
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Domains** [toil](archive/srd/pf2e/compendium/setting/domains.md#Toil)
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: You or an ally within range fails a skill check for a skill in which you or they are trained.
 - **Range**: 30 foot
 

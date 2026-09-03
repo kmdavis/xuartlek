@@ -8,10 +8,10 @@ tags:
 - trait/primal
 aliases: ["Curse of the Saumen Kar"]
 ---
-# Curse of the Saumen Kar  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Curse of the Saumen Kar  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
-- **Prerequisites**: [Frostbite Runes](compendium/feats/frostbite-runes-lomm.md)
+- **Prerequisites**: [Frostbite Runes](frostbite-runes-lomm.md)
 - **Frequency**: once per day
 - **Activity** Two-Action
 

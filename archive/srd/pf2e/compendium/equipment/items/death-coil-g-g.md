@@ -13,7 +13,7 @@ tags:
 aliases: ["Death Coil"]
 ---
 # Death Coil *Item 20*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 9000 gp
 
@@ -22,8 +22,8 @@ This modified Stasian coil of metal and glass stands about three feet tall. It a
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and is [stunned](rules/conditions.md#Stunned).
-> - **Critical Failure** The creature takes double damage is [stunned](rules/conditions.md#Stunned).
+> - **Failure** The creature takes full damage and is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
+> - **Critical Failure** The creature takes double damage is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
 
 
 ---

@@ -11,7 +11,7 @@ tags:
 aliases: ["Fungal Armor"]
 ---
 # Fungal Armor *Item 15*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 7200 gp
 - **Craft Requirements** Supply a casting of cloudkill and gaseous form.

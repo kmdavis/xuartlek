@@ -7,7 +7,7 @@ tags:
 aliases: ["Syncretism"]
 ---
 # Syncretism  *Feat 1*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: you follow a deity
 

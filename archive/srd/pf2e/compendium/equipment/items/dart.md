@@ -9,7 +9,7 @@ tags:
 aliases: ["Dart"]
 ---
 # Dart *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [thrown](rules/traits/thrown.md "Thrown Weapon Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [thrown](archive/srd/pf2e/rules/traits/thrown.md "Thrown Weapon Trait")  
 
 - **Price** 1 cp
 - **Bulk** L

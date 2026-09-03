@@ -8,8 +8,8 @@ tags:
 - trait/uncommon
 aliases: ["Miraculous Intervention"]
 ---
-# Miraculous Intervention  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[champion](rules/traits/champion.md "Champion Class Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Miraculous Intervention  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  [cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Trigger** An adjacent fiend or undead begins to use a reaction.

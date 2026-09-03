@@ -9,7 +9,7 @@ tags:
 aliases: ["Timepiece"]
 ---
 # Timepiece *Item 1+*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 Clockwork timepieces come in a variety of sizes and aesthetic styles, but they're all designed to display the accurate time of day down to the second.

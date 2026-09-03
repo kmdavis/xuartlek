@@ -11,7 +11,7 @@ tags:
 aliases: ["Shot Of The First Vault"]
 ---
 # Shot Of The First Vault *Item 23*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Ammunition** any
 
@@ -19,7 +19,7 @@ Legends claim that some long-forgotten god stole the original bundle of shots of
 
 Since then, individual pieces have turned up throughout the multiverse. When you pick up a shot of the First Vault, it immediately reshapes itself to function with any ranged weapon and establishes you as its owner until another creature picks it up. As its owner, you can use the shot's single-action activation after shooting it.
 
-Instead of rolling weapon damage dice, a shot of the First Vault deals 25 damage plus any bonuses or additional damage as if 25 were the result of the weapon's damage dice; the damage type matches that normally dealt by the weapon. Upon damaging a creature, the shot of the First Vault shatters, and the fragments ricochet to hit any other enemies within 30 feet, making attack rolls with the same attack bonus. The shattered fragments remain lodged in the creatures they damage; the creatures are [clumsy](rules/conditions.md#Clumsy) while the fragments remain in place. A total of 3 actions, which have the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait, are required to remove the fragments from yourself or an adjacent creature; alternatively, a single action and a successful DC 30 [Medicine](compendium/skills.md#Medicine) check can be used. A critical failure on this [Medicine](compendium/skills.md#Medicine) check deals 10 [persistent bleed damage](rules/conditions.md#Persistent%20Damage) to the creature with the embedded fragment.
+Instead of rolling weapon damage dice, a shot of the First Vault deals 25 damage plus any bonuses or additional damage as if 25 were the result of the weapon's damage dice; the damage type matches that normally dealt by the weapon. Upon damaging a creature, the shot of the First Vault shatters, and the fragments ricochet to hit any other enemies within 30 feet, making attack rolls with the same attack bonus. The shattered fragments remain lodged in the creatures they damage; the creatures are [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) while the fragments remain in place. A total of 3 actions, which have the [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait") trait, are required to remove the fragments from yourself or an adjacent creature; alternatively, a single action and a successful DC 30 [Medicine](skills.md#Medicine) check can be used. A critical failure on this [Medicine](skills.md#Medicine) check deals 10 [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) to the creature with the embedded fragment.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

@@ -13,10 +13,10 @@ tags:
 aliases: ["Shroud Of Night"]
 ---
 # Shroud Of Night *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [darkness](archive/srd/pf2e/rules/traits/darkness.md "Darkness Effect Trait")  [evocation](evocation.md "Evocation School Trait")  [hex](hex-apg.md "Hex Combat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](archive/srd/pf2e/rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -26,6 +26,6 @@ Drawing your hand in a sweeping gesture, you shroud the target in a veil of nigh
 
 > [!success-degree] 
 > - **Success** The target is unaffected.
-> - **Failure** The target is shrouded in murky darkness. Unless the target has [darkvision](rules/abilities/darkvision.md), other creatures are [concealed](rules/conditions.md#Concealed) to it.
+> - **Failure** The target is shrouded in murky darkness. Unless the target has [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md), other creatures are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) to it.
 
 *Source: Advanced Player's Guide p. 239*

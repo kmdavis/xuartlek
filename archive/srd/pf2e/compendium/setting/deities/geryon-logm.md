@@ -20,8 +20,8 @@ aliases: ["Geryon", "The Serpent"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [war flail](compendium/equipment/items/war-flail.md)
-- **Domains**: [might](compendium/setting/domains.md#Might), [truth](compendium/setting/domains.md#Truth), [water](compendium/setting/domains.md#Water), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
-- **Cleric Spells**: 1st: [acidic burst](compendium/spells/acidic-burst-logm.md); 4th: animal form (snake only); 6th: [hypercognition](compendium/spells/hypercognition.md)
+- **Favored Weapon**: [war flail](archive/srd/pf2e/compendium/equipment/items/war-flail.md)
+- **Domains**: [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth), [water](archive/srd/pf2e/compendium/setting/domains.md#Water), [wyrmkin](archive/srd/pf2e/compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [acidic burst](acidic-burst-logm.md); 4th: animal form (snake only); 6th: [hypercognition](archive/srd/pf2e/compendium/spells/hypercognition.md)

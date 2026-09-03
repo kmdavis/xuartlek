@@ -12,12 +12,12 @@ tags:
 aliases: ["Laurel of the Empath"]
 ---
 # Laurel of the Empath *Item 20*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [divination](divination.md "Divination School Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 70000 gp
 - **Bulk** —; **Usage** worn cap
 
-This silvery, woven ring of leaves sits on top of the head. While wearing it, when you roll [Perception](compendium/skills.md#Perception) for initiative, you can roll twice and take the higher result. This is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect. Whenever you spend at least 1 minute talking with a living creature, you automatically become aware of its attitude toward you. When you invest the laurel, you either increase your Wisdom score by 2 or increase it to 18, whichever is higher.
+This silvery, woven ring of leaves sits on top of the head. While wearing it, when you roll [Perception](skills.md#Perception) for initiative, you can roll twice and take the higher result. This is a [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait") effect. Whenever you spend at least 1 minute talking with a living creature, you automatically become aware of its attitude toward you. When you invest the laurel, you either increase your Wisdom score by 2 or increase it to 18, whichever is higher.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision

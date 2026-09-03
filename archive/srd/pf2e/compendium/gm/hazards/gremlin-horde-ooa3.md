@@ -8,14 +8,14 @@ tags:
 aliases: ["Gremlin Horde"]
 ---
 # Gremlin Horde *Hazard 6*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +18 expert  
 
 Three gangs of gremlins hide within the spiral centurion, cackling with glee and hurling blasts of hex magic. The hazard occupies the same space as the spiral centurion, moving with it.
 
-- **Disable** DC 25 [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) (trained) to devise counter-hex symbols that frighten and scatter a gremlin gang, or DC 28 [Acrobatics](compendium/skills.md#Acrobatics) or [Stealth](compendium/skills.md#Stealth) (expert) to capture and scatter a gremlin gang  
+- **Disable** DC 25 [Arcana](skills.md#Arcana), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion) (trained) to devise counter-hex symbols that frighten and scatter a gremlin gang, or DC 28 [Acrobatics](skills.md#Acrobatics) or [Stealth](skills.md#Stealth) (expert) to capture and scatter a gremlin gang  
 
 - **AC** 27, **Fort** +11, **Ref** +17
 - **Hardness** 15 (while inside the centurion); **HP** 22 per gremlin gang

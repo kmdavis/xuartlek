@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Hawthorn"]
 ---
 # Wand of Hawthorn *Item 6+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of barkskin of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand

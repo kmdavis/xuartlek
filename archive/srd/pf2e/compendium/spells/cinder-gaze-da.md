@@ -11,9 +11,9 @@ tags:
 aliases: ["Cinder Gaze"]
 ---
 # Cinder Gaze *Focus 1*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [divination](divination.md "Divination School Trait")  [prediction](archive/srd/pf2e/rules/traits/prediction.md "Prediction Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Domains** [fire (apocryphal)](compendium/setting/domains.md#Fire)
+- **Domains** [fire (apocryphal)](archive/srd/pf2e/compendium/setting/domains.md#Fire)
 - **Cast** 1 minute 
 - 
 
@@ -23,8 +23,8 @@ Upon completion, roll `1d4` for your prediction. The benefit lasts for 10 minute
 
 - **Terrible Danger** You gain a +2 status bonus to your next initiative roll.
 - **New Life** The next time you take damage, just before taking the damage, you gain temporary Hit Points equal to 1 plus your spellcasting ability modifier.
-- **Vivid Insight** ([fortune](rules/traits/fortune.md "Fortune Effect Trait")) The next time you attempt a check to [Recall Knowledge](rules/actions/recall-knowledge.md), roll twice and take the higher result.
-- **Good Fortune** ([fortune](rules/traits/fortune.md "Fortune Effect Trait")) The next time you attempt a saving throw, roll twice and take the better result.
+- **Vivid Insight** ([fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")) The next time you attempt a check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md), roll twice and take the higher result.
+- **Good Fortune** ([fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")) The next time you attempt a saving throw, roll twice and take the better result.
 
 **Heightened (+ 1)** The number of temporary Hit Points from new life increases by 2.
 

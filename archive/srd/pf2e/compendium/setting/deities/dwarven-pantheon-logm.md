@@ -23,9 +23,9 @@ aliases: ["Dwarven Pantheon"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [family](compendium/setting/domains.md#Family), [protection](compendium/setting/domains.md#Protection), [wealth](compendium/setting/domains.md#Wealth)
-- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty), [glyph](compendium/setting/domains.md#Glyph)
-- **Cleric Spells**: 1st: [ant haul](compendium/spells/ant-haul.md); 4th: [creation](compendium/spells/creation.md); 7th: [retrocognition](compendium/spells/retrocognition.md)
+- **Favored Weapon**: [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Alternate Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph)
+- **Cleric Spells**: 1st: [ant haul](archive/srd/pf2e/compendium/spells/ant-haul.md); 4th: [creation](archive/srd/pf2e/compendium/spells/creation.md); 7th: [retrocognition](archive/srd/pf2e/compendium/spells/retrocognition.md)

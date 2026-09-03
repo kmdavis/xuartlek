@@ -7,14 +7,14 @@ tags:
 aliases: ["Treacherous Scree"]
 ---
 # Treacherous Scree *Hazard 3*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
 
-The footing on this sloped ground appears to be stable at first glance, but the tiny rocks that cover it are loosely packed and [prone](rules/conditions.md#Prone) to slipping.
+The footing on this sloped ground appears to be stable at first glance, but the tiny rocks that cover it are loosely packed and [prone](archive/srd/pf2e/rules/conditions.md#Prone) to slipping.
 
-- **Disable** DC 20 [Survival](compendium/skills.md#Survival) (trained) to navigate a safe path  
+- **Disable** DC 20 [Survival](skills.md#Survival) (trained) to navigate a safe path  
 
 ```ad-embed-ability
 title: **Rockslide** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

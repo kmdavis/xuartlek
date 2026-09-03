@@ -12,7 +12,7 @@ tags:
 aliases: ["Wrecker"]
 ---
 # Wrecker *Item 1*  
-[combination](rules/traits/combination-g-g.md "Combination Weapon Trait")  
+[combination](combination-g-g.md "Combination Weapon Trait")  
 
 - **Price** 8 gp
 - **Bulk** 2

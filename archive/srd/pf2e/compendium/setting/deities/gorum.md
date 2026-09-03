@@ -23,11 +23,11 @@ aliases: ["Gorum", "Our Lord in Iron"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [greatsword](compendium/equipment/items/greatsword.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [destruction](compendium/setting/domains.md#Destruction), [might](compendium/setting/domains.md#Might), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 2nd: [enlarge](compendium/spells/enlarge.md); 4th: [weapon storm](compendium/spells/weapon-storm.md)
+- **Favored Weapon**: [greatsword](archive/srd/pf2e/compendium/equipment/items/greatsword.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 2nd: [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md); 4th: [weapon storm](archive/srd/pf2e/compendium/spells/weapon-storm.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Gorum
@@ -42,10 +42,10 @@ title: [Avatar](compendium/spells/avatar.md) of Gorum
 
 Gorum views things very simply: one either fights and earns his favor, or one is a coward and receives only scorn.
 
-- **Minor Boon** Gorum grants you a weapon whenever you need one. You can use an [Interact](rules/actions/interact.md) action to draw a 0-level non-magical iron weapon, even if you have no weapons on your person. Such a weapon lasts only as long as you continue using it to attack, and it can't be sold, given away, melted for scrap iron, or the like.
-- **Moderate Boon**: Your blows become unstoppable, carrying the momentum of Gorum's thrill for battle. Your [greatsword](compendium/equipment/items/greatsword.md) [Strikes](rules/actions/strike.md) gain the [forceful](rules/traits/forceful.md "Forceful Weapon Trait") trait.
-- **Major Boon**: Gorum feeds you the zeal of his undying warriors, allowing you to draw upon your own life force to fight on and on without falling. Whenever you would be reduced to 0 Hit Points, you are instead healed to half your maximum Hit Points and become [doomed](rules/conditions.md#Doomed) (or increase your [doomed](rules/conditions.md#Doomed) condition by 1).
+- **Minor Boon** Gorum grants you a weapon whenever you need one. You can use an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to draw a 0-level non-magical iron weapon, even if you have no weapons on your person. Such a weapon lasts only as long as you continue using it to attack, and it can't be sold, given away, melted for scrap iron, or the like.
+- **Moderate Boon**: Your blows become unstoppable, carrying the momentum of Gorum's thrill for battle. Your [greatsword](archive/srd/pf2e/compendium/equipment/items/greatsword.md) [Strikes](archive/srd/pf2e/rules/actions/strike.md) gain the [forceful](archive/srd/pf2e/rules/traits/forceful.md "Forceful Weapon Trait") trait.
+- **Major Boon**: Gorum feeds you the zeal of his undying warriors, allowing you to draw upon your own life force to fight on and on without falling. Whenever you would be reduced to 0 Hit Points, you are instead healed to half your maximum Hit Points and become [doomed](archive/srd/pf2e/rules/conditions.md#Doomed) (or increase your [doomed](archive/srd/pf2e/rules/conditions.md#Doomed) condition by 1).
 
 - **Minor Curse**: Gorum rewards cowardice with frailty. Any armor you wear and shield you wield reduces its item bonus to AC by 2 (minimum 0) and its Hardness, Hit Points, and Break Threshold by half.
-- **Moderate Curse** You've lost the glory of slaying a worthy opponent. All of your weapon and unarmed attacks decrease their damage dice by one step, and all your attacks are [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait").
-- **Major Curse**: You are unable to keep up with the rigors of combat. The moment a combat breaks out, you become [fatigued](rules/conditions.md#Fatigued) and [slowed](rules/conditions.md#Slowed). At the end of each of your turns, your [slowed](rules/conditions.md#Slowed) condition increases by 1. These conditions end only when you are no longer in combat.
+- **Moderate Curse** You've lost the glory of slaying a worthy opponent. All of your weapon and unarmed attacks decrease their damage dice by one step, and all your attacks are [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait").
+- **Major Curse**: You are unable to keep up with the rigors of combat. The moment a combat breaks out, you become [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) and [slowed](archive/srd/pf2e/rules/conditions.md#Slowed). At the end of each of your turns, your [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) condition increases by 1. These conditions end only when you are no longer in combat.

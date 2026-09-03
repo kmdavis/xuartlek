@@ -9,14 +9,14 @@ tags:
 - trait/swashbuckler
 aliases: ["Grand Dance"]
 ---
-# Grand Dance  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[bard](rules/traits/bard.md "Bard Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
+# Grand Dance  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  [swashbuckler](archive/srd/pf2e/rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
-- **Prerequisites**: [Masquerade of Seasons Stance](compendium/feats/masquerade-of-seasons-stance-loil.md)
-- **Requirements**: You're in [Masquerade of Seasons Stance](compendium/feats/masquerade-of-seasons-stance-loil.md).
+- **Prerequisites**: [Masquerade of Seasons Stance](masquerade-of-seasons-stance-loil.md)
+- **Requirements**: You're in [Masquerade of Seasons Stance](masquerade-of-seasons-stance-loil.md).
 - **Activity** Two-Action
 
-You can summon the full magic of Bhopan's grand dance. [Stride](rules/actions/stride.md) up to your Speed; during this [Stride](rules/actions/stride.md), you can walk on air as if it were solid ground. You can ascend and descend in this way at a maximum of a 45-degree angle. You must end your [Stride](rules/actions/stride.md) on a surface that can support you or you fall.
+You can summon the full magic of Bhopan's grand dance. [Stride](archive/srd/pf2e/rules/actions/stride.md) up to your Speed; during this [Stride](archive/srd/pf2e/rules/actions/stride.md), you can walk on air as if it were solid ground. You can ascend and descend in this way at a maximum of a 45-degree angle. You must end your [Stride](archive/srd/pf2e/rules/actions/stride.md) on a surface that can support you or you fall.
 
 *Source: Lost Omens: Impossible Lands p. 126*  
 %% #compendium/src/pf2e/loil #trait/bard #trait/rare #trait/rogue #trait/swashbuckler %%

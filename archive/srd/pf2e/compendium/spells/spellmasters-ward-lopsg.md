@@ -9,13 +9,13 @@ tags:
 aliases: ["Spellmaster's Ward"]
 ---
 # Spellmaster's Ward *Focus 5*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - 
 - **Duration**: sustained up to 1 minute
 
-You create one or more glowing protective runes that revolve around you. For each additional action you use when [Casting the Spell](rules/actions/cast-a-spell.md), increase the number of runes you create by one, to a maximum of three runes for 3 actions.
+You create one or more glowing protective runes that revolve around you. For each additional action you use when [Casting the Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md), increase the number of runes you create by one, to a maximum of three runes for 3 actions.
 
 When you next take damage from a spell, a rune is expended to prevent `2d6` of that spell's damage. If damage from the triggering spell remains, additional runes are expended until the damage is completely negated, or until all runes have been spent, whichever comes first.
 

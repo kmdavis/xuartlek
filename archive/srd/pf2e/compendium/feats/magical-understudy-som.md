@@ -8,14 +8,14 @@ tags:
 aliases: ["Magical Understudy"]
 ---
 # Magical Understudy  *Feat 2*  
-[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[evolution](evolution-som.md "Evolution Feat Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
-Your eidolon evolves to cast spells. It gains the [Cast a Spell](rules/actions/cast-a-spell.md) activity and learns two cantrips of its tradition, which it can cast as innate spells.
+Your eidolon evolves to cast spells. It gains the [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) activity and learns two cantrips of its tradition, which it can cast as innate spells.
 
 ## Magical Understudy leads to...
 
-[Magical Adept](compendium/feats/magical-adept-som.md), [Magical Master](compendium/feats/magical-master-som.md), [Share Eidolon Magic](compendium/feats/share-eidolon-magic-som.md)
+[Magical Adept](magical-adept-som.md), [Magical Master](magical-master-som.md), [Share Eidolon Magic](share-eidolon-magic-som.md)
 
 ## Summary
 

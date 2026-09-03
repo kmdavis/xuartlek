@@ -8,14 +8,14 @@ tags:
 aliases: ["Gloomglow Mushrooms"]
 ---
 # Gloomglow Mushrooms *Hazard 5*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](fungus-b1.md "Fungus Creature Type Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 26 expert  
 
 A field of grass-like fungal filaments amid clusters of softly glowing, long-stalked mushrooms.
 
-- **Disable** [Survival](compendium/skills.md#Survival) DC 22 (expert) to remove a 5-foot-patch without triggering the mushrooms.  
+- **Disable** [Survival](skills.md#Survival) DC 22 (expert) to remove a 5-foot-patch without triggering the mushrooms.  
 
 - **AC** 21, **Fort** +13, **Ref** +9
 - **HP** 52

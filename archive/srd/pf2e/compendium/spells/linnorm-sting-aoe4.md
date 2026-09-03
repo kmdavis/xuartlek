@@ -11,10 +11,10 @@ tags:
 aliases: ["Linnorm Sting"]
 ---
 # Linnorm Sting *Spell 9*   
-[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Saving Throw**: Fortitude
@@ -27,6 +27,6 @@ You deal `2d12` piercing damage to the targeted creature and afflict it with tor
 > - **Critical Success** The target is unaffected.
 > - **Success** The target takes `8d6` fire damage.
 > - **Failure** The target is afflicted with tor linnorm venom at stage 1.
-> - **Critical Failure** The target is afflicted with tor linnorm venom at stage 2. Tor Linnorm Venom (fire, injury, poison) Level 17; Maximum Duration 10 rounds; Stage 1 `8d6` fire damage and [drained](rules/conditions.md#Drained) (1 round); Stage 2 `12d6` fire damage and [drained](rules/conditions.md#Drained) (1 round)
+> - **Critical Failure** The target is afflicted with tor linnorm venom at stage 2. Tor Linnorm Venom (fire, injury, poison) Level 17; Maximum Duration 10 rounds; Stage 1 `8d6` fire damage and [drained](archive/srd/pf2e/rules/conditions.md#Drained) (1 round); Stage 2 `12d6` fire damage and [drained](archive/srd/pf2e/rules/conditions.md#Drained) (1 round)
 
 *Source: Agents of Edgewatch #4: Assault on Hunting Lodge Seven p. 81*

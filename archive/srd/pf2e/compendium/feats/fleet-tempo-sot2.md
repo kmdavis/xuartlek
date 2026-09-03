@@ -8,10 +8,10 @@ tags:
 - trait/transmutation
 aliases: ["Fleet Tempo"]
 ---
-# Fleet Tempo  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Fleet Tempo  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Prerequisites**: [Nantambu Chime-Ringer Dedication](compendium/feats/nantambu-chime-ringer-dedication-sot2.md)
+- **Prerequisites**: [Nantambu Chime-Ringer Dedication](nantambu-chime-ringer-dedication-sot2.md)
 - **Frequency**: once per hour
 - **Activity** Two-Action
 

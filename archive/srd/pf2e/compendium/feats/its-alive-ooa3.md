@@ -7,9 +7,9 @@ tags:
 aliases: ["It's Alive!"]
 ---
 # It's Alive!  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
+- **Prerequisites**: [Clockwork Reanimator Dedication](clockwork-reanimator-dedication-ooa3.md)
 
 You've mastered the use of electrical energy to power your clockwork creations. Whenever your construct companion takes electricity damage, it gains temporary Hit Points equal to either half the electricity damage it took or your level, whichever is lower. These temporary Hit Points last for up to 1 minute.
 

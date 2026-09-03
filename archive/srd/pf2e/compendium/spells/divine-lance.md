@@ -10,10 +10,10 @@ tags:
 aliases: ["Divine Lance"]
 ---
 # Divine Lance *Cantrip 1*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 

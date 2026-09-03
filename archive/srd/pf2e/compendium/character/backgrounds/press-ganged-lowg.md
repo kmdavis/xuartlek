@@ -19,4 +19,4 @@ Though you were initially trained as a simple deckhand, you may have subsequentl
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Sailing Lore](compendium/skills.md#Lore) skill. You gain the [Experienced Professional](compendium/feats/experienced-professional.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Sailing Lore](skills.md#Lore) skill. You gain the [Experienced Professional](archive/srd/pf2e/compendium/feats/experienced-professional.md) skill feat.

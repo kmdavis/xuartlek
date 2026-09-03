@@ -8,7 +8,7 @@ tags:
 aliases: ["Brinesoul"]
 ---
 # Brinesoul  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [undine](rules/traits/undine-b2.md "Undine Ancestry & Heritage Trait")  
+[lineage](lineage-apg.md "Lineage  Trait")  [undine](undine-b2.md "Undine Ancestry & Heritage Trait")  
 
 
 Your elemental ancestor's legacy asserts itself as brackish water, like the seawater of the ocean. You gain the Salt Wound reaction.

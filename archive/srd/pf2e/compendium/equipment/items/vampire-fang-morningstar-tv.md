@@ -9,7 +9,7 @@ tags:
 aliases: ["Vampire-Fang Morningstar"]
 ---
 # Vampire-Fang Morningstar *Item 8*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Price** 500 gp
 - **Craft Requirements** The initial raw materials must include teeth from a vampire (Bestiary 318).

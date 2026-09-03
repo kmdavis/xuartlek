@@ -9,14 +9,14 @@ tags:
 aliases: ["Magic Starknives Trap"]
 ---
 # Magic Starknives Trap *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** DC 22 [Perception](compendium/skills.md#Perception) check to spot the magical energies reverberating in the pillars  
+- **Stealth** DC 22 [Perception](skills.md#Perception) check to spot the magical energies reverberating in the pillars  
 
 Starknife symbols on the six pillars glow and shoot across the room.
 
-- **Disable** DC 21 [Thievery](compendium/skills.md#Thievery) (expert) or [dispel magic](compendium/spells/dispel-magic.md) on any four of the six pillars disables the entire trap (the trap is a 2nd-level spell and the DC to dispel it is 21). Destroying any four of the six pillars also disables the trap.  
+- **Disable** DC 21 [Thievery](skills.md#Thievery) (expert) or [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) on any four of the six pillars disables the entire trap (the trap is a 2nd-level spell and the DC to dispel it is 21). Destroying any four of the six pillars also disables the trap.  
 
 - **AC** 22, **Fort** +15, **Ref** +9
 - **Pillar Hardness** 12, **Pillar HP** 14 (BT 7)

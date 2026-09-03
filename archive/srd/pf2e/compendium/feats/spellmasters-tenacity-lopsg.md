@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Spellmaster's Tenacity"]
 ---
-# Spellmaster's Tenacity  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Spellmaster's Tenacity  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Spellmaster's Resilience](compendium/feats/spellmasters-resilience-locg.md)
+- **Prerequisites**: [Spellmaster's Resilience](spellmasters-resilience-locg.md)
 - **Frequency**: once per day
 - **Trigger** You critically fail at a saving throw against a foe's spell, and that spell was cast or created with the tradition of magic you selected with the Spellmaster's Resilience feat.
 - **Activity** Reaction

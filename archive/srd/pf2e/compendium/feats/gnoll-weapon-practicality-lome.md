@@ -7,15 +7,15 @@ tags:
 aliases: ["Gnoll Weapon Practicality"]
 ---
 # Gnoll Weapon Practicality  *Feat 5*  
-[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
+[gnoll](gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Gnoll Weapon Familiarity](compendium/feats/gnoll-weapon-familiarity-lome.md)
+- **Prerequisites**: [Gnoll Weapon Familiarity](gnoll-weapon-familiarity-lome.md)
 
-Whenever you critically hit using [flails](compendium/equipment/items/flail.md), khopeshes, mambeles, [spears](compendium/equipment/items/spear.md), and [war flails](compendium/equipment/items/war-flail.md), you apply the weapon's critical specialization effect.
+Whenever you critically hit using [flails](archive/srd/pf2e/compendium/equipment/items/flail.md), khopeshes, mambeles, [spears](archive/srd/pf2e/compendium/equipment/items/spear.md), and [war flails](archive/srd/pf2e/compendium/equipment/items/war-flail.md), you apply the weapon's critical specialization effect.
 
 ## Gnoll Weapon Practicality leads to...
 
-[Gnoll Weapon Expertise](compendium/feats/gnoll-weapon-expertise-lome.md)
+[Gnoll Weapon Expertise](gnoll-weapon-expertise-lome.md)
 
 ## Summary
 

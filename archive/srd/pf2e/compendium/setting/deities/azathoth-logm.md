@@ -20,8 +20,8 @@ aliases: ["Azathoth", "The Primal Chaos"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Performance
-- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
-- **Domains**: [decay](compendium/setting/domains.md#Decay), [destruction](compendium/setting/domains.md#Destruction), [nightmares](compendium/setting/domains.md#Nightmares), [void](compendium/setting/domains.md#Void)
-- **Cleric Spells**: 1st: [ill omen](compendium/spells/ill-omen-logm.md); 5th: [synaptic pulse](compendium/spells/synaptic-pulse.md); 9th: [unfathomable song](compendium/spells/unfathomable-song.md)
+- **Favored Weapon**: [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md)
+- **Domains**: [decay](archive/srd/pf2e/compendium/setting/domains.md#Decay), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares), [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [ill omen](ill-omen-logm.md); 5th: [synaptic pulse](archive/srd/pf2e/compendium/spells/synaptic-pulse.md); 9th: [unfathomable song](archive/srd/pf2e/compendium/spells/unfathomable-song.md)

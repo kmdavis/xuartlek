@@ -10,12 +10,12 @@ tags:
 aliases: ["Cascade Countermeasure"]
 ---
 # Cascade Countermeasure *Focus 3*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magus](archive/srd/pf2e/rules/traits/magus-som.md "Magus Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Requirements**: You're benefiting from [Arcane Cascade](rules/actions/arcane-cascade-som.md).
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Requirements**: You're benefiting from [Arcane Cascade](arcane-cascade-som.md).
 - 
-- **Duration**: until the [Arcane Cascade](rules/actions/arcane-cascade-som.md) stance ends
+- **Duration**: until the [Arcane Cascade](arcane-cascade-som.md) stance ends
 
 You quickly adjust your Arcane Cascade to offer magical protection. You gain resistance 5 against damage from spells. As normal, using Arcane Cascade again means you've ended the stance, and the spell ends.
 

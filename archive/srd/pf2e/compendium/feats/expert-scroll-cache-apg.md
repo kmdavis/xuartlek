@@ -7,15 +7,15 @@ tags:
 aliases: ["Expert Scroll Cache"]
 ---
 # Expert Scroll Cache  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Scroll Cache](compendium/feats/basic-scroll-cache-apg.md)
+- **Prerequisites**: [Basic Scroll Cache](basic-scroll-cache-apg.md)
 
 Your scroll collection is more powerful. In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-level spell. At 14th level, add a scroll with a 4th-level spell. At 16th level, add a scroll with a 5th-level spell.
 
 ## Expert Scroll Cache leads to...
 
-[Master Scroll Cache](compendium/feats/master-scroll-cache-apg.md)
+[Master Scroll Cache](master-scroll-cache-apg.md)
 
 ## Summary
 

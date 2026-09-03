@@ -7,10 +7,10 @@ tags:
 - trait/metamagic
 aliases: ["Look Again"]
 ---
-# Look Again  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
+# Look Again  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](metamagic.md "Metamagic General Trait")  
 
-- **Prerequisites**: [Captivator Dedication](compendium/feats/captivator-dedication-lotgb.md)
+- **Prerequisites**: [Captivator Dedication](captivator-dedication-lotgb.md)
 - **Frequency**: once per day
 - **Activity** Single Action
 

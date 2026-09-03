@@ -11,16 +11,16 @@ tags:
 aliases: ["Eerie Traces"]
 ---
 # Eerie Traces  *Feat 8*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  [exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  [ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Prerequisites**: trained in [Intimidation](compendium/skills.md#Intimidation), trained in [Survival](compendium/skills.md#Survival)
+- **Prerequisites**: trained in [Intimidation](skills.md#Intimidation), trained in [Survival](skills.md#Survival)
 
-The tracks you leave behind are strange, somehow disconcerting and unnerving—they might travel backward, or through places no one would think to pass through. You change your tracks into eerie traces, moving up to half your travel speed as you do so. You don't need to attempt a [Survival](compendium/skills.md#Survival) check to change your tracks, but anyone tracking you must attempt a Will save against the higher of your class DC or spell DC.
+The tracks you leave behind are strange, somehow disconcerting and unnerving—they might travel backward, or through places no one would think to pass through. You change your tracks into eerie traces, moving up to half your travel speed as you do so. You don't need to attempt a [Survival](skills.md#Survival) check to change your tracks, but anyone tracking you must attempt a Will save against the higher of your class DC or spell DC.
 
 > [!success-degree] 
 > - **Success** The tracker is unaffected.
-> - **Failure** The tracker becomes [frightened](rules/conditions.md#Frightened) for as long as it follows your tracks. This condition doesn't decrease until the tracker stops following you, and it comes back if the tracker resumes following your tracks. If the tracker enters into an encounter with you after following your tracks, it begins the encounter [frightened](rules/conditions.md#Frightened).
-> - **Critical Failure** As failure, but your disturbing traces cause the tracker to be [frightened](rules/conditions.md#Frightened) instead.
+> - **Failure** The tracker becomes [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) for as long as it follows your tracks. This condition doesn't decrease until the tracker stops following you, and it comes back if the tracker resumes following your tracks. If the tracker enters into an encounter with you after following your tracks, it begins the encounter [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
+> - **Critical Failure** As failure, but your disturbing traces cause the tracker to be [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) instead.
 
 *Source: Dark Archive p. 65*  
 %% #compendium/src/pf2e/da #trait/concentrate #trait/druid #trait/exploration #trait/move #trait/ranger %%

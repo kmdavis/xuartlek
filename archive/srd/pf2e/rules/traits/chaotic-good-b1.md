@@ -10,6 +10,6 @@ aliases: ["Chaotic Good"]
 # Chaotic Good  
 *Source: Bestiary p. 345*  
 
-[Chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait") and [good](rules/traits/good.md "Good Alignment Trait")
+[Chaotic](chaotic.md "Chaotic Alignment Trait") and [good](good.md "Good Alignment Trait")
 
 - **Categories**: Alignment, _alignAbv

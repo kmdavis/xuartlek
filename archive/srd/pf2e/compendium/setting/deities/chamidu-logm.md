@@ -21,8 +21,8 @@ aliases: ["Chamidu", "The Roar of the Storm"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Medicine
-- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
-- **Domains**: [healing](compendium/setting/domains.md#Healing), [lightning](compendium/setting/domains.md#Lightning), [nature](compendium/setting/domains.md#Nature), [nightmares](compendium/setting/domains.md#Nightmares)
-- **Cleric Spells**: 1st: [summon animal](compendium/spells/summon-animal.md); 3rd: [lightning bolt](compendium/spells/lightning-bolt.md); 5th: [moon frenzy](compendium/spells/moon-frenzy.md)
+- **Favored Weapon**: [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [lightning](archive/srd/pf2e/compendium/setting/domains.md#Lightning), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares)
+- **Cleric Spells**: 1st: [summon animal](archive/srd/pf2e/compendium/spells/summon-animal.md); 3rd: [lightning bolt](archive/srd/pf2e/compendium/spells/lightning-bolt.md); 5th: [moon frenzy](archive/srd/pf2e/compendium/spells/moon-frenzy.md)

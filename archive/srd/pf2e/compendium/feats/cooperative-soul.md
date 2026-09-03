@@ -7,11 +7,11 @@ tags:
 aliases: ["Cooperative Soul"]
 ---
 # Cooperative Soul  *Feat 9*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Cooperative Nature](compendium/feats/cooperative-nature.md)
+- **Prerequisites**: [Cooperative Nature](archive/srd/pf2e/compendium/feats/cooperative-nature.md)
 
-You have developed a soul-deep bond with your comrades and maintain an even greater degree of cooperation with them. If you are at least an expert in the skill you are Aiding, you get a success on any outcome rolled to [Aid](rules/actions/aid.md) other than a critical success.
+You have developed a soul-deep bond with your comrades and maintain an even greater degree of cooperation with them. If you are at least an expert in the skill you are Aiding, you get a success on any outcome rolled to [Aid](archive/srd/pf2e/rules/actions/aid.md) other than a critical success.
 
 *Source: Core Rulebook p. 57*  
 %% #compendium/src/pf2e/crb #trait/human %%

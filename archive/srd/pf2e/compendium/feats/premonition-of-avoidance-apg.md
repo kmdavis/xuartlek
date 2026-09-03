@@ -6,8 +6,8 @@ tags:
 - trait/cleric
 aliases: ["Premonition Of Avoidance"]
 ---
-# Premonition Of Avoidance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+# Premonition Of Avoidance  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Trigger** You attempt a saving throw against a hazard, but you haven't rolled yet.
 - **Activity** Reaction
@@ -16,7 +16,7 @@ Your deity grants you limited foresight, warning you of dangers an instant befor
 
 ## Premonition Of Avoidance leads to...
 
-[Shared Avoidance](compendium/feats/shared-avoidance-apg.md)
+[Shared Avoidance](shared-avoidance-apg.md)
 
 ## Summary
 

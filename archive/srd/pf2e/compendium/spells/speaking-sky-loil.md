@@ -10,9 +10,9 @@ tags:
 aliases: ["Speaking Sky"]
 ---
 # Speaking Sky *Focus 6*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [divination](divination.md "Divination School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 1 round
 

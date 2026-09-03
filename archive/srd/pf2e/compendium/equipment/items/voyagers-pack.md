@@ -11,14 +11,14 @@ tags:
 aliases: ["Voyager's Pack"]
 ---
 # Voyager's Pack *Item 17*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 14800 gp
 - **Bulk** —; **Usage** worn backpack
 
-This leather rucksack has icons burned into it, and every time it's taken to a plane it hasn't been to before, a new icon representing that plane scorches into the surface. The pack grants you a +3 bonus to [Survival](compendium/skills.md#Survival) checks.
+This leather rucksack has icons burned into it, and every time it's taken to a plane it hasn't been to before, a new icon representing that plane scorches into the surface. The pack grants you a +3 bonus to [Survival](skills.md#Survival) checks.
 
-It also enables you to see the magical traces of creatures' passage, allowing you to [Track](rules/actions/track.md) a creature that has teleported. The GM sets the DC of this check, usually using the level and DC of the teleportation spell. This lets you find the location of the creature's destination, and you can use that destination when casting teleport or activating the pack, even though you don't know what it looks like.
+It also enables you to see the magical traces of creatures' passage, allowing you to [Track](archive/srd/pf2e/rules/actions/track.md) a creature that has teleported. The GM sets the DC of this check, usually using the level and DC of the teleportation spell. This lets you find the location of the creature's destination, and you can use that destination when casting teleport or activating the pack, even though you don't know what it looks like.
 
 The pack contains an extradimensional space with the same properties as a type II bag of holding. This space contains the contents of a climber's kit. If any components of that kit are removed and not returned, they return to the pack at dawn each day.
 

@@ -9,14 +9,14 @@ tags:
 aliases: ["Cantrip Casting"]
 ---
 # Cantrip Casting  *Feat 2*  
-[[class]](rules/traits/class-som.md "Any Class Class Trait")  [pervasive magic](rules/traits/pervasive-magic-som.md "Pervasive Magic General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[[class]](rules/traits/class-som.md "Any Class Class Trait")  [pervasive magic](pervasive-magic-som.md "Pervasive Magic General Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
 You increase your ability to cast simple spells. You gain two additional cantrips from the tradition matching your trait.
 
 ## Cantrip Casting leads to...
 
-[Basic Spellcasting](compendium/feats/basic-spellcasting-som.md), [Expert Spellcasting](compendium/feats/expert-spellcasting-som.md), [Master Spellcasting](compendium/feats/master-spellcasting-som.md)
+[Basic Spellcasting](basic-spellcasting-som.md), [Expert Spellcasting](expert-spellcasting-som.md), [Master Spellcasting](master-spellcasting-som.md)
 
 ## Summary
 

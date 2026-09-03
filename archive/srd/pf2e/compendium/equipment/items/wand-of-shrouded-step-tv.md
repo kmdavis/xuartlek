@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of Shrouded Step"]
 ---
 # Wand of Shrouded Step *Item 4*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 80 gp
 - **Craft Requirements** Supply a casting of fleet step.

@@ -10,10 +10,10 @@ tags:
 aliases: ["Pummeling Rubble"]
 ---
 # Pummeling Rubble *Spell 1*   
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot cone
 - **Saving Throw**: Reflex
 

@@ -13,10 +13,10 @@ tags:
 aliases: ["Ancestral Defense"]
 ---
 # Ancestral Defense *Focus 3*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [cursebound](cursebound-apg.md "Cursebound Spell Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: You are about to attempt a Will save.
 - 
 

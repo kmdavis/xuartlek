@@ -7,7 +7,7 @@ tags:
 aliases: ["Azarketi Weapon Familiarity"]
 ---
 # Azarketi Weapon Familiarity  *Feat 1*  
-[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
+[azarketi](azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
 
 You are familiar with weapons that excel underwater. You are trained with crossbows, hand crossbows, longspears, spears, and tridents.
@@ -16,7 +16,7 @@ In addition, you gain access to all uncommon azarketi weapons. For the purpose o
 
 ## Azarketi Weapon Familiarity leads to...
 
-[Azarketi Weapon Aptitude](compendium/feats/azarketi-weapon-aptitude-aaws.md), [Azarketi Weapon Expertise](compendium/feats/azarketi-weapon-expertise-aaws.md)
+[Azarketi Weapon Aptitude](azarketi-weapon-aptitude-aaws.md), [Azarketi Weapon Expertise](azarketi-weapon-expertise-aaws.md)
 
 ## Summary
 

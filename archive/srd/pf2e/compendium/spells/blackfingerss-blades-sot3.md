@@ -10,10 +10,10 @@ tags:
 aliases: ["Blackfingers's Blades"]
 ---
 # Blackfingers's Blades *Spell 5*   
-[poison](rules/traits/poison.md "Poison Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: up to 4 weapons, each wielded by a separate willing creature within range
 - **Duration**: up to 1 minute

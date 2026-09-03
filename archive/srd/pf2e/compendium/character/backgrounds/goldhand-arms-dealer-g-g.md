@@ -15,4 +15,4 @@ You're a dwarven agent of the Goldhand Lodge, a collection of dwarven merchants 
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in [Diplomacy](compendium/skills.md#Diplomacy) and [Mercantile Lore](compendium/skills.md#Lore). You gain the [Group Impression](compendium/feats/group-impression.md) skill feat.
+You're trained in [Diplomacy](skills.md#Diplomacy) and [Mercantile Lore](skills.md#Lore). You gain the [Group Impression](archive/srd/pf2e/compendium/feats/group-impression.md) skill feat.

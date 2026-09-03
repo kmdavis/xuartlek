@@ -7,7 +7,7 @@ tags:
 aliases: ["Elemental Overlap"]
 ---
 # Elemental Overlap  *Feat 8*  
-[kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  
+[kineticist](kineticist-roe.md "Kineticist Class Trait")  
 
 - **Prerequisites**: exactly one kinetic element
 

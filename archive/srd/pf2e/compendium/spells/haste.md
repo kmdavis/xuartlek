@@ -8,15 +8,15 @@ tags:
 aliases: ["Haste"]
 ---
 # Haste *Spell 3*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Duration**: 1 minute
 
-Magic empowers the target to act faster. It gains the [quickened](rules/conditions.md#Quickened) condition and can use the extra action each round only for [Strike](rules/actions/strike.md) and [Stride](rules/actions/stride.md) actions.
+Magic empowers the target to act faster. It gains the [quickened](archive/srd/pf2e/rules/conditions.md#Quickened) condition and can use the extra action each round only for [Strike](archive/srd/pf2e/rules/actions/strike.md) and [Stride](archive/srd/pf2e/rules/actions/stride.md) actions.
 
 **Heightened (7th)** You can target up to 6 creatures.
 

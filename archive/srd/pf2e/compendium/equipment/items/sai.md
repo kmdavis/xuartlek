@@ -13,7 +13,7 @@ tags:
 aliases: ["Sai"]
 ---
 # Sai *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <b>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <b>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
 
 - **Price** 6 sp
 - **Bulk** L

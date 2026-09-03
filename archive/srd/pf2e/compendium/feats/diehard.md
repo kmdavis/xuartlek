@@ -7,14 +7,14 @@ tags:
 aliases: ["Diehard"]
 ---
 # Diehard  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  
 
 
-It takes more to kill you than most. You die from the [dying](rules/conditions.md#Dying) condition at [dying](rules/conditions.md#Dying), rather than [dying](rules/conditions.md#Dying).
+It takes more to kill you than most. You die from the [dying](archive/srd/pf2e/rules/conditions.md#Dying) condition at [dying](archive/srd/pf2e/rules/conditions.md#Dying), rather than [dying](archive/srd/pf2e/rules/conditions.md#Dying).
 
 ## Diehard leads to...
 
-[Numb To Death](compendium/feats/numb-to-death-logm.md)
+[Numb To Death](numb-to-death-logm.md)
 
 ## Summary
 

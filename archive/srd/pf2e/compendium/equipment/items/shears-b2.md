@@ -11,7 +11,7 @@ tags:
 aliases: ["Shears"]
 ---
 # Shears *Item 0*  
-[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 5 sp
 - **Bulk** L

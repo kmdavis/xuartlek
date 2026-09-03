@@ -10,11 +10,11 @@ tags:
 aliases: ["Boots of Bounding"]
 ---
 # Boots of Bounding *Item 7+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** L; **Usage** worn shoes
 
-The springy soles of these sturdy leather boots cushion your feet and make each step lighter. These boots give you a +5-foot item bonus to your Speed and a +2 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [High Jump](rules/actions/high-jump.md) and [Long Jump](rules/actions/long-jump.md). In addition, when you use the [Leap](rules/actions/leap.md) action, you can move 5 feet further if jumping horizontally or 3 feet higher if jumping vertically.
+The springy soles of these sturdy leather boots cushion your feet and make each step lighter. These boots give you a +5-foot item bonus to your Speed and a +2 item bonus to [Athletics](skills.md#Athletics) checks to [High Jump](archive/srd/pf2e/rules/actions/high-jump.md) and [Long Jump](archive/srd/pf2e/rules/actions/long-jump.md). In addition, when you use the [Leap](archive/srd/pf2e/rules/actions/leap.md) action, you can move 5 feet further if jumping horizontally or 3 feet higher if jumping vertically.
 
 ---
 
@@ -28,7 +28,7 @@ The springy soles of these sturdy leather boots cushion your feet and make each 
 
 - **Price**: 4250 gp
 
-The bonus to Speed is +10 feet, and the bonus to [High Jump](rules/actions/high-jump.md) and [Long Jump](rules/actions/long-jump.md) is +3.
+The bonus to Speed is +10 feet, and the bonus to [High Jump](archive/srd/pf2e/rules/actions/high-jump.md) and [Long Jump](archive/srd/pf2e/rules/actions/long-jump.md) is +3.
 
 ---
 *Source: Core Rulebook p. 606*

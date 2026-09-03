@@ -21,8 +21,8 @@ aliases: ["Seafarers' Hope"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [rapier](compendium/equipment/items/rapier.md)
-- **Domains**: [nature](compendium/setting/domains.md#Nature), [travel](compendium/setting/domains.md#Travel), [trickery](compendium/setting/domains.md#Trickery), [water](compendium/setting/domains.md#Water)
-- **Cleric Spells**: 1st: [gust of wind](compendium/spells/gust-of-wind.md); 3rd: [feet to fins](compendium/spells/feet-to-fins.md); 5th: [control water](compendium/spells/control-water.md)
+- **Favored Weapon**: [rapier](archive/srd/pf2e/compendium/equipment/items/rapier.md)
+- **Domains**: [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery), [water](archive/srd/pf2e/compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [gust of wind](archive/srd/pf2e/compendium/spells/gust-of-wind.md); 3rd: [feet to fins](archive/srd/pf2e/compendium/spells/feet-to-fins.md); 5th: [control water](archive/srd/pf2e/compendium/spells/control-water.md)

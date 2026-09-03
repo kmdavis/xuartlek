@@ -15,4 +15,4 @@ You know there are monstrous things out in the swamp known as Fogfen; you've see
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in [Athletics](compendium/skills.md#Athletics) and the [Swamp Lore](compendium/skills.md#Lore) skill. You gain the [Titan Wrestler](compendium/feats/titan-wrestler.md) skill feat.
+You're trained in [Athletics](skills.md#Athletics) and the [Swamp Lore](skills.md#Lore) skill. You gain the [Titan Wrestler](archive/srd/pf2e/compendium/feats/titan-wrestler.md) skill feat.

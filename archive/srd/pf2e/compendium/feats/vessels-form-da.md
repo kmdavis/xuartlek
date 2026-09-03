@@ -9,10 +9,10 @@ tags:
 - trait/transmutation
 aliases: ["Vessel's Form"]
 ---
-# Vessel's Form  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Vessel's Form  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md)
+- **Prerequisites**: [Living Vessel Dedication](living-vessel-dedication-da.md)
 - **Frequency**: once per day
 - **Activity** Two-Action
 
@@ -20,7 +20,7 @@ You symbiotically combine your form with that of the entity within you, taking a
 
 - If you were Medium or smaller, you become Large, and your reach increases to 10 feet.
 - You gain a +2 status bonus to attack and damage rolls and a +1 status bonus on saving throws against spells. If you use Entity's Resurgence, the status bonuses to attack and damage rolls increase to +3 during the time that the two effects overlap.
-- If you have the [Entity's Strike](compendium/feats/entitys-strike-da.md) feat, the unarmed attack you gained from that feat increases its damage die from `1d6` to `1d8`.
+- If you have the [Entity's Strike](entitys-strike-da.md) feat, the unarmed attack you gained from that feat increases its damage die from `1d6` to `1d8`.
 - You gain 40 temporary Hit Points.
 - You gain a fly Speed equal to your Speed.
 

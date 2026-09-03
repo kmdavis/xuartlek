@@ -12,12 +12,12 @@ tags:
 aliases: ["Blight"]
 ---
 # Blight *Ritual 4*  
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Secondary Casters** 1
-- **Primary Checks** [Nature](compendium/skills.md#Nature) (expert)
-- **Secondary Checks** [Survival](compendium/skills.md#Survival)
+- **Primary Checks** [Nature](skills.md#Nature) (expert)
+- **Secondary Checks** [Survival](skills.md#Survival)
 - **Area**: 1/2-mile-radius circle centered on you
 
 You twist and stunt plants in the area, causing them to wither. In addition to other dangers from failing plant life, this decreases the crop yield for farms. If you cast this ritual in an area affected by plant growth, blight attempts to counteract plant growth instead of producing its usual effect.

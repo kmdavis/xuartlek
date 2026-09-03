@@ -11,11 +11,11 @@ tags:
 aliases: ["Obfuscation Oil"]
 ---
 # Obfuscation Oil *Item 15*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [oil](archive/srd/pf2e/rules/traits/oil.md "Oil Item Trait")  
 
 - **Price** 1200 gp
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 You can spread this blue-gray gel on a single item with a Bulk of 3 or less to ward it against magical detection. It becomes immune to divination magic of 8th level or lower (such as locate). This oil is permanent, but it can be removed with acid.
 

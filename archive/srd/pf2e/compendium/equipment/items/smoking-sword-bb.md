@@ -10,7 +10,7 @@ tags:
 aliases: ["Smoking Sword"]
 ---
 # Smoking Sword *Item 3*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 60 gp
 

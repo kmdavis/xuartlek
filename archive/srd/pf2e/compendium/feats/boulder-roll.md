@@ -6,13 +6,13 @@ tags:
 - trait/dwarf
 aliases: ["Boulder Roll"]
 ---
-# Boulder Roll  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
+# Boulder Roll  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
+[dwarf](archive/srd/pf2e/rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Rock Runner](compendium/feats/rock-runner.md)
+- **Prerequisites**: [Rock Runner](archive/srd/pf2e/compendium/feats/rock-runner.md)
 - **Activity** Two-Action
 
-Your dwarven build allows you to push foes around, just like a mighty boulder tumbles through a subterranean cavern. Take a [Step](rules/actions/step.md) into the square of a foe that is your size or smaller, and the foe must move into the empty space directly behind it. The foe must move even if doing so places it in harm's way. The foe can attempt a Fortitude saving throw against your [Athletics](compendium/skills.md#Athletics) DC to block your [Step](rules/actions/step.md). If the foe attempts this saving throw, unless it critically succeeds, it takes bludgeoning damage equal to your level plus your Strength modifier.
+Your dwarven build allows you to push foes around, just like a mighty boulder tumbles through a subterranean cavern. Take a [Step](archive/srd/pf2e/rules/actions/step.md) into the square of a foe that is your size or smaller, and the foe must move into the empty space directly behind it. The foe must move even if doing so places it in harm's way. The foe can attempt a Fortitude saving throw against your [Athletics](skills.md#Athletics) DC to block your [Step](archive/srd/pf2e/rules/actions/step.md). If the foe attempts this saving throw, unless it critically succeeds, it takes bludgeoning damage equal to your level plus your Strength modifier.
 
 If the foe can't move into an empty space (if it is surrounded by solid objects or other creatures, for example), your Boulder Roll has no effect.
 

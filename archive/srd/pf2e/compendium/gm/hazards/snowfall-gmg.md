@@ -7,14 +7,14 @@ tags:
 aliases: ["Snowfall"]
 ---
 # Snowfall *Hazard 0*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 16 trained  
 
 Loose snow and ice have built up on a high surface, such as a tree branch or a rooftop. Its grip on the surface is tenuous, and it is likely to fall if the surface moves.
 
-- **Disable** DC 19 [Survival](compendium/skills.md#Survival) (trained) to safely dislodge the snow, or deal any amount of fire damage to destroy the hazard without triggering it  
+- **Disable** DC 19 [Survival](skills.md#Survival) (trained) to safely dislodge the snow, or deal any amount of fire damage to destroy the hazard without triggering it  
 
 - **AC** 16, **Fort** +10, **Ref** +8
 - **HP** 8

@@ -20,8 +20,8 @@ aliases: ["Naderi", "The Lost Maiden"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [passion](compendium/setting/domains.md#Passion), [sorrow](compendium/setting/domains.md#Sorrow), [water](compendium/setting/domains.md#Water)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 4th: [crushing despair](compendium/spells/crushing-despair.md); 5th: [drop dead](compendium/spells/drop-dead.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow), [water](archive/srd/pf2e/compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 4th: [crushing despair](crushing-despair.md); 5th: [drop dead](archive/srd/pf2e/compendium/spells/drop-dead.md)

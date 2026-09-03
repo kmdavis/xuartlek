@@ -11,7 +11,7 @@ tags:
 aliases: ["Midday Lantern"]
 ---
 # Midday Lantern *Item 6+*  
-[light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -37,19 +37,19 @@ title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Price**: 850 gp
 
-The lantern casts 4th-level [scorching ray](compendium/spells/scorching-ray-som.md) using a spell attack roll of +20.
+The lantern casts 4th-level [scorching ray](scorching-ray-som.md) using a spell attack roll of +20.
 
 #### greater *Item 14*
 
 - **Price**: 3700 gp
 
-The lantern casts 6th-level [light](compendium/spells/light.md) and 6th-level [scorching ray](compendium/spells/scorching-ray-som.md), using a spell attack roll of +26.
+The lantern casts 6th-level [light](archive/srd/pf2e/compendium/spells/light.md) and 6th-level [scorching ray](scorching-ray-som.md), using a spell attack roll of +26.
 
 #### major *Item 18*
 
 - **Price**: 18750 gp
 
-The lantern casts 8th-level [scorching ray](compendium/spells/scorching-ray-som.md), using a spell attack roll of +32.
+The lantern casts 8th-level [scorching ray](scorching-ray-som.md), using a spell attack roll of +32.
 
 ---
 *Source: Strength of Thousands #4: Secrets of the Temple-City p. 76*

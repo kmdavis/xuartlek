@@ -8,7 +8,7 @@ tags:
 aliases: ["Skill Training"]
 ---
 # Skill Training  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: Intelligence 12
 

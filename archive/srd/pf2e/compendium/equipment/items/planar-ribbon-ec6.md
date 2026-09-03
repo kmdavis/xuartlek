@@ -10,7 +10,7 @@ tags:
 aliases: ["Planar Ribbon"]
 ---
 # Planar Ribbon *Item 20*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 60000 gp
 - **Bulk** L; **Usage** held in 1 hand

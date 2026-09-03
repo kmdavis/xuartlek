@@ -11,13 +11,13 @@ tags:
 aliases: ["Accompaniment Cloak"]
 ---
 # Accompaniment Cloak *Item 11*  
-[focused](rules/traits/focused.md "Focused Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+[focused](archive/srd/pf2e/rules/traits/focused.md "Focused Item Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Price** 1300 gp
 - **Craft Requirements** You are a bard.
 - **Bulk** L; **Usage** worn cloak
 
-This lush velvet capelet is embroidered with images of musicians playing a wide variety of instruments. The images animate when you make art, remaining embroidered, but smoothly unknitting and reknitting in time with your performance. The figures play music that perfectly accompanies your instrument, voice, or movements, granting you a +2 item bonus to [Performance](compendium/skills.md#Performance) checks.
+This lush velvet capelet is embroidered with images of musicians playing a wide variety of instruments. The images animate when you make art, remaining embroidered, but smoothly unknitting and reknitting in time with your performance. The figures play music that perfectly accompanies your instrument, voice, or movements, granting you a +2 item bonus to [Performance](skills.md#Performance) checks.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

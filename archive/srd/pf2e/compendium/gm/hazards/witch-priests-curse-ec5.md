@@ -9,14 +9,14 @@ tags:
 aliases: ["Witch-priests' Curse"]
 ---
 # Witch-priests' Curse *Hazard 18*  
-[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 42 expert  
 
 Anyone who opens a secret compartment is subjected to a powerful curse.
 
-- **Disable** DC 39 [Thievery](compendium/skills.md#Thievery) (legendary) to carefully remove the bone fetish that holds the curse.  
+- **Disable** DC 39 [Thievery](skills.md#Thievery) (legendary) to carefully remove the bone fetish that holds the curse.  
 
 ```ad-embed-ability
 title: **Hex of the Bloody Thief** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([curse](rules/traits/curse.md), [divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md))

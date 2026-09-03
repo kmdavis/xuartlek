@@ -11,12 +11,12 @@ tags:
 aliases: ["Circlet of Persuasion"]
 ---
 # Circlet of Persuasion *Item 17*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 15000 gp
 - **Bulk** —; **Usage** worn circlet
 
-This elegant silver band often resembles curling fig leaves and fits around your brow. You gain a +2 item bonus to [Deception](compendium/skills.md#Deception) and [Diplomacy](compendium/skills.md#Diplomacy) checks.
+This elegant silver band often resembles curling fig leaves and fits around your brow. You gain a +2 item bonus to [Deception](skills.md#Deception) and [Diplomacy](skills.md#Diplomacy) checks.
 
 When you invest the circlet, you either increase your Charisma score by 2 or increase it to 18, whichever would give you a higher score.
 

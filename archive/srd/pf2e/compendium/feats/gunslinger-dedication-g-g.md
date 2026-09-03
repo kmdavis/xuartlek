@@ -10,7 +10,7 @@ tags:
 aliases: ["Gunslinger Dedication"]
 ---
 # Gunslinger Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](archive/srd/pf2e/rules/traits/multiclass.md "Multiclass Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Dexterity 14
 
@@ -22,7 +22,7 @@ Choose a gunslinger way. You become trained in your way's associated skill; if y
 
 ## Gunslinger Dedication leads to...
 
-[Basic Shooting](compendium/feats/basic-shooting-g-g.md), [Advanced Shooting](compendium/feats/advanced-shooting-g-g.md), [Eagle Eye](compendium/feats/eagle-eye-g-g.md), [Firearm Expert](compendium/feats/firearm-expert-g-g.md), [Practiced Reloads](compendium/feats/practiced-reloads-g-g.md), [Slinger's Readiness](compendium/feats/slingers-readiness-g-g.md)
+[Basic Shooting](basic-shooting-g-g.md), [Advanced Shooting](advanced-shooting-g-g.md), [Eagle Eye](eagle-eye-g-g.md), [Firearm Expert](firearm-expert-g-g.md), [Practiced Reloads](practiced-reloads-g-g.md), [Slinger's Readiness](slingers-readiness-g-g.md)
 
 ## Summary
 

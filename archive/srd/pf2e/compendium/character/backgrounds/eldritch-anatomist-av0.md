@@ -17,4 +17,4 @@ Some cultures shape flesh to extreme degrees, creating aberrations from humanoid
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Medicine](compendium/skills.md#Medicine) skill and the [Fleshwarp Lore](compendium/skills.md#Lore) skill. You gain the [Assurance](compendium/feats/assurance.md) skill feat with [Medicine](compendium/skills.md#Medicine).
+You're trained in the [Medicine](skills.md#Medicine) skill and the [Fleshwarp Lore](skills.md#Lore) skill. You gain the [Assurance](archive/srd/pf2e/compendium/feats/assurance.md) skill feat with [Medicine](skills.md#Medicine).

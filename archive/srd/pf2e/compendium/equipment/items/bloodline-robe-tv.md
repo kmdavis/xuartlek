@@ -11,7 +11,7 @@ tags:
 aliases: ["Bloodline Robe"]
 ---
 # Bloodline Robe *Item 12*  
-[focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[focused](archive/srd/pf2e/rules/traits/focused.md "Focused Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 2000 gp
 - **Craft Requirements** You are a sorcerer of the bloodline tied to the robe.

@@ -11,12 +11,12 @@ tags:
 aliases: ["Searing Suture"]
 ---
 # Searing Suture *Item 1+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Activating this black powder–infused alchemical bandage cauterizes wounds. You can apply a searing suture to yourself or an adjacent willing creature as you activate it. The target creature takes `1d6` fire damage and can immediately attempt a flat check to remove the [persistent bleed damage](rules/conditions.md#Persistent%20Damage)—the DC of this flat check depends on the type of searing suture applied. When applied against a bleed effect that is lower level than the searing suture, the flat check is automatically successful.
+Activating this black powder–infused alchemical bandage cauterizes wounds. You can apply a searing suture to yourself or an adjacent willing creature as you activate it. The target creature takes `1d6` fire damage and can immediately attempt a flat check to remove the [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage)—the DC of this flat check depends on the type of searing suture applied. When applied against a bleed effect that is lower level than the searing suture, the flat check is automatically successful.
 
 ---
 

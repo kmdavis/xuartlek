@@ -10,10 +10,10 @@ tags:
 aliases: ["Etheric Shards"]
 ---
 # Etheric Shards *Spell 5*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [force](archive/srd/pf2e/rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Area**: 20-foot burst
 - **Saving Throw**:  basic Reflex

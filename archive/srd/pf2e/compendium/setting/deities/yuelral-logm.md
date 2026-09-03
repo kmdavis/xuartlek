@@ -20,8 +20,8 @@ aliases: ["Yuelral", "The Wise"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Arcana
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [earth](compendium/setting/domains.md#Earth), [knowledge](compendium/setting/domains.md#Knowledge), [magic](compendium/setting/domains.md#Magic)
-- **Cleric Spells**: 1st: [shattering gem](compendium/spells/shattering-gem-logm.md); 2nd: [shape wood](compendium/spells/shape-wood.md); 3rd: [meld into stone](compendium/spells/meld-into-stone.md); 4th: [speak with plants](compendium/spells/speak-with-plants.md); 5th: [tree stride](compendium/spells/tree-stride.md); 6th: [tangling creepers](compendium/spells/tangling-creepers.md); 7th: [unfettered pack](compendium/spells/unfettered-pack.md); 8th: [prismatic wall](compendium/spells/prismatic-wall.md); 9th: [nature's enmity](compendium/spells/natures-enmity.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic)
+- **Cleric Spells**: 1st: [shattering gem](shattering-gem-logm.md); 2nd: [shape wood](archive/srd/pf2e/compendium/spells/shape-wood.md); 3rd: [meld into stone](meld-into-stone.md); 4th: [speak with plants](archive/srd/pf2e/compendium/spells/speak-with-plants.md); 5th: [tree stride](tree-stride.md); 6th: [tangling creepers](archive/srd/pf2e/compendium/spells/tangling-creepers.md); 7th: [unfettered pack](archive/srd/pf2e/compendium/spells/unfettered-pack.md); 8th: [prismatic wall](prismatic-wall.md); 9th: [nature's enmity](archive/srd/pf2e/compendium/spells/natures-enmity.md)

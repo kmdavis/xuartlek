@@ -11,7 +11,7 @@ tags:
 aliases: ["Elven Curve Blade"]
 ---
 # Elven Curve Blade *Item 0*  
-[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[elf](archive/srd/pf2e/rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [forceful](archive/srd/pf2e/rules/traits/forceful.md "Forceful Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4 gp
 - **Bulk** 2

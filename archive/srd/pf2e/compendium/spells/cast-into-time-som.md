@@ -9,10 +9,10 @@ tags:
 aliases: ["Cast Into Time"]
 ---
 # Cast Into Time *Spell 6*   
-[divination](rules/traits/divination.md "Divination School Trait")  
+[divination](divination.md "Divination School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot cone
 - **Saving Throw**: Fortitude
 
@@ -21,8 +21,8 @@ You release a wave of temporal energy that sends creatures violently tumbling th
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature falls into time. When it returns, it takes half damage.
-> - **Failure** The creature falls into time. When it returns, it takes full damage and is [sickened](rules/conditions.md#Sickened).
-> - **Critical Failure** The creature falls into time. When it returns, it takes double damage and is [sickened](rules/conditions.md#Sickened).
+> - **Failure** The creature falls into time. When it returns, it takes full damage and is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Critical Failure** The creature falls into time. When it returns, it takes double damage and is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
 
 **Heightened (+ 1)** The bludgeoning damage increase by `2d6`.
 

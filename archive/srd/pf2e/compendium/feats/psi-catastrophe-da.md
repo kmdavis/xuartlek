@@ -11,8 +11,8 @@ tags:
 - trait/psychic
 aliases: ["Psi Catastrophe"]
 ---
-# Psi Catastrophe  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [mindshift](rules/traits/mindshift-da.md "Mindshift Action & Ability Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
+# Psi Catastrophe  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](evocation.md "Evocation School Trait")  [mindshift](mindshift-da.md "Mindshift Action & Ability Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [psyche](psyche-da.md "Psyche Action & Ability Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Activity** Two-Action
 

@@ -7,16 +7,16 @@ tags:
 aliases: ["Goblin Weapon Familiarity"]
 ---
 # Goblin Weapon Familiarity  *Feat 1*  
-[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
+[goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 
-Others might look upon them with disdain, but you know that the weapons of your people are as effective as they are sharp. You are trained with the [dogslicer](compendium/equipment/items/dogslicer.md) and [horsechopper](compendium/equipment/items/horsechopper.md).
+Others might look upon them with disdain, but you know that the weapons of your people are as effective as they are sharp. You are trained with the [dogslicer](archive/srd/pf2e/compendium/equipment/items/dogslicer.md) and [horsechopper](archive/srd/pf2e/compendium/equipment/items/horsechopper.md).
 
 In addition, you gain access to all uncommon goblin weapons. For the purpose of determining your proficiency, martial goblin weapons are simple weapons and advanced goblin weapons are martial weapons.
 
 ## Goblin Weapon Familiarity leads to...
 
-[Goblin Weapon Expertise](compendium/feats/goblin-weapon-expertise.md), [Goblin Weapon Frenzy](compendium/feats/goblin-weapon-frenzy.md)
+[Goblin Weapon Expertise](goblin-weapon-expertise.md), [Goblin Weapon Frenzy](goblin-weapon-frenzy.md)
 
 ## Summary
 

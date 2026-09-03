@@ -12,10 +12,10 @@ tags:
 aliases: ["Dreamer's Call"]
 ---
 # Dreamer's Call *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [dreams](compendium/setting/domains.md#Dreams)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [dreams](archive/srd/pf2e/compendium/setting/domains.md#Dreams)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -25,8 +25,8 @@ The target becomes distracted and suggestible, inundated by vivid daydreams.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target's attention wavers. It becomes [flat-footed](rules/conditions.md#Flat-footed) and [fascinated](rules/conditions.md#Fascinated) by its daydreams.
-> - **Failure** As success, except that you appear in the dream and give a suggestion. This can be to approach you, run away (as if it had the [fleeing](rules/conditions.md#Fleeing) condition), [Release](rules/actions/release.md) what it's holding, [Drop Prone](rules/actions/drop-prone.md), or stand in place. The creature follows this course of action as its first action after you [Cast the Spell](rules/actions/cast-a-spell.md).
+> - **Success** The target's attention wavers. It becomes [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) and [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) by its daydreams.
+> - **Failure** As success, except that you appear in the dream and give a suggestion. This can be to approach you, run away (as if it had the [fleeing](archive/srd/pf2e/rules/conditions.md#Fleeing) condition), [Release](archive/srd/pf2e/rules/actions/release.md) what it's holding, [Drop Prone](archive/srd/pf2e/rules/actions/drop-prone.md), or stand in place. The creature follows this course of action as its first action after you [Cast the Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md).
 > - **Critical Failure** As failure, but the target follows the course of action for as many actions as possible for the spell's duration, and it does nothing else.
 
 *Source: Core Rulebook p. 391*

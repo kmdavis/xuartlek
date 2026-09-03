@@ -9,7 +9,7 @@ tags:
 aliases: ["Necklace of Fireballs"]
 ---
 # Necklace of Fireballs *Item 5*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 44 gp
 - **Usage** worn

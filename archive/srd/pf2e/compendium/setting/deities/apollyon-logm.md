@@ -20,8 +20,8 @@ aliases: ["Apollyon", "Prince of Locusts"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Medicine
-- **Favored Weapon**: [scythe](compendium/equipment/items/scythe.md)
-- **Domains**: [air](compendium/setting/domains.md#Air), [decay](compendium/setting/domains.md#Decay), [plague](compendium/setting/domains.md#Plague), [swarm](compendium/setting/domains.md#Swarm)
-- **Cleric Spells**: 1st: [goblin pox](compendium/spells/goblin-pox.md); 2nd: [vomit swarm](compendium/spells/vomit-swarm-apg.md); 5th: [cloudkill](compendium/spells/cloudkill.md)
+- **Favored Weapon**: [scythe](archive/srd/pf2e/compendium/equipment/items/scythe.md)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [decay](archive/srd/pf2e/compendium/setting/domains.md#Decay), [plague](archive/srd/pf2e/compendium/setting/domains.md#Plague), [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm)
+- **Cleric Spells**: 1st: [goblin pox](archive/srd/pf2e/compendium/spells/goblin-pox.md); 2nd: [vomit swarm](vomit-swarm-apg.md); 5th: [cloudkill](cloudkill.md)

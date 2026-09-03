@@ -7,13 +7,13 @@ tags:
 - trait/divine
 aliases: ["Bless Shield"]
 ---
-# Bless Shield  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
+# Bless Shield  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  
 
-- **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md), you worship a good-aligned deity
+- **Prerequisites**: [Lastwall Sentry Dedication](lastwall-sentry-dedication-lowg.md), you worship a good-aligned deity
 - **Activity** Single Action
 
-Your uttered prayers become an aegis, drawing the blessing of your deity across the surface of your shield. Until the beginning of your next turn your shield, any [shield boss](compendium/equipment/items/shield-boss.md), or [shield spikes](compendium/equipment/items/shield-spikes.md) gain the effects of a [ghost touch](compendium/equipment/items/ghost-touch.md) property rune. Additionally, damage you take as a result of an incorporeal creature's [Strike](rules/actions/strike.md) can trigger your Shield Block reaction, even if the damage isn't physical damage.
+Your uttered prayers become an aegis, drawing the blessing of your deity across the surface of your shield. Until the beginning of your next turn your shield, any [shield boss](archive/srd/pf2e/compendium/equipment/items/shield-boss.md), or [shield spikes](archive/srd/pf2e/compendium/equipment/items/shield-spikes.md) gain the effects of a [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md) property rune. Additionally, damage you take as a result of an incorporeal creature's [Strike](archive/srd/pf2e/rules/actions/strike.md) can trigger your Shield Block reaction, even if the damage isn't physical damage.
 
 *Source: Lost Omens: Knights of Lastwall p. 78*  
 %% #compendium/src/pf2e/lokl #trait/archetype #trait/divine %%

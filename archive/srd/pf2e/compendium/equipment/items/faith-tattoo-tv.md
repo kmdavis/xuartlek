@@ -10,7 +10,7 @@ tags:
 aliases: ["Faith Tattoo"]
 ---
 # Faith Tattoo *Item 4+*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Craft Requirements** silver worth 2 gp to include in the ink
 - **Bulk** —; **Usage** tattooed on the body

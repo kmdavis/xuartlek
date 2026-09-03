@@ -7,12 +7,12 @@ tags:
 - trait/tandem
 aliases: ["Tandem Movement"]
 ---
-# Tandem Movement  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [tandem](rules/traits/tandem-som.md "Tandem Action & Ability Trait")  
+# Tandem Movement  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  [tandem](tandem-som.md "Tandem Action & Ability Trait")  
 
 - **Activity** Single Action
 
-You and your eidolon move together. You each use a single action to [Stride](rules/actions/stride.md). Either of you that has the corresponding movement type can [Burrow](rules/actions/burrow.md), [Climb](rules/actions/climb.md), [Fly](rules/actions/fly.md), or [Swim](rules/actions/swim.md) instead.
+You and your eidolon move together. You each use a single action to [Stride](archive/srd/pf2e/rules/actions/stride.md). Either of you that has the corresponding movement type can [Burrow](archive/srd/pf2e/rules/actions/burrow.md), [Climb](archive/srd/pf2e/rules/actions/climb.md), [Fly](archive/srd/pf2e/rules/actions/fly.md), or [Swim](archive/srd/pf2e/rules/actions/swim.md) instead.
 
 *Source: Secrets of Magic p. 69*  
 %% #compendium/src/pf2e/som #trait/summoner #trait/tandem %%

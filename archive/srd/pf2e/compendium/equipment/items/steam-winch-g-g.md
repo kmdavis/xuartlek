@@ -9,14 +9,14 @@ tags:
 aliases: ["Steam Winch"]
 ---
 # Steam Winch *Item 8*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  [steam](rules/traits/steam-g-g.md "Steam  Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [steam](steam-g-g.md "Steam  Trait")  
 
 - **Price** 425 gp
 - **Bulk** 2; **Usage** operated with two hands
 
-This hefty winch is powered by a small steam engine and includes a 100 ft. length of steel cable, which enables you to haul a heavier load than you could with a hand cranked winch or [comealong](compendium/equipment/items/comealong-lopsg.md). A steam winch allows you to slowly pull a heavy load (usually up to 50 Bulk) along a flat surface or up and down a vertical expanse.
+This hefty winch is powered by a small steam engine and includes a 100 ft. length of steel cable, which enables you to haul a heavier load than you could with a hand cranked winch or [comealong](comealong-lopsg.md). A steam winch allows you to slowly pull a heavy load (usually up to 50 Bulk) along a flat surface or up and down a vertical expanse.
 
-Attaching a steam winch to a device takes three [Interact](rules/actions/interact.md) actions, while starting the winch (and getting it warm enough to operate) takes 10 minutes. Once in operation, a steam winch requires regular maintenance to function.
+Attaching a steam winch to a device takes three [Interact](archive/srd/pf2e/rules/actions/interact.md) actions, while starting the winch (and getting it warm enough to operate) takes 10 minutes. Once in operation, a steam winch requires regular maintenance to function.
 
 Every twenty minutes, the boiler must be refilled and heat levels maintained.
 

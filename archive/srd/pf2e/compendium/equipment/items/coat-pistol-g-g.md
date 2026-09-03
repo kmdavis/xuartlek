@@ -11,7 +11,7 @@ tags:
 aliases: ["Coat Pistol"]
 ---
 # Coat Pistol *Item 0*  
-[concealable](rules/traits/concealable-g-g.md "Concealable Weapon Trait")  [concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [fatal <d8>](rules/traits/fatal-d8.md "Fatal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concealable](concealable-g-g.md "Concealable Weapon Trait")  [concussive](concussive-g-g.md "Concussive Weapon Trait")  [fatal <d8>](rules/traits/fatal-d8.md "Fatal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 6 gp

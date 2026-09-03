@@ -7,12 +7,12 @@ tags:
 - trait/rage
 aliases: ["Furious Sprint"]
 ---
-# Furious Sprint  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
+# Furious Sprint  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [rage](archive/srd/pf2e/rules/traits/rage.md "Rage Combat Trait")  
 
 - **Activity** Two-Action
 
-You rush forward. [Stride](rules/actions/stride.md) up to five times your Speed in a straight line. You can increase the number of actions this activity takes to 3 to [Stride](rules/actions/stride.md) up to eight times your Speed in a straight line instead.
+You rush forward. [Stride](archive/srd/pf2e/rules/actions/stride.md) up to five times your Speed in a straight line. You can increase the number of actions this activity takes to 3 to [Stride](archive/srd/pf2e/rules/actions/stride.md) up to eight times your Speed in a straight line instead.
 
 *Source: Core Rulebook p. 91*  
 %% #compendium/src/pf2e/crb #trait/barbarian #trait/rage %%

@@ -10,13 +10,13 @@ tags:
 aliases: ["Assassin Vine Wine"]
 ---
 # Assassin Vine Wine *Item 9+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  
 
 - **Price** 130 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-[Crafting](compendium/skills.md#Crafting) wine from assassin vine berries is a dangerous process, but the resulting ruby-red drink is rich and heady. Alchemical reagents added during fermentation concentrate the vine's connection to its environment and impart them onto the imbiber. For 1 minute after drinking a glass of assassin vine wine, you have tremorsense at a range of 30 feet.
+[Crafting](skills.md#Crafting) wine from assassin vine berries is a dangerous process, but the resulting ruby-red drink is rich and heady. Alchemical reagents added during fermentation concentrate the vine's connection to its environment and impart them onto the imbiber. For 1 minute after drinking a glass of assassin vine wine, you have tremorsense at a range of 30 feet.
 
 ---
 

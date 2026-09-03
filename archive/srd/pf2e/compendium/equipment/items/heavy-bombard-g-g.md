@@ -9,7 +9,7 @@ tags:
 aliases: ["Heavy Bombard"]
 ---
 # Heavy Bombard *Item 9*  
-[gargantuan](rules/traits/gargantuan-b1.md "Gargantuan Size Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[gargantuan](gargantuan-b1.md "Gargantuan Size Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1400 gp
 - **Usage** mounted (black powder)

@@ -7,7 +7,7 @@ tags:
 aliases: ["Hireling Manager"]
 ---
 # Hireling Manager  *Feat 3*  
-[general](rules/traits/general.md "General Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  
 
 - **Prerequisites**: Charisma 14
 

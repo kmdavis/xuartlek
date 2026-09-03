@@ -9,14 +9,14 @@ tags:
 aliases: ["Viper Urn"]
 ---
 # Viper Urn *Hazard 1*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 15 [Perception](compendium/skills.md#Perception) check  
+- **Stealth** DC 15 [Perception](skills.md#Perception) check  
 
 A ceramic urn containing a coiled viper tips and shatters when a tripwire is pulled.
 
-- **Disable** DC 15 [Thievery](compendium/skills.md#Thievery) (trained) to stabilize the urn, or DC 15 [Athletics](compendium/skills.md#Athletics) to carefully lower the heavy urn  
+- **Disable** DC 15 [Thievery](skills.md#Thievery) (trained) to stabilize the urn, or DC 15 [Athletics](skills.md#Athletics) to carefully lower the heavy urn  
 
 - **AC** 15, **Fort** +8, **Ref** +5
 - **Hardness** 6, **HP** 4 (BT 2)

@@ -9,9 +9,9 @@ tags:
 aliases: ["Golem Grafter Dedication"]
 ---
 # Golem Grafter Dedication  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: expert in [Arcana](compendium/skills.md#Arcana) and [Crafting](compendium/skills.md#Crafting), or an ally with expert proficiency in those skills willing to augment you
+- **Prerequisites**: expert in [Arcana](skills.md#Arcana) and [Crafting](skills.md#Crafting), or an ally with expert proficiency in those skills willing to augment you
 
 Your flesh has been specially treated with the same arcane and alchemical processes used to toughen the skin of flesh golems. Increase your maximum Hit Points by an amount equal to your level. You gain resistance to physical damage (except adamantine) equal to your number of class feats from the golem grafter archetype.
 
@@ -19,7 +19,7 @@ Your flesh has been specially treated with the same arcane and alchemical proces
 
 ## Golem Grafter Dedication leads to...
 
-[Accursed Clay Fist](compendium/feats/accursed-clay-fist-ec3.md), [Iron Lung](compendium/feats/iron-lung-ec3.md), [Legs Of Stone](compendium/feats/legs-of-stone-ec3.md), [Quicken Heartbeat](compendium/feats/quicken-heartbeat-ec3.md)
+[Accursed Clay Fist](accursed-clay-fist-ec3.md), [Iron Lung](iron-lung-ec3.md), [Legs Of Stone](legs-of-stone-ec3.md), [Quicken Heartbeat](quicken-heartbeat-ec3.md)
 
 ## Summary
 

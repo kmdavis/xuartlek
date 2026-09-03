@@ -9,10 +9,10 @@ tags:
 aliases: ["Foul Miasma"]
 ---
 # Foul Miasma *Focus 4*   
-[disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Domains** [plague](compendium/setting/domains.md#Plague)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [plague](archive/srd/pf2e/compendium/setting/domains.md#Plague)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature affected by a disease
 - **Saving Throw**: Will

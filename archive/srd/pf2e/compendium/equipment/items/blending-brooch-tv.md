@@ -11,13 +11,13 @@ tags:
 aliases: ["Blending Brooch"]
 ---
 # Blending Brooch *Item 11*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 275 gp
 - **Bulk** —; **Usage** affixed to armor
-- **Activate** envision; **Trigger** You roll initiative using [Stealth](compendium/skills.md#Stealth) and can see a creature; **Requirements** You are a master in [Stealth](compendium/skills.md#Stealth).
+- **Activate** envision; **Trigger** You roll initiative using [Stealth](skills.md#Stealth) and can see a creature; **Requirements** You are a master in [Stealth](skills.md#Stealth).
 
-This small, matte-black pin always seems to be on the periphery of your vision, even when you stare directly at it. When you Activate the talisman, choose one creature you can see. You become [invisible](rules/conditions.md#Invisible) to that creature unless it succeeds at a DC 28 Will save. This effect lasts for 1 minute or until the target hits you with an attack, whichever comes first.
+This small, matte-black pin always seems to be on the periphery of your vision, even when you stare directly at it. When you Activate the talisman, choose one creature you can see. You become [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) to that creature unless it succeeds at a DC 28 Will save. This effect lasts for 1 minute or until the target hits you with an attack, whichever comes first.
 
 
 ---

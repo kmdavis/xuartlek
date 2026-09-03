@@ -6,11 +6,11 @@ tags:
 - trait/bard
 aliases: ["Triumphant Inspiration"]
 ---
-# Triumphant Inspiration  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+# Triumphant Inspiration  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: warrior muse
-- **Trigger** You critically hit a foe with a melee weapon [Strike](rules/actions/strike.md) or a melee unarmed attack.
+- **Trigger** You critically hit a foe with a melee weapon [Strike](archive/srd/pf2e/rules/actions/strike.md) or a melee unarmed attack.
 - **Activity** Free Action
 
 With a triumphant shout, you inspire your allies. You cast a composition cantrip you know that normally takes a single action to cast.

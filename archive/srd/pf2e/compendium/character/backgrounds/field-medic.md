@@ -17,4 +17,4 @@ You patched up soldiers, guards, or other combatants, and learned a fair amount 
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Medicine](compendium/skills.md#Medicine) skill and the [Warfare Lore](compendium/skills.md#Lore) skill. You gain the [Battle Medicine](compendium/feats/battle-medicine.md) skill feat.
+You're trained in the [Medicine](skills.md#Medicine) skill and the [Warfare Lore](skills.md#Lore) skill. You gain the [Battle Medicine](archive/srd/pf2e/compendium/feats/battle-medicine.md) skill feat.

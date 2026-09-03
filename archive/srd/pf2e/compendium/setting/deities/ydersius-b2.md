@@ -20,8 +20,8 @@ aliases: ["Ydersius"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Deception
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [indulgence](compendium/setting/domains.md#Indulgence), [might](compendium/setting/domains.md#Might), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 5th: [cloudkill](compendium/spells/cloudkill.md); 6th: [purple worm sting](compendium/spells/purple-worm-sting.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [magic fang](magic-fang.md); 5th: [cloudkill](cloudkill.md); 6th: [purple worm sting](purple-worm-sting.md)

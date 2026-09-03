@@ -7,19 +7,19 @@ tags:
 - trait/stance
 aliases: ["Mountain Stance"]
 ---
-# Mountain Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[monk](rules/traits/monk.md "Monk Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
+# Mountain Stance  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  
 
 - **Requirements**: You are unarmored and touching the ground.
 - **Activity** Single Action
 
-You enter the stance of an implacable mountain—a technique created by dwarven monks—allowing you to strike with the weight of an avalanche and block blows with your garments. The only [Strikes](rules/actions/strike.md) you can make are falling stone unarmed attacks. These deal `1d8` bludgeoning damage; are in the brawling group; and have the [forceful](rules/traits/forceful.md "Forceful Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
+You enter the stance of an implacable mountain—a technique created by dwarven monks—allowing you to strike with the weight of an avalanche and block blows with your garments. The only [Strikes](archive/srd/pf2e/rules/actions/strike.md) you can make are falling stone unarmed attacks. These deal `1d8` bludgeoning damage; are in the brawling group; and have the [forceful](archive/srd/pf2e/rules/traits/forceful.md "Forceful Weapon Trait"), [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait"), and [unarmed](archive/srd/pf2e/rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 
-While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance bonus to any defenses against being [Shoved](rules/actions/shove.md) or [Tripped](rules/actions/trip.md). You have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet. The item bonus to AC from Mountain Stance is cumulative with armor potency runes on your [explorer's clothing](compendium/equipment/items/explorers-clothing.md), [mage armor](compendium/spells/mage-armor.md), and bracers of armor.
+While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance bonus to any defenses against being [Shoved](archive/srd/pf2e/rules/actions/shove.md) or [Tripped](archive/srd/pf2e/rules/actions/trip.md). You have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet. The item bonus to AC from Mountain Stance is cumulative with armor potency runes on your [explorer's clothing](archive/srd/pf2e/compendium/equipment/items/explorers-clothing.md), [mage armor](mage-armor.md), and bracers of armor.
 
 ## Mountain Stance leads to...
 
-[Mountain Stronghold](compendium/feats/mountain-stronghold.md), [Mountain Quake](compendium/feats/mountain-quake.md)
+[Mountain Stronghold](archive/srd/pf2e/compendium/feats/mountain-stronghold.md), [Mountain Quake](archive/srd/pf2e/compendium/feats/mountain-quake.md)
 
 ## Summary
 

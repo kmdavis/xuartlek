@@ -10,7 +10,7 @@ tags:
 aliases: ["Gauntlet Bow"]
 ---
 # Gauntlet Bow *Item 0*  
-[capacity <4>](rules/traits/capacity-4-tv.md "Capacity Weapon Trait")  [free-hand](rules/traits/free-hand.md "Free-Hand Weapon Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  
+[capacity <4>](rules/traits/capacity-4-tv.md "Capacity Weapon Trait")  [free-hand](archive/srd/pf2e/rules/traits/free-hand.md "Free-Hand Weapon Trait")  [parry](archive/srd/pf2e/rules/traits/parry.md "Parry Weapon Trait")  
 
 - **Price** 9 gp
 - **Bulk** 1

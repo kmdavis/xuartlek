@@ -9,12 +9,12 @@ tags:
 aliases: ["Catching"]
 ---
 # Catching *Item 8*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 425 gp
 - **Usage** applied to shield
 
-A catching rune creates a small, magical vacuum that attempts to pull weapons away from opponents. If you can attempt to [Disarm](rules/actions/disarm.md) as part of a Shield Block, such as with the Disarming Block feat (Advanced Player's Guide 159) or this rune's activated ability, a catching shield grants you a +1 circumstance bonus to such [Disarm](rules/actions/disarm.md) attempts.
+A catching rune creates a small, magical vacuum that attempts to pull weapons away from opponents. If you can attempt to [Disarm](archive/srd/pf2e/rules/actions/disarm.md) as part of a Shield Block, such as with the Disarming Block feat (Advanced Player's Guide 159) or this rune's activated ability, a catching shield grants you a +1 circumstance bonus to such [Disarm](archive/srd/pf2e/rules/actions/disarm.md) attempts.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

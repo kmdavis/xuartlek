@@ -8,14 +8,14 @@ tags:
 aliases: ["Powder"]
 ---
 # Powder *Item 0*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  
 
 - **Price** 1 sp
 - **Bulk** L; **Usage** held in 1 hand
 
-A bag of powder contains powdered chalk, flour, or similar materials. In addition to other uses for powder, it can be handy while adventuring to help pinpoint [invisible](rules/conditions.md#Invisible) creatures.
+A bag of powder contains powdered chalk, flour, or similar materials. In addition to other uses for powder, it can be handy while adventuring to help pinpoint [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) creatures.
 
-You can throw the powder into an adjacent square as an [Interact](rules/actions/interact.md) action. If there's a creature in that square, it becomes temporarily [observed](rules/conditions.md#Observed) until the end of your turn, though the creature still has concealment due to invisibility. The powder quickly falls away or becomes [invisible](rules/conditions.md#Invisible) itself, preventing you from tracking the creature indefinitely.
+You can throw the powder into an adjacent square as an [Interact](archive/srd/pf2e/rules/actions/interact.md) action. If there's a creature in that square, it becomes temporarily [observed](archive/srd/pf2e/rules/conditions.md#Observed) until the end of your turn, though the creature still has concealment due to invisibility. The powder quickly falls away or becomes [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) itself, preventing you from tracking the creature indefinitely.
 
 
 ---

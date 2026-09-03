@@ -10,7 +10,7 @@ tags:
 aliases: ["Ablative Shield Plating"]
 ---
 # Ablative Shield Plating *Item 1+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [gadget](rules/traits/gadget-g-g.md "Gadget  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [gadget](gadget-g-g.md "Gadget  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 1; **Usage** attached <to a shield>
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Candlecap"]
 ---
 # Candlecap *Item 1*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 12 gp
 - **Bulk** —; **Usage** worn headwear

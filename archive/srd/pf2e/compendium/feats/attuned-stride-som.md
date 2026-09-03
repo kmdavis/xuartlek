@@ -7,9 +7,9 @@ tags:
 aliases: ["Attuned Stride"]
 ---
 # Attuned Stride  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md), expert in [Nature](compendium/skills.md#Nature)
+- **Prerequisites**: [Geomancer Dedication](geomancer-dedication-som.md), expert in [Nature](skills.md#Nature)
 
 You can move freely through terrain you're attuned to.
 

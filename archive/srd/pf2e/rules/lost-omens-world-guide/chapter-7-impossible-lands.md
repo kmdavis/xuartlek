@@ -11,8 +11,8 @@ aliases: ["chapter-7-impossible-lands"]
 - **Nations.** Alkenstar, Geb, Jalmeray, Mana Wastes, Nex
 - **Peoples.** Dwarf, Garundi, Gnome, Keleshite, Mwangi, Vudrani
 - **Languages.** Common, Dwarven, Gnomish, Kelish, Mwangi, Necril, Osiriani, Vudrani
-- **Factions.** Arclords of Nex, Pathfinder Society, [Whispering Way](compendium/setting/deities/whispering-way.md)
-- **Religions.** [Abadar](compendium/setting/deities/abadar.md), [Irori](compendium/setting/deities/irori.md), [Nethys](compendium/setting/deities/nethys.md), [Torag](compendium/setting/deities/torag.md), [Urgathoa](compendium/setting/deities/urgathoa.md), [Zon-Kuthon](compendium/setting/deities/zon-kuthon.md)
+- **Factions.** Arclords of Nex, Pathfinder Society, [Whispering Way](whispering-way.md)
+- **Religions.** [Abadar](abadar.md), [Irori](irori.md), [Nethys](nethys.md), [Torag](torag.md), [Urgathoa](urgathoa.md), [Zon-Kuthon](zon-kuthon.md)
 - **Resources.** Alcohol/Drugs, Books/Lore, Luxury Goods, Magic Items, Ores, Seafood, Spices/Salt, Technology
 
 > [!pf2-sidebar] TIMELINE
@@ -41,28 +41,28 @@ aliases: ["chapter-7-impossible-lands"]
 
 The following backgrounds are particularly suitable for characters from the Impossible Lands region.
 
-- [Alkenstar Tinker](compendium/character/backgrounds/alkenstar-tinker-lowg.md)
-- [Geb Crusader](compendium/character/backgrounds/geb-crusader-lowg.md)
-- [Mana Wastes Refugee](compendium/character/backgrounds/mana-wastes-refugee-lowg.md)
-- [Nexian Mystic](compendium/character/backgrounds/nexian-mystic-lowg.md)
-- [Oenopion Ooze-Tender](compendium/character/backgrounds/oenopion-ooze-tender-lowg.md)
-- [Perfection Seeker](compendium/character/backgrounds/perfection-seeker-lowg.md)
-- [Quick](compendium/character/backgrounds/quick-lowg.md)
+- [Alkenstar Tinker](alkenstar-tinker-lowg.md)
+- [Geb Crusader](geb-crusader-lowg.md)
+- [Mana Wastes Refugee](mana-wastes-refugee-lowg.md)
+- [Nexian Mystic](nexian-mystic-lowg.md)
+- [Oenopion Ooze-Tender](oenopion-ooze-tender-lowg.md)
+- [Perfection Seeker](perfection-seeker-lowg.md)
+- [Quick](quick-lowg.md)
 
 ## Student of Perfection
 <sup>LOWG p. 83</sup>
 
 You studied martial arts at Jalmeray's Houses of Perfection.
 
-- [Student of Perfection Dedication](compendium/feats/student-of-perfection-dedication-lowg.md)
-- [Perfect Strike](compendium/feats/perfect-strike-lowg.md)
-- [Perfect Ki Adept](compendium/feats/perfect-ki-adept-lowg.md)
+- [Student of Perfection Dedication](student-of-perfection-dedication-lowg.md)
+- [Perfect Strike](archive/srd/pf2e/compendium/feats/perfect-strike-lowg.md)
+- [Perfect Ki Adept](perfect-ki-adept-lowg.md)
 
 ### Student of Perfection Focus Spells
 <sup>LOWG p. 83</sup>
 
-- [Perfect Strike](compendium/spells/perfect-strike-lowg.md)
-- [Unblinking Flame Revelation](compendium/spells/unblinking-flame-revelation-lowg.md)
-- [Unbreaking Wave Advance](compendium/spells/unbreaking-wave-advance-lowg.md)
-- [Unfolding Wind Rush](compendium/spells/unfolding-wind-rush-lowg.md)
-- [Untwisting Iron Buffer](compendium/spells/untwisting-iron-buffer-lowg.md)
+- [Perfect Strike](archive/srd/pf2e/compendium/spells/perfect-strike-lowg.md)
+- [Unblinking Flame Revelation](unblinking-flame-revelation-lowg.md)
+- [Unbreaking Wave Advance](unbreaking-wave-advance-lowg.md)
+- [Unfolding Wind Rush](unfolding-wind-rush-lowg.md)
+- [Untwisting Iron Buffer](untwisting-iron-buffer-lowg.md)

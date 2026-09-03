@@ -10,7 +10,7 @@ tags:
 aliases: ["Warding Tablets"]
 ---
 # Warding Tablets *Item 8*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 450 gp
 - **Bulk** L

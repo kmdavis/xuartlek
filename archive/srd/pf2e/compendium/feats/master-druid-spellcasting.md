@@ -7,9 +7,9 @@ tags:
 aliases: ["Master Druid Spellcasting"]
 ---
 # Master Druid Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Expert Druid Spellcasting](compendium/feats/expert-druid-spellcasting.md), legendary in [Nature](compendium/skills.md#Nature)
+- **Prerequisites**: [Expert Druid Spellcasting](archive/srd/pf2e/compendium/feats/expert-druid-spellcasting.md), legendary in [Nature](skills.md#Nature)
 
 You gain the master spellcasting benefits.
 

@@ -8,14 +8,14 @@ tags:
 aliases: ["Sadistic Conductor"]
 ---
 # Sadistic Conductor *Hazard 4*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +12 trained  
 
 A phantom conductor appears with a flourish, causing spectral instruments with razor-like strings to appear in the hands of those present. As the conductor gestures for the performance to begin, creatures are compelled to play the instruments.
 
-- **Disable** DC 18 [Performance](compendium/skills.md#Performance) to perform so well the conductor releases you from your instrument, banishing it voluntarily; DC 22 Occultism or Religion (trained) to banish one instrument; or DC 25 [Thievery](compendium/skills.md#Thievery) (trained) to sabotage one instrument; each instrument must be banished, sabotaged, or destroyed to disable the haunt  
+- **Disable** DC 18 [Performance](skills.md#Performance) to perform so well the conductor releases you from your instrument, banishing it voluntarily; DC 22 Occultism or Religion (trained) to banish one instrument; or DC 25 [Thievery](skills.md#Thievery) (trained) to sabotage one instrument; each instrument must be banished, sabotaged, or destroyed to disable the haunt  
 
 - **Hardness** 10; **per instrument HP** 22 (BT 11)
 - **Immunities** critical hits; object immunities; precision damage

@@ -9,13 +9,13 @@ tags:
 aliases: ["Insistent Door Knocker"]
 ---
 # Insistent Door Knocker *Item 6+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
-This dark iron door knocker comes in a variety of shapes, such as a bird clutching a ring in its talons or a gargoyle holding a ring in its mouth. Placing the door knocker on the surface of a door (an [Interact](rules/actions/interact.md) action) causes it to attach and remain in place. While in place, the door knocker whispers hints to you while you attempt to unlock the door, granting a +1 item bonus to [Thievery](compendium/skills.md#Thievery) checks to [Pick a Lock](rules/actions/pick-a-lock.md).
+This dark iron door knocker comes in a variety of shapes, such as a bird clutching a ring in its talons or a gargoyle holding a ring in its mouth. Placing the door knocker on the surface of a door (an [Interact](archive/srd/pf2e/rules/actions/interact.md) action) causes it to attach and remain in place. While in place, the door knocker whispers hints to you while you attempt to unlock the door, granting a +1 item bonus to [Thievery](skills.md#Thievery) checks to [Pick a Lock](archive/srd/pf2e/rules/actions/pick-a-lock.md).
 
-Removing the door knocker from a surface requires you to use an [Interact](rules/actions/interact.md) action.
+Removing the door knocker from a surface requires you to use an [Interact](archive/srd/pf2e/rules/actions/interact.md) action.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)

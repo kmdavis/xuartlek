@@ -11,7 +11,7 @@ tags:
 aliases: ["Nemesis Name"]
 ---
 # Nemesis Name *Item 9*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Price** 650 gp
 - **Bulk** —; **Usage** tattooed on the body

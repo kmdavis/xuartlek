@@ -7,11 +7,11 @@ tags:
 aliases: ["Aura Of Courage"]
 ---
 # Aura Of Courage  *Feat 4*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: tenets of good
 
-You stand strong in the face of danger and inspire your allies to do the same. Whenever you become [frightened](rules/conditions.md#Frightened), reduce the condition value by 1 (to a minimum of 0). At the end of your turn when you would reduce your [frightened](rules/conditions.md#Frightened) condition value by 1, you also reduce the value by 1 for all allies within 15 feet.
+You stand strong in the face of danger and inspire your allies to do the same. Whenever you become [frightened](archive/srd/pf2e/rules/conditions.md#Frightened), reduce the condition value by 1 (to a minimum of 0). At the end of your turn when you would reduce your [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) condition value by 1, you also reduce the value by 1 for all allies within 15 feet.
 
 *Source: Core Rulebook p. 111*  
 %% #compendium/src/pf2e/crb #trait/champion %%

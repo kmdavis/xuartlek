@@ -11,12 +11,12 @@ tags:
 aliases: ["Razmiri Wayfinder"]
 ---
 # Razmiri Wayfinder *Item 10*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 900 gp
 - **Bulk** –; **Usage** worn
 
-Worn on a chain around the neck, a Razmiri wayfinder functions as a compass and provides its wearer a +1 item bonus to [Deception](compendium/skills.md#Deception) checks to [Lie](rules/actions/lie.md) or [Impersonate](rules/actions/impersonate.md). Razmiri wayfinders can also be used to grant temporary healing, making it easier for the wearer to impersonate a divine spellcaster.
+Worn on a chain around the neck, a Razmiri wayfinder functions as a compass and provides its wearer a +1 item bonus to [Deception](skills.md#Deception) checks to [Lie](archive/srd/pf2e/rules/actions/lie.md) or [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md). Razmiri wayfinders can also be used to grant temporary healing, making it easier for the wearer to impersonate a divine spellcaster.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

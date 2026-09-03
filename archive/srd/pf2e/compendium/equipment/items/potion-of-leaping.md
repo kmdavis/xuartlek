@@ -11,13 +11,13 @@ tags:
 aliases: ["Potion of Leaping"]
 ---
 # Potion of Leaping *Item 5*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [potion](archive/srd/pf2e/rules/traits/potion.md "Potion Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 21 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-For 1 minute after you drink this fizzy potion, whenever you [Leap](rules/actions/leap.md), you gain the effect of the 1st-level [jump](compendium/spells/jump.md) spell.
+For 1 minute after you drink this fizzy potion, whenever you [Leap](archive/srd/pf2e/rules/actions/leap.md), you gain the effect of the 1st-level [jump](archive/srd/pf2e/compendium/spells/jump.md) spell.
 
 
 ---

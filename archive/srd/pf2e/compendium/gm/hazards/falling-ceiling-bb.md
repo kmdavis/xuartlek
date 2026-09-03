@@ -8,11 +8,11 @@ aliases: ["Falling Ceiling"]
 # Falling Ceiling *Hazard 1*  
 
 - **Complexity** Simple
-- **Stealth** DC 20 [Perception](compendium/skills.md#Perception) check  
+- **Stealth** DC 20 [Perception](skills.md#Perception) check  
 
 
 
-- **Disable** A hero must succeed at a DC 18 [Thievery](compendium/skills.md#Thievery) check on the triggering square or the ceiling to prevent the stone blocks from falling.  
+- **Disable** A hero must succeed at a DC 18 [Thievery](skills.md#Thievery) check on the triggering square or the ceiling to prevent the stone blocks from falling.  
 
 ```ad-embed-ability
 title: **Falling Stones** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

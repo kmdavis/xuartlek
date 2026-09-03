@@ -10,12 +10,12 @@ tags:
 aliases: ["Dagger of Venom"]
 ---
 # Dagger of Venom *Item 5*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 150 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-The serrated blade of this +1 striking dagger has a greenish tinge, and the hilt is sculpted to look like the head of a serpent about to strike. When you critically succeed at an attack roll with the dagger of venom, the target becomes [sickened](rules/conditions.md#Sickened) unless it succeeds at a DC 19 Fortitude save. This is a [poison](rules/traits/poison.md "Poison Effect Trait") effect. In addition, you can activate the dagger to poison a creature with a more potent poison.
+The serrated blade of this +1 striking dagger has a greenish tinge, and the hilt is sculpted to look like the head of a serpent about to strike. When you critically succeed at an attack roll with the dagger of venom, the target becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) unless it succeeds at a DC 19 Fortitude save. This is a [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait") effect. In addition, you can activate the dagger to poison a creature with a more potent poison.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") [Interact](rules/actions/interact.md)

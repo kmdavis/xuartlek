@@ -7,15 +7,15 @@ tags:
 aliases: ["Improved Poison Weapon"]
 ---
 # Improved Poison Weapon  *Feat 8*  
-[rogue](rules/traits/rogue.md "Rogue Class Trait")  
+[rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
-- **Prerequisites**: [Poison Weapon](compendium/feats/poison-weapon.md)
+- **Prerequisites**: [Poison Weapon](archive/srd/pf2e/compendium/feats/poison-weapon.md)
 
 You deliver poisons in ways that maximize their harmful effects. When you apply a simple poison with Poison Weapon, the poison deals `2d4` poison damage instead of `1d4` poison damage. You don't waste a poison you apply with Poison Weapon on a critically failed attack roll.
 
 ## Improved Poison Weapon leads to...
 
-[Deadly Poison Weapon](compendium/feats/deadly-poison-weapon-aoa5.md)
+[Deadly Poison Weapon](deadly-poison-weapon-aoa5.md)
 
 ## Summary
 

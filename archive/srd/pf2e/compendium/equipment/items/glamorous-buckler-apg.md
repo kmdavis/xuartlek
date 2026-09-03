@@ -9,12 +9,12 @@ tags:
 aliases: ["Glamorous Buckler"]
 ---
 # Glamorous Buckler *Item 2*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 35 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding and inset gemstones that glitter in the light. While you have it raised, the glamorous buckler grants you a +1 item bonus to [Deception](compendium/skills.md#Deception) checks to [Feint](rules/actions/feint.md).
+A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding and inset gemstones that glitter in the light. While you have it raised, the glamorous buckler grants you a +1 item bonus to [Deception](skills.md#Deception) checks to [Feint](archive/srd/pf2e/rules/actions/feint.md).
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

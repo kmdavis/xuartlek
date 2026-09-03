@@ -20,8 +20,8 @@ aliases: ["Jaidz", "Fearless Claw"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [shortsword](compendium/equipment/items/shortsword.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [nightmares](compendium/setting/domains.md#Nightmares), [protection](compendium/setting/domains.md#Protection), [travel](compendium/setting/domains.md#Travel)
-- **Cleric Spells**: 1st: [longstrider](compendium/spells/longstrider.md); 3rd: [haste](compendium/spells/haste.md); 7th: [mask of terror](compendium/spells/mask-of-terror.md)
+- **Favored Weapon**: [shortsword](archive/srd/pf2e/compendium/equipment/items/shortsword.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel)
+- **Cleric Spells**: 1st: [longstrider](longstrider.md); 3rd: [haste](archive/srd/pf2e/compendium/spells/haste.md); 7th: [mask of terror](archive/srd/pf2e/compendium/spells/mask-of-terror.md)

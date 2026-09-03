@@ -10,10 +10,10 @@ tags:
 aliases: ["Death's Call"]
 ---
 # Death's Call *Focus 1*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [death](compendium/setting/domains.md#Death)
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Domains** [death](archive/srd/pf2e/compendium/setting/domains.md#Death)
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: A living creature within 20 feet of you dies, or an undead creature within 20 feet of you is destroyed.
 - 
 - **Duration**: 1 minute

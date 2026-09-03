@@ -9,11 +9,11 @@ tags:
 aliases: ["Menacing"]
 ---
 # Menacing *Item 3+*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** applied any visible article of clothing
 
-Common among brutes who use the magic to scare others into compliance, menacing runes lend you a formidable appearance, granting you a +1 item bonus to [Intimidation](compendium/skills.md#Intimidation) checks to [Coerce](rules/actions/coerce.md) others.
+Common among brutes who use the magic to scare others into compliance, menacing runes lend you a formidable appearance, granting you a +1 item bonus to [Intimidation](skills.md#Intimidation) checks to [Coerce](archive/srd/pf2e/rules/actions/coerce.md) others.
 
 ---
 

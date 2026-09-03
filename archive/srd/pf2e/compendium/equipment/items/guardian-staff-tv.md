@@ -10,7 +10,7 @@ tags:
 aliases: ["Guardian Staff"]
 ---
 # Guardian Staff *Item 6+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand

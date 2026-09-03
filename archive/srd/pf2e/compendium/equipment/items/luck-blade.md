@@ -11,7 +11,7 @@ tags:
 aliases: ["Luck Blade"]
 ---
 # Luck Blade *Item 17+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -37,9 +37,9 @@ title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 #### wishing luck blade *Item 19*
 
 - **Price**: 30000 gp
-- **Craft Requirements**: Supply a casting of [wish](compendium/spells/wish.md).
+- **Craft Requirements**: Supply a casting of [wish](archive/srd/pf2e/compendium/spells/wish.md).
 
-Some luck blades contain one [wish](compendium/spells/wish.md) when crafted. You can cast this spell as an arcane innate spell while wielding the luck blade, expending the spell. A spellcaster who can cast [wish](compendium/spells/wish.md) can place another wish into the blade by spending 8,000 gp and 4 days of downtime. A wishing luck blade can hold no more than one [wish](compendium/spells/wish.md) at a time.
+Some luck blades contain one [wish](archive/srd/pf2e/compendium/spells/wish.md) when crafted. You can cast this spell as an arcane innate spell while wielding the luck blade, expending the spell. A spellcaster who can cast [wish](archive/srd/pf2e/compendium/spells/wish.md) can place another wish into the blade by spending 8,000 gp and 4 days of downtime. A wishing luck blade can hold no more than one [wish](archive/srd/pf2e/compendium/spells/wish.md) at a time.
 
 ---
 *Source: Core Rulebook p. 601*

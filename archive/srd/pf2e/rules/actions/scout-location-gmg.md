@@ -8,12 +8,12 @@ tags:
 aliases: ["Scout Location"]
 ---
 # Scout Location
-[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
+[downtime](archive/srd/pf2e/rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](archive/srd/pf2e/rules/traits/secret.md "Secret General Trait")  
 *Source: Gamemastery Guide p. 163*  
 
 **Variant Rule** Infiltration
 
-You spend time observing the place or group you wish to infiltrate. Attempt a normal, hard, or very hard DC [Perception](compendium/skills.md#Perception), [Society](compendium/skills.md#Society) or [Stealth](compendium/skills.md#Stealth) check.
+You spend time observing the place or group you wish to infiltrate. Attempt a normal, hard, or very hard DC [Perception](skills.md#Perception), [Society](skills.md#Society) or [Stealth](skills.md#Stealth) check.
 
 > [!success-degree] 
 > - **Success** You make observations that provide 1 EP.

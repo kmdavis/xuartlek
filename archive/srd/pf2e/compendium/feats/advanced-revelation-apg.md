@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Revelation"]
 ---
 # Advanced Revelation  *Feat 6*  
-[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
+[oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Prerequisites**: initial revelation spell
 
@@ -15,7 +15,7 @@ You learn an advanced revelation spell associated with your mystery. Increase th
 
 ## Advanced Revelation leads to...
 
-[Diverse Mystery](compendium/feats/diverse-mystery-apg.md)
+[Diverse Mystery](diverse-mystery-apg.md)
 
 ## Summary
 

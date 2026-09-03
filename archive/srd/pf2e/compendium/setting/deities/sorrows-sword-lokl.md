@@ -23,9 +23,9 @@ aliases: ["Sorrow's Sword"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [bastard sword](compendium/equipment/items/bastard-sword.md)
-- **Domains**: [duty](compendium/setting/domains.md#Duty), [might](compendium/setting/domains.md#Might), [sorrow](compendium/setting/domains.md#Sorrow), [zeal](compendium/setting/domains.md#Zeal)
-- **Alternate Domains**: [confidence](compendium/setting/domains.md#Confidence), [fire](compendium/setting/domains.md#Fire)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 4th: [fire shield](compendium/spells/fire-shield.md); 6th: [disintegrate](compendium/spells/disintegrate.md)
+- **Favored Weapon**: [bastard sword](archive/srd/pf2e/compendium/equipment/items/bastard-sword.md)
+- **Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Alternate Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 4th: [fire shield](archive/srd/pf2e/compendium/spells/fire-shield.md); 6th: [disintegrate](archive/srd/pf2e/compendium/spells/disintegrate.md)

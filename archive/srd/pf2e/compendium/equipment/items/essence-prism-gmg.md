@@ -10,11 +10,11 @@ tags:
 aliases: ["Essence Prism"]
 ---
 # Essence Prism *Item 28*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 5
 
-This enormous, multifaceted prism normally rests on a pedestal, eerily refracting many-colored lights even when no light source is present. In reality, the prism refracts the four magical essences into the visible spectrum (see page 300 in the Core Rulebook for more on the four essences). A creature adjacent to the prism can adjust its facets with an [Interact](rules/actions/interact.md) action to change between two polarities. Two essences flow from two input streams into the prism, where the prism combines them into a single output stream; alternatively, a single essence flows from one input stream into the prism and is split into two output streams. A creature that enters and stays within an input essence stream for 1 minute is slowly encased in solid magic, at which point it is [paralyzed](rules/conditions.md#Paralyzed) until anyone reverses the prism's flow or finishes activating the prism. A creature stepping into an output essence stream is gently pushed back and out of the stream.
+This enormous, multifaceted prism normally rests on a pedestal, eerily refracting many-colored lights even when no light source is present. In reality, the prism refracts the four magical essences into the visible spectrum (see page 300 in the Core Rulebook for more on the four essences). A creature adjacent to the prism can adjust its facets with an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to change between two polarities. Two essences flow from two input streams into the prism, where the prism combines them into a single output stream; alternatively, a single essence flows from one input stream into the prism and is split into two output streams. A creature that enters and stays within an input essence stream for 1 minute is slowly encased in solid magic, at which point it is [paralyzed](archive/srd/pf2e/rules/conditions.md#Paralyzed) until anyone reverses the prism's flow or finishes activating the prism. A creature stepping into an output essence stream is gently pushed back and out of the stream.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)

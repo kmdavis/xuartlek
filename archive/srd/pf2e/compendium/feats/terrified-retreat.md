@@ -8,11 +8,11 @@ tags:
 aliases: ["Terrified Retreat"]
 ---
 # Terrified Retreat  *Feat 7*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: master in [Intimidation](compendium/skills.md#Intimidation)
+- **Prerequisites**: master in [Intimidation](skills.md#Intimidation)
 
-When you critically succeed at the [Demoralize](rules/actions/demoralize.md) action, if the target's level is lower than yours, the target is [fleeing](rules/conditions.md#Fleeing) for 1 round.
+When you critically succeed at the [Demoralize](archive/srd/pf2e/rules/actions/demoralize.md) action, if the target's level is lower than yours, the target is [fleeing](archive/srd/pf2e/rules/conditions.md#Fleeing) for 1 round.
 
 *Source: Core Rulebook p. 268*  
 %% #compendium/src/pf2e/crb #trait/general #trait/skill %%

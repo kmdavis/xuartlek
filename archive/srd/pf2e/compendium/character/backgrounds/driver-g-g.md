@@ -15,4 +15,4 @@ You practically live behind the controls of a vehicle, and can handle just about
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in the [Acrobatics](compendium/skills.md#Acrobatics) skill and the [Piloting Lore](compendium/skills.md#Lore) skill. You gain the [Assurance](compendium/feats/assurance.md) skill feat with [Piloting Lore](compendium/skills.md#Lore).
+You're trained in the [Acrobatics](skills.md#Acrobatics) skill and the [Piloting Lore](skills.md#Lore) skill. You gain the [Assurance](archive/srd/pf2e/compendium/feats/assurance.md) skill feat with [Piloting Lore](skills.md#Lore).

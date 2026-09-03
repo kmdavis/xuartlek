@@ -7,7 +7,7 @@ tags:
 aliases: ["Lesser Augmentation"]
 ---
 # Lesser Augmentation  *Feat 9*  
-[automaton](rules/traits/automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
+[automaton](automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
 
 
 You've focused on enhancing yourself and have received an improvement to one of your existing abilities. You gain the enhancement benefits of one of your 1st- or 5th-level automaton ancestry feats.

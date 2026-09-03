@@ -12,10 +12,10 @@ tags:
 aliases: ["Nudge Fate"]
 ---
 # Nudge Fate *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [divination](divination.md "Divination School Trait")  [hex](hex-apg.md "Hex Combat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](archive/srd/pf2e/rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -23,6 +23,6 @@ aliases: ["Nudge Fate"]
 
 You read slightly into the future and give fate a tiny push to achieve the result you desire. Once during the duration, when the target fails an attack roll, skill check, or saving throw and a +1 status bonus would turn a critical failure into a failure, or failure into a success, you grant the target a +1 status bonus to the check retroactively, changing the outcome appropriately. The spell then ends, and the target is temporarily immune for 1 minute.
 
-If you cast [nudge fate](compendium/spells/nudge-fate-apg.md) while a previous casting of this hex is still in effect, the previous effect ends.
+If you cast [nudge fate](nudge-fate-apg.md) while a previous casting of this hex is still in effect, the previous effect ends.
 
 *Source: Advanced Player's Guide p. 239*

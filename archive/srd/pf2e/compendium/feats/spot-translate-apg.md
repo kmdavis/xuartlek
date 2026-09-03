@@ -8,11 +8,11 @@ tags:
 - trait/linguistic
 aliases: ["Spot Translate"]
 ---
-# Spot Translate  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  
+# Spot Translate  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  
 
-- **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md)
-- **Trigger** Another creature within 60 feet uses a [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") effect in a language you understand.
+- **Prerequisites**: [Linguist Dedication](linguist-dedication-apg.md)
+- **Trigger** Another creature within 60 feet uses a [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait") effect in a language you understand.
 - **Activity** Reaction
 
 You interpret a creature's words, repeating their message in a different language that you know. If the triggering effect's targets speak either the original language or the one you translated into, they are affected.

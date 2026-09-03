@@ -12,10 +12,10 @@ tags:
 aliases: ["Heart's Desire"]
 ---
 # Heart's Desire *Focus 3*   
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -25,8 +25,8 @@ You surround your target with wondrous illusions of their greatest desires, whic
 
 > [!success-degree] 
 > - **Critical Success** The target 0 and is unaffected.
-> - **Success** For 1 round, the target is [stupefied](rules/conditions.md#Stupefied) and takes a –2 status penalty to any checks it makes to determine the effects of reactions.
-> - **Failure** For 1 minute, the target is [stupefied](rules/conditions.md#Stupefied) and can't use reactions.
+> - **Success** For 1 round, the target is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) and takes a –2 status penalty to any checks it makes to determine the effects of reactions.
+> - **Failure** For 1 minute, the target is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) and can't use reactions.
 > - **Critical Failure** As failure, and all spaces are difficult terrain for the target.
 
 **Heightened (+ 2)** You can target one additional creature.

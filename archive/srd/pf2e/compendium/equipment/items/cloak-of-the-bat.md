@@ -10,11 +10,11 @@ tags:
 aliases: ["Cloak of the Bat"]
 ---
 # Cloak of the Bat *Item 10+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** L; **Usage** worn cloak
 
-Sewn from several long strips of luxurious brown and black silk, this cloak grants you a +2 item bonus to [Stealth](compendium/skills.md#Stealth) checks as well as to [Acrobatics](compendium/skills.md#Acrobatics) checks to [Maneuver in Flight](rules/actions/maneuver-in-flight.md). You can also use your feet to hang from any surface that can support your weight, without requiring any check, though you still must attempt [Athletics](compendium/skills.md#Athletics) checks to [Climb](rules/actions/climb.md) in order to move around while inverted.
+Sewn from several long strips of luxurious brown and black silk, this cloak grants you a +2 item bonus to [Stealth](skills.md#Stealth) checks as well as to [Acrobatics](skills.md#Acrobatics) checks to [Maneuver in Flight](archive/srd/pf2e/rules/actions/maneuver-in-flight.md). You can also use your feet to hang from any surface that can support your weight, without requiring any check, though you still must attempt [Athletics](skills.md#Athletics) checks to [Climb](archive/srd/pf2e/rules/actions/climb.md) in order to move around while inverted.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)

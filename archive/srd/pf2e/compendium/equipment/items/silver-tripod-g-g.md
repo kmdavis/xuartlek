@@ -12,7 +12,7 @@ tags:
 aliases: ["Silver Tripod"]
 ---
 # Silver Tripod *Item 1*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [force](archive/srd/pf2e/rules/traits/force.md "Force Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 3 gp
 - **Bulk** –; **Usage** affixed to a firearm with the kickback trait
@@ -20,7 +20,7 @@ aliases: ["Silver Tripod"]
 
 This tiny, silver facsimile of a weapon tripod is usually attached to the underside of the affixed weapon's barrel.
 
-When activated, it creates an [invisible](rules/conditions.md#Invisible) construct of magical force that attaches to the weapon and automatically stabilizes it in any location, even in midair. The effect lasts for 1 minute or until you [Dismiss](rules/actions/dismiss.md) it. The effect also ends immediately if you let go of the affixed weapon. The affixed weapon cannot be moved while this effect is active.
+When activated, it creates an [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) construct of magical force that attaches to the weapon and automatically stabilizes it in any location, even in midair. The effect lasts for 1 minute or until you [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) it. The effect also ends immediately if you let go of the affixed weapon. The affixed weapon cannot be moved while this effect is active.
 
 
 ---

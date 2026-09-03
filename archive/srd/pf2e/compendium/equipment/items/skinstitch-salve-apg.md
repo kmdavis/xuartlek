@@ -10,7 +10,7 @@ tags:
 aliases: ["Skinstitch Salve"]
 ---
 # Skinstitch Salve *Item 7*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  
 
 - **Price** 55 gp
 - **Bulk** L; **Usage** held in 1 hand

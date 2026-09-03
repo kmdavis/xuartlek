@@ -11,14 +11,14 @@ tags:
 aliases: ["Air Rift"]
 ---
 # Air Rift *Hazard 14*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +22 master to notice the sudden breeze in the theater.  
 
 A portal to the Plane of Air rips open onstage, causing roaring winds to tear through the opera house.
 
-- **Disable** DC 38 [Arcana](compendium/skills.md#Arcana) (master) to sew the magical threads of the rift shut, DC 40 [Nature](compendium/skills.md#Nature) or [Survival](compendium/skills.md#Survival) (legendary) to open enough windows and doors to reduce its intensity, or dispel magic (7th level; counteract DC 34) to counteract the air rift.  
+- **Disable** DC 38 [Arcana](skills.md#Arcana) (master) to sew the magical threads of the rift shut, DC 40 [Nature](skills.md#Nature) or [Survival](skills.md#Survival) (legendary) to open enough windows and doors to reduce its intensity, or dispel magic (7th level; counteract DC 34) to counteract the air rift.  
 
 - **AC** 35; **vs. reactions and ranged weapon attacks AC** 40, **Fort** +30
 - **HP** 220

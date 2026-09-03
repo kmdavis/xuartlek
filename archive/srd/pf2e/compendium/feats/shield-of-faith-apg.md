@@ -7,9 +7,9 @@ tags:
 aliases: ["Shield Of Faith"]
 ---
 # Shield Of Faith  *Feat 10*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
-- **Prerequisites**: [Domain Initiate](compendium/feats/domain-initiate.md)
+- **Prerequisites**: [Domain Initiate](archive/srd/pf2e/compendium/feats/domain-initiate.md)
 
 Residual energy from your domain spells bolsters your defenses. When you spend a Focus Point to cast a domain spell, you gain a +1 status bonus to your AC until the start of your next turn.
 

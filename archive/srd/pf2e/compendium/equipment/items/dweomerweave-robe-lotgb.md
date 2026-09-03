@@ -11,7 +11,7 @@ tags:
 aliases: ["Dweomerweave Robe"]
 ---
 # Dweomerweave Robe *Item 2*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 gp
 - **Bulk** L; **Usage** worn clothing

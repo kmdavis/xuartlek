@@ -11,17 +11,17 @@ tags:
 aliases: ["Whisperer of Souls"]
 ---
 # Whisperer of Souls *Item 28*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 2; **Usage** held in 2 hands
 
-This +4 major striking greater brilliant [keen](compendium/equipment/items/keen.md) [glaive](compendium/equipment/items/glaive.md) binds the souls of powerful creatures it slays. The soul can't be returned to life by any means while imprisoned within the glaive and can be freed only by a deed of great benevolence or selflessness. While using the glaive as a weapon, whenever you reduce a sapient creature of 18th level or higher to 0 Hit Points or roll a critical success with a [Strike](rules/actions/strike.md) against such a target, the creature must attempt a DC 50 Fortitude save.
+This +4 major striking greater brilliant [keen](archive/srd/pf2e/compendium/equipment/items/keen.md) [glaive](archive/srd/pf2e/compendium/equipment/items/glaive.md) binds the souls of powerful creatures it slays. The soul can't be returned to life by any means while imprisoned within the glaive and can be freed only by a deed of great benevolence or selflessness. While using the glaive as a weapon, whenever you reduce a sapient creature of 18th level or higher to 0 Hit Points or roll a critical success with a [Strike](archive/srd/pf2e/rules/actions/strike.md) against such a target, the creature must attempt a DC 50 Fortitude save.
 
 > [!success-degree] 
 > - **Critical Success** No additional effect.
-> - **Success** The glaive siphons the creature's essence, rendering it [drained](rules/conditions.md#Drained). If the creature dies from the [Strike](rules/actions/strike.md) or while [drained](rules/conditions.md#Drained) in this way, the creature's soul is bound in the glaive.
-> - **Failure** As success, but the creature is [drained](rules/conditions.md#Drained).
-> - **Critical Failure** As success, but the creature is [drained](rules/conditions.md#Drained).
+> - **Success** The glaive siphons the creature's essence, rendering it [drained](archive/srd/pf2e/rules/conditions.md#Drained). If the creature dies from the [Strike](archive/srd/pf2e/rules/actions/strike.md) or while [drained](archive/srd/pf2e/rules/conditions.md#Drained) in this way, the creature's soul is bound in the glaive.
+> - **Failure** As success, but the creature is [drained](archive/srd/pf2e/rules/conditions.md#Drained).
+> - **Critical Failure** As success, but the creature is [drained](archive/srd/pf2e/rules/conditions.md#Drained).
 >
 >    The glaive also has the following activations.
 

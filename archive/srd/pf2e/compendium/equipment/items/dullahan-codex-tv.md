@@ -12,7 +12,7 @@ tags:
 aliases: ["Dullahan Codex"]
 ---
 # Dullahan Codex *Item 20*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** L
 
@@ -25,10 +25,10 @@ If your name is on the list and you touch the volume or read from its pages, you
 > [!success-degree] 
 > - **Critical Success** The codex disappears, moving on to a new victim.
 > - **Success** The codex fuses to you.
-> - **Failure** The codex fuses to you, and you become [doomed](rules/conditions.md#Doomed).
-> - **Critical Failure** As failure, but you're [doomed](rules/conditions.md#Doomed).
+> - **Failure** The codex fuses to you, and you become [doomed](archive/srd/pf2e/rules/conditions.md#Doomed).
+> - **Critical Failure** As failure, but you're [doomed](archive/srd/pf2e/rules/conditions.md#Doomed).
 >
->    If you attempt to get rid of the codex while it's fused to you, it returns to your possession within an hour. Each day the codex is fused to you, you must attempt another Will saving throw, but a critical success does nothing. The [doomed](rules/conditions.md#Doomed) value from the codex can decrease only after it's no longer fused to you; once it's fused to you, you remain its intended victim unless you complete a freedom ritual aimed at ending this 10th-level effect. (On a critical failure with this ritual, the codex adds all casters to its list.) You can redirect the curse by inscribing another person's name in the grimoire and succeeding at a DC 40 [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) check. Doing so is an evil act. If the curse is ritually ended or redirected, or the chosen victim dies, the codex moves on to a new victim.
+>    If you attempt to get rid of the codex while it's fused to you, it returns to your possession within an hour. Each day the codex is fused to you, you must attempt another Will saving throw, but a critical success does nothing. The [doomed](archive/srd/pf2e/rules/conditions.md#Doomed) value from the codex can decrease only after it's no longer fused to you; once it's fused to you, you remain its intended victim unless you complete a freedom ritual aimed at ending this 10th-level effect. (On a critical failure with this ritual, the codex adds all casters to its list.) You can redirect the curse by inscribing another person's name in the grimoire and succeeding at a DC 40 [Arcana](skills.md#Arcana) or [Occultism](skills.md#Occultism) check. Doing so is an evil act. If the curse is ritually ended or redirected, or the chosen victim dies, the codex moves on to a new victim.
 
 
 ---

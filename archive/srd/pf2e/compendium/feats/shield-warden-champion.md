@@ -7,15 +7,15 @@ tags:
 aliases: ["Shield Warden (Champion)"]
 ---
 # Shield Warden (Champion)  *Feat 6*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (shield), tenets of good
 
-You use your shield to protect your allies as well as yourself. When you have a [shield raised](rules/actions/raise-a-shield.md), you can use your [Shield Block](compendium/feats/shield-block.md) reaction when an attack is made against an ally adjacent to you. If you do, the shield prevents that ally from taking damage instead of preventing you from taking damage, following the normal rules for [Shield Block](compendium/feats/shield-block.md).
+You use your shield to protect your allies as well as yourself. When you have a [shield raised](archive/srd/pf2e/rules/actions/raise-a-shield.md), you can use your [Shield Block](archive/srd/pf2e/compendium/feats/shield-block.md) reaction when an attack is made against an ally adjacent to you. If you do, the shield prevents that ally from taking damage instead of preventing you from taking damage, following the normal rules for [Shield Block](archive/srd/pf2e/compendium/feats/shield-block.md).
 
 ## Shield Warden (Champion) leads to...
 
-[Shield Of Grace](compendium/feats/shield-of-grace.md), [Shield Of Reckoning](compendium/feats/shield-of-reckoning.md)
+[Shield Of Grace](archive/srd/pf2e/compendium/feats/shield-of-grace.md), [Shield Of Reckoning](archive/srd/pf2e/compendium/feats/shield-of-reckoning.md)
 
 ## Summary
 

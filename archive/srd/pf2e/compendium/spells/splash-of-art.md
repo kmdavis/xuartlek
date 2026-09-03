@@ -12,10 +12,10 @@ tags:
 aliases: ["Splash Of Art"]
 ---
 # Splash Of Art *Focus 1*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Domains** [creation](compendium/setting/domains.md#Creation)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Area**: 5-foot burst
 - **Saving Throw**: Will
@@ -25,10 +25,10 @@ A deluge of colorful illusory paint, tools, or other symbols of art and artisans
 
 | `1d4` | Color | Failure | Critical Failure |
 |-------|-------|---------|------------------|
-| 1 | White | [Dazzled](rules/conditions.md#Dazzled) 1 round | [Dazzled](rules/conditions.md#Dazzled) 1 minute |
-| 2 | Red | [Enfeebled](rules/conditions.md#Enfeebled) for 1 round | [Enfeebled](rules/conditions.md#Enfeebled) for 1 round |
-| 3 | Yellow | [Frightened](rules/conditions.md#Frightened) | [Frightened](rules/conditions.md#Frightened) |
-| 4 | Blue | [Clumsy](rules/conditions.md#Clumsy) for 1 round | [Clumsy](rules/conditions.md#Clumsy) for 1 round |
+| 1 | White | [Dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) 1 round | [Dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) 1 minute |
+| 2 | Red | [Enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 round | [Enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 round |
+| 3 | Yellow | [Frightened](archive/srd/pf2e/rules/conditions.md#Frightened) | [Frightened](archive/srd/pf2e/rules/conditions.md#Frightened) |
+| 4 | Blue | [Clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) for 1 round | [Clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) for 1 round |
 
 
 *Source: Core Rulebook p. 397*

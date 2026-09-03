@@ -11,12 +11,12 @@ tags:
 aliases: ["Spectacles of Piercing Sight"]
 ---
 # Spectacles of Piercing Sight *Item 18*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 24000 gp
 - **Bulk** —; **Usage** worn eyepiece
 
-With lenses set in a silver frame, spectacles of piercing sight grant you a +3 item bonus to visual [Perception](compendium/skills.md#Perception) checks.
+With lenses set in a silver frame, spectacles of piercing sight grant you a +3 item bonus to visual [Perception](skills.md#Perception) checks.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

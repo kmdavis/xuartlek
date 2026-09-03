@@ -8,18 +8,18 @@ tags:
 aliases: ["Brown Mold"]
 ---
 # Brown Mold *Hazard 2*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](fungus-b1.md "Fungus Creature Type Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 21 trained  
 
 This unassuming fungus leeches heat out of the air.
 
-- **Disable** DC 18 [Survival](compendium/skills.md#Survival) (trained) to safely remove the mold  
+- **Disable** DC 18 [Survival](skills.md#Survival) (trained) to safely remove the mold  
 
 - **AC** 18, **Fort** +11, **Abilities** +0
 - **HP** 30 (BT 15)
-- **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
+- **Immunities** critical hits; [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
 - **Weaknesses** cold 10
 
 ```ad-embed-ability

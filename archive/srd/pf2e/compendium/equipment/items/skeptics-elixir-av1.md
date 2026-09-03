@@ -11,14 +11,14 @@ tags:
 aliases: ["Skeptic's Elixir"]
 ---
 # Skeptic's Elixir *Item 1+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This elixir sharpens your mind and allows you to see through lies, falsehoods, and magical trickery.
 
-You gain an item bonus to [Perception](compendium/skills.md#Perception) checks and [Perception](compendium/skills.md#Perception) DCs to notice falsehoods, whether they're spoken lies or written deceit. You gain this same item bonus to Will saves.
+You gain an item bonus to [Perception](skills.md#Perception) checks and [Perception](skills.md#Perception) DCs to notice falsehoods, whether they're spoken lies or written deceit. You gain this same item bonus to Will saves.
 
 ---
 

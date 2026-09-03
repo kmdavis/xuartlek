@@ -8,15 +8,15 @@ tags:
 aliases: ["Natural Medicine"]
 ---
 # Natural Medicine  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Nature](compendium/skills.md#Nature)
+- **Prerequisites**: trained in [Nature](skills.md#Nature)
 
-You can apply natural cures to heal your allies. You can use [Nature](compendium/skills.md#Nature) instead of [Medicine](compendium/skills.md#Medicine) to [Treat Wounds](rules/actions/treat-wounds.md). If you're in the wilderness, you might have easier access to fresh ingredients, allowing you to gain a +2 circumstance bonus to your check to [Treat Wounds](rules/actions/treat-wounds.md) using [Nature](compendium/skills.md#Nature), subject to the GM's determination.
+You can apply natural cures to heal your allies. You can use [Nature](skills.md#Nature) instead of [Medicine](skills.md#Medicine) to [Treat Wounds](archive/srd/pf2e/rules/actions/treat-wounds.md). If you're in the wilderness, you might have easier access to fresh ingredients, allowing you to gain a +2 circumstance bonus to your check to [Treat Wounds](archive/srd/pf2e/rules/actions/treat-wounds.md) using [Nature](skills.md#Nature), subject to the GM's determination.
 
 ## Natural Medicine leads to...
 
-[Herbalist Dedication](compendium/feats/herbalist-dedication-apg.md), [Endemic Herbs](compendium/feats/endemic-herbs-apg.md), [Expert Herbalism](compendium/feats/expert-herbalism-apg.md), [Fresh Ingredients](compendium/feats/fresh-ingredients-apg.md), [Poultice Preparation](compendium/feats/poultice-preparation-apg.md), [Gravelands Herbalist](compendium/feats/gravelands-herbalist-lokl.md)
+[Herbalist Dedication](herbalist-dedication-apg.md), [Endemic Herbs](endemic-herbs-apg.md), [Expert Herbalism](expert-herbalism-apg.md), [Fresh Ingredients](fresh-ingredients-apg.md), [Poultice Preparation](poultice-preparation-apg.md), [Gravelands Herbalist](gravelands-herbalist-lokl.md)
 
 ## Summary
 

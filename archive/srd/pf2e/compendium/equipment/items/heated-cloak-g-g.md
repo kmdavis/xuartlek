@@ -8,7 +8,7 @@ tags:
 aliases: ["Heated Cloak"]
 ---
 # Heated Cloak *Item 5*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Bulk** L; **Usage** worn cloak

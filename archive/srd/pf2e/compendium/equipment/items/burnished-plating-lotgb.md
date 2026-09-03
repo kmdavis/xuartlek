@@ -9,13 +9,13 @@ tags:
 aliases: ["Burnished Plating"]
 ---
 # Burnished Plating *Item 1*  
-[adjustment](rules/traits/adjustment-lotgb.md "Adjustment  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[adjustment](adjustment-lotgb.md "Adjustment  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** L; **Usage** applied to metal armor
 - **Category** Armor
 
-These highly polished metal plates can be added to any armor. While wearing armor with burnished plating, you gain the Sunshine! reaction. However, you take a –4 circumstance penalty to [Stealth](compendium/skills.md#Stealth) checks except in darkness, and your armor's Strength entry increases its value by 2, requiring you to have a higher Strength score to overcome the armor's penalties. Even if you meet your armor's new Strength entry, you still take the penalty to [Stealth](compendium/skills.md#Stealth) checks. When you are critically hit by an attack that deals bludgeoning damage, burnished plating stops working until someone spends 10 minutes repairing and polishing it; this doesn't require a [Crafting](compendium/skills.md#Crafting) check.
+These highly polished metal plates can be added to any armor. While wearing armor with burnished plating, you gain the Sunshine! reaction. However, you take a –4 circumstance penalty to [Stealth](skills.md#Stealth) checks except in darkness, and your armor's Strength entry increases its value by 2, requiring you to have a higher Strength score to overcome the armor's penalties. Even if you meet your armor's new Strength entry, you still take the penalty to [Stealth](skills.md#Stealth) checks. When you are critically hit by an attack that deals bludgeoning damage, burnished plating stops working until someone spends 10 minutes repairing and polishing it; this doesn't require a [Crafting](skills.md#Crafting) check.
 
 ```ad-embed-ability
 title: **Sunshine!** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

@@ -7,9 +7,9 @@ tags:
 aliases: ["Fighter Resiliency"]
 ---
 # Fighter Resiliency  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Fighter Dedication](compendium/feats/fighter-dedication.md), class granting no more Hit Points per level than 8 + your Constitution modifier
+- **Prerequisites**: [Fighter Dedication](archive/srd/pf2e/compendium/feats/fighter-dedication.md), class granting no more Hit Points per level than 8 + your Constitution modifier
 
 You gain 3 additional Hit Points for each fighter archetype class feat you have. As you continue selecting fighter archetype class feats, you continue to gain additional Hit Points in this way.
 

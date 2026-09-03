@@ -6,14 +6,14 @@ tags:
 - trait/monk
 aliases: ["Ki Center"]
 ---
-# Ki Center  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 18*  
-[monk](rules/traits/monk.md "Monk Class Trait")  
+# Ki Center  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 18*  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
-- **Prerequisites**: ki spells, [Master of Many Styles](compendium/feats/master-of-many-styles.md)
+- **Prerequisites**: ki spells, [Master of Many Styles](archive/srd/pf2e/compendium/feats/master-of-many-styles.md)
 - **Frequency**: once per minute
 - **Activity** Free Action
 
-You center yourself with the universe and draw upon its vast power. You cast a single action ki spell with the [stance](rules/traits/stance.md "Stance Combat Trait") trait, without spending a Focus Point.
+You center yourself with the universe and draw upon its vast power. You cast a single action ki spell with the [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait") trait, without spending a Focus Point.
 
 *Source: Advanced Player's Guide p. 131*  
 %% #compendium/src/pf2e/apg #trait/monk %%

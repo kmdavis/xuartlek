@@ -15,4 +15,4 @@ You don't understand folks who claim that magical talent is some sort of burden 
 
 Choose two ability boosts. One must be to Intelligence or Dexterity, and one is a free ability boost.
 
-You're trained in [Arcana](compendium/skills.md#Arcana) and [Underworld Lore](compendium/skills.md#Lore). You gain the [Trick Magic Item](compendium/feats/trick-magic-item.md) skill feat.
+You're trained in [Arcana](skills.md#Arcana) and [Underworld Lore](skills.md#Lore). You gain the [Trick Magic Item](archive/srd/pf2e/compendium/feats/trick-magic-item.md) skill feat.

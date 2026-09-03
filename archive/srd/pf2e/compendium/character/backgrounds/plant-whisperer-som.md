@@ -15,4 +15,4 @@ You've always had a green thumb, allowing you to care for plants that others fou
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in [Nature](compendium/skills.md#Nature) and [Plant Lore](compendium/skills.md#Lore). You gain the [Natural Medicine](compendium/feats/natural-medicine.md) skill feat.
+You're trained in [Nature](skills.md#Nature) and [Plant Lore](skills.md#Lore). You gain the [Natural Medicine](archive/srd/pf2e/compendium/feats/natural-medicine.md) skill feat.

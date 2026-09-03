@@ -11,7 +11,7 @@ tags:
 aliases: ["Bo Staff"]
 ---
 # Bo Staff *Item 0*  
-[monk](rules/traits/monk.md "Monk Class Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [parry](archive/srd/pf2e/rules/traits/parry.md "Parry Weapon Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 2 sp
 - **Bulk** 2

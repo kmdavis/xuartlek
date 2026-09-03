@@ -10,13 +10,13 @@ tags:
 aliases: ["Gyroscopic Stabilizer"]
 ---
 # Gyroscopic Stabilizer *Item 4*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 115 gp
 - **Bulk** L; **Usage** attached <to a two-handed firearm>
 - **Category** Stabilizers
 
-A gyroscopic stabilizer appears as a gold disk suspended within three rotating golden bands inside a gilded case, itself attached to a set of clamps. These clamps allow you to attach the gyroscopic stabilizer to any one-handed firearm as an [Interact](rules/actions/interact.md) action.
+A gyroscopic stabilizer appears as a gold disk suspended within three rotating golden bands inside a gilded case, itself attached to a set of clamps. These clamps allow you to attach the gyroscopic stabilizer to any one-handed firearm as an [Interact](archive/srd/pf2e/rules/actions/interact.md) action.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

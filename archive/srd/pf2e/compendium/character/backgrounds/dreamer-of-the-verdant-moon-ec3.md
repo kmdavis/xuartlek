@@ -15,4 +15,4 @@ You spent your early days in the aftermath of one of the great ravenings. You su
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You gain the [Ravening's Desperation](compendium/feats/ravenings-desperation-ec3.md) skill feat (below), and you're trained in the [Survival](compendium/skills.md#Survival) and [Zevgavizeb Lore](compendium/skills.md#Lore) skills.
+You gain the [Ravening's Desperation](ravenings-desperation-ec3.md) skill feat (below), and you're trained in the [Survival](skills.md#Survival) and [Zevgavizeb Lore](skills.md#Lore) skills.

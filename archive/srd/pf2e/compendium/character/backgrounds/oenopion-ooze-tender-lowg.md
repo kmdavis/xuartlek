@@ -15,4 +15,4 @@ Your apprenticeship in one of Oenopion's unorthodox arcane and alchemical academ
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Ooze Lore](compendium/skills.md#Lore) skill. You gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat.
+You're trained in the [Crafting](skills.md#Crafting) skill and the [Ooze Lore](skills.md#Lore) skill. You gain the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) skill feat.

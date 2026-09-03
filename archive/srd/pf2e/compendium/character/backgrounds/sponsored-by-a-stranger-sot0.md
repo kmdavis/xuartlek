@@ -16,6 +16,6 @@ You remember the day the stranger approached you to make several peculiar inquir
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of the [Occultism](compendium/skills.md#Occultism) or [Nature](compendium/skills.md#Nature) skill. You gain your choice of the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) or [Quick Identification](compendium/feats/quick-identification.md) skill feat. You're also trained in [Insect Lore](compendium/skills.md#Lore).
+You're trained in your choice of the [Occultism](skills.md#Occultism) or [Nature](skills.md#Nature) skill. You gain your choice of the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) or [Quick Identification](archive/srd/pf2e/compendium/feats/quick-identification.md) skill feat. You're also trained in [Insect Lore](skills.md#Lore).
 
 Your recommended primary branch is the Rain-Scribes.

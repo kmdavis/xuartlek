@@ -11,11 +11,11 @@ tags:
 aliases: ["Cayden's Tankard"]
 ---
 # Cayden's Tankard *Item 25*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
-This ordinary-looking silver tankard functions as a +4 major striking hopeful GB returning light hammer when wielded as a weapon. Imbued with [Cayden Cailean](compendium/setting/deities/cayden-cailean.md)'s courage, you are immune to [fear](rules/traits/fear.md "Fear Effect Trait") effects. Any liquid poured into the tankard transforms into a strong, alcoholic ambrosia that remains contained safely within until you drink it. Drinking the ambrosia Activates the tankard, with one of the following effects. If you aren't the one blessed to borrow the tankard, you are [drained](rules/conditions.md#Drained) and [enfeebled](rules/conditions.md#Enfeebled) while holding it, and its magic doesn't function for you.
+This ordinary-looking silver tankard functions as a +4 major striking hopeful GB returning light hammer when wielded as a weapon. Imbued with [Cayden Cailean](cayden-cailean.md)'s courage, you are immune to [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effects. Any liquid poured into the tankard transforms into a strong, alcoholic ambrosia that remains contained safely within until you drink it. Drinking the ambrosia Activates the tankard, with one of the following effects. If you aren't the one blessed to borrow the tankard, you are [drained](archive/srd/pf2e/rules/conditions.md#Drained) and [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) while holding it, and its magic doesn't function for you.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") [Interact](rules/actions/interact.md)

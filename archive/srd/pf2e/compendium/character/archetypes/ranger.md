@@ -14,7 +14,7 @@ You have studied hunting, tracking, and wilderness survival, adding a ranger's t
 
 The ranger archetype has access to excellent options to improve a character's monster knowledge and survival skills, but ranger is of particular interest to any character wanting to become a dedicated archer.
 
-- Alchemist rangers can add snares to their daily free items, benefiting from a strong [Crafting](compendium/skills.md#Crafting) modifier, and their Intelligence makes them exceptional with monster knowledge feats. The ranger archetype is also useful to bombers who want to alternate with bow attacks.
+- Alchemist rangers can add snares to their daily free items, benefiting from a strong [Crafting](skills.md#Crafting) modifier, and their Intelligence makes them exceptional with monster knowledge feats. The ranger archetype is also useful to bombers who want to alternate with bow attacks.
 - Champion rangers are particularly fitting for deities who connect thematically to nature or have a bow as their favored weapon. (Or, in the case of Erastil, both!)
 - Fighter rangers are among the most fearsome archers, combining the best archery feats from both classes to create a fighting style unique to each fighter ranger.
 - Rogue rangers make excellent snipers or ranged skirmishers, and snares let them be on the other side of traps for a change.

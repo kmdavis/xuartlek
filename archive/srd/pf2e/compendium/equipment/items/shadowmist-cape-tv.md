@@ -11,12 +11,12 @@ tags:
 aliases: ["Shadowmist Cape"]
 ---
 # Shadowmist Cape *Item 19*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 40000 gp
 - **Bulk** L; **Usage** worn cape
 
-This black cape flows more like a vaporous liquid than fabric. The cape grants you a +3 item bonus to [Stealth](compendium/skills.md#Stealth) checks. When you invest the cape, you either increase your Dexterity score by 2 or increase it to 18, whichever is higher.
+This black cape flows more like a vaporous liquid than fabric. The cape grants you a +3 item bonus to [Stealth](skills.md#Stealth) checks. When you invest the cape, you either increase your Dexterity score by 2 or increase it to 18, whichever is higher.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") [Interact](rules/actions/interact.md)

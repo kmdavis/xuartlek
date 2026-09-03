@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of Necromancy"]
 ---
 # Staff of Necromancy *Item 6+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
@@ -32,23 +32,23 @@ You expend a number of charges from the staff to cast a spell from its list.
 
 - **Price**: 230 gp
 
-- **Cantrip** [chill touch](compendium/spells/chill-touch.md)
-- **1st** [grim tendrils](compendium/spells/grim-tendrils.md), [ray of enfeeblement](compendium/spells/ray-of-enfeeblement.md)
-- **2nd** [deafness](compendium/spells/deafness.md), [gentle repose](compendium/spells/gentle-repose.md)
+- **Cantrip** [chill touch](chill-touch.md)
+- **1st** [grim tendrils](archive/srd/pf2e/compendium/spells/grim-tendrils.md), [ray of enfeeblement](ray-of-enfeeblement.md)
+- **2nd** [deafness](archive/srd/pf2e/compendium/spells/deafness.md), [gentle repose](gentle-repose.md)
 
 #### greater staff of necromancy *Item 10*
 
 - **Price**: 900 gp
 
-- **3rd** [blindness](compendium/spells/blindness.md), [vampiric touch](compendium/spells/vampiric-touch.md)
-- **4th** [grim tendrils](compendium/spells/grim-tendrils.md), [vampiric touch](compendium/spells/vampiric-touch.md)
+- **3rd** [blindness](archive/srd/pf2e/compendium/spells/blindness.md), [vampiric touch](vampiric-touch.md)
+- **4th** [grim tendrils](archive/srd/pf2e/compendium/spells/grim-tendrils.md), [vampiric touch](vampiric-touch.md)
 
 #### major staff of necromancy *Item 14*
 
 - **Price**: 4000 gp
 
-- **5th** [cloudkill](compendium/spells/cloudkill.md), [gentle repose](compendium/spells/gentle-repose.md)
-- **6th** [grim tendrils](compendium/spells/grim-tendrils.md), [vampiric exsanguination](compendium/spells/vampiric-exsanguination.md)
+- **5th** [cloudkill](cloudkill.md), [gentle repose](gentle-repose.md)
+- **6th** [grim tendrils](archive/srd/pf2e/compendium/spells/grim-tendrils.md), [vampiric exsanguination](archive/srd/pf2e/compendium/spells/vampiric-exsanguination.md)
 
 ---
 *Source: Core Rulebook p. 594*

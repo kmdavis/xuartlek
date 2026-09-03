@@ -39,4 +39,4 @@ aliases: ["Alkenstar Services"]
 </tr>
 </table>
 
-* Spellcasting services in Alkenstar usually cost twice the amount listed on [Table 6–15: Spellcasting Services](rules/tables/spellcasting-services.md).
+* Spellcasting services in Alkenstar usually cost twice the amount listed on [Table 6–15: Spellcasting Services](spellcasting-services.md).

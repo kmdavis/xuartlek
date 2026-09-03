@@ -11,9 +11,9 @@ tags:
 aliases: ["Tree Stride"]
 ---
 # Tree Stride *Spell 5*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
 - 
 

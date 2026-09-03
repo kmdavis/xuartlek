@@ -7,9 +7,9 @@ tags:
 aliases: ["Heir Of The Saoc"]
 ---
 # Heir Of The Saoc  *Feat 9*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Saoc Astrology](compendium/feats/saoc-astrology-locg.md)
+- **Prerequisites**: [Saoc Astrology](saoc-astrology-locg.md)
 
 In the past, you would have been a proud initiate of the Saoc Brethren. Today, you carry on their legacy. When you use Saoc Astrology, roll `1d4` instead; on a 1, you take a –1 penalty to the skill check. On any other result, you gain a circumstance bonus of that value (for instance, a +3 circumstance bonus on a 3).
 

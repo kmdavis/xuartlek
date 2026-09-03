@@ -10,11 +10,11 @@ tags:
 aliases: ["Endless Grimoire"]
 ---
 # Endless Grimoire *Item 6+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L
 
-When opened, this grimoire has unlimited pages that, oddly, seem almost eager to transcribe spells. Unlike most grimoires, it has no limits to its number of spells. The grimoire's eagerness to contain your spells grants you a +1 item bonus to checks to [Learn a Spell](rules/actions/learn-a-spell.md) if you do so by transcribing the spell into the grimoire. If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate level, the grimoire's nature leaks into your mind, allowing you to prepare an additional 1st-level spell.
+When opened, this grimoire has unlimited pages that, oddly, seem almost eager to transcribe spells. Unlike most grimoires, it has no limits to its number of spells. The grimoire's eagerness to contain your spells grants you a +1 item bonus to checks to [Learn a Spell](archive/srd/pf2e/rules/actions/learn-a-spell.md) if you do so by transcribing the spell into the grimoire. If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate level, the grimoire's nature leaks into your mind, allowing you to prepare an additional 1st-level spell.
 
 ---
 

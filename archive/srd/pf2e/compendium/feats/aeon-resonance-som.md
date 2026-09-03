@@ -7,9 +7,9 @@ tags:
 aliases: ["Aeon Resonance"]
 ---
 # Aeon Resonance  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Embed Aeon Stone](compendium/feats/embed-aeon-stone-som.md)
+- **Prerequisites**: [Embed Aeon Stone](embed-aeon-stone-som.md)
 
 You gain the resonant power of one embedded aeon stone as if it were placed in a wayfinder. While you can embed multiple aeon stones in your flesh, you can gain the resonance power from only one embedded stone at a time, selected each day when you make your daily preparations.
 

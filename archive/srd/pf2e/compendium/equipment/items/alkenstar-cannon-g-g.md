@@ -9,7 +9,7 @@ tags:
 aliases: ["Alkenstar Cannon"]
 ---
 # Alkenstar Cannon *Item 15*  
-[huge](rules/traits/huge-b1.md "Huge Size Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[huge](huge-b1.md "Huge Size Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 12000 gp
 - **Usage** mounted (black powder)

@@ -7,12 +7,12 @@ tags:
 - trait/press
 aliases: ["Exacting Strike"]
 ---
-# Exacting Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
+# Exacting Strike  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  [press](archive/srd/pf2e/rules/traits/press.md "Press Combat Trait")  
 
 - **Activity** Single Action
 
-You make a controlled attack, fully accounting for your momentum. Make a [Strike](rules/actions/strike.md). The [Strike](rules/actions/strike.md) gains the following failure effect.
+You make a controlled attack, fully accounting for your momentum. Make a [Strike](archive/srd/pf2e/rules/actions/strike.md). The [Strike](archive/srd/pf2e/rules/actions/strike.md) gains the following failure effect.
 
 > [!success-degree] 
 > - **Failure** This attack does not count toward your multiple attack penalty.

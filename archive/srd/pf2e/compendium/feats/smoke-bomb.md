@@ -7,14 +7,14 @@ tags:
 - trait/alchemist
 aliases: ["Smoke Bomb"]
 ---
-# Smoke Bomb  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 2*  
-[additive <1>](rules/traits/additive-1.md "Additive Feat Trait")  [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
+# Smoke Bomb  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 2*  
+[additive <1>](rules/traits/additive-1.md "Additive Feat Trait")  [alchemist](archive/srd/pf2e/rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Frequency**: once per round
-- **Trigger** You use [Quick Alchemy](rules/actions/quick-alchemy.md) to craft an alchemical bomb with a level at least 1 lower than your advanced alchemy level.
+- **Trigger** You use [Quick Alchemy](archive/srd/pf2e/rules/actions/quick-alchemy.md) to craft an alchemical bomb with a level at least 1 lower than your advanced alchemy level.
 - **Activity** Free Action
 
-You cause the bomb to create a cloud of thick smoke, in addition to its normal effects. When thrown, the bomb creates a cloud of smoke in a 10-foot-radius burst. You choose which corner of the target's space (or the space in which the bomb lands) the cloud is centered on. Creatures within that area have the [concealed](rules/conditions.md#Concealed) condition, and all other creatures are [concealed](rules/conditions.md#Concealed) to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
+You cause the bomb to create a cloud of thick smoke, in addition to its normal effects. When thrown, the bomb creates a cloud of smoke in a 10-foot-radius burst. You choose which corner of the target's space (or the space in which the bomb lands) the cloud is centered on. Creatures within that area have the [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) condition, and all other creatures are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
 
 *Source: Core Rulebook p. 77*  
 %% #compendium/src/pf2e/crb #trait/additive-1 #trait/alchemist %%

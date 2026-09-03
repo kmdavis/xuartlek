@@ -7,11 +7,11 @@ tags:
 aliases: ["Litany Against Wrath"]
 ---
 # Litany Against Wrath  *Feat 6*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: devotion spells, tenets of good
 
-You excoriate a foe for its wrath against goodly creatures. You can cast the [litany against wrath](compendium/spells/litany-against-wrath.md) devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You excoriate a foe for its wrath against goodly creatures. You can cast the [litany against wrath](archive/srd/pf2e/compendium/spells/litany-against-wrath.md) devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Core Rulebook p. 112*  
 %% #compendium/src/pf2e/crb #trait/champion %%

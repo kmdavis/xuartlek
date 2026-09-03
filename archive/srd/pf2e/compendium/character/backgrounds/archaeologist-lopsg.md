@@ -15,4 +15,4 @@ You've excavated enough sites to know that ancient civilizations aren't lost; th
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Architecture Lore](compendium/skills.md#Lore) skill. You gain the [Additional Lore](compendium/feats/additional-lore.md) skill feat related to an ancient culture or the history of a culture you've studied (such as [Azlanti Lore](compendium/skills.md#Lore) or [Osirian History Lore](compendium/skills.md#Lore)).
+You're trained in the [Society](skills.md#Society) skill and the [Architecture Lore](skills.md#Lore) skill. You gain the [Additional Lore](archive/srd/pf2e/compendium/feats/additional-lore.md) skill feat related to an ancient culture or the history of a culture you've studied (such as [Azlanti Lore](skills.md#Lore) or [Osirian History Lore](skills.md#Lore)).

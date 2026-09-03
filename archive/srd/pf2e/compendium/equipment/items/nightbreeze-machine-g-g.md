@@ -10,12 +10,12 @@ tags:
 aliases: ["Nightbreeze Machine"]
 ---
 # Nightbreeze Machine *Item 5*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [clockwork](clockwork-g-g.md "Clockwork  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 125 gp
 - **Bulk** 4
 
-The nightbreeze machine can turn a scorching hot room into a comfortable one with just the pull of a lever. Its outer shell is a brass cube half as tall as the average human that houses a series of flat metal "blades" in a circular arrangement. When placed on a flat surface, a creature within reach can [Interact](rules/actions/interact.md) to flip the lever, turning the machine on. When the machine is active, the blades begin to spin rapidly, setting the air in the room into motion, which cools off the room's inhabitants. A front-mounted metal grate prevents anyone from coming into accidental contact with the spinning blades without impeding airflow.
+The nightbreeze machine can turn a scorching hot room into a comfortable one with just the pull of a lever. Its outer shell is a brass cube half as tall as the average human that houses a series of flat metal "blades" in a circular arrangement. When placed on a flat surface, a creature within reach can [Interact](archive/srd/pf2e/rules/actions/interact.md) to flip the lever, turning the machine on. When the machine is active, the blades begin to spin rapidly, setting the air in the room into motion, which cools off the room's inhabitants. A front-mounted metal grate prevents anyone from coming into accidental contact with the spinning blades without impeding airflow.
 
 The nightbreeze machine was recently commissioned by Malduoni, Keeper of the First Law, leader of the nation of Rahadoum.
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Vine Of Roses"]
 ---
 # Vine Of Roses *Item 9*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [good](good.md "Good Alignment Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 600 gp
 - **Bulk** 1; **Usage** held in 2 hands

@@ -9,7 +9,7 @@ tags:
 aliases: ["Firedrake"]
 ---
 # Firedrake *Item 8*  
-[huge](rules/traits/huge-b1.md "Huge Size Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[huge](huge-b1.md "Huge Size Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1000 gp
 - **Usage** mounted (black powder)

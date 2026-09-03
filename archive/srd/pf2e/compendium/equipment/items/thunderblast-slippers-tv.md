@@ -11,11 +11,11 @@ tags:
 aliases: ["Thunderblast Slippers"]
 ---
 # Thunderblast Slippers *Item 9+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Bulk** L; **Usage** worn footwear
 
-Unassuming in appearance, these slippers indicate their nature only with a signature strip of yellow stitching. You gain a +2 item bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks.
+Unassuming in appearance, these slippers indicate their nature only with a signature strip of yellow stitching. You gain a +2 item bonus to [Acrobatics](skills.md#Acrobatics) checks.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, envision, [Interact](rules/actions/interact.md)
@@ -37,7 +37,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Price**: 6500 gp
 
-The distance you can [Stride](rules/actions/stride.md) increases to 120 feet, the damage is `3d6` of each type, and the Fortitude DC is 34.
+The distance you can [Stride](archive/srd/pf2e/rules/actions/stride.md) increases to 120 feet, the damage is `3d6` of each type, and the Fortitude DC is 34.
 
 Headwear
 

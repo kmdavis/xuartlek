@@ -15,6 +15,6 @@ Piles of legal manuals, stern teachers, and experience in the courtroom have ins
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Legal Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Legal Lore](skills.md#Lore) skill.
 
-You gain the [Group Impression](compendium/feats/group-impression.md) skill feat.
+You gain the [Group Impression](archive/srd/pf2e/compendium/feats/group-impression.md) skill feat.

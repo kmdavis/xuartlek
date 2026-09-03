@@ -17,4 +17,4 @@ You spent your youth in the wilderness, living close to or perhaps raised by ani
 
 Choose one ability boost. It must be Strength, Dexterity, or Constitution.
 
-You are trained in [Nature](compendium/skills.md#Nature) and [Survival](compendium/skills.md#Survival). You gain [low-light vision](rules/abilities/low-light-vision.md) (or [darkvision](rules/abilities/darkvision.md) if you already had [low-light vision](rules/abilities/low-light-vision.md)), imprecise [scent](rules/abilities/scent.md) with a range of 30 feet, and the [Forager](compendium/feats/forager.md) skill feat.
+You are trained in [Nature](skills.md#Nature) and [Survival](skills.md#Survival). You gain [low-light vision](archive/srd/pf2e/rules/abilities/low-light-vision.md) (or [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) if you already had [low-light vision](archive/srd/pf2e/rules/abilities/low-light-vision.md)), imprecise [scent](archive/srd/pf2e/rules/abilities/scent.md) with a range of 30 feet, and the [Forager](archive/srd/pf2e/compendium/feats/forager.md) skill feat.

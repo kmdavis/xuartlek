@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Escape Timeline"]
 ---
-# Escape Timeline  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Escape Timeline  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
+- **Prerequisites**: [Chronoskimmer Dedication](chronoskimmer-dedication-da.md)
 - **Frequency**: once per day
 - **Trigger** Your turn begins.
 - **Activity** Free Action

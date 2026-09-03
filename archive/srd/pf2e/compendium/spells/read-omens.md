@@ -10,9 +10,9 @@ tags:
 aliases: ["Read Omens"]
 ---
 # Read Omens *Spell 4*   
-[divination](rules/traits/divination.md "Divination School Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [prediction](archive/srd/pf2e/rules/traits/prediction.md "Prediction Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - 
 

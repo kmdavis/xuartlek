@@ -7,11 +7,11 @@ tags:
 aliases: ["Nagaji Spell Mysteries"]
 ---
 # Nagaji Spell Mysteries  *Feat 5*  
-[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
+[nagaji](nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 - **Prerequisites**: at least one innate spell from a nagaji heritage or ancestry feat
 
-You've learned more naga magic. During your daily preparations, choose [charm](compendium/spells/charm.md), [fleet step](compendium/spells/fleet-step.md), or [heal](compendium/spells/heal.md). You can cast the chosen spell as a 1st-level occult innate spell once that day.
+You've learned more naga magic. During your daily preparations, choose [charm](archive/srd/pf2e/compendium/spells/charm.md), [fleet step](archive/srd/pf2e/compendium/spells/fleet-step.md), or [heal](archive/srd/pf2e/compendium/spells/heal.md). You can cast the chosen spell as a 1st-level occult innate spell once that day.
 
 *Source: Lost Omens: Impossible Lands p. 49*  
 %% #compendium/src/pf2e/loil #trait/nagaji %%

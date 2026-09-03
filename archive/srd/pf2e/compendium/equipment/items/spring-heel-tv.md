@@ -10,7 +10,7 @@ tags:
 aliases: ["Spring Heel"]
 ---
 # Spring Heel *Item 5*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 150 gp
 - **Bulk** 1; **Usage** worn

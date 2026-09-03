@@ -9,20 +9,20 @@ tags:
 aliases: ["Aldori Duelist Dedication"]
 ---
 # Aldori Duelist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Access**: You are from the [Broken](rules/conditions.md#Broken) Lands region.
-- **Prerequisites**: trained in [Aldori dueling swords](compendium/equipment/items/aldori-dueling-sword-lowg.md)
+- **Access**: You are from the [Broken](archive/srd/pf2e/rules/conditions.md#Broken) Lands region.
+- **Prerequisites**: trained in [Aldori dueling swords](aldori-dueling-sword-lowg.md)
 
-Your Aldori duelist training teaches you martial techniques and increases your dedication to the Aldori dueling sword. You become trained in your choice of [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics) and in [Dueling Lore](compendium/skills.md#Lore); if you were already trained, you become an expert instead.
+Your Aldori duelist training teaches you martial techniques and increases your dedication to the Aldori dueling sword. You become trained in your choice of [Acrobatics](skills.md#Acrobatics) or [Athletics](skills.md#Athletics) and in [Dueling Lore](skills.md#Lore); if you were already trained, you become an expert instead.
 
-Whenever your proficiency rank in any weapon increases to expert or beyond, you also gain that new proficiency rank with [Aldori dueling swords](compendium/equipment/items/aldori-dueling-sword-lowg.md). You gain access to [Aldori dueling swords](compendium/equipment/items/aldori-dueling-sword-lowg.md).
+Whenever your proficiency rank in any weapon increases to expert or beyond, you also gain that new proficiency rank with [Aldori dueling swords](aldori-dueling-sword-lowg.md). You gain access to [Aldori dueling swords](aldori-dueling-sword-lowg.md).
 
 **Special.** You cannot select another dedication feat until you have gained two other feats from the Aldori duelist archetype.
 
 ## Aldori Duelist Dedication leads to...
 
-[Aldori Parry](compendium/feats/aldori-parry-lowg.md), [Aldori Riposte](compendium/feats/aldori-riposte-lowg.md), [Duelist's Edge](compendium/feats/duelists-edge-lowg.md), [Saving Slash](compendium/feats/saving-slash-lowg.md), [Unnerving Prowess](compendium/feats/unnerving-prowess-lowg.md)
+[Aldori Parry](aldori-parry-lowg.md), [Aldori Riposte](aldori-riposte-lowg.md), [Duelist's Edge](duelists-edge-lowg.md), [Saving Slash](saving-slash-lowg.md), [Unnerving Prowess](unnerving-prowess-lowg.md)
 
 ## Summary
 

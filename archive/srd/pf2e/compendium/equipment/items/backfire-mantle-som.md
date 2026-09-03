@@ -10,11 +10,11 @@ tags:
 aliases: ["Backfire Mantle"]
 ---
 # Backfire Mantle *Item 3+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** 1; **Usage** worn cloak
 
-This vivid red cloak of sturdy fabric is favored by aggressive battle alchemists and mages, as well as those cautious warriors who need to advance into the fray ahead of the blast-happy back line. The mantle interposes to protect you from your own and allies' magic, granting you a circumstance bonus to Reflex saves against your own spells, as well as those of your allies. You also gain resistance to [splash](rules/traits/splash.md "Splash Weapon Trait") damage from your own alchemical items and those of your allies.
+This vivid red cloak of sturdy fabric is favored by aggressive battle alchemists and mages, as well as those cautious warriors who need to advance into the fray ahead of the blast-happy back line. The mantle interposes to protect you from your own and allies' magic, granting you a circumstance bonus to Reflex saves against your own spells, as well as those of your allies. You also gain resistance to [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait") damage from your own alchemical items and those of your allies.
 
 ---
 

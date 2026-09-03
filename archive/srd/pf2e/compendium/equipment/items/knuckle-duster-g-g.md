@@ -10,7 +10,7 @@ tags:
 aliases: ["Knuckle Duster"]
 ---
 # Knuckle Duster *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [free-hand](rules/traits/free-hand.md "Free-Hand Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [free-hand](archive/srd/pf2e/rules/traits/free-hand.md "Free-Hand Weapon Trait")  [monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
 - **Price** 3 sp
 - **Bulk** L

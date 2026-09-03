@@ -7,9 +7,9 @@ tags:
 aliases: ["Adaptive Mask Familiar"]
 ---
 # Adaptive Mask Familiar  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Mask Familiar](compendium/feats/mask-familiar-locg.md)
+- **Prerequisites**: [Mask Familiar](mask-familiar-locg.md)
 
 Your mask familiar adapts quickly to material form, allowing it to gain more familiar and master abilities. You select four master and familiar abilities each day instead of two.
 

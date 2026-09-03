@@ -7,11 +7,11 @@ tags:
 aliases: ["Moderate Enhance Venom"]
 ---
 # Moderate Enhance Venom  *Feat 9*  
-[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
+[vishkanya](vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Lesser Enhance Venom
 
-You upgrade the vishkanyan venom you can apply with [Envenom](rules/actions/envenom-loil.md) to moderate vishkanyan venom. [Envenom](rules/actions/envenom-loil.md)'s frequency becomes once per 10 minutes.
+You upgrade the vishkanyan venom you can apply with [Envenom](envenom-loil.md) to moderate vishkanyan venom. [Envenom](envenom-loil.md)'s frequency becomes once per 10 minutes.
 
 ```ad-inline-affliction
 title: Moderate Vishkanyan Venom

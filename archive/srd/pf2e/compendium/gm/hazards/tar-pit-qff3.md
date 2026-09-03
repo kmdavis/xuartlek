@@ -8,14 +8,14 @@ tags:
 aliases: ["Tar Pit"]
 ---
 # Tar Pit *Hazard 9*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 30 expert  
 
 A 15-foot-wide patch of tar covered with dirt and leaves attempts to capture creatures that step onto it.
 
-- **Disable** [Survival](compendium/skills.md#Survival) DC 25 (expert) to disturb the surface and reveal the tar pit  
+- **Disable** [Survival](skills.md#Survival) DC 25 (expert) to disturb the surface and reveal the tar pit  
 
 ```ad-embed-ability
 title: **Capture** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
@@ -33,6 +33,6 @@ A creature in the tar pit can attempt a DC 33 [Athletics](compendium/skills.md#A
 ```
 ^routine
 
-**Reset** Though the hazard still captures anyone who touches it, the surface doesn't become [hidden](rules/conditions.md#Hidden) again until it settles, which takes 24 hours.  
+**Reset** Though the hazard still captures anyone who touches it, the surface doesn't become [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) again until it settles, which takes 24 hours.  
 
 *Source: Quest for the Frozen Flame #3: Burning Tundra p. 34*

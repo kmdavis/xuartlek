@@ -10,9 +10,9 @@ tags:
 aliases: ["Rat-catcher Trident"]
 ---
 # Rat-catcher Trident *Item 11*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Access** follower of [Hanspur](compendium/setting/deities/hanspur-logm.md)
+- **Access** follower of [Hanspur](hanspur-logm.md)
 - **Price** 1200 gp
 - **Bulk** 1; **Usage** held in 1 hand
 

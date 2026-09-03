@@ -11,7 +11,7 @@ tags:
 aliases: ["Whisper of the First Lie"]
 ---
 # Whisper of the First Lie *Item 20*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 60000 gp
 - **Craft Requirements** Supply a casting of fabricated truth.
@@ -19,7 +19,7 @@ aliases: ["Whisper of the First Lie"]
 
 This delicate necklace contains bottled whispers distilled from a source on the Astral Plane rumored to be connected to the first lie ever told.
 
-While wearing the necklace, you gain a +3 item bonus to [Deception](compendium/skills.md#Deception) checks, and you can attempt to counteract effects that would force you to tell the truth or determine whether you are lying. Success on this counteract attempt lets you ignore the effect, rather than removing the effect entirely. The counteract level is 9, with a counteract modifier of +35.
+While wearing the necklace, you gain a +3 item bonus to [Deception](skills.md#Deception) checks, and you can attempt to counteract effects that would force you to tell the truth or determine whether you are lying. Success on this counteract attempt lets you ignore the effect, rather than removing the effect entirely. The counteract level is 9, with a counteract modifier of +35.
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md), envision, command

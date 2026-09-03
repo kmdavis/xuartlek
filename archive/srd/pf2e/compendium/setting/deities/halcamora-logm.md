@@ -20,8 +20,8 @@ aliases: ["Halcamora", "Lady of Ripe Bounty"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [club](compendium/equipment/items/club.md)
-- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [luck](compendium/setting/domains.md#Luck), [nature](compendium/setting/domains.md#Nature), [swarm](compendium/setting/domains.md#Swarm)
-- **Cleric Spells**: 1st: [summon plant or fungus](compendium/spells/summon-plant-or-fungus.md); 2nd: [touch of idiocy](compendium/spells/touch-of-idiocy.md); 4th: [speak with plants](compendium/spells/speak-with-plants.md)
+- **Favored Weapon**: [club](archive/srd/pf2e/compendium/equipment/items/club.md)
+- **Domains**: [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [luck](archive/srd/pf2e/compendium/setting/domains.md#Luck), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm)
+- **Cleric Spells**: 1st: [summon plant or fungus](archive/srd/pf2e/compendium/spells/summon-plant-or-fungus.md); 2nd: [touch of idiocy](touch-of-idiocy.md); 4th: [speak with plants](archive/srd/pf2e/compendium/spells/speak-with-plants.md)

@@ -7,14 +7,14 @@ tags:
 - trait/concentrate
 aliases: ["Play To The Crowd"]
 ---
-# Play To The Crowd  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+# Play To The Crowd  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
-- **Prerequisites**: [Gladiator Dedication](compendium/feats/gladiator-dedication-apg.md)
+- **Prerequisites**: [Gladiator Dedication](gladiator-dedication-apg.md)
 - **Trigger** You reduce an enemy to 0 Hit Points during a non-trivial combat encounter with spectators.
 - **Activity** Reaction
 
-You show off for the crowd. Attempt a [Performance](compendium/skills.md#Performance) check; the DC is determined by the GM but is typically the standard DC for your level or the DC to [Make an Impression](rules/actions/make-an-impression.md) on the spectators, whichever is higher. On a success, choose one of the following benefits; on a critical success, choose two benefits:
+You show off for the crowd. Attempt a [Performance](skills.md#Performance) check; the DC is determined by the GM but is typically the standard DC for your level or the DC to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md) on the spectators, whichever is higher. On a success, choose one of the following benefits; on a critical success, choose two benefits:
 
 - A number of temporary Hit Points equal to your character level; these last for 1 minute.
 - A +1 circumstance bonus to AC until the end of your next turn.
@@ -22,7 +22,7 @@ You show off for the crowd. Attempt a [Performance](compendium/skills.md#Perform
 
 ## Play To The Crowd leads to...
 
-[Call Your Shot](compendium/feats/call-your-shot-apg.md)
+[Call Your Shot](call-your-shot-apg.md)
 
 ## Summary
 

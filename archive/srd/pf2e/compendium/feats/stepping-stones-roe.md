@@ -10,8 +10,8 @@ tags:
 - trait/primal
 aliases: ["Stepping Stones"]
 ---
-# Stepping Stones  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Stepping Stones  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Two-Action
 

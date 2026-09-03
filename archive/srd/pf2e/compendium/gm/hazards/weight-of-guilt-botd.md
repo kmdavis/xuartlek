@@ -7,14 +7,14 @@ tags:
 aliases: ["Weight of Guilt"]
 ---
 # Weight of Guilt *Hazard 7*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert to sense an oppressive aura of sorrow  
 
 Influenced by the guilt and regrets of the dead, creatures are wrapped in weighted chains that embody their own sins.
 
-- **Disable** DC 26 [Religion](compendium/skills.md#Religion) (expert) to disrupt the haunt through prayer or DC 27 [Deception](compendium/skills.md#Deception) (expert) to openly defy your regrets and banish the haunt. Creatures who haven't committed sins or already made amends for their transgressions are immune to the effects of this haunt.  
+- **Disable** DC 26 [Religion](skills.md#Religion) (expert) to disrupt the haunt through prayer or DC 27 [Deception](skills.md#Deception) (expert) to openly defy your regrets and banish the haunt. Creatures who haven't committed sins or already made amends for their transgressions are immune to the effects of this haunt.  
 
 ```ad-embed-ability
 title: **Mental Bind** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([enchantment](rules/traits/enchantment.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))

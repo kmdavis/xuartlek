@@ -10,7 +10,7 @@ tags:
 aliases: ["Chain Of The Stilled Spirit"]
 ---
 # Chain Of The Stilled Spirit *Item 9*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 650 gp
 - **Bulk** 2; **Usage** held in 2 hands

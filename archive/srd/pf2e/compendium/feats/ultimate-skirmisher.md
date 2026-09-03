@@ -7,7 +7,7 @@ tags:
 aliases: ["Ultimate Skirmisher"]
 ---
 # Ultimate Skirmisher  *Feat 20*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: wild stride
 

@@ -11,16 +11,16 @@ tags:
 aliases: ["Command"]
 ---
 # Command *Spell 1*   
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
 - **Duration**: until the end of the target's next turn
 
-You shout a command that's hard to ignore. You can command the target to approach you, run away (as if it had the [fleeing](rules/conditions.md#Fleeing) condition), release what it's holding, [Drop Prone](rules/actions/drop-prone.md), or stand in place. It can't [Delay](rules/actions/delay.md) or take any reactions until it has obeyed your command. The effects depend on the target's Will save.
+You shout a command that's hard to ignore. You can command the target to approach you, run away (as if it had the [fleeing](archive/srd/pf2e/rules/conditions.md#Fleeing) condition), release what it's holding, [Drop Prone](archive/srd/pf2e/rules/actions/drop-prone.md), or stand in place. It can't [Delay](archive/srd/pf2e/rules/actions/delay.md) or take any reactions until it has obeyed your command. The effects depend on the target's Will save.
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.

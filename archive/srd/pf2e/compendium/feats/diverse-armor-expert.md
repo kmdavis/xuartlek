@@ -7,9 +7,9 @@ tags:
 aliases: ["Diverse Armor Expert"]
 ---
 # Diverse Armor Expert  *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md), expert in unarmored defense or one or more types of armor
+- **Prerequisites**: [Champion Dedication](archive/srd/pf2e/compendium/feats/champion-dedication.md), expert in unarmored defense or one or more types of armor
 
 Your proficiency ranks for light armor, medium armor, heavy armor, and unarmored defense increase to expert.
 

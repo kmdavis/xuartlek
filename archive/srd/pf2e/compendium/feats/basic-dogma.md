@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Dogma"]
 ---
 # Basic Dogma  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Cleric Dedication](compendium/feats/cleric-dedication.md)
+- **Prerequisites**: [Cleric Dedication](archive/srd/pf2e/compendium/feats/cleric-dedication.md)
 
 You gain a 1st- or 2nd-level cleric feat.
 
 ## Basic Dogma leads to...
 
-[Advanced Dogma](compendium/feats/advanced-dogma.md)
+[Advanced Dogma](archive/srd/pf2e/compendium/feats/advanced-dogma.md)
 
 ## Summary
 

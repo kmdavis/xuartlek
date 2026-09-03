@@ -10,14 +10,14 @@ tags:
 aliases: ["Field Of Opposition"]
 ---
 # Field Of Opposition *Hazard 20*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +35  
 
 A distortion in space spawns an aggressive, malevolent shadow duplicate of any characters who pass between Terimor's faces.
 
-- **Disable** DC 42 [Thievery](compendium/skills.md#Thievery) (legendary) to permanently disable the planar distortion (DC increases by 2 for each duplicate still extant), or dispel magic (10th level; counteract DC 42) to destroy the planar distortion.  
+- **Disable** DC 42 [Thievery](skills.md#Thievery) (legendary) to permanently disable the planar distortion (DC increases by 2 for each duplicate still extant), or dispel magic (10th level; counteract DC 42) to destroy the planar distortion.  
 
 - **AC** 45, **Fort** +33, **Ref** +30
 - **Face Hardness** 20, **Face HP** 150 (BT 75)

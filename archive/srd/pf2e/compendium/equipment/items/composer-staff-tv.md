@@ -10,12 +10,12 @@ tags:
 aliases: ["Composer Staff"]
 ---
 # Composer Staff *Item 4+*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
 
-A composer staff is short and shaped like an elegant black conductor's baton with a silver tip. When waved through the air, it hums melodically. In this way, you can play it as though it were an instrument, and it grants a +1 item bonus to [Performance](compendium/skills.md#Performance) checks made with it.
+A composer staff is short and shaped like an elegant black conductor's baton with a silver tip. When waved through the air, it hums melodically. In this way, you can play it as though it were an instrument, and it grants a +1 item bonus to [Performance](skills.md#Performance) checks made with it.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

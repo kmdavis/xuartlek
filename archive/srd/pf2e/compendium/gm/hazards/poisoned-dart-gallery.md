@@ -9,14 +9,14 @@ tags:
 aliases: ["Poisoned Dart Gallery"]
 ---
 # Poisoned Dart Gallery *Hazard 8*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +16 expert or DC 31 (master) to notice the control panel.  
 
 Countless holes to launch poison darts from line a long hallway with a hidden control panel on the far end.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 21 (expert) on the control panel deactivates the trap.  
+- **Disable** [Thievery](skills.md#Thievery) DC 21 (expert) on the control panel deactivates the trap.  
 
 - **AC** 27, **Fort** +13, **Ref** +17
 - **Hardness** 14, **HP** 56 (BT 28) to destroy the control panel and disable the trap

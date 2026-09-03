@@ -10,12 +10,12 @@ tags:
 aliases: ["Snagging"]
 ---
 # Snagging *Item 3*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 60 gp
 - **Usage** applied to belt, cape, cloak, or scarf
 
-This animated item attempts to catch you when you fall. You can attempt to [Grab an Edge](rules/actions/grab-an-edge.md) (Core Rulebook 472), even if your hands are tied behind your back or otherwise [restrained](rules/conditions.md#Restrained), so long as there's a solid edge within 10 feet. If you roll a success, you can Grab the Edge even if you don't have a hand free.
+This animated item attempts to catch you when you fall. You can attempt to [Grab an Edge](archive/srd/pf2e/rules/actions/grab-an-edge.md) (Core Rulebook 472), even if your hands are tied behind your back or otherwise [restrained](archive/srd/pf2e/rules/conditions.md#Restrained), so long as there's a solid edge within 10 feet. If you roll a success, you can Grab the Edge even if you don't have a hand free.
 
 
 ---

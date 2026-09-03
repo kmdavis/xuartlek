@@ -11,9 +11,9 @@ tags:
 aliases: ["Unbreaking Wave Barrier"]
 ---
 # Unbreaking Wave Barrier *Focus 7*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Area**: 5-foot emanation
 - **Saving Throw**: Fortitude or Fortitude
 - **Duration**: sustained up to 1 minute
@@ -26,6 +26,6 @@ If a creature pushed by unbreaking wave barrier would be pushed into a solid bar
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature isn't pushed, but the space within the barrier is difficult terrain for it.
 > - **Failure** The creature is pushed 10 feet, and the space within the barrier is difficult terrain for it.
-> - **Critical Failure** The creature is pushed 20 feet and knocked [prone](rules/conditions.md#Prone), and the space within the barrier is difficult terrain for it.
+> - **Critical Failure** The creature is pushed 20 feet and knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone), and the space within the barrier is difficult terrain for it.
 
 *Source: Lost Omens: Impossible Lands p. 223*

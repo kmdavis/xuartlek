@@ -12,12 +12,12 @@ tags:
 aliases: ["Big Rock Bullet"]
 ---
 # Big Rock Bullet *Item 7+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Ammunition** sling bullet
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-A big rock bullet is a sling bullet made of heavy granite, but each piece of ammunition feels much more dense than it appears. When activated, a big rock bullet transforms into a giant rock just before hitting the target. The target takes `4d6` additional bludgeoning damage on a successful hit. Even on a failed attack roll (but not a critical failure), the target takes `2d6` bludgeoning damage. Creatures with the [Catch Rock](rules/abilities/catch-rock.md) reaction can use it against a big rock bullet.
+A big rock bullet is a sling bullet made of heavy granite, but each piece of ammunition feels much more dense than it appears. When activated, a big rock bullet transforms into a giant rock just before hitting the target. The target takes `4d6` additional bludgeoning damage on a successful hit. Even on a failed attack roll (but not a critical failure), the target takes `2d6` bludgeoning damage. Creatures with the [Catch Rock](catch-rock.md) reaction can use it against a big rock bullet.
 
 ---
 

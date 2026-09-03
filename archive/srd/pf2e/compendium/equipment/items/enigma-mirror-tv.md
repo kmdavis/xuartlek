@@ -10,7 +10,7 @@ tags:
 aliases: ["Enigma Mirror"]
 ---
 # Enigma Mirror *Item 7+*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Bulk** —; **Usage** affixed to armor or a weapon
 
@@ -19,7 +19,7 @@ Mist fills the glass of this small circular hand mirror, creating strange patter
 The spell DC of any spell cast by activating this item is 23.
 
 - Armor After you cast an illusion spell by activating the mirror, choose one ally within 30 feet. That ally gains a single illusory image, per mirror image. The image lasts until the end of your next turn if not destroyed before then.
-- Weapon After you cast an illusion spell by activating the mirror, illusory copies of the weapon swirl in the air around it. You're affected by the [thicket of knives](compendium/spells/thicket-of-knives-som.md) spell until the end of your next turn. The spell ends if you stop wielding the affixed weapon.
+- Weapon After you cast an illusion spell by activating the mirror, illusory copies of the weapon swirl in the air around it. You're affected by the [thicket of knives](thicket-of-knives-som.md) spell until the end of your next turn. The spell ends if you stop wielding the affixed weapon.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

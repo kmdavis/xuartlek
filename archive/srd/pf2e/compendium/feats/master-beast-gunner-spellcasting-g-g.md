@@ -7,9 +7,9 @@ tags:
 aliases: ["Master Beast Gunner Spellcasting"]
 ---
 # Master Beast Gunner Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Expert Beast Gunner Spellcasting](compendium/feats/expert-beast-gunner-spellcasting-g-g.md)
+- **Prerequisites**: [Expert Beast Gunner Spellcasting](expert-beast-gunner-spellcasting-g-g.md)
 
 You've learned the final truth of beast guns, making you a master in the magic they grant you. You gain the master spellcasting benefits (Core Rulebook 219).
 

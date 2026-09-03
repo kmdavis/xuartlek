@@ -10,12 +10,12 @@ tags:
 aliases: ["Gorget of the Primal Roar"]
 ---
 # Gorget of the Primal Roar *Item 11*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1250 gp
 - **Bulk** L; **Usage** worn collar
 
-This engraved darkwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to [Intimidation](compendium/skills.md#Intimidation) checks.
+This engraved darkwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to [Intimidation](skills.md#Intimidation) checks.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

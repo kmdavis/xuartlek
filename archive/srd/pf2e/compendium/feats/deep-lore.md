@@ -7,9 +7,9 @@ tags:
 aliases: ["Deep Lore"]
 ---
 # Deep Lore  *Feat 18*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
-- **Prerequisites**: Enigma muse, legendary in [Occultism](compendium/skills.md#Occultism)
+- **Prerequisites**: Enigma muse, legendary in [Occultism](skills.md#Occultism)
 
 Your repertoire is vast, containing far more spells than usual. Add one spell to your repertoire of each level you can cast.
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Falchion"]
 ---
 # Falchion *Item 0*  
-[forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  
+[forceful](archive/srd/pf2e/rules/traits/forceful.md "Forceful Weapon Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  
 
 - **Price** 3 gp
 - **Bulk** 2

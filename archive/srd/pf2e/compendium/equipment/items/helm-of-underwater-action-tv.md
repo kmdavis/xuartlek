@@ -10,11 +10,11 @@ tags:
 aliases: ["Helm of Underwater Action"]
 ---
 # Helm of Underwater Action *Item 9+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** L; **Usage** worn headwear
 
-A helm of underwater action is a streamlined sallet with a visor and a flanged rear. While wearing the helmet with the visor down, you can see, hear, and speak clearly underwater. You also have a +1 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [Swim](rules/actions/swim.md).
+A helm of underwater action is a streamlined sallet with a visor and a flanged rear. While wearing the helmet with the visor down, you can see, hear, and speak clearly underwater. You also have a +1 item bonus to [Athletics](skills.md#Athletics) checks to [Swim](archive/srd/pf2e/rules/actions/swim.md).
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") command, envision, [Interact](rules/actions/interact.md)

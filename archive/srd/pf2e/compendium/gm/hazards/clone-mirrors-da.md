@@ -9,14 +9,14 @@ tags:
 aliases: ["Clone Mirrors"]
 ---
 # Clone Mirrors *Hazard 6*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 21  
 
 Two opposing mirrors spawn illusory duplicates of creatures in the hall in an unending tide.
 
-- **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) (expert) to reposition each mirror, or dispel magic (3rd level; counteract DC 25) to counteract each mirror  
+- **Disable** DC 28 [Thievery](skills.md#Thievery) (expert) to reposition each mirror, or dispel magic (3rd level; counteract DC 25) to counteract each mirror  
 
 - **AC** 21, **Fort** +11, **Ref** +17
 - **Hardness** 13 per mirror; **HP** 54 (BT 27); **Reflection HP** 30

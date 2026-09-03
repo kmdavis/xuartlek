@@ -29,14 +29,14 @@ aliases: ["Luhar", "THE SETTING SUN"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Stealth
-- **Favored Weapon**: [spiked chain](compendium/equipment/items/spiked-chain.md)
-- **Domains**: [cities](compendium/setting/domains.md#Cities), [darkness](compendium/setting/domains.md#Darkness), [dreams](compendium/setting/domains.md#Dreams), [sun](compendium/setting/domains.md#Sun)
-- **Alternate Domains**: [fate](compendium/setting/domains.md#Fate), [soul](compendium/setting/domains.md#Soul), [star](compendium/setting/domains.md#Star), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [sleep](compendium/spells/sleep.md); 3rd: [invisibility sphere](compendium/spells/invisibility-sphere.md); 5th: [shadow walk](compendium/spells/shadow-walk.md)
+- **Favored Weapon**: [spiked chain](archive/srd/pf2e/compendium/equipment/items/spiked-chain.md)
+- **Domains**: [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [dreams](archive/srd/pf2e/compendium/setting/domains.md#Dreams), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun)
+- **Alternate Domains**: [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [soul](archive/srd/pf2e/compendium/setting/domains.md#Soul), [star](archive/srd/pf2e/compendium/setting/domains.md#Star), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [sleep](archive/srd/pf2e/compendium/spells/sleep.md); 3rd: [invisibility sphere](invisibility-sphere.md); 5th: [shadow walk](shadow-walk.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Luhar gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Luhar gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Luhar

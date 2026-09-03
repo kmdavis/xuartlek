@@ -8,8 +8,8 @@ tags:
 - trait/wizard
 aliases: ["Quickened Casting (Wizard)"]
 ---
-# Quickened Casting (Wizard)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+# Quickened Casting (Wizard)  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](metamagic.md "Metamagic General Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Frequency**: once per day
 - **Activity** Free Action

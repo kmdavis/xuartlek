@@ -7,15 +7,15 @@ tags:
 aliases: ["Expert Oracle Spellcasting"]
 ---
 # Expert Oracle Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Oracle Spellcasting](compendium/feats/basic-oracle-spellcasting-apg.md), master in [Religion](compendium/skills.md#Religion)
+- **Prerequisites**: [Basic Oracle Spellcasting](basic-oracle-spellcasting-apg.md), master in [Religion](skills.md#Religion)
 
 You gain the expert spellcasting benefits.
 
 ## Expert Oracle Spellcasting leads to...
 
-[Master Oracle Spellcasting](compendium/feats/master-oracle-spellcasting-apg.md)
+[Master Oracle Spellcasting](master-oracle-spellcasting-apg.md)
 
 ## Summary
 

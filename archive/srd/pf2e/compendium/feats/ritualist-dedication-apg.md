@@ -9,9 +9,9 @@ tags:
 aliases: ["Ritualist Dedication"]
 ---
 # Ritualist Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: expert in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
+- **Prerequisites**: expert in [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion)
 
 You have begun to master the difficult art of casting rituals.
 
@@ -21,7 +21,7 @@ You gain a +2 circumstance bonus to all primary checks to perform a ritual. You 
 
 ## Ritualist Dedication leads to...
 
-[Efficient Rituals](compendium/feats/efficient-rituals-apg.md), [Speedy Rituals](compendium/feats/speedy-rituals-apg.md), [Flexible Ritualist](compendium/feats/flexible-ritualist-apg.md), [Assured Ritualist](compendium/feats/assured-ritualist-apg.md), [Resourceful Ritualist](compendium/feats/resourceful-ritualist-apg.md)
+[Efficient Rituals](efficient-rituals-apg.md), [Speedy Rituals](speedy-rituals-apg.md), [Flexible Ritualist](flexible-ritualist-apg.md), [Assured Ritualist](assured-ritualist-apg.md), [Resourceful Ritualist](resourceful-ritualist-apg.md)
 
 ## Summary
 

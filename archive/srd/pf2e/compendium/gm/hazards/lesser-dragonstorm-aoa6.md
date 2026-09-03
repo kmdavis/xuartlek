@@ -10,14 +10,14 @@ tags:
 aliases: ["Lesser Dragonstorm"]
 ---
 # Lesser Dragonstorm *Hazard 20*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +38 legendary  
 
-A small-scale version of a dragonstorm—a churning vortex of wind infused with fire, acid, lightning, poison, and ice—fills [Alseta](compendium/setting/deities/alseta-logm.md)'s Ring.
+A small-scale version of a dragonstorm—a churning vortex of wind infused with fire, acid, lightning, poison, and ice—fills [Alseta](alseta-logm.md)'s Ring.
 
-- **Disable** [Religion](compendium/skills.md#Religion) DC 40 (legendary) to call out to a non-evil deity for direct intervention to disperse the lesser dragonstorm (prayers to [Apsu](compendium/setting/deities/apsu-logm.md) allow characters who are masters in [Religion](compendium/skills.md#Religion) to attempt the check as if they were legendary instead), [Thievery](compendium/skills.md#Thievery) DC 42 (legendary) to deactivate Vengegate while the manifestation is forcing it open, or a successful [dispel magic](compendium/spells/dispel-magic.md) (10th level; DC 40) to counteract the lesser dragonstorm.  
+- **Disable** [Religion](skills.md#Religion) DC 40 (legendary) to call out to a non-evil deity for direct intervention to disperse the lesser dragonstorm (prayers to [Apsu](apsu-logm.md) allow characters who are masters in [Religion](skills.md#Religion) to attempt the check as if they were legendary instead), [Thievery](skills.md#Thievery) DC 42 (legendary) to deactivate Vengegate while the manifestation is forcing it open, or a successful [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (10th level; DC 40) to counteract the lesser dragonstorm.  
 
 ```ad-embed-ability
 title: **Manifest Lesser Dragonstorm** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

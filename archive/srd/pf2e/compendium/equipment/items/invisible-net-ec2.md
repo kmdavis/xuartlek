@@ -11,11 +11,11 @@ tags:
 aliases: ["Invisible Net"]
 ---
 # Invisible Net *Item 7*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 60 gp
 - **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 You activate this folded lace handkerchief by spreading it out on the ground, where it grows to cover a 30-footby- 30-foot square area. Pale and diaphanous, the spread handkerchief is exceptionally difficult to see from more than 30 feet away and evaporates entirely after 1 minute. Any creature that falls on the net doesn't take falling damage.
 

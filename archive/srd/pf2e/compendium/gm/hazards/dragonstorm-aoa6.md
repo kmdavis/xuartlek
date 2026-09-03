@@ -9,7 +9,7 @@ tags:
 aliases: ["Dragonstorm"]
 ---
 # Dragonstorm *Hazard 18*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** +40 legendary  

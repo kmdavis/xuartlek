@@ -11,7 +11,7 @@ tags:
 aliases: ["Bladed Hoop"]
 ---
 # Bladed Hoop *Item 0*  
-[finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [two-hand <d8>](rules/traits/two-hand-d8.md "Two-Hand Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [two-hand <d8>](rules/traits/two-hand-d8.md "Two-Hand Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 sp
 - **Bulk** 1

@@ -11,7 +11,7 @@ tags:
 aliases: ["Celestial Armor"]
 ---
 # Celestial Armor *Item 13*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [good](good.md "Good Alignment Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 2500 gp
 - **Craft Requirements** You are good.
@@ -19,9 +19,9 @@ aliases: ["Celestial Armor"]
 
 This suit of +2 resilient chain mail is made of fine white links of a strange and slightly translucent pale metal, and the sleeves and skirt are fashioned into smaller trails that resemble feathers. Unlike normal chain mail, celestial armor has no Speed reduction, its armor check penalty is 0, and its Bulk is 1.
 
-You gain a +1 circumstance bonus to AC and saving throws against fiends. You appear radiant while you wear the armor, giving you a +2 item bonus to [Diplomacy](compendium/skills.md#Diplomacy) checks against all creatures except fiends.
+You gain a +1 circumstance bonus to AC and saving throws against fiends. You appear radiant while you wear the armor, giving you a +2 item bonus to [Diplomacy](skills.md#Diplomacy) checks against all creatures except fiends.
 
-If you are not good, you are [drained](rules/conditions.md#Drained) while wearing celestial armor. You can't recover from this condition while wearing the armor.
+If you are not good, you are [drained](archive/srd/pf2e/rules/conditions.md#Drained) while wearing celestial armor. You can't recover from this condition while wearing the armor.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

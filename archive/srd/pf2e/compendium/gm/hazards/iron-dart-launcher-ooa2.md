@@ -9,14 +9,14 @@ tags:
 aliases: ["Iron Dart Launcher"]
 ---
 # Iron Dart Launcher *Hazard 4*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
 
-A half-dozen iron darts fire from spring-loaded launchers [concealed](rules/conditions.md#Concealed) in the desk opposite the front door.
+A half-dozen iron darts fire from spring-loaded launchers [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) in the desk opposite the front door.
 
-- **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (trained) to disable the trigger, or DC 18 [Acrobatics](compendium/skills.md#Acrobatics) to squeeze through the partially opened door (this doesn't disable the trap but prevents it from triggering)  
+- **Disable** DC 22 [Thievery](skills.md#Thievery) (trained) to disable the trigger, or DC 18 [Acrobatics](skills.md#Acrobatics) to squeeze through the partially opened door (this doesn't disable the trap but prevents it from triggering)  
 
 - **AC** 22, **Fort** +14, **Ref** +8
 - **Hardness** 10, **HP** 50 (BT 25)

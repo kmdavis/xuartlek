@@ -15,4 +15,4 @@ With a strong back and an understanding of seasonal cycles, you tilled the land 
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Farming Lore](compendium/skills.md#Lore) skill. You gain the [Assurance](compendium/feats/assurance.md) skill feat with [Athletics](compendium/skills.md#Athletics).
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Farming Lore](skills.md#Lore) skill. You gain the [Assurance](archive/srd/pf2e/compendium/feats/assurance.md) skill feat with [Athletics](skills.md#Athletics).

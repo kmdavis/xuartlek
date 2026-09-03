@@ -10,10 +10,10 @@ tags:
 aliases: ["Lightning Bolt"]
 ---
 # Lightning Bolt *Spell 3*   
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 120-foot line
 - **Saving Throw**:  basic Reflex
 

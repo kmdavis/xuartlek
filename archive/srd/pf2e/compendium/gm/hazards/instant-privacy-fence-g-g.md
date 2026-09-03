@@ -10,14 +10,14 @@ tags:
 aliases: ["Instant Privacy Fence"]
 ---
 # Instant Privacy Fence *Hazard 8*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert  
 
 stretch of fence is electrified by a hidden Stasian coil.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 28 (expert) to carefully disconnect the coil from the fence or [Crafting](compendium/skills.md#Crafting) DC 30 (master) to jury-rig a grounding device to nullify the shock  
+- **Disable** [Thievery](skills.md#Thievery) DC 28 (expert) to carefully disconnect the coil from the fence or [Crafting](skills.md#Crafting) DC 30 (master) to jury-rig a grounding device to nullify the shock  
 
 - **AC** 25, **Fort** +20, **Ref** +14
 - **Hardness** 15, **HP** 60 (BT 30)

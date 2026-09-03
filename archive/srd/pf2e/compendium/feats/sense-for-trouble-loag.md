@@ -7,9 +7,9 @@ tags:
 aliases: ["Sense For Trouble"]
 ---
 # Sense For Trouble  *Feat 9*  
-[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
+[catfolk](catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Cat's Luck](compendium/feats/cats-luck-apg.md)
+- **Prerequisites**: [Cat's Luck](cats-luck-apg.md)
 
 You can tell when something's off. You can trigger Cat's Luck after you roll initiative, in addition to its normal trigger, to reroll your Initiative and take the higher of the two results. This still counts against Cat's Luck's frequency, as normal.
 

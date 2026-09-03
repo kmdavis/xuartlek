@@ -9,18 +9,18 @@ tags:
 aliases: ["Lastwall Sentry Dedication"]
 ---
 # Lastwall Sentry Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Eye of Dread region.
-- **Prerequisites**: member of the Knights of Lastwall, [Shield Block](compendium/feats/shield-block.md)
+- **Prerequisites**: member of the Knights of Lastwall, [Shield Block](archive/srd/pf2e/compendium/feats/shield-block.md)
 
-You've sworn yourself as a sentry for the Knights of Lastwall, the first line of defense against incursions by the Whispering Tyrant throughout Golarion. You become trained in [Athletics](compendium/skills.md#Athletics) and in [Undead Lore](compendium/skills.md#Lore); if you were already trained, you become an expert instead. Finally, you gain the [Reactive Shield](compendium/feats/reactive-shield.md) fighter feat.
+You've sworn yourself as a sentry for the Knights of Lastwall, the first line of defense against incursions by the Whispering Tyrant throughout Golarion. You become trained in [Athletics](skills.md#Athletics) and in [Undead Lore](skills.md#Lore); if you were already trained, you become an expert instead. Finally, you gain the [Reactive Shield](archive/srd/pf2e/compendium/feats/reactive-shield.md) fighter feat.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the Lastwall sentry archetype.
 
 ## Lastwall Sentry Dedication leads to...
 
-[Eye Of Ozem](compendium/feats/eye-of-ozem-lowg.md), [Grave Sense](compendium/feats/grave-sense-lowg.md), [Lastwall Warden](compendium/feats/lastwall-warden-lowg.md), [Necromantic Resistance](compendium/feats/necromantic-resistance-lowg.md), [Necromantic Tenacity](compendium/feats/necromantic-tenacity-lowg.md), [Rescuer's Press](compendium/feats/rescuers-press-lol.md), [Always Ready](compendium/feats/always-ready-lokl.md), [Bless Shield](compendium/feats/bless-shield-lokl.md), [Familiar Foe](compendium/feats/familiar-foe-lokl.md), [Final Rest](compendium/feats/final-rest-lokl.md), [Nonlethal Takedown](compendium/feats/nonlethal-takedown-lokl.md), [Practiced Opposition](compendium/feats/practiced-opposition-lokl.md), [Repulse the Wicked](compendium/feats/repulse-the-wicked-lokl.md), [Sacred Armaments](compendium/feats/sacred-armaments-lokl.md), [Flashing Shield](compendium/feats/flashing-shield-lokl.md), [Necromantic Bulwark](compendium/feats/necromantic-bulwark-lokl.md), [Grave Sight](compendium/feats/grave-sight-lokl.md), [No Stranger to Death](compendium/feats/no-stranger-to-death-lokl.md), [Resolute Defender](compendium/feats/resolute-defender-lokl.md), [Thwart Evil](compendium/feats/thwart-evil-lokl.md), [Withstand Death](compendium/feats/withstand-death-lokl.md)
+[Eye Of Ozem](eye-of-ozem-lowg.md), [Grave Sense](grave-sense-lowg.md), [Lastwall Warden](lastwall-warden-lowg.md), [Necromantic Resistance](necromantic-resistance-lowg.md), [Necromantic Tenacity](necromantic-tenacity-lowg.md), [Rescuer's Press](rescuers-press-lol.md), [Always Ready](always-ready-lokl.md), [Bless Shield](bless-shield-lokl.md), [Familiar Foe](familiar-foe-lokl.md), [Final Rest](final-rest-lokl.md), [Nonlethal Takedown](nonlethal-takedown-lokl.md), [Practiced Opposition](practiced-opposition-lokl.md), [Repulse the Wicked](repulse-the-wicked-lokl.md), [Sacred Armaments](sacred-armaments-lokl.md), [Flashing Shield](flashing-shield-lokl.md), [Necromantic Bulwark](necromantic-bulwark-lokl.md), [Grave Sight](grave-sight-lokl.md), [No Stranger to Death](no-stranger-to-death-lokl.md), [Resolute Defender](resolute-defender-lokl.md), [Thwart Evil](thwart-evil-lokl.md), [Withstand Death](withstand-death-lokl.md)
 
 ## Summary
 

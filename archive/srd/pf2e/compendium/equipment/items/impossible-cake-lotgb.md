@@ -10,12 +10,12 @@ tags:
 aliases: ["Impossible Cake"]
 ---
 # Impossible Cake *Item 3*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-This sleight-of-hand for the taste buds is flavored with absinthe and honey and always resembles something completely unlike a cake, from a pile of armor to a bowl of soup. Eating the cake gives you the confidence to make the impossible seem possible: for 10 minutes after the meal, you gain a +2 item bonus to your [Deception](compendium/skills.md#Deception) checks to [Impersonate](rules/actions/impersonate.md), as well as to [Lie](rules/actions/lie.md) to convince others that you possess knowledge about the type of item that the cake resembles.
+This sleight-of-hand for the taste buds is flavored with absinthe and honey and always resembles something completely unlike a cake, from a pile of armor to a bowl of soup. Eating the cake gives you the confidence to make the impossible seem possible: for 10 minutes after the meal, you gain a +2 item bonus to your [Deception](skills.md#Deception) checks to [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md), as well as to [Lie](archive/srd/pf2e/rules/actions/lie.md) to convince others that you possess knowledge about the type of item that the cake resembles.
 
 ---
 

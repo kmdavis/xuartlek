@@ -11,10 +11,10 @@ tags:
 aliases: ["Abyssal Plague"]
 ---
 # Abyssal Plague *Spell 5*   
-[chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[chaotic](chaotic.md "Chaotic Alignment Trait")  [disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait")  [evil](evil.md "Evil Alignment Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Saving Throw**: Fortitude

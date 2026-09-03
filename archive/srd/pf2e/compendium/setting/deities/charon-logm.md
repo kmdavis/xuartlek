@@ -20,8 +20,8 @@ aliases: ["Charon", "The Boatman"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [knowledge](compendium/setting/domains.md#Knowledge), [soul](compendium/setting/domains.md#Soul), [water](compendium/setting/domains.md#Water)
-- **Cleric Spells**: 1st: [grim tendrils](compendium/spells/grim-tendrils.md); 4th: [crushing despair](compendium/spells/crushing-despair.md); 9th: [weird](compendium/spells/weird.md)
+- **Favored Weapon**: [staff](archive/srd/pf2e/compendium/equipment/items/staff.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [soul](archive/srd/pf2e/compendium/setting/domains.md#Soul), [water](archive/srd/pf2e/compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [grim tendrils](archive/srd/pf2e/compendium/spells/grim-tendrils.md); 4th: [crushing despair](crushing-despair.md); 9th: [weird](weird.md)

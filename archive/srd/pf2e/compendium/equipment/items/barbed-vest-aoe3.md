@@ -12,15 +12,15 @@ tags:
 aliases: ["Barbed Vest"]
 ---
 # Barbed Vest *Item 10*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** 1; **Usage** worn armor
 
 Viciously sharp spiked chains wrap around this studded leather armor that can be used to magically harm the wearer and channel supernatural abilities without somehow tearing at the leather itself.
 
-The barbed vest doesn't fuse to you in the usual way (as described on page 90 of the Pathfinder Gamemastery Guide). It can be removed and discarded, but 1 day after doing so, you feel driven to recollect the vest at any cost until the curse is removed with a [remove curse](compendium/spells/remove-curse.md) spell.
+The barbed vest doesn't fuse to you in the usual way (as described on page 90 of the Pathfinder Gamemastery Guide). It can be removed and discarded, but 1 day after doing so, you feel driven to recollect the vest at any cost until the curse is removed with a [remove curse](remove-curse.md) spell.
 
-Anytime you activate the barbed vest, its chains tighten around you, dealing `1d6` [persistent piercing damage](rules/conditions.md#Persistent%20Damage). You can remove this [persistent damage](rules/conditions.md#Persistent%20Damage) as normal, but only after deactivating the item's magic as a single action.
+Anytime you activate the barbed vest, its chains tighten around you, dealing `1d6` [persistent piercing damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage). You can remove this [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) as normal, but only after deactivating the item's magic as a single action.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision

@@ -9,14 +9,14 @@ tags:
 aliases: ["Acidic Needle Launcher"]
 ---
 # Acidic Needle Launcher *Hazard 16*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 38 master  
 
 A ceiling-mounted launcher rains resinous needles onto intruders, after which the needles melt into acid.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) (DC 36) to disable some firing mechanisms, making three adjacent squares in the trapped area safe to enter.  
+- **Disable** [Thievery](skills.md#Thievery) (DC 36) to disable some firing mechanisms, making three adjacent squares in the trapped area safe to enter.  
 
 - **AC** 39, **Fort** +30, **Ref** +22
 - **Hardness** 26, **HP** 104 (BT 52)

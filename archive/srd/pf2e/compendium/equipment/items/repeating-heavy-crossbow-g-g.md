@@ -9,7 +9,7 @@ tags:
 aliases: ["Repeating Heavy Crossbow"]
 ---
 # Repeating Heavy Crossbow *Item 1*  
-[repeating](rules/traits/repeating-g-g.md "Repeating Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[repeating](repeating-g-g.md "Repeating Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 20 gp
 - **Bulk** 2

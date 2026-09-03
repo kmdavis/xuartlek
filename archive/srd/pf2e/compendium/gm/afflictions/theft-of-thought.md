@@ -13,9 +13,9 @@ aliases: ["Theft of Thought"]
 ---
 # Theft of Thought
 *Curse 3*  
-[curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-This curse protects a single book and activates against any creature who [Steals](rules/actions/steal.md) it.
+This curse protects a single book and activates against any creature who [Steals](archive/srd/pf2e/rules/actions/steal.md) it.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 18 Will

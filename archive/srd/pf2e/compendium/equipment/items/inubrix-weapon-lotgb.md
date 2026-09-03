@@ -8,7 +8,7 @@ tags:
 aliases: ["Inubrix Weapon"]
 ---
 # Inubrix Weapon *Item 11+*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** varies by weapon; **Usage** varies by weapon
 
@@ -16,7 +16,7 @@ While inubrix weapons don't pack the same punch as more durable weapons, they ha
 
 A weapon crafted from inubrix reduces the weapon's damage die by 1 size. However, they ignore the resistance to damage from metal armor's armor specialization effects and the circumstance bonus to AC from metal shields.
 
-[Strikes](rules/actions/strike.md) with inubrix weapons don't trigger the Shield Block reaction from a metal shield. Weapons that normally deal `1d4` damage can't be crafted from inubrix.
+[Strikes](archive/srd/pf2e/rules/actions/strike.md) with inubrix weapons don't trigger the Shield Block reaction from a metal shield. Weapons that normally deal `1d4` damage can't be crafted from inubrix.
 
 ---
 

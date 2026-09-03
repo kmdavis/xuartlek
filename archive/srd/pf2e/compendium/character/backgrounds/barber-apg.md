@@ -15,4 +15,4 @@ Haircuts, dentistry, bloodletting, and surgery—if it takes a steady hand and a
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Medicine](compendium/skills.md#Medicine) skill and the [Surgery Lore](compendium/skills.md#Lore) skill. You gain the [Risky Surgery](compendium/feats/risky-surgery-apg.md) skill feat.
+You're trained in the [Medicine](skills.md#Medicine) skill and the [Surgery Lore](skills.md#Lore) skill. You gain the [Risky Surgery](risky-surgery-apg.md) skill feat.

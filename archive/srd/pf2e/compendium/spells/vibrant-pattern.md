@@ -11,10 +11,10 @@ tags:
 aliases: ["Vibrant Pattern"]
 ---
 # Vibrant Pattern *Spell 6*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Area**: 10-foot burst
 - **Saving Throw**: Will
@@ -22,13 +22,13 @@ aliases: ["Vibrant Pattern"]
 
 You create a pattern of lights that pulses with intensity.
 
-Creatures are [dazzled](rules/conditions.md#Dazzled) while inside the pattern.
+Creatures are [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) while inside the pattern.
 
-In addition, a creature must attempt a Will saving throw if it's inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a [Seek](rules/actions/seek.md) or [Interact](rules/actions/interact.md) action on the pattern. A creature currently [blinded](rules/conditions.md#Blinded) by the pattern doesn't need to attempt new saving throws.
+In addition, a creature must attempt a Will saving throw if it's inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a [Seek](archive/srd/pf2e/rules/actions/seek.md) or [Interact](archive/srd/pf2e/rules/actions/interact.md) action on the pattern. A creature currently [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) by the pattern doesn't need to attempt new saving throws.
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.
-> - **Failure** The creature is [blinded](rules/conditions.md#Blinded) by the pattern. If it exits the pattern, it can attempt a new save to recover from the [blinded](rules/conditions.md#Blinded) condition at the end of each of its turns, to a maximum duration of 1 minute.
-> - **Critical Failure** The creature is [blinded](rules/conditions.md#Blinded) for 1 minute.
+> - **Failure** The creature is [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) by the pattern. If it exits the pattern, it can attempt a new save to recover from the [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) condition at the end of each of its turns, to a maximum duration of 1 minute.
+> - **Critical Failure** The creature is [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) for 1 minute.
 
 *Source: Core Rulebook p. 381*

@@ -7,14 +7,14 @@ tags:
 aliases: ["Phantom Footsteps"]
 ---
 # Phantom Footsteps *Hazard -1*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 15  
 
 Audible footsteps approach from behind, but their source is not apparent.
 
-- **Disable** DC 17 [Religion](compendium/skills.md#Religion) (trained) to ritually ward off lesser spirits or DC 18 [Occultism](compendium/skills.md#Occultism) to exorcise the spirit  
+- **Disable** DC 17 [Religion](skills.md#Religion) (trained) to ritually ward off lesser spirits or DC 18 [Occultism](skills.md#Occultism) to exorcise the spirit  
 
 ```ad-embed-ability
 title: **Stalk** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([auditory](rules/traits/auditory.md), [emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))

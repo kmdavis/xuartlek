@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Witchcraft"]
 ---
 # Basic Witchcraft  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Witch Dedication](compendium/feats/witch-dedication-apg.md)
+- **Prerequisites**: [Witch Dedication](witch-dedication-apg.md)
 
 You gain a 1st- or 2nd-level witch feat of your choice. Your familiar no longer has one less familiar ability than normal.
 
 ## Basic Witchcraft leads to...
 
-[Advanced Witchcraft](compendium/feats/advanced-witchcraft-apg.md)
+[Advanced Witchcraft](advanced-witchcraft-apg.md)
 
 ## Summary
 

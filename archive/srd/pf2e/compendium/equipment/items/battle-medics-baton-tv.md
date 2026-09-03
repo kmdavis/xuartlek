@@ -9,12 +9,12 @@ tags:
 aliases: ["Battle Medic's Baton"]
 ---
 # Battle Medic's Baton *Item 3*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Price** 60 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-This short bronze rod has the form of a serpent coiled around it. While you hold it, you gain a +1 item bonus to [Medicine](compendium/skills.md#Medicine) checks.
+This short bronze rod has the form of a serpent coiled around it. While you hold it, you gain a +1 item bonus to [Medicine](skills.md#Medicine) checks.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)

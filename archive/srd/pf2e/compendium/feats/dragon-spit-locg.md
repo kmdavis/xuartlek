@@ -7,15 +7,15 @@ tags:
 aliases: ["Dragon Spit"]
 ---
 # Dragon Spit  *Feat 1*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Tian-Dan ethnicity
 
-Many Tian-Dan claim to have dragon blood in their veins, and in your case, this is true—you can spit energy, and you might have an especially visible sign of your draconic heritage. Choose one of the following cantrips: [acid splash](compendium/spells/acid-splash.md), [electric arc](compendium/spells/electric-arc.md), [produce flame](compendium/spells/produce-flame.md), or [ray of frost](compendium/spells/ray-of-frost.md). You can cast this spell as an innate arcane spell at will, and when you cast it, the spell's energy emerges from your mouth.
+Many Tian-Dan claim to have dragon blood in their veins, and in your case, this is true—you can spit energy, and you might have an especially visible sign of your draconic heritage. Choose one of the following cantrips: [acid splash](acid-splash.md), [electric arc](archive/srd/pf2e/compendium/spells/electric-arc.md), [produce flame](produce-flame.md), or [ray of frost](ray-of-frost.md). You can cast this spell as an innate arcane spell at will, and when you cast it, the spell's energy emerges from your mouth.
 
 ## Dragon Spit leads to...
 
-[Dragon Prince](compendium/feats/dragon-prince-locg.md)
+[Dragon Prince](dragon-prince-locg.md)
 
 ## Summary
 

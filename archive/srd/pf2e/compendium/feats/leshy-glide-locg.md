@@ -6,10 +6,10 @@ tags:
 - trait/leshy
 aliases: ["Leshy Glide"]
 ---
-# Leshy Glide  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
+# Leshy Glide  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
+[leshy](leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
-- **Prerequisites**: leaf leshy heritage or [Cat Fall](compendium/feats/cat-fall.md) skill feat
+- **Prerequisites**: leaf leshy heritage or [Cat Fall](archive/srd/pf2e/compendium/feats/cat-fall.md) skill feat
 - **Activity** Single Action
 
 Using your own leaves, you can control your descent. You glide slowly toward the ground, 5 feet down and up to 25 feet forward through the air. As long as you spend at least 1 action gliding each round and have not yet reached the ground, you remain in the air at the end of your turn.

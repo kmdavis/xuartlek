@@ -11,7 +11,7 @@ tags:
 aliases: ["Body Recovery Kit"]
 ---
 # Body Recovery Kit *Item 9*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 101 gp
 - **Bulk** L; **Usage** held in 2 hands

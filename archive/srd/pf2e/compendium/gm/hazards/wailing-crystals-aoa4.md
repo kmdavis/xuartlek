@@ -9,14 +9,14 @@ tags:
 aliases: ["Wailing Crystals"]
 ---
 # Wailing Crystals *Hazard 13*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +27 master or DC 37 (master) to notice what appear to be screaming ghostly faces in the crystals  
 
 Three clusters of gleaming, colorful crystals are corrupted with necromantic energy that causes them to reflect negative emotions. All three must be disabled or destroyed to negate the hazard.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 29 (master) to carefully fracture the crystals or [Crafting](compendium/skills.md#Crafting) DC 27 (expert) to place objects to stop the resonance, both disabling one 5-foot patch of crystals.  
+- **Disable** [Thievery](skills.md#Thievery) DC 29 (master) to carefully fracture the crystals or [Crafting](skills.md#Crafting) DC 27 (expert) to place objects to stop the resonance, both disabling one 5-foot patch of crystals.  
 
 - **AC** 34, **Fort** +26, **Ref** +18
 - **Hardness** 18, **HP** 72 (BT 36) per 5-foot patch

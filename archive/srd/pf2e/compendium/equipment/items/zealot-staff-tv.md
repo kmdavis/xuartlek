@@ -10,7 +10,7 @@ tags:
 aliases: ["Zealot Staff"]
 ---
 # Zealot Staff *Item 17*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Price** 13000 gp
 - **Craft Requirements** You worship the deity to which the staff is dedicated. Supply one casting of all listed spells.
@@ -18,7 +18,7 @@ aliases: ["Zealot Staff"]
 
 A zealot staff's color, iconography, and materials vary depending on the faith it's dedicated to. An Iomedaean staff might be forged of gold and shaped like an ornamental sword, while a Lamashtan one could instead be made of blackened iron depicting monstrous faces. Used as a weapon, the staff is a +3 greater striking staff.
 
-The staff represents vehement support of the deity to whom the staff is dedicated, punishing defiance. When the staff's effects require choosing alignments, you can choose only that deity's alignments. No such staves exist for deities that are true neutral. When you prepare this staff, if you don't worship its deity, you become [drained](rules/conditions.md#Drained) until your next daily preparations.
+The staff represents vehement support of the deity to whom the staff is dedicated, punishing defiance. When the staff's effects require choosing alignments, you can choose only that deity's alignments. No such staves exist for deities that are true neutral. When you prepare this staff, if you don't worship its deity, you become [drained](archive/srd/pf2e/rules/conditions.md#Drained) until your next daily preparations.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

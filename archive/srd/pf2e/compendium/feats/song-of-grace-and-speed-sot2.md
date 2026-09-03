@@ -8,14 +8,14 @@ tags:
 - trait/transmutation
 aliases: ["Song Of Grace And Speed"]
 ---
-# Song Of Grace And Speed  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Song Of Grace And Speed  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 16*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Prerequisites**: [Nantambu Chime-Ringer Dedication](compendium/feats/nantambu-chime-ringer-dedication-sot2.md)
+- **Prerequisites**: [Nantambu Chime-Ringer Dedication](nantambu-chime-ringer-dedication-sot2.md)
 - **Frequency**: once per day
 - **Activity** Two-Action
 
-You instill great swiftness into your allies. You and all allies within 30 feet become [quickened](rules/conditions.md#Quickened) for 1 minute and can use the additional action to [Strike](rules/actions/strike.md), [Stride](rules/actions/stride.md), or [Step](rules/actions/step.md).
+You instill great swiftness into your allies. You and all allies within 30 feet become [quickened](archive/srd/pf2e/rules/conditions.md#Quickened) for 1 minute and can use the additional action to [Strike](archive/srd/pf2e/rules/actions/strike.md), [Stride](archive/srd/pf2e/rules/actions/stride.md), or [Step](archive/srd/pf2e/rules/actions/step.md).
 
 *Source: Strength of Thousands #2: Spoken on the Song Wind p. 79*  
 %% #compendium/src/pf2e/sot2 #trait/archetype #trait/auditory #trait/transmutation %%

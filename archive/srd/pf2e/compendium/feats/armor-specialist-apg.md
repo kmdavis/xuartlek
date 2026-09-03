@@ -7,9 +7,9 @@ tags:
 aliases: ["Armor Specialist"]
 ---
 # Armor Specialist  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Sentinel Dedication](compendium/feats/sentinel-dedication-apg.md)
+- **Prerequisites**: [Sentinel Dedication](sentinel-dedication-apg.md)
 
 You have trained hard to optimize your armor's protective qualities. You gain the armor specialization effects of medium and heavy armor.
 

@@ -8,15 +8,15 @@ tags:
 aliases: ["Courtly Graces"]
 ---
 # Courtly Graces  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Society](compendium/skills.md#Society)
+- **Prerequisites**: trained in [Society](skills.md#Society)
 
-You were raised among the nobility or have learned proper etiquette and bearing, allowing you to present yourself as a noble and play games of influence and politics. You can use [Society](compendium/skills.md#Society) to [Make an Impression](rules/actions/make-an-impression.md) on a noble, as well as with [Impersonate](rules/actions/impersonate.md) to pretend to be a noble if you aren't one. If you want to impersonate a specific noble, you still need to use [Deception](compendium/skills.md#Deception) to [Impersonate](rules/actions/impersonate.md) normally, and to [Lie](rules/actions/lie.md) when necessary.
+You were raised among the nobility or have learned proper etiquette and bearing, allowing you to present yourself as a noble and play games of influence and politics. You can use [Society](skills.md#Society) to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md) on a noble, as well as with [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md) to pretend to be a noble if you aren't one. If you want to impersonate a specific noble, you still need to use [Deception](skills.md#Deception) to [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md) normally, and to [Lie](archive/srd/pf2e/rules/actions/lie.md) when necessary.
 
 ## Courtly Graces leads to...
 
-[Connections](compendium/feats/connections.md), [Quick Contacts](compendium/feats/quick-contacts-apg.md)
+[Connections](connections.md), [Quick Contacts](quick-contacts-apg.md)
 
 ## Summary
 

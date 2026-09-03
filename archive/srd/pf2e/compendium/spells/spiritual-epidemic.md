@@ -9,10 +9,10 @@ tags:
 aliases: ["Spiritual Epidemic"]
 ---
 # Spiritual Epidemic *Spell 8*   
-[curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -22,8 +22,8 @@ You curse the target, sapping its spirit and leaving a contagious trap in its es
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [enfeebled](rules/conditions.md#Enfeebled) and [stupefied](rules/conditions.md#Stupefied) for 1 round.
-> - **Failure** The target is [enfeebled](rules/conditions.md#Enfeebled) and [stupefied](rules/conditions.md#Stupefied) for 1 minute and [enfeebled](rules/conditions.md#Enfeebled) and [stupefied](rules/conditions.md#Stupefied) permanently.
-> - **Critical Failure** The target is [enfeebled](rules/conditions.md#Enfeebled) and [stupefied](rules/conditions.md#Stupefied) for 1 minute and [enfeebled](rules/conditions.md#Enfeebled) and [stupefied](rules/conditions.md#Stupefied) permanently.
+> - **Success** The target is [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) and [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 round.
+> - **Failure** The target is [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) and [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 minute and [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) and [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) permanently.
+> - **Critical Failure** The target is [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) and [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 minute and [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) and [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) permanently.
 
 *Source: Core Rulebook p. 372*

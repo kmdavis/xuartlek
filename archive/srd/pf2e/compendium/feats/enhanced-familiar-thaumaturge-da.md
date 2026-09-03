@@ -7,7 +7,7 @@ tags:
 aliases: ["Enhanced Familiar (Thaumaturge)"]
 ---
 # Enhanced Familiar (Thaumaturge)  *Feat 2*  
-[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
+[thaumaturge](archive/srd/pf2e/rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: a familiar
 

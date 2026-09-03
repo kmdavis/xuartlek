@@ -15,4 +15,4 @@ You eked out a living by picking pockets on the streets of a major city, never k
 
 Choose two ability boosts. One must be to Dexterity or Constitution, and one is a free ability boost.
 
-You're trained in [Thievery](compendium/skills.md#Thievery) and a [Lore](compendium/skills.md#Lore) skill for the city you lived in as a street urchin (such as [Absalom Lore](compendium/skills.md#Lore) or [Magnimar Lore](compendium/skills.md#Lore)). You gain the [Pickpocket](compendium/feats/pickpocket.md) skill feat.
+You're trained in [Thievery](skills.md#Thievery) and a [Lore](skills.md#Lore) skill for the city you lived in as a street urchin (such as [Absalom Lore](skills.md#Lore) or [Magnimar Lore](skills.md#Lore)). You gain the [Pickpocket](archive/srd/pf2e/compendium/feats/pickpocket.md) skill feat.

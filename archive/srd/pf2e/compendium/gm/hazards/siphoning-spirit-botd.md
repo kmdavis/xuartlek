@@ -8,14 +8,14 @@ tags:
 aliases: ["Siphoning Spirit"]
 ---
 # Siphoning Spirit *Hazard 19*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +40 trained  
 
 A formless spirit drains life from the living, becoming progressively visible as its victims weaken.
 
-- **Disable** DC 48 [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) (expert) to weaken the spirit; four total successes are required to disable the haunt  
+- **Disable** DC 48 [Occultism](skills.md#Occultism) or [Religion](skills.md#Religion) (expert) to weaken the spirit; four total successes are required to disable the haunt  
 
 ```ad-embed-ability
 title: **Sudden Siphon** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md), [negative](rules/traits/negative.md))

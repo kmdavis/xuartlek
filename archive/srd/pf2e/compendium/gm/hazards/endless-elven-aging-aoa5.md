@@ -9,14 +9,14 @@ tags:
 aliases: ["Endless Elven Aging"]
 ---
 # Endless Elven Aging *Hazard 17*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +33 master  
 
 A haunted mural fascinates characters and swiftly drains their vitality.
 
-- **Disable** [Occultism](compendium/skills.md#Occultism) DC 38 (master) or [Religion](compendium/skills.md#Religion) DC 38 (master) to calm the restless energies and suppress the haunt for 1 hour; a critical success deactivates the haunt permanently.  
+- **Disable** [Occultism](skills.md#Occultism) DC 38 (master) or [Religion](skills.md#Religion) DC 38 (master) to calm the restless energies and suppress the haunt for 1 hour; a critical success deactivates the haunt permanently.  
 
 - **AC** 20, **Fort** +13, **Ref** +5
 - **Painting Hardness** 15, **Painting HP** 30 per square (6 squares must be destroyed to disable the haunt)

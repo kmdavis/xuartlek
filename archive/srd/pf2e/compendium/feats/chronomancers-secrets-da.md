@@ -7,11 +7,11 @@ tags:
 aliases: ["Chronomancer's Secrets"]
 ---
 # Chronomancer's Secrets  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Time Mage Dedication](compendium/feats/time-mage-dedication-da.md)
+- **Prerequisites**: [Time Mage Dedication](time-mage-dedication-da.md)
 
-The secrets of time peel back, revealing deeper truths. You gain either the [stasis](compendium/spells/stasis-logm.md) domain spell or the [path of least resistance](compendium/spells/path-of-least-resistance-da.md) focus spell. Increase the number of Focus Points in your pool by 1.
+The secrets of time peel back, revealing deeper truths. You gain either the [stasis](stasis-logm.md) domain spell or the [path of least resistance](path-of-least-resistance-da.md) focus spell. Increase the number of Focus Points in your pool by 1.
 
 **Special.** You can take this feat a second time, gaining the focus spell that you didn't gain the first time. Increase the number of Focus Points in your pool by 1.
 

@@ -13,7 +13,7 @@ aliases: ["Forbidding Knowledge"]
 ---
 # Forbidding Knowledge
 *Curse 10*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 Information you never should have known lingers everpresent in your mind.
 
@@ -25,7 +25,7 @@ title: Saving Throw: DC 28 Will
 
 ## Tempting Curse
 
-When you activate the tempted curse, you must spend 2 actions to attempt to speak the triggering knowledge. This allows you to redirect the curse's energy and cast [silence](compendium/spells/silence.md) heightened to 4th level, centered on yourself. You are still unable to speak the knowledge clearly, but you can convey a single word to an adjacent creature. You gain the [stupefied](rules/conditions.md#Stupefied) condition for the remainder of the day. This condition can't be reduced until the next time you perform your daily preparations, at which point it ends.
+When you activate the tempted curse, you must spend 2 actions to attempt to speak the triggering knowledge. This allows you to redirect the curse's energy and cast [silence](archive/srd/pf2e/compendium/spells/silence.md) heightened to 4th level, centered on yourself. You are still unable to speak the knowledge clearly, but you can convey a single word to an adjacent creature. You gain the [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) condition for the remainder of the day. This condition can't be reduced until the next time you perform your daily preparations, at which point it ends.
 
 ## Summary
 

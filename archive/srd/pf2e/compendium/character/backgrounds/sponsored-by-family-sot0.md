@@ -16,6 +16,6 @@ Several members of your family have studied at the Magaambya, although not all o
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in your choice of the [Diplomacy](compendium/skills.md#Diplomacy) or [Society](compendium/skills.md#Society) skill. You gain a skill feat: [Hobnobber](compendium/feats/hobnobber.md) if you chose [Diplomacy](compendium/skills.md#Diplomacy) or [Eye for Numbers](compendium/feats/eye-for-numbers-apg.md) if you chose [Society](compendium/skills.md#Society). You're also trained in [Magaambya Lore](compendium/skills.md#Lore).
+You're trained in your choice of the [Diplomacy](skills.md#Diplomacy) or [Society](skills.md#Society) skill. You gain a skill feat: [Hobnobber](archive/srd/pf2e/compendium/feats/hobnobber.md) if you chose [Diplomacy](skills.md#Diplomacy) or [Eye for Numbers](eye-for-numbers-apg.md) if you chose [Society](skills.md#Society). You're also trained in [Magaambya Lore](skills.md#Lore).
 
 Your recommended primary branch is the Uzunjati.

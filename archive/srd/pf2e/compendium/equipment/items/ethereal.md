@@ -10,10 +10,10 @@ tags:
 aliases: ["Ethereal"]
 ---
 # Ethereal *Item 17*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 13500 gp
-- **Craft Requirements** Supply a casting of 9th level [ethereal jaunt](compendium/spells/ethereal-jaunt.md).
+- **Craft Requirements** Supply a casting of 9th level [ethereal jaunt](ethereal-jaunt.md).
 - **Usage** etched onto armor
 
 An ethereal rune replicates armor on the Ethereal Plane.

@@ -10,9 +10,9 @@ tags:
 aliases: ["Dreadsmoke Thurible"]
 ---
 # Dreadsmoke Thurible *Item 9*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Access** follower of [Urgathoa](compendium/setting/deities/urgathoa.md)
+- **Access** follower of [Urgathoa](urgathoa.md)
 - **Price** 600 gp
 - **Bulk** 1; **Usage** held in 2 hands
 

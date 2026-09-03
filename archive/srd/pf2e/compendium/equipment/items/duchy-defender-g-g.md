@@ -12,7 +12,7 @@ tags:
 aliases: ["Duchy Defender"]
 ---
 # Duchy Defender *Item 13*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [lg](rules/traits/lg-b1.md "Lawful Good Alignment Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [lg](rules/traits/lg-b1.md "Lawful Good Alignment Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 2 hands
 

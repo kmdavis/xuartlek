@@ -11,7 +11,7 @@ tags:
 aliases: ["Thrasher Tail"]
 ---
 # Thrasher Tail *Item 9*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [kobold](kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 620 gp
 - **Bulk** 1; **Usage** worn

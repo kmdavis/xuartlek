@@ -8,11 +8,11 @@ tags:
 aliases: ["Quick Coercion"]
 ---
 # Quick Coercion  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Intimidation](compendium/skills.md#Intimidation)
+- **Prerequisites**: trained in [Intimidation](skills.md#Intimidation)
 
-You can bully others with just a few choice implications. You can [Coerce](rules/actions/coerce.md) a creature after 1 round of conversation instead of 1 minute. You still can't [Coerce](rules/actions/coerce.md) a creature in the midst of combat, or without engaging in a conversation.
+You can bully others with just a few choice implications. You can [Coerce](archive/srd/pf2e/rules/actions/coerce.md) a creature after 1 round of conversation instead of 1 minute. You still can't [Coerce](archive/srd/pf2e/rules/actions/coerce.md) a creature in the midst of combat, or without engaging in a conversation.
 
 *Source: Core Rulebook p. 264*  
 %% #compendium/src/pf2e/crb #trait/general #trait/skill %%

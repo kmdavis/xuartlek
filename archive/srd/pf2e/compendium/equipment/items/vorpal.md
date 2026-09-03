@@ -10,7 +10,7 @@ tags:
 aliases: ["Vorpal"]
 ---
 # Vorpal *Item 17*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 15000 gp
 - **Usage** etched onto a slashing melee weapon

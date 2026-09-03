@@ -7,11 +7,11 @@ tags:
 aliases: ["Greater Distracting Shot"]
 ---
 # Greater Distracting Shot  *Feat 16*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Prerequisites**: [Distracting Shot](compendium/feats/distracting-shot.md)
+- **Prerequisites**: [Distracting Shot](archive/srd/pf2e/compendium/feats/distracting-shot.md)
 
-Even a single missile can throw off your enemy's balance, and more powerful attacks leave it flustered for longer. If you hit your hunted prey with a ranged weapon, it's [flat-footed](rules/conditions.md#Flat-footed) until the start of your next turn. If you critically hit your prey or hit it twice on the same turn with a ranged weapon, it's [flat-footed](rules/conditions.md#Flat-footed) until the end of your next turn instead.
+Even a single missile can throw off your enemy's balance, and more powerful attacks leave it flustered for longer. If you hit your hunted prey with a ranged weapon, it's [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until the start of your next turn. If you critically hit your prey or hit it twice on the same turn with a ranged weapon, it's [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until the end of your next turn instead.
 
 *Source: Core Rulebook p. 176*  
 %% #compendium/src/pf2e/crb #trait/ranger %%

@@ -9,8 +9,8 @@ tags:
 - trait/transmutation
 aliases: ["Wings Of Air"]
 ---
-# Wings Of Air  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[morph](rules/traits/morph.md "Morph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Wings Of Air  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
+[morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [sylph](sylph-b2.md "Sylph Ancestry & Heritage Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action
@@ -19,7 +19,7 @@ You can strain to call forth feathered or cloudy wings from your back. Once mani
 
 ## Wings Of Air leads to...
 
-[Eternal Wings](compendium/feats/eternal-wings-loag.md)
+[Eternal Wings](eternal-wings-loag.md)
 
 ## Summary
 

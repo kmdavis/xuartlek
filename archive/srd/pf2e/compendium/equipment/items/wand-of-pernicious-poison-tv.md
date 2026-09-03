@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Pernicious Poison"]
 ---
 # Wand of Pernicious Poison *Item 4+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of spider sting or purple worm sting.
 - **Bulk** L; **Usage** held in 1 hand

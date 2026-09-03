@@ -10,13 +10,13 @@ tags:
 aliases: ["Energizing Treat"]
 ---
 # Energizing Treat *Item 7*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 70 gp
 - **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-An energizing treat is a treat made from meat or grains. When you feed your animal companion or familiar an energizing treat, it's [quickened](rules/conditions.md#Quickened) for 1 minute. It can use the extra action each round only for [Strike](rules/actions/strike.md), [Stride](rules/actions/stride.md), and Support actions, and it can do so only if it normally has those actions available and you take the proper action to command it.
+An energizing treat is a treat made from meat or grains. When you feed your animal companion or familiar an energizing treat, it's [quickened](archive/srd/pf2e/rules/conditions.md#Quickened) for 1 minute. It can use the extra action each round only for [Strike](archive/srd/pf2e/rules/actions/strike.md), [Stride](archive/srd/pf2e/rules/actions/stride.md), and Support actions, and it can do so only if it normally has those actions available and you take the proper action to command it.
 
 
 ---

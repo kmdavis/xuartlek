@@ -10,7 +10,7 @@ tags:
 aliases: ["Kalis"]
 ---
 # Kalis *Item 0*  
-[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

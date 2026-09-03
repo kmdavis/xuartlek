@@ -7,13 +7,13 @@ tags:
 aliases: ["Vicious Snares"]
 ---
 # Vicious Snares  *Feat 13*  
-[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
+[kobold](kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
-- **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting), [Snare Crafting](compendium/feats/snare-crafting.md)
+- **Prerequisites**: expert in [Crafting](skills.md#Crafting), [Snare Crafting](archive/srd/pf2e/compendium/feats/snare-crafting.md)
 
 You've learned how to create traps that cause greater injuries. You deal an additional `1d6` precision damage with damaging snares you craft.
 
-This increases to `2d6` additional precision damage if you're legendary in [Crafting](compendium/skills.md#Crafting).
+This increases to `2d6` additional precision damage if you're legendary in [Crafting](skills.md#Crafting).
 
 *Source: Lost Omens: Ancestry Guide p. 40*  
 %% #compendium/src/pf2e/loag #trait/kobold %%

@@ -7,15 +7,15 @@ tags:
 aliases: ["Expert Beast Gunner Spellcasting"]
 ---
 # Expert Beast Gunner Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Beast Gunner Spellcasting](compendium/feats/basic-beast-gunner-spellcasting-g-g.md)
+- **Prerequisites**: [Basic Beast Gunner Spellcasting](basic-beast-gunner-spellcasting-g-g.md)
 
 You've learned the deeper secrets of beast guns, making you an expert in the magic they grant you. You gain the expert spellcasting benefits (Core Rulebook 219).
 
 ## Expert Beast Gunner Spellcasting leads to...
 
-[Master Beast Gunner Spellcasting](compendium/feats/master-beast-gunner-spellcasting-g-g.md)
+[Master Beast Gunner Spellcasting](master-beast-gunner-spellcasting-g-g.md)
 
 ## Summary
 

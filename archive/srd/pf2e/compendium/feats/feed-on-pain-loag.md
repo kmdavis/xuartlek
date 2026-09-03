@@ -6,10 +6,10 @@ tags:
 - trait/dhampir
 aliases: ["Feed On Pain"]
 ---
-# Feed On Pain  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
+# Feed On Pain  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
+[dhampir](dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Adhyabhau](compendium/feats/adhyabhau-loag.md)
+- **Prerequisites**: [Adhyabhau](adhyabhau-loag.md)
 - **Frequency**: once per hour
 - **Trigger** You deal mental damage.
 - **Activity** Reaction

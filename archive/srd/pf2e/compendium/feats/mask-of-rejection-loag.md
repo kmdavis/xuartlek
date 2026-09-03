@@ -7,10 +7,10 @@ tags:
 - trait/orc
 aliases: ["Mask Of Rejection"]
 ---
-# Mask Of Rejection  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
+# Mask Of Rejection  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
+[fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [orc](archive/srd/pf2e/rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Orc Warmask](compendium/feats/orc-warmask-loag.md)
+- **Prerequisites**: [Orc Warmask](orc-warmask-loag.md)
 - **Frequency**: once per day
 - **Trigger** You fail a saving throw against an effect from your warmask's magical tradition.
 - **Requirements**: You're wearing your warmask.

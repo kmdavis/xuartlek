@@ -7,11 +7,11 @@ tags:
 aliases: ["Hallowed Initiate"]
 ---
 # Hallowed Initiate  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md)
+- **Prerequisites**: [Hallowed Necromancer Dedication](hallowed-necromancer-dedication-botd.md)
 
-You've expanded your focus spellcasting to techniques used by clerics and wizards. You gain an additional focus spell, either the necromancer school spell [call of the grave](compendium/spells/call-of-the-grave.md) or the initial domain spell of the death domain, [death's call](compendium/spells/deaths-call.md). Increase the number of Focus Points in your focus pool by 1.
+You've expanded your focus spellcasting to techniques used by clerics and wizards. You gain an additional focus spell, either the necromancer school spell [call of the grave](call-of-the-grave.md) or the initial domain spell of the death domain, [death's call](archive/srd/pf2e/compendium/spells/deaths-call.md). Increase the number of Focus Points in your focus pool by 1.
 
 **Special.** You can select this feat a second time, choosing the other initial focus spell.
 

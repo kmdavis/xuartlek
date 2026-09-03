@@ -7,7 +7,7 @@ tags:
 aliases: ["Leshy Familiar"]
 ---
 # Leshy Familiar  *Feat 1*  
-[druid](rules/traits/druid.md "Druid Class Trait")  
+[druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Leaf order
 

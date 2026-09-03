@@ -10,7 +10,7 @@ tags:
 aliases: ["Cloak of the False Foe"]
 ---
 # Cloak of the False Foe *Item 12*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 1850 gp
 - **Bulk** L; **Usage** worn cloak

@@ -10,12 +10,12 @@ tags:
 aliases: ["Eyes of the Eagle"]
 ---
 # Eyes of the Eagle *Item 9*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 700 gp
 - **Bulk** —; **Usage** worn eyepiece
 
-These lenses of amber crystal fit over your eyes. They grant you [low-light vision](rules/abilities/low-light-vision.md) and a +2 item bonus to [Perception](compendium/skills.md#Perception) checks that involve sight.
+These lenses of amber crystal fit over your eyes. They grant you [low-light vision](archive/srd/pf2e/rules/abilities/low-light-vision.md) and a +2 item bonus to [Perception](skills.md#Perception) checks that involve sight.
 
 
 ---

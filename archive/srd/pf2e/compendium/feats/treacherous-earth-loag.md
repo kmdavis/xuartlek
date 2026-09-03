@@ -6,8 +6,8 @@ tags:
 - trait/oread
 aliases: ["Treacherous Earth"]
 ---
-# Treacherous Earth  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  
+# Treacherous Earth  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
+[oread](oread-b2.md "Oread Ancestry & Heritage Trait")  
 
 - **Frequency**: once every 10 minutes
 - **Activity** Single Action

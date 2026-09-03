@@ -11,13 +11,13 @@ tags:
 aliases: ["Vulture's Wing"]
 ---
 # Vulture's Wing *Item 10*  
-[catalyst](rules/traits/catalyst-som.md "Catalyst Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[catalyst](catalyst-som.md "Catalyst Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 200 gp
 - **Bulk** L; **Usage** held in one hand
-- **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)
+- **Activate** [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md)
 
-This fan of vulture feathers scatters on an unnatural gust of wind. If this catalyst is used to cast a [ray of enfeeblement](compendium/spells/ray-of-enfeeblement.md) spell that has been heightened to at least 5th level, instead of targeting a single creature, you cast the spell in a 30-foot-area cone. You don't make a spell attack roll, instead affecting all creatures within the area with the effect the spell would normally have on a hit. This means creatures within the area must attempt a Fortitude save to determine whether they're [enfeebled](rules/conditions.md#Enfeebled).
+This fan of vulture feathers scatters on an unnatural gust of wind. If this catalyst is used to cast a [ray of enfeeblement](ray-of-enfeeblement.md) spell that has been heightened to at least 5th level, instead of targeting a single creature, you cast the spell in a 30-foot-area cone. You don't make a spell attack roll, instead affecting all creatures within the area with the effect the spell would normally have on a hit. This means creatures within the area must attempt a Fortitude save to determine whether they're [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled).
 
 
 ---

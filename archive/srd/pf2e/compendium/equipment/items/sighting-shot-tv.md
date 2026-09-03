@@ -11,7 +11,7 @@ tags:
 aliases: ["Sighting Shot"]
 ---
 # Sighting Shot *Item 8*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [divination](divination.md "Divination School Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 72 gp
 - **Ammunition** any

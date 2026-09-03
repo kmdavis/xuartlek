@@ -7,11 +7,11 @@ tags:
 aliases: ["Greater Deathly Secrets"]
 ---
 # Greater Deathly Secrets  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Deathly Secrets](compendium/feats/deathly-secrets-botd.md)
+- **Prerequisites**: [Deathly Secrets](deathly-secrets-botd.md)
 
-Your undead secrets grow stronger still. You learn either the [malignant sustenance](compendium/spells/malignant-sustenance.md) or [grasping grave](compendium/spells/grasping-grave.md) focus spell. Your focus pool increases by 1 point.
+Your undead secrets grow stronger still. You learn either the [malignant sustenance](archive/srd/pf2e/compendium/spells/malignant-sustenance.md) or [grasping grave](archive/srd/pf2e/compendium/spells/grasping-grave.md) focus spell. Your focus pool increases by 1 point.
 
 **Special.** You can select this feat more than once. Each time, you learn a different spell and your focus pool increases by 1 Focus Point.
 

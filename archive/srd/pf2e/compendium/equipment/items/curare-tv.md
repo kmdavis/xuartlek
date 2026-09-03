@@ -12,11 +12,11 @@ tags:
 aliases: ["Curare"]
 ---
 # Curare *Item 8*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [injury](archive/srd/pf2e/rules/traits/injury.md "Injury Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 100 gp
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Hunters all over Golarion favor curare, a potent paralytic derived from boiled tree bark.
 

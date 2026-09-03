@@ -9,19 +9,19 @@ tags:
 aliases: ["Suffering Xulgaths"]
 ---
 # Suffering Xulgaths *Hazard 16*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +26 expert to hear the echoed shouts of panicked xulgaths.  
 
 The shadows of four xulgaths endlessly relive their deaths at the hands of the wendigos and their clutchmates.
 
-- **Disable** DC 42 [Religion](compendium/skills.md#Religion) (master) or DC 42 [Occultism](compendium/skills.md#Occultism) (master) to calm each of the four spirits. On a character's first successful check, the character also learns that xulgath funerary rites typically involve cremation, which hints that fire is a viable way to put them to rest.  
+- **Disable** DC 42 [Religion](skills.md#Religion) (master) or DC 42 [Occultism](skills.md#Occultism) (master) to calm each of the four spirits. On a character's first successful check, the character also learns that xulgath funerary rites typically involve cremation, which hints that fire is a viable way to put them to rest.  
 
 - **AC** 39, **Fort** +27, **Ref** +31
 - **HP** 24 per spirit
-- **Immunities** death effects; [disease](rules/traits/disease.md "Disease Effect Trait"); paralyzed; [poison](rules/traits/poison.md "Poison Effect Trait"); precision; unconscious
-- **Resistances** all damage 20except fire, force, [ghost touch](compendium/equipment/items/ghost-touch.md), or positive
+- **Immunities** death effects; [disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait"); paralyzed; [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait"); precision; unconscious
+- **Resistances** all damage 20except fire, force, [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md), or positive
 
 ```ad-embed-ability
 title: **Wendigo Remnants** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

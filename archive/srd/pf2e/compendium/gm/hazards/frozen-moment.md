@@ -8,14 +8,14 @@ tags:
 aliases: ["Frozen Moment"]
 ---
 # Frozen Moment *Hazard 17*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 40 master  
 
 Warding magic attempts to trap intruders or would-be thieves in a disrupted time flow.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 38 (legendary) to rapidly disassemble the spell's myriad components in a single blink of an eye; or dispel magic (9th level; counteract DC 36) to counteract the trap before it triggers or to counteract the effect on one creature after the trap is triggered.  
+- **Disable** [Thievery](skills.md#Thievery) DC 38 (legendary) to rapidly disassemble the spell's myriad components in a single blink of an eye; or dispel magic (9th level; counteract DC 36) to counteract the trap before it triggers or to counteract the effect on one creature after the trap is triggered.  
 
 ```ad-embed-ability
 title: **Adrift in Time** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([occult](rules/traits/occult.md), [transmutation](rules/traits/transmutation.md))

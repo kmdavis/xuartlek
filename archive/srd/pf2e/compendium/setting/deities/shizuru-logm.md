@@ -26,14 +26,14 @@ aliases: ["Shizuru", "The Empress of Heaven"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [katana](compendium/equipment/items/katana.md)
-- **Domains**: [duty](compendium/setting/domains.md#Duty), [perfection](compendium/setting/domains.md#Perfection), [sun](compendium/setting/domains.md#Sun), [vigil](compendium/setting/domains.md#Vigil)
-- **Alternate Domains**: [sorrow](compendium/setting/domains.md#Sorrow)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 4th: [reflective scales](compendium/spells/reflective-scales-logm.md); 5th: [summon dragon](compendium/spells/summon-dragon.md)
+- **Favored Weapon**: [katana](archive/srd/pf2e/compendium/equipment/items/katana.md)
+- **Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil)
+- **Alternate Domains**: [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 4th: [reflective scales](reflective-scales-logm.md); 5th: [summon dragon](archive/srd/pf2e/compendium/spells/summon-dragon.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Shizuru gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Shizuru gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Shizuru
@@ -49,10 +49,10 @@ title: [Avatar](compendium/spells/avatar.md) of Shizuru
 
 The Empress of Heaven wastes little time acting coy about her favor. Her boons are often accompanied by beams of sunlight or calligraphic symbols, while her wrath is often signaled by the cracking of precious items and armor.
 
-- **Minor Boon** Your attacks help eradicate darkness. When you successfully [Strike](rules/actions/strike.md) a foe, your weapon glows with bright light out to 60 feet for 1 minute. This is a [light](rules/traits/light.md "Light Effect Trait") effect with a counteract level equal to half your level rounded up.
+- **Minor Boon** Your attacks help eradicate darkness. When you successfully [Strike](archive/srd/pf2e/rules/actions/strike.md) a foe, your weapon glows with bright light out to 60 feet for 1 minute. This is a [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait") effect with a counteract level equal to half your level rounded up.
 - **Moderate Boon**: Shizuru's light flows through your blade. Your weapons and unarmed attacks deal an additional `1d6` fire damage or `1d6` good damage; you choose each time you make an attack.
 - **Major Boon**: Shizuru bestows upon you a golden suit of armor made from sunlight, or transforms your favorite armor to gain that aspect. Once per hour while you are wearing the armor, if an attack would reduce your Hit Points to 0, the attack is instead completely negated.
 
-- **Minor Curse**: Your equipment turns on you for a disgraceful act. The next time you make an attack, your weapon or armor gains the [broken](rules/conditions.md#Broken) condition.
-- **Moderate Curse** Shizuru decrees that her light is no longer your ally. You gain [light blindness](rules/abilities/light-blindness.md).
-- **Major Curse**: Those who incite Shizuru's personal wrath earn the hatred of all of her subjects. All imperial dragons and animals you encounter are automatically [hostile](rules/conditions.md#Hostile) to you, and you gain weakness 15 to draconic breath weapons.
+- **Minor Curse**: Your equipment turns on you for a disgraceful act. The next time you make an attack, your weapon or armor gains the [broken](archive/srd/pf2e/rules/conditions.md#Broken) condition.
+- **Moderate Curse** Shizuru decrees that her light is no longer your ally. You gain [light blindness](archive/srd/pf2e/rules/abilities/light-blindness.md).
+- **Major Curse**: Those who incite Shizuru's personal wrath earn the hatred of all of her subjects. All imperial dragons and animals you encounter are automatically [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) to you, and you gain weakness 15 to draconic breath weapons.

@@ -19,4 +19,4 @@ Thankfully, you found an out: an invitation to transfer to the newly formed Edge
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill, as well as either [Labor Lore](compendium/skills.md#Lore) or [Underworld Lore](compendium/skills.md#Lore). You gain a +1 circumstance bonus to [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), and [Intimidation](compendium/skills.md#Intimidation) checks to interact with Muckruckers, mercenaries, and adventurers. You gain the [Experienced Tracker](compendium/feats/experienced-tracker.md) skill feat.
+You're trained in the [Survival](skills.md#Survival) skill, as well as either [Labor Lore](skills.md#Lore) or [Underworld Lore](skills.md#Lore). You gain a +1 circumstance bonus to [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), and [Intimidation](skills.md#Intimidation) checks to interact with Muckruckers, mercenaries, and adventurers. You gain the [Experienced Tracker](archive/srd/pf2e/compendium/feats/experienced-tracker.md) skill feat.

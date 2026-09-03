@@ -7,9 +7,9 @@ tags:
 aliases: ["Divine Ally"]
 ---
 # Divine Ally  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md)
+- **Prerequisites**: [Champion Dedication](archive/srd/pf2e/compendium/feats/champion-dedication.md)
 
 You gain a divine ally|Champion||3 of your choice.
 

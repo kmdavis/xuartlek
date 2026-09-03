@@ -8,11 +8,11 @@ tags:
 aliases: ["In Plain Sight"]
 ---
 # In Plain Sight  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: [Alter Ego Dedication](compendium/feats/alter-ego-dedication-da.md)
+- **Prerequisites**: [Alter Ego Dedication](alter-ego-dedication-da.md)
 
-People often only see what they want to see, a weakness you know how to take full advantage of. While you've Assumed a Role, you can use [Deception](compendium/skills.md#Deception) in place of [Stealth](compendium/skills.md#Stealth) when using the [Avoid Notice](rules/actions/avoid-notice.md) exploration activity in an area where someone with your role wouldn't be unusual, such as when impersonating a sailor or fisher when infiltrating the docks.
+People often only see what they want to see, a weakness you know how to take full advantage of. While you've Assumed a Role, you can use [Deception](skills.md#Deception) in place of [Stealth](skills.md#Stealth) when using the [Avoid Notice](archive/srd/pf2e/rules/actions/avoid-notice.md) exploration activity in an area where someone with your role wouldn't be unusual, such as when impersonating a sailor or fisher when infiltrating the docks.
 
 *Source: Dark Archive p. 127*  
 %% #compendium/src/pf2e/da #trait/archetype #trait/skill %%

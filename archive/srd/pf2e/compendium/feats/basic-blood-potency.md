@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Blood Potency"]
 ---
 # Basic Blood Potency  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Sorcerer Dedication](compendium/feats/sorcerer-dedication.md)
+- **Prerequisites**: [Sorcerer Dedication](archive/srd/pf2e/compendium/feats/sorcerer-dedication.md)
 
 You gain a 1st- or 2nd-level sorcerer feat.
 
 ## Basic Blood Potency leads to...
 
-[Advanced Blood Potency](compendium/feats/advanced-blood-potency.md)
+[Advanced Blood Potency](archive/srd/pf2e/compendium/feats/advanced-blood-potency.md)
 
 ## Summary
 

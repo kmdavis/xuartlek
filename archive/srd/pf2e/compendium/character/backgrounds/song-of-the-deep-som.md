@@ -16,6 +16,6 @@ During a sea voyage, you washed overboard, ingested sea water, and drowned. Merf
 
 You gain one ability boost. It must be to Strength, Constitution, or Charisma.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Ocean Lore](compendium/skills.md#Lore) skill. You have the ability to breathe underwater.
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Ocean Lore](skills.md#Lore) skill. You have the ability to breathe underwater.
 
 **Special** You can choose to lose the ability to breathe air when you take this background, making you only able to breathe underwater. If you do, you gain a second ability boost, which is a free ability boost.

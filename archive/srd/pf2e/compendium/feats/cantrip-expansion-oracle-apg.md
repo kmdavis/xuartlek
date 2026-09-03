@@ -7,7 +7,7 @@ tags:
 aliases: ["Cantrip Expansion (Oracle)"]
 ---
 # Cantrip Expansion (Oracle)  *Feat 2*  
-[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
+[oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 
 Study broadens your range of simple spells. Add two additional cantrips from your spell list to your repertoire.

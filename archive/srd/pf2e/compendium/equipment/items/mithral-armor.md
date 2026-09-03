@@ -8,7 +8,7 @@ tags:
 aliases: ["Mithral Armor"]
 ---
 # Mithral Armor *Item 12+*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** varies by armor; **Usage** worn armor
 

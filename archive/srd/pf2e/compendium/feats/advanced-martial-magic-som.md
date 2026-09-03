@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Martial Magic"]
 ---
 # Advanced Martial Magic  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Martial Magic](compendium/feats/basic-martial-magic-som.md)
+- **Prerequisites**: [Basic Martial Magic](basic-martial-magic-som.md)
 
 You gain one magus feat. For the purpose of meeting its prerequisites, your magus level is equal to half your character level.
 

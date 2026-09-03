@@ -17,4 +17,4 @@ Either way, journalism and scientific curiosity opened the door to a life of adv
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in [Society](compendium/skills.md#Society) and [Engineering Lore](compendium/skills.md#Lore). You gain the [Streetwise](compendium/feats/streetwise.md) skill feat.
+You're trained in [Society](skills.md#Society) and [Engineering Lore](skills.md#Lore). You gain the [Streetwise](archive/srd/pf2e/compendium/feats/streetwise.md) skill feat.

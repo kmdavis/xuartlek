@@ -11,10 +11,10 @@ tags:
 aliases: ["Ignite Fireworks"]
 ---
 # Ignite Fireworks *Spell 2*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Area**: 10-foot burst
 - **Saving Throw**: Reflex
@@ -23,11 +23,11 @@ A brilliant and clamorous display of sparks and colorful fireworks explode aroun
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature takes half damage and is [dazzled](rules/conditions.md#Dazzled) for 1 round.
-> - **Failure** The creature takes full damage and is [dazzled](rules/conditions.md#Dazzled) for 3 rounds.
-> - **Critical Failure** The creature takes double damage, takes `1d4` [persistent fire damage](rules/conditions.md#Persistent%20Damage), and is [dazzled](rules/conditions.md#Dazzled) for 1 minute.
+> - **Success** The creature takes half damage and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 round.
+> - **Failure** The creature takes full damage and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 3 rounds.
+> - **Critical Failure** The creature takes double damage, takes `1d4` [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 minute.
 
-**Heightened (+ 2)** The initial fire damage increases by `1d8`, the sonic damage increases by `1d8`, and the [persistent fire damage](rules/conditions.md#Persistent%20Damage) a creature takes on a critical failure increases by `1d4`.
+**Heightened (+ 2)** The initial fire damage increases by `1d8`, the sonic damage increases by `1d8`, and the [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) a creature takes on a critical failure increases by `1d4`.
 
 **Spell Lists**: Elemental
 

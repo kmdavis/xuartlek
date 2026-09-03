@@ -7,14 +7,14 @@ tags:
 aliases: ["Studious Magic"]
 ---
 # Studious Magic  *Feat 1*  
-[anadi](rules/traits/anadi-lome.md "Anadi Ancestry & Heritage Trait")  
+[anadi](anadi-lome.md "Anadi Ancestry & Heritage Trait")  
 
 
 You've taken an interest in anadi arcane traditions. Choose one cantrip from the arcane spell list. You can cast this spell as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
 
 ## Studious Magic leads to...
 
-[Studious Adept](compendium/feats/studious-adept-lome.md)
+[Studious Adept](studious-adept-lome.md)
 
 ## Summary
 

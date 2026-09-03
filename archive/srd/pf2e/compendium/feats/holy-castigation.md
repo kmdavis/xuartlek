@@ -7,15 +7,15 @@ tags:
 aliases: ["Holy Castigation"]
 ---
 # Holy Castigation  *Feat 1*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: good alignment
 
-You combine holy energy with positive energy to damage demons, devils, and their evil ilk. [Heal](compendium/spells/heal.md) spells you cast damage fiends as though they were undead.
+You combine holy energy with positive energy to damage demons, devils, and their evil ilk. [Heal](archive/srd/pf2e/compendium/spells/heal.md) spells you cast damage fiends as though they were undead.
 
 ## Holy Castigation leads to...
 
-[Castigating Weapon](compendium/feats/castigating-weapon.md)
+[Castigating Weapon](archive/srd/pf2e/compendium/feats/castigating-weapon.md)
 
 ## Summary
 

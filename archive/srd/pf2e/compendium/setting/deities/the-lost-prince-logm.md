@@ -20,8 +20,8 @@ aliases: ["The Lost Prince", "The Melancholy Lord"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
-- **Domains**: [knowledge](compendium/setting/domains.md#Knowledge), [repose](compendium/setting/domains.md#Repose), [sorrow](compendium/setting/domains.md#Sorrow), [vigil](compendium/setting/domains.md#Vigil)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 4th: [modify memory](compendium/spells/modify-memory.md); 5th: [crushing despair](compendium/spells/crushing-despair.md)
+- **Favored Weapon**: [staff](archive/srd/pf2e/compendium/equipment/items/staff.md)
+- **Domains**: [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 4th: [modify memory](modify-memory.md); 5th: [crushing despair](crushing-despair.md)

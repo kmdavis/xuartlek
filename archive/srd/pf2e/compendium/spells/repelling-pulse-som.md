@@ -10,10 +10,10 @@ tags:
 aliases: ["Repelling Pulse"]
 ---
 # Repelling Pulse *Spell 5*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [force](archive/srd/pf2e/rules/traits/force.md "Force Energy & Element Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 30-foot emanation
 - **Saving Throw**: Reflex
 
@@ -23,7 +23,7 @@ You unleash a powerful pulse of telekinetic power, and the pulse violently hurls
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
 > - **Failure** The creature takes full damage and is pushed 10 feet away from you.
-> - **Critical Failure** The creature takes double damage. The creature is pushed 20 feet away from you and is then knocked [prone](rules/conditions.md#Prone).
+> - **Critical Failure** The creature takes double damage. The creature is pushed 20 feet away from you and is then knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone).
 
 **Heightened (+ 2)** The force damage increases by `2d10`, and the distance the target is moved on a failure and critical failure increases by 5 feet.
 

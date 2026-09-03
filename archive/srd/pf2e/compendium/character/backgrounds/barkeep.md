@@ -15,4 +15,4 @@ You have five specialties: hefting barrels, drinking, polishing steins, drinking
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Alcohol Lore](compendium/skills.md#Lore) skill. You gain the [Hobnobber](compendium/feats/hobnobber.md) skill feat.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Alcohol Lore](skills.md#Lore) skill. You gain the [Hobnobber](archive/srd/pf2e/compendium/feats/hobnobber.md) skill feat.

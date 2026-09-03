@@ -11,7 +11,7 @@ tags:
 aliases: ["Bomber's Saddle"]
 ---
 # Bomber's Saddle *Item 13*  
-[companion](rules/traits/companion.md "Companion Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[companion](archive/srd/pf2e/rules/traits/companion.md "Companion Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2800 gp
 - **Bulk** 2; **Usage** worn saddle

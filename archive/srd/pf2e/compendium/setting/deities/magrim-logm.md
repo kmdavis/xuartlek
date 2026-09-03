@@ -20,8 +20,8 @@ aliases: ["Magrim", "The Taskmaster"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Crafting
-- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [duty](compendium/setting/domains.md#Duty), [glyph](compendium/setting/domains.md#Glyph), [fate](compendium/setting/domains.md#Fate)
-- **Cleric Spells**: 1st: [temporary tool](compendium/spells/temporary-tool-logm.md); 2nd: [expeditious excavation](compendium/spells/expeditious-excavation-logm.md); 9th: [earthquake](compendium/spells/earthquake.md)
+- **Favored Weapon**: [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate)
+- **Cleric Spells**: 1st: [temporary tool](temporary-tool-logm.md); 2nd: [expeditious excavation](expeditious-excavation-logm.md); 9th: [earthquake](archive/srd/pf2e/compendium/spells/earthquake.md)

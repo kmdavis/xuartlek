@@ -10,7 +10,7 @@ tags:
 aliases: ["Storm Flash"]
 ---
 # Storm Flash *Item 14+*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
@@ -45,7 +45,7 @@ title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Price**: 21000 gp
 
-This is a +3 greater striking greater shock rapier. When activating the sword to cast [lightning bolt](compendium/spells/lightning-bolt.md), the spell is 8th level (DC 38).
+This is a +3 greater striking greater shock rapier. When activating the sword to cast [lightning bolt](archive/srd/pf2e/compendium/spells/lightning-bolt.md), the spell is 8th level (DC 38).
 
 ---
 *Source: Core Rulebook p. 602*

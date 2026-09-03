@@ -12,7 +12,7 @@ tags:
 aliases: ["Elven Branched Spear"]
 ---
 # Elven Branched Spear *Item 0*  
-[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [elf](archive/srd/pf2e/rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

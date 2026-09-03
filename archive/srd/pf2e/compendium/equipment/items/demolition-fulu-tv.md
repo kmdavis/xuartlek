@@ -11,11 +11,11 @@ tags:
 aliases: ["Demolition Fulu"]
 ---
 # Demolition Fulu *Item 3+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [evocation](evocation.md "Evocation School Trait")  [fulu](fulu-som.md "Fulu Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** —; **Usage** affixed to an object or structure
 
-A demolition fulu allows a saboteur or excavator to be far away from the scene when demolition happens. The fulu crumbles to ash over 5 minutes to 8 hours, as you determine when you place the fulu. Once the duration ends, the fulu lowers the Hardness of the object it's affixed to by an amount equal to the fulu's level and then deals the listed damage to the object. A demolition fulu serves as a hazard with a [Stealth](compendium/skills.md#Stealth) DC to detect it and [Thievery](compendium/skills.md#Thievery) DC to disable it according to its type.
+A demolition fulu allows a saboteur or excavator to be far away from the scene when demolition happens. The fulu crumbles to ash over 5 minutes to 8 hours, as you determine when you place the fulu. Once the duration ends, the fulu lowers the Hardness of the object it's affixed to by an amount equal to the fulu's level and then deals the listed damage to the object. A demolition fulu serves as a hazard with a [Stealth](skills.md#Stealth) DC to detect it and [Thievery](skills.md#Thievery) DC to disable it according to its type.
 
 ---
 

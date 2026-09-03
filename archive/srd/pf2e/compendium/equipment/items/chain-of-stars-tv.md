@@ -12,7 +12,7 @@ tags:
 aliases: ["Chain of Stars"]
 ---
 # Chain of Stars *Item 8*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [evocation](evocation.md "Evocation School Trait")  [force](archive/srd/pf2e/rules/traits/force.md "Force Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 100 gp
 - **Bulk** —; **Usage** affixed to a thrown weapon

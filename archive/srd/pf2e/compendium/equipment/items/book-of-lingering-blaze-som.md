@@ -10,7 +10,7 @@ tags:
 aliases: ["Book Of Lingering Blaze"]
 ---
 # Book Of Lingering Blaze *Item 10*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 900 gp
 - **Bulk** L

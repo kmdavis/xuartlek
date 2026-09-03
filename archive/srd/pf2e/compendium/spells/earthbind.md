@@ -8,10 +8,10 @@ tags:
 aliases: ["Earthbind"]
 ---
 # Earthbind *Spell 3*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Targets**: 1 flying creature
 - **Saving Throw**: Fortitude
@@ -22,8 +22,8 @@ Using the weight of earth, you hamper a target's flight, with effects based on i
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target falls safely up to 120 feet.
-> - **Failure** The target falls safely up to 120 feet. If it hits the ground, it can't [Fly](rules/actions/fly.md), levitate, or otherwise leave the ground for 1 round.
-> - **Critical Failure** The target falls safely up to 120 feet. If it hits the ground, it can't [Fly](rules/actions/fly.md), levitate, or otherwise leave the ground for 1 minute.
+> - **Failure** The target falls safely up to 120 feet. If it hits the ground, it can't [Fly](archive/srd/pf2e/rules/actions/fly.md), levitate, or otherwise leave the ground for 1 round.
+> - **Critical Failure** The target falls safely up to 120 feet. If it hits the ground, it can't [Fly](archive/srd/pf2e/rules/actions/fly.md), levitate, or otherwise leave the ground for 1 minute.
 
 **Spell Lists**: Elemental
 

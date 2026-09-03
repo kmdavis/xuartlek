@@ -10,11 +10,11 @@ tags:
 aliases: ["Poisonous Dagger"]
 ---
 # Poisonous Dagger *Item 5*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 150 gp
 
-This dagger has an image of a snake emblazoned on its blade. When you critically succeed at an attack roll with the dagger, magical fangs emerge and poison the target, dealing `1d4` [persistent poison damage](rules/conditions.md#Persistent%20Damage).
+This dagger has an image of a snake emblazoned on its blade. When you critically succeed at an attack roll with the dagger, magical fangs emerge and poison the target, dealing `1d4` [persistent poison damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
 
 ---

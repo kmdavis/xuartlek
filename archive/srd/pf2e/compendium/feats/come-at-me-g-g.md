@@ -7,9 +7,9 @@ tags:
 aliases: ["Come At Me!"]
 ---
 # Come At Me!  *Feat 14*  
-[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
+[gunslinger](archive/srd/pf2e/rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
-- **Prerequisites**: [Pistolero's Challenge](compendium/feats/pistoleros-challenge-g-g.md)
+- **Prerequisites**: [Pistolero's Challenge](pistoleros-challenge-g-g.md)
 
 You're a legendary duelist, welcoming all challengers, enabling you to challenge many foes even while other challenges are active. There is no longer a limit to the number of Pistolero's Challenges you can have in effect at one time.
 

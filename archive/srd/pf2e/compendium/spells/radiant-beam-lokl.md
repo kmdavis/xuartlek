@@ -12,14 +12,14 @@ tags:
 aliases: ["Radiant Beam"]
 ---
 # Radiant Beam *Spell 4*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [good](good.md "Good Alignment Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 120-foot line
 - **Saving Throw**:  basic Reflex
 
-You fire a beam of blinding light from your outstretched hands. The beam deals `5d10` good damage. On a failed saving throw, a creature becomes [dazzled](rules/conditions.md#Dazzled) for 1 round, or [dazzled](rules/conditions.md#Dazzled) for 4 rounds on a critical failure.
+You fire a beam of blinding light from your outstretched hands. The beam deals `5d10` good damage. On a failed saving throw, a creature becomes [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 round, or [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 4 rounds on a critical failure.
 
 If the light passes through an area of magical darkness or targets a creature affected by magical darkness, radiant beam attempts to counteract the darkness. If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the target.
 

@@ -15,4 +15,4 @@ Mineral formations can be beautiful things, sparkling and arrayed in geometric c
 
 Choose two attribute boosts. One must be to Wisdom or Charisma and one is a free attribute boost.
 
-You're trained in the [Nature](compendium/skills.md#Nature) skill and the Plane of [Earth Lore](compendium/skills.md#Lore) skill. You gain the [Natural Medicine](compendium/feats/natural-medicine.md) skill feat.
+You're trained in the [Nature](skills.md#Nature) skill and the Plane of [Earth Lore](skills.md#Lore) skill. You gain the [Natural Medicine](archive/srd/pf2e/compendium/feats/natural-medicine.md) skill feat.

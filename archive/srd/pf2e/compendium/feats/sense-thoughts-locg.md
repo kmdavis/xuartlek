@@ -8,11 +8,11 @@ tags:
 aliases: ["Sense Thoughts"]
 ---
 # Sense Thoughts  *Feat 9*  
-[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[elf](archive/srd/pf2e/rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Share Thoughts](compendium/feats/share-thoughts-locg.md)
+- **Prerequisites**: [Share Thoughts](share-thoughts-locg.md)
 
-You have an even stranger knack for knowing what other people are thinking. You can cast [mind reading](compendium/spells/mind-reading.md) as an innate occult spell once per day.
+You have an even stranger knack for knowing what other people are thinking. You can cast [mind reading](archive/srd/pf2e/compendium/spells/mind-reading.md) as an innate occult spell once per day.
 
 *Source: Lost Omens: Character Guide p. 27*  
 %% #compendium/src/pf2e/locg #trait/elf #trait/uncommon %%

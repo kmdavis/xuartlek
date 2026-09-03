@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Defend Mount"]
 ---
-# Defend Mount  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Defend Mount  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
+- **Prerequisites**: [Cavalier Dedication](cavalier-dedication-apg.md)
 - **Trigger** An enemy makes an attack roll against your mount while you're riding it.
 - **Activity** Reaction
 

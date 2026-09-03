@@ -7,11 +7,11 @@ tags:
 aliases: ["Greater Mercy"]
 ---
 # Greater Mercy  *Feat 8*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
-- **Prerequisites**: [Mercy](compendium/feats/mercy.md)
+- **Prerequisites**: [Mercy](archive/srd/pf2e/compendium/feats/mercy.md)
 
-Your faith enhances your ability to remove conditions. When you use [Mercy](compendium/feats/mercy.md), you can instead attempt to counteract the [blinded](rules/conditions.md#Blinded), [deafened](rules/conditions.md#Deafened), [sickened](rules/conditions.md#Sickened), or [slowed](rules/conditions.md#Slowed) conditions.
+Your faith enhances your ability to remove conditions. When you use [Mercy](archive/srd/pf2e/compendium/feats/mercy.md), you can instead attempt to counteract the [blinded](archive/srd/pf2e/rules/conditions.md#Blinded), [deafened](archive/srd/pf2e/rules/conditions.md#Deafened), [sickened](archive/srd/pf2e/rules/conditions.md#Sickened), or [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) conditions.
 
 *Source: Core Rulebook p. 112*  
 %% #compendium/src/pf2e/crb #trait/champion %%

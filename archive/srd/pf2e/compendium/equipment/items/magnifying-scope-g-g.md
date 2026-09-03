@@ -9,12 +9,12 @@ tags:
 aliases: ["Magnifying Scope"]
 ---
 # Magnifying Scope *Item 3+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L; **Usage** attached <to firearm or crossbow (scope)>
 - **Category** Scope
 
-These scopes use magically enhanced lenses to extend the range of your weapon and help spot distant foes. The scope grants you a +1 item bonus to visual [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) creatures through the scope.
+These scopes use magically enhanced lenses to extend the range of your weapon and help spot distant foes. The scope grants you a +1 item bonus to visual [Perception](skills.md#Perception) checks to [Seek](archive/srd/pf2e/rules/actions/seek.md) creatures through the scope.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

@@ -8,14 +8,14 @@ tags:
 aliases: ["Summon Fey"]
 ---
 # Summon Fey *Spell 1*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  
 
-- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 30 foot
 - **Duration**: sustained up to 1 minute
 
-You conjure a fey to fight for you. This works like [summon animal](compendium/spells/summon-animal.md), except you summon a common creature that has the [fey](rules/traits/fey.md "Fey Creature Type Trait") trait and whose level is –1.
+You conjure a fey to fight for you. This works like [summon animal](archive/srd/pf2e/compendium/spells/summon-animal.md), except you summon a common creature that has the [fey](archive/srd/pf2e/rules/traits/fey.md "Fey Creature Type Trait") trait and whose level is –1.
 
 **Heightened (10th)** Level 15.
 

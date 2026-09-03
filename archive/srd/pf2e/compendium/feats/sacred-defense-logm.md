@@ -8,14 +8,14 @@ tags:
 - trait/skill
 aliases: ["Sacred Defense"]
 ---
-# Sacred Defense  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 7*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+# Sacred Defense  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 7*  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: master in [Religion](compendium/skills.md#Religion), you follow a deity
+- **Prerequisites**: master in [Religion](skills.md#Religion), you follow a deity
 - **Frequency**: once per hour
 - **Activity** Single Action
 
-You call upon your deity to grant you their protective blessing. Attempt a DC 30 [Religion](compendium/skills.md#Religion) check. If you have legendary proficiency in [Religion](compendium/skills.md#Religion), you can instead attempt a DC 40 [Religion](compendium/skills.md#Religion) check to increase the temporary Hit Points you gain on a successful check to 15 (25 on a critical success).
+You call upon your deity to grant you their protective blessing. Attempt a DC 30 [Religion](skills.md#Religion) check. If you have legendary proficiency in [Religion](skills.md#Religion), you can instead attempt a DC 40 [Religion](skills.md#Religion) check to increase the temporary Hit Points you gain on a successful check to 15 (25 on a critical success).
 
 > [!success-degree] 
 > - **Critical Success** You gain 10 temporary Hit Points. You lose any remaining temporary Hit Points after 1 minute.

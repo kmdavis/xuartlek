@@ -8,11 +8,11 @@ tags:
 aliases: ["Position the Hunters"]
 ---
 # Position the Hunters
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #2: Cult of Cinders p. 20*  
 
 
-With the target game animals located, you must move to an advantageous position without startling the prey. Attempt a [Stealth](compendium/skills.md#Stealth) check. Against an impressive and dangerous find, the DC is 25. Against standard game, it's DC 20. Against river turtles, bats, and lesser game, it's DC 15.
+With the target game animals located, you must move to an advantageous position without startling the prey. Attempt a [Stealth](skills.md#Stealth) check. Against an impressive and dangerous find, the DC is 25. Against standard game, it's DC 20. Against river turtles, bats, and lesser game, it's DC 15.
 
 > [!success-degree] 
 > - **Critical Success** The animals have no indication that they are in danger, and you gain a +2 circumstance bonus to rolls made during the hunting phase.

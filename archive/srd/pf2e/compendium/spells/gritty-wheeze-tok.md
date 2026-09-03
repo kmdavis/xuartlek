@@ -12,10 +12,10 @@ tags:
 aliases: ["Gritty Wheeze"]
 ---
 # Gritty Wheeze *Spell 1*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot cone
 - **Saving Throw**: Fortitude
 - **Duration**: see below
@@ -25,8 +25,8 @@ You exhale desiccating grit and sand in a small cloud. Creatures in the area tak
 > [!success-degree] 
 > - **Critical Success** The creature takes no damage.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and is [dazzled](rules/conditions.md#Dazzled) for 1 round.
-> - **Critical Failure** The creature takes double damage and is [dazzled](rules/conditions.md#Dazzled) for 1 minute.
+> - **Failure** The creature takes full damage and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 round.
+> - **Critical Failure** The creature takes double damage and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 minute.
 
 **Heightened (+ 1)** The damage increases by `2d4`.
 

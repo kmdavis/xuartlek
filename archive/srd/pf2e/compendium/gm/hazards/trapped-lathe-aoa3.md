@@ -9,14 +9,14 @@ tags:
 aliases: ["Trapped Lathe"]
 ---
 # Trapped Lathe *Hazard 10*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +19 expert DC 29 to notice the line of cord running from the lathe's trigger toward the door to area **A2**.  
 
 The powered lathe's springs have been critically overwound so that when jostled or triggered, the lathe unwinds violently, hurling blades, gears, and sharp shards of metal around the room.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 31 (expert) on the lathe releases the tension on its springs without unleashing its blades and gears.  
+- **Disable** [Thievery](skills.md#Thievery) DC 31 (expert) on the lathe releases the tension on its springs without unleashing its blades and gears.  
 
 - **AC** 30, **Fort** +22, **Ref** +14
 - **Hardness** 18, **HP** 72 (BT 36)

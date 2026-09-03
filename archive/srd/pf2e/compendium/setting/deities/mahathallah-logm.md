@@ -22,11 +22,11 @@ aliases: ["Mahathallah", "Dowager of Illusions"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Deception
 - **Favored Weapon**: bola
-- **Domains**: [fate](compendium/setting/domains.md#Fate), [trickery](compendium/setting/domains.md#Trickery), [truth](compendium/setting/domains.md#Truth), [undeath](compendium/setting/domains.md#Undeath)
-- **Cleric Spells**: 1st: [illusory disguise](compendium/spells/illusory-disguise.md); 2nd: [misdirection](compendium/spells/misdirection.md); 5th: [illusory scene](compendium/spells/illusory-scene.md)
+- **Domains**: [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth), [undeath](archive/srd/pf2e/compendium/setting/domains.md#Undeath)
+- **Cleric Spells**: 1st: [illusory disguise](archive/srd/pf2e/compendium/spells/illusory-disguise.md); 2nd: [misdirection](misdirection.md); 5th: [illusory scene](archive/srd/pf2e/compendium/spells/illusory-scene.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Mahathallah

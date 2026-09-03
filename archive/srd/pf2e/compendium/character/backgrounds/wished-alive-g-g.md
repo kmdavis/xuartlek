@@ -15,4 +15,4 @@ Once you were a simple construct or inanimate doll, but due to a deeply felt wis
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill. Once per day, you can fervently wish for something you could work towards achieving as a single action which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. If you do, you gain a +2 circumstance bonus on the first skill check you attempt before the end of your turn to fulfill that wish.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill. Once per day, you can fervently wish for something you could work towards achieving as a single action which has the [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. If you do, you gain a +2 circumstance bonus on the first skill check you attempt before the end of your turn to fulfill that wish.

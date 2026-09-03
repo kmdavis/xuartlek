@@ -7,11 +7,11 @@ tags:
 aliases: ["Fortified Flesh"]
 ---
 # Fortified Flesh  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
+- **Prerequisites**: [Ka Stone Ritual](ka-stone-ritual-lowg.md)
 
-Your flesh takes on the hardness of stone. You gain resistance to physical damage (except adamantine) equal to your number of class feats from the [Living Monolith](compendium/character/archetypes/living-monolith-lowg.md) archetype.
+Your flesh takes on the hardness of stone. You gain resistance to physical damage (except adamantine) equal to your number of class feats from the [Living Monolith](living-monolith-lowg.md) archetype.
 
 *Source: Lost Omens: World Guide p. 59*  
 %% #compendium/src/pf2e/lowg #trait/archetype %%

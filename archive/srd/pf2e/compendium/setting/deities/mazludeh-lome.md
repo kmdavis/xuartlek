@@ -24,14 +24,14 @@ aliases: ["Mazludeh", "Mother of Hearth and Wall"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [shield boss](compendium/equipment/items/shield-boss.md)
-- **Domains**: [cities](compendium/setting/domains.md#Cities), [family](compendium/setting/domains.md#Family), [knowledge](compendium/setting/domains.md#Knowledge), [perfection](compendium/setting/domains.md#Perfection)
-- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty), [nature](compendium/setting/domains.md#Nature)
-- **Cleric Spells**: 1st: share lore; 4th: [shape stone](compendium/spells/shape-stone.md); 5th: [wall of stone](compendium/spells/wall-of-stone.md)
+- **Favored Weapon**: [shield boss](archive/srd/pf2e/compendium/equipment/items/shield-boss.md)
+- **Domains**: [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection)
+- **Alternate Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature)
+- **Cleric Spells**: 1st: share lore; 4th: [shape stone](archive/srd/pf2e/compendium/spells/shape-stone.md); 5th: [wall of stone](archive/srd/pf2e/compendium/spells/wall-of-stone.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Mazludeh gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Mazludeh gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Mazludeh

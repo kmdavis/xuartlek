@@ -9,11 +9,11 @@ tags:
 aliases: ["Codebreaker's Parchment"]
 ---
 # Codebreaker's Parchment *Item 3+*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L; **Usage** held in 2 hands
 
-This finely crafted, seemingly mundane parchment is useful for writing sensitive documents. When words are written on this parchment, they instantly scramble into unrecognizable script, requiring a DC 20 check to [Decipher Writing](rules/actions/decipher-writing.md).
+This finely crafted, seemingly mundane parchment is useful for writing sensitive documents. When words are written on this parchment, they instantly scramble into unrecognizable script, requiring a DC 20 check to [Decipher Writing](archive/srd/pf2e/rules/actions/decipher-writing.md).
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command
@@ -41,13 +41,13 @@ You light the parchment on fire, burning the words off while leaving the parchme
 
 - **Price**: 950 gp
 
-The DC to [Decipher Writing](rules/actions/decipher-writing.md) is 30 and requires master proficiency.
+The DC to [Decipher Writing](archive/srd/pf2e/rules/actions/decipher-writing.md) is 30 and requires master proficiency.
 
 #### major codebreaker's parchment *Item 17*
 
 - **Price**: 14500 gp
 
-The DC to [Decipher Writing](rules/actions/decipher-writing.md) is 40 and requires legendary proficiency.
+The DC to [Decipher Writing](archive/srd/pf2e/rules/actions/decipher-writing.md) is 40 and requires legendary proficiency.
 
 ---
 *Source: Secrets of Magic p. 182*

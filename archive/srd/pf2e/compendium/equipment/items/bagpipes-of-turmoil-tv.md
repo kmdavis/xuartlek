@@ -11,12 +11,12 @@ tags:
 aliases: ["Bagpipes of Turmoil"]
 ---
 # Bagpipes of Turmoil *Item 4+*  
-[coda](rules/traits/coda-tv.md "Coda Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[coda](coda-tv.md "Coda Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 2 hands
 
-While those who appreciate bagpipes may like the sound of this gray reed and black leather instrument, its real purpose is to sow turmoil against a performer's enemies, spreading discord with each note. While playing the bagpipes, you gain a +1 item bonus to [Performance](compendium/skills.md#Performance) checks and to [Intimidation](compendium/skills.md#Intimidation) checks made to [Demoralize](rules/actions/demoralize.md).
+While those who appreciate bagpipes may like the sound of this gray reed and black leather instrument, its real purpose is to sow turmoil against a performer's enemies, spreading discord with each note. While playing the bagpipes, you gain a +1 item bonus to [Performance](skills.md#Performance) checks and to [Intimidation](skills.md#Intimidation) checks made to [Demoralize](archive/srd/pf2e/rules/actions/demoralize.md).
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

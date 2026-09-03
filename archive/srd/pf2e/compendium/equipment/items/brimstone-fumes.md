@@ -12,11 +12,11 @@ tags:
 aliases: ["Brimstone Fumes"]
 ---
 # Brimstone Fumes *Item 16*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [evil](evil.md "Evil Alignment Trait")  [inhaled](archive/srd/pf2e/rules/traits/inhaled.md "Inhaled Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 1500 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Fumes from the forges of Hell drain health and strength alike.
 

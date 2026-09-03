@@ -9,10 +9,10 @@ tags:
 aliases: ["Infernal Pact"]
 ---
 # Infernal Pact *Ritual 1*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
-- **Primary Checks** [Religion](compendium/skills.md#Religion) (expert; you must be a devil)
+- **Primary Checks** [Religion](skills.md#Religion) (expert; you must be a devil)
 - 
 
 You make an appeal to a powerful devil, asking it to bind some of its subordinates to your service. If you succeed, the devil sends you its choice of one devil whose level is no more than double _infernal pact's_ level, two devils whose levels are each at least 2 less than double the spell level, or three devils whose levels are each at least 3 less than double the spell level.

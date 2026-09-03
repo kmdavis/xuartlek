@@ -11,8 +11,8 @@ tags:
 - trait/primal
 aliases: ["All Shall End in Flames"]
 ---
-# All Shall End in Flames  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 18*  
-[death](rules/traits/death.md "Death Effect Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# All Shall End in Flames  [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 18*  
+[death](archive/srd/pf2e/rules/traits/death.md "Death Effect Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [overflow](overflow-roe.md "Overflow Action & Ability Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Three-Action
 

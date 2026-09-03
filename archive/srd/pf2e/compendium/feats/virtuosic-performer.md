@@ -8,11 +8,11 @@ tags:
 aliases: ["Virtuosic Performer"]
 ---
 # Virtuosic Performer  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Performance](compendium/skills.md#Performance)
+- **Prerequisites**: trained in [Performance](skills.md#Performance)
 
-You have exceptional talent with one type of performance. You gain a +1 circumstance bonus when making a certain type of performance. If you are a master in [Performance](compendium/skills.md#Performance), this bonus increases to +2. Select one of the following specialties and apply the bonus when attempting [Performance](compendium/skills.md#Performance) checks of that type. If it's unclear whether the specialty applies, the GM decides.
+You have exceptional talent with one type of performance. You gain a +1 circumstance bonus when making a certain type of performance. If you are a master in [Performance](skills.md#Performance), this bonus increases to +2. Select one of the following specialties and apply the bonus when attempting [Performance](skills.md#Performance) checks of that type. If it's unclear whether the specialty applies, the GM decides.
 
 | Specialty | Examples |
 |-----------|----------|
@@ -29,7 +29,7 @@ You have exceptional talent with one type of performance. You gain a +1 circumst
 
 ## Virtuosic Performer leads to...
 
-[Legendary Performer](compendium/feats/legendary-performer.md)
+[Legendary Performer](archive/srd/pf2e/compendium/feats/legendary-performer.md)
 
 ## Summary
 

@@ -7,12 +7,12 @@ tags:
 aliases: ["Shadow's Web"]
 ---
 # Shadow's Web  *Feat 14*  
-[monk](rules/traits/monk.md "Monk Class Trait")  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: ki spells
 - **Requirements**: You are in Clinging Shadows Initiate.
 
-You launch a wave of shadowy ki outward from your body, damaging your opponents and potentially binding them in place. You gain the [shadow's web](compendium/spells/shadows-web-apg.md) ki spell.
+You launch a wave of shadowy ki outward from your body, damaging your opponents and potentially binding them in place. You gain the [shadow's web](archive/srd/pf2e/compendium/spells/shadows-web-apg.md) ki spell.
 
 Increase the number of Focus Points in your focus pool by 1.
 

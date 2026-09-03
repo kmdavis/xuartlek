@@ -9,7 +9,7 @@ tags:
 aliases: ["Scizore"]
 ---
 # Scizore *Item 0*  
-[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  
+[disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [parry](archive/srd/pf2e/rules/traits/parry.md "Parry Weapon Trait")  
 
 - **Price** 9 sp
 - **Bulk** L

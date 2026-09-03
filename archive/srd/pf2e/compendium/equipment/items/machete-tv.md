@@ -9,7 +9,7 @@ tags:
 aliases: ["Machete"]
 ---
 # Machete *Item 0*  
-[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  
 
 - **Price** 7 sp
 - **Bulk** L

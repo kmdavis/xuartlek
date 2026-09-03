@@ -7,9 +7,9 @@ tags:
 aliases: ["Monster Warden"]
 ---
 # Monster Warden  *Feat 2*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Prerequisites**: [Monster Hunter](compendium/feats/monster-hunter.md)
+- **Prerequisites**: [Monster Hunter](archive/srd/pf2e/compendium/feats/monster-hunter.md)
 
 You understand how to defend yourself and others against your prey. When you grant bonuses from Monster Hunter, you and your allies also each gain a +1 circumstance bonus to your next saving throw against that particular creature and to your AC against that creature's next attack against you.
 

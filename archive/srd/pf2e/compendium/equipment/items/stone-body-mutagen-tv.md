@@ -12,10 +12,10 @@ tags:
 aliases: ["Stone Body Mutagen"]
 ---
 # Stone Body Mutagen *Item 5+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [mutagen](rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [mutagen](archive/srd/pf2e/rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This mutagen calcifies your body, making it as hard as stone. Benefit You gain resistance to physical damage (except bludgeoning) equal to the listed amount.
 

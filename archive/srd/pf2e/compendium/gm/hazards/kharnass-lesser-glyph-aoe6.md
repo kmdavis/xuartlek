@@ -8,14 +8,14 @@ tags:
 aliases: ["Kharnas's Lesser Glyph"]
 ---
 # Kharnas's Lesser Glyph *Hazard 17*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43  
 
-A [hidden](rules/conditions.md#Hidden) glyph suddenly lights up and dominates the mind of any creature not bearing the sigil of Kharnas the Angel-Binder.
+A [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) glyph suddenly lights up and dominates the mind of any creature not bearing the sigil of Kharnas the Angel-Binder.
 
-- **Disable** DC 46 [Thievery](compendium/skills.md#Thievery) (legendary) to destroy the glyph, DC 42 [Arcana](compendium/skills.md#Arcana) (master) to harmlessly divert the glyph's power, or dispel magic (7th level; counteract DC 38) to counteract the glyph.  
+- **Disable** DC 46 [Thievery](skills.md#Thievery) (legendary) to destroy the glyph, DC 42 [Arcana](skills.md#Arcana) (master) to harmlessly divert the glyph's power, or dispel magic (7th level; counteract DC 38) to counteract the glyph.  
 
 ```ad-embed-ability
 title: **Dominate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [enchantment](rules/traits/enchantment.md))

@@ -9,7 +9,7 @@ tags:
 aliases: ["Spellguard Shield"]
 ---
 # Spellguard Shield *Item 6*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 250 gp
 - **Bulk** 1; **Usage** held in 1 hand

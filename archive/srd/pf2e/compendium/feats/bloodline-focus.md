@@ -7,15 +7,15 @@ tags:
 aliases: ["Bloodline Focus"]
 ---
 # Bloodline Focus  *Feat 12*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline spell
 
-Your focus recovers faster. If you have spent at least 2 Focus Points since the last time you [Refocused](rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](rules/actions/refocus.md) instead of 1.
+Your focus recovers faster. If you have spent at least 2 Focus Points since the last time you [Refocused](archive/srd/pf2e/rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](archive/srd/pf2e/rules/actions/refocus.md) instead of 1.
 
 ## Bloodline Focus leads to...
 
-[Bloodline Wellspring](compendium/feats/bloodline-wellspring.md)
+[Bloodline Wellspring](bloodline-wellspring.md)
 
 ## Summary
 

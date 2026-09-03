@@ -17,4 +17,4 @@ You've likely chosen to attend the Call for Heroes as a way to seek funds as an 
 
 Choose two ability boosts. One must be Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and the [Dragon Lore](compendium/skills.md#Lore) skill. You gain the [Intimidating Glare](compendium/feats/intimidating-glare.md) skill feat.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and the [Dragon Lore](skills.md#Lore) skill. You gain the [Intimidating Glare](archive/srd/pf2e/compendium/feats/intimidating-glare.md) skill feat.

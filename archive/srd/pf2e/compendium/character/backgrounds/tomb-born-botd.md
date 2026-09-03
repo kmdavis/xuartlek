@@ -14,7 +14,7 @@ Your parents conceived you for a fell purpose at a site tainted by death, like a
 
 Choose two ability boosts. One must be to Dexterity or Constitution, and one is a free ability boost.
 
-You're trained in the [Undead Lore](compendium/skills.md#Lore) skill. You gain the Final Spite reaction.
+You're trained in the [Undead Lore](skills.md#Lore) skill. You gain the Final Spite reaction.
 
 ```ad-embed-ability
 title: **Final Spite** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

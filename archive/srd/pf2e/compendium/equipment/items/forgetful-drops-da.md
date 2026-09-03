@@ -12,14 +12,14 @@ tags:
 aliases: ["Forgetful Drops"]
 ---
 # Forgetful Drops *Item 3*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [ingested](archive/srd/pf2e/rules/traits/ingested.md "Ingested Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Member of a secret society
 - **Price** 10 gp
 - **Bulk** 1; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-These innocuous, colorless drops can be poured directly into a victim's mouth, or slipped into their food or drink. They initially haze a victim's mind slightly, making them easier to fool; in later stages, they can lead to the victim entering a murderous [confused](rules/conditions.md#Confused) state. Secret societies use these drops to befuddle a target or to frame them for violence.
+These innocuous, colorless drops can be poured directly into a victim's mouth, or slipped into their food or drink. They initially haze a victim's mind slightly, making them easier to fool; in later stages, they can lead to the victim entering a murderous [confused](archive/srd/pf2e/rules/conditions.md#Confused) state. Secret societies use these drops to befuddle a target or to frame them for violence.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 18 Fortitude

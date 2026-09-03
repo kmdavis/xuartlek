@@ -9,7 +9,7 @@ tags:
 aliases: ["Dragon Disciple Dedication"]
 ---
 # Dragon Disciple Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are a kobold with the dragonscaled or spellscaled heritage, a dragon instinct barbarian, or a draconic bloodline sorcerer.
 
@@ -27,13 +27,13 @@ You choose to study or worship one type of dragon, and your focus grants you a m
 
 [1]: Mwangi Expanse, p.76
 
-You also gain a +1 circumstance bonus to saving throws against [sleep](rules/traits/sleep.md "Sleep Effect Trait") effects and effects that would make you [paralyzed](rules/conditions.md#Paralyzed).
+You also gain a +1 circumstance bonus to saving throws against [sleep](archive/srd/pf2e/rules/traits/sleep.md "Sleep Effect Trait") effects and effects that would make you [paralyzed](archive/srd/pf2e/rules/conditions.md#Paralyzed).
 
-**Special.** You can't select another dedication feat until you have gained two other feats from the dragon disciple archetype. If you later take the [sorcerer archetype](compendium/character/archetypes/sorcerer.md), you must choose the draconic bloodline.
+**Special.** You can't select another dedication feat until you have gained two other feats from the dragon disciple archetype. If you later take the [sorcerer archetype](archive/srd/pf2e/compendium/character/archetypes/sorcerer.md), you must choose the draconic bloodline.
 
 ## Dragon Disciple Dedication leads to...
 
-[Breath Of The Dragon](compendium/feats/breath-of-the-dragon-apg.md), [Claws Of The Dragon](compendium/feats/claws-of-the-dragon-apg.md), [Disciple's Breath](compendium/feats/disciples-breath-apg.md), [Draconic Scent](compendium/feats/draconic-scent-apg.md), [Dragon Arcana](compendium/feats/dragon-arcana-apg.md), [Scales Of The Dragon](compendium/feats/scales-of-the-dragon-apg.md), [Shape Of The Dragon](compendium/feats/shape-of-the-dragon-apg.md), [Mighty Dragon Shape](compendium/feats/mighty-dragon-shape-apg.md), [Wings Of The Dragon](compendium/feats/wings-of-the-dragon-apg.md), [Cloud Walk](compendium/feats/cloud-walk-sot3.md), [Deflecting Cloud](compendium/feats/deflecting-cloud-sot3.md), [Mighty Wings](compendium/feats/mighty-wings-sot3.md), [Shape of the Cloud Dragon](compendium/feats/shape-of-the-cloud-dragon-sot3.md)
+[Breath Of The Dragon](breath-of-the-dragon-apg.md), [Claws Of The Dragon](claws-of-the-dragon-apg.md), [Disciple's Breath](disciples-breath-apg.md), [Draconic Scent](draconic-scent-apg.md), [Dragon Arcana](dragon-arcana-apg.md), [Scales Of The Dragon](scales-of-the-dragon-apg.md), [Shape Of The Dragon](shape-of-the-dragon-apg.md), [Mighty Dragon Shape](mighty-dragon-shape-apg.md), [Wings Of The Dragon](wings-of-the-dragon-apg.md), [Cloud Walk](cloud-walk-sot3.md), [Deflecting Cloud](deflecting-cloud-sot3.md), [Mighty Wings](mighty-wings-sot3.md), [Shape of the Cloud Dragon](shape-of-the-cloud-dragon-sot3.md)
 
 ## Summary
 

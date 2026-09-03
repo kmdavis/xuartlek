@@ -13,7 +13,7 @@ aliases: ["Backpack Ballista Bolts"]
 - **Group** Bow 
 
 > [!pf2-note]
-> For use with the [Backpack Ballista](compendium/equipment/items/backpack-ballista-g-g.md).
+> For use with the [Backpack Ballista](backpack-ballista-g-g.md).
 
 
 ---

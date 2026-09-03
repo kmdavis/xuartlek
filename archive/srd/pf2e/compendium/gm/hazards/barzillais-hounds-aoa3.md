@@ -9,14 +9,14 @@ tags:
 aliases: ["Barzillai's Hounds"]
 ---
 # Barzillai's Hounds *Hazard 6*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +17  
 
-Hell hounds [invisible](rules/conditions.md#Invisible) to all but their lone target burn their chosen victim.
+Hell hounds [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) to all but their lone target burn their chosen victim.
 
-- **Disable** [Religion](compendium/skills.md#Religion) DC 24 (expert) to perform an exorcism (with 2 actions)  
+- **Disable** [Religion](skills.md#Religion) DC 24 (expert) to perform an exorcism (with 2 actions)  
 
 ```ad-embed-ability
 title: **Begin the Hunt** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([conjuration](rules/traits/conjuration.md), [occult](rules/traits/occult.md))

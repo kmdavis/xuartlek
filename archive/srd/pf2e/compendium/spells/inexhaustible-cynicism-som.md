@@ -10,17 +10,17 @@ tags:
 aliases: ["Inexhaustible Cynicism"]
 ---
 # Inexhaustible Cynicism *Spell 7*   
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: up to 5 creatures
 - **Saving Throw**: Will
 
-You inflict your targets with a crushing doubt about everyone and everything around them. For the duration, each target is unwilling to receive any effects that require a willing target (in case the effect was secretly an attack), refuse to ingest anything (in case the substances have been replaced with poisons and cursed duplicates), doesn't treat anyone as an ally (in case its friends were replaced by an impostor), and doesn't believe anything it's told (in case of lies, though this doesn't mean the creature automatically believes the opposite either). It doesn't even fully trust its own ability to [Recall Knowledge](rules/actions/recall-knowledge.md), as it becomes convinced it most likely remembered false information, as from a critical failure on a check to [Recall Knowledge](rules/actions/recall-knowledge.md).
+You inflict your targets with a crushing doubt about everyone and everything around them. For the duration, each target is unwilling to receive any effects that require a willing target (in case the effect was secretly an attack), refuse to ingest anything (in case the substances have been replaced with poisons and cursed duplicates), doesn't treat anyone as an ally (in case its friends were replaced by an impostor), and doesn't believe anything it's told (in case of lies, though this doesn't mean the creature automatically believes the opposite either). It doesn't even fully trust its own ability to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md), as it becomes convinced it most likely remembered false information, as from a critical failure on a check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md).
 
-Finally, the creature takes `6d6` mental damage at the end of each of its turns (with no save) unless it spent at least 1 action that turn [Seeking](rules/actions/seek.md) or otherwise [Interacting](rules/actions/interact.md) with its surroundings in an attempt to 0 that it feels are obviously surrounding it.
+Finally, the creature takes `6d6` mental damage at the end of each of its turns (with no save) unless it spent at least 1 action that turn [Seeking](archive/srd/pf2e/rules/actions/seek.md) or otherwise [Interacting](archive/srd/pf2e/rules/actions/interact.md) with its surroundings in an attempt to 0 that it feels are obviously surrounding it.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.

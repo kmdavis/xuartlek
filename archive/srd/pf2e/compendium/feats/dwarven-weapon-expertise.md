@@ -7,11 +7,11 @@ tags:
 aliases: ["Dwarven Weapon Expertise"]
 ---
 # Dwarven Weapon Expertise  *Feat 13*  
-[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
+[dwarf](archive/srd/pf2e/rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Dwarven Weapon Familiarity](compendium/feats/dwarven-weapon-familiarity.md)
+- **Prerequisites**: [Dwarven Weapon Familiarity](archive/srd/pf2e/compendium/feats/dwarven-weapon-familiarity.md)
 
-Your dwarven affinity blends with your training, granting you great skill with dwarven weapons. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for [battle axes](compendium/equipment/items/battle-axe.md), [picks](compendium/equipment/items/pick.md), [warhammers](compendium/equipment/items/warhammer.md), and all dwarven weapons in which you are trained.
+Your dwarven affinity blends with your training, granting you great skill with dwarven weapons. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for [battle axes](archive/srd/pf2e/compendium/equipment/items/battle-axe.md), [picks](archive/srd/pf2e/compendium/equipment/items/pick.md), [warhammers](archive/srd/pf2e/compendium/equipment/items/warhammer.md), and all dwarven weapons in which you are trained.
 
 *Source: Core Rulebook p. 37*  
 %% #compendium/src/pf2e/crb #trait/dwarf %%

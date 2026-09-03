@@ -9,15 +9,15 @@ tags:
 aliases: ["True Strike"]
 ---
 # True Strike *Spell 1*   
-[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
+[divination](divination.md "Divination School Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - 
 - **Duration**: until the end of your turn
 
 A glimpse into the future ensures your next blow strikes true.
 
-The next time you make an attack roll before the end of your turn, roll the attack twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [concealed](rules/conditions.md#Concealed) or [hidden](rules/conditions.md#Hidden).
+The next time you make an attack roll before the end of your turn, roll the attack twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) or [hidden](archive/srd/pf2e/rules/conditions.md#Hidden).
 
 *Source: Core Rulebook p. 379*

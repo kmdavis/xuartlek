@@ -12,13 +12,13 @@ tags:
 aliases: ["Philosopher's Extractor"]
 ---
 # Philosopher's Extractor *Item 28*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** 8
 
 This bizarre machine is a complex arrangement of flasks, tubes, and other alchemical equipment. The philosopher's extractor is designed to create the ultimate alchemical concoctions.
 
-The extractor functions as an exceptional set of [alchemist's tools](compendium/equipment/items/alchemists-tools.md), granting a +4 item bonus to [Crafting](compendium/skills.md#Crafting) checks related to alchemy. When using the extractor to [Craft](rules/actions/craft.md) an alchemical item or with infused reagents as part of your daily preparations, you can create impeccable alchemical items. An impeccable alchemical item always uses the maximum numerical value possible for any rolls it requires, such as dealing maximum damage with alchemist's fire or restoring the maximum number of Hit Points with an elixir of life. If the impeccable item has a duration, it lasts twice as long as normal. Finally, an impeccable alchemical item never has a drawback.
+The extractor functions as an exceptional set of [alchemist's tools](alchemists-tools.md), granting a +4 item bonus to [Crafting](skills.md#Crafting) checks related to alchemy. When using the extractor to [Craft](archive/srd/pf2e/rules/actions/craft.md) an alchemical item or with infused reagents as part of your daily preparations, you can create impeccable alchemical items. An impeccable alchemical item always uses the maximum numerical value possible for any rolls it requires, such as dealing maximum damage with alchemist's fire or restoring the maximum number of Hit Points with an elixir of life. If the impeccable item has a duration, it lasts twice as long as normal. Finally, an impeccable alchemical item never has a drawback.
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md)

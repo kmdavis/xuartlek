@@ -8,10 +8,10 @@ tags:
 aliases: ["Unfettered Pack"]
 ---
 # Unfettered Pack *Spell 7*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  
 
-- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: up to 10 creatures
 - **Duration**: 1 hour

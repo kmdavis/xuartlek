@@ -7,14 +7,14 @@ tags:
 aliases: ["Crushing Gate Trap"]
 ---
 # Crushing Gate Trap *Hazard 16*  
-[trap](rules/traits/trap.md "Trap Hazard Trait")  
+[trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 42 master to spot the triggering rod beneath the black sand.  
 
-A [hidden](rules/conditions.md#Hidden) stone rod causes two immense stone doors to fall forward from their gate, crushing anything beneath them. The doors also fall forward if touched.
+A [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) stone rod causes two immense stone doors to fall forward from their gate, crushing anything beneath them. The doors also fall forward if touched.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 42 (expert) to secure the doors in place without triggering the trap.  
+- **Disable** [Thievery](skills.md#Thievery) DC 42 (expert) to secure the doors in place without triggering the trap.  
 
 - **AC** 40, **Fort** +32, **Ref** +25
 - **Hardness** 26, **HP** 104 (BT 52)

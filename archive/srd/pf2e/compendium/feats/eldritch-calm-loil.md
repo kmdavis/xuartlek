@@ -7,15 +7,15 @@ tags:
 aliases: ["Eldritch Calm"]
 ---
 # Eldritch Calm  *Feat 13*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Prerequisites**: [Fey Influence](compendium/feats/fey-influence-loil.md)
+- **Prerequisites**: [Fey Influence](fey-influence-loil.md)
 
-Your fey heritage has altered your mindset to more resemble the uncanny perspective of the fey. While you are not emotionless, and indeed might be [prone](rules/conditions.md#Prone) to fits of odd moods and tempers, many perceive you as having an aura of unshakable tranquility. When you roll a critical failure against an [emotion](rules/traits/emotion.md "Emotion Effect Trait") or [fear](rules/traits/fear.md "Fear Effect Trait") effect, you get a failure instead. Once per day in place of attempting a saving throw against an [emotion](rules/traits/emotion.md "Emotion Effect Trait") or [fear](rules/traits/fear.md "Fear Effect Trait") effect, you can automatically treat your result as though you had rolled a 20; this is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect.
+Your fey heritage has altered your mindset to more resemble the uncanny perspective of the fey. While you are not emotionless, and indeed might be [prone](archive/srd/pf2e/rules/conditions.md#Prone) to fits of odd moods and tempers, many perceive you as having an aura of unshakable tranquility. When you roll a critical failure against an [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") or [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effect, you get a failure instead. Once per day in place of attempting a saving throw against an [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") or [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effect, you can automatically treat your result as though you had rolled a 20; this is a [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait") effect.
 
-However, your extraordinary emotional detachment makes it difficult to encourage you. You reduce any bonus you gain from an [emotion](rules/traits/emotion.md "Emotion Effect Trait") effect by 1.
+However, your extraordinary emotional detachment makes it difficult to encourage you. You reduce any bonus you gain from an [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") effect by 1.
 
-**Special.** This feat gains the trait appropriate for your ancestry ([human](rules/traits/human.md "Human Ancestry & Heritage Trait") for human, [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait") for goblin, etc.).
+**Special.** This feat gains the trait appropriate for your ancestry ([human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait") for human, [goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait") for goblin, etc.).
 
 *Source: Lost Omens: Impossible Lands p. 128*  
 %% #compendium/src/pf2e/loil #trait/rare %%

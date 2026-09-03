@@ -13,10 +13,10 @@ tags:
 aliases: ["Stoke The Heart"]
 ---
 # Stoke The Heart *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [hex](hex-apg.md "Hex Combat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](archive/srd/pf2e/rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Duration**: sustained up to 1 minute

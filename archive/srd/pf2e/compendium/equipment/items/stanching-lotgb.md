@@ -10,11 +10,11 @@ tags:
 aliases: ["Stanching"]
 ---
 # Stanching *Item 5+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** etched onto armor
 
-These symbols close bloody wounds. Armor with this rune reduces the DC of the flat check to end [persistent bleed damage](rules/conditions.md#Persistent%20Damage) from 15 to 12 (7 with particularly effective assistance).
+These symbols close bloody wounds. Armor with this rune reduces the DC of the flat check to end [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) from 15 to 12 (7 with particularly effective assistance).
 
 ---
 
@@ -40,7 +40,7 @@ The DC of the flat check is reduced from 15 to 8 (3 with particularly effective 
 
 - **Price**: 12500 gp
 
-The DC of the flat check is reduced from 15 to 5 (particularly effective assistance automatically removes the [persistent bleed damage](rules/conditions.md#Persistent%20Damage)).
+The DC of the flat check is reduced from 15 to 5 (particularly effective assistance automatically removes the [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage)).
 
 ---
 *Source: Lost Omens: The Grand Bazaar p. 39*

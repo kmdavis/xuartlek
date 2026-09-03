@@ -12,10 +12,10 @@ tags:
 aliases: ["Positive Luminance"]
 ---
 # Positive Luminance *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [light](rules/traits/light.md "Light Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [positive](positive.md "Positive Energy & Element Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [sun](compendium/setting/domains.md#Sun)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Domains** [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - 
 - **Duration**: 1 minute
 
@@ -25,9 +25,9 @@ If an undead creature damages you with an attack or spell while it's within the 
 
 It takes this damage only the first time it damages you in a round.
 
-You can [Dismiss](rules/actions/dismiss.md) this Spell. When you do, you can target a creature within your light and direct the positive energy into it. The target must be a willing living creature or an undead creature. This heals a living target or damages an undead target by an amount equal to your luminance reservoir's value.
+You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) this Spell. When you do, you can target a creature within your light and direct the positive energy into it. The target must be a willing living creature or an undead creature. This heals a living target or damages an undead target by an amount equal to your luminance reservoir's value.
 
-When you cast [positive luminance](compendium/spells/positive-luminance.md), any other [positive luminance](compendium/spells/positive-luminance.md) spell you already had in effect ends.
+When you cast [positive luminance](positive-luminance.md), any other [positive luminance](positive-luminance.md) spell you already had in effect ends.
 
 **Heightened (+ 1)** Both the initial value of your luminance reservoir and the amount you gain each turn increase by 1.
 

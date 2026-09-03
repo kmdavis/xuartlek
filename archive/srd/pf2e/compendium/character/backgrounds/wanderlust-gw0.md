@@ -17,8 +17,8 @@ You stepped through in the hopes of finally reaching the thrilling highs you so 
 
 This strange new brawn wasn't what you asked for—but it might help you pursue the excitement you crave.
 
-Your deviant abilities are of the troll classification. You gain the [Titan Swing](compendium/feats/titan-swing-da.md) deviant feat. As a quirk, whenever you use a deviant ability, your feet elongate and your leg bones crack as your lower limbs transform into those of a rabbit, wolf, or other spry, long-heeled animal.
+Your deviant abilities are of the troll classification. You gain the [Titan Swing](titan-swing-da.md) deviant feat. As a quirk, whenever you use a deviant ability, your feet elongate and your leg bones crack as your lower limbs transform into those of a rabbit, wolf, or other spry, long-heeled animal.
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [Nature](compendium/skills.md#Nature) skill and the [Stabling Lore](compendium/skills.md#Lore) skill. You gain the [Express Rider](compendium/feats/express-rider-apg.md) skill feat.
+You're trained in the [Nature](skills.md#Nature) skill and the [Stabling Lore](skills.md#Lore) skill. You gain the [Express Rider](express-rider-apg.md) skill feat.

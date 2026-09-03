@@ -8,14 +8,14 @@ tags:
 aliases: ["Spear Launcher"]
 ---
 # Spear Launcher *Hazard 2*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
 
 A wall socket loaded with a spear connects to a floor tile in one 5-foot square.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 18 (trained) on the floor tile or wall socket.  
+- **Disable** [Thievery](skills.md#Thievery) DC 18 (trained) on the floor tile or wall socket.  
 
 - **AC** 18, **Fort** +11, **Ref** +3
 - **Hardness** 8, **HP** 32 (BT 16)

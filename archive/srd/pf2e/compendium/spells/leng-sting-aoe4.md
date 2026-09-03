@@ -10,10 +10,10 @@ tags:
 aliases: ["Leng Sting"]
 ---
 # Leng Sting *Spell 7*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Saving Throw**: Fortitude
@@ -24,6 +24,6 @@ You use the power of nightmares to magically replicate the venomous attack of th
 > - **Critical Success** The target is unaffected.
 > - **Success** The target takes `2d6` poison damage.
 > - **Failure** The target is afflicted with Leng spider venom at stage 1.
-> - **Critical Failure** The target is afflicted with Leng spider venom at stage 2. Leng Spider Venom (incapacitation, poison) Level 13; Maximum Duration 6 rounds; Stage 1 `2d6` poison damage and [drained](rules/conditions.md#Drained) (1 round); Stage 2 `3d6` poison damage and [drained](rules/conditions.md#Drained) (1 round); Stage 3 `4d6` poison damage, [drained](rules/conditions.md#Drained), and [confused](rules/conditions.md#Confused) (1 round)
+> - **Critical Failure** The target is afflicted with Leng spider venom at stage 2. Leng Spider Venom (incapacitation, poison) Level 13; Maximum Duration 6 rounds; Stage 1 `2d6` poison damage and [drained](archive/srd/pf2e/rules/conditions.md#Drained) (1 round); Stage 2 `3d6` poison damage and [drained](archive/srd/pf2e/rules/conditions.md#Drained) (1 round); Stage 3 `4d6` poison damage, [drained](archive/srd/pf2e/rules/conditions.md#Drained), and [confused](archive/srd/pf2e/rules/conditions.md#Confused) (1 round)
 
 *Source: Agents of Edgewatch #4: Assault on Hunting Lodge Seven p. 80*

@@ -8,14 +8,14 @@ tags:
 aliases: ["Spiked Doorframe"]
 ---
 # Spiked Doorframe *Hazard 4*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 trained  
 
 Spikes lance out of the doorframe to skewer anyone who attempts to open the door.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 20 (trained) to deactivate a trigger built into the door's handle  
+- **Disable** [Thievery](skills.md#Thievery) DC 20 (trained) to deactivate a trigger built into the door's handle  
 
 - **AC** 21, **Fort** +12, **Ref** +8
 - **Hardness** 11, **HP** 44 (BT 22)

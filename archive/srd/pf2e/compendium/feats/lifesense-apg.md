@@ -9,10 +9,10 @@ tags:
 aliases: ["Lifesense"]
 ---
 # Lifesense  *Feat 5*  
-[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
+[divination](divination.md "Divination School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [duskwalker](duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 
-You have a limited ability to sense life force, like your psychopomp forebears. You gain [lifesense](rules/abilities/lifesense.md) as an imprecise sense with a range of 10 feet. This allows you to sense the life force within living creatures and its counterforce that animates the undead, though you can't distinguish between the two.
+You have a limited ability to sense life force, like your psychopomp forebears. You gain [lifesense](archive/srd/pf2e/rules/abilities/lifesense.md) as an imprecise sense with a range of 10 feet. This allows you to sense the life force within living creatures and its counterforce that animates the undead, though you can't distinguish between the two.
 
 *Source: Advanced Player's Guide p. 38*  
 %% #compendium/src/pf2e/apg #trait/divination #trait/divine #trait/duskwalker %%

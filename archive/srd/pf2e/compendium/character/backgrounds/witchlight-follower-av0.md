@@ -17,4 +17,4 @@ You stepped forward for a closer look, and then still further when the lights re
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in [Survival](compendium/skills.md#Survival) and the [Wisp Lore](compendium/skills.md#Lore) skill. You gain the [Terrain Expertise](compendium/feats/terrain-expertise.md) skill feat with both swamp terrain and subterranean bodies of water.
+You're trained in [Survival](skills.md#Survival) and the [Wisp Lore](skills.md#Lore) skill. You gain the [Terrain Expertise](archive/srd/pf2e/compendium/feats/terrain-expertise.md) skill feat with both swamp terrain and subterranean bodies of water.

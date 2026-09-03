@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Traitorous Thoughts"]
 ---
 # Wand of Traitorous Thoughts *Item 12*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 2000 gp
 - **Craft Requirements** Supply a casting of mind probe.

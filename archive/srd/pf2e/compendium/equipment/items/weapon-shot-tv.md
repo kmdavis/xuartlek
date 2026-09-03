@@ -10,7 +10,7 @@ tags:
 aliases: ["Weapon Shot"]
 ---
 # Weapon Shot *Item 5+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Ammunition** any
 

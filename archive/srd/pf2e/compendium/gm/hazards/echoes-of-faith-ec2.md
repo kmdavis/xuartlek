@@ -7,14 +7,14 @@ tags:
 aliases: ["Echoes Of Faith"]
 ---
 # Echoes Of Faith *Hazard 6*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 24 expert  
 
 The restless spirits of clergy who once inhabited this now-defiled temple of Aroden remain within the sanctuary and pulpit.
 
-- **Disable** DC 26 [Occultism](compendium/skills.md#Occultism) (expert) to exorcise the spirits, or [Deception](compendium/skills.md#Deception) or DC 28 [Religion](compendium/skills.md#Religion) (trained) to imitate the Arodenite faith and render the haunt harmless until it resets  
+- **Disable** DC 26 [Occultism](skills.md#Occultism) (expert) to exorcise the spirits, or [Deception](skills.md#Deception) or DC 28 [Religion](skills.md#Religion) (trained) to imitate the Arodenite faith and render the haunt harmless until it resets  
 
 - **AC** 24, **Fort** +13, **Will** +15
 - **HP** 60

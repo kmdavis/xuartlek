@@ -9,7 +9,7 @@ tags:
 aliases: ["Conflagration Club"]
 ---
 # Conflagration Club *Item 6*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 250 gp
 - **Bulk** 2; **Usage** held in 2 hands

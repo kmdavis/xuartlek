@@ -15,4 +15,4 @@ Whether you sought citizenship or simply needed a steady paycheck, you spent som
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Mercenary Lore](compendium/skills.md#Lore) skill. You gain the [Experienced Professional](compendium/feats/experienced-professional.md) skill feat.
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Mercenary Lore](skills.md#Lore) skill. You gain the [Experienced Professional](archive/srd/pf2e/compendium/feats/experienced-professional.md) skill feat.

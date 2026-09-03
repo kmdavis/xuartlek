@@ -11,7 +11,7 @@ tags:
 aliases: ["Mindsponge"]
 ---
 # Mindsponge *Item 9*  
-[mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 700 gp
 - **Bulk** L; **Usage** held in 1 hand

@@ -9,14 +9,14 @@ tags:
 aliases: ["Clockwork Arms"]
 ---
 # Clockwork Arms *Hazard 15*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 expert  
 
 Four claw-tipped clockwork arms suspended from the ceiling pick up and deposit creatures into a nearby hatch.
 
-- **Disable** DC 43 [Thievery](compendium/skills.md#Thievery) (master) to jam and deactivate one of the arms or DC 46 [Athletics](compendium/skills.md#Athletics) (legendary) to tear an arm off the machine.  
+- **Disable** DC 43 [Thievery](skills.md#Thievery) (master) to jam and deactivate one of the arms or DC 46 [Athletics](skills.md#Athletics) (legendary) to tear an arm off the machine.  
 
 - **AC** 37, **Fort** +23, **Ref** +26
 - **Arm Hardness** 15, **Arm HP** 50 (BT 25) to destroy one arm

@@ -8,11 +8,11 @@ tags:
 aliases: ["Pirate Dedication"]
 ---
 # Pirate Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
-- **Prerequisites**: trained in [Intimidation](compendium/skills.md#Intimidation)
+- **Prerequisites**: trained in [Intimidation](skills.md#Intimidation)
 
-As a pirate, you sail the seas in search of enemy ships to plunder. You become trained in [Sailing Lore](compendium/skills.md#Lore), or become an expert in it if you were already trained. You ignore the effects of difficult terrain or uneven ground caused by a ship's movement. Additionally, you gain the Boarding Assault action.
+As a pirate, you sail the seas in search of enemy ships to plunder. You become trained in [Sailing Lore](skills.md#Lore), or become an expert in it if you were already trained. You ignore the effects of difficult terrain or uneven ground caused by a ship's movement. Additionally, you gain the Boarding Assault action.
 
 ```ad-embed-ability
 title: **Boarding Assault** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([flourish](rules/traits/flourish.md))
@@ -28,7 +28,7 @@ Either [Stride](rules/actions/stride.md) twice or attempt an [Acrobatics](compen
 
 ## Pirate Dedication leads to...
 
-[Pirate Weapon Training](compendium/feats/pirate-weapon-training-apg.md), [Rope Runner](compendium/feats/rope-runner-apg.md), [Walk The Plank](compendium/feats/walk-the-plank-apg.md)
+[Pirate Weapon Training](pirate-weapon-training-apg.md), [Rope Runner](rope-runner-apg.md), [Walk The Plank](walk-the-plank-apg.md)
 
 ## Summary
 

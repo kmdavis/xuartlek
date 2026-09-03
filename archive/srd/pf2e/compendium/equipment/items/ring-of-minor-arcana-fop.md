@@ -11,7 +11,7 @@ tags:
 aliases: ["Ring Of Minor Arcana"]
 ---
 # Ring Of Minor Arcana *Item 5*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** worn

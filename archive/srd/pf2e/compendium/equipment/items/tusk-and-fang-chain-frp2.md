@@ -12,19 +12,19 @@ tags:
 aliases: ["Tusk And Fang Chain"]
 ---
 # Tusk And Fang Chain *Item 16*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1800 gp
 - **Usage** affixed to armor
-- **Activate** envision; **Trigger** You Grab or restrain a creature or become [grabbed](rules/conditions.md#Grabbed) or [restrained](rules/conditions.md#Restrained) by a creature
+- **Activate** envision; **Trigger** You Grab or restrain a creature or become [grabbed](archive/srd/pf2e/rules/conditions.md#Grabbed) or [restrained](archive/srd/pf2e/rules/conditions.md#Restrained) by a creature
 
 This length of silver chain has a tiger's fang on one end and the tip of a dire boar's tusk on the other. When you activate the chain, an ephemeral chain encircles the target creature's head and a cacophony of animal sounds clouds its mind. It must attempt a DC 35 Will save.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is [confused](rules/conditions.md#Confused) on its next action.
-> - **Failure** The creature is [confused](rules/conditions.md#Confused) for 1 round.
-> - **Critical Failure** The creature is [confused](rules/conditions.md#Confused) for 1 minute and the creature doesn't receive a flat check to end its confusion if it takes damage. At the end of each of its turns, it attempts a new Will save, ending the effect on a success.
+> - **Success** The creature is [confused](archive/srd/pf2e/rules/conditions.md#Confused) on its next action.
+> - **Failure** The creature is [confused](archive/srd/pf2e/rules/conditions.md#Confused) for 1 round.
+> - **Critical Failure** The creature is [confused](archive/srd/pf2e/rules/conditions.md#Confused) for 1 minute and the creature doesn't receive a flat check to end its confusion if it takes damage. At the end of each of its turns, it attempts a new Will save, ending the effect on a success.
 
 
 ---

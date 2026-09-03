@@ -8,14 +8,14 @@ tags:
 aliases: ["Lonely Machine Spirit"]
 ---
 # Lonely Machine Spirit *Hazard 3*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +13 trained  
 
 Ghostly smoke rising from an alchemical engine belches forth; the screeching sound of grinding gears echoes from the engine as it shutters to life.
 
-- **Disable** DC 22 [Religion](compendium/skills.md#Religion) (trained) or DC 20 [Engineering Lore](compendium/skills.md#Lore) (trained) to eject the animating spirit from its mechanical shell. Creatures gain a +2 circumstance bonus on their check if they use the airship's name, Harpy's Kiss, as part of their skill check, or a +4 circumstance bonus if they utter the name "Phera Wyndslow. " The haunt remains active until its spirit is ejected, the haunt is destroyed, or there are no living creatures within 30 feet.  
+- **Disable** DC 22 [Religion](skills.md#Religion) (trained) or DC 20 [Engineering Lore](skills.md#Lore) (trained) to eject the animating spirit from its mechanical shell. Creatures gain a +2 circumstance bonus on their check if they use the airship's name, Harpy's Kiss, as part of their skill check, or a +4 circumstance bonus if they utter the name "Phera Wyndslow. " The haunt remains active until its spirit is ejected, the haunt is destroyed, or there are no living creatures within 30 feet.  
 
 - **AC** 20, **Fort** +14, **Ref** +8
 - **Hardness** 11, **HP** 44 (BT 22)

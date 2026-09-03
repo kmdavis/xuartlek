@@ -20,8 +20,8 @@ aliases: ["Yaezhing", "Minister of Blood"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Stealth
-- **Favored Weapon**: [shuriken](compendium/equipment/items/shuriken.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [duty](compendium/setting/domains.md#Duty), [pain](compendium/setting/domains.md#Pain), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 2nd: [invisibility](compendium/spells/invisibility.md); 6th: [mislead](compendium/spells/mislead.md)
+- **Favored Weapon**: [shuriken](archive/srd/pf2e/compendium/equipment/items/shuriken.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 2nd: [invisibility](archive/srd/pf2e/compendium/spells/invisibility.md); 6th: [mislead](archive/srd/pf2e/compendium/spells/mislead.md)

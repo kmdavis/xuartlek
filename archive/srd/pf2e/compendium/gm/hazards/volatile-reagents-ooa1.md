@@ -9,14 +9,14 @@ tags:
 aliases: ["Volatile Reagents"]
 ---
 # Volatile Reagents *Hazard 2*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +5 trained  
 
 Potion bottles, alembics, and potent ingredients violently explode when jostled and accidentally combined.
 
-- **Disable** three DC 20 [Acrobatics](compendium/skills.md#Acrobatics) or [Crafting](compendium/skills.md#Crafting) checks to sort and separate the bottles of volatile ingredients into groups  
+- **Disable** three DC 20 [Acrobatics](skills.md#Acrobatics) or [Crafting](skills.md#Crafting) checks to sort and separate the bottles of volatile ingredients into groups  
 
 - **AC** 18, **Fort** +10, **Ref** +8
 - **HP** 10 (BT 5)

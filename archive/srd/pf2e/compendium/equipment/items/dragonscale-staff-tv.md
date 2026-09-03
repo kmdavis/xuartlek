@@ -10,14 +10,14 @@ tags:
 aliases: ["Dragonscale Staff"]
 ---
 # Dragonscale Staff *Item 14+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
 
 A multi-hued array of scales covers a dragonscale staff, forming a gradient of color, and a dragon's claw holds a gem upon the staff's head. Dragons give allies these staves as a mark of esteem.
 
-While wielding a dragonscale staff you seem fiercer, gaining a +1 circumstance bonus to [Intimidation](compendium/skills.md#Intimidation) checks to [Demoralize](rules/actions/demoralize.md).
+While wielding a dragonscale staff you seem fiercer, gaining a +1 circumstance bonus to [Intimidation](skills.md#Intimidation) checks to [Demoralize](archive/srd/pf2e/rules/actions/demoralize.md).
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

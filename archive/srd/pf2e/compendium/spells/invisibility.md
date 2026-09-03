@@ -8,16 +8,16 @@ tags:
 aliases: ["Invisibility"]
 ---
 # Invisibility *Spell 2*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Duration**: 10 minutes
 
-Cloaked in illusion, the target becomes [invisible](rules/conditions.md#Invisible). This makes it [undetected](rules/conditions.md#Undetected) to all creatures, though the creatures can attempt to find the target, making it [hidden](rules/conditions.md#Hidden) to them instead (page 466). If the target uses a [hostile](rules/conditions.md#Hostile) action, the spell ends after that [hostile](rules/conditions.md#Hostile) action is completed.
+Cloaked in illusion, the target becomes [invisible](archive/srd/pf2e/rules/conditions.md#Invisible). This makes it [undetected](archive/srd/pf2e/rules/conditions.md#Undetected) to all creatures, though the creatures can attempt to find the target, making it [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) to them instead (page 466). If the target uses a [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) action, the spell ends after that [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) action is completed.
 
-**Heightened (4th)** The spell lasts 1 minute, but it doesn't end if the target uses a [hostile](rules/conditions.md#Hostile) action.
+**Heightened (4th)** The spell lasts 1 minute, but it doesn't end if the target uses a [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) action.
 
 *Source: Core Rulebook p. 347*

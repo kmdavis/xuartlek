@@ -20,8 +20,8 @@ aliases: ["Mephistopheles", "The Crimson Son"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Deception
-- **Favored Weapon**: [trident](compendium/equipment/items/trident.md)
-- **Domains**: [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [secrecy](compendium/setting/domains.md#Secrecy), [tyranny](compendium/setting/domains.md#Tyranny)
-- **Cleric Spells**: 1st: [message rune](compendium/spells/message-rune-logm.md); 2nd: [blistering invective](compendium/spells/blistering-invective-apg.md); 5th: [subconscious suggestion](compendium/spells/subconscious-suggestion.md)
+- **Favored Weapon**: [trident](archive/srd/pf2e/compendium/equipment/items/trident.md)
+- **Domains**: [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy), [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny)
+- **Cleric Spells**: 1st: [message rune](message-rune-logm.md); 2nd: [blistering invective](blistering-invective-apg.md); 5th: [subconscious suggestion](archive/srd/pf2e/compendium/spells/subconscious-suggestion.md)

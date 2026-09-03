@@ -10,10 +10,10 @@ tags:
 - trait/transmutation
 aliases: ["Energize Wings"]
 ---
-# Energize Wings  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [sprite](rules/traits/sprite-b1.md "Sprite Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Energize Wings  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [sprite](sprite-b1.md "Sprite Ancestry & Heritage Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Prerequisites**: [Evanescent Wings](compendium/feats/evanescent-wings-loag.md)
+- **Prerequisites**: [Evanescent Wings](evanescent-wings-loag.md)
 - **Frequency**: once per hour
 - **Activity** Single Action
 
@@ -21,7 +21,7 @@ You stoke your magic to energize your wings, temporarily transforming them into 
 
 ## Energize Wings leads to...
 
-[Hero's Wings](compendium/feats/heros-wings-loag.md)
+[Hero's Wings](heros-wings-loag.md)
 
 ## Summary
 

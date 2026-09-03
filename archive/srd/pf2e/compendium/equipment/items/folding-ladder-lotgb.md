@@ -11,7 +11,7 @@ aliases: ["Folding Ladder"]
 - **Price** 3 gp
 - **Bulk** 1 (3 unfolded); **Usage** held in 2 hands
 
-This multi-hinged, 10-foot ladder is useful for climbing upward or across dangerous pits. You can fold or unfold the ladder with two total [Interact](rules/actions/interact.md) actions, which don't need to consecutive.
+This multi-hinged, 10-foot ladder is useful for climbing upward or across dangerous pits. You can fold or unfold the ladder with two total [Interact](archive/srd/pf2e/rules/actions/interact.md) actions, which don't need to consecutive.
 
 
 ---

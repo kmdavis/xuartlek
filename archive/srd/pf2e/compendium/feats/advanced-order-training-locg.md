@@ -8,9 +8,9 @@ tags:
 aliases: ["Advanced Order Training"]
 ---
 # Advanced Order Training  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md); [Hellknight Dedication](compendium/feats/hellknight-dedication-locg.md) or [Hellknight Signifer Dedication](compendium/feats/hellknight-signifer-dedication-locg.md)
+- **Prerequisites**: [Hellknight Armiger Dedication](hellknight-armiger-dedication-lowg.md); [Hellknight Dedication](hellknight-dedication-locg.md) or [Hellknight Signifer Dedication](hellknight-signifer-dedication-locg.md)
 
 You gain the greater order benefit for the Hellknight order to which you belong.
 

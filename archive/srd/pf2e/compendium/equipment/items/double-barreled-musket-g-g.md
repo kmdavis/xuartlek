@@ -11,7 +11,7 @@ tags:
 aliases: ["Double-barreled Musket"]
 ---
 # Double-barreled Musket *Item 1*  
-[concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [double barrel](rules/traits/double-barrel-g-g.md "Double Barrel Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concussive](concussive-g-g.md "Concussive Weapon Trait")  [double barrel](double-barrel-g-g.md "Double Barrel Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 11 gp

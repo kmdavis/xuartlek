@@ -11,7 +11,7 @@ tags:
 aliases: ["Convince Mengkare"]
 ---
 # Convince Mengkare
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 *Source: Age of Ashes #6: Broken Promises p. 46*  
 
 

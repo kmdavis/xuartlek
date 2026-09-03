@@ -15,10 +15,10 @@ tags:
 - trait/uncommon
 aliases: ["Eerie Proclamation"]
 ---
-# Eerie Proclamation  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Eerie Proclamation  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: expert in [Occultism](compendium/skills.md#Occultism), expert in [Survival](compendium/skills.md#Survival)
+- **Prerequisites**: expert in [Occultism](skills.md#Occultism), expert in [Survival](skills.md#Survival)
 - **Frequency**: once per hour
 - **Requirements**: You must be in either natural terrain or in abandoned or relatively unused artificial terrain (such as a darkened alley or haunted house).
 - **Activity** Two-Action
@@ -32,10 +32,10 @@ You know there are places in the world that are just wrong—places where the bi
 
 | dice: d4 | Failure | Critical Failure |
 |----------|---------|------------------|
-| 1 | [Clumsy](rules/conditions.md#Clumsy) | [Clumsy](rules/conditions.md#Clumsy) |
-| 2 | [Enfeebled](rules/conditions.md#Enfeebled) | [Enfeebled](rules/conditions.md#Enfeebled) |
-| 3 | [Stupefied](rules/conditions.md#Stupefied) | [Stupefied](rules/conditions.md#Stupefied) |
-| 4 | [Dazzled](rules/conditions.md#Dazzled) | [Blinded](rules/conditions.md#Blinded) for 1 round, then [dazzled](rules/conditions.md#Dazzled) |
+| 1 | [Clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) | [Clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) |
+| 2 | [Enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) | [Enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) |
+| 3 | [Stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) | [Stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) |
+| 4 | [Dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) | [Blinded](archive/srd/pf2e/rules/conditions.md#Blinded) for 1 round, then [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) |
 
 
 *Source: Dark Archive p. 65*  

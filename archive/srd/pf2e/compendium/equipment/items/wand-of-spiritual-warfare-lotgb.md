@@ -12,9 +12,9 @@ tags:
 aliases: ["Wand Of Spiritual Warfare"]
 ---
 # Wand Of Spiritual Warfare *Item 7+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [force](archive/srd/pf2e/rules/traits/force.md "Force Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
-- **Craft Requirements** Supply a casting of [spiritual weapon](compendium/spells/spiritual-weapon.md) of the appropriate level.
+- **Craft Requirements** Supply a casting of [spiritual weapon](spiritual-weapon.md) of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand
 
 This wand juts from an ornate hilt like a short, wooden dagger blade.

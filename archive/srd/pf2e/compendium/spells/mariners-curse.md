@@ -9,10 +9,10 @@ tags:
 aliases: ["Mariner's Curse"]
 ---
 # Mariner's Curse *Spell 5*   
-[curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -21,9 +21,9 @@ You afflict the target with the curse of the roiling, unforgiving sea. The targe
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target becomes [sickened](rules/conditions.md#Sickened). Reducing its [sickened](rules/conditions.md#Sickened) condition to 0 ends the curse.
-> - **Failure** The target becomes [sickened](rules/conditions.md#Sickened) and can't reduce its [sickened](rules/conditions.md#Sickened) condition below 1 while the curse remains. The curse can be lifted by remove curse or similar magic. Whenever the target is [sickened](rules/conditions.md#Sickened) and on the water at least a mile from shore, it is also [slowed](rules/conditions.md#Slowed).
-> - **Critical Failure** As failure, but the target becomes [sickened](rules/conditions.md#Sickened).
+> - **Success** The target becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened). Reducing its [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) condition to 0 ends the curse.
+> - **Failure** The target becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) and can't reduce its [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) condition below 1 while the curse remains. The curse can be lifted by remove curse or similar magic. Whenever the target is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) and on the water at least a mile from shore, it is also [slowed](archive/srd/pf2e/rules/conditions.md#Slowed).
+> - **Critical Failure** As failure, but the target becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
 
 **Spell Lists**: Elemental
 

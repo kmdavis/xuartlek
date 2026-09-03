@@ -7,14 +7,14 @@ tags:
 aliases: ["Ki Strike"]
 ---
 # Ki Strike  *Feat 1*  
-[monk](rules/traits/monk.md "Monk Class Trait")  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
 
-Your study of the flow of mystical energy allows you to harness it into your physical strikes. You gain the [ki strike](compendium/spells/ki-strike.md) ki spell and a focus pool of 1 Focus Point.
+Your study of the flow of mystical energy allows you to harness it into your physical strikes. You gain the [ki strike](archive/srd/pf2e/compendium/spells/ki-strike.md) ki spell and a focus pool of 1 Focus Point.
 
 ## Ki Strike leads to...
 
-[Elemental Fist](compendium/feats/elemental-fist.md)
+[Elemental Fist](archive/srd/pf2e/compendium/feats/elemental-fist.md)
 
 ## Summary
 

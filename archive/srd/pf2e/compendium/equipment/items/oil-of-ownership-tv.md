@@ -11,10 +11,10 @@ tags:
 aliases: ["Oil of Ownership"]
 ---
 # Oil of Ownership *Item 3+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [oil](archive/srd/pf2e/rules/traits/oil.md "Oil Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 You can coat objects of 6 Bulk or less with oil of ownership, or "red‑handed oil" as some call it. Once applied, this clear oil remains active for 24 hours. Anyone who touches an object coated with this oil comes away with a red stain that won't wash off for a length of time that depends on the oil's type.
 

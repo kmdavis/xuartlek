@@ -7,7 +7,7 @@ tags:
 aliases: ["Paragon Companion"]
 ---
 # Paragon Companion  *Feat 14*  
-[inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  
+[inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  
 
 - **Prerequisites**: Incredible Companion
 

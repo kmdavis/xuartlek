@@ -12,7 +12,7 @@ tags:
 aliases: ["Arboreal Staff"]
 ---
 # Arboreal Staff *Item 12*  
-[divination](rules/traits/divination.md "Divination School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[divination](divination.md "Divination School Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 

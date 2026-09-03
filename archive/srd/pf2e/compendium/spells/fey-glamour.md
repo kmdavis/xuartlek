@@ -11,10 +11,10 @@ tags:
 aliases: ["Fey Glamour"]
 ---
 # Fey Glamour *Focus 5*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Area**: 30-foot burst or Targets up to 10 creatures
 - **Duration**: 10 minutes

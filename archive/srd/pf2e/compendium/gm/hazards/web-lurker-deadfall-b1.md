@@ -8,14 +8,14 @@ tags:
 aliases: ["Web Lurker Deadfall"]
 ---
 # Web Lurker Deadfall *Hazard 3*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23  
 
 A web tripwire lets loose a bundle of boulders that fall on all targets within a 10-foot square.
 
-- **Disable** [Survival](compendium/skills.md#Survival) (trained) or [Thievery](compendium/skills.md#Thievery) (expert) DC 20 to rearrange the webbing  
+- **Disable** [Survival](skills.md#Survival) (trained) or [Thievery](skills.md#Thievery) (expert) DC 20 to rearrange the webbing  
 
 - **AC** 19, **Fort** +9, **Ref** +9
 - 

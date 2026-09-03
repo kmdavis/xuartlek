@@ -7,9 +7,9 @@ tags:
 aliases: ["Jinx Glutton"]
 ---
 # Jinx Glutton  *Feat 13*  
-[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
+[tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Eat Fortune](compendium/feats/eat-fortune-apg.md)
+- **Prerequisites**: [Eat Fortune](eat-fortune-apg.md)
 
 You can Eat Fortune once per hour, rather than once per day.
 

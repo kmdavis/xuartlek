@@ -8,14 +8,14 @@ tags:
 aliases: ["Slamming Door"]
 ---
 # Slamming Door *Hazard 1*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 trained  
 
-Pressure-sensitive panels in the floor connect to a stone slab [hidden](rules/conditions.md#Hidden) in a hallway's ceiling.
+Pressure-sensitive panels in the floor connect to a stone slab [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) in a hallway's ceiling.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 15 (trained) on the floor panels before the slab falls.  
+- **Disable** [Thievery](skills.md#Thievery) DC 15 (trained) on the floor panels before the slab falls.  
 
 - **AC** 16, **Fort** +10, **Ref** +2
 - **Hardness** 5, **HP** 20 (BT 10)

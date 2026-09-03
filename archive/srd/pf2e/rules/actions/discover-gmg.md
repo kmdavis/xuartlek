@@ -8,12 +8,12 @@ tags:
 aliases: ["Discover"]
 ---
 # Discover
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [secret](archive/srd/pf2e/rules/traits/secret.md "Secret General Trait")  
 *Source: Gamemastery Guide p. 151*  
 
 **Variant Rule** Influence
 
-You watch or study an NPC to learn more about that NPC's preferences. Choose an NPC and attempt a [Perception](compendium/skills.md#Perception) check or an appropriate skill check determined by the GM. The DC is typically found in the NPC's influence stat block.
+You watch or study an NPC to learn more about that NPC's preferences. Choose an NPC and attempt a [Perception](skills.md#Perception) check or an appropriate skill check determined by the GM. The DC is typically found in the NPC's influence stat block.
 
 > [!success-degree] 
 > - **Critical Success** Choose two of the options detailed in Success below; you can choose the same option twice to learn two pieces of information from the same category.

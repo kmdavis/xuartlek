@@ -13,7 +13,7 @@ tags:
 aliases: ["Wand of Mental Purification"]
 ---
 # Wand of Mental Purification *Item 4+*  
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 

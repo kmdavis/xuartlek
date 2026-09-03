@@ -7,9 +7,9 @@ tags:
 aliases: ["Fused Polearm"]
 ---
 # Fused Polearm  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Runelord Dedication](compendium/feats/runelord-dedication-som.md)
+- **Prerequisites**: [Runelord Dedication](runelord-dedication-som.md)
 - **Requirements**: Your arcane bonded item is a polearm.
 
 During your daily preparations, you can magically fuse your arcane bonded weapon and a magical staff together into one item, with the staff making up the haft of the weapon. You prepare the staff at the same time you do this, and you can do this only with a staff you're able to prepare. This fusion lasts until the next time you make your daily preparations.

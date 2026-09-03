@@ -7,10 +7,10 @@ tags:
 aliases: ["Proximity Alert"]
 ---
 # Proximity Alert  *Feat 1*  
-[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  
+[android](android-loag.md "Android Ancestry & Heritage Trait")  
 
 
-You're unnaturally in tune with your surroundings and react instinctively to danger. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks made as initiative rolls.
+You're unnaturally in tune with your surroundings and react instinctively to danger. You gain a +2 circumstance bonus to [Perception](skills.md#Perception) checks made as initiative rolls.
 
 *Source: Lost Omens: Ancestry Guide p. 73*  
 %% #compendium/src/pf2e/loag #trait/android %%

@@ -9,14 +9,14 @@ tags:
 aliases: ["Dahak's Shell"]
 ---
 # Dahak's Shell *Hazard 12*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Simple
-- **Stealth** +0 or [detect magic](compendium/spells/detect-magic.md)  
+- **Stealth** +0 or [detect magic](archive/srd/pf2e/compendium/spells/detect-magic.md)  
 
-A ring of eight [dragon pillar](compendium/gm/hazards/dragon-pillar-aoa2.md) replicas mark the border of a dome of magical prismatic energy that entirely contains the Fortress of Sorrow.
+A ring of eight [dragon pillar](dragon-pillar-aoa2.md) replicas mark the border of a dome of magical prismatic energy that entirely contains the Fortress of Sorrow.
 
-- **Disable** Each [dragon pillar](compendium/gm/hazards/dragon-pillar-aoa2.md) that is destroyed removes the corresponding color's effect from [Dahak](compendium/setting/deities/dahak-logm.md)'s shell; as long as even one color remains active, the pillars marking the shell's border cannot be damaged themselves, but a successful DC 32 [Thievery](compendium/skills.md#Thievery) (master) check or a successful [dispel magic](compendium/spells/dispel-magic.md) (6th level; counteract DC 30) against one of the eight pillars can cause a randomly determined active color in the shell defense (below) to become deactivated for `1d4` rounds.  
+- **Disable** Each [dragon pillar](dragon-pillar-aoa2.md) that is destroyed removes the corresponding color's effect from [Dahak](dahak-logm.md)'s shell; as long as even one color remains active, the pillars marking the shell's border cannot be damaged themselves, but a successful DC 32 [Thievery](skills.md#Thievery) (master) check or a successful [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (6th level; counteract DC 30) against one of the eight pillars can cause a randomly determined active color in the shell defense (below) to become deactivated for `1d4` rounds.  
 
 ```ad-embed-ability
 title: **Prismatic Beam** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([abjuration](rules/traits/abjuration.md), [divine](rules/traits/divine.md), [light](rules/traits/light.md))

@@ -10,7 +10,7 @@ tags:
 aliases: ["Judgment Thurible"]
 ---
 # Judgment Thurible *Item 10+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Bulk** —; **Usage** affixed to armor or a weapon
 

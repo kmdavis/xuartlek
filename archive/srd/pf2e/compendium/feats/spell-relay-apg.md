@@ -7,10 +7,10 @@ tags:
 - trait/sorcerer
 aliases: ["Spell Relay"]
 ---
-# Spell Relay  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+# Spell Relay  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
-- **Trigger** An ally [Casts a Spell](rules/actions/cast-a-spell.md) and you are within that spell's range.
+- **Trigger** An ally [Casts a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) and you are within that spell's range.
 - **Activity** Reaction
 
 You open the power in your blood to your ally's spellcasting, using your magic to boost their range. Your ally can use you as the point of origin for their spell, calculating range and cover from your space instead of their own.

@@ -17,4 +17,4 @@ The Call for Heroes is one of your hometown's most iconic traditions, and you wa
 
 Choose two ability boosts. One must be Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Breachill Lore](compendium/skills.md#Lore) skill. You gain the [Specialty Crafting](compendium/feats/specialty-crafting.md) skill feat.
+You're trained in the [Crafting](skills.md#Crafting) skill and the [Breachill Lore](skills.md#Lore) skill. You gain the [Specialty Crafting](archive/srd/pf2e/compendium/feats/specialty-crafting.md) skill feat.

@@ -9,10 +9,10 @@ tags:
 aliases: ["Chromatic Image"]
 ---
 # Chromatic Image *Spell 6*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 1 minute
 
@@ -21,6 +21,6 @@ You call forth three illusory images of yourself, and each of the four of you ta
 - **1. Red.** 5 fire damage and 5 mental damage.
 - **2. Orange.** 5 acid damage and 5 mental damage.
 - **3. Yellow.** 5 electricity damage and 5 mental damage.
-- **4. Green.** 5 poison damage and 5 mental damage, plus it's [frightened](rules/conditions.md#Frightened).
+- **4. Green.** 5 poison damage and 5 mental damage, plus it's [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
 
 *Source: Secrets of Magic p. 95*

@@ -7,14 +7,14 @@ tags:
 aliases: ["Flood Of Spirits"]
 ---
 # Flood Of Spirits *Hazard 18*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 45 master to hear the flood of spirits coalescing  
 
 A wave of spirits fly through the area, passing right through the living.
 
-- **Disable** DC 48 [Occultism](compendium/skills.md#Occultism) (expert) or [Religion](compendium/skills.md#Religion) (master) to divert the spirits  
+- **Disable** DC 48 [Occultism](skills.md#Occultism) (expert) or [Religion](skills.md#Religion) (master) to divert the spirits  
 
 ```ad-embed-ability
 title: **Surge Through** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([cold](rules/traits/cold.md), [negative](rules/traits/negative.md))

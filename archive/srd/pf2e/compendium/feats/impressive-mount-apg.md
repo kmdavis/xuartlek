@@ -7,15 +7,15 @@ tags:
 aliases: ["Impressive Mount"]
 ---
 # Impressive Mount  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
+- **Prerequisites**: [Cavalier Dedication](cavalier-dedication-apg.md)
 
-You've trained your mount to become a powerful force on the battlefield. The mount you gained through the [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md) feat becomes a mature animal companion, granting it additional capabilities. During an encounter, even if you don't use the [Command an Animal](rules/actions/command-an-animal.md) action, your animal companion can still use 1 action on your turn to [Stride](rules/actions/stride.md) or [Strike](rules/actions/strike.md).
+You've trained your mount to become a powerful force on the battlefield. The mount you gained through the [Cavalier Dedication](cavalier-dedication-apg.md) feat becomes a mature animal companion, granting it additional capabilities. During an encounter, even if you don't use the [Command an Animal](archive/srd/pf2e/rules/actions/command-an-animal.md) action, your animal companion can still use 1 action on your turn to [Stride](archive/srd/pf2e/rules/actions/stride.md) or [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 ## Impressive Mount leads to...
 
-[Incredible Mount](compendium/feats/incredible-mount-apg.md), [Specialized Mount](compendium/feats/specialized-mount-apg.md)
+[Incredible Mount](incredible-mount-apg.md), [Specialized Mount](specialized-mount-apg.md)
 
 ## Summary
 

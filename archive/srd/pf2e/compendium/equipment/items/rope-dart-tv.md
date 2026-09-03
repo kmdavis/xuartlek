@@ -14,7 +14,7 @@ tags:
 aliases: ["Rope Dart"]
 ---
 # Rope Dart *Item 0*  
-[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [tethered](rules/traits/tethered-b1.md "Tethered Weapon Trait")  [thrown <20 feet>](rules/traits/thrown-20-feet.md "Thrown Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [tethered](tethered-b1.md "Tethered Weapon Trait")  [thrown <20 feet>](rules/traits/thrown-20-feet.md "Thrown Weapon Trait")  [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 - **Bulk** 1

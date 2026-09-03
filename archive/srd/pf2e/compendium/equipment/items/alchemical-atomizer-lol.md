@@ -9,12 +9,12 @@ tags:
 aliases: ["Alchemical Atomizer"]
 ---
 # Alchemical Atomizer *Item 10*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 175 gp
 - **Usage** held in 1 hands, Bulk L
 
-Khismar developed this unique atomizer that allows for the distribution of elixirs, oils, and potions as a fine spray or mist. The atomizer can hold a single elixir, oil, or potion. An atomizer contains enough reagents to use it up to 10 times before the reagents must be replaced. A new batch of reagents costs 5 gp and requires an [Interact](rules/actions/interact.md) action to replace.
+Khismar developed this unique atomizer that allows for the distribution of elixirs, oils, and potions as a fine spray or mist. The atomizer can hold a single elixir, oil, or potion. An atomizer contains enough reagents to use it up to 10 times before the reagents must be replaced. A new batch of reagents costs 5 gp and requires an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to replace.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

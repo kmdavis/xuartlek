@@ -11,13 +11,13 @@ tags:
 aliases: ["Feather Step Stone"]
 ---
 # Feather Step Stone *Item 3*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 8 gp
 - **Bulk** —; **Usage** affixed to armor
-- **Activate** envision; **Trigger** You [Stride](rules/actions/stride.md) or [Step](rules/actions/step.md)
+- **Activate** envision; **Trigger** You [Stride](archive/srd/pf2e/rules/actions/stride.md) or [Step](archive/srd/pf2e/rules/actions/step.md)
 
-You are an expert in [Acrobatics](compendium/skills.md#Acrobatics).
+You are an expert in [Acrobatics](skills.md#Acrobatics).
 
 This stone, usually shaped as a cabochon, is a small chunk of amber with a bit of feather or a flying insect caught within it.
 

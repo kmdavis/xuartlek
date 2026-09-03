@@ -9,13 +9,13 @@ tags:
 aliases: ["Magical Hearing Aids"]
 ---
 # Magical Hearing Aids *Item 1*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 5 gp
 - **Usage** worn
 - **Category** Hearing
 
-These curved hearing aids hook over the top and sit behind your ear, with a receiver that fits into the ear opening. The external part of the device detects sound waves and, using divination magic, transfers them down the receiver and into your ear. You can wear one or two depending on your hearing loss, and you can turn your hearing aids on or off using an [Interact](rules/actions/interact.md) action.
+These curved hearing aids hook over the top and sit behind your ear, with a receiver that fits into the ear opening. The external part of the device detects sound waves and, using divination magic, transfers them down the receiver and into your ear. You can wear one or two depending on your hearing loss, and you can turn your hearing aids on or off using an [Interact](archive/srd/pf2e/rules/actions/interact.md) action.
 
 
 ---

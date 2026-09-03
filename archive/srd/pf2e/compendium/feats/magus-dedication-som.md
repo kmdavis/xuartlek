@@ -9,11 +9,11 @@ tags:
 aliases: ["Magus Dedication"]
 ---
 # Magus Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](archive/srd/pf2e/rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Strength or Dexterity 14, Intelligence 14
 
-You cast spells like a magus, gaining a spellbook with four common arcane cantrips of your choice. You gain the [Cast a Spell](rules/actions/cast-a-spell.md) activity. You can prepare two cantrips each day from your spellbook. Each time you gain a spell slot of a new level from the magus archetype, add a spell of that level or lower to your spellbook. You're trained in arcane spell attack rolls and spell DCs. Your key spellcasting ability for magus archetype spells is Intelligence, and they are arcane magus spells. You become trained in [Arcana](compendium/skills.md#Arcana); if you were already trained in [Arcana](compendium/skills.md#Arcana), you instead become trained in a skill of your choice.
+You cast spells like a magus, gaining a spellbook with four common arcane cantrips of your choice. You gain the [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) activity. You can prepare two cantrips each day from your spellbook. Each time you gain a spell slot of a new level from the magus archetype, add a spell of that level or lower to your spellbook. You're trained in arcane spell attack rolls and spell DCs. Your key spellcasting ability for magus archetype spells is Intelligence, and they are arcane magus spells. You become trained in [Arcana](skills.md#Arcana); if you were already trained in [Arcana](skills.md#Arcana), you instead become trained in a skill of your choice.
 
 You become trained in simple weapons.
 
@@ -21,7 +21,7 @@ You become trained in simple weapons.
 
 ## Magus Dedication leads to...
 
-[Basic Magus Spellcasting](compendium/feats/basic-magus-spellcasting-som.md), [Expert Magus Spellcasting](compendium/feats/expert-magus-spellcasting-som.md), [Master Magus Spellcasting](compendium/feats/master-magus-spellcasting-som.md), [Basic Martial Magic](compendium/feats/basic-martial-magic-som.md), [Advanced Martial Magic](compendium/feats/advanced-martial-magic-som.md), [Hybrid Study Spell](compendium/feats/hybrid-study-spell-som.md), [Spellstriker](compendium/feats/spellstriker-som.md)
+[Basic Magus Spellcasting](basic-magus-spellcasting-som.md), [Expert Magus Spellcasting](expert-magus-spellcasting-som.md), [Master Magus Spellcasting](master-magus-spellcasting-som.md), [Basic Martial Magic](basic-martial-magic-som.md), [Advanced Martial Magic](advanced-martial-magic-som.md), [Hybrid Study Spell](hybrid-study-spell-som.md), [Spellstriker](spellstriker-som.md)
 
 ## Summary
 

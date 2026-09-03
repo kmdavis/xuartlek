@@ -9,12 +9,12 @@ tags:
 aliases: ["Ventriloquist's Ring"]
 ---
 # Ventriloquist's Ring *Item 3*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 30 gp
 - **Usage** worn headwear
 
-This elegant copper ring has miniature images of songbirds engraved around its circumference, and while you wear it, you sometimes can swear that you hear the sound of songbirds singing from somewhere within 60 feet, even when you're sure there aren't any birds around. You gain a +1 item bonus to [Deception](compendium/skills.md#Deception) checks.
+This elegant copper ring has miniature images of songbirds engraved around its circumference, and while you wear it, you sometimes can swear that you hear the sound of songbirds singing from somewhere within 60 feet, even when you're sure there aren't any birds around. You gain a +1 item bonus to [Deception](skills.md#Deception) checks.
 
 ```ad-embed-ability
 title: **Ventriloquism** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([concentrate](rules/traits/concentrate.md))

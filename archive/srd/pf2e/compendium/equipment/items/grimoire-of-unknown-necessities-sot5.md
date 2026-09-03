@@ -12,12 +12,12 @@ tags:
 aliases: ["Grimoire of Unknown Necessities"]
 ---
 # Grimoire of Unknown Necessities *Item 16*  
-[divination](rules/traits/divination.md "Divination School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [grimoire](grimoire-som.md "Grimoire Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 8000 gp
 - **Bulk** L
 
-The cover of this grimoire is bound in a strange crimson, pebbly leather that a DC 40 [Occultism](compendium/skills.md#Occultism) check to [Recall Knowledge](rules/actions/recall-knowledge.md) identifies as the hide of a rare monster from the distant plane of Leng. The grimoire's spine is bound in copper and a spiral of shifting runes slowly swirls across its surface.
+The cover of this grimoire is bound in a strange crimson, pebbly leather that a DC 40 [Occultism](skills.md#Occultism) check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) identifies as the hide of a rare monster from the distant plane of Leng. The grimoire's spine is bound in copper and a spiral of shifting runes slowly swirls across its surface.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision ([arcane](rules/traits/arcane.md), [divination](rules/traits/divination.md))

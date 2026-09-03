@@ -8,7 +8,7 @@ tags:
 aliases: ["Bloodline Metamorphosis"]
 ---
 # Bloodline Metamorphosis  *Feat 20*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 You have learned to manipulate the innate power of your bloodline and adapt it to your needs. When making your daily preparations, you can swap out a single spell of 9th level or lower for another spell of the same level. You can't swap out spells granted specifically by your bloodline.

@@ -9,10 +9,10 @@ tags:
 aliases: ["Continual Flame"]
 ---
 # Continual Flame *Spell 2*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  
+[evocation](evocation.md "Evocation School Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Cost**: 6 gp of ruby dust
 - **Range**: touch
 - **Targets**: 1 object

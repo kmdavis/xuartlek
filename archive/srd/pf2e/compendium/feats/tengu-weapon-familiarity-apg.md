@@ -7,16 +7,16 @@ tags:
 aliases: ["Tengu Weapon Familiarity"]
 ---
 # Tengu Weapon Familiarity  *Feat 1*  
-[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
+[tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 
-You've trained with a blade and other tengu weapons ever since you hatched. You gain access to [khakkaras](compendium/equipment/items/khakkara-apg.md). Additionally, choose two weapons from the sword group. You can choose from among all common martial swords, plus the [katana](compendium/equipment/items/katana.md), [temple sword](compendium/equipment/items/temple-sword.md), and [wakizashi](compendium/equipment/items/wakizashi-apg.md). For the purpose of determining your proficiency, that weapon is a simple weapon, and if the weapon isn't common, you gain access to it. If you are trained in all martial weapons, you add common advanced swords to the swords you can choose from.
+You've trained with a blade and other tengu weapons ever since you hatched. You gain access to [khakkaras](khakkara-apg.md). Additionally, choose two weapons from the sword group. You can choose from among all common martial swords, plus the [katana](archive/srd/pf2e/compendium/equipment/items/katana.md), [temple sword](archive/srd/pf2e/compendium/equipment/items/temple-sword.md), and [wakizashi](wakizashi-apg.md). For the purpose of determining your proficiency, that weapon is a simple weapon, and if the weapon isn't common, you gain access to it. If you are trained in all martial weapons, you add common advanced swords to the swords you can choose from.
 
 You also gain access to all uncommon tengu weapons. For the purpose of determining your proficiency, martial tengu weapons are simple weapons, and advanced tengu weapons are martial weapons.
 
 ## Tengu Weapon Familiarity leads to...
 
-[Eclectic Sword Training](compendium/feats/eclectic-sword-training-apg.md), [Eclectic Sword Mastery](compendium/feats/eclectic-sword-mastery-loag.md), [Tengu Weapon Expertise](compendium/feats/tengu-weapon-expertise-apg.md), [Tengu Weapon Study](compendium/feats/tengu-weapon-study-apg.md)
+[Eclectic Sword Training](eclectic-sword-training-apg.md), [Eclectic Sword Mastery](eclectic-sword-mastery-loag.md), [Tengu Weapon Expertise](tengu-weapon-expertise-apg.md), [Tengu Weapon Study](tengu-weapon-study-apg.md)
 
 ## Summary
 

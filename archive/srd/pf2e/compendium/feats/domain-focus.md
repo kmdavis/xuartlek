@@ -7,15 +7,15 @@ tags:
 aliases: ["Domain Focus"]
 ---
 # Domain Focus  *Feat 12*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: one or more domain spells
 
-Your devotion to your deity's domains grows greater, and so does the power granted to you. If you have spent at least 2 Focus Points since the last time you [Refocused](rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](rules/actions/refocus.md) instead of 1.
+Your devotion to your deity's domains grows greater, and so does the power granted to you. If you have spent at least 2 Focus Points since the last time you [Refocused](archive/srd/pf2e/rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](archive/srd/pf2e/rules/actions/refocus.md) instead of 1.
 
 ## Domain Focus leads to...
 
-[Domain Wellspring](compendium/feats/domain-wellspring.md)
+[Domain Wellspring](domain-wellspring.md)
 
 ## Summary
 

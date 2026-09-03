@@ -8,14 +8,14 @@ tags:
 aliases: ["Vengeful Furnace"]
 ---
 # Vengeful Furnace *Hazard 4*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +15 expert  
 
 The hatch atop the haunted furnace flips open and disgorges a pair of shrieking, burning ghosts.
 
-- **Disable** DC 22 [Intimidation](compendium/skills.md#Intimidation) (trained) to cow one of the vengeful spirits or DC 25 [Religion](compendium/skills.md#Religion) (trained) to exorcise the spirit. The haunt remains active until both spirits are cowed or exorcised, or until the furnace is destroyed.  
+- **Disable** DC 22 [Intimidation](skills.md#Intimidation) (trained) to cow one of the vengeful spirits or DC 25 [Religion](skills.md#Religion) (trained) to exorcise the spirit. The haunt remains active until both spirits are cowed or exorcised, or until the furnace is destroyed.  
 
 - **AC** 21, **Fort** +15, **Ref** +8
 - **Hardness** 13, **HP** 60 (BT 30)

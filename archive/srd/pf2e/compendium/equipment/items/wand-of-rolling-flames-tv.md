@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Rolling Flames"]
 ---
 # Wand of Rolling Flames *Item 6+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of flaming sphere of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand

@@ -9,16 +9,16 @@ tags:
 aliases: ["Powder Punch Stance"]
 ---
 # Powder Punch Stance  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You're from Alkenstar or the Mana Wastes.
-- **Prerequisites**: [Martial Artist Dedication](compendium/feats/martial-artist-dedication-apg.md)
+- **Prerequisites**: [Martial Artist Dedication](martial-artist-dedication-apg.md)
 
-You infuse your handwraps with black powder. On your first melee [Strike](rules/actions/strike.md) each round with an unarmed attack, [knuckle duster](compendium/equipment/items/knuckle-duster-g-g.md), or [black powder knuckle dusters](compendium/equipment/items/black-powder-knuckle-dusters-g-g.md), you deal an additional 1 fire damage. If you critically succeed at an attempt to [Shove](rules/actions/shove.md) while in this stance, the target is pushed back an additional 5 feet.
+You infuse your handwraps with black powder. On your first melee [Strike](archive/srd/pf2e/rules/actions/strike.md) each round with an unarmed attack, [knuckle duster](knuckle-duster-g-g.md), or [black powder knuckle dusters](black-powder-knuckle-dusters-g-g.md), you deal an additional 1 fire damage. If you critically succeed at an attempt to [Shove](archive/srd/pf2e/rules/actions/shove.md) while in this stance, the target is pushed back an additional 5 feet.
 
 ## Powder Punch Stance leads to...
 
-[Black Powder Flash](compendium/feats/black-powder-flash-ooa1.md), [Thunder Clap](compendium/feats/thunder-clap-ooa1.md)
+[Black Powder Flash](black-powder-flash-ooa1.md), [Thunder Clap](thunder-clap-ooa1.md)
 
 ## Summary
 

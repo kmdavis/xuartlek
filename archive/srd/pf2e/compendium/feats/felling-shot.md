@@ -6,12 +6,12 @@ tags:
 - trait/rogue
 aliases: ["Felling Shot"]
 ---
-# Felling Shot  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[rogue](rules/traits/rogue.md "Rogue Class Trait")  
+# Felling Shot  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
+[rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Activity** Two-Action
 
-Your ranged attacks can shoot an unprepared foe right out of the air. Make a [Strike](rules/actions/strike.md) with a ranged weapon or a thrown weapon against a [flat-footed](rules/conditions.md#Flat-footed) creature. If the [Strike](rules/actions/strike.md) is a success and deals damage, the target must attempt a Reflex save against your class DC with the following effects.
+Your ranged attacks can shoot an unprepared foe right out of the air. Make a [Strike](archive/srd/pf2e/rules/actions/strike.md) with a ranged weapon or a thrown weapon against a [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) creature. If the [Strike](archive/srd/pf2e/rules/actions/strike.md) is a success and deals damage, the target must attempt a Reflex save against your class DC with the following effects.
 
 > [!success-degree] 
 > - **Success** The target is unaffected.

@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Sun Blessing"]
 ---
 # Greater Sun Blessing  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Blessing of the Sun Gods
 

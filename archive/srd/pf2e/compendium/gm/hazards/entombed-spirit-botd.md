@@ -8,14 +8,14 @@ tags:
 aliases: ["Entombed Spirit"]
 ---
 # Entombed Spirit *Hazard 2*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained  
 
 The wall bulges out in the shape of a howling humanoid face as it twists and forms tendrils reaching for nearby creatures. This haunt is formed when a murder victim is entombed within a wall before or after their death.
 
-- **Disable** DC 17 [Occultism](compendium/skills.md#Occultism) (trained) to weaken the spirit, DC 18 [Athletics](compendium/skills.md#Athletics) (trained) to force the spirit's face back inside the wall, or DC 19 [Diplomacy](compendium/skills.md#Diplomacy) (trained) to talk down the spirit; two total successes across all skills are required to disable the haunt  
+- **Disable** DC 17 [Occultism](skills.md#Occultism) (trained) to weaken the spirit, DC 18 [Athletics](skills.md#Athletics) (trained) to force the spirit's face back inside the wall, or DC 19 [Diplomacy](skills.md#Diplomacy) (trained) to talk down the spirit; two total successes across all skills are required to disable the haunt  
 
 - **AC** 15, **Fort** +11, **Ref** +5
 - **Hardness** 9 (wall); **HP** 30 (BT 15)

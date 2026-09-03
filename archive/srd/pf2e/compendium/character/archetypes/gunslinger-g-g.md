@@ -12,7 +12,7 @@ You like a weapon that makes an impression almost as much as you like making an 
 ## Multiclass Gunslinger characters
 <sup>G&G p. 127</sup>
 
-Gunslinger is a great fit for dexterous characters who want a weapon that hits hard from a distance, especially rangers and rogues who already have abilities that can make their first hit count. Spellcasters with [true strike](compendium/spells/true-strike.md) might favor firearms with the [fatal](rules/traits/fatal.md "Fatal Weapon Trait") property and gunslinger abilities that improve options for supporting their allies.
+Gunslinger is a great fit for dexterous characters who want a weapon that hits hard from a distance, especially rangers and rogues who already have abilities that can make their first hit count. Spellcasters with [true strike](true-strike.md) might favor firearms with the [fatal](archive/srd/pf2e/rules/traits/fatal.md "Fatal Weapon Trait") property and gunslinger abilities that improve options for supporting their allies.
 
 *Source: Guns & Gears p. 127*
 

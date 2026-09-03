@@ -11,13 +11,13 @@ tags:
 aliases: ["Warden's Signet"]
 ---
 # Warden's Signet *Item 11*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [focused](archive/srd/pf2e/rules/traits/focused.md "Focused Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1250 gp
 - **Craft Requirements** You are a ranger with at least one warden spell.
 - **Bulk** —; **Usage** worn
 
-This symbol shows your dedication to the magic practiced by some rangers. Most rangers wear it on an amulet, ring, or piercing. You gain a +2 item bonus to [Nature](compendium/skills.md#Nature) checks.
+This symbol shows your dedication to the magic practiced by some rangers. Most rangers wear it on an amulet, ring, or piercing. You gain a +2 item bonus to [Nature](skills.md#Nature) checks.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

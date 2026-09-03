@@ -7,15 +7,15 @@ tags:
 aliases: ["Conflux Focus"]
 ---
 # Conflux Focus  *Feat 12*  
-[magus](rules/traits/magus-som.md "Magus Class Trait")  
+[magus](archive/srd/pf2e/rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: conflux spells
 
-You imagine how you'll weave magic and combat into future battles, improving your focus. If you have spent at least 2 Focus Points since the last time you [Refocused](rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](rules/actions/refocus.md) instead of 1.
+You imagine how you'll weave magic and combat into future battles, improving your focus. If you have spent at least 2 Focus Points since the last time you [Refocused](archive/srd/pf2e/rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](archive/srd/pf2e/rules/actions/refocus.md) instead of 1.
 
 ## Conflux Focus leads to...
 
-[Conflux Wellspring](compendium/feats/conflux-wellspring-som.md)
+[Conflux Wellspring](conflux-wellspring-som.md)
 
 ## Summary
 

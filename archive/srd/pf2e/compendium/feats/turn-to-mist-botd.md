@@ -9,18 +9,18 @@ tags:
 - trait/transmutation
 aliases: ["Turn to Mist"]
 ---
-# Turn to Mist  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Turn to Mist  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md)
+- **Prerequisites**: [Vampire Dedication](vampire-dedication-botd.md)
 - **Frequency**: once per day
 - **Activity** Single Action
 
-You turn into vapor, gaining the effects of [gaseous form](compendium/spells/gaseous-form.md).
+You turn into vapor, gaining the effects of [gaseous form](gaseous-form.md).
 
 ## Turn to Mist leads to...
 
-[Mist Escape](compendium/feats/mist-escape-botd.md)
+[Mist Escape](mist-escape-botd.md)
 
 ## Summary
 

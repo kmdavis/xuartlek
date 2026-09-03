@@ -15,4 +15,4 @@ As an experienced sailor from Senghor, you know that the only thing saving you f
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Sailing Lore](compendium/skills.md#Lore) skill. You gain the [Quick Repair](compendium/feats/quick-repair.md) skill feat.
+You're trained in the [Crafting](skills.md#Crafting) skill and the [Sailing Lore](skills.md#Lore) skill. You gain the [Quick Repair](archive/srd/pf2e/compendium/feats/quick-repair.md) skill feat.

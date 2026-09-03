@@ -7,11 +7,11 @@ tags:
 aliases: ["Stronger Debilitating Venom"]
 ---
 # Stronger Debilitating Venom  *Feat 13*  
-[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
+[vishkanya](vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Debilitating Venom, Moderate Enhance Venom
 
-Add one of the following to the debilitations from which you can choose when you [Envenom](rules/actions/envenom-loil.md). These debilitations reduce the damage of all stages as noted.
+Add one of the following to the debilitations from which you can choose when you [Envenom](envenom-loil.md). These debilitations reduce the damage of all stages as noted.
 
 - Bungling (level 13) Reduce damage by 1 die
 

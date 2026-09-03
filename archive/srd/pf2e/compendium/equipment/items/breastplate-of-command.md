@@ -10,11 +10,11 @@ tags:
 aliases: ["Breastplate of Command"]
 ---
 # Breastplate of Command *Item 10+*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** 2; **Usage** worn armor
 
-This +1 resilient breastplate is made from shining bronze overlaid with reinforcing golden panels in the shape of lion's heads. Wearing this breastplate grants you a commanding aura. You gain a +2 item bonus to [Diplomacy](compendium/skills.md#Diplomacy) checks, but you take a –2 item penalty to [Stealth](compendium/skills.md#Stealth) checks to [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md) and [Deception](compendium/skills.md#Deception) checks to [Impersonate](rules/actions/impersonate.md).
+This +1 resilient breastplate is made from shining bronze overlaid with reinforcing golden panels in the shape of lion's heads. Wearing this breastplate grants you a commanding aura. You gain a +2 item bonus to [Diplomacy](skills.md#Diplomacy) checks, but you take a –2 item penalty to [Stealth](skills.md#Stealth) checks to [Hide](archive/srd/pf2e/rules/actions/hide.md) and [Sneak](archive/srd/pf2e/rules/actions/sneak.md) and [Deception](skills.md#Deception) checks to [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md).
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

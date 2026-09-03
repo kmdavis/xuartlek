@@ -11,8 +11,8 @@ tags:
 - trait/stance
 aliases: ["Rebirth in Living Stone"]
 ---
-# Rebirth in Living Stone  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
+# Rebirth in Living Stone  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  
 
 - **Activity** Single Action
 

@@ -22,8 +22,8 @@ Findeladlara is the ancient elven goddess of art and architecture, who teaches t
 ## Devotee benefits
 
 - **Divine Ability**: Charisma or Intelligence
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Crafting
-- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
-- **Domains**: [cities](compendium/setting/domains.md#Cities), [creation](compendium/setting/domains.md#Creation), [family](compendium/setting/domains.md#Family), [star](compendium/setting/domains.md#Star)
-- **Cleric Spells**: 1st: [illusory object](compendium/spells/illusory-object.md); 4th: [creation](compendium/spells/creation.md); 7th: [magnificent mansion](compendium/spells/magnificent-mansion.md)
+- **Favored Weapon**: [staff](archive/srd/pf2e/compendium/equipment/items/staff.md)
+- **Domains**: [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [star](archive/srd/pf2e/compendium/setting/domains.md#Star)
+- **Cleric Spells**: 1st: [illusory object](archive/srd/pf2e/compendium/spells/illusory-object.md); 4th: [creation](archive/srd/pf2e/compendium/spells/creation.md); 7th: [magnificent mansion](magnificent-mansion.md)

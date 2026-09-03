@@ -11,17 +11,17 @@ tags:
 aliases: ["Unusual Anatomy"]
 ---
 # Unusual Anatomy *Focus 5*   
-[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - 
 - **Duration**: 1 minute
 
 You transform your flesh and organs into a bizarre amalgam of glistening skin, rough scales, tufts of hair, and tumorous protuberances. This has three effects:
 
 - You gain resistance 10 to precision damage and resistance 10 to extra damage from critical hits. If the resistance is greater than the extra damage, it reduces the extra damage to 0 but doesn't reduce the attack's normal damage.
-- You gain [darkvision](rules/abilities/darkvision.md).
+- You gain [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md).
 - Acid oozes from your skin. Any creature that hits you with an unarmed attack or with a non-reach melee weapon takes `2d6` acid damage.
 
 **Heightened (+ 2)** The resistances increase by 5, and the acid damage increases by `1d6`.

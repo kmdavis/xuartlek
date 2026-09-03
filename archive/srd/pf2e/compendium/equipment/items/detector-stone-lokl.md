@@ -11,7 +11,7 @@ tags:
 aliases: ["Detector Stone"]
 ---
 # Detector Stone *Item 7*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 360 gp
@@ -19,7 +19,7 @@ aliases: ["Detector Stone"]
 
 During their journeys across the Gravelands, the Knights of Lastwall found several smoky, gemstone-like objects that knights refer to as detector stones. Some of the knights' Magaambyan allies believe the stones are aeon stones corrupted by the same energies that corrupted the Gravelands, though they don't display the characteristic orbiting behavior of aeon stones when invested. Despite the controversy, many knights use the stones for their ability to detect the presence of undead.
 
-While you have a detector stone invested, it glows faintly when an undead creature is within 30 feet of you, unless the undead is [hidden](rules/conditions.md#Hidden) or disguised with a [Deception](compendium/skills.md#Deception) or [Stealth](compendium/skills.md#Stealth) result of 20 or higher. An invested stone may be carried in a pocket, but some knights set them in necklaces, bracelets, or weapon hilts.
+While you have a detector stone invested, it glows faintly when an undead creature is within 30 feet of you, unless the undead is [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) or disguised with a [Deception](skills.md#Deception) or [Stealth](skills.md#Stealth) result of 20 or higher. An invested stone may be carried in a pocket, but some knights set them in necklaces, bracelets, or weapon hilts.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

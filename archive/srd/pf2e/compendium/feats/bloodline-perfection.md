@@ -7,7 +7,7 @@ tags:
 aliases: ["Bloodline Perfection"]
 ---
 # Bloodline Perfection  *Feat 20*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline paragon
 

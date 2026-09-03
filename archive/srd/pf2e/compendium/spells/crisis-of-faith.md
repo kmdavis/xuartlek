@@ -9,10 +9,10 @@ tags:
 aliases: ["Crisis Of Faith"]
 ---
 # Crisis Of Faith *Spell 3*   
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -22,8 +22,8 @@ You assault the target's faith, riddling the creature with doubt and mental turm
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target takes half damage.
-> - **Failure** The target takes full damage; if the target can cast divine spells, it's [stupefied](rules/conditions.md#Stupefied) for 1 round.
-> - **Critical Failure** The target takes double damage, is [stupefied](rules/conditions.md#Stupefied) for 1 round, and can't cast divine spells for 1 round. To many deities, casting this spell on a follower of your own deity without significant cause is anathema.
+> - **Failure** The target takes full damage; if the target can cast divine spells, it's [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 round.
+> - **Critical Failure** The target takes double damage, is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 round, and can't cast divine spells for 1 round. To many deities, casting this spell on a follower of your own deity without significant cause is anathema.
 
 **Heightened (+ 1)** The damage increases by `2d6` (or by `2d8` if the target is a divine spellcaster).
 

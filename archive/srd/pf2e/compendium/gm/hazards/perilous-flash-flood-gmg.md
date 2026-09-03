@@ -8,14 +8,14 @@ tags:
 aliases: ["Perilous Flash Flood"]
 ---
 # Perilous Flash Flood *Hazard 10*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +22 expert  
 
 Whether made up of water rushing through the streets that sweeps up dangerous debris along the way or a less natural substance bursting free of its container, this relentless flood batters everything in its path.
 
-- **Disable** three DC 35 [Athletics](compendium/skills.md#Athletics), [Crafting](compendium/skills.md#Crafting), or [Survival](compendium/skills.md#Survival) checks to move or construct barricades strong enough to create a shelter from the flood. While this creates a safe place to stand, creatures outside of the barricaded area may still be in danger depending on the nature and the source of the flood.  
+- **Disable** three DC 35 [Athletics](skills.md#Athletics), [Crafting](skills.md#Crafting), or [Survival](skills.md#Survival) checks to move or construct barricades strong enough to create a shelter from the flood. While this creates a safe place to stand, creatures outside of the barricaded area may still be in danger depending on the nature and the source of the flood.  
 
 ```ad-embed-ability
 title: **Burst Free** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

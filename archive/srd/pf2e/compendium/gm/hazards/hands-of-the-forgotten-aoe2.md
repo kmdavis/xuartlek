@@ -7,14 +7,14 @@ tags:
 aliases: ["Hands Of The Forgotten"]
 ---
 # Hands Of The Forgotten *Hazard 8*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 trained  
 
 Ethereal hands stretch out from the walls and floor, attempting to restrain nearby creatures.
 
-- **Disable** DC 30 [Religion](compendium/skills.md#Religion) (master) to exorcise the spirits or DC 32 [Intimidation](compendium/skills.md#Intimidation) (expert) to scare away the hands.  
+- **Disable** DC 30 [Religion](skills.md#Religion) (master) to exorcise the spirits or DC 32 [Intimidation](skills.md#Intimidation) (expert) to scare away the hands.  
 
 ```ad-embed-ability
 title: **Waylay** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([force](rules/traits/force.md), [negative](rules/traits/negative.md), [occult](rules/traits/occult.md))

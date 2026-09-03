@@ -7,10 +7,10 @@ tags:
 aliases: ["Graceful Guidance"]
 ---
 # Graceful Guidance  *Feat 5*  
-[catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
+[catfolk](catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  
 
 
-You can demonstrate how to quickly twist out of the way of dangerous effects. You can use the [Aid](rules/actions/aid.md) reaction to grant a bonus to an ally's Reflex save. As usual for [Aid](rules/actions/aid.md), you need to prepare by using an action on your turn to encourage the ally.
+You can demonstrate how to quickly twist out of the way of dangerous effects. You can use the [Aid](archive/srd/pf2e/rules/actions/aid.md) reaction to grant a bonus to an ally's Reflex save. As usual for [Aid](archive/srd/pf2e/rules/actions/aid.md), you need to prepare by using an action on your turn to encourage the ally.
 
 *Source: Lost Omens: Ancestry Guide p. 19*  
 %% #compendium/src/pf2e/loag #trait/catfolk %%

@@ -11,15 +11,15 @@ tags:
 aliases: ["Stormfeather"]
 ---
 # Stormfeather *Item 8*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 100 gp
 - **Usage** affixed to armor
-- **Activate** [Interact](rules/actions/interact.md); **Requirements** You're an expert in [Acrobatics](compendium/skills.md#Acrobatics).
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md); **Requirements** You're an expert in [Acrobatics](skills.md#Acrobatics).
 
 Even while affixed, this electric blue feather sways lightly in the air, as if always accompanied by a breeze.
 
-When activated, the talisman casts fly on you, though the duration is 1 minute. You can [Dismiss](rules/actions/dismiss.md) this activation.
+When activated, the talisman casts fly on you, though the duration is 1 minute. You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) this activation.
 
 If you do, you're affected by feather fall.
 

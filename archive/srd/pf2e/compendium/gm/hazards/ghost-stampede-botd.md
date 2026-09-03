@@ -8,18 +8,18 @@ tags:
 aliases: ["Ghost Stampede"]
 ---
 # Ghost Stampede *Hazard 15*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 master  
 
 Four massive skulls of aurochs, enormous wild cattle, rise into the air, each trailing its ghostly body behind it.
 
-- **Disable** DC 36 [Nature](compendium/skills.md#Nature) (master) to calm one of the four aurochs or DC 40 [Religion](compendium/skills.md#Religion) (trained) to exorcise them  
+- **Disable** DC 36 [Nature](skills.md#Nature) (master) to calm one of the four aurochs or DC 40 [Religion](skills.md#Religion) (trained) to exorcise them  
 
 - **AC** 40, **Fort** +23, **Ref** +29
 - **Hardness** 25; **per aurochs skull HP** 20
-- **Immunities** death effects; [disease](rules/traits/disease.md "Disease Effect Trait"); paralyzed; [poison](rules/traits/poison.md "Poison Effect Trait")
+- **Immunities** death effects; [disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait"); paralyzed; [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")
 - **Weaknesses** positive 5
 
 ```ad-embed-ability

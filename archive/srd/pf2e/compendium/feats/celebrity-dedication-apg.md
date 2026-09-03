@@ -8,10 +8,10 @@ tags:
 aliases: ["Celebrity Dedication"]
 ---
 # Celebrity Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
 
-The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you [Earn Income](rules/actions/earn-income.md), if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to [Earn Income](rules/actions/earn-income.md).
+The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect. You gain the Upstage reaction. In addition, when you [Earn Income](archive/srd/pf2e/rules/actions/earn-income.md), if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to [Earn Income](archive/srd/pf2e/rules/actions/earn-income.md).
 
 ```ad-embed-ability
 title: **Upstage** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
@@ -29,7 +29,7 @@ title: **Upstage** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions
 
 ## Celebrity Dedication leads to...
 
-[Command Attention](compendium/feats/command-attention-apg.md), [Mesmerizing Gaze](compendium/feats/mesmerizing-gaze-apg.md), [Never Tire](compendium/feats/never-tire-apg.md)
+[Command Attention](command-attention-apg.md), [Mesmerizing Gaze](mesmerizing-gaze-apg.md), [Never Tire](never-tire-apg.md)
 
 ## Summary
 

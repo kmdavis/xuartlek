@@ -15,4 +15,4 @@ You were more than a rebel; you were a revolutionary, fighting for the promise o
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [Deception](compendium/skills.md#Deception) skill and the [Warfare Lore](compendium/skills.md#Lore) skill. You gain the [Lengthy Diversion](compendium/feats/lengthy-diversion.md) skill feat.
+You're trained in the [Deception](skills.md#Deception) skill and the [Warfare Lore](skills.md#Lore) skill. You gain the [Lengthy Diversion](archive/srd/pf2e/compendium/feats/lengthy-diversion.md) skill feat.

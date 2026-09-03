@@ -7,14 +7,14 @@ tags:
 aliases: ["Ghostly Choir"]
 ---
 # Ghostly Choir *Hazard 6*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 expert  
 
 A choir of lost souls rises out of the floor, singing an eerie chant that terrifies its listeners and buffets their bodies with walls of sound.
 
-- **Disable** DC 28 [Performance](compendium/skills.md#Performance) (trained) to disrupt the song's resonance with another tune or DC 28 [Religion](compendium/skills.md#Religion) (trained) to ritually silence the spirits  
+- **Disable** DC 28 [Performance](skills.md#Performance) (trained) to disrupt the song's resonance with another tune or DC 28 [Religion](skills.md#Religion) (trained) to ritually silence the spirits  
 
 ```ad-embed-ability
 title: **Profane Chant** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([auditory](rules/traits/auditory.md), [emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))

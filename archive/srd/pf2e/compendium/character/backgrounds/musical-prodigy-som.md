@@ -15,4 +15,4 @@ Ever since you were young, you've been almost supernaturally skilled in a partic
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in [Performance](compendium/skills.md#Performance) and [Music Lore](compendium/skills.md#Lore). You gain the [Virtuosic Performer](compendium/feats/virtuosic-performer.md) skill feat.
+You're trained in [Performance](skills.md#Performance) and [Music Lore](skills.md#Lore). You gain the [Virtuosic Performer](archive/srd/pf2e/compendium/feats/virtuosic-performer.md) skill feat.

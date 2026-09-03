@@ -20,8 +20,8 @@ aliases: ["Lysianassa", "Empress of the Torrent"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [fate](compendium/setting/domains.md#Fate), [nature](compendium/setting/domains.md#Nature), [water](compendium/setting/domains.md#Water)
-- **Cleric Spells**: 1st: [hydraulic push](compendium/spells/hydraulic-push.md); 2nd: [aqueous orb](compendium/spells/aqueous-orb-apg.md); 5th: [control water](compendium/spells/control-water.md)
+- **Favored Weapon**: [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [water](archive/srd/pf2e/compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [hydraulic push](archive/srd/pf2e/compendium/spells/hydraulic-push.md); 2nd: [aqueous orb](aqueous-orb-apg.md); 5th: [control water](archive/srd/pf2e/compendium/spells/control-water.md)

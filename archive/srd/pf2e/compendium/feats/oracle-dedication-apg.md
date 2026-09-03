@@ -9,17 +9,17 @@ tags:
 aliases: ["Oracle Dedication"]
 ---
 # Oracle Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](archive/srd/pf2e/rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14
 
-Choose a mystery|oracle|apg|1. You become trained in [Religion](compendium/skills.md#Religion) and the mystery's skill; if you were already trained, you become trained in a skill of your choice. You gain the mild, constant effects of the mystery's curse described in its first paragraph, but not other effects the mystery usually grants. You cast spells like an oracle and gain the [Cast a Spell](rules/actions/cast-a-spell.md) activity. You gain a spell repertoire with two cantrips, either common divine cantrips or other divine cantrips you learn or discover. You're trained in divine spell attack rolls and divine spell DCs. Your key spellcasting ability for oracle archetype spells is Charisma, and they are divine oracle spells.
+Choose a mystery|oracle|apg|1. You become trained in [Religion](skills.md#Religion) and the mystery's skill; if you were already trained, you become trained in a skill of your choice. You gain the mild, constant effects of the mystery's curse described in its first paragraph, but not other effects the mystery usually grants. You cast spells like an oracle and gain the [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) activity. You gain a spell repertoire with two cantrips, either common divine cantrips or other divine cantrips you learn or discover. You're trained in divine spell attack rolls and divine spell DCs. Your key spellcasting ability for oracle archetype spells is Charisma, and they are divine oracle spells.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the oracle archetype.
 
 ## Oracle Dedication leads to...
 
-[Basic Mysteries](compendium/feats/basic-mysteries-apg.md), [Advanced Mysteries](compendium/feats/advanced-mysteries-apg.md), [Basic Oracle Spellcasting](compendium/feats/basic-oracle-spellcasting-apg.md), [Expert Oracle Spellcasting](compendium/feats/expert-oracle-spellcasting-apg.md), [Master Oracle Spellcasting](compendium/feats/master-oracle-spellcasting-apg.md), [Mysterious Breadth](compendium/feats/mysterious-breadth-apg.md), [First Revelation](compendium/feats/first-revelation-apg.md)
+[Basic Mysteries](basic-mysteries-apg.md), [Advanced Mysteries](advanced-mysteries-apg.md), [Basic Oracle Spellcasting](basic-oracle-spellcasting-apg.md), [Expert Oracle Spellcasting](expert-oracle-spellcasting-apg.md), [Master Oracle Spellcasting](master-oracle-spellcasting-apg.md), [Mysterious Breadth](mysterious-breadth-apg.md), [First Revelation](first-revelation-apg.md)
 
 ## Summary
 

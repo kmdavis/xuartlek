@@ -11,7 +11,7 @@ tags:
 aliases: ["Key to the Stomach"]
 ---
 # Key to the Stomach *Item 9*  
-[contract](rules/traits/contract-lol.md "Contract Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[contract](contract-lol.md "Contract Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
 Whether due to the inconvenience of having a physical body or the desperation of impending starvation, you were drawn to a person offering relief from hunger. You swallowed a key, which remains in your stomach, that continuously satiates you. You no longer need to eat or drink. Once per day, from any distance, the entity that holds your bargained contract can have the key sealing your bargained contract absorb all items in your stomach, which prevents you from benefiting from items that require you to eat or drink them, such as potions and elixirs, for 10 minutes.

@@ -8,8 +8,8 @@ tags:
 - trait/rage
 aliases: ["Renewed Vigor"]
 ---
-# Renewed Vigor  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
+# Renewed Vigor  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [rage](archive/srd/pf2e/rules/traits/rage.md "Rage Combat Trait")  
 
 - **Activity** Single Action
 

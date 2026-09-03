@@ -7,14 +7,14 @@ tags:
 aliases: ["Hex Focus"]
 ---
 # Hex Focus  *Feat 12*  
-[witch](rules/traits/witch-apg.md "Witch Class Trait")  
+[witch](archive/srd/pf2e/rules/traits/witch-apg.md "Witch Class Trait")  
 
 
-Your patron's teachings have allowed you to achieve a deeper focus. If you have spent at least 2 Focus Points since the last time you [Refocused](rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](rules/actions/refocus.md) instead of 1.
+Your patron's teachings have allowed you to achieve a deeper focus. If you have spent at least 2 Focus Points since the last time you [Refocused](archive/srd/pf2e/rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](archive/srd/pf2e/rules/actions/refocus.md) instead of 1.
 
 ## Hex Focus leads to...
 
-[Hex Wellspring](compendium/feats/hex-wellspring-apg.md)
+[Hex Wellspring](hex-wellspring-apg.md)
 
 ## Summary
 

@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Aegis Of Arnisant"]
 ---
-# Aegis Of Arnisant  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Aegis Of Arnisant  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md), [Shield Block](compendium/feats/shield-block.md), master in [Religion](compendium/skills.md#Religion)
+- **Prerequisites**: [Knight Vigilant Dedication](knight-vigilant-dedication-locg.md), [Shield Block](archive/srd/pf2e/compendium/feats/shield-block.md), master in [Religion](skills.md#Religion)
 - **Requirements**: You are wielding a shield.
 - **Activity** Two-Action
 

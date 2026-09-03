@@ -15,4 +15,4 @@ You trained at the feet of a knight, maintaining their gear and supporting them 
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and your choice of the [Heraldry Lore](compendium/skills.md#Lore) or [Warfare Lore](compendium/skills.md#Lore) skill. You gain the [Armor Assist](compendium/feats/armor-assist-apg.md) skill feat.
+You're trained in the [Athletics](skills.md#Athletics) skill and your choice of the [Heraldry Lore](skills.md#Lore) or [Warfare Lore](skills.md#Lore) skill. You gain the [Armor Assist](armor-assist-apg.md) skill feat.

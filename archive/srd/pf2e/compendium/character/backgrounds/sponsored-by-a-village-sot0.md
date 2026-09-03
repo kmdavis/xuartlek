@@ -16,6 +16,6 @@ You come from a small community far from any large cities, but the Magaambya is 
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of the [Crafting](compendium/skills.md#Crafting) or [Survival](compendium/skills.md#Survival) skill. You gain a skill feat: [Crafter's Appraisal](compendium/feats/crafters-appraisal-apg.md) if you chose [Crafting](compendium/skills.md#Crafting) or [Forager](compendium/feats/forager.md) if you chose [Survival](compendium/skills.md#Survival). You're also trained in the [Mafika Ayuwari Lore](compendium/skills.md#Lore) skill appropriate for the terrain around your community (such as [Forest Lore](compendium/skills.md#Lore) or [Jungle Lore](compendium/skills.md#Lore))
+You're trained in your choice of the [Crafting](skills.md#Crafting) or [Survival](skills.md#Survival) skill. You gain a skill feat: [Crafter's Appraisal](crafters-appraisal-apg.md) if you chose [Crafting](skills.md#Crafting) or [Forager](archive/srd/pf2e/compendium/feats/forager.md) if you chose [Survival](skills.md#Survival). You're also trained in the [Mafika Ayuwari Lore](skills.md#Lore) skill appropriate for the terrain around your community (such as [Forest Lore](skills.md#Lore) or [Jungle Lore](skills.md#Lore))
 
 Your recommended primary branch is the Cascade Bearers.

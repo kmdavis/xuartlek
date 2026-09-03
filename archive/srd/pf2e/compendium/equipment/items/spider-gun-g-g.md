@@ -10,12 +10,12 @@ tags:
 aliases: ["Spider Gun"]
 ---
 # Spider Gun *Item 6+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 2; **Usage** held in 2 hands
 - **Category** Beast Gun
 
-A spider gun is a +1 striking weapon. It's a distinct type of martial firearm made from the fangs and spinneret of a Large spider. It deals `1d10` poison damage with a range increment of 30 feet and [reload <1>](rules/traits/reload-1.md "Reload Weapon Trait"). On a critical hit, the venom clings to the target and they take [persistent poison damage](rules/conditions.md#Persistent%20Damage) equal to `1d4` + the number of weapon damage dice.
+A spider gun is a +1 striking weapon. It's a distinct type of martial firearm made from the fangs and spinneret of a Large spider. It deals `1d10` poison damage with a range increment of 30 feet and [reload <1>](rules/traits/reload-1.md "Reload Weapon Trait"). On a critical hit, the venom clings to the target and they take [persistent poison damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) equal to `1d4` + the number of weapon damage dice.
 
 A spider gun does not add critical specialization effects.
 

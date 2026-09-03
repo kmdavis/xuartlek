@@ -8,12 +8,12 @@ tags:
 aliases: ["Orichalcum Shield"]
 ---
 # Orichalcum Shield *Item 17+*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** varies by shield
 - **Group** Shield 
 
-Orichalcum shields' time-bending properties are particularly useful for keeping them intact. The first time each day an orichalcum shield would be destroyed, it is instead left with 1 Hit Point and the [broken](rules/conditions.md#Broken) condition.
+Orichalcum shields' time-bending properties are particularly useful for keeping them intact. The first time each day an orichalcum shield would be destroyed, it is instead left with 1 Hit Point and the [broken](archive/srd/pf2e/rules/conditions.md#Broken) condition.
 
 ---
 
@@ -27,7 +27,7 @@ Orichalcum shields' time-bending properties are particularly useful for keeping 
 #### high-grade orichalcum shield *Item 17*
 
 
-gp; Bulk 1; [Craft](rules/actions/craft.md) Requirements orichalcum worth at least6,600 gp The shield has Hardness 16, HP 64, and BT 32.
+gp; Bulk 1; [Craft](archive/srd/pf2e/rules/actions/craft.md) Requirements orichalcum worth at least6,600 gp The shield has Hardness 16, HP 64, and BT 32.
 
 ---
 *Source: Core Rulebook p. 587*

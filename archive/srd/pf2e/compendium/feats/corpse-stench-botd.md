@@ -9,11 +9,11 @@ tags:
 aliases: ["Corpse Stench"]
 ---
 # Corpse Stench  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [olfactory](rules/traits/olfactory-b1.md "Olfactory Effect Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [aura](archive/srd/pf2e/rules/traits/aura.md "Aura Combat Trait")  [olfactory](olfactory-b1.md "Olfactory Effect Trait")  
 
-- **Prerequisites**: [Ghoul Dedication](compendium/feats/ghoul-dedication-botd.md)
+- **Prerequisites**: [Ghoul Dedication](ghoul-dedication-botd.md)
 
-Your body exudes an overwhelming scent of decay in a 10-foot emanation, so putrid that it nauseates creates within that range. Any creature that starts its turn in the aura must succeed at a Fortitude save against your class DC or spell DC, whichever is higher, or be [sickened](rules/conditions.md#Sickened) (plus [slowed](rules/conditions.md#Slowed) on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against disease and to recover from the [sickened](rules/conditions.md#Sickened) condition. A creature that succeeds at its save is temporarily immune to Corpse Stench for 1 minute.
+Your body exudes an overwhelming scent of decay in a 10-foot emanation, so putrid that it nauseates creates within that range. Any creature that starts its turn in the aura must succeed at a Fortitude save against your class DC or spell DC, whichever is higher, or be [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) (plus [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against disease and to recover from the [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) condition. A creature that succeeds at its save is temporarily immune to Corpse Stench for 1 minute.
 
 *Source: Book of the Dead p. 49*  
 %% #compendium/src/pf2e/botd #trait/archetype #trait/aura #trait/olfactory %%

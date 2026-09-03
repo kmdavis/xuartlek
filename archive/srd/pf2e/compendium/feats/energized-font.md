@@ -6,8 +6,8 @@ tags:
 - trait/gnome
 aliases: ["Energized Font"]
 ---
-# Energized Font  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
+# Energized Font  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
+[gnome](archive/srd/pf2e/rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Prerequisites**: focus pool, at least one innate spell from a gnome heritage or ancestry feat that shares a tradition with at least one of your focus spells
 - **Frequency**: once per day

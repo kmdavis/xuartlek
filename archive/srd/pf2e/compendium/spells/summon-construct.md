@@ -8,14 +8,14 @@ tags:
 aliases: ["Summon Construct"]
 ---
 # Summon Construct *Spell 1*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 30 foot
 - **Duration**: sustained up to 1 minute
 
-You conjure a construct to fight for you. This works like [summon animal](compendium/spells/summon-animal.md), except you summon a common creature that has the [construct](rules/traits/construct.md "Construct Creature Type Trait") trait and whose level is –1.
+You conjure a construct to fight for you. This works like [summon animal](archive/srd/pf2e/compendium/spells/summon-animal.md), except you summon a common creature that has the [construct](archive/srd/pf2e/rules/traits/construct.md "Construct Creature Type Trait") trait and whose level is –1.
 
 **Heightened (10th)** Level 15.
 

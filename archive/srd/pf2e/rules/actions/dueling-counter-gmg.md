@@ -6,12 +6,12 @@ tags:
 - trait/magical
 aliases: ["Dueling Counter"]
 ---
-# Dueling Counter [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[magical](rules/traits/magical.md "Magical Item Trait")  
+# Dueling Counter [R](chapter-9-playing-the-game.md#Actions "Reaction")
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 *Source: Gamemastery Guide p. 167*  
 
 **Variant Rule** Duels
-- **Trigger**: Your opponent [Casts a Spell](rules/actions/cast-a-spell.md) from the same tradition as your tradition focus.
+- **Trigger**: Your opponent [Casts a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) from the same tradition as your tradition focus.
 - **Requirements**: You are in a duel and have a tradition focus.
 - **Activity**: Reaction
 

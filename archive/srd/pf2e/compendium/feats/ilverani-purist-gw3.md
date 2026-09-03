@@ -8,7 +8,7 @@ tags:
 aliases: ["Ilverani Purist"]
 ---
 # Ilverani Purist  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: Twilight Speaker Dedication
 

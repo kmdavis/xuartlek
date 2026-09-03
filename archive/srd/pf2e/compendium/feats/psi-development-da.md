@@ -7,9 +7,9 @@ tags:
 aliases: ["Psi Development"]
 ---
 # Psi Development  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Psychic Dedication](compendium/feats/psychic-dedication-da.md)
+- **Prerequisites**: [Psychic Dedication](psychic-dedication-da.md)
 
 You've found a new mental form. You gain another psi cantrip from your conscious mind: either the standard cantrip you didn't take with Psychic Dedication, or the unique surface psi cantrip.
 

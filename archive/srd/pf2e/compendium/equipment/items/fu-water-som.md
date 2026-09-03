@@ -13,7 +13,7 @@ tags:
 aliases: ["Fu Water"]
 ---
 # Fu Water *Item 5*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [good](good.md "Good Alignment Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [potion](archive/srd/pf2e/rules/traits/potion.md "Potion Item Trait")  [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait")  
 
 - **Price** 21 gp
 - **Usage** held in 1 hand

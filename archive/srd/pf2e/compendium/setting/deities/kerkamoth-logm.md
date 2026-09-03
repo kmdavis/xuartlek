@@ -20,8 +20,8 @@ aliases: ["Kerkamoth", "The Waiting Void"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
-- **Domains**: [darkness](compendium/setting/domains.md#Darkness), [decay](compendium/setting/domains.md#Decay), [destruction](compendium/setting/domains.md#Destruction), [void](compendium/setting/domains.md#Void)
-- **Cleric Spells**: 1st: [penumbral shroud](compendium/spells/penumbral-shroud-logm.md); 5th: [shadow siphon](compendium/spells/shadow-siphon.md); 6th: [disintegrate](compendium/spells/disintegrate.md)
+- **Favored Weapon**: [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md)
+- **Domains**: [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [decay](archive/srd/pf2e/compendium/setting/domains.md#Decay), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [penumbral shroud](penumbral-shroud-logm.md); 5th: [shadow siphon](shadow-siphon.md); 6th: [disintegrate](archive/srd/pf2e/compendium/spells/disintegrate.md)

@@ -11,10 +11,10 @@ tags:
 aliases: ["Sniper's Bead"]
 ---
 # Sniper's Bead *Item 4+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** –; **Usage** affixed to a two-handed firearm or crossbow
-- **Activate** envision; **Trigger** You attempt a ranged [Strike](rules/actions/strike.md) with the affixed weapon before rolling; **Requirements** You're a master with the affixed weapon.
+- **Activate** envision; **Trigger** You attempt a ranged [Strike](archive/srd/pf2e/rules/actions/strike.md) with the affixed weapon before rolling; **Requirements** You're a master with the affixed weapon.
 
 This plain wooden bead dangles from a string attached to the stock of the affixed weapon. When you activate the bead, its magic greatly lessens the effect of distance on your triggering attack.
 

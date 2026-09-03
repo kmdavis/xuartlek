@@ -7,7 +7,7 @@ tags:
 aliases: ["Divine Health"]
 ---
 # Divine Health  *Feat 4*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: tenets of good
 

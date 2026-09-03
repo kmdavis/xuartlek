@@ -20,8 +20,8 @@ aliases: ["Dhalavei", "The Unsuspected Rot"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Deception
-- **Favored Weapon**: [temple sword](compendium/equipment/items/temple-sword.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [knowledge](compendium/setting/domains.md#Knowledge), [secrecy](compendium/setting/domains.md#Secrecy), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [fear](compendium/spells/fear.md); 4th: [glibness](compendium/spells/glibness.md); 6th: [mislead](compendium/spells/mislead.md)
+- **Favored Weapon**: [temple sword](archive/srd/pf2e/compendium/equipment/items/temple-sword.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [fear](archive/srd/pf2e/compendium/spells/fear.md); 4th: [glibness](glibness.md); 6th: [mislead](archive/srd/pf2e/compendium/spells/mislead.md)

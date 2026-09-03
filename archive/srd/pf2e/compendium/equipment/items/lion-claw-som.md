@@ -11,13 +11,13 @@ tags:
 aliases: ["Lion Claw"]
 ---
 # Lion Claw *Item 11*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 300 gp
 - **Usage** affixed to a weapon
-- **Activate** [Interact](rules/actions/interact.md); **Requirements** You're [undetected](rules/conditions.md#Undetected) by a creature and are a master in [Stealth](compendium/skills.md#Stealth).
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md); **Requirements** You're [undetected](archive/srd/pf2e/rules/conditions.md#Undetected) by a creature and are a master in [Stealth](skills.md#Stealth).
 
-This dried claw from a mighty beast bestows upon you the ability of a predator. When you activate the claw, you learn to pounce on your prey in one fluid motion. You [Stride](rules/actions/stride.md) and then [Strike](rules/actions/strike.md) with the affixed weapon against one creature you were [undetected](rules/conditions.md#Undetected) by. You remain [undetected](rules/conditions.md#Undetected) by the creature until after you [Strike](rules/actions/strike.md).
+This dried claw from a mighty beast bestows upon you the ability of a predator. When you activate the claw, you learn to pounce on your prey in one fluid motion. You [Stride](archive/srd/pf2e/rules/actions/stride.md) and then [Strike](archive/srd/pf2e/rules/actions/strike.md) with the affixed weapon against one creature you were [undetected](archive/srd/pf2e/rules/conditions.md#Undetected) by. You remain [undetected](archive/srd/pf2e/rules/conditions.md#Undetected) by the creature until after you [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 
 ---

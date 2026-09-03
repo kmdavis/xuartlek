@@ -11,10 +11,10 @@ tags:
 aliases: ["Malignant Sustenance"]
 ---
 # Malignant Sustenance *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [undeath](compendium/setting/domains.md#Undeath)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [undeath](archive/srd/pf2e/compendium/setting/domains.md#Undeath)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 willing undead creature
 - **Duration**: 1 minute

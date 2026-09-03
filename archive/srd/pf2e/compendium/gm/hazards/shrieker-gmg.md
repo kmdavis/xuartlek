@@ -8,14 +8,14 @@ tags:
 aliases: ["Shrieker"]
 ---
 # Shrieker *Hazard -1*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](fungus-b1.md "Fungus Creature Type Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 12  
 
 This human-sized purple mushroom emits a piercing shriek when disturbed.
 
-- **Disable** DC 18 [Survival](compendium/skills.md#Survival) to carefully approach and cut the mushroom's air sac without triggering the shrieker  
+- **Disable** DC 18 [Survival](skills.md#Survival) to carefully approach and cut the mushroom's air sac without triggering the shrieker  
 
 - **AC** 12, **Fort** +8, **Ref** +2
 - **HP** 9

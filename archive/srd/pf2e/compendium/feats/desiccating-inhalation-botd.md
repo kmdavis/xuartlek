@@ -8,14 +8,14 @@ tags:
 - trait/evocation
 aliases: ["Desiccating Inhalation"]
 ---
-# Desiccating Inhalation  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+# Desiccating Inhalation  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  
 
-- **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
+- **Prerequisites**: [Mummy Dedication](mummy-dedication-botd.md)
 - **Frequency**: once per hour
 - **Activity** Two-Action
 
-You draw in the moisture from nearby creatures, draining them dry to heal your wounds. Creatures in a 30-foot cone take `6d8` negative damage, with a basic Reflex save against your class DC. A creature that critically fails this saving throw is also [drained](rules/conditions.md#Drained). As long as at least one creature was damaged by your Desiccating Inhalation, you regain HP equal to your level.
+You draw in the moisture from nearby creatures, draining them dry to heal your wounds. Creatures in a 30-foot cone take `6d8` negative damage, with a basic Reflex save against your class DC. A creature that critically fails this saving throw is also [drained](archive/srd/pf2e/rules/conditions.md#Drained). As long as at least one creature was damaged by your Desiccating Inhalation, you regain HP equal to your level.
 
 At 14th level and every 2 levels thereafter, the damage increases by `1d8`.
 

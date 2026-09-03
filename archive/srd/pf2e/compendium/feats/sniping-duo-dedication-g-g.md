@@ -8,13 +8,13 @@ tags:
 aliases: ["Sniping Duo Dedication"]
 ---
 # Sniping Duo Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
-- **Prerequisites**: trained in at least one type of weapon in the bow or firearm groups, trained in [Stealth](compendium/skills.md#Stealth)
+- **Prerequisites**: trained in at least one type of weapon in the bow or firearm groups, trained in [Stealth](skills.md#Stealth)
 
-When you take this dedication, choose one willing, non-minion ally to act as your spotter. As part of your training in this archetype, you train your spotter in the necessary habits and techniques to use your abilities automatically; your spotter doesn't need to spend any feats of their own to grant the effects. You only gain the benefits of your Sniping Duo archetype feats if both you and your spotter are alive and conscious. You and your spotter don't grant your foes lesser cover against one another's [Strikes](rules/actions/strike.md).
+When you take this dedication, choose one willing, non-minion ally to act as your spotter. As part of your training in this archetype, you train your spotter in the necessary habits and techniques to use your abilities automatically; your spotter doesn't need to spend any feats of their own to grant the effects. You only gain the benefits of your Sniping Duo archetype feats if both you and your spotter are alive and conscious. You and your spotter don't grant your foes lesser cover against one another's [Strikes](archive/srd/pf2e/rules/actions/strike.md).
 
-Whenever you or your spotter successfully [Strikes](rules/actions/strike.md) a target, the other member of your duo gains a +1 circumstance bonus per weapon damage die on the damage roll of their next [Strike](rules/actions/strike.md) made against that target before the end of their next turn.
+Whenever you or your spotter successfully [Strikes](archive/srd/pf2e/rules/actions/strike.md) a target, the other member of your duo gains a +1 circumstance bonus per weapon damage die on the damage roll of their next [Strike](archive/srd/pf2e/rules/actions/strike.md) made against that target before the end of their next turn.
 
 You can change your designated spotter by spending 3 days of downtime training with another ally.
 
@@ -22,7 +22,7 @@ You can change your designated spotter by spending 3 days of downtime training w
 
 ## Sniping Duo Dedication leads to...
 
-[Concentrated Assault](compendium/feats/concentrated-assault-g-g.md), [Duo's Aim](compendium/feats/duos-aim-g-g.md), [Eagle Eyes](compendium/feats/eagle-eyes-g-g.md), [Exploit Opening](compendium/feats/exploit-opening-g-g.md), [Tag Team](compendium/feats/tag-team-g-g.md), [Targeted Redirection](compendium/feats/targeted-redirection-g-g.md), [Triangulate](compendium/feats/triangulate-g-g.md), [Vantage Shot](compendium/feats/vantage-shot-g-g.md)
+[Concentrated Assault](concentrated-assault-g-g.md), [Duo's Aim](duos-aim-g-g.md), [Eagle Eyes](eagle-eyes-g-g.md), [Exploit Opening](exploit-opening-g-g.md), [Tag Team](tag-team-g-g.md), [Targeted Redirection](targeted-redirection-g-g.md), [Triangulate](triangulate-g-g.md), [Vantage Shot](vantage-shot-g-g.md)
 
 ## Summary
 

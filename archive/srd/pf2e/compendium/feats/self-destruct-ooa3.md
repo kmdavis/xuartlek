@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Self-Destruct"]
 ---
-# Self-Destruct  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Self-Destruct  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Clockwork Reanimator Dedication](compendium/feats/clockwork-reanimator-dedication-ooa3.md)
+- **Prerequisites**: [Clockwork Reanimator Dedication](clockwork-reanimator-dedication-ooa3.md)
 - **Trigger** Your reanimated clockwork companion is reduced to 0 Hit Points.
 - **Requirements**: You're within 60 feet of your reanimated clockwork companion.
 - **Activity** Reaction

@@ -9,7 +9,7 @@ tags:
 aliases: ["Sparkblade"]
 ---
 # Sparkblade *Item 3*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 70 gp
 

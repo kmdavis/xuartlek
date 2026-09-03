@@ -11,10 +11,10 @@ tags:
 aliases: ["Outcast's Curse"]
 ---
 # Outcast's Curse *Spell 4*   
-[curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [misfortune](archive/srd/pf2e/rules/traits/misfortune.md "Misfortune Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -23,7 +23,7 @@ You afflict the target with a curse that makes its presence abrasive and off-put
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** For 10 minutes, the target must roll twice and use the worse result whenever attempting a [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), or [Performance](compendium/skills.md#Performance) check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [unfriendly](rules/conditions.md#Unfriendly) instead of [indifferent](rules/conditions.md#Indifferent)).
+> - **Success** For 10 minutes, the target must roll twice and use the worse result whenever attempting a [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), [Intimidation](skills.md#Intimidation), or [Performance](skills.md#Performance) check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [unfriendly](archive/srd/pf2e/rules/conditions.md#Unfriendly) instead of [indifferent](archive/srd/pf2e/rules/conditions.md#Indifferent)).
 > - **Failure** As success, but the effect is permanent.
 > - **Critical Failure** As failure, and creatures that the target encounters have an initial attitude toward them of two steps worse.
 

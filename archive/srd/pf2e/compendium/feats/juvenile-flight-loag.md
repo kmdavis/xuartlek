@@ -6,8 +6,8 @@ tags:
 - trait/strix
 aliases: ["Juvenile Flight"]
 ---
-# Juvenile Flight  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[strix](rules/traits/strix-loag.md "Strix Ancestry & Heritage Trait")  
+# Juvenile Flight  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
+[strix](strix-loag.md "Strix Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action
@@ -16,7 +16,7 @@ You unfold your wings for travel and can keep them unfolded for 10 minutes. You 
 
 ## Juvenile Flight leads to...
 
-[Fully Flighted](compendium/feats/fully-flighted-loag.md)
+[Fully Flighted](fully-flighted-loag.md)
 
 ## Summary
 

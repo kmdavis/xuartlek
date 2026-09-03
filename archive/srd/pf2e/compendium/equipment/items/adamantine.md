@@ -9,7 +9,7 @@ tags:
 aliases: ["Adamantine"]
 ---
 # Adamantine *Item 8+*  
-[precious](rules/traits/precious.md "Precious Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[precious](archive/srd/pf2e/rules/traits/precious.md "Precious Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge.

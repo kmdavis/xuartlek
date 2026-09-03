@@ -13,7 +13,7 @@ tags:
 aliases: ["Cane Pistol"]
 ---
 # Cane Pistol *Item 0*  
-[combination](rules/traits/combination-g-g.md "Combination Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[combination](combination-g-g.md "Combination Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 8 gp

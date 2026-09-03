@@ -9,7 +9,7 @@ aliases: ["Pirate"]
 
 You live a life of freedom, taking by force and intimidation all that you desire. You may be a privateer, raiding and plundering on behalf of a particular nation or another authority, or you may answer to no one but your own capricious whims. Either way, you rely on intimidation, wits, and combat prowess to take what you want from those you deem less deserving.
 
-Pirates have much in common with swashbucklers, and many pirates have the swashbuckler class or [archetype](compendium/character/archetypes/swashbuckler-apg.md). Much like a swashbuckler's daring deeds, classic pirate maneuvers are often showy feats intended to impress, intimidate, and gain panache. For example, if you have the panache class feature and your [Acrobatics](compendium/skills.md#Acrobatics) check for a Boarding Assault exceeds the very hard DC for your level, you would gain panache.
+Pirates have much in common with swashbucklers, and many pirates have the swashbuckler class or [archetype](archive/srd/pf2e/compendium/character/archetypes/swashbuckler-apg.md). Much like a swashbuckler's daring deeds, classic pirate maneuvers are often showy feats intended to impress, intimidate, and gain panache. For example, if you have the panache class feature and your [Acrobatics](skills.md#Acrobatics) check for a Boarding Assault exceeds the very hard DC for your level, you would gain panache.
 
 *Source: Advanced Player's Guide p. 185*
 

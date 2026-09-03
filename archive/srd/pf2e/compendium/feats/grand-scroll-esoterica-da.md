@@ -7,7 +7,7 @@ tags:
 aliases: ["Grand Scroll Esoterica"]
 ---
 # Grand Scroll Esoterica  *Feat 18*  
-[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
+[thaumaturge](archive/srd/pf2e/rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Elaborate Scroll Esoterica
 

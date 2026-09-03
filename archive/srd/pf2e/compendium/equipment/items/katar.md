@@ -11,7 +11,7 @@ tags:
 aliases: ["Katar"]
 ---
 # Katar *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait")  [monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 sp
 - **Bulk** L

@@ -12,7 +12,7 @@ tags:
 aliases: ["Shared-Pain Sankeit"]
 ---
 # Shared-Pain Sankeit *Item 14*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** 3; **Usage** worn armor
 

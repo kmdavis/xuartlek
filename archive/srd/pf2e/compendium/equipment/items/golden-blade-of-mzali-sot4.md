@@ -12,16 +12,16 @@ tags:
 aliases: ["Golden Blade of Mzali"]
 ---
 # Golden Blade of Mzali *Item 15*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 6500 gp
 - **Bulk** 1; **Usage** held in 1 hand
 
-Each of these golden spears was forged in the days of old Mzali, when the sun kings ruled the city. The majority of these weapons are lost, most likely buried with warriors in tombs and temples sealed by [Walkena](compendium/setting/deities/walkena-logm.md)'s decrees.
+Each of these golden spears was forged in the days of old Mzali, when the sun kings ruled the city. The majority of these weapons are lost, most likely buried with warriors in tombs and temples sealed by [Walkena](walkena-logm.md)'s decrees.
 
-[Walkena](compendium/setting/deities/walkena-logm.md) retains a single golden blade, which he grants to his Master of Spears.
+[Walkena](walkena-logm.md) retains a single golden blade, which he grants to his Master of Spears.
 
-This +2 greater striking returning spear is coated in brilliant gold, and beautiful engravings run along the shaft, depicting the rising and setting of the sun against Mzali's skyline. The spear glows with the effects of 4th-level [light](compendium/spells/light.md). You can suppress or resume this light by using an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. When you hit a creature with the spear, it takes `1d6` additional fire damage. When you critically hit a creature with the spear, the creature takes `1d8` [persistent fire damage](rules/conditions.md#Persistent%20Damage) and `1d8` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) as its blood boils away. Unlike normal when taking two types of [persistent damage](rules/conditions.md#Persistent%20Damage), a creature needs only a single successful flat check to remove both the fire and bleed damage.
+This +2 greater striking returning spear is coated in brilliant gold, and beautiful engravings run along the shaft, depicting the rising and setting of the sun against Mzali's skyline. The spear glows with the effects of 4th-level [light](archive/srd/pf2e/compendium/spells/light.md). You can suppress or resume this light by using an action, which has the [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. When you hit a creature with the spear, it takes `1d6` additional fire damage. When you critically hit a creature with the spear, the creature takes `1d8` [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) and `1d8` [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) as its blood boils away. Unlike normal when taking two types of [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), a creature needs only a single successful flat check to remove both the fire and bleed damage.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision

@@ -11,10 +11,10 @@ tags:
 aliases: ["Swampcall"]
 ---
 # Swampcall *Spell 1*   
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Area**: 10-foot burst
 - **Duration**: 1 minute
@@ -23,8 +23,8 @@ You call upon the spirits of the soil to twist and churn, transforming the terra
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.
-> - **Failure** The creature sinks partially into the mud. The creature takes a –10-foot circumstance penalty to its Speeds (except for its swim Speed, if any) and becomes [flat-footed](rules/conditions.md#Flat-footed). These effects last until the creature leaves the area or until the end of its next turn, whichever comes first.
-> - **Critical Failure** As failure, but the penalty to Speeds (except [Swim](rules/actions/swim.md) speed) is –15 feet.
+> - **Failure** The creature sinks partially into the mud. The creature takes a –10-foot circumstance penalty to its Speeds (except for its swim Speed, if any) and becomes [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed). These effects last until the creature leaves the area or until the end of its next turn, whichever comes first.
+> - **Critical Failure** As failure, but the penalty to Speeds (except [Swim](archive/srd/pf2e/rules/actions/swim.md) speed) is –15 feet.
 
 **Heightened (3rd)** The range increases to 60 feet, and the area increases to a 20-foot burst.
 

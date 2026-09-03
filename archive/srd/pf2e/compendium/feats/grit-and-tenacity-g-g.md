@@ -7,8 +7,8 @@ tags:
 - trait/gunslinger
 aliases: ["Grit And Tenacity"]
 ---
-# Grit And Tenacity  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
+# Grit And Tenacity  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
+[fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [gunslinger](archive/srd/pf2e/rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** You fail a Fortitude or Will save.
@@ -18,7 +18,7 @@ You call upon deep reserves of toughness and mental fortitude to power through a
 
 ## Grit And Tenacity leads to...
 
-[Unshakable Grit](compendium/feats/unshakable-grit-g-g.md)
+[Unshakable Grit](unshakable-grit-g-g.md)
 
 ## Summary
 

@@ -7,9 +7,9 @@ tags:
 aliases: ["Incredible Beastmaster Companion"]
 ---
 # Incredible Beastmaster Companion  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Mature Beastmaster Companion](compendium/feats/mature-beastmaster-companion-apg.md)
+- **Prerequisites**: [Mature Beastmaster Companion](mature-beastmaster-companion-apg.md)
 
 Your mature animal companions continue to grow and develop.
 
@@ -17,7 +17,7 @@ They each become nimble or savage animal companions (your choice, choose for eac
 
 ## Incredible Beastmaster Companion leads to...
 
-[Specialized Beastmaster Companion](compendium/feats/specialized-beastmaster-companion-apg.md)
+[Specialized Beastmaster Companion](specialized-beastmaster-companion-apg.md)
 
 ## Summary
 

@@ -11,14 +11,14 @@ tags:
 aliases: ["Maze Of Mirrors"]
 ---
 # Maze Of Mirrors *Hazard 9*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +18 trained to detect the magical runes in the maze; noticing the maze itself has a DC of 0.  
 
-[Invisible](rules/conditions.md#Invisible) runes in the maze disorient those within it and cause its mirrored walls to shift about.
+[Invisible](archive/srd/pf2e/rules/conditions.md#Invisible) runes in the maze disorient those within it and cause its mirrored walls to shift about.
 
-- **Disable** DC 26 [Thievery](compendium/skills.md#Thievery) (expert) or dispel magic (5th level; counteract DC 28) to stop the mirrors' shuffling; DC 28.  
+- **Disable** DC 26 [Thievery](skills.md#Thievery) (expert) or dispel magic (5th level; counteract DC 28) to stop the mirrors' shuffling; DC 28.  
 
 ```ad-embed-ability
 title: **Occultism or Religion**  (expert)

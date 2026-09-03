@@ -9,10 +9,10 @@ tags:
 aliases: ["Coral Eruption"]
 ---
 # Coral Eruption *Spell 4*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 120 foot
 - **Area**: two 10-foot bursts that don't overlap
 - **Saving Throw**:  basic Reflex
@@ -20,7 +20,7 @@ aliases: ["Coral Eruption"]
 
 Razor sharp coral growths erupt from the ground, transforming the landscape into a dangerous coral reef.
 
-You can create a third nonoverlapping burst if the centers of all three bursts are underwater. Creatures in the area when the spell is cast take `6d6` piercing damage and must attempt a basic Reflex save. A creature that critically fails its saving throw also takes `1d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage).
+You can create a third nonoverlapping burst if the centers of all three bursts are underwater. Creatures in the area when the spell is cast take `6d6` piercing damage and must attempt a basic Reflex save. A creature that critically fails its saving throw also takes `1d6` [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
 The area becomes difficult terrain and hazardous terrain.
 

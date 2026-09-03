@@ -9,11 +9,11 @@ tags:
 aliases: ["Swashbuckler Dedication"]
 ---
 # Swashbuckler Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](rules/traits/multiclass.md "Multiclass Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [multiclass](archive/srd/pf2e/rules/traits/multiclass.md "Multiclass Feat Trait")  
 
 - **Prerequisites**: Charisma 14, Dexterity 14
 
-Choose a swashbuckler's style|swashbuckler|apg|1||swashbuckler style. You gain the panache|swashbuckler|apg|1 class feature, and you can gain panache in all the ways a swashbuckler of your style can. You become trained in [Acrobatics](compendium/skills.md#Acrobatics) or the skill associated with your style. If you were already trained in both skills, you instead become trained in a skill of your choice.
+Choose a swashbuckler's style|swashbuckler|apg|1||swashbuckler style. You gain the panache|swashbuckler|apg|1 class feature, and you can gain panache in all the ways a swashbuckler of your style can. You become trained in [Acrobatics](skills.md#Acrobatics) or the skill associated with your style. If you were already trained in both skills, you instead become trained in a skill of your choice.
 
 You also become trained in swashbuckler class DC. You don't gain any other effects of your chosen style.
 
@@ -21,7 +21,7 @@ You also become trained in swashbuckler class DC. You don't gain any other effec
 
 ## Swashbuckler Dedication leads to...
 
-[Basic Flair](compendium/feats/basic-flair-apg.md), [Advanced Flair](compendium/feats/advanced-flair-apg.md), [Evasiveness](compendium/feats/evasiveness-apg.md), [Finishing Precision](compendium/feats/finishing-precision-apg.md), [Swashbuckler's Riposte](compendium/feats/swashbucklers-riposte-apg.md), [Swashbuckler's Speed](compendium/feats/swashbucklers-speed-apg.md)
+[Basic Flair](basic-flair-apg.md), [Advanced Flair](advanced-flair-apg.md), [Evasiveness](evasiveness-apg.md), [Finishing Precision](finishing-precision-apg.md), [Swashbuckler's Riposte](swashbucklers-riposte-apg.md), [Swashbuckler's Speed](swashbucklers-speed-apg.md)
 
 ## Summary
 

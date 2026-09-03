@@ -25,14 +25,14 @@ aliases: ["Lubaiko", "The Spark in the Dust"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [longspear](compendium/equipment/items/longspear.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [fire](compendium/setting/domains.md#Fire), [lightning](compendium/setting/domains.md#Lightning), [zeal](compendium/setting/domains.md#Zeal)
-- **Alternate Domains**: [change](compendium/setting/domains.md#Change), [destruction](compendium/setting/domains.md#Destruction)
-- **Cleric Spells**: 1st: [ill omen](compendium/spells/ill-omen-logm.md); 2nd: [flaming sphere](compendium/spells/flaming-sphere.md); 7th: [fiery body](compendium/spells/fiery-body.md)
+- **Favored Weapon**: [longspear](archive/srd/pf2e/compendium/equipment/items/longspear.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [lightning](archive/srd/pf2e/compendium/setting/domains.md#Lightning), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Alternate Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction)
+- **Cleric Spells**: 1st: [ill omen](ill-omen-logm.md); 2nd: [flaming sphere](flaming-sphere.md); 7th: [fiery body](archive/srd/pf2e/compendium/spells/fiery-body.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Lubaiko gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Lubaiko gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Lubaiko

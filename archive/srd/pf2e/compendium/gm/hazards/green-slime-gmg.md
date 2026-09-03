@@ -7,14 +7,14 @@ tags:
 aliases: ["Green Slime"]
 ---
 # Green Slime *Hazard 9*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert  
 
 A caustic green film clings to the ceiling above, watching for prey to pass beneath it.
 
-- **Disable** DC 33 [Survival](compendium/skills.md#Survival) (expert) to carefully peel the slime off the ceiling without touching it  
+- **Disable** DC 33 [Survival](skills.md#Survival) (expert) to carefully peel the slime off the ceiling without touching it  
 
 - **AC** 20, **Fort** +25, **Abilities** +0
 - **HP** 200 (BT 100)

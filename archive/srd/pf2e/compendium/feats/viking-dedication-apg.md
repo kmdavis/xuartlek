@@ -8,17 +8,17 @@ tags:
 aliases: ["Viking Dedication"]
 ---
 # Viking Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
-- **Prerequisites**: trained in [Athletics](compendium/skills.md#Athletics)
+- **Prerequisites**: trained in [Athletics](skills.md#Athletics)
 
-Vikings spend long periods of time at sea, only to leap from their boats at a moment's notice, charge through the surf, and take their enemies by storm. You're trained in [Sailing Lore](compendium/skills.md#Lore). When moving through water using your land Speed, you ignore difficult terrain resulting from shallow water, such as in bogs or on beaches. In addition, if you roll a success for your [Athletics](compendium/skills.md#Athletics) check to [Swim](rules/actions/swim.md), you get a critical success instead.
+Vikings spend long periods of time at sea, only to leap from their boats at a moment's notice, charge through the surf, and take their enemies by storm. You're trained in [Sailing Lore](skills.md#Lore). When moving through water using your land Speed, you ignore difficult terrain resulting from shallow water, such as in bogs or on beaches. In addition, if you roll a success for your [Athletics](skills.md#Athletics) check to [Swim](archive/srd/pf2e/rules/actions/swim.md), you get a critical success instead.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the viking archetype.
 
 ## Viking Dedication leads to...
 
-[Hurling Charge](compendium/feats/hurling-charge-apg.md), [Second Shield](compendium/feats/second-shield-apg.md), [Viking Weapon Familiarity](compendium/feats/viking-weapon-familiarity-apg.md), [Viking Weapon Specialist](compendium/feats/viking-weapon-specialist-apg.md), [Viking Vindicator](compendium/feats/viking-vindicator-lokl.md)
+[Hurling Charge](hurling-charge-apg.md), [Second Shield](second-shield-apg.md), [Viking Weapon Familiarity](viking-weapon-familiarity-apg.md), [Viking Weapon Specialist](viking-weapon-specialist-apg.md), [Viking Vindicator](viking-vindicator-lokl.md)
 
 ## Summary
 

@@ -7,10 +7,10 @@ tags:
 aliases: ["Perfect Mutagen"]
 ---
 # Perfect Mutagen  *Feat 20*  
-[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
+[alchemist](archive/srd/pf2e/rules/traits/alchemist.md "Alchemist Class Trait")  
 
 
-You have enhanced the formulas for your mutagens, aligning them perfectly to your physiology. When under the effect of a [mutagen](rules/traits/mutagen.md "Mutagen Item Trait") you crafted, you do not suffer its drawback.
+You have enhanced the formulas for your mutagens, aligning them perfectly to your physiology. When under the effect of a [mutagen](archive/srd/pf2e/rules/traits/mutagen.md "Mutagen Item Trait") you crafted, you do not suffer its drawback.
 
 *Source: Core Rulebook p. 81*  
 %% #compendium/src/pf2e/crb #trait/alchemist %%

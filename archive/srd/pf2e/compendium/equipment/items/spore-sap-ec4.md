@@ -11,7 +11,7 @@ tags:
 aliases: ["Spore Sap"]
 ---
 # Spore Sap *Item 11*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fungus](fungus-b1.md "Fungus Creature Type Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1250 gp
 - **Bulk** L; **Usage** held in 1 hand

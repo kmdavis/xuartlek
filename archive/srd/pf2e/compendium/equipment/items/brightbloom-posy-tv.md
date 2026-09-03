@@ -11,7 +11,7 @@ tags:
 aliases: ["Brightbloom Posy"]
 ---
 # Brightbloom Posy *Item 8+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Bulk** —; **Usage** affixed to armor or a weapon
 
@@ -20,7 +20,7 @@ Appearing as vibrant as the day they were picked, this cluster of flowers is arr
 The spell DC of any spell cast by activating this item is 24.
 
 - Armor You gain the ability to speak with flowers, as speak with plants.
-- Weapon (disease) After you cast a plant spell by activating the posy, pollen coats your weapon. Your next [Strike](rules/actions/strike.md) causes the target to be [sickened](rules/conditions.md#Sickened) on a hit ([sickened](rules/conditions.md#Sickened) on a critical hit). If the creature attempts to recover, it sneezes rather than retching (rolling against the spellheart's spell DC). If you don't make a [Strike](rules/actions/strike.md) by the end of your next turn, the pollen becomes inert. Plant creatures are immune.
+- Weapon (disease) After you cast a plant spell by activating the posy, pollen coats your weapon. Your next [Strike](archive/srd/pf2e/rules/actions/strike.md) causes the target to be [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) on a hit ([sickened](archive/srd/pf2e/rules/conditions.md#Sickened) on a critical hit). If the creature attempts to recover, it sneezes rather than retching (rolling against the spellheart's spell DC). If you don't make a [Strike](archive/srd/pf2e/rules/actions/strike.md) by the end of your next turn, the pollen becomes inert. Plant creatures are immune.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

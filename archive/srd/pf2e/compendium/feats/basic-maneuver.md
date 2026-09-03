@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Maneuver"]
 ---
 # Basic Maneuver  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Fighter Dedication](compendium/feats/fighter-dedication.md)
+- **Prerequisites**: [Fighter Dedication](archive/srd/pf2e/compendium/feats/fighter-dedication.md)
 
 You gain a 1st- or 2nd-level fighter feat.
 
 ## Basic Maneuver leads to...
 
-[Advanced Maneuver](compendium/feats/advanced-maneuver.md)
+[Advanced Maneuver](archive/srd/pf2e/compendium/feats/advanced-maneuver.md)
 
 ## Summary
 

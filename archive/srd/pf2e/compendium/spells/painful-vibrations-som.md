@@ -9,10 +9,10 @@ tags:
 aliases: ["Painful Vibrations"]
 ---
 # Painful Vibrations *Spell 4*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 100 foot
 - **Targets**: 1 living creature
 - **Saving Throw**: Fortitude
@@ -24,8 +24,8 @@ The creature takes `8d6` sonic damage and must attempt a Fortitude save.
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target takes half damage.
-> - **Failure** The target takes full damage, is [sickened](rules/conditions.md#Sickened), and is [deafened](rules/conditions.md#Deafened) for 1 round.
-> - **Critical Failure** The target takes double damage, is [sickened](rules/conditions.md#Sickened), and is [deafened](rules/conditions.md#Deafened) for 1 minute.
+> - **Failure** The target takes full damage, is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened), and is [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 round.
+> - **Critical Failure** The target takes double damage, is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened), and is [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 minute.
 
 **Heightened (+ 1)** The damage increases by `2d6`.
 

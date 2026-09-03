@@ -24,7 +24,7 @@ Handheld instruments include bagpipes, a small set of chimes, small drums, fiddl
 
 - **Price**: 50 gp
 
-A virtuoso instrument gives a +1 item bonus to [Performance](compendium/skills.md#Performance) checks using that instrument.
+A virtuoso instrument gives a +1 item bonus to [Performance](skills.md#Performance) checks using that instrument.
 
 #### Heavy *Item 0*
 
@@ -34,7 +34,7 @@ A virtuoso instrument gives a +1 item bonus to [Performance](compendium/skills.m
 
 - **Price**: 100 gp
 
-A virtuoso instrument gives a +1 item bonus to [Performance](compendium/skills.md#Performance) checks using that instrument.
+A virtuoso instrument gives a +1 item bonus to [Performance](skills.md#Performance) checks using that instrument.
 
 ---
 *Source: Core Rulebook p. 288*

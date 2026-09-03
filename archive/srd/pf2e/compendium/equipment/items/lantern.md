@@ -9,7 +9,7 @@ aliases: ["Lantern"]
 # Lantern *Item 0*  
 
 
-A lantern sheds bright light and requires 1 pint of [oil](compendium/equipment/items/oil-1-pint.md) to function for 6 hours.
+A lantern sheds bright light and requires 1 pint of [oil](oil-1-pint.md) to function for 6 hours.
 
 ---
 
@@ -25,7 +25,7 @@ A bull's-eye lantern emits its light in a 60-foot cone (and dim light in the nex
 
 - **Price**: 7 sp
 
-A hooded lantern sheds light in a 30-foot radius (and dim light in the next 30 feet) and is equipped with shutters, which you can close to block the light. Closing or opening the shutters takes an [Interact](rules/actions/interact.md) action.
+A hooded lantern sheds light in a 30-foot radius (and dim light in the next 30 feet) and is equipped with shutters, which you can close to block the light. Closing or opening the shutters takes an [Interact](archive/srd/pf2e/rules/actions/interact.md) action.
 
 ---
 *Source: Core Rulebook p. 288*

@@ -12,8 +12,8 @@ tags:
 - trait/wizard
 aliases: ["Sepulchral Sublimation"]
 ---
-# Sepulchral Sublimation  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+# Sepulchral Sublimation  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](metamagic.md "Metamagic General Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: ability to permanently create or control undead;  cleric with a negative font, oracle of bones, or necromancer wizard
 - **Requirements**: You have at least one undead minion that you permanently control.

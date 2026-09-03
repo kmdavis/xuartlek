@@ -9,8 +9,8 @@ tags:
 - trait/rage
 aliases: ["Perfect Clarity"]
 ---
-# Perfect Clarity  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 18*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
+# Perfect Clarity  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 18*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [rage](archive/srd/pf2e/rules/traits/rage.md "Rage Combat Trait")  
 
 - **Trigger** You fail or critically fail an attack roll or Will save.
 - **Activity** Reaction

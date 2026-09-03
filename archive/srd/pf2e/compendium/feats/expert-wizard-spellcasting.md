@@ -7,15 +7,15 @@ tags:
 aliases: ["Expert Wizard Spellcasting"]
 ---
 # Expert Wizard Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Wizard Spellcasting](compendium/feats/basic-wizard-spellcasting.md), master in [Arcana](compendium/skills.md#Arcana)
+- **Prerequisites**: [Basic Wizard Spellcasting](archive/srd/pf2e/compendium/feats/basic-wizard-spellcasting.md), master in [Arcana](skills.md#Arcana)
 
 You gain the expert spellcasting benefits.
 
 ## Expert Wizard Spellcasting leads to...
 
-[Master Wizard Spellcasting](compendium/feats/master-wizard-spellcasting.md)
+[Master Wizard Spellcasting](archive/srd/pf2e/compendium/feats/master-wizard-spellcasting.md)
 
 ## Summary
 

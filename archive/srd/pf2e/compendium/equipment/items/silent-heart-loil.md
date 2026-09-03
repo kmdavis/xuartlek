@@ -11,12 +11,12 @@ tags:
 aliases: ["Silent Heart"]
 ---
 # Silent Heart *Item 5*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 130 gp
 - **Bulk** —; **Usage** worn
 
-[Abraxas](compendium/setting/deities/abraxas-logm.md) teaches that the true heart is impenetrable, dedicated only to knowledge. This tattoo of a venom-soaked heart provides a +1 item bonus to [Occultism](compendium/skills.md#Occultism) checks.
+[Abraxas](abraxas-logm.md) teaches that the true heart is impenetrable, dedicated only to knowledge. This tattoo of a venom-soaked heart provides a +1 item bonus to [Occultism](skills.md#Occultism) checks.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision

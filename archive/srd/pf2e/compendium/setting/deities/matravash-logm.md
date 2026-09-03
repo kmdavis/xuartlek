@@ -20,8 +20,8 @@ aliases: ["Matravash", "The Wide Water"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [cities](compendium/setting/domains.md#Cities), [nature](compendium/setting/domains.md#Nature), [travel](compendium/setting/domains.md#Travel), [water](compendium/setting/domains.md#Water)
-- **Cleric Spells**: 1st: [share lore](compendium/spells/share-lore-logm.md); 3rd: [slow](compendium/spells/slow.md); 4th: [speak with plants](compendium/spells/speak-with-plants.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [water](archive/srd/pf2e/compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [share lore](share-lore-logm.md); 3rd: [slow](archive/srd/pf2e/compendium/spells/slow.md); 4th: [speak with plants](archive/srd/pf2e/compendium/spells/speak-with-plants.md)

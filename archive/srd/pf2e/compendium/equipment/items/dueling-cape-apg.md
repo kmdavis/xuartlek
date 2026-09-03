@@ -12,7 +12,7 @@ aliases: ["Dueling Cape"]
 - **Bulk** L
 - **Hands** 1
 
-You can pull a dueling cape you're wearing from your shoulder and wrap it around your arm with an [Interact](rules/actions/interact.md) action. While wielding the dueling cape this way, the cape uses that arm and hand, and you can't hold anything else in that hand. While you do so, you can spend an action to hold it in a protective position, giving you a +1 circumstance bonus to AC and to [Deception](compendium/skills.md#Deception) checks to [Feint](rules/actions/feint.md) until the start of your next turn.
+You can pull a dueling cape you're wearing from your shoulder and wrap it around your arm with an [Interact](archive/srd/pf2e/rules/actions/interact.md) action. While wielding the dueling cape this way, the cape uses that arm and hand, and you can't hold anything else in that hand. While you do so, you can spend an action to hold it in a protective position, giving you a +1 circumstance bonus to AC and to [Deception](skills.md#Deception) checks to [Feint](archive/srd/pf2e/rules/actions/feint.md) until the start of your next turn.
 
 
 ---

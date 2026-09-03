@@ -12,7 +12,7 @@ tags:
 aliases: ["Tengu Gale Blade"]
 ---
 # Tengu Gale Blade *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4 gp
 - **Bulk** L

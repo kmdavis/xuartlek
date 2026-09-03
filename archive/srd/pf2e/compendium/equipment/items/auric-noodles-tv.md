@@ -10,13 +10,13 @@ tags:
 aliases: ["Auric Noodles"]
 ---
 # Auric Noodles *Item 3*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [processed](rules/traits/processed-tv.md "Processed Item Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [processed](processed-tv.md "Processed Item Trait")  
 
 - **Price** 10 gp
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Auric noodles are boiled, then pan-fried and tossed with sliced vegetables and a sticky, savory sauce incorporating alchemical reagents. After you eat the noodles, they boost your ability to sense magic for 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to checks to [Identify Magic](rules/actions/identify-magic.md), and you can move at full speed while using the [Detect Magic](rules/actions/detect-magic.md) exploration activity.
+Auric noodles are boiled, then pan-fried and tossed with sliced vegetables and a sticky, savory sauce incorporating alchemical reagents. After you eat the noodles, they boost your ability to sense magic for 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to checks to [Identify Magic](archive/srd/pf2e/rules/actions/identify-magic.md), and you can move at full speed while using the [Detect Magic](archive/srd/pf2e/rules/actions/detect-magic.md) exploration activity.
 
 
 ---

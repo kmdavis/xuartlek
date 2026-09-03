@@ -15,7 +15,7 @@ You consider yourself an honorary psychopomp—a shepherd of spirits who ensures
 
 While most who hunt undead do so out of fear, vengeance, or a desire to protect the lives of others, you take a more measured and far less emotional approach; you destroy undead so their souls can continue their journey along the River of Souls, thus ensuring the continuation of existence. You understand that without the cycle of souls, the life cycle of the planes is disrupted, and all of existence could be consumed by the Maelstrom.
 
-Nearly all soul wardens worship [Pharasma](compendium/setting/deities/pharasma.md) or one of the psychopomp ushers, especially Barzahk the Passage, a psychopomp usher who routinely shirks their duties and needs help from mortal soul wardens. Soul wardens also often join organizations that regularly combat undead, including the Voices of the Spire and Ustalav's Ivory Reapers (page 14).
+Nearly all soul wardens worship [Pharasma](pharasma.md) or one of the psychopomp ushers, especially Barzahk the Passage, a psychopomp usher who routinely shirks their duties and needs help from mortal soul wardens. Soul wardens also often join organizations that regularly combat undead, including the Voices of the Spire and Ustalav's Ivory Reapers (page 14).
 
 *Source: Book of the Dead p. 26*
 

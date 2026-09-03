@@ -20,8 +20,8 @@ aliases: ["Sturovenen", "The Dragoneagle"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [main-gauche](compendium/equipment/items/main-gauche.md)
-- **Domains**: [air](compendium/setting/domains.md#Air), [confidence](compendium/setting/domains.md#Confidence), [passion](compendium/setting/domains.md#Passion), [sun](compendium/setting/domains.md#Sun)
-- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 5th: [cloak of colors](compendium/spells/cloak-of-colors.md); 6th: [dragon form](compendium/spells/dragon-form.md)
+- **Favored Weapon**: [main-gauche](archive/srd/pf2e/compendium/equipment/items/main-gauche.md)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun)
+- **Cleric Spells**: 1st: [charm](archive/srd/pf2e/compendium/spells/charm.md); 5th: [cloak of colors](archive/srd/pf2e/compendium/spells/cloak-of-colors.md); 6th: [dragon form](archive/srd/pf2e/compendium/spells/dragon-form.md)

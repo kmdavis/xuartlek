@@ -19,4 +19,4 @@ You transferred to the Edgewatch, the Precipice Quarter's new precinct, in the h
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [Thievery](compendium/skills.md#Thievery) skill and your choice of [Legal Lore](compendium/skills.md#Lore) or [Underworld Lore](compendium/skills.md#Lore). You gain a +1 circumstance bonus to [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), and [Intimidation](compendium/skills.md#Intimidation) checks to interact with Token Guards and convicted criminals such as prison inmates. You gain the [Pickpocket](compendium/feats/pickpocket.md) skill feat.
+You're trained in the [Thievery](skills.md#Thievery) skill and your choice of [Legal Lore](skills.md#Lore) or [Underworld Lore](skills.md#Lore). You gain a +1 circumstance bonus to [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), and [Intimidation](skills.md#Intimidation) checks to interact with Token Guards and convicted criminals such as prison inmates. You gain the [Pickpocket](archive/srd/pf2e/compendium/feats/pickpocket.md) skill feat.

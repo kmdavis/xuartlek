@@ -20,8 +20,8 @@ aliases: ["Ashava", "The True Spark"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Performance
 - **Favored Weapon**: bladed scarf
-- **Domains**: [darkness](compendium/setting/domains.md#Darkness), [moon](compendium/setting/domains.md#Moon), [repose](compendium/setting/domains.md#Repose), [soul](compendium/setting/domains.md#Soul)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 2nd: [glitterdust](compendium/spells/glitterdust.md); 8th: [uncontrollable dance](compendium/spells/uncontrollable-dance.md)
+- **Domains**: [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [moon](archive/srd/pf2e/compendium/setting/domains.md#Moon), [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose), [soul](archive/srd/pf2e/compendium/setting/domains.md#Soul)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 2nd: [glitterdust](glitterdust.md); 8th: [uncontrollable dance](archive/srd/pf2e/compendium/spells/uncontrollable-dance.md)

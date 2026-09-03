@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Arcana"]
 ---
 # Basic Arcana  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Wizard Dedication](compendium/feats/wizard-dedication.md)
+- **Prerequisites**: [Wizard Dedication](archive/srd/pf2e/compendium/feats/wizard-dedication.md)
 
 You gain a 1st- or 2nd-level wizard feat of your choice.
 
 ## Basic Arcana leads to...
 
-[Advanced Arcana](compendium/feats/advanced-arcana.md)
+[Advanced Arcana](archive/srd/pf2e/compendium/feats/advanced-arcana.md)
 
 ## Summary
 

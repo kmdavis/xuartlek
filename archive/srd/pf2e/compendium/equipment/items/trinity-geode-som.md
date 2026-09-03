@@ -11,14 +11,14 @@ tags:
 aliases: ["Trinity Geode"]
 ---
 # Trinity Geode *Item 3+*  
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Usage** affixed to armor or a weapon
 
-The crystal chamber within this split geode is divided into three lobes of equal size. The spell DC of any spell cast by [Activating](rules/actions/activate-an-item.md) this item is 17.
+The crystal chamber within this split geode is divided into three lobes of equal size. The spell DC of any spell cast by [Activating](activate-an-item.md) this item is 17.
 
-- **Armor** After you cast an earth spell by [Activating](rules/actions/activate-an-item.md) the geode, you gain resistance 1 to physical damage (except adamantine) until the end of your next turn, or double the resistance for a non-cantrip spell.
-- **Weapon** After you cast an earth spell by [Activating](rules/actions/activate-an-item.md) the geode, your [Strikes](rules/actions/strike.md) with the weapon deal an additional `1d4` bludgeoning damage until the end of your next turn.
+- **Armor** After you cast an earth spell by [Activating](activate-an-item.md) the geode, you gain resistance 1 to physical damage (except adamantine) until the end of your next turn, or double the resistance for a non-cantrip spell.
+- **Weapon** After you cast an earth spell by [Activating](activate-an-item.md) the geode, your [Strikes](archive/srd/pf2e/rules/actions/strike.md) with the weapon deal an additional `1d4` bludgeoning damage until the end of your next turn.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

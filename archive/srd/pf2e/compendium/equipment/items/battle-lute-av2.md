@@ -10,7 +10,7 @@ tags:
 aliases: ["Battle Lute"]
 ---
 # Battle Lute *Item 0*  
-[shove](rules/traits/shove.md "Shove Weapon Trait")  [two-hand <d8>](rules/traits/two-hand-d8.md "Two-Hand Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[shove](archive/srd/pf2e/rules/traits/shove.md "Shove Weapon Trait")  [two-hand <d8>](rules/traits/two-hand-d8.md "Two-Hand Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 15 gp
 - **Bulk** 1

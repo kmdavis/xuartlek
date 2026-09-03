@@ -9,17 +9,17 @@ tags:
 aliases: ["Edgewatch Detective Dedication"]
 ---
 # Edgewatch Detective Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Intelligence 14 or Wisdom 14
 
-You become trained in [Society](compendium/skills.md#Society) or [Thievery](compendium/skills.md#Thievery); if you are already trained in both of these skills, you instead become trained in a skill of your choice. You can use [Perception](compendium/skills.md#Perception) instead of [Survival](compendium/skills.md#Survival) to [Track](rules/actions/track.md), and you gain the [Experienced Tracker](compendium/feats/experienced-tracker.md) skill feat (Core Rulebook 261).
+You become trained in [Society](skills.md#Society) or [Thievery](skills.md#Thievery); if you are already trained in both of these skills, you instead become trained in a skill of your choice. You can use [Perception](skills.md#Perception) instead of [Survival](skills.md#Survival) to [Track](archive/srd/pf2e/rules/actions/track.md), and you gain the [Experienced Tracker](archive/srd/pf2e/compendium/feats/experienced-tracker.md) skill feat (Core Rulebook 261).
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the this archetype.
 
 ## Edgewatch Detective Dedication leads to...
 
-[Arcane Sensitivity](compendium/feats/arcane-sensitivity-aoe1.md), [Bolera's Interrogation](compendium/feats/boleras-interrogation-aoe1.md), [Sense Alignment](compendium/feats/sense-alignment-aoe1.md)
+[Arcane Sensitivity](arcane-sensitivity-aoe1.md), [Bolera's Interrogation](boleras-interrogation-aoe1.md), [Sense Alignment](sense-alignment-aoe1.md)
 
 ## Summary
 

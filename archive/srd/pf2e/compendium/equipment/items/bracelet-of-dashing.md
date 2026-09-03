@@ -10,12 +10,12 @@ tags:
 aliases: ["Bracelet of Dashing"]
 ---
 # Bracelet of Dashing *Item 3*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 58 gp
 - **Bulk** L; **Usage** worn
 
-This jangling, silvery bracelet makes you lighter on your feet, giving you a +1 item bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks.
+This jangling, silvery bracelet makes you lighter on your feet, giving you a +1 item bonus to [Acrobatics](skills.md#Acrobatics) checks.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

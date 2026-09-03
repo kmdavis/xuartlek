@@ -20,8 +20,8 @@ aliases: ["Thamir", "The Silent Blade"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Thievery
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [confidence](compendium/setting/domains.md#Confidence), [trickery](compendium/setting/domains.md#Trickery), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [penumbral shroud](compendium/spells/penumbral-shroud-logm.md); 3rd: [invisibility sphere](compendium/spells/invisibility-sphere.md); 6th: [mislead](compendium/spells/mislead.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [penumbral shroud](penumbral-shroud-logm.md); 3rd: [invisibility sphere](invisibility-sphere.md); 6th: [mislead](archive/srd/pf2e/compendium/spells/mislead.md)

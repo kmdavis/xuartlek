@@ -10,7 +10,7 @@ tags:
 aliases: ["Cinnamon Seers"]
 ---
 # Cinnamon Seers *Item 4*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [lozenge](rules/traits/lozenge-tv.md "Lozenge Item Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [lozenge](lozenge-tv.md "Lozenge Item Trait")  
 
 - **Price** 14 gp
 - **Bulk** —; **Usage** held in 1 hand

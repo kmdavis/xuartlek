@@ -7,7 +7,7 @@ tags:
 aliases: ["Grasp of the Damned"]
 ---
 # Grasp of the Damned *Hazard 17*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43 master  
@@ -16,7 +16,7 @@ These desperate spirits are the echoes of people who committed great atrocities 
 
 Now, they are left with only the knowledge that their souls have been damned, and the unwavering belief that they can better their fate by providing powerful sacrifices for their fiendish masters.
 
-- **Disable** DC 46 [Religion](compendium/skills.md#Religion) (master) to inspire a deity to intervene and counteract the ritual  
+- **Disable** DC 46 [Religion](skills.md#Religion) (master) to inspire a deity to intervene and counteract the ritual  
 
 ```ad-embed-ability
 title: **Mark for Damnation** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([death](rules/traits/death.md), [divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md))

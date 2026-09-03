@@ -7,13 +7,13 @@ tags:
 aliases: ["Soul Arsenal"]
 ---
 # Soul Arsenal  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Soulforger Dedication](compendium/feats/soulforger-dedication-som.md)
+- **Prerequisites**: [Soulforger Dedication](soulforger-dedication-som.md)
 
 Choose an additional soulforged armament of a different type than the type you already chose, and choose one essence power for it. Upgrade and change armaments individually.
 
-When you Manifest Soulforged Armament, you can summon any number of your armaments (you must meet the Requirements for each), and when you [Dismiss](rules/actions/dismiss.md) the effect, you can choose to [Dismiss](rules/actions/dismiss.md) some and not others. You can choose to manifest the essence form of any number of your armaments when you take the action. Each armament can manifest its essence form only once per day.
+When you Manifest Soulforged Armament, you can summon any number of your armaments (you must meet the Requirements for each), and when you [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the effect, you can choose to [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) some and not others. You can choose to manifest the essence form of any number of your armaments when you take the action. Each armament can manifest its essence form only once per day.
 
 When you gain soulforged corruption, choose one armament's corruption flaw to affect you for stage 1.
 

@@ -10,8 +10,8 @@ tags:
 - trait/wood
 aliases: ["Wood Ward"]
 ---
-# Wood Ward  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 17*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [wood](rules/traits/wood-roe.md "Wood Energy & Element Trait")  ardande  
+# Wood Ward  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 17*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [wood](wood-roe.md "Wood Energy & Element Trait")  ardande  
 
 - **Frequency**: once per hour
 - **Trigger** A creature targets you with an attack.

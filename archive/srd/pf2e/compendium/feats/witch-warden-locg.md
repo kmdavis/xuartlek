@@ -8,7 +8,7 @@ tags:
 aliases: ["Witch Warden"]
 ---
 # Witch Warden  *Feat 1*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Kellid ethnicity
 

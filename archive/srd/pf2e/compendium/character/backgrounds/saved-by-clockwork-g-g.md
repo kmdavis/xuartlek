@@ -17,4 +17,4 @@ Whether your arm is now a whirring series of pumps, steel coils, and iron gears;
 
 Choose two ability boosts. One must be to Strength or Intelligence, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill. Every day you must perform 10 minutes of maintenance and wind up your clockwork parts, or you risk failure of the components, with consequences depending on what you replaced (determined by you and the GM). Your clockwork components allow you to react to danger with alacrity. You gain a +2 circumstance bonus to initiative rolls.
+You're trained in the [Crafting](skills.md#Crafting) skill. Every day you must perform 10 minutes of maintenance and wind up your clockwork parts, or you risk failure of the components, with consequences depending on what you replaced (determined by you and the GM). Your clockwork components allow you to react to danger with alacrity. You gain a +2 circumstance bonus to initiative rolls.

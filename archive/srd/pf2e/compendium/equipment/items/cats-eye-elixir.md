@@ -10,13 +10,13 @@ tags:
 aliases: ["Cat's Eye Elixir"]
 ---
 # Cat's Eye Elixir *Item 2*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  
 
 - **Price** 7 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-After you consume this elixir, your vision sharpens and you become sensitive to even the most minute movements. For the next minute, you reduce the flat check to target [hidden](rules/conditions.md#Hidden) creatures to 5, and you don't need to attempt a flat check to target [concealed](rules/conditions.md#Concealed) creatures. These benefits apply only against creatures within 30 feet of you.
+After you consume this elixir, your vision sharpens and you become sensitive to even the most minute movements. For the next minute, you reduce the flat check to target [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) creatures to 5, and you don't need to attempt a flat check to target [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) creatures. These benefits apply only against creatures within 30 feet of you.
 
 
 ---

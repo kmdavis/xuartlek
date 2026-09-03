@@ -7,11 +7,11 @@ tags:
 aliases: ["Pack Stalker"]
 ---
 # Pack Stalker  *Feat 5*  
-[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
+[gnoll](gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
-- **Prerequisites**: expert in [Stealth](compendium/skills.md#Stealth), [Pack Hunter](compendium/feats/pack-hunter-lome.md)
+- **Prerequisites**: expert in [Stealth](skills.md#Stealth), [Pack Hunter](pack-hunter-lome.md)
 
-Ambushes are an honored gnoll tradition. You gain the Terrain Stalker feat and can extend its effects to a single ally so long as they remain within 10 ft. of you. If you have master proficiency in [Stealth](compendium/skills.md#Stealth), you can extend the effect to two allies. If you have legendary proficiency in [Stealth](compendium/skills.md#Stealth), you can extend it to four allies.
+Ambushes are an honored gnoll tradition. You gain the Terrain Stalker feat and can extend its effects to a single ally so long as they remain within 10 ft. of you. If you have master proficiency in [Stealth](skills.md#Stealth), you can extend the effect to two allies. If you have legendary proficiency in [Stealth](skills.md#Stealth), you can extend it to four allies.
 
 *Source: Lost Omens: The Mwangi Expanse p. 114*  
 %% #compendium/src/pf2e/lome #trait/gnoll %%

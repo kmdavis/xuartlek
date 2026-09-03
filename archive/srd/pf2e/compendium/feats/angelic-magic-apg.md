@@ -7,11 +7,11 @@ tags:
 aliases: ["Angelic Magic"]
 ---
 # Angelic Magic  *Feat 9*  
-[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
+[aasimar](aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Angelkin](compendium/feats/angelkin-apg.md)
+- **Prerequisites**: [Angelkin](angelkin-apg.md)
 
-You can tap into the magic of angels that runs through your blood. You can cast [humanoid form](compendium/spells/humanoid-form.md) and [remove fear](compendium/spells/remove-fear.md) each once per day as 2nd-level divine innate spells.
+You can tap into the magic of angels that runs through your blood. You can cast [humanoid form](archive/srd/pf2e/compendium/spells/humanoid-form.md) and [remove fear](remove-fear.md) each once per day as 2nd-level divine innate spells.
 
 *Source: Advanced Player's Guide p. 36*  
 %% #compendium/src/pf2e/apg #trait/aasimar %%

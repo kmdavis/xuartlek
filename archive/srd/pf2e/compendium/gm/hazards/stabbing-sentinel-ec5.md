@@ -9,14 +9,14 @@ tags:
 aliases: ["Stabbing Sentinel"]
 ---
 # Stabbing Sentinel *Hazard 18*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 45 master  
 
-A [petrified](rules/conditions.md#Petrified) creature momentarily animates to attack an adjacent creature.
+A [petrified](archive/srd/pf2e/rules/conditions.md#Petrified) creature momentarily animates to attack an adjacent creature.
 
-- **Disable** DC 40 [Thievery](compendium/skills.md#Thievery) (master) to remove the animating magic without triggering the trap, or dispel magic (8th level; counteract DC 38) to counteract the animating magic.  
+- **Disable** DC 40 [Thievery](skills.md#Thievery) (master) to remove the animating magic without triggering the trap, or dispel magic (8th level; counteract DC 38) to counteract the animating magic.  
 
 - **AC** 41, **Fort** +36, **Ref** +27
 - **Hardness** 30, **HP** 120 (BT 60)

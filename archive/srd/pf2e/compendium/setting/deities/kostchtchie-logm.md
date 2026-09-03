@@ -20,8 +20,8 @@ aliases: ["Kostchtchie", "The Deathless Frost"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
-- **Domains**: [cold](compendium/setting/domains.md#Cold), [destruction](compendium/setting/domains.md#Destruction), [might](compendium/setting/domains.md#Might), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: chilling spray; 2nd: [enlarge](compendium/spells/enlarge.md); 5th: [cone of cold](compendium/spells/cone-of-cold.md)
+- **Favored Weapon**: [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md)
+- **Domains**: [cold](archive/srd/pf2e/compendium/setting/domains.md#Cold), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: chilling spray; 2nd: [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md); 5th: [cone of cold](cone-of-cold.md)

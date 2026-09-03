@@ -12,7 +12,7 @@ tags:
 aliases: ["Animate Dreamer"]
 ---
 # Animate Dreamer *Item 15*  
-[cn](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[cn](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")  [evocation](evocation.md "Evocation School Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** 2; **Usage** held in 2 hands
 

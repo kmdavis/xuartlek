@@ -7,9 +7,9 @@ tags:
 aliases: ["Phalanx Formation"]
 ---
 # Phalanx Formation  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md)
+- **Prerequisites**: [Knight Vigilant Dedication](knight-vigilant-dedication-locg.md)
 
 You know how to clear a line of fire for your allies. You don't provide lesser cover to enemies against your allies' attacks.
 

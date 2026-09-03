@@ -12,14 +12,14 @@ tags:
 aliases: ["Warped Terrain"]
 ---
 # Warped Terrain *Focus 1*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 60 foot
 - **Area**: 5-foot burst or more
 - **Duration**: 1 minute
 
-You create illusory hazards that cover all surfaces in the area (typically the ground). Any creature moving through the illusion treats the squares as difficult terrain. A creature can attempt to disbelieve the effect as normal after using a [Seek](rules/actions/seek.md) action or otherwise spending actions interacting with the illusion. If it successfully disbelieves, it ignores the effect for the remaining duration. For each additional action you use casting the spell, the burst's radius increases by 5 feet, to a maximum of 10 extra feet for 3 actions.
+You create illusory hazards that cover all surfaces in the area (typically the ground). Any creature moving through the illusion treats the squares as difficult terrain. A creature can attempt to disbelieve the effect as normal after using a [Seek](archive/srd/pf2e/rules/actions/seek.md) action or otherwise spending actions interacting with the illusion. If it successfully disbelieves, it ignores the effect for the remaining duration. For each additional action you use casting the spell, the burst's radius increases by 5 feet, to a maximum of 10 extra feet for 3 actions.
 
 **Heightened (4th)** You can make the illusion appear in the air rather than on a surface, causing it to function as difficult terrain for flying creatures.
 

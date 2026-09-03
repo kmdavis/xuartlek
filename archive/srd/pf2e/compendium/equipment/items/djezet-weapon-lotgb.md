@@ -8,7 +8,7 @@ tags:
 aliases: ["Djezet Weapon"]
 ---
 # Djezet Weapon *Item 12+*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** varies by weapon; **Usage** varies by weapon
 

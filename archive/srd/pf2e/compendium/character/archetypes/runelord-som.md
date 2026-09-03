@@ -14,13 +14,13 @@ You also learn to use polearms, the signature weapons of the runelords, and can 
 ## Runelord Specialization
 <sup>SoM p. 240</sup>
 
-You draw untold power from runes, sometimes called sin magic. You associate with one of the seven vices, also known as the seven rewards of rule: envy (abjuration), gluttony (necromancy), greed (transmutation), lust (enchantment), pride (illusion), sloth (conjuration), and wrath (evocation). Studying these techniques often tempts you with the associated sin. While leaning into it could corrupt you, it might make you more powerful. If you choose this class archetype, you must select [Runelord Dedication](compendium/feats/runelord-dedication-som.md) as your 2nd-level class feat.
+You draw untold power from runes, sometimes called sin magic. You associate with one of the seven vices, also known as the seven rewards of rule: envy (abjuration), gluttony (necromancy), greed (transmutation), lust (enchantment), pride (illusion), sloth (conjuration), and wrath (evocation). Studying these techniques often tempts you with the associated sin. While leaning into it could corrupt you, it might make you more powerful. If you choose this class archetype, you must select [Runelord Dedication](runelord-dedication-som.md) as your 2nd-level class feat.
 
 **Prerequisites:** You must be a wizard specializing in one of the seven schools other than divination.
 
 **Runelord Adjustments:** In addition to the normal school spell for your chosen school of magic, you learn the initial rune spell associated with your school, with its school adjusted to your chosen school of magic if it wasn't from that school already. The rune spells can be found below. Your pool of Focus Points increases to 2 Focus Points. At 8th level, you also learn the advanced rune spell associated with your school, also adjusting its school to match your chosen school of magic if it wasn't already, and your pool of Focus Points increases to 3 Focus Points.
 
-You can [Refocus](rules/actions/refocus.md) by indulging in your school's sin in lieu of studying your spellbook. As you become more powerful, your indulgence grows. At 12th level, if you indulge in your sin to [Refocus](rules/actions/refocus.md), if you have spent at least 2 Focus Points since the last time you [Refocused](rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](rules/actions/refocus.md) instead of 1. At 18th level, if you indulge in your sin to [Refocus](rules/actions/refocus.md), if you have spent at least 3 Focus Points since the last time you [Refocused](rules/actions/refocus.md), you recover 3 Focus Points when you [Refocus](rules/actions/refocus.md) instead of 1.
+You can [Refocus](archive/srd/pf2e/rules/actions/refocus.md) by indulging in your school's sin in lieu of studying your spellbook. As you become more powerful, your indulgence grows. At 12th level, if you indulge in your sin to [Refocus](archive/srd/pf2e/rules/actions/refocus.md), if you have spent at least 2 Focus Points since the last time you [Refocused](archive/srd/pf2e/rules/actions/refocus.md), you recover 2 Focus Points when you [Refocus](archive/srd/pf2e/rules/actions/refocus.md) instead of 1. At 18th level, if you indulge in your sin to [Refocus](archive/srd/pf2e/rules/actions/refocus.md), if you have spent at least 3 Focus Points since the last time you [Refocused](archive/srd/pf2e/rules/actions/refocus.md), you recover 3 Focus Points when you [Refocus](archive/srd/pf2e/rules/actions/refocus.md) instead of 1.
 
 You are trained in martial polearms. At 11th level, if you gain weapon expertise, you become an expert in martial polearms.
 
@@ -36,49 +36,49 @@ The following seven schools are considered proper specializations of Thassilonia
 
 Runelords of abjuration specialize in protective magic and in suppressing all other magic to glorify their own.
 
-**Prohibited Schools** evocation, necromancy; **Rune Spells** initial: [blind ambition](compendium/spells/blind-ambition.md), advanced: [competitive edge](compendium/spells/competitive-edge.md)
+**Prohibited Schools** evocation, necromancy; **Rune Spells** initial: [blind ambition](blind-ambition.md), advanced: [competitive edge](archive/srd/pf2e/compendium/spells/competitive-edge.md)
 
 ### Conjuration [Sloth]
 <sup>SoM p. 240</sup>
 
 Runelords of conjuration use their magic to create what they need as they need it, and call forth servants to do their bidding.
 
-**Prohibited Schools** evocation, illusion; **Rune Spells** initial: [efficient apport](compendium/spells/efficient-apport-som.md), advanced: [swamp of sloth](compendium/spells/swamp-of-sloth.md)
+**Prohibited Schools** evocation, illusion; **Rune Spells** initial: [efficient apport](efficient-apport-som.md), advanced: [swamp of sloth](archive/srd/pf2e/compendium/spells/swamp-of-sloth.md)
 
 ### Enchantment [Lust]
 <sup>SoM p. 240</sup>
 
 Runelords of enchantment specialize in magic that compels and controls the minds of others, often to fulfill their own needs and desires.
 
-**Prohibited Schools** necromancy, transmutation; **Rune Spells** initial: [charming touch](compendium/spells/charming-touch.md), advanced: [captivating adoration](compendium/spells/captivating-adoration.md)
+**Prohibited Schools** necromancy, transmutation; **Rune Spells** initial: [charming touch](archive/srd/pf2e/compendium/spells/charming-touch.md), advanced: [captivating adoration](archive/srd/pf2e/compendium/spells/captivating-adoration.md)
 
 ### Evocation [Wrath]
 <sup>SoM p. 240</sup>
 
 Runelords of evocation channel raw destructive energies and direct them toward all who would oppose their will.
 
-**Prohibited Schools** abjuration, conjuration; **Rune Spells** initial: [weapon surge](compendium/spells/weapon-surge.md), advanced: [zeal for battle](compendium/spells/zeal-for-battle.md)
+**Prohibited Schools** abjuration, conjuration; **Rune Spells** initial: [weapon surge](archive/srd/pf2e/compendium/spells/weapon-surge.md), advanced: [zeal for battle](archive/srd/pf2e/compendium/spells/zeal-for-battle.md)
 
 ### Illusion [Pride]
 <sup>SoM p. 240</sup>
 
 Runelords of illusion use magic to create the perfect appearance and fool others through trickery, deception, and misdirection.
 
-**Prohibited Schools** conjuration, transmutation; **Rune Spells** initial: [veil of confidence](compendium/spells/veil-of-confidence.md), advanced: [delusional pride](compendium/spells/delusional-pride.md)
+**Prohibited Schools** conjuration, transmutation; **Rune Spells** initial: [veil of confidence](archive/srd/pf2e/compendium/spells/veil-of-confidence.md), advanced: [delusional pride](archive/srd/pf2e/compendium/spells/delusional-pride.md)
 
 ### Necromancy [Gluttony]
 <sup>SoM p. 240</sup>
 
 Runelords of necromancy tap into their constant hunger for more power and enhancing their longevity, potentially even unto undeath.
 
-**Prohibited Schools** abjuration, enchantment; **Rune Spells** initial: [overstuff](compendium/spells/overstuff.md), advanced: [take its course](compendium/spells/take-its-course.md)
+**Prohibited Schools** abjuration, enchantment; **Rune Spells** initial: [overstuff](archive/srd/pf2e/compendium/spells/overstuff.md), advanced: [take its course](archive/srd/pf2e/compendium/spells/take-its-course.md)
 
 ### Transmutation [Greed]
 <sup>SoM p. 240</sup>
 
 Runelords of transmutation not only transform objects to create value, but also transform and enhance their own power.
 
-**Prohibited Schools** enchantment, illusion; **Rune Spells** initial: [appearance of wealth](compendium/spells/appearance-of-wealth.md), advanced: [precious metals](compendium/spells/precious-metals.md)
+**Prohibited Schools** enchantment, illusion; **Rune Spells** initial: [appearance of wealth](archive/srd/pf2e/compendium/spells/appearance-of-wealth.md), advanced: [precious metals](archive/srd/pf2e/compendium/spells/precious-metals.md)
 
 *Source: Secrets of Magic p. 240*
 

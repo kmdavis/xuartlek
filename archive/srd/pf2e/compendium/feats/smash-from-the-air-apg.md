@@ -7,11 +7,11 @@ tags:
 aliases: ["Smash From The Air"]
 ---
 # Smash From The Air  *Feat 18*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  
 
-- **Prerequisites**: [Cut From the Air](compendium/feats/cut-from-the-air-apg.md)
+- **Prerequisites**: [Cut From the Air](cut-from-the-air-apg.md)
 
-Your expertise enables you to knock away spells. You can use [Cut From the Air](compendium/feats/cut-from-the-air-apg.md) against ranged spell attack rolls.
+Your expertise enables you to knock away spells. You can use [Cut From the Air](cut-from-the-air-apg.md) against ranged spell attack rolls.
 
 *Source: Advanced Player's Guide p. 127*  
 %% #compendium/src/pf2e/apg #trait/fighter %%

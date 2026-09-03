@@ -11,12 +11,12 @@ tags:
 aliases: ["Sandals of the Stag"]
 ---
 # Sandals of the Stag *Item 18*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 24000 gp
 - **Bulk** L; **Usage** worn sandals
 
-These sturdy leather sandals feature straps that wrap up to the knees. Etched in the leather are intricate patterns of stags leaping through the forest. You gain a +5-foot item bonus to your land Speed and a +3 item bonus on [Athletics](compendium/skills.md#Athletics) checks when attempting to [High Jump](rules/actions/high-jump.md) or [Long Jump](rules/actions/long-jump.md). When you invest the sandals, you either increase your Strength score by 2 or increase it to 18, whichever is higher.
+These sturdy leather sandals feature straps that wrap up to the knees. Etched in the leather are intricate patterns of stags leaping through the forest. You gain a +5-foot item bonus to your land Speed and a +3 item bonus on [Athletics](skills.md#Athletics) checks when attempting to [High Jump](archive/srd/pf2e/rules/actions/high-jump.md) or [Long Jump](archive/srd/pf2e/rules/actions/long-jump.md). When you invest the sandals, you either increase your Strength score by 2 or increase it to 18, whichever is higher.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision

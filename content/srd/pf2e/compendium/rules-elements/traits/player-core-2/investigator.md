@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-trait
+tags:
+- compendium/src/pf2e/player-core-2
+- trait/investigator
+aliases: ["Investigator"]
+aon_id: "trait-818"
+source: "Player Core 2"
+---
+
+# Investigator  *Trait*
+
+`Investigator`
+
+This trait indicates abilities from the investigator class.
+
+*Source: Player Core 2 p. 317*

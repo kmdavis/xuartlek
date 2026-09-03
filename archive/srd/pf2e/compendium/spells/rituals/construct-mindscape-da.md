@@ -9,13 +9,13 @@ tags:
 aliases: ["Construct Mindscape"]
 ---
 # Construct Mindscape *Ritual 5*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** precious clay, wood, or other modeling materials worth spell level × 20 gp
 - **Secondary Casters** 4
-- **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (master)
-- **Secondary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism), [Crafting](compendium/skills.md#Crafting)
+- **Primary Checks** [Arcana](skills.md#Arcana) or [Occultism](skills.md#Occultism) (master)
+- **Secondary Checks** [Arcana](skills.md#Arcana) or [Occultism](skills.md#Occultism), [Crafting](skills.md#Crafting)
 - 
 
 You create an entirely mental environment called an immersive mindscape. It can have any appearance you and the secondary casters imagine and hold in your minds as you execute the ritual. A mindscape is typically veiled, disguising its nature as a mental construct, but you can choose to make it overt. Even a veiled mindscape has some signs it's not a real place that can be revealed through close inspection or by spending a long time there. Most mindscapes are incapable of physically harming those inside. Even though the mindscape you create is limited in dimension, it appears to have a convincing environment around it, such as a sky and clouds.

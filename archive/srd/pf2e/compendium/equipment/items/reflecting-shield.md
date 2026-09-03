@@ -10,7 +10,7 @@ tags:
 aliases: ["Reflecting Shield"]
 ---
 # Reflecting Shield *Item 18*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 18000 gp
 - **Craft Requirements** Supply one casting of spell turning, and the initial raw materials must include at least 2,750 gp of silver.

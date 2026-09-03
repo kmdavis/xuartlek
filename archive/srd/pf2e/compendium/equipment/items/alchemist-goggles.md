@@ -10,11 +10,11 @@ tags:
 aliases: ["Alchemist Goggles"]
 ---
 # Alchemist Goggles *Item 4+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** —; **Usage** worn eyepiece
 
-These brass goggles are engraved with flame patterns and have thick, heavy lenses. While worn, they give you a +1 item bonus to [Crafting](compendium/skills.md#Crafting) checks to [Craft](rules/actions/craft.md) alchemical items and a +1 item bonus to attack rolls with alchemical bombs. You can also ignore lesser cover when making [Strikes](rules/actions/strike.md) with alchemical bombs.
+These brass goggles are engraved with flame patterns and have thick, heavy lenses. While worn, they give you a +1 item bonus to [Crafting](skills.md#Crafting) checks to [Craft](archive/srd/pf2e/rules/actions/craft.md) alchemical items and a +1 item bonus to attack rolls with alchemical bombs. You can also ignore lesser cover when making [Strikes](archive/srd/pf2e/rules/actions/strike.md) with alchemical bombs.
 
 ---
 

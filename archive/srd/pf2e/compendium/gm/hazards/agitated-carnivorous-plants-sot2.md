@@ -8,18 +8,18 @@ tags:
 aliases: ["Agitated Carnivorous Plants"]
 ---
 # Agitated Carnivorous Plants *Hazard 5*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
 
 Many carnivorous plants that were once kept satiated now hunger for any meat they can get, even lashing out onto the path to get it.
 
-- **Disable** DC 25 [Survival](compendium/skills.md#Survival) (trained) to distract or trick the plants or DC 22 [Nature](compendium/skills.md#Nature) (expert) to calm the plants.  
+- **Disable** DC 25 [Survival](skills.md#Survival) (trained) to distract or trick the plants or DC 22 [Nature](skills.md#Nature) (expert) to calm the plants.  
 
 - **AC** 20, **Fort** +17, **Ref** +9
 - **HP** 60 (BT 30)
-- **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
+- **Immunities** [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")
 - **Weaknesses** acid 10; fire 10; slashing 10
 
 ```ad-embed-ability

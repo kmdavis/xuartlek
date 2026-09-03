@@ -7,9 +7,9 @@ tags:
 aliases: ["Improved Command Undead"]
 ---
 # Improved Command Undead  *Feat 10*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
-- **Prerequisites**: harmful font, [Command Undead](compendium/feats/command-undead.md), evil alignment
+- **Prerequisites**: harmful font, [Command Undead](command-undead.md), evil alignment
 
 Undead creatures find it all but impossible to resist your commands. When you use Command Undead, if the undead succeeds at its save but doesn't critically succeed, it is your minion for 1 round. If the undead fails its save, it is your minion for 10 minutes. If it critically fails, it is your minion for 24 hours.
 

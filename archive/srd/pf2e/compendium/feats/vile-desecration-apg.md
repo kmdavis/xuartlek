@@ -7,11 +7,11 @@ tags:
 aliases: ["Vile Desecration"]
 ---
 # Vile Desecration  *Feat 1*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: evil alignment
 
-You combine unholy might with negative energy to damage angels, archons, and other self-righteous denizens of the Outer Planes. When you cast a [harm](compendium/spells/harm.md) spell, you can change the damage you deal to celestial creatures to evil damage instead of negative damage.
+You combine unholy might with negative energy to damage angels, archons, and other self-righteous denizens of the Outer Planes. When you cast a [harm](archive/srd/pf2e/compendium/spells/harm.md) spell, you can change the damage you deal to celestial creatures to evil damage instead of negative damage.
 
 *Source: Advanced Player's Guide p. 122*  
 %% #compendium/src/pf2e/apg #trait/cleric %%

@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Hunter's Trick"]
 ---
 # Advanced Hunter's Trick  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Hunter's Trick](compendium/feats/basic-hunters-trick.md)
+- **Prerequisites**: [Basic Hunter's Trick](archive/srd/pf2e/compendium/feats/basic-hunters-trick.md)
 
 You gain one ranger feat. For the purpose of meeting its prerequisites, your ranger level is equal to half your character level.
 

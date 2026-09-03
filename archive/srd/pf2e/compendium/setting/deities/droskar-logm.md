@@ -23,9 +23,9 @@ aliases: ["Droskar", "The Dark Smith"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Crafting
-- **Favored Weapon**: [light hammer](compendium/equipment/items/light-hammer.md)
-- **Domains**: [duty](compendium/setting/domains.md#Duty), [earth](compendium/setting/domains.md#Earth), [trickery](compendium/setting/domains.md#Trickery), [tyranny](compendium/setting/domains.md#Tyranny)
-- **Alternate Domains**: [ambition](compendium/setting/domains.md#Ambition), [fire](compendium/setting/domains.md#Fire), [toil](compendium/setting/domains.md#Toil)
-- **Cleric Spells**: 1st: [ant haul](compendium/spells/ant-haul.md); 3rd: [haste](compendium/spells/haste.md); 6th: [dominate](compendium/spells/dominate.md)
+- **Favored Weapon**: [light hammer](archive/srd/pf2e/compendium/equipment/items/light-hammer.md)
+- **Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery), [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny)
+- **Alternate Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [toil](archive/srd/pf2e/compendium/setting/domains.md#Toil)
+- **Cleric Spells**: 1st: [ant haul](archive/srd/pf2e/compendium/spells/ant-haul.md); 3rd: [haste](archive/srd/pf2e/compendium/spells/haste.md); 6th: [dominate](archive/srd/pf2e/compendium/spells/dominate.md)

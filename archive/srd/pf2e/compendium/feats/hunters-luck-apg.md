@@ -7,11 +7,11 @@ tags:
 aliases: ["Hunter's Luck"]
 ---
 # Hunter's Luck  *Feat 4*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: warden spells
 
-Your recollection of monsters is magically enhanced by luck. You gain the [hunter's luck](compendium/spells/hunters-luck-apg.md) warden spell. Increase the number of Focus Points in your focus pool by 1.
+Your recollection of monsters is magically enhanced by luck. You gain the [hunter's luck](archive/srd/pf2e/compendium/spells/hunters-luck-apg.md) warden spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Advanced Player's Guide p. 132*  
 %% #compendium/src/pf2e/apg #trait/ranger %%

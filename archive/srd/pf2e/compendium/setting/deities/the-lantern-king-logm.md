@@ -20,8 +20,8 @@ aliases: ["The Lantern King", "The Laughing Lie"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Deception
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [delirium](compendium/setting/domains.md#Delirium), [passion](compendium/setting/domains.md#Passion), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [illusory disguise](compendium/spells/illusory-disguise.md); 2nd: [hideous laughter](compendium/spells/hideous-laughter.md); 6th: [baleful polymorph](compendium/spells/baleful-polymorph.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [delirium](archive/srd/pf2e/compendium/setting/domains.md#Delirium), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [illusory disguise](archive/srd/pf2e/compendium/spells/illusory-disguise.md); 2nd: [hideous laughter](hideous-laughter.md); 6th: [baleful polymorph](baleful-polymorph.md)

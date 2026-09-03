@@ -11,7 +11,7 @@ tags:
 aliases: ["Arboreal's Revenge"]
 ---
 # Arboreal's Revenge *Item 6*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** 2; **Usage** held in 2 hands
 
@@ -19,11 +19,11 @@ This walnut and brass +1 striking blunderbuss has a natural look, with wood worn
 
 Arboreal's revenge is a haunted firearm constructed with wood hewn from a living arboreal, slaying the arboreal and trapping its spirit in the firearm. Perhaps a patient wielder could one day put the arboreal's spirit to rest, or at least come to terms with it, abating the drawbacks of the weapon while keeping its advantages.
 
-When you first fire arboreal's revenge, the blunderbuss fuses with you, after which it's almost impossible to remove it from your possession with a remove curse or similar effect, like many cursed items. You gain weakness 5 to fire and the flat check for you to recover from [persistent fire damage](rules/conditions.md#Persistent%20Damage) increases from 15 to 17, or from 10 to 12 if you receive appropriate help.
+When you first fire arboreal's revenge, the blunderbuss fuses with you, after which it's almost impossible to remove it from your possession with a remove curse or similar effect, like many cursed items. You gain weakness 5 to fire and the flat check for you to recover from [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) increases from 15 to 17, or from 10 to 12 if you receive appropriate help.
 
 Whenever you wield arboreal's revenge, the arboreal spirit bound to the blunderbuss attempts to overtake you.
 
-The wood handgrip sprouts roots which grow around your hand, binding both of your hands to the firearm. You gain a +4 circumstance bonus to your Reflex DC when defending against checks to [Disarm](rules/actions/disarm.md) you. However, you can't [Release](rules/actions/release.md) your grip on the blunderbuss until you forcibly tear off the roots, though they do allow you to move your hands enough (and only enough) to reload and fire the blunderbuss. Tearing off the roots takes 1 minute.
+The wood handgrip sprouts roots which grow around your hand, binding both of your hands to the firearm. You gain a +4 circumstance bonus to your Reflex DC when defending against checks to [Disarm](archive/srd/pf2e/rules/actions/disarm.md) you. However, you can't [Release](archive/srd/pf2e/rules/actions/release.md) your grip on the blunderbuss until you forcibly tear off the roots, though they do allow you to move your hands enough (and only enough) to reload and fire the blunderbuss. Tearing off the roots takes 1 minute.
 
 The arboreal haunting the firearm can use the following two effects whenever it wants, often using them at random.
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Coldstar Pistols"]
 ---
 # Coldstar Pistols *Item 23*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 

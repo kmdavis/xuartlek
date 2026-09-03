@@ -12,7 +12,7 @@ tags:
 aliases: ["Ancestral Geometry"]
 ---
 # Ancestral Geometry *Item 2*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 30 gp
 - **Bulk** —; **Usage** tattooed on the body
@@ -21,9 +21,9 @@ Geometric precision and perfect angles signify that an artist with exemplary kno
 
 1–2 Fortitude, 3–4 Reflex, and 5–6 Will.
 
-In addition, until the next visitation, you gain a +1 item bonus to one [Lore](compendium/skills.md#Lore) skill related to the ancestor, as determined by the GM.
+In addition, until the next visitation, you gain a +1 item bonus to one [Lore](skills.md#Lore) skill related to the ancestor, as determined by the GM.
 
-Usually, the ancestor provides a kind of knowledge they believe you'll need. For dwarven ancestors, the [Lore](compendium/skills.md#Lore) skill is usually [Architecture Lore](compendium/skills.md#Lore), [Engineering Lore](compendium/skills.md#Lore), [Genealogy Lore](compendium/skills.md#Lore), [Labor Lore](compendium/skills.md#Lore), [Mining Lore](compendium/skills.md#Lore), [Warfare Lore](compendium/skills.md#Lore), or [Lore](compendium/skills.md#Lore) about a dwarven deity.
+Usually, the ancestor provides a kind of knowledge they believe you'll need. For dwarven ancestors, the [Lore](skills.md#Lore) skill is usually [Architecture Lore](skills.md#Lore), [Engineering Lore](skills.md#Lore), [Genealogy Lore](skills.md#Lore), [Labor Lore](skills.md#Lore), [Mining Lore](skills.md#Lore), [Warfare Lore](skills.md#Lore), or [Lore](skills.md#Lore) about a dwarven deity.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision ([fortune](rules/traits/fortune.md))

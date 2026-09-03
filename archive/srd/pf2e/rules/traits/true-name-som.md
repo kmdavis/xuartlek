@@ -11,8 +11,8 @@ aliases: ["True Name"]
 
 Certain spells, feats, and items have the true name trait. This trait means they require you to know a creature's true name to use them. But even without these specialized abilities, knowing a creature's true name gives you certain advantages. If you know a creature's true name, you have a +2 circumstance bonus to the following checks.
 
-- Checks to [Recall Knowledge](rules/actions/recall-knowledge.md) about the creature
-- [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) checks relating to the creature, such as [Deciphering its Writing](rules/actions/decipher-writing.md), [Identifying its Magic](rules/actions/identify-magic.md), or [Learning its Spells](rules/actions/learn-a-spell.md)
-- [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), and [Intimidation](compendium/skills.md#Intimidation) checks used on or related to the creature, such as to [Coerce](rules/actions/coerce.md) it, [Gather Information](rules/actions/gather-information.md) on it, or [Impersonate](rules/actions/impersonate.md) it
+- Checks to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) about the creature
+- [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion) checks relating to the creature, such as [Deciphering its Writing](archive/srd/pf2e/rules/actions/decipher-writing.md), [Identifying its Magic](archive/srd/pf2e/rules/actions/identify-magic.md), or [Learning its Spells](archive/srd/pf2e/rules/actions/learn-a-spell.md)
+- [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), and [Intimidation](skills.md#Intimidation) checks used on or related to the creature, such as to [Coerce](archive/srd/pf2e/rules/actions/coerce.md) it, [Gather Information](archive/srd/pf2e/rules/actions/gather-information.md) on it, or [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md) it
 
 - **Categories**: General

@@ -8,7 +8,7 @@ tags:
 aliases: ["Maul"]
 ---
 # Maul *Item 0*  
-[shove](rules/traits/shove.md "Shove Weapon Trait")  
+[shove](archive/srd/pf2e/rules/traits/shove.md "Shove Weapon Trait")  
 
 - **Price** 3 gp
 - **Bulk** 2

@@ -8,13 +8,13 @@ tags:
 aliases: ["False-Bottomed Mug"]
 ---
 # False-Bottomed Mug *Item 0*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Member of the Bellflower Network
 - **Price** 5 sp
 - **Bulk** L; **Usage** held in 1 hand
 
-This mug looks like any other; however, the bottom part unscrews to reveal a velvetlined chamber. These are primarily used by members of the Bellflower Network to sneak messages and small objects to other possible members. The [Perception](compendium/skills.md#Perception) DC to discover the false bottom is 15 if someone specifically examines the mug.
+This mug looks like any other; however, the bottom part unscrews to reveal a velvetlined chamber. These are primarily used by members of the Bellflower Network to sneak messages and small objects to other possible members. The [Perception](skills.md#Perception) DC to discover the false bottom is 15 if someone specifically examines the mug.
 
 
 ---

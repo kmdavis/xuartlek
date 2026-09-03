@@ -7,14 +7,14 @@ tags:
 aliases: ["Violent Shove"]
 ---
 # Violent Shove *Hazard 3*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained to feel an ominous presence in the room  
 
 An invisible force bats creatures aside, hurling them into a nearby wall.
 
-- **Disable** DC 19 [Occultism](compendium/skills.md#Occultism) (trained) to disperse the force or DC 20 [Religion](compendium/skills.md#Religion) (trained) to ward yourself from harm  
+- **Disable** DC 19 [Occultism](skills.md#Occultism) (trained) to disperse the force or DC 20 [Religion](skills.md#Religion) (trained) to ward yourself from harm  
 
 ```ad-embed-ability
 title: **Shove** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

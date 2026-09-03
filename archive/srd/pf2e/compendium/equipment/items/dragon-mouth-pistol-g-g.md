@@ -10,7 +10,7 @@ tags:
 aliases: ["Dragon Mouth Pistol"]
 ---
 # Dragon Mouth Pistol *Item 0*  
-[concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [scatter <5 ft.>](rules/traits/scatter-5-ft-g-g.md "Scatter Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concussive](concussive-g-g.md "Concussive Weapon Trait")  [scatter <5 ft.>](rules/traits/scatter-5-ft-g-g.md "Scatter Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 9 gp

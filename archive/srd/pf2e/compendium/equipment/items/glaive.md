@@ -10,7 +10,7 @@ tags:
 aliases: ["Glaive"]
 ---
 # Glaive *Item 0*  
-[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  
+[deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [forceful](archive/srd/pf2e/rules/traits/forceful.md "Forceful Weapon Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 2

@@ -9,9 +9,9 @@ tags:
 aliases: ["Wand of Continuation"]
 ---
 # Wand of Continuation *Item 5+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
-- **Craft Requirements** Supply a casting of a spell of the appropriate level. The spell must have a casting time of [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") and a duration no less than 10 minutes and no greater than 1 hour.
+- **Craft Requirements** Supply a casting of a spell of the appropriate level. The spell must have a casting time of [>](chapter-9-playing-the-game.md#Actions "Single Action") or [>>](chapter-9-playing-the-game.md#Actions "Two-Action") and a duration no less than 10 minutes and no greater than 1 hour.
 - **Bulk** L; **Usage** held in 1 hand
 
 This wand increases a spell's duration. Yellow embers spiral over its surface until the spell ends.

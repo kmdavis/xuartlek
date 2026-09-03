@@ -10,12 +10,12 @@ tags:
 aliases: ["Etheric Essence Disruptor"]
 ---
 # Etheric Essence Disruptor *Item 3+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [gadget](rules/traits/gadget-g-g.md "Gadget  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [gadget](gadget-g-g.md "Gadget  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-An etheric essence disruptor emits bursts of discordant ethereal energy through a process based upon Stasian etheric-spirit singers, though without the need for a Stasian coil. Etheric essence disruptors attempt to break down the workings of a spell that manipulates spiritual essence. Upon activation, attempt to counteract an active [divine](rules/traits/divine.md "Divine Tradition Trait") or [occult](rules/traits/occult.md "Occult Tradition Trait") spell within the listed range, with the listed counteract modifier and counteract level.
+An etheric essence disruptor emits bursts of discordant ethereal energy through a process based upon Stasian etheric-spirit singers, though without the need for a Stasian coil. Etheric essence disruptors attempt to break down the workings of a spell that manipulates spiritual essence. Upon activation, attempt to counteract an active [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait") or [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait") spell within the listed range, with the listed counteract modifier and counteract level.
 
 ---
 

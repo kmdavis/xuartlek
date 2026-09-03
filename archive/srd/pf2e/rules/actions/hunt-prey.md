@@ -8,8 +8,8 @@ tags:
 - trait/ranger
 aliases: ["Hunt Prey", "Mark Prey"]
 ---
-# Hunt Prey [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  
+# Hunt Prey [>](chapter-9-playing-the-game.md#Actions "Single Action")
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 *Source: Core Rulebook p. 168*  
 
 **Class** ranger
@@ -17,6 +17,6 @@ aliases: ["Hunt Prey", "Mark Prey"]
 
 You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration.
 
-You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks when you [Seek](rules/actions/seek.md) your prey and a +2 circumstance bonus to [Survival](compendium/skills.md#Survival) checks when you [Track](rules/actions/track.md) your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you're hunting.
+You gain a +2 circumstance bonus to [Perception](skills.md#Perception) checks when you [Seek](archive/srd/pf2e/rules/actions/seek.md) your prey and a +2 circumstance bonus to [Survival](skills.md#Survival) checks when you [Track](archive/srd/pf2e/rules/actions/track.md) your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you're hunting.
 
-You can have only one creature designated as your prey at a time. If you use [Hunt Prey](rules/actions/hunt-prey.md) against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preparations.
+You can have only one creature designated as your prey at a time. If you use [Hunt Prey](archive/srd/pf2e/rules/actions/hunt-prey.md) against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preparations.

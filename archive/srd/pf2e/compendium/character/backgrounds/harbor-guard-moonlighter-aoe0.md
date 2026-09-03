@@ -17,6 +17,6 @@ Despite the decline in your performance, Lieutenant Lavarsus of Edgewatch sees p
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and your choice of [Sailing Lore](compendium/skills.md#Lore) or [Hunting Lore](compendium/skills.md#Lore). You gain a +1 circumstance bonus to [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), and [Intimidation](compendium/skills.md#Intimidation) checks to interact with Harbor Guards, ship captains, and freelance adventurers.
+You're trained in the [Athletics](skills.md#Athletics) skill and your choice of [Sailing Lore](skills.md#Lore) or [Hunting Lore](skills.md#Lore). You gain a +1 circumstance bonus to [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), and [Intimidation](skills.md#Intimidation) checks to interact with Harbor Guards, ship captains, and freelance adventurers.
 
-You gain the [Quick Jump](compendium/feats/quick-jump.md) skill feat.
+You gain the [Quick Jump](archive/srd/pf2e/compendium/feats/quick-jump.md) skill feat.

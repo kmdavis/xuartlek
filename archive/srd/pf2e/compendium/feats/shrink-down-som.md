@@ -10,8 +10,8 @@ tags:
 - trait/transmutation
 aliases: ["Shrink Down"]
 ---
-# Shrink Down  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Shrink Down  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [eidolon](eidolon-som.md "Eidolon Creature Type Trait")  [evolution](evolution-som.md "Evolution Feat Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Activity** Single Action
 
@@ -19,7 +19,7 @@ Your eidolon can shrink to fit into small spaces. Your eidolon reduces in size, 
 
 ## Shrink Down leads to...
 
-[Miniaturize](compendium/feats/miniaturize-som.md)
+[Miniaturize](miniaturize-som.md)
 
 ## Summary
 

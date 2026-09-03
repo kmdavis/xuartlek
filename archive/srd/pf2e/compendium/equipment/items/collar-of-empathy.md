@@ -11,7 +11,7 @@ tags:
 aliases: ["Collar of Empathy"]
 ---
 # Collar of Empathy *Item 9*  
-[companion](rules/traits/companion.md "Companion Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+[companion](archive/srd/pf2e/rules/traits/companion.md "Companion Item Trait")  [divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Price** 600 gp
 - **Bulk** 1; **Usage** worn collar (companion) and worn bracelet (you)

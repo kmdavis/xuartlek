@@ -7,14 +7,14 @@ tags:
 aliases: ["Storm's Lash"]
 ---
 # Storm's Lash  *Feat 1*  
-[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
+[tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 
-Wind and lightning have always been close friends to you. You can cast the [electric arc](compendium/spells/electric-arc.md) cantrip as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
+Wind and lightning have always been close friends to you. You can cast the [electric arc](archive/srd/pf2e/compendium/spells/electric-arc.md) cantrip as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
 
 ## Storm's Lash leads to...
 
-[Hurricane Swing](compendium/feats/hurricane-swing-loag.md)
+[Hurricane Swing](hurricane-swing-loag.md)
 
 ## Summary
 

@@ -20,8 +20,8 @@ aliases: ["Hathor", "Mistress of Jubilation"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Performance
-- **Favored Weapon**: [shortsword](compendium/equipment/items/shortsword.md)
-- **Domains**: [family](compendium/setting/domains.md#Family), [passion](compendium/setting/domains.md#Passion), [sun](compendium/setting/domains.md#Sun), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 2nd: [tree shape](compendium/spells/tree-shape.md); 8th: [uncontrollable dance](compendium/spells/uncontrollable-dance.md)
+- **Favored Weapon**: [shortsword](archive/srd/pf2e/compendium/equipment/items/shortsword.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [charm](archive/srd/pf2e/compendium/spells/charm.md); 2nd: [tree shape](tree-shape.md); 8th: [uncontrollable dance](archive/srd/pf2e/compendium/spells/uncontrollable-dance.md)

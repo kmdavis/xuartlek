@@ -9,14 +9,14 @@ tags:
 aliases: ["Soporific Lecture"]
 ---
 # Soporific Lecture *Hazard 8*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 expert  
 
-Several [hidden](rules/conditions.md#Hidden) nozzles spray colorless sleeping gas into the seating area.
+Several [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) nozzles spray colorless sleeping gas into the seating area.
 
-- **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) (expert) to crimp shut the primary feeding tube for the gas, or DC 31 [Perception](compendium/skills.md#Perception) (expert) to discover the [hidden](rules/conditions.md#Hidden) bypass switch next to the door to area A3 that shuts the trap off  
+- **Disable** DC 28 [Thievery](skills.md#Thievery) (expert) to crimp shut the primary feeding tube for the gas, or DC 31 [Perception](skills.md#Perception) (expert) to discover the [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) bypass switch next to the door to area A3 that shuts the trap off  
 
 ```ad-embed-ability
 title: **Gas Spray** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([incapacitation](rules/traits/incapacitation.md), [mental](rules/traits/mental.md), [poison](rules/traits/poison.md), [sleep](rules/traits/sleep.md))

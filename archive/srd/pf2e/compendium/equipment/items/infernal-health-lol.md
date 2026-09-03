@@ -12,7 +12,7 @@ tags:
 aliases: ["Infernal Health"]
 ---
 # Infernal Health *Item 15*  
-[contract](rules/traits/contract-lol.md "Contract Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[contract](contract-lol.md "Contract Item Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
 You regain triple the normal number of Hit Points when resting (meaning you regain triple your Constitution modifier multiplied by your level). The healing you gain from long-term rest is similarly tripled. Once per day, from any distance, Abrogail Thrune II can recite a voidability clause in your Thrune contract as a 1-minute activity to prevent you from regaining Hit Points from resting for 1 day.

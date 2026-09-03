@@ -14,7 +14,7 @@ aliases: ["Studded Leather"]
 - **Strength** 12; **Check Penalty** -1; **Speed Penalty** —
 - **Category** Light; **Group** Leather 
 
-This [leather armor](compendium/equipment/items/leather.md) is reinforced with metal studs and sometimes small metal plates, providing most of the flexibility of leather armor with more robust protection.
+This [leather armor](archive/srd/pf2e/compendium/equipment/items/leather.md) is reinforced with metal studs and sometimes small metal plates, providing most of the flexibility of leather armor with more robust protection.
 
 
 ---

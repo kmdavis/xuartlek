@@ -10,11 +10,11 @@ tags:
 aliases: ["Messenger's Ring"]
 ---
 # Messenger's Ring *Item 9+*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** —; **Usage** worn
 
-This silver signet ring changes to match the insignia of a lord or organization you serve (or your own face, if you serve no one else). It grants you a +2 item bonus to [Diplomacy](compendium/skills.md#Diplomacy) checks and lets you cast [message](compendium/spells/message.md) as an arcane innate spell at will.
+This silver signet ring changes to match the insignia of a lord or organization you serve (or your own face, if you serve no one else). It grants you a +2 item bonus to [Diplomacy](skills.md#Diplomacy) checks and lets you cast [message](archive/srd/pf2e/compendium/spells/message.md) as an arcane innate spell at will.
 
 ```ad-embed-ability
 title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 minute envision
@@ -38,7 +38,7 @@ title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 
 The ring grants a +3 bonus and can be activated in an additional way.
 
-**Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") command; **Frequency** once per hour; **Effect** The ring casts sending to your specifications.
+**Activate** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") command; **Frequency** once per hour; **Effect** The ring casts sending to your specifications.
 
 ---
 *Source: Core Rulebook p. 613*

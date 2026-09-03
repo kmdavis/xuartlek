@@ -7,14 +7,14 @@ tags:
 aliases: ["Locking Door"]
 ---
 # Locking Door *Hazard -1*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 trained to notice the door sway slightly, even though there's no breeze  
 
 A door (or other portal) slams shut and locks.
 
-- **Disable** DC 14 [Athletics](compendium/skills.md#Athletics) to push back against the door, DC 14 [Crafting](compendium/skills.md#Crafting) to wedge the door open, or DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to jam the lock or open the lock afterward  
+- **Disable** DC 14 [Athletics](skills.md#Athletics) to push back against the door, DC 14 [Crafting](skills.md#Crafting) to wedge the door open, or DC 20 [Thievery](skills.md#Thievery) (trained) to jam the lock or open the lock afterward  
 
 ```ad-embed-ability
 title: **Shut In** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

@@ -10,7 +10,7 @@ tags:
 aliases: ["Electrocable"]
 ---
 # Electrocable *Item 3*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 45 gp
 - **Bulk** L; **Usage** held in 2 hands

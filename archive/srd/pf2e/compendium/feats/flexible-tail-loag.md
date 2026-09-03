@@ -7,14 +7,14 @@ tags:
 aliases: ["Flexible Tail"]
 ---
 # Flexible Tail  *Feat 5*  
-[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
+[lizardfolk](lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
-You can perform simple [Interact](rules/actions/interact.md) actions with your tail, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.
+You can perform simple [Interact](archive/srd/pf2e/rules/actions/interact.md) actions with your tail, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.
 
 ## Flexible Tail leads to...
 
-[Dangle](compendium/feats/dangle-loag.md)
+[Dangle](dangle-loag.md)
 
 ## Summary
 

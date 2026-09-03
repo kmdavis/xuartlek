@@ -11,9 +11,9 @@ tags:
 aliases: ["Life Siphon"]
 ---
 # Life Siphon *Focus 4*   
-[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+[healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: You expend one of your wizard spell slots to cast a wizard spell of the necromancy school.
 - 
 

@@ -9,9 +9,9 @@ tags:
 aliases: ["Nightmare"]
 ---
 # Nightmare *Spell 4*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**: planetary
 - **Targets**: 1 creature you know by name
@@ -23,7 +23,7 @@ You send disturbing nightmares to your target. The next time the target falls as
 > [!success-degree] 
 > - **Critical Success** The target suffers no adverse effects and is temporarily immune for 1 week.
 > - **Success** The target experiences the nightmares but suffers no adverse effects other than unpleasant memories.
-> - **Failure** The target experiences the nightmares and awakens [fatigued](rules/conditions.md#Fatigued).
-> - **Critical Failure** The target experiences the nightmares, awakens [fatigued](rules/conditions.md#Fatigued), and is [drained](rules/conditions.md#Drained) until it is no longer [fatigued](rules/conditions.md#Fatigued).
+> - **Failure** The target experiences the nightmares and awakens [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued).
+> - **Critical Failure** The target experiences the nightmares, awakens [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued), and is [drained](archive/srd/pf2e/rules/conditions.md#Drained) until it is no longer [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued).
 
 *Source: Core Rulebook p. 354*

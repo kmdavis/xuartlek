@@ -8,13 +8,13 @@ tags:
 - trait/metamagic
 aliases: ["Rockslide Spell"]
 ---
-# Rockslide Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
+# Rockslide Spell  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [metamagic](metamagic.md "Metamagic General Trait")  
 
-- **Prerequisites**: [Elementalist Dedication](compendium/feats/elementalist-dedication-som.md)
+- **Prerequisites**: [Elementalist Dedication](elementalist-dedication-som.md)
 - **Activity** Single Action
 
-You enhance your spell with elemental earth, causing chunks of stone to litter the ground. If the next action you use is to [Cast a non-cantrip Spell](rules/actions/cast-a-spell.md) that affects an area, a number of 5-foot squares in the area equal to the spell level become difficult terrain for 1 round. These squares must be on the ground, and the entire area of difficult terrain must be contiguous. The spell gains the [earth](rules/traits/earth.md "Earth Energy & Element Trait") trait.
+You enhance your spell with elemental earth, causing chunks of stone to litter the ground. If the next action you use is to [Cast a non-cantrip Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) that affects an area, a number of 5-foot squares in the area equal to the spell level become difficult terrain for 1 round. These squares must be on the ground, and the entire area of difficult terrain must be contiguous. The spell gains the [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait") trait.
 
 *Source: Secrets of Magic p. 207*  
 %% #compendium/src/pf2e/som #trait/archetype #trait/earth #trait/metamagic %%

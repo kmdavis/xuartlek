@@ -10,14 +10,14 @@ tags:
 aliases: ["Electric Latch Rune"]
 ---
 # Electric Latch Rune *Hazard 3*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
 
-An [invisible](rules/conditions.md#Invisible) rune imprinted on a door latch releases a powerful electric discharge.
+An [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) rune imprinted on a door latch releases a powerful electric discharge.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 20 (expert) to scratch out the rune without allowing electricity to flow, or dispel magic (2nd level; counteract DC 18) to counteract the rune.  
+- **Disable** [Thievery](skills.md#Thievery) DC 20 (expert) to scratch out the rune without allowing electricity to flow, or dispel magic (2nd level; counteract DC 18) to counteract the rune.  
 
 ```ad-embed-ability
 title: **Electrocution** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [electricity](rules/traits/electricity.md), [evocation](rules/traits/evocation.md))

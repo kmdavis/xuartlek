@@ -7,9 +7,9 @@ tags:
 aliases: ["Giant Snare"]
 ---
 # Giant Snare  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Snarecrafter Dedication](compendium/feats/snarecrafter-dedication-apg.md)
+- **Prerequisites**: [Snarecrafter Dedication](snarecrafter-dedication-apg.md)
 
 You can create bigger snares for quick deployment, making it more likely for a creature to walk into your snares.
 

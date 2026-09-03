@@ -11,13 +11,13 @@ tags:
 aliases: ["Ouroboros Buckles"]
 ---
 # Ouroboros Buckles *Item 19*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 40000 gp
 - **Craft Requirements** The initial raw materials must include blood from an ouroboros (Bestiary 3 194) to tan the leather.
 - **Bulk** 1; **Usage** worn armor
 
-This ominous-looking +3 greater resilient greater acid-resistant buckle armor is deep red in color, favored by assassins who worship [Norgorber](compendium/setting/deities/norgorber.md) or [Asmodeus](compendium/setting/deities/asmodeus.md), and if unfastened, the many belts and buckles writhe like living snakes. Ouroboros buckles have the [comfort](rules/traits/comfort.md "Comfort Armor Trait") trait. However, while wearing ouroboros buckles, the unfathomable concept of infinity pulls at your mind, and each time you awaken, you'd swear the armor hissed into your ear while you were asleep. The hissing suggested secret wisdom to you in Aklo, though you only ever remember it vaguely, like a fading dream.
+This ominous-looking +3 greater resilient greater acid-resistant buckle armor is deep red in color, favored by assassins who worship [Norgorber](norgorber.md) or [Asmodeus](asmodeus.md), and if unfastened, the many belts and buckles writhe like living snakes. Ouroboros buckles have the [comfort](archive/srd/pf2e/rules/traits/comfort.md "Comfort Armor Trait") trait. However, while wearing ouroboros buckles, the unfathomable concept of infinity pulls at your mind, and each time you awaken, you'd swear the armor hissed into your ear while you were asleep. The hissing suggested secret wisdom to you in Aklo, though you only ever remember it vaguely, like a fading dream.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision, [Interact](rules/actions/interact.md)

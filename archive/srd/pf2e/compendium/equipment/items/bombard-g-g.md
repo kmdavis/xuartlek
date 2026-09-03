@@ -9,12 +9,12 @@ tags:
 aliases: ["Bombard"]
 ---
 # Bombard *Item 5*  
-[large](rules/traits/large-b1.md "Large Size Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[large](large-b1.md "Large Size Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 300 gp
 - **Usage** mounted (black powder)
 
-Bombards are some of the oldest and simplest of black powder siege weapons, devised based on many of the same principles as a hand cannon, but deploying them on a larger scale and scope. A bombard's body is usually made of brass or iron, which causes the bombard to resemble the shape of a large bell. While they are capable of moving very slowly, their [clumsy](rules/conditions.md#Clumsy) and weighty design means bombards usually remain stationary. This in turn means they're often used more defensively than offensively.
+Bombards are some of the oldest and simplest of black powder siege weapons, devised based on many of the same principles as a hand cannon, but deploying them on a larger scale and scope. A bombard's body is usually made of brass or iron, which causes the bombard to resemble the shape of a large bell. While they are capable of moving very slowly, their [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) and weighty design means bombards usually remain stationary. This in turn means they're often used more defensively than offensively.
 
 ```ad-embed-ability
 title: **Aim** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")

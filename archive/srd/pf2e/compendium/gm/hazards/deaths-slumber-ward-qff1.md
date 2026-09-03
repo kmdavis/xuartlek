@@ -9,14 +9,14 @@ tags:
 aliases: ["Death's Slumber Ward"]
 ---
 # Death's Slumber Ward *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +16 expert  
 
 A whirlwind of four ephemeral, magical threads dispels the undead and shrouds the living in an endless slumber.
 
-- **Disable** DC 23 [Religion](compendium/skills.md#Religion) (expert) or DC 21 [Performance](compendium/skills.md#Performance) (trained) to dissipate one of the four threads. Characters who failed or critically failed a [Performance](compendium/skills.md#Performance) check to participate in Grandfather Eiwa's funeral in Chapter 1 have been able to reflect on the experience; these characters gain a +2 circumstance bonus to their [Performance](compendium/skills.md#Performance) checks to disable this trap. The trap is destroyed when all four threads are dissipated.  
+- **Disable** DC 23 [Religion](skills.md#Religion) (expert) or DC 21 [Performance](skills.md#Performance) (trained) to dissipate one of the four threads. Characters who failed or critically failed a [Performance](skills.md#Performance) check to participate in Grandfather Eiwa's funeral in Chapter 1 have been able to reflect on the experience; these characters gain a +2 circumstance bonus to their [Performance](skills.md#Performance) checks to disable this trap. The trap is destroyed when all four threads are dissipated.  
 
 ```ad-embed-ability
 title: **Breath of Pharasma** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md))

@@ -20,8 +20,8 @@ aliases: ["Lymnieris", "The Auroral Tower"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [longsword](compendium/equipment/items/longsword.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [passion](compendium/setting/domains.md#Passion), [protection](compendium/setting/domains.md#Protection), [repose](compendium/setting/domains.md#Repose)
-- **Cleric Spells**: 1st: [mage armor](compendium/spells/mage-armor.md); 3rd: [threefold aspect](compendium/spells/threefold-aspect-apg.md); 4th: [resilient sphere](compendium/spells/resilient-sphere.md)
+- **Favored Weapon**: [longsword](archive/srd/pf2e/compendium/equipment/items/longsword.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose)
+- **Cleric Spells**: 1st: [mage armor](mage-armor.md); 3rd: [threefold aspect](threefold-aspect-apg.md); 4th: [resilient sphere](resilient-sphere.md)

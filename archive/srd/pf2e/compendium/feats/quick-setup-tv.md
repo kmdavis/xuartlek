@@ -9,9 +9,9 @@ tags:
 aliases: ["Quick Setup"]
 ---
 # Quick Setup  *Feat 7*  
-[general](rules/traits/general.md "General Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: master in [Crafting](compendium/skills.md#Crafting)
+- **Prerequisites**: master in [Crafting](skills.md#Crafting)
 
 You have learned to setup simple crafting jobs with ease. Your setup time for consumables that are at least 6 levels lower than you is 1 day, and your setup time for permanent items 6 levels lower than you is 3 days.
 

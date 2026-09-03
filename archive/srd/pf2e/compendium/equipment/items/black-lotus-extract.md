@@ -12,11 +12,11 @@ tags:
 aliases: ["Black Lotus Extract"]
 ---
 # Black Lotus Extract *Item 19*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [virulent](rules/traits/virulent.md "Virulent Item Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [contact](archive/srd/pf2e/rules/traits/contact.md "Contact Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [virulent](archive/srd/pf2e/rules/traits/virulent.md "Virulent Item Trait")  
 
 - **Price** 6500 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Black lotus extract causes severe internal bleeding.
 

@@ -10,9 +10,9 @@ tags:
 aliases: ["Crushing Ground"]
 ---
 # Crushing Ground *Focus 1*   
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Reflex
@@ -23,8 +23,8 @@ You tear open the ground then slam it shut. The target creature takes `2d6` blud
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target takes half damage.
-> - **Failure** The target takes full damage, is [flat-footed](rules/conditions.md#Flat-footed), and takes a –10-foot circumstance penalty to Speed.
-> - **Critical Failure** The target takes double damage and is [flat-footed](rules/conditions.md#Flat-footed) and [immobilized](rules/conditions.md#Immobilized). It can attempt to [Escape](rules/actions/escape.md) against your spell DC. If it doesn't [Escape](rules/actions/escape.md), the target takes an additional `2d6` bludgeoning damage when the spell ends.
+> - **Failure** The target takes full damage, is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed), and takes a –10-foot circumstance penalty to Speed.
+> - **Critical Failure** The target takes double damage and is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) and [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized). It can attempt to [Escape](archive/srd/pf2e/rules/actions/escape.md) against your spell DC. If it doesn't [Escape](archive/srd/pf2e/rules/actions/escape.md), the target takes an additional `2d6` bludgeoning damage when the spell ends.
 
 **Heightened (+ 1)** Increase the initial damage and additional damage by `2d6`.
 

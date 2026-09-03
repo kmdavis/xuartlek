@@ -6,8 +6,8 @@ tags:
 - trait/evocation
 aliases: ["Telekinetic Assault"]
 ---
-# Telekinetic Assault [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+# Telekinetic Assault [>>](chapter-9-playing-the-game.md#Actions "Two-Action")
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  
 
 - **Activate**: Two-Action
 

@@ -8,14 +8,14 @@ tags:
 aliases: ["Seismic Spears Trap"]
 ---
 # Seismic Spears Trap *Hazard 19*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43 master  
 
-Lines of searing lava lance through the area, causing targets to shake as if caught in an earthquake and potentially become [petrified](rules/conditions.md#Petrified).
+Lines of searing lava lance through the area, causing targets to shake as if caught in an earthquake and potentially become [petrified](archive/srd/pf2e/rules/conditions.md#Petrified).
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 43 (master) to disable the wards or [dispel magic](compendium/spells/dispel-magic.md) (9th level; counteract DC 38) to counteract the ward.  
+- **Disable** [Thievery](skills.md#Thievery) DC 43 (master) to disable the wards or [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (9th level; counteract DC 38) to counteract the ward.  
 
 ```ad-embed-ability
 title: **Cataclysmic Rain** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [earth](rules/traits/earth.md), [fire](rules/traits/fire.md))

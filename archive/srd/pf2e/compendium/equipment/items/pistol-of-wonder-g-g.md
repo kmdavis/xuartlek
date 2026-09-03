@@ -11,7 +11,7 @@ tags:
 aliases: ["Pistol Of Wonder"]
 ---
 # Pistol Of Wonder *Item 13*  
-[chaotic](rules/traits/chaotic.md "Chaotic Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[chaotic](chaotic.md "Chaotic Alignment Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 3000 gp
 - **Bulk** L; **Usage** held in 1 hand

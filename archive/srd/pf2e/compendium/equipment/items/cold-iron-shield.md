@@ -20,13 +20,13 @@ Cold iron shields don't typically have an additional effect, though when used fo
 
 - **Price**: 30 gp
 
-[Craft](rules/actions/craft.md) Bulk L; Requirements cold iron worth at least 15 sp The shield has Hardness 3, HP 12, and BT 6.
+[Craft](archive/srd/pf2e/rules/actions/craft.md) Bulk L; Requirements cold iron worth at least 15 sp The shield has Hardness 3, HP 12, and BT 6.
 
 #### low-grade cold iron shield *Item 2*
 
 - **Price**: 34 gp
 
-[Craft](rules/actions/craft.md) Bulk 1; Requirements cold iron worth at least 17 sp The shield has Hardness 5, HP 20, and BT 10.
+[Craft](archive/srd/pf2e/rules/actions/craft.md) Bulk 1; Requirements cold iron worth at least 17 sp The shield has Hardness 5, HP 20, and BT 10.
 
 #### standard-grade cold iron buckler *Item 7*
 

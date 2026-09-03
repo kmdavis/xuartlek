@@ -7,7 +7,7 @@ tags:
 aliases: ["Core Attunement"]
 ---
 # Core Attunement  *Feat 9*  
-[automaton](rules/traits/automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
+[automaton](automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
 
 - **Prerequisites**: mage automaton
 

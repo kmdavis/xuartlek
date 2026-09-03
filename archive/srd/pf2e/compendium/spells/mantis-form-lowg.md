@@ -10,9 +10,9 @@ tags:
 aliases: ["Mantis Form"]
 ---
 # Mantis Form *Focus 4*   
-[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 1 minute
 

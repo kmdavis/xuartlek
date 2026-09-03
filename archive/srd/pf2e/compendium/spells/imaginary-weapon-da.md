@@ -13,9 +13,9 @@ tags:
 aliases: ["Imaginary Weapon"]
 ---
 # Imaginary Weapon *Cantrip 1*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](evocation.md "Evocation School Trait")  [force](archive/srd/pf2e/rules/traits/force.md "Force Energy & Element Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 
@@ -25,7 +25,7 @@ You create a simple weapon of force. Make a melee spell attack roll against your
 
 ## Amp
 
-You form multiple force weapons to lash out at multiple foes. You make two imaginary weapon [Strikes](rules/actions/strike.md), each against a different target. Your multiple attack penalty doesn't increase until you've made both [Strikes](rules/actions/strike.md).
+You form multiple force weapons to lash out at multiple foes. You make two imaginary weapon [Strikes](archive/srd/pf2e/rules/actions/strike.md), each against a different target. Your multiple attack penalty doesn't increase until you've made both [Strikes](archive/srd/pf2e/rules/actions/strike.md).
 
 **Amp Heightened (+ 1)** The damage increases by `2d8` instead of `1d8`.
 

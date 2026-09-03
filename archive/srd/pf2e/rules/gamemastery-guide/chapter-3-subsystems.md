@@ -138,7 +138,7 @@ The values also depend on various factors. These might include the DCs, the numb
 
 When running your new subsystem, be sure to keep the challenges fresh by using a variety of different skills and options to encourage creativity and cooperation, rather than just using the same check over and over again, where PCs can expect diminishing returns. You can also use timers to encourage each PC to participate or even create mechanics that directly encourage each PC to participate, like setting penalties for the same PC attempting checks repeatedly, or for two PCs attempting the same check.
 
-You can even have challenges that require all the PCs to participate. For instance, if the party's host is welcoming every guest individually, each PC might have to make an impression in their own way, or during infiltration, each PC might have to test their ability to [Impersonate](rules/actions/impersonate.md) or [Sneak](rules/actions/sneak.md). You'll likely find that some approaches should be automatic successes if they're well-suited to the task, or automatic failures for ideas that are likely impossible.
+You can even have challenges that require all the PCs to participate. For instance, if the party's host is welcoming every guest individually, each PC might have to make an impression in their own way, or during infiltration, each PC might have to test their ability to [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md) or [Sneak](archive/srd/pf2e/rules/actions/sneak.md). You'll likely find that some approaches should be automatic successes if they're well-suited to the task, or automatic failures for ideas that are likely impossible.
 
 ### Rewards
 <sup>GMG p. 150</sup>
@@ -150,7 +150,7 @@ How you structure rewards for your subsystem depends greatly on its scope. A sub
 
 Influence is a short-term subsystem wherein the PCs accumulate Influence Points during a social encounter with an NPC to represent their increasing influence.
 
-These encounters are a race against the clock to reach Influence Point thresholds in order to sway the NPC. It's perfect for a single social gathering—whether it's a party, a treaty negotiation, or even an attempt to persuade various members of a panel of judges. Because of the variety of Influence skill options and the ability to use [Perception](compendium/skills.md#Perception) to uncover more information, every character has something important to contribute in the influence subsystem, as opposed to situations where only one character has [Diplomacy](compendium/skills.md#Diplomacy).
+These encounters are a race against the clock to reach Influence Point thresholds in order to sway the NPC. It's perfect for a single social gathering—whether it's a party, a treaty negotiation, or even an attempt to persuade various members of a panel of judges. Because of the variety of Influence skill options and the ability to use [Perception](skills.md#Perception) to uncover more information, every character has something important to contribute in the influence subsystem, as opposed to situations where only one character has [Diplomacy](skills.md#Diplomacy).
 
 The influence subsystem divides a social encounter into rounds, with the number of rounds representing the length of the social event. Rounds last any amount of time that you determine, depending on the needs of the narrative, though somewhere between 15 minutes and an hour is typical. During each round, each PC can act once to either Influence or Discover.
 
@@ -185,9 +185,9 @@ You watch or study an NPC to learn more about that NPC's preferences. Choose an 
 
 NPCs in the influence subsystem have little need for many of the statistics you'll find in an ordinary creature stat block. However, it might help you to prepare for the social encounter by creating an influence stat block for each prominent NPC. These are optional; if you can keep most information straight in your head, you might skip this step or just write down the first three categories to keep the numbers straight.
 
-Influence stat blocks are flexible and contain only the stats that you are essential to running the NPC during a social encounter, leaving the rest out. The main stats that matter are the NPC's [Perception](compendium/skills.md#Perception) and Will modifiers.
+Influence stat blocks are flexible and contain only the stats that you are essential to running the NPC during a social encounter, leaving the rest out. The main stats that matter are the NPC's [Perception](skills.md#Perception) and Will modifiers.
 
-After the influence stat block, you might want to list important information to help you roleplay the NPC and incorporate the NPC into your influence encounter. You can list any of the following details that are relevant to your NPC: their background (a brief bio focusing on information relevant to the encounter), appearance, personality (this can just be a list of adjectives), affiliations, public goals, [hidden](rules/conditions.md#Hidden) agendas, or the penalty for antagonizing the NPC (or possibly for failing to Influence the NPC, depending on the way you structure the encounter)
+After the influence stat block, you might want to list important information to help you roleplay the NPC and incorporate the NPC into your influence encounter. You can list any of the following details that are relevant to your NPC: their background (a brief bio focusing on information relevant to the encounter), appearance, personality (this can just be a list of adjectives), affiliations, public goals, [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) agendas, or the penalty for antagonizing the NPC (or possibly for failing to Influence the NPC, depending on the way you structure the encounter)
 
 ```ad-pf2-note
 title: NPC Name
@@ -217,7 +217,7 @@ When setting DCs, it's often good to start with a "social level" for the NPC and
 
 Use the DC adjustments from page 504 of the _Core Rulebook_ just like you normally would. A good starting place is setting the NPC's Will modifier, then taking that DC and adjusting it for skills that are more or less likely to work.
 
-For instance, for a 3rd-level challenge, you might give an NPC a +12 Will modifier and use 22 as the base DC. You might say that's the DC for [Diplomacy](compendium/skills.md#Diplomacy) but then determine that the NPC is difficult to intimidate, and so you apply the hard DC adjustment to make the [Intimidation](compendium/skills.md#Intimidation) DC 24. Maybe you also determine that she loves different varieties of wine, resulting in an incredibly easy DC adjustment to get DC 12 for [Alcohol Lore](compendium/skills.md#Lore).
+For instance, for a 3rd-level challenge, you might give an NPC a +12 Will modifier and use 22 as the base DC. You might say that's the DC for [Diplomacy](skills.md#Diplomacy) but then determine that the NPC is difficult to intimidate, and so you apply the hard DC adjustment to make the [Intimidation](skills.md#Intimidation) DC 24. Maybe you also determine that she loves different varieties of wine, resulting in an incredibly easy DC adjustment to get DC 12 for [Alcohol Lore](skills.md#Lore).
 
 > [!pf2-brown] SAMPLE STAT BLOCK
 > 
@@ -285,7 +285,7 @@ You comb through information to learn more about the topic at hand. Choose your 
 ### Building a Library
 <sup>GMG p. 154</sup>
 
-"Library" is the general term the research subsystem uses to designate the setting of the PCs' research. Despite the name, the library doesn't necessarily consist of a quiet hall full of books. It could be an Astral memory palace, a collection of iconographic artwork, or even a group the party is questioning. In most cases, to engage the whole party and add a little decision-making to the research, you'll want to give your research topic or library at least one variable or subdivision that the PCs need to decide how to handle. For instance, you might give the PCs three different research topics to study, each using different skills and providing different rewards. The library might have several rooms or sections with different challenges to research, allowing you to reward PCs with skills that aren't typically associated with research; perhaps the books on aeromancy are all flying above the top shelves of towering bookcases, requiring a round of [Athletics](compendium/skills.md#Athletics) checks to represent climbing up and down ladders to retrieve them and reach the first threshold. A variety of skills and decisions, along with vivid descriptions, are the key to an engaging and memorable research session, rather than just a string of die rolls by the wizard.
+"Library" is the general term the research subsystem uses to designate the setting of the PCs' research. Despite the name, the library doesn't necessarily consist of a quiet hall full of books. It could be an Astral memory palace, a collection of iconographic artwork, or even a group the party is questioning. In most cases, to engage the whole party and add a little decision-making to the research, you'll want to give your research topic or library at least one variable or subdivision that the PCs need to decide how to handle. For instance, you might give the PCs three different research topics to study, each using different skills and providing different rewards. The library might have several rooms or sections with different challenges to research, allowing you to reward PCs with skills that aren't typically associated with research; perhaps the books on aeromancy are all flying above the top shelves of towering bookcases, requiring a round of [Athletics](skills.md#Athletics) checks to represent climbing up and down ladders to retrieve them and reach the first threshold. A variety of skills and decisions, along with vivid descriptions, are the key to an engaging and memorable research session, rather than just a string of die rolls by the wizard.
 
 #### Choosing Thresholds
 <sup>GMG p. 154</sup>
@@ -323,7 +323,7 @@ When running the research subsystem, think about the two factors that set the pa
 
 > [!pf2-brown] SAMPLE STAT BLOCK
 > 
-> In this example, the PCs are trying to research [hidden](rules/conditions.md#Hidden) occult secrets about hags known only to the fey of a strange sylvan library. It's a 7th-level challenge. If you'd like to use this sample library for a different research topic, just change the results of each threshold and replace any [Occultism](compendium/skills.md#Occultism) Research checks with checks appropriate to the new topic!
+> In this example, the PCs are trying to research [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) occult secrets about hags known only to the fey of a strange sylvan library. It's a 7th-level challenge. If you'd like to use this sample library for a different research topic, just change the results of each threshold and replace any [Occultism](skills.md#Occultism) Research checks with checks appropriate to the new topic!
 > 
 > ```ad-pf2-note
 > title: Gade of Forgotten Time *Library 7*
@@ -378,7 +378,7 @@ These obstacles aren't separated by specific distances; the distance is narrativ
 
 Each obstacle requires a certain number of Chase Points to overcome—typically 1 per party member for a standard obstacle, though particularly challenging obstacles might require more (listed in an obstacle's Chase Points entry)
 
-Typically, there are multiple ways to overcome an obstacle; for example, characters could evade a guard or bribe them to look away. Each approach typically requires a skill check or [Perception](compendium/skills.md#Perception) check, but sometimes a saving throw, an attack roll, or something even more unusual, like a casting a certain spell (listed in an obstacle's Overcome entry)
+Typically, there are multiple ways to overcome an obstacle; for example, characters could evade a guard or bribe them to look away. Each approach typically requires a skill check or [Perception](skills.md#Perception) check, but sometimes a saving throw, an attack roll, or something even more unusual, like a casting a certain spell (listed in an obstacle's Overcome entry)
 
 On a character's turn, they describe what they do to help the group get past the obstacle. They then attempt any required roll, or perform the required action for a choice without a check. If they attempt a roll, the result determines how many Chase Points the character gains.
 
@@ -389,7 +389,7 @@ On a character's turn, they describe what they do to help the group get past the
 
 If the means of bypassing the obstacle helps automatically without requiring a check—such as using a certain spell to assist—the PCs typically get 1 Chase Point. You can increase that to 2 if you feel the action is extremely helpful.
 
-Chase Points represent the ability of the whole group to bypass the obstacle. A character who critically succeeds is able to help the other characters continue onward, while one who critically fails needs extra assistance. Players often have ideas for ways to overcome the obstacle beyond the choices you created for the obstacle. If their idea is applicable, you'll need to determine the DC and skill or other statistic being used for that approach. This is great as long as it's creative, but be wary of a situation where a character who is legendary at a skill tries to justify how they can bypass every obstacle with that skill, such as using [Acrobatics](compendium/skills.md#Acrobatics) to tumble around them all, or the like. You can determine that some tactics just won't work against certain obstacles, or would help only one character without benefiting the rest and therefore aren't all that useful.
+Chase Points represent the ability of the whole group to bypass the obstacle. A character who critically succeeds is able to help the other characters continue onward, while one who critically fails needs extra assistance. Players often have ideas for ways to overcome the obstacle beyond the choices you created for the obstacle. If their idea is applicable, you'll need to determine the DC and skill or other statistic being used for that approach. This is great as long as it's creative, but be wary of a situation where a character who is legendary at a skill tries to justify how they can bypass every obstacle with that skill, such as using [Acrobatics](skills.md#Acrobatics) to tumble around them all, or the like. You can determine that some tactics just won't work against certain obstacles, or would help only one character without benefiting the rest and therefore aren't all that useful.
 
 Once the PCs accumulate enough Chase Points to overcome the obstacle, they immediately move to the next. Extra Chase Points don't carry over to the next obstacle—each requires its own number of Chase Points to overcome. However, anyone who hasn't already taken their turn that round can still take it against the new obstacle. Consequently, the characters best suited to overcoming the current obstacle might act first, since the remaining characters might be better suited against the next one. The number of Chase Points the PCs have can never fall below 0.
 
@@ -410,7 +410,7 @@ Throngs of people crowd the streets, making it difficult to continue the chase.
 
 When building a chase, first build your obstacles and then decide how far ahead the pursued character or characters begin and at what pace the NPCs will move. Having the NPCs clear one obstacle per round is a good rule of thumb, but it could vary depending on the situation, and should especially be slower against obstacles that require more than 1 Chase Point per character to overcome.
 
-Select or build obstacles highlighting a variety of different skills and other options so everyone in the party has a moment to shine. When choosing what skills can bypass a given obstacle, ensure a variety of approaches can work. If you've already decided that an obstacle uses [Stealth](compendium/skills.md#Stealth), selecting [Thievery](compendium/skills.md#Thievery) as the other option doesn't really offer opportunities for different types of characters, since those who are good at [Thievery](compendium/skills.md#Thievery) are very likely the same ones who are good at [Stealth](compendium/skills.md#Stealth). On the other hand, offering [Athletics](compendium/skills.md#Athletics) as an alternative gives a champion who's terrible at [Stealth](compendium/skills.md#Stealth) a way to help. The group can help cover for a character who is less capable at a particular obstacle, but it's more fun for players to present substantially different options for each obstacle.
+Select or build obstacles highlighting a variety of different skills and other options so everyone in the party has a moment to shine. When choosing what skills can bypass a given obstacle, ensure a variety of approaches can work. If you've already decided that an obstacle uses [Stealth](skills.md#Stealth), selecting [Thievery](skills.md#Thievery) as the other option doesn't really offer opportunities for different types of characters, since those who are good at [Thievery](skills.md#Thievery) are very likely the same ones who are good at [Stealth](skills.md#Stealth). On the other hand, offering [Athletics](skills.md#Athletics) as an alternative gives a champion who's terrible at [Stealth](skills.md#Stealth) a way to help. The group can help cover for a character who is less capable at a particular obstacle, but it's more fun for players to present substantially different options for each obstacle.
 
 Use the following guidelines to determine how many obstacles you need for your chase. These numbers assume that the pursued party can reach a certain location to end the chase (as described in Ending Chases). If there's no such escape, you might need more obstacles.
 
@@ -428,7 +428,7 @@ When you set the DCs for an obstacle, you'll typically be using simple DCs. Use 
 #### Shortcuts and Split Paths
 <sup>GMG p. 157</sup>
 
-You might want to build a chase with multiple paths that split and rejoin so you can have a shortcut (with easier DCs or fewer obstacles) or paths that appeal to different types of characters. For instance, one obstacle might allow a PC who critically succeeds at a [Perception](compendium/skills.md#Perception) check to find a faster path along a canal, without the obstacles of a busy street. This can be fun, but can also split up the group. Familiarize yourself with the Solo Chases sidebar above to make similar adjustments for a divided group.
+You might want to build a chase with multiple paths that split and rejoin so you can have a shortcut (with easier DCs or fewer obstacles) or paths that appeal to different types of characters. For instance, one obstacle might allow a PC who critically succeeds at a [Perception](skills.md#Perception) check to find a faster path along a canal, without the obstacles of a busy street. This can be fun, but can also split up the group. Familiarize yourself with the Solo Chases sidebar above to make similar adjustments for a divided group.
 
 > [!pf2-brown] SOLO CHASES
 > 
@@ -473,29 +473,29 @@ Sometimes despite their best efforts, an obstacle will stymie the PCs over and o
 
 You can use the following obstacles in your chases, which are organized by environment. The name is followed by the level of group they're best suited for, and many include both a basic version for lower levels and a higher-level version.
 
-| Crumbling Corridor (1st) | DC 13 [Acrobatics](compendium/skills.md#Acrobatics) to avoid disturbing the walls, DC 15 [Crafting](compendium/skills.md#Crafting) to shore up the walls; **Quaking Corridor (11th)** DC 25 [Acrobatics](compendium/skills.md#Acrobatics), DC 30 [Crafting](compendium/skills.md#Crafting) |
-| Fungus Grotto (1st) | DC 15 Fortitude to endure poisonous spore, DC 13 [Survival](compendium/skills.md#Survival) to avoid the mushrooms; **Virulent Fungi (5th)** DC 20 Fortitude, DC 18 [Survival](compendium/skills.md#Survival) |
-| Pit Trap (1st) | DC 13 [Athletics](compendium/skills.md#Athletics) to quickly climb out, DC 15 Perception to spot the trap before it's triggered; **Exceptional Pit Trap (5th)** DC 20 [Athletics](compendium/skills.md#Athletics), DC 18 Perception |
-| Wandering Gelatinous Cube (1st) | DC 18 [Occultism](compendium/skills.md#Occultism) to identify its deficiencies, DC 15 [Stealth](compendium/skills.md#Stealth) to sneak past; **Wandering Black Pudding (7th)** DC 24 [Occultism](compendium/skills.md#Occultism), DC 19 [Stealth](compendium/skills.md#Stealth) |
-| Collapsed Tunnel (5th) | DC 20 [Athletics](compendium/skills.md#Athletics) to dig through, DC 18 Perception to find a secret door around; Ancient Collapse (12th) DC 30 [Athletics](compendium/skills.md#Athletics), DC 28 Perception |
-| Pendulum Trap (5th) | DC 20 Reflex to dodge the blades, DC 15 [Thievery](compendium/skills.md#Thievery) to disable the tap; **Panoply of Pendulums (12th)** DC 30 Reflex, DC 28 [Thievery](compendium/skills.md#Thievery) |
-| Wooden Portcullis (8th) | DC 25 [Acrobatics](compendium/skills.md#Acrobatics) to squeeze through, DC 20 [Athletics](compendium/skills.md#Athletics) to lift the gate; **Iron Portcullis (11th)** DC 25 [Acrobatics](compendium/skills.md#Acrobatics), DC 30 [Athletics](compendium/skills.md#Athletics) |
+| Crumbling Corridor (1st) | DC 13 [Acrobatics](skills.md#Acrobatics) to avoid disturbing the walls, DC 15 [Crafting](skills.md#Crafting) to shore up the walls; **Quaking Corridor (11th)** DC 25 [Acrobatics](skills.md#Acrobatics), DC 30 [Crafting](skills.md#Crafting) |
+| Fungus Grotto (1st) | DC 15 Fortitude to endure poisonous spore, DC 13 [Survival](skills.md#Survival) to avoid the mushrooms; **Virulent Fungi (5th)** DC 20 Fortitude, DC 18 [Survival](skills.md#Survival) |
+| Pit Trap (1st) | DC 13 [Athletics](skills.md#Athletics) to quickly climb out, DC 15 Perception to spot the trap before it's triggered; **Exceptional Pit Trap (5th)** DC 20 [Athletics](skills.md#Athletics), DC 18 Perception |
+| Wandering Gelatinous Cube (1st) | DC 18 [Occultism](skills.md#Occultism) to identify its deficiencies, DC 15 [Stealth](skills.md#Stealth) to sneak past; **Wandering Black Pudding (7th)** DC 24 [Occultism](skills.md#Occultism), DC 19 [Stealth](skills.md#Stealth) |
+| Collapsed Tunnel (5th) | DC 20 [Athletics](skills.md#Athletics) to dig through, DC 18 Perception to find a secret door around; Ancient Collapse (12th) DC 30 [Athletics](skills.md#Athletics), DC 28 Perception |
+| Pendulum Trap (5th) | DC 20 Reflex to dodge the blades, DC 15 [Thievery](skills.md#Thievery) to disable the tap; **Panoply of Pendulums (12th)** DC 30 Reflex, DC 28 [Thievery](skills.md#Thievery) |
+| Wooden Portcullis (8th) | DC 25 [Acrobatics](skills.md#Acrobatics) to squeeze through, DC 20 [Athletics](skills.md#Athletics) to lift the gate; **Iron Portcullis (11th)** DC 25 [Acrobatics](skills.md#Acrobatics), DC 30 [Athletics](skills.md#Athletics) |
 
-| Crowd (1st) | DC 15 [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics) to weave or push through, DC 13 [Society](compendium/skills.md#Society) to follow the flow; **Festival Crowd (4th)** DC 20 [Athletics](compendium/skills.md#Athletics), DC 18 [Society](compendium/skills.md#Society) |
-| Fruit Cart (1st) | DC 13 [Athletics](compendium/skills.md#Athletics) to vault over or smash through, DC 15 [Intimidation](compendium/skills.md#Intimidation) to make the merchant move it; **Merchant Pavilion (5th)** DC 20 [Athletics](compendium/skills.md#Athletics), DC 22 [Intimidation](compendium/skills.md#Intimidation) |
-| Guard Dog (1st) | DC 14 [Nature](compendium/skills.md#Nature) to calm, DC 16 [Stealth](compendium/skills.md#Stealth) to sneak past; **Guard Roc (9th)** DC 26 [Nature](compendium/skills.md#Nature), DC 28 [Stealth](compendium/skills.md#Stealth) |
-| Rickety Rooftops (1st) | DC 15 [Acrobatics](compendium/skills.md#Acrobatics) to cross clotheslines, DC 13 [Athletics](compendium/skills.md#Athletics) to jump from roof to roof; **Crumbling, Steep Rooftops (5th)** DC 18 [Acrobatics](compendium/skills.md#Acrobatics), DC 20 [Athletics](compendium/skills.md#Athletics) |
-| Wooden Fence (1st) | DC 13 [Athletics](compendium/skills.md#Athletics) to climb over, DC 15 [Thievery](compendium/skills.md#Thievery) to unlock a gate; **High Iron Fence (8th)** DC 20 [Athletics](compendium/skills.md#Athletics), DC 25 [Thievery](compendium/skills.md#Thievery) |
-| Gang of Hooligans (2nd) | DC 13 [Deception](compendium/skills.md#Deception) to trick, DC 15 [Stealth](compendium/skills.md#Stealth) to sneak past; **Elite Criminals (12th)** DC 28 [Deception](compendium/skills.md#Deception), DC 30 [Stealth](compendium/skills.md#Stealth) |
-| Twisting Alleyways (2nd) | DC 17 Perception to find a path, DC 13 [Society](compendium/skills.md#Society) to recall a map; **Multi-Story Maze (7th)** DC 22 Perception, DC 20 [Society](compendium/skills.md#Society) |
+| Crowd (1st) | DC 15 [Acrobatics](skills.md#Acrobatics) or [Athletics](skills.md#Athletics) to weave or push through, DC 13 [Society](skills.md#Society) to follow the flow; **Festival Crowd (4th)** DC 20 [Athletics](skills.md#Athletics), DC 18 [Society](skills.md#Society) |
+| Fruit Cart (1st) | DC 13 [Athletics](skills.md#Athletics) to vault over or smash through, DC 15 [Intimidation](skills.md#Intimidation) to make the merchant move it; **Merchant Pavilion (5th)** DC 20 [Athletics](skills.md#Athletics), DC 22 [Intimidation](skills.md#Intimidation) |
+| Guard Dog (1st) | DC 14 [Nature](skills.md#Nature) to calm, DC 16 [Stealth](skills.md#Stealth) to sneak past; **Guard Roc (9th)** DC 26 [Nature](skills.md#Nature), DC 28 [Stealth](skills.md#Stealth) |
+| Rickety Rooftops (1st) | DC 15 [Acrobatics](skills.md#Acrobatics) to cross clotheslines, DC 13 [Athletics](skills.md#Athletics) to jump from roof to roof; **Crumbling, Steep Rooftops (5th)** DC 18 [Acrobatics](skills.md#Acrobatics), DC 20 [Athletics](skills.md#Athletics) |
+| Wooden Fence (1st) | DC 13 [Athletics](skills.md#Athletics) to climb over, DC 15 [Thievery](skills.md#Thievery) to unlock a gate; **High Iron Fence (8th)** DC 20 [Athletics](skills.md#Athletics), DC 25 [Thievery](skills.md#Thievery) |
+| Gang of Hooligans (2nd) | DC 13 [Deception](skills.md#Deception) to trick, DC 15 [Stealth](skills.md#Stealth) to sneak past; **Elite Criminals (12th)** DC 28 [Deception](skills.md#Deception), DC 30 [Stealth](skills.md#Stealth) |
+| Twisting Alleyways (2nd) | DC 17 Perception to find a path, DC 13 [Society](skills.md#Society) to recall a map; **Multi-Story Maze (7th)** DC 22 Perception, DC 20 [Society](skills.md#Society) |
 
-| Deep Mud (1st) | DC 15 [Athletics](compendium/skills.md#Athletics) to slog through, DC 13 Perception to find a path; **Horrid Bog (5th)** DC 20 [Athletics](compendium/skills.md#Athletics), DC 18 Perception |
-| Downpour (1st) | DC 13 Fortitude to push through, DC 15 [Nature](compendium/skills.md#Nature) to predict the weather; **Magical Thunderstorm (5th)** DC 30 Fortitude, DC 25 [Nature](compendium/skills.md#Nature) |
-| Rope Bridge (1st) | DC 15 [Acrobatics](compendium/skills.md#Acrobatics) to cross carefully, DC 13 [Crafting](compendium/skills.md#Crafting) to make repairs; **Solitary Frayed Rope (11th)** DC 25 [Acrobatics](compendium/skills.md#Acrobatics), DC 30 [Crafting](compendium/skills.md#Crafting) |
-| Rushing River (1st) | DC 15 [Athletics](compendium/skills.md#Athletics) to swim or hop across stones, DC 13 [Survival](compendium/skills.md#Survival) to find a ford nearby;**Flash Flood (5th)** DC 20 [Athletics](compendium/skills.md#Athletics), DC 18 [Survival](compendium/skills.md#Survival) |
-| Steep Hills (1st) | DC 13 [Athletics](compendium/skills.md#Athletics) to climb across, DC 15 Perception to find easier path; **Rugged Mountain (5th)** DC 20 [Athletics](compendium/skills.md#Athletics), DC 18 Perception |
-| Swarm of Wasps (1st) | DC 15 Fortitude to endure stings, DC 13 [Survival](compendium/skills.md#Survival) to smoke them out; **Those Aren't Wasps! (5th)** DC 20 Fortitude, DC 18 [Survival](compendium/skills.md#Survival) |
-| Tangled Forest (2nd) | DC 17 Perception to find the way, DC 13 [Survival](compendium/skills.md#Survival) to plot a path; **Enchanted Forest (5th)** DC 20 Perception, DC 18 [Survival](compendium/skills.md#Survival) |
+| Deep Mud (1st) | DC 15 [Athletics](skills.md#Athletics) to slog through, DC 13 Perception to find a path; **Horrid Bog (5th)** DC 20 [Athletics](skills.md#Athletics), DC 18 Perception |
+| Downpour (1st) | DC 13 Fortitude to push through, DC 15 [Nature](skills.md#Nature) to predict the weather; **Magical Thunderstorm (5th)** DC 30 Fortitude, DC 25 [Nature](skills.md#Nature) |
+| Rope Bridge (1st) | DC 15 [Acrobatics](skills.md#Acrobatics) to cross carefully, DC 13 [Crafting](skills.md#Crafting) to make repairs; **Solitary Frayed Rope (11th)** DC 25 [Acrobatics](skills.md#Acrobatics), DC 30 [Crafting](skills.md#Crafting) |
+| Rushing River (1st) | DC 15 [Athletics](skills.md#Athletics) to swim or hop across stones, DC 13 [Survival](skills.md#Survival) to find a ford nearby;**Flash Flood (5th)** DC 20 [Athletics](skills.md#Athletics), DC 18 [Survival](skills.md#Survival) |
+| Steep Hills (1st) | DC 13 [Athletics](skills.md#Athletics) to climb across, DC 15 Perception to find easier path; **Rugged Mountain (5th)** DC 20 [Athletics](skills.md#Athletics), DC 18 Perception |
+| Swarm of Wasps (1st) | DC 15 Fortitude to endure stings, DC 13 [Survival](skills.md#Survival) to smoke them out; **Those Aren't Wasps! (5th)** DC 20 Fortitude, DC 18 [Survival](skills.md#Survival) |
+| Tangled Forest (2nd) | DC 17 Perception to find the way, DC 13 [Survival](skills.md#Survival) to plot a path; **Enchanted Forest (5th)** DC 20 Perception, DC 18 [Survival](skills.md#Survival) |
 
 ## Infiltration
 <sup>GMG p. 160</sup>
@@ -512,7 +512,7 @@ When creating an infiltration, you'll want to start with the party's broad goals
 #### Objective
 <sup>GMG p. 160</sup>
 
-The first thing you'll need to determine is the party's objective, or broad goal. Maybe the PCs need to find their way into some [hidden](rules/conditions.md#Hidden) sanctum, find a particular person within an organization, locate and get away with a bit of treasure, or plant a piece of evidence. An infiltration can consist of a single objective, but a more complex one might include two or more objectives in sequence—the PCs might first need to find a way to enter the cult's sanctum, then open the vault, and then escape with the relic.
+The first thing you'll need to determine is the party's objective, or broad goal. Maybe the PCs need to find their way into some [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) sanctum, find a particular person within an organization, locate and get away with a bit of treasure, or plant a piece of evidence. An infiltration can consist of a single objective, but a more complex one might include two or more objectives in sequence—the PCs might first need to find a way to enter the cult's sanctum, then open the vault, and then escape with the relic.
 
 To achieve an objective, the PCs must overcome a certain number of obstacles—specific challenges the PCs face, such as getting across a moat or past a nosy butler. For a simple objective, they might need to overcome only one or two obstacles, while a more complex one might require several.
 
@@ -525,7 +525,7 @@ While the characters are pursuing their objectives, however, they need to avoid 
 #### Obstacles
 <sup>GMG p. 160</sup>
 
-Each obstacle has certain statistics that define how it works in play. Infiltration Points (IP) represent a character's progress toward overcoming an obstacle. Each obstacle requires gaining a certain number of Infiltration Points to overcome—typically 1 or 2, but some challenging obstacles might require more. PCs can gain Infiltration Points in multiple ways—usually through a skill or [Perception](compendium/skills.md#Perception) check, but sometimes another roll or even the use of a spell or item. These methods are listed in the obstacle's Overcome entry. Unlike obstacles for chases, these use a difficulty band for the PCs' level, rather than using set DCs.
+Each obstacle has certain statistics that define how it works in play. Infiltration Points (IP) represent a character's progress toward overcoming an obstacle. Each obstacle requires gaining a certain number of Infiltration Points to overcome—typically 1 or 2, but some challenging obstacles might require more. PCs can gain Infiltration Points in multiple ways—usually through a skill or [Perception](skills.md#Perception) check, but sometimes another roll or even the use of a spell or item. These methods are listed in the obstacle's Overcome entry. Unlike obstacles for chases, these use a difficulty band for the PCs' level, rather than using set DCs.
 
 The Overcome entry also lists whether the PCs need to overcome an object individually or as a group. For individual obstacles, each PC needs to earn the required number of Infiltration Points themself, while for group obstacles, all PCs working toward that obstacle pool their Infiltration Points toward it together. For example, each PC trying to scale a wall needs to earn points on their own, but the PCs could work together to search a guildhall for clues, and once one PC has picked a lock, everyone can enter.
 
@@ -542,7 +542,7 @@ On a character's turn, the character describes what they do to get past the obst
 > - **Failure** The PCs accrue 1 Awareness Point.
 > - **Critical Failure** The PCs accrue 2 Awareness Points.
 
-If the character's actions automatically help without requiring a check, like using a spell, they usually gain 1 IP, but you can award 2 for particularly [helpful](rules/conditions.md#Helpful) actions.
+If the character's actions automatically help without requiring a check, like using a spell, they usually gain 1 IP, but you can award 2 for particularly [helpful](archive/srd/pf2e/rules/conditions.md#Helpful) actions.
 
 Sometimes a PC might become stuck on an individual obstacle. Some opportunities (page 162) allow PCs to spend their turn helping others overcome a tricky obstacle.
 
@@ -591,7 +591,7 @@ A trap bars the characters' passage. This obstacle follows the normal degrees of
 
 > [!pf2-brown] SETTING INFILTRATION SKILLS AND DCS
 > 
-> Many of the sample infiltration activities and events give a DC range instead of a fixed DC. Set the DCs based on the standard DC of the party level using the table on page 503 of the Core Rulebook, and adjust them using Table 10–6: DC Adjustments on page 504. When given a range of skills for an activity or event, you should vary the difficulty based on the needs of the story. For instance, if a PC is Scouting a Location, you might want to use a low DC for [Stealth](compendium/skills.md#Stealth) (because it's easier to scout when [unnoticed](rules/conditions.md#Unnoticed)), a hard one for [Perception](compendium/skills.md#Perception) (because while the PC might see the enemy, the enemy might also see them), and a very hard DC for [Society](compendium/skills.md#Society) (because walking in like you belong is difficult if you don't have an invitation or the right uniform). This not only adds a certain degree of plausibility, but by planning for and allowing a broad range of skills as means to complete the activity, you also become better prepared for when your players improvise.
+> Many of the sample infiltration activities and events give a DC range instead of a fixed DC. Set the DCs based on the standard DC of the party level using the table on page 503 of the Core Rulebook, and adjust them using Table 10–6: DC Adjustments on page 504. When given a range of skills for an activity or event, you should vary the difficulty based on the needs of the story. For instance, if a PC is Scouting a Location, you might want to use a low DC for [Stealth](skills.md#Stealth) (because it's easier to scout when [unnoticed](archive/srd/pf2e/rules/conditions.md#Unnoticed)), a hard one for [Perception](skills.md#Perception) (because while the PC might see the enemy, the enemy might also see them), and a very hard DC for [Society](skills.md#Society) (because walking in like you belong is difficult if you don't have an invitation or the right uniform). This not only adds a certain degree of plausibility, but by planning for and allowing a broad range of skills as means to complete the activity, you also become better prepared for when your players improvise.
 
 #### Awareness Points
 <sup>GMG p. 161</sup>
@@ -819,32 +819,32 @@ This is the default for most PCs with most groups, and it carries no special ben
 #### Liked
 <sup>GMG p. 164</sup>
 
-The PCs have gained this group's favor. Many members of the group know about the PCs, and those who do are usually [friendly](rules/conditions.md#Friendly) to them. At this reputation, only moderate and major favors accrue Reputation Points; it takes more to impress the group further.
+The PCs have gained this group's favor. Many members of the group know about the PCs, and those who do are usually [friendly](archive/srd/pf2e/rules/conditions.md#Friendly) to them. At this reputation, only moderate and major favors accrue Reputation Points; it takes more to impress the group further.
 
 #### Admired
 <sup>GMG p. 164</sup>
 
-The PCs have earned this group's admiration. The majority of the group knows about the PCs and have an extremely favorable opinion toward them. Many members of the group are [helpful](rules/conditions.md#Helpful) toward the PCs, and those who aren't are [friendly](rules/conditions.md#Friendly). Only major favors accrue Reputation Points.
+The PCs have earned this group's admiration. The majority of the group knows about the PCs and have an extremely favorable opinion toward them. Many members of the group are [helpful](archive/srd/pf2e/rules/conditions.md#Helpful) toward the PCs, and those who aren't are [friendly](archive/srd/pf2e/rules/conditions.md#Friendly). Only major favors accrue Reputation Points.
 
 #### Revered
 <sup>GMG p. 164</sup>
 
-The group reveres the PCs as heroes and celebrities. Every member has heard of the PCs, is [helpful](rules/conditions.md#Helpful) toward them, and would take major risks to assist them. Only major favors accrue Reputation Points, and only moderate or major disservices can reduce them.
+The group reveres the PCs as heroes and celebrities. Every member has heard of the PCs, is [helpful](archive/srd/pf2e/rules/conditions.md#Helpful) toward them, and would take major risks to assist them. Only major favors accrue Reputation Points, and only moderate or major disservices can reduce them.
 
 #### Disliked
 <sup>GMG p. 165</sup>
 
-The PCs have a poor reputation among members of this group. Many members of the group know about the PCs, and are usually [unfriendly](rules/conditions.md#Unfriendly) to them. At this reputation, only moderate and major disservices reduce Reputation Points.
+The PCs have a poor reputation among members of this group. Many members of the group know about the PCs, and are usually [unfriendly](archive/srd/pf2e/rules/conditions.md#Unfriendly) to them. At this reputation, only moderate and major disservices reduce Reputation Points.
 
 #### Hated
 <sup>GMG p. 165</sup>
 
-The PCs have earned this group's ire. The vast majority of the group knows about the PCs and have an extremely unfavorable opinion toward them. Many members of the group are [hostile](rules/conditions.md#Hostile) toward the PCs, and those who aren't are [unfriendly](rules/conditions.md#Unfriendly). When presented an easy opportunity to hurt the PCs, the group will jump at the chance. Only major disservices can still reduce Reputation Points.
+The PCs have earned this group's ire. The vast majority of the group knows about the PCs and have an extremely unfavorable opinion toward them. Many members of the group are [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) toward the PCs, and those who aren't are [unfriendly](archive/srd/pf2e/rules/conditions.md#Unfriendly). When presented an easy opportunity to hurt the PCs, the group will jump at the chance. Only major disservices can still reduce Reputation Points.
 
 #### Hunted
 <sup>GMG p. 165</sup>
 
-The group actively hunts the PCs as scapegoats or nemeses, even at significant cost to itself. Every member has heard of the PCs, is [hostile](rules/conditions.md#Hostile) toward them, and would take major risks to thwart or destroy them. Only major disservices can still reduce Reputation Points, and only moderate or major favors can increase them.
+The group actively hunts the PCs as scapegoats or nemeses, even at significant cost to itself. Every member has heard of the PCs, is [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) toward them, and would take major risks to thwart or destroy them. Only major disservices can still reduce Reputation Points, and only moderate or major favors can increase them.
 
 ### Running Reputation
 <sup>GMG p. 165</sup>
@@ -893,9 +893,9 @@ Unlike the other subsystems in this chapter, a combat duel works almost the same
 #### Initiative and Dueling Actions
 <sup>GMG p. 167</sup>
 
-Unlike in typical combat, the duelists roll initiative checks at the beginning of each round of combat. Each round the combatant can choose to use [Deception](compendium/skills.md#Deception), [Intimidation](compendium/skills.md#Intimidation), or [Perception](compendium/skills.md#Perception) when they roll initiative. Because a duelist might act twice in a row, durations that last until the beginning of a duelist's next turn might function oddly. A duelist acting second can choose to avoid such abilities that turn, or can choose to act second if they win initiative on the next round.
+Unlike in typical combat, the duelists roll initiative checks at the beginning of each round of combat. Each round the combatant can choose to use [Deception](skills.md#Deception), [Intimidation](skills.md#Intimidation), or [Perception](skills.md#Perception) when they roll initiative. Because a duelist might act twice in a row, durations that last until the beginning of a duelist's next turn might function oddly. A duelist acting second can choose to avoid such abilities that turn, or can choose to act second if they win initiative on the next round.
 
-If the duelist is at least trained in whichever initiative choice they pick, they gain the corresponding dueling reaction that round: Bullying Press for [Intimidation](compendium/skills.md#Intimidation), Deceptive Sidestep for [Deception](compendium/skills.md#Deception), or Sense Weakness for [Perception](compendium/skills.md#Perception). Neither duelist is aware of what type of roll the other used for initiative—surprise and the use of dueling actions are a part of dueling strategies. Familiars and companions, even when allowed in the duel, can't use these actions, nor can bystanders.
+If the duelist is at least trained in whichever initiative choice they pick, they gain the corresponding dueling reaction that round: Bullying Press for [Intimidation](skills.md#Intimidation), Deceptive Sidestep for [Deception](skills.md#Deception), or Sense Weakness for [Perception](skills.md#Perception). Neither duelist is aware of what type of roll the other used for initiative—surprise and the use of dueling actions are a part of dueling strategies. Familiars and companions, even when allowed in the duel, can't use these actions, nor can bystanders.
 
 ```ad-embed-ability
 title: **Bullying Press** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([flourish](rules/traits/flourish.md))
@@ -943,13 +943,13 @@ Like combat duels, spellcasting duels take place in encounter mode, but their ru
 #### Initiative and Dueling Actions
 <sup>GMG p. 167</sup>
 
-In most cases, each duelist rolls initiative normally and proceeds in that initiative order throughout the duel, unlike in a combat duel. Each duelist can roll an [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) check instead of [Perception](compendium/skills.md#Perception). If they are trained at that skill, they gain the tradition focus of that skill, which allows them to hone in on a certain magical school corresponding to the check they made for their initiative roll. They also gain the Dueling Counter reaction, which enables a duelist to counter their opponent's spell if their tradition focus matches the tradition of that spell.
+In most cases, each duelist rolls initiative normally and proceeds in that initiative order throughout the duel, unlike in a combat duel. Each duelist can roll an [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion) check instead of [Perception](skills.md#Perception). If they are trained at that skill, they gain the tradition focus of that skill, which allows them to hone in on a certain magical school corresponding to the check they made for their initiative roll. They also gain the Dueling Counter reaction, which enables a duelist to counter their opponent's spell if their tradition focus matches the tradition of that spell.
 
 They also gain the Change Tradition Focus action, which changes the duelist's tradition focus to a different tradition.
 
 Familiars and companions, even when allowed in the duel, can't use these actions, nor can bystanders.
 
-When mixing a spellcasting duel and a combat duel, use the initiative rules for combat dueling, but allow the duelist to roll [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) for their initiative checks. They still gain the Dueling Counter reaction and Change Tradition Focus action, though Change Tradition Focus is less useful in combat duels.
+When mixing a spellcasting duel and a combat duel, use the initiative rules for combat dueling, but allow the duelist to roll [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion) for their initiative checks. They still gain the Dueling Counter reaction and Change Tradition Focus action, though Change Tradition Focus is less useful in combat duels.
 
 ```ad-embed-ability
 title: **Dueling Counter** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([magical](rules/traits/magical.md))
@@ -1179,7 +1179,7 @@ These activities take two forms: group or individual. The number of hexploration
 | 45–55 feet | 3 |
 | 60 feet or more | 4 |
 
-This rate assumes the PCs are taking time to camp and rest at healthy intervals. When a new day of hexploration begins, the group can decide to take a forced march as long as no one in the group is [fatigued](rules/conditions.md#Fatigued). Doing so allows them to gain an extra Travel activity (or perform a full Travel activity each day if their Speed is 10 feet or less), but this is the only activity they can perform that day. A character can participate in a forced march safely for a number of days equal to the character's Constitution modifier (minimum 1 day). Any additional days of forced march make the character [fatigued](rules/conditions.md#Fatigued) until they spend an entire day of downtime resting.
+This rate assumes the PCs are taking time to camp and rest at healthy intervals. When a new day of hexploration begins, the group can decide to take a forced march as long as no one in the group is [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued). Doing so allows them to gain an extra Travel activity (or perform a full Travel activity each day if their Speed is 10 feet or less), but this is the only activity they can perform that day. A character can participate in a forced march safely for a number of days equal to the character's Constitution modifier (minimum 1 day). Any additional days of forced march make the character [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) until they spend an entire day of downtime resting.
 
 #### Group Activities
 <sup>GMG p. 172</sup>
@@ -1225,9 +1225,9 @@ As long as your group has successfully Reconnoitered the hex, you can use this a
 ##### Existing Activities
 <sup>GMG p. 173</sup>
 
-Characters can use the [Subsist](rules/actions/subsist.md) downtime activity, which follows the same rules but assumes they're using it after 8 hours or less of exploration. Any skill feats or other abilities that apply to [Subsist](rules/actions/subsist.md) normally still apply here.
+Characters can use the [Subsist](archive/srd/pf2e/rules/actions/subsist.md) downtime activity, which follows the same rules but assumes they're using it after 8 hours or less of exploration. Any skill feats or other abilities that apply to [Subsist](archive/srd/pf2e/rules/actions/subsist.md) normally still apply here.
 
-In general, the various exploration activities found in the sidebar on page 498 of the _Core Rulebook_ (except [Hustle](rules/actions/hustle.md)) can be used as individual hexploration activities, as can skill actions in Chapter 4 of the _Core Rulebook_, at the GM's discretion.
+In general, the various exploration activities found in the sidebar on page 498 of the _Core Rulebook_ (except [Hustle](archive/srd/pf2e/rules/actions/hustle.md)) can be used as individual hexploration activities, as can skill actions in Chapter 4 of the _Core Rulebook_, at the GM's discretion.
 
 #### Random Encounters
 <sup>GMG p. 173</sup>
@@ -1299,12 +1299,12 @@ There are five main types of propulsion: alchemical, magical, pulled, rowed, and
 ##### Alchemical
 <sup>GMG p. 174</sup>
 
-Powered by the reactions of alchemical reagents, [controlled](rules/conditions.md#Controlled) internal combustion, lighter-than-air gases, or steam, vehicles with alchemical propulsion tend to be powerful but have the potential to be wildly unpredictable. Alchemical vehicles can often be piloted using the [Crafting](compendium/skills.md#Crafting) skill.
+Powered by the reactions of alchemical reagents, [controlled](archive/srd/pf2e/rules/conditions.md#Controlled) internal combustion, lighter-than-air gases, or steam, vehicles with alchemical propulsion tend to be powerful but have the potential to be wildly unpredictable. Alchemical vehicles can often be piloted using the [Crafting](skills.md#Crafting) skill.
 
 ##### Magical
 <sup>GMG p. 174</sup>
 
-Magically propelled vehicles are powered by spells, magic items, or an entirely magical engine. A magical propulsion system can be targeted with counteracting effects like _dispel magic_, using the vehicle's level and a standard DC for that level for the counteract check. A creature can use [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) (depending on the type of magic) for a magical vehicle's piloting checks.
+Magically propelled vehicles are powered by spells, magic items, or an entirely magical engine. A magical propulsion system can be targeted with counteracting effects like _dispel magic_, using the vehicle's level and a standard DC for that level for the counteract check. A creature can use [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion) (depending on the type of magic) for a magical vehicle's piloting checks.
 
 ##### Pulled
 <sup>GMG p. 175</sup>
@@ -1313,7 +1313,7 @@ This method of propulsion is perhaps the most common, wherein a wheeled conveyan
 
 When a pulled vehicle takes collision damage, so do the creatures pulling that vehicle (though they can typically attempt the basic Reflex saving throw to mitigate that damage). The death of one or more pulling creatures might damage or slow the vehicle, and it might cause the pilot to lose control.
 
-For a vehicle pulled by an animal or similarly unintelligent creature, a pilot can use [Nature](compendium/skills.md#Nature) for piloting checks; for sapient pulling creatures, the pilot can instead use [Diplomacy](compendium/skills.md#Diplomacy) or [Intimidation](compendium/skills.md#Intimidation) for piloting checks.
+For a vehicle pulled by an animal or similarly unintelligent creature, a pilot can use [Nature](skills.md#Nature) for piloting checks; for sapient pulling creatures, the pilot can instead use [Diplomacy](skills.md#Diplomacy) or [Intimidation](skills.md#Intimidation) for piloting checks.
 
 ##### Rowed
 <sup>GMG p. 175</sup>
@@ -1322,12 +1322,12 @@ These vehicles are propelled by the power of creatures rowing the vehicle from w
 
 When a rowed vehicle takes collision damage, so do the creatures rowing that vehicle (though they can typically attempt the basic Reflex saving throw to mitigate that damage). The death of one or more creatures might cause the vehicle to go out of control or slow the vehicle, but usually doesn't damage the vehicle.
 
-A pilot on a vehicle rowed by other people can use [Diplomacy](compendium/skills.md#Diplomacy) or [Intimidation](compendium/skills.md#Intimidation) for piloting checks.
+A pilot on a vehicle rowed by other people can use [Diplomacy](skills.md#Diplomacy) or [Intimidation](skills.md#Intimidation) for piloting checks.
 
 ##### Wind
 <sup>GMG p. 175</sup>
 
-Wind-propelled vehicles require some form of air movement to power them, and adverse wind conditions can cause them to stall or even go out of control. Wind vehicles that rely on cloth sails typically have weakness to fire. Pilots of wind-powered vehicles can use [Nature](compendium/skills.md#Nature) for piloting checks.
+Wind-propelled vehicles require some form of air movement to power them, and adverse wind conditions can cause them to stall or even go out of control. Wind vehicles that rely on cloth sails typically have weakness to fire. Pilots of wind-powered vehicles can use [Nature](skills.md#Nature) for piloting checks.
 
 ### Piloting a Vehicle
 <sup>GMG p. 175</sup>
@@ -1342,14 +1342,14 @@ A vehicle in motion builds up momentum that keeps it in motion. Each round, if t
 #### Piloting Checks
 <sup>GMG p. 175</sup>
 
-Many actions related to vehicles call for the pilot to attempt a piloting check. The skills a pilot can use for a piloting check are listed in the vehicle's stat block, but most vehicles use [Driving Lore](compendium/skills.md#Lore) or [Piloting Lore](compendium/skills.md#Lore) along with others determined by their propulsion. The creature piloting a vehicle when an encounter begins can usually roll an appropriate piloting skill for that vehicle for initiative.
+Many actions related to vehicles call for the pilot to attempt a piloting check. The skills a pilot can use for a piloting check are listed in the vehicle's stat block, but most vehicles use [Driving Lore](skills.md#Lore) or [Piloting Lore](skills.md#Lore) along with others determined by their propulsion. The creature piloting a vehicle when an encounter begins can usually roll an appropriate piloting skill for that vehicle for initiative.
 
 The GM sets the DC of the piloting check using a standard DC for the vehicle's level, with adjustments based on the circumstances. Generally speaking, an action that would move a vehicle through difficult terrain increases the DC to a hard DC for its level, and moving through greater difficult terrain increases the DC to incredibly hard. Other factors, such as turbulent winds for a wind-powered vehicle, monsters threatening the creatures pulling a pulled vehicle, or rough seas for a water-based vehicle could all increase the DC of a vehicle's piloting checks.
 
 #### Piloting Actions
 <sup>GMG p. 175</sup>
 
-Characters use the actions listed below to move and interact with vehicles. The effects of the [reckless](rules/traits/reckless-gmg.md "Reckless Action & Ability Trait") trait appear on page 176.
+Characters use the actions listed below to move and interact with vehicles. The effects of the [reckless](reckless-gmg.md "Reckless Action & Ability Trait") trait appear on page 176.
 
 ```ad-embed-ability
 title: **Board** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([move](rules/traits/move.md))
@@ -1417,7 +1417,7 @@ title: **Take Control** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Ac
 #### Reckless Piloting
 <sup>GMG p. 176</sup>
 
-Actions that have the [reckless](rules/traits/reckless-gmg.md "Reckless Action & Ability Trait") trait push the pilot and the vehicle beyond the normal parameters for safe operation, and the pilot risks losing control of the vehicle. When performing a reckless action, the pilot must first attempt an appropriate piloting check to keep control of the vehicle, with the following effects. Resolve this piloting check before resolving the action itself.
+Actions that have the [reckless](reckless-gmg.md "Reckless Action & Ability Trait") trait push the pilot and the vehicle beyond the normal parameters for safe operation, and the pilot risks losing control of the vehicle. When performing a reckless action, the pilot must first attempt an appropriate piloting check to keep control of the vehicle, with the following effects. Resolve this piloting check before resolving the action itself.
 
 **Success** The action occurs as described.
 
@@ -1426,7 +1426,7 @@ Actions that have the [reckless](rules/traits/reckless-gmg.md "Reckless Action &
 #### Uncontrolled Vehicles
 <sup>GMG p. 176</sup>
 
-Some situations can cause a pilot to lose control of their vehicle. Most commonly, this is due to a failed piloting check for a reckless action, but it can also occur if a round passes without a pilot using a move action to control the vehicle or Stopping the vehicle. A vehicle can also become uncontrolled if the pilot becomes unable to act during a move action to control the vehicle. For example, if a vehicle's movement triggers an [Attack of Opportunity](rules/actions/attack-of-opportunity.md) that knocks the pilot [unconscious](rules/conditions.md#Unconscious) or paralyzes them, the vehicle becomes uncontrolled.
+Some situations can cause a pilot to lose control of their vehicle. Most commonly, this is due to a failed piloting check for a reckless action, but it can also occur if a round passes without a pilot using a move action to control the vehicle or Stopping the vehicle. A vehicle can also become uncontrolled if the pilot becomes unable to act during a move action to control the vehicle. For example, if a vehicle's movement triggers an [Attack of Opportunity](archive/srd/pf2e/rules/actions/attack-of-opportunity.md) that knocks the pilot [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious) or paralyzes them, the vehicle becomes uncontrolled.
 
 An uncontrolled vehicle continues to move each round at its most recent pilot's initiative position. The distance it moves each round is 10 feet less than on the previous round, always in a straight line at its current heading until it crashes or it comes to a stop. At your discretion, it could slow down more if it's on uneven terrain, difficult terrain, on an upward slope, or facing adverse wind conditions; by the same token, it could stay at the same speed or even accelerate if it's on a downward slope or being pushed by strong winds.
 
@@ -1435,7 +1435,7 @@ An uncontrolled vehicle in motion interacts with obstacles, other vehicles, and 
 #### Vehicles in Combat
 <sup>GMG p. 177</sup>
 
-Whether driving a chariot in an arena or fighting off a boarding party, characters sometimes attack from a vehicle or target other creatures aboard a vehicle. Attacks made while on a vehicle that has moved within the last round take a –2 penalty, or a –4 penalty if the vehicle is uncontrolled or any action in the last round had the [reckless](rules/traits/reckless-gmg.md "Reckless Action & Ability Trait") trait.
+Whether driving a chariot in an arena or fighting off a boarding party, characters sometimes attack from a vehicle or target other creatures aboard a vehicle. Attacks made while on a vehicle that has moved within the last round take a –2 penalty, or a –4 penalty if the vehicle is uncontrolled or any action in the last round had the [reckless](reckless-gmg.md "Reckless Action & Ability Trait") trait.
 
 While on a vehicle, a character might have cover from certain angles of attack. A vehicle with sides but no top, such as a chariot or a keelboat, usually provides lesser cover, or standard cover from an attacker on the ground.
 
@@ -1446,7 +1446,7 @@ Some vehicles have special mounted weapons that can be used by the pilot or pass
 #### Broken Vehicles
 <sup>GMG p. 177</sup>
 
-When a vehicle is [broken](rules/conditions.md#Broken), it becomes harder to use. It takes a –2 penalty to its AC, saves, and collision DC, and the DC of all piloting checks related to the vehicle increase by 5. The [broken](rules/conditions.md#Broken) vehicle's Speeds are halved.
+When a vehicle is [broken](archive/srd/pf2e/rules/conditions.md#Broken), it becomes harder to use. It takes a –2 penalty to its AC, saves, and collision DC, and the DC of all piloting checks related to the vehicle increase by 5. The [broken](archive/srd/pf2e/rules/conditions.md#Broken) vehicle's Speeds are halved.
 
 A vehicle reduced to 0 HP is destroyed, like any other item. If the vehicle is in water when it's destroyed, it sinks; if it is flying, it falls and everyone aboard takes falling damage. A pulled or rowed vehicle that becomes wrecked, regardless of which method of propulsion it's using at the time, deals its collision damage (no saving throw) to the creatures pulling or rowing it, and the creatures may have to be physically freed from the wreckage.
 

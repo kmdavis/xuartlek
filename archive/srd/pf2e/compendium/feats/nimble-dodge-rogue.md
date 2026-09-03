@@ -6,18 +6,18 @@ tags:
 - trait/rogue
 aliases: ["Nimble Dodge (Rogue)"]
 ---
-# Nimble Dodge (Rogue)  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[rogue](rules/traits/rogue.md "Rogue Class Trait")  
+# Nimble Dodge (Rogue)  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Trigger** A creature targets you with an attack and you can see the attacker.
-- **Requirements**: You are not [encumbered](rules/conditions.md#Encumbered).
+- **Requirements**: You are not [encumbered](archive/srd/pf2e/rules/conditions.md#Encumbered).
 - **Activity** Reaction
 
 You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.
 
 ## Nimble Dodge (Rogue) leads to...
 
-[Nimble Roll (Rogue)](compendium/feats/nimble-roll-rogue.md)
+[Nimble Roll (Rogue)](nimble-roll-rogue.md)
 
 ## Summary
 

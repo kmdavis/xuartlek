@@ -9,8 +9,8 @@ tags:
 - trait/transmutation
 aliases: ["Fiendish Wings"]
 ---
-# Fiendish Wings  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Fiendish Wings  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [tiefling](tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action
@@ -19,7 +19,7 @@ You can strain to call forth bat-like or otherwise fiendish wings from your back
 
 ## Fiendish Wings leads to...
 
-[Relentless Wings](compendium/feats/relentless-wings-apg.md)
+[Relentless Wings](relentless-wings-apg.md)
 
 ## Summary
 

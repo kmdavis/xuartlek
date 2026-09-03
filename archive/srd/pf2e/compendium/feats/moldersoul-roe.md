@@ -8,7 +8,7 @@ tags:
 aliases: ["Moldersoul"]
 ---
 # Moldersoul  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  ardande  
+[lineage](lineage-apg.md "Lineage  Trait")  ardande  
 
 
 Your connection to elemental wood asserts itself in the form of decay, like forgotten logs left to rot and the char that remains after a forest fire, cycles of devastation clearing away what was to make room for the next generation of life. You gain the Decompose action.

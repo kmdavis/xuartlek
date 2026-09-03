@@ -7,8 +7,8 @@ tags:
 - trait/swashbuckler
 aliases: ["Twinned Defense (Swashbuckler)"]
 ---
-# Twinned Defense (Swashbuckler)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[stance](rules/traits/stance.md "Stance Combat Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
+# Twinned Defense (Swashbuckler)  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
+[stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  [swashbuckler](archive/srd/pf2e/rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
 - **Prerequisites**: Twin Parry
 - **Requirements**: You wield two melee weapons, one in each hand.

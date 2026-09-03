@@ -8,14 +8,14 @@ tags:
 aliases: ["Planar Rift"]
 ---
 # Planar Rift *Hazard 13*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 35 trained  
 
 A rift attempts to draw creatures into another plane (the GM chooses the specific plane).
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 33 (master) to assemble a rift seal using objects strongly grounded to your plane, or dispel magic (7th level; counteract DC 31) to counteract the rift.  
+- **Disable** [Thievery](skills.md#Thievery) DC 33 (master) to assemble a rift seal using objects strongly grounded to your plane, or dispel magic (7th level; counteract DC 31) to counteract the rift.  
 
 ```ad-embed-ability
 title: **Into the Great Beyond** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([conjuration](rules/traits/conjuration.md), [occult](rules/traits/occult.md), [teleportation](rules/traits/teleportation.md))

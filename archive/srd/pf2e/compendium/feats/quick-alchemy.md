@@ -7,11 +7,11 @@ tags:
 aliases: ["Quick Alchemy"]
 ---
 # Quick Alchemy  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md)
+- **Prerequisites**: [Alchemist Dedication](archive/srd/pf2e/compendium/feats/alchemist-dedication.md)
 
-You gain the [Quick Alchemy](rules/actions/quick-alchemy.md) action.
+You gain the [Quick Alchemy](archive/srd/pf2e/rules/actions/quick-alchemy.md) action.
 
 *Source: Core Rulebook p. 220*  
 %% #compendium/src/pf2e/crb #trait/archetype %%

@@ -13,7 +13,7 @@ tags:
 aliases: ["Jax"]
 ---
 # Jax *Item 8*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [ln](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [ln](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 2 hands
 
@@ -23,7 +23,7 @@ Her spirit of fury and hopelessness infused her weapon upon her death, imbuing t
 
 Jax is a +1 striking fearsome piercing wind (Guns & Gears 159) whose driving purpose is to protect innocent travelers in the Spellscar Desert from raiders, bandits, and cultists. Jax allows any creature to wield her, but she doesn't reveal her intelligence or powers until she detects an innocent in danger or if her wielder has proven themselves a worthy champion of justice. If she deems a wielder to be unworthy, Jax uses her dominate ability to control the wielder until she can find a new one.
 
-If ever used to attack an innocent traveler, or if, in Jax's opinion, the attack could be considered banditry, the weapon automatically misfires. If Jax witnesses an innocent harmed or killed, she empathically urges her wielder to avenge the victim. If the wielder doesn't comply, Jax attempts to cast [dominate](compendium/spells/dominate.md) (below). Even if the [dominate](compendium/spells/dominate.md) spell fails, Jax withholds all magical abilities, including the +1 weapon potency rune and striking rune, until her wielder redeems themself.
+If ever used to attack an innocent traveler, or if, in Jax's opinion, the attack could be considered banditry, the weapon automatically misfires. If Jax witnesses an innocent harmed or killed, she empathically urges her wielder to avenge the victim. If the wielder doesn't comply, Jax attempts to cast [dominate](archive/srd/pf2e/compendium/spells/dominate.md) (below). Even if the [dominate](archive/srd/pf2e/compendium/spells/dominate.md) spell fails, Jax withholds all magical abilities, including the +1 weapon potency rune and striking rune, until her wielder redeems themself.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command

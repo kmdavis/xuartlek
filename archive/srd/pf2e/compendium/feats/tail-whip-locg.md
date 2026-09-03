@@ -7,14 +7,14 @@ tags:
 aliases: ["Tail Whip"]
 ---
 # Tail Whip  *Feat 1*  
-[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
+[lizardfolk](lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 
-By birth or through training, your tail is strong enough to make for a powerful melee weapon. You gain a tail unarmed attack that deals `1d6` bludgeoning damage and has the [sweep](rules/traits/sweep.md "Sweep Weapon Trait") trait.
+By birth or through training, your tail is strong enough to make for a powerful melee weapon. You gain a tail unarmed attack that deals `1d6` bludgeoning damage and has the [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait") trait.
 
 ## Tail Whip leads to...
 
-[Shed Tail](compendium/feats/shed-tail-locg.md)
+[Shed Tail](shed-tail-locg.md)
 
 ## Summary
 

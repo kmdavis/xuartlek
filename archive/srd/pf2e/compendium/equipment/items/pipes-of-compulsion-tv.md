@@ -12,12 +12,12 @@ tags:
 aliases: ["Pipes of Compulsion"]
 ---
 # Pipes of Compulsion *Item 4+*  
-[coda](rules/traits/coda-tv.md "Coda Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[coda](coda-tv.md "Coda Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** L; **Usage** held in 2 hands
 
-These panpipes are made of what seems to be beat-up tin bound by frayed leather and look like they shouldn't function at all, but in skilled hands they emit a beautiful sound that beguiles the senses. While playing the pipes, you gain a +1 item bonus to [Diplomacy](compendium/skills.md#Diplomacy) and [Performance](compendium/skills.md#Performance) checks.
+These panpipes are made of what seems to be beat-up tin bound by frayed leather and look like they shouldn't function at all, but in skilled hands they emit a beautiful sound that beguiles the senses. While playing the pipes, you gain a +1 item bonus to [Diplomacy](skills.md#Diplomacy) and [Performance](skills.md#Performance) checks.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

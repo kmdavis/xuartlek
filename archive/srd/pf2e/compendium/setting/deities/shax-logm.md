@@ -20,8 +20,8 @@ aliases: ["Shax", "The Bloody Marquis"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [death](compendium/setting/domains.md#Death), [pain](compendium/setting/domains.md#Pain), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 2nd: [invisibility](compendium/spells/invisibility.md); 3rd: [haste](compendium/spells/haste.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md); 2nd: [invisibility](archive/srd/pf2e/compendium/spells/invisibility.md); 3rd: [haste](archive/srd/pf2e/compendium/spells/haste.md)

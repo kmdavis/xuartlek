@@ -15,6 +15,6 @@ You are a fearsome warrior from the Hold of Belkzen, and your clan counts on you
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and the [Orc Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and the [Orc Lore](skills.md#Lore) skill.
 
-You gain the [Intimidating Glare](compendium/feats/intimidating-glare.md) skill feat.
+You gain the [Intimidating Glare](archive/srd/pf2e/compendium/feats/intimidating-glare.md) skill feat.

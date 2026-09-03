@@ -7,8 +7,8 @@ tags:
 - trait/lizardfolk
 aliases: ["Guided By The Stars"]
 ---
-# Guided By The Stars  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 5*  
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
+# Guided By The Stars  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 5*  
+[fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [lizardfolk](lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You are about to attempt a skill check or saving throw.

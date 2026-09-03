@@ -7,14 +7,14 @@ tags:
 aliases: ["Far Shot"]
 ---
 # Far Shot  *Feat 4*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
 
 Your experience in the field has taught you how to focus your aim at a distance, increasing your accuracy. Double your weapons' range increments.
 
 ## Far Shot leads to...
 
-[Legendary Shot](compendium/feats/legendary-shot.md)
+[Legendary Shot](archive/srd/pf2e/compendium/feats/legendary-shot.md)
 
 ## Summary
 

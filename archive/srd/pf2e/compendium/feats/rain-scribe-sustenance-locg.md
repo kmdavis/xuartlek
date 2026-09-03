@@ -7,9 +7,9 @@ tags:
 aliases: ["Rain-scribe Sustenance"]
 ---
 # Rain-scribe Sustenance  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Rain-Scribes affiliation
+- **Prerequisites**: [Magaambyan Attendant Dedication](magaambyan-attendant-dedication-locg.md), Rain-Scribes affiliation
 
 You use the power of your Rain-Scribe magic to draw on a stream of primal power for sustenance. You don't need to eat or drink and need only 6 hours of rest to feel well rested. You must still rest at least 8 hours and spend 1 hour of preparation to regain resources usable only a limited number of times per day, such as spell slots.
 

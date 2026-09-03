@@ -10,13 +10,13 @@ tags:
 aliases: ["Beast Gunner Dedication"]
 ---
 # Beast Gunner Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: expert with at least one type of firearm, trained in [Arcana](compendium/skills.md#Arcana) or [Crafting](compendium/skills.md#Crafting), you own a beast gun and have slain the type of creature associated with your beast gun in a fair hunt (see above)
+- **Prerequisites**: expert with at least one type of firearm, trained in [Arcana](skills.md#Arcana) or [Crafting](skills.md#Crafting), you own a beast gun and have slain the type of creature associated with your beast gun in a fair hunt (see above)
 
 You've bonded to your beast gun and unlocked the first hints of its hidden potential. You treat all beast guns as martial firearms when determining your proficiency with them, even beast guns that are normally advanced weapons. You can change your bonded beast gun to another beast gun you own each day during your daily preparations, as long as you've previously performed a ritual hunt associated with the new beast gun.
 
-The beast gun also acts as a conduit, drawing out and amplifying any latent or active magic power you have. You learn to cast spontaneous spells and gain the [Cast a Spell](rules/actions/cast-a-spell.md) activity. You gain a spell repertoire with one cantrip of your choice, from either the arcane or primal spell list. You choose this cantrip from the common spells on your chosen spell list or from other spells you have access to on the list. This cantrip must require a spell attack roll. You're trained in spell attack rolls and spell DCs for arcane or primal spells, whichever of the two traditions you chose. Your key spellcasting ability for these spells is Charisma.
+The beast gun also acts as a conduit, drawing out and amplifying any latent or active magic power you have. You learn to cast spontaneous spells and gain the [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) activity. You gain a spell repertoire with one cantrip of your choice, from either the arcane or primal spell list. You choose this cantrip from the common spells on your chosen spell list or from other spells you have access to on the list. This cantrip must require a spell attack roll. You're trained in spell attack rolls and spell DCs for arcane or primal spells, whichever of the two traditions you chose. Your key spellcasting ability for these spells is Charisma.
 
 If you already cast arcane or primal spells from spell slots, you learn one additional cantrip from that tradition. If you're a prepared caster, you can prepare this spell in addition to your usual cantrips per day; if you're a spontaneous caster, you add this cantrip to your spell repertoire.
 
@@ -34,7 +34,7 @@ title: **Spellsling** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Ac
 
 ## Beast Gunner Dedication leads to...
 
-[Basic Beast Gunner Spellcasting](compendium/feats/basic-beast-gunner-spellcasting-g-g.md), [Expert Beast Gunner Spellcasting](compendium/feats/expert-beast-gunner-spellcasting-g-g.md), [Master Beast Gunner Spellcasting](compendium/feats/master-beast-gunner-spellcasting-g-g.md), [Controlled Bullet](compendium/feats/controlled-bullet-g-g.md), [Drain Vitality](compendium/feats/drain-vitality-g-g.md)
+[Basic Beast Gunner Spellcasting](basic-beast-gunner-spellcasting-g-g.md), [Expert Beast Gunner Spellcasting](expert-beast-gunner-spellcasting-g-g.md), [Master Beast Gunner Spellcasting](master-beast-gunner-spellcasting-g-g.md), [Controlled Bullet](controlled-bullet-g-g.md), [Drain Vitality](drain-vitality-g-g.md)
 
 ## Summary
 

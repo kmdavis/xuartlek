@@ -11,12 +11,12 @@ tags:
 aliases: ["Mercurial Mantle"]
 ---
 # Mercurial Mantle *Item 18*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 24000 gp
 - **Bulk** L; **Usage** worn cloak
 
-This deep red cloak fits lightly about your shoulders, and the edges perpetually twitch slightly, as though caught in a breeze. The cloth feels smoother than silk, rippling and swaying like liquid when in motion. You feel a lively energy infusing your arms and legs. You gain a +3 item bonus to [Acrobatics](compendium/skills.md#Acrobatics) and [Stealth](compendium/skills.md#Stealth), and a +2 circumstance bonus to AC against attacks from reactions triggered by your movement.
+This deep red cloak fits lightly about your shoulders, and the edges perpetually twitch slightly, as though caught in a breeze. The cloth feels smoother than silk, rippling and swaying like liquid when in motion. You feel a lively energy infusing your arms and legs. You gain a +3 item bonus to [Acrobatics](skills.md#Acrobatics) and [Stealth](skills.md#Stealth), and a +2 circumstance bonus to AC against attacks from reactions triggered by your movement.
 
 When you invest the cloak, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score.
 

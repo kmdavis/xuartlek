@@ -15,6 +15,6 @@ You seek to join the Free Captains of the Shackles and have learned everything y
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and the [Sailing Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and the [Sailing Lore](skills.md#Lore) skill.
 
-You gain the [Group Coercion](compendium/feats/group-coercion.md) skill feat.
+You gain the [Group Coercion](archive/srd/pf2e/compendium/feats/group-coercion.md) skill feat.

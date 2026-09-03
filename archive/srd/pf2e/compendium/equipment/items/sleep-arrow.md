@@ -12,14 +12,14 @@ tags:
 aliases: ["Sleep Arrow"]
 ---
 # Sleep Arrow *Item 3*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [sleep](archive/srd/pf2e/rules/traits/sleep.md "Sleep Effect Trait")  
 
 - **Price** 11 gp
 - **Craft Requirements** Supply one casting of sleep.
-- **Ammunition** [arrow](compendium/equipment/items/arrow.md)
-- **Activate** [Interact](rules/actions/interact.md)
+- **Ammunition** [arrow](arrow.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Sleep arrows often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated sleep arrow deals no damage, but a living creature hit by it is subject to the effects of a [sleep](compendium/spells/sleep.md) spell (DC 17).
+Sleep arrows often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated sleep arrow deals no damage, but a living creature hit by it is subject to the effects of a [sleep](archive/srd/pf2e/compendium/spells/sleep.md) spell (DC 17).
 
 
 ---

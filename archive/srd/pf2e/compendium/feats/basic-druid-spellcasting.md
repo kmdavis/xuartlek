@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Druid Spellcasting"]
 ---
 # Basic Druid Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Druid Dedication](compendium/feats/druid-dedication.md)
+- **Prerequisites**: [Druid Dedication](archive/srd/pf2e/compendium/feats/druid-dedication.md)
 
 You gain the basic spellcasting benefits.
 
 ## Basic Druid Spellcasting leads to...
 
-[Expert Druid Spellcasting](compendium/feats/expert-druid-spellcasting.md), [Master Druid Spellcasting](compendium/feats/master-druid-spellcasting.md), [Primal Breadth](compendium/feats/primal-breadth.md)
+[Expert Druid Spellcasting](archive/srd/pf2e/compendium/feats/expert-druid-spellcasting.md), [Master Druid Spellcasting](archive/srd/pf2e/compendium/feats/master-druid-spellcasting.md), [Primal Breadth](archive/srd/pf2e/compendium/feats/primal-breadth.md)
 
 ## Summary
 

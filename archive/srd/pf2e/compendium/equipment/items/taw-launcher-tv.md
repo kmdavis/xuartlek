@@ -11,12 +11,12 @@ tags:
 aliases: ["Taw Launcher"]
 ---
 # Taw Launcher *Item 0*  
-[conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  [deadly <1d10>](rules/traits/deadly-1d10.md "Deadly Weapon Trait")  [modular <b, p, or s>](rules/traits/modular-b-p-or-s-logm.md "Modular Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conrasu](conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  [deadly <1d10>](rules/traits/deadly-1d10.md "Deadly Weapon Trait")  [modular <b, p, or s>](rules/traits/modular-b-p-or-s-logm.md "Modular Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Bulk** 1
   - **Damage**: `1d6` modular
-  - **Ammunution** [Wooden Taws](compendium/equipment/items/wooden-taws-tv.md); **Range** 100 ft.; **Reload** 1
+  - **Ammunution** [Wooden Taws](wooden-taws-tv.md); **Range** 100 ft.; **Reload** 1
 - **Hands** 2
 - **Category** Advanced; **Group** Bow 
 

@@ -7,9 +7,9 @@ tags:
 aliases: ["Goblin Jubilee Display"]
 ---
 # Goblin Jubilee Display  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Firework Technician Dedication](compendium/feats/firework-technician-dedication-g-g.md)
+- **Prerequisites**: [Firework Technician Dedication](firework-technician-dedication-g-g.md)
 
 Flames and explosions sear the air in a riot of color and devastation that rivals that wrought by even the wildest goblin party. The display is both so beautiful and chaotic that, while mesmerizing, it poses a significant risk to the physical health, sight, and hearing of anyone who gets too close. You gain the Goblin Jubilee fireworks display.
 

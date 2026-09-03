@@ -13,10 +13,10 @@ tags:
 aliases: ["Overwhelming Presence"]
 ---
 # Overwhelming Presence *Spell 9*   
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 40-foot burst
 - **Targets**: any number of creatures
 - **Saving Throw**: Will
@@ -28,6 +28,6 @@ You surround yourself with supernatural splendor, appearing to be a god or simil
 > - **Critical Success** The target is unaffected.
 > - **Success** The target must pay tribute twice.
 > - **Failure** The target must pay tribute six times.
-> - **Critical Failure** As failure, and the target must spend all its actions paying tribute if possible. Paying tribute is a manipulate action or move action, as chosen by the creature paying tribute. A creature under this effect must pay tribute to you at least once on each of its turns if possible. While affected by this spell, a creature is [fascinated](rules/conditions.md#Fascinated) by you and can't use [hostile](rules/conditions.md#Hostile) actions against you. The target is then temporarily immune for 1 minute.
+> - **Critical Failure** As failure, and the target must spend all its actions paying tribute if possible. Paying tribute is a manipulate action or move action, as chosen by the creature paying tribute. A creature under this effect must pay tribute to you at least once on each of its turns if possible. While affected by this spell, a creature is [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) by you and can't use [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) actions against you. The target is then temporarily immune for 1 minute.
 
 *Source: Core Rulebook p. 356*

@@ -11,7 +11,7 @@ tags:
 aliases: ["Ring of Sneering Charity"]
 ---
 # Ring of Sneering Charity *Item 7*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** –; **Usage** worn ring
 

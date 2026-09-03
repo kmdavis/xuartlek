@@ -8,15 +8,15 @@ tags:
 aliases: ["Arcane Sense"]
 ---
 # Arcane Sense  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Arcana](compendium/skills.md#Arcana)
+- **Prerequisites**: trained in [Arcana](skills.md#Arcana)
 
-Your study of magic allows you to instinctively sense its presence. You can cast 1st-level [detect magic](compendium/spells/detect-magic.md) at will as an arcane innate spell. If you're a master in [Arcana](compendium/skills.md#Arcana), the spell is heightened to 3rd level; if you're legendary, it is heightened to 4th level.
+Your study of magic allows you to instinctively sense its presence. You can cast 1st-level [detect magic](archive/srd/pf2e/compendium/spells/detect-magic.md) at will as an arcane innate spell. If you're a master in [Arcana](skills.md#Arcana), the spell is heightened to 3rd level; if you're legendary, it is heightened to 4th level.
 
 ## Arcane Sense leads to...
 
-[Eye Of The Arclords](compendium/feats/eye-of-the-arclords-lowg.md)
+[Eye Of The Arclords](eye-of-the-arclords-lowg.md)
 
 ## Summary
 

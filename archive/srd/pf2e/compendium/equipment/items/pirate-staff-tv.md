@@ -10,7 +10,7 @@ tags:
 aliases: ["Pirate Staff"]
 ---
 # Pirate Staff *Item 12*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Price** 2000 gp
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
@@ -18,7 +18,7 @@ aliases: ["Pirate Staff"]
 
 Carved of driftwood stained white with the salt of the sea, a pirate staff has jewels and gold pieces embedded in the wood.
 
-A skull and crossbones sit on top. When used as a weapon, the staff is a +2 striking fearsome staff. While wielding the staff, you gain a +2 circumstance bonus to [Intimidation](compendium/skills.md#Intimidation) checks to [Coerce](rules/actions/coerce.md).
+A skull and crossbones sit on top. When used as a weapon, the staff is a +2 striking fearsome staff. While wielding the staff, you gain a +2 circumstance bonus to [Intimidation](skills.md#Intimidation) checks to [Coerce](archive/srd/pf2e/rules/actions/coerce.md).
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

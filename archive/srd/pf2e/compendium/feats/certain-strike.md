@@ -7,12 +7,12 @@ tags:
 - trait/press
 aliases: ["Certain Strike"]
 ---
-# Certain Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  [press](rules/traits/press.md "Press Combat Trait")  
+# Certain Strike  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  [press](archive/srd/pf2e/rules/traits/press.md "Press Combat Trait")  
 
 - **Activity** Single Action
 
-Even when you don't hit squarely, you can still score a glancing blow. Make a melee [Strike](rules/actions/strike.md). It gains the following failure effect.
+Even when you don't hit squarely, you can still score a glancing blow. Make a melee [Strike](archive/srd/pf2e/rules/actions/strike.md). It gains the following failure effect.
 
 > [!success-degree] 
 > - **Failure** Your attack deals any damage it would have dealt on a hit, excluding all damage dice. (This removes damage dice from weapon runes, spells, and special abilities, in addition to weapon damage dice.)

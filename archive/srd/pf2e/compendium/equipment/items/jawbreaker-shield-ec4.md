@@ -10,7 +10,7 @@ tags:
 aliases: ["Jawbreaker Shield"]
 ---
 # Jawbreaker Shield *Item 12*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1650 gp
 - **Bulk** 1; **Usage** held in 1 hand

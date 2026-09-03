@@ -7,8 +7,8 @@ tags:
 - trait/concentrate
 aliases: ["Recenter"]
 ---
-# Recenter [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+# Recenter [>](chapter-9-playing-the-game.md#Actions "Single Action")
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 *Source: Dark Archive p. 201*  
 
 - **Requirements**: You're in a psychic duel and are trained in the skill matching the psychic center you are changing to.

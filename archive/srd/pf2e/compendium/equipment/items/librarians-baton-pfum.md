@@ -11,7 +11,7 @@ tags:
 aliases: ["Librarian's Baton"]
 ---
 # Librarian's Baton *Item 9*  
-[detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[detection](archive/srd/pf2e/rules/traits/detection.md "Detection Effect Trait")  [divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 650 gp
 - **Bulk** L; **Usage** held in 1 hand

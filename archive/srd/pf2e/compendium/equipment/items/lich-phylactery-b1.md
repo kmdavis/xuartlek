@@ -11,7 +11,7 @@ tags:
 aliases: ["Lich Phylactery"]
 ---
 # Lich Phylactery *Item 12*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 1600 gp
 - **Bulk** —; **Usage** held in 1 hand

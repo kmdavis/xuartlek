@@ -9,18 +9,18 @@ tags:
 aliases: ["Zephyr Guard Dedication"]
 ---
 # Zephyr Guard Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Katapesh.
 - **Prerequisites**: member of the Zephyr Guard
 
-As a Zephyr Guard, you're always vigilant against crime and threats to the city's safety. You gain a +1 circumstance bonus to [Perception](compendium/skills.md#Perception) checks against attempts to [Palm an Object](rules/actions/palm-an-object.md), [Steal](rules/actions/steal.md), or [Conceal an Object](rules/actions/conceal-an-object.md) (including you're [Seeking](rules/actions/seek.md) [concealed](rules/conditions.md#Concealed) objects). You become trained in [Society](compendium/skills.md#Society) and [Katapesh Lore](compendium/skills.md#Lore); if you were already trained, you become an expert instead.
+As a Zephyr Guard, you're always vigilant against crime and threats to the city's safety. You gain a +1 circumstance bonus to [Perception](skills.md#Perception) checks against attempts to [Palm an Object](archive/srd/pf2e/rules/actions/palm-an-object.md), [Steal](archive/srd/pf2e/rules/actions/steal.md), or [Conceal an Object](archive/srd/pf2e/rules/actions/conceal-an-object.md) (including you're [Seeking](archive/srd/pf2e/rules/actions/seek.md) [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) objects). You become trained in [Society](skills.md#Society) and [Katapesh Lore](skills.md#Lore); if you were already trained, you become an expert instead.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the Zephyr Guard archetype.
 
 ## Zephyr Guard Dedication leads to...
 
-[Decry Thief](compendium/feats/decry-thief-aoa5.md), [Know The Beat](compendium/feats/know-the-beat-aoa5.md), [Relentless Disarm](compendium/feats/relentless-disarm-aoa5.md), [Unfazed Assessment](compendium/feats/unfazed-assessment-aoa5.md)
+[Decry Thief](decry-thief-aoa5.md), [Know The Beat](know-the-beat-aoa5.md), [Relentless Disarm](relentless-disarm-aoa5.md), [Unfazed Assessment](unfazed-assessment-aoa5.md)
 
 ## Summary
 

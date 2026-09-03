@@ -20,8 +20,8 @@ aliases: ["General Susumu", "The Black Daimyo"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Dexterity
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [destruction](compendium/setting/domains.md#Destruction), [might](compendium/setting/domains.md#Might), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 2nd: [phantom steed](compendium/spells/phantom-steed.md); 3rd: [wall of wind](compendium/spells/wall-of-wind.md)
+- **Favored Weapon**: [longbow](archive/srd/pf2e/compendium/equipment/items/longbow.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 2nd: [phantom steed](phantom-steed.md); 3rd: [wall of wind](archive/srd/pf2e/compendium/spells/wall-of-wind.md)

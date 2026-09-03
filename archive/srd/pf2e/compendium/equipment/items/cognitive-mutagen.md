@@ -12,16 +12,16 @@ tags:
 aliases: ["Cognitive Mutagen"]
 ---
 # Cognitive Mutagen *Item 1+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [mutagen](rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [mutagen](archive/srd/pf2e/rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Your mind becomes clear and cognition flows freely, but physical matters seem ephemeral.
 
-**Benefit** You gain an item bonus to [Arcana](compendium/skills.md#Arcana), [Crafting](compendium/skills.md#Crafting), [Lore](compendium/skills.md#Lore), [Occultism](compendium/skills.md#Occultism), and [Society](compendium/skills.md#Society) checks and all checks to [Recall Knowledge](rules/actions/recall-knowledge.md). Your critical failures on [Recall Knowledge](rules/actions/recall-knowledge.md) checks become failures instead.
+**Benefit** You gain an item bonus to [Arcana](skills.md#Arcana), [Crafting](skills.md#Crafting), [Lore](skills.md#Lore), [Occultism](skills.md#Occultism), and [Society](skills.md#Society) checks and all checks to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md). Your critical failures on [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) checks become failures instead.
 
-**Drawback** You take a –2 penalty to weapon and unarmed attack rolls, [Athletics](compendium/skills.md#Athletics) checks, and [Acrobatics](compendium/skills.md#Acrobatics) checks. You can carry 2 less Bulk than normal before becoming [encumbered](rules/conditions.md#Encumbered), and the maximum Bulk you can carry is reduced by 4.
+**Drawback** You take a –2 penalty to weapon and unarmed attack rolls, [Athletics](skills.md#Athletics) checks, and [Acrobatics](skills.md#Acrobatics) checks. You can carry 2 less Bulk than normal before becoming [encumbered](archive/srd/pf2e/rules/conditions.md#Encumbered), and the maximum Bulk you can carry is reduced by 4.
 
 ---
 

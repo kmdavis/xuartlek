@@ -11,10 +11,10 @@ tags:
 aliases: ["Burning Blossoms"]
 ---
 # Burning Blossoms *Spell 8*   
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 120 foot
 - **Area**: 30-foot radius, 100-foot tall cylinder
 - **Saving Throw**: Will
@@ -24,13 +24,13 @@ An intangible hollow tree sprouts from the ground and grows to towering height, 
 
 The tree then blossoms, growing delicate white flowers that burn with white-hot fire. As the tree's branches gently rustle in the wind, flower petals drift to the ground in a shower of flame. Any creature that ends its turn under the tree's branches takes `6d6` fire damage from the burning petals.
 
-Any enemy that can see the tree, even if the enemy is outside the spell's area, must attempt a Will save. This is an emotion, [mental](rules/traits/mental.md "Mental Effect Trait"), and [visual](rules/traits/visual.md "Visual Effect Trait") effect. Creatures [fascinated](rules/conditions.md#Fascinated) with the tree must use at least one of their actions on each of their turns to move toward the tree.
+Any enemy that can see the tree, even if the enemy is outside the spell's area, must attempt a Will save. This is an emotion, [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait"), and [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait") effect. Creatures [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) with the tree must use at least one of their actions on each of their turns to move toward the tree.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected and is temporarily immune for 24 hours.
 > - **Success** The creature is unaffected, but it must attempt a new save at the end of its turn if it can still see the tree.
-> - **Failure** The creature is [fascinated](rules/conditions.md#Fascinated) with the tree until the end of its next turn. If it can still see the tree then, it must attempt a save again.
-> - **Critical Failure** The creature is [fascinated](rules/conditions.md#Fascinated) with the tree until the spell ends. The tree's fire damage doesn't end the fascination; other [hostile](rules/conditions.md#Hostile) actions end it, as normal. If the fascination ends, the creature must attempt a new save at the end of its turn if it can still see the tree.
+> - **Failure** The creature is [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) with the tree until the end of its next turn. If it can still see the tree then, it must attempt a save again.
+> - **Critical Failure** The creature is [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) with the tree until the spell ends. The tree's fire damage doesn't end the fascination; other [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) actions end it, as normal. If the fascination ends, the creature must attempt a new save at the end of its turn if it can still see the tree.
 
 **Heightened (+ 1)** The damage increases by `1d6`.
 

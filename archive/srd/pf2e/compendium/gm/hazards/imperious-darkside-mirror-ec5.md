@@ -10,14 +10,14 @@ tags:
 aliases: ["Imperious Darkside Mirror"]
 ---
 # Imperious Darkside Mirror *Hazard 19*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +32 legendary to notice that the mirror isn't a regular mirror.  
 
 This magic mirror replaces characters with evil duplicates from another dimension.
 
-- **Disable** DC 42 [Thievery](compendium/skills.md#Thievery) (legendary) to retrieve a creature from the mirror within 10 minutes of the switch (possible only if their mirror duplicate is dead), DC 47 [Thievery](compendium/skills.md#Thievery) (master) to permanently disable the mirror once all mirror duplicates are dead, or dispel magic (9th level; counteract DC 40) to counteract the mirror for 1 minute and prevent additional replacements from appearing during that time.  
+- **Disable** DC 42 [Thievery](skills.md#Thievery) (legendary) to retrieve a creature from the mirror within 10 minutes of the switch (possible only if their mirror duplicate is dead), DC 47 [Thievery](skills.md#Thievery) (master) to permanently disable the mirror once all mirror duplicates are dead, or dispel magic (9th level; counteract DC 40) to counteract the mirror for 1 minute and prevent additional replacements from appearing during that time.  
 
 - **AC** 41, **Fort** +32, **Ref** +27
 - **Hardness** 1, **HP** 4 (BT 2)
@@ -42,6 +42,6 @@ A mirror duplicate can spend 3 actions in contact with the mirror to return to i
 ```
 ^routine
 
-**Reset** The mirror is always ready to absorb creatures into another dimension. 10 minutes after a creature is sucked into the mirror, if an ally doesn't rescue the creature using the [Thievery](compendium/skills.md#Thievery) skill, the creature reaches the mirror dimension, where it could be captured or killed. In the mirror dimension, it counts as a mirror duplicate, so the denizens of the other dimension can't destroy the mirror on their side while the absorbed creature is there. These dimensions are alternate realities, not planes, so even rituals like plane shift can't reach them.  
+**Reset** The mirror is always ready to absorb creatures into another dimension. 10 minutes after a creature is sucked into the mirror, if an ally doesn't rescue the creature using the [Thievery](skills.md#Thievery) skill, the creature reaches the mirror dimension, where it could be captured or killed. In the mirror dimension, it counts as a mirror duplicate, so the denizens of the other dimension can't destroy the mirror on their side while the absorbed creature is there. These dimensions are alternate realities, not planes, so even rituals like plane shift can't reach them.  
 
 *Source: Extinction Curse #5: Lord of the Black Sands p. 54*

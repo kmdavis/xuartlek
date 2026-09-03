@@ -11,10 +11,10 @@ tags:
 aliases: ["Elemental Toss"]
 ---
 # Elemental Toss *Focus 1*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [evocation](evocation.md "Evocation School Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 

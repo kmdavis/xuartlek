@@ -14,7 +14,7 @@ tags:
 aliases: ["Puff Dragon"]
 ---
 # Puff Dragon *Item 9*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 120 gp
 
@@ -23,8 +23,8 @@ This cute and unassuming dragon toy activates once a creature moves into its squ
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and is [sickened](rules/conditions.md#Sickened).
-> - **Critical Failure** The creature takes double damage and is [sickened](rules/conditions.md#Sickened).
+> - **Failure** The creature takes full damage and is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Critical Failure** The creature takes double damage and is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
 
 
 ---

@@ -20,8 +20,8 @@ aliases: ["Tanagaar", "The Aurulent Eye"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Stealth
-- **Favored Weapon**: [kukri](compendium/equipment/items/kukri.md)
-- **Domains**: [darkness](compendium/setting/domains.md#Darkness), [duty](compendium/setting/domains.md#Duty), [nature](compendium/setting/domains.md#Nature), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [pass without trace](compendium/spells/pass-without-trace.md); 3rd: [animal vision](compendium/spells/animal-vision.md); 4th: aerial form (bird only)
+- **Favored Weapon**: [kukri](archive/srd/pf2e/compendium/equipment/items/kukri.md)
+- **Domains**: [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [pass without trace](pass-without-trace.md); 3rd: [animal vision](archive/srd/pf2e/compendium/spells/animal-vision.md); 4th: aerial form (bird only)

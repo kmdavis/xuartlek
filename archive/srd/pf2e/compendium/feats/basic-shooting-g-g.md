@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Shooting"]
 ---
 # Basic Shooting  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Gunslinger Dedication](compendium/feats/gunslinger-dedication-g-g.md)
+- **Prerequisites**: [Gunslinger Dedication](gunslinger-dedication-g-g.md)
 
 You gain a 1st- or 2nd-level gunslinger feat of your choice.
 
 ## Basic Shooting leads to...
 
-[Advanced Shooting](compendium/feats/advanced-shooting-g-g.md)
+[Advanced Shooting](advanced-shooting-g-g.md)
 
 ## Summary
 

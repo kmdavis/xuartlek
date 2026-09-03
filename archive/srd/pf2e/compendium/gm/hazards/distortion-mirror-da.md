@@ -9,14 +9,14 @@ tags:
 aliases: ["Distortion Mirror"]
 ---
 # Distortion Mirror *Hazard 14*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 38 0 to notice the mirror  
 
 Fun-house mirrors distort a viewer's reflection, painfully reshaping their body to match what appears in the reflected images.
 
-- **Disable** DC 38 [Thievery](compendium/skills.md#Thievery) (master) to deface the mirror's pane, or dispel magic (7th level; counteract DC 36) to dispel the mirror or counteract the transformation  
+- **Disable** DC 38 [Thievery](skills.md#Thievery) (master) to deface the mirror's pane, or dispel magic (7th level; counteract DC 36) to dispel the mirror or counteract the transformation  
 
 - **AC** 33, **Fort** +28, **Ref** +22
 - **Hardness** 24, **HP** 90 (BT 45)

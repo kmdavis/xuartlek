@@ -9,10 +9,10 @@ tags:
 aliases: ["Disintegrate"]
 ---
 # Disintegrate *Spell 6*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Targets**: 1 creature or unattended object
 - **Saving Throw**: Fortitude

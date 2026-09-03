@@ -9,11 +9,11 @@ tags:
 aliases: ["Check the Walls"]
 ---
 # Check the Walls
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](archive/srd/pf2e/rules/traits/secret.md "Secret General Trait")  
 *Source: Age of Ashes #4: Fires of the Haunted City p. 18*  
 
 
-A PC spends a day studying the walls and patrolling them. The PC then attempts either a DC 32 [Arcana](compendium/skills.md#Arcana) check or a DC 27 [Crafting](compendium/skills.md#Crafting) check.
+A PC spends a day studying the walls and patrolling them. The PC then attempts either a DC 32 [Arcana](skills.md#Arcana) check or a DC 27 [Crafting](skills.md#Crafting) check.
 
 > [!success-degree] 
 > - **Critical Success** The PC discovers an irregularity in the protective runes along the western portion of the wall—a subtle distortion of the stone and magic that's a sign of repetitive strain, and while no obvious source for this strain is apparent, the distortions suggest the hidden source lies somewhere underground in the immediate area. Unfortunately, further research into city documents and architectural plans do not reveal the existence of any underground chambers in the area, suggesting either that no such chamber exists or, if it does, the records are either faulty or missing.

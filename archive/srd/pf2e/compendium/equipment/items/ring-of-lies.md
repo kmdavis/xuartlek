@@ -11,12 +11,12 @@ tags:
 aliases: ["Ring of Lies"]
 ---
 # Ring of Lies *Item 10*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 850 gp
 - **Bulk** —; **Usage** worn
 
-This plain silver ring has an almost oily sheen. While wearing the ring, you gain a +2 item bonus to [Deception](compendium/skills.md#Deception) checks.
+This plain silver ring has an almost oily sheen. While wearing the ring, you gain a +2 item bonus to [Deception](skills.md#Deception) checks.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)

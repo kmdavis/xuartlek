@@ -11,11 +11,11 @@ tags:
 aliases: ["Horseshoes of Speed"]
 ---
 # Horseshoes of Speed *Item 7+*  
-[companion](rules/traits/companion.md "Companion Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[companion](archive/srd/pf2e/rules/traits/companion.md "Companion Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** 1; **Usage** worn horseshoes
 
-When you affix these simple iron horseshoes to the hooves of an ordinary horse or a quadrupedal animal companion and the animal companion invests them, that creature gains a +5-foot item bonus to its land Speed and a +2 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [High Jump](rules/actions/high-jump.md) and [Long Jump](rules/actions/long-jump.md). In addition, when it Leaps, it can move 5 feet farther if jumping horizontally or 3 feet higher if jumping vertically.
+When you affix these simple iron horseshoes to the hooves of an ordinary horse or a quadrupedal animal companion and the animal companion invests them, that creature gains a +5-foot item bonus to its land Speed and a +2 item bonus to [Athletics](skills.md#Athletics) checks to [High Jump](archive/srd/pf2e/rules/actions/high-jump.md) and [Long Jump](archive/srd/pf2e/rules/actions/long-jump.md). In addition, when it Leaps, it can move 5 feet farther if jumping horizontally or 3 feet higher if jumping vertically.
 
 ---
 
@@ -29,7 +29,7 @@ When you affix these simple iron horseshoes to the hooves of an ordinary horse o
 
 - **Price**: 4250 gp
 
-The bonus to Speed is +10 feet, and the bonus to [Athletics](compendium/skills.md#Athletics) checks is +3.
+The bonus to Speed is +10 feet, and the bonus to [Athletics](skills.md#Athletics) checks is +3.
 
 ---
 *Source: Core Rulebook p. 604*

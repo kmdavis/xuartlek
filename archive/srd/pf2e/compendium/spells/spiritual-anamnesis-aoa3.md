@@ -10,10 +10,10 @@ tags:
 aliases: ["Spiritual Anamnesis"]
 ---
 # Spiritual Anamnesis *Spell 4*   
-[mental](rules/traits/mental.md "Mental Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -23,8 +23,8 @@ Memories of a past life that seem incredibly real (and may even be) overwhelm th
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is [slowed](rules/conditions.md#Slowed) for 1 round.
-> - **Failure** The target is [slowed](rules/conditions.md#Slowed) for 1 minute and babbles about the visions, possibly providing information about what they saw.
-> - **Critical Failure** As failure, but the target is also [stunned](rules/conditions.md#Stunned).
+> - **Success** The creature is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 1 round.
+> - **Failure** The target is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 1 minute and babbles about the visions, possibly providing information about what they saw.
+> - **Critical Failure** As failure, but the target is also [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
 
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 74*

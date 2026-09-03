@@ -9,11 +9,11 @@ tags:
 aliases: ["Marvelous Medicines"]
 ---
 # Marvelous Medicines *Item 12+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Bulk** 1; **Usage** held in 2 hands
 
-This set of healer's tools contains a seemingly endless supply of bandages, herbs, and healing items of impeccable quality, granting you a +2 item bonus to [Medicine](compendium/skills.md#Medicine) checks.
+This set of healer's tools contains a seemingly endless supply of bandages, herbs, and healing items of impeccable quality, granting you a +2 item bonus to [Medicine](skills.md#Medicine) checks.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Treat Poison](rules/actions/treat-poison.md) or 8 hours ([Treat Disease](rules/actions/treat-disease.md))

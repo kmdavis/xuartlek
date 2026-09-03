@@ -9,10 +9,10 @@ tags:
 - trait/positive
 aliases: ["Spirit's Absolution"]
 ---
-# Spirit's Absolution  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
+# Spirit's Absolution  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [positive](positive.md "Positive Energy & Element Trait")  
 
-- **Prerequisites**: [Exorcist Dedication](compendium/feats/exorcist-dedication-botd.md)
+- **Prerequisites**: [Exorcist Dedication](exorcist-dedication-botd.md)
 - **Cost**: 1 spirit wisp or spirit remnant from your spirit dwelling
 - **Requirements**: You are holding your spirit dwelling.
 - **Activity** Single Action

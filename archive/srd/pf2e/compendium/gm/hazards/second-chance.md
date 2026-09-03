@@ -8,14 +8,14 @@ tags:
 aliases: ["Second Chance"]
 ---
 # Second Chance *Hazard 21*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 44 legendary  
 
 Powerful warding magic tied to an object or location tries to regress the ages of a creature and its allies.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 46 (legendary) to take apart the spell one tiny piece at a time, with eyes closed, while recalling every vivid life memory in order, starting from the earliest memory.  
+- **Disable** [Thievery](skills.md#Thievery) DC 46 (legendary) to take apart the spell one tiny piece at a time, with eyes closed, while recalling every vivid life memory in order, starting from the earliest memory.  
 
 ```ad-embed-ability
 title: **In the Beginning** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [transmutation](rules/traits/transmutation.md))

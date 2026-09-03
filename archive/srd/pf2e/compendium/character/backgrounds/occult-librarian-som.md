@@ -15,4 +15,4 @@ Hours spent reading numerous compendiums dedicated to various occult topics hone
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Occultism](compendium/skills.md#Occultism) skill and the [Academia Lore](compendium/skills.md#Lore) skill. You gain the [Schooled in Secrets](compendium/feats/schooled-in-secrets-apg.md) skill feat.
+You're trained in the [Occultism](skills.md#Occultism) skill and the [Academia Lore](skills.md#Lore) skill. You gain the [Schooled in Secrets](schooled-in-secrets-apg.md) skill feat.

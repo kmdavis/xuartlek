@@ -10,14 +10,14 @@ tags:
 aliases: ["Krooth Summoning Rune"]
 ---
 # Krooth Summoning Rune *Hazard 8*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +14 expert  
 
 The haze conceals a rune that summons a krooth in front of the door to area B10.
 
-- **Disable** DC 24 [Acrobatics](compendium/skills.md#Acrobatics) to approach without triggering the trap followed by DC 26 [Thievery](compendium/skills.md#Thievery) (expert) to erase the rune, or dispel magic (4th level; counteract DC 24) to counteract the rune.  
+- **Disable** DC 24 [Acrobatics](skills.md#Acrobatics) to approach without triggering the trap followed by DC 26 [Thievery](skills.md#Thievery) (expert) to erase the rune, or dispel magic (4th level; counteract DC 24) to counteract the rune.  
 
 ```ad-embed-ability
 title: **Summon Monster** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [conjuration](rules/traits/conjuration.md), summon)

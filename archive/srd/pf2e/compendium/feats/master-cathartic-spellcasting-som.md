@@ -7,9 +7,9 @@ tags:
 aliases: ["Master Cathartic Spellcasting"]
 ---
 # Master Cathartic Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Expert Cathartic Spellcasting](compendium/feats/expert-cathartic-spellcasting-som.md)
+- **Prerequisites**: [Expert Cathartic Spellcasting](expert-cathartic-spellcasting-som.md)
 
 You gain the master spellcasting benefits.
 

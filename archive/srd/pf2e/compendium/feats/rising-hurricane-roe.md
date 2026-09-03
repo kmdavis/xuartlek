@@ -12,8 +12,8 @@ tags:
 - trait/water
 aliases: ["Rising Hurricane"]
 ---
-# Rising Hurricane  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 6*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [composite](rules/traits/composite-roe.md "Composite Action & Ability Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+# Rising Hurricane  [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 6*  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [composite](composite-roe.md "Composite Action & Ability Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [overflow](overflow-roe.md "Overflow Action & Ability Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Activity** Three-Action
 

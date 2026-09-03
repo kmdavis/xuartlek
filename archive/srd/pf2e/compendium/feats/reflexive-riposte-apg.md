@@ -7,9 +7,9 @@ tags:
 aliases: ["Reflexive Riposte"]
 ---
 # Reflexive Riposte  *Feat 10*  
-[swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
+[swashbuckler](archive/srd/pf2e/rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
-- **Prerequisites**: [Opportune Riposte](rules/actions/opportune-riposte-apg.md)
+- **Prerequisites**: [Opportune Riposte](opportune-riposte-apg.md)
 
 You can riposte almost without a thought. At the start of each of your turns when you regain your actions, you gain an additional reaction that can be used only to perform an Opportune Riposte.
 

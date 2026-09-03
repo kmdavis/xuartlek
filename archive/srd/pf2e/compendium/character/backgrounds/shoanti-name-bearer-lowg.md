@@ -15,4 +15,4 @@ You are a member of a Shoanti quah and have gone through its coming of age cerem
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Quah Lore](compendium/skills.md#Lore) skill. You gain the [Combat Climber](compendium/feats/combat-climber.md) skill feat.
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Quah Lore](skills.md#Lore) skill. You gain the [Combat Climber](archive/srd/pf2e/compendium/feats/combat-climber.md) skill feat.

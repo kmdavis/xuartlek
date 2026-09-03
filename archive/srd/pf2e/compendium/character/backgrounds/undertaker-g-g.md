@@ -15,4 +15,4 @@ People die. This is the unfortunate fact of life on which you've founded your bu
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Medicine](compendium/skills.md#Medicine) skill and a [Lore](compendium/skills.md#Lore) skill specializing in one local type of undead. You gain the [Forensic Acumen](compendium/feats/forensic-acumen-apg.md) skill feat (Advanced Player's Guide 206).
+You're trained in the [Medicine](skills.md#Medicine) skill and a [Lore](skills.md#Lore) skill specializing in one local type of undead. You gain the [Forensic Acumen](forensic-acumen-apg.md) skill feat (Advanced Player's Guide 206).

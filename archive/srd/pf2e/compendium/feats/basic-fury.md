@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Fury"]
 ---
 # Basic Fury  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Barbarian Dedication](compendium/feats/barbarian-dedication.md)
+- **Prerequisites**: [Barbarian Dedication](archive/srd/pf2e/compendium/feats/barbarian-dedication.md)
 
 You gain a 1st- or 2nd-level barbarian feat.
 
 ## Basic Fury leads to...
 
-[Advanced Fury](compendium/feats/advanced-fury.md)
+[Advanced Fury](archive/srd/pf2e/compendium/feats/advanced-fury.md)
 
 ## Summary
 

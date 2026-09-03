@@ -7,18 +7,18 @@ tags:
 aliases: ["Spell Pitchers"]
 ---
 # Spell Pitchers *Hazard 1*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained to recognize the plant among others  
 
 A large pitcher plant occupying a 5-foot space sits seemingly dormant with its dull petals open.
 
-- **Disable** DC 15 [Arcana](compendium/skills.md#Arcana) (trained) to safely trigger the plant's reflexes, causing it to close and become dormant for one day, or DC 17 [Nature](compendium/skills.md#Nature) (trained) to carefully coax the pitcher into quiescence  
+- **Disable** DC 15 [Arcana](skills.md#Arcana) (trained) to safely trigger the plant's reflexes, causing it to close and become dormant for one day, or DC 17 [Nature](skills.md#Nature) (trained) to carefully coax the pitcher into quiescence  
 
 - **AC** 16, **Fort** +11, **Ref** +5
 - **HP** 40 (BT 20)
-- **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
+- **Immunities** [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")
 - **Weaknesses** slashing 10
 
 ```ad-embed-ability

@@ -13,11 +13,11 @@ tags:
 aliases: ["Grinning Pugwampi"]
 ---
 # Grinning Pugwampi *Item 14*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [misfortune](archive/srd/pf2e/rules/traits/misfortune.md "Misfortune Effect Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 700 gp
 - **Bulk** —; **Usage** affixed to a weapon
-- **Activate** envision; **Trigger** You damage a [flat-footed](rules/conditions.md#Flat-footed) creature with the affixed weapon.
+- **Activate** envision; **Trigger** You damage a [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) creature with the affixed weapon.
 
 This bone statuette of a sneering gremlin crumbles to dust when activated, imparting a fraction of its subject's infamous misfortune on those you strike. The damaged creature must attempt a DC 33 Will save.
 

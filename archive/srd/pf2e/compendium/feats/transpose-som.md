@@ -10,8 +10,8 @@ tags:
 - trait/teleportation
 aliases: ["Transpose"]
 ---
-# Transpose  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+# Transpose  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Activity** Single Action
 

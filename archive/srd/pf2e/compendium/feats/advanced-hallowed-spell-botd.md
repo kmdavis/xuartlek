@@ -7,11 +7,11 @@ tags:
 aliases: ["Advanced Hallowed Spell"]
 ---
 # Advanced Hallowed Spell  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md), necromancer initial school spell or death initial domain spell
+- **Prerequisites**: [Hallowed Necromancer Dedication](hallowed-necromancer-dedication-botd.md), necromancer initial school spell or death initial domain spell
 
-You dig deeper into the magical tools found in wizard schools and divine domains. You gain an advanced focus spell, either the necromancer advanced school spell [life siphon](compendium/spells/life-siphon.md) or the advanced domain spell of the death domain, [eradicate undeath](compendium/spells/eradicate-undeath.md). Increase the number of Focus Points in your focus pool by 1. If you choose life siphon, it triggers when you expend spell slots from your class even if they aren't wizard spell slots.
+You dig deeper into the magical tools found in wizard schools and divine domains. You gain an advanced focus spell, either the necromancer advanced school spell [life siphon](life-siphon.md) or the advanced domain spell of the death domain, [eradicate undeath](archive/srd/pf2e/compendium/spells/eradicate-undeath.md). Increase the number of Focus Points in your focus pool by 1. If you choose life siphon, it triggers when you expend spell slots from your class even if they aren't wizard spell slots.
 
 **Special.** You can select this feat a second time, choosing the other advanced focus spell.
 

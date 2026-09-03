@@ -11,12 +11,12 @@ tags:
 aliases: ["Energizing Lattice"]
 ---
 # Energizing Lattice *Item 13*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 3000 gp
 - **Bulk** 2; **Usage** worn armor
 
-This suit of +2 resilient fortification lattice armor has latticework of fine golden wire. After negating a critical hit with its fortification rune, the latticework glows for 1 minute, shedding bright light in a 20-foot radius (and dim light for the next 20 feet). You can [Dismiss](rules/actions/dismiss.md) this light.
+This suit of +2 resilient fortification lattice armor has latticework of fine golden wire. After negating a critical hit with its fortification rune, the latticework glows for 1 minute, shedding bright light in a 20-foot radius (and dim light for the next 20 feet). You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) this light.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision ([force](rules/traits/force.md))

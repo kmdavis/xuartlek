@@ -12,10 +12,10 @@ tags:
 aliases: ["Wilding Word"]
 ---
 # Wilding Word *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [hex](hex-apg.md "Hex Combat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](archive/srd/pf2e/rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Patron** Witch
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Targets**: 1 animal, fungus, or plant
 - **Saving Throw**: Will
@@ -26,7 +26,7 @@ With a few words, you convince a wild creature you are a kindred spirit, making 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** When the target attempts an attack roll or skill check that would harm you, it takes a –2 status penalty to its roll.
-> - **Failure** As success, but the target also becomes [sickened](rules/conditions.md#Sickened) each time it damages you.
-> - **Critical Failure** As success, but the target also becomes [sickened](rules/conditions.md#Sickened) each time it damages you.
+> - **Failure** As success, but the target also becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) each time it damages you.
+> - **Critical Failure** As success, but the target also becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) each time it damages you.
 
 *Source: Advanced Player's Guide p. 239*

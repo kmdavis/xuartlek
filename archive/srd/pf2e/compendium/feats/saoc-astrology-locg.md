@@ -8,8 +8,8 @@ tags:
 - trait/uncommon
 aliases: ["Saoc Astrology"]
 ---
-# Saoc Astrology  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [human](rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Saoc Astrology  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Lirgeni nationality
 - **Frequency**: three per day
@@ -20,7 +20,7 @@ The ancient Saoc Brethren were the masters of astrology, and while your knowledg
 
 ## Saoc Astrology leads to...
 
-[Heir Of The Saoc](compendium/feats/heir-of-the-saoc-locg.md)
+[Heir Of The Saoc](heir-of-the-saoc-locg.md)
 
 ## Summary
 

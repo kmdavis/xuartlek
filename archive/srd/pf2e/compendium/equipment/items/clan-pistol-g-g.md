@@ -11,7 +11,7 @@ tags:
 aliases: ["Clan Pistol"]
 ---
 # Clan Pistol *Item 0*  
-[concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concussive](concussive-g-g.md "Concussive Weapon Trait")  [dwarf](archive/srd/pf2e/rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 5 gp

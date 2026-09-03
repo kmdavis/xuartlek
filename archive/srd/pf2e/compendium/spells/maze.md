@@ -10,15 +10,15 @@ tags:
 aliases: ["Maze"]
 ---
 # Maze *Spell 8*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [extradimensional](archive/srd/pf2e/rules/traits/extradimensional.md "Extradimensional Effect Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Duration**: sustained
 
-You transport the target into an extradimensional maze of eldritch origin and trap it there. Once each turn, the target can spend 1 action to attempt a [Survival](compendium/skills.md#Survival) check or [Perception](compendium/skills.md#Perception) check against your spell DC to escape the maze. The possible outcomes are as follows.
+You transport the target into an extradimensional maze of eldritch origin and trap it there. Once each turn, the target can spend 1 action to attempt a [Survival](skills.md#Survival) check or [Perception](skills.md#Perception) check against your spell DC to escape the maze. The possible outcomes are as follows.
 
 > [!success-degree] 
 > - **Critical Success** The target escapes and the spell ends.

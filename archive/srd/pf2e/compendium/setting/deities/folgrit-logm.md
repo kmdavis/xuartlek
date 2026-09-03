@@ -20,8 +20,8 @@ aliases: ["Folgrit", "The Watchful Mother"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Medicine
-- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
-- **Domains**: [cities](compendium/setting/domains.md#Cities), [family](compendium/setting/domains.md#Family), [repose](compendium/setting/domains.md#Repose), [protection](compendium/setting/domains.md#Protection)
-- **Cleric Spells**: 1st: [endure](compendium/spells/endure-logm.md); 4th: [fire shield](compendium/spells/fire-shield.md); 9th: [resplendent mansion](compendium/spells/resplendent-mansion.md)
+- **Favored Weapon**: [staff](archive/srd/pf2e/compendium/equipment/items/staff.md)
+- **Domains**: [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [endure](endure-logm.md); 4th: [fire shield](archive/srd/pf2e/compendium/spells/fire-shield.md); 9th: [resplendent mansion](archive/srd/pf2e/compendium/spells/resplendent-mansion.md)

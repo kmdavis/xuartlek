@@ -10,12 +10,12 @@ tags:
 aliases: ["Coating"]
 ---
 # Coating *Item 9*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [extradimensional](archive/srd/pf2e/rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 700 gp
 - **Usage** etched onto a weapon
 
-When etched, this rune creates an extradimensional space that links to the weapon that wields it. The space can hold up to 1 Bulk but can contain only poisons and magic oils that could be applied to the weapon. Stowing or retrieving an item in the space requires an [Interact](rules/actions/interact.md) action, except when using the rune's activation.
+When etched, this rune creates an extradimensional space that links to the weapon that wields it. The space can hold up to 1 Bulk but can contain only poisons and magic oils that could be applied to the weapon. Stowing or retrieving an item in the space requires an [Interact](archive/srd/pf2e/rules/actions/interact.md) action, except when using the rune's activation.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

@@ -24,11 +24,11 @@ aliases: ["Diomazul", "The Serpent of Eighty Blades"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Dexterity
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [scimitar](compendium/equipment/items/scimitar.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [earth](compendium/setting/domains.md#Earth), [water](compendium/setting/domains.md#Water), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 2nd: [slough skin](compendium/spells/slough-skin-logm.md); 4th: [weapon storm](compendium/spells/weapon-storm.md)
+- **Favored Weapon**: [scimitar](archive/srd/pf2e/compendium/equipment/items/scimitar.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [water](archive/srd/pf2e/compendium/setting/domains.md#Water), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md); 2nd: [slough skin](slough-skin-logm.md); 4th: [weapon storm](archive/srd/pf2e/compendium/spells/weapon-storm.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Diomazul

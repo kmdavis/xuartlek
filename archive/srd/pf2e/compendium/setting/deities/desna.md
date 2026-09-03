@@ -21,19 +21,19 @@ aliases: ["Desna", "The Song of the Spheres"]
 *Source: Core Rulebook p. 438*  
 
 - **Category**: Gods of the Inner Sea
-- **Anathema**: cause fear or despair, cast [nightmare](compendium/spells/nightmare.md) or use similar magic to corrupt dreams, engage in bigoted behavior
+- **Anathema**: cause fear or despair, cast [nightmare](archive/srd/pf2e/compendium/spells/nightmare.md) or use similar magic to corrupt dreams, engage in bigoted behavior
 - **Areas of Concern**: dreams, luck, stars, and travelers
 - **Follower Alignments**: [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait"), [CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")
 
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Acrobatics
-- **Favored Weapon**: [starknife](compendium/equipment/items/starknife.md)
-- **Domains**: [dreams](compendium/setting/domains.md#Dreams), [luck](compendium/setting/domains.md#Luck), [moon](compendium/setting/domains.md#Moon), [travel](compendium/setting/domains.md#Travel)
-- **Alternate Domains**: [star](compendium/setting/domains.md#Star), [void](compendium/setting/domains.md#Void)
-- **Cleric Spells**: 1st: [sleep](compendium/spells/sleep.md); 4th: [fly](compendium/spells/fly.md); 5th: [dreaming potential](compendium/spells/dreaming-potential.md)
+- **Favored Weapon**: [starknife](archive/srd/pf2e/compendium/equipment/items/starknife.md)
+- **Domains**: [dreams](archive/srd/pf2e/compendium/setting/domains.md#Dreams), [luck](archive/srd/pf2e/compendium/setting/domains.md#Luck), [moon](archive/srd/pf2e/compendium/setting/domains.md#Moon), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel)
+- **Alternate Domains**: [star](archive/srd/pf2e/compendium/setting/domains.md#Star), [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [sleep](archive/srd/pf2e/compendium/spells/sleep.md); 4th: [fly](archive/srd/pf2e/compendium/spells/fly.md); 5th: [dreaming potential](archive/srd/pf2e/compendium/spells/dreaming-potential.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Desna
@@ -54,5 +54,5 @@ Desna favors those who follow their hearts and whims without bringing harm to ot
 - **Major Boon**: Desna bestows you with a swirling cloud of lights that forms a pair of wondrous butterfly wings. These wings grant you a fly Speed of 40 feet and shine dim light to a range of 20 feet.
 
 - **Minor Curse**: You always seem to lose your way or have strange mishaps on the road that delay your travel. You (and thus any group that travels with you) travel at only 3/4 normal exploration Speed, before taking into account the terrain and other features that might slow you down further.
-- **Moderate Curse** Misfortune follows you in your travels and requires acts of contrition or benevolence to keep at bay. You must always roll twice and take the worst result when attempting a check. This is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect. You can express your remorse and ignore this effect for `1d4` rounds by spending an action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. If you perform a truly selfless act of compassion, you ignore this effect for 1 day.
-- **Major Curse**: The stars rebuke you for your ways. You are [sickened](rules/conditions.md#Sickened) and [slowed](rules/conditions.md#Slowed) whenever you are exposed to starlight.
+- **Moderate Curse** Misfortune follows you in your travels and requires acts of contrition or benevolence to keep at bay. You must always roll twice and take the worst result when attempting a check. This is a [misfortune](archive/srd/pf2e/rules/traits/misfortune.md "Misfortune Effect Trait") effect. You can express your remorse and ignore this effect for `1d4` rounds by spending an action, which has the [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait. If you perform a truly selfless act of compassion, you ignore this effect for 1 day.
+- **Major Curse**: The stars rebuke you for your ways. You are [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) and [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) whenever you are exposed to starlight.

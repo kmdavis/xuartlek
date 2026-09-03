@@ -12,7 +12,7 @@ tags:
 aliases: ["Glorious Plate"]
 ---
 # Glorious Plate *Item 14*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [good](good.md "Good Alignment Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 4500 gp
 - **Bulk** 4; **Usage** worn, armor
@@ -21,8 +21,8 @@ This elegant full plate is embossed with heraldic imagery and never tarnishes or
 
 > [!success-degree] 
 > - **Success** The enemy is unaffected.
-> - **Failure** For 1 minute, the wearer's allies within the glorious plate's 10-foot radius of light are [concealed](rules/conditions.md#Concealed) to the enemy. Allies are [concealed](rules/conditions.md#Concealed) only while they remain within the light; if allies enter the light later, they are [concealed](rules/conditions.md#Concealed) as well.
-> - **Critical Failure** As failure, except the wearer's allies are [hidden](rules/conditions.md#Hidden) to the enemy instead of [concealed](rules/conditions.md#Concealed). Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md); Frequency once per 10 minutes; Effect The armor casts sanctuary on you.
+> - **Failure** For 1 minute, the wearer's allies within the glorious plate's 10-foot radius of light are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) to the enemy. Allies are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) only while they remain within the light; if allies enter the light later, they are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) as well.
+> - **Critical Failure** As failure, except the wearer's allies are [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) to the enemy instead of [concealed](archive/srd/pf2e/rules/conditions.md#Concealed). Activate [>>](chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](archive/srd/pf2e/rules/actions/interact.md); Frequency once per 10 minutes; Effect The armor casts sanctuary on you.
 
 
 ---

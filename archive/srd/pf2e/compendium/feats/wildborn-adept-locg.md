@@ -7,11 +7,11 @@ tags:
 aliases: ["Wildborn Adept"]
 ---
 # Wildborn Adept  *Feat 5*  
-[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
+[elf](archive/srd/pf2e/rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Wildborn Magic](compendium/feats/wildborn-magic-locg.md)
+- **Prerequisites**: [Wildborn Magic](wildborn-magic-locg.md)
 
-The whispers of the jungle grant you more diverse access to simple primal magic. You can cast [dancing lights](compendium/spells/dancing-lights.md), disrupt undead, and tanglefoot as innate primal spells at will.
+The whispers of the jungle grant you more diverse access to simple primal magic. You can cast [dancing lights](dancing-lights.md), disrupt undead, and tanglefoot as innate primal spells at will.
 
 If you chose one of those spells with Wildborn Magic, you can select a new spell for Wildborn Magic.
 

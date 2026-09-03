@@ -13,10 +13,10 @@ tags:
 aliases: ["Rejuvenating Flames"]
 ---
 # Rejuvenating Flames *Focus 1*   
-[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot cone
 - **Saving Throw**:  basic Reflex
 

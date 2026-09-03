@@ -12,10 +12,10 @@ tags:
 aliases: ["Embrace The Pit"]
 ---
 # Embrace The Pit *Focus 3*   
-[evil](rules/traits/evil.md "Evil Alignment Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evil](evil.md "Evil Alignment Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - 
 - **Duration**: 1 minute
 

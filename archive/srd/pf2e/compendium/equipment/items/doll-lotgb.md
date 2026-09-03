@@ -26,13 +26,13 @@ This price is for an average doll of any type.
 
 - **Price**: 1 gp
 
-These dolls contain a [hidden](rules/conditions.md#Hidden) compartment or pouch capable of holding a single object of up to light Bulk—typically a bell, rattle, or dried flowers.
+These dolls contain a [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) compartment or pouch capable of holding a single object of up to light Bulk—typically a bell, rattle, or dried flowers.
 
 #### exquisite surprise doll *Item 2*
 
 - **Price**: 10 gp
 
-Hiding an object inside this beautifully crafted surprise doll grants you a +1 item bonus on [Stealth](compendium/skills.md#Stealth) checks made to Conceal an Item, as the compartment is particularly well-[hidden](rules/conditions.md#Hidden) and weighted to ensure the doll doesn't feel off-balance with an item inside.
+Hiding an object inside this beautifully crafted surprise doll grants you a +1 item bonus on [Stealth](skills.md#Stealth) checks made to Conceal an Item, as the compartment is particularly well-[hidden](archive/srd/pf2e/rules/conditions.md#Hidden) and weighted to ensure the doll doesn't feel off-balance with an item inside.
 
 ---
 *Source: Lost Omens: The Grand Bazaar p. 58*

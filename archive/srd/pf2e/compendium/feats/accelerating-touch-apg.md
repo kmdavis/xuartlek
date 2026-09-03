@@ -7,9 +7,9 @@ tags:
 aliases: ["Accelerating Touch"]
 ---
 # Accelerating Touch  *Feat 4*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
-- **Prerequisites**: devotion spell ([lay on hands](compendium/spells/lay-on-hands.md))
+- **Prerequisites**: devotion spell ([lay on hands](archive/srd/pf2e/compendium/spells/lay-on-hands.md))
 
 Your healing energies are infused with bounding energy. A creature that recovers Hit Points from your lay on hands gains a +10-foot status bonus to its Speed until the end of its next turn.
 

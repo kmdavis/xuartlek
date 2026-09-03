@@ -7,15 +7,15 @@ tags:
 aliases: ["Expert Cleric Spellcasting"]
 ---
 # Expert Cleric Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Cleric Spellcasting](compendium/feats/basic-cleric-spellcasting.md), master in [Religion](compendium/skills.md#Religion)
+- **Prerequisites**: [Basic Cleric Spellcasting](archive/srd/pf2e/compendium/feats/basic-cleric-spellcasting.md), master in [Religion](skills.md#Religion)
 
 You gain the expert spellcasting benefits.
 
 ## Expert Cleric Spellcasting leads to...
 
-[Master Cleric Spellcasting](compendium/feats/master-cleric-spellcasting.md)
+[Master Cleric Spellcasting](archive/srd/pf2e/compendium/feats/master-cleric-spellcasting.md)
 
 ## Summary
 

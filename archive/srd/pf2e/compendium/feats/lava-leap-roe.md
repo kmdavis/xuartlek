@@ -12,12 +12,12 @@ tags:
 - trait/primal
 aliases: ["Lava Leap"]
 ---
-# Lava Leap  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[composite](rules/traits/composite-roe.md "Composite Action & Ability Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Lava Leap  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
+[composite](composite-roe.md "Composite Action & Ability Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [overflow](overflow-roe.md "Overflow Action & Ability Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Two-Action
 
-You wreath yourself in molten stone and hurtle toward your enemy. [Leap](rules/actions/leap.md) up to your Speed. At the end of your [Leap](rules/actions/leap.md), a wave of lava crashes onto all creatures in a 10-foot emanation. Each creature in the area takes `1d6` bludgeoning damage and `2d6` fire damage, with a basic Reflex save against your class DC.
+You wreath yourself in molten stone and hurtle toward your enemy. [Leap](archive/srd/pf2e/rules/actions/leap.md) up to your Speed. At the end of your [Leap](archive/srd/pf2e/rules/actions/leap.md), a wave of lava crashes onto all creatures in a 10-foot emanation. Each creature in the area takes `1d6` bludgeoning damage and `2d6` fire damage, with a basic Reflex save against your class DC.
 
 The cooling remains of the lava form a temporary protective shell around you, granting you a +2 circumstance bonus to AC until the start of your next turn.
 

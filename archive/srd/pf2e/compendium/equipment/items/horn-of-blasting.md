@@ -9,12 +9,12 @@ tags:
 aliases: ["Horn of Blasting"]
 ---
 # Horn of Blasting *Item 9*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Price** 700 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-A horn of blasting is a bright brass trumpet. It can be played as an instrument, granting a +2 item bonus to your [Performance](compendium/skills.md#Performance) check.
+A horn of blasting is a bright brass trumpet. It can be played as an instrument, granting a +2 item bonus to your [Performance](skills.md#Performance) check.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

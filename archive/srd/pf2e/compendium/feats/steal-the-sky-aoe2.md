@@ -7,11 +7,11 @@ tags:
 aliases: ["Steal The Sky"]
 ---
 # Steal The Sky  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Jalmeri Heavenseeker Dedication](compendium/feats/jalmeri-heavenseeker-dedication-aoe2.md)
+- **Prerequisites**: [Jalmeri Heavenseeker Dedication](jalmeri-heavenseeker-dedication-aoe2.md)
 
-You can take away the air that keeps a flying foe aloft. You gain the [steal the sky](compendium/spells/steal-the-sky-aoe2.md) ki spell. Increase the number of Focus Points in your focus pool by 1.
+You can take away the air that keeps a flying foe aloft. You gain the [steal the sky](archive/srd/pf2e/compendium/spells/steal-the-sky-aoe2.md) ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Agents of Edgewatch #2: Sixty Feet Under p. 79*  
 %% #compendium/src/pf2e/aoe2 #trait/archetype %%

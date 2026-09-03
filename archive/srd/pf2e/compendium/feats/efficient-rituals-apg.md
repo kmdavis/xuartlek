@@ -7,15 +7,15 @@ tags:
 aliases: ["Efficient Rituals"]
 ---
 # Efficient Rituals  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Ritualist Dedication](compendium/feats/ritualist-dedication-apg.md)
+- **Prerequisites**: [Ritualist Dedication](ritualist-dedication-apg.md)
 
 You can perform some rituals in less time. If the ritual normally requires 1 day to cast, you can cast it in 4 hours. If it takes longer than 1 day, you cast it in half the number of days, rounded up.
 
 ## Efficient Rituals leads to...
 
-[Speedy Rituals](compendium/feats/speedy-rituals-apg.md)
+[Speedy Rituals](speedy-rituals-apg.md)
 
 ## Summary
 

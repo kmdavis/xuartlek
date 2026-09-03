@@ -9,11 +9,11 @@ tags:
 aliases: ["Poison Concentrator"]
 ---
 # Poison Concentrator *Item 5+*  
-[additive <1>](rules/traits/additive-1.md "Additive Feat Trait")  [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  
+[additive <1>](rules/traits/additive-1.md "Additive Feat Trait")  [alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  
 
 - **Bulk** L; **Usage** held in 2 hands
 
-This compression apparatus can reduce two poisons into a more concentrated dose. As a 10-minute activity that has the [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait, you can use a poison concentrator to combine two doses of the same alchemical poison, creating a single concentrated poison with a +1 item bonus to its DC.
+This compression apparatus can reduce two poisons into a more concentrated dose. As a 10-minute activity that has the [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait") trait, you can use a poison concentrator to combine two doses of the same alchemical poison, creating a single concentrated poison with a +1 item bonus to its DC.
 
 ---
 

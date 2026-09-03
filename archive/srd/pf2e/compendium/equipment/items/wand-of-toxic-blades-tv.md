@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Toxic Blades"]
 ---
 # Wand of Toxic Blades *Item 15+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [force](archive/srd/pf2e/rules/traits/force.md "Force Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of blade barrier of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand

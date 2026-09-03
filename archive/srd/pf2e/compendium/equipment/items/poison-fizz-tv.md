@@ -10,12 +10,12 @@ tags:
 aliases: ["Poison Fizz"]
 ---
 # Poison Fizz *Item 8+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [lozenge](rules/traits/lozenge-tv.md "Lozenge Item Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [lozenge](lozenge-tv.md "Lozenge Item Trait")  
 
 - **Bulk** —; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Made from a special mixture of honey and alchemical reagents, poison fizz is a zesty, sweet rock candy that pops and crackles in your mouth. For 1 hour, you have resistance to poison and an item bonus to saving throws against poison and being [petrified](rules/conditions.md#Petrified).
+Made from a special mixture of honey and alchemical reagents, poison fizz is a zesty, sweet rock candy that pops and crackles in your mouth. For 1 hour, you have resistance to poison and an item bonus to saving throws against poison and being [petrified](archive/srd/pf2e/rules/conditions.md#Petrified).
 
 ```ad-embed-ability
 title: **Secondary Effect** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([poison](rules/traits/poison.md))

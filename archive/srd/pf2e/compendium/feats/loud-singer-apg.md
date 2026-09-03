@@ -7,9 +7,9 @@ tags:
 aliases: ["Loud Singer"]
 ---
 # Loud Singer  *Feat 5*  
-[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
+[goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Goblin Song](compendium/feats/goblin-song.md)
+- **Prerequisites**: [Goblin Song](archive/srd/pf2e/compendium/feats/goblin-song.md)
 
 Staying on pitch, proper breath control, and remembering the words are all less important than the real measure of a good singer: volume! The range of your Goblin Song is increased to 60 feet, and you can target one additional enemy when you use it.
 

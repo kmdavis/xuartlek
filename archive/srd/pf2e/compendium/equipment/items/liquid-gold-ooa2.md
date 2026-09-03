@@ -12,10 +12,10 @@ tags:
 aliases: ["Liquid Gold"]
 ---
 # Liquid Gold *Item 6+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** —; **Usage** affixed to a one-handed firearm or hand crossbow
-- **Activate** [Interact](rules/actions/interact.md); **Trigger** You roll for initiative; **Requirements** You're an expert in [Stealth](compendium/skills.md#Stealth).
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md); **Trigger** You roll for initiative; **Requirements** You're an expert in [Stealth](skills.md#Stealth).
 
 This glass vial containing liquid gold is fastened to a weapon by a fine gold chain.
 

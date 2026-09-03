@@ -9,9 +9,9 @@ tags:
 aliases: ["Talking Corpse"]
 ---
 # Talking Corpse *Spell 4*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**: touch
 - **Targets**: 1 corpse
@@ -24,6 +24,6 @@ You grant the target corpse a semblance of life, which it uses to speak the answ
 > - **Critical Success** The target can lie or refuse to answer your questions, and the target's spirit haunts you for 24 hours, bothering you and causing you to be unable to gain any rest for that time.
 > - **Success** The target can provide false information or refuse to answer your questions.
 > - **Failure** The target must answer truthfully, but its answers can be brief, cryptic, and repetitive. It can still mislead you or attempt to stall so that the spell's duration runs out before you can ask all your questions.
-> - **Critical Failure** As failure, but the target's answers are more direct and less repetitive, though still cryptic. It takes a –2 status penalty to [Deception](compendium/skills.md#Deception) checks to deceive or mislead you.
+> - **Critical Failure** As failure, but the target's answers are more direct and less repetitive, though still cryptic. It takes a –2 status penalty to [Deception](skills.md#Deception) checks to deceive or mislead you.
 
 *Source: Core Rulebook p. 376*

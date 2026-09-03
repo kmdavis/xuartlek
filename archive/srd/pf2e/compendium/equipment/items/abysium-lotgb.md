@@ -9,10 +9,10 @@ tags:
 aliases: ["Abysium"]
 ---
 # Abysium *Item 0+*  
-[precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[precious](archive/srd/pf2e/rules/traits/precious.md "Precious Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
-A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is [sickened](rules/conditions.md#Sickened) for a standard-grade object of light Bulk, [sickened](rules/conditions.md#Sickened) for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or [sickened](rules/conditions.md#Sickened) for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are [poison](rules/traits/poison.md "Poison Effect Trait") effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
+A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) for a standard-grade object of light Bulk, [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait") effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 
 <table>
 <tr>

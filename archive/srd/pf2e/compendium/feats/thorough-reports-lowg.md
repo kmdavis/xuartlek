@@ -8,15 +8,15 @@ tags:
 aliases: ["Thorough Reports"]
 ---
 # Thorough Reports  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
+- **Prerequisites**: [Pathfinder Agent Dedication](pathfinder-agent-dedication-lowg.md)
 
-Your reports are thorough and informative, and putting your thoughts to paper helps you retain the information. Keep track of each type of creature you successfully identify with [Recall Knowledge](rules/actions/recall-knowledge.md). When attempting [Recall Knowledge](rules/actions/recall-knowledge.md) checks against creatures on your list in later encounters, you gain a +2 circumstance bonus, and you learn an additional fact about such creatures on a success.
+Your reports are thorough and informative, and putting your thoughts to paper helps you retain the information. Keep track of each type of creature you successfully identify with [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md). When attempting [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) checks against creatures on your list in later encounters, you gain a +2 circumstance bonus, and you learn an additional fact about such creatures on a success.
 
 ## Thorough Reports leads to...
 
-[Discerning Strike](compendium/feats/discerning-strike-lopsg.md)
+[Discerning Strike](discerning-strike-lopsg.md)
 
 ## Summary
 

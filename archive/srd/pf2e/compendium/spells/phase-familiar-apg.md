@@ -11,9 +11,9 @@ tags:
 aliases: ["Phase Familiar"]
 ---
 # Phase Familiar *Focus 1*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [hex](hex-apg.md "Hex Combat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](archive/srd/pf2e/rules/traits/witch-apg.md "Witch Class Trait")  
 
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: Your familiar would take damage.
 - **Range**: 60 foot
 - **Targets**: your familiar

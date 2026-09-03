@@ -11,12 +11,12 @@ tags:
 aliases: ["Bitter"]
 ---
 # Bitter *Item 9*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 135 gp
 - **Usage** etched onto armor
 
-While you wear this acrid armor, any creature that Engulfs you or Swallows you Whole is [sickened](rules/conditions.md#Sickened); if it spends an action retching to reduce the [sickened](rules/conditions.md#Sickened) condition, you can attempt to [Escape](rules/actions/escape.md) as a reaction.
+While you wear this acrid armor, any creature that Engulfs you or Swallows you Whole is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened); if it spends an action retching to reduce the [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) condition, you can attempt to [Escape](archive/srd/pf2e/rules/actions/escape.md) as a reaction.
 
 
 ---

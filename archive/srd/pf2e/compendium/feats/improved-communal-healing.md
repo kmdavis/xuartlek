@@ -7,11 +7,11 @@ tags:
 aliases: ["Improved Communal Healing"]
 ---
 # Improved Communal Healing  *Feat 4*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
-- **Prerequisites**: [Communal Healing](compendium/feats/communal-healing.md)
+- **Prerequisites**: [Communal Healing](archive/srd/pf2e/compendium/feats/communal-healing.md)
 
-You can direct excess channeled energy outward to benefit an ally. You can grant the Hit Points you would regain from Communal Healing to any one creature within the range of your [heal](compendium/spells/heal.md) spell instead of yourself. You can also use Communal Healing when you target only yourself with a [heal](compendium/spells/heal.md) spell, though if you do, you must grant the additional healing to someone other than yourself.
+You can direct excess channeled energy outward to benefit an ally. You can grant the Hit Points you would regain from Communal Healing to any one creature within the range of your [heal](archive/srd/pf2e/compendium/spells/heal.md) spell instead of yourself. You can also use Communal Healing when you target only yourself with a [heal](archive/srd/pf2e/compendium/spells/heal.md) spell, though if you do, you must grant the additional healing to someone other than yourself.
 
 *Source: Core Rulebook p. 123*  
 %% #compendium/src/pf2e/crb #trait/cleric %%

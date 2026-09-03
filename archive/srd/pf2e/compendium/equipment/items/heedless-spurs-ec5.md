@@ -10,12 +10,12 @@ tags:
 aliases: ["Heedless Spurs"]
 ---
 # Heedless Spurs *Item 15*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 5200 gp
 - **Bulk** L; **Usage** worn anklets
 
-These wicked-looking spiked metal wheels fit around the ankles and jingle when the wearer walks, imposing a –1 item penalty on [Stealth](compendium/skills.md#Stealth) checks. If used as a weapon, they are treated as a spiked gauntlet.
+These wicked-looking spiked metal wheels fit around the ankles and jingle when the wearer walks, imposing a –1 item penalty on [Stealth](skills.md#Stealth) checks. If used as a weapon, they are treated as a spiked gauntlet.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

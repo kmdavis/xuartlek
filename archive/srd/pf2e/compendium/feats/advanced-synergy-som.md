@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Synergy"]
 ---
 # Advanced Synergy  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Synergy](compendium/feats/basic-synergy-som.md)
+- **Prerequisites**: [Basic Synergy](basic-synergy-som.md)
 
 You gain one summoner feat. For the purpose of meeting its prerequisites, your summoner level is equal to half your character level.
 
@@ -17,7 +17,7 @@ You gain one summoner feat. For the purpose of meeting its prerequisites, your s
 
 ## Advanced Synergy leads to...
 
-[Signature Synergy](compendium/feats/signature-synergy-som.md)
+[Signature Synergy](signature-synergy-som.md)
 
 ## Summary
 

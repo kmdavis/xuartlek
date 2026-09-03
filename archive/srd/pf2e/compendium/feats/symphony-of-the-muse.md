@@ -7,9 +7,9 @@ tags:
 aliases: ["Symphony Of The Muse"]
 ---
 # Symphony Of The Muse  *Feat 20*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
-- **Prerequisites**: [Harmonize](compendium/feats/harmonize.md)
+- **Prerequisites**: [Harmonize](archive/srd/pf2e/compendium/feats/harmonize.md)
 
 You are able to weave countless performances together into a solo symphony. You are no longer limited to a single composition each turn or a single composition at a time; when you use a new composition, all previous compositions' effects continue for their remaining duration.
 

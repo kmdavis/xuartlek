@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Seeker Of Truths"]
 ---
 # Advanced Seeker Of Truths  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md), [Seeker of Truths](compendium/feats/seeker-of-truths-av2.md)
+- **Prerequisites**: [Eldritch Researcher Dedication](eldritch-researcher-dedication-av2.md), [Seeker of Truths](seeker-of-truths-av2.md)
 
 You have unlocked deeper secrets to uncovering and hoarding lore. You gain an advanced domain spell from one domain you selected with Seeker of Truths. Increase the number of Focus Points in your focus pool by 1.
 

@@ -18,4 +18,4 @@ Instead, you've devoted yourself to understanding truly esoteric spells, which i
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in either the [Arcana](compendium/skills.md#Arcana) skill or [Occultism](compendium/skills.md#Occultism) skill, as well as the [Library Lore](compendium/skills.md#Lore) skill. You gain the [Recognize Spell](compendium/feats/recognize-spell.md) skill feat.
+You're trained in either the [Arcana](skills.md#Arcana) skill or [Occultism](skills.md#Occultism) skill, as well as the [Library Lore](skills.md#Lore) skill. You gain the [Recognize Spell](archive/srd/pf2e/compendium/feats/recognize-spell.md) skill feat.

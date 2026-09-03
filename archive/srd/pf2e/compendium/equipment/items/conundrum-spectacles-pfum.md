@@ -11,11 +11,11 @@ tags:
 aliases: ["Conundrum Spectacles"]
 ---
 # Conundrum Spectacles *Item 5+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** worn eyepiece
 
-These wire spectacles have been fitted with circular glass lenses. While wearing the spectacles, you gain a +1 item bonus to [Decipher Writing](rules/actions/decipher-writing.md).
+These wire spectacles have been fitted with circular glass lenses. While wearing the spectacles, you gain a +1 item bonus to [Decipher Writing](archive/srd/pf2e/rules/actions/decipher-writing.md).
 
 ```ad-embed-ability
 title: **Activate**  [Interact](rules/actions/interact.md)

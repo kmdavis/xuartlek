@@ -7,8 +7,8 @@ tags:
 - trait/concentrate
 aliases: ["Dismiss"]
 ---
-# Dismiss (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+# Dismiss (basic) [>](chapter-9-playing-the-game.md#Actions "Single Action")
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 *Source: Core Rulebook p. 305*  
 
 

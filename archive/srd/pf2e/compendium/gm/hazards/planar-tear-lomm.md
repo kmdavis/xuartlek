@@ -13,14 +13,14 @@ tags:
 aliases: ["Planar Tear"]
 ---
 # Planar Tear *Hazard 22*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+[complex](complex.md "Complex Hazard Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](kaiju-frp2.md "Kaiju  Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Complexity** Complex
 - **Stealth** +32 master to notice Ebeshra twisting its shape in preparation of creating a planar rift  
 
 Ebeshra opens a massive rift in the Material Plane that pulls nearby creatures into another plane entirely. The rift is typically to a random plane in the multiverse, though Ebeshra can have the rift pull creatures into a plane of Ebeshra's choosing. Additionally, Ebeshra can choose any number of creatures to be immune to the effects of the planar rift, usually due to the kaiju recognizing the innocence of the creatures.
 
-- **Disable** DC 47 [Lore](compendium/skills.md#Lore) (master) related to the specific plane beyond the rift to disrupt the planar frequency and close the rift, DC 52 [Arcana](compendium/skills.md#Arcana) (legendary) or [Occultism](compendium/skills.md#Occultism) (legendary) to undo the magical manifestation of the rift, DC 55 [Performance](compendium/skills.md#Performance) (legendary) to play a tone that counteracts the rift's harmonic frequency, or DC 55 [Diplomacy](compendium/skills.md#Diplomacy) (legendary) or [Religion](compendium/skills.md#Religion) (legendary) to plead with Ebeshra to close the rift  
+- **Disable** DC 47 [Lore](skills.md#Lore) (master) related to the specific plane beyond the rift to disrupt the planar frequency and close the rift, DC 52 [Arcana](skills.md#Arcana) (legendary) or [Occultism](skills.md#Occultism) (legendary) to undo the magical manifestation of the rift, DC 55 [Performance](skills.md#Performance) (legendary) to play a tone that counteracts the rift's harmonic frequency, or DC 55 [Diplomacy](skills.md#Diplomacy) (legendary) or [Religion](skills.md#Religion) (legendary) to plead with Ebeshra to close the rift  
 
 ```ad-embed-ability
 title: **Tear Reality** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

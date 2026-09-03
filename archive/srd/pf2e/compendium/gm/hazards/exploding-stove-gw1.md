@@ -8,14 +8,14 @@ tags:
 aliases: ["Exploding Stove"]
 ---
 # Exploding Stove *Hazard 3*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 expert  
 
 The stove has been rigged to explode when pressure sensors under the floor are depressed.
 
-- **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to disable the pressure sensors, or DC 20 [Survival](compendium/skills.md#Survival) (trained) to safely extinguish the stove fires  
+- **Disable** DC 20 [Thievery](skills.md#Thievery) (trained) to disable the pressure sensors, or DC 20 [Survival](skills.md#Survival) (trained) to safely extinguish the stove fires  
 
 - **AC** 19, **Fort** +10, **Ref** +5
 - **Hardness** 10, **HP** 42 (BT 21)

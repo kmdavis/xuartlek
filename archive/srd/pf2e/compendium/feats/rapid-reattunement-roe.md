@@ -9,7 +9,7 @@ tags:
 aliases: ["Rapid Reattunement"]
 ---
 # Rapid Reattunement  *Feat 14*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  
 
 - **Prerequisites**: reflow elements
 

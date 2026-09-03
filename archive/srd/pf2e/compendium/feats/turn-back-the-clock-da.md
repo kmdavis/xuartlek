@@ -8,10 +8,10 @@ tags:
 - trait/fortune
 aliases: ["Turn Back the Clock"]
 ---
-# Turn Back the Clock  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
+# Turn Back the Clock  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  
 
-- **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
+- **Prerequisites**: [Chronoskimmer Dedication](chronoskimmer-dedication-da.md)
 - **Frequency**: once per day
 - **Trigger** You fail a skill check or saving throw.
 - **Activity** Reaction

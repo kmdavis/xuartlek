@@ -12,7 +12,7 @@ tags:
 aliases: ["Thunder Snare"]
 ---
 # Thunder Snare *Item 2*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 6 gp
 - **Craft Requirements** 1 lesser thunderstone.
@@ -21,7 +21,7 @@ The snare makes a thunderous noise when a creature enters the snare's square, wh
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [deafened](rules/conditions.md#Deafened) until the end of its next turn.
+> - **Success** The target is [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) until the end of its next turn.
 > - **Failure** As success, and the target also takes 1 sonic damage.
 > - **Critical Failure** As success, and the target also takes `1d4` sonic damage.
 

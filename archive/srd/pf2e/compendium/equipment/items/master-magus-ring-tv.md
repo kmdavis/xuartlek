@@ -11,7 +11,7 @@ tags:
 aliases: ["Master Magus Ring"]
 ---
 # Master Magus Ring *Item 11*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [focused](archive/srd/pf2e/rules/traits/focused.md "Focused Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  
 
 - **Price** 1250 gp
 - **Craft Requirements** You are a magus.
@@ -19,7 +19,7 @@ aliases: ["Master Magus Ring"]
 
 Elegant jewelry such as the master magus ring adorns experienced magi. Each ring has a significant metal and symbol to represent a particular hybrid study, such as a heavy iron ring with an icon of a mountain for inexorable iron, or glittering silver with a shield-like emblem for sparkling targe.
 
-You gain a +2 item bonus to [Arcana](compendium/skills.md#Arcana) checks.
+You gain a +2 item bonus to [Arcana](skills.md#Arcana) checks.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

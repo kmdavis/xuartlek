@@ -6,14 +6,14 @@ tags:
 - trait/archetype
 aliases: ["Flashing Shield"]
 ---
-# Flashing Shield  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Flashing Shield  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md), you worship a good-aligned deity
+- **Prerequisites**: [Lastwall Sentry Dedication](lastwall-sentry-dedication-lowg.md), you worship a good-aligned deity
 - **Trigger** You use the Shield Block reaction, and the opponent that triggered the Shield Block is undead and adjacent to you.
 - **Activity** Free Action
 
-Your shield flares with holy light as you block the attack, searing the undead with the power of your faith. The triggering undead takes positive damage equal to half your level and becomes [flat-footed](rules/conditions.md#Flat-footed) for 1 round.
+Your shield flares with holy light as you block the attack, searing the undead with the power of your faith. The triggering undead takes positive damage equal to half your level and becomes [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) for 1 round.
 
 *Source: Lost Omens: Knights of Lastwall p. 79*  
 %% #compendium/src/pf2e/lokl #trait/archetype %%

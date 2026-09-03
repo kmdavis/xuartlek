@@ -11,7 +11,7 @@ aliases: ["Smoked Goggles"]
 - **Price** 20 gp
 - **Usage** worn eyepiece
 
-These goggles use lenses made out of smoked glass to protect against creatures with gaze attacks. While wearing smoked goggles, you're always considered to be [Averting your Gaze](rules/actions/avert-gaze.md), but all creatures have [concealment](rules/conditions.md#Concealed) from you. The fact that the goggles conceal creatures is part of what grants the wearer the item's benefits. If you have a way to negate the [concealment](rules/conditions.md#Concealed) from the smoked goggles, you no longer gain the benefit, either.
+These goggles use lenses made out of smoked glass to protect against creatures with gaze attacks. While wearing smoked goggles, you're always considered to be [Averting your Gaze](archive/srd/pf2e/rules/actions/avert-gaze.md), but all creatures have [concealment](archive/srd/pf2e/rules/conditions.md#Concealed) from you. The fact that the goggles conceal creatures is part of what grants the wearer the item's benefits. If you have a way to negate the [concealment](archive/srd/pf2e/rules/conditions.md#Concealed) from the smoked goggles, you no longer gain the benefit, either.
 
 
 ---

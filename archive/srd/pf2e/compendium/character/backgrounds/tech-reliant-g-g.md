@@ -15,4 +15,4 @@ Some event, be it an accident, attack, or disaster, has left you horribly scarre
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Medicine](compendium/skills.md#Medicine) skill. You gain the [Battle Medicine](compendium/feats/battle-medicine.md) skill feat, and a +1 circumstance bonus to saving throws against spells. Healing spells, healing magic items, and [magical](rules/traits/magical.md "Magical Item Trait") effects with the [healing](rules/traits/healing.md "Healing Effect Trait") trait have no effect on you.
+You're trained in the [Crafting](skills.md#Crafting) skill and the [Medicine](skills.md#Medicine) skill. You gain the [Battle Medicine](archive/srd/pf2e/compendium/feats/battle-medicine.md) skill feat, and a +1 circumstance bonus to saving throws against spells. Healing spells, healing magic items, and [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait") effects with the [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait") trait have no effect on you.

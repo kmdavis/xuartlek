@@ -10,9 +10,9 @@ tags:
 aliases: ["Unfolding Wind Buffet"]
 ---
 # Unfolding Wind Buffet *Focus 5*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 
 You surround your unarmed attacks with the speed and force of air. Make three unarmed Strikes against the same target. If at least one was a successful hit, the target must attempt a Fortitude save or be pushed back 5 feet for each normal hit from the buffet, plus 10 feet for each critical hit.
@@ -21,6 +21,6 @@ You surround your unarmed attacks with the speed and force of air. Make three un
 > - **Critical Success** The target is unaffected.
 > - **Success** The target is pushed back half the normal distance.
 > - **Failure** The target is pushed back the normal distance.
-> - **Critical Failure** The target is pushed back double the normal distance and then knocked [prone](rules/conditions.md#Prone).
+> - **Critical Failure** The target is pushed back double the normal distance and then knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone).
 
 *Source: Lost Omens: Impossible Lands p. 223*

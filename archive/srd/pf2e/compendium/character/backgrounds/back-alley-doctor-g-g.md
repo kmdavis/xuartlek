@@ -15,4 +15,4 @@ You're the medic many turn to when a more official clinic or healer might not be
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Medicine](compendium/skills.md#Medicine) skill and the [Underworld Lore](compendium/skills.md#Lore) skill. You gain the [Risky Surgery](compendium/feats/risky-surgery-apg.md) skill feat.
+You're trained in the [Medicine](skills.md#Medicine) skill and the [Underworld Lore](skills.md#Lore) skill. You gain the [Risky Surgery](risky-surgery-apg.md) skill feat.

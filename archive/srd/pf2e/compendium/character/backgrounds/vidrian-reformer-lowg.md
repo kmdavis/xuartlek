@@ -15,6 +15,6 @@ You know that the only way your homeland of Vidrian can remain free from outside
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Politics Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Politics Lore](skills.md#Lore) skill.
 
-You gain the [Hobnobber](compendium/feats/hobnobber.md) skill feat.
+You gain the [Hobnobber](archive/srd/pf2e/compendium/feats/hobnobber.md) skill feat.

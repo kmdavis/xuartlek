@@ -7,11 +7,11 @@ tags:
 aliases: ["Eerie Compression"]
 ---
 # Eerie Compression  *Feat 9*  
-[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
+[fleshwarp](fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Medium size
 
-Your limbs and even your torso can collapse in on themselves, allowing you to fit through tight spaces as though you were a Small creature. You can move at full Speed while [Squeezing](rules/actions/squeeze.md).
+Your limbs and even your torso can collapse in on themselves, allowing you to fit through tight spaces as though you were a Small creature. You can move at full Speed while [Squeezing](archive/srd/pf2e/rules/actions/squeeze.md).
 
 *Source: Lost Omens: Ancestry Guide p. 94*  
 %% #compendium/src/pf2e/loag #trait/fleshwarp %%

@@ -15,4 +15,4 @@ You are from Nidal, and regardless of your personal values, Zon-Kuthon has a cla
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and the [Shadow Plane Lore](compendium/skills.md#Lore) skill. You gain the [Quick Coercion](compendium/feats/quick-coercion.md) skill feat.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and the [Shadow Plane Lore](skills.md#Lore) skill. You gain the [Quick Coercion](archive/srd/pf2e/compendium/feats/quick-coercion.md) skill feat.

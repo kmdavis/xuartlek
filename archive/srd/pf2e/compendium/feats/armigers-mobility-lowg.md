@@ -7,9 +7,9 @@ tags:
 aliases: ["Armiger's Mobility"]
 ---
 # Armiger's Mobility  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: expert in heavy armor, [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md)
+- **Prerequisites**: expert in heavy armor, [Hellknight Armiger Dedication](hellknight-armiger-dedication-lowg.md)
 
 You've learned how best to move in heavy armor. When wearing heavy armor, if you meet the Strength requirement, instead of reducing the movement penalty by 5 feet, you reduce the penalty by 10 feet (typically reducing the penalty to 0). If you are a dwarf with the Unburdened Iron feat, increase your Speed by 5 feet.
 

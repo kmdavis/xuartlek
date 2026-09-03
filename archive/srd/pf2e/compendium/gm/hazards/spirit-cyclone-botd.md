@@ -8,14 +8,14 @@ tags:
 aliases: ["Spirit Cyclone"]
 ---
 # Spirit Cyclone *Hazard 9*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert  
 
-DC 30 [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion) (trained) to weaken the haunt; three total successes in any combination are required to disable the haunt
+DC 30 [Occultism](skills.md#Occultism) or [Religion](skills.md#Religion) (trained) to weaken the haunt; three total successes in any combination are required to disable the haunt
 
-- **Disable** DC 22 [Religion](compendium/skills.md#Religion) (trained) to ritually pray for the dead or DC 24 [Occultism](compendium/skills.md#Occultism) (trained) to exorcise the spirits' anger; two total successes are required to disable the haunt  
+- **Disable** DC 22 [Religion](skills.md#Religion) (trained) to ritually pray for the dead or DC 24 [Occultism](skills.md#Occultism) (trained) to exorcise the spirits' anger; two total successes are required to disable the haunt  
 
 ```ad-embed-ability
 title: **Gather Spirits** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

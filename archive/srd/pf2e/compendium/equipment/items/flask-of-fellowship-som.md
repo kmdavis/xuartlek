@@ -9,7 +9,7 @@ tags:
 aliases: ["Flask Of Fellowship"]
 ---
 # Flask Of Fellowship *Item 2*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 25 gp
 - **Bulk** L; **Usage** held in 2 hands

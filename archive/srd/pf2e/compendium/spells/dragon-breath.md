@@ -13,10 +13,10 @@ tags:
 aliases: ["Dragon Breath"]
 ---
 # Dragon Breath *Focus 3*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 30-foot cone or 60-foot line originating from you or 10-foot burst within 30 feet of you
 - **Saving Throw**:  basic Reflex or Fortitude
 

@@ -7,14 +7,14 @@ tags:
 aliases: ["Glimpse Grave"]
 ---
 # Glimpse Grave *Hazard 20*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 48 master to notice the words on the tombstone waver  
 
 A tombstone bears the name of those who look upon it, causing their hearts to seize.
 
-- **Disable** DC 45 [Religion](compendium/skills.md#Religion) (legendary) to bless the tombstone or DC 50 [Occultism](compendium/skills.md#Occultism) (trained) to ward off spirits  
+- **Disable** DC 45 [Religion](skills.md#Religion) (legendary) to bless the tombstone or DC 50 [Occultism](skills.md#Occultism) (trained) to ward off spirits  
 
 ```ad-embed-ability
 title: **Stop Heart** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([death](rules/traits/death.md), [illusion](rules/traits/illusion.md), [incapacitation](rules/traits/incapacitation.md), [linguistic](rules/traits/linguistic.md), [occult](rules/traits/occult.md), [visual](rules/traits/visual.md))

@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of Transmutation"]
 ---
 # Staff of Transmutation *Item 6+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
@@ -34,23 +34,23 @@ You expend a number of charges from the staff to cast a spell from its list.
 
 - **Price**: 230 gp
 
-- **Cantrip** [sigil](compendium/spells/sigil.md)
-- **1st** [fleet step](compendium/spells/fleet-step.md), [jump](compendium/spells/jump.md)
-- **2nd** [enlarge](compendium/spells/enlarge.md), [humanoid form](compendium/spells/humanoid-form.md)
+- **Cantrip** [sigil](archive/srd/pf2e/compendium/spells/sigil.md)
+- **1st** [fleet step](archive/srd/pf2e/compendium/spells/fleet-step.md), [jump](archive/srd/pf2e/compendium/spells/jump.md)
+- **2nd** [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md), [humanoid form](archive/srd/pf2e/compendium/spells/humanoid-form.md)
 
 #### greater staff of transmutation *Item 10*
 
 - **Price**: 900 gp
 
-- **3rd** [feet to fins](compendium/spells/feet-to-fins.md), [jump](compendium/spells/jump.md)
-- **4th** [gaseous form](compendium/spells/gaseous-form.md), [shape stone](compendium/spells/shape-stone.md)
+- **3rd** [feet to fins](archive/srd/pf2e/compendium/spells/feet-to-fins.md), [jump](archive/srd/pf2e/compendium/spells/jump.md)
+- **4th** [gaseous form](gaseous-form.md), [shape stone](archive/srd/pf2e/compendium/spells/shape-stone.md)
 
 #### major staff of transmutation *Item 14*
 
 - **Price**: 4000 gp
 
 - **5th** humanoid transformation
-- **6th** [baleful polymorph](compendium/spells/baleful-polymorph.md), [dragon form](compendium/spells/dragon-form.md), [flesh to stone](compendium/spells/flesh-to-stone.md)
+- **6th** [baleful polymorph](baleful-polymorph.md), [dragon form](archive/srd/pf2e/compendium/spells/dragon-form.md), [flesh to stone](flesh-to-stone.md)
 
 ---
 *Source: Core Rulebook p. 595*

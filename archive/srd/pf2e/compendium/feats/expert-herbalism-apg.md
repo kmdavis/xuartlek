@@ -7,9 +7,9 @@ tags:
 aliases: ["Expert Herbalism"]
 ---
 # Expert Herbalism  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Herbalist Dedication](compendium/feats/herbalist-dedication-apg.md), expert in [Nature](compendium/skills.md#Nature)
+- **Prerequisites**: [Herbalist Dedication](herbalist-dedication-apg.md), expert in [Nature](skills.md#Nature)
 
 Your advanced alchemy level for herbalism increases to your level – 3. You gain the formulas for elixirs of life as soon as your advanced alchemy level is high enough to create them: lesser at 8th level, moderate at 12th level, greater at 16th level, and major at 18th level.
 

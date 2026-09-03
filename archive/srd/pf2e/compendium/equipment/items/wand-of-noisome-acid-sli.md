@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand Of Noisome Acid"]
 ---
 # Wand Of Noisome Acid *Item 6+*  
-[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[acid](archive/srd/pf2e/rules/traits/acid.md "Acid Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of acid arrow of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand

@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Runic Mind-Smithing"]
 ---
 # Advanced Runic Mind-Smithing  *Feat 16*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Runic Mind Smithing](compendium/feats/runic-mind-smithing-da.md)
+- **Prerequisites**: [Runic Mind Smithing](runic-mind-smithing-da.md)
 
 Your mind can hold onto more complicated patterns than ever before. You can etch the greater forms of any runes on the list from the Runic Mind Smithing feat and add them to the list of options you can choose during your daily preparations, as well as the anarchic, axiomatic, holy, or unholy runes.
 

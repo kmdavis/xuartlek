@@ -11,9 +11,9 @@ tags:
 aliases: ["Unbreaking Wave Advance"]
 ---
 # Unbreaking Wave Advance *Focus 3*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Area**: 15-foot cone
 - **Saving Throw**: Fortitude
 

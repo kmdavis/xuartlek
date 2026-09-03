@@ -9,9 +9,9 @@ tags:
 aliases: ["Life Connection"]
 ---
 # Life Connection *Spell 3*   
-[contingency](rules/traits/contingency-som.md "Contingency Spell Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[contingency](contingency-som.md "Contingency Spell Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**: touch
 - **Targets**: 1 living creature

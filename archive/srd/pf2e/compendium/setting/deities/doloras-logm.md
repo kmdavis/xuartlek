@@ -20,8 +20,8 @@ aliases: ["Doloras", "Our Lady of Pain"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Medicine
-- **Favored Weapon**: [kukri](compendium/equipment/items/kukri.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [pain](compendium/setting/domains.md#Pain), [repose](compendium/setting/domains.md#Repose), [sorrow](compendium/setting/domains.md#Sorrow)
-- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 3rd: [earthbind](compendium/spells/earthbind.md); 5th: [synaptic pulse](compendium/spells/synaptic-pulse.md)
+- **Favored Weapon**: [kukri](archive/srd/pf2e/compendium/equipment/items/kukri.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain), [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow)
+- **Cleric Spells**: 1st: [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md); 3rd: [earthbind](archive/srd/pf2e/compendium/spells/earthbind.md); 5th: [synaptic pulse](archive/srd/pf2e/compendium/spells/synaptic-pulse.md)

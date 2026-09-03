@@ -7,9 +7,9 @@ tags:
 aliases: ["Master Captivator Spellcasting"]
 ---
 # Master Captivator Spellcasting  *Feat 16*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Expert Captivator Spellcasting](compendium/feats/expert-captivator-spellcasting-lotgb.md)
+- **Prerequisites**: [Expert Captivator Spellcasting](expert-captivator-spellcasting-lotgb.md)
 
 You master the most powerful spells that enchant and deceive.
 

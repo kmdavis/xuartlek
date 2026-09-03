@@ -11,13 +11,13 @@ tags:
 aliases: ["Gallows Tooth"]
 ---
 # Gallows Tooth *Item 8*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 100 gp
 - **Bulk** —; **Usage** affixed to a weapon
-- **Activate** [Interact](rules/actions/interact.md); **Trigger** You attack an adjacent creature and haven't rolled your attack roll; **Requirements** You're a master in [Intimidation](compendium/skills.md#Intimidation).
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md); **Trigger** You attack an adjacent creature and haven't rolled your attack roll; **Requirements** You're a master in [Intimidation](skills.md#Intimidation).
 
-This grisly molar hangs from a cord threaded through a tiny hole just above its dried, exposed root. When you activate this talisman, the creature you're attacking becomes [flat-footed](rules/conditions.md#Flat-footed) until the end of the current turn.
+This grisly molar hangs from a cord threaded through a tiny hole just above its dried, exposed root. When you activate this talisman, the creature you're attacking becomes [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until the end of the current turn.
 
 
 ---

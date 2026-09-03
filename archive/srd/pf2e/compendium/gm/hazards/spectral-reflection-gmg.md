@@ -7,14 +7,14 @@ tags:
 aliases: ["Spectral Reflection"]
 ---
 # Spectral Reflection *Hazard 5*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 26 expert  
 
 The reflection in the mirror subtly twists and distorts, its expression taking on an unnerving sneer of malice.
 
-- **Disable** DC 23 [Religion](compendium/skills.md#Religion) (trained) to exorcise the spirit, or DC 23  
+- **Disable** DC 23 [Religion](skills.md#Religion) (trained) to exorcise the spirit, or DC 23  
 
 - **AC** 19, **Fort** +15, **Ref** +10
 - **Hardness** 13, **HP** 50 (BT 25)

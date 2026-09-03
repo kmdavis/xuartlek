@@ -8,11 +8,11 @@ tags:
 aliases: ["Sacral Monarch"]
 ---
 # Sacral Monarch  *Feat 14*  
-[champion](rules/traits/champion.md "Champion Class Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  [oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  
 
-- **Prerequisites**: [Sacral Lord](compendium/feats/sacral-lord-da.md), master in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion)
+- **Prerequisites**: [Sacral Lord](sacral-lord-da.md), master in [Occultism](skills.md#Occultism) or [Religion](skills.md#Religion)
 
-You have come into your full powers and are truly a monarch of your realm, by your own definition at least. While in your territory, you can cast [banishment](compendium/spells/banishment.md) and inevitable disaster (Secrets of Magic 111) as innate divine spells, each once per day.
+You have come into your full powers and are truly a monarch of your realm, by your own definition at least. While in your territory, you can cast [banishment](archive/srd/pf2e/compendium/spells/banishment.md) and inevitable disaster (Secrets of Magic 111) as innate divine spells, each once per day.
 
 *Source: Dark Archive p. 177*  
 %% #compendium/src/pf2e/da #trait/champion #trait/oracle %%

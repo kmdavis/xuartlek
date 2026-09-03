@@ -7,7 +7,7 @@ tags:
 aliases: ["Ghoran Weapon Familiarity"]
 ---
 # Ghoran Weapon Familiarity  *Feat 1*  
-[ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
+[ghoran](ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 
 Over the course of your long, long existence, you've had a chance to practice with traditional ghoran weapons. You're trained with the glaive, greatclub, hatchet, scythe, and sickle. In addition, you gain access to all uncommon ghoran weapons. For the purpose of determining your proficiency, martial ghoran weapons are simple weapons and advanced ghoran weapons are martial weapons.

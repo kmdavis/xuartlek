@@ -7,9 +7,9 @@ tags:
 aliases: ["Evasiveness"]
 ---
 # Evasiveness  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Rogue Dedication](compendium/feats/rogue-dedication.md), expert in Reflex saves
+- **Prerequisites**: [Rogue Dedication](archive/srd/pf2e/compendium/feats/rogue-dedication.md), expert in Reflex saves
 
 Your proficiency rank for Reflex saves increases to master.
 

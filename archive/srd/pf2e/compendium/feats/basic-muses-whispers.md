@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Muse's Whispers"]
 ---
 # Basic Muse's Whispers  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Bard Dedication](compendium/feats/bard-dedication.md)
+- **Prerequisites**: [Bard Dedication](archive/srd/pf2e/compendium/feats/bard-dedication.md)
 
 You gain a 1st- or 2nd-level bard feat.
 
 ## Basic Muse's Whispers leads to...
 
-[Advanced Muse's Whispers](compendium/feats/advanced-muses-whispers.md)
+[Advanced Muse's Whispers](archive/srd/pf2e/compendium/feats/advanced-muses-whispers.md)
 
 ## Summary
 

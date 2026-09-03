@@ -12,12 +12,12 @@ tags:
 aliases: ["Devil's Bargain"]
 ---
 # Devil's Bargain *Item 6*  
-[divination](rules/traits/divination.md "Divination School Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [evil](evil.md "Evil Alignment Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 250 gp
 - **Bulk** L; **Usage** worn armor
 
-Those favored by [Asmodeus](compendium/setting/deities/asmodeus.md) can be found wearing this +1 studded leather, which is lacquered in red and black.
+Those favored by [Asmodeus](asmodeus.md) can be found wearing this +1 studded leather, which is lacquered in red and black.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision ([fortune](rules/traits/fortune.md))

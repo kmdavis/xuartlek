@@ -11,10 +11,10 @@ tags:
 aliases: ["Crusade"]
 ---
 # Crusade *Spell 9*   
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: up to 4 creatures
 - **Duration**: 10 minutes
@@ -27,7 +27,7 @@ Your cause can't force the targets to harm one another or themselves. The target
 - 14th The target is dedicated to the cause, but the spell ends for the target if it's reduced to half its maximum Hit Points or fewer.
 - 15th As 14th, plus the target can attempt a Will save at the end of each of its turns to end the spell for itself
 
-The spell ends for all creatures if you or one of your allies uses a [hostile](rules/conditions.md#Hostile) action against a target, or when the cause is completed. The GM might determine this spell has alignment traits befitting the cause.
+The spell ends for all creatures if you or one of your allies uses a [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) action against a target, or when the cause is completed. The GM might determine this spell has alignment traits befitting the cause.
 
 **Heightened (10th)** The level for each category increases by 2.
 

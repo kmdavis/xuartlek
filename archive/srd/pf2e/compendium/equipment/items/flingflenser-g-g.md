@@ -12,7 +12,7 @@ tags:
 aliases: ["Flingflenser"]
 ---
 # Flingflenser *Item 0*  
-[backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  [scatter <5 ft.>](rules/traits/scatter-5-ft-g-g.md "Scatter Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[backstabber](archive/srd/pf2e/rules/traits/backstabber.md "Backstabber Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  [scatter <5 ft.>](rules/traits/scatter-5-ft-g-g.md "Scatter Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 6 gp

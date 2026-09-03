@@ -10,7 +10,7 @@ tags:
 aliases: ["Storm Chair"]
 ---
 # Storm Chair *Item 14*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 4400 gp
 - **Bulk** 3

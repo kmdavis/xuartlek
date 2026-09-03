@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Maneuver"]
 ---
 # Advanced Maneuver  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Maneuver](compendium/feats/basic-maneuver.md)
+- **Prerequisites**: [Basic Maneuver](archive/srd/pf2e/compendium/feats/basic-maneuver.md)
 
 You gain a fighter feat. For the purpose of meeting its prerequisites, your fighter level is equal to half your character level.
 

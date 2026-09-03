@@ -8,14 +8,14 @@ tags:
 aliases: ["Yellow Mold"]
 ---
 # Yellow Mold *Hazard 8*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](fungus-b1.md "Fungus Creature Type Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 trained  
 
 Poisonous mold spores assault nearby creatures.
 
-- **Disable** [Survival](compendium/skills.md#Survival) DC 26 (expert) to remove the mold without triggering the spores.  
+- **Disable** [Survival](skills.md#Survival) DC 26 (expert) to remove the mold without triggering the spores.  
 
 - **AC** 27, **Fort** +17, **Ref** +13
 - **HP** 70

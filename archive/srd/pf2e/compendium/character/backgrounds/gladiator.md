@@ -17,4 +17,4 @@ Before you attained true fame, you departed—or escaped—the arena to explore 
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [Performance](compendium/skills.md#Performance) skill and the [Gladiatorial Lore](compendium/skills.md#Lore) skill. You gain the [Impressive Performance](compendium/feats/impressive-performance.md) skill feat.
+You're trained in the [Performance](skills.md#Performance) skill and the [Gladiatorial Lore](skills.md#Lore) skill. You gain the [Impressive Performance](archive/srd/pf2e/compendium/feats/impressive-performance.md) skill feat.

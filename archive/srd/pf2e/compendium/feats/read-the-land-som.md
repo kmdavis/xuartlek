@@ -8,9 +8,9 @@ tags:
 aliases: ["Read The Land"]
 ---
 # Read The Land  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md), master in [Nature](compendium/skills.md#Nature)
+- **Prerequisites**: [Geomancer Dedication](geomancer-dedication-som.md), master in [Nature](skills.md#Nature)
 
 You've learned how to commune with the land to learn information. You learn the commune with nature ritual if you didn't know it already.
 

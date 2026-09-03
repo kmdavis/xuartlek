@@ -7,9 +7,9 @@ tags:
 aliases: ["Consistent Surge"]
 ---
 # Consistent Surge  *Feat 13*  
-[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  
+[android](android-loag.md "Android Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Nanite Surge](compendium/feats/nanite-surge-loag.md)
+- **Prerequisites**: [Nanite Surge](nanite-surge-loag.md)
 
 Your nanites are incredibly effective, capable of improving your body's efficiency regularly. You can use Nanite Surge with a frequency of once per 10 minutes, rather than once per hour.
 

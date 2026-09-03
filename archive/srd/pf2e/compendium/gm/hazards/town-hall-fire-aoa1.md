@@ -9,16 +9,16 @@ tags:
 aliases: ["Town Hall Fire"]
 ---
 # Town Hall Fire *Hazard 1*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Complexity** Complex
 - **Stealth** -10 initiative modifier is +5  
 
 A fire engulfs the western door and a 10-foot-by-10-foot area immediately east of it, then spreads on each of its turns.
 
-- **Disable** Eliminating the hazard requires dousing the flames. Water typically clears a 5-foot square if the amount is small (such as that from [create water](compendium/spells/create-water.md) or [hydraulic push](compendium/spells/hydraulic-push.md)). Larger amounts of water, such as a full bucket, typically douse a 10-foot-by-10-foot area (or 4 squares in some other shape). Throwing a bucket of water on flames requires an [Interact](rules/actions/interact.md) action. A waterskin doesn't contain enough water to put out even 1 square of fire. Cold can also put out fire, but only if the cold can affect an area; cold is usually less effective than water, so a [frost vial](compendium/equipment/items/frost-vial.md) typically puts out 1 square of fire, and [ray of frost](compendium/spells/ray-of-frost.md) is ineffective.
+- **Disable** Eliminating the hazard requires dousing the flames. Water typically clears a 5-foot square if the amount is small (such as that from [create water](archive/srd/pf2e/compendium/spells/create-water.md) or [hydraulic push](archive/srd/pf2e/compendium/spells/hydraulic-push.md)). Larger amounts of water, such as a full bucket, typically douse a 10-foot-by-10-foot area (or 4 squares in some other shape). Throwing a bucket of water on flames requires an [Interact](archive/srd/pf2e/rules/actions/interact.md) action. A waterskin doesn't contain enough water to put out even 1 square of fire. Cold can also put out fire, but only if the cold can affect an area; cold is usually less effective than water, so a [frost vial](archive/srd/pf2e/compendium/equipment/items/frost-vial.md) typically puts out 1 square of fire, and [ray of frost](ray-of-frost.md) is ineffective.
 Fountain Circle, located outside town hall, has several working water pumps. These are far enough away that it's impractical for a PC to bring water back and forth. However, a PC might instruct the more steely nerved spectators to create a bucket brigade. It takes 15 spectators (which can include those rescued by councilors as well as by PCs) to set this up, and 2 rounds for the townspeople to line up and begin pumping water from Fountain Circle. As of the 3rd round, there is a bucket of water available for the PCs to use at the chamber's southern entrance at the beginning of each PC's turn. Members of a bucket brigade are lined up outside the chamber, and don't take damage from smoke inhalation.
-If a PC does want to carry the water, it's 150 feet from the chamber's southern door to a pump, so it 6 actions are usually needed to reach the pumps or return. Filling a bucket requires an [Interact](rules/actions/interact.md) action.
+If a PC does want to carry the water, it's 150 feet from the chamber's southern door to a pump, so it 6 actions are usually needed to reach the pumps or return. Filling a bucket requires an [Interact](archive/srd/pf2e/rules/actions/interact.md) action.
 Other methods might also help control the fire, as you determine. For example, the PCs might be able to find something to barricade the fire with to control its path, or use a cloak to beat out some of the fire.  
 
 ```ad-pf2-summary

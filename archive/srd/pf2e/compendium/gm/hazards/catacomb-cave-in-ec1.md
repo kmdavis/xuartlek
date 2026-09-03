@@ -8,14 +8,14 @@ tags:
 aliases: ["Catacomb Cave-in"]
 ---
 # Catacomb Cave-in *Hazard 4*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
 
 The ceiling is unstable, and any Medium or larger creature that approaches within 5 feet of the collapsed tunnel triggers a cave-in.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 21 (trained) to prop up the ceiling in key locations prior to the cave-in.  
+- **Disable** [Thievery](skills.md#Thievery) DC 21 (trained) to prop up the ceiling in key locations prior to the cave-in.  
 
 - **AC** 21, **Fort** +12, **Ref** +8
 - **Hardness** 11, **HP** 44 (BT 22)

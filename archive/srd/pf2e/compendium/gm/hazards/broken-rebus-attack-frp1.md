@@ -10,14 +10,14 @@ tags:
 aliases: ["Broken Rebus Attack"]
 ---
 # Broken Rebus Attack *Hazard 12*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 trained  
 
-Ghostly attackers knock the tables about, send dishes flying, and pull [fleeing](rules/conditions.md#Fleeing) creatures into the room.
+Ghostly attackers knock the tables about, send dishes flying, and pull [fleeing](archive/srd/pf2e/rules/conditions.md#Fleeing) creatures into the room.
 
-- **Disable** DC 34 [Religion](compendium/skills.md#Religion) (expert) to say an Iroran prayer and put the haunt temporarily to rest, DC 38 [Occultism](compendium/skills.md#Occultism) (master) to create a ward against future hauntings.  
+- **Disable** DC 34 [Religion](skills.md#Religion) (expert) to say an Iroran prayer and put the haunt temporarily to rest, DC 38 [Occultism](skills.md#Occultism) (master) to create a ward against future hauntings.  
 
 ```ad-embed-ability
 title: **Ghostly Pull** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
@@ -41,6 +41,6 @@ title: Routine
 ^routine
 
 **Reset** The haunt deactivates after 1 minute. It re-forms at the same times every day, 7 a.m. and 7 p.m., which is when the monks had their morning and evening meals.
-If at least two people cook a meal in the kitchen, share a meal in the refectory, and utter a prayer to [Irori](compendium/setting/deities/irori.md) before the meal, the haunt becomes permanently disabled and doesn't re-form.  
+If at least two people cook a meal in the kitchen, share a meal in the refectory, and utter a prayer to [Irori](irori.md) before the meal, the haunt becomes permanently disabled and doesn't re-form.  
 
 *Source: Fists of the Ruby Phoenix #1: Despair on Danger Island p. 15*

@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Wizard Spellcasting"]
 ---
 # Basic Wizard Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Wizard Dedication](compendium/feats/wizard-dedication.md)
+- **Prerequisites**: [Wizard Dedication](archive/srd/pf2e/compendium/feats/wizard-dedication.md)
 
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the wizard archetype, add two common spells of that level to your spellbook.
 
 ## Basic Wizard Spellcasting leads to...
 
-[Arcane Breadth](compendium/feats/arcane-breadth.md), [Expert Wizard Spellcasting](compendium/feats/expert-wizard-spellcasting.md), [Master Wizard Spellcasting](compendium/feats/master-wizard-spellcasting.md)
+[Arcane Breadth](archive/srd/pf2e/compendium/feats/arcane-breadth.md), [Expert Wizard Spellcasting](archive/srd/pf2e/compendium/feats/expert-wizard-spellcasting.md), [Master Wizard Spellcasting](archive/srd/pf2e/compendium/feats/master-wizard-spellcasting.md)
 
 ## Summary
 

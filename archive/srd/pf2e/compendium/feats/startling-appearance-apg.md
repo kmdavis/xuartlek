@@ -10,20 +10,20 @@ tags:
 - trait/vigilante
 aliases: ["Startling Appearance"]
 ---
-# Startling Appearance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
+# Startling Appearance  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [vigilante](archive/srd/pf2e/rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
-- **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md)
-- **Requirements**: You are completely [unnoticed](rules/conditions.md#Unnoticed) by the target creature.
+- **Prerequisites**: [Vigilante Dedication](vigilante-dedication-apg.md)
+- **Requirements**: You are completely [unnoticed](archive/srd/pf2e/rules/conditions.md#Unnoticed) by the target creature.
 - **Activity** Single Action
 
 You can startle foes who are unaware of your presence.
 
-Make a [Strike](rules/actions/strike.md) against your target. That creature is [flat-footed](rules/conditions.md#Flat-footed) against this [Strike](rules/actions/strike.md), as normal. If your [Strike](rules/actions/strike.md) hits, the target remains [flat-footed](rules/conditions.md#Flat-footed) for the rest of your turn and is [frightened](rules/conditions.md#Frightened) ([frightened](rules/conditions.md#Frightened) on a critical hit).
+Make a [Strike](archive/srd/pf2e/rules/actions/strike.md) against your target. That creature is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) against this [Strike](archive/srd/pf2e/rules/actions/strike.md), as normal. If your [Strike](archive/srd/pf2e/rules/actions/strike.md) hits, the target remains [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) for the rest of your turn and is [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) ([frightened](archive/srd/pf2e/rules/conditions.md#Frightened) on a critical hit).
 
 ## Startling Appearance leads to...
 
-[Frightening Appearance](compendium/feats/frightening-appearance-apg.md), [Stunning Appearance](compendium/feats/stunning-appearance-apg.md)
+[Frightening Appearance](frightening-appearance-apg.md), [Stunning Appearance](stunning-appearance-apg.md)
 
 ## Summary
 

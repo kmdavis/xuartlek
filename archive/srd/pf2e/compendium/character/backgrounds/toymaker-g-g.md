@@ -15,4 +15,4 @@ You delight in making little trinkets for children of all ages, and seeing their
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Mercantile Lore](compendium/skills.md#Lore) skill. You gain the [Specialty Crafting](compendium/feats/specialty-crafting.md) skill feat, choosing artistry, blacksmithing, glassmaking, leatherworking, tailoring, or woodworking as your specialty.
+You're trained in the [Crafting](skills.md#Crafting) skill and the [Mercantile Lore](skills.md#Lore) skill. You gain the [Specialty Crafting](archive/srd/pf2e/compendium/feats/specialty-crafting.md) skill feat, choosing artistry, blacksmithing, glassmaking, leatherworking, tailoring, or woodworking as your specialty.

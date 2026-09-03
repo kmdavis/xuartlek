@@ -9,14 +9,14 @@ tags:
 aliases: ["Gas Trap"]
 ---
 # Gas Trap *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +14 trained to smell the poison gas or hear it hissing.  
 
-A spring slams and locks the room's door before four [hidden](rules/conditions.md#Hidden) gas vents begin pumping poison gas into the chamber.
+A spring slams and locks the room's door before four [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) gas vents begin pumping poison gas into the chamber.
 
-- **Disable** Four DC 20 [Thievery](compendium/skills.md#Thievery) checks to block the gas vents, or a DC 26 [Thievery](compendium/skills.md#Thievery) check to unlock the door and escape Door Hardness 13, Door HP 52 (BT 26); Immunities critical hits, object immunities, precision damage.  
+- **Disable** Four DC 20 [Thievery](skills.md#Thievery) checks to block the gas vents, or a DC 26 [Thievery](skills.md#Thievery) check to unlock the door and escape Door Hardness 13, Door HP 52 (BT 26); Immunities critical hits, object immunities, precision damage.  
 
 ```ad-embed-ability
 title: **Toxic Gas** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

@@ -7,11 +7,11 @@ tags:
 aliases: ["Order Spell"]
 ---
 # Order Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Druid Dedication](compendium/feats/druid-dedication.md)
+- **Prerequisites**: [Druid Dedication](archive/srd/pf2e/compendium/feats/druid-dedication.md)
 
-You gain the initial order spell from your order. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [Refocus](rules/actions/refocus.md) by being one with nature. (For more on order spells, see page 131.)
+You gain the initial order spell from your order. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [Refocus](archive/srd/pf2e/rules/actions/refocus.md) by being one with nature. (For more on order spells, see page 131.)
 
 *Source: Core Rulebook p. 225*  
 %% #compendium/src/pf2e/crb #trait/archetype %%

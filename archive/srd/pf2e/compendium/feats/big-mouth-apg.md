@@ -7,9 +7,9 @@ tags:
 aliases: ["Big Mouth"]
 ---
 # Big Mouth  *Feat 9*  
-[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
+[ratfolk](ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Cheek Pouches](compendium/feats/cheek-pouches-apg.md)
+- **Prerequisites**: [Cheek Pouches](cheek-pouches-apg.md)
 
 Your cheek pouches are especially stretchy. Instead of storing up to four items of Light Bulk in your cheek pouches, you can store up to 1 Bulk worth of items. The maximum size of a given item is unchanged.
 

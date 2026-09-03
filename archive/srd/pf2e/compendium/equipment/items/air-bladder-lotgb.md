@@ -11,7 +11,7 @@ aliases: ["Air Bladder"]
 - **Price** 1 sp
 - **Bulk** L (1 if inflated); **Usage** held in 1 hand
 
-This weighted animal bladder can be inflated with air in preparation for a dive. It holds enough air to breathe for one round. As a free action, you can inhale the contents of the air bladder, which resets the number of rounds you can hold your breath (see the rules for drowning and suffocating on page 478 of the Core Rulebook). You can inflate the bladder or remove its attached weight as an [Interact](rules/actions/interact.md) action. An unattached inflated bladder without the weight will float toward the surface of the water at a rate of 60 feet per round.
+This weighted animal bladder can be inflated with air in preparation for a dive. It holds enough air to breathe for one round. As a free action, you can inhale the contents of the air bladder, which resets the number of rounds you can hold your breath (see the rules for drowning and suffocating on page 478 of the Core Rulebook). You can inflate the bladder or remove its attached weight as an [Interact](archive/srd/pf2e/rules/actions/interact.md) action. An unattached inflated bladder without the weight will float toward the surface of the water at a rate of 60 feet per round.
 
 
 ---

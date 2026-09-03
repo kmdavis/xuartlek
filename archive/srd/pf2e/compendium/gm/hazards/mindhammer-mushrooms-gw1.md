@@ -8,14 +8,14 @@ tags:
 aliases: ["Mindhammer Mushrooms"]
 ---
 # Mindhammer Mushrooms *Hazard 3*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](fungus-b1.md "Fungus Creature Type Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained to notice small animal skeletons among the mushrooms  
 
 The mushrooms emit powerful psychic blasts that overwhelm potential predators with exhausting psychedelic visions.
 
-- **Disable** DC 20 [Survival](compendium/skills.md#Survival) (trained) to navigate a safe path without triggering the mushrooms  
+- **Disable** DC 20 [Survival](skills.md#Survival) (trained) to navigate a safe path without triggering the mushrooms  
 
 - **AC** 16, **Fort** +10, **Ref** +8
 - **HP** 20

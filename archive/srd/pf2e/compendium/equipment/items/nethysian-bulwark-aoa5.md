@@ -11,7 +11,7 @@ tags:
 aliases: ["Nethysian Bulwark"]
 ---
 # Nethysian Bulwark *Item 16*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8000 gp
 - **Bulk** 1; **Usage** held in 1 hand

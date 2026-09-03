@@ -10,11 +10,11 @@ tags:
 aliases: ["Goggles of Night"]
 ---
 # Goggles of Night *Item 5+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** —; **Usage** worn eyepiece
 
-The opaque crystal lenses of these sleek goggles do not obscure vision, but rather enhance it. While wearing the goggles, you gain a +1 item bonus to [Perception](compendium/skills.md#Perception) checks involving sight.
+The opaque crystal lenses of these sleek goggles do not obscure vision, but rather enhance it. While wearing the goggles, you gain a +1 item bonus to [Perception](skills.md#Perception) checks involving sight.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
@@ -36,13 +36,13 @@ title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Price**: 1250 gp
 
-The item bonus is +2, and the [darkvision](rules/abilities/darkvision.md) lasts until you rotate the lenses back or the item is no longer invested by you, whichever comes first.
+The item bonus is +2, and the [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) lasts until you rotate the lenses back or the item is no longer invested by you, whichever comes first.
 
 #### major goggles of night *Item 18*
 
 - **Price**: 20000 gp
 
-The item bonus is +3, and the goggles grant [greater darkvision](rules/abilities/darkvision.md), which lasts until you rotate the lenses back or the item is no longer invested by you, whichever comes first.
+The item bonus is +3, and the goggles grant [greater darkvision](archive/srd/pf2e/rules/abilities/darkvision.md), which lasts until you rotate the lenses back or the item is no longer invested by you, whichever comes first.
 
 ---
 *Source: Core Rulebook p. 610*

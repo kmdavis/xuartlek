@@ -9,7 +9,7 @@ tags:
 aliases: ["Caterwaul Sling"]
 ---
 # Caterwaul Sling *Item 5*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 155 gp
 - **Bulk** L; **Usage** held in 1 hand

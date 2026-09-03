@@ -8,10 +8,10 @@ tags:
 aliases: ["Slow"]
 ---
 # Slow *Spell 3*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Fortitude
@@ -21,9 +21,9 @@ You dilate the flow of time around the target, slowing its actions.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [slowed](rules/conditions.md#Slowed) for 1 round.
-> - **Failure** The target is [slowed](rules/conditions.md#Slowed) for 1 minute.
-> - **Critical Failure** The target is [slowed](rules/conditions.md#Slowed) for 1 minute.
+> - **Success** The target is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 1 round.
+> - **Failure** The target is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 1 minute.
+> - **Critical Failure** The target is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 1 minute.
 
 **Heightened (6th)** You can target up to 10 creatures.
 

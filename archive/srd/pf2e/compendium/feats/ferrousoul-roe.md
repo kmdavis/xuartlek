@@ -8,10 +8,10 @@ tags:
 aliases: ["Ferrousoul"]
 ---
 # Ferrousoul  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  talos  
+[lineage](lineage-apg.md "Lineage  Trait")  talos  
 
 
-Whether in their pure elemental forms or as part of an alloy such as steel, the elemental metal in your soul resonates strongly with iron, bronze, and other sturdy, practical metals suitable for weaponry. Your fist attacks gain the [modular <B, P, or S>](rules/traits/modular-b-p-or-s-logm.md "Modular Weapon Trait") trait and lose the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait. Your fist's damage die increases to `1d6`.
+Whether in their pure elemental forms or as part of an alloy such as steel, the elemental metal in your soul resonates strongly with iron, bronze, and other sturdy, practical metals suitable for weaponry. Your fist attacks gain the [modular <B, P, or S>](rules/traits/modular-b-p-or-s-logm.md "Modular Weapon Trait") trait and lose the [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait. Your fist's damage die increases to `1d6`.
 
 *Source: Rage of Elements p. 52*  
 %% #compendium/src/pf2e/roe #trait/lineage #trait/talos %%

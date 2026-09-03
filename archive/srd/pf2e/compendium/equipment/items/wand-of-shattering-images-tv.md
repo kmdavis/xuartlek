@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Shattering Images"]
 ---
 # Wand of Shattering Images *Item 6*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 250 gp
 - **Craft Requirements** Supply a casting of mirror image.

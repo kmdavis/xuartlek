@@ -7,14 +7,14 @@ tags:
 - trait/stance
 aliases: ["Twinned Defense (Fighter)"]
 ---
-# Twinned Defense (Fighter)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
+# Twinned Defense (Fighter)  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  
 
-- **Prerequisites**: [Twin Parry](compendium/feats/twin-parry-fighter.md)
+- **Prerequisites**: [Twin Parry](twin-parry-fighter.md)
 - **Requirements**: You are wielding two melee weapons, one in each hand.
 - **Activity** Single Action
 
-You're always ready to use your off-hand weapon to interfere with attacks against you. While you are in this stance, you constantly gain the benefits of the [Twin Parry](compendium/feats/twin-parry-fighter.md) action.
+You're always ready to use your off-hand weapon to interfere with attacks against you. While you are in this stance, you constantly gain the benefits of the [Twin Parry](twin-parry-fighter.md) action.
 
 *Source: Core Rulebook p. 153*  
 %% #compendium/src/pf2e/crb #trait/fighter #trait/stance %%

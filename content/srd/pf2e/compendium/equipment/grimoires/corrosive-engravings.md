@@ -1,0 +1,26 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-equipment
+tags:
+- compendium/src/pf2e/treasure-vault-remastered
+- trait/acid
+- trait/grimoire
+- trait/magical
+- equipment/level/5
+aliases: ["Corrosive Engravings"]
+aon_id: "equipment-2175"
+source: "Treasure Vault (Remastered)"
+---
+
+# Corrosive Engravings  *Item 5*
+
+`Acid`  `Grimoire`  `Magical`
+
+- **Price**: 140 gp
+- **Bulk**: L
+
+These tin sheets are bound in brass and show significant signs of erosion. The grimoire's title is acid-etched, and flipping between the sheets leaves your fingers covered in flecks of rust and powdery metal.
+
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per day; **Effect** If your next action is to cast an acid or poison spell that deals persistent damage, any creature who takes persistent damage from the spell is also sickened 2 until the persistent damage ends. Using an action to retch can reduce the sickened value as normal, but it can't reduce the sickened value below 1 until the persistent damage ends.
+
+*Source: Treasure Vault (Remastered) p. 111*

@@ -8,11 +8,11 @@ tags:
 aliases: ["Hunt the Animals"]
 ---
 # Hunt the Animals
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #2: Cult of Cinders p. 20*  
 
 
-When the hunt begins, the Ekujae elves and the PCs work together to bring down the game. Against an impressive find, each PC actively participating (and not just [Aiding](rules/actions/aid.md)) attempts a DC 25 [Survival](compendium/skills.md#Survival) check. Against standard game, the DC is 20. No check is needed to hunt river turtles or bats—hunting such game is automatically successful (but can never be a critical success).
+When the hunt begins, the Ekujae elves and the PCs work together to bring down the game. Against an impressive find, each PC actively participating (and not just [Aiding](archive/srd/pf2e/rules/actions/aid.md)) attempts a DC 25 [Survival](skills.md#Survival) check. Against standard game, the DC is 20. No check is needed to hunt river turtles or bats—hunting such game is automatically successful (but can never be a critical success).
 
 > [!success-degree] 
 > - **Critical Success** You help take down the animals quickly and relatively painlessly, showing them mercy.

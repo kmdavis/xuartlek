@@ -15,4 +15,4 @@ Experienced with trapezes, aerial silks, and hoops, your skill is in performing 
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [Acrobatics](compendium/skills.md#Acrobatics) skill and the [Rope Lore](compendium/skills.md#Lore) skill. You gain the [Cat Fall](compendium/feats/cat-fall.md) skill feat.
+You're trained in the [Acrobatics](skills.md#Acrobatics) skill and the [Rope Lore](skills.md#Lore) skill. You gain the [Cat Fall](archive/srd/pf2e/compendium/feats/cat-fall.md) skill feat.

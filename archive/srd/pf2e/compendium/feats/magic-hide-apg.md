@@ -7,11 +7,11 @@ tags:
 aliases: ["Magic Hide"]
 ---
 # Magic Hide  *Feat 2*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: an animal companion, warden spells
 
-You can defend your companion in battle. You gain the [magic hide](compendium/spells/magic-hide-apg.md) warden spell. Increase the number of Focus Points in your focus pool by 1.
+You can defend your companion in battle. You gain the [magic hide](archive/srd/pf2e/compendium/spells/magic-hide-apg.md) warden spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Advanced Player's Guide p. 132*  
 %% #compendium/src/pf2e/apg #trait/ranger %%

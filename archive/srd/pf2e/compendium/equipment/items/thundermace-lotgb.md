@@ -9,7 +9,7 @@ tags:
 aliases: ["Thundermace"]
 ---
 # Thundermace *Item 0*  
-[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[backswing](archive/srd/pf2e/rules/traits/backswing.md "Backswing Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 sp
 - **Bulk** 2

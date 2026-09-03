@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-class-feature
+tags:
+- compendium/src/pf2e/battlecry
+- class-feature/level/5
+aliases: ["Weapon Expertise"]
+aon_id: "class-feature-1125"
+source: "Battlecry!"
+---
+
+# Weapon Expertise  *Class Feature 5*
+
+- **Class**: Guardian
+
+Sometimes, the best defense is a good offense. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert.
+
+*Source: Battlecry! p. 37*

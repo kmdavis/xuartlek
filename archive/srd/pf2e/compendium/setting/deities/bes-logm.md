@@ -20,8 +20,8 @@ aliases: ["Bes", "The Guardian Fool"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Performance
 - **Favored Weapon**: mambele
-- **Domains**: [earth](compendium/setting/domains.md#Earth), [family](compendium/setting/domains.md#Family), [luck](compendium/setting/domains.md#Luck), [protection](compendium/setting/domains.md#Protection)
-- **Cleric Spells**: 1st: [sleep](compendium/spells/sleep.md); 2nd: [hideous laughter](compendium/spells/hideous-laughter.md); 3rd: [enthrall](compendium/spells/enthrall.md)
+- **Domains**: [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [luck](archive/srd/pf2e/compendium/setting/domains.md#Luck), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [sleep](archive/srd/pf2e/compendium/spells/sleep.md); 2nd: [hideous laughter](hideous-laughter.md); 3rd: [enthrall](archive/srd/pf2e/compendium/spells/enthrall.md)

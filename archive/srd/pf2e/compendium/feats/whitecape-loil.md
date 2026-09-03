@@ -7,10 +7,10 @@ tags:
 aliases: ["Whitecape"]
 ---
 # Whitecape  *Feat 1*  
-[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
+[vanara](vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
 
-You're shorter and wider than many vanaras of your heritage, and the hair on your shoulders and your head is particularly thick and luxurious, like a majestic cape. This hair grows back supernaturally quickly if shorn. You gain the [Steady Balance](compendium/feats/steady-balance.md) skill feat, even if you aren't trained in [Acrobatics](compendium/skills.md#Acrobatics), and you can [Step](rules/actions/step.md) into difficult terrain caused by uneven ground.
+You're shorter and wider than many vanaras of your heritage, and the hair on your shoulders and your head is particularly thick and luxurious, like a majestic cape. This hair grows back supernaturally quickly if shorn. You gain the [Steady Balance](archive/srd/pf2e/compendium/feats/steady-balance.md) skill feat, even if you aren't trained in [Acrobatics](skills.md#Acrobatics), and you can [Step](archive/srd/pf2e/rules/actions/step.md) into difficult terrain caused by uneven ground.
 
 **Special.** You can take this feat only at 1st level, and you can't retrain out of or into this feat.
 

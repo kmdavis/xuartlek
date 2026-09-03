@@ -10,7 +10,7 @@ tags:
 aliases: ["Spike Launcher"]
 ---
 # Spike Launcher *Item 6*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 250 gp
 - **Craft Requirements** The initial raw materials must include the tail of a manticore.

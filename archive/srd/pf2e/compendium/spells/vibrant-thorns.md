@@ -12,10 +12,10 @@ tags:
 aliases: ["Vibrant Thorns"]
 ---
 # Vibrant Thorns *Focus 1*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [nature](compendium/setting/domains.md#Nature)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Domains** [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - 
 - **Duration**: 1 minute
 

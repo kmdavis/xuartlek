@@ -9,14 +9,14 @@ tags:
 aliases: ["Arcane Feedback Trap"]
 ---
 # Arcane Feedback Trap *Hazard 13*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 35 expert  
 
 A spike of stone bursts from the south wall and quickly retracts.
 
-- **Disable** DC 33 [Arcana](compendium/skills.md#Arcana) (master) to quell the rippling stone or dispel magic (7th level, counteract DC 31) to dispel the magical feedback.  
+- **Disable** DC 33 [Arcana](skills.md#Arcana) (master) to quell the rippling stone or dispel magic (7th level, counteract DC 31) to dispel the magical feedback.  
 
 ```ad-embed-ability
 title: **Stone Spike** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [earth](rules/traits/earth.md), [evocation](rules/traits/evocation.md))

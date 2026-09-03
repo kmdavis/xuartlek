@@ -8,14 +8,14 @@ tags:
 aliases: ["Web Lurker Noose"]
 ---
 # Web Lurker Noose *Hazard 2*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 22 [Perception](compendium/skills.md#Perception) check  
+- **Stealth** DC 22 [Perception](skills.md#Perception) check  
 
 Discreet webbing at throat level snags a creature that walks into it.
 
-- **Disable** DC 18 [Survival](compendium/skills.md#Survival) (trained) or [Thievery](compendium/skills.md#Thievery) (expert) to rearrange the webbing  
+- **Disable** DC 18 [Survival](skills.md#Survival) (trained) or [Thievery](skills.md#Thievery) (expert) to rearrange the webbing  
 
 - **AC** 18, **Fort** +11, **Ref** +5
 - **Noose Hardness** 4, **Noose HP** 16 (BT 8) to cut the web noose

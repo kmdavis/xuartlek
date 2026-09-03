@@ -7,7 +7,7 @@ tags:
 aliases: ["Prototype Companion"]
 ---
 # Prototype Companion  *Feat 1*  
-[inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  
+[inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  
 
 
 You have created a construct companion, and while it might not be an innovation, it serves as a trustworthy minion. You gain a prototype construct companion (page 32).

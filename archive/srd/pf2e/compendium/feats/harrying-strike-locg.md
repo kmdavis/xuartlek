@@ -8,13 +8,13 @@ tags:
 - trait/press
 aliases: ["Harrying Strike"]
 ---
-# Harrying Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [attack](rules/traits/attack.md "Attack Combat Trait")  [press](rules/traits/press.md "Press Combat Trait")  
+# Harrying Strike  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [press](archive/srd/pf2e/rules/traits/press.md "Press Combat Trait")  
 
-- **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md)
+- **Prerequisites**: [Swordmaster Dedication](swordmaster-dedication-locg.md)
 - **Activity** Single Action
 
-Your attack prevents a foe from pursuing your allies. Make a melee [Strike](rules/actions/strike.md), adding the following effects in addition to the normal effects of the [Strike](rules/actions/strike.md).
+Your attack prevents a foe from pursuing your allies. Make a melee [Strike](archive/srd/pf2e/rules/actions/strike.md), adding the following effects in addition to the normal effects of the [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 > [!success-degree] 
 > - **Critical Success** The target takes a –15-foot status penalty to its Speeds until the start of your next turn.

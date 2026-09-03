@@ -11,11 +11,11 @@ tags:
 aliases: ["Crystal Ball"]
 ---
 # Crystal Ball *Item 14+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [scrying](archive/srd/pf2e/rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
-This polished crystal sphere enhances scrying magic. Any visual information received through a spell with the [scrying](rules/traits/scrying.md "Scrying Effect Trait") trait that was cast by the crystal ball appears within the sphere, and any auditory information sounds out from the surface of the sphere. When you cast a [scrying](compendium/spells/scrying.md) spell by any other means while holding the sphere, you can relay any information you receive in the same way, allowing others to see or hear the target.
+This polished crystal sphere enhances scrying magic. Any visual information received through a spell with the [scrying](archive/srd/pf2e/rules/traits/scrying.md "Scrying Effect Trait") trait that was cast by the crystal ball appears within the sphere, and any auditory information sounds out from the surface of the sphere. When you cast a [scrying](archive/srd/pf2e/compendium/spells/scrying.md) spell by any other means while holding the sphere, you can relay any information you receive in the same way, allowing others to see or hear the target.
 
 The base version of a crystal ball is a sphere of clear quartz, but other versions are made of different stones.
 
@@ -46,25 +46,25 @@ title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 
 - **Price**: 7000 gp
 
-Scrying is DC 36 and gives you the benefits of [see invisibility](compendium/spells/see-invisibility.md) on the target.
+Scrying is DC 36 and gives you the benefits of [see invisibility](see-invisibility.md) on the target.
 
 #### moonstone *Item 16*
 
 - **Price**: 7500 gp
 
-Scrying is DC 37 and gives you the benefits of [mind reading](compendium/spells/mind-reading.md) on the target, using the same save DC.
+Scrying is DC 37 and gives you the benefits of [mind reading](archive/srd/pf2e/compendium/spells/mind-reading.md) on the target, using the same save DC.
 
 #### peridot *Item 17*
 
 - **Price**: 12500 gp
 
-Scrying is DC 39 and gives you the benefits of [telepathy](compendium/spells/telepathy.md) for communicating with the target.
+Scrying is DC 39 and gives you the benefits of [telepathy](archive/srd/pf2e/compendium/spells/telepathy.md) for communicating with the target.
 
 #### obsidian *Item 19*
 
 - **Price**: 32000 gp
 
-Scrying is DC 41 and gives you the benefits of [true seeing](compendium/spells/true-seeing.md) for anything you watch through it.
+Scrying is DC 41 and gives you the benefits of [true seeing](true-seeing.md) for anything you watch through it.
 
 ---
 *Source: Core Rulebook p. 572*

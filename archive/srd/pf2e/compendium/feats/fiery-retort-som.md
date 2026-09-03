@@ -8,8 +8,8 @@ tags:
 - trait/fire
 aliases: ["Fiery Retort"]
 ---
-# Fiery Retort  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[druid](rules/traits/druid.md "Druid Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
+# Fiery Retort  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
+[druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  [evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Prerequisites**: flame order
 - **Frequency**: once per minute

@@ -7,11 +7,11 @@ tags:
 aliases: ["Future Spell Learning"]
 ---
 # Future Spell Learning  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Time Mage Dedication](compendium/feats/time-mage-dedication-da.md)
+- **Prerequisites**: [Time Mage Dedication](time-mage-dedication-da.md)
 
-More future memories of time magic percolate back to the present, teaching you spells you've yet to learn. Add [behold the weave](compendium/spells/behold-the-weave-da.md), [cast into time](compendium/spells/cast-into-time-som.md), [haste](compendium/spells/haste.md), [loose time's arrow](compendium/spells/loose-times-arrow-da.md), [quicken time](compendium/spells/quicken-time-da.md), [slow](compendium/spells/slow.md), and [stagnate time](compendium/spells/stagnate-time-da.md) to your spell list. You can thus potentially learn these spells even if they aren't normally on your tradition's spell list.
+More future memories of time magic percolate back to the present, teaching you spells you've yet to learn. Add [behold the weave](behold-the-weave-da.md), [cast into time](cast-into-time-som.md), [haste](archive/srd/pf2e/compendium/spells/haste.md), [loose time's arrow](loose-times-arrow-da.md), [quicken time](quicken-time-da.md), [slow](archive/srd/pf2e/compendium/spells/slow.md), and [stagnate time](stagnate-time-da.md) to your spell list. You can thus potentially learn these spells even if they aren't normally on your tradition's spell list.
 
 *Source: Dark Archive p. 185*  
 %% #compendium/src/pf2e/da #trait/archetype %%

@@ -8,14 +8,14 @@ tags:
 aliases: ["Caustic Vapor"]
 ---
 # Caustic Vapor *Hazard 17*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 40 master  
 
 The door slams shut, and poison gas fills the room.
 
-- **Disable** [Occultism](compendium/skills.md#Occultism) DC 36 (master) or [Religion](compendium/skills.md#Religion) DC 36 (master) to exorcise the spirits  
+- **Disable** [Occultism](skills.md#Occultism) DC 36 (master) or [Religion](skills.md#Religion) DC 36 (master) to exorcise the spirits  
 
 ```ad-embed-ability
 title: **Breath Snatcher** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([conjuration](rules/traits/conjuration.md), [occult](rules/traits/occult.md))

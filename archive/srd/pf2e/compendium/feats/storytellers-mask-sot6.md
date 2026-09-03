@@ -10,13 +10,13 @@ tags:
 aliases: ["Storyteller's Mask"]
 ---
 # Storyteller's Mask  *Feat 20*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: Druid Dedication or Wizard Dedication
 
-Your mask remembers the stories of Shifting Frog, Storyteller of the Past and Future. You can cast [foresight](compendium/spells/foresight.md) once per day as an innate spell, either arcane if you have Wizard Dedication or primal if you have Druid Dedication, but the duration is 10 minutes instead of 1 hour.
+Your mask remembers the stories of Shifting Frog, Storyteller of the Past and Future. You can cast [foresight](archive/srd/pf2e/compendium/spells/foresight.md) once per day as an innate spell, either arcane if you have Wizard Dedication or primal if you have Druid Dedication, but the duration is 10 minutes instead of 1 hour.
 
-Immediately after you Cast a non-cantrip Spell that targets only a single foe, you can [Recall Knowledge](rules/actions/recall-knowledge.md) about that foe.
+Immediately after you Cast a non-cantrip Spell that targets only a single foe, you can [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) about that foe.
 
 *Source: Strength of Thousands #6: Shadows of the Ancients p. 78*  
 %% #compendium/src/pf2e/sot6 #trait/archetype #trait/druid #trait/rare #trait/wizard %%

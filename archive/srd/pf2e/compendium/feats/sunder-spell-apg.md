@@ -9,21 +9,21 @@ tags:
 - trait/rage
 aliases: ["Sunder Spell"]
 ---
-# Sunder Spell  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[attack](rules/traits/attack.md "Attack Combat Trait")  [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
+# Sunder Spell  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [rage](archive/srd/pf2e/rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: superstition instinct
 - **Activity** Two-Action
 
-You draw upon your superstitious fury to destroy a spell. Make a [Strike](rules/actions/strike.md) with a melee weapon or an unarmed attack against a creature, object, or a spell manifestation (such as the wall created by [wall of fire](compendium/spells/wall-of-fire.md) or the guardian from [spiritual guardian](compendium/spells/spiritual-guardian.md)). If you're targeting something that doesn't have an AC listed, its AC is usually 10 against this Strike for targets that are very easy to hit, like a wall, or a different AC determined by the GM.
+You draw upon your superstitious fury to destroy a spell. Make a [Strike](archive/srd/pf2e/rules/actions/strike.md) with a melee weapon or an unarmed attack against a creature, object, or a spell manifestation (such as the wall created by [wall of fire](archive/srd/pf2e/compendium/spells/wall-of-fire.md) or the guardian from [spiritual guardian](archive/srd/pf2e/compendium/spells/spiritual-guardian.md)). If you're targeting something that doesn't have an AC listed, its AC is usually 10 against this Strike for targets that are very easy to hit, like a wall, or a different AC determined by the GM.
 
-If your [Strike](rules/actions/strike.md) hits, you can attempt to counteract a single spell or [magical](rules/traits/magical.md "Magical Item Trait") effect on the target. Your counteract level for this attempt is equal to half your level rounded up, and you use the result of your attack roll for the counteract check.
+If your [Strike](archive/srd/pf2e/rules/actions/strike.md) hits, you can attempt to counteract a single spell or [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait") effect on the target. Your counteract level for this attempt is equal to half your level rounded up, and you use the result of your attack roll for the counteract check.
 
-Whether or not you succeed at your [Strike](rules/actions/strike.md), the target becomes temporarily immune to your Sunder Spell for 24 hours.
+Whether or not you succeed at your [Strike](archive/srd/pf2e/rules/actions/strike.md), the target becomes temporarily immune to your Sunder Spell for 24 hours.
 
 ## Sunder Spell leads to...
 
-[Sunder Enchantment](compendium/feats/sunder-enchantment-apg.md)
+[Sunder Enchantment](sunder-enchantment-apg.md)
 
 ## Summary
 

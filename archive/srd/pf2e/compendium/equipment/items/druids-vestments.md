@@ -11,13 +11,13 @@ tags:
 aliases: ["Druid's Vestments"]
 ---
 # Druid's Vestments *Item 10*  
-[focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[focused](archive/srd/pf2e/rules/traits/focused.md "Focused Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 1000 gp
 - **Craft Requirements** You are a druid.
 - **Bulk** L; **Usage** worn garment
 
-This brown-and-green tunic is embroidered with patterns that resemble interlocking elk antlers. You gain a +2 item bonus to [Nature](compendium/skills.md#Nature) checks.
+This brown-and-green tunic is embroidered with patterns that resemble interlocking elk antlers. You gain a +2 item bonus to [Nature](skills.md#Nature) checks.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

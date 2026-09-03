@@ -15,6 +15,6 @@ You come from ancient Thassilon, one of the citizens that appeared out of time a
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Arcana](compendium/skills.md#Arcana) skill and the [Thassilon Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Arcana](skills.md#Arcana) skill and the [Thassilon Lore](skills.md#Lore) skill.
 
-You gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat.
+You gain the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) skill feat.

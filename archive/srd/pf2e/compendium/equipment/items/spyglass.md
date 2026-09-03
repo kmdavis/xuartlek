@@ -25,7 +25,7 @@ A typical spyglass lets you see eight times farther than normal.
 
 - **Price**: 80 gp
 
-A fine spyglass adds a +1 item bonus to [Perception](compendium/skills.md#Perception) checks to notice details at a distance.
+A fine spyglass adds a +1 item bonus to [Perception](skills.md#Perception) checks to notice details at a distance.
 
 ---
 *Source: Core Rulebook p. 288*

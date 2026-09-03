@@ -10,14 +10,14 @@ tags:
 aliases: ["Tree Of Dreadful Dreams"]
 ---
 # Tree Of Dreadful Dreams *Hazard 10*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +22 expert  
 
 The statue of the willow tree animates, its branches lashing out to try to grab anyone in area **B2**.
 
-- **Disable** [Athletics](compendium/skills.md#Athletics) or [Thievery](compendium/skills.md#Thievery) DC 25 (trained) to force or lever open a single branch, disabling that branch and freeing any creature trapped within. [Thievery](compendium/skills.md#Thievery) DC 29 (expert) to disrupt the tree's magical animation, shut it down, and free all trapped creatures. Placing a [dreamstone](compendium/equipment/items/dreamstone-aoa3.md) in the tree's trunk takes 2 [Interact](rules/actions/interact.md) actions and causes the trap to shut down, freeing all trapped creatures. Placing the [cursed dreamstone](compendium/equipment/items/dreamstone-cursed-aoa3.md) from area **B4** in the trunk instead increases the tree's actions per turn to 4 and gives it a +2 item bonus to all saving throws and attack rolls.  
+- **Disable** [Athletics](skills.md#Athletics) or [Thievery](skills.md#Thievery) DC 25 (trained) to force or lever open a single branch, disabling that branch and freeing any creature trapped within. [Thievery](skills.md#Thievery) DC 29 (expert) to disrupt the tree's magical animation, shut it down, and free all trapped creatures. Placing a [dreamstone](dreamstone-aoa3.md) in the tree's trunk takes 2 [Interact](archive/srd/pf2e/rules/actions/interact.md) actions and causes the trap to shut down, freeing all trapped creatures. Placing the [cursed dreamstone](dreamstone-cursed-aoa3.md) from area **B4** in the trunk instead increases the tree's actions per turn to 4 and gives it a +2 item bonus to all saving throws and attack rolls.  
 
 - **AC** 30, **Fort** +22, **Ref** +14
 - **Branch Hardness** 10, **Branch HP** 40 (BT 20) to break each branch
@@ -50,6 +50,6 @@ title: **Terrifying Visions** A creature that begins its turn [grabbed](rules/co
 ````
 ^routine
 
-**Reset** The trap deactivates and resets if it has no creatures [grabbed](rules/conditions.md#Grabbed) and no creatures in the room to attack. If an uncursed [dreamstone](compendium/equipment/items/dreamstone-aoa3.md) is placed in its trunk, the statue doesn't reactivate.  
+**Reset** The trap deactivates and resets if it has no creatures [grabbed](archive/srd/pf2e/rules/conditions.md#Grabbed) and no creatures in the room to attack. If an uncursed [dreamstone](dreamstone-aoa3.md) is placed in its trunk, the statue doesn't reactivate.  
 
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 11*

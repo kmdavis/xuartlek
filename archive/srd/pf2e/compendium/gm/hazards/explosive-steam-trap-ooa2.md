@@ -9,14 +9,14 @@ tags:
 aliases: ["Explosive Steam Trap"]
 ---
 # Explosive Steam Trap *Hazard 7*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 20 trained to find the desk switch; DC 28 (expert) to find the trapdoor and charge  
 
 A black-powder charge fastened to a trapdoor (marked with a "T" on the map) blows a hole in a steam tunnel, filling the room with superheated steam.
 
-- **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) (trained) to disarm the desk switch;  
+- **Disable** DC 18 [Thievery](skills.md#Thievery) (trained) to disarm the desk switch;  
 
 - **AC** 25, **Fort** +18, **Ref** +15
 - **Trapdoor Hardness** 8, **Trapdoor HP** 50 (BT 25)

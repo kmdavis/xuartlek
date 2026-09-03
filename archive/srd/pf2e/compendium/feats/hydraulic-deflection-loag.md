@@ -10,8 +10,8 @@ tags:
 - trait/water
 aliases: ["Hydraulic Deflection"]
 ---
-# Hydraulic Deflection  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+# Hydraulic Deflection  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[abjuration](abjuration.md "Abjuration School Trait")  [azarketi](azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Activity** Single Action
 

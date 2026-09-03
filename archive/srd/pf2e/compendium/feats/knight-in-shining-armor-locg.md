@@ -7,9 +7,9 @@ tags:
 aliases: ["Knight In Shining Armor"]
 ---
 # Knight In Shining Armor  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md); expert in light armor, medium armor, or unarmored defense; trained in heavy armor
+- **Prerequisites**: [Knight Vigilant Dedication](knight-vigilant-dedication-locg.md); expert in light armor, medium armor, or unarmored defense; trained in heavy armor
 
 As a knight in shining armor, you train daily in the heaviest armor, expanding your expertise to heavy armor. You gain expert proficiency in heavy armor.
 

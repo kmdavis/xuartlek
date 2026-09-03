@@ -7,11 +7,11 @@ tags:
 aliases: ["Lesser Enhance Venom"]
 ---
 # Lesser Enhance Venom  *Feat 1*  
-[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
+[vishkanya](vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Envenom](rules/actions/envenom-loil.md)
+- **Prerequisites**: [Envenom](envenom-loil.md)
 
-Your venom grows deadlier and more plentiful. You upgrade the vishkanyan venom you can apply with [Envenom](rules/actions/envenom-loil.md) to lesser vishkanyan venom. [Envenom](rules/actions/envenom-loil.md)'s frequency becomes once per hour.
+Your venom grows deadlier and more plentiful. You upgrade the vishkanyan venom you can apply with [Envenom](envenom-loil.md) to lesser vishkanyan venom. [Envenom](envenom-loil.md)'s frequency becomes once per hour.
 
 ```ad-inline-affliction
 title: Lesser Vishkanyan Venom

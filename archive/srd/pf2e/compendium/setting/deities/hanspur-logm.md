@@ -20,8 +20,8 @@ aliases: ["Hanspur", "The Water Rat"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Dexterity
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [trident](compendium/equipment/items/trident.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [travel](compendium/setting/domains.md#Travel), [water](compendium/setting/domains.md#Water), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [hydraulic push](compendium/spells/hydraulic-push.md); 2nd: [aqueous orb](compendium/spells/aqueous-orb-apg.md); 4th: [solid fog](compendium/spells/solid-fog.md)
+- **Favored Weapon**: [trident](archive/srd/pf2e/compendium/equipment/items/trident.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [water](archive/srd/pf2e/compendium/setting/domains.md#Water), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [hydraulic push](archive/srd/pf2e/compendium/spells/hydraulic-push.md); 2nd: [aqueous orb](aqueous-orb-apg.md); 4th: [solid fog](solid-fog.md)

@@ -8,7 +8,7 @@ tags:
 aliases: ["Echo of the Fallen"]
 ---
 # Echo of the Fallen  *Feat 4*  
-[aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[aftermath](aftermath-da.md "Aftermath Class Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You helped to lay a haunt, ghost, or spirit to rest.
 

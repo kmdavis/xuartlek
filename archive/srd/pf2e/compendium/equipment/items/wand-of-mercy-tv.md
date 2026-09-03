@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Mercy"]
 ---
 # Wand of Mercy *Item 4+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -62,7 +62,7 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 #### 9th-level spell *Item 20*
 
 - **Price**: 52000 gp
-- **Craft Requirements**: Supply a casting of a spell of the appropriate level. The spell must have a casting time of [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") it must deal damage, and it can't have the death, [negative](rules/traits/negative.md "Negative Energy & Element Trait"), or [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") traits.
+- **Craft Requirements**: Supply a casting of a spell of the appropriate level. The spell must have a casting time of [>](chapter-9-playing-the-game.md#Actions "Single Action") or [>>](chapter-9-playing-the-game.md#Actions "Two-Action") it must deal damage, and it can't have the death, [negative](negative.md "Negative Energy & Element Trait"), or [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait") traits.
 
 ---
 *Source: Treasure Vault p. 141*

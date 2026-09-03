@@ -8,14 +8,14 @@ tags:
 aliases: ["Lifeleech Crystal Patch"]
 ---
 # Lifeleech Crystal Patch *Hazard 11*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 30 expert or [detect magic](compendium/spells/detect-magic.md) to note the presence of necromantic energies suffusing the crystals.  
+- **Stealth** DC 30 expert or [detect magic](archive/srd/pf2e/compendium/spells/detect-magic.md) to note the presence of necromantic energies suffusing the crystals.  
 
 Sharp, bloodthirsty crystals make walking through this chamber treacherous.
 
-- **Disable** [Religion](compendium/skills.md#Religion) DC 30 (expert) to utter prayers that quell the crystals' necromantic compulsion to drink blood  
+- **Disable** [Religion](skills.md#Religion) DC 30 (expert) to utter prayers that quell the crystals' necromantic compulsion to drink blood  
 
 - **AC** 31, **Fort** +24, **Ref** +12
 - **Hardness** 20, **HP** 80 (BT 40)

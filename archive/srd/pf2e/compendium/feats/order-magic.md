@@ -7,9 +7,9 @@ tags:
 aliases: ["Order Magic"]
 ---
 # Order Magic  *Feat 4*  
-[druid](rules/traits/druid.md "Druid Class Trait")  
+[druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  
 
-- **Prerequisites**: [Order Explorer](compendium/feats/order-explorer.md)
+- **Prerequisites**: [Order Explorer](archive/srd/pf2e/compendium/feats/order-explorer.md)
 
 You have delved deeper into the teaching of a new order, gaining access to a coveted order spell. Choose an order you have selected with Order Explorer. You gain the initial order spell from that order.
 

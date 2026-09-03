@@ -9,7 +9,7 @@ tags:
 aliases: ["Scythe"]
 ---
 # Scythe *Item 0*  
-[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
+[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

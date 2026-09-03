@@ -12,11 +12,11 @@ tags:
 aliases: ["Horns Of Naraga"]
 ---
 # Horns Of Naraga *Item 26*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 2; **Usage** worn headwear
 
-This imposing helm bears the horns of a powerful black dragon. While wearing the Horns of Naraga, you gain [greater darkvision](rules/abilities/darkvision.md) and immunity to acid. If you are undead, you gain resistance 40 to positive damage. If you are not undead, the helm quickly saps the life from you, dealing `10d6` negative damage to you every round. If you die from this damage, you rise as an undead of an equal level in `1d4` rounds.
+This imposing helm bears the horns of a powerful black dragon. While wearing the Horns of Naraga, you gain [greater darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) and immunity to acid. If you are undead, you gain resistance 40 to positive damage. If you are not undead, the helm quickly saps the life from you, dealing `10d6` negative damage to you every round. If you die from this damage, you rise as an undead of an equal level in `1d4` rounds.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

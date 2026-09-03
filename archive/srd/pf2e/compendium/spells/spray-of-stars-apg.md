@@ -14,10 +14,10 @@ tags:
 aliases: ["Spray Of Stars"]
 ---
 # Spray Of Stars *Focus 1*   
-[cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cursebound](cursebound-apg.md "Cursebound Spell Trait")  [evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot cone
 - **Saving Throw**: Reflex
 
@@ -25,9 +25,9 @@ You fling a spray of tiny shooting stars, dealing `1d4` fire damage. Each creatu
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature takes half damage and is [dazzled](rules/conditions.md#Dazzled) for 1 round.
-> - **Failure** The creature takes full damage and is [dazzled](rules/conditions.md#Dazzled) for 3 rounds.
-> - **Critical Failure** The creature takes double damage and is [dazzled](rules/conditions.md#Dazzled) for 1 minute.
+> - **Success** The creature takes half damage and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 round.
+> - **Failure** The creature takes full damage and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 3 rounds.
+> - **Critical Failure** The creature takes double damage and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 minute.
 
 **Heightened (+ 1)** Increase the damage by `1d4`.
 

@@ -7,15 +7,15 @@ tags:
 aliases: ["Expert Witch Spellcasting"]
 ---
 # Expert Witch Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Witch Spellcasting](compendium/feats/basic-witch-spellcasting-apg.md), master in the skill associated with your patron's tradition
+- **Prerequisites**: [Basic Witch Spellcasting](basic-witch-spellcasting-apg.md), master in the skill associated with your patron's tradition
 
 You gain the expert spellcasting benefits.
 
 ## Expert Witch Spellcasting leads to...
 
-[Master Witch Spellcasting](compendium/feats/master-witch-spellcasting-apg.md)
+[Master Witch Spellcasting](master-witch-spellcasting-apg.md)
 
 ## Summary
 

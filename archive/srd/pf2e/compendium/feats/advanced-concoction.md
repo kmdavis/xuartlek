@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Concoction"]
 ---
 # Advanced Concoction  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Concoction](compendium/feats/basic-concoction.md)
+- **Prerequisites**: [Basic Concoction](archive/srd/pf2e/compendium/feats/basic-concoction.md)
 
 You gain one alchemist feat. For the purpose of meeting its prerequisites, your alchemist level is equal to half your character level.
 

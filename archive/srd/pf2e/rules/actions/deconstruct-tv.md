@@ -9,11 +9,11 @@ tags:
 aliases: ["Deconstruct"]
 ---
 # Deconstruct
-[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[downtime](archive/srd/pf2e/rules/traits/downtime.md "Downtime Action & Ability Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 *Source: Treasure Vault p. 162*  
 
 
-You deconstruct an item to provide the starting point to convert it into a new item. You need the [Alchemical Crafting](compendium/feats/alchemical-crafting.md) skill feat to deconstruct alchemical items and the [Magical Crafting](compendium/feats/magical-crafting.md) skill feat to deconstruct magic items.
+You deconstruct an item to provide the starting point to convert it into a new item. You need the [Alchemical Crafting](archive/srd/pf2e/compendium/feats/alchemical-crafting.md) skill feat to deconstruct alchemical items and the [Magical Crafting](archive/srd/pf2e/compendium/feats/magical-crafting.md) skill feat to deconstruct magic items.
 
 To Deconstruct an item, you must meet the following requirements.
 

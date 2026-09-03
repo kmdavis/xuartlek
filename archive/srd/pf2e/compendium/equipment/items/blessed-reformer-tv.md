@@ -11,13 +11,13 @@ tags:
 aliases: ["Blessed Reformer"]
 ---
 # Blessed Reformer *Item 14*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [good](good.md "Good Alignment Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4500 gp
 - **Craft Requirements** You're a champion with the redeemer cause. The initial materials must include 140 gp of mithral.
 - **Bulk** 1; **Usage** held in 1 hand
 
-The Celestial word for "repent" is etched in golden lettering on the shaft of this +2 greater striking [merciful](compendium/equipment/items/merciful-tv.md) mithral [warhammer](compendium/equipment/items/warhammer.md). An evil-aligned creature is [enfeebled](rules/conditions.md#Enfeebled) when carrying or wielding this weapon.
+The Celestial word for "repent" is etched in golden lettering on the shaft of this +2 greater striking [merciful](merciful-tv.md) mithral [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md). An evil-aligned creature is [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) when carrying or wielding this weapon.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)

@@ -10,12 +10,12 @@ tags:
 aliases: ["Dawnlight"]
 ---
 # Dawnlight *Item 3+*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Craft Requirements** You have a spellcasting class feature with the divine tradition.
 - **Bulk** L; **Usage** held in 1 hand
 
-This shining symbol of [Sarenrae](compendium/setting/deities/sarenrae.md) depicts the goddess with her arms held wide. In the center of the symbol is a crystal reliquary with a perfect feather floating inside, glowing bright as a candle with the light of the goddess.
+This shining symbol of [Sarenrae](sarenrae.md) depicts the goddess with her arms held wide. In the center of the symbol is a crystal reliquary with a perfect feather floating inside, glowing bright as a candle with the light of the goddess.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
@@ -37,7 +37,7 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 
 - **Price**: 320 gp
 
-Whenever you successfully counteract magical darkness while holding this symbol, the clash of magic unleashes a momentary flash of light. Creatures with darkvision in the area of the [light](compendium/spells/light.md) spell or targeted by it must succeed at a DC 23 Fortitude save or be [dazzled](rules/conditions.md#Dazzled) for 1 round. Those with light blindness are also exposed to bright light.
+Whenever you successfully counteract magical darkness while holding this symbol, the clash of magic unleashes a momentary flash of light. Creatures with darkvision in the area of the [light](archive/srd/pf2e/compendium/spells/light.md) spell or targeted by it must succeed at a DC 23 Fortitude save or be [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 round. Those with light blindness are also exposed to bright light.
 
 Change the list of spells to 3rd-level versions of disrupt undead, light, and searing light. The spell attack roll and counteract modifier are +13.
 

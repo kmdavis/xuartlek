@@ -8,16 +8,16 @@ tags:
 aliases: ["Lyzerium Bottles"]
 ---
 # Lyzerium Bottles *Hazard 1*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 16  
 
 Five tiny glass bottles, each full of volatile green liquid, are discretely positioned around the room.
 
-Each bottle explodes when its glass is [broken](rules/conditions.md#Broken).
+Each bottle explodes when its glass is [broken](archive/srd/pf2e/rules/conditions.md#Broken).
 
-- **Disable** [Interact](rules/actions/interact.md) action to pick up one of the five bottles (see Lyzerium sidebar on page 63)  
+- **Disable** [Interact](archive/srd/pf2e/rules/actions/interact.md) action to pick up one of the five bottles (see Lyzerium sidebar on page 63)  
 
 - **AC** 13, **Fort** +4, **Ref** +6
 - **Bottle Hardness** 1, **Bottle HP** 4 (BT 2)

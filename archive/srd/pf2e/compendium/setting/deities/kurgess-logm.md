@@ -25,13 +25,13 @@ aliases: ["Kurgess", "The Strong Man"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [javelin](compendium/equipment/items/javelin.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [might](compendium/setting/domains.md#Might), [truth](compendium/setting/domains.md#Truth), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [ant haul](compendium/spells/ant-haul.md); 2nd: [enlarge](compendium/spells/enlarge.md); 3rd: [haste](compendium/spells/haste.md)
+- **Favored Weapon**: [javelin](archive/srd/pf2e/compendium/equipment/items/javelin.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [ant haul](archive/srd/pf2e/compendium/spells/ant-haul.md); 2nd: [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md); 3rd: [haste](archive/srd/pf2e/compendium/spells/haste.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Kurgess gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Kurgess gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Kurgess
@@ -48,9 +48,9 @@ title: [Avatar](compendium/spells/avatar.md) of Kurgess
 The Strong Man's gifts reflect his mastery of might.
 
 - **Minor Boon** The Strong Man blesses you with a measure of his strength. Increase your maximum and encumbered Bulk limits by 2.
-- **Moderate Boon**: You fear no exertion. You can employ exploration tactics normally while [fatigued](rules/conditions.md#Fatigued).
-- **Major Boon**: You possess a true champion's might. When you roll a critical failure on an [Athletics](compendium/skills.md#Athletics) check, you get a failure instead, and when you roll a success, you instead get a critical success.
+- **Moderate Boon**: You fear no exertion. You can employ exploration tactics normally while [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued).
+- **Major Boon**: You possess a true champion's might. When you roll a critical failure on an [Athletics](skills.md#Athletics) check, you get a failure instead, and when you roll a success, you instead get a critical success.
 
 - **Minor Curse**: Difficulty lifting burdens is a sign of divine disapproval. Your maximum and encumbered Bulk limits decrease by 2.
 - **Moderate Curse** Kurgess's displeasure breaks your competitive edge, causing you to fail at the cusp of success. If your check result exactly equals the DC, you fail instead of succeeding.
-- **Major Curse**: The wrath of Kurgess withers you almost to nothing. You are permanently [drained](rules/conditions.md#Drained) and [enfeebled](rules/conditions.md#Enfeebled).
+- **Major Curse**: The wrath of Kurgess withers you almost to nothing. You are permanently [drained](archive/srd/pf2e/rules/conditions.md#Drained) and [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled).

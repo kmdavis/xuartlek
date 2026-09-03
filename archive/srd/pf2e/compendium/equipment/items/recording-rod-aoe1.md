@@ -12,13 +12,13 @@ tags:
 aliases: ["Recording Rod"]
 ---
 # Recording Rod *Item 3+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [scrying](archive/srd/pf2e/rules/traits/scrying.md "Scrying Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 1; **Usage** varies
 
 This smooth metal bar is short enough to fit in one hand. It has several inset gemstone buttons on one end and a small lens on the other.
 
-Popular with law enforcement and blackmailers alike, recording rods allow users to capture and replay incriminating scenes and are often [concealed](rules/conditions.md#Concealed) and triggered covertly to avoid raising the subject's suspicion.
+Popular with law enforcement and blackmailers alike, recording rods allow users to capture and replay incriminating scenes and are often [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) and triggered covertly to avoid raising the subject's suspicion.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

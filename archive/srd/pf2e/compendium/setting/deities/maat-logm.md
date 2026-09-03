@@ -20,8 +20,8 @@ aliases: ["Ma'at", "The Feather of Truth"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [starknife](compendium/equipment/items/starknife.md)
-- **Domains**: [knowledge](compendium/setting/domains.md#Knowledge), [protection](compendium/setting/domains.md#Protection), [star](compendium/setting/domains.md#Star), [truth](compendium/setting/domains.md#Truth)
-- **Cleric Spells**: 1st: [feather fall](compendium/spells/feather-fall.md); 4th: [resilient sphere](compendium/spells/resilient-sphere.md); 5th: [mind probe](compendium/spells/mind-probe.md)
+- **Favored Weapon**: [starknife](archive/srd/pf2e/compendium/equipment/items/starknife.md)
+- **Domains**: [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [star](archive/srd/pf2e/compendium/setting/domains.md#Star), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [feather fall](feather-fall.md); 4th: [resilient sphere](resilient-sphere.md); 5th: [mind probe](archive/srd/pf2e/compendium/spells/mind-probe.md)

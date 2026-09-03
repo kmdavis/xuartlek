@@ -7,9 +7,9 @@ tags:
 aliases: ["Arcane Breadth"]
 ---
 # Arcane Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Wizard Spellcasting](compendium/feats/basic-wizard-spellcasting.md)
+- **Prerequisites**: [Basic Wizard Spellcasting](archive/srd/pf2e/compendium/feats/basic-wizard-spellcasting.md)
 
 You can cast more arcane spells each day. Increase the spell slots you gain from wizard archetype feats by 1 for each spell level other than your two highest Wizard spell slots.
 

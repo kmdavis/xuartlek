@@ -13,18 +13,18 @@ tags:
 aliases: ["Moonbeam"]
 ---
 # Moonbeam *Focus 1*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [moon](compendium/setting/domains.md#Moon)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [moon](archive/srd/pf2e/compendium/setting/domains.md#Moon)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Targets**: 1 creature or object
 
 You shine a ray of moonlight. Make a spell attack roll. The beam of light deals `1d6` fire damage. Moonbeam deals silver damage for the purposes of weaknesses, resistances, and the like.
 
 > [!success-degree] 
-> - **Critical Success** The beam deals double damage, and the target is [dazzled](rules/conditions.md#Dazzled) for 1 minute.
-> - **Success** The beam deals full damage, and the target is [dazzled](rules/conditions.md#Dazzled) for 1 round.
+> - **Critical Success** The beam deals double damage, and the target is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 minute.
+> - **Success** The beam deals full damage, and the target is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 round.
 
 **Heightened (+ 1)** The ray's damage increases by `1d6`.
 

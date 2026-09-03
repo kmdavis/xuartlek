@@ -6,8 +6,8 @@ tags:
 - trait/gnome
 aliases: ["Life-giving Magic"]
 ---
-# Life-giving Magic  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
+# Life-giving Magic  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[gnome](archive/srd/pf2e/rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
 - **Frequency**: once per minute
 - **Trigger** You cast an innate spell from a gnome heritage or ancestry feat.

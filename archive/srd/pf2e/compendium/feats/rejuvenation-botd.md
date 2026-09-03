@@ -8,9 +8,9 @@ tags:
 aliases: ["Rejuvenation"]
 ---
 # Rejuvenation  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
+- **Prerequisites**: [Ghost Dedication](ghost-dedication-botd.md)
 
 The call of your unfinished business recreates you after destruction. When you're destroyed, you reform after `2d4` days within your bound site, fully healed. If your unfinished business is resolved while you're waiting, you pass on immediately unless you and the GM determine you have new unfinished business.
 

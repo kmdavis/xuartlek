@@ -12,14 +12,14 @@ tags:
 aliases: ["Dragon Rune Bracelet"]
 ---
 # Dragon Rune Bracelet *Item 11*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [focused](archive/srd/pf2e/rules/traits/focused.md "Focused Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1400 gp
 - **Bulk** –; **Usage** worn bracelet
 
 This polished golden bracelet is formed around the scale of a famous dragon. The bracelet is etched with esoteric symbols or words—always in Draconic—that indicate kinship with dragons. As many types of dragon rune bracelets exist as there are types of dragons, though dragon rune bracelets associated with Uncommon or Rare dragons are Rare.
 
-While wearing a dragon rune bracelet, you gain a +2 item bonus to [Diplomacy](compendium/skills.md#Diplomacy) checks while interacting with dragons of the same type as the pendant's scale (such as red dragons or cloud dragons). You also gain a +2 item bonus to saving throws against [fear](rules/traits/fear.md "Fear Effect Trait") effects from any kind of dragon.
+While wearing a dragon rune bracelet, you gain a +2 item bonus to [Diplomacy](skills.md#Diplomacy) checks while interacting with dragons of the same type as the pendant's scale (such as red dragons or cloud dragons). You also gain a +2 item bonus to saving throws against [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effects from any kind of dragon.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

@@ -7,14 +7,14 @@ tags:
 aliases: ["Acute Vision"]
 ---
 # Acute Vision  *Feat 1*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  
 
 
-When you are raging, your visual senses improve, granting you [darkvision](rules/abilities/darkvision.md).
+When you are raging, your visual senses improve, granting you [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md).
 
 ## Acute Vision leads to...
 
-[Acute Scent](compendium/feats/acute-scent.md), [Instinctive Strike](compendium/feats/instinctive-strike-apg.md), [Nocturnal Sense](compendium/feats/nocturnal-sense-apg.md), [Supernatural Senses](compendium/feats/supernatural-senses-apg.md)
+[Acute Scent](archive/srd/pf2e/compendium/feats/acute-scent.md), [Instinctive Strike](instinctive-strike-apg.md), [Nocturnal Sense](nocturnal-sense-apg.md), [Supernatural Senses](supernatural-senses-apg.md)
 
 ## Summary
 

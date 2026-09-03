@@ -9,7 +9,7 @@ tags:
 aliases: ["Scout"]
 ---
 # Scout (basic)
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Core Rulebook p. 480*  
 
 

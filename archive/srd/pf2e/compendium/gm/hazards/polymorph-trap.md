@@ -8,14 +8,14 @@ tags:
 aliases: ["Polymorph Trap"]
 ---
 # Polymorph Trap *Hazard 12*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 34 trained  
 
 A Druidic glyph tries to transforms a trespasser into an animal.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 32 (master) to drain the glyph's power harmlessly, or dispel magic (6th level; counteract DC 30) to counteract the glyph.  
+- **Disable** [Thievery](skills.md#Thievery) DC 32 (master) to drain the glyph's power harmlessly, or dispel magic (6th level; counteract DC 30) to counteract the glyph.  
 
 ```ad-embed-ability
 title: **Baleful Polymorph** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([primal](rules/traits/primal.md), [transmutation](rules/traits/transmutation.md))

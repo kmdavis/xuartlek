@@ -11,7 +11,7 @@ tags:
 aliases: ["Gnome Flickmace"]
 ---
 # Gnome Flickmace *Item 0*  
-[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[gnome](archive/srd/pf2e/rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

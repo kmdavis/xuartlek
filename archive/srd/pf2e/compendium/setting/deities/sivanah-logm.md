@@ -26,14 +26,14 @@ aliases: ["Sivanah", "The Seventh Veil"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Deception
 - **Favored Weapon**: bladed scarf
-- **Domains**: [delirium](compendium/setting/domains.md#Delirium), [magic](compendium/setting/domains.md#Magic), [secrecy](compendium/setting/domains.md#Secrecy), [trickery](compendium/setting/domains.md#Trickery)
-- **Alternate Domains**: [glyph](compendium/setting/domains.md#Glyph)
-- **Cleric Spells**: 1st: [illusory disguise](compendium/spells/illusory-disguise.md); 4th: [veil](compendium/spells/veil.md); 5th: [shadow siphon](compendium/spells/shadow-siphon.md)
+- **Domains**: [delirium](archive/srd/pf2e/compendium/setting/domains.md#Delirium), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Alternate Domains**: [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph)
+- **Cleric Spells**: 1st: [illusory disguise](archive/srd/pf2e/compendium/spells/illusory-disguise.md); 4th: [veil](veil.md); 5th: [shadow siphon](shadow-siphon.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Sivanah gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Sivanah gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Sivanah
@@ -49,10 +49,10 @@ title: [Avatar](compendium/spells/avatar.md) of Sivanah
 
 The Seventh Veil abhors the use of illusion to cause harm and detests anyone who discourages or corrupts the process of truth-seeking. The goddess works actively against the faith of Zon-Kuthon and his clerics' use of shadow.
 
-- **Minor Boon** Sivanah prevents your enemies from pulling off your veil. Once, when a foe rolls a success on a [Perception](compendium/skills.md#Perception) check to disbelieve your illusion, it gets a critical failure instead. Sivanah typically grants this benefit to protect an elaborate or consequential illusory deception, and she never uses it to improve the effect of a harmful illusion.
-- **Moderate Boon**: You wear a veil of illusion wherever you go. You can cast [illusory disguise](compendium/spells/illusory-disguise.md) at will as an innate [divine](rules/traits/divine.md "Divine Tradition Trait") spell.
-- **Major Boon**: You spread your illusions over a larger area. You can designate an area to permanently gain the effects of [hallucinatory terrain](compendium/spells/hallucinatory-terrain.md). All creatures within this area gain the effects of [illusory disguise](compendium/spells/illusory-disguise.md), changing their forms as you wish. You can designate a new area as a 1-minute activity, but doing so dismisses any previously designated areas.
+- **Minor Boon** Sivanah prevents your enemies from pulling off your veil. Once, when a foe rolls a success on a [Perception](skills.md#Perception) check to disbelieve your illusion, it gets a critical failure instead. Sivanah typically grants this benefit to protect an elaborate or consequential illusory deception, and she never uses it to improve the effect of a harmful illusion.
+- **Moderate Boon**: You wear a veil of illusion wherever you go. You can cast [illusory disguise](archive/srd/pf2e/compendium/spells/illusory-disguise.md) at will as an innate [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait") spell.
+- **Major Boon**: You spread your illusions over a larger area. You can designate an area to permanently gain the effects of [hallucinatory terrain](hallucinatory-terrain.md). All creatures within this area gain the effects of [illusory disguise](archive/srd/pf2e/compendium/spells/illusory-disguise.md), changing their forms as you wish. You can designate a new area as a 1-minute activity, but doing so dismisses any previously designated areas.
 
-- **Minor Curse**: Your hair becomes a wild variety of colors, which cannot be altered with mundane or magical means, and it somehow grows out from under any cap, scarf, or other headwear intended to disguise it. You gain a –2 status penalty to [Deception](compendium/skills.md#Deception) skill checks to [Impersonate](rules/actions/impersonate.md) anyone else.
+- **Minor Curse**: Your hair becomes a wild variety of colors, which cannot be altered with mundane or magical means, and it somehow grows out from under any cap, scarf, or other headwear intended to disguise it. You gain a –2 status penalty to [Deception](skills.md#Deception) skill checks to [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md) anyone else.
 - **Moderate Curse** Those who betray the secrets of others find their own secrets laid bare. Each person from whom you are keeping a secret immediately learns one of your secrets involving that person. This curse doesn't give away other people's secrets you are keeping, only your own.
-- **Major Curse**: Mirrors break whenever you cross their paths. You cannot be concealed by [illusion](rules/traits/illusion.md "Illusion School Trait") magic of any kind (the spell automatically fails), and all creatures that see you know your true identity.
+- **Major Curse**: Mirrors break whenever you cross their paths. You cannot be concealed by [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait") magic of any kind (the spell automatically fails), and all creatures that see you know your true identity.

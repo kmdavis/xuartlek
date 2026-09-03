@@ -8,9 +8,9 @@ tags:
 aliases: ["Creation"]
 ---
 # Creation *Spell 4*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
 - **Range**: 0 feet
 - **Duration**: 1 hour

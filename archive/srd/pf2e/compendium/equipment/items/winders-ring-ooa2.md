@@ -10,12 +10,12 @@ tags:
 aliases: ["Winder's Ring"]
 ---
 # Winder's Ring *Item 7*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 360 gp
 - **Bulk** —; **Usage** worn
 
-This ring contains dozens of minute, interlocking bronze gears that buzz incessantly. The ring grants you a +1 item bonus to all [Crafting](compendium/skills.md#Crafting) checks to construct or repair clockworks.
+This ring contains dozens of minute, interlocking bronze gears that buzz incessantly. The ring grants you a +1 item bonus to all [Crafting](skills.md#Crafting) checks to construct or repair clockworks.
 
 ```ad-embed-ability
 title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") [Interact](rules/actions/interact.md)

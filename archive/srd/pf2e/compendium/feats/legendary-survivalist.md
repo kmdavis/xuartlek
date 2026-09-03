@@ -8,9 +8,9 @@ tags:
 aliases: ["Legendary Survivalist"]
 ---
 # Legendary Survivalist  *Feat 15*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: legendary in [Survival](compendium/skills.md#Survival)
+- **Prerequisites**: legendary in [Survival](skills.md#Survival)
 
 You can survive indefinitely without food or water and can endure severe, extreme, and incredible cold and heat without taking damage from doing so.
 

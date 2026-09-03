@@ -1,0 +1,67 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-equipment
+tags:
+- compendium/src/pf2e/player-core-2
+- trait/alchemical
+- trait/bomb
+- trait/consumable
+- trait/electricity
+- trait/splash
+- equipment/level/1
+aliases: ["Bottled Lightning (Lesser)"]
+aon_id: "equipment-3290-3134"
+source: "Player Core 2"
+---
+
+# Bottled Lightning (Lesser)  *Item 1+*
+
+`Alchemical`  `Bomb`  `Consumable`  `Electricity`  `Splash`
+
+- **Usage**: held in 1 hand
+- **Bulk**: L
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Strike
+
+Bottled lightning is packed with volatile reagents that create a blast of electricity when they're exposed to air. Bottled lightning deals the listed electricity damage and electricity splash damage. On a hit, the target becomes off-guard until the start of your next turn. Many types grant an item bonus to attack rolls.
+
+### Bottled Lightning (Lesser)
+
+**Price** 3 gp
+
+**Bulk** L
+
+---
+
+The bomb deals 1d6 electricity damage and 1 electricity splash damage.
+
+### Bottled Lightning (Moderate)
+
+**Price** 10 gp
+
+**Bulk** L
+
+---
+
+You gain a +1 item bonus to attack rolls. The bomb deals 2d6 electricity damage and 2 electricity splash damage.
+
+### Bottled Lightning (Greater)
+
+**Price** 250 gp
+
+**Bulk** L
+
+---
+
+You gain a +2 item bonus to attack rolls. The bomb deals 3d6 electricity damage and 3 electricity splash damage.
+
+### Bottled Lightning (Major)
+
+**Price** 2,500 gp
+
+**Bulk** L
+
+---
+
+You gain a +3 item bonus to attack rolls. The bomb deals 4d6 electricity damage and 4 electricity splash damage.
+
+*Source: Player Core 2 p. 284*

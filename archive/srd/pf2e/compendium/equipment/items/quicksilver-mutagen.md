@@ -12,14 +12,14 @@ tags:
 aliases: ["Quicksilver Mutagen"]
 ---
 # Quicksilver Mutagen *Item 1+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [mutagen](rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [mutagen](archive/srd/pf2e/rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Your features become thin and angular. You become swifter and nimbler, but your body also becomes fragile.
 
-**Benefit** You gain an item bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks, [Stealth](compendium/skills.md#Stealth) checks, [Thievery](compendium/skills.md#Thievery) checks, Reflex saves, and Dexterity-based attack rolls, and you gain the listed status bonus to your Speed.
+**Benefit** You gain an item bonus to [Acrobatics](skills.md#Acrobatics) checks, [Stealth](skills.md#Stealth) checks, [Thievery](skills.md#Thievery) checks, Reflex saves, and Dexterity-based attack rolls, and you gain the listed status bonus to your Speed.
 
 **Drawback** You take damage equal to twice your level; you can't recover Hit Points lost in this way by any means while the mutagen lasts. You take a –2 penalty to Fortitude saves.
 

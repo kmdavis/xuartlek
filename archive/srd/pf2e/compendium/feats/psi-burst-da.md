@@ -11,8 +11,8 @@ tags:
 - trait/psychic
 aliases: ["Psi Burst"]
 ---
-# Psi Burst  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [mindshift](rules/traits/mindshift-da.md "Mindshift Action & Ability Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
+# Psi Burst  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](evocation.md "Evocation School Trait")  [mindshift](mindshift-da.md "Mindshift Action & Ability Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [psyche](psyche-da.md "Psyche Action & Ability Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Frequency**: once per round
 - **Activity** Single Action

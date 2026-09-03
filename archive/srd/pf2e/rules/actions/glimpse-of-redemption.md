@@ -7,8 +7,8 @@ tags:
 - trait/champion
 aliases: ["Glimpse of Redemption"]
 ---
-# Glimpse of Redemption [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[champion](rules/traits/champion.md "Champion Class Trait")  
+# Glimpse of Redemption [R](chapter-9-playing-the-game.md#Actions "Reaction")
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 *Source: Core Rulebook p. 107*  
 
 **Class** champion; **Subclass** Redeemer

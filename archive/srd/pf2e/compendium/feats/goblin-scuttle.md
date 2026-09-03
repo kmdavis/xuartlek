@@ -6,17 +6,17 @@ tags:
 - trait/goblin
 aliases: ["Goblin Scuttle"]
 ---
-# Goblin Scuttle  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
+# Goblin Scuttle  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Trigger** An ally ends a move action adjacent to you.
 - **Activity** Reaction
 
-You take advantage of your ally's movement to adjust your position. You [Step](rules/actions/step.md).
+You take advantage of your ally's movement to adjust your position. You [Step](archive/srd/pf2e/rules/actions/step.md).
 
 ## Goblin Scuttle leads to...
 
-[Skittering Scuttle](compendium/feats/skittering-scuttle.md)
+[Skittering Scuttle](archive/srd/pf2e/compendium/feats/skittering-scuttle.md)
 
 ## Summary
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Wildborn Magic"]
 ---
 # Wildborn Magic  *Feat 1*  
-[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[elf](archive/srd/pf2e/rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Mualijae ethnicity
 
@@ -16,7 +16,7 @@ You have learned to access the old magic of wild places. Choose one cantrip from
 
 ## Wildborn Magic leads to...
 
-[Wildborn Adept](compendium/feats/wildborn-adept-locg.md)
+[Wildborn Adept](wildborn-adept-locg.md)
 
 ## Summary
 

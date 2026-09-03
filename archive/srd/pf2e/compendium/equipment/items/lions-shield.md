@@ -9,7 +9,7 @@ tags:
 aliases: ["Lion's Shield"]
 ---
 # Lion's Shield *Item 6*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 245 gp
 - **Bulk** 1; **Usage** held in 1 hand

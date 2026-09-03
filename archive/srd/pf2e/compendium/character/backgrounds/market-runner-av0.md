@@ -15,4 +15,4 @@ Keeleno Lathenar, the proprietor of Otari Market, is a grim and bitter man. A we
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Otari Lore](compendium/skills.md#Lore) skill. You gain the [Hobnobber](compendium/feats/hobnobber.md) skill feat.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Otari Lore](skills.md#Lore) skill. You gain the [Hobnobber](archive/srd/pf2e/compendium/feats/hobnobber.md) skill feat.

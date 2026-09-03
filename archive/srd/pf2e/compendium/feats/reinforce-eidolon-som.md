@@ -7,10 +7,10 @@ tags:
 aliases: ["Reinforce Eidolon"]
 ---
 # Reinforce Eidolon  *Feat 2*  
-[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
-You buffer your eidolon. You gain the [reinforce eidolon](compendium/spells/reinforce-eidolon-som.md) link cantrip.
+You buffer your eidolon. You gain the [reinforce eidolon](archive/srd/pf2e/compendium/spells/reinforce-eidolon-som.md) link cantrip.
 
 *Source: Secrets of Magic p. 68*  
 %% #compendium/src/pf2e/som #trait/summoner %%

@@ -8,14 +8,14 @@ tags:
 aliases: ["Explosive Barrels"]
 ---
 # Explosive Barrels *Hazard 2*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 15  
 
 Wooden barrels marked with an oil-drop symbol catch fire and explode.
 
-- **Disable** [Survival](compendium/skills.md#Survival) DC 20 to smother the flames without rupturing the barrels.  
+- **Disable** [Survival](skills.md#Survival) DC 20 to smother the flames without rupturing the barrels.  
 
 - **AC** 15, **Fort** +11, **Ref** +3
 - **Hardness** 1, **HP** 5

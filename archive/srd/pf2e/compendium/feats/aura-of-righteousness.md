@@ -7,7 +7,7 @@ tags:
 aliases: ["Aura Of Righteousness"]
 ---
 # Aura Of Righteousness  *Feat 14*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: tenets of good
 

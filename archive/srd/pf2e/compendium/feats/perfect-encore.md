@@ -7,7 +7,7 @@ tags:
 aliases: ["Perfect Encore"]
 ---
 # Perfect Encore  *Feat 20*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: magnum opus
 

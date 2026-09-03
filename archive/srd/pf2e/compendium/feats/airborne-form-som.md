@@ -8,9 +8,9 @@ tags:
 aliases: ["Airborne Form"]
 ---
 # Airborne Form  *Feat 14*  
-[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[evolution](evolution-som.md "Evolution Feat Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
-- **Prerequisites**: [Glider Form](compendium/feats/glider-form-som.md)
+- **Prerequisites**: [Glider Form](glider-form-som.md)
 
 Your eidolon can fly. It gains a fly Speed equal to its Speed.
 

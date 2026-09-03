@@ -9,16 +9,16 @@ tags:
 aliases: ["Swarm Form"]
 ---
 # Swarm Form *Focus 4*   
-[polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Domains** [swarm](compendium/setting/domains.md#Swarm)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 5 minutes
 
-You discorporate into a swarm of Tiny creatures. While in swarm form, you have the [swarm](rules/traits/swarm-b1.md "Swarm Creature Trait") trait and you gain resistance 5 to slashing and piercing damage and weakness 5 to area and [splash](rules/traits/splash.md "Splash Weapon Trait") damage. You can fit into spaces only a few inches wide, moving your constituent creatures through the gap.
+You discorporate into a swarm of Tiny creatures. While in swarm form, you have the [swarm](swarm-b1.md "Swarm Creature Trait") trait and you gain resistance 5 to slashing and piercing damage and weakness 5 to area and [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait") damage. You can fit into spaces only a few inches wide, moving your constituent creatures through the gap.
 
-You don't gain the swarm mind ability, so you are still affected normally by [mental](rules/traits/mental.md "Mental Effect Trait") effects. As a swarm, you can't speak, cast spells, use manipulate actions requiring your hands, activate your magic items, or make any of your [Strikes](rules/actions/strike.md) with your normal body. You can [Dismiss](rules/actions/dismiss.md) the Spell.
+You don't gain the swarm mind ability, so you are still affected normally by [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") effects. As a swarm, you can't speak, cast spells, use manipulate actions requiring your hands, activate your magic items, or make any of your [Strikes](archive/srd/pf2e/rules/actions/strike.md) with your normal body. You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the Spell.
 
 **Heightened (+ 2)** Increase your resistances and weaknesses each by 5.
 

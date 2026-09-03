@@ -12,13 +12,13 @@ tags:
 aliases: ["False Death"]
 ---
 # False Death *Item 5*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [ingested](archive/srd/pf2e/rules/traits/ingested.md "Ingested Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Typically used to fake one's death, this poison swiftly causes the imbiber to lose consciousness and suppresses vital signs. A creature examining the [unconscious](rules/conditions.md#Unconscious) target must succeed at a [Medicine](compendium/skills.md#Medicine) check against the imbiber's [Deception](compendium/skills.md#Deception) DC + 4 to determine that the target is alive, and a critical success allows the examiner to determine that a toxin is causing the effect. The false death toxin has an extremely bitter taste ([Perception](compendium/skills.md#Perception) DC 10 to detect), making it difficult to trick a creature into consuming the poison against its wishes.
+Typically used to fake one's death, this poison swiftly causes the imbiber to lose consciousness and suppresses vital signs. A creature examining the [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious) target must succeed at a [Medicine](skills.md#Medicine) check against the imbiber's [Deception](skills.md#Deception) DC + 4 to determine that the target is alive, and a critical success allows the examiner to determine that a toxin is causing the effect. The false death toxin has an extremely bitter taste ([Perception](skills.md#Perception) DC 10 to detect), making it difficult to trick a creature into consuming the poison against its wishes.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 18 Fortitude

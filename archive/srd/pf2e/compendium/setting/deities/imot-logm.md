@@ -20,8 +20,8 @@ aliases: ["Imot", "The Symbol of Doom"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Intelligence
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [shield boss](compendium/equipment/items/shield-boss.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [destruction](compendium/setting/domains.md#Destruction), [fate](compendium/setting/domains.md#Fate), [glyph](compendium/setting/domains.md#Glyph)
-- **Cleric Spells**: 1st: [ill omen](compendium/spells/ill-omen-logm.md); 2nd: [paranoia](compendium/spells/paranoia.md); 6th: [phantasmal calamity](compendium/spells/phantasmal-calamity.md)
+- **Favored Weapon**: [shield boss](archive/srd/pf2e/compendium/equipment/items/shield-boss.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph)
+- **Cleric Spells**: 1st: [ill omen](ill-omen-logm.md); 2nd: [paranoia](archive/srd/pf2e/compendium/spells/paranoia.md); 6th: [phantasmal calamity](archive/srd/pf2e/compendium/spells/phantasmal-calamity.md)

@@ -7,7 +7,7 @@ tags:
 aliases: ["Archwizard's Might"]
 ---
 # Archwizard's Might  *Feat 20*  
-[wizard](rules/traits/wizard.md "Wizard Class Trait")  
+[wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: archwizard's spellcraft
 

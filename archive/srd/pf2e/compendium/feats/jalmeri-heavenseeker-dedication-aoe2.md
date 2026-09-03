@@ -9,18 +9,18 @@ tags:
 aliases: ["Jalmeri Heavenseeker Dedication"]
 ---
 # Jalmeri Heavenseeker Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: trained by a current or former member of a House of Perfection
 - **Prerequisites**: expert in unarmed attacks
 
-Your skill and dedication have set you on a path to master the techniques of Jalmeray's greatest martial artists: victors of the Challenge of Sky and Heaven. You become trained in either [Acrobatics](compendium/skills.md#Acrobatics) or [Occultism](compendium/skills.md#Occultism). You gain either the [Ki Rush](compendium/feats/ki-rush.md) or [Ki Strike](compendium/feats/ki-strike.md) monk feat, which grants you a ki spell and a focus pool of 1 Focus Point that you can recover using the [Refocus](rules/actions/refocus.md) activity as a monk does. If you already have both these feats, you can instead choose a single 1st-level monk feat.
+Your skill and dedication have set you on a path to master the techniques of Jalmeray's greatest martial artists: victors of the Challenge of Sky and Heaven. You become trained in either [Acrobatics](skills.md#Acrobatics) or [Occultism](skills.md#Occultism). You gain either the [Ki Rush](archive/srd/pf2e/compendium/feats/ki-rush.md) or [Ki Strike](archive/srd/pf2e/compendium/feats/ki-strike.md) monk feat, which grants you a ki spell and a focus pool of 1 Focus Point that you can recover using the [Refocus](archive/srd/pf2e/rules/actions/refocus.md) activity as a monk does. If you already have both these feats, you can instead choose a single 1st-level monk feat.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the Jalmeri heavenseeker archetype.
 
 ## Jalmeri Heavenseeker Dedication leads to...
 
-[Heaven's Thunder](compendium/feats/heavens-thunder-aoe2.md), [Sky And Heaven Stance](compendium/feats/sky-and-heaven-stance-aoe2.md), [Cross The Final Horizon](compendium/feats/cross-the-final-horizon-aoe2.md), [Skyseeker](compendium/feats/skyseeker-aoe2.md), [Speaking Sky](compendium/feats/speaking-sky-aoe2.md), [Steal The Sky](compendium/feats/steal-the-sky-aoe2.md)
+[Heaven's Thunder](heavens-thunder-aoe2.md), [Sky And Heaven Stance](sky-and-heaven-stance-aoe2.md), [Cross The Final Horizon](cross-the-final-horizon-aoe2.md), [Skyseeker](skyseeker-aoe2.md), [Speaking Sky](archive/srd/pf2e/compendium/feats/speaking-sky-aoe2.md), [Steal The Sky](archive/srd/pf2e/compendium/feats/steal-the-sky-aoe2.md)
 
 ## Summary
 

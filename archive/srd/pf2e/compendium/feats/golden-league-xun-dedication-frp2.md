@@ -9,19 +9,19 @@ tags:
 aliases: ["Golden League Xun Dedication"]
 ---
 # Golden League Xun Dedication  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: master in [Underworld Lore](compendium/skills.md#Lore)
+- **Prerequisites**: master in [Underworld Lore](skills.md#Lore)
 
 You are a xun for the Golden League, aiding the organization.
 
-You gain expert proficiency in two of the following skills (or in two other skills of your choice in which you're trained, if you were already an expert in the listed skills): [Athletics](compendium/skills.md#Athletics), [Deception](compendium/skills.md#Deception), [Intimidation](compendium/skills.md#Intimidation), or [Stealth](compendium/skills.md#Stealth). In addition, if you use [Underworld Lore](compendium/skills.md#Lore) to [Earn Income](rules/actions/earn-income.md) or [Recall Knowledge](rules/actions/recall-knowledge.md), when you get a success, you get a critical success instead.
+You gain expert proficiency in two of the following skills (or in two other skills of your choice in which you're trained, if you were already an expert in the listed skills): [Athletics](skills.md#Athletics), [Deception](skills.md#Deception), [Intimidation](skills.md#Intimidation), or [Stealth](skills.md#Stealth). In addition, if you use [Underworld Lore](skills.md#Lore) to [Earn Income](archive/srd/pf2e/rules/actions/earn-income.md) or [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md), when you get a success, you get a critical success instead.
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the Golden League Xun archetype.
 
 ## Golden League Xun Dedication leads to...
 
-[Beneath Notice](compendium/feats/beneath-notice-frp2.md), [Menacing Prowess](compendium/feats/menacing-prowess-frp2.md), [Rope Mastery](compendium/feats/rope-mastery-frp2.md), [Silent Sting](compendium/feats/silent-sting-frp2.md)
+[Beneath Notice](beneath-notice-frp2.md), [Menacing Prowess](menacing-prowess-frp2.md), [Rope Mastery](rope-mastery-frp2.md), [Silent Sting](silent-sting-frp2.md)
 
 ## Summary
 

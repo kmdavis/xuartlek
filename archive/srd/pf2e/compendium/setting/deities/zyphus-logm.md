@@ -20,8 +20,8 @@ aliases: ["Zyphus", "The Grim Harvestman"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Thievery
-- **Favored Weapon**: [pick](compendium/equipment/items/pick.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [sorrow](compendium/setting/domains.md#Sorrow), [soul](compendium/setting/domains.md#Soul), [undeath](compendium/setting/domains.md#Undeath)
-- **Cleric Spells**: 1st: [ill omen](compendium/spells/ill-omen-logm.md); 2nd: [shatter](compendium/spells/shatter.md); 6th: [phantasmal calamity](compendium/spells/phantasmal-calamity.md)
+- **Favored Weapon**: [pick](archive/srd/pf2e/compendium/equipment/items/pick.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow), [soul](archive/srd/pf2e/compendium/setting/domains.md#Soul), [undeath](archive/srd/pf2e/compendium/setting/domains.md#Undeath)
+- **Cleric Spells**: 1st: [ill omen](ill-omen-logm.md); 2nd: [shatter](archive/srd/pf2e/compendium/spells/shatter.md); 6th: [phantasmal calamity](archive/srd/pf2e/compendium/spells/phantasmal-calamity.md)

@@ -12,12 +12,12 @@ tags:
 aliases: ["Plant Growth"]
 ---
 # Plant Growth *Ritual 4*  
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [positive](positive.md "Positive Energy & Element Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Secondary Casters** 1
-- **Primary Checks** [Nature](compendium/skills.md#Nature) (expert)
-- **Secondary Checks** [Farming Lore](compendium/skills.md#Lore) or [Survival](compendium/skills.md#Survival)
+- **Primary Checks** [Nature](skills.md#Nature) (expert)
+- **Secondary Checks** [Farming Lore](skills.md#Lore) or [Survival](skills.md#Survival)
 - **Area**: 1/2-mile-radius circle centered on you
 
 You cause the plants within the area to be healthier and more fruitful. In addition to other benefits of healthy plants, this increases the crop yield for farms, depending on your success.

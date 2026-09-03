@@ -6,13 +6,13 @@ tags:
 - trait/monk
 aliases: ["Swift River"]
 ---
-# Swift River  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 18*  
-[monk](rules/traits/monk.md "Monk Class Trait")  
+# Swift River  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 18*  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
-- **Trigger** Your turn ends and you have a status penalty to your Speed or are [immobilized](rules/conditions.md#Immobilized) or [slowed](rules/conditions.md#Slowed).
+- **Trigger** Your turn ends and you have a status penalty to your Speed or are [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) or [slowed](archive/srd/pf2e/rules/conditions.md#Slowed).
 - **Activity** Free Action
 
-You flow like water, avoiding all restraints. End one status penalty to your speed, or end one [immobilized](rules/conditions.md#Immobilized) or [slowed](rules/conditions.md#Slowed) condition affecting you.
+You flow like water, avoiding all restraints. End one status penalty to your speed, or end one [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) or [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) condition affecting you.
 
 *Source: Core Rulebook p. 165*  
 %% #compendium/src/pf2e/crb #trait/monk %%

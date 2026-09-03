@@ -6,8 +6,8 @@ tags:
 - trait/shisk
 aliases: ["Bristle"]
 ---
-# Bristle  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
+# Bristle  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
+[shisk](shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 

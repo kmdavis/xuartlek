@@ -7,11 +7,11 @@ tags:
 aliases: ["Liberating Stride"]
 ---
 # Liberating Stride  *Feat 12*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: Liberator cause
 
-Instead of you taking a [Step](rules/actions/step.md) at the end of your [Liberating Step](rules/actions/liberating-step.md), the triggering ally can [Stride](rules/actions/stride.md) up to half their Speed. Even if you have exalt, only the triggering ally gains this benefit.
+Instead of you taking a [Step](archive/srd/pf2e/rules/actions/step.md) at the end of your [Liberating Step](archive/srd/pf2e/rules/actions/liberating-step.md), the triggering ally can [Stride](archive/srd/pf2e/rules/actions/stride.md) up to half their Speed. Even if you have exalt, only the triggering ally gains this benefit.
 
 *Source: Core Rulebook p. 114*  
 %% #compendium/src/pf2e/crb #trait/champion %%

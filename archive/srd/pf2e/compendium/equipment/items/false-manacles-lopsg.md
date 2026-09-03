@@ -8,12 +8,12 @@ tags:
 aliases: ["False Manacles"]
 ---
 # False Manacles *Item 0*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Hands** 2
 
-These manacles are nearly indistinguishable from real manacles upon inspection, but contain a hidden release that enables a wearer who knows the location of the release to free themselves with a single [Interact](rules/actions/interact.md) action. An observer who examines the manacles and succeeds at a DC 20 [Perception](compendium/skills.md#Perception) check notices their false nature. On a critical success, the observer finds the location of the hidden catch as well.
+These manacles are nearly indistinguishable from real manacles upon inspection, but contain a hidden release that enables a wearer who knows the location of the release to free themselves with a single [Interact](archive/srd/pf2e/rules/actions/interact.md) action. An observer who examines the manacles and succeeds at a DC 20 [Perception](skills.md#Perception) check notices their false nature. On a critical success, the observer finds the location of the hidden catch as well.
 
 
 ---

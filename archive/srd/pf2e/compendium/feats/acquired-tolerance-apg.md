@@ -7,10 +7,10 @@ tags:
 - trait/fortune
 aliases: ["Acquired Tolerance"]
 ---
-# Acquired Tolerance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
+# Acquired Tolerance  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  
 
-- **Prerequisites**: [Poisoner Dedication](compendium/feats/poisoner-dedication-apg.md)
+- **Prerequisites**: [Poisoner Dedication](poisoner-dedication-apg.md)
 - **Trigger** You fail a save against a poison.
 - **Activity** Reaction
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Harmona Gun"]
 ---
 # Harmona Gun *Item 0*  
-[kickback](rules/traits/kickback-g-g.md "Kickback Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[kickback](kickback-g-g.md "Kickback Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 10 gp

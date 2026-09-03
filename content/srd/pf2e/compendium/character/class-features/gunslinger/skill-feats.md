@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-class-feature
+tags:
+- compendium/src/pf2e/guns-gears-remastered
+- class-feature/level/2
+aliases: ["Skill Feats"]
+aon_id: "class-feature-514"
+source: "Guns & Gears (Remastered)"
+---
+
+# Skill Feats  *Class Feature 2*
+
+- **Class**: Gunslinger
+
+At 2nd level and every even-numbered level, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat.
+
+*Source: Guns & Gears (Remastered) p. 105*

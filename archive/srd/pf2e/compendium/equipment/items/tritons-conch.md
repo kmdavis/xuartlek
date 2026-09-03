@@ -9,7 +9,7 @@ tags:
 aliases: ["Triton's Conch"]
 ---
 # Triton's Conch *Item 9*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 640 gp
 - **Bulk** L; **Usage** held in 1 hand

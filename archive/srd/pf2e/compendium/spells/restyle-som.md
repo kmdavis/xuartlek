@@ -8,9 +8,9 @@ tags:
 aliases: ["Restyle"]
 ---
 # Restyle *Spell 1*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
 - **Range**: touch
 - **Targets**: 1 piece of clothing currently worn by you or an ally

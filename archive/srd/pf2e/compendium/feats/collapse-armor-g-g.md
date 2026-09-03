@@ -8,8 +8,8 @@ tags:
 - trait/modification
 aliases: ["Collapse Armor"]
 ---
-# Collapse Armor  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [modification](rules/traits/modification-g-g.md "Modification Feat Trait")  
+# Collapse Armor  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
+[inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [modification](modification-g-g.md "Modification Feat Trait")  
 
 - **Prerequisites**: armor innovation
 - **Requirements**: You are wearing your armor innovation, or holding it in both hands in its compact form (see text).

@@ -12,10 +12,10 @@ tags:
 aliases: ["Protector's Sphere"]
 ---
 # Protector's Sphere *Focus 4*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [aura](archive/srd/pf2e/rules/traits/aura.md "Aura Combat Trait")  [cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [protection](compendium/setting/domains.md#Protection)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot emanation
 - **Duration**: sustained up to 1 minute
 

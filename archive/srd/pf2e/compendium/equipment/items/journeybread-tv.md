@@ -10,10 +10,10 @@ tags:
 aliases: ["Journeybread"]
 ---
 # Journeybread *Item 1+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** —; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Journeybread contains a mix of fruits, nuts, and grains with an alchemical boost. Eating one journeybread provides all the food and water you need for a day. If you subsist on nothing else for a week, you become temporarily immune to journeybread until you eat real food and drink water normally for 24 hours.
 
@@ -29,7 +29,7 @@ Journeybread contains a mix of fruits, nuts, and grains with an alchemical boost
 
 - **Price**: 15 gp
 
-In addition to the benefits of journeybread, power journeybread grants you a +1 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [Climb](rules/actions/climb.md), [Force Open](rules/actions/force-open.md), and [Swim](rules/actions/swim.md), and to Fortitude saving throws against being [sickened](rules/conditions.md#Sickened). The number of minutes you can [Hustle](rules/actions/hustle.md) changes to your Constitution modifier × 20. These benefits last for 4 hours.
+In addition to the benefits of journeybread, power journeybread grants you a +1 item bonus to [Athletics](skills.md#Athletics) checks to [Climb](archive/srd/pf2e/rules/actions/climb.md), [Force Open](archive/srd/pf2e/rules/actions/force-open.md), and [Swim](archive/srd/pf2e/rules/actions/swim.md), and to Fortitude saving throws against being [sickened](archive/srd/pf2e/rules/conditions.md#Sickened). The number of minutes you can [Hustle](archive/srd/pf2e/rules/actions/hustle.md) changes to your Constitution modifier × 20. These benefits last for 4 hours.
 
 ---
 *Source: Treasure Vault p. 49*

@@ -15,4 +15,4 @@ Your initiations into the Nexian mysteries and the philosophies of the Arclords 
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Arcana](compendium/skills.md#Arcana) skill and a [Lore](compendium/skills.md#Lore) skill related to one plane of your choice (other than the Material Plane). You gain the [Arcane Sense](compendium/feats/arcane-sense.md) skill feat.
+You're trained in the [Arcana](skills.md#Arcana) skill and a [Lore](skills.md#Lore) skill related to one plane of your choice (other than the Material Plane). You gain the [Arcane Sense](archive/srd/pf2e/compendium/feats/arcane-sense.md) skill feat.

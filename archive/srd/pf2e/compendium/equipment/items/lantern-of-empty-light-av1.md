@@ -10,12 +10,12 @@ tags:
 aliases: ["Lantern Of Empty Light"]
 ---
 # Lantern Of Empty Light *Item 6*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 240 gp
 - **Bulk** 1; **Usage** held in 1 hand
 
-It's said that the pale blue light of this eldritch lantern shines from another dimension or even is linked, somehow, to the glow of a ghost when it is consumed by the Outer Goddess [Nhimbaloth](compendium/setting/deities/nhimbaloth-logm.md). A lantern of empty light is not intrinsically an evil item, though it remains a favored tool of those who would manipulate the minds of others for sinister reasons. It can be used as a normal bull's-eye lantern, but prolonged use tends to instill in the user a vague sense of being watched by unseen eyes.
+It's said that the pale blue light of this eldritch lantern shines from another dimension or even is linked, somehow, to the glow of a ghost when it is consumed by the Outer Goddess [Nhimbaloth](nhimbaloth-logm.md). A lantern of empty light is not intrinsically an evil item, though it remains a favored tool of those who would manipulate the minds of others for sinister reasons. It can be used as a normal bull's-eye lantern, but prolonged use tends to instill in the user a vague sense of being watched by unseen eyes.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md) ([emotion](rules/traits/emotion.md), [visual](rules/traits/visual.md))

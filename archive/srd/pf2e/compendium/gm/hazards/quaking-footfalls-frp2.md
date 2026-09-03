@@ -7,14 +7,14 @@ tags:
 aliases: ["Quaking Footfalls"]
 ---
 # Quaking Footfalls *Hazard 14*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 10  
 
 Mogaru's steady footsteps pick up speed, causing the earth around him to tremble as though from a powerful earthquake.
 
-- **Disable** three DC 39 [Athletics](compendium/skills.md#Athletics) (trained), [Crafting](compendium/skills.md#Crafting) (trained), or Engineering Lore (trained) checks to brace a small structure or surface to cancel the effects of the quake in that area; DC 41 [Performance](compendium/skills.md#Performance) (legendary) to calm Mogaru momentarily.  
+- **Disable** three DC 39 [Athletics](skills.md#Athletics) (trained), [Crafting](skills.md#Crafting) (trained), or Engineering Lore (trained) checks to brace a small structure or surface to cancel the effects of the quake in that area; DC 41 [Performance](skills.md#Performance) (legendary) to calm Mogaru momentarily.  
 
 ```ad-embed-ability
 title: **Quake** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

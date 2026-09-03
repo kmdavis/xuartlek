@@ -10,7 +10,7 @@ tags:
 aliases: ["Injection Spear"]
 ---
 # Injection Spear *Item 0*  
-[injection](rules/traits/injection-g-g.md "Injection Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[injection](injection-g-g.md "Injection Weapon Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

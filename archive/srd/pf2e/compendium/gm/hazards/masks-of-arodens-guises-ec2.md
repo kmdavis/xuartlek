@@ -10,15 +10,15 @@ tags:
 aliases: ["Masks Of Aroden's Guises"]
 ---
 # Masks Of Aroden's Guises *Hazard 10*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert  
 
 Ten masks adorn twelve stone statues.
 
-- **Disable** DC 29 [Religion](compendium/skills.md#Religion) (expert) or [Occultism](compendium/skills.md#Occultism) or DC 31 Thievery (expert) to dismiss the magic on a single statue.
-Replacing the two missing masks (a mask made of or incorporating coins on the merchant statue and a mask made of any valuable fabric on the tailor statue) and succeeding at a DC 27 [Religion](compendium/skills.md#Religion) check disarms the trap.
+- **Disable** DC 29 [Religion](skills.md#Religion) (expert) or [Occultism](skills.md#Occultism) or DC 31 Thievery (expert) to dismiss the magic on a single statue.
+Replacing the two missing masks (a mask made of or incorporating coins on the merchant statue and a mask made of any valuable fabric on the tailor statue) and succeeding at a DC 27 [Religion](skills.md#Religion) check disarms the trap.
 AC 30; Fort +20, Ref +16 Statue Hardness 18; Statue HP 48 (BT 24); Immunities critical hits, object immunities, precision damage.  
 
 - **AC** 30

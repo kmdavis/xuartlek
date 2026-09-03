@@ -7,14 +7,14 @@ tags:
 aliases: ["Methane Flue"]
 ---
 # Methane Flue *Hazard 8*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 expert to hear hissing gas  
 
-[Invisible](rules/conditions.md#Invisible) but highly flammable natural gas has built up beneath the ground, where geological pressure can ignite it.
+[Invisible](archive/srd/pf2e/rules/conditions.md#Invisible) but highly flammable natural gas has built up beneath the ground, where geological pressure can ignite it.
 
-- **Disable** [Survival](compendium/skills.md#Survival) DC 28 to dig around the vent in a way that diffuses the fumes  
+- **Disable** [Survival](skills.md#Survival) DC 28 to dig around the vent in a way that diffuses the fumes  
 
 ```ad-embed-ability
 title: **Flame Spurt** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

@@ -7,10 +7,10 @@ tags:
 aliases: ["Triple Time"]
 ---
 # Triple Time  *Feat 4*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 
-You learn the [triple time](compendium/spells/triple-time.md) composition cantrip, which speeds up you and your allies for a round.
+You learn the [triple time](archive/srd/pf2e/compendium/spells/triple-time.md) composition cantrip, which speeds up you and your allies for a round.
 
 *Source: Core Rulebook p. 101*  
 %% #compendium/src/pf2e/crb #trait/bard %%

@@ -7,9 +7,9 @@ tags:
 aliases: ["Scholarly Defense"]
 ---
 # Scholarly Defense  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Eldritch Researcher Dedication](compendium/feats/eldritch-researcher-dedication-av2.md)
+- **Prerequisites**: [Eldritch Researcher Dedication](eldritch-researcher-dedication-av2.md)
 
 Your knowledge of strange creatures and their bizarre anatomy allows you to anticipate their physical attacks and reduce the damage you take from them. You gain resistance to physical damage from melee attacks made by aberrations and oozes. This resistance is equal to one-third your level.
 

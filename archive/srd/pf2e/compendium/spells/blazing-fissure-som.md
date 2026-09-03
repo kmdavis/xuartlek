@@ -11,10 +11,10 @@ tags:
 aliases: ["Blazing Fissure"]
 ---
 # Blazing Fissure *Spell 5*   
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 120-foot line
 - **Saving Throw**: Reflex
 
@@ -23,8 +23,8 @@ A thin crack rips through the earth, erupting with magma, then swiftly seals up.
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage, and it falls [prone](rules/conditions.md#Prone).
-> - **Critical Failure** The target takes double damage, and it falls [prone](rules/conditions.md#Prone).
+> - **Failure** The creature takes full damage, and it falls [prone](archive/srd/pf2e/rules/conditions.md#Prone).
+> - **Critical Failure** The target takes double damage, and it falls [prone](archive/srd/pf2e/rules/conditions.md#Prone).
 
 **Heightened (+ 1)** The damage increases by `1d6` bludgeoning and `1d6` fire.
 

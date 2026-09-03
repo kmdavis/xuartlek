@@ -8,7 +8,7 @@ tags:
 aliases: ["Shootist Bandolier"]
 ---
 # Shootist Bandolier *Item 0*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 

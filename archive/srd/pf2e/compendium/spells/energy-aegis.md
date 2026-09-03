@@ -8,9 +8,9 @@ tags:
 aliases: ["Energy Aegis"]
 ---
 # Energy Aegis *Spell 7*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
 - **Range**: touch
 - **Targets**: 1 creature

@@ -9,18 +9,18 @@ tags:
 aliases: ["Provocator Dedication"]
 ---
 # Provocator Dedication  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Successfully defeat the ebaraks in the Irorium.
 - **Prerequisites**: Strength 14, Charisma 14
 
-For you, fighting is as much about style as skill. You become trained in simple weapons, martial weapons, and one advanced weapon of your choice. When you critically succeed at an attack roll using your chosen advanced weapon, you also apply the critical specialization of that weapon. You become an expert in [Performance](compendium/skills.md#Performance) and your choice of either [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics). If you were an expert in all three of these skills, you instead become an expert in a skill of your choice.
+For you, fighting is as much about style as skill. You become trained in simple weapons, martial weapons, and one advanced weapon of your choice. When you critically succeed at an attack roll using your chosen advanced weapon, you also apply the critical specialization of that weapon. You become an expert in [Performance](skills.md#Performance) and your choice of either [Acrobatics](skills.md#Acrobatics) or [Athletics](skills.md#Athletics). If you were an expert in all three of these skills, you instead become an expert in a skill of your choice.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the provocator archetype.
 
 ## Provocator Dedication leads to...
 
-[Cartwheel Dodge](compendium/feats/cartwheel-dodge-aoe3.md), [Flourishing Finish](compendium/feats/flourishing-finish-aoe3.md), [Murderer's Circle](compendium/feats/murderers-circle-aoe3.md), [Performance Weapon Expert](compendium/feats/performance-weapon-expert-aoe3.md), [Pin To The Spot](compendium/feats/pin-to-the-spot-aoe3.md)
+[Cartwheel Dodge](cartwheel-dodge-aoe3.md), [Flourishing Finish](flourishing-finish-aoe3.md), [Murderer's Circle](murderers-circle-aoe3.md), [Performance Weapon Expert](performance-weapon-expert-aoe3.md), [Pin To The Spot](pin-to-the-spot-aoe3.md)
 
 ## Summary
 

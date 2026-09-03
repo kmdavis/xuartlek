@@ -9,7 +9,7 @@ tags:
 aliases: ["Peachwood"]
 ---
 # Peachwood *Item 8+*  
-[precious](rules/traits/precious.md "Precious Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[precious](archive/srd/pf2e/rules/traits/precious.md "Precious Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 Peachwood, often cultivated by Pharasmin priests, can ward against undead—even incorporeal ones. However, the wood loses its magical properties when it comes in contact with metal, requiring advanced carpentry to make full use of it.

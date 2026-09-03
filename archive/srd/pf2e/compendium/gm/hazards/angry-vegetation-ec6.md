@@ -9,18 +9,18 @@ tags:
 aliases: ["Angry Vegetation"]
 ---
 # Angry Vegetation *Hazard 20*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 42 master to notice massive buds beneath the other foliage before they open.  
 
 Five large flowers in the weed-choked field unfurl, each dusting pollen onto vines that animate into wemmuths.
 
-- **Disable** DC 48 [Nature](compendium/skills.md#Nature) (master) or DC 48 [Performance](compendium/skills.md#Performance) (legendary) to calm a flower, closing it.  
+- **Disable** DC 48 [Nature](skills.md#Nature) (master) or DC 48 [Performance](skills.md#Performance) (legendary) to calm a flower, closing it.  
 
 - **AC** 37, **Fort** +33, **Ref** +30
 - **HP** 120 per flower
-- **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
+- **Immunities** [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")
 - **Weaknesses** fire 20
 
 ```ad-embed-ability

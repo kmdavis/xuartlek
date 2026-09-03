@@ -11,7 +11,7 @@ tags:
 aliases: ["Slide Pistol"]
 ---
 # Slide Pistol *Item 1*  
-[capacity <5>](rules/traits/capacity-5-tv.md "Capacity Weapon Trait")  [concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[capacity <5>](rules/traits/capacity-5-tv.md "Capacity Weapon Trait")  [concussive](concussive-g-g.md "Concussive Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 16 gp

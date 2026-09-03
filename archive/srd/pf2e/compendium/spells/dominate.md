@@ -11,10 +11,10 @@ tags:
 aliases: ["Dominate"]
 ---
 # Dominate *Spell 6*   
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -26,7 +26,7 @@ If you issue an obviously self-destructive order, the target doesn't act until y
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [stunned](rules/conditions.md#Stunned) as it fights off your commands.
+> - **Success** The target is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned) as it fights off your commands.
 > - **Failure** The target follows your orders but can attempt a Will save at the end of each of its turns. On a success, the spell ends.
 > - **Critical Failure** As a failure, but the target receives a new save only if you give it a new order that is against its nature, such as killing its allies.
 

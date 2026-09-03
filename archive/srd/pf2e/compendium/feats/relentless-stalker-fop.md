@@ -8,13 +8,13 @@ tags:
 - trait/uncommon
 aliases: ["Relentless Stalker"]
 ---
-# Relentless Stalker  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 2*  
-[move](rules/traits/move.md "Move Combat Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Relentless Stalker  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 2*  
+[move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  [ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Trigger** An adjacent creature you are hunting attempts to move away from you using an action that has the [move](rules/traits/move.md "Move Combat Trait") trait.
+- **Trigger** An adjacent creature you are hunting attempts to move away from you using an action that has the [move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait") trait.
 - **Activity** Reaction
 
-Your hunted prey cannot escape your relentless pursuit. [Stride](rules/actions/stride.md) up to your Speed in tandem with the triggering creature, remaining adjacent to the foe throughout its movement until it stops moving or you run out of movement. You can ignore difficult terrain during this movement unless the difficult terrain is caused by a [magical](rules/traits/magical.md "Magical Item Trait") effect.
+Your hunted prey cannot escape your relentless pursuit. [Stride](archive/srd/pf2e/rules/actions/stride.md) up to your Speed in tandem with the triggering creature, remaining adjacent to the foe throughout its movement until it stops moving or you run out of movement. You can ignore difficult terrain during this movement unless the difficult terrain is caused by a [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait") effect.
 
 *Source: The Fall of Plaguestone p. 57*  
 %% #compendium/src/pf2e/fop #trait/move #trait/ranger #trait/uncommon %%

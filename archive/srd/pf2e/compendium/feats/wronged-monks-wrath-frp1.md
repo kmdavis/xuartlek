@@ -8,11 +8,11 @@ tags:
 aliases: ["Wronged Monk's Wrath"]
 ---
 # Wronged Monk's Wrath  *Feat 10*  
-[monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: ki spells
 
-You gain the [wronged monk's wrath](compendium/spells/wronged-monks-wrath-frp1.md) ki spell.
+You gain the [wronged monk's wrath](archive/srd/pf2e/compendium/spells/wronged-monks-wrath-frp1.md) ki spell.
 
 Increase the number of Focus Points in your focus pool by 1.
 

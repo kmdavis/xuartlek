@@ -7,14 +7,14 @@ tags:
 - trait/manipulate
 aliases: ["Distracting Explosion"]
 ---
-# Distracting Explosion  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
+# Distracting Explosion  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
+[inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: offensive boost|inventor|G&G|9|offensive boosts
 - **Trigger** A creature within your reach uses a concentrate action.
 - **Activity** Reaction
 
-Your enemies think they can concentrate on something else while you're nearby? Oh, you'll give them a distraction, all right! Make a melee [Strike](rules/actions/strike.md) against the triggering creature with a weapon or unarmed attack that is benefiting from your offensive boost|inventor|G&G|9|offensive boosts. This [Strike](rules/actions/strike.md) doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this [Strike](rules/actions/strike.md).
+Your enemies think they can concentrate on something else while you're nearby? Oh, you'll give them a distraction, all right! Make a melee [Strike](archive/srd/pf2e/rules/actions/strike.md) against the triggering creature with a weapon or unarmed attack that is benefiting from your offensive boost|inventor|G&G|9|offensive boosts. This [Strike](archive/srd/pf2e/rules/actions/strike.md) doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 **Unstable Function** You pull out all the stops to create an explosive distraction. Add the unstable trait to Distracting Explosion. If the attack hits, you disrupt the triggering concentrate action.
 

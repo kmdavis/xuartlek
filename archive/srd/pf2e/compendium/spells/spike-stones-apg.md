@@ -10,10 +10,10 @@ tags:
 aliases: ["Spike Stones"]
 ---
 # Spike Stones *Spell 4*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  
 
-- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 60 foot
 - **Area**: 20-foot burst
 - **Duration**: 1 hour

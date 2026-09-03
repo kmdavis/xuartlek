@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Witch Spellcasting"]
 ---
 # Basic Witch Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Witch Dedication](compendium/feats/witch-dedication-apg.md)
+- **Prerequisites**: [Witch Dedication](witch-dedication-apg.md)
 
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the witch archetype, add two common spells of that level to your familiar.
 
 ## Basic Witch Spellcasting leads to...
 
-[Expert Witch Spellcasting](compendium/feats/expert-witch-spellcasting-apg.md), [Master Witch Spellcasting](compendium/feats/master-witch-spellcasting-apg.md), [Patron's Breadth](compendium/feats/patrons-breadth-apg.md)
+[Expert Witch Spellcasting](expert-witch-spellcasting-apg.md), [Master Witch Spellcasting](master-witch-spellcasting-apg.md), [Patron's Breadth](patrons-breadth-apg.md)
 
 ## Summary
 

@@ -9,10 +9,10 @@ tags:
 aliases: ["Door To Beyond"]
 ---
 # Door To Beyond *Focus 4*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  
 
-- **Domains** [void](compendium/setting/domains.md#Void)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 5 foot
 - **Area**: 20-foot emanation
 - **Saving Throw**: Fortitude
@@ -23,7 +23,7 @@ Striking at thin air, you create hairline cracks in an unoccupied adjacent space
 > [!success-degree] 
 > - **Success** The creature is unaffected.
 > - **Failure** The creature is pulled 10 feet toward the door.
-> - **Critical Failure** The creature is pulled 20 feet toward the door. The cracks of the door to beyond are too thin for anything to fully slip through, but decompressive effects deal `4d6` slashing damage to any creature or object that ends its turn in the door's space. You are unaffected by your own door to beyond. You can [Dismiss](rules/actions/dismiss.md) the spell.
+> - **Critical Failure** The creature is pulled 20 feet toward the door. The cracks of the door to beyond are too thin for anything to fully slip through, but decompressive effects deal `4d6` slashing damage to any creature or object that ends its turn in the door's space. You are unaffected by your own door to beyond. You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the spell.
 
 **Heightened (+ 1)** The damage increases by `1d6`.
 

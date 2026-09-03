@@ -7,11 +7,11 @@ tags:
 aliases: ["Greater Spiritual Evolution"]
 ---
 # Greater Spiritual Evolution  *Feat 12*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
-- **Prerequisites**: [Divine Evolution](compendium/feats/divine-evolution.md) or [Occult Evolution](compendium/feats/occult-evolution.md)
+- **Prerequisites**: [Divine Evolution](archive/srd/pf2e/compendium/feats/divine-evolution.md) or [Occult Evolution](archive/srd/pf2e/compendium/feats/occult-evolution.md)
 
-Your magical blood is rich with spiritual essence, and this infusion within you allows your spells to be fully effective against incorporeal creatures, spirits, and creatures on the Ethereal Plane. Your spells have the effects of a [ghost touch](compendium/equipment/items/ghost-touch.md) property rune. They can target or affect a creature projecting its consciousness (such as via project image) or possessing another creature, even if its body is elsewhere, though you must know about the possession or projection and choose to do so. Your spells can affect creatures on the Ethereal Plane, though this doesn't grant you any particular ability to locate them.
+Your magical blood is rich with spiritual essence, and this infusion within you allows your spells to be fully effective against incorporeal creatures, spirits, and creatures on the Ethereal Plane. Your spells have the effects of a [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md) property rune. They can target or affect a creature projecting its consciousness (such as via project image) or possessing another creature, even if its body is elsewhere, though you must know about the possession or projection and choose to do so. Your spells can affect creatures on the Ethereal Plane, though this doesn't grant you any particular ability to locate them.
 
 *Source: Advanced Player's Guide p. 141*  
 %% #compendium/src/pf2e/apg #trait/sorcerer %%

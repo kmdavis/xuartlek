@@ -11,7 +11,7 @@ tags:
 aliases: ["Bewitching Bloom"]
 ---
 # Bewitching Bloom *Item 2+*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Bulk** —; **Usage** tattooed on the body
 
@@ -41,37 +41,37 @@ The ally feels impervious, immortal. The next time they would take damage from a
 
 - **Price**: 350 gp
 
-A need for freedom trills through your ally's blood. Until the end of that ally's next turn, they gain a +2 status bonus to rolls to recover from the [confused](rules/conditions.md#Confused), [frightened](rules/conditions.md#Frightened), [grabbed](rules/conditions.md#Grabbed), [paralyzed](rules/conditions.md#Paralyzed), and [restrained](rules/conditions.md#Restrained) conditions. When you Activate the bloom, the target can attempt a new save against a condition the bonus applies to, or they can use a reaction to attempt to [Escape](rules/actions/escape.md) being [grabbed](rules/conditions.md#Grabbed), [immobilized](rules/conditions.md#Immobilized), or [restrained](rules/conditions.md#Restrained), provided such an attempt is allowed.
+A need for freedom trills through your ally's blood. Until the end of that ally's next turn, they gain a +2 status bonus to rolls to recover from the [confused](archive/srd/pf2e/rules/conditions.md#Confused), [frightened](archive/srd/pf2e/rules/conditions.md#Frightened), [grabbed](archive/srd/pf2e/rules/conditions.md#Grabbed), [paralyzed](archive/srd/pf2e/rules/conditions.md#Paralyzed), and [restrained](archive/srd/pf2e/rules/conditions.md#Restrained) conditions. When you Activate the bloom, the target can attempt a new save against a condition the bonus applies to, or they can use a reaction to attempt to [Escape](archive/srd/pf2e/rules/actions/escape.md) being [grabbed](archive/srd/pf2e/rules/conditions.md#Grabbed), [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized), or [restrained](archive/srd/pf2e/rules/conditions.md#Restrained), provided such an attempt is allowed.
 
 #### cherry blossom *Item 3*
 
 - **Price**: 50 gp
 
-The ally understands the fleeting nature of life and accepts fate. For 1 minute, any recovery checks the ally attempts have a DC of 10 instead of 10 + the ally's [dying](rules/conditions.md#Dying) value. The cherry blossom's activation can target an [unconscious](rules/conditions.md#Unconscious) or [dying](rules/conditions.md#Dying) ally.
+The ally understands the fleeting nature of life and accepts fate. For 1 minute, any recovery checks the ally attempts have a DC of 10 instead of 10 + the ally's [dying](archive/srd/pf2e/rules/conditions.md#Dying) value. The cherry blossom's activation can target an [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious) or [dying](archive/srd/pf2e/rules/conditions.md#Dying) ally.
 
 #### lilac *Item 2*
 
 - **Price**: 25 gp
 
-Memories bubble to the surface of your ally's mind. The ally attempts to [Recall Knowledge](rules/actions/recall-knowledge.md) with a +2 status bonus to the check from these vibrant memories.
+Memories bubble to the surface of your ally's mind. The ally attempts to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) with a +2 status bonus to the check from these vibrant memories.
 
 #### lotus *Item 9*
 
 - **Price**: 600 gp
 
-A glow envelops your ally as a sense of enlightened peace ripples out from within. The ally gains a +2 status bonus to Will saves against [mental](rules/traits/mental.md "Mental Effect Trait") effects for 1 minute. This bonus increases to +3 against [emotion](rules/traits/emotion.md "Emotion Effect Trait") effects.
+A glow envelops your ally as a sense of enlightened peace ripples out from within. The ally gains a +2 status bonus to Will saves against [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") effects for 1 minute. This bonus increases to +3 against [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") effects.
 
 #### magnolia *Item 6*
 
 - **Price**: 220 gp
 
-Your ally seems more charming, though no one can pinpoint why. They gain a +1 status bonus to [Diplomacy](compendium/skills.md#Diplomacy) checks for 10 minutes. Once on their next turn, the ally can attempt to draw a creature's attention. To do so, the ally must spend 1 action (which has the emotion, [mental](rules/traits/mental.md "Mental Effect Trait"), and [visual](rules/traits/visual.md "Visual Effect Trait") traits) to select a creature the ally can see and make eye contact in a way the target can see. The target must succeed at a DC 20 Will save or be [fascinated](rules/conditions.md#Fascinated) with your ally until the end of that ally's next turn. If the save succeeds or the effect ends, the target is temporarily immune to being [fascinated](rules/conditions.md#Fascinated) by any magnolia bewitching bloom for 24 hours.
+Your ally seems more charming, though no one can pinpoint why. They gain a +1 status bonus to [Diplomacy](skills.md#Diplomacy) checks for 10 minutes. Once on their next turn, the ally can attempt to draw a creature's attention. To do so, the ally must spend 1 action (which has the emotion, [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait"), and [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait") traits) to select a creature the ally can see and make eye contact in a way the target can see. The target must succeed at a DC 20 Will save or be [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) with your ally until the end of that ally's next turn. If the save succeeds or the effect ends, the target is temporarily immune to being [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) by any magnolia bewitching bloom for 24 hours.
 
 #### purple iris *Item 11*
 
 - **Price**: 1200 gp
 
-Your ally takes on a regal bearing, exuding the presence of confident royalty. The bloom casts a 5th-level [command](compendium/spells/command.md) spell (DC 28) selecting targets within range of the ally. Each target that fails the save must fall [prone](rules/conditions.md#Prone) and pays homage to your ally.
+Your ally takes on a regal bearing, exuding the presence of confident royalty. The bloom casts a 5th-level [command](archive/srd/pf2e/compendium/spells/command.md) spell (DC 28) selecting targets within range of the ally. Each target that fails the save must fall [prone](archive/srd/pf2e/rules/conditions.md#Prone) and pays homage to your ally.
 
 #### red rose *Item 4*
 
@@ -81,7 +81,7 @@ The ally fills with feelings of love. They chooses a creature that the ally has 
 
 While the ally is within 10 feet of this beloved, the ally gains a +1 status bonus to saving throws. If the ally starts their turn within 10 feet of the beloved, the ally gains 5 temporary Hit Points. These benefits last for 1 minute, and temporary HP remaining from this effect at the end of that time disappear.
 
-This effect has the [emotion](rules/traits/emotion.md "Emotion Effect Trait") and [mental](rules/traits/mental.md "Mental Effect Trait") traits.
+This effect has the [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") and [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") traits.
 
 #### white poppy *Item 4*
 

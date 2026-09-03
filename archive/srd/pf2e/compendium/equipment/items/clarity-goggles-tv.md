@@ -10,11 +10,11 @@ tags:
 aliases: ["Clarity Goggles"]
 ---
 # Clarity Goggles *Item 8+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** —; **Usage** worn eyepiece
 
-Clarity goggles feature faceted lenses that filter your surroundings from several slightly different angles at once, giving you a sharper picture of them. While wearing the goggles, you gain a +1 item bonus to visual [Perception](compendium/skills.md#Perception) checks.
+Clarity goggles feature faceted lenses that filter your surroundings from several slightly different angles at once, giving you a sharper picture of them. While wearing the goggles, you gain a +1 item bonus to visual [Perception](skills.md#Perception) checks.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, envision

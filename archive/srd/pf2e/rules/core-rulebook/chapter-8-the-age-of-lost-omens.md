@@ -78,7 +78,7 @@ These languages are uncommon outside the region of their genesis. A character ha
 
 Nearly every language listed here is spoken on the melting-pot streets of Absalom.
 
-![Regional Languages](rules/tables/regional-languages.md)
+![Regional Languages](regional-languages.md)
 
 ## Creatures
 <sup>CRB p. 433</sup>
@@ -196,4 +196,4 @@ Of course, faith can express itself in more ways than venerating a single deityâ
 
 The following domains are used by the primary deities of Golarion, as listed on pages 437â€“440.
 
-![Domains](rules/tables/domains.md)
+![Domains](archive/srd/pf2e/rules/tables/domains.md)

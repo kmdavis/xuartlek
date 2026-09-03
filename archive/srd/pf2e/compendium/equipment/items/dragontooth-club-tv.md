@@ -9,13 +9,13 @@ tags:
 aliases: ["Dragontooth Club"]
 ---
 # Dragontooth Club *Item 12*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1800 gp
 - **Craft Requirements** The initial raw materials must include teeth from a dragon with a breath weapon that deals acid, cold, electricity, fire, or poison damage.
 - **Bulk** 2; **Usage** held in 1 hand
 
-Dragon teeth line the edges of this +2 greater striking [leiomano](compendium/equipment/items/leiomano-tv.md). The leiomano also has a flaming, frost, shock, or corrosive rune, as appropriate for the dragon from which the teeth were taken, which also grants the weapon the associated [energy](rules/traits/energy-loag.md "Energy Energy & Element Trait") trait (for instance, fire for a club made with teeth taken from a red dragon).
+Dragon teeth line the edges of this +2 greater striking [leiomano](leiomano-tv.md). The leiomano also has a flaming, frost, shock, or corrosive rune, as appropriate for the dragon from which the teeth were taken, which also grants the weapon the associated [energy](energy-loag.md "Energy Energy & Element Trait") trait (for instance, fire for a club made with teeth taken from a red dragon).
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md) ([evocation](rules/traits/evocation.md), [magical](rules/traits/magical.md))

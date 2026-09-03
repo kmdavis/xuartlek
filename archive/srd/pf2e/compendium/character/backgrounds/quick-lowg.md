@@ -15,6 +15,6 @@ Staying alive among the scheming, ravenous undead of Geb required a deep knowled
 
 Choose two ability boosts. One must be to Charisma or Constitution, and one is a free ability boost.
 
-You're trained in the [Deception](compendium/skills.md#Deception) skill and the [Undead Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Deception](skills.md#Deception) skill and the [Undead Lore](skills.md#Lore) skill.
 
-You gain the [Charming Liar](compendium/feats/charming-liar.md) skill feat.
+You gain the [Charming Liar](archive/srd/pf2e/compendium/feats/charming-liar.md) skill feat.

@@ -12,11 +12,11 @@ tags:
 aliases: ["Honeyscent"]
 ---
 # Honeyscent *Item 10*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [inhaled](rules/traits/inhaled.md "Inhaled Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [inhaled](archive/srd/pf2e/rules/traits/inhaled.md "Inhaled Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 180 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This sweet-scented poison triggers vivid hallucinations in those who succumb to it, causing most to believe swarms of ravenous biting insects are feeding on them. So vivid are these hallucinations that the victims damage themselves by scratching and clawing at the imaginary swarm. At the GM's discretion, a creature incapable of clawing at itself might instead slam against solid objects, in which case the poison inflicts bludgeoning damage.
 

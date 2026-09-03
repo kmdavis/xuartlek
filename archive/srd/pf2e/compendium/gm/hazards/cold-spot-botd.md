@@ -7,14 +7,14 @@ tags:
 aliases: ["Cold Spot"]
 ---
 # Cold Spot *Hazard 1*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 trained  
 
 The temperature suddenly drops as spectral forces gather in the area.
 
-- **Disable** DC 19 [Religion](compendium/skills.md#Religion) (trained) to banish the cold spot with ritual prayers or DC 20 [Occultism](compendium/skills.md#Occultism) (trained) to foil the arrival of outside forces  
+- **Disable** DC 19 [Religion](skills.md#Religion) (trained) to banish the cold spot with ritual prayers or DC 20 [Occultism](skills.md#Occultism) (trained) to foil the arrival of outside forces  
 
 ```ad-embed-ability
 title: **Sudden Chill** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([cold](rules/traits/cold.md), [evocation](rules/traits/evocation.md), [occult](rules/traits/occult.md))

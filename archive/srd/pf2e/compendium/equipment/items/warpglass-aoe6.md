@@ -9,7 +9,7 @@ tags:
 aliases: ["Warpglass"]
 ---
 # Warpglass *Item 17+*  
-[precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[precious](archive/srd/pf2e/rules/traits/precious.md "Precious Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
 Raw warpglass is an opalescent glassy material with surprising strength. When worked, it changes its appearance—though not its properties—to appear as random striations of other metals and types of stone.

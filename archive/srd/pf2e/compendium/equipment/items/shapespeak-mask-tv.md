@@ -10,7 +10,7 @@ tags:
 aliases: ["Shapespeak Mask"]
 ---
 # Shapespeak Mask *Item 4*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 80 gp
 - **Bulk** —; **Usage** worn mask

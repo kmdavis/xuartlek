@@ -11,14 +11,14 @@ tags:
 aliases: ["Phantom Bells"]
 ---
 # Phantom Bells *Hazard 6*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Complexity** Complex
 - **Stealth** +10  
 
 The echo of diabolic bells reverberates with a bone-shaking clamor.
 
-- **Disable** [Religion](compendium/skills.md#Religion) DC 27 (expert) to break the curse with recitations against the power of Hell (2 actions), or [Performance](compendium/skills.md#Performance) DC 22 (expert) to [Perform](rules/actions/perform.md) an opposing composition.  
+- **Disable** [Religion](skills.md#Religion) DC 27 (expert) to break the curse with recitations against the power of Hell (2 actions), or [Performance](skills.md#Performance) DC 22 (expert) to [Perform](archive/srd/pf2e/rules/actions/perform.md) an opposing composition.  
 
 ```ad-embed-ability
 title: **Distant Ringing** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([auditory](rules/traits/auditory.md), [sonic](rules/traits/sonic.md))

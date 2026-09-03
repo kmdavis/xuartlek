@@ -8,14 +8,14 @@ tags:
 - trait/open
 aliases: ["Unbalancing Sweep"]
 ---
-# Unbalancing Sweep  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 12*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [open](rules/traits/open.md "Open Combat Trait")  
+# Unbalancing Sweep  [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 12*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](archive/srd/pf2e/rules/traits/flourish.md "Flourish Combat Trait")  [open](open.md "Open Combat Trait")  
 
 - **Activity** Three-Action
 
-You make a great sweep about yourself, knocking creatures off their feet and away from you. Choose up to three adjacent foes and choose whether to [Shove](rules/actions/shove.md) or [Trip](rules/actions/trip.md) all three of them.
+You make a great sweep about yourself, knocking creatures off their feet and away from you. Choose up to three adjacent foes and choose whether to [Shove](archive/srd/pf2e/rules/actions/shove.md) or [Trip](archive/srd/pf2e/rules/actions/trip.md) all three of them.
 
-Whichever of the two options you choose, roll a separate [Athletics](compendium/skills.md#Athletics) check against each foe, performing the same action against each foe. Each attempt counts toward your multiple attack penalty, but don't increase your penalty until you have made all the attempts.
+Whichever of the two options you choose, roll a separate [Athletics](skills.md#Athletics) check against each foe, performing the same action against each foe. Each attempt counts toward your multiple attack penalty, but don't increase your penalty until you have made all the attempts.
 
 *Source: Advanced Player's Guide p. 111*  
 %% #compendium/src/pf2e/apg #trait/barbarian #trait/flourish #trait/open %%

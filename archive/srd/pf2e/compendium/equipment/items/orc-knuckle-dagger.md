@@ -11,7 +11,7 @@ tags:
 aliases: ["Orc Knuckle Dagger"]
 ---
 # Orc Knuckle Dagger *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [orc](archive/srd/pf2e/rules/traits/orc.md "Orc Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 7 sp
 - **Bulk** L

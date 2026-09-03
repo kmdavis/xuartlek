@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Thaumaturgy"]
 ---
 # Basic Thaumaturgy  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Thaumaturge Dedication](compendium/feats/thaumaturge-dedication-da.md)
+- **Prerequisites**: [Thaumaturge Dedication](thaumaturge-dedication-da.md)
 
 You gain a 1st- or 2nd-level thaumaturge feat of your choice.
 
 ## Basic Thaumaturgy leads to...
 
-[Advanced Thaumaturgy](compendium/feats/advanced-thaumaturgy-da.md)
+[Advanced Thaumaturgy](advanced-thaumaturgy-da.md)
 
 ## Summary
 

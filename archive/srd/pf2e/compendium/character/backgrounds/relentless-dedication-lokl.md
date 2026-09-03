@@ -16,4 +16,4 @@ Your commitment to the cause is so clear, it overcame whatever disqualified your
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [Warfare Lore](compendium/skills.md#Lore) skill, and you gain the [Canny Acumen](compendium/feats/canny-acumen.md) feat.
+You're trained in the [Warfare Lore](skills.md#Lore) skill, and you gain the [Canny Acumen](archive/srd/pf2e/compendium/feats/canny-acumen.md) feat.

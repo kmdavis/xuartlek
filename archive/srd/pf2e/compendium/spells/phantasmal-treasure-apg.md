@@ -10,10 +10,10 @@ tags:
 aliases: ["Phantasmal Treasure"]
 ---
 # Phantasmal Treasure *Spell 2*   
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 living creature
 - **Saving Throw**: Will
@@ -25,8 +25,8 @@ The target's response to the treasure is based on the outcome of the target's Wi
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target becomes [fascinated](rules/conditions.md#Fascinated) with the treasure, and the duration is until the end of its turn. The target can also try to 0 if it touches the treasure, Seeks to examine it, or speaks to it if the illusion appears to be a person or the like. If the target 0, the spell ends.
+> - **Success** The target becomes [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) with the treasure, and the duration is until the end of its turn. The target can also try to 0 if it touches the treasure, Seeks to examine it, or speaks to it if the illusion appears to be a person or the like. If the target 0, the spell ends.
 > - **Failure** As success, but the duration is 1 minute.
-> - **Critical Failure** As success, but the duration is 1 minute. The target finds the treasure so appealing that until the spell ends, it must spend each action focused on it. This can include moving toward the treasure if the target isn't next to it, and Interacting with the treasure if the target is next to it. (If the illusion appears to be a person or the like, the target can also [Interact](rules/actions/interact.md) to converse with it.)
+> - **Critical Failure** As success, but the duration is 1 minute. The target finds the treasure so appealing that until the spell ends, it must spend each action focused on it. This can include moving toward the treasure if the target isn't next to it, and Interacting with the treasure if the target is next to it. (If the illusion appears to be a person or the like, the target can also [Interact](archive/srd/pf2e/rules/actions/interact.md) to converse with it.)
 
 *Source: Advanced Player's Guide p. 223*

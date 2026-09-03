@@ -7,7 +7,7 @@ tags:
 aliases: ["Slinger's Reflexes"]
 ---
 # Slinger's Reflexes  *Feat 20*  
-[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
+[gunslinger](archive/srd/pf2e/rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 
 Your ability to react to unexpected circumstances is preternaturally sharp. At the start of each enemy's turn, you gain an additional reaction you can use on only that turn to use a gunslinger reaction.

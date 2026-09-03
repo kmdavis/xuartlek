@@ -9,14 +9,14 @@ tags:
 aliases: ["Flying Guillotine"]
 ---
 # Flying Guillotine *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +10 trained or DC 23 (expert) to spot the glyph  
 
-An [invisible](rules/conditions.md#Invisible) magical glyph on the guillotine's blade detects living creatures in the room, which causes the guillotine to fly off its hinges and attack.
+An [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) magical glyph on the guillotine's blade detects living creatures in the room, which causes the guillotine to fly off its hinges and attack.
 
-- **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to erase the glyph (which requires a successful unarmed attack roll if the blade is already active) or [dispel magic](compendium/spells/dispel-magic.md) (3rd level; counteract DC 20) to counteract it. The trap has a secret bypass known only to Ralso and Pratchett: as long as the guillotine can see a creature in the room touching thumb and pinky together with an empty hand, it remains dormant.  
+- **Disable** DC 20 [Thievery](skills.md#Thievery) (trained) to erase the glyph (which requires a successful unarmed attack roll if the blade is already active) or [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (3rd level; counteract DC 20) to counteract it. The trap has a secret bypass known only to Ralso and Pratchett: as long as the guillotine can see a creature in the room touching thumb and pinky together with an empty hand, it remains dormant.  
 
 - **AC** 23, **Fort** +9, **Ref** +17
 - **Blade Hardness** 13, **Blade HP** 52 (BT 26)

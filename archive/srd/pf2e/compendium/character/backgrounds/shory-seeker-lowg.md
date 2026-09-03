@@ -15,4 +15,4 @@ You've dedicated your life to unraveling the secrets of the ancient Shory Empire
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Shory Lore](compendium/skills.md#Lore) skill. You gain the [Specialty Crafting](compendium/feats/specialty-crafting.md) skill feat.
+You're trained in the [Crafting](skills.md#Crafting) skill and the [Shory Lore](skills.md#Lore) skill. You gain the [Specialty Crafting](archive/srd/pf2e/compendium/feats/specialty-crafting.md) skill feat.

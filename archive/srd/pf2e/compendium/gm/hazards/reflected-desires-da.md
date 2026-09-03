@@ -11,14 +11,14 @@ tags:
 aliases: ["Reflected Desires"]
 ---
 # Reflected Desires *Hazard 1*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 (0 to notice the mirror)  
 
 This mirror reflects the viewer's deepest desires.
 
-- **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) (trained) to shroud the mirror without looking at it, or DC 17 [Occultism](compendium/skills.md#Occultism) (trained) to erect mental barriers  
+- **Disable** DC 18 [Thievery](skills.md#Thievery) (trained) to shroud the mirror without looking at it, or DC 17 [Occultism](skills.md#Occultism) (trained) to erect mental barriers  
 
 - **AC** 13, **Fort** +10, **Ref** +4
 - **Hardness** 6, **HP** 24 (BT 12)

@@ -7,14 +7,14 @@ tags:
 - trait/monk
 aliases: ["Peafowl Strut"]
 ---
-# Peafowl Strut  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  
+# Peafowl Strut  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[flourish](archive/srd/pf2e/rules/traits/flourish.md "Flourish Combat Trait")  [monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
-- **Prerequisites**: [Peafowl Stance](compendium/feats/peafowl-stance-apg.md)
+- **Prerequisites**: [Peafowl Stance](peafowl-stance-apg.md)
 - **Requirements**: You are in Peafowl Stance.
 - **Activity** Single Action
 
-You slowly move across the battlefield with dangerous grace. [Step](rules/actions/step.md) twice and then [Strike](rules/actions/strike.md). The [Strike](rules/actions/strike.md) must be made with the sword required by Peafowl Stance.
+You slowly move across the battlefield with dangerous grace. [Step](archive/srd/pf2e/rules/actions/step.md) twice and then [Strike](archive/srd/pf2e/rules/actions/strike.md). The [Strike](archive/srd/pf2e/rules/actions/strike.md) must be made with the sword required by Peafowl Stance.
 
 *Source: Advanced Player's Guide p. 129*  
 %% #compendium/src/pf2e/apg #trait/flourish #trait/monk %%

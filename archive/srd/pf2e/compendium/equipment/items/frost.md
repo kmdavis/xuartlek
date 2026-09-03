@@ -10,11 +10,11 @@ tags:
 aliases: ["Frost"]
 ---
 # Frost *Item 8+*  
-[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[cold](archive/srd/pf2e/rules/traits/cold.md "Cold Energy & Element Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto a weapon
 
-This weapon is empowered with freezing ice. It deals an additional `1d6` cold damage on a successful [Strike](rules/actions/strike.md). On a critical hit, the target is also [slowed](rules/conditions.md#Slowed) until the end of your next turn unless it succeeds at a DC 24 Fortitude save.
+This weapon is empowered with freezing ice. It deals an additional `1d6` cold damage on a successful [Strike](archive/srd/pf2e/rules/actions/strike.md). On a critical hit, the target is also [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) until the end of your next turn unless it succeeds at a DC 24 Fortitude save.
 
 ---
 

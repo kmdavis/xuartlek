@@ -8,14 +8,14 @@ tags:
 aliases: ["Falling Bridge"]
 ---
 # Falling Bridge *Hazard 3*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
 
 The frayed ropes on both sides of this bridge snap when enough weight is put on the bridge's center.
 
-- **Disable** DC 20 [Survival](compendium/skills.md#Survival) (trained) to reinforce and secure the ropes on one side of the bridge  
+- **Disable** DC 20 [Survival](skills.md#Survival) (trained) to reinforce and secure the ropes on one side of the bridge  
 
 - **AC** 10, **Fort** +1, **Ref** +1
 - **Rope HP** 6 (BT 3)

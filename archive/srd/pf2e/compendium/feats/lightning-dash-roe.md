@@ -13,8 +13,8 @@ tags:
 - trait/primal
 aliases: ["Lightning Dash"]
 ---
-# Lightning Dash  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [move](rules/traits/move.md "Move Combat Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Lightning Dash  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  [overflow](overflow-roe.md "Overflow Action & Ability Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Two-Action
 

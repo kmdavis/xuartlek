@@ -8,12 +8,12 @@ tags:
 aliases: ["Ignitor"]
 ---
 # Ignitor *Item 1*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  
 
 - **Price** 5 gp
 - **Bulk** -; **Usage** held in 1 hand
 
-An ignitor uses interlocking clockwork to create a small spark in order to ignite flammable materials. While holding the ignitor, you can [Interact](rules/actions/interact.md) with it to ignite a flammable object within reach.
+An ignitor uses interlocking clockwork to create a small spark in order to ignite flammable materials. While holding the ignitor, you can [Interact](archive/srd/pf2e/rules/actions/interact.md) with it to ignite a flammable object within reach.
 
 
 ---

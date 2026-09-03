@@ -8,7 +8,7 @@ tags:
 aliases: ["Mithral Shield"]
 ---
 # Mithral Shield *Item 8+*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** varies by shield
 - **Group** Shield 
@@ -43,7 +43,7 @@ The shield has Hardness 6, HP 24, and BT 12.
 #### high-grade mithral shield *Item 16*
 
 - **Price**: 8800 gp
-- **Craft Requirements**: [Craft](rules/actions/craft.md) Bulk 1; Requirements at least 4,400 gp of mithral
+- **Craft Requirements**: [Craft](archive/srd/pf2e/rules/actions/craft.md) Bulk 1; Requirements at least 4,400 gp of mithral
 
 The shield has Hardness 8, HP 32, and BT 16.
 

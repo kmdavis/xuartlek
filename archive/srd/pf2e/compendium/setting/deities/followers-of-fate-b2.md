@@ -19,8 +19,8 @@ aliases: ["Followers Of Fate"]
 
 ## Devotee benefits
 
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Occultism
 - **Favored Weapon**: shears
-- **Domains**: [family](compendium/setting/domains.md#Family), [fate](compendium/setting/domains.md#Fate), [knowledge](compendium/setting/domains.md#Knowledge), [truth](compendium/setting/domains.md#Truth)
-- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 2nd: [web](compendium/spells/web.md); 5th: [prying eye](compendium/spells/prying-eye.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [mindlink](archive/srd/pf2e/compendium/spells/mindlink.md); 2nd: [web](archive/srd/pf2e/compendium/spells/web.md); 5th: [prying eye](prying-eye.md)

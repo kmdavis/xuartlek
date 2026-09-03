@@ -7,10 +7,10 @@ tags:
 aliases: ["Anchoring Roots"]
 ---
 # Anchoring Roots  *Feat 5*  
-[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
+[leshy](leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 
-Small roots sprout from your feet, steadying you as you move. You gain the [Steady Balance](compendium/feats/steady-balance.md) skill feat, even if you aren't trained in [Acrobatics](compendium/skills.md#Acrobatics), and you can use the Anchor action.
+Small roots sprout from your feet, steadying you as you move. You gain the [Steady Balance](archive/srd/pf2e/compendium/feats/steady-balance.md) skill feat, even if you aren't trained in [Acrobatics](skills.md#Acrobatics), and you can use the Anchor action.
 
 ```ad-embed-ability
 title: **Anchor** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")

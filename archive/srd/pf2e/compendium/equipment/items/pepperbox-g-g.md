@@ -11,7 +11,7 @@ tags:
 aliases: ["Pepperbox"]
 ---
 # Pepperbox *Item 0*  
-[capacity <3>](rules/traits/capacity-3-tv.md "Capacity Weapon Trait")  [concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [fatal <d8>](rules/traits/fatal-d8.md "Fatal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[capacity <3>](rules/traits/capacity-3-tv.md "Capacity Weapon Trait")  [concussive](concussive-g-g.md "Concussive Weapon Trait")  [fatal <d8>](rules/traits/fatal-d8.md "Fatal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 12 gp

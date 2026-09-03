@@ -1,0 +1,25 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-spell
+tags:
+- compendium/src/pf2e/player-core
+- trait/concentrate
+- trait/manipulate
+- spell/level/2
+aliases: ["Share Life"]
+aon_id: "spell-1669"
+source: "Player Core"
+---
+
+# Share Life  *Spell 2*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+
+`Concentrate`  `Manipulate`
+
+- **Tradition**: Divine
+- **Range**: 30 feet
+- **Target**: 1 creature
+- **Duration**: 10 minutes
+
+You forge a temporary link between the target's life essence and your own. The target takes half damage from all effects that deal Hit Point damage, and you take the remainder of the damage. When you take damage through this link, you don't apply any resistances, weaknesses, or other abilities you have to that damage; you simply take that amount of damage. The spell ends if the target is ever more than 30 feet away from you. If either you or the target is reduced to 0 Hit Points, any damage from this spell is resolved and then the spell ends.
+
+*Source: Player Core p. 356*

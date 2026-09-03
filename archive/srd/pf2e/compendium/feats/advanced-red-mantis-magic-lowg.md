@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Red Mantis Magic"]
 ---
 # Advanced Red Mantis Magic  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Red Mantis Magic](compendium/feats/basic-red-mantis-magic-lowg.md)
+- **Prerequisites**: [Basic Red Mantis Magic](basic-red-mantis-magic-lowg.md)
 
 Your Red Mantis magical training has improved. Add two 2nd-level spells to your Red Mantis assassin spellbook. You gain a 2nd-level spell slot that you can use to prepare a spell from your Red Mantis assassin spellbook.
 
@@ -19,7 +19,7 @@ At 10th level, add two 4th-level spells to your Red Mantis assassin spellbook. Y
 
 ## Advanced Red Mantis Magic leads to...
 
-[Vernai Training](compendium/feats/vernai-training-lol.md)
+[Vernai Training](vernai-training-lol.md)
 
 ## Summary
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Switchscythe"]
 ---
 # Switchscythe *Item 1*  
-[fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [modular <(p and grapple, or s and sweep)>](rules/traits/modular-p-and-grapple-or-s-and-sweep-logm.md "Modular Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [gnome](archive/srd/pf2e/rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [modular <(p and grapple, or s and sweep)>](rules/traits/modular-p-and-grapple-or-s-and-sweep-logm.md "Modular Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 12 gp
 - **Bulk** 2

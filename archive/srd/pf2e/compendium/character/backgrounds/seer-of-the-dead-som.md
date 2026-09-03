@@ -15,4 +15,4 @@ You have long been gifted with the ability to see and speak with the departed. T
 
 You gain one ability boost. It must be to Constitution or Wisdom.
 
-You're trained in [Religion](compendium/skills.md#Religion) and [Undead Lore](compendium/skills.md#Lore). You gain the effects of the [spirit sense](compendium/spells/spirit-sense-apg.md) spell at all times.
+You're trained in [Religion](skills.md#Religion) and [Undead Lore](skills.md#Lore). You gain the effects of the [spirit sense](spirit-sense-apg.md) spell at all times.

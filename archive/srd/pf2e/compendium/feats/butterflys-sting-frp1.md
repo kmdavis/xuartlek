@@ -7,9 +7,9 @@ tags:
 aliases: ["Butterfly's Sting"]
 ---
 # Butterfly's Sting  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Butterfly Blade Dedication](compendium/feats/butterfly-blade-dedication-frp1.md)
+- **Prerequisites**: [Butterfly Blade Dedication](butterfly-blade-dedication-frp1.md)
 
 You gain the sneak attack class feature (Core Rulebook 181)
 

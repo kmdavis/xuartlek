@@ -7,9 +7,9 @@ tags:
 aliases: ["Clinging Climber"]
 ---
 # Clinging Climber  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Vampire Dedication](compendium/feats/vampire-dedication-botd.md), trained in [Athletics](compendium/skills.md#Athletics)
+- **Prerequisites**: [Vampire Dedication](vampire-dedication-botd.md), trained in [Athletics](skills.md#Athletics)
 
 You climb like a spider. You gain a climb Speed of 15 feet.
 

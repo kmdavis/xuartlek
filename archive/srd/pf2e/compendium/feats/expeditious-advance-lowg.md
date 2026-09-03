@@ -7,9 +7,9 @@ tags:
 aliases: ["Expeditious Advance"]
 ---
 # Expeditious Advance  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Lion Blade Dedication](compendium/feats/lion-blade-dedication-lowg.md)
+- **Prerequisites**: [Lion Blade Dedication](lion-blade-dedication-lowg.md)
 - **Requirements**: You are unarmored or wearing light armor.
 
 You advance and retreat quickly. You gain a +10-foot status bonus to your speed.

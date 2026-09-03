@@ -7,11 +7,11 @@ tags:
 aliases: ["Ranged Reprisal"]
 ---
 # Ranged Reprisal  *Feat 1*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: Paladin cause
 
-You can use [Retributive Strike](rules/actions/retributive-strike.md) with a ranged weapon. In addition, if the foe that triggered your reaction is within 5 feet of your reach but not in your reach, as part of your reaction you can [Step](rules/actions/step.md) to put the foe in your reach before making a melee [Retributive Strike](rules/actions/retributive-strike.md).
+You can use [Retributive Strike](archive/srd/pf2e/rules/actions/retributive-strike.md) with a ranged weapon. In addition, if the foe that triggered your reaction is within 5 feet of your reach but not in your reach, as part of your reaction you can [Step](archive/srd/pf2e/rules/actions/step.md) to put the foe in your reach before making a melee [Retributive Strike](archive/srd/pf2e/rules/actions/retributive-strike.md).
 
 *Source: Core Rulebook p. 109*  
 %% #compendium/src/pf2e/crb #trait/champion %%

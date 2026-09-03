@@ -7,8 +7,8 @@ tags:
 - trait/concentrate
 aliases: ["Sustain a Spell"]
 ---
-# Sustain a Spell (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+# Sustain a Spell (basic) [>](chapter-9-playing-the-game.md#Actions "Single Action")
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 *Source: Core Rulebook p. 304*  
 
 

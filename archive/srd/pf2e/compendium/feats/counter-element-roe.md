@@ -7,8 +7,8 @@ tags:
 - trait/kineticist
 aliases: ["Counter Element"]
 ---
-# Counter Element  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  
+# Counter Element  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
+[impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  
 
 - **Prerequisites**: exactly one kinetic element
 - **Trigger** You're targeted by or in the area of an effect that has the trait matching your kinetic element and originates from an enemy or hazard.

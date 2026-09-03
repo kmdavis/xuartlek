@@ -8,11 +8,11 @@ tags:
 aliases: ["Viking Shieldbearer"]
 ---
 # Viking Shieldbearer  *Feat 1*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Ulfen ethnicity
 
-You trained with shields and weapons as soon as you were old enough to hold them, eager to win honor and glory for yourself. You gain the [Shield Block](compendium/feats/shield-block.md) reaction and are trained in your choice of the battle axe or longsword.
+You trained with shields and weapons as soon as you were old enough to hold them, eager to win honor and glory for yourself. You gain the [Shield Block](archive/srd/pf2e/compendium/feats/shield-block.md) reaction and are trained in your choice of the battle axe or longsword.
 
 *Source: Lost Omens: Character Guide p. 13*  
 %% #compendium/src/pf2e/locg #trait/human #trait/uncommon %%

@@ -22,11 +22,11 @@ aliases: ["Ragathiel", "General of Vengeance"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [bastard sword](compendium/equipment/items/bastard-sword.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [duty](compendium/setting/domains.md#Duty), [fire](compendium/setting/domains.md#Fire), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 3rd: [haste](compendium/spells/haste.md); 4th: [fire shield](compendium/spells/fire-shield.md)
+- **Favored Weapon**: [bastard sword](archive/srd/pf2e/compendium/equipment/items/bastard-sword.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 3rd: [haste](archive/srd/pf2e/compendium/spells/haste.md); 4th: [fire shield](archive/srd/pf2e/compendium/spells/fire-shield.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Ragathiel

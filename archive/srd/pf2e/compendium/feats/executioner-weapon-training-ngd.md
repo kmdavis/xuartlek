@@ -7,9 +7,9 @@ tags:
 aliases: ["Executioner Weapon Training"]
 ---
 # Executioner Weapon Training  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
+- **Prerequisites**: [Vigilante Dedication](vigilante-dedication-apg.md), member of the Gray Gardeners
 
 Your Gray Gardener training has made you deeply skilled with the weapons that execute with a swift chop to the neck. You become trained with the following weapons: battle axe, falchion, greataxe, and scimitar.
 

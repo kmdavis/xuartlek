@@ -7,15 +7,15 @@ tags:
 aliases: ["Camouflage"]
 ---
 # Camouflage  *Feat 10*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Prerequisites**: master in [Stealth](compendium/skills.md#Stealth)
+- **Prerequisites**: master in [Stealth](skills.md#Stealth)
 
-You alter your appearance to blend in to the wilderness. In natural terrain, you can [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md) even without cover or being [concealed](rules/conditions.md#Concealed).
+You alter your appearance to blend in to the wilderness. In natural terrain, you can [Hide](archive/srd/pf2e/rules/actions/hide.md) and [Sneak](archive/srd/pf2e/rules/actions/sneak.md) even without cover or being [concealed](archive/srd/pf2e/rules/conditions.md#Concealed).
 
 ## Camouflage leads to...
 
-[Shadow Hunter](compendium/feats/shadow-hunter.md), [Stealthy Companion](compendium/feats/stealthy-companion.md)
+[Shadow Hunter](archive/srd/pf2e/compendium/feats/shadow-hunter.md), [Stealthy Companion](archive/srd/pf2e/compendium/feats/stealthy-companion.md)
 
 ## Summary
 

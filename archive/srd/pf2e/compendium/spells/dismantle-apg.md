@@ -8,17 +8,17 @@ tags:
 aliases: ["Dismantle"]
 ---
 # Dismantle *Spell 2*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 non-magical object in your possession of 1 Bulk or less
 - **Duration**: 1 minute
 
-You touch an object, and it immediately disassembles itself into its component pieces. The spell fails if the target lacks component pieces (such as a statue carved from one block of stone), and using it on a dangerous object like a snare or trap typically triggers it. The object gains the [broken](rules/conditions.md#Broken) condition, and the component pieces become small enough to be [hidden](rules/conditions.md#Hidden) under normal clothing and armor. You can [Dismiss](rules/actions/dismiss.md) the spell.
+You touch an object, and it immediately disassembles itself into its component pieces. The spell fails if the target lacks component pieces (such as a statue carved from one block of stone), and using it on a dangerous object like a snare or trap typically triggers it. The object gains the [broken](archive/srd/pf2e/rules/conditions.md#Broken) condition, and the component pieces become small enough to be [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) under normal clothing and armor. You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the spell.
 
-When the spell ends, the object reassembles itself into its original form, appearing in your hand or hands if you have them free, or on the ground in front of you otherwise. Once reassembled, the object loses the [broken](rules/conditions.md#Broken) condition and its Hit Points return to the value the object had when you [Cast the Spell](rules/actions/cast-a-spell.md).
+When the spell ends, the object reassembles itself into its original form, appearing in your hand or hands if you have them free, or on the ground in front of you otherwise. Once reassembled, the object loses the [broken](archive/srd/pf2e/rules/conditions.md#Broken) condition and its Hit Points return to the value the object had when you [Cast the Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md).
 
 **Heightened (4th)** The spell lasts for 10 minutes.
 

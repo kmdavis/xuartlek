@@ -11,7 +11,7 @@ tags:
 aliases: ["War Razor"]
 ---
 # War Razor *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait")  [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [backstabber](archive/srd/pf2e/rules/traits/backstabber.md "Backstabber Weapon Trait")  [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  
 
 - **Price** 3 sp
 - **Bulk** L

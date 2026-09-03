@@ -9,14 +9,14 @@ tags:
 aliases: ["Communal Healing"]
 ---
 # Communal Healing  *Feat 2*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [positive](positive.md "Positive Energy & Element Trait")  
 
 
-You're a conduit for positive energy, and as you channel it through you, it heals some of your minor injuries. When you cast the [heal](compendium/spells/heal.md) spell to heal a single creature other than yourself, you regain Hit Points equal to the spell level of the [heal](compendium/spells/heal.md) spell.
+You're a conduit for positive energy, and as you channel it through you, it heals some of your minor injuries. When you cast the [heal](archive/srd/pf2e/compendium/spells/heal.md) spell to heal a single creature other than yourself, you regain Hit Points equal to the spell level of the [heal](archive/srd/pf2e/compendium/spells/heal.md) spell.
 
 ## Communal Healing leads to...
 
-[Improved Communal Healing](compendium/feats/improved-communal-healing.md)
+[Improved Communal Healing](improved-communal-healing.md)
 
 ## Summary
 

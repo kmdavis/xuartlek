@@ -10,10 +10,10 @@ tags:
 aliases: ["Wand of Crushing Leaps"]
 ---
 # Wand of Crushing Leaps *Item 4*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 80 gp
-- **Craft Requirements** Supply a casting of 1st-level [jump](compendium/spells/jump.md).
+- **Craft Requirements** Supply a casting of 1st-level [jump](archive/srd/pf2e/compendium/spells/jump.md).
 - **Bulk** —; **Usage** held in 1 hand
 
 This supple, light wooden wand drifts to the ground like a feather or leaf when dropped, landing unharmed. A thin coil of metal wraps around the wand's handle.

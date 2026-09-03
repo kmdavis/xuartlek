@@ -10,7 +10,7 @@ tags:
 aliases: ["Reinforced Stock"]
 ---
 # Reinforced Stock *Item 0*  
-[attached <to crossbow or firearm>](rules/traits/attached-to-crossbow-or-firearm.md "Attached Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [two-hand <d6>](rules/traits/two-hand-d6.md "Two-Hand Weapon Trait")  
+[attached <to crossbow or firearm>](rules/traits/attached-to-crossbow-or-firearm.md "Attached Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [two-hand <d6>](rules/traits/two-hand-d6.md "Two-Hand Weapon Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 2 sp

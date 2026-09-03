@@ -8,7 +8,7 @@ tags:
 aliases: ["Subterfuge Suit"]
 ---
 # Subterfuge Suit *Item 0*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 1
 - **AC Bonus** +1; **Dex Cap** +4

@@ -7,9 +7,9 @@ tags:
 aliases: ["Iron Lung"]
 ---
 # Iron Lung  *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Golem Grafter Dedication](compendium/feats/golem-grafter-dedication-ec3.md)
+- **Prerequisites**: [Golem Grafter Dedication](golem-grafter-dedication-ec3.md)
 
 Your lungs are infused with the resilience of iron. Treat the result of your save against an inhaled poison as one degree of success better than you rolled. Additionally, you gain the following ability.
 

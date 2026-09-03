@@ -7,9 +7,9 @@ tags:
 aliases: ["Armored Exercise"]
 ---
 # Armored Exercise  *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md); trained in light, medium, or heavy armor
+- **Prerequisites**: [Swordmaster Dedication](swordmaster-dedication-locg.md); trained in light, medium, or heavy armor
 
 You've spent time training in your armor alongside other agents from the Swords. Your proficiency rank for light, medium, and heavy armor increases to expert for whichever of those you already had the trained proficiency rank in.
 

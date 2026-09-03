@@ -7,9 +7,9 @@ tags:
 aliases: ["Stargazer's Eyes"]
 ---
 # Stargazer's Eyes  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Oatia Skysage Dedication](compendium/feats/oatia-skysage-dedication-gw1.md)
+- **Prerequisites**: [Oatia Skysage Dedication](oatia-skysage-dedication-gw1.md)
 
 Long hours in darkened observatories have sharpened your senses. If you don't have low-light vision or darkvision, you gain low-light vision, or if you already have low-light vision, you gain darkvision.
 

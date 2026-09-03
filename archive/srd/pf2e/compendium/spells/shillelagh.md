@@ -9,10 +9,10 @@ tags:
 aliases: ["Shillelagh"]
 ---
 # Shillelagh *Spell 1*   
-[plant](rules/traits/plant.md "Plant Creature Type Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 club or staff you hold
 - **Duration**: 1 minute

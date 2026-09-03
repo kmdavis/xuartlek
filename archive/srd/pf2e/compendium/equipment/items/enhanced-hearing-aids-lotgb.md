@@ -9,13 +9,13 @@ tags:
 aliases: ["Enhanced Hearing Aids"]
 ---
 # Enhanced Hearing Aids *Item 3*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 50 gp
 - **Bulk** L; **Usage** worn
 - **Category** Hearing
 
-These hearing aids work like [magical hearing aids](compendium/equipment/items/magical-hearing-aids-lotgb.md), but they're designed with a more potent and focused magic.
+These hearing aids work like [magical hearing aids](magical-hearing-aids-lotgb.md), but they're designed with a more potent and focused magic.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

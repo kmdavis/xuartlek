@@ -10,12 +10,12 @@ tags:
 aliases: ["Bookthief Brew"]
 ---
 # Bookthief Brew *Item 1*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-This concoction mixes into a thick, paste-like substance when shaken. When exposed to air, the substance dries after one minute. If poured over a book, scroll, or other material featuring words written in ink, the brew will make an exact copy of the words it is in contact with while it dries, though it doesn't contain any [magical](rules/traits/magical.md "Magical Item Trait") effect or other special properties of the original words. Once dried, you can remove the dried substance as an [Interact](rules/actions/interact.md) action. A single vial of bookthief brew can coat two pages from a book, a single scroll, or a similar amount of area for other surfaces, producing a dried sheet as thick as a piece of paper. Unfortunately, the sheet's copy is flipped, requiring a mirror to properly read.
+This concoction mixes into a thick, paste-like substance when shaken. When exposed to air, the substance dries after one minute. If poured over a book, scroll, or other material featuring words written in ink, the brew will make an exact copy of the words it is in contact with while it dries, though it doesn't contain any [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait") effect or other special properties of the original words. Once dried, you can remove the dried substance as an [Interact](archive/srd/pf2e/rules/actions/interact.md) action. A single vial of bookthief brew can coat two pages from a book, a single scroll, or a similar amount of area for other surfaces, producing a dried sheet as thick as a piece of paper. Unfortunately, the sheet's copy is flipped, requiring a mirror to properly read.
 
 
 ---

@@ -11,11 +11,11 @@ tags:
 aliases: ["Emergency Eye"]
 ---
 # Emergency Eye *Item 7*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 60 gp
 - **Bulk** —; **Usage** affixed to armor
-- **Activate** command; **Trigger** You become [blinded](rules/conditions.md#Blinded), or an effect otherwise impedes your vision; **Requirements** You are an expert in [Perception](compendium/skills.md#Perception).
+- **Activate** command; **Trigger** You become [blinded](archive/srd/pf2e/rules/conditions.md#Blinded), or an effect otherwise impedes your vision; **Requirements** You are an expert in [Perception](skills.md#Perception).
 
 This eye, harvested from a monster, looks like it's peacefully sleeping but gives you a backup when you can't use your eyes.
 

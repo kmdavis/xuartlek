@@ -21,8 +21,8 @@ aliases: ["Gravelady's Guard"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [death](compendium/setting/domains.md#Death), [fate](compendium/setting/domains.md#Fate), [protection](compendium/setting/domains.md#Protection)
-- **Cleric Spells**: 1st: [magic missile](compendium/spells/magic-missile.md); 3rd: [ghostly weapon](compendium/spells/ghostly-weapon.md); 6th: [wall of force](compendium/spells/wall-of-force.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [magic missile](magic-missile.md); 3rd: [ghostly weapon](archive/srd/pf2e/compendium/spells/ghostly-weapon.md); 6th: [wall of force](archive/srd/pf2e/compendium/spells/wall-of-force.md)

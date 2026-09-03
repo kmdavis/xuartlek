@@ -23,6 +23,7 @@ Remaster book reprinted them and is therefore listed among their sources.
 from __future__ import annotations
 
 import argparse
+import collections
 import json
 import re
 import sys
@@ -59,11 +60,116 @@ FOLDERS: dict[str, str] = {
         "creature-family", "monster-template", "kingdom-structure", "kingdom-event",
         "campsite-meal", "plane", "relic-gift"]},
 }
-DEFAULT_FOLDER = "rules-elements"  # action, condition, trait, skill, language, sidebar...
+DEFAULT_FOLDER = "rules-elements"  # action, item-bonus, sidebar...
+
+# Types small enough that one note per entry is noise. Each becomes a single
+# page of level-2 sections, which Obsidian and Quartz both link into with
+# [[page#Section]]. Chosen from measured body sizes: every type here has a 90th
+# percentile body under ~1.2k characters.
+#   category -> (folder, page stem)
+CONSOLIDATE: dict[str, tuple[str, str]] = {
+    "language": ("rules-elements", "languages"),
+    "condition": ("rules-elements", "conditions"),
+    "weapon-group": ("rules-elements", "weapon-groups"),
+    "armor-group": ("rules-elements", "armor-groups"),
+    "creature-ability": ("gm", "creature-abilities"),
+    "disease": ("gm", "diseases"),
+    "curse": ("gm", "curses"),
+    "plane": ("gm", "planes"),
+    "heritage": ("character", "heritages"),
+    "background": ("character", "backgrounds"),
+    "familiar-ability": ("character", "familiar-abilities"),
+    "familiar-specific": ("character", "familiars-specific"),
+    "class-sample": ("character", "class-samples"),
+    "class-kit": ("character", "class-kits"),
+    "animal-companion": ("character", "animal-companions"),
+    "animal-companion-advanced": ("character", "animal-companions-advanced"),
+    "animal-companion-specialization": ("character", "animal-companion-specializations"),
+    "runesmith-rune": ("character", "runesmith-runes"),
+    "domain": ("character", "domains"),
+    "tactic": ("character", "tactics"),
+    "ikon": ("character", "ikons"),
+    "epithet": ("character", "epithets"),
+    "lesson": ("character", "lessons"),
+    "patron": ("character", "patrons"),
+    "mythic-calling": ("character", "mythic-callings"),
+    "bloodline": ("character", "bloodlines"),
+    "arcane-school": ("character", "arcane-schools"),
+    "arcane-thesis": ("character", "arcane-theses"),
+    "apparition": ("character", "apparitions"),
+    "mystery": ("character", "mysteries"),
+    "cause": ("character", "causes"),
+    "element": ("character", "elements"),
+    "style": ("character", "styles"),
+    "muse": ("character", "muses"),
+    "way": ("character", "ways"),
+    "racket": ("character", "rackets"),
+    "draconic-exemplar": ("character", "draconic-exemplars"),
+    "hunters-edge": ("character", "hunters-edges"),
+    "research-field": ("character", "research-fields"),
+    "subconscious-mind": ("character", "subconscious-minds"),
+    "methodology": ("character", "methodologies"),
+    "innovation": ("character", "innovations"),
+    "practice": ("character", "practices"),
+    "druidic-order": ("character", "druidic-orders"),
+    "grim-fascination": ("character", "grim-fascinations"),
+    "hybrid-study": ("character", "hybrid-studies"),
+    "doctrine": ("character", "doctrines"),
+    "fatal-method": ("character", "fatal-methods"),
+    "set-relic": ("character", "set-relics"),
+    "deity": ("character", "deities"),
+    "creature-theme-template": ("gm", "creature-theme-templates"),
+    "relic": ("equipment", "relics"),
+    "armor": ("equipment", "armor"),
+    "shield": ("equipment", "shields"),
+}
+
+# Types that keep one note each, filed into a subfolder by type.
+TYPE_FOLDER: dict[str, str] = {
+    "trait": "traits",
+    "sidebar": "sidebars",
+    "item-bonus": "item-bonuses",
+    "action": "actions",
+    "skill": "skills",
+    "creature-family": "creature-families",
+    "creature-adjustment": "creature-adjustments",
+    "hazard": "hazards",
+    "archetype": "archetypes",
+    "ancestry": "ancestries",
+    "class": "classes",
+    "eidolon": "eidolons",
+    "implement": "implements",
+    "instinct": "instincts",
+    "conscious-mind": "conscious-minds",
+    "skill-general-action": "skill-general-actions",
+    "ritual": "rituals",
+    "vehicle": "vehicles",
+    "siege-weapon": "siege-weapons",
+    "weapon": "weapons",
+}
+
+# Above this many entries, a consolidated page or a flat folder gets unwieldy,
+# so shard by sourcebook. Type grouping still wins: a Battlecry trait lives
+# under traits/, not under battlecry/.
+SHARD_BY_SOURCE = {"trait", "action", "item-bonus", "sidebar", "feat"}
+
+# Types consolidated into one page per sourcebook rather than one page overall.
+# Bodies are short but there are thousands of them, so a single page would be
+# enormous while a file each is mostly noise -- many are item-granted actions
+# named things like "(concentrate)".
+CONSOLIDATE_BY_SOURCE: dict[str, tuple[str, str]] = {
+    "action": ("rules-elements/actions", "actions"),
+    "item-bonus": ("rules-elements/item-bonuses", "item-bonuses"),
+    "sidebar": ("rules-elements/sidebars", "sidebars"),
+}
+
+# A consolidated page past this many bytes is split into alphabetical parts.
+# Treasure Vault alone contributes 459 actions, which is a 290KB page.
+MAX_PAGE_BYTES = 150_000
 
 # The vault's CSS keys off both the #Actions target and the link title text, so
 # these strings are load-bearing and must match exactly.
-ACTION_TARGET = "rules/player-core/chapter-8-playing-the-game/actions#Actions"
+ACTION_TARGET = "books/player-core/chapter-8-playing-the-game/actions#Actions"
 ACTION_ICON: dict[str, tuple[str, str]] = {
     "single action": (">", "Single Action"),
     "one action": (">", "Single Action"),
@@ -100,9 +206,57 @@ def normalise_newlines(text: str) -> str:
     return text.replace("\r\n", "\n").replace("\r", "\n")
 
 
-def slugify(text: str) -> str:
+# A handful of AoN records leak their own template syntax into the name field.
+# ACTION.TYPES is 1-indexed over free/one/two/three actions, confirmed against
+# the rendered page for Actions.aspx?ID=1827, where #3/#2/#4 come out as
+# twoActions/oneAction/threeActions.
+AON_ACTION_INDEX = {
+    "1": "Free Action",
+    "2": "Single Action",
+    "3": "Two Actions",
+    "4": "Three Actions",
+}
+
+
+def detemplate(text: str) -> str:
+    """Resolve AoN's unrendered <%...%> template markers.
+
+    Action costs expand to plain words rather than icon links. These markers
+    only ever appear in the name field, and a name feeds the slug and the
+    alias -- a markdown link there ends up mangled into the filename.
+    """
+    if "<%" not in text:
+        return text
+    text = re.sub(
+        r"<%ACTION\.TYPES#(\d+)%%>",
+        lambda m: AON_ACTION_INDEX.get(m.group(1), "").lower(),
+        text,
+    )
+    # <%TRAITS%561%%>concentrate<%END>  ->  concentrate
+    text = re.sub(r"<%TRAITS%\d+%%>(.*?)<%END>", r"\1", text, flags=re.S)
+    text = re.sub(r"<%[^>]*?%>|<%END>", "", text)
+    return re.sub(r"\s{2,}", " ", text).strip()
+
+
+# Quartz writes one HTML file per alias, so an over-long alias or slug becomes
+# ENAMETOOLONG at emit time. A few AoN "names" are whole sentences.
+MAX_SLUG = 72
+MAX_ALIAS = 80
+
+
+def shorten(text: str, limit: int) -> str:
+    if len(text) <= limit:
+        return text
+    cut = text[:limit].rsplit(" ", 1)[0].rstrip(" ,;:.")
+    return (cut or text[:limit]) + "\u2026"
+
+
+def slugify(text: str, limit: int = MAX_SLUG) -> str:
     text = re.sub(r"[^\w\s-]", "", text.lower())
-    return re.sub(r"[\s_]+", "-", text).strip("-") or "entry"
+    slug = re.sub(r"[\s_]+", "-", text).strip("-") or "entry"
+    if len(slug) > limit:
+        slug = slug[:limit].rsplit("-", 1)[0].strip("-") or slug[:limit]
+    return slug
 
 
 def numeric_id(d: dict) -> str:
@@ -127,16 +281,58 @@ def build_class_index(docs: list[dict]) -> dict[str, str]:
     return index
 
 
-def destination(d: dict, root: Path, class_index: dict[str, str]) -> Path:
-    """Folder and filename for an entry, before uniqueness is enforced."""
+def destination(d: dict, root: Path, class_index: dict[str, str],
+                counts: collections.Counter) -> tuple[Path, str | None]:
+    """Where an entry goes.
+
+    Returns (path, page_stem). A page_stem means the entry is a section of a
+    consolidated page rather than a note of its own.
+
+    Grouping is by type first and sourcebook second, so a Battlecry trait is
+    filed under traits/ with every other trait, not under battlecry/.
+    """
     cat = d.get("category", "")
-    folder = FOLDERS.get(cat, DEFAULT_FOLDER)
-    parts = [folder]
+    src_slug = slugify(d.get("__source__", "") or "unknown")
+
+    if cat in CONSOLIDATE:
+        folder, stem = CONSOLIDATE[cat]
+        return root / folder / f"{stem}.md", cat
+
+    if cat in CONSOLIDATE_BY_SOURCE:
+        folder, _ = CONSOLIDATE_BY_SOURCE[cat]
+        return root / folder / f"{src_slug}.md", cat
+
+    parts: list[str]
     if cat == "class-feature":
         m = re.search(r"Classes\.aspx\?ID=(\d+)", d.get("url") or "")
         owner = class_index.get(m.group(1), "") if m else ""
-        parts += ["class-features", slugify(owner) if owner else "general"]
-    return root.joinpath(*parts) / f"{slugify(d.get('name', ''))}.md"
+        parts = ["character", "class-features", slugify(owner) if owner else "general"]
+    elif cat == "feat":
+        parts = ["feats", src_slug]
+    elif cat == "equipment":
+        parts = ["equipment", slugify(d.get("item_category") or "other")]
+    elif cat == "spell":
+        # Mirrors how the rulebooks present them: cantrips and focus spells
+        # separately, everything else by rank.
+        st = (d.get("spell_type") or "Spell").strip().lower()
+        if st == "cantrip":
+            parts = ["spells", "cantrips"]
+        elif st == "focus":
+            parts = ["spells", "focus"]
+        else:
+            parts = ["spells", f"rank-{d.get('level', 'unknown')}"]
+    elif cat == "ritual":
+        parts = ["spells", "rituals"]
+    elif cat in TYPE_FOLDER:
+        parts = [FOLDERS.get(cat, DEFAULT_FOLDER), TYPE_FOLDER[cat]]
+        # Shard the big flat folders by sourcebook.
+        if cat in SHARD_BY_SOURCE and counts[cat] > 200:
+            parts.append(src_slug)
+    else:
+        parts = [FOLDERS.get(cat, DEFAULT_FOLDER)]
+
+    stem = slugify(detemplate(d.get("name", "")))
+    return root.joinpath(*parts) / f"{stem}.md", None
 
 
 def fetch(category: str | None, books: list[str], page: int = 250) -> list[dict]:
@@ -334,8 +530,8 @@ def split_head_and_prose(body: str) -> tuple[str, str]:
 
 def parse_entry(d: dict) -> tuple[str, dict]:
     diag: dict = {"name": d.get("name"), "category": d.get("category"), "warnings": []}
-    md = d.get("markdown") or ""
-    name = d.get("name", "Unknown")
+    md = detemplate(d.get("markdown") or "")
+    name = detemplate(d.get("name", "Unknown"))
 
     m = re.search(r'<title[^>]*?right="([^"]*)"', md, re.S)
     right = (m.group(1).strip() if m else "")
@@ -391,7 +587,7 @@ def parse_entry(d: dict) -> tuple[str, dict]:
         diag["warnings"].append("no page number")
 
     cat = d.get("category", "misc")
-    tags = [f"compendium/src/pf2e-remaster/{slugify(primary)}"]
+    tags = [f"compendium/src/pf2e/{slugify(primary)}"]
     tags += [f"trait/{slugify(t)}" for t in traits]
     if d.get("level") is not None:
         tags.append(f"{cat}/level/{d['level']}")
@@ -402,38 +598,122 @@ def parse_entry(d: dict) -> tuple[str, dict]:
         f"cssclasses: pf2e,pf2e-{cat}",
         "tags:",
         *[f"- {t}" for t in tags],
-        f"aliases: [{json.dumps(name, ensure_ascii=False)}]",
+        # Quartz emits an HTML file per alias, so this has to stay short enough
+        # to be a valid filename.
+        f"aliases: [{json.dumps(shorten(name, MAX_ALIAS), ensure_ascii=False)}]",
         f"aon_id: {json.dumps(d.get('id',''))}",
         f"source: {json.dumps(primary)}",
         "---",
         "",
     ]
 
-    out = list(fm)
-    heading = f"# {name}"
-    if right:
-        heading += f"  *{right}*"
+    # Body, shared by the standalone page and the consolidated-section forms.
+    body: list[str] = []
+    suffix = f"  *{right}*" if right else ""
     if title_action:
-        heading += f"  {title_action}"
-    out.append(heading)
-    out.append("")
+        suffix += f"  {title_action}"
     if traits:
-        out.append("  ".join(f"`{t}`" for t in traits))
-        out.append("")
+        body.append("  ".join(f"`{t}`" for t in traits))
+        body.append("")
     for label, val in meta:
-        out.append(f"- **{label}**: {val}")
+        body.append(f"- **{label}**: {val}")
     if meta:
-        out.append("")
-    out.append(strip_markup(prose))
-    out.append("")
+        body.append("")
+    body.append(strip_markup(prose))
+    body.append("")
     if cite:
-        src_txt = f"*Source: {primary} p. {page}*" if page else f"*Source: {strip_markup(cite)}*"
-        out.append(src_txt)
+        body.append(f"*Source: {primary} p. {page}*" if page
+                    else f"*Source: {strip_markup(cite)}*")
 
     diag["traits"] = len(traits)
     diag["meta"] = len(meta)
     diag["body_chars"] = len(strip_markup(prose))
-    return "\n".join(out) + "\n", diag
+
+    entry = {
+        "frontmatter": "\n".join(fm),
+        "name": name,
+        "suffix": suffix,
+        "body": "\n".join(body).rstrip(),
+        "source": primary,
+    }
+    return entry, diag
+
+
+def render_standalone(entry: dict) -> str:
+    return (f"{entry['frontmatter']}\n# {entry['name']}{entry['suffix']}\n\n"
+            f"{entry['body']}\n")
+
+
+def render_section(entry: dict) -> str:
+    """One entry as a level-2 section of a consolidated page.
+
+    The heading text is the entry name, so [[page#Name]] resolves in Obsidian
+    and Quartz exactly as a standalone note would.
+    """
+    return f"## {entry['name']}{entry['suffix']}\n\n{entry['body']}\n"
+
+
+def split_oversized(path: Path, entries: list[dict]) -> list[tuple[Path, list[dict]]]:
+    """Break a consolidated page into alphabetical parts if it would be huge.
+
+    Keeps both levers in check at once: consolidating cuts the file count, and
+    this stops any single page becoming unreadable.
+    """
+    entries = sorted(entries, key=lambda e: e["name"].lower())
+    total = sum(len(e["body"]) + len(e["name"]) + 8 for e in entries)
+    if total <= MAX_PAGE_BYTES or len(entries) < 2:
+        return [(path, entries)]
+
+    parts = -(-total // MAX_PAGE_BYTES)  # ceil
+    per = -(-len(entries) // parts)
+    out: list[tuple[Path, list[dict]]] = []
+    for i in range(0, len(entries), per):
+        chunk = entries[i:i + per]
+        lo = re.sub(r"[^a-z0-9]", "", chunk[0]["name"].lower()[:3]) or "x"
+        hi = re.sub(r"[^a-z0-9]", "", chunk[-1]["name"].lower()[:3]) or "x"
+        out.append((path.with_name(f"{path.stem}-{lo}-{hi}.md"), chunk))
+    return out
+
+
+def page_title(category: str, entries: list[dict], stem: str) -> str:
+    """Human title for a consolidated page.
+
+    Per-source pages are named after the sourcebook on disk, so the title has to
+    carry the type as well or the page reads as though it were about the book.
+    """
+    plural = CONSOLIDATE.get(category, (None, None))[1]
+    if plural:
+        return plural.replace("-", " ").title()
+    label = CONSOLIDATE_BY_SOURCE.get(category, (None, category))[1]
+    label = label.replace("-", " ").title()
+    sources = sorted({e["source"] for e in entries})
+    if len(sources) == 1:
+        return f"{label}: {sources[0]}"
+    return label
+
+
+def render_page(category: str, entries: list[dict], stem: str) -> str:
+    sources = sorted({e["source"] for e in entries})
+    title = page_title(category, entries, stem)
+    fm = [
+        "---",
+        "obsidianUIMode: preview",
+        # Singular, matching the per-entry notes these replace, so one CSS rule
+        # covers both forms.
+        f"cssclasses: pf2e,pf2e-{category}",
+        "tags:",
+        *[f"- compendium/src/pf2e/{slugify(s)}" for s in sources],
+        f"aliases: [{json.dumps(title, ensure_ascii=False)}]",
+        f"entries: {len(entries)}",
+        "---",
+        "",
+        f"# {title}",
+        "",
+    ]
+    parts = ["\n".join(fm)]
+    for e in sorted(entries, key=lambda x: x["name"].lower()):
+        parts.append(render_section(e))
+    return "\n".join(parts).rstrip() + "\n"
 
 
 # --------------------------------------------------------------------------
@@ -457,7 +737,7 @@ def main() -> int:
 
     if args.out is None:
         args.out = (
-            here.parents[1] / "content" / "srd" / "pf2e-remaster" / "compendium"
+            here.parents[1] / "content" / "srd" / "pf2e" / "compendium"
             if args.all else here / "staging" / "compendium"
         )
 
@@ -494,11 +774,29 @@ def main() -> int:
         print(f"QA sample: {len(selection)} entries, one per category\n")
 
     class_index = build_class_index(docs)
+    counts = collections.Counter(d.get("category", "") for d in selection)
+    for d in selection:
+        srcs = [s.strip() for s in (d.get("source") or [])]
+        d["__source__"] = next((s for s in srcs if s.lower() in BOOK_ABBR),
+                               srcs[0] if srcs else "")
+
     diags, per_folder, seen_paths = [], {}, {}
     disambiguated = 0
+    pages: dict[Path, tuple[str, list[dict]]] = {}
+
     for d in selection:
-        text, diag = parse_entry(d)
-        path = destination(d, args.out, class_index)
+        entry, diag = parse_entry(d)
+        path, page_stem = destination(d, args.out, class_index, counts)
+
+        if page_stem:
+            # Section of a consolidated page; written once all entries are in.
+            pages.setdefault(path, (page_stem, []))[1].append(entry)
+            per_folder.setdefault(path.relative_to(args.out).parts[0], 0)
+            diag["path"] = f"{path.relative_to(args.out)}#{entry['name']}"
+            diags.append(diag)
+            continue
+
+        text = render_standalone(entry)
         if path in seen_paths:
             # Names are not unique across the compendium: hundreds of
             # item-granted actions are called "Cast a Spell" or just
@@ -525,9 +823,27 @@ def main() -> int:
             print(f"  {diag['category']:18} {d['name'][:30]:32} "
                   f"traits={diag['traits']:2d} meta={diag['meta']:2d} body={diag['body_chars']:5d}{w}")
 
+    sharded = 0
+    for path, (category, entries) in pages.items():
+        path.parent.mkdir(parents=True, exist_ok=True)
+        for out_path, chunk in split_oversized(path, entries):
+            out_path.write_text(
+                normalise_newlines(render_page(category, chunk, out_path.stem)),
+                encoding="utf-8")
+            folder = out_path.parent.relative_to(args.out).parts[0]
+            per_folder[folder] = per_folder.get(folder, 0) + 1
+            sharded += 1
+    if sharded > len(pages):
+        print(f"  ({sharded - len(pages)} oversized pages split into alphabetical parts)")
+
+    written = len(seen_paths) + len(pages)
     args.out.mkdir(parents=True, exist_ok=True)
     (args.out / "_diagnostics.json").write_text(json.dumps(diags, indent=1), encoding="utf-8")
-    print(f"\nWrote {len(selection)} files to {args.out}")
+    if pages:
+        folded = sum(len(e) for _, e in pages.values())
+        print(f"\nConsolidated {folded} entries into {len(pages)} pages "
+              f"(saved {folded - len(pages)} files)")
+    print(f"Wrote {written} files to {args.out}")
     for f, n in sorted(per_folder.items(), key=lambda x: -x[1]):
         print(f"  {n:6d}  {f}")
     if disambiguated:

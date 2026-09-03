@@ -9,17 +9,17 @@ tags:
 aliases: ["Hellknight Signifer Dedication"]
 ---
 # Hellknight Signifer Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: spellcasting class feature, [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md), lawful alignment, member of a Hellknight order, passed the Hellknight Test
+- **Prerequisites**: spellcasting class feature, [Hellknight Armiger Dedication](hellknight-armiger-dedication-lowg.md), lawful alignment, member of a Hellknight order, passed the Hellknight Test
 
-You have bolstered your force of will with the power of the Measure and the Chain. Upon initiation, you receive a signifer mask, often devoid of eyeholes or other decorative features. The mask doesn't obscure your vision, though it makes it impossible for others to see your eyes. While wearing your signifer's mask, you gain +1 circumstance bonus to [Deception](compendium/skills.md#Deception) checks to [Lie](rules/actions/lie.md), [Intimidation](compendium/skills.md#Intimidation) checks, and [Deception](compendium/skills.md#Deception) DCs against [Sense Motive](rules/actions/sense-motive.md). You gain expert proficiency in [Intimidation](compendium/skills.md#Intimidation) (or in another skill in which you're trained of your choice, if you were already an expert in [Intimidation](compendium/skills.md#Intimidation)) as well as in your choice of [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion).
+You have bolstered your force of will with the power of the Measure and the Chain. Upon initiation, you receive a signifer mask, often devoid of eyeholes or other decorative features. The mask doesn't obscure your vision, though it makes it impossible for others to see your eyes. While wearing your signifer's mask, you gain +1 circumstance bonus to [Deception](skills.md#Deception) checks to [Lie](archive/srd/pf2e/rules/actions/lie.md), [Intimidation](skills.md#Intimidation) checks, and [Deception](skills.md#Deception) DCs against [Sense Motive](archive/srd/pf2e/rules/actions/sense-motive.md). You gain expert proficiency in [Intimidation](skills.md#Intimidation) (or in another skill in which you're trained of your choice, if you were already an expert in [Intimidation](skills.md#Intimidation)) as well as in your choice of [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion).
 
 **Special.** You cannot select another dedication feat until you have gained two other feats from the Hellknight signifer or Hellknight armiger archetypes.
 
 ## Hellknight Signifer Dedication leads to...
 
-[Advanced Order Training](compendium/feats/advanced-order-training-locg.md), [Gaze Of Veracity](compendium/feats/gaze-of-veracity-locg.md), [Hellknight Order Cross-training](compendium/feats/hellknight-order-cross-training-locg.md), [Masked Casting](compendium/feats/masked-casting-locg.md), [Signifer Armor Expertise](compendium/feats/signifer-armor-expertise-locg.md), [Signifer's Sight](compendium/feats/signifers-sight-locg.md)
+[Advanced Order Training](advanced-order-training-locg.md), [Gaze Of Veracity](gaze-of-veracity-locg.md), [Hellknight Order Cross-training](hellknight-order-cross-training-locg.md), [Masked Casting](masked-casting-locg.md), [Signifer Armor Expertise](signifer-armor-expertise-locg.md), [Signifer's Sight](signifers-sight-locg.md)
 
 ## Summary
 

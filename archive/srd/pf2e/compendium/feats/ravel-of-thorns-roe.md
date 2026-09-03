@@ -11,8 +11,8 @@ tags:
 - trait/wood
 aliases: ["Ravel of Thorns"]
 ---
-# Ravel of Thorns  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [wood](rules/traits/wood-roe.md "Wood Energy & Element Trait")  
+# Ravel of Thorns  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  [wood](wood-roe.md "Wood Energy & Element Trait")  
 
 - **Activity** Single Action
 

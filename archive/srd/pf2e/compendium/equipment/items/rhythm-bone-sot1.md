@@ -10,7 +10,7 @@ tags:
 aliases: ["Rhythm Bone"]
 ---
 # Rhythm Bone *Item 1*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -45,7 +45,7 @@ The bone replays its recorded sounds.
 - **Price**: 64 gp
 - **Craft Requirements**: Supply a casting of ghost sound.
 
-The magical bone records the next 10 minutes of ambient sounds that require a DC 20 or lower [Perception](compendium/skills.md#Perception) check to hear.
+The magical bone records the next 10 minutes of ambient sounds that require a DC 20 or lower [Perception](skills.md#Perception) check to hear.
 
 ---
 *Source: Strength of Thousands #1: Kindled Magic p. 76*

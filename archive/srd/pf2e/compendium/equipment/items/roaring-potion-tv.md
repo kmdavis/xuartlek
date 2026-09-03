@@ -12,10 +12,10 @@ tags:
 aliases: ["Roaring Potion"]
 ---
 # Roaring Potion *Item 8+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [potion](archive/srd/pf2e/rules/traits/potion.md "Potion Item Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Ripples move constantly through a roaring potion, a cloudy liquid that growls when you open its container. Drinking it gives you access to two other activations for 1 hour.
 
@@ -52,13 +52,13 @@ title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Price**: 550 gp
 
-You gain the effects of a 5th-level [bullhorn](compendium/spells/bullhorn-som.md) spell. The damage is `6d4` and the save DC is 30.
+You gain the effects of a 5th-level [bullhorn](bullhorn-som.md) spell. The damage is `6d4` and the save DC is 30.
 
 #### greater *Item 18*
 
 - **Price**: 3600 gp
 
-You gain the effects of a 7th-level [bullhorn](compendium/spells/bullhorn-som.md) spell. The damage is `10d4` and the save DC is 38.
+You gain the effects of a 7th-level [bullhorn](bullhorn-som.md) spell. The damage is `10d4` and the save DC is 38.
 
 ---
 *Source: Treasure Vault p. 90*

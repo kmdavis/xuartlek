@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Breakthrough"]
 ---
 # Advanced Breakthrough  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Breakthrough](compendium/feats/basic-breakthrough-g-g.md)
+- **Prerequisites**: [Basic Breakthrough](basic-breakthrough-g-g.md)
 
 You gain one inventor feat. For the purpose of meeting its prerequisites, your inventor level is equal to half your character level.
 

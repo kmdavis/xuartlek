@@ -17,4 +17,4 @@ You transferred to the Edgewatch after your cover was unexpectedly blown and you
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Deception](compendium/skills.md#Deception) skill, [Art Lore](compendium/skills.md#Lore), and [Underworld Lore](compendium/skills.md#Lore). You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to interact with Lotus Guards and high-ranking criminals like guild masters, gang leaders, and mob bosses. You gain the [Charming Liar](compendium/feats/charming-liar.md) skill feat.
+You're trained in the [Deception](skills.md#Deception) skill, [Art Lore](skills.md#Lore), and [Underworld Lore](skills.md#Lore). You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to interact with Lotus Guards and high-ranking criminals like guild masters, gang leaders, and mob bosses. You gain the [Charming Liar](archive/srd/pf2e/compendium/feats/charming-liar.md) skill feat.

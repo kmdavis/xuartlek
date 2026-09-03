@@ -11,11 +11,11 @@ tags:
 aliases: ["Dragon Turtle Scale"]
 ---
 # Dragon Turtle Scale *Item 4*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 13 gp
 - **Bulk** —; **Usage** affixed to armor
-- **Activate** envision; **Requirements** You're an expert in [Athletics](compendium/skills.md#Athletics).
+- **Activate** envision; **Requirements** You're an expert in [Athletics](skills.md#Athletics).
 
 This shimmering green scale is usually attached to a golden clasp or chain. When you activate the scale, for 1 minute you gain a swim Speed equal to half your land Speed.
 

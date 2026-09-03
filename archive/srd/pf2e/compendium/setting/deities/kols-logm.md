@@ -26,11 +26,11 @@ aliases: ["Kols", "Oath-Keeper"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [light hammer](compendium/equipment/items/light-hammer.md)
-- **Domains**: [duty](compendium/setting/domains.md#Duty), [knowledge](compendium/setting/domains.md#Knowledge), [might](compendium/setting/domains.md#Might), [truth](compendium/setting/domains.md#Truth)
-- **Cleric Spells**: 1st: [unseen servant](compendium/spells/unseen-servant.md); 4th: [suggestion](compendium/spells/suggestion.md); 8th: [unrelenting observation](compendium/spells/unrelenting-observation.md)
+- **Favored Weapon**: [light hammer](archive/srd/pf2e/compendium/equipment/items/light-hammer.md)
+- **Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [unseen servant](unseen-servant.md); 4th: [suggestion](archive/srd/pf2e/compendium/spells/suggestion.md); 8th: [unrelenting observation](archive/srd/pf2e/compendium/spells/unrelenting-observation.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Kols

@@ -11,10 +11,10 @@ tags:
 aliases: ["Zone Of Truth"]
 ---
 # Zone Of Truth *Spell 3*   
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Area**: 20-foot burst
 - **Saving Throw**: Will
@@ -24,8 +24,8 @@ You designate an area in which creatures are compelled to speak only truth. Crea
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target takes a –2 status penalty to [Deception](compendium/skills.md#Deception) checks.
-> - **Failure** The target can't speak any deliberate and intentional lies, and it takes a –2 status penalty to [Deception](compendium/skills.md#Deception) checks.
-> - **Critical Failure** The target can't speak any deliberate and intentional lies and takes a –4 status penalty to [Deception](compendium/skills.md#Deception) checks.
+> - **Success** The target takes a –2 status penalty to [Deception](skills.md#Deception) checks.
+> - **Failure** The target can't speak any deliberate and intentional lies, and it takes a –2 status penalty to [Deception](skills.md#Deception) checks.
+> - **Critical Failure** The target can't speak any deliberate and intentional lies and takes a –4 status penalty to [Deception](skills.md#Deception) checks.
 
 *Source: Core Rulebook p. 385*

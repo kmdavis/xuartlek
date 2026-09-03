@@ -9,15 +9,15 @@ tags:
 aliases: ["Synchronize Steps"]
 ---
 # Synchronize Steps *Spell 1*   
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 2 willing creatures
 - **Duration**: sustained up to 1 minute
 
-You link the minds of two targets, enabling them to move in tandem. When one of the targets Steps, the other target can use a reaction to [Step](rules/actions/step.md). When one of the targets Strides, the other target can use a reaction to [Stride](rules/actions/stride.md).
+You link the minds of two targets, enabling them to move in tandem. When one of the targets Steps, the other target can use a reaction to [Step](archive/srd/pf2e/rules/actions/step.md). When one of the targets Strides, the other target can use a reaction to [Stride](archive/srd/pf2e/rules/actions/stride.md).
 
 **Heightened (5th)** The range increases to 60 feet, and you can target up to 10 willing creatures.
 

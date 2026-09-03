@@ -9,14 +9,14 @@ tags:
 aliases: ["Blast Tumbler"]
 ---
 # Blast Tumbler *Hazard 10*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 32 master  
 
 A hard-to-reach rune is placed on the lock's tumbler. It emits a blast of force when the door is jostled.
 
-- **Disable** DC 32 [Thievery](compendium/skills.md#Thievery) (master) to disarm the rune, or dispel magic (5th level; counteract DC 28) to counteract the rune's magic.  
+- **Disable** DC 32 [Thievery](skills.md#Thievery) (master) to disarm the rune, or dispel magic (5th level; counteract DC 28) to counteract the rune's magic.  
 
 ```ad-embed-ability
 title: **Force Blast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([evocation](rules/traits/evocation.md), [force](rules/traits/force.md), [occult](rules/traits/occult.md))

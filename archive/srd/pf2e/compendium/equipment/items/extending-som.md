@@ -9,7 +9,7 @@ tags:
 aliases: ["Extending"]
 ---
 # Extending *Item 9+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Usage** etched onto a melee weapon
 
@@ -34,7 +34,7 @@ You extend your weapon for an instant, giving you an impossible reach. You [Stri
 
 - **Price**: 3000 gp
 
-The activation grants you reach <120 feet> for the [Strike](rules/actions/strike.md).
+The activation grants you reach <120 feet> for the [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 ---
 *Source: Secrets of Magic p. 184*

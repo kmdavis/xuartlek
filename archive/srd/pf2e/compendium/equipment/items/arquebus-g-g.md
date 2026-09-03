@@ -11,7 +11,7 @@ tags:
 aliases: ["Arquebus"]
 ---
 # Arquebus *Item 0*  
-[concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [fatal <d12>](rules/traits/fatal-d12.md "Fatal Weapon Trait")  [kickback](rules/traits/kickback-g-g.md "Kickback Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concussive](concussive-g-g.md "Concussive Weapon Trait")  [fatal <d12>](rules/traits/fatal-d12.md "Fatal Weapon Trait")  [kickback](kickback-g-g.md "Kickback Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 10 gp

@@ -12,16 +12,16 @@ tags:
 aliases: ["Nature's Bounty"]
 ---
 # Nature's Bounty *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [positive](positive.md "Positive Energy & Element Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [nature](compendium/setting/domains.md#Nature)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Domains** [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Requirements**: You have a free hand.
 - 
 
 A palm-sized raw fruit or vegetable appears in your open hand.
 
-You choose the specific type of food. A creature can consume the food with an [Interact](rules/actions/interact.md) action to regain `3d10+12` Hit Points and be nourished as if it had eaten a meal. If uneaten, the food rots and crumbles to dust after 1 minute.
+You choose the specific type of food. A creature can consume the food with an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to regain `3d10+12` Hit Points and be nourished as if it had eaten a meal. If uneaten, the food rots and crumbles to dust after 1 minute.
 
 **Heightened (+ 1)** The Hit Points restored increase by 6.
 

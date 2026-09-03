@@ -7,9 +7,9 @@ tags:
 aliases: ["Eclectic Polymath"]
 ---
 # Eclectic Polymath  *Feat 12*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
-- **Prerequisites**: [Esoteric Polymath](compendium/feats/esoteric-polymath.md)
+- **Prerequisites**: [Esoteric Polymath](archive/srd/pf2e/compendium/feats/esoteric-polymath.md)
 
 Your flexible mind can quickly shift spells. If you add a spell to your repertoire during your daily preparations using Esoteric Polymath, when you prepare again, you can choose to keep the new spell from Esoteric Polymath in your repertoire and instead lose access to another spell of the same level in your repertoire.
 

@@ -9,14 +9,14 @@ tags:
 aliases: ["Living Paints"]
 ---
 # Living Paints *Hazard 19*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 41 (Master)  
 
 A mass of brushes use magical paint to convert creatures into art.
 
-- **Disable** DC 41 [Crafting](compendium/skills.md#Crafting) (master) to mix the paints into bland, useless colors, DC 46 [Thievery](compendium/skills.md#Thievery) (legendary) to dismantle the animated brushes, or dispel magic (8th level; counteract DC 41) to counteract the magic within the paint.  
+- **Disable** DC 41 [Crafting](skills.md#Crafting) (master) to mix the paints into bland, useless colors, DC 46 [Thievery](skills.md#Thievery) (legendary) to dismantle the animated brushes, or dispel magic (8th level; counteract DC 41) to counteract the magic within the paint.  
 
 ```ad-embed-ability
 title: **Capture Subject** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [transmutation](rules/traits/transmutation.md))

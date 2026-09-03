@@ -8,8 +8,8 @@ tags:
 - trait/talos
 aliases: ["Metallic Skin"]
 ---
-# Metallic Skin  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 17*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  talos  
+# Metallic Skin  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 17*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  talos  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

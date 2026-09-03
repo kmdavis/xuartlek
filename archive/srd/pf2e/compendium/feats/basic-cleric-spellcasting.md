@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Cleric Spellcasting"]
 ---
 # Basic Cleric Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Cleric Dedication](compendium/feats/cleric-dedication.md)
+- **Prerequisites**: [Cleric Dedication](archive/srd/pf2e/compendium/feats/cleric-dedication.md)
 
 You gain the basic spellcasting benefits. You can prepare your deity's spells in your spell slots of the appropriate level from the cleric archetype.
 
 ## Basic Cleric Spellcasting leads to...
 
-[Divine Breadth](compendium/feats/divine-breadth.md), [Expert Cleric Spellcasting](compendium/feats/expert-cleric-spellcasting.md), [Master Cleric Spellcasting](compendium/feats/master-cleric-spellcasting.md)
+[Divine Breadth](archive/srd/pf2e/compendium/feats/divine-breadth.md), [Expert Cleric Spellcasting](archive/srd/pf2e/compendium/feats/expert-cleric-spellcasting.md), [Master Cleric Spellcasting](archive/srd/pf2e/compendium/feats/master-cleric-spellcasting.md)
 
 ## Summary
 

@@ -7,9 +7,9 @@ tags:
 aliases: ["Master Oracle Spellcasting"]
 ---
 # Master Oracle Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Expert Oracle Spellcasting](compendium/feats/expert-oracle-spellcasting-apg.md), legendary in [Religion](compendium/skills.md#Religion)
+- **Prerequisites**: [Expert Oracle Spellcasting](expert-oracle-spellcasting-apg.md), legendary in [Religion](skills.md#Religion)
 
 You gain the master spellcasting benefits.
 

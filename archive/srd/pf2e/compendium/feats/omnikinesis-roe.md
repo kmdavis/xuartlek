@@ -6,8 +6,8 @@ tags:
 - trait/kineticist
 aliases: ["Omnikinesis"]
 ---
-# Omnikinesis  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
-[kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  
+# Omnikinesis  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
+[kineticist](kineticist-roe.md "Kineticist Class Trait")  
 
 - **Prerequisites**: reflow elements
 - **Activity** Single Action

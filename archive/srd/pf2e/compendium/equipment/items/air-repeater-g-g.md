@@ -10,7 +10,7 @@ tags:
 aliases: ["Air Repeater"]
 ---
 # Air Repeater *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [repeating](rules/traits/repeating-g-g.md "Repeating Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [repeating](repeating-g-g.md "Repeating Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 5 gp
@@ -20,7 +20,7 @@ aliases: ["Air Repeater"]
 - **Hands** 1
 - **Category** Simple; **Group** Firearm 
 
-A thin-barreled firearm that uses a container of pressurized air instead of black powder to propel small metal bullets from an attached cartridge, the air repeater has fallen out of common use in Arcadia due to its poor stopping power, though it's still used occasionally for casual hunting and sport shooting. The air repeater and its [longer-ranged, two-handed variant](compendium/equipment/items/long-air-repeater-g-g.md) are still valued by some for their ability to allow a shooter to fire multiple rounds without needing to stop to reload or crank to a new chamber. A typical air repeater magazine holds 6 pellets.
+A thin-barreled firearm that uses a container of pressurized air instead of black powder to propel small metal bullets from an attached cartridge, the air repeater has fallen out of common use in Arcadia due to its poor stopping power, though it's still used occasionally for casual hunting and sport shooting. The air repeater and its [longer-ranged, two-handed variant](long-air-repeater-g-g.md) are still valued by some for their ability to allow a shooter to fire multiple rounds without needing to stop to reload or crank to a new chamber. A typical air repeater magazine holds 6 pellets.
 
 
 ---

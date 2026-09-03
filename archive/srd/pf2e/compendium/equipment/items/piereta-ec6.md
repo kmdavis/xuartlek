@@ -11,15 +11,15 @@ tags:
 aliases: ["Piereta"]
 ---
 # Piereta *Item 20*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
-Piereta was a Knight of Ozem during the Shining Crusade, sworn to the service of Aroden's herald, [Arazni](compendium/setting/deities/arazni-logm.md). After [Arazni](compendium/setting/deities/arazni-logm.md) perished at the hands of the Whispering Tyrant, Piereta became the first paladin to swear her service to the newly ascended goddess, [Iomedae](compendium/setting/deities/iomedae.md). When she fell in battle, a fragment of her spirit clung to the sword through which she had wielded her faith in countless battles, granting the weapon a sentience of its own. The sword named herself after her fallen bearer and has been a faithful companion to many Iomedaean warriors since.
+Piereta was a Knight of Ozem during the Shining Crusade, sworn to the service of Aroden's herald, [Arazni](arazni-logm.md). After [Arazni](arazni-logm.md) perished at the hands of the Whispering Tyrant, Piereta became the first paladin to swear her service to the newly ascended goddess, [Iomedae](iomedae.md). When she fell in battle, a fragment of her spirit clung to the sword through which she had wielded her faith in countless battles, granting the weapon a sentience of its own. The sword named herself after her fallen bearer and has been a faithful companion to many Iomedaean warriors since.
 
-Piereta is a rapier devoted to the principles of [Iomedae](compendium/setting/deities/iomedae.md) as an exemplar of valorous action and as a protector of the innocent.
+Piereta is a rapier devoted to the principles of [Iomedae](iomedae.md) as an exemplar of valorous action and as a protector of the innocent.
 
-Piereta is very particular about who she permits to wield her. She agrees to work with you if you are a follower of [Iomedae](compendium/setting/deities/iomedae.md), or if you are lawful good or neutral good and worship a different good deity. Otherwise, you must convince Piereta of the rightness of your cause. If Piereta doesn't want you to wield her, once per minute she can attempt to force you to put her down (DC 42 Will save to resist this command). Even if you succeed at this saving throw, Piereta refuses to apply any of her fundamental or property runes and gives you a –2 penalty on attack rolls with Piereta or any other weapon until you drop her.
+Piereta is very particular about who she permits to wield her. She agrees to work with you if you are a follower of [Iomedae](iomedae.md), or if you are lawful good or neutral good and worship a different good deity. Otherwise, you must convince Piereta of the rightness of your cause. If Piereta doesn't want you to wield her, once per minute she can attempt to force you to put her down (DC 42 Will save to resist this command). Even if you succeed at this saving throw, Piereta refuses to apply any of her fundamental or property runes and gives you a –2 penalty on attack rolls with Piereta or any other weapon until you drop her.
 
 Piereta can use the following activations.
 

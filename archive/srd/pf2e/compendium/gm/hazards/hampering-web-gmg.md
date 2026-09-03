@@ -7,14 +7,14 @@ tags:
 aliases: ["Hampering Web"]
 ---
 # Hampering Web *Hazard 1*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 expert  
 
 Semitransparent sheets of webbing span the entryway, ready to capture small insects or hamper larger creatures that pass through.
 
-- **Disable** DC 17 [Survival](compendium/skills.md#Survival) (trained) to dislodge it  
+- **Disable** DC 17 [Survival](skills.md#Survival) (trained) to dislodge it  
 
 - **AC** 19, **Fort** +10, **Ref** +11
 - **HP** 26 (BT 13)

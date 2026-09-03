@@ -12,7 +12,7 @@ tags:
 aliases: ["Umbrella Injector"]
 ---
 # Umbrella Injector *Item 0*  
-[concealable](rules/traits/concealable-g-g.md "Concealable Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [injection](rules/traits/injection-g-g.md "Injection Weapon Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concealable](concealable-g-g.md "Concealable Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [injection](injection-g-g.md "Injection Weapon Trait")  [parry](archive/srd/pf2e/rules/traits/parry.md "Parry Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4 gp
 - **Bulk** 1

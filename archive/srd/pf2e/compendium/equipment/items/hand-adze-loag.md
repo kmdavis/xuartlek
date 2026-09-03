@@ -12,7 +12,7 @@ tags:
 aliases: ["Hand Adze"]
 ---
 # Hand Adze *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [thrown <10 ft.>](rules/traits/thrown-10-ft.md "Thrown Weapon Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [forceful](archive/srd/pf2e/rules/traits/forceful.md "Forceful Weapon Trait")  [grippli](grippli-b2.md "Grippli Ancestry & Heritage Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [thrown <10 ft.>](rules/traits/thrown-10-ft.md "Thrown Weapon Trait")  
 
 - **Price** 5 sp
 - **Bulk** L
@@ -20,7 +20,7 @@ aliases: ["Hand Adze"]
 - **Hands** 1
 - **Category** Martial; **Group** Axe 
 
-This is a smaller version of an [adze](compendium/equipment/items/adze-loag.md), useful for more delicate woodworking or projects in cramped spaces. Gripplis use the hand adze for crafting and as close quarters weapons.
+This is a smaller version of an [adze](adze-loag.md), useful for more delicate woodworking or projects in cramped spaces. Gripplis use the hand adze for crafting and as close quarters weapons.
 
 
 ---

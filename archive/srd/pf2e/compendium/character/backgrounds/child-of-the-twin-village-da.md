@@ -15,4 +15,4 @@ You were born in a village where everyone has a twin with a special link. You ha
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in [Diplomacy](compendium/skills.md#Diplomacy) and [Dreamlands Lore](compendium/skills.md#Lore). You gain the ability to communicate with your twin in your dreams. You and your twin gain the effects of [dream message](compendium/spells/dream-message.md) every night, only between the two of you; this isn't a spell, but a natural effect. Unless your twin is another PC, your GM roleplays your twin or summarizes your interaction during these dreams.
+You're trained in [Diplomacy](skills.md#Diplomacy) and [Dreamlands Lore](skills.md#Lore). You gain the ability to communicate with your twin in your dreams. You and your twin gain the effects of [dream message](archive/srd/pf2e/compendium/spells/dream-message.md) every night, only between the two of you; this isn't a spell, but a natural effect. Unless your twin is another PC, your GM roleplays your twin or summarizes your interaction during these dreams.

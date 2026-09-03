@@ -8,7 +8,7 @@ tags:
 aliases: ["Homeward Bound"]
 ---
 # Homeward Bound  *Feat 17*  
-[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[gnome](archive/srd/pf2e/rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Frequency**: twice per week
 

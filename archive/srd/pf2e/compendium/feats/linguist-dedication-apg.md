@@ -8,17 +8,17 @@ tags:
 aliases: ["Linguist Dedication"]
 ---
 # Linguist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: You speak at least three languages.
 
-You have studied languages and their development. You become trained in [Society](compendium/skills.md#Society); if you were already trained in [Society](compendium/skills.md#Society), you instead become an expert in [Society](compendium/skills.md#Society). You gain the [Multilingual](compendium/feats/multilingual.md) skill feat twice.
+You have studied languages and their development. You become trained in [Society](skills.md#Society); if you were already trained in [Society](skills.md#Society), you instead become an expert in [Society](skills.md#Society). You gain the [Multilingual](archive/srd/pf2e/compendium/feats/multilingual.md) skill feat twice.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the linguist archetype.
 
 ## Linguist Dedication leads to...
 
-[Analyze Idiolect](compendium/feats/analyze-idiolect-apg.md), [Crude Communication](compendium/feats/crude-communication-apg.md), [Multilingual Cipher](compendium/feats/multilingual-cipher-apg.md), [Phonetic Training](compendium/feats/phonetic-training-apg.md), [Read Shibboleths](compendium/feats/read-shibboleths-apg.md), [Spot Translate](compendium/feats/spot-translate-apg.md)
+[Analyze Idiolect](analyze-idiolect-apg.md), [Crude Communication](crude-communication-apg.md), [Multilingual Cipher](multilingual-cipher-apg.md), [Phonetic Training](phonetic-training-apg.md), [Read Shibboleths](read-shibboleths-apg.md), [Spot Translate](spot-translate-apg.md)
 
 ## Summary
 

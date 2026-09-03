@@ -7,10 +7,10 @@ tags:
 aliases: ["Secret Eyes"]
 ---
 # Secret Eyes  *Feat 13*  
-[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
+[shisk](shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 
-You can call forth an [invisible](rules/conditions.md#Invisible) eye to let you peek on secrets. Once per day, you can cast [prying eye](compendium/spells/prying-eye.md) as an innate occult spell.
+You can call forth an [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) eye to let you peek on secrets. Once per day, you can cast [prying eye](prying-eye.md) as an innate occult spell.
 
 *Source: Lost Omens: The Mwangi Expanse p. 126*  
 %% #compendium/src/pf2e/lome #trait/shisk %%

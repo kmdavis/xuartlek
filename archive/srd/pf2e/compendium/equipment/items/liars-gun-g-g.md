@@ -10,7 +10,7 @@ tags:
 aliases: ["Liar's Gun"]
 ---
 # Liar's Gun *Item 7*  
-[cobbled](rules/traits/cobbled-g-g.md "Cobbled Weapon Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cobbled](cobbled-g-g.md "Cobbled Weapon Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 360 gp
 - **Bulk** L; **Usage** held in 1 hand

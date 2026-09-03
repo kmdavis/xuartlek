@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Wilding"]
 ---
 # Advanced Wilding  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Wilding](compendium/feats/basic-wilding.md)
+- **Prerequisites**: [Basic Wilding](archive/srd/pf2e/compendium/feats/basic-wilding.md)
 
 You gain one druid feat. For the purpose of meeting its prerequisites, your druid level is equal to half your character level.
 

@@ -15,4 +15,4 @@ Your or one of your ancestors hails from Irrisen, and some spark of the icy regi
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [Arcana](compendium/skills.md#Arcana) skill and the [Weather Lore](compendium/skills.md#Lore) skill. You gain the [Arcane Sense](compendium/feats/arcane-sense.md) skill feat.
+You're trained in the [Arcana](skills.md#Arcana) skill and the [Weather Lore](skills.md#Lore) skill. You gain the [Arcane Sense](archive/srd/pf2e/compendium/feats/arcane-sense.md) skill feat.

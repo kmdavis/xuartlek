@@ -7,7 +7,7 @@ tags:
 aliases: ["Consume Spell"]
 ---
 # Consume Spell  *Feat 14*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: Counterspell
 

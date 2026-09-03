@@ -15,4 +15,4 @@ While others choose to use their engineering ability to heal the injured or make
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Gladiatorial Lore](compendium/skills.md#Lore) skill. You gain the [Experienced Professional](compendium/feats/experienced-professional.md) skill feat.
+You're trained in the [Crafting](skills.md#Crafting) skill and the [Gladiatorial Lore](skills.md#Lore) skill. You gain the [Experienced Professional](archive/srd/pf2e/compendium/feats/experienced-professional.md) skill feat.

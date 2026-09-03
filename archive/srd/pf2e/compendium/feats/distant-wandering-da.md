@@ -9,14 +9,14 @@ tags:
 - trait/rare
 aliases: ["Distant Wandering"]
 ---
-# Distant Wandering  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[deviant](rules/traits/deviant-da.md "Deviant Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+# Distant Wandering  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[deviant](deviant-da.md "Deviant Action & Ability Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Activity** Single Action
 
-Your body falls [unconscious](rules/conditions.md#Unconscious) and your spirit projects out of it.
+Your body falls [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious) and your spirit projects out of it.
 
-While in spirit form, you can't consciously move your body, and you are [invisible](rules/conditions.md#Invisible) and inaudible, though a creature still might notice the signs of your presence and passing, just like for an [invisible](rules/conditions.md#Invisible) creature affected by silence, or a prying eye. You can freely move about, though you can't touch or move anything, cast spells, attack, or otherwise affect anything around you.
+While in spirit form, you can't consciously move your body, and you are [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) and inaudible, though a creature still might notice the signs of your presence and passing, just like for an [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) creature affected by silence, or a prying eye. You can freely move about, though you can't touch or move anything, cast spells, attack, or otherwise affect anything around you.
 
 Despite your ghostly form, you are not incorporeal and can't pass through barriers you couldn't in your body. Most effects can't harm your spirit form, though some spells, like spirit blast and spirit song, explicitly damage a creature's spirit.
 
@@ -24,7 +24,7 @@ You can return to your body as a free action. If you are in spirit form at the b
 
 **Awakening** Your spirit moves at the speed of thought. You gain a fly Speed and a +20-foot status bonus to your Speed while in spirit form.
 
-**Awakening** Time seems to pass more slowly while you are projecting your spirit, letting you notice things around you. When you enter spirit form, you can [Recall Knowledge](rules/actions/recall-knowledge.md) or [Seek](rules/actions/seek.md). You are [quickened](rules/conditions.md#Quickened) while in spirit form and can use the extra action only to [Recall Knowledge](rules/actions/recall-knowledge.md) or [Seek](rules/actions/seek.md).
+**Awakening** Time seems to pass more slowly while you are projecting your spirit, letting you notice things around you. When you enter spirit form, you can [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) or [Seek](archive/srd/pf2e/rules/actions/seek.md). You are [quickened](archive/srd/pf2e/rules/conditions.md#Quickened) while in spirit form and can use the extra action only to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) or [Seek](archive/srd/pf2e/rules/actions/seek.md).
 
 *Source: Dark Archive p. 78*  
 %% #compendium/src/pf2e/da #trait/deviant #trait/evocation #trait/magical #trait/rare %%

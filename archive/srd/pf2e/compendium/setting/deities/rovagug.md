@@ -26,12 +26,12 @@ aliases: ["Rovagug", "Rough Beast"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [greataxe](compendium/equipment/items/greataxe.md)
-- **Domains**: [air](compendium/setting/domains.md#Air), [destruction](compendium/setting/domains.md#Destruction), [earth](compendium/setting/domains.md#Earth), [zeal](compendium/setting/domains.md#Zeal)
-- **Alternate Domains**: [swarm](compendium/setting/domains.md#Swarm), [void](compendium/setting/domains.md#Void)
-- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 2nd: [enlarge](compendium/spells/enlarge.md); 6th: [disintegrate](compendium/spells/disintegrate.md)
+- **Favored Weapon**: [greataxe](archive/srd/pf2e/compendium/equipment/items/greataxe.md)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Alternate Domains**: [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm), [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [burning hands](burning-hands.md); 2nd: [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md); 6th: [disintegrate](archive/srd/pf2e/compendium/spells/disintegrate.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Rovagug
@@ -47,10 +47,10 @@ title: [Avatar](compendium/spells/avatar.md) of Rovagug
 
 Rovagug's imprisonment means he can almost never intercede on Golarion, but some places lead far enough into the earth that the god's profane influence can leak through. He is as likely to curse those who draw his attention as he is to reward them, though great enough acts of violence and destruction may earn his favor.
 
-- **Minor Boon** Your attack becomes more destructive. Once, one of your failed or successful attacks becomes a critical hit, and your weapon or unarmed attack gains the reach d12 trait for this attack, replacing any [deadly](rules/traits/deadly.md "Deadly Weapon Trait") trait it already had. Rovagug typically grants this boon when the critical hit could destroy something precious or significant.
+- **Minor Boon** Your attack becomes more destructive. Once, one of your failed or successful attacks becomes a critical hit, and your weapon or unarmed attack gains the reach d12 trait for this attack, replacing any [deadly](archive/srd/pf2e/rules/traits/deadly.md "Deadly Weapon Trait") trait it already had. Rovagug typically grants this boon when the critical hit could destroy something precious or significant.
 - **Moderate Boon**: You can devour all. You mouth grows into a horrible circular, insectile maw of needle-like teeth. You gain a bite unarmed attack that deals `1d8` piercing damage. Additionally, you can stomach eating anything you can fit down your throat—even rocks or small objects. You gain a +4 status bonus to saves resulting from eating something, such as diseases, poisons, or other effects of the ingested object. This doesn't allow you to digest magic items that would otherwise be difficult or impossible to destroy, such as cursed items or artifacts.
-- **Major Boon**: You can crack the surface of Golaron, accelerating the release of the Rough Beast. You gain the [Quaking Stomp](compendium/feats/quaking-stomp.md) barbarian feat.
+- **Major Boon**: You can crack the surface of Golaron, accelerating the release of the Rough Beast. You gain the [Quaking Stomp](archive/srd/pf2e/compendium/feats/quaking-stomp.md) barbarian feat.
 
-- **Minor Curse**: Whenever you are imprisoned, you thrash and shake as your mind fills with desperation. Any time you are restrained or otherwise imprisoned (such as being sent to jail), you are also [clumsy](rules/conditions.md#Clumsy) and [stupefied](rules/conditions.md#Stupefied).
+- **Minor Curse**: Whenever you are imprisoned, you thrash and shake as your mind fills with desperation. Any time you are restrained or otherwise imprisoned (such as being sent to jail), you are also [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) and [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied).
 - **Moderate Curse** Your destructive rage seeks to remain unbound. Any armor you wear automatically becomes broken. Other items in your possession occasionally become broken over time.
-- **Major Curse**: You are useful only as a beacon of destruction. You are permanently [confused](rules/conditions.md#Confused), rampaging against anything and everything in your sight, and you deal an additional 18 damage with your unarmed and weapon [Strikes](rules/actions/strike.md).
+- **Major Curse**: You are useful only as a beacon of destruction. You are permanently [confused](archive/srd/pf2e/rules/conditions.md#Confused), rampaging against anything and everything in your sight, and you deal an additional 18 damage with your unarmed and weapon [Strikes](archive/srd/pf2e/rules/actions/strike.md).

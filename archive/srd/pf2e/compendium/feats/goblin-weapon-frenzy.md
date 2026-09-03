@@ -7,9 +7,9 @@ tags:
 aliases: ["Goblin Weapon Frenzy"]
 ---
 # Goblin Weapon Frenzy  *Feat 5*  
-[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
+[goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Goblin Weapon Familiarity](compendium/feats/goblin-weapon-familiarity.md)
+- **Prerequisites**: [Goblin Weapon Familiarity](archive/srd/pf2e/compendium/feats/goblin-weapon-familiarity.md)
 
 You know how to wield your people's vicious weapons. Whenever you score a critical hit using a goblin weapon, you apply the weapon's critical specialization effect.
 

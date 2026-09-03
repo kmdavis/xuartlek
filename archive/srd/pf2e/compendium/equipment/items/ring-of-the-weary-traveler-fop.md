@@ -10,7 +10,7 @@ tags:
 aliases: ["Ring Of The Weary Traveler"]
 ---
 # Ring Of The Weary Traveler *Item 5*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** worn

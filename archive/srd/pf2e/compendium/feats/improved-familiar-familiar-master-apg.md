@@ -7,9 +7,9 @@ tags:
 aliases: ["Improved Familiar (Familiar Master)"]
 ---
 # Improved Familiar (Familiar Master)  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Familiar Master Dedication](compendium/feats/familiar-master-dedication-apg.md)
+- **Prerequisites**: [Familiar Master Dedication](familiar-master-dedication-apg.md)
 
 You find it easy to attract a powerful and unusual familiar to your side. The number of abilities required to make your familiar a specific familiar (page 147) is two lower than normal.
 

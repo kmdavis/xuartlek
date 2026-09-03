@@ -6,8 +6,8 @@ tags:
 - trait/leshy
 aliases: ["Spore Cloud"]
 ---
-# Spore Cloud  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
+# Spore Cloud  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
+[leshy](leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Two-Action
@@ -16,9 +16,9 @@ You unleash a cloud of pollen or similar spores. All creatures in a 10-foot eman
 
 > [!success-degree] 
 > - **Critical Success** No effect.
-> - **Success** The creature is [dazzled](rules/conditions.md#Dazzled) for 1 round.
-> - **Failure** The creature is [dazzled](rules/conditions.md#Dazzled) and can see only 10 feet away for 1 round.
-> - **Critical Failure** The creature is [blinded](rules/conditions.md#Blinded) for 1 round.
+> - **Success** The creature is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 round.
+> - **Failure** The creature is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) and can see only 10 feet away for 1 round.
+> - **Critical Failure** The creature is [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) for 1 round.
 
 *Source: Lost Omens: Ancestry Guide p. 44*  
 %% #compendium/src/pf2e/loag #trait/leshy %%

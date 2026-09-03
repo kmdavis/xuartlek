@@ -14,13 +14,13 @@ tags:
 aliases: ["Shadewither Key"]
 ---
 # Shadewither Key *Item 22*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [cursed](cursed-gmg.md "Cursed Item Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [shadow](archive/srd/pf2e/rules/traits/shadow.md "Shadow General Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** —; **Usage** worn
 
 This palm-sized talisman hangs on a string of braided bark fibers. It resembles a leaf from some unknown tree similar to oak, carved from jade and then dipped halfway into black ink that looks wet despite feeling completely dry. The gate key was originally created to open the aiudara known as the Seventh Arch. In recent years, corrupting magic has given it additional, stranger powers.
 
-When you wear and invest the Shadewither Key, shadows gather around you. You gain a +1 item bonus to [Stealth](compendium/skills.md#Stealth) checks. However, this boon comes with great risk:
+When you wear and invest the Shadewither Key, shadows gather around you. You gain a +1 item bonus to [Stealth](skills.md#Stealth) checks. However, this boon comes with great risk:
 
 any elf who touches the Shadewither Key is immediately afflicted with the obnubilate curse (see below).
 

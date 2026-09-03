@@ -7,11 +7,11 @@ tags:
 aliases: ["Quivering Palm"]
 ---
 # Quivering Palm  *Feat 16*  
-[monk](rules/traits/monk.md "Monk Class Trait")  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: ki spells
 
-Your strikes can kill foes. You gain the [quivering palm](compendium/spells/quivering-palm.md) ki spell. Increase the number of Focus Points in your focus pool by 1.
+Your strikes can kill foes. You gain the [quivering palm](archive/srd/pf2e/compendium/spells/quivering-palm.md) ki spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Core Rulebook p. 165*  
 %% #compendium/src/pf2e/crb #trait/monk %%

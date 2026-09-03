@@ -25,14 +25,14 @@ aliases: ["Kalekot", "The Winnower"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: jaws or [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [nature](compendium/setting/domains.md#Nature), [nightmares](compendium/setting/domains.md#Nightmares), [secrecy](compendium/setting/domains.md#Secrecy)
-- **Alternate Domains**: [darkness](compendium/setting/domains.md#Darkness), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
-- **Cleric Spells**: 1st: [pass without trace](compendium/spells/pass-without-trace.md); 3rd: [paralyze](compendium/spells/paralyze.md); 4th: [phantasmal killer](compendium/spells/phantasmal-killer.md)
+- **Favored Weapon**: jaws or [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy)
+- **Alternate Domains**: [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [wyrmkin](archive/srd/pf2e/compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [pass without trace](pass-without-trace.md); 3rd: [paralyze](archive/srd/pf2e/compendium/spells/paralyze.md); 4th: [phantasmal killer](phantasmal-killer.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Kalekot gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Kalekot gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Kalekot

@@ -7,13 +7,13 @@ tags:
 aliases: ["Defy Death"]
 ---
 # Defy Death  *Feat 5*  
-[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
+[orc](archive/srd/pf2e/rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Orc Ferocity](compendium/feats/orc-ferocity.md)
+- **Prerequisites**: [Orc Ferocity](archive/srd/pf2e/compendium/feats/orc-ferocity.md)
 
-You're exceptionally difficult to kill. The DC of your recovery checks is equal to 9 + your [dying](rules/conditions.md#Dying) value, or 8 + your [dying](rules/conditions.md#Dying) value if you have the [Toughness](compendium/feats/toughness.md) general feat.
+You're exceptionally difficult to kill. The DC of your recovery checks is equal to 9 + your [dying](archive/srd/pf2e/rules/conditions.md#Dying) value, or 8 + your [dying](archive/srd/pf2e/rules/conditions.md#Dying) value if you have the [Toughness](archive/srd/pf2e/compendium/feats/toughness.md) general feat.
 
-In addition, whenever someone returns you to life using magic that would normally leave you debilitated for a week (such as [raise dead](compendium/spells/raise-dead.md) or the [resurrect](compendium/spells/rituals/resurrect.md) ritual), you don't suffer that condition.
+In addition, whenever someone returns you to life using magic that would normally leave you debilitated for a week (such as [raise dead](archive/srd/pf2e/compendium/spells/raise-dead.md) or the [resurrect](archive/srd/pf2e/compendium/spells/rituals/resurrect.md) ritual), you don't suffer that condition.
 
 *Source: Lost Omens: Ancestry Guide p. 51*  
 %% #compendium/src/pf2e/loag #trait/orc %%

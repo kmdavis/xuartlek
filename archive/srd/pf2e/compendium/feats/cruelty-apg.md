@@ -9,17 +9,17 @@ tags:
 - trait/uncommon
 aliases: ["Cruelty"]
 ---
-# Cruelty  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[champion](rules/traits/champion.md "Champion Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Cruelty  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](metamagic.md "Metamagic General Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: devotion spell ([touch of corruption](compendium/spells/touch-of-corruption-apg.md))
+- **Prerequisites**: devotion spell ([touch of corruption](touch-of-corruption-apg.md))
 - **Activity** Single Action
 
-The harm you deal with your corrupting touch saps the strength from your enemy's body. If your next action is to cast [touch of corruption](compendium/spells/touch-of-corruption-apg.md) on a living creature, the target is also [enfeebled](rules/conditions.md#Enfeebled) for 1 minute if it fails its save ([enfeebled](rules/conditions.md#Enfeebled) if it critically fails).
+The harm you deal with your corrupting touch saps the strength from your enemy's body. If your next action is to cast [touch of corruption](touch-of-corruption-apg.md) on a living creature, the target is also [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 minute if it fails its save ([enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) if it critically fails).
 
 ## Cruelty leads to...
 
-[Greater Cruelty](compendium/feats/greater-cruelty-apg.md)
+[Greater Cruelty](greater-cruelty-apg.md)
 
 ## Summary
 

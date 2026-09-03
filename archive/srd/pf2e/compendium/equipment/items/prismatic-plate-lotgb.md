@@ -11,13 +11,13 @@ tags:
 aliases: ["Prismatic Plate"]
 ---
 # Prismatic Plate *Item 17*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 14000 gp
 - **Craft Requirements** The initial raw materials must include 1,600 gp of mithral.
 - **Bulk** 1; **Usage** worn armor
 
-With its standard-grade mithral polished to a mirrorlike sheen, this +2 resilient glamered mithral breastplate features the religious symbols of the goddesses of the Prismatic Ray pantheon—[Desna](compendium/setting/deities/desna.md), [Sarenrae](compendium/setting/deities/sarenrae.md), and [Shelyn](compendium/setting/deities/shelyn.md)—surrounded by a rainbow-colored set of gems.
+With its standard-grade mithral polished to a mirrorlike sheen, this +2 resilient glamered mithral breastplate features the religious symbols of the goddesses of the Prismatic Ray pantheon—[Desna](desna.md), [Sarenrae](sarenrae.md), and [Shelyn](shelyn.md)—surrounded by a rainbow-colored set of gems.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)

@@ -8,14 +8,14 @@ tags:
 aliases: ["Stonescale Spirits"]
 ---
 # Stonescale Spirits *Hazard 2*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained  
 
 A half-dozen ghostly kobolds rise from the rubble in a howling vortex.
 
-- **Disable** DC 18 [Intimidation](compendium/skills.md#Intimidation) (trained) to frighten the spirits with a threatening display, or DC 21 [Religion](compendium/skills.md#Religion) (trained) to exorcise the spirits.  
+- **Disable** DC 18 [Intimidation](skills.md#Intimidation) (trained) to frighten the spirits with a threatening display, or DC 21 [Religion](skills.md#Religion) (trained) to exorcise the spirits.  
 
 ```ad-embed-ability
 title: **Confusing Confrontation** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [fear](rules/traits/fear.md), [mental](rules/traits/mental.md))
@@ -41,6 +41,6 @@ title: Routine
 ```
 ^routine
 
-**Reset** The haunt deactivates if there are no [frightened](rules/conditions.md#Frightened) creatures in area A7 at the start of its turn. The ghostly kobolds return to the rubble pile. The haunt can't activate again for 1 hour.  
+**Reset** The haunt deactivates if there are no [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) creatures in area A7 at the start of its turn. The ghostly kobolds return to the rubble pile. The haunt can't activate again for 1 hour.  
 
 *Source: Abomination Vaults #1: Ruins of Gauntlight p. 9*

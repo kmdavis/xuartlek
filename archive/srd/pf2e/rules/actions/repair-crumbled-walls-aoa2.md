@@ -9,9 +9,9 @@ tags:
 aliases: ["Repair Crumbled Walls"]
 ---
 # Repair Crumbled Walls
-[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
+[downtime](archive/srd/pf2e/rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Age of Ashes #2: Cult of Cinders p. 73*  
 
-- **Requirements**: [Crafting](compendium/skills.md#Crafting) (expert), Specialty Crafting (stonemasonry), or hired stonemason; organized workers
+- **Requirements**: [Crafting](skills.md#Crafting) (expert), Specialty Crafting (stonemasonry), or hired stonemason; organized workers
 
-You work to repair a collapsed wall in either the training hall (area **A8**), the Court of the Nail (area **A13**), or the records room (area **A17**). Each room's repair takes 8 days of work and a DC 20 [Crafting](compendium/skills.md#Crafting) check.
+You work to repair a collapsed wall in either the training hall (area **A8**), the Court of the Nail (area **A13**), or the records room (area **A17**). Each room's repair takes 8 days of work and a DC 20 [Crafting](skills.md#Crafting) check.

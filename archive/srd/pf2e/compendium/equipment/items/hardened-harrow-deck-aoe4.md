@@ -10,7 +10,7 @@ tags:
 aliases: ["Hardened Harrow Deck"]
 ---
 # Hardened Harrow Deck *Item 14*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 4350 gp
 - **Bulk** L; **Usage** held in 1 hand
@@ -19,7 +19,7 @@ The harrow is a traditional fortunetelling deck used by Varisian soothsayers. Th
 
 However, if even a single card is missing from the deck, the deck can't be used to perform a traditional harrow reading.
 
-As long as you carry more than half the cards in the hardened harrow deck, when you roll a success on a saving throw against a [fear](rules/traits/fear.md "Fear Effect Trait") effect, you get a critical success instead; if you already have an ability that would make a successful saving throw against a [fear](rules/traits/fear.md "Fear Effect Trait") effect a critical success, you instead gain a +1 circumstance bonus to saving throws against [fear](rules/traits/fear.md "Fear Effect Trait") effects.
+As long as you carry more than half the cards in the hardened harrow deck, when you roll a success on a saving throw against a [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effect, you get a critical success instead; if you already have an ability that would make a successful saving throw against a [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effect a critical success, you instead gain a +1 circumstance bonus to saving throws against [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effects.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command, [Interact](rules/actions/interact.md)

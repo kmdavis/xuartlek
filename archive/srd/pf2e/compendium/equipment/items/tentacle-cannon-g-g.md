@@ -10,12 +10,12 @@ tags:
 aliases: ["Tentacle Cannon"]
 ---
 # Tentacle Cannon *Item 7+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 2; **Usage** held in 2 hands
 - **Category** Beast Gun
 
-A tentacle cannon is a +1 striking weapon, built using components from squids, krakens, and sometimes even stranger tentacled creatures like alghollthu. It's a distinct type of martial firearm that deals `1d8` piercing damage. It has the [capacity <5>](rules/traits/capacity-5-tv.md "Capacity Weapon Trait"), [concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait"), and [fatal <d12>](rules/traits/fatal-d12.md "Fatal Weapon Trait") traits, a range increment of 30 feet, and [reload <2>](rules/traits/reload-2.md "Reload Weapon Trait"). The weapon itself resembles a five-barreled handheld cannon with each barrel made from a hollowed out tentacle.
+A tentacle cannon is a +1 striking weapon, built using components from squids, krakens, and sometimes even stranger tentacled creatures like alghollthu. It's a distinct type of martial firearm that deals `1d8` piercing damage. It has the [capacity <5>](rules/traits/capacity-5-tv.md "Capacity Weapon Trait"), [concussive](concussive-g-g.md "Concussive Weapon Trait"), and [fatal <d12>](rules/traits/fatal-d12.md "Fatal Weapon Trait") traits, a range increment of 30 feet, and [reload <2>](rules/traits/reload-2.md "Reload Weapon Trait"). The weapon itself resembles a five-barreled handheld cannon with each barrel made from a hollowed out tentacle.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md) ([magical](rules/traits/magical.md), [transmutation](rules/traits/transmutation.md))
@@ -59,16 +59,16 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 A greater tentacle cannon is a +2 greater striking weapon.
 
-It has a +20 bonus to [Grapple](rules/actions/grapple.md), and its ink spray DC is 30.
+It has a +20 bonus to [Grapple](archive/srd/pf2e/rules/actions/grapple.md), and its ink spray DC is 30.
 
 #### major tentacle cannon *Item 17*
 
 - **Price**: 15000 gp
-- **Craft Requirements**: The initial raw materials must include the tentacles and ink glands of a creature with a tentacle [Strike](rules/actions/strike.md) and ink.
+- **Craft Requirements**: The initial raw materials must include the tentacles and ink glands of a creature with a tentacle [Strike](archive/srd/pf2e/rules/actions/strike.md) and ink.
 
 A major tentacle cannon is a +3 greater striking weapon.
 
-It has a +27 bonus to [Grapple](rules/actions/grapple.md), and its ink spray DC is 37.
+It has a +27 bonus to [Grapple](archive/srd/pf2e/rules/actions/grapple.md), and its ink spray DC is 37.
 
 ---
 *Source: Guns & Gears p. 156*

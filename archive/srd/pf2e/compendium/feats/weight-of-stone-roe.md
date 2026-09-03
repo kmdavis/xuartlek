@@ -10,8 +10,8 @@ tags:
 - trait/primal
 aliases: ["Weight of Stone"]
 ---
-# Weight of Stone  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 6*  
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Weight of Stone  [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 6*  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [overflow](overflow-roe.md "Overflow Action & Ability Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Three-Action
 
@@ -20,7 +20,7 @@ A packed cloud of thundering boulders descends from the sky, beating down everyo
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and is pushed downward 40 feet without taking falling damage. If it reaches the bottom of the cylinder or the ground, the push ends. If the creature is pushed to the ground, it can't [Fly](rules/actions/fly.md), levitate, or otherwise leave the ground for 1 round.
+> - **Failure** The creature takes full damage and is pushed downward 40 feet without taking falling damage. If it reaches the bottom of the cylinder or the ground, the push ends. If the creature is pushed to the ground, it can't [Fly](archive/srd/pf2e/rules/actions/fly.md), levitate, or otherwise leave the ground for 1 round.
 > - **Critical Failure** As failure, but double damage and the distance the creature is pushed is 80 feet.
 
 *Source: Rage of Elements p. 26*  

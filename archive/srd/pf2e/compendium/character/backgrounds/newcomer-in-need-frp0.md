@@ -19,4 +19,4 @@ The tough circumstances of your upbringing in one of Goka's more downtrodden nei
 
 Choose two ability boosts. One must be to Constitution or Dexterity, and one is a free ability boost.
 
-You're trained in [Society](compendium/skills.md#Society) and the [Goka Lore](compendium/skills.md#Lore) skill. You gain the [Streetwise](compendium/feats/streetwise.md) skill feat.
+You're trained in [Society](skills.md#Society) and the [Goka Lore](skills.md#Lore) skill. You gain the [Streetwise](archive/srd/pf2e/compendium/feats/streetwise.md) skill feat.

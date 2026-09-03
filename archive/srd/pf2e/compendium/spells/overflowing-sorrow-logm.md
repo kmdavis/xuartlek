@@ -12,10 +12,10 @@ tags:
 aliases: ["Overflowing Sorrow"]
 ---
 # Overflowing Sorrow *Focus 4*   
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Domains** [sorrow](compendium/setting/domains.md#Sorrow)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot emanation, centered on you
 - **Saving Throw**: Will
 - **Duration**: sustained up to 1 minute
@@ -24,10 +24,10 @@ Sadness flows out of you into nearby creatures, blotting out any other thoughts 
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature takes a –1 status penalty to skill checks and [Perception](compendium/skills.md#Perception) checks as long as it remains in the area.
-> - **Failure** While the creature is in the area, any [emotion](rules/traits/emotion.md "Emotion Effect Trait") effects of lower counteract level than overflowing sorrow are suppressed, and whenever the creature attempts to use an emotion action or cast an emotion spell, it must succeed at a DC 11 flat check or the action or spell is disrupted.
+> - **Success** The creature takes a –1 status penalty to skill checks and [Perception](skills.md#Perception) checks as long as it remains in the area.
+> - **Failure** While the creature is in the area, any [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") effects of lower counteract level than overflowing sorrow are suppressed, and whenever the creature attempts to use an emotion action or cast an emotion spell, it must succeed at a DC 11 flat check or the action or spell is disrupted.
 > - **Critical Failure** As failure, but the creature cannot use emotion actions or spells.
 
-**Heightened (+ 2)** When you [Cast the Spell](rules/actions/cast-a-spell.md), you can choose to increase the area by 5 feet.
+**Heightened (+ 2)** When you [Cast the Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md), you can choose to increase the area by 5 feet.
 
 *Source: Lost Omens: Gods & Magic p. 116*

@@ -6,8 +6,8 @@ tags:
 - trait/thaumaturge
 aliases: ["Intensify Investiture"]
 ---
-# Intensify Investiture  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
-[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
+# Intensify Investiture  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 12*  
+[thaumaturge](archive/srd/pf2e/rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Frequency**: once per 10 minutes
 - **Activity** Free Action

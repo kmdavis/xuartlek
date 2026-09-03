@@ -7,14 +7,14 @@ tags:
 aliases: ["Cave-In"]
 ---
 # Cave-In *Hazard 4*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained  
 
 The tunnel collapses, filling the passage with stone.
 
-- **Disable** DC 25 [Survival](compendium/skills.md#Survival) (trained) to prop up the tunnel ceiling without triggering a collapse  
+- **Disable** DC 25 [Survival](skills.md#Survival) (trained) to prop up the tunnel ceiling without triggering a collapse  
 
 - **AC** 21, **Fort** +14, **Ref** +14
 - **Hardness** 13, **HP** 46 (BT 23)

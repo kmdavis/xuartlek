@@ -8,14 +8,14 @@ tags:
 aliases: ["Summon Elemental"]
 ---
 # Summon Elemental *Spell 2*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 30 foot
 - **Duration**: sustained up to 1 minute
 
-You conjure an elemental to fight for you. This works like [summon animal](compendium/spells/summon-animal.md), except you summon a common creature that has the [elemental](rules/traits/elemental.md "Elemental Creature Type Trait") trait and whose level is 1 or lower.
+You conjure an elemental to fight for you. This works like [summon animal](archive/srd/pf2e/compendium/spells/summon-animal.md), except you summon a common creature that has the [elemental](archive/srd/pf2e/rules/traits/elemental.md "Elemental Creature Type Trait") trait and whose level is 1 or lower.
 
 **Heightened (10th)** Level 15.
 

@@ -9,18 +9,18 @@ tags:
 aliases: ["Student of Perfection Dedication"]
 ---
 # Student of Perfection Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Jalmeray.
 - **Prerequisites**: powerful fist|monk||1 or expert in unarmed attacks; member of a House of Perfection
 
-You have learned the martial arts techniques of your House of Perfection. You become trained in your choice of [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics) and [Warfare Lore](compendium/skills.md#Lore); if you were already trained, you become an expert instead. You gain the [Ki Strike](compendium/feats/ki-strike.md) monk class feat, which grants you the [ki strike](compendium/spells/ki-strike.md) ki spell and a focus pool of 1 Focus Point that you can recover using the [Refocus](rules/actions/refocus.md) activity as a monk does. Your ki spells from Student of Perfection are occult spells.
+You have learned the martial arts techniques of your House of Perfection. You become trained in your choice of [Acrobatics](skills.md#Acrobatics) or [Athletics](skills.md#Athletics) and [Warfare Lore](skills.md#Lore); if you were already trained, you become an expert instead. You gain the [Ki Strike](archive/srd/pf2e/compendium/feats/ki-strike.md) monk class feat, which grants you the [ki strike](archive/srd/pf2e/compendium/spells/ki-strike.md) ki spell and a focus pool of 1 Focus Point that you can recover using the [Refocus](archive/srd/pf2e/rules/actions/refocus.md) activity as a monk does. Your ki spells from Student of Perfection are occult spells.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the student of perfection archetype.
 
 ## Student of Perfection Dedication leads to...
 
-[Perfect Ki Adept](compendium/feats/perfect-ki-adept-lowg.md), [Perfect Strike](compendium/feats/perfect-strike-lowg.md)
+[Perfect Ki Adept](perfect-ki-adept-lowg.md), [Perfect Strike](archive/srd/pf2e/compendium/feats/perfect-strike-lowg.md)
 
 ## Summary
 

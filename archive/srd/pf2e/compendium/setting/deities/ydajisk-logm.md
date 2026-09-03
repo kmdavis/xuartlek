@@ -20,8 +20,8 @@ aliases: ["Ydajisk", "Mother of Tongues"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: jaws or [greatclub](compendium/equipment/items/greatclub.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [message rune](compendium/spells/message-rune-logm.md); 2nd: [blistering invective](compendium/spells/blistering-invective-apg.md); 4th: [glibness](compendium/spells/glibness.md)
+- **Favored Weapon**: jaws or [greatclub](archive/srd/pf2e/compendium/equipment/items/greatclub.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [message rune](message-rune-logm.md); 2nd: [blistering invective](blistering-invective-apg.md); 4th: [glibness](glibness.md)

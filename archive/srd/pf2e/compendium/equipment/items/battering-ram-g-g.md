@@ -10,7 +10,7 @@ tags:
 aliases: ["Battering Ram"]
 ---
 # Battering Ram *Item 5+*  
-[large](rules/traits/large-b1.md "Large Size Trait")  [portable](rules/traits/portable-g-g.md "Portable Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[large](large-b1.md "Large Size Trait")  [portable](portable-g-g.md "Portable Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 20; **Usage** portable, held in 12 hands
 

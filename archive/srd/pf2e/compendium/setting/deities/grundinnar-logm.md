@@ -20,8 +20,8 @@ aliases: ["Grundinnar", "The Peacemaker"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [light hammer](compendium/equipment/items/light-hammer.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [family](compendium/setting/domains.md#Family), [protection](compendium/setting/domains.md#Protection), [truth](compendium/setting/domains.md#Truth)
-- **Cleric Spells**: 1st: [anticipate peril](compendium/spells/anticipate-peril-logm.md); 4th: [resilient sphere](compendium/spells/resilient-sphere.md); 6th: [wall of force](compendium/spells/wall-of-force.md)
+- **Favored Weapon**: [light hammer](archive/srd/pf2e/compendium/equipment/items/light-hammer.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [anticipate peril](anticipate-peril-logm.md); 4th: [resilient sphere](resilient-sphere.md); 6th: [wall of force](archive/srd/pf2e/compendium/spells/wall-of-force.md)

@@ -10,10 +10,10 @@ tags:
 aliases: ["Champion's Sacrifice"]
 ---
 # Champion's Sacrifice *Focus 6*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**: An ally is hit by a [Strike](rules/actions/strike.md), or an ally fails a saving throw against an effect that doesn't affect you.
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Trigger**: An ally is hit by a [Strike](archive/srd/pf2e/rules/actions/strike.md), or an ally fails a saving throw against an effect that doesn't affect you.
 - **Range**: 30 foot
 - **Targets**: 1 ally
 

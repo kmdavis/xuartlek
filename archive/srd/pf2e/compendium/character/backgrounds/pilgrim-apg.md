@@ -15,4 +15,4 @@ In your youth, you made several pilgrimages to important shrines and holy sites.
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [Religion](compendium/skills.md#Religion) skill and the [Lore](compendium/skills.md#Lore) skill for your patron deity. You gain the [Pilgrim's Token](compendium/feats/pilgrims-token-apg.md) skill feat.
+You're trained in the [Religion](skills.md#Religion) skill and the [Lore](skills.md#Lore) skill for your patron deity. You gain the [Pilgrim's Token](pilgrims-token-apg.md) skill feat.

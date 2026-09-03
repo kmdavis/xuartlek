@@ -12,9 +12,9 @@ tags:
 aliases: ["Litany Of Depravity"]
 ---
 # Litany Of Depravity *Focus 7*   
-[champion](rules/traits/champion.md "Champion Class Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [litany](rules/traits/litany.md "Litany Spell Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  [evil](evil.md "Evil Alignment Trait")  [evocation](evocation.md "Evocation School Trait")  [litany](litany.md "Litany Spell Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Targets**: 1 good creature
 - **Duration**: 1 round

@@ -9,7 +9,7 @@ tags:
 aliases: ["Long Air Repeater"]
 ---
 # Long Air Repeater *Item 0*  
-[repeating](rules/traits/repeating-g-g.md "Repeating Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[repeating](repeating-g-g.md "Repeating Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 9 gp
@@ -19,7 +19,7 @@ aliases: ["Long Air Repeater"]
 - **Hands** 2
 - **Category** Simple; **Group** Firearm 
 
-Like the [one-handed air repeater](compendium/equipment/items/air-repeater-g-g.md), this thin-barreled firearm uses a container of pressurized air instead of black powder to propel small metal pellets from an attached cartridge. The long air repeater has better range and ammo capacity than the [one-handed variant](compendium/equipment/items/air-repeater-g-g.md), though it still lacks significant stopping power. A typical long air repeater magazine holds 8 pellets.
+Like the [one-handed air repeater](air-repeater-g-g.md), this thin-barreled firearm uses a container of pressurized air instead of black powder to propel small metal pellets from an attached cartridge. The long air repeater has better range and ammo capacity than the [one-handed variant](air-repeater-g-g.md), though it still lacks significant stopping power. A typical long air repeater magazine holds 8 pellets.
 
 
 ---

@@ -10,11 +10,11 @@ tags:
 aliases: ["Crackling Bubble Gum"]
 ---
 # Crackling Bubble Gum *Item 5+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [lozenge](rules/traits/lozenge-tv.md "Lozenge Item Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [lozenge](lozenge-tv.md "Lozenge Item Trait")  
 
 - **Bulk** —; **Usage** held in 1 hand
 
-This tangy gum cracks and pops in your mouth as you chew it. While you're chewing crackling bubble gum, for up to 10 minutes, you have an item bonus to saving throws against [auditory](rules/traits/auditory.md "Auditory Effect Trait") and [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait") effects.
+This tangy gum cracks and pops in your mouth as you chew it. While you're chewing crackling bubble gum, for up to 10 minutes, you have an item bonus to saving throws against [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait") and [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait") effects.
 
 ```ad-embed-ability
 title: **Secondary Effect** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([sonic](rules/traits/sonic.md))

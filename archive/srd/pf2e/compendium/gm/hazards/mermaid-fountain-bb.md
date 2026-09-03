@@ -8,11 +8,11 @@ aliases: ["Mermaid Fountain"]
 # Mermaid Fountain *Hazard 3*  
 
 - **Complexity** Simple
-- **Stealth** +10 ; DC 20 [Perception](compendium/skills.md#Perception) check to notice.  
+- **Stealth** +10 ; DC 20 [Perception](skills.md#Perception) check to notice.  
 
 
 
-- **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) on each corner mechanism (must disable all three working corners to disable the trap)  
+- **Disable** DC 20 [Thievery](skills.md#Thievery) on each corner mechanism (must disable all three working corners to disable the trap)  
 
 - **AC** 18, **Fort** +7, **Ref** +5
 - **Corner Mechanism Hardness** 8, **Corner Mechanism HP** 15

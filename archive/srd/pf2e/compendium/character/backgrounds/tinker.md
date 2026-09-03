@@ -17,4 +17,4 @@ It might be a genius device with tremendous potential... or it might explode.
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Engineering Lore](compendium/skills.md#Lore) skill. You gain the [Specialty Crafting](compendium/feats/specialty-crafting.md) skill feat.
+You're trained in the [Crafting](skills.md#Crafting) skill and the [Engineering Lore](skills.md#Lore) skill. You gain the [Specialty Crafting](archive/srd/pf2e/compendium/feats/specialty-crafting.md) skill feat.

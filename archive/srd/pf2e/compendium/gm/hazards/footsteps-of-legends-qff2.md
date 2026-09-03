@@ -8,14 +8,14 @@ tags:
 aliases: ["Footsteps of Legends"]
 ---
 # Footsteps of Legends *Hazard 5*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 expert  
 
 The characters witness Burning Mammoths walking this mountain pass in ages long past.
 
-- **Disable** DC 26 [Diplomacy](compendium/skills.md#Diplomacy) (trained) to convince the spirits to remain dormant, or DC 26 [Religion](compendium/skills.md#Religion) (trained) to ritually silence the spirits  
+- **Disable** DC 26 [Diplomacy](skills.md#Diplomacy) (trained) to convince the spirits to remain dormant, or DC 26 [Religion](skills.md#Religion) (trained) to ritually silence the spirits  
 
 ```ad-embed-ability
 title: **Ancestral Journey** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

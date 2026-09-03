@@ -13,10 +13,10 @@ tags:
 aliases: ["Clownish Curse"]
 ---
 # Clownish Curse *Spell 4*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [misfortune](archive/srd/pf2e/rules/traits/misfortune.md "Misfortune Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -26,7 +26,7 @@ You afflict the target with a curse that causes it to emit ridiculous noises as 
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** For 1 round, the target must roll twice and use the worse result whenever attempting an [Acrobatics](compendium/skills.md#Acrobatics), [Stealth](compendium/skills.md#Stealth), or [Thievery](compendium/skills.md#Thievery) check. If the target rolls a failure at an [Acrobatics](compendium/skills.md#Acrobatics), [Stealth](compendium/skills.md#Stealth), or [Thievery](compendium/skills.md#Thievery) check, it gets a critical failure instead.
+> - **Success** For 1 round, the target must roll twice and use the worse result whenever attempting an [Acrobatics](skills.md#Acrobatics), [Stealth](skills.md#Stealth), or [Thievery](skills.md#Thievery) check. If the target rolls a failure at an [Acrobatics](skills.md#Acrobatics), [Stealth](skills.md#Stealth), or [Thievery](skills.md#Thievery) check, it gets a critical failure instead.
 > - **Failure** As success, but the effect is 1 hour.
 > - **Critical Failure** As success, except the effect is permanent.
 

@@ -8,11 +8,11 @@ tags:
 aliases: ["Instrument Of Slaughter"]
 ---
 # Instrument Of Slaughter  *Feat 16*  
-[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: divine ally (blade), tenets of evil
 
-Your blade ally thirsts for the blood of your foes. Whenever you critically hit an enemy with the weapon inhabited by your blade ally while dealing extra damage from your champion's reaction, the target takes [persistent bleed damage](rules/conditions.md#Persistent%20Damage) equal to two of the weapon's damage dice.
+Your blade ally thirsts for the blood of your foes. Whenever you critically hit an enemy with the weapon inhabited by your blade ally while dealing extra damage from your champion's reaction, the target takes [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) equal to two of the weapon's damage dice.
 
 *Source: Advanced Player's Guide p. 121*  
 %% #compendium/src/pf2e/apg #trait/champion #trait/uncommon %%

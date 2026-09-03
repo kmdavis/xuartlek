@@ -20,8 +20,8 @@ aliases: ["Count Ranalc", "The Traitor"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Stealth
-- **Favored Weapon**: [rapier](compendium/equipment/items/rapier.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [darkness](compendium/setting/domains.md#Darkness), [sorrow](compendium/setting/domains.md#Sorrow), [travel](compendium/setting/domains.md#Travel)
-- **Cleric Spells**: 1st: [penumbral shroud](compendium/spells/penumbral-shroud-logm.md); 4th: [private sanctum](compendium/spells/private-sanctum.md); 5th: [shadow walk](compendium/spells/shadow-walk.md)
+- **Favored Weapon**: [rapier](archive/srd/pf2e/compendium/equipment/items/rapier.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel)
+- **Cleric Spells**: 1st: [penumbral shroud](penumbral-shroud-logm.md); 4th: [private sanctum](private-sanctum.md); 5th: [shadow walk](shadow-walk.md)

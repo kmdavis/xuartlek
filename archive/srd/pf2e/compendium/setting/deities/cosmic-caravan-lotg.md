@@ -23,9 +23,9 @@ aliases: ["Cosmic Caravan"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [starknife](compendium/equipment/items/starknife.md)
-- **Domains**: [darkness](compendium/setting/domains.md#Darkness), [fate](compendium/setting/domains.md#Fate), [freedom](compendium/setting/domains.md#Freedom), [moon](compendium/setting/domains.md#Moon)
-- **Alternate Domains**: [star](compendium/setting/domains.md#Star), [void](compendium/setting/domains.md#Void)
-- **Cleric Spells**: 1st: [object reading](compendium/spells/object-reading-apg.md); 2nd: [glitterdust](compendium/spells/glitterdust.md); 6th: [blanket of stars](compendium/spells/blanket-of-stars-apg.md)
+- **Favored Weapon**: [starknife](archive/srd/pf2e/compendium/equipment/items/starknife.md)
+- **Domains**: [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [moon](archive/srd/pf2e/compendium/setting/domains.md#Moon)
+- **Alternate Domains**: [star](archive/srd/pf2e/compendium/setting/domains.md#Star), [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [object reading](object-reading-apg.md); 2nd: [glitterdust](glitterdust.md); 6th: [blanket of stars](blanket-of-stars-apg.md)

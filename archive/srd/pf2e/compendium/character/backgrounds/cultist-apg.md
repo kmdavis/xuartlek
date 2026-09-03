@@ -15,4 +15,4 @@ You were (or still are) a member of a cult whose rites may involve sacred dances
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Occultism](compendium/skills.md#Occultism) skill and the [Lore](compendium/skills.md#Lore) skill related to your deity or cult. You gain the [Schooled in Secrets](compendium/feats/schooled-in-secrets-apg.md) skill feat.
+You're trained in the [Occultism](skills.md#Occultism) skill and the [Lore](skills.md#Lore) skill related to your deity or cult. You gain the [Schooled in Secrets](schooled-in-secrets-apg.md) skill feat.

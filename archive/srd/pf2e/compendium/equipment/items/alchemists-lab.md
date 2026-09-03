@@ -12,7 +12,7 @@ aliases: ["Alchemist's Lab"]
 - **Bulk** 6
 - **Hands** 2
 
-You need an alchemist's lab to [Craft](rules/actions/craft.md) alchemical items during downtime.
+You need an alchemist's lab to [Craft](archive/srd/pf2e/rules/actions/craft.md) alchemical items during downtime.
 
 ---
 
@@ -26,7 +26,7 @@ You need an alchemist's lab to [Craft](rules/actions/craft.md) alchemical items 
 
 - **Price**: 55 gp
 
-An expanded alchemist's lab gives a +1 item bonus to [Crafting](compendium/skills.md#Crafting) checks to create alchemical items.
+An expanded alchemist's lab gives a +1 item bonus to [Crafting](skills.md#Crafting) checks to create alchemical items.
 
 ---
 *Source: Core Rulebook p. 288*

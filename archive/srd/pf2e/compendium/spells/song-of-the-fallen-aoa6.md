@@ -11,23 +11,23 @@ tags:
 aliases: ["Song Of The Fallen"]
 ---
 # Song Of The Fallen *Focus 10*   
-[bard](rules/traits/bard.md "Bard Class Trait")  [composition](rules/traits/composition.md "Composition Spell Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  [composition](archive/srd/pf2e/rules/traits/composition.md "Composition Spell Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: up to 4 dead creatures or up to 4 undead creatures
 - **Duration**: sustained up to 1 minute
 
 You chant a dirge or an elegy that either rouses the dead to action or reminds undead that they should lay to rest.
 
-If you target dead creatures, the bodies animate and can continue acting as if they were alive. A creature animated in this way has 60 temporary Hit Points. The animated creatures are [slowed](rules/conditions.md#Slowed) but can otherwise act normally. Creatures animated with this spell die again once the spell ends.
+If you target dead creatures, the bodies animate and can continue acting as if they were alive. A creature animated in this way has 60 temporary Hit Points. The animated creatures are [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) but can otherwise act normally. Creatures animated with this spell die again once the spell ends.
 
 If you target undead creatures, each undead must attempt a basic Will save.
 
 > [!success-degree] 
 > - **Critical Success** The undead takes `5d6` positive damage.
-> - **Success** The undead takes `10d6` positive damage and is [slowed](rules/conditions.md#Slowed) for 1 round.
-> - **Failure** The undead takes 100 positive damage and is [slowed](rules/conditions.md#Slowed) for 1 minute.
+> - **Success** The undead takes `10d6` positive damage and is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 1 round.
+> - **Failure** The undead takes 100 positive damage and is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 1 minute.
 > - **Critical Failure** The undead is destroyed.
 
 *Source: Age of Ashes #6: Broken Promises p. 77*

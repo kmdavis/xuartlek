@@ -7,19 +7,19 @@ tags:
 - trait/vigilante
 aliases: ["Harsh Judgment"]
 ---
-# Harsh Judgment  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
+# Harsh Judgment  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [vigilante](archive/srd/pf2e/rules/traits/vigilante-apg.md "Vigilante Feat Trait")  
 
-- **Prerequisites**: [Vigilante Dedication](compendium/feats/vigilante-dedication-apg.md), member of the Gray Gardeners
+- **Prerequisites**: [Vigilante Dedication](vigilante-dedication-apg.md), member of the Gray Gardeners
 - **Activity** Single Action
 
-Choose one creature you can see, and loudly declare the creature's life forfeit by your judgment. That creature becomes your condemned foe until they are defeated, you use Harsh Judgment on a different creature, or the encounter ends. You gain a +2 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) your condemned foe and on [Intimidation](compendium/skills.md#Intimidation) checks to [Demoralize](rules/actions/demoralize.md) them. You have a –1 circumstance penalty to [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) creatures other than your condemned foe and on [Intimidation](compendium/skills.md#Intimidation) checks to [Demoralize](rules/actions/demoralize.md) anyone other than your condemned foe.
+Choose one creature you can see, and loudly declare the creature's life forfeit by your judgment. That creature becomes your condemned foe until they are defeated, you use Harsh Judgment on a different creature, or the encounter ends. You gain a +2 circumstance bonus to [Perception](skills.md#Perception) checks to [Seek](archive/srd/pf2e/rules/actions/seek.md) your condemned foe and on [Intimidation](skills.md#Intimidation) checks to [Demoralize](archive/srd/pf2e/rules/actions/demoralize.md) them. You have a –1 circumstance penalty to [Perception](skills.md#Perception) checks to [Seek](archive/srd/pf2e/rules/actions/seek.md) creatures other than your condemned foe and on [Intimidation](skills.md#Intimidation) checks to [Demoralize](archive/srd/pf2e/rules/actions/demoralize.md) anyone other than your condemned foe.
 
 You typically can use Harsh Judgment only during an encounter, and if you try to use it to declare someone's life forfeit during exploration or downtime, you are likely to start an encounter.
 
 ## Harsh Judgment leads to...
 
-[Frightful Condemnation](compendium/feats/frightful-condemnation-ngd.md), [Accurate Swing](compendium/feats/accurate-swing-ngd.md), [Execution](compendium/feats/execution-ngd.md)
+[Frightful Condemnation](frightful-condemnation-ngd.md), [Accurate Swing](accurate-swing-ngd.md), [Execution](execution-ngd.md)
 
 ## Summary
 

@@ -20,8 +20,8 @@ aliases: ["Nhimbaloth", "The Empty Death"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [flail](compendium/equipment/items/flail.md)
-- **Domains**: [decay](compendium/setting/domains.md#Decay), [nature](compendium/setting/domains.md#Nature), [undeath](compendium/setting/domains.md#Undeath), [void](compendium/setting/domains.md#Void)
-- **Cleric Spells**: 1st: [grim tendrils](compendium/spells/grim-tendrils.md); 2nd: [entangle](compendium/spells/entangle.md); 5th: [cloudkill](compendium/spells/cloudkill.md)
+- **Favored Weapon**: [flail](archive/srd/pf2e/compendium/equipment/items/flail.md)
+- **Domains**: [decay](archive/srd/pf2e/compendium/setting/domains.md#Decay), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [undeath](archive/srd/pf2e/compendium/setting/domains.md#Undeath), [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [grim tendrils](archive/srd/pf2e/compendium/spells/grim-tendrils.md); 2nd: [entangle](entangle.md); 5th: [cloudkill](cloudkill.md)

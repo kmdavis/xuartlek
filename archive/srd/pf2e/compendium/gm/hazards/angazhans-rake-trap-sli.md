@@ -9,14 +9,14 @@ tags:
 aliases: ["Angazhan's Rake Trap"]
 ---
 # Angazhan's Rake Trap *Hazard 7*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 27 expert  
 
-Six metal talons [concealed](rules/conditions.md#Concealed) in the walls swing out and rake across the room.
+Six metal talons [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) in the walls swing out and rake across the room.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 25 (expert) to disable each talon.  
+- **Disable** [Thievery](skills.md#Thievery) DC 25 (expert) to disable each talon.  
 
 - **AC** 25, **Fort** +18, **Ref** +10
 - **Hardness** 15, **HP** 60 (BT 30)

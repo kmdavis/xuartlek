@@ -10,11 +10,11 @@ tags:
 aliases: ["Impactful"]
 ---
 # Impactful *Item 10+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [force](archive/srd/pf2e/rules/traits/force.md "Force Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto a weapon
 
-This rune thrums with pure magical energy. Weapons with the rune deal an additional `1d6` force damage on a successful [Strike](rules/actions/strike.md). On a critical hit, you can choose to force the target to succeed at a DC 27 Fortitude save or be pushed 5 feet away from you.
+This rune thrums with pure magical energy. Weapons with the rune deal an additional `1d6` force damage on a successful [Strike](archive/srd/pf2e/rules/actions/strike.md). On a critical hit, you can choose to force the target to succeed at a DC 27 Fortitude save or be pushed 5 feet away from you.
 
 ---
 

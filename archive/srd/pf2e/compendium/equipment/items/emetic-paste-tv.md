@@ -10,13 +10,13 @@ tags:
 aliases: ["Emetic Paste"]
 ---
 # Emetic Paste *Item 2+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  
 
 - **Price** 5 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-[Sickened](rules/conditions.md#Sickened) creatures have difficulty swallowing, so you can Activate emetic paste by applying it to your skin or that of a [sickened](rules/conditions.md#Sickened) creature within reach, typically on the throat. The paste makes it easy for the [sickened](rules/conditions.md#Sickened) creature to purge, granting it an immediate Fortitude save to reduce its [sickened](rules/conditions.md#Sickened) condition. The paste grants the target an item bonus to that save and to all saving throws to reduce the [sickened](rules/conditions.md#Sickened) condition for 1 hour.
+[Sickened](archive/srd/pf2e/rules/conditions.md#Sickened) creatures have difficulty swallowing, so you can Activate emetic paste by applying it to your skin or that of a [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) creature within reach, typically on the throat. The paste makes it easy for the [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) creature to purge, granting it an immediate Fortitude save to reduce its [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) condition. The paste grants the target an item bonus to that save and to all saving throws to reduce the [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) condition for 1 hour.
 
 ---
 

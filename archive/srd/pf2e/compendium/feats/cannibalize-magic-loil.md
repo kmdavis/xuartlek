@@ -6,20 +6,20 @@ tags:
 - trait/rare
 aliases: ["Cannibalize Magic"]
 ---
-# Cannibalize Magic  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 13*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+# Cannibalize Magic  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 13*  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Prerequisites**: [Fey Influence](compendium/feats/fey-influence-loil.md)
+- **Prerequisites**: [Fey Influence](fey-influence-loil.md)
 - **Frequency**: once per day
 - **Activity** Two-Action
 
 The fey magic inside of you is a vital part of your body, and you can steal other sources of magic to replenish yours. You can draw power from your magical equipment to replenish your health. You drain one of your invested items, in the process regaining Hit Points equal to double the item's level.
 
-In addition, you can attempt a counteract check with a total bonus equal to 10 + the [drained](rules/conditions.md#Drained) item's level against one effect that gave you the [drained](rules/conditions.md#Drained), [doomed](rules/conditions.md#Doomed), [enfeebled](rules/conditions.md#Enfeebled), [fatigued](rules/conditions.md#Fatigued), or [slowed](rules/conditions.md#Slowed) condition. If you succeed, you reduce the chosen condition's value by 1.
+In addition, you can attempt a counteract check with a total bonus equal to 10 + the [drained](archive/srd/pf2e/rules/conditions.md#Drained) item's level against one effect that gave you the [drained](archive/srd/pf2e/rules/conditions.md#Drained), [doomed](archive/srd/pf2e/rules/conditions.md#Doomed), [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled), [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued), or [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) condition. If you succeed, you reduce the chosen condition's value by 1.
 
-An item [drained](rules/conditions.md#Drained) by this action becomes non-magical until the next time you make your daily preparations.
+An item [drained](archive/srd/pf2e/rules/conditions.md#Drained) by this action becomes non-magical until the next time you make your daily preparations.
 
-**Special.** This feat gains the trait appropriate for your ancestry ([human](rules/traits/human.md "Human Ancestry & Heritage Trait") for human, [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait") for goblin, etc.).
+**Special.** This feat gains the trait appropriate for your ancestry ([human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait") for human, [goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait") for goblin, etc.).
 
 *Source: Lost Omens: Impossible Lands p. 126*  
 %% #compendium/src/pf2e/loil #trait/rare %%

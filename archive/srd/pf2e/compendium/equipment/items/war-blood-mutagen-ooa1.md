@@ -13,16 +13,16 @@ tags:
 aliases: ["War Blood Mutagen"]
 ---
 # War Blood Mutagen *Item 1+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [mutagen](rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [mutagen](archive/srd/pf2e/rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Upon drinking this mutagen, you can feel your blood surge through your body and hear a low-pitched humming in your ears. These sensations subside as the flesh and muscles of your arm loosen and stretch, the fibers of your very being reaching out to combine with the base of one melee weapon you're holding.
 
-Benefit Choose one melee weapon you're holding in one or both hands. You gain the listed item bonus to your attack rolls with this weapon and to Will saves against [fear](rules/traits/fear.md "Fear Effect Trait") effects. Any attempt to [Disarm](rules/actions/disarm.md) or otherwise remove the weapon from your hands must exceed the listed DC based on the type of war blood mutagen or the attempt fails.
+Benefit Choose one melee weapon you're holding in one or both hands. You gain the listed item bonus to your attack rolls with this weapon and to Will saves against [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effects. Any attempt to [Disarm](archive/srd/pf2e/rules/actions/disarm.md) or otherwise remove the weapon from your hands must exceed the listed DC based on the type of war blood mutagen or the attempt fails.
 
-Drawback You can't voluntarily remove the weapon unless you succeed at an [Athletics](compendium/skills.md#Athletics) check at the listed DC, which ends the war blood mutagen's effects; this check takes a single action. If you perform an action with the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, you must succeed at a DC 5 flat check or the action is lost.
+Drawback You can't voluntarily remove the weapon unless you succeed at an [Athletics](skills.md#Athletics) check at the listed DC, which ends the war blood mutagen's effects; this check takes a single action. If you perform an action with the [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait") trait, you must succeed at a DC 5 flat check or the action is lost.
 
 ---
 

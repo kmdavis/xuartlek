@@ -15,4 +15,4 @@ You believe the city-states of Thuvia should be united into one nation under the
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and the [Politics Lore](compendium/skills.md#Lore) skill. You gain the [Quick Coercion](compendium/feats/quick-coercion.md) skill feat.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and the [Politics Lore](skills.md#Lore) skill. You gain the [Quick Coercion](archive/srd/pf2e/compendium/feats/quick-coercion.md) skill feat.

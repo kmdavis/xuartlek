@@ -8,11 +8,11 @@ tags:
 aliases: ["Sovereign Steel Weapon"]
 ---
 # Sovereign Steel Weapon *Item 12+*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** varies by weapon; **Usage** varies by weapon
 
-Sovereign steel weapons are treated as cold iron against creatures with a weakness to cold iron, like demons and fey. In addition, the noqual in sovereign steel weapons disrupts spellcasters' concentration, causing them to become [stupefied](rules/conditions.md#Stupefied) for 1 round on a critical hit.
+Sovereign steel weapons are treated as cold iron against creatures with a weakness to cold iron, like demons and fey. In addition, the noqual in sovereign steel weapons disrupts spellcasters' concentration, causing them to become [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 round on a critical hit.
 
 ---
 

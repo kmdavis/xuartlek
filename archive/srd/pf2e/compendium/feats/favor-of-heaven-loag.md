@@ -7,10 +7,10 @@ tags:
 aliases: ["Favor Of Heaven"]
 ---
 # Favor Of Heaven  *Feat 17*  
-[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
+[tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 
-You're one of Hei Feng's chosen people and have the authority of the Celestial Court on your side. Once per day, you can cast a 6th-level [spirit blast](compendium/spells/spirit-blast.md) as a divine innate spell. In addition, you gain resistance 5 to both good and evil damage.
+You're one of Hei Feng's chosen people and have the authority of the Celestial Court on your side. Once per day, you can cast a 6th-level [spirit blast](archive/srd/pf2e/compendium/spells/spirit-blast.md) as a divine innate spell. In addition, you gain resistance 5 to both good and evil damage.
 
 *Source: Lost Omens: Ancestry Guide p. 60*  
 %% #compendium/src/pf2e/loag #trait/tengu %%

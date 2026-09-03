@@ -8,15 +8,15 @@ tags:
 aliases: ["Intimidating Glare"]
 ---
 # Intimidating Glare  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Intimidation](compendium/skills.md#Intimidation)
+- **Prerequisites**: trained in [Intimidation](skills.md#Intimidation)
 
-You can [Demoralize](rules/actions/demoralize.md) with a mere glare. When you do, [Demoralize](rules/actions/demoralize.md) loses the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait and gains the [visual](rules/traits/visual.md "Visual Effect Trait") trait, and you don't take a penalty if the creature doesn't understand your language.
+You can [Demoralize](archive/srd/pf2e/rules/actions/demoralize.md) with a mere glare. When you do, [Demoralize](archive/srd/pf2e/rules/actions/demoralize.md) loses the [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait") trait and gains the [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait") trait, and you don't take a penalty if the creature doesn't understand your language.
 
 ## Intimidating Glare leads to...
 
-[Terrifying Howl](compendium/feats/terrifying-howl.md)
+[Terrifying Howl](archive/srd/pf2e/compendium/feats/terrifying-howl.md)
 
 ## Summary
 

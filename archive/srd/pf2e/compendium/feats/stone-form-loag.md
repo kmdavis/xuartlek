@@ -7,10 +7,10 @@ tags:
 aliases: ["Stone Form"]
 ---
 # Stone Form  *Feat 17*  
-[oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  
+[oread](oread-b2.md "Oread Ancestry & Heritage Trait")  
 
 
-You can transform your body into a pure primal manifestation of earth, an elemental. Once per day, you can cast [elemental form](compendium/spells/elemental-form.md) as a 7th-level primal innate spell, but you can only choose the earth elemental form.
+You can transform your body into a pure primal manifestation of earth, an elemental. Once per day, you can cast [elemental form](archive/srd/pf2e/compendium/spells/elemental-form.md) as a 7th-level primal innate spell, but you can only choose the earth elemental form.
 
 *Source: Lost Omens: Ancestry Guide p. 108*  
 %% #compendium/src/pf2e/loag #trait/oread %%

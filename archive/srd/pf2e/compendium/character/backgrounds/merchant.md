@@ -15,4 +15,4 @@ In a dusty shop, market stall, or merchant caravan, you bartered wares for coin 
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Mercantile Lore](compendium/skills.md#Lore) skill. You gain the [Bargain Hunter](compendium/feats/bargain-hunter.md) skill feat.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Mercantile Lore](skills.md#Lore) skill. You gain the [Bargain Hunter](archive/srd/pf2e/compendium/feats/bargain-hunter.md) skill feat.

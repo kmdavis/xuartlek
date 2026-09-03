@@ -7,8 +7,8 @@ tags:
 - trait/concentrate
 aliases: ["Nanite Surge"]
 ---
-# Nanite Surge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[android](rules/traits/android-loag.md "Android Ancestry & Heritage Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+# Nanite Surge  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[android](android-loag.md "Android Ancestry & Heritage Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** You attempt a skill check requiring three actions or fewer.
@@ -20,7 +20,7 @@ You gain a +2 status bonus to the triggering skill check. In addition, your circ
 
 ## Nanite Surge leads to...
 
-[Consistent Surge](compendium/feats/consistent-surge-loag.md), [Offensive Subroutine](compendium/feats/offensive-subroutine-loag.md), [Protective Subroutine](compendium/feats/protective-subroutine-loag.md)
+[Consistent Surge](consistent-surge-loag.md), [Offensive Subroutine](offensive-subroutine-loag.md), [Protective Subroutine](protective-subroutine-loag.md)
 
 ## Summary
 

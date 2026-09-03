@@ -12,7 +12,7 @@ tags:
 aliases: ["Stalk Goggles"]
 ---
 # Stalk Goggles *Item 1+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** —; **Usage** worn eyepiece
 
@@ -38,13 +38,13 @@ title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Price**: 60 gp
 
-When you activate the goggles, you also gain a +1 item bonus to [Perception](compendium/skills.md#Perception) checks involving sight for the duration of the effect.
+When you activate the goggles, you also gain a +1 item bonus to [Perception](skills.md#Perception) checks involving sight for the duration of the effect.
 
 #### major stalk goggles *Item 8*
 
 - **Price**: 450 gp
 
-When you activate the goggles, you also gain a +2 item bonus to [Perception](compendium/skills.md#Perception) checks involving sight and low- light vision for the duration of the effect.
+When you activate the goggles, you also gain a +2 item bonus to [Perception](skills.md#Perception) checks involving sight and low- light vision for the duration of the effect.
 
 ---
 *Source: Gatewalkers #1: The Seventh Arch p. 0*

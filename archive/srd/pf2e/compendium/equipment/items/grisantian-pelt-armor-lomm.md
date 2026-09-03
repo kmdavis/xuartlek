@@ -8,7 +8,7 @@ tags:
 aliases: ["Grisantian Pelt Armor"]
 ---
 # Grisantian Pelt Armor *Item 12+*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** varies by armor; **Usage** worn armor
 

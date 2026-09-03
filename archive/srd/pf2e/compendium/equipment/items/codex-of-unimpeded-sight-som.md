@@ -10,7 +10,7 @@ tags:
 aliases: ["Codex Of Unimpeded Sight"]
 ---
 # Codex Of Unimpeded Sight *Item 6+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L
 
@@ -37,7 +37,7 @@ title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Price**: 1800 gp
 
-The frequency of the activation is once per hour instead of once per day. When you use it, you gain a +1 item bonus on your [Perception](compendium/skills.md#Perception) check to [Seek](rules/actions/seek.md) or skill check to [Recall Knowledge](rules/actions/recall-knowledge.md).
+The frequency of the activation is once per hour instead of once per day. When you use it, you gain a +1 item bonus on your [Perception](skills.md#Perception) check to [Seek](archive/srd/pf2e/rules/actions/seek.md) or skill check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md).
 
 ---
 *Source: Secrets of Magic p. 162*

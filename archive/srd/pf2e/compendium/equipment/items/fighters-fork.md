@@ -9,7 +9,7 @@ tags:
 aliases: ["Fighter's Fork"]
 ---
 # Fighter's Fork *Item 3*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 50 gp
 - **Bulk** 1; **Usage** held in 1 or 2 hands

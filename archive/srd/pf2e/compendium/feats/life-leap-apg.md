@@ -9,8 +9,8 @@ tags:
 - trait/teleportation
 aliases: ["Life Leap"]
 ---
-# Life Leap  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
-[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [move](rules/traits/move.md "Move Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+# Life Leap  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 9*  
+[gnome](archive/srd/pf2e/rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  [move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Requirements**: You must be adjacent to a living creature.
 - **Activity** Single Action

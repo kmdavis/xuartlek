@@ -10,12 +10,12 @@ tags:
 aliases: ["Material Essence Disruptor"]
 ---
 # Material Essence Disruptor *Item 3+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [gadget](rules/traits/gadget-g-g.md "Gadget  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [gadget](gadget-g-g.md "Gadget  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-A material essence disruptor emits bursts of disordered energy to break down the structure of a spell that manipulates material essence. Attempt to counteract an active [arcane](rules/traits/arcane.md "Arcane Tradition Trait") or [primal](rules/traits/primal.md "Primal Tradition Trait") spell within the listed range, with the listed counteract modifier and counteract level.
+A material essence disruptor emits bursts of disordered energy to break down the structure of a spell that manipulates material essence. Attempt to counteract an active [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait") or [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait") spell within the listed range, with the listed counteract modifier and counteract level.
 
 ---
 

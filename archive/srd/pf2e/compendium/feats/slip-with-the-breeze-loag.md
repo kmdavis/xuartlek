@@ -7,11 +7,11 @@ tags:
 aliases: ["Slip With The Breeze"]
 ---
 # Slip With The Breeze  *Feat 5*  
-[sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  
+[sylph](sylph-b2.md "Sylph Ancestry & Heritage Trait")  
 
-- **Prerequisites**: expert in [Athletics](compendium/skills.md#Athletics)
+- **Prerequisites**: expert in [Athletics](skills.md#Athletics)
 
-You create gusts of wind when you jump, allowing you to carry yourself across greater distances. You gain the [Quick Jump](compendium/feats/quick-jump.md) and [Powerful Leap](compendium/feats/powerful-leap.md) skill feats as bonus feats.
+You create gusts of wind when you jump, allowing you to carry yourself across greater distances. You gain the [Quick Jump](archive/srd/pf2e/compendium/feats/quick-jump.md) and [Powerful Leap](archive/srd/pf2e/compendium/feats/powerful-leap.md) skill feats as bonus feats.
 
 *Source: Lost Omens: Ancestry Guide p. 116*  
 %% #compendium/src/pf2e/loag #trait/sylph %%

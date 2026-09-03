@@ -20,8 +20,8 @@ aliases: ["Baphomet", "Lord of the Labyrinth"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [glaive](compendium/equipment/items/glaive.md)
-- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [might](compendium/setting/domains.md#Might), [secrecy](compendium/setting/domains.md#Secrecy), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [summon animal](compendium/spells/summon-animal.md); 2nd: [enlarge](compendium/spells/enlarge.md); 8th: [maze](compendium/spells/maze.md)
+- **Favored Weapon**: [glaive](archive/srd/pf2e/compendium/equipment/items/glaive.md)
+- **Domains**: [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [summon animal](archive/srd/pf2e/compendium/spells/summon-animal.md); 2nd: [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md); 8th: [maze](maze.md)

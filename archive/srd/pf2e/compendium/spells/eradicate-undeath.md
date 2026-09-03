@@ -12,10 +12,10 @@ tags:
 aliases: ["Eradicate Undeath"]
 ---
 # Eradicate Undeath *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [positive](positive.md "Positive Energy & Element Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [death](compendium/setting/domains.md#Death)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [death](archive/srd/pf2e/compendium/setting/domains.md#Death)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 30-foot cone
 - **Saving Throw**:  basic Fortitude
 

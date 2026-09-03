@@ -11,9 +11,9 @@ tags:
 aliases: ["Thermal Stasis"]
 ---
 # Thermal Stasis *Cantrip 1*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 60 foot
 - **Targets**: 1 creature
 - **Duration**: until the start of your next turn

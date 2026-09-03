@@ -13,7 +13,7 @@ tags:
 aliases: ["Detonating Gears Snare"]
 ---
 # Detonating Gears Snare *Item 3*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [clockwork](clockwork-g-g.md "Clockwork  Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 12 gp
 
@@ -22,8 +22,8 @@ This snare uses clockwork stressed almost to the breaking point, which activates
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and 3 [persistent bleed damage](rules/conditions.md#Persistent%20Damage).
-> - **Critical Failure** The creature takes double damage and 6 [persistent bleed damage](rules/conditions.md#Persistent%20Damage).
+> - **Failure** The creature takes full damage and 3 [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
+> - **Critical Failure** The creature takes double damage and 6 [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
 
 ---

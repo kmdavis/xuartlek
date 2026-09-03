@@ -10,10 +10,10 @@ tags:
 aliases: ["Hallucination"]
 ---
 # Hallucination *Spell 5*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Duration**: 1 hour
@@ -22,7 +22,7 @@ The target consistently detects one thing as another, can't detect something tha
 
 The target can attempt an initial Will save, with effects below.
 
-They also receive a Will save to 0 every time they [Seek](rules/actions/seek.md) or directly interact with the hallucination. For example, the target could attempt to 0 each time they interacted with an elf, bumped into their brother accidentally, tried to check their pocket watch, or studied the tower. The target can attempt to disbelieve with a large circumstance bonus in situations determined by the GM, such as if the target attempted to climb the nonexistent tower.
+They also receive a Will save to 0 every time they [Seek](archive/srd/pf2e/rules/actions/seek.md) or directly interact with the hallucination. For example, the target could attempt to 0 each time they interacted with an elf, bumped into their brother accidentally, tried to check their pocket watch, or studied the tower. The target can attempt to disbelieve with a large circumstance bonus in situations determined by the GM, such as if the target attempted to climb the nonexistent tower.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.

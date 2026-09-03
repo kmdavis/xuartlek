@@ -15,4 +15,4 @@ You fell prey to the whims of the Galtan mob and were scheduled for execution by
 
 Choose two ability boosts. One must be to Charisma or Wisdom, and one is a free ability boost.
 
-You're trained in the [Deception](compendium/skills.md#Deception) skill and the [Revolution Lore](compendium/skills.md#Lore) skill. You gain the [Charming Liar](compendium/feats/charming-liar.md) skill feat.
+You're trained in the [Deception](skills.md#Deception) skill and the [Revolution Lore](skills.md#Lore) skill. You gain the [Charming Liar](archive/srd/pf2e/compendium/feats/charming-liar.md) skill feat.

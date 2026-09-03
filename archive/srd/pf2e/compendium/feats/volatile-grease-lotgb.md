@@ -7,15 +7,15 @@ tags:
 aliases: ["Volatile Grease"]
 ---
 # Volatile Grease  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [grease](compendium/spells/grease.md)
+- **Prerequisites**: [Spell Trickster Dedication](spell-trickster-dedication-lotgb.md), ability to cast [grease](archive/srd/pf2e/compendium/spells/grease.md)
 
-When you cast [grease](compendium/spells/grease.md), you can modify its target to be 1 creature. If you do, replace the spell's standard effects with the following: You splash the target with combustible grease. The target must attempt a Reflex save.
+When you cast [grease](archive/srd/pf2e/compendium/spells/grease.md), you can modify its target to be 1 creature. If you do, replace the spell's standard effects with the following: You splash the target with combustible grease. The target must attempt a Reflex save.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is splattered with grease and gains weakness 2 to fire until the end of your next turn. The target or an adjacent creature can rub off the combustible grease with an [Interact](rules/actions/interact.md) action, ending the effect.
+> - **Success** The target is splattered with grease and gains weakness 2 to fire until the end of your next turn. The target or an adjacent creature can rub off the combustible grease with an [Interact](archive/srd/pf2e/rules/actions/interact.md) action, ending the effect.
 > - **Failure** As success, except the weakness to fire lasts for 1 minute.
 
 **Heightened (+2)** The weakness increases by 1.

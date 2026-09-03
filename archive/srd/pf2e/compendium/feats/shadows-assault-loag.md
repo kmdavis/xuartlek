@@ -7,10 +7,10 @@ tags:
 aliases: ["Shadow's Assault"]
 ---
 # Shadow's Assault  *Feat 13*  
-[fetchling](rules/traits/fetchling-b2.md "Fetchling Ancestry & Heritage Trait")  
+[fetchling](fetchling-b2.md "Fetchling Ancestry & Heritage Trait")  
 
 
-Your shadow assaults your foes. You can cast [shadow blast](compendium/spells/shadow-blast.md) as a 5th-level occult innate spell once per day. At 17th level, your shadow blast is heightened to 6th level.
+Your shadow assaults your foes. You can cast [shadow blast](archive/srd/pf2e/compendium/spells/shadow-blast.md) as a 5th-level occult innate spell once per day. At 17th level, your shadow blast is heightened to 6th level.
 
 *Source: Lost Omens: Ancestry Guide p. 88*  
 %% #compendium/src/pf2e/loag #trait/fetchling %%

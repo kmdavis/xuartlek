@@ -7,15 +7,15 @@ tags:
 aliases: ["Expert Magus Spellcasting"]
 ---
 # Expert Magus Spellcasting  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Magus Spellcasting](compendium/feats/basic-magus-spellcasting-som.md), master in [Arcana](compendium/skills.md#Arcana)
+- **Prerequisites**: [Basic Magus Spellcasting](basic-magus-spellcasting-som.md), master in [Arcana](skills.md#Arcana)
 
 You gain the expert bounded spellcasting benefits.
 
 ## Expert Magus Spellcasting leads to...
 
-[Master Magus Spellcasting](compendium/feats/master-magus-spellcasting-som.md)
+[Master Magus Spellcasting](master-magus-spellcasting-som.md)
 
 ## Summary
 

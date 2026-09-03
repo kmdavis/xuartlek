@@ -11,12 +11,12 @@ tags:
 aliases: ["Stone of Unrivaled Skill"]
 ---
 # Stone of Unrivaled Skill *Item 17*  
-[contract](rules/traits/contract-lol.md "Contract Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[contract](contract-lol.md "Contract Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
 You traded your senses to a hag for unrivaled expertise stolen from various souls who were once the greatest in their field.
 
-Your bargained contract is sealed by sleeping with a pitch-black stone under your pillow every night. Choose one skill when you seal this bargained contract. You become an expert in that skill; if you were already an expert, you become a master, and if you were already a master, you become legendary. Once per day, from any distance, the hag that holds your contract can take over your senses for 10 minutes, during which time the hag hears, sees, smells, tastes, and feels everything you would typically experience. During this time, you are [dazzled](rules/conditions.md#Dazzled) by your own disjointed senses.
+Your bargained contract is sealed by sleeping with a pitch-black stone under your pillow every night. Choose one skill when you seal this bargained contract. You become an expert in that skill; if you were already an expert, you become a master, and if you were already a master, you become legendary. Once per day, from any distance, the hag that holds your contract can take over your senses for 10 minutes, during which time the hag hears, sees, smells, tastes, and feels everything you would typically experience. During this time, you are [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) by your own disjointed senses.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command

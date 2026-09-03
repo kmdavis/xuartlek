@@ -14,7 +14,7 @@ tags:
 aliases: ["Filcher's Fork"]
 ---
 # Filcher's Fork *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [backstabber](rules/traits/backstabber.md "Backstabber Weapon Trait")  [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [backstabber](archive/srd/pf2e/rules/traits/backstabber.md "Backstabber Weapon Trait")  [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [halfling](archive/srd/pf2e/rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 - **Bulk** L

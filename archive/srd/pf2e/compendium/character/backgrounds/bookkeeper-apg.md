@@ -15,4 +15,4 @@ You ran the numbers on a large farm, for a merchant's endeavors, or with a major
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Accounting Lore](compendium/skills.md#Lore) skill. You gain the [Eye for Numbers](compendium/feats/eye-for-numbers-apg.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Accounting Lore](skills.md#Lore) skill. You gain the [Eye for Numbers](eye-for-numbers-apg.md) skill feat.

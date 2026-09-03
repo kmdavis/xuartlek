@@ -11,10 +11,10 @@ tags:
 aliases: ["Ordained Purpose"]
 ---
 # Ordained Purpose *Focus 4*   
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [naga](compendium/setting/domains.md#Naga)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [naga](archive/srd/pf2e/compendium/setting/domains.md#Naga)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 30-foot-radius emanation centered on you
 - **Saving Throw**:  basic Will
 
@@ -23,8 +23,8 @@ You call upon the authority of cosmic forces of order, overwhelming creatures wi
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and must [Drop Prone](rules/actions/drop-prone.md) as its first action on its next turn.
-> - **Critical Failure** The creature takes double damage, must [Drop Prone](rules/actions/drop-prone.md) as its first action on its next turn, and can't [Stand](rules/actions/stand.md) during its next turn.
+> - **Failure** The creature takes full damage and must [Drop Prone](archive/srd/pf2e/rules/actions/drop-prone.md) as its first action on its next turn.
+> - **Critical Failure** The creature takes double damage, must [Drop Prone](archive/srd/pf2e/rules/actions/drop-prone.md) as its first action on its next turn, and can't [Stand](archive/srd/pf2e/rules/actions/stand.md) during its next turn.
 
 **Heightened (+ 1)** The damage increases by `2d6`.
 

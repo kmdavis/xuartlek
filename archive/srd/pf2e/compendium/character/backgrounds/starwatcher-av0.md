@@ -15,4 +15,4 @@ You're one of Wrin Sivinxi's closest confidantes. You've spent many long nights 
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Occultism](compendium/skills.md#Occultism) skill and the [Astrology Lore](compendium/skills.md#Lore) skill. You gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat.
+You're trained in the [Occultism](skills.md#Occultism) skill and the [Astrology Lore](skills.md#Lore) skill. You gain the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) skill feat.

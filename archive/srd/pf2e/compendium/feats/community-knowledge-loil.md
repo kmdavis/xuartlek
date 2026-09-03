@@ -9,8 +9,8 @@ tags:
 - trait/occult
 aliases: ["Community Knowledge"]
 ---
-# Community Knowledge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+# Community Knowledge  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](divination.md "Divination School Trait")  [kashrishi](kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  
 
 - **Frequency**: once per hour
 - **Trigger** You attempt a skill check requiring 3 actions or fewer.

@@ -15,4 +15,4 @@ You served as a crewmate aboard a military vessel or pirate ship and were respon
 
 Choose two ability boosts. One boost must be to Dexterity or Strength, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Warfare Lore](compendium/skills.md#Lore) skill. You gain the [Hefty Hauler](compendium/feats/hefty-hauler.md) skill feat.
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Warfare Lore](skills.md#Lore) skill. You gain the [Hefty Hauler](archive/srd/pf2e/compendium/feats/hefty-hauler.md) skill feat.

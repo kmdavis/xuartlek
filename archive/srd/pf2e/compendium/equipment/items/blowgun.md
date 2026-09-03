@@ -9,12 +9,12 @@ tags:
 aliases: ["Blowgun"]
 ---
 # Blowgun *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait")  
 
 - **Price** 1 sp
 - **Bulk** L
   - **Damage**: `1` P
-  - **Ammunution** [Blowgun Dart](compendium/equipment/items/blowgun-dart.md); **Range** 20 ft.; **Reload** 1
+  - **Ammunution** [Blowgun Dart](blowgun-dart.md); **Range** 20 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Simple; **Group** Dart 
 

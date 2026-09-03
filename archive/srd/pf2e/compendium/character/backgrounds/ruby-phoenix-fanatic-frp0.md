@@ -16,4 +16,4 @@ Now she's finally back from a mysterious 300-year quest on the plane of Axis so 
 
 You've also trained your body to prove yourself a worthy champion. When Hao Jin's committee invited you and some friends to take part in the tournament's prequalifier, you just about fainted from excitement. Is your dream of meeting the Ruby Phoenix about to come true? As long as you win enough matches to get into the actual tournament, it just might! Just try not to act too star-struck when you finally get a chance to talk to her, okay? Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Axis Lore](compendium/skills.md#Lore), [Gladiatorial Lore](compendium/skills.md#Lore), and [Goka Lore](compendium/skills.md#Lore) skills. You gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat.
+You're trained in the [Axis Lore](skills.md#Lore), [Gladiatorial Lore](skills.md#Lore), and [Goka Lore](skills.md#Lore) skills. You gain the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) skill feat.

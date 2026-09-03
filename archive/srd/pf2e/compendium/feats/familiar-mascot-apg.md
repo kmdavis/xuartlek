@@ -7,9 +7,9 @@ tags:
 aliases: ["Familiar Mascot"]
 ---
 # Familiar Mascot  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Familiar Master Dedication](compendium/feats/familiar-master-dedication-apg.md)
+- **Prerequisites**: [Familiar Master Dedication](familiar-master-dedication-apg.md)
 
 Your familiar is the heart and soul of your adventuring team.
 

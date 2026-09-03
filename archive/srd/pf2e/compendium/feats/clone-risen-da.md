@@ -8,7 +8,7 @@ tags:
 aliases: ["Clone-Risen"]
 ---
 # Clone-Risen  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [reflection](rules/traits/reflection-da.md "Reflection Ancestry & Heritage Trait")  
+[lineage](lineage-apg.md "Lineage  Trait")  [reflection](reflection-da.md "Reflection Ancestry & Heritage Trait")  
 
 
 You were formed from a clone ritual or alchemical experiment. Created as a vessel for another creature, you can suppress your sentience momentarily, making your mind harder to alter. You gain the Empty Vessel reaction.
@@ -27,7 +27,7 @@ title: **Empty Vessel** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Ac
 
 ## Clone-Risen leads to...
 
-[Replicate](compendium/feats/replicate-da.md)
+[Replicate](replicate-da.md)
 
 ## Summary
 

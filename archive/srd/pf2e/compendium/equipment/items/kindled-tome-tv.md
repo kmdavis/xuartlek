@@ -12,11 +12,11 @@ tags:
 aliases: ["Kindled Tome"]
 ---
 # Kindled Tome *Item 11*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [grimoire](grimoire-som.md "Grimoire Item Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** L
 
-A kindled tome is a [book of lingering blazes](compendium/equipment/items/book-of-lingering-blaze-som.md) awakened to sapience and imbued with an enthusiasm for fire. It encourages you to learn new fire spells to inscribe within its pages. When you attempt a skill check to [Learn a Spell](rules/actions/learn-a-spell.md) to add a spell with the [fire](rules/traits/fire.md "Fire Energy & Element Trait") trait to the kindled tome, you treat your result as one step better than you rolled. The tome can be disparaging about other spells as "a waste of good page space," especially if those spells have the [cold](rules/traits/cold.md "Cold Energy & Element Trait") or [water](rules/traits/water.md "Water Energy & Element Trait") traits.
+A kindled tome is a [book of lingering blazes](book-of-lingering-blaze-som.md) awakened to sapience and imbued with an enthusiasm for fire. It encourages you to learn new fire spells to inscribe within its pages. When you attempt a skill check to [Learn a Spell](archive/srd/pf2e/rules/actions/learn-a-spell.md) to add a spell with the [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait") trait to the kindled tome, you treat your result as one step better than you rolled. The tome can be disparaging about other spells as "a waste of good page space," especially if those spells have the [cold](archive/srd/pf2e/rules/traits/cold.md "Cold Energy & Element Trait") or [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait") traits.
 
 In addition to the activation of a book of lingering blazes, a kindled tome has the following activations.
 

@@ -12,11 +12,11 @@ tags:
 aliases: ["Ancestral Embrace"]
 ---
 # Ancestral Embrace *Item 26*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 1; **Usage** worn armor
 
-This brightly colored +4 major resilient leather armor is inscribed with a spiral that has no end or beginning. Though it is a symbol of the ancient religion of Holy Xatramba, it also serves as a religious symbol of [Pharasma](compendium/setting/deities/pharasma.md). When you invest the armor, you gain negative resistance 25 and can draw on the power of your ancestors. You gain an ancestry feat from your ancestry; the feat can be any level, but you must meet any other prerequisites of the feat.
+This brightly colored +4 major resilient leather armor is inscribed with a spiral that has no end or beginning. Though it is a symbol of the ancient religion of Holy Xatramba, it also serves as a religious symbol of [Pharasma](pharasma.md). When you invest the armor, you gain negative resistance 25 and can draw on the power of your ancestors. You gain an ancestry feat from your ancestry; the feat can be any level, but you must meet any other prerequisites of the feat.
 
 You lose the feat when the investment ends, and you can select a different feat each time you invest the armor again.
 

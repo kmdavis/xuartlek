@@ -17,4 +17,4 @@ You might even use new clockwork devices to aid you in your efforts.
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Cryptography Lore](compendium/skills.md#Lore) skill. You gain the [Glean Contents](compendium/feats/glean-contents-apg.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Cryptography Lore](skills.md#Lore) skill. You gain the [Glean Contents](glean-contents-apg.md) skill feat.

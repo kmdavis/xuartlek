@@ -12,16 +12,16 @@ tags:
 aliases: ["Distortion Lens"]
 ---
 # Distortion Lens *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Area**: one 5-foot square
 - **Duration**: sustained up to 1 minute
 
 You create a magical lens that distorts space as best suits you. You create the lens in a space in range, even suspended in midair. If your or an ally's ranged attack passes through the lens, the attack gains an additional 10 feet of range; if an enemy's ranged attack would pass through the lens, it requires an additional 10 feet of range to move through, though the enemy knows before using its ability whether the interference puts the target out of range. An ally whose space overlaps the lens can increase the range of its ranged attacks, but an enemy whose space overlaps the lens doesn't reduce the range of its ranged attacks.
 
-The first time each round you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can choose to relocate it to another square within range. The lens disappears if you cast distortion lens again.
+The first time each round you [Sustain the Spell](sustain-a-spell.md), you can choose to relocate it to another square within range. The lens disappears if you cast distortion lens again.
 
 **Heightened (+ 3)** The lens increases or decreases the range of abilities by an additional 5 feet.
 

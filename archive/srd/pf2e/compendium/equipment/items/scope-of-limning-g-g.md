@@ -9,7 +9,7 @@ tags:
 aliases: ["Scope Of Limning"]
 ---
 # Scope Of Limning *Item 10*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 900 gp
 - **Bulk** L; **Usage** attached <to firearm (scope)>

@@ -20,8 +20,8 @@ aliases: ["Sobek", "The Raging Torrent"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [falchion](compendium/equipment/items/falchion.md)
-- **Domains**: [might](compendium/setting/domains.md#Might), [protection](compendium/setting/domains.md#Protection), [water](compendium/setting/domains.md#Water), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
-- **Cleric Spells**: 1st: [hydraulic push](compendium/spells/hydraulic-push.md); 3rd: [feet to fins](compendium/spells/feet-to-fins.md); 4th: dinosaur form (appears as crocodile)
+- **Favored Weapon**: [falchion](archive/srd/pf2e/compendium/equipment/items/falchion.md)
+- **Domains**: [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [water](archive/srd/pf2e/compendium/setting/domains.md#Water), [wyrmkin](archive/srd/pf2e/compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [hydraulic push](archive/srd/pf2e/compendium/spells/hydraulic-push.md); 3rd: [feet to fins](archive/srd/pf2e/compendium/spells/feet-to-fins.md); 4th: dinosaur form (appears as crocodile)

@@ -13,7 +13,7 @@ tags:
 aliases: ["Dawnflower Beads"]
 ---
 # Dawnflower Beads *Item 11*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [positive](positive.md "Positive Energy & Element Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** —; **Usage** held in 1 hand
 

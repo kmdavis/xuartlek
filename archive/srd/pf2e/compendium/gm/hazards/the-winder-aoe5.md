@@ -9,14 +9,14 @@ tags:
 aliases: ["The Winder"]
 ---
 # The Winder *Hazard 19*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +31 master  
 
 A large metallic arm, 20 feet long, is set into the floor. It rotates around the room to wind up nearby clockwork creatures.
 
-- **Disable** DC 50 [Thievery](compendium/skills.md#Thievery) (master) to deactivate the system, or DC 40 [Athletics](compendium/skills.md#Athletics) (legendary) to jam the gears for 1 round.  
+- **Disable** DC 50 [Thievery](skills.md#Thievery) (master) to deactivate the system, or DC 40 [Athletics](skills.md#Athletics) (legendary) to jam the gears for 1 round.  
 
 - **AC** 43, **Fort** +32, **Ref** +35
 - **Hardness** 15, **HP** 250 (BT 125)

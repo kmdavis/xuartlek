@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Devotion"]
 ---
 # Basic Devotion  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Champion Dedication](compendium/feats/champion-dedication.md)
+- **Prerequisites**: [Champion Dedication](archive/srd/pf2e/compendium/feats/champion-dedication.md)
 
 You gain a 1st- or 2nd-level champion feat.
 
 ## Basic Devotion leads to...
 
-[Advanced Devotion](compendium/feats/advanced-devotion.md)
+[Advanced Devotion](archive/srd/pf2e/compendium/feats/advanced-devotion.md)
 
 ## Summary
 

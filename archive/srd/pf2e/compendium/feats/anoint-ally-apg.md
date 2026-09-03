@@ -7,8 +7,8 @@ tags:
 - trait/sorcerer
 aliases: ["Anoint Ally"]
 ---
-# Anoint Ally  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+# Anoint Ally  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
+[manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Activity** Single Action
 

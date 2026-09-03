@@ -9,7 +9,7 @@ tags:
 aliases: ["Demilich Eye Gem"]
 ---
 # Demilich Eye Gem *Item 15*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 3000 gp
 - **Craft Requirements** Demilich eye gems can't be crafted.

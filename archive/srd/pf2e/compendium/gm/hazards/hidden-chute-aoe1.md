@@ -8,14 +8,14 @@ tags:
 aliases: ["Hidden Chute"]
 ---
 # Hidden Chute *Hazard 3*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
 
 A trapdoor in the floor conceals a stone chute.
 
-- **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to remove the trapdoor or lock it in position using a catch [hidden](rules/conditions.md#Hidden) inside the room's doorframe.  
+- **Disable** DC 20 [Thievery](skills.md#Thievery) (trained) to remove the trapdoor or lock it in position using a catch [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) inside the room's doorframe.  
 
 - **AC** 12, **Fort** +10, **Ref** +6
 - **Trapdoor Hardness** 5, **Trapdoor HP** 30 (BT 15)

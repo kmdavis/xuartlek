@@ -7,14 +7,14 @@ tags:
 aliases: ["Beast Trainer"]
 ---
 # Beast Trainer  *Feat 1*  
-[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
+[orc](archive/srd/pf2e/rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 
-You have an impressive innate ability to tame and command ferocious beasts. You become trained in the [Nature](compendium/skills.md#Nature) skill and gain the [Train Animal](compendium/feats/train-animal.md) skill feat.
+You have an impressive innate ability to tame and command ferocious beasts. You become trained in the [Nature](skills.md#Nature) skill and gain the [Train Animal](archive/srd/pf2e/compendium/feats/train-animal.md) skill feat.
 
 ## Beast Trainer leads to...
 
-[Ferocious Beasts](compendium/feats/ferocious-beasts-apg.md), [Dragon Grip](compendium/feats/dragon-grip-loag.md)
+[Ferocious Beasts](ferocious-beasts-apg.md), [Dragon Grip](dragon-grip-loag.md)
 
 ## Summary
 

@@ -13,7 +13,7 @@ aliases: ["Shortbow"]
 - **Price** 3 gp
 - **Bulk** 1
   - **Damage**: `1d6` P
-  - **Ammunution** [Arrow](compendium/equipment/items/arrow.md); **Range** 60 ft.; **Reload** 0
+  - **Ammunution** [Arrow](arrow.md); **Range** 60 ft.; **Reload** 0
 - **Hands** 1+
 - **Category** Martial; **Group** Bow 
 

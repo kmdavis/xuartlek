@@ -9,14 +9,14 @@ tags:
 aliases: ["Nightmare Terrain"]
 ---
 # Nightmare Terrain *Hazard 6*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** DC 22 [Perception](compendium/skills.md#Perception) to detect the subtle magical aura of the land  
+- **Stealth** DC 22 [Perception](skills.md#Perception) to detect the subtle magical aura of the land  
 
 What seems like an innocent stretch of land assaults trespassers with terrible illusions.
 
-- **Disable** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) DC 22 (by a hero with expert proficiency in that skill) three times to temporarily disrupt the magic, or [dispel magic](compendium/spells/dispel-magic.md) (3rd-level spell, DC 25)  
+- **Disable** [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion) DC 22 (by a hero with expert proficiency in that skill) three times to temporarily disrupt the magic, or [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (3rd-level spell, DC 25)  
 
 ```ad-embed-ability
 title: **Step into Nightmares** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))

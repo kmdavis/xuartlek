@@ -11,12 +11,12 @@ tags:
 aliases: ["Thoughtwhip Claw"]
 ---
 # Thoughtwhip Claw *Item 11*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Price** 1350 gp
 - **Bulk** —; **Usage** worn
 
-[Abraxas](compendium/setting/deities/abraxas-logm.md) teaches that minds can be robbed as surely as pockets. This tattoo of a clenched fist provides a +2 item bonus to [Thievery](compendium/skills.md#Thievery) checks.
+[Abraxas](abraxas-logm.md) teaches that minds can be robbed as surely as pockets. This tattoo of a clenched fist provides a +2 item bonus to [Thievery](skills.md#Thievery) checks.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, envision

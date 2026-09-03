@@ -8,7 +8,7 @@ tags:
 aliases: ["Bloodhound Olfactory Stimulators"]
 ---
 # Bloodhound Olfactory Stimulators *Item 5*  
-[magical](rules/traits/magical.md "Magical Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 136 gp
 - **Bulk** L; **Usage** worn

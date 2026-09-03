@@ -7,9 +7,9 @@ tags:
 aliases: ["Instinctual Interception"]
 ---
 # Instinctual Interception  *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md), Interrupt Charge
+- **Prerequisites**: [Knight Vigilant Dedication](knight-vigilant-dedication-locg.md), Interrupt Charge
 
 You react to movement with hardly a thought, seeming constantly poised to spring. At the start of each of your turns, you gain an additional reaction that you can use only to Interrupt Charge.
 

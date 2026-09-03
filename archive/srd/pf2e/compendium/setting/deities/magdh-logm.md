@@ -20,8 +20,8 @@ aliases: ["Magdh", "The Three"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [scythe](compendium/equipment/items/scythe.md)
-- **Domains**: [fate](compendium/setting/domains.md#Fate), [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [truth](compendium/setting/domains.md#Truth)
-- **Cleric Spells**: 1st: [anticipate peril](compendium/spells/anticipate-peril-logm.md); 3rd: [threefold aspect](compendium/spells/threefold-aspect-apg.md); 6th: [scrying](compendium/spells/scrying.md)
+- **Favored Weapon**: [scythe](archive/srd/pf2e/compendium/equipment/items/scythe.md)
+- **Domains**: [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [anticipate peril](anticipate-peril-logm.md); 3rd: [threefold aspect](threefold-aspect-apg.md); 6th: [scrying](archive/srd/pf2e/compendium/spells/scrying.md)

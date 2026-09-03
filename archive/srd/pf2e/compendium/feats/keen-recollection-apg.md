@@ -7,9 +7,9 @@ tags:
 aliases: ["Keen Recollection"]
 ---
 # Keen Recollection  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Investigator Dedication](compendium/feats/investigator-dedication-apg.md)
+- **Prerequisites**: [Investigator Dedication](investigator-dedication-apg.md)
 
 You can recall all sorts of information. You gain the keen recollection|investigator|apg|3 class feature.
 

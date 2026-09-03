@@ -20,8 +20,8 @@ aliases: ["Bolka", "The Golden Gift"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [family](compendium/setting/domains.md#Family), [healing](compendium/setting/domains.md#Healing), [passion](compendium/setting/domains.md#Passion)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 4th: [creation](compendium/spells/creation.md); 6th: [collective transposition](compendium/spells/collective-transposition.md)
+- **Favored Weapon**: [mace](archive/srd/pf2e/compendium/equipment/items/mace.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 4th: [creation](archive/srd/pf2e/compendium/spells/creation.md); 6th: [collective transposition](archive/srd/pf2e/compendium/spells/collective-transposition.md)

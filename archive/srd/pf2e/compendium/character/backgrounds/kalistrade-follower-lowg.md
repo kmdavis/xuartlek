@@ -15,4 +15,4 @@ You follow the philosophy of the Prophecies of Kalistrade, seeking to build up y
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Kalistrade Lore](compendium/skills.md#Lore) skill. You gain the [Bargain Hunter](compendium/feats/bargain-hunter.md) skill feat.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Kalistrade Lore](skills.md#Lore) skill. You gain the [Bargain Hunter](archive/srd/pf2e/compendium/feats/bargain-hunter.md) skill feat.

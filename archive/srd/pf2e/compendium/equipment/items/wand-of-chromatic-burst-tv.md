@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Chromatic Burst"]
 ---
 # Wand of Chromatic Burst *Item 10+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of chromatic armor of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand

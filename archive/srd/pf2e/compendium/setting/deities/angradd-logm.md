@@ -20,8 +20,8 @@ aliases: ["Angradd", "The Forge-Fire"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [greataxe](compendium/equipment/items/greataxe.md)
-- **Domains**: [fate](compendium/setting/domains.md#Fate), [fire](compendium/setting/domains.md#Fire), [protection](compendium/setting/domains.md#Protection), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 2nd: [blistering invective](compendium/spells/blistering-invective-apg.md); 3rd: [fireball](compendium/spells/fireball.md)
+- **Favored Weapon**: [greataxe](archive/srd/pf2e/compendium/equipment/items/greataxe.md)
+- **Domains**: [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [burning hands](burning-hands.md); 2nd: [blistering invective](blistering-invective-apg.md); 3rd: [fireball](archive/srd/pf2e/compendium/spells/fireball.md)

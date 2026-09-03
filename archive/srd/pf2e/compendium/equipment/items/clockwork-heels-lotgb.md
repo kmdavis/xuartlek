@@ -9,7 +9,7 @@ tags:
 aliases: ["Clockwork Heels"]
 ---
 # Clockwork Heels *Item 7*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 300 gp
 - **Bulk** L; **Usage** worn shoes

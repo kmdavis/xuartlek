@@ -11,13 +11,13 @@ tags:
 aliases: ["Salve of Slipperiness"]
 ---
 # Salve of Slipperiness *Item 5*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [oil](rules/traits/oil.md "Oil Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [oil](archive/srd/pf2e/rules/traits/oil.md "Oil Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 25 gp
 - **Bulk** L
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-This greenish, persistent grease can be applied to armor to make it extremely slippery for 8 hours, granting the wearer a +2 item bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks to [Escape](rules/actions/escape.md) or to [Squeeze](rules/actions/squeeze.md).
+This greenish, persistent grease can be applied to armor to make it extremely slippery for 8 hours, granting the wearer a +2 item bonus to [Acrobatics](skills.md#Acrobatics) checks to [Escape](archive/srd/pf2e/rules/actions/escape.md) or to [Squeeze](archive/srd/pf2e/rules/actions/squeeze.md).
 
 
 ---

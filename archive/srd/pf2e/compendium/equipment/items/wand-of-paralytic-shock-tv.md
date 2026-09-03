@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Paralytic Shock"]
 ---
 # Wand of Paralytic Shock *Item 8+*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of paralyze of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand

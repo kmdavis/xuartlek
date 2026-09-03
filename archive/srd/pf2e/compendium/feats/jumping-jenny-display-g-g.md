@@ -7,9 +7,9 @@ tags:
 aliases: ["Jumping Jenny Display"]
 ---
 # Jumping Jenny Display  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Firework Technician Dedication](compendium/feats/firework-technician-dedication-g-g.md)
+- **Prerequisites**: [Firework Technician Dedication](firework-technician-dedication-g-g.md)
 
 This multi-sequence rocket blasts confetti at a series of altitudes. While the design is intended to delight children of all ages, you've found it has an unexpected side effect of confounding enemy fliers. You gain the Jumping Jenny fireworks display.
 

@@ -10,12 +10,12 @@ tags:
 aliases: ["Chime of Opening"]
 ---
 # Chime of Opening *Item 6*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 235 gp
 - **Bulk** L; **Usage** held in 2 hands
 
-This hollow mithral tube is about a foot long and bears engravings reminiscent of open locks and [broken](rules/conditions.md#Broken) chains.
+This hollow mithral tube is about a foot long and bears engravings reminiscent of open locks and [broken](archive/srd/pf2e/rules/conditions.md#Broken) chains.
 
 The chime can be activated 10 times before it cracks and becomes useless.
 

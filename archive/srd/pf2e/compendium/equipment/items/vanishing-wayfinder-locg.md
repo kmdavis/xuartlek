@@ -12,7 +12,7 @@ tags:
 aliases: ["Vanishing Wayfinder"]
 ---
 # Vanishing Wayfinder *Item 5*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 150 gp
 - **Usage** worn

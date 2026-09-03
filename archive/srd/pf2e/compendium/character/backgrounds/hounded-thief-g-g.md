@@ -15,4 +15,4 @@ Some time ago, you stole a unique item from a strange individual. It might have 
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Thievery](compendium/skills.md#Thievery) skill and the [Underworld Lore](compendium/skills.md#Lore) skill. You gain the [Pickpocket](compendium/feats/pickpocket.md) skill feat.
+You're trained in the [Thievery](skills.md#Thievery) skill and the [Underworld Lore](skills.md#Lore) skill. You gain the [Pickpocket](archive/srd/pf2e/compendium/feats/pickpocket.md) skill feat.

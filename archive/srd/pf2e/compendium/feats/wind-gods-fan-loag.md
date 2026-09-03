@@ -7,15 +7,15 @@ tags:
 aliases: ["Wind God's Fan"]
 ---
 # Wind God's Fan  *Feat 9*  
-[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
+[tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Tengu Feather Fan](compendium/feats/tengu-feather-fan-loag.md)
+- **Prerequisites**: [Tengu Feather Fan](tengu-feather-fan-loag.md)
 
-Your fan can stir up even more powerful winds. You can Activate your tengu feather fan one additional time per day. Add the 3rd-level [wall of wind](compendium/spells/wall-of-wind.md) spell to the spells contained within your fan.
+Your fan can stir up even more powerful winds. You can Activate your tengu feather fan one additional time per day. Add the 3rd-level [wall of wind](archive/srd/pf2e/compendium/spells/wall-of-wind.md) spell to the spells contained within your fan.
 
 ## Wind God's Fan leads to...
 
-[Thunder God's Fan](compendium/feats/thunder-gods-fan-loag.md)
+[Thunder God's Fan](thunder-gods-fan-loag.md)
 
 ## Summary
 

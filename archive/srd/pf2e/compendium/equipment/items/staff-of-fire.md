@@ -10,14 +10,14 @@ tags:
 aliases: ["Staff of Fire"]
 ---
 # Staff of Fire *Item 3+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
 
 This staff resembles a blackened and burned length of ashen wood. It smells faintly of soot and glows as if lit by embers.
 
-You can use an [Interact](rules/actions/interact.md) action to touch the tip of this staff to a torch, tinder, or a flammable substance to ignite a flame.
+You can use an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to touch the tip of this staff to a torch, tinder, or a flammable substance to ignite a flame.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
@@ -34,22 +34,22 @@ You expend a number of charges from the staff to cast a spell from its list.
 
 - **Price**: 60 gp
 
-- **Cantrip** [produce flame](compendium/spells/produce-flame.md)
-- **1st** [burning hands](compendium/spells/burning-hands.md)
+- **Cantrip** [produce flame](produce-flame.md)
+- **1st** [burning hands](burning-hands.md)
 
 #### greater staff of fire *Item 8*
 
 - **Price**: 450 gp
 
-- **2nd** [burning hands](compendium/spells/burning-hands.md), [flaming sphere](compendium/spells/flaming-sphere.md)
-- **3rd** [flaming sphere](compendium/spells/flaming-sphere.md), [fireball](compendium/spells/fireball.md)
+- **2nd** [burning hands](burning-hands.md), [flaming sphere](flaming-sphere.md)
+- **3rd** [flaming sphere](flaming-sphere.md), [fireball](archive/srd/pf2e/compendium/spells/fireball.md)
 
 #### major staff of fire *Item 12*
 
 - **Price**: 1800 gp
 
-- **4th** [fire shield](compendium/spells/fire-shield.md), [fireball](compendium/spells/fireball.md), [wall of fire](compendium/spells/wall-of-fire.md)
-- **5th** [fireball](compendium/spells/fireball.md), [wall of fire](compendium/spells/wall-of-fire.md)
+- **4th** [fire shield](archive/srd/pf2e/compendium/spells/fire-shield.md), [fireball](archive/srd/pf2e/compendium/spells/fireball.md), [wall of fire](archive/srd/pf2e/compendium/spells/wall-of-fire.md)
+- **5th** [fireball](archive/srd/pf2e/compendium/spells/fireball.md), [wall of fire](archive/srd/pf2e/compendium/spells/wall-of-fire.md)
 
 ---
 *Source: Core Rulebook p. 594*

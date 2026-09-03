@@ -11,7 +11,7 @@ tags:
 aliases: ["Mask of the Cursed Eye"]
 ---
 # Mask of the Cursed Eye *Item 8*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 475 gp
 - **Bulk** —; **Usage** worn mask
@@ -21,10 +21,10 @@ A mask of the cursed eye is decorated with at least one wide, staring eye. The f
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature is unaffected. You know you've been targeted with a divination spell, but the mask gives you no additional information.
-> - **Failure** The creature is [sickened](rules/conditions.md#Sickened) and [dazzled](rules/conditions.md#Dazzled) for 1 minute.
+> - **Failure** The creature is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) and [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 minute.
 >
 >    You know you've been targeted with a divination spell, but the mask gives you no additional information.
-> - **Critical Failure** The creature is [sickened](rules/conditions.md#Sickened) and [dazzled](rules/conditions.md#Dazzled) for 10 minutes, and the spell is disrupted. You gain a brief mental glimpse of the triggering creature and learn its approximate distance and direction.
+> - **Critical Failure** The creature is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) and [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 10 minutes, and the spell is disrupted. You gain a brief mental glimpse of the triggering creature and learn its approximate distance and direction.
 
 
 ---

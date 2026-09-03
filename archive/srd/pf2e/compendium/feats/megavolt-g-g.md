@@ -8,8 +8,8 @@ tags:
 - trait/manipulate
 aliases: ["Megavolt"]
 ---
-# Megavolt  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
+# Megavolt  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Activity** Two-Action
 
@@ -23,7 +23,7 @@ If you have the breakthrough innovation|Inventor|G&G|7 class feature, you can ch
 
 ## Megavolt leads to...
 
-[Gigavolt](compendium/feats/gigavolt-g-g.md)
+[Gigavolt](gigavolt-g-g.md)
 
 ## Summary
 

@@ -9,10 +9,10 @@ tags:
 - trait/visual
 aliases: ["Fey's Trickery"]
 ---
-# Fey's Trickery  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+# Fey's Trickery  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Prerequisites**: [Living Vessel Dedication](compendium/feats/living-vessel-dedication-da.md), your entity is a fey
+- **Prerequisites**: [Living Vessel Dedication](living-vessel-dedication-da.md), your entity is a fey
 - **Frequency**: once per hour
 - **Activity** Two-Action
 

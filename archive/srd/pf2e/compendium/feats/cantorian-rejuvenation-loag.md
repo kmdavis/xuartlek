@@ -9,8 +9,8 @@ tags:
 - trait/positive
 aliases: ["Cantorian Rejuvenation"]
 ---
-# Cantorian Rejuvenation  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[healing](rules/traits/healing.md "Healing Effect Trait")  [hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
+# Cantorian Rejuvenation  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
+[healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [hobgoblin](hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [positive](positive.md "Positive Energy & Element Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action

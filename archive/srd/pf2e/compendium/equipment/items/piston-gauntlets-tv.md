@@ -11,7 +11,7 @@ tags:
 aliases: ["Piston Gauntlets"]
 ---
 # Piston Gauntlets *Item 13*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2800 gp
 - **Bulk** L; **Usage** held in 1 hand

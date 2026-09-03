@@ -28,12 +28,12 @@ aliases: ["Aakriti", "The Evershifting"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Acrobatics
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [creation](compendium/setting/domains.md#Creation), [fate](compendium/setting/domains.md#Fate), [time](compendium/setting/domains.md#Time)
-- **Alternate Domains**: [freedom](compendium/setting/domains.md#Freedom), [knowledge](compendium/setting/domains.md#Knowledge)
-- **Cleric Spells**: 1st: [ant haul](compendium/spells/ant-haul.md); 3rd: [insect form](compendium/spells/insect-form.md); 9th: [shapechange](compendium/spells/shapechange.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [time](archive/srd/pf2e/compendium/setting/domains.md#Time)
+- **Alternate Domains**: [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge)
+- **Cleric Spells**: 1st: [ant haul](archive/srd/pf2e/compendium/spells/ant-haul.md); 3rd: [insect form](archive/srd/pf2e/compendium/spells/insect-form.md); 9th: [shapechange](shapechange.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Aakriti

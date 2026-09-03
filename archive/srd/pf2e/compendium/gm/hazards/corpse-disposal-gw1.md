@@ -8,14 +8,14 @@ tags:
 aliases: ["Corpse Disposal"]
 ---
 # Corpse Disposal *Hazard 2*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 21 (or 0 if the trapdoor is disabled or [broken](rules/conditions.md#Broken))  
+- **Stealth** DC 21 (or 0 if the trapdoor is disabled or [broken](archive/srd/pf2e/rules/conditions.md#Broken))  
 
-A wooden trapdoor conceals a spike-filled pit 10 feet square and 20 feet deep. The DC to [Climb](rules/actions/climb.md) out of the pit is 10.
+A wooden trapdoor conceals a spike-filled pit 10 feet square and 20 feet deep. The DC to [Climb](archive/srd/pf2e/rules/actions/climb.md) out of the pit is 10.
 
-- **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) (trained) to jam the trapdoor open  
+- **Disable** DC 18 [Thievery](skills.md#Thievery) (trained) to jam the trapdoor open  
 
 - **AC** 18, **Fort** +7, **Ref** +7
 - **Trapdoor Hardness** 9, **Trapdoor HP** 30

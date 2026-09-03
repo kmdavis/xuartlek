@@ -7,9 +7,9 @@ tags:
 aliases: ["Halfling Ingenuity"]
 ---
 # Halfling Ingenuity  *Feat 5*  
-[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
+[halfling](archive/srd/pf2e/rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Halfling Luck](compendium/feats/halfling-luck.md)
+- **Prerequisites**: [Halfling Luck](archive/srd/pf2e/compendium/feats/halfling-luck.md)
 
 While your willingness to dig into a task you know little about might get you into trouble, your incredible luck often saves you from danger. You can attempt skill actions that normally require you to be trained even if you aren't trained in that skill.
 

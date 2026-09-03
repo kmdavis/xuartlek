@@ -9,7 +9,7 @@ tags:
 aliases: ["Clockwork Megaphone"]
 ---
 # Clockwork Megaphone *Item 1*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 15 gp
 - **Bulk** 1

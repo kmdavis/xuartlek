@@ -20,8 +20,8 @@ aliases: ["Pazuzu", "King of the Wind Demons"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [longsword](compendium/equipment/items/longsword.md)
-- **Domains**: [air](compendium/setting/domains.md#Air), [swarm](compendium/setting/domains.md#Swarm), [trickery](compendium/setting/domains.md#Trickery), [tyranny](compendium/setting/domains.md#Tyranny)
-- **Cleric Spells**: 1st: [gust of wind](compendium/spells/gust-of-wind.md); 3rd: [suggestion](compendium/spells/suggestion.md); 4th: [fly](compendium/spells/fly.md)
+- **Favored Weapon**: [longsword](archive/srd/pf2e/compendium/equipment/items/longsword.md)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery), [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny)
+- **Cleric Spells**: 1st: [gust of wind](archive/srd/pf2e/compendium/spells/gust-of-wind.md); 3rd: [suggestion](archive/srd/pf2e/compendium/spells/suggestion.md); 4th: [fly](archive/srd/pf2e/compendium/spells/fly.md)

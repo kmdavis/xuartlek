@@ -11,10 +11,10 @@ tags:
 aliases: ["Darkened Eyes"]
 ---
 # Darkened Eyes *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [darkness](archive/srd/pf2e/rules/traits/darkness.md "Darkness Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [darkness](compendium/setting/domains.md#Darkness)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Fortitude
@@ -24,8 +24,8 @@ You infuse a creature's vision with darkness. After attempting its save, the tar
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target's [darkvision](rules/abilities/darkvision.md) or low-light vision is suppressed for 1 round.
+> - **Success** The target's [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) or low-light vision is suppressed for 1 round.
 > - **Failure** As success, but the duration is 1 minute.
-> - **Critical Failure** As success, but the duration is 1 minute, and the target is also [blinded](rules/conditions.md#Blinded) for the duration. It can attempt a new save at the end of each of its turns. If it succeeds, it's no longer [blinded](rules/conditions.md#Blinded), but its [darkvision](rules/abilities/darkvision.md) or [low-light vision](rules/abilities/low-light-vision.md) remains suppressed.
+> - **Critical Failure** As success, but the duration is 1 minute, and the target is also [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) for the duration. It can attempt a new save at the end of each of its turns. If it succeeds, it's no longer [blinded](archive/srd/pf2e/rules/conditions.md#Blinded), but its [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) or [low-light vision](archive/srd/pf2e/rules/abilities/low-light-vision.md) remains suppressed.
 
 *Source: Core Rulebook p. 390*

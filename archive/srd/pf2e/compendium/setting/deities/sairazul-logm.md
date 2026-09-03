@@ -20,8 +20,8 @@ aliases: ["Sairazul", "The Crystalline Queen"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [pick](compendium/equipment/items/pick.md)
-- **Domains**: [earth](compendium/setting/domains.md#Earth), [family](compendium/setting/domains.md#Family), [toil](compendium/setting/domains.md#Toil), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [shattering gem](compendium/spells/shattering-gem-logm.md); 2nd: [expeditious excavation](compendium/spells/expeditious-excavation-logm.md); 4th: [stoneskin](compendium/spells/stoneskin.md)
+- **Favored Weapon**: [pick](archive/srd/pf2e/compendium/equipment/items/pick.md)
+- **Domains**: [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [toil](archive/srd/pf2e/compendium/setting/domains.md#Toil), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [shattering gem](shattering-gem-logm.md); 2nd: [expeditious excavation](expeditious-excavation-logm.md); 4th: [stoneskin](stoneskin.md)

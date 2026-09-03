@@ -6,8 +6,8 @@ tags:
 - trait/general
 aliases: ["Steel Your Resolve"]
 ---
-# Steel Your Resolve  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 3*  
-[general](rules/traits/general.md "General Feat Trait")  
+# Steel Your Resolve  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 3*  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  
 
 - **Cost**: 1 Resolve Point
 - **Activity** Single Action

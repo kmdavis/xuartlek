@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of Contagious Frailty"]
 ---
 # Wand of Contagious Frailty *Item 5*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 160 gp
 - **Craft Requirements** Supply a casting of ray of enfeeblement.

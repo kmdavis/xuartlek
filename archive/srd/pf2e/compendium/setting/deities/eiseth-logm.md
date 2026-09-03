@@ -20,8 +20,8 @@ aliases: ["Eiseth", "The Erinyes Queen"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Dexterity
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [destruction](compendium/setting/domains.md#Destruction), [might](compendium/setting/domains.md#Might), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 3rd: [fireball](compendium/spells/fireball.md); 4th: [dimension door](compendium/spells/dimension-door.md)
+- **Favored Weapon**: [longbow](archive/srd/pf2e/compendium/equipment/items/longbow.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 3rd: [fireball](archive/srd/pf2e/compendium/spells/fireball.md); 4th: [dimension door](dimension-door.md)

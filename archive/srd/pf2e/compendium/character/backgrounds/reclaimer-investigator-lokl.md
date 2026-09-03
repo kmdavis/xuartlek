@@ -17,4 +17,4 @@ Whatever the organization gains from the pact, some mysterious force with its ow
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Occultism](compendium/skills.md#Occultism) skill and the [Crimson Reclaimers Lore](compendium/skills.md#Lore) skill. You gain the [Oddity Identification](compendium/feats/oddity-identification.md) skill feat.
+You're trained in the [Occultism](skills.md#Occultism) skill and the [Crimson Reclaimers Lore](skills.md#Lore) skill. You gain the [Oddity Identification](archive/srd/pf2e/compendium/feats/oddity-identification.md) skill feat.

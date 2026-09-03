@@ -20,8 +20,8 @@ aliases: ["Ashukharma", "The Divine Divide"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Crafting
-- **Favored Weapon**: [greatsword](compendium/equipment/items/greatsword.md)
-- **Domains**: [earth](compendium/setting/domains.md#Earth), [might](compendium/setting/domains.md#Might), [protection](compendium/setting/domains.md#Protection), [repose](compendium/setting/domains.md#Repose)
-- **Cleric Spells**: 1st: [shattering gem](compendium/spells/shattering-gem-logm.md); 4th: [shape stone](compendium/spells/shape-stone.md); 5th: [wall of stone](compendium/spells/wall-of-stone.md)
+- **Favored Weapon**: [greatsword](archive/srd/pf2e/compendium/equipment/items/greatsword.md)
+- **Domains**: [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose)
+- **Cleric Spells**: 1st: [shattering gem](shattering-gem-logm.md); 4th: [shape stone](archive/srd/pf2e/compendium/spells/shape-stone.md); 5th: [wall of stone](archive/srd/pf2e/compendium/spells/wall-of-stone.md)

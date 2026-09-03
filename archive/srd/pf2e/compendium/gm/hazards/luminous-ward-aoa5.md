@@ -8,14 +8,14 @@ tags:
 aliases: ["Luminous Ward"]
 ---
 # Luminous Ward *Hazard 18*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 40 master  
 
 A burst of radiance explodes from the door.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 40 (master) to disable the wards or dispel magic (9th level; counteract DC 38) to counteract the ward  
+- **Disable** [Thievery](skills.md#Thievery) DC 40 (master) to disable the wards or dispel magic (9th level; counteract DC 38) to counteract the ward  
 
 ```ad-embed-ability
 title: **Radiant Explosion** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([fire](rules/traits/fire.md), [light](rules/traits/light.md))

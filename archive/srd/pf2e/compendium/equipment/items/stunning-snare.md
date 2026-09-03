@@ -11,7 +11,7 @@ tags:
 aliases: ["Stunning Snare"]
 ---
 # Stunning Snare *Item 12*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 320 gp
 
@@ -19,9 +19,9 @@ You rig a snare to disorient a creature with a quick bash, leaving it with littl
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature takes half damage and is [flat-footed](rules/conditions.md#Flat-footed) for 1 round and [stunned](rules/conditions.md#Stunned).
-> - **Failure** The creature takes full damage and is [flat-footed](rules/conditions.md#Flat-footed) for 1 round and [stunned](rules/conditions.md#Stunned).
-> - **Critical Failure** The creature takes double damage and is [flat-footed](rules/conditions.md#Flat-footed) for 1 minute and [stunned](rules/conditions.md#Stunned).
+> - **Success** The creature takes half damage and is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) for 1 round and [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
+> - **Failure** The creature takes full damage and is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) for 1 round and [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
+> - **Critical Failure** The creature takes double damage and is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) for 1 minute and [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
 
 
 ---

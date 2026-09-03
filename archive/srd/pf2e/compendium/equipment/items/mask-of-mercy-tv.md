@@ -10,12 +10,12 @@ tags:
 aliases: ["Mask of Mercy"]
 ---
 # Mask of Mercy *Item 4*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Price** 100 gp
 - **Bulk** —; **Usage** worn mask
 
-This porcelain or alabaster mask portrays an angelic visage of kindness and mercy. The mask grants a +1 item bonus to [Medicine](compendium/skills.md#Medicine) checks.
+This porcelain or alabaster mask portrays an angelic visage of kindness and mercy. The mask grants a +1 item bonus to [Medicine](skills.md#Medicine) checks.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision ([fortune](rules/traits/fortune.md))

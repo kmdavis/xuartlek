@@ -11,14 +11,14 @@ tags:
 aliases: ["Sun Wheel"]
 ---
 # Sun Wheel *Item 5*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 150 gp
 - **Bulk** –; **Usage** worn
 
-Created by the priests of a Qadiran sect of [Sarenites](compendium/setting/deities/sarenrae.md), the _sun wheels_ were designed to protect the [Dawnflower](compendium/setting/deities/sarenrae.md)'s followers in their quest to hunt down a dangerous cult trying to raise a spawn of the evil god [Rovagug](compendium/setting/deities/rovagug.md). Once they completed their crusade, these priests disbanded and went on to minister other congregations. They each took their _sun wheels_ with them, handing them down to the next generations.
+Created by the priests of a Qadiran sect of [Sarenites](sarenrae.md), the _sun wheels_ were designed to protect the [Dawnflower](sarenrae.md)'s followers in their quest to hunt down a dangerous cult trying to raise a spawn of the evil god [Rovagug](rovagug.md). Once they completed their crusade, these priests disbanded and went on to minister other congregations. They each took their _sun wheels_ with them, handing them down to the next generations.
 
-This copper medallion is etched with a stylized sun, its rays shaped like the spokes of a wagon wheel. It tends to glint brightly when exposed to sunlight. While wearing this pendant, you gain a +1 item bonus to [Religion](compendium/skills.md#Religion) checks.
+This copper medallion is etched with a stylized sun, its rays shaped like the spokes of a wagon wheel. It tends to glint brightly when exposed to sunlight. While wearing this pendant, you gain a +1 item bonus to [Religion](skills.md#Religion) checks.
 
 You must be good-aligned to use the _sun wheel_'s true power: the following activation, which provides you a shield of burning force.
 

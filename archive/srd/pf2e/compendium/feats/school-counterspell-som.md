@@ -7,9 +7,9 @@ tags:
 aliases: ["School Counterspell"]
 ---
 # School Counterspell  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: Counterspell, [Runelord Dedication](compendium/feats/runelord-dedication-som.md)
+- **Prerequisites**: Counterspell, [Runelord Dedication](runelord-dedication-som.md)
 
 Your intricate knowledge of your school lets you easily negate spells from that school. Instead of being able to counter a foe's spell with Counterspell only if you have the same spell prepared, if the foe casts a spell from the school matching your specialization, you can Counterspell it with any other spell of the same school.
 

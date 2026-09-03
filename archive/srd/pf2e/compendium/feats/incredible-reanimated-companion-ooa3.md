@@ -7,15 +7,15 @@ tags:
 aliases: ["Incredible Reanimated Companion"]
 ---
 # Incredible Reanimated Companion  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Advanced Reanimated Companion](compendium/feats/advanced-reanimated-companion-ooa3.md)
+- **Prerequisites**: [Advanced Reanimated Companion](advanced-reanimated-companion-ooa3.md)
 
 You imbue the necrotized flesh of your reanimated construct companion with strange chemicals and fine-tune the clockwork within, enhancing all its capabilities. It becomes an incredible construct companion.
 
 ## Incredible Reanimated Companion leads to...
 
-[Paragon Reanimated Companion](compendium/feats/paragon-reanimated-companion-ooa3.md)
+[Paragon Reanimated Companion](paragon-reanimated-companion-ooa3.md)
 
 ## Summary
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Full Plate"]
 ---
 # Full Plate *Item 2*  
-[bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  
+[bulwark](archive/srd/pf2e/rules/traits/bulwark.md "Bulwark Armor Trait")  
 
 - **Price** 30 gp
 - **Bulk** 4
@@ -16,7 +16,7 @@ aliases: ["Full Plate"]
 - **Strength** 18; **Check Penalty** -3; **Speed Penalty** -10 ft.
 - **Category** Heavy; **Group** Plate 
 
-Plate mail consists of interlocking plates that encase nearly the entire body in a carapace of steel. It is costly and heavy, and the wearer often requires help to don it correctly, but it provides some of the best defense armor can supply. A suit of this armor comes with an undercoat of [padded armor](compendium/equipment/items/padded-armor.md) and a pair of [gauntlets](compendium/equipment/items/gauntlet.md).
+Plate mail consists of interlocking plates that encase nearly the entire body in a carapace of steel. It is costly and heavy, and the wearer often requires help to don it correctly, but it provides some of the best defense armor can supply. A suit of this armor comes with an undercoat of [padded armor](archive/srd/pf2e/compendium/equipment/items/padded-armor.md) and a pair of [gauntlets](archive/srd/pf2e/compendium/equipment/items/gauntlet.md).
 
 
 ---

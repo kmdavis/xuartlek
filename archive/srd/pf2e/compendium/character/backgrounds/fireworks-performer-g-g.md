@@ -17,4 +17,4 @@ Of course, someone who travels the roads with a pack full of high explosives is 
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Performance](compendium/skills.md#Performance) skill and the [Engineering Lore](compendium/skills.md#Lore) skill. You gain the [Fascinating Performance](compendium/feats/fascinating-performance.md) skill feat.
+You're trained in the [Performance](skills.md#Performance) skill and the [Engineering Lore](skills.md#Lore) skill. You gain the [Fascinating Performance](archive/srd/pf2e/compendium/feats/fascinating-performance.md) skill feat.

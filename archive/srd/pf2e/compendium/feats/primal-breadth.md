@@ -7,9 +7,9 @@ tags:
 aliases: ["Primal Breadth"]
 ---
 # Primal Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Druid Spellcasting](compendium/feats/basic-druid-spellcasting.md)
+- **Prerequisites**: [Basic Druid Spellcasting](archive/srd/pf2e/compendium/feats/basic-druid-spellcasting.md)
 
 Increase the spell slots you gain from druid archetype feats by 1 for each spell level other than your two highest Druid spell slots.
 

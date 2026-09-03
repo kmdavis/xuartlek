@@ -11,7 +11,7 @@ tags:
 aliases: ["Spellcutter"]
 ---
 # Spellcutter *Item 17*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [cursed](cursed-gmg.md "Cursed Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 15000 gp
 - **Bulk** 1; **Usage** held in 1 hand

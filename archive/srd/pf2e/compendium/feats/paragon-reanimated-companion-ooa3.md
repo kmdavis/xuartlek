@@ -7,9 +7,9 @@ tags:
 aliases: ["Paragon Reanimated Companion"]
 ---
 # Paragon Reanimated Companion  *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Incredible Reanimated Companion](compendium/feats/incredible-reanimated-companion-ooa3.md)
+- **Prerequisites**: [Incredible Reanimated Companion](incredible-reanimated-companion-ooa3.md)
 
 You have reached the pinnacle of necromantic science, creating a mechanical zombie unlike any the world has seen before. Your reanimated construct companion becomes a paragon construct companion.
 

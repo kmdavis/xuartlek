@@ -11,12 +11,12 @@ tags:
 aliases: ["Lady's Chalice"]
 ---
 # Lady's Chalice *Item 3*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [good](good.md "Good Alignment Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 60 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-This silver chalice bears the symbol of [Pharasma](compendium/setting/deities/pharasma.md), a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+This silver chalice bears the symbol of [Pharasma](pharasma.md), a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

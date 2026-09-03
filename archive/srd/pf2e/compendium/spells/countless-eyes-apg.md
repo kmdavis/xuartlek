@@ -8,14 +8,14 @@ tags:
 aliases: ["Countless Eyes"]
 ---
 # Countless Eyes *Spell 4*   
-[divination](rules/traits/divination.md "Divination School Trait")  
+[divination](divination.md "Divination School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Duration**: 1 minute
 
-Eyes form across the touched creature's body, allowing it to see in all directions at once. The subject can't be flanked for the spell's duration. In addition, when the subject Seeks, it can [Seek](rules/actions/seek.md) in a 30-foot burst centered on itself or up to four 15-foot bursts within line of sight.
+Eyes form across the touched creature's body, allowing it to see in all directions at once. The subject can't be flanked for the spell's duration. In addition, when the subject Seeks, it can [Seek](archive/srd/pf2e/rules/actions/seek.md) in a 30-foot burst centered on itself or up to four 15-foot bursts within line of sight.
 
 *Source: Advanced Player's Guide p. 217*

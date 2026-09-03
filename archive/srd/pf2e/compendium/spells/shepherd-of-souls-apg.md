@@ -11,10 +11,10 @@ tags:
 aliases: ["Shepherd Of Souls"]
 ---
 # Shepherd Of Souls *Focus 5*   
-[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: A living creature within 30 feet takes damage.
 - **Range**: 30 foot
 - **Targets**: 1 creature

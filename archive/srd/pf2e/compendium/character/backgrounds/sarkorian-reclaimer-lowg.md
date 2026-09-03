@@ -15,6 +15,6 @@ Whether you trace your heritage to lost Sarkoris or are a crusader trying to ato
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free boost.
 
-You're trained in the [Medicine](compendium/skills.md#Medicine) skill and the [Abyssal Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Medicine](skills.md#Medicine) skill and the [Abyssal Lore](skills.md#Lore) skill.
 
-You gain the [Battle Medicine](compendium/feats/battle-medicine.md) skill feat.
+You gain the [Battle Medicine](archive/srd/pf2e/compendium/feats/battle-medicine.md) skill feat.

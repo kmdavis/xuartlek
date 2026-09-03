@@ -8,7 +8,7 @@ tags:
 aliases: ["Influence"]
 ---
 # Influence
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  
 *Source: Gamemastery Guide p. 151*  
 
 **Variant Rule** Influence

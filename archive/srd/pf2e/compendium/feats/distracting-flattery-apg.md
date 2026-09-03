@@ -7,16 +7,16 @@ tags:
 - trait/skill
 aliases: ["Distracting Flattery"]
 ---
-# Distracting Flattery  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+# Distracting Flattery  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: [Dandy Dedication](compendium/feats/dandy-dedication-apg.md), expert in [Deception](compendium/skills.md#Deception)
+- **Prerequisites**: [Dandy Dedication](dandy-dedication-apg.md), expert in [Deception](skills.md#Deception)
 - **Trigger** You observe a target's attitude toward yourself or your allies decrease as a result of an ally's behavior.
 - **Activity** Reaction
 
 You know how to maintain a good impression and manage your image, even while keeping uncouth company.
 
-Make a [Deception](compendium/skills.md#Deception) check against the target's Will DC. Regardless of your result, the target is temporarily immune to your Distracting Flattery for 10 minutes.
+Make a [Deception](skills.md#Deception) check against the target's Will DC. Regardless of your result, the target is temporarily immune to your Distracting Flattery for 10 minutes.
 
 > [!success-degree] 
 > - **Success** The target's attitude doesn't decrease as a result of your ally's social blunder.

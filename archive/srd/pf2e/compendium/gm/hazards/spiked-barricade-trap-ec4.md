@@ -8,14 +8,14 @@ tags:
 aliases: ["Spiked Barricade Trap"]
 ---
 # Spiked Barricade Trap *Hazard 13*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 32 expert  
 
 Spring-loaded wedges of sharpened stone pop out of the wooden barricade.
 
-- **Disable** DC 33 [Thievery](compendium/skills.md#Thievery) (expert) to suppress the spring mechanism for one 5-foot segment of the barricade.  
+- **Disable** DC 33 [Thievery](skills.md#Thievery) (expert) to suppress the spring mechanism for one 5-foot segment of the barricade.  
 
 - **AC** 34, **Fort** +26, **Ref** +18
 - **Hardness** 22, **HP** 88 (BT 44)

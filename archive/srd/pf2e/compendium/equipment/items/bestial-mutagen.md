@@ -12,14 +12,14 @@ tags:
 aliases: ["Bestial Mutagen"]
 ---
 # Bestial Mutagen *Item 1+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [mutagen](rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [mutagen](archive/srd/pf2e/rules/traits/mutagen.md "Mutagen Item Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Your features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy.
 
-**Benefit** You gain an item bonus to [Athletics](compendium/skills.md#Athletics) checks and unarmed attack rolls. You gain a claw unarmed attack with the [agile](rules/traits/agile.md "Agile Weapon Trait") trait and a jaws unarmed attack.
+**Benefit** You gain an item bonus to [Athletics](skills.md#Athletics) checks and unarmed attack rolls. You gain a claw unarmed attack with the [agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait") trait and a jaws unarmed attack.
 
 **Drawback** You take a –1 penalty to AC and a –2 penalty to Reflex saves.
 

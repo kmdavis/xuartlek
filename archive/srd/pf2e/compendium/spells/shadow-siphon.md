@@ -9,11 +9,11 @@ tags:
 aliases: ["Shadow Siphon"]
 ---
 # Shadow Siphon *Spell 5*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [shadow](archive/srd/pf2e/rules/traits/shadow.md "Shadow General Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**: A spell or [magical](rules/traits/magical.md "Magical Item Trait") effect deals damage.
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Trigger**: A spell or [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait") effect deals damage.
 - **Range**: 60 foot
 - **Targets**: the triggering spell
 

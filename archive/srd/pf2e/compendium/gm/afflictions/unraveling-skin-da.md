@@ -13,7 +13,7 @@ aliases: ["Unraveling Skin"]
 ---
 # Unraveling Skin
 *Curse 5*  
-[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 Often used to protect ancient tomes, this curse causes your skin to shed like weathered paper, cracking and bleeding at the slightest touch.
 
@@ -25,7 +25,7 @@ title: Saving Throw: DC 20 Fortitude
 
 ## Tempting Curse
 
-Your skin falls from your body and exposes your raw flesh beneath, but the curse holds your flesh together as its magic increases. You gain resistance to [persistent bleed damage](rules/conditions.md#Persistent%20Damage) equal to half your level and are [doomed](rules/conditions.md#Doomed).
+Your skin falls from your body and exposes your raw flesh beneath, but the curse holds your flesh together as its magic increases. You gain resistance to [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) equal to half your level and are [doomed](archive/srd/pf2e/rules/conditions.md#Doomed).
 
 ## Summary
 

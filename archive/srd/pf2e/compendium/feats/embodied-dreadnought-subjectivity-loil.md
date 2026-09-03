@@ -8,12 +8,12 @@ tags:
 aliases: ["Embodied Dreadnought Subjectivity"]
 ---
 # Embodied Dreadnought Subjectivity  *Feat 5*  
-[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[fleshwarp](fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You're from Nex.
 - **Prerequisites**: heritage
 
-Your colossal might marks you as a behemoth, the pride of Nex's Fleshforges, and the heaviest ordnance is a child's toy in your monumental grasp. You're a dreadnought, a living siege weapon, albeit one that wields other siege weapons in battle as your endoskeleton and flesh toughens. You gain the [Hefty Hauler](compendium/feats/hefty-hauler.md) skill feat, and your maximum Bulk limit further increases by 3, for a total of 2 to your [encumbered](rules/conditions.md#Encumbered) limit and 5 to your maximum limit.
+Your colossal might marks you as a behemoth, the pride of Nex's Fleshforges, and the heaviest ordnance is a child's toy in your monumental grasp. You're a dreadnought, a living siege weapon, albeit one that wields other siege weapons in battle as your endoskeleton and flesh toughens. You gain the [Hefty Hauler](archive/srd/pf2e/compendium/feats/hefty-hauler.md) skill feat, and your maximum Bulk limit further increases by 3, for a total of 2 to your [encumbered](archive/srd/pf2e/rules/conditions.md#Encumbered) limit and 5 to your maximum limit.
 
 *Source: Lost Omens: Impossible Lands p. 29*  
 %% #compendium/src/pf2e/loil #trait/fleshwarp #trait/uncommon %%

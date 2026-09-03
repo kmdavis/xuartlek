@@ -12,14 +12,14 @@ tags:
 aliases: ["Retrieval Prism"]
 ---
 # Retrieval Prism *Item 3+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Usage** affixed to armor
 - **Activate** command; **Requirements** You have a free hand.
 
-This triangular prism showing swirling black patterns inside constantly moves around on your armor, no matter where you affix it. As part of the process of [Affixing the Talisman](rules/actions/affix-a-talisman.md), you attune it to a single item of 1 Bulk or less. When you activate this talisman, the attuned item immediately teleports into your hand.
+This triangular prism showing swirling black patterns inside constantly moves around on your armor, no matter where you affix it. As part of the process of [Affixing the Talisman](archive/srd/pf2e/rules/actions/affix-a-talisman.md), you attune it to a single item of 1 Bulk or less. When you activate this talisman, the attuned item immediately teleports into your hand.
 
-The retrieval prism can't retrieve an item that's not on your plane, including one that's in an extradimensional space like a bag of holding. If you haven't expended the talisman, you can attune it to a different item by [Affixing the Talisman](rules/actions/affix-a-talisman.md) again.
+The retrieval prism can't retrieve an item that's not on your plane, including one that's in an extradimensional space like a bag of holding. If you haven't expended the talisman, you can attune it to a different item by [Affixing the Talisman](archive/srd/pf2e/rules/actions/affix-a-talisman.md) again.
 
 ---
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Busine of Divine Reinforcements"]
 ---
 # Busine of Divine Reinforcements *Item 15*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [good](good.md "Good Alignment Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 6000 gp
@@ -20,7 +20,7 @@ aliases: ["Busine of Divine Reinforcements"]
 
 This long, straight, trumpet-like instrument is made of well-polished brass and adorned with imagery of angels fighting demons or religious symbols.
 
-When played as an instrument, the busine generates powerful and harmonious notes and grants a +2 item bonus to [Performance](compendium/skills.md#Performance) checks.
+When played as an instrument, the busine generates powerful and harmonious notes and grants a +2 item bonus to [Performance](skills.md#Performance) checks.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md) ([auditory](rules/traits/auditory.md))

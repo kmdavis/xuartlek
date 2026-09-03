@@ -7,11 +7,11 @@ tags:
 aliases: ["Coughing Dragon Display"]
 ---
 # Coughing Dragon Display  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Firework Technician Dedication](compendium/feats/firework-technician-dedication-g-g.md)
+- **Prerequisites**: [Firework Technician Dedication](firework-technician-dedication-g-g.md)
 
-This display emits a cascade of loud bangs or glittering trails. While you initially designed the display to captivate your audience's attention, it turns out to have a surprisingly effective use in combat, suppressing [auditory](rules/traits/auditory.md "Auditory Effect Trait") or [visual](rules/traits/visual.md "Visual Effect Trait") effects behind your magnificent display. You gain the Coughing Dragon fireworks display.
+This display emits a cascade of loud bangs or glittering trails. While you initially designed the display to captivate your audience's attention, it turns out to have a surprisingly effective use in combat, suppressing [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait") or [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait") effects behind your magnificent display. You gain the Coughing Dragon fireworks display.
 
 ```ad-embed-ability
 title: **Coughing Dragon** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")

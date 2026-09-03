@@ -7,7 +7,7 @@ tags:
 aliases: ["Arcane Locomotion"]
 ---
 # Arcane Locomotion  *Feat 13*  
-[automaton](rules/traits/automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
+[automaton](automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
 
 
 You've modified your body to allow you to augment your movement. You gain either a climb Speed of 20 feet or a swim Speed of 20 feet, your choice.

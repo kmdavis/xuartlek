@@ -7,9 +7,9 @@ tags:
 aliases: ["Hobgoblin Weapon Discipline"]
 ---
 # Hobgoblin Weapon Discipline  *Feat 5*  
-[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
+[hobgoblin](hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Hobgoblin Weapon Familiarity](compendium/feats/hobgoblin-weapon-familiarity-locg.md)
+- **Prerequisites**: [Hobgoblin Weapon Familiarity](hobgoblin-weapon-familiarity-locg.md)
 
 You know how to efficiently utilize the weapons soldiers use in close quarters.
 

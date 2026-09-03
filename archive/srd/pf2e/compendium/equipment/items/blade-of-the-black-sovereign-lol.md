@@ -11,14 +11,14 @@ tags:
 aliases: ["Blade Of The Black Sovereign"]
 ---
 # Blade Of The Black Sovereign *Item 15*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 6500 gp
 - **Bulk** 2; **Usage** held in 2 hands
 
-This +2 greater striking shock greatsword is forged from standard-grade adamantine, with inlays of [broken](rules/conditions.md#Broken) circuitry and a robot's ocular lens on the cross guard. A soft thrum comes from the blade, which you feel as a subtle pulse through the grip when wielding it.
+This +2 greater striking shock greatsword is forged from standard-grade adamantine, with inlays of [broken](archive/srd/pf2e/rules/conditions.md#Broken) circuitry and a robot's ocular lens on the cross guard. A soft thrum comes from the blade, which you feel as a subtle pulse through the grip when wielding it.
 
-It sparks when unsheathed, emitting dim light within 5 feet. On a hit against a foe made of metal, wearing metal armor, or using a metal shield, if the foe takes electricity damage from the blade, the makes the foe [flat-footed](rules/conditions.md#Flat-footed) for 1 round; if the [Strike](rules/actions/strike.md) was a critical hit, it also makes them [clumsy](rules/conditions.md#Clumsy) for 1 round.
+It sparks when unsheathed, emitting dim light within 5 feet. On a hit against a foe made of metal, wearing metal armor, or using a metal shield, if the foe takes electricity damage from the blade, the makes the foe [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) for 1 round; if the [Strike](archive/srd/pf2e/rules/actions/strike.md) was a critical hit, it also makes them [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) for 1 round.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)

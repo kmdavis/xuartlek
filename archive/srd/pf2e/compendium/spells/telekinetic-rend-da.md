@@ -12,9 +12,9 @@ tags:
 aliases: ["Telekinetic Rend"]
 ---
 # Telekinetic Rend *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](evocation.md "Evocation School Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Area**: 2 non-overlapping 5-foot bursts
 - **Saving Throw**:  basic Fortitude
@@ -25,7 +25,7 @@ Your mind creates a violent axis of motion in a nearby space. You deal your choi
 
 ## Amp
 
-Your thoughts expand in scope and power. The bursts deal `1d6` bludgeoning damage and `1d6` slashing damage, instead of the usual damage. A creature that critically fails its save is also [stunned](rules/conditions.md#Stunned).
+Your thoughts expand in scope and power. The bursts deal `1d6` bludgeoning damage and `1d6` slashing damage, instead of the usual damage. A creature that critically fails its save is also [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
 
 **Amp Heightened (+ 2)** Both types of damage increase by `1d6` instead of just one. Add a third non-overlapping 5-foot burst to the area.
 

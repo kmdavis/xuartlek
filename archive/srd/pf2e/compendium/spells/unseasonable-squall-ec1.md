@@ -11,19 +11,19 @@ tags:
 aliases: ["Unseasonable Squall"]
 ---
 # Unseasonable Squall *Spell 3*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Area**: 20-foot burst
 - **Duration**: until the start of your next turn
 
-You issue a blast of sudden wind that ripples outward from the center of the burst. The wind extinguishes small non-magical fires, disperses fog and mist, scatters objects of light Bulk or less, and pushes unsecured objects of 1 Bulk or less 5 feet away from the spell's origin point. Each Medium or smaller creature in the area when you [Cast the Spell](rules/actions/cast-a-spell.md) or that moves into spell's area must attempt a Fortitude saving throw.
+You issue a blast of sudden wind that ripples outward from the center of the burst. The wind extinguishes small non-magical fires, disperses fog and mist, scatters objects of light Bulk or less, and pushes unsecured objects of 1 Bulk or less 5 feet away from the spell's origin point. Each Medium or smaller creature in the area when you [Cast the Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) or that moves into spell's area must attempt a Fortitude saving throw.
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.
-> - **Failure** The creature is knocked [prone](rules/conditions.md#Prone). If the creature was Flying, it gets a critical failure instead.
-> - **Critical Failure** The creature is pushed 30 feet away from the center of the burst, is knocked [prone](rules/conditions.md#Prone), and takes `2d6` bludgeoning damage.
+> - **Failure** The creature is knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone). If the creature was Flying, it gets a critical failure instead.
+> - **Critical Failure** The creature is pushed 30 feet away from the center of the burst, is knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone), and takes `2d6` bludgeoning damage.
 
 *Source: Extinction Curse #1: The Show Must Go On p. 79*

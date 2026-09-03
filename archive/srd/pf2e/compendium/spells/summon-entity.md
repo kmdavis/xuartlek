@@ -8,14 +8,14 @@ tags:
 aliases: ["Summon Entity"]
 ---
 # Summon Entity *Spell 5*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  
 
-- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 30 foot
 - **Duration**: sustained up to 1 minute
 
-You conjure an aberration to fight for you. This works like [summon animal](compendium/spells/summon-animal.md), except you summon a common creature that has the [aberration](rules/traits/aberration.md "Aberration Creature Type Trait") trait and whose level is 5 or lower.
+You conjure an aberration to fight for you. This works like [summon animal](archive/srd/pf2e/compendium/spells/summon-animal.md), except you summon a common creature that has the [aberration](archive/srd/pf2e/rules/traits/aberration.md "Aberration Creature Type Trait") trait and whose level is 5 or lower.
 
 **Heightened (10th)** Level 15.
 

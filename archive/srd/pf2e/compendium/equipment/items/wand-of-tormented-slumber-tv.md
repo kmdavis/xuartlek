@@ -12,10 +12,10 @@ tags:
 aliases: ["Wand of Tormented Slumber"]
 ---
 # Wand of Tormented Slumber *Item 10*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [sleep](archive/srd/pf2e/rules/traits/sleep.md "Sleep Effect Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 1000 gp
-- **Craft Requirements** Supply a casting of 4th-level [sleep](compendium/spells/sleep.md).
+- **Craft Requirements** Supply a casting of 4th-level [sleep](archive/srd/pf2e/compendium/spells/sleep.md).
 - **Bulk** L; **Usage** held in 1 hand
 
 The carved talon of an unidentifiable beast comprises this wand. Blood-stained cloth wraps the thicker part of the talon, which acts as a handle.

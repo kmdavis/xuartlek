@@ -9,12 +9,12 @@ tags:
 aliases: ["Hat Of Many Minds"]
 ---
 # Hat Of Many Minds *Item 12*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1800 gp
 - **Bulk** L; **Usage** worn headwear
 
-This pointy, brimmed hat made up of a rainbow patchwork of various materials seems to sit just a little lopsided on your head, no matter how you adjust it. You gain a +2 item bonus to checks to [Earn Income](rules/actions/earn-income.md).
+This pointy, brimmed hat made up of a rainbow patchwork of various materials seems to sit just a little lopsided on your head, no matter how you adjust it. You gain a +2 item bonus to checks to [Earn Income](archive/srd/pf2e/rules/actions/earn-income.md).
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") envision, [Interact](rules/actions/interact.md)

@@ -10,14 +10,14 @@ tags:
 aliases: ["Soul Draining Cage"]
 ---
 # Soul Draining Cage *Hazard 6*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 25 expert or [detect magic](compendium/spells/detect-magic.md)  
+- **Stealth** DC 25 expert or [detect magic](archive/srd/pf2e/compendium/spells/detect-magic.md)  
 
 Necromantic runes inscribed on the cage bars and lock drain the vitality of living creatures who interact with the cage.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 25 (expert) to drain the runes' power harmlessly or dispel magic (3rd level; counteract DC 22) to counteract the rune  
+- **Disable** [Thievery](skills.md#Thievery) DC 25 (expert) to drain the runes' power harmlessly or dispel magic (3rd level; counteract DC 22) to counteract the rune  
 
 ```ad-embed-ability
 title: **Soul Drain** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [necromancy](rules/traits/necromancy.md), [negative](rules/traits/negative.md))

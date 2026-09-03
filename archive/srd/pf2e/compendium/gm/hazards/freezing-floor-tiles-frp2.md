@@ -11,14 +11,14 @@ tags:
 aliases: ["Freezing Floor Tiles"]
 ---
 # Freezing Floor Tiles *Hazard 16*  
-[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[cold](archive/srd/pf2e/rules/traits/cold.md "Cold Energy & Element Trait")  [complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +23 expert or DC 38 (master) to notice the four sensors.  
 
 Four remote sensors at each corner of the arena cause bursts of freezing magic to erupt from random tiles on the arena and stop creatures in their tracks.
 
-- **Disable** DC 40 [Thievery](compendium/skills.md#Thievery) (legendary) or dispel magic (6th level; counteract DC 38) to disable one of the sensors.  
+- **Disable** DC 40 [Thievery](skills.md#Thievery) (legendary) or dispel magic (6th level; counteract DC 38) to disable one of the sensors.  
 
 - **AC** 36, **Fort** +33, **Ref** +30
 - **Sensor Hardness** 20, **Sensor HP** 40 (BT 20)

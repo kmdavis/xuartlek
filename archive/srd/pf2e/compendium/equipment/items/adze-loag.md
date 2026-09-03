@@ -10,7 +10,7 @@ tags:
 aliases: ["Adze"]
 ---
 # Adze *Item 0*  
-[forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  
+[forceful](archive/srd/pf2e/rules/traits/forceful.md "Forceful Weapon Trait")  [grippli](grippli-b2.md "Grippli Ancestry & Heritage Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 2

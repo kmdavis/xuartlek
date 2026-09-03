@@ -10,7 +10,7 @@ tags:
 aliases: ["Decanter of Endless Water"]
 ---
 # Decanter of Endless Water *Item 7*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Price** 320 gp
 - **Bulk** L; **Usage** held in 2 hands

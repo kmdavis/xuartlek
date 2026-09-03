@@ -23,11 +23,11 @@ aliases: ["Cayden Cailean", "The Drunken Hero", "The Accidental God"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [rapier](compendium/equipment/items/rapier.md)
-- **Domains**: [cities](compendium/setting/domains.md#Cities), [freedom](compendium/setting/domains.md#Freedom), [indulgence](compendium/setting/domains.md#Indulgence), [might](compendium/setting/domains.md#Might)
-- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 2nd: [touch of idiocy](compendium/spells/touch-of-idiocy.md); 5th: [hallucination](compendium/spells/hallucination.md)
+- **Favored Weapon**: [rapier](archive/srd/pf2e/compendium/equipment/items/rapier.md)
+- **Domains**: [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [might](archive/srd/pf2e/compendium/setting/domains.md#Might)
+- **Cleric Spells**: 1st: [fleet step](archive/srd/pf2e/compendium/spells/fleet-step.md); 2nd: [touch of idiocy](touch-of-idiocy.md); 5th: [hallucination](archive/srd/pf2e/compendium/spells/hallucination.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Cayden Cailean
@@ -44,9 +44,9 @@ title: [Avatar](compendium/spells/avatar.md) of Cayden Cailean
 Cayden sometimes hands out his blessings and communicates his ire at seemingly random opportunities based on his drunken whims. In particular, Cayden blesses the recently liberated to help secure their freedom. Cayden is also known to grant particularly trivial and harmless curses to those who disrupt revelry. These curses typically cause the disruptor to change in appearance, taking on a comical or farcical look. He is quick to lift these curses by dawn or for those who give in to the enjoyment of the evening and join the festivities.
 
 - **Minor Boon** Cayden Cailean helps you recover from nights of carousing. While you still get drunk and otherwise experience the effects of alcohol normally, you are never hung over the next morning.
-- **Moderate Boon**: You share some of the bravery Cayden espoused during his ascension. When you roll a success on a saving throw against a [fear](rules/traits/fear.md "Fear Effect Trait") effect, you get a critical success instead. If you have the fighter bravery|fighter|crb|3 class feature, when you roll a critical failure on a save against a [fear](rules/traits/fear.md "Fear Effect Trait") effect, you get a failure instead.
-- **Major Boon**: An embodiment of freedom, you break fetters with ease. At the end of each of your turns, you can end one effect that is currently making you [immobilized](rules/conditions.md#Immobilized) (including effects that make you [immobilized](rules/conditions.md#Immobilized) by [grabbing](rules/conditions.md#Grabbed) or [restraining](rules/conditions.md#Restrained) you) as a free action.
+- **Moderate Boon**: You share some of the bravery Cayden espoused during his ascension. When you roll a success on a saving throw against a [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effect, you get a critical success instead. If you have the fighter bravery|fighter|crb|3 class feature, when you roll a critical failure on a save against a [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effect, you get a failure instead.
+- **Major Boon**: An embodiment of freedom, you break fetters with ease. At the end of each of your turns, you can end one effect that is currently making you [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) (including effects that make you [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) by [grabbing](archive/srd/pf2e/rules/conditions.md#Grabbed) or [restraining](archive/srd/pf2e/rules/conditions.md#Restrained) you) as a free action.
 
 - **Minor Curse**: Individuals who raise Cayden's passing displeasure awake as if from a hard night of drinking and find that drink tastes foul.
-- **Moderate Curse** Cayden has afflicted you with cowardice. Whenever you roll a critical success on a saving throw against a [fear](rules/traits/fear.md "Fear Effect Trait") effect, you get a success instead, and each time you roll a failure on a saving throw against a [fear](rules/traits/fear.md "Fear Effect Trait") effect, you get a critical failure instead.
+- **Moderate Curse** Cayden has afflicted you with cowardice. Whenever you roll a critical success on a saving throw against a [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effect, you get a success instead, and each time you roll a failure on a saving throw against a [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effect, you get a critical failure instead.
 - **Major Curse**: Cayden curses you to suffer in the presence of drinking, making it hard for you to bear entering any tavern. Whenever any creature drinks alcohol within 100 feet of you, you suffer all negative effects from the alcohol (but only the alcohol) instead. This doesn't apply if the creature gains any special effect from drinking alcohol.

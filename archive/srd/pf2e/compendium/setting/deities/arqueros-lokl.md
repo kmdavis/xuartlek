@@ -24,12 +24,12 @@ aliases: ["Arqueros", "The Golden Bulwark"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
-- **Domains**: [duty](compendium/setting/domains.md#Duty), [might](compendium/setting/domains.md#Might), [protection](compendium/setting/domains.md#Protection), [zeal](compendium/setting/domains.md#Zeal)
-- **Alternate Domains**: [family](compendium/setting/domains.md#Family)
-- **Cleric Spells**: 1st: [endure](compendium/spells/endure-logm.md); 4th: stoneskin (appears as gold); 5th: [wall of stone](compendium/spells/wall-of-stone.md)
+- **Favored Weapon**: [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Alternate Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family)
+- **Cleric Spells**: 1st: [endure](endure-logm.md); 4th: stoneskin (appears as gold); 5th: [wall of stone](archive/srd/pf2e/compendium/spells/wall-of-stone.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Arqueros

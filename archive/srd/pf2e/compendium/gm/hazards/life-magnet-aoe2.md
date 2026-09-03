@@ -9,14 +9,14 @@ tags:
 aliases: ["Life Magnet"]
 ---
 # Life Magnet *Hazard 7*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +17 expert  
 
-A magical magnet [hidden](rules/conditions.md#Hidden) behind a panel in the corner of the room pulls not metal but living creatures toward it, heedless of any obstacles in the way.
+A magical magnet [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) behind a panel in the corner of the room pulls not metal but living creatures toward it, heedless of any obstacles in the way.
 
-- **Disable** DC 29 [Thievery](compendium/skills.md#Thievery) (expert) to deactivate the panel, or dispel magic (4th level; counteract DC 22) to counteract the panel's magic.  
+- **Disable** DC 29 [Thievery](skills.md#Thievery) (expert) to deactivate the panel, or dispel magic (4th level; counteract DC 22) to counteract the panel's magic.  
 
 - **AC** 28, **Fort** +20, **Ref** +18
 - **Bar Hardness** 15, **Bar HP** 40 (BT 20); **Magnet Hardness** 14, **Magnet HP** 50 (BT 25)

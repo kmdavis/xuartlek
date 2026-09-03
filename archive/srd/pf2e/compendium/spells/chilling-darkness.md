@@ -12,10 +12,10 @@ tags:
 aliases: ["Chilling Darkness"]
 ---
 # Chilling Darkness *Spell 3*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [cold](archive/srd/pf2e/rules/traits/cold.md "Cold Energy & Element Trait")  [darkness](archive/srd/pf2e/rules/traits/darkness.md "Darkness Effect Trait")  [evil](evil.md "Evil Alignment Trait")  [evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Targets**: 1 creature
 

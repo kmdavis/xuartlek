@@ -6,8 +6,8 @@ tags:
 - trait/orc
 aliases: ["Victorious Vigor"]
 ---
-# Victorious Vigor  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
-[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
+# Victorious Vigor  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
+[orc](archive/srd/pf2e/rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Trigger** You bring a foe to 0 Hit Points.
 - **Activity** Reaction

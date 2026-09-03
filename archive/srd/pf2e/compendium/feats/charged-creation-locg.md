@@ -7,9 +7,9 @@ tags:
 aliases: ["Charged Creation"]
 ---
 # Charged Creation  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Persistent Creation](compendium/feats/persistent-creation-locg.md)
+- **Prerequisites**: [Persistent Creation](persistent-creation-locg.md)
 
 Your magic is drawn to your persistent creations. While you are within 30 feet of and have line of effect to your persistent creation, you can use it as the origin point for your line or cone spells. For instance, a lightning bolt could originate from the persistent creation rather than from you.
 

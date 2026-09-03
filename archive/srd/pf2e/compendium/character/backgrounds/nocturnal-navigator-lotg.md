@@ -15,4 +15,4 @@ You have a great affinity for the night skies. You watch the stars, and you feel
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in [Survival](compendium/skills.md#Survival). Whenever you can clearly identify the stars, if you roll a success on a check to [Sense Direction](rules/actions/sense-direction.md) or otherwise orienteer, you get a critical success instead; if you roll a critical failure at such a check, you get a failure instead.
+You're trained in [Survival](skills.md#Survival). Whenever you can clearly identify the stars, if you roll a success on a check to [Sense Direction](archive/srd/pf2e/rules/actions/sense-direction.md) or otherwise orienteer, you get a critical success instead; if you roll a critical failure at such a check, you get a failure instead.

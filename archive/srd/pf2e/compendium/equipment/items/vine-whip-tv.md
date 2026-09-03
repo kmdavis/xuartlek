@@ -9,7 +9,7 @@ tags:
 aliases: ["Vine Whip"]
 ---
 # Vine Whip *Item 8*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 500 gp
 - **Craft Requirements** The initial raw materials must include the vine from a plant creature with a vine attack.
@@ -31,7 +31,7 @@ While Activated, a vine whip makes Strikes with an attack modifier of +22 plus i
 Each round, when the vine whip is finished using its actions, attempt a DC 6 flat check. On a failure, the ends and the vine whip becomes inanimate.
 ```
 
-You can't Activate the item again for 10 minutes. Removing the vine whip from the ground takes an [Interact](rules/actions/interact.md) action. While rooted, the vine whip gains fast healing 1.
+You can't Activate the item again for 10 minutes. Removing the vine whip from the ground takes an [Interact](archive/srd/pf2e/rules/actions/interact.md) action. While rooted, the vine whip gains fast healing 1.
 
 
 ---

@@ -20,8 +20,8 @@ aliases: ["The Green Mother", "The Feasting Flower"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [sickle](compendium/equipment/items/sickle.md)
-- **Domains**: [decay](compendium/setting/domains.md#Decay), [indulgence](compendium/setting/domains.md#Indulgence), [nature](compendium/setting/domains.md#Nature), [passion](compendium/setting/domains.md#Passion)
-- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 4th: [suggestion](compendium/spells/suggestion.md); 5th: [plant form](compendium/spells/plant-form.md)
+- **Favored Weapon**: [sickle](archive/srd/pf2e/compendium/equipment/items/sickle.md)
+- **Domains**: [decay](archive/srd/pf2e/compendium/setting/domains.md#Decay), [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion)
+- **Cleric Spells**: 1st: [charm](archive/srd/pf2e/compendium/spells/charm.md); 4th: [suggestion](archive/srd/pf2e/compendium/spells/suggestion.md); 5th: [plant form](archive/srd/pf2e/compendium/spells/plant-form.md)

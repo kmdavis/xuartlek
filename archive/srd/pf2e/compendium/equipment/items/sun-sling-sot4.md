@@ -10,12 +10,12 @@ tags:
 aliases: ["Sun Sling"]
 ---
 # Sun Sling *Item 0*  
-[concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concussive](concussive-g-g.md "Concussive Weapon Trait")  [propulsive](archive/srd/pf2e/rules/traits/propulsive.md "Propulsive Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Bulk** L
   - **Damage**: `1d8` P
-  - **Ammunution** [Sun Shot](compendium/equipment/items/sun-shot-sot4.md); **Range** 100 ft.; **Reload** 1
+  - **Ammunution** [Sun Shot](sun-shot-sot4.md); **Range** 100 ft.; **Reload** 1
   - **Damage**: `1d8` P
 - **Category** Martial
 

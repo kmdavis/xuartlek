@@ -12,9 +12,9 @@ aliases: ["Soulforged Corruption"]
 ---
 # Soulforged Corruption
 *Curse 1*  
-[curse](rules/traits/curse.md "Curse Effect Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [enchantment](enchantment.md "Enchantment School Trait")  
 
-A successful [remove curse](compendium/spells/remove-curse.md) spell, rather than ending this curse, reduces its stage by 1 (to a minimum of stage 1).
+A successful [remove curse](remove-curse.md) spell, rather than ending this curse, reduces its stage by 1 (to a minimum of stage 1).
 
 ```ad-inline-affliction
 title: Saving Throw: DC save against a [very hard](rules/tables/dc-adjustments.md) [DC of the curse's level](rules/tables/dcs-by-level.md) Will

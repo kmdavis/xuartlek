@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Arcana"]
 ---
 # Advanced Arcana  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Arcana](compendium/feats/basic-arcana.md)
+- **Prerequisites**: [Basic Arcana](archive/srd/pf2e/compendium/feats/basic-arcana.md)
 
 You gain one wizard feat. For the purpose of meeting its prerequisites, your wizard level is equal to half your character level.
 

@@ -14,10 +14,10 @@ tags:
 aliases: ["Blinding Beauty"]
 ---
 # Blinding Beauty *Focus 3*   
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Area**: 30-foot cone
 - **Saving Throw**: Will
 
@@ -25,8 +25,8 @@ You channel the allure of your nymph bloodline into a terribly beautiful glance.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is [dazzled](rules/conditions.md#Dazzled) until the start of its next turn.
-> - **Failure** The creature is [blinded](rules/conditions.md#Blinded) until the start of its next turn.
-> - **Critical Failure** The creature is [blinded](rules/conditions.md#Blinded) for 1 minute.
+> - **Success** The creature is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) until the start of its next turn.
+> - **Failure** The creature is [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) until the start of its next turn.
+> - **Critical Failure** The creature is [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) for 1 minute.
 
 *Source: Advanced Player's Guide p. 235*

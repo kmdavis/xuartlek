@@ -15,6 +15,6 @@ You delight crowds by reading minds, telling futures, and contacting spirits. Al
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Arcana](compendium/skills.md#Arcana) skill and the [Scam Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Arcana](skills.md#Arcana) skill and the [Scam Lore](skills.md#Lore) skill.
 
-You gain the [Arcane Sense](compendium/feats/arcane-sense.md) skill feat.
+You gain the [Arcane Sense](archive/srd/pf2e/compendium/feats/arcane-sense.md) skill feat.

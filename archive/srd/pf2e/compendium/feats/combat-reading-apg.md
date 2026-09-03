@@ -7,12 +7,12 @@ tags:
 - trait/secret
 aliases: ["Combat Reading"]
 ---
-# Combat Reading  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[bard](rules/traits/bard.md "Bard Class Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
+# Combat Reading  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  [secret](archive/srd/pf2e/rules/traits/secret.md "Secret General Trait")  
 
 - **Activity** Single Action
 
-You use a performer's cold reading techniques, aura reading, and other tricks to discover your foe's strengths and weaknesses. The GM rolls a secret [Occultism](compendium/skills.md#Occultism) check for you against the [Deception](compendium/skills.md#Deception) or [Stealth](compendium/skills.md#Stealth) DC (whichever is higher) of an enemy of your choice who is engaged in combat and isn't [concealed](rules/conditions.md#Concealed) from you, [hidden](rules/conditions.md#Hidden) from you, or [undetected](rules/conditions.md#Undetected) by you.
+You use a performer's cold reading techniques, aura reading, and other tricks to discover your foe's strengths and weaknesses. The GM rolls a secret [Occultism](skills.md#Occultism) check for you against the [Deception](skills.md#Deception) or [Stealth](skills.md#Stealth) DC (whichever is higher) of an enemy of your choice who is engaged in combat and isn't [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) from you, [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) from you, or [undetected](archive/srd/pf2e/rules/conditions.md#Undetected) by you.
 
 The GM might apply a penalty for the distance between you and the enemy. The enemy is then temporarily immune to your Combat Reading for 1 day.
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Sickle"]
 ---
 # Sickle *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 2 sp
 - **Bulk** L

@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Torrential Backlash"]
 ---
-# Torrential Backlash  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Torrential Backlash  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 10*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Curse Maelstrom Dedication](compendium/feats/curse-maelstrom-dedication-da.md)
+- **Prerequisites**: [Curse Maelstrom Dedication](curse-maelstrom-dedication-da.md)
 - **Requirements**: You are in a curse maelstrom state.
 - **Activity** Two-Action
 

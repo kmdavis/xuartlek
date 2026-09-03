@@ -9,7 +9,7 @@ tags:
 aliases: ["Cannon"]
 ---
 # Cannon *Item 8*  
-[large](rules/traits/large-b1.md "Large Size Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[large](large-b1.md "Large Size Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 900 gp
 - **Usage** mounted (black powder)

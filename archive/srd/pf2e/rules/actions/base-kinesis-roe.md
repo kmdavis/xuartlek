@@ -9,8 +9,8 @@ tags:
 - trait/primal
 aliases: ["Base Kinesis"]
 ---
-# Base Kinesis [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Base Kinesis [>>](chapter-9-playing-the-game.md#Actions "Two-Action")
+[impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 *Source: Rage of Elements p. 16*  
 
 - **Activity**: Two-Action

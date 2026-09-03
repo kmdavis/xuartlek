@@ -10,9 +10,9 @@ tags:
 aliases: ["Show The Way"]
 ---
 # Show The Way *Spell 3*   
-[detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  
+[detection](archive/srd/pf2e/rules/traits/detection.md "Detection Effect Trait")  [divination](divination.md "Divination School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Area**: 5-foot emanation
 - **Targets**: you and allies in the area

@@ -24,14 +24,14 @@ aliases: ["Walkena", "The Child-God"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Deception
-- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
-- **Domains**: [family](compendium/setting/domains.md#Family), [freedom](compendium/setting/domains.md#Freedom), [sun](compendium/setting/domains.md#Sun), [tyranny](compendium/setting/domains.md#Tyranny)
-- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty), [fire](compendium/setting/domains.md#Fire)
-- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 3rd: [fireball](compendium/spells/fireball.md); 4th: [wall of fire](compendium/spells/wall-of-fire.md)
+- **Favored Weapon**: [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun), [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny)
+- **Alternate Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire)
+- **Cleric Spells**: 1st: [burning hands](burning-hands.md); 3rd: [fireball](archive/srd/pf2e/compendium/spells/fireball.md); 4th: [wall of fire](archive/srd/pf2e/compendium/spells/wall-of-fire.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Walkena gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Walkena gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Walkena

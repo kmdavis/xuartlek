@@ -14,7 +14,7 @@ tags:
 aliases: ["Explosive Dogslicer"]
 ---
 # Explosive Dogslicer *Item 1*  
-[combination](rules/traits/combination-g-g.md "Combination Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[combination](combination-g-g.md "Combination Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 10 gp
@@ -27,7 +27,7 @@ aliases: ["Explosive Dogslicer"]
 - **Hands** 2
 - **Category** Advanced
 
-An explosive dogslicer is a sneaky, explosive weapon that often brings perverse joy to the goblins who use them. At first glance, it appears to be a triple-bladed [dogslicer](compendium/equipment/items/dogslicer.md) with an oversized guard.
+An explosive dogslicer is a sneaky, explosive weapon that often brings perverse joy to the goblins who use them. At first glance, it appears to be a triple-bladed [dogslicer](archive/srd/pf2e/compendium/equipment/items/dogslicer.md) with an oversized guard.
 
 
 ---

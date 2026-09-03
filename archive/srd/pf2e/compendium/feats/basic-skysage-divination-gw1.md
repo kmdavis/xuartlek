@@ -7,9 +7,9 @@ tags:
 aliases: ["Basic Skysage Divination"]
 ---
 # Basic Skysage Divination  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Oatia Skysage Dedication](compendium/feats/oatia-skysage-dedication-gw1.md)
+- **Prerequisites**: [Oatia Skysage Dedication](oatia-skysage-dedication-gw1.md)
 
 The stars move, granting you a sliver of their magic.
 
@@ -19,7 +19,7 @@ At 6th level, you gain a 2nd-level spell, and at 8th level, you gain a 3rd-level
 
 ## Basic Skysage Divination leads to...
 
-[Expert Skysage Divination](compendium/feats/expert-skysage-divination-gw1.md), [Master Skysage Divination](compendium/feats/master-skysage-divination-gw1.md)
+[Expert Skysage Divination](expert-skysage-divination-gw1.md), [Master Skysage Divination](master-skysage-divination-gw1.md)
 
 ## Summary
 

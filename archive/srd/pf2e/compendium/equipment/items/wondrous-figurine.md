@@ -9,7 +9,7 @@ tags:
 aliases: ["Wondrous Figurine"]
 ---
 # Wondrous Figurine *Item 2+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -58,9 +58,9 @@ This sinister-looking black statuette resembles a horse rearing up on its hind l
 
 - **Price**: 34 gp
 
-This simple onyx statue transforms into a guard dog. The dog has a +4 circumstance bonus to [Survival](compendium/skills.md#Survival) checks to [Track](rules/actions/track.md), and it has [darkvision](rules/abilities/darkvision.md).
+This simple onyx statue transforms into a guard dog. The dog has a +4 circumstance bonus to [Survival](skills.md#Survival) checks to [Track](archive/srd/pf2e/rules/actions/track.md), and it has [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md).
 
-When the dog senses a [hidden](rules/conditions.md#Hidden) creature with its scent, that creature is instead [observed](rules/conditions.md#Observed) and [concealed](rules/conditions.md#Concealed). The onyx dog can be activated once per week and remains in its form for up to 6 hours.
+When the dog senses a [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) creature with its scent, that creature is instead [observed](archive/srd/pf2e/rules/conditions.md#Observed) and [concealed](archive/srd/pf2e/rules/conditions.md#Concealed). The onyx dog can be activated once per week and remains in its form for up to 6 hours.
 
 ---
 *Source: Core Rulebook p. 576*

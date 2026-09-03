@@ -13,7 +13,7 @@ aliases: ["Backpack Catapult Stones"]
 - **Group** Sling 
 
 > [!pf2-note]
-> For use with the [Backpack Catapult](compendium/equipment/items/backpack-catapult-g-g.md).
+> For use with the [Backpack Catapult](backpack-catapult-g-g.md).
 
 
 ---

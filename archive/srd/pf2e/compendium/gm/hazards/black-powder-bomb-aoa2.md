@@ -9,14 +9,14 @@ tags:
 aliases: ["Black Powder Bomb"]
 ---
 # Black Powder Bomb *Hazard 6*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 15 (The three powder kegs aren't particularly well [hidden](rules/conditions.md#Hidden), but they are out of sight to casual observation.)  
+- **Stealth** DC 15 (The three powder kegs aren't particularly well [hidden](archive/srd/pf2e/rules/conditions.md#Hidden), but they are out of sight to casual observation.)  
 
 Three bulky kegs of black powder placed at key locations in the temple are triggered to explode in unison, causing the entire structure to collapse into rubble and slide partially down the cliff face.
 
-- **Disable** No special skills are required to disable this manually activated trap. As an [Interact](rules/actions/interact.md) action, a PC can sweep aside some black powder to interrupt the fuse line, but this doesn't prevent Gerhard from activating a keg via blunderbuss. A keg that is removed from its position (either by being thrown over the cliff or merely carried away) retains its explosive potential, but as long as one of the three kegs are removed they no longer have the precise placement required to trigger a collapse—an explosion at this point merely inflicts fire damage in the appropriate areas but does not particularly damage the temple structure itself.
+- **Disable** No special skills are required to disable this manually activated trap. As an [Interact](archive/srd/pf2e/rules/actions/interact.md) action, a PC can sweep aside some black powder to interrupt the fuse line, but this doesn't prevent Gerhard from activating a keg via blunderbuss. A keg that is removed from its position (either by being thrown over the cliff or merely carried away) retains its explosive potential, but as long as one of the three kegs are removed they no longer have the precise placement required to trigger a collapse—an explosion at this point merely inflicts fire damage in the appropriate areas but does not particularly damage the temple structure itself.
 A keg's contents can be dispersed by scattering the gunpowder to the wind (most efficiently by pouring it over the cliff side) as a 2-action activity, or rendered permanently inert by pouring a gallon of water into the powder, inhibiting its explosive qualities. The kegs themselves can be destroyed with damage (note that the AC listed below for each keg takes into account the fact that Gerhard has wedged the kegs into nooks in the temple's stone flooring and walls), but note that any fire damage (including incidental fire damage from area effects like a fireball or Gerhard's blunderbuss) causes them to explode. At your option, other actions may be similarly effective at disabling this hazard.  
 
 - **AC** 26, **Fort** +17, **Ref** +8

@@ -9,7 +9,7 @@ tags:
 aliases: ["Assurance"]
 ---
 # Assurance  *Feat 1*  
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
 - **Prerequisites**: trained in at least one skill
 
@@ -19,7 +19,7 @@ Even in the worst circumstances, you can perform basic tasks. Choose a skill you
 
 ## Assurance leads to...
 
-[Automatic Knowledge](compendium/feats/automatic-knowledge.md)
+[Automatic Knowledge](archive/srd/pf2e/compendium/feats/automatic-knowledge.md)
 
 ## Summary
 

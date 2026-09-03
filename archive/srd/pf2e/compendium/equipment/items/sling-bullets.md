@@ -10,7 +10,7 @@ aliases: ["Sling Bullets"]
 
 - **Price** 1 cp
 
-These are small metal balls, typically either iron or lead, designed to be used as ammunition in [slings](compendium/equipment/items/sling.md).
+These are small metal balls, typically either iron or lead, designed to be used as ammunition in [slings](archive/srd/pf2e/compendium/equipment/items/sling.md).
 
 
 ---

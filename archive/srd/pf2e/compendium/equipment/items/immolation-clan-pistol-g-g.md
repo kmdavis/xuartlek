@@ -12,7 +12,7 @@ tags:
 aliases: ["Immolation Clan Pistol"]
 ---
 # Immolation Clan Pistol *Item 10*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
@@ -22,9 +22,9 @@ This ever-burning spirit keeps the firearm warm to the touch, regardless of surr
 
 No matter how much you clean and maintain it, an immolation clan pistol is always at risk of a misfire, and the flat check to avoid a misfire is DC 7 rather than DC 5.
 
-On a misfire, an immolation hand cannon releases a blast of concentrated fire, dealing you `2d6` fire damage and `2d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage).
+On a misfire, an immolation hand cannon releases a blast of concentrated fire, dealing you `2d6` fire damage and `2d6` [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
-An immolation clan pistol fuses with you when you first fire it. While you're fused with the immolation clan pistol, the pained spirit haunts your dreams, forcing you to relive its death each night. If you fired the immolation clan pistol that day, you are unharmed by these dreams. If you didn't fire the immolation clan pistol that day, but still possess it, you awaken [fatigued](rules/conditions.md#Fatigued). If you no longer possess the immolation clan pistol, the spirit of its dwarven smith is enraged by your neglect; you awaken [fatigued](rules/conditions.md#Fatigued) and aflame, taking `2d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage).
+An immolation clan pistol fuses with you when you first fire it. While you're fused with the immolation clan pistol, the pained spirit haunts your dreams, forcing you to relive its death each night. If you fired the immolation clan pistol that day, you are unharmed by these dreams. If you didn't fire the immolation clan pistol that day, but still possess it, you awaken [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued). If you no longer possess the immolation clan pistol, the spirit of its dwarven smith is enraged by your neglect; you awaken [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) and aflame, taking `2d6` [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
 
 ---

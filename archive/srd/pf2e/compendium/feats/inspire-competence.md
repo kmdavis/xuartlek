@@ -7,11 +7,11 @@ tags:
 aliases: ["Inspire Competence"]
 ---
 # Inspire Competence  *Feat 2*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Maestro muse
 
-You learn the [inspire competence](compendium/spells/inspire-competence.md) composition cantrip, which aids your allies' skills.
+You learn the [inspire competence](archive/srd/pf2e/compendium/spells/inspire-competence.md) composition cantrip, which aids your allies' skills.
 
 *Source: Core Rulebook p. 100*  
 %% #compendium/src/pf2e/crb #trait/bard %%

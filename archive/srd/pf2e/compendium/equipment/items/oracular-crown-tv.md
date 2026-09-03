@@ -11,13 +11,13 @@ tags:
 aliases: ["Oracular Crown"]
 ---
 # Oracular Crown *Item 11*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [focused](archive/srd/pf2e/rules/traits/focused.md "Focused Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Price** 1200 gp
 - **Craft Requirements** You are an oracle.
 - **Bulk** L; **Usage** worn headwear
 
-Patterns themed to your curse cover your oracular crown. As your curse worsens, the appearance of the crown changes, introducing extreme angles, stronger colors, or other indications of the intensity of your curse. Similarly, it gets closer to its natural form when you reduce the effects of your curse. You gain a +2 item bonus to [Religion](compendium/skills.md#Religion) checks.
+Patterns themed to your curse cover your oracular crown. As your curse worsens, the appearance of the crown changes, introducing extreme angles, stronger colors, or other indications of the intensity of your curse. Similarly, it gets closer to its natural form when you reduce the effects of your curse. You gain a +2 item bonus to [Religion](skills.md#Religion) checks.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

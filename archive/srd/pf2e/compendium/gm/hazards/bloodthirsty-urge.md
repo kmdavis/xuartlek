@@ -7,14 +7,14 @@ tags:
 aliases: ["Bloodthirsty Urge"]
 ---
 # Bloodthirsty Urge *Hazard 10*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 31 trained  
 
 An object haunted by the echoes of a vicious mind attempts to kill someone who comes near.
 
-- **Disable** [Religion](compendium/skills.md#Religion) DC 29 (master) to exorcise the spirit or [Diplomacy](compendium/skills.md#Diplomacy) DC 31 (expert) to talk it down.  
+- **Disable** [Religion](skills.md#Religion) DC 29 (master) to exorcise the spirit or [Diplomacy](skills.md#Diplomacy) DC 31 (expert) to talk it down.  
 
 ```ad-embed-ability
 title: **Quietus** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([death](rules/traits/death.md), [emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))

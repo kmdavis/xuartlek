@@ -10,7 +10,7 @@ tags:
 aliases: ["Flame Tongue"]
 ---
 # Flame Tongue *Item 13+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
@@ -35,9 +35,9 @@ You cast the [produce flame](compendium/spells/produce-flame.md) cantrip from th
 
 - **Price**: 13800 gp
 
-This is a +3 greater striking greater flaming longsword. When you activate the sword to cast [produce flame](compendium/spells/produce-flame.md), the spell is 9th level.
+This is a +3 greater striking greater flaming longsword. When you activate the sword to cast [produce flame](produce-flame.md), the spell is 9th level.
 
-**Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command; **Frequency** once per day; **Effect** A 10-foot emanation of flame radiates from the greater flame tongue for 1 minute. All weapon and unarmed attacks by you and your allies within the area gain the effect of the flaming property rune.
+**Activate** [>](chapter-9-playing-the-game.md#Actions "Single Action") command; **Frequency** once per day; **Effect** A 10-foot emanation of flame radiates from the greater flame tongue for 1 minute. All weapon and unarmed attacks by you and your allies within the area gain the effect of the flaming property rune.
 
 ---
 *Source: Core Rulebook p. 600*

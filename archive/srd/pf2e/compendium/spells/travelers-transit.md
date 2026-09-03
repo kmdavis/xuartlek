@@ -10,10 +10,10 @@ tags:
 aliases: ["Traveler's Transit"]
 ---
 # Traveler's Transit *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [travel](compendium/setting/domains.md#Travel)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 1 minute
 

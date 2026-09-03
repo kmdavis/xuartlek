@@ -8,7 +8,7 @@ tags:
 aliases: ["Greater Planar Rift"]
 ---
 # Greater Planar Rift *Hazard 21*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 41 legendary  

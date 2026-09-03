@@ -9,10 +9,10 @@ tags:
 aliases: ["Awaken Entropy"]
 ---
 # Awaken Entropy *Spell 6*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 120 foot
 - **Area**: 10-foot burst
 - **Saving Throw**:  basic Fortitude
@@ -22,7 +22,7 @@ All things age, all things die, and at the end of days even the universe will gr
 
 Any creature that enters or begins its turn in the area must succeed at a basic Fortitude save or take `8d6` negative damage, or `8d6` force damage if the creature normally doesn't take negative damage, such as if the creature is a construct or undead. Even beings such as fiends with unlimited lifespans can be worn away by entropy.
 
-The first time you [Sustain the Spell](rules/actions/sustain-a-spell.md) on each subsequent turn, the entropic zone grows stronger in addition to having its duration increased. The radius of the burst increases by 10 feet (to a maximum of 40 feet), and the size of the damage dice increases by one step (from d6 to d8, then to d10, and finally to d12).
+The first time you [Sustain the Spell](sustain-a-spell.md) on each subsequent turn, the entropic zone grows stronger in addition to having its duration increased. The radius of the burst increases by 10 feet (to a maximum of 40 feet), and the size of the damage dice increases by one step (from d6 to d8, then to d10, and finally to d12).
 
 **Heightened (+ 1)** The damage increases by `1d6`.
 

@@ -13,10 +13,10 @@ tags:
 aliases: ["Whirling Flames"]
 ---
 # Whirling Flames *Focus 3*   
-[cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cursebound](cursebound-apg.md "Cursebound Spell Trait")  [evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Area**: up to two 5-foot bursts that don't overlap
 - **Saving Throw**:  basic Reflex

@@ -7,14 +7,14 @@ tags:
 aliases: ["Deity's Domain"]
 ---
 # Deity's Domain  *Feat 1*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 
 You embody an aspect of your deity. Choose one of your deity's domains. You gain the domain's initial domain spell as a devotion spell.
 
 ## Deity's Domain leads to...
 
-[Advanced Deity's Domain](compendium/feats/advanced-deitys-domain.md)
+[Advanced Deity's Domain](archive/srd/pf2e/compendium/feats/advanced-deitys-domain.md)
 
 ## Summary
 

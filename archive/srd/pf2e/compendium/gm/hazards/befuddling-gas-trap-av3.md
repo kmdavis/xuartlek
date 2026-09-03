@@ -9,14 +9,14 @@ tags:
 aliases: ["Befuddling Gas Trap"]
 ---
 # Befuddling Gas Trap *Hazard 11*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** +21 expert or DC 31 (expert) to notice the [hidden](rules/conditions.md#Hidden) override mechanism on the north wall.  
+- **Stealth** +21 expert or DC 31 (expert) to notice the [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) override mechanism on the north wall.  
 
-Seven nozzles [hidden](rules/conditions.md#Hidden) within holes in the 15-foot-high ceiling release a poison gas.
+Seven nozzles [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) within holes in the 15-foot-high ceiling release a poison gas.
 
-- **Disable** DC 33 [Thievery](compendium/skills.md#Thievery) (master) to disable the [hidden](rules/conditions.md#Hidden) mechanism on the north wall, immediately sucking the gas from the room, or DC 29 [Thievery](compendium/skills.md#Thievery) (expert) to adequately plug one of the seven nozzles. When all seven nozzles are plugged or destroyed, the trap is deactivated.  
+- **Disable** DC 33 [Thievery](skills.md#Thievery) (master) to disable the [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) mechanism on the north wall, immediately sucking the gas from the room, or DC 29 [Thievery](skills.md#Thievery) (expert) to adequately plug one of the seven nozzles. When all seven nozzles are plugged or destroyed, the trap is deactivated.  
 
 - **AC** 31, **Fort** +24, **Ref** +18
 - **Nozzle Hardness** 20, **Nozzle HP** 32 (BT 16)

@@ -8,14 +8,14 @@ tags:
 aliases: ["Canopy Drop"]
 ---
 # Canopy Drop *Hazard 4*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
 
 A trapdoor, connected to floor sensors, opens in the section of floor marked on the map, while the surrounding floor suddenly tilts to a 45-degree angle and the fountains in the wall begin spraying at high pressure, making the tile slippery and pushing creatures toward the open chute.
 
-- **Disable** DC 23 [Thievery](compendium/skills.md#Thievery) (expert) to jam the mechanisms and keep the trapdoor from opening, or to locate the bypass switch [hidden](rules/conditions.md#Hidden) under a stair riser just outside the room.  
+- **Disable** DC 23 [Thievery](skills.md#Thievery) (expert) to jam the mechanisms and keep the trapdoor from opening, or to locate the bypass switch [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) under a stair riser just outside the room.  
 
 - **AC** 20, **Fort** +13, **Ref** +8
 - **Trapdoor Hardness** 10, **Trapdoor HP** 40 (BT 20)

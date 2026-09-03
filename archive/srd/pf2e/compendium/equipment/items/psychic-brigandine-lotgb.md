@@ -11,7 +11,7 @@ tags:
 aliases: ["Psychic Brigandine"]
 ---
 # Psychic Brigandine *Item 13*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3000 gp
 - **Bulk** 2; **Usage** worn armor
@@ -20,7 +20,7 @@ Transparent crystals as hard as steel take the place of metal plates on this sui
 
 Also known as a coat of a thousand thoughts in Vudra and Jalmeray, where it was first developed by psychic warriors, it makes your mind an indomitable fortress. You gain resistance 5 to mental damage.
 
-Whenever you use the armor to become [invisible](rules/conditions.md#Invisible), you also become psychically [invisible](rules/conditions.md#Invisible). Each time you would be affected by an effect with the [mental](rules/traits/mental.md "Mental Effect Trait") trait while you are Lost & Found Wares.
+Whenever you use the armor to become [invisible](archive/srd/pf2e/rules/conditions.md#Invisible), you also become psychically [invisible](archive/srd/pf2e/rules/conditions.md#Invisible). Each time you would be affected by an effect with the [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") trait while you are Lost & Found Wares.
 
 
 ---

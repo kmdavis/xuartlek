@@ -7,14 +7,14 @@ tags:
 aliases: ["Blood Tears"]
 ---
 # Blood Tears *Hazard 10*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 32 master to notice your vision tint red  
 
 A wailing spirit appears and gouges their own eyes. As they do, blood seeps from the eyes of those who witness the act, obscuring their vision.
 
-- **Disable** DC 30 [Diplomacy](compendium/skills.md#Diplomacy) (master) to talk the spirit out of gouging its eyes or DC 32 [Religion](compendium/skills.md#Religion) (trained) to ease the spirit's sorrows  
+- **Disable** DC 30 [Diplomacy](skills.md#Diplomacy) (master) to talk the spirit out of gouging its eyes or DC 32 [Religion](skills.md#Religion) (trained) to ease the spirit's sorrows  
 
 ```ad-embed-ability
 title: **Weep Blood** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md))

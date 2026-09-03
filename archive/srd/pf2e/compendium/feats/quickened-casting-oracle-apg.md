@@ -8,8 +8,8 @@ tags:
 - trait/oracle
 aliases: ["Quickened Casting (Oracle)"]
 ---
-# Quickened Casting (Oracle)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
+# Quickened Casting (Oracle)  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](metamagic.md "Metamagic General Trait")  [oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Frequency**: once per day
 - **Activity** Free Action

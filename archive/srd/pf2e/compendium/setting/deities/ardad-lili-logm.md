@@ -20,8 +20,8 @@ aliases: ["Ardad Lili", "The End of Innocence"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [darkness](compendium/setting/domains.md#Darkness), [passion](compendium/setting/domains.md#Passion), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
-- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 3rd: [enthrall](compendium/spells/enthrall.md); 4th: [suggestion](compendium/spells/suggestion.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [wyrmkin](archive/srd/pf2e/compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [charm](archive/srd/pf2e/compendium/spells/charm.md); 3rd: [enthrall](archive/srd/pf2e/compendium/spells/enthrall.md); 4th: [suggestion](archive/srd/pf2e/compendium/spells/suggestion.md)

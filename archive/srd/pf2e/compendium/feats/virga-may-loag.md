@@ -8,14 +8,14 @@ tags:
 aliases: ["Virga May"]
 ---
 # Virga May  *Feat 1*  
-[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  [lineage](rules/traits/lineage-apg.md "Lineage  Trait")  
+[changeling](changeling-b1.md "Changeling Ancestry & Heritage Trait")  [lineage](lineage-apg.md "Lineage  Trait")  
 
 
-Born of a storm hag, you have one crystal-blue or rain-gray eye. You share your mother's power over wind and storm. You can cast [electric arc](compendium/spells/electric-arc.md) as an occult innate cantrip. As normal, a cantrip is heightened to a spell level equal to half your level rounded up.
+Born of a storm hag, you have one crystal-blue or rain-gray eye. You share your mother's power over wind and storm. You can cast [electric arc](archive/srd/pf2e/compendium/spells/electric-arc.md) as an occult innate cantrip. As normal, a cantrip is heightened to a spell level equal to half your level rounded up.
 
 ## Virga May leads to...
 
-[Favorable Winds](compendium/feats/favorable-winds-loag.md), [Invoke The Elements](compendium/feats/invoke-the-elements-loag.md), [Stormy Heart](compendium/feats/stormy-heart-loag.md)
+[Favorable Winds](favorable-winds-loag.md), [Invoke The Elements](invoke-the-elements-loag.md), [Stormy Heart](stormy-heart-loag.md)
 
 ## Summary
 

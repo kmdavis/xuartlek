@@ -9,14 +9,14 @@ tags:
 aliases: ["See Invisibility"]
 ---
 # See Invisibility *Spell 2*   
-[divination](rules/traits/divination.md "Divination School Trait")  [revelation](rules/traits/revelation.md "Revelation Effect Trait")  
+[divination](divination.md "Divination School Trait")  [revelation](archive/srd/pf2e/rules/traits/revelation.md "Revelation Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 10 minutes
 
-You can see [invisible](rules/conditions.md#Invisible) creatures and objects. They appear to you as translucent shapes, and they are [concealed](rules/conditions.md#Concealed) to you.
+You can see [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) creatures and objects. They appear to you as translucent shapes, and they are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) to you.
 
 **Heightened (5th)** The spell has a duration of 8 hours.
 

@@ -15,4 +15,4 @@ Oprak doesn't share the secrets of the Onyx Vault with many, but you are one of 
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Mercantile Lore](compendium/skills.md#Lore) skill. You gain the [Multilingual](compendium/feats/multilingual.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Mercantile Lore](skills.md#Lore) skill. You gain the [Multilingual](archive/srd/pf2e/compendium/feats/multilingual.md) skill feat.

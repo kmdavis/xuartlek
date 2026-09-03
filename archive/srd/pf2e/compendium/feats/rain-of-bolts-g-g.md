@@ -6,8 +6,8 @@ tags:
 - trait/automaton
 aliases: ["Rain Of Bolts"]
 ---
-# Rain Of Bolts  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[automaton](rules/traits/automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
+# Rain Of Bolts  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
+[automaton](automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
 
 - **Prerequisites**: sharpshooter automaton
 - **Frequency**: once per day

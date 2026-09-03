@@ -9,17 +9,17 @@ tags:
 aliases: ["Pactbound Dedication"]
 ---
 # Pactbound Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Prerequisites**: Erutaki or Giant language, trained in [Nature](compendium/skills.md#Nature), must have earned the trust of a saumen kar who initiates you into the archetype
+- **Prerequisites**: Erutaki or Giant language, trained in [Nature](skills.md#Nature), must have earned the trust of a saumen kar who initiates you into the archetype
 
-You befriended one of the last saumen kar and were infused with a fraction of their power, granting you the potential to become a guardian of their ancient pact. You gain cold resistance equal to half your level. You can [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md) while it's snowing even lightly, even if it wouldn't be thick enough to normally grant [concealment](rules/conditions.md#Concealed). Finally, all saumen kar can sense the mark of their pact upon you, and their attitude toward you is typically one step better than it would be otherwise ([hostile](rules/conditions.md#Hostile) to [unfriendly](rules/conditions.md#Unfriendly), [unfriendly](rules/conditions.md#Unfriendly) to [indifferent](rules/conditions.md#Indifferent), etc.) Most saumen kar are [unfriendly](rules/conditions.md#Unfriendly) to outsiders; this would make them [indifferent](rules/conditions.md#Indifferent) to you.
+You befriended one of the last saumen kar and were infused with a fraction of their power, granting you the potential to become a guardian of their ancient pact. You gain cold resistance equal to half your level. You can [Hide](archive/srd/pf2e/rules/actions/hide.md) and [Sneak](archive/srd/pf2e/rules/actions/sneak.md) while it's snowing even lightly, even if it wouldn't be thick enough to normally grant [concealment](archive/srd/pf2e/rules/conditions.md#Concealed). Finally, all saumen kar can sense the mark of their pact upon you, and their attitude toward you is typically one step better than it would be otherwise ([hostile](archive/srd/pf2e/rules/conditions.md#Hostile) to [unfriendly](archive/srd/pf2e/rules/conditions.md#Unfriendly), [unfriendly](archive/srd/pf2e/rules/conditions.md#Unfriendly) to [indifferent](archive/srd/pf2e/rules/conditions.md#Indifferent), etc.) Most saumen kar are [unfriendly](archive/srd/pf2e/rules/conditions.md#Unfriendly) to outsiders; this would make them [indifferent](archive/srd/pf2e/rules/conditions.md#Indifferent) to you.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the pactbound archetype.
 
 ## Pactbound Dedication leads to...
 
-[Crown of the Saumen Kar](compendium/feats/crown-of-the-saumen-kar-lomm.md), [Frostbite Runes](compendium/feats/frostbite-runes-lomm.md), [Bound in Ice](compendium/feats/bound-in-ice-lomm.md), [Curse of the Saumen Kar](compendium/feats/curse-of-the-saumen-kar-lomm.md), [Ice Crafter](compendium/feats/ice-crafter-lomm.md)
+[Crown of the Saumen Kar](crown-of-the-saumen-kar-lomm.md), [Frostbite Runes](frostbite-runes-lomm.md), [Bound in Ice](bound-in-ice-lomm.md), [Curse of the Saumen Kar](curse-of-the-saumen-kar-lomm.md), [Ice Crafter](ice-crafter-lomm.md)
 
 ## Summary
 

@@ -12,10 +12,10 @@ tags:
 aliases: ["Fiendish Teleportation"]
 ---
 # Fiendish Teleportation *Item 11*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [contract](rules/traits/contract-lol.md "Contract Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [contract](contract-lol.md "Contract Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
-You tap into the fiendish ability to slip through space. When you [Stride](rules/actions/stride.md), you gain a +3 item bonus to Armor Class against reactions triggered by your movement. Once per day, from any distance, Abrogail Thrune II can call on a provision in your Thrune contract as a single action, causing you to become [paralyzed](rules/conditions.md#Paralyzed) for 1 hour or until Abrogail releases you, whichever comes first.
+You tap into the fiendish ability to slip through space. When you [Stride](archive/srd/pf2e/rules/actions/stride.md), you gain a +3 item bonus to Armor Class against reactions triggered by your movement. Once per day, from any distance, Abrogail Thrune II can call on a provision in your Thrune contract as a single action, causing you to become [paralyzed](archive/srd/pf2e/rules/conditions.md#Paralyzed) for 1 hour or until Abrogail releases you, whichever comes first.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command

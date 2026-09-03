@@ -12,7 +12,7 @@ aliases: ["Bone Chill"]
 ---
 # Bone Chill
 *Disease 5*  
-[disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+[disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 If you are wounded and exposed to persistent cold, you might contract bonechill.
 

@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand Of Overflowing Life"]
 ---
 # Wand Of Overflowing Life *Item 9+*  
-[healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [positive](positive.md "Positive Energy & Element Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -56,7 +56,7 @@ You gain this benefit only once, even if you cast multiple [heal](compendium/spe
 
 - **Price**: 40000 gp
 
-[Crafting](compendium/skills.md#Crafting) Requirements Supply a casting of heal of the appropriate level.
+[Crafting](skills.md#Crafting) Requirements Supply a casting of heal of the appropriate level.
 
 ---
 *Source: Advanced Player's Guide p. 265*

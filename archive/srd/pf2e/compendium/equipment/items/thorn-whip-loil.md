@@ -13,7 +13,7 @@ tags:
 aliases: ["Thorn whip"]
 ---
 # Thorn whip *Item 0*  
-[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [ghoran](ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6 sp
 - **Bulk** 1

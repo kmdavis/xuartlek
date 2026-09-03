@@ -15,4 +15,4 @@ All you want to do is entertain the people, but sure enough, bad news seems to f
 
 Choose two ability boosts. One must be to Charisma or Dexterity, and one is a free ability boost.
 
-You're trained in the [Performance](compendium/skills.md#Performance) skill and a [Lore](compendium/skills.md#Lore) skill of your choice. You gain the [Virtuosic Performer](compendium/feats/virtuosic-performer.md) skill feat.
+You're trained in the [Performance](skills.md#Performance) skill and a [Lore](skills.md#Lore) skill of your choice. You gain the [Virtuosic Performer](archive/srd/pf2e/compendium/feats/virtuosic-performer.md) skill feat.

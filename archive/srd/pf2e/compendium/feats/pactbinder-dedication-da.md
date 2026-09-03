@@ -9,11 +9,11 @@ tags:
 aliases: ["Pactbinder Dedication"]
 ---
 # Pactbinder Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy) as well as either [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion)
+- **Prerequisites**: trained in [Diplomacy](skills.md#Diplomacy) as well as either [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion)
 
-The first step toward forming a successful pact is an understanding of the magic behind it, along with skill at negotiation. It doesn't hurt that you also learned how to magically bind yourself to keep your word, enabling you to bargain more easily. You increase your proficiency from trained to expert in [Diplomacy](compendium/skills.md#Diplomacy) and in one of the following: [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion).
+The first step toward forming a successful pact is an understanding of the magic behind it, along with skill at negotiation. It doesn't hurt that you also learned how to magically bind yourself to keep your word, enabling you to bargain more easily. You increase your proficiency from trained to expert in [Diplomacy](skills.md#Diplomacy) and in one of the following: [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion).
 
 ```ad-embed-ability
 title: **Binding Vow** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([auditory](rules/traits/auditory.md), [concentrate](rules/traits/concentrate.md), [enchantment](rules/traits/enchantment.md), [occult](rules/traits/occult.md))
@@ -32,7 +32,7 @@ When you make a [Request](rules/actions/request.md) or [Coerce](rules/actions/co
 
 ## Pactbinder Dedication leads to...
 
-[Sociable Vow](compendium/feats/sociable-vow-da.md), [Pact of Fey Glamour](compendium/feats/pact-of-fey-glamour-da.md), [Pact of Draconic Fury](compendium/feats/pact-of-draconic-fury-da.md), [Pact of Infernal Prowess](compendium/feats/pact-of-infernal-prowess-da.md), [Pact of the Final Breath](compendium/feats/pact-of-the-final-breath-da.md), [Pact of Eldritch Eyes](compendium/feats/pact-of-eldritch-eyes-da.md)
+[Sociable Vow](sociable-vow-da.md), [Pact of Fey Glamour](pact-of-fey-glamour-da.md), [Pact of Draconic Fury](pact-of-draconic-fury-da.md), [Pact of Infernal Prowess](pact-of-infernal-prowess-da.md), [Pact of the Final Breath](pact-of-the-final-breath-da.md), [Pact of Eldritch Eyes](pact-of-eldritch-eyes-da.md)
 
 ## Summary
 

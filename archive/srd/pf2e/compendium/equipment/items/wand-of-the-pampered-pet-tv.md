@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of the Pampered Pet"]
 ---
 # Wand of the Pampered Pet *Item 4*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [extradimensional](archive/srd/pf2e/rules/traits/extradimensional.md "Extradimensional Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 75 gp
 - **Craft Requirements** Supply a casting of pet cache.

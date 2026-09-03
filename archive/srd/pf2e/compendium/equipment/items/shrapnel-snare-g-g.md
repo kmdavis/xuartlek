@@ -12,7 +12,7 @@ tags:
 aliases: ["Shrapnel Snare"]
 ---
 # Shrapnel Snare *Item 14*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 700 gp
 
@@ -20,9 +20,9 @@ This snare uses tightly wound springs, clockwork, and shrapnel to cause devastat
 
 > [!success-degree] 
 > - **Critical Success** The creature in unaffected
-> - **Success** The creature takes half damage and is [deafened](rules/conditions.md#Deafened) for 1 round.
-> - **Failure** The creature takes full damage, `2d6` [persistent piercing damage](rules/conditions.md#Persistent%20Damage), and is [deafened](rules/conditions.md#Deafened) for 1 minute.
-> - **Critical Failure** The creature takes double damage, `4d6` [persistent piercing damage](rules/conditions.md#Persistent%20Damage), and is [deafened](rules/conditions.md#Deafened) for 1 minute.
+> - **Success** The creature takes half damage and is [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 round.
+> - **Failure** The creature takes full damage, `2d6` [persistent piercing damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), and is [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 minute.
+> - **Critical Failure** The creature takes double damage, `4d6` [persistent piercing damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), and is [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 minute.
 
 
 ---

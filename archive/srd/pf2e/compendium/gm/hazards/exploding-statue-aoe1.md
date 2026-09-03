@@ -8,14 +8,14 @@ tags:
 aliases: ["Exploding Statue"]
 ---
 # Exploding Statue *Hazard 2*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 trained  
 
 A hollow statue filled with explosives is connected to a trip wire running along the adjacent door.
 
-- **Disable** DC 21 [Thievery](compendium/skills.md#Thievery) (trained) to safely cut the wire.  
+- **Disable** DC 21 [Thievery](skills.md#Thievery) (trained) to safely cut the wire.  
 
 - **AC** 21, **Fort** +6, **Ref** +12
 - **Hardness** 5, **HP** 30 (BT 15)

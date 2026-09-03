@@ -22,6 +22,6 @@ Talking about it further with him, Takulu agreed that he would sponsor you perso
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in your choice of the [Survival](compendium/skills.md#Survival) or [Performance](compendium/skills.md#Performance) skill. You gain a skill feat: [Survey Wildlife](compendium/feats/survey-wildlife.md) if you chose [Survival](compendium/skills.md#Survival) or [Impressive Performance](compendium/feats/impressive-performance.md) if you chose [Performance](compendium/skills.md#Performance). You're also trained in [Nantambu Lore](compendium/skills.md#Lore).
+You're trained in your choice of the [Survival](skills.md#Survival) or [Performance](skills.md#Performance) skill. You gain a skill feat: [Survey Wildlife](archive/srd/pf2e/compendium/feats/survey-wildlife.md) if you chose [Survival](skills.md#Survival) or [Impressive Performance](archive/srd/pf2e/compendium/feats/impressive-performance.md) if you chose [Performance](skills.md#Performance). You're also trained in [Nantambu Lore](skills.md#Lore).
 
 Your recommended primary branch is the Emerald Boughs.

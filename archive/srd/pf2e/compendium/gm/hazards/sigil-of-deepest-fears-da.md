@@ -8,14 +8,14 @@ tags:
 aliases: ["Sigil of Deepest Fears"]
 ---
 # Sigil of Deepest Fears *Hazard 17*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43 master  
 
 An arcane sigil forces creatures to confront their greatest fear.
 
-- **Disable** DC 43 [Thievery](compendium/skills.md#Thievery) (master) to drain the sigil's power harmlessly, or dispel magic (9th level; counteract DC 42) to counteract the sigil  
+- **Disable** DC 43 [Thievery](skills.md#Thievery) (master) to drain the sigil's power harmlessly, or dispel magic (9th level; counteract DC 42) to counteract the sigil  
 
 ```ad-embed-ability
 title: **Face Your Fear** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [death](rules/traits/death.md), [emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md))

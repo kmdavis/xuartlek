@@ -9,14 +9,14 @@ tags:
 aliases: ["Tongues Of Flame"]
 ---
 # Tongues Of Flame *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** DC 23 [Perception](compendium/skills.md#Perception).  
+- **Stealth** DC 23 [Perception](skills.md#Perception).  
 
-Nozzles [hidden](rules/conditions.md#Hidden) in the ceiling of the four corridors leading to the intersection spray jets of flame along their lengths when the trap is triggered.
+Nozzles [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) in the ceiling of the four corridors leading to the intersection spray jets of flame along their lengths when the trap is triggered.
 
-- **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) to disable a single nozzle, DC 21 [Thievery](compendium/skills.md#Thievery) twice to unlock a door, or DC 25 [Thievery](compendium/skills.md#Thievery) to deactivate the trap from the control panel. A hero who isn't trained in [Thievery](compendium/skills.md#Thievery) automatically fails these checks.  
+- **Disable** DC 22 [Thievery](skills.md#Thievery) to disable a single nozzle, DC 21 [Thievery](skills.md#Thievery) twice to unlock a door, or DC 25 [Thievery](skills.md#Thievery) to deactivate the trap from the control panel. A hero who isn't trained in [Thievery](skills.md#Thievery) automatically fails these checks.  
 
 - **AC** 25, **Fort** +15, **Ref** +8
 - **Door Hardness** 6, **Door HP** 22 (BT 11) to break open a door and escape the hallway; **Nozzle Hardness** 12, **Nozzle HP** 50 (BT 25) to destroy a single nozzle

@@ -10,4 +10,4 @@ aliases: ["Fortify Camp"]
 
 **Variant Rule** Hexploration
 
-You can spend time fortifying your camp for defense with a successful [Crafting](compendium/skills.md#Crafting) check (typically at a trained or expert DC). Anyone keeping watch or defending the camp gains a +2 circumstance bonus to initiative rolls and [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) creatures attempting to sneak up on the camp.
+You can spend time fortifying your camp for defense with a successful [Crafting](skills.md#Crafting) check (typically at a trained or expert DC). Anyone keeping watch or defending the camp gains a +2 circumstance bonus to initiative rolls and [Perception](skills.md#Perception) checks to [Seek](archive/srd/pf2e/rules/actions/seek.md) creatures attempting to sneak up on the camp.

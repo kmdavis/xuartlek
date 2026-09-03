@@ -11,15 +11,15 @@ tags:
 aliases: ["Immovable Potion"]
 ---
 # Immovable Potion *Item 10*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [potion](archive/srd/pf2e/rules/traits/potion.md "Potion Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 160 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-When you drink the thick, slate-colored immovable potion, you become anchored in place, even defying gravity, rendering you [immobilized](rules/conditions.md#Immobilized) for 1 minute or until you [Dismiss](rules/actions/dismiss.md) the activation.
+When you drink the thick, slate-colored immovable potion, you become anchored in place, even defying gravity, rendering you [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) for 1 minute or until you [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the activation.
 
-While you are [immobilized](rules/conditions.md#Immobilized) this way, the DC to move you from your place, including knocking you [prone](rules/conditions.md#Prone), is 40.
+While you are [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) this way, the DC to move you from your place, including knocking you [prone](archive/srd/pf2e/rules/conditions.md#Prone), is 40.
 
 
 ---

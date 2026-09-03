@@ -7,9 +7,9 @@ tags:
 aliases: ["Firearm Expert"]
 ---
 # Firearm Expert  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Gunslinger Dedication](compendium/feats/gunslinger-dedication-g-g.md), expert in any kind of weapon or unarmed attack
+- **Prerequisites**: [Gunslinger Dedication](gunslinger-dedication-g-g.md), expert in any kind of weapon or unarmed attack
 
 You've become an expert with your chosen weapons. Your proficiency ranks for simple and martial crossbows and simple and martial firearms increase to expert.
 

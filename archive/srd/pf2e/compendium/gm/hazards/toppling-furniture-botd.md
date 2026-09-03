@@ -7,14 +7,14 @@ tags:
 aliases: ["Toppling Furniture"]
 ---
 # Toppling Furniture *Hazard 2*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 trained to hear the spirit's grunt of exertion as it works to topple the furniture  
 
 A mischievous spirit pushes a bookshelf over onto a creature.
 
-- **Disable** DC 16 [Athletics](compendium/skills.md#Athletics) to hold the furniture upright or DC 18 [Occultism](compendium/skills.md#Occultism) (trained) to foil the spirit's efforts to influence matter  
+- **Disable** DC 16 [Athletics](skills.md#Athletics) to hold the furniture upright or DC 18 [Occultism](skills.md#Occultism) (trained) to foil the spirit's efforts to influence matter  
 
 ```ad-embed-ability
 title: **Topple Furniture** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

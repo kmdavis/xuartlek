@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Psychic Spellcasting"]
 ---
 # Basic Psychic Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Psychic Dedication](compendium/feats/psychic-dedication-da.md)
+- **Prerequisites**: [Psychic Dedication](psychic-dedication-da.md)
 
 You gain the basic spellcasting benefits. When you gain a spell slot of a new level from the psychic archetype, add a spell of the appropriate spell level to your repertoire: a common occult spell, one of the granted spells from your conscious mind, or another spell you've learned or discovered.
 
 ## Basic Psychic Spellcasting leads to...
 
-[Expert Psychic Spellcasting](compendium/feats/expert-psychic-spellcasting-da.md), [Master Psychic Spellcasting](compendium/feats/master-psychic-spellcasting-da.md)
+[Expert Psychic Spellcasting](expert-psychic-spellcasting-da.md), [Master Psychic Spellcasting](master-psychic-spellcasting-da.md)
 
 ## Summary
 

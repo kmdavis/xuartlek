@@ -7,12 +7,12 @@ tags:
 - trait/uncommon
 aliases: ["Avenge In Glory"]
 ---
-# Avenge In Glory  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Avenge In Glory  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[dwarf](archive/srd/pf2e/rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: mountain dwarf ethnicity
 - **Frequency**: once per day
-- **Trigger** An ally within 30 feet gains the [dying](rules/conditions.md#Dying) condition.
+- **Trigger** An ally within 30 feet gains the [dying](archive/srd/pf2e/rules/conditions.md#Dying) condition.
 - **Activity** Reaction
 
 You honor your ally's life, gaining temporary Hit Points equal to your level for 1 minute. As long as you have these temporary Hit Points, you gain a +1 circumstance bonus to attack and damage rolls.

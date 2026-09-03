@@ -10,7 +10,7 @@ tags:
 aliases: ["Broadspear"]
 ---
 # Broadspear *Item 0*  
-[reach](rules/traits/reach.md "Reach Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [versatile <S>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
+[reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [versatile <S>](rules/traits/versatile-s.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

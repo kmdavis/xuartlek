@@ -20,8 +20,8 @@ aliases: ["Winlas", "The Elder of Divinity"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
-- **Domains**: [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [protection](compendium/setting/domains.md#Protection), [vigil](compendium/setting/domains.md#Vigil)
-- **Cleric Spells**: 1st: [share lore](compendium/spells/share-lore-logm.md); 2nd: [comprehend language](compendium/spells/comprehend-language.md); 4th: [veil](compendium/spells/veil.md)
+- **Favored Weapon**: [mace](archive/srd/pf2e/compendium/equipment/items/mace.md)
+- **Domains**: [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [share lore](share-lore-logm.md); 2nd: [comprehend language](comprehend-language.md); 4th: [veil](veil.md)

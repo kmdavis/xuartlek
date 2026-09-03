@@ -9,14 +9,14 @@ tags:
 aliases: ["Spinning Blade Pillar"]
 ---
 # Spinning Blade Pillar *Hazard 4*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained or DC 26 (expert) to notice the control panel.  
 
-A metal pole with three razor-sharp spinning blades is [hidden](rules/conditions.md#Hidden) in the floor, connected to trigger plates in up to eight floor tiles and a [hidden](rules/conditions.md#Hidden) control panel within 30 feet.
+A metal pole with three razor-sharp spinning blades is [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) in the floor, connected to trigger plates in up to eight floor tiles and a [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) control panel within 30 feet.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 21 (trained) twice on the pillar, or [Thievery](compendium/skills.md#Thievery) DC 19 (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically (see Reset below).  
+- **Disable** [Thievery](skills.md#Thievery) DC 21 (trained) twice on the pillar, or [Thievery](skills.md#Thievery) DC 19 (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically (see Reset below).  
 
 - **AC** 21, **Fort** +10, **Ref** +12
 - **Panel Hardness** 5, **Panel HP** 20 (BT 10); **Pillar Hardness** 12, **Pillar HP** 48 (BT 24)

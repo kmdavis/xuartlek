@@ -20,8 +20,8 @@ aliases: ["Lissala", "The Sihedron Scion"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Arcana
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [fate](compendium/setting/domains.md#Fate), [glyph](compendium/setting/domains.md#Glyph), [magic](compendium/setting/domains.md#Magic), [toil](compendium/setting/domains.md#Toil)
-- **Cleric Spells**: 1st: [message rune](compendium/spells/message-rune-logm.md); 2nd: [secret page](compendium/spells/secret-page.md); 6th: [dominate](compendium/spells/dominate.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [toil](archive/srd/pf2e/compendium/setting/domains.md#Toil)
+- **Cleric Spells**: 1st: [message rune](message-rune-logm.md); 2nd: [secret page](secret-page.md); 6th: [dominate](archive/srd/pf2e/compendium/spells/dominate.md)

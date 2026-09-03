@@ -12,7 +12,7 @@ tags:
 aliases: ["Horsechopper"]
 ---
 # Horsechopper *Item 0*  
-[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
+[goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 9 sp
 - **Bulk** 2

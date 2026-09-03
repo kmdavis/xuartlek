@@ -9,7 +9,7 @@ tags:
 aliases: ["Mortar"]
 ---
 # Mortar *Item 7*  
-[medium](rules/traits/medium-b1.md "Medium Size Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[medium](medium-b1.md "Medium Size Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 720 gp
 - **Usage** mounted (black powder)

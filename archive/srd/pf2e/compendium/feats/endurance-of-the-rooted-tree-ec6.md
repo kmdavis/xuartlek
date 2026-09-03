@@ -8,9 +8,9 @@ tags:
 aliases: ["Endurance Of The Rooted Tree"]
 ---
 # Endurance Of The Rooted Tree  *Feat 20*  
-[monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Wholeness of Body](compendium/feats/wholeness-of-body.md)
+- **Prerequisites**: [Wholeness of Body](archive/srd/pf2e/compendium/feats/wholeness-of-body.md)
 
 Just as the Vale of Aroden retains light and life despite inhospitable surroundings, you can sustain yourself regardless of your environment. You don't need to eat, drink, or breathe. In addition, you can cast the wholeness of body ki spell almost effortlessly. You can cast it as a free action that triggers at the start of your turn.
 

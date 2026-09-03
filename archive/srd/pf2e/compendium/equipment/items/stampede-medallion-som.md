@@ -11,11 +11,11 @@ tags:
 aliases: ["Stampede Medallion"]
 ---
 # Stampede Medallion *Item 12+*  
-[eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[eidolon](eidolon-som.md "Eidolon Creature Type Trait")  [evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L; **Usage** worn
 
-When you invest this medallion for your eidolon, it changes shape to appear as a tiny bejeweled facsimile of the eidolon, magically attached just over your eidolon's heart. While your eidolon wears the medallion, they gain a +2 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [Shove](rules/actions/shove.md) or [Trip](rules/actions/trip.md).
+When you invest this medallion for your eidolon, it changes shape to appear as a tiny bejeweled facsimile of the eidolon, magically attached just over your eidolon's heart. While your eidolon wears the medallion, they gain a +2 item bonus to [Athletics](skills.md#Athletics) checks to [Shove](archive/srd/pf2e/rules/actions/shove.md) or [Trip](archive/srd/pf2e/rules/actions/trip.md).
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision

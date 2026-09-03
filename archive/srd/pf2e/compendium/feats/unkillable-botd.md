@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Unkillable"]
 ---
-# Unkillable  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Unkillable  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
+- **Prerequisites**: [Zombie Dedication](zombie-dedication-botd.md)
 - **Frequency**: once per hour
 - **Trigger** You would be reduced to 0 HP.
 - **Activity** Reaction

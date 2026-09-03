@@ -7,8 +7,8 @@ tags:
 - trait/fortune
 aliases: ["Chance Death"]
 ---
-# Chance Death  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  
+# Chance Death  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[duskwalker](duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You would die as a result of a failed saving throw or recovery check.

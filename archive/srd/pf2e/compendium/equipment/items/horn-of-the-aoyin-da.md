@@ -11,9 +11,9 @@ tags:
 aliases: ["Horn of the Aoyin"]
 ---
 # Horn of the Aoyin *Item 13*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Craft Requirements** A horn of the aoyin can be crafted only from a single aoyin horn. [Crafting](compendium/skills.md#Crafting) this object must be undertaken using tools soaked in the wielder's blood.
+- **Craft Requirements** A horn of the aoyin can be crafted only from a single aoyin horn. [Crafting](skills.md#Crafting) this object must be undertaken using tools soaked in the wielder's blood.
 - **Bulk** 1; **Usage** held in 2 hands
 
 This musical instrument is crafted from the horn of an aoyin—a large, cannibalistic beast whose form resembles an ox with a white body, four horns, and hair as coarse as straw—and carved with fell symbols. If the horn of the aoyin's owner doesn't use the instrument's activation on sapient creatures at least once a day, the horn of the aoyin activates at some point of its own choosing on the owner, and the owner critically fails with no saving throw.

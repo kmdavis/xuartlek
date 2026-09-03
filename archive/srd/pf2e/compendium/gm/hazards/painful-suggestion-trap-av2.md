@@ -8,14 +8,14 @@ tags:
 aliases: ["Painful Suggestion Trap"]
 ---
 # Painful Suggestion Trap *Hazard 8*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 26 expert  
 
-A [hidden](rules/conditions.md#Hidden) rune on the floor under the filth, just past the threshold, triggers an ersatz ghost.
+A [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) rune on the floor under the filth, just past the threshold, triggers an ersatz ghost.
 
-- **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) (expert) to remove the rune without triggering it, or dispel magic (4th level; counteract DC 26) to dispel the rune.  
+- **Disable** DC 28 [Thievery](skills.md#Thievery) (expert) to remove the rune without triggering it, or dispel magic (4th level; counteract DC 26) to dispel the rune.  
 
 ```ad-embed-ability
 title: **Counterfeit Haunting** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([auditory](rules/traits/auditory.md), [enchantment](rules/traits/enchantment.md), [incapacitation](rules/traits/incapacitation.md), [linguistic](rules/traits/linguistic.md), [mental](rules/traits/mental.md))

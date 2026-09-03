@@ -9,10 +9,10 @@ tags:
 aliases: ["Bloodspray Curse"]
 ---
 # Bloodspray Curse *Spell 4*   
-[curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Fortitude
@@ -22,9 +22,9 @@ You inflict a curse upon the target that causes any wound to gush blood. The tar
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** For 1 minute, the first time each round that the target takes at least 10 piercing or slashing damage from a single [Strike](rules/actions/strike.md), it takes `2d6` additional damage of the same type.
-> - **Failure** As success, but when it takes the additional damage, it also takes `2d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage).
+> - **Success** For 1 minute, the first time each round that the target takes at least 10 piercing or slashing damage from a single [Strike](archive/srd/pf2e/rules/actions/strike.md), it takes `2d6` additional damage of the same type.
+> - **Failure** As success, but when it takes the additional damage, it also takes `2d6` [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
-**Heightened (+ 2)** The additional damage increases by `1d6` and the [persistent bleed damage](rules/conditions.md#Persistent%20Damage) increases by `1d6`.
+**Heightened (+ 2)** The additional damage increases by `1d6` and the [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) increases by `1d6`.
 
 *Source: Secrets of Magic p. 92*

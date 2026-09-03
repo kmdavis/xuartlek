@@ -9,13 +9,13 @@ tags:
 aliases: ["Firework Technician Dedication"]
 ---
 # Firework Technician Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
+- **Prerequisites**: trained in [Crafting](skills.md#Crafting)
 
 You've learned the secrets of making fire and sound bloom using black powder, metals, and paper. You most likely came by this knowledge through formal training with a fireworks house in Tian Xia or a fireworks company from Vudra, though perhaps you mastered fireworks completely by yourself after finding a secret stash in an old shipwreck.
 
-You become trained in [Fireworks Lore](compendium/skills.md#Lore) or become an expert if you were already trained in it. You gain the [Alchemical Crafting](compendium/feats/alchemical-crafting.md) feat, a pool of infused reagents equal to your level, and advanced alchemy|alchemist||1| (allowing you to make alchemical items during your daily preparations without the normal cost or time expenditure). You can use your infused reagents only to make fireworks, Launch a Fireworks Display, and use other feats from this archetype (see below). Your advanced alchemy level is 1. If you gain infused reagents from more than one source, you use the highest number of reagents to determine your pool rather than adding them together.
+You become trained in [Fireworks Lore](skills.md#Lore) or become an expert if you were already trained in it. You gain the [Alchemical Crafting](archive/srd/pf2e/compendium/feats/alchemical-crafting.md) feat, a pool of infused reagents equal to your level, and advanced alchemy|alchemist||1| (allowing you to make alchemical items during your daily preparations without the normal cost or time expenditure). You can use your infused reagents only to make fireworks, Launch a Fireworks Display, and use other feats from this archetype (see below). Your advanced alchemy level is 1. If you gain infused reagents from more than one source, you use the highest number of reagents to determine your pool rather than adding them together.
 
 You can also create special fireworks displays using your infused reagents, designed to create distinctive effects you can use to make onlookers marvel and even to gain an advantage in combat. You gain the Launch Fireworks Display action and learn some basic displays, and you can learn additional, more complex displays through other firework technician feats. The DC for any display is equal to your class DC or spell DC, whichever is higher.
 
@@ -38,7 +38,7 @@ title: **Launch Fireworks Display** [V](rules/core-rulebook/chapter-9-playing-th
 
 ## Firework Technician Dedication leads to...
 
-[Banshee Cry Display](compendium/feats/banshee-cry-display-g-g.md), [Coughing Dragon Display](compendium/feats/coughing-dragon-display-g-g.md), [Expert Fireworks Crafter](compendium/feats/expert-fireworks-crafter-g-g.md), [Goblin Jubilee Display](compendium/feats/goblin-jubilee-display-g-g.md), [Jumping Jenny Display](compendium/feats/jumping-jenny-display-g-g.md)
+[Banshee Cry Display](banshee-cry-display-g-g.md), [Coughing Dragon Display](coughing-dragon-display-g-g.md), [Expert Fireworks Crafter](expert-fireworks-crafter-g-g.md), [Goblin Jubilee Display](goblin-jubilee-display-g-g.md), [Jumping Jenny Display](jumping-jenny-display-g-g.md)
 
 ## Summary
 

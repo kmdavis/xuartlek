@@ -8,14 +8,14 @@ tags:
 aliases: ["Sand Whirlwind"]
 ---
 # Sand Whirlwind *Hazard 14*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +23 trained  
 
 Buffeting winds swirl sharp grains of sand about the room.
 
-- **Disable** DC 38 [Religion](compendium/skills.md#Religion) (expert) to state an Iroran koan about being complete only upon recognizing one's incompleteness, or DC 41 [Occultism](compendium/skills.md#Occultism) (master) to create a ward against future hauntings.  
+- **Disable** DC 38 [Religion](skills.md#Religion) (expert) to state an Iroran koan about being complete only upon recognizing one's incompleteness, or DC 41 [Occultism](skills.md#Occultism) (master) to create a ward against future hauntings.  
 
 ```ad-embed-ability
 title: **Sand Vacuum** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
@@ -38,6 +38,6 @@ title: Routine
 ```
 ^routine
 
-**Reset** The haunt deactivates after 1 minute and re-forms after 1 hour. The haunt is disabled and doesn't re-form if at least two creatures spend 1 minute to create an image with the sand. Creating the image requires a successful DC 30 [Crafting](compendium/skills.md#Crafting) or [Thievery](compendium/skills.md#Thievery) check.  
+**Reset** The haunt deactivates after 1 minute and re-forms after 1 hour. The haunt is disabled and doesn't re-form if at least two creatures spend 1 minute to create an image with the sand. Creating the image requires a successful DC 30 [Crafting](skills.md#Crafting) or [Thievery](skills.md#Thievery) check.  
 
 *Source: Fists of the Ruby Phoenix #1: Despair on Danger Island p. 18*

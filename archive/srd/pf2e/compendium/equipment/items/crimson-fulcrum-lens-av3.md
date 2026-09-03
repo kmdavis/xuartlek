@@ -11,12 +11,12 @@ tags:
 aliases: ["Crimson Fulcrum Lens"]
 ---
 # Crimson Fulcrum Lens *Item 9*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 700 gp
 - **Bulk** 1
 
-This concave lens has a drifting crimson cloud resembling slowly swirling blood within it. While you have the Crimson Fulcrum Lens invested, you seethe with malevolent fury you can barely contain. You gain a +2 item bonus to saving throws against [fear](rules/traits/fear.md "Fear Effect Trait") effects and a +2 item bonus to your melee [Strike](rules/actions/strike.md) damage (this increases to a +4 item bonus to damage if the melee [Strike](rules/actions/strike.md) is a jaws attack). You can also activate the lens in the following ways.
+This concave lens has a drifting crimson cloud resembling slowly swirling blood within it. While you have the Crimson Fulcrum Lens invested, you seethe with malevolent fury you can barely contain. You gain a +2 item bonus to saving throws against [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait") effects and a +2 item bonus to your melee [Strike](archive/srd/pf2e/rules/actions/strike.md) damage (this increases to a +4 item bonus to damage if the melee [Strike](archive/srd/pf2e/rules/actions/strike.md) is a jaws attack). You can also activate the lens in the following ways.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)

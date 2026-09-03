@@ -10,18 +10,18 @@ tags:
 aliases: ["Whirlwind"]
 ---
 # Whirlwind *Spell 8*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 500 foot
 - **Area**: 15-foot radius, 80-foot tall cylinder
 - **Saving Throw**: Reflex
 - **Duration**: sustained up to 1 minute
 
-Powerful winds coalesce into a devastating tornado. You can [Cast this Spell](rules/actions/cast-a-spell.md) only if you are outside or the ceiling is 80 feet or higher. All squares in the whirlwind are difficult terrain.
+Powerful winds coalesce into a devastating tornado. You can [Cast this Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) only if you are outside or the ceiling is 80 feet or higher. All squares in the whirlwind are difficult terrain.
 
-All creatures in the area take `5d10` bludgeoning damage as powerful winds and debris buffet them, with a Reflex save. Each time you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can move the whirlwind up to 30 feet in a straight line. Each creature the whirlwind moves through takes the damage, also with a Reflex save. A creature can be affected by a whirlwind only once per round.
+All creatures in the area take `5d10` bludgeoning damage as powerful winds and debris buffet them, with a Reflex save. Each time you [Sustain the Spell](sustain-a-spell.md), you can move the whirlwind up to 30 feet in a straight line. Each creature the whirlwind moves through takes the damage, also with a Reflex save. A creature can be affected by a whirlwind only once per round.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.

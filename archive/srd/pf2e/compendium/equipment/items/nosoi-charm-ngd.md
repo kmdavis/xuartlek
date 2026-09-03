@@ -11,11 +11,11 @@ tags:
 aliases: ["Nosoi Charm"]
 ---
 # Nosoi Charm *Item 12+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** —; **Usage** held in 1 hand
 
-Nosois serve as scribes and messengers to psychopomps. They are rare outside of the Boneyard, so it's common for psychopomps venturing to other planes to carry a nosoi facsimile to aid in their travels. This tiny icon of a masked raven emits twittering sounds in perfect accompaniment to your performances. You gain a +2 item bonus to [Performance](compendium/skills.md#Performance) checks to play an instrument, orate, or sing. You can cast [sending](compendium/spells/sending.md) once per day as a divine innate spell.
+Nosois serve as scribes and messengers to psychopomps. They are rare outside of the Boneyard, so it's common for psychopomps venturing to other planes to carry a nosoi facsimile to aid in their travels. This tiny icon of a masked raven emits twittering sounds in perfect accompaniment to your performances. You gain a +2 item bonus to [Performance](skills.md#Performance) checks to play an instrument, orate, or sing. You can cast [sending](archive/srd/pf2e/compendium/spells/sending.md) once per day as a divine innate spell.
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md)
@@ -44,7 +44,7 @@ title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Price**: 19000 gp
 
-The item bonus to [Performance](compendium/skills.md#Performance) or [Diplomacy](compendium/skills.md#Diplomacy) is +3. You gain lifesense as long as you are holding the charm, and you don't need to activate it.
+The item bonus to [Performance](skills.md#Performance) or [Diplomacy](skills.md#Diplomacy) is +3. You gain lifesense as long as you are holding the charm, and you don't need to activate it.
 
 ---
 *Source: Night of the Gray Death p. 63*

@@ -10,8 +10,8 @@ tags:
 - trait/stance
 aliases: ["Thermal Nimbus"]
 ---
-# Thermal Nimbus  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
+# Thermal Nimbus  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  
 
 - **Activity** Single Action
 

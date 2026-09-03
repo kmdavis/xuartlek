@@ -9,10 +9,10 @@ tags:
 aliases: ["Ray Of Enfeeblement"]
 ---
 # Ray Of Enfeeblement *Spell 1*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Fortitude
@@ -22,8 +22,8 @@ A ray with the power to sap a foe's strength flashes from your hand. Attempt a r
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target becomes [enfeebled](rules/conditions.md#Enfeebled).
-> - **Failure** The target becomes [enfeebled](rules/conditions.md#Enfeebled).
-> - **Critical Failure** The target becomes [enfeebled](rules/conditions.md#Enfeebled).
+> - **Success** The target becomes [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled).
+> - **Failure** The target becomes [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled).
+> - **Critical Failure** The target becomes [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled).
 
 *Source: Core Rulebook p. 362*

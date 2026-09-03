@@ -20,8 +20,8 @@ aliases: ["Abraxas", "Master of the Final Incantation"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Arcana
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [knowledge](compendium/setting/domains.md#Knowledge), [magic](compendium/setting/domains.md#Magic), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
-- **Cleric Spells**: 1st: [share lore](compendium/spells/share-lore-logm.md); 2nd: [spectral hand](compendium/spells/spectral-hand.md); 3rd: [hypercognition](compendium/spells/hypercognition.md); 4th: [reflective scales](compendium/spells/reflective-scales-logm.md); 5th: [black tentacles](compendium/spells/black-tentacles.md); 6th: [feeblemind](compendium/spells/feeblemind.md); 7th: [spell turning](compendium/spells/spell-turning.md); 8th: [unrelenting observation](compendium/spells/unrelenting-observation.md); 9th: [disjunction](compendium/spells/disjunction.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [wyrmkin](archive/srd/pf2e/compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [share lore](share-lore-logm.md); 2nd: [spectral hand](spectral-hand.md); 3rd: [hypercognition](archive/srd/pf2e/compendium/spells/hypercognition.md); 4th: [reflective scales](reflective-scales-logm.md); 5th: [black tentacles](black-tentacles.md); 6th: [feeblemind](feeblemind.md); 7th: [spell turning](spell-turning.md); 8th: [unrelenting observation](archive/srd/pf2e/compendium/spells/unrelenting-observation.md); 9th: [disjunction](disjunction.md)

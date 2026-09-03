@@ -9,7 +9,7 @@ tags:
 aliases: ["Unexpected Sharpshooter Dedication"]
 ---
 # Unexpected Sharpshooter Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Frequency**: once per day
 
@@ -30,7 +30,7 @@ title: **Accidental Shot** [>>](rules/core-rulebook/chapter-9-playing-the-game.m
 
 ## Unexpected Sharpshooter Dedication leads to...
 
-[Chain Reaction](compendium/feats/chain-reaction-g-g.md), [I Meant To Do That](compendium/feats/i-meant-to-do-that-g-g.md), [Lucky Escape](compendium/feats/lucky-escape-g-g.md), [No Hard Feelings](compendium/feats/no-hard-feelings-g-g.md), [That Was A Close One, Huh?](compendium/feats/that-was-a-close-one-huh-g-g.md), [Unbelievable Escape](compendium/feats/unbelievable-escape-g-g.md), [Unbelievable Luck](compendium/feats/unbelievable-luck-g-g.md)
+[Chain Reaction](chain-reaction-g-g.md), [I Meant To Do That](i-meant-to-do-that-g-g.md), [Lucky Escape](lucky-escape-g-g.md), [No Hard Feelings](no-hard-feelings-g-g.md), [That Was A Close One, Huh?](that-was-a-close-one-huh-g-g.md), [Unbelievable Escape](unbelievable-escape-g-g.md), [Unbelievable Luck](unbelievable-luck-g-g.md)
 
 ## Summary
 

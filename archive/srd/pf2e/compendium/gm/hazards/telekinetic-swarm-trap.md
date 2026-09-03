@@ -10,14 +10,14 @@ tags:
 aliases: ["Telekinetic Swarm Trap"]
 ---
 # Telekinetic Swarm Trap *Hazard 12*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +24 expert  
 
 Three innocuous decorations instilled with telekinetic magic pull objects and pieces of the room itself into spinning clouds of debris that attack all creatures in the room.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 27 (expert) to take apart a telekinetic cloud, [Thievery](compendium/skills.md#Thievery) DC 32 (master) to disable each telekinetic decoration, or dispel magic (6th level; counteract DC 30) to counteract each telekinetic decoration.  
+- **Disable** [Thievery](skills.md#Thievery) DC 27 (expert) to take apart a telekinetic cloud, [Thievery](skills.md#Thievery) DC 32 (master) to disable each telekinetic decoration, or dispel magic (6th level; counteract DC 30) to counteract each telekinetic decoration.  
 
 - **AC** 33, **Fort** +24, **Ref** +19
 - **Hardness** 22, **HP** 88 (BT 44) per telekinetic cloud

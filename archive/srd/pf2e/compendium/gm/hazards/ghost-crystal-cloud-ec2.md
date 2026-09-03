@@ -8,14 +8,14 @@ tags:
 aliases: ["Ghost Crystal Cloud"]
 ---
 # Ghost Crystal Cloud *Hazard 8*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 trained  
 
 The xulgath corpse splits open to release a cloud of tiny ectoplasmic crystals which, when they are inhaled, disorient and devitalize living creatures.
 
-- **Disable** DC 26 [Arcana](compendium/skills.md#Arcana) or Occult (expert) to render the crystal cloud inert.  
+- **Disable** DC 26 [Arcana](skills.md#Arcana) or Occult (expert) to render the crystal cloud inert.  
 
 - **AC** 27, **Fort** +17, **Ref** +13
 - **HP** 70

@@ -9,7 +9,7 @@ tags:
 aliases: ["Alchemical Springald"]
 ---
 # Alchemical Springald *Item 13*  
-[huge](rules/traits/huge-b1.md "Huge Size Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[huge](huge-b1.md "Huge Size Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 6000 gp
 - **Usage** mounted (black powder)

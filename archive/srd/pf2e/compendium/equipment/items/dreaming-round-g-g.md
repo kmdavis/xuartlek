@@ -14,7 +14,7 @@ tags:
 aliases: ["Dreaming Round"]
 ---
 # Dreaming Round *Item 14*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [sleep](archive/srd/pf2e/rules/traits/sleep.md "Sleep Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 900 gp
 - **Ammunition** round
@@ -26,9 +26,9 @@ When an activated dreaming round damages a creature, it induces drowsiness. The 
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected and becomes temporarily immune for 1 minute.
-> - **Success** The creature becomes [slowed](rules/conditions.md#Slowed) and [fatigued](rules/conditions.md#Fatigued) for 1 round.
-> - **Failure** The creature becomes [fatigued](rules/conditions.md#Fatigued) and [slowed](rules/conditions.md#Slowed), and must attempt another Fortitude save at the end of each of its turns. If it fails, its [slowed](rules/conditions.md#Slowed) condition increases by 1. A successful save reduces the [slowed](rules/conditions.md#Slowed) condition by 1. If the [slowed](rules/conditions.md#Slowed) condition is removed or reduced to 0, the effect and the [fatigued](rules/conditions.md#Fatigued) condition end. If the target's actions are reduced to 0 by this effect, it immediately falls into a deep sleep and is [unconscious](rules/conditions.md#Unconscious), during which it no longer attempts a save at the end of its turn. It wakes up automatically after 1 hour or if it takes damage, but not due to non-painful stimuli (such as noise or being nudged). When it wakes up, its [slowed](rules/conditions.md#Slowed) condition decreases by 1, though it must once again save at the end of each of its turns and might risk falling asleep again.
-> - **Critical Failure** As failure, except the target is initially [slowed](rules/conditions.md#Slowed).
+> - **Success** The creature becomes [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) and [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) for 1 round.
+> - **Failure** The creature becomes [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) and [slowed](archive/srd/pf2e/rules/conditions.md#Slowed), and must attempt another Fortitude save at the end of each of its turns. If it fails, its [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) condition increases by 1. A successful save reduces the [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) condition by 1. If the [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) condition is removed or reduced to 0, the effect and the [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) condition end. If the target's actions are reduced to 0 by this effect, it immediately falls into a deep sleep and is [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious), during which it no longer attempts a save at the end of its turn. It wakes up automatically after 1 hour or if it takes damage, but not due to non-painful stimuli (such as noise or being nudged). When it wakes up, its [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) condition decreases by 1, though it must once again save at the end of each of its turns and might risk falling asleep again.
+> - **Critical Failure** As failure, except the target is initially [slowed](archive/srd/pf2e/rules/conditions.md#Slowed).
 
 
 ---

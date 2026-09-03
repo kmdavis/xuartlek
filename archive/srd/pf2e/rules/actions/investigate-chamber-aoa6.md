@@ -10,11 +10,11 @@ tags:
 aliases: ["Investigate Chamber"]
 ---
 # Investigate Chamber
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [move](rules/traits/move.md "Move Combat Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  
 *Source: Age of Ashes #6: Broken Promises p. 33*  
 
 
-You take 10 minutes to investigate a specific room in the Golden Citadel to learn any information about it. Guards won't normally be annoyed by this if you investigate a public area, but if they see you investigating a private area they will attempt to escort you out before you can complete the investigation. Attempt a DC 36 [Perception](compendium/skills.md#Perception) check to determine your level of success.
+You take 10 minutes to investigate a specific room in the Golden Citadel to learn any information about it. Guards won't normally be annoyed by this if you investigate a public area, but if they see you investigating a private area they will attempt to escort you out before you can complete the investigation. Attempt a DC 36 [Perception](skills.md#Perception) check to determine your level of success.
 
 > [!success-degree] 
 > - **Critical Success** You learn the room's read-aloud text, basic information, and any secret information.

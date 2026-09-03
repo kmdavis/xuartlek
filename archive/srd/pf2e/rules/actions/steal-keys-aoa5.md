@@ -8,10 +8,10 @@ tags:
 aliases: ["Steal Keys"]
 ---
 # Steal Keys
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 28*  
 
-- **Requirements**: PCs noticed the keys while [Breaking and Entering](rules/actions/breaking-and-entering-aoa5.md).
+- **Requirements**: PCs noticed the keys while [Breaking and Entering](breaking-and-entering-aoa5.md).
 
 The PC steals a ring of keys that can unlock many of the manor's doors.
 

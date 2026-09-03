@@ -6,11 +6,11 @@ tags:
 - trait/archetype
 aliases: ["Poison Coat"]
 ---
-# Poison Coat  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Poison Coat  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Poisoner Dedication](compendium/feats/poisoner-dedication-apg.md)
-- **Trigger** A creature adjacent to you hits you with a melee unarmed [Strike](rules/actions/strike.md).
+- **Prerequisites**: [Poisoner Dedication](poisoner-dedication-apg.md)
+- **Trigger** A creature adjacent to you hits you with a melee unarmed [Strike](archive/srd/pf2e/rules/actions/strike.md).
 - **Requirements**: You have prepared your clothing to poison attackers (see below).
 - **Activity** Reaction
 

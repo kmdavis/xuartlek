@@ -12,12 +12,12 @@ tags:
 aliases: ["Beguiling Crown"]
 ---
 # Beguiling Crown *Item 20*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 80000 gp
 - **Bulk** 2; **Usage** worn crown
 
-This hugely massive crown is bedazzled with glimmering jewels and enchanted with powerful magics that make the gold seem to ripple and surge like strange glimmering tide pools. While uncomfortable to wear, the crown beguiles those within the wearer's presence. Creatures within 30 feet of you automatically improve their attitude toward you by one step (up to [friendly](rules/conditions.md#Friendly)). This doesn't prevent [hostile](rules/conditions.md#Hostile) creatures from attacking you, but it might give you a chance to talk to them before they strike. The dazzling nature of the crown makes it hard for you to read the intentions of others, and you take a –4 status penalty to your [Perception](compendium/skills.md#Perception) DC when someone uses [Deception](compendium/skills.md#Deception) against you. When you invest the crown, you either increase your Charisma score by 2 or increase it to 18, whichever is higher.
+This hugely massive crown is bedazzled with glimmering jewels and enchanted with powerful magics that make the gold seem to ripple and surge like strange glimmering tide pools. While uncomfortable to wear, the crown beguiles those within the wearer's presence. Creatures within 30 feet of you automatically improve their attitude toward you by one step (up to [friendly](archive/srd/pf2e/rules/conditions.md#Friendly)). This doesn't prevent [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) creatures from attacking you, but it might give you a chance to talk to them before they strike. The dazzling nature of the crown makes it hard for you to read the intentions of others, and you take a –4 status penalty to your [Perception](skills.md#Perception) DC when someone uses [Deception](skills.md#Deception) against you. When you invest the crown, you either increase your Charisma score by 2 or increase it to 18, whichever is higher.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

@@ -7,11 +7,11 @@ tags:
 aliases: ["Debilitating Venom"]
 ---
 # Debilitating Venom  *Feat 5*  
-[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
+[vishkanya](vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Envenom](rules/actions/envenom-loil.md)
+- **Prerequisites**: [Envenom](envenom-loil.md)
 
-Your venom is particularly potent, affecting targets in different ways. When you gain this feat, select one of the following debilitations. When you use [Envenom](rules/actions/envenom-loil.md), you can choose to apply a debilitation to your venom to adjust its effects. The changes to each stage of the venom are listed. You can apply only one debilitation to your venom.
+Your venom is particularly potent, affecting targets in different ways. When you gain this feat, select one of the following debilitations. When you use [Envenom](envenom-loil.md), you can choose to apply a debilitation to your venom to adjust its effects. The changes to each stage of the venom are listed. You can apply only one debilitation to your venom.
 
 - Hampering (level 5)
 

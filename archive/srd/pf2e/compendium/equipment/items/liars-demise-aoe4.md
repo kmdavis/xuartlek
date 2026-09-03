@@ -12,16 +12,16 @@ tags:
 aliases: ["Liar's Demise"]
 ---
 # Liar's Demise *Item 14*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [contact](archive/srd/pf2e/rules/traits/contact.md "Contact Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 650 gp
 - **Craft Requirements** Supply one casting of zone of truth.
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This thick orange cream quickly seeps into skin. In addition to causing painful swelling in the brain, liar's demise compels the victim to speak only the truth. While under the effect of liar's demise, you take the listed poison damage and mental damage for any time you voluntarily and knowingly tell a lie, due to the poison's increased blood pressure to your brain.
 
-You take this damage once per round, even if you lie several times in rapid succession. You're aware of this effect and can choose to not answer or give only evasive, technically truthful, answers; this is a [mental](rules/traits/mental.md "Mental Effect Trait") effect.
+You take this damage once per round, even if you lie several times in rapid succession. You're aware of this effect and can choose to not answer or give only evasive, technically truthful, answers; this is a [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") effect.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 34 Fortitude

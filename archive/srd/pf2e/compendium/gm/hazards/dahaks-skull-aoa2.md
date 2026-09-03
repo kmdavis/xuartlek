@@ -11,19 +11,19 @@ tags:
 aliases: ["Dahak's Skull"]
 ---
 # Dahak's Skull *Hazard 6*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +0 but DC 24 to notice that the fiery lights within the skull's eye sockets seem to be looking around the room.  
 
 A pair of magical gems inside the dragon skull's eye sockets act as magical sensors with a 30-foot radius.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 27 (expert) two times to pry the gems embedded deep in the skull's eye sockets without triggering the sensor, or [dispel magic](compendium/spells/dispel-magic.md) (4th level, counteract DC 22) twice to dispel both eyes.  
-- **Perception** +16 [darkvision](rules/abilities/darkvision.md), [see invisibility](compendium/spells/see-invisibility.md)  
+- **Disable** [Thievery](skills.md#Thievery) DC 27 (expert) two times to pry the gems embedded deep in the skull's eye sockets without triggering the sensor, or [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (4th level, counteract DC 22) twice to dispel both eyes.  
+- **Perception** +16 [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md), [see invisibility](see-invisibility.md)  
 
 - **AC** 24, **Fort** +17, **Ref** +8
 - **Hardness** 14, **HP** 56 (BT 28)
-- **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
+- **Immunities** critical hits; [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
 
 ```ad-embed-ability
 title: **Dahak's Glance** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [evocation](rules/traits/evocation.md), [fire](rules/traits/fire.md))

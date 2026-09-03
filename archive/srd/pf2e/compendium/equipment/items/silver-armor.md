@@ -10,7 +10,7 @@ aliases: ["Silver Armor"]
 
 - **Bulk** varies by armor; **Usage** worn armor
 
-Silver armor sickens certain creatures that touch it. A creature with weakness to silver that critically fails an unarmed attack against a creature in silver armor becomes [sickened](rules/conditions.md#Sickened). A creature with weakness to silver is [sickened](rules/conditions.md#Sickened) as long as it wears silver armor.
+Silver armor sickens certain creatures that touch it. A creature with weakness to silver that critically fails an unarmed attack against a creature in silver armor becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened). A creature with weakness to silver is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) as long as it wears silver armor.
 
 ---
 

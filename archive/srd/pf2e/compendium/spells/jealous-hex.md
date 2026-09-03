@@ -11,16 +11,16 @@ tags:
 aliases: ["Jealous Hex"]
 ---
 # Jealous Hex *Focus 1*   
-[curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
 - **Duration**: up to 1 minute
 
-You draw forth a hag's innate jealousy to deny a target its greatest attribute. The target gains an adverse condition depending on its highest ability modifier: Strength ([enfeebled](rules/conditions.md#Enfeebled)); Dexterity ([clumsy](rules/conditions.md#Clumsy)); Constitution ([drained](rules/conditions.md#Drained)); or Intelligence, Wisdom, or Charisma ([stupefied](rules/conditions.md#Stupefied)). On a tie, the creature decides which of the conditions associated with the tied ability modifiers to take. The target must attempt a Will save.
+You draw forth a hag's innate jealousy to deny a target its greatest attribute. The target gains an adverse condition depending on its highest ability modifier: Strength ([enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled)); Dexterity ([clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy)); Constitution ([drained](archive/srd/pf2e/rules/conditions.md#Drained)); or Intelligence, Wisdom, or Charisma ([stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied)). On a tie, the creature decides which of the conditions associated with the tied ability modifiers to take. The target must attempt a Will save.
 
 > [!success-degree] 
 > - **Success** The target is unaffected.

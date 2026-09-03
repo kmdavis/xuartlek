@@ -20,8 +20,8 @@ aliases: ["Ragadahn", "The Water Lord"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [vigil](compendium/setting/domains.md#Vigil), [water](compendium/setting/domains.md#Water), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
-- **Cleric Spells**: 1st: [hydraulic push](compendium/spells/hydraulic-push.md); 3rd: [feet to fins](compendium/spells/feet-to-fins.md); 6th: [purple worm sting](compendium/spells/purple-worm-sting.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil), [water](archive/srd/pf2e/compendium/setting/domains.md#Water), [wyrmkin](archive/srd/pf2e/compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [hydraulic push](archive/srd/pf2e/compendium/spells/hydraulic-push.md); 3rd: [feet to fins](archive/srd/pf2e/compendium/spells/feet-to-fins.md); 6th: [purple worm sting](purple-worm-sting.md)

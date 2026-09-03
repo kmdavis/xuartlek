@@ -7,16 +7,16 @@ tags:
 aliases: ["Dwarven Weapon Familiarity"]
 ---
 # Dwarven Weapon Familiarity  *Feat 1*  
-[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
+[dwarf](archive/srd/pf2e/rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 
-Your kin have instilled in you an affinity for hard-hitting weapons, and you prefer these to more elegant arms. You are trained with the [battle axe](compendium/equipment/items/battle-axe.md), [pick](compendium/equipment/items/pick.md), and [warhammer](compendium/equipment/items/warhammer.md).
+Your kin have instilled in you an affinity for hard-hitting weapons, and you prefer these to more elegant arms. You are trained with the [battle axe](archive/srd/pf2e/compendium/equipment/items/battle-axe.md), [pick](archive/srd/pf2e/compendium/equipment/items/pick.md), and [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md).
 
 You also gain access to all uncommon dwarf weapons. For the purpose of determining your proficiency, martial dwarf weapons are simple weapons and advanced dwarf weapons are martial weapons.
 
 ## Dwarven Weapon Familiarity leads to...
 
-[Dwarven Weapon Cunning](compendium/feats/dwarven-weapon-cunning.md), [Dwarven Weapon Expertise](compendium/feats/dwarven-weapon-expertise.md)
+[Dwarven Weapon Cunning](dwarven-weapon-cunning.md), [Dwarven Weapon Expertise](dwarven-weapon-expertise.md)
 
 ## Summary
 

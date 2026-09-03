@@ -11,7 +11,7 @@ aliases: ["Hand Crossbow"]
 - **Price** 3 gp
 - **Bulk** L
   - **Damage**: `1d6` P
-  - **Ammunution** [Bolt](compendium/equipment/items/bolt.md); **Range** 60 ft.; **Reload** 1
+  - **Ammunution** [Bolt](bolt.md); **Range** 60 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Simple; **Group** Bow 
 

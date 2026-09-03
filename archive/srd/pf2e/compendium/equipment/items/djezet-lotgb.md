@@ -9,7 +9,7 @@ tags:
 aliases: ["Djezet"]
 ---
 # Djezet *Item 0+*  
-[precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[precious](archive/srd/pf2e/rules/traits/precious.md "Precious Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 
 This rust red metal is liquid at room temperature, making it challenging for all but the most skilled metallurgists to craft with and earning it the name "quickiron" in some places.

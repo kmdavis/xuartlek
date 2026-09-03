@@ -8,11 +8,11 @@ tags:
 aliases: ["Elysium's Cadence"]
 ---
 # Elysium's Cadence  *Feat 6*  
-[aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[aftermath](aftermath-da.md "Aftermath Class Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You've partied extensively with an azata or entered a romantic relationship with an azata.
 
-You've been ensnared by an azata's infectious enthusiasm for life, love, and freedom that manifests as a pearlescent afterimage in your graceful movements, a spring in your soft steps, an ever-present melody in your euphonic voice, and eddies of passionate colors in your mesmerizing eyes. You gain a +1 circumstance bonus to checks to [Make an Impression](rules/actions/make-an-impression.md), or a +2 circumstance bonus if the target is chaotic good. You gain the [Set](compendium/setting/deities/set-botd.md) Free reaction.
+You've been ensnared by an azata's infectious enthusiasm for life, love, and freedom that manifests as a pearlescent afterimage in your graceful movements, a spring in your soft steps, an ever-present melody in your euphonic voice, and eddies of passionate colors in your mesmerizing eyes. You gain a +1 circumstance bonus to checks to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md), or a +2 circumstance bonus if the target is chaotic good. You gain the [Set](set-botd.md) Free reaction.
 
 ```ad-embed-ability
 title: **Set Free** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([fortune](rules/traits/fortune.md))

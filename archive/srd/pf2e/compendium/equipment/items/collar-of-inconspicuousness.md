@@ -11,7 +11,7 @@ tags:
 aliases: ["Collar of Inconspicuousness"]
 ---
 # Collar of Inconspicuousness *Item 8*  
-[companion](rules/traits/companion.md "Companion Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[companion](archive/srd/pf2e/rules/traits/companion.md "Companion Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 475 gp
 - **Bulk** 1; **Usage** worn collar

@@ -7,9 +7,9 @@ tags:
 aliases: ["Unconventional Expertise"]
 ---
 # Unconventional Expertise  *Feat 13*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Unconventional Weaponry](compendium/feats/unconventional-weaponry.md), trained in the weapon you chose for [Unconventional Weaponry](compendium/feats/unconventional-weaponry.md)
+- **Prerequisites**: [Unconventional Weaponry](archive/srd/pf2e/compendium/feats/unconventional-weaponry.md), trained in the weapon you chose for [Unconventional Weaponry](archive/srd/pf2e/compendium/feats/unconventional-weaponry.md)
 
 You've continued to advance your powers using your unconventional weapon. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in the weapon you chose for Unconventional Weaponry.
 

@@ -11,9 +11,9 @@ tags:
 aliases: ["Ocular Overload"]
 ---
 # Ocular Overload *Spell 4*   
-[contingency](rules/traits/contingency-som.md "Contingency Spell Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[contingency](contingency-som.md "Contingency Spell Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - 
 - **Duration**: 24 hours
@@ -33,8 +33,8 @@ title: **Overload Vision** [R](rules/core-rulebook/chapter-9-playing-the-game.md
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [dazzled](rules/conditions.md#Dazzled) until the end of the current turn.
-> - **Failure** The target is [blinded](rules/conditions.md#Blinded) until the end of the current turn.
-> - **Critical Failure** The target is [blinded](rules/conditions.md#Blinded) until the end of the current turn and [dazzled](rules/conditions.md#Dazzled) for 1 minute.
+> - **Success** The target is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) until the end of the current turn.
+> - **Failure** The target is [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) until the end of the current turn.
+> - **Critical Failure** The target is [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) until the end of the current turn and [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 minute.
 
 *Source: Secrets of Magic p. 118*

@@ -15,4 +15,4 @@ In your younger days, you waded into battle as a mercenary, a warrior defending 
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and the [Warfare Lore](compendium/skills.md#Lore) skill. You gain the [Intimidating Glare](compendium/feats/intimidating-glare.md) skill feat.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and the [Warfare Lore](skills.md#Lore) skill. You gain the [Intimidating Glare](archive/srd/pf2e/compendium/feats/intimidating-glare.md) skill feat.

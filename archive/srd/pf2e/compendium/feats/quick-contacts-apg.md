@@ -8,11 +8,11 @@ tags:
 aliases: ["Quick Contacts"]
 ---
 # Quick Contacts  *Feat 2*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: expert in [Society](compendium/skills.md#Society); [Connections](compendium/feats/connections.md) or Underworld Connections
+- **Prerequisites**: expert in [Society](skills.md#Society); [Connections](connections.md) or Underworld Connections
 
-You know where to go, who to talk to, and how to make new connections, fast. Upon entering a new settlement, spending 1 day of downtime allows you to build enough connections to make use of the [Connections](compendium/feats/connections.md) or [Underworld Connections](compendium/feats/criminal-connections-apg.md) feats. If you're legendary in [Society](compendium/skills.md#Society), you can form the required connections within 1 hour of entering a new settlement.
+You know where to go, who to talk to, and how to make new connections, fast. Upon entering a new settlement, spending 1 day of downtime allows you to build enough connections to make use of the [Connections](connections.md) or [Underworld Connections](criminal-connections-apg.md) feats. If you're legendary in [Society](skills.md#Society), you can form the required connections within 1 hour of entering a new settlement.
 
 *Source: Advanced Player's Guide p. 208*  
 %% #compendium/src/pf2e/apg #trait/general #trait/skill %%

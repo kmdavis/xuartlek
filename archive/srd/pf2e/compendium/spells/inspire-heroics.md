@@ -11,12 +11,12 @@ tags:
 aliases: ["Inspire Heroics"]
 ---
 # Inspire Heroics *Focus 4*   
-[bard](rules/traits/bard.md "Bard Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [metamagic](metamagic.md "Metamagic General Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
+- **Cast** [F](chapter-9-playing-the-game.md#Actions "Free Action") 
 - 
 
-You call upon your muse to greatly increase the benefits you provide to your allies with your inspire courage or inspire defense composition. If your next action is to cast [inspire courage](compendium/spells/inspire-courage.md) or inspire defense, attempt a [Performance](compendium/skills.md#Performance) check.
+You call upon your muse to greatly increase the benefits you provide to your allies with your inspire courage or inspire defense composition. If your next action is to cast [inspire courage](inspire-courage.md) or inspire defense, attempt a [Performance](skills.md#Performance) check.
 
 The DC is usually a very hard DC of a level equal to that of the highest-level target of your composition, but the GM can assign a different DC based on the circumstances. The effect of your inspire courage or inspire defense composition depends on the result of your check.
 

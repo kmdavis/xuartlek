@@ -20,8 +20,8 @@ aliases: ["Dammerich", "The Weighted Swing"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [greataxe](compendium/equipment/items/greataxe.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [duty](compendium/setting/domains.md#Duty), [truth](compendium/setting/domains.md#Truth), [vigil](compendium/setting/domains.md#Vigil)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 3rd: [paralyze](compendium/spells/paralyze.md); 4th: [stoneskin](compendium/spells/stoneskin.md)
+- **Favored Weapon**: [greataxe](archive/srd/pf2e/compendium/equipment/items/greataxe.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 3rd: [paralyze](archive/srd/pf2e/compendium/spells/paralyze.md); 4th: [stoneskin](stoneskin.md)

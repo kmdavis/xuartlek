@@ -9,7 +9,7 @@ tags:
 aliases: ["Ranseur"]
 ---
 # Ranseur *Item 0*  
-[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  
+[disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 2

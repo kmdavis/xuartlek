@@ -8,15 +8,15 @@ tags:
 aliases: ["Splendid Companion"]
 ---
 # Splendid Companion  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Mature Trained Companion](compendium/feats/mature-trained-companion-ec2.md)
+- **Prerequisites**: [Mature Trained Companion](mature-trained-companion-ec2.md)
 
-Your animal companion continues to develop. It becomes a nimble or savage animal companion (your choice), gaining abilities determined by its type. Increase its proficiency rank in [Performance](compendium/skills.md#Performance) to master instead of [Athletics](compendium/skills.md#Athletics) or [Acrobatics](compendium/skills.md#Acrobatics).
+Your animal companion continues to develop. It becomes a nimble or savage animal companion (your choice), gaining abilities determined by its type. Increase its proficiency rank in [Performance](skills.md#Performance) to master instead of [Athletics](skills.md#Athletics) or [Acrobatics](skills.md#Acrobatics).
 
 ## Splendid Companion leads to...
 
-[Specialized Companion](compendium/feats/specialized-companion-ec2.md)
+[Specialized Companion](specialized-companion-ec2.md)
 
 ## Summary
 

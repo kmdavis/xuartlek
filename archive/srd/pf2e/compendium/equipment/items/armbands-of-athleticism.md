@@ -10,11 +10,11 @@ tags:
 aliases: ["Armbands of Athleticism"]
 ---
 # Armbands of Athleticism *Item 9+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** L; **Usage** worn armbands
 
-Skilled awl work has imprinted images of a muscled weightlifter into these tiered leather bands, which grant you enhanced stamina and skill when performing athletic exercises. While fastened to your upper arms, the armbands give you a +2 item bonus to [Athletics](compendium/skills.md#Athletics) checks. In addition, whenever you use an action to [Climb](rules/actions/climb.md) or [Swim](rules/actions/swim.md) and you succeed at the [Athletics](compendium/skills.md#Athletics) check, add a +5-foot item bonus to the distance you move.
+Skilled awl work has imprinted images of a muscled weightlifter into these tiered leather bands, which grant you enhanced stamina and skill when performing athletic exercises. While fastened to your upper arms, the armbands give you a +2 item bonus to [Athletics](skills.md#Athletics) checks. In addition, whenever you use an action to [Climb](archive/srd/pf2e/rules/actions/climb.md) or [Swim](archive/srd/pf2e/rules/actions/swim.md) and you succeed at the [Athletics](skills.md#Athletics) check, add a +5-foot item bonus to the distance you move.
 
 ---
 
@@ -28,7 +28,7 @@ Skilled awl work has imprinted images of a muscled weightlifter into these tiere
 
 - **Price**: 13000 gp
 
-The bonus to [Athletics](compendium/skills.md#Athletics) checks is +3, and the bonus to a successful check to [Climb](rules/actions/climb.md) or [Swim](rules/actions/swim.md) is +10 feet.
+The bonus to [Athletics](skills.md#Athletics) checks is +3, and the bonus to a successful check to [Climb](archive/srd/pf2e/rules/actions/climb.md) or [Swim](archive/srd/pf2e/rules/actions/swim.md) is +10 feet.
 
 ---
 *Source: Core Rulebook p. 605*

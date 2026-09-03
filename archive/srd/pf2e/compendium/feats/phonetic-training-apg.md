@@ -8,9 +8,9 @@ tags:
 aliases: ["Phonetic Training"]
 ---
 # Phonetic Training  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: [Linguist Dedication](compendium/feats/linguist-dedication-apg.md), expert in [Society](compendium/skills.md#Society)
+- **Prerequisites**: [Linguist Dedication](linguist-dedication-apg.md), expert in [Society](skills.md#Society)
 
 You can pronounce and repeat words with near-perfect accuracy even if you don't understand their meaning, and you can write them down in a phonetic script that allows you or another creature with Phonetic Training to read it later. Even if the words are in a language with sound you can't pronounce, you can faithfully transcribe them.
 

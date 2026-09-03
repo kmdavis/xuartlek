@@ -11,19 +11,19 @@ tags:
 aliases: ["Font Of Serenity"]
 ---
 # Font Of Serenity *Focus 4*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Domains** [repose](compendium/setting/domains.md#Repose)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Area**: 15-foot emanation
 - **Duration**: 1 minute
 
 A divine beacon radiates serenity, soothing nearby allies.
 
-Allies within the area gain a +1 status bonus to saving throws against [emotion](rules/traits/emotion.md "Emotion Effect Trait") effects. An ally can touch the font as an [Interact](rules/actions/interact.md) action; if they do so, the spell attempts to counteract one [emotion](rules/traits/emotion.md "Emotion Effect Trait") effect affecting the ally of the ally's choice, after which that [emotion](rules/traits/emotion.md "Emotion Effect Trait") effect is temporarily immune for 1 day.
+Allies within the area gain a +1 status bonus to saving throws against [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") effects. An ally can touch the font as an [Interact](archive/srd/pf2e/rules/actions/interact.md) action; if they do so, the spell attempts to counteract one [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") effect affecting the ally of the ally's choice, after which that [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") effect is temporarily immune for 1 day.
 
-If the spell succeeds at the counteract check, it removes the [emotion](rules/traits/emotion.md "Emotion Effect Trait") effect from your ally, though not from any other creatures the effect might be affecting.
+If the spell succeeds at the counteract check, it removes the [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") effect from your ally, though not from any other creatures the effect might be affecting.
 
 **Heightened (+ 4)** The bonus increases by 1.
 

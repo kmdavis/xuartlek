@@ -15,4 +15,4 @@ When you were young, you became the ward of another house—boarded, fed, and ed
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [Performance](compendium/skills.md#Performance) skill and the [Genealogy Lore](compendium/skills.md#Lore) skill. You gain the [Fascinating Performance](compendium/feats/fascinating-performance.md) skill feat.
+You're trained in the [Performance](skills.md#Performance) skill and the [Genealogy Lore](skills.md#Lore) skill. You gain the [Fascinating Performance](archive/srd/pf2e/compendium/feats/fascinating-performance.md) skill feat.

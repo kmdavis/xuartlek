@@ -10,7 +10,7 @@ tags:
 aliases: ["Inured to Alchemy"]
 ---
 # Inured to Alchemy  *Feat 4*  
-[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemist](archive/srd/pf2e/rules/traits/alchemist.md "Alchemist Class Trait")  [barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You're from Alkenstar or the Mana Wastes.
 - **Prerequisites**: expert in Fortitude saves

@@ -7,9 +7,9 @@ tags:
 aliases: ["Deeper Dabbler"]
 ---
 # Deeper Dabbler  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Talisman Dabbler Dedication](compendium/feats/talisman-dabbler-dedication-apg.md)
+- **Prerequisites**: [Talisman Dabbler Dedication](talisman-dabbler-dedication-apg.md)
 
 With some streamlining to your process and a deeper collection of talisman materials, you make a greater number of talismans every day. You can create two additional talismans during your daily preparations.
 

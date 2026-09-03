@@ -13,6 +13,6 @@ aliases: ["Bonuwat Wavetouched"]
 
 You are a child of the Bonuwat people, and the sea's salt flows through your veins. You've taken to sailing and swimming gracefully and with ease, earning you the honorific "wavetouched." Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Ocean Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Ocean Lore](skills.md#Lore) skill.
 
-You gain the [Underwater Marauder](compendium/feats/underwater-marauder.md) skill feat.
+You gain the [Underwater Marauder](archive/srd/pf2e/compendium/feats/underwater-marauder.md) skill feat.

@@ -8,10 +8,10 @@ tags:
 aliases: ["Grappling Arrow"]
 ---
 # Grappling Arrow *Item 0*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 sp
-- **Ammunition** [arrow](compendium/equipment/items/arrow.md)
+- **Ammunition** [arrow](arrow.md)
 - **Bulk** L
 - **Hands** 1
 

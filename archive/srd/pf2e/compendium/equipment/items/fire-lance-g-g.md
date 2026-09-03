@@ -9,7 +9,7 @@ tags:
 aliases: ["Fire Lance"]
 ---
 # Fire Lance *Item 0*  
-[fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 5 gp
@@ -19,7 +19,7 @@ aliases: ["Fire Lance"]
 - **Hands** 2
 - **Category** Simple; **Group** Firearm 
 
-This amazingly simple projectile weapon is nothing more than a metal tube packed with black powder and a stopper, attached to the sharpened head of a javelin. A loaded fire lance can be wielded as a normal [spear](compendium/equipment/items/spear.md), though it requires an [Interact](rules/actions/interact.md) action to regrip the weapon and hold it properly when switching from one use to another. Fire lances are most commonly found in Tian Xia, though occasionally one makes its way all the way to Avistan, typically in the hands of a Tien mercenary or caravan guard.
+This amazingly simple projectile weapon is nothing more than a metal tube packed with black powder and a stopper, attached to the sharpened head of a javelin. A loaded fire lance can be wielded as a normal [spear](archive/srd/pf2e/compendium/equipment/items/spear.md), though it requires an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to regrip the weapon and hold it properly when switching from one use to another. Fire lances are most commonly found in Tian Xia, though occasionally one makes its way all the way to Avistan, typically in the hands of a Tien mercenary or caravan guard.
 
 
 ---

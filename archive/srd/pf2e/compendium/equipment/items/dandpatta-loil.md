@@ -10,7 +10,7 @@ tags:
 aliases: ["Dandpatta"]
 ---
 # Dandpatta *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [twin](rules/traits/twin.md "Twin Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [twin](archive/srd/pf2e/rules/traits/twin.md "Twin Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8 sp
 - **Bulk** L

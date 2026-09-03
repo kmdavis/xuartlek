@@ -14,7 +14,7 @@ aliases: ["Boastful Prince's Scourge"]
 ---
 # Boastful Prince's Scourge
 *Curse 7*  
-[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 Used as a punishment against the vain or the arrogant, this curse slowly transforms you into a frog in note just body, but mind as well.
 
@@ -26,7 +26,7 @@ title: Saving Throw: DC 23 Will
 
 ## Tempting Curse
 
-You transform fully, as [animal form](compendium/spells/animal-form.md), giving you the specific abilities of a frog. The duration of this casting is until you make your daily preparations, and you can't [Dismiss](rules/actions/dismiss.md) the spell. While you are under the effect of [animal form](compendium/spells/animal-form.md) due to this curse, you have all the usual limitations of [animal form](compendium/spells/animal-form.md), including the fact that you can't speak (though you can still understand any languages you know).
+You transform fully, as [animal form](archive/srd/pf2e/compendium/spells/animal-form.md), giving you the specific abilities of a frog. The duration of this casting is until you make your daily preparations, and you can't [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the spell. While you are under the effect of [animal form](archive/srd/pf2e/compendium/spells/animal-form.md) due to this curse, you have all the usual limitations of [animal form](archive/srd/pf2e/compendium/spells/animal-form.md), including the fact that you can't speak (though you can still understand any languages you know).
 
 ## Summary
 

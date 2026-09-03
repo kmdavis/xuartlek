@@ -11,12 +11,12 @@ tags:
 aliases: ["Spangled Rider's Suit"]
 ---
 # Spangled Rider's Suit *Item 9*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 700 gp
 - **Bulk** 1; **Usage** worn armor
 
-This +1 resilient studded leather armor is adorned with colorful sequins that sparkle in even the faintest light. While wearing the spangled rider's suit, you gain a +2 item bonus to [Command an Animal](rules/actions/command-an-animal.md) you are riding. Any animal you ride automatically knows the [Drop Prone](rules/actions/drop-prone.md) and [Step](rules/actions/step.md) basic actions, in addition to any other basic actions it knows (normally only [Leap](rules/actions/leap.md), [Seek](rules/actions/seek.md), [Stand](rules/actions/stand.md), [Stride](rules/actions/stride.md), and [Strike](rules/actions/strike.md)).
+This +1 resilient studded leather armor is adorned with colorful sequins that sparkle in even the faintest light. While wearing the spangled rider's suit, you gain a +2 item bonus to [Command an Animal](archive/srd/pf2e/rules/actions/command-an-animal.md) you are riding. Any animal you ride automatically knows the [Drop Prone](archive/srd/pf2e/rules/actions/drop-prone.md) and [Step](archive/srd/pf2e/rules/actions/step.md) basic actions, in addition to any other basic actions it knows (normally only [Leap](archive/srd/pf2e/rules/actions/leap.md), [Seek](archive/srd/pf2e/rules/actions/seek.md), [Stand](archive/srd/pf2e/rules/actions/stand.md), [Stride](archive/srd/pf2e/rules/actions/stride.md), and [Strike](archive/srd/pf2e/rules/actions/strike.md)).
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([move](rules/traits/move.md))

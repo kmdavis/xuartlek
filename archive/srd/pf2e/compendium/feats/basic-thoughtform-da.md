@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Thoughtform"]
 ---
 # Basic Thoughtform  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Psychic Dedication](compendium/feats/psychic-dedication-da.md)
+- **Prerequisites**: [Psychic Dedication](psychic-dedication-da.md)
 
 You gain a 1st- or 2nd-level psychic feat of your choice.
 
 ## Basic Thoughtform leads to...
 
-[Advanced Thoughtform](compendium/feats/advanced-thoughtform-da.md)
+[Advanced Thoughtform](advanced-thoughtform-da.md)
 
 ## Summary
 

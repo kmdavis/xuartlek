@@ -20,8 +20,8 @@ aliases: ["Szuriel", "Angel of Desolation"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [greatsword](compendium/equipment/items/greatsword.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [destruction](compendium/setting/domains.md#Destruction), [fire](compendium/setting/domains.md#Fire), [might](compendium/setting/domains.md#Might)
-- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 3rd: [haste](compendium/spells/haste.md); 4th: [weapon storm](compendium/spells/weapon-storm.md)
+- **Favored Weapon**: [greatsword](archive/srd/pf2e/compendium/equipment/items/greatsword.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [might](archive/srd/pf2e/compendium/setting/domains.md#Might)
+- **Cleric Spells**: 1st: [burning hands](burning-hands.md); 3rd: [haste](archive/srd/pf2e/compendium/spells/haste.md); 4th: [weapon storm](archive/srd/pf2e/compendium/spells/weapon-storm.md)

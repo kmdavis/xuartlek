@@ -11,12 +11,12 @@ tags:
 aliases: ["Vengeful Arm"]
 ---
 # Vengeful Arm *Item 4*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 100 gp
 - **Bulk** —; **Usage** worn
 
-[Abraxas](compendium/setting/deities/abraxas-logm.md) teaches that an eye for an eye is the basis of law. This tattoo of a coiled viper provides a +1 item bonus to [Society](compendium/skills.md#Society) checks.
+[Abraxas](abraxas-logm.md) teaches that an eye for an eye is the basis of law. This tattoo of a coiled viper provides a +1 item bonus to [Society](skills.md#Society) checks.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

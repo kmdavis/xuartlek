@@ -8,10 +8,10 @@ tags:
 aliases: ["Grisly Growths"]
 ---
 # Grisly Growths *Spell 5*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 corporeal creature
 - **Saving Throw**:  basic Fortitude
@@ -22,12 +22,12 @@ The target takes `10d6` piercing damage (basic Fortitude save) as the new featur
 
 In addition, unless the initial target critically succeeds, creatures within 30 feet of the target, including the target, must attempt Will saves, after which they are temporarily immune to this secondary effect of grisly growths for 1 hour.
 
-This additional effect is a [mental](rules/traits/mental.md "Mental Effect Trait") and [visual](rules/traits/visual.md "Visual Effect Trait") effect.
+This additional effect is a [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") and [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait") effect.
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.
-> - **Failure** The creature is [sickened](rules/conditions.md#Sickened).
-> - **Critical Failure** The character is [sickened](rules/conditions.md#Sickened).
+> - **Failure** The creature is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Critical Failure** The character is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
 
 **Heightened (+ 1)** The damage increases by `2d6`.
 

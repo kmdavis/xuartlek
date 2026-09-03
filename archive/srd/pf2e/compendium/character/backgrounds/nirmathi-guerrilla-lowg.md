@@ -15,4 +15,4 @@ Woodcraft comes naturally to you, and you have learned how to use the forest to 
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Stealth](compendium/skills.md#Stealth) skill and the [Forest Lore](compendium/skills.md#Lore) skill. You gain the [Terrain Stalker (underbrush)](compendium/feats/terrain-stalker.md) skill feat.
+You're trained in the [Stealth](skills.md#Stealth) skill and the [Forest Lore](skills.md#Lore) skill. You gain the [Terrain Stalker (underbrush)](archive/srd/pf2e/compendium/feats/terrain-stalker.md) skill feat.

@@ -25,11 +25,11 @@ aliases: ["Calistria", "The Savored Sting"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Deception
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [pain](compendium/setting/domains.md#Pain), [passion](compendium/setting/domains.md#Passion), [secrecy](compendium/setting/domains.md#Secrecy), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 3rd: [enthrall](compendium/spells/enthrall.md); 6th: [mislead](compendium/spells/mislead.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [charm](archive/srd/pf2e/compendium/spells/charm.md); 3rd: [enthrall](archive/srd/pf2e/compendium/spells/enthrall.md); 6th: [mislead](archive/srd/pf2e/compendium/spells/mislead.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Calistria
@@ -45,10 +45,10 @@ title: [Avatar](compendium/spells/avatar.md) of Calistria
 
 Signs of favor or displeasure from the Savored Sting are sometimes subtle and at other times incontrovertible. Calistria typically grants her boon to those on the path toward great vengeance and curses those who slight her followers, particularly if those followers are sex workers, though her fickle heart rarely commits to any absolute guidelines.
 
-- **Minor Boon** Calistria smiles on the riskiest deceptions. Once, when you roll a failure on a check to [Lie](rules/actions/lie.md), you get a critical success instead. Calistria typically grants this boon for an extremely consequential lie.
+- **Minor Boon** Calistria smiles on the riskiest deceptions. Once, when you roll a failure on a check to [Lie](archive/srd/pf2e/rules/actions/lie.md), you get a critical success instead. Calistria typically grants this boon for an extremely consequential lie.
 - **Moderate Boon**: A foot-long wasp finds and befriends you. It serves you as a familiar as long as you maintain Calistria's grace. The wasp always has the burrower and flier familiar abilities.
 - **Major Boon**: Calistria guides you towards vengeance. You always know the direction and distance towards the nearest creature that has wronged you and thus far gone unpunished.
 
-- **Minor Curse**: Whenever a new person desires vengeance against you, you suffer a painful sting and are afflicted with [giant wasp venom](compendium/equipment/items/giant-wasp-venom.md) at stage 1.
-- **Moderate Curse** People react as though you're insulting them, even in normal conversation. Whenever you attempt to [Make an Impression](rules/actions/make-an-impression.md), the outcome is one degree of success worse than the result of your roll. If you converse with someone over a long enough period of time but don't attempt to [Make an Impression](rules/actions/make-an-impression.md), you still insult them, and you suffer the effect of a critical failure to [Make an Impression](rules/actions/make-an-impression.md).
+- **Minor Curse**: Whenever a new person desires vengeance against you, you suffer a painful sting and are afflicted with [giant wasp venom](giant-wasp-venom.md) at stage 1.
+- **Moderate Curse** People react as though you're insulting them, even in normal conversation. Whenever you attempt to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md), the outcome is one degree of success worse than the result of your roll. If you converse with someone over a long enough period of time but don't attempt to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md), you still insult them, and you suffer the effect of a critical failure to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md).
 - **Major Curse**: You have wronged those unable to obtain revenge for themselves, and Calistria's curse grants their revenge its own life. Whenever another creature imagines vengeance upon you but can't pursue that vengeance because you are too powerful, well connected, or otherwise untouchable, a creature of roughly your level manifests out of their imagination and performs their desired revenge. Once the revenge is complete or the manifestation is destroyed, the summoned creature vanishes from existence.

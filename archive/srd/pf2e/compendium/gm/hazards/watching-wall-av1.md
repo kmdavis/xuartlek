@@ -8,14 +8,14 @@ tags:
 aliases: ["Watching Wall"]
 ---
 # Watching Wall *Hazard 4*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +12 expert  
 
 An overwhelming feeling of being watched wells up in the minds of those in the room, an instant before an eerie red eye opens in the western wall.
 
-- **Disable** DC 22 [Deception](compendium/skills.md#Deception) (trained) to appear uninteresting to the watching eye (and thus be ignored by it) or DC 22 [Religion](compendium/skills.md#Religion) (trained) to ward against being seen by or affected by the eye.  
+- **Disable** DC 22 [Deception](skills.md#Deception) (trained) to appear uninteresting to the watching eye (and thus be ignored by it) or DC 22 [Religion](skills.md#Religion) (trained) to ward against being seen by or affected by the eye.  
 
 ```ad-pf2-summary
 title: Routine
@@ -24,7 +24,7 @@ title: Routine
 ```
 ^routine
 
-**Reset** The haunt becomes inert at the end of any round in which there are no [frightened](rules/conditions.md#Frightened) creatures it can see.
+**Reset** The haunt becomes inert at the end of any round in which there are no [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) creatures it can see.
 It stays dormant for 1 hour, after which point it resets.  
 
 *Source: Abomination Vaults #1: Ruins of Gauntlight p. 37*

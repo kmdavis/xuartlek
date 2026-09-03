@@ -7,10 +7,10 @@ tags:
 - trait/stance
 aliases: ["Rough Terrain Stance"]
 ---
-# Rough Terrain Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
+# Rough Terrain Stance  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  
 
-- **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md), expert in [Nature](compendium/skills.md#Nature)
+- **Prerequisites**: [Geomancer Dedication](geomancer-dedication-som.md), expert in [Nature](skills.md#Nature)
 - **Requirements**: You gained a terrain attunement benefit this turn.
 - **Activity** Single Action
 
@@ -20,7 +20,7 @@ This stance ends if you move into a different type of terrain.
 
 ## Rough Terrain Stance leads to...
 
-[Shifting Terrain](compendium/feats/shifting-terrain-som.md)
+[Shifting Terrain](shifting-terrain-som.md)
 
 ## Summary
 

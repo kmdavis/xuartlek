@@ -9,11 +9,11 @@ tags:
 aliases: ["Helmsman's Recourse"]
 ---
 # Helmsman's Recourse *Item 5+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
-This standard-grade darkwood meteor shield (Hardness 7, HP 28, BT 14) is a wheel from a ship. While wielding the shield, you gain a +1 item bonus to [Sailing Lore](compendium/skills.md#Lore) and to [Athletics](compendium/skills.md#Athletics) checks to [Swim](rules/actions/swim.md).
+This standard-grade darkwood meteor shield (Hardness 7, HP 28, BT 14) is a wheel from a ship. While wielding the shield, you gain a +1 item bonus to [Sailing Lore](skills.md#Lore) and to [Athletics](skills.md#Athletics) checks to [Swim](archive/srd/pf2e/rules/actions/swim.md).
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command
@@ -36,7 +36,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Price**: 625 gp
 
-The shield has Hardness 8, HP 60, and BT 30, and when you Activate the shield, it casts [water walk](compendium/spells/water-walk.md) on you.
+The shield has Hardness 8, HP 60, and BT 30, and when you Activate the shield, it casts [water walk](archive/srd/pf2e/compendium/spells/water-walk.md) on you.
 
 #### major helmsman's recourse *Item 11*
 

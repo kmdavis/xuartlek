@@ -8,15 +8,15 @@ tags:
 - trait/visual
 aliases: ["Reassuring Presence"]
 ---
-# Reassuring Presence  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[anadi](rules/traits/anadi-lome.md "Anadi Ancestry & Heritage Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+# Reassuring Presence  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[anadi](anadi-lome.md "Anadi Ancestry & Heritage Trait")  [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Trigger** An ally within 30 feet gains the [frightened](rules/conditions.md#Frightened) condition.
+- **Trigger** An ally within 30 feet gains the [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) condition.
 - **Activity** Reaction
 
 You serve as an anchor to your close companions, calming them in times of stress.
 
-Decrease the value of the triggering ally's [frightened](rules/conditions.md#Frightened) condition by 1. The ally is then temporarily immune to your Reassuring Presence for 1 hour.
+Decrease the value of the triggering ally's [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) condition by 1. The ally is then temporarily immune to your Reassuring Presence for 1 hour.
 
 *Source: Lost Omens: The Mwangi Expanse p. 106*  
 %% #compendium/src/pf2e/lome #trait/anadi #trait/auditory #trait/visual %%

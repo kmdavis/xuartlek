@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand of Reaching"]
 ---
 # Wand of Reaching *Item 4+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -62,7 +62,7 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 #### 9th-level spell *Item 20*
 
 - **Price**: 70000 gp
-- **Craft Requirements**: Supply a casting of a spell of the appropriate level. The spell must have a casting time of [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") and must have a range.
+- **Craft Requirements**: Supply a casting of a spell of the appropriate level. The spell must have a casting time of [>](chapter-9-playing-the-game.md#Actions "Single Action") or [>>](chapter-9-playing-the-game.md#Actions "Two-Action") and must have a range.
 
 ---
 *Source: Treasure Vault p. 141*

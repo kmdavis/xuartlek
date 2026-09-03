@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Choking Mist"]
 ---
 # Wand of Choking Mist *Item 6+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Craft Requirements** Supply a casting of obscuring mist or solid fog.
 - **Bulk** L; **Usage** held in 1 hand

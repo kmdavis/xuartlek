@@ -10,16 +10,16 @@ tags:
 aliases: ["Fiery Body"]
 ---
 # Fiery Body *Spell 7*   
-[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 1 minute
 
 You become living flame, giving you fire immunity, resistance 10 to precision damage, and weakness 5 to cold and to water. Any creature that touches you or damages you with an unarmed attack or non-reach melee weapon takes `3d6` fire damage.
 
-Your unarmed attacks deal `1d4` additional fire damage, and your fire spells deal one additional die of fire damage (of the same damage die the spell uses). You can cast [produce flame](compendium/spells/produce-flame.md) as an innate spell; the casting is reduced from 2 actions to 1.
+Your unarmed attacks deal `1d4` additional fire damage, and your fire spells deal one additional die of fire damage (of the same damage die the spell uses). You can cast [produce flame](produce-flame.md) as an innate spell; the casting is reduced from 2 actions to 1.
 
 In fire form, you have a fly Speed of 40 feet and don't need to breathe.
 

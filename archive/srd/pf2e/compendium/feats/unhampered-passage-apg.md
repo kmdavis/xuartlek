@@ -7,10 +7,10 @@ tags:
 aliases: ["Unhampered Passage"]
 ---
 # Unhampered Passage  *Feat 9*  
-[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
+[halfling](archive/srd/pf2e/rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 
-You won't allow others to restrain you. You can cast [freedom of movement](compendium/spells/freedom-of-movement.md) on yourself as a primal innate spell once per day.
+You won't allow others to restrain you. You can cast [freedom of movement](freedom-of-movement.md) on yourself as a primal innate spell once per day.
 
 *Source: Advanced Player's Guide p. 46*  
 %% #compendium/src/pf2e/apg #trait/halfling %%

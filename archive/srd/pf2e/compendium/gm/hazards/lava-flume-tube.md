@@ -9,14 +9,14 @@ tags:
 aliases: ["Lava Flume Tube"]
 ---
 # Lava Flume Tube *Hazard 10*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +19 trained  
 
 Four gated channels carved into stone allow lava to flow into a 15-foot-tall room; the floor can withdraw to allow the hardened lava to fall into a chamber beneath.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 29 (expert) to block a channel, or [Thievery](compendium/skills.md#Thievery) DC 31 (master) to release the floor latch and escape to the chamber below.  
+- **Disable** [Thievery](skills.md#Thievery) DC 29 (expert) to block a channel, or [Thievery](skills.md#Thievery) DC 31 (master) to release the floor latch and escape to the chamber below.  
 
 - **AC** 30, **Fort** +20, **Ref** +16
 - **Channel Hardness** 12, **Channel HP** 48 (BT 24) to destroy a channel gate (this prevents that channel from being disabled and stops the trap from resetting); **Floor Hardness** 18, **Floor HP** 72 (BT 36)

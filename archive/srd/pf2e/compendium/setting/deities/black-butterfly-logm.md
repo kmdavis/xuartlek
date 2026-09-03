@@ -20,8 +20,8 @@ aliases: ["Black Butterfly", "The Silence Between"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Stealth
-- **Favored Weapon**: [starknife](compendium/equipment/items/starknife.md)
-- **Domains**: [freedom](compendium/setting/domains.md#Freedom), [secrecy](compendium/setting/domains.md#Secrecy), [star](compendium/setting/domains.md#Star), [void](compendium/setting/domains.md#Void)
-- **Cleric Spells**: 1st: [penumbral shroud](compendium/spells/penumbral-shroud-logm.md); 2nd: [blur](compendium/spells/blur.md); 4th: [blink](compendium/spells/blink.md)
+- **Favored Weapon**: [starknife](archive/srd/pf2e/compendium/equipment/items/starknife.md)
+- **Domains**: [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy), [star](archive/srd/pf2e/compendium/setting/domains.md#Star), [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [penumbral shroud](penumbral-shroud-logm.md); 2nd: [blur](archive/srd/pf2e/compendium/spells/blur.md); 4th: [blink](blink.md)

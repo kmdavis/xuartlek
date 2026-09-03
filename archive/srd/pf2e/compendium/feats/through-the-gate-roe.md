@@ -7,9 +7,9 @@ tags:
 aliases: ["Through the Gate"]
 ---
 # Through the Gate  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Kineticist Dedication](compendium/feats/kineticist-dedication-roe.md)
+- **Prerequisites**: [Kineticist Dedication](kineticist-dedication-roe.md)
 
 You gain a 1st- or 2nd-level kineticist feat of your choice. Your options include impulse feats for your kinetic element, as normal for a kineticist.
 

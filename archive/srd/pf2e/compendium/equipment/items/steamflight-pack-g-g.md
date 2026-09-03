@@ -10,7 +10,7 @@ tags:
 aliases: ["Steamflight Pack"]
 ---
 # Steamflight Pack *Item 15*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [steam](rules/traits/steam-g-g.md "Steam  Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [steam](steam-g-g.md "Steam  Trait")  
 
 - **Price** 6000 gp
 - **Bulk** 2; **Usage** worn backpack

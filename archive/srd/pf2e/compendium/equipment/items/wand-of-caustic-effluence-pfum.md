@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Caustic Effluence"]
 ---
 # Wand of Caustic Effluence *Item 5*  
-[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[acid](archive/srd/pf2e/rules/traits/acid.md "Acid Energy & Element Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 160 gp
 - **Craft Requirements** Supply a casting of grease

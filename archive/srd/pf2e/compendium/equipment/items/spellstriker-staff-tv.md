@@ -10,9 +10,9 @@ tags:
 aliases: ["Spellstriker Staff"]
 ---
 # Spellstriker Staff *Item 7+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
-- **Craft Requirements** You have the magus's [Spellstrike](rules/actions/spellstrike-som.md) activity. Supply one casting of all listed levels of all listed spells.
+- **Craft Requirements** You have the magus's [Spellstrike](spellstrike-som.md) activity. Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
 
 A spellstriker staff is wrought iron with gleaming arcane sigils etched into its surface and a sharp point at the bottom. Used as a weapon, the staff is a +1 striking shifting staff.

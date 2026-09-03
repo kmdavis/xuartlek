@@ -20,8 +20,8 @@ aliases: ["Ayrzul", "The Fossilized King"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Deception
-- **Favored Weapon**: [morningstar](compendium/equipment/items/morningstar.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [earth](compendium/setting/domains.md#Earth), [might](compendium/setting/domains.md#Might), [secrecy](compendium/setting/domains.md#Secrecy)
-- **Cleric Spells**: 1st: shockwave; 2nd: summon elemental (earth only); 6th: [flesh to stone](compendium/spells/flesh-to-stone.md)
+- **Favored Weapon**: [morningstar](archive/srd/pf2e/compendium/equipment/items/morningstar.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy)
+- **Cleric Spells**: 1st: shockwave; 2nd: summon elemental (earth only); 6th: [flesh to stone](flesh-to-stone.md)

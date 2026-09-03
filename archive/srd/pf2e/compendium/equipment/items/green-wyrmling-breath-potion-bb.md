@@ -12,7 +12,7 @@ tags:
 aliases: ["Green Wyrmling Breath Potion"]
 ---
 # Green Wyrmling Breath Potion *Item 5*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [potion](archive/srd/pf2e/rules/traits/potion.md "Potion Item Trait")  
 
 - **Price** 30 gp
 - **Usage** held in 1 hand

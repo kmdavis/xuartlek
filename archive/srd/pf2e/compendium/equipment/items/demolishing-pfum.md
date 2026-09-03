@@ -10,12 +10,12 @@ tags:
 aliases: ["Demolishing"]
 ---
 # Demolishing *Item 6*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 225 gp
 - **Usage** etched onto a weapon
 
-A demolishing weapon is made to destroy constructs. Damage inflicted on a construct with a demolishing weapon continues to spread throughout the creature—cracks form, linkages fail, surfaces erode—and otherwise dismantle its body. When you damage a construct using a demolishing weapon, you deal an extra `1d6` [persistent force damage](rules/conditions.md#Persistent%20Damage). On a critical hit, you deal an extra `1d12` [persistent force damage](rules/conditions.md#Persistent%20Damage) instead.
+A demolishing weapon is made to destroy constructs. Damage inflicted on a construct with a demolishing weapon continues to spread throughout the creature—cracks form, linkages fail, surfaces erode—and otherwise dismantle its body. When you damage a construct using a demolishing weapon, you deal an extra `1d6` [persistent force damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage). On a critical hit, you deal an extra `1d12` [persistent force damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) instead.
 
 
 ---

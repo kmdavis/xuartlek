@@ -7,10 +7,10 @@ tags:
 aliases: ["Lifelink Surge"]
 ---
 # Lifelink Surge  *Feat 4*  
-[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
-You learn the [lifelink surge](compendium/spells/lifelink-surge-som.md) link spell. Increase the number of Focus Points in your focus pool by 1.
+You learn the [lifelink surge](archive/srd/pf2e/compendium/spells/lifelink-surge-som.md) link spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Secrets of Magic p. 69*  
 %% #compendium/src/pf2e/som #trait/summoner %%

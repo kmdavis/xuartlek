@@ -9,10 +9,10 @@ tags:
 aliases: ["Stagnate Time"]
 ---
 # Stagnate Time *Spell 5*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Area**: 20-foot burst
 - **Saving Throw**: Will
@@ -22,7 +22,7 @@ You examine the time stream in a particular area, then proceed to stick a few me
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.
-> - **Failure** The creature is [slowed](rules/conditions.md#Slowed) this turn.
-> - **Critical Failure** The creature is [slowed](rules/conditions.md#Slowed) this turn.
+> - **Failure** The creature is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) this turn.
+> - **Critical Failure** The creature is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) this turn.
 
 *Source: Dark Archive p. 182*

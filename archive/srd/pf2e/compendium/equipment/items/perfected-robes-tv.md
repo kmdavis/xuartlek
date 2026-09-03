@@ -12,11 +12,11 @@ tags:
 aliases: ["Perfected Robes"]
 ---
 # Perfected Robes *Item 22*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [divination](divination.md "Divination School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** L; **Usage** worn
 
-These unadorned white robes, fastened with simple brass pins in the shape of a human hand, can't be soiled or blemished. While wearing perfected robes, you don't need to eat, sleep, or drink, but you can if you choose to. The robes bless you with constant true seeing (+32 counteract bonus). A creature who dons these robes without earning them is [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), and [stupefied](rules/conditions.md#Stupefied) while wearing them, gaining the true seeing but otherwise unable to use the robes' magic.
+These unadorned white robes, fastened with simple brass pins in the shape of a human hand, can't be soiled or blemished. While wearing perfected robes, you don't need to eat, sleep, or drink, but you can if you choose to. The robes bless you with constant true seeing (+32 counteract bonus). A creature who dons these robes without earning them is [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy), [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled), and [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) while wearing them, gaining the true seeing but otherwise unable to use the robes' magic.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

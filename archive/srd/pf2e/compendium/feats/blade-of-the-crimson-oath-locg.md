@@ -6,13 +6,13 @@ tags:
 - trait/archetype
 aliases: ["Blade Of The Crimson Oath"]
 ---
-# Blade Of The Crimson Oath  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Blade Of The Crimson Oath  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 12*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md)
+- **Prerequisites**: [Knight Reclaimant Dedication](knight-reclaimant-dedication-locg.md)
 - **Activity** Two-Action
 
-You call upon the Crimson Oath to smite undead and then make a weapon or unarmed [Strike](rules/actions/strike.md) against an undead foe. The [Strike](rules/actions/strike.md) deals two extra weapon damage dice, and you can convert all the physical damage from the attack into positive damage.
+You call upon the Crimson Oath to smite undead and then make a weapon or unarmed [Strike](archive/srd/pf2e/rules/actions/strike.md) against an undead foe. The [Strike](archive/srd/pf2e/rules/actions/strike.md) deals two extra weapon damage dice, and you can convert all the physical damage from the attack into positive damage.
 
 *Source: Lost Omens: Character Guide p. 95*  
 %% #compendium/src/pf2e/locg #trait/archetype %%

@@ -10,9 +10,9 @@ tags:
 aliases: ["Halcyon Infusion"]
 ---
 # Halcyon Infusion *Spell 6*   
-[divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**: touch
 - **Targets**: one willing creature of lower level than you
@@ -20,7 +20,7 @@ aliases: ["Halcyon Infusion"]
 
 You infuse magical energy into your target, opening up their mind to the pathways of magic and granting them the ability to use magic to affect the world around them.
 
-Choose a 1st-level spell you prepared today or that's in your repertoire, of the same tradition you used to cast [halcyon infusion](compendium/spells/halcyon-infusion-lol.md). The spell must be one that has a listed range. If the target is at least 3rd level, you can choose a 2nd-level spell instead of a 1st-level spell; and if the target is at least 5th level, you can choose a 3rd-level spell. The target can [Cast the Spell](rules/actions/cast-a-spell.md) once per day as an innate spell of the tradition you used to cast [halcyon infusion](compendium/spells/halcyon-infusion-lol.md). If they are untrained in the appropriate magical tradition, their spell attack bonus is 2 + their level + their highest mental ability modifier, and their spell DC is 12 + their level + their highest mental ability modifier.
+Choose a 1st-level spell you prepared today or that's in your repertoire, of the same tradition you used to cast [halcyon infusion](halcyon-infusion-lol.md). The spell must be one that has a listed range. If the target is at least 3rd level, you can choose a 2nd-level spell instead of a 1st-level spell; and if the target is at least 5th level, you can choose a 3rd-level spell. The target can [Cast the Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) once per day as an innate spell of the tradition you used to cast [halcyon infusion](halcyon-infusion-lol.md). If they are untrained in the appropriate magical tradition, their spell attack bonus is 2 + their level + their highest mental ability modifier, and their spell DC is 12 + their level + their highest mental ability modifier.
 
 Unlike most abilities that can only be used once per day, the target refreshes their use of the granted innate spell each day only after you make your daily preparations and choose to extend halcyon infusion's duration by either refraining from preparing a spell in the slot (if you're a prepared spellcaster) or expending another spell slot (if you're a spontaneous spellcaster).
 

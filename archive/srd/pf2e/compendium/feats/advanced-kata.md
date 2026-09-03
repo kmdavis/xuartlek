@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Kata"]
 ---
 # Advanced Kata  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Kata](compendium/feats/basic-kata.md)
+- **Prerequisites**: [Basic Kata](archive/srd/pf2e/compendium/feats/basic-kata.md)
 
 You gain one monk feat. For the purpose of meeting its prerequisites, your monk level is equal to half your character level.
 

@@ -20,8 +20,8 @@ aliases: ["Kelizandri", "The Brackish Emperor"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [trident](compendium/equipment/items/trident.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [nightmares](compendium/setting/domains.md#Nightmares), [travel](compendium/setting/domains.md#Travel), [water](compendium/setting/domains.md#Water)
-- **Cleric Spells**: 1st: [fear](compendium/spells/fear.md); 2nd: summon elemental (water only); 4th: [hydraulic torrent](compendium/spells/hydraulic-torrent.md)
+- **Favored Weapon**: [trident](archive/srd/pf2e/compendium/equipment/items/trident.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [water](archive/srd/pf2e/compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [fear](archive/srd/pf2e/compendium/spells/fear.md); 2nd: summon elemental (water only); 4th: [hydraulic torrent](archive/srd/pf2e/compendium/spells/hydraulic-torrent.md)

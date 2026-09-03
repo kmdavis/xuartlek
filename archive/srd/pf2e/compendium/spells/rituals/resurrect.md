@@ -10,21 +10,21 @@ tags:
 aliases: ["Resurrect"]
 ---
 # Resurrect *Ritual 5*  
-[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** diamonds worth a total value of 75 gp × the target's level
 - **Secondary Casters** 2
-- **Primary Checks** [Religion](compendium/skills.md#Religion) (expert)
-- **Secondary Checks** [Medicine](compendium/skills.md#Medicine), [Society](compendium/skills.md#Society)
+- **Primary Checks** [Religion](skills.md#Religion) (expert)
+- **Secondary Checks** [Medicine](skills.md#Medicine), [Society](skills.md#Society)
 - **Range**: 10 feet
 - **Targets**: 1 dead creature of up to 10th level
 
-You attempt to call forth the target's soul and return it to its body. This requires the target's body to be present and relatively intact. The target must have died within the past year. If [Pharasma](compendium/setting/deities/pharasma.md) has decided that the target's time has come or the target doesn't wish to return, this ritual automatically fails, but you discover this after the successful [Religion](compendium/skills.md#Religion) check and can end the ritual without paying the cost.
+You attempt to call forth the target's soul and return it to its body. This requires the target's body to be present and relatively intact. The target must have died within the past year. If [Pharasma](pharasma.md) has decided that the target's time has come or the target doesn't wish to return, this ritual automatically fails, but you discover this after the successful [Religion](skills.md#Religion) check and can end the ritual without paying the cost.
 
 > [!success-degree] 
-> - **Critical Success** You resurrect the target. They return to life with full Hit Points and the same spells prepared and points in their pools they had when they died, and still suffering from any long-term debilitations of the old body. The target meets an agent of their deity during the resurrection who inspires them, granting them a +1 status bonus to attack rolls, [Perception](compendium/skills.md#Perception), saving throws, and skill checks for 1 week. The target is also permanently changed in some way by their time in the afterlife, such as gaining a slight personality shift, a streak of white in the hair, or a strange new birthmark.
-> - **Success** As critical success, except the target returns to life with 1 Hit Point and no spells prepared or points in any pools, and still is affected by any long-term debilitations of the old body. Instead of inspiring them, the character's time in the Boneyard has left them temporarily debilitated. The target is [clumsy](rules/conditions.md#Clumsy), [drained](rules/conditions.md#Drained), and [enfeebled](rules/conditions.md#Enfeebled) for 1 week; these conditions can't be removed or reduced by any means until the week has passed.
+> - **Critical Success** You resurrect the target. They return to life with full Hit Points and the same spells prepared and points in their pools they had when they died, and still suffering from any long-term debilitations of the old body. The target meets an agent of their deity during the resurrection who inspires them, granting them a +1 status bonus to attack rolls, [Perception](skills.md#Perception), saving throws, and skill checks for 1 week. The target is also permanently changed in some way by their time in the afterlife, such as gaining a slight personality shift, a streak of white in the hair, or a strange new birthmark.
+> - **Success** As critical success, except the target returns to life with 1 Hit Point and no spells prepared or points in any pools, and still is affected by any long-term debilitations of the old body. Instead of inspiring them, the character's time in the Boneyard has left them temporarily debilitated. The target is [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy), [drained](archive/srd/pf2e/rules/conditions.md#Drained), and [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 week; these conditions can't be removed or reduced by any means until the week has passed.
 > - **Failure** Your attempt is unsuccessful.
 > - **Critical Failure** Something goes horribly wrong—an evil spirit possesses the body, the body transforms into a special kind of undead, or some worse fate befalls the target.
 

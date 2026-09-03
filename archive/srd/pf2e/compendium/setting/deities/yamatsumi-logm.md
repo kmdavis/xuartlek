@@ -20,8 +20,8 @@ aliases: ["Yamatsumi", "The Mountain Lord"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [greatclub](compendium/equipment/items/greatclub.md)
-- **Domains**: [cold](compendium/setting/domains.md#Cold), [earth](compendium/setting/domains.md#Earth), [fire](compendium/setting/domains.md#Fire), [might](compendium/setting/domains.md#Might)
-- **Cleric Spells**: 1st: [shockwave](compendium/spells/shockwave-logm.md); 3rd: [shifting sand](compendium/spells/shifting-sand-logm.md); 7th: [volcanic eruption](compendium/spells/volcanic-eruption.md)
+- **Favored Weapon**: [greatclub](archive/srd/pf2e/compendium/equipment/items/greatclub.md)
+- **Domains**: [cold](archive/srd/pf2e/compendium/setting/domains.md#Cold), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [might](archive/srd/pf2e/compendium/setting/domains.md#Might)
+- **Cleric Spells**: 1st: [shockwave](shockwave-logm.md); 3rd: [shifting sand](shifting-sand-logm.md); 7th: [volcanic eruption](archive/srd/pf2e/compendium/spells/volcanic-eruption.md)

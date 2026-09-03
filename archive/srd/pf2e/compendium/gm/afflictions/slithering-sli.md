@@ -12,7 +12,7 @@ aliases: ["Slithering"]
 ---
 # Slithering
 *Curse 15*  
-[curse](rules/traits/curse.md "Curse Effect Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  [virulent](rules/traits/virulent.md "Virulent Item Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  [virulent](archive/srd/pf2e/rules/traits/virulent.md "Virulent Item Trait")  
 
 ```ad-inline-affliction
 title: Saving Throw: DC 37 Fortitude

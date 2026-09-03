@@ -8,14 +8,14 @@ tags:
 aliases: ["Hall of Fiery Doom"]
 ---
 # Hall of Fiery Doom *Hazard 10*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +32 master  
 
 While the roof is on fire and collapsing timbers crush those within the hall, demons fly down from the sky to pluck victims from the flames.
 
-- **Disable** two DC 32 [Athletics](compendium/skills.md#Athletics) or [Diplomacy](compendium/skills.md#Diplomacy) checks to douse the flames; [Athletics](compendium/skills.md#Athletics) to do the work yourself or [Diplomacy](compendium/skills.md#Diplomacy) to muster the ghostly soldiers. This reduces the hazard's actions by 1 and prevents it from using  
+- **Disable** two DC 32 [Athletics](skills.md#Athletics) or [Diplomacy](skills.md#Diplomacy) checks to douse the flames; [Athletics](skills.md#Athletics) to do the work yourself or [Diplomacy](skills.md#Diplomacy) to muster the ghostly soldiers. This reduces the hazard's actions by 1 and prevents it from using  
 
 ```ad-embed-ability
 title: **Burning Timbers.** Banish the demons with up to two DC 35 [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) checks; each success reduces the hazard's actions by 1, and two successes prevent it from using Demonic Abduction. When the hazard loses all 3 actions, Burning Timbers, and Demonic Abduction, it's disabled.

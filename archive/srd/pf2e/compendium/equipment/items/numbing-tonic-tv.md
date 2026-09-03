@@ -10,10 +10,10 @@ tags:
 aliases: ["Numbing Tonic"]
 ---
 # Numbing Tonic *Item 1+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Numbing tonic makes it easier to push through the pain of battle and shrug off otherwise debilitating blows. You gain the listed temporary Hit Points when you drink the elixir, and again at the start of each of your turns for 1 minute.
 

@@ -8,14 +8,14 @@ tags:
 aliases: ["Hulking Size"]
 ---
 # Hulking Size  *Feat 8*  
-[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[evolution](evolution-som.md "Evolution Feat Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 Your eidolon grows substantially. Your eidolon becomes Large, instead of its previous size, and its reach increases to 10 feet. This doesn't change any of its other statistics.
 
 ## Hulking Size leads to...
 
-[Towering Size](compendium/feats/towering-size-som.md)
+[Towering Size](towering-size-som.md)
 
 ## Summary
 

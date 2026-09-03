@@ -20,8 +20,8 @@ aliases: ["Lady Jingxi", "The Poet of Dawn and Dusk"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Performance
 - **Favored Weapon**: fighting fan
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [repose](compendium/setting/domains.md#Repose)
-- **Cleric Spells**: 1st: [sleep](compendium/spells/sleep.md); 2nd: [mirror image](compendium/spells/mirror-image.md); 5th: [chromatic wall](compendium/spells/chromatic-wall.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose)
+- **Cleric Spells**: 1st: [sleep](archive/srd/pf2e/compendium/spells/sleep.md); 2nd: [mirror image](mirror-image.md); 5th: [chromatic wall](chromatic-wall.md)

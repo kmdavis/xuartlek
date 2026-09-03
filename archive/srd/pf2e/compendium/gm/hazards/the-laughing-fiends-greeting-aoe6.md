@@ -8,14 +8,14 @@ tags:
 aliases: ["The Laughing Fiend's Greeting"]
 ---
 # The Laughing Fiend's Greeting *Hazard 20*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 46 legendary  
 
 Subtle but deadly magical runes link this mural to Kharnas's master. Good- or neutral-aligned creatures who examine the mural witness the castle's drawbridge silently descend, revealing an endless darkness.
 
-- **Disable** DC 44 [Thievery](compendium/skills.md#Thievery) (legendary) to obscure or mar the magical runes set into the mural, or dispel magic (9th level; counteract DC 42) to counteract the mural.  
+- **Disable** DC 44 [Thievery](skills.md#Thievery) (legendary) to obscure or mar the magical runes set into the mural, or dispel magic (9th level; counteract DC 42) to counteract the mural.  
 
 ```ad-embed-ability
 title: **Tegresin's Greeting** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([illusion](rules/traits/illusion.md), [occult](rules/traits/occult.md))

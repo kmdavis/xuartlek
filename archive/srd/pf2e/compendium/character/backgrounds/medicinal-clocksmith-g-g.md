@@ -15,4 +15,4 @@ While others might have looked to clockwork as a mechanical innovation, you see 
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Medicine](compendium/skills.md#Medicine) skill and the [Engineering Lore](compendium/skills.md#Lore) skill. You gain the [Risky Surgery](compendium/feats/risky-surgery-apg.md) skill feat.
+You're trained in the [Medicine](skills.md#Medicine) skill and the [Engineering Lore](skills.md#Lore) skill. You gain the [Risky Surgery](risky-surgery-apg.md) skill feat.

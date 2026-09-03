@@ -8,7 +8,7 @@ tags:
 aliases: ["Faultspawn"]
 ---
 # Faultspawn  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [tiefling](rules/traits/tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
+[lineage](lineage-apg.md "Lineage  Trait")  [tiefling](tiefling-b1.md "Tiefling Ancestry & Heritage Trait")  
 
 
 You bear a grudge, inherited from a blasphemous asura forebear in your bloodline, against a particular deity and their works. You also have some vestigial signs of your previous incarnation, such as a second set of shoulder blades without usable arms, a set of mostly closed eyes where no eyes belong, or strange scarring reminiscent of a mouth. You gain the Find Fault reaction.
@@ -26,7 +26,7 @@ title: **Find Fault** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 
 ## Faultspawn leads to...
 
-[Towering Presence](compendium/feats/towering-presence-loil.md), [Asura Magic](compendium/feats/asura-magic-loil.md), [Dominion Aura](compendium/feats/dominion-aura-loil.md)
+[Towering Presence](towering-presence-loil.md), [Asura Magic](asura-magic-loil.md), [Dominion Aura](dominion-aura-loil.md)
 
 ## Summary
 

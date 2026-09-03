@@ -7,11 +7,11 @@ tags:
 aliases: ["Legendary Rider"]
 ---
 # Legendary Rider  *Feat 20*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Cavalier Dedication](compendium/feats/cavalier-dedication-apg.md)
+- **Prerequisites**: [Cavalier Dedication](cavalier-dedication-apg.md)
 
-You and your mount move like one being, effortlessly reading each other's signals. Whenever you are riding your mount, you are [quickened](rules/conditions.md#Quickened); you can use the extra action only to command your mount using the [Command an Animal](rules/actions/command-an-animal.md) skill action.
+You and your mount move like one being, effortlessly reading each other's signals. Whenever you are riding your mount, you are [quickened](archive/srd/pf2e/rules/conditions.md#Quickened); you can use the extra action only to command your mount using the [Command an Animal](archive/srd/pf2e/rules/actions/command-an-animal.md) skill action.
 
 *Source: Advanced Player's Guide p. 165*  
 %% #compendium/src/pf2e/apg #trait/archetype %%

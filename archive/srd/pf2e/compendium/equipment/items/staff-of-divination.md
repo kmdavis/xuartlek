@@ -10,7 +10,7 @@ tags:
 aliases: ["Staff of Divination"]
 ---
 # Staff of Divination *Item 6+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
@@ -32,23 +32,23 @@ You expend a number of charges from the staff to cast a spell from its list.
 
 - **Price**: 230 gp
 
-- **Cantrip** [detect magic](compendium/spells/detect-magic.md)
-- **1st** [true strike](compendium/spells/true-strike.md)
-- **2nd** [comprehend language](compendium/spells/comprehend-language.md), [darkvision](compendium/spells/darkvision.md), [see invisibility](compendium/spells/see-invisibility.md)
+- **Cantrip** [detect magic](archive/srd/pf2e/compendium/spells/detect-magic.md)
+- **1st** [true strike](true-strike.md)
+- **2nd** [comprehend language](comprehend-language.md), [darkvision](archive/srd/pf2e/compendium/spells/darkvision.md), [see invisibility](see-invisibility.md)
 
 #### greater staff of divination *Item 10*
 
 - **Price**: 900 gp
 
-- **3rd** [clairaudience](compendium/spells/clairaudience.md), [darkvision](compendium/spells/darkvision.md)
-- **4th** [clairvoyance](compendium/spells/clairvoyance.md), [comprehend language](compendium/spells/comprehend-language.md), [telepathy](compendium/spells/telepathy.md)
+- **3rd** [clairaudience](archive/srd/pf2e/compendium/spells/clairaudience.md), [darkvision](archive/srd/pf2e/compendium/spells/darkvision.md)
+- **4th** [clairvoyance](archive/srd/pf2e/compendium/spells/clairvoyance.md), [comprehend language](comprehend-language.md), [telepathy](archive/srd/pf2e/compendium/spells/telepathy.md)
 
 #### major staff of divination *Item 14*
 
 - **Price**: 4000 gp
 
-- **5th** [prying eye](compendium/spells/prying-eye.md), [sending](compendium/spells/sending.md)
-- **6th** [telepathy](compendium/spells/telepathy.md), [true seeing](compendium/spells/true-seeing.md)
+- **5th** [prying eye](prying-eye.md), [sending](archive/srd/pf2e/compendium/spells/sending.md)
+- **6th** [telepathy](archive/srd/pf2e/compendium/spells/telepathy.md), [true seeing](true-seeing.md)
 
 ---
 *Source: Core Rulebook p. 593*

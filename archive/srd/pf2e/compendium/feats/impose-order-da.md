@@ -8,8 +8,8 @@ tags:
 - trait/psychic
 aliases: ["Impose Order"]
 ---
-# Impose Order  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
+# Impose Order  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [psyche](psyche-da.md "Psyche Action & Ability Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Requirements**: precise discipline subconscious mind
 - **Activity** Single Action

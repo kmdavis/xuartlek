@@ -7,12 +7,12 @@ tags:
 aliases: ["Warren Navigator"]
 ---
 # Warren Navigator  *Feat 1*  
-[ratfolk](rules/traits/ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
+[ratfolk](ratfolk-b1.md "Ratfolk Ancestry & Heritage Trait")  
 
 
-You're particularly good at solving mazes and navigating twists and turns. You gain the trained proficiency rank in [Survival](compendium/skills.md#Survival).
+You're particularly good at solving mazes and navigating twists and turns. You gain the trained proficiency rank in [Survival](skills.md#Survival).
 
-If you would automatically become trained in [Survival](compendium/skills.md#Survival) (from your background or class, for example), you become trained in another skill of your choice. When you [Sense Direction](rules/actions/sense-direction.md) or attempt a roll against a [maze](compendium/spells/maze.md) spell, you get a result one degree of success better than you rolled. You don't take a penalty to [Sense Direction](rules/actions/sense-direction.md) when you lack a compass.
+If you would automatically become trained in [Survival](skills.md#Survival) (from your background or class, for example), you become trained in another skill of your choice. When you [Sense Direction](archive/srd/pf2e/rules/actions/sense-direction.md) or attempt a roll against a [maze](maze.md) spell, you get a result one degree of success better than you rolled. You don't take a penalty to [Sense Direction](archive/srd/pf2e/rules/actions/sense-direction.md) when you lack a compass.
 
 *Source: Advanced Player's Guide p. 22*  
 %% #compendium/src/pf2e/apg #trait/ratfolk %%

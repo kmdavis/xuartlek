@@ -10,7 +10,7 @@ tags:
 aliases: ["Magnifying Glass Of Elucidation"]
 ---
 # Magnifying Glass Of Elucidation *Item 5*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 125 gp
 - **Craft Requirements** You know the language imbued in the magnifying glass.
@@ -18,7 +18,7 @@ aliases: ["Magnifying Glass Of Elucidation"]
 
 These well-aged wooden magnifying glasses are engraved with a variety of runes. Each is imbued with a specific language.
 
-When you use a magnifying glass to examine writing of its imbued language, it translates the writing into a language Urban Garden Wares you understand. For example, an elf who speaks only Elven using a magnifying glass of elucidation imbued with Dwarven would see Dwarven writing as Elven when [observed](rules/conditions.md#Observed) through the magnifying glass. The magnifying glass only provides direct translations and doesn't automatically allow you to understand codes or extremely esoteric passages—you still need to attempt a skill check to [Decipher Writing](rules/actions/decipher-writing.md).
+When you use a magnifying glass to examine writing of its imbued language, it translates the writing into a language Urban Garden Wares you understand. For example, an elf who speaks only Elven using a magnifying glass of elucidation imbued with Dwarven would see Dwarven writing as Elven when [observed](archive/srd/pf2e/rules/conditions.md#Observed) through the magnifying glass. The magnifying glass only provides direct translations and doesn't automatically allow you to understand codes or extremely esoteric passages—you still need to attempt a skill check to [Decipher Writing](archive/srd/pf2e/rules/actions/decipher-writing.md).
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") envision, [Interact](rules/actions/interact.md)

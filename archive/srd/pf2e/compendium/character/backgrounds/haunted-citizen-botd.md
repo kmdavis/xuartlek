@@ -16,4 +16,4 @@ You grew up in a region where undead lurk everywhere. This could be a domain as 
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Lore](compendium/skills.md#Lore) skill for your home settlement. You gain the [No Cause for Alarm](compendium/feats/no-cause-for-alarm-apg.md) skill feat (Advanced Player's Guide 208).
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Lore](skills.md#Lore) skill for your home settlement. You gain the [No Cause for Alarm](no-cause-for-alarm-apg.md) skill feat (Advanced Player's Guide 208).

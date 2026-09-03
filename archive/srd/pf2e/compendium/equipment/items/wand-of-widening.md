@@ -9,9 +9,9 @@ tags:
 aliases: ["Wand of Widening"]
 ---
 # Wand of Widening *Item 4+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
-- **Craft Requirements** Supply a casting of a spell of the appropriate level. The spell must have a casting time of [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"), can't have a duration, and must have an area of burst (10 feet or more), cone, or line.
+- **Craft Requirements** Supply a casting of a spell of the appropriate level. The spell must have a casting time of [>](chapter-9-playing-the-game.md#Actions "Single Action") or [>>](chapter-9-playing-the-game.md#Actions "Two-Action"), can't have a duration, and must have an area of burst (10 feet or more), cone, or line.
 - **Bulk** L; **Usage** held in 1 hand
 
 The end of this wand is forked instead of tapered.

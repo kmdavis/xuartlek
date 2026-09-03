@@ -10,18 +10,18 @@ tags:
 aliases: ["Precious Metals"]
 ---
 # Precious Metals *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [wealth](compendium/setting/domains.md#Wealth)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Domains** [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: touch
 - **Targets**: 1 metal weapon, up to 10 pieces of metal or metal-tipped ammunition, 1 suit of metal armor, or up to 1 bulk of metal material (such as coins)
 - **Duration**: 1 minute
 
-Your deity blesses base metals to transform them into precious materials. The target item transforms from its normal metal into [cold iron](compendium/equipment/items/cold-iron.md), copper, gold, iron, silver, or steel (the details for these metals are found on pages 577–579). An item transmuted in this way deals damage according to its new material. For example, a steel sword transmuted to [cold iron](compendium/equipment/items/cold-iron-weapon.md) would deal additional damage to a creature with a weakness to cold iron.
+Your deity blesses base metals to transform them into precious materials. The target item transforms from its normal metal into [cold iron](archive/srd/pf2e/compendium/equipment/items/cold-iron.md), copper, gold, iron, silver, or steel (the details for these metals are found on pages 577–579). An item transmuted in this way deals damage according to its new material. For example, a steel sword transmuted to [cold iron](archive/srd/pf2e/compendium/equipment/items/cold-iron-weapon.md) would deal additional damage to a creature with a weakness to cold iron.
 
 This change is clearly magical and temporary, so the item's monetary value doesn't change; you couldn't transmute copper coins to gold and use those coins to purchase something or as a cost for a spell.
 
-**Heightened (8th)** Add [adamantine](compendium/equipment/items/adamantine.md) and [mithral](compendium/equipment/items/mithral.md) to the list of metals you can transform the item into.
+**Heightened (8th)** Add [adamantine](archive/srd/pf2e/compendium/equipment/items/adamantine.md) and [mithral](mithral.md) to the list of metals you can transform the item into.
 
 *Source: Core Rulebook p. 395*

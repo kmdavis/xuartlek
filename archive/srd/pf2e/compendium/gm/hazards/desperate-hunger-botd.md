@@ -7,14 +7,14 @@ tags:
 aliases: ["Desperate Hunger"]
 ---
 # Desperate Hunger *Hazard 12*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 35 master to feel an odd sense of hunger  
 
 A skeletally thin spirit appears, weeping as it shoves earth and stones down its throat in an effort to stave off hunger.
 
-- **Disable** DC 36 [Deception](compendium/skills.md#Deception) (master) to convince the spirit it's no longer hungry or DC 38 [Occultism](compendium/skills.md#Occultism) (trained) to ritually feed the spirit  
+- **Disable** DC 36 [Deception](skills.md#Deception) (master) to convince the spirit it's no longer hungry or DC 38 [Occultism](skills.md#Occultism) (trained) to ritually feed the spirit  
 
 ```ad-embed-ability
 title: **Desperate Meal** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([occult](rules/traits/occult.md), [transmutation](rules/traits/transmutation.md))

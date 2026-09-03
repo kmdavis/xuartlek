@@ -7,11 +7,11 @@ tags:
 aliases: ["Crossbow Terror"]
 ---
 # Crossbow Terror  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Archer Dedication](compendium/feats/archer-dedication-apg.md)
+- **Prerequisites**: [Archer Dedication](archer-dedication-apg.md)
 
-You are a dynamo with the crossbow. You gain a +2 circumstance bonus to damage with crossbows. If the crossbow is a simple weapon, also increase the damage die size for your attacks made with that crossbow by one step. As normal, this damage die increase can't be combined with other abilities that alter the weapon damage die (such as the ranger feat [Crossbow Ace](compendium/feats/crossbow-ace.md)).
+You are a dynamo with the crossbow. You gain a +2 circumstance bonus to damage with crossbows. If the crossbow is a simple weapon, also increase the damage die size for your attacks made with that crossbow by one step. As normal, this damage die increase can't be combined with other abilities that alter the weapon damage die (such as the ranger feat [Crossbow Ace](archive/srd/pf2e/compendium/feats/crossbow-ace.md)).
 
 *Source: Advanced Player's Guide p. 157*  
 %% #compendium/src/pf2e/apg #trait/archetype %%

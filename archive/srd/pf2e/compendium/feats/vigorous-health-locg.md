@@ -7,10 +7,10 @@ tags:
 aliases: ["Vigorous Health"]
 ---
 # Vigorous Health  *Feat 1*  
-[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
+[hobgoblin](hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 
-Your physique is robust and can withstand blood loss startlingly well. Whenever you would gain the [drained](rules/conditions.md#Drained) condition, you can attempt a DC 17 flat check. On a success, you don't gain the [drained](rules/conditions.md#Drained) condition.
+Your physique is robust and can withstand blood loss startlingly well. Whenever you would gain the [drained](archive/srd/pf2e/rules/conditions.md#Drained) condition, you can attempt a DC 17 flat check. On a success, you don't gain the [drained](archive/srd/pf2e/rules/conditions.md#Drained) condition.
 
 *Source: Lost Omens: Character Guide p. 50*  
 %% #compendium/src/pf2e/locg #trait/hobgoblin %%

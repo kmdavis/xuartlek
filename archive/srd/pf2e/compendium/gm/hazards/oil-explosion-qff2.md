@@ -8,14 +8,14 @@ tags:
 aliases: ["Oil Explosion"]
 ---
 # Oil Explosion *Hazard 4*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained  
 
 The flammable oil catches flame and explodes, burning up in a ball of fire.
 
-- **Disable** DC 25 [Survival](compendium/skills.md#Survival) (trained) or DC 23 [Crafting](compendium/skills.md#Crafting) to neutralize the oil without setting it alight  
+- **Disable** DC 25 [Survival](skills.md#Survival) (trained) or DC 23 [Crafting](skills.md#Crafting) to neutralize the oil without setting it alight  
 
 - **AC** 21, **Fort** +14, **Ref** +14
 - 

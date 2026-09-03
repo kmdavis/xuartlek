@@ -23,13 +23,13 @@ aliases: ["Ghlaunder", "The Gossamer King"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
-- **Domains**: [air](compendium/setting/domains.md#Air), [decay](compendium/setting/domains.md#Decay), [plague](compendium/setting/domains.md#Plague), [swarm](compendium/setting/domains.md#Swarm)
-- **Cleric Spells**: 1st: [goblin pox](compendium/spells/goblin-pox.md); 2nd: [vomit swarm](compendium/spells/vomit-swarm-apg.md); 5th: [insect form](compendium/spells/insect-form.md)
+- **Favored Weapon**: [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [decay](archive/srd/pf2e/compendium/setting/domains.md#Decay), [plague](archive/srd/pf2e/compendium/setting/domains.md#Plague), [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm)
+- **Cleric Spells**: 1st: [goblin pox](archive/srd/pf2e/compendium/spells/goblin-pox.md); 2nd: [vomit swarm](vomit-swarm-apg.md); 5th: [insect form](archive/srd/pf2e/compendium/spells/insect-form.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Ghlaunder gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Ghlaunder gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Ghlaunder
@@ -44,10 +44,10 @@ title: [Avatar](compendium/spells/avatar.md) of Ghlaunder
 
 The Gossamer King's gifts seem bizarre and cruel to those outside of his following, but his faithful crave his gifts zealously and fear his punishments.
 
-- **Minor Boon** Your commitment to filth draws a small cloud of disease-laden insects. Once, you can summon a cloud of midges, mosquitos, and flies to surround you for 1 minute. Creatures adjacent to you at any point during that time become [drained](rules/conditions.md#Drained), [sickened](rules/conditions.md#Sickened), and exposed to a blood-borne illness. Ghlaunder typically grants this boon when you can infect a significant number of creatures.
-- **Moderate Boon**: Ghlaunder teaches you to bide your time, corrupting and infecting until the time is right. When you expose a creature to a [disease](rules/traits/disease.md "Disease Effect Trait") and it succeeds at its Fortitude save, it is still infected unless it critically succeeds. However, such a creature experiences no effects and the disease does not progress for the first 24 hours, even if the disease is normally fast-acting or someone uses another ability to progress the disease. It's very difficult to detect the infection in the first day; the DC for [Medicine](compendium/skills.md#Medicine) checks to do so is 5 higher.
+- **Minor Boon** Your commitment to filth draws a small cloud of disease-laden insects. Once, you can summon a cloud of midges, mosquitos, and flies to surround you for 1 minute. Creatures adjacent to you at any point during that time become [drained](archive/srd/pf2e/rules/conditions.md#Drained), [sickened](archive/srd/pf2e/rules/conditions.md#Sickened), and exposed to a blood-borne illness. Ghlaunder typically grants this boon when you can infect a significant number of creatures.
+- **Moderate Boon**: Ghlaunder teaches you to bide your time, corrupting and infecting until the time is right. When you expose a creature to a [disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait") and it succeeds at its Fortitude save, it is still infected unless it critically succeeds. However, such a creature experiences no effects and the disease does not progress for the first 24 hours, even if the disease is normally fast-acting or someone uses another ability to progress the disease. It's very difficult to detect the infection in the first day; the DC for [Medicine](skills.md#Medicine) checks to do so is 5 higher.
 - **Major Boon**: Ghlaunder rewards his followers with the ability to safely spread illness—or on occasion, offers respite to desperate petitioners who please him. You do not take negative effects from any disease you are infected with unless or until Ghlaunder rescinds this benefit.
 
-- **Minor Curse**: Ghlaunder drains away your life force for himself. You become [drained](rules/conditions.md#Drained) and can't reduce your [drained](rules/conditions.md#Drained) condition below 1.
-- **Moderate Curse** Ghlaunder leeches your energy from you as easily as blood. Any time you fail a Fortitude save, you become [fatigued](rules/conditions.md#Fatigued) in addition to all other effects.
+- **Minor Curse**: Ghlaunder drains away your life force for himself. You become [drained](archive/srd/pf2e/rules/conditions.md#Drained) and can't reduce your [drained](archive/srd/pf2e/rules/conditions.md#Drained) condition below 1.
+- **Moderate Curse** Ghlaunder leeches your energy from you as easily as blood. Any time you fail a Fortitude save, you become [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) in addition to all other effects.
 - **Major Curse**: You are struck with a contagious disease of the GM's choice. You and anyone else you infect can't be cured of the disease or improve its condition to an earlier stage in any way until you infect two other sapient beings with the disease.

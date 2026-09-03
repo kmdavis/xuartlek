@@ -11,7 +11,7 @@ tags:
 aliases: ["Campaign Stable"]
 ---
 # Campaign Stable *Item 8*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [structure](rules/traits/structure.md "Structure General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [structure](archive/srd/pf2e/rules/traits/structure.md "Structure General Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 500 gp

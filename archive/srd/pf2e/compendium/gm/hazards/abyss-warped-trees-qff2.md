@@ -9,14 +9,14 @@ tags:
 aliases: ["Abyss-Warped Trees"]
 ---
 # Abyss-Warped Trees *Hazard 4*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 12 trained to determine the trees can move  
 
 A forest of fiendish trees swing their branches and shift their roots to bludgeon and trip creatures in the tainted grove (area A21).
 
-- **Disable** DC 22 [Survival](compendium/skills.md#Survival) (trained) to find a location the trees can't reach or DC 24 [Religion](compendium/skills.md#Religion) to recite a prayer that temporarily casts out the fiendish energy inside a single tree in the grove, disabling it for 1 minute. A disabled or destroyed tree creates a 5-foot-square area in the grove that's safe from this hazard.  
+- **Disable** DC 22 [Survival](skills.md#Survival) (trained) to find a location the trees can't reach or DC 24 [Religion](skills.md#Religion) to recite a prayer that temporarily casts out the fiendish energy inside a single tree in the grove, disabling it for 1 minute. A disabled or destroyed tree creates a 5-foot-square area in the grove that's safe from this hazard.  
 
 - **AC** 18, **Fort** +14, **Ref** +14
 - **Hardness** 10, **HP** 40 (BT 20) per tree

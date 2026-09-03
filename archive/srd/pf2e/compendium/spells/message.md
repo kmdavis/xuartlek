@@ -12,10 +12,10 @@ tags:
 aliases: ["Message"]
 ---
 # Message *Cantrip 1*   
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 120 foot
 - **Targets**: 1 creature
 - **Duration**: see below

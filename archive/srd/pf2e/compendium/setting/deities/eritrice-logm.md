@@ -20,8 +20,8 @@ aliases: ["Eritrice", "Heart-Speaker"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [truth](compendium/setting/domains.md#Truth)
-- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 2nd: [comprehend language](compendium/spells/comprehend-language.md); 3rd: [enthrall](compendium/spells/enthrall.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [mindlink](archive/srd/pf2e/compendium/spells/mindlink.md); 2nd: [comprehend language](comprehend-language.md); 3rd: [enthrall](archive/srd/pf2e/compendium/spells/enthrall.md)

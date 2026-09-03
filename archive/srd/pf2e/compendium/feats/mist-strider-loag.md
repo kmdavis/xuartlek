@@ -7,9 +7,9 @@ tags:
 aliases: ["Mist Strider"]
 ---
 # Mist Strider  *Feat 13*  
-[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
+[azarketi](azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Water Strider](compendium/feats/water-strider-loag.md)
+- **Prerequisites**: [Water Strider](water-strider-loag.md)
 
 You condense the moisture in the air, solidifying it so it can hold your weight.
 

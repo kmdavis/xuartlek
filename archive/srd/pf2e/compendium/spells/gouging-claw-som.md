@@ -11,10 +11,10 @@ tags:
 aliases: ["Gouging Claw"]
 ---
 # Gouging Claw *Cantrip 1*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 
@@ -24,8 +24,8 @@ Make a melee spell attack roll against your target's AC.
 
 If you hit, you deal your choice of slashing or piercing damage equal to `1d6` plus your spellcasting ability modifier.
 
-On a critical success, you deal double damage plus `1d4` [persistent bleed damage](rules/conditions.md#Persistent%20Damage).
+On a critical success, you deal double damage plus `1d4` [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
-**Heightened (+ 1)** The damage increases by `1d6` and the [persistent bleed damage](rules/conditions.md#Persistent%20Damage) on a critical increases by `1d4`.
+**Heightened (+ 1)** The damage increases by `1d6` and the [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) on a critical increases by `1d4`.
 
 *Source: Secrets of Magic p. 109*

@@ -7,9 +7,9 @@ tags:
 aliases: ["Studious Capacity"]
 ---
 # Studious Capacity  *Feat 16*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
-- **Prerequisites**: Enigma muse, legendary in [Occultism](compendium/skills.md#Occultism)
+- **Prerequisites**: Enigma muse, legendary in [Occultism](skills.md#Occultism)
 
 Your continued study of occult magic has increased your magical capacity, allowing you to cast spells even when it seems impossible. You can cast one spell each day even after you've run out of spell slots of the appropriate spell level, but you can't use this ability to cast a spell of your highest spell level.
 

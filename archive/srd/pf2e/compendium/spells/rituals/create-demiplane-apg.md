@@ -10,13 +10,13 @@ tags:
 aliases: ["Create Demiplane"]
 ---
 # Create Demiplane *Ritual 8*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Cast** 9 days
 - **Cost** precious materials worth a total value of 800 gp
 - **Secondary Casters** 3
-- **Primary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), [Religion](compendium/skills.md#Religion) (legendary)
-- **Secondary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), [Religion](compendium/skills.md#Religion) (whichever three aren't used for the primary check)
+- **Primary Checks** [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), [Religion](skills.md#Religion) (legendary)
+- **Secondary Checks** [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), [Religion](skills.md#Religion) (whichever three aren't used for the primary check)
 - **Targets**: Up to seven willing creatures of 14th level or lower
 
 Few incantations are as renowned as the power to create worlds. To cast this ritual, you must be on the Astral Plane, the Ethereal Plane, or a plane that connects to one of the two.
@@ -25,17 +25,17 @@ A demiplane created with this ritual exists on the Astral or Ethereal Plane. It 
 
 Demiplanes have environmental conditions as appropriate for the Material Plane, though the primary caster can dictate a general climate or light level, as well as whether the demiplane experiences seasons or a day-night cycle. The demiplane has no native plants or animals, but they can be introduced, and plants will grow in a demiplane's light.
 
-When you first cast _create demiplane_, the casters are teleported to the demiplane. The demiplane has no direct access to other worlds, so [plane shift](compendium/spells/plane-shift.md) or similar abilities are necessary to access it. As part of casting the ritual to create a new demiplane, you create a key to the demiplane which serves as a plane shift tuning fork for that demiplane. Most resemble ornate keys, but some take the forms of maps, compasses, or dowsing rods.
+When you first cast _create demiplane_, the casters are teleported to the demiplane. The demiplane has no direct access to other worlds, so [plane shift](plane-shift.md) or similar abilities are necessary to access it. As part of casting the ritual to create a new demiplane, you create a key to the demiplane which serves as a plane shift tuning fork for that demiplane. Most resemble ornate keys, but some take the forms of maps, compasses, or dowsing rods.
 
 If you have the original key to an existing demiplane and are on that demiplane, you can instead use this ritual to either expand the demiplane or add special traits or features described below.
 
-- **Alignment** The demiplane gains one alignment trait, such as [lawful](rules/traits/lawful.md "Lawful Alignment Trait") or [good](rules/traits/good.md "Good Alignment Trait").
+- **Alignment** The demiplane gains one alignment trait, such as [lawful](lawful.md "Lawful Alignment Trait") or [good](good.md "Good Alignment Trait").
 - **Bounteous** The demiplane has a functional ecosystem, with plants and animals appropriate to the environment. This ecosystem doesn't require any additional effort on your part to maintain.
-- **Elemental** The demiplane gains the [air](rules/traits/air.md "Air Energy & Element Trait"), [earth](rules/traits/earth.md "Earth Energy & Element Trait"), [fire](rules/traits/fire.md "Fire Energy & Element Trait"), or [water](rules/traits/water.md "Water Energy & Element Trait") planar essence trait.
+- **Elemental** The demiplane gains the [air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait"), [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait"), [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait"), or [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait") planar essence trait.
 - **Gravity** The demiplane gains a gravity trait of your choice.
-- **Key** You create an additional key that can be used to access the demiplane with [plane shift](compendium/spells/plane-shift.md) and improve it with [create demiplane](compendium/spells/rituals/create-demiplane-apg.md).
+- **Key** You create an additional key that can be used to access the demiplane with [plane shift](plane-shift.md) and improve it with [create demiplane](create-demiplane-apg.md).
 - **Portal** You create a permanent gateway between the demiplane and a single other location. You must spend the ritual's casting time constructing the gateway on the external side, which typically resembles an arch or doorway of some sort. The gate is always active, but it can be secured as you would any door.
-- **Scope** The demiplane can be [unbounded](rules/traits/unbounded-gmg.md "Unbounded Planar Trait") instead of [finite](rules/traits/finite-gmg.md "Finite Planar Trait"), though still with the same size.
+- **Scope** The demiplane can be [unbounded](unbounded-gmg.md "Unbounded Planar Trait") instead of [finite](finite-gmg.md "Finite Planar Trait"), though still with the same size.
 
 > [!success-degree] 
 > - **Critical Success** You create a new demiplane whose area consists of two contiguous squares, each 100 feet on a side. The ceiling is 20 feet high. If modifying an existing demiplane, you can instead either add this area to the demiplane's size or add two special traits or features.

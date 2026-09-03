@@ -10,7 +10,7 @@ aliases: ["Mask"]
 
 - **Usage** worn mask
 
-A mask helps you use the [Impersonate](rules/actions/impersonate.md) action to pass yourself off as someone you aren't.
+A mask helps you use the [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md) action to pass yourself off as someone you aren't.
 
 ---
 
@@ -31,7 +31,7 @@ This well-crafted mask, suitable for a noble at a masquerade, is made with impec
 
 - **Price**: 10 gp
 
-This stylized bird mask is equipped with a basic filter. The plague mask attempts to counteract any inhaled poisons or airborne diseases each round you breathe. The same replacement filters used in [water purifiers](compendium/equipment/items/water-purifier-lopsg.md) can be used with a plague mask, granting you the counteract modifier and effects of the filter for 20 minutes. Plague masks are uncommon items because the filters they use to protect from inhaled poisons and diseases are themselves uncommon. As such, you can buy a plague mask without a filter as a common item, though it's usually more cost-effective to buy a fine mask in the shape of a plague mask in that case.
+This stylized bird mask is equipped with a basic filter. The plague mask attempts to counteract any inhaled poisons or airborne diseases each round you breathe. The same replacement filters used in [water purifiers](water-purifier-lopsg.md) can be used with a plague mask, granting you the counteract modifier and effects of the filter for 20 minutes. Plague masks are uncommon items because the filters they use to protect from inhaled poisons and diseases are themselves uncommon. As such, you can buy a plague mask without a filter as a common item, though it's usually more cost-effective to buy a fine mask in the shape of a plague mask in that case.
 
 #### rubber mask *Item 1*
 

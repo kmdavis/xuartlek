@@ -18,4 +18,4 @@ Although you'd planned to move on quickly, the circus folk have adopted you as o
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in your choice of the [Deception](compendium/skills.md#Deception) or [Thievery](compendium/skills.md#Thievery) skills. You gain a skill feat: [Lengthy Diversion](compendium/feats/lengthy-diversion.md) if you chose [Deception](compendium/skills.md#Deception), or [Subtle Theft](compendium/feats/subtle-theft.md) if you chose [Thievery](compendium/skills.md#Thievery). You are also trained in the [Underworld Lore](compendium/skills.md#Lore) skill.
+You're trained in your choice of the [Deception](skills.md#Deception) or [Thievery](skills.md#Thievery) skills. You gain a skill feat: [Lengthy Diversion](archive/srd/pf2e/compendium/feats/lengthy-diversion.md) if you chose [Deception](skills.md#Deception), or [Subtle Theft](archive/srd/pf2e/compendium/feats/subtle-theft.md) if you chose [Thievery](skills.md#Thievery). You are also trained in the [Underworld Lore](skills.md#Lore) skill.

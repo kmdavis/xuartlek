@@ -9,14 +9,14 @@ tags:
 aliases: ["Thalassophobic Pool"]
 ---
 # Thalassophobic Pool *Hazard 12*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 25 trained  
 
 The pool sucks in creatures that fall into it, making them sink into its endless depths.
 
-- **Disable** DC 32 (master) [Diplomacy](compendium/skills.md#Diplomacy) or [Deception](compendium/skills.md#Deception) to quell the fear and calm the pool or DC 35 [Intimidation](compendium/skills.md#Intimidation) to give the pool something worse to fear; three successes required.  
+- **Disable** DC 32 (master) [Diplomacy](skills.md#Diplomacy) or [Deception](skills.md#Deception) to quell the fear and calm the pool or DC 35 [Intimidation](skills.md#Intimidation) to give the pool something worse to fear; three successes required.  
 
 ```ad-embed-ability
 title: **Downpour** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

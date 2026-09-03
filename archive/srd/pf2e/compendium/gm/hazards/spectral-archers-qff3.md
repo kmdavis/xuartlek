@@ -8,14 +8,14 @@ tags:
 aliases: ["Spectral Archers"]
 ---
 # Spectral Archers *Hazard 8*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +28 expert  
 
 Ghostly soldiers wielding crossbows manifest within the towers that flank the gatehouse and rain bolts down upon intruders.
 
-- **Disable** DC 31 [Intimidation](compendium/skills.md#Intimidation) (expert) to cow the archers into [fleeing](rules/conditions.md#Fleeing) or DC 28 [Religion](compendium/skills.md#Religion) (expert) to temporarily banish the spirits  
+- **Disable** DC 31 [Intimidation](skills.md#Intimidation) (expert) to cow the archers into [fleeing](archive/srd/pf2e/rules/conditions.md#Fleeing) or DC 28 [Religion](skills.md#Religion) (expert) to temporarily banish the spirits  
 
 ```ad-embed-ability
 title: **Rain of Bolts** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

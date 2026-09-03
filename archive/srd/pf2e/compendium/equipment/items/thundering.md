@@ -10,11 +10,11 @@ tags:
 aliases: ["Thundering"]
 ---
 # Thundering *Item 8+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Usage** etched onto a weapon
 
-This weapon lets out a peal of thunder when it hits, dealing an extra `1d6` sonic damage on a successful [Strike](rules/actions/strike.md). On a critical hit, the target has to succeed at a DC 24 Fortitude save or be [deafened](rules/conditions.md#Deafened) for 1 minute (or 1 hour on a critical failure).
+This weapon lets out a peal of thunder when it hits, dealing an extra `1d6` sonic damage on a successful [Strike](archive/srd/pf2e/rules/actions/strike.md). On a critical hit, the target has to succeed at a DC 24 Fortitude save or be [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 minute (or 1 hour on a critical failure).
 
 ---
 

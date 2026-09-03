@@ -11,11 +11,11 @@ tags:
 aliases: ["Periscopic Viewfinder"]
 ---
 # Periscopic Viewfinder *Item 3*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [gadget](rules/traits/gadget-g-g.md "Gadget  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [gadget](gadget-g-g.md "Gadget  Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 12 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This bronze, spherical device slowly rotates around a cluster of angled mirrors and a light-filled orb.
 

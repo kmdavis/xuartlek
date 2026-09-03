@@ -10,7 +10,7 @@ tags:
 aliases: ["Hand of the Mage"]
 ---
 # Hand of the Mage *Item 2*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 30 gp
 - **Bulk** L; **Usage** worn

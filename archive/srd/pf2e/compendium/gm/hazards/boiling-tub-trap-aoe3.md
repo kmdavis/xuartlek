@@ -8,14 +8,14 @@ tags:
 aliases: ["Boiling Tub Trap"]
 ---
 # Boiling Tub Trap *Hazard 13*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 37 master  
 
 A snapped trip wire causes an alchemical bomb to detonate and blow up part of the tin tub, spilling boiling water all over the trap's victim.
 
-- **Disable** DC 32 [Thievery](compendium/skills.md#Thievery) (master) to safely remove the trip wire from the bomb.  
+- **Disable** DC 32 [Thievery](skills.md#Thievery) (master) to safely remove the trip wire from the bomb.  
 
 ```ad-embed-ability
 title: **Overflowing Boiling Water** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

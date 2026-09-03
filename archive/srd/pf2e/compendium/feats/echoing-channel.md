@@ -8,12 +8,12 @@ tags:
 - trait/metamagic
 aliases: ["Echoing Channel"]
 ---
-# Echoing Channel  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
+# Echoing Channel  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 18*  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](metamagic.md "Metamagic General Trait")  
 
 - **Activity** Single Action
 
-When you pull forth positive or negative energy, you also create a smaller pocket of that energy. If the next action you use is to cast a 2-action [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md) to heal or damage a single creature, choose one additional creature adjacent to either you or the target. Target that creature with a 1-action version of the same spell. This spell is the same level as the 2-action harm or heal you cast and doesn't cost another spell slot.
+When you pull forth positive or negative energy, you also create a smaller pocket of that energy. If the next action you use is to cast a 2-action [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md) to heal or damage a single creature, choose one additional creature adjacent to either you or the target. Target that creature with a 1-action version of the same spell. This spell is the same level as the 2-action harm or heal you cast and doesn't cost another spell slot.
 
 *Source: Core Rulebook p. 127*  
 %% #compendium/src/pf2e/crb #trait/cleric #trait/concentrate #trait/metamagic %%

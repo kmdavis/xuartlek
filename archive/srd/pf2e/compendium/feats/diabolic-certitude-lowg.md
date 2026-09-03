@@ -7,14 +7,14 @@ tags:
 - trait/skill
 aliases: ["Diabolic Certitude"]
 ---
-# Diabolic Certitude  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+# Diabolic Certitude  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 4*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md)
+- **Prerequisites**: [Hellknight Armiger Dedication](hellknight-armiger-dedication-lowg.md)
 - **Trigger** Your turn begins and you can observe a devil.
 - **Activity** Free Action
 
-Your Hellknight training drilled details of Hell's denizens deep into your mind. Make an attempt to [Recall Knowledge](rules/actions/recall-knowledge.md) about a devil you're observing. If you roll a critical failure on this check, you get a failure instead.
+Your Hellknight training drilled details of Hell's denizens deep into your mind. Make an attempt to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) about a devil you're observing. If you roll a critical failure on this check, you get a failure instead.
 
 *Source: Lost Omens: World Guide p. 107*  
 %% #compendium/src/pf2e/lowg #trait/archetype #trait/skill %%

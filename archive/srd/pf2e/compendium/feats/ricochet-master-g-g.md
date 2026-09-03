@@ -7,17 +7,17 @@ tags:
 aliases: ["Ricochet Master"]
 ---
 # Ricochet Master  *Feat 16*  
-[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
+[gunslinger](archive/srd/pf2e/rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
-- **Prerequisites**: [Ricochet Shot](compendium/feats/ricochet-shot-g-g.md)
+- **Prerequisites**: [Ricochet Shot](ricochet-shot-g-g.md)
 
 You have an eye for angles and can find shots that others believe are impossible. When using Ricochet Shot, you can bounce your bullet off up to two solid surfaces within your weapon's first range increment instead of just one.
 
-In addition, a creature is [flat-footed](rules/conditions.md#Flat-footed) the first time you attack it with a Ricochet Shot during an encounter.
+In addition, a creature is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) the first time you attack it with a Ricochet Shot during an encounter.
 
 ## Ricochet Master leads to...
 
-[Ricochet Legend](compendium/feats/ricochet-legend-g-g.md)
+[Ricochet Legend](ricochet-legend-g-g.md)
 
 ## Summary
 

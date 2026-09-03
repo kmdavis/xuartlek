@@ -11,11 +11,11 @@ tags:
 aliases: ["Queasy Lantern"]
 ---
 # Queasy Lantern *Item 7+*  
-[light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
-This bull's-eye lantern is wrapped in decrepit leather skin. It constantly emits light in a 60-foot cone (and dim light in the next 60 feet). You can close or open internal shutters with an [Interact](rules/actions/interact.md) action to block or reveal the light.
+This bull's-eye lantern is wrapped in decrepit leather skin. It constantly emits light in a 60-foot cone (and dim light in the next 60 feet). You can close or open internal shutters with an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to block or reveal the light.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
@@ -37,13 +37,13 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Price**: 1700 gp
 
-The DC is 29. Creatures become [sickened](rules/conditions.md#Sickened) on a failure or [sickened](rules/conditions.md#Sickened) on a critical failure.
+The DC is 29. Creatures become [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) on a failure or [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) on a critical failure.
 
 #### greater queasy lantern *Item 17*
 
 - **Price**: 13500 gp
 
-The DC is 37. Creatures become [sickened](rules/conditions.md#Sickened) on a failure or [sickened](rules/conditions.md#Sickened) on a critical failure.
+The DC is 37. Creatures become [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) on a failure or [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) on a critical failure.
 
 ---
 *Source: Lost Omens: The Grand Bazaar p. 39*

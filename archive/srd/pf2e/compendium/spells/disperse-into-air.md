@@ -12,10 +12,10 @@ tags:
 aliases: ["Disperse Into Air"]
 ---
 # Disperse Into Air *Focus 4*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [air](compendium/setting/domains.md#Air)
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Domains** [air](archive/srd/pf2e/compendium/setting/domains.md#Air)
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: You take damage from an enemy or a hazard.
 - 
 

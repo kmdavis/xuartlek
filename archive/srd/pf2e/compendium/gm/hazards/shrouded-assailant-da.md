@@ -8,17 +8,17 @@ tags:
 aliases: ["Shrouded Assailant"]
 ---
 # Shrouded Assailant *Hazard 17*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 43  
 
 A spirit steps out of a covered mirror, pulling off and becoming shrouded in the cloth, which reveals the mirror. The shrouded figure attacks the living until the cloth is yanked off, which banishes the formless spirit.
 
-- **Disable** DC 43 [Thievery](compendium/skills.md#Thievery) (master) to steal the cloth before the spirit manifests, or DC 47 [Athletics](compendium/skills.md#Athletics) to pull the cloth off the spirit after it manifests  
+- **Disable** DC 43 [Thievery](skills.md#Thievery) (master) to steal the cloth before the spirit manifests, or DC 47 [Athletics](skills.md#Athletics) to pull the cloth off the spirit after it manifests  
 
 - **AC** 40, **Fort** +26, **Ref** +32, **Will** +35
-- **Spirit HP** 230 Resistance all damage 20 (except force, [ghost touch](compendium/equipment/items/ghost-touch.md), or positive; double resistance to non-magical)
+- **Spirit HP** 230 Resistance all damage 20 (except force, [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md), or positive; double resistance to non-magical)
 
 ```ad-embed-ability
 title: **Don Shroud** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([occult](rules/traits/occult.md))

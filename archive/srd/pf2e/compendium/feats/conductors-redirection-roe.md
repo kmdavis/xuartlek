@@ -6,7 +6,7 @@ tags:
 - trait/talos
 aliases: ["Conductor's Redirection"]
 ---
-# Conductor's Redirection  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
+# Conductor's Redirection  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 5*  
 talos  
 
 - **Trigger** You are hit by an attack, spell, or other effect that deals electricity damage.

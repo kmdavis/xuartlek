@@ -14,4 +14,4 @@ You grew up in the church of the Dark Smith, where you learned the value of hard
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You gain the [Skill Training](compendium/feats/skill-training.md) skill feat, and you're trained in the [Droskar Lore](compendium/skills.md#Lore) skill.
+You gain the [Skill Training](archive/srd/pf2e/compendium/feats/skill-training.md) skill feat, and you're trained in the [Droskar Lore](skills.md#Lore) skill.

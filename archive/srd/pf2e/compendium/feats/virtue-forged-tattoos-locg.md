@@ -7,9 +7,9 @@ tags:
 aliases: ["Virtue-forged Tattoos"]
 ---
 # Virtue-forged Tattoos  *Feat 9*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Ornate Tattoo](compendium/feats/ornate-tattoo-locg.md)
+- **Prerequisites**: [Ornate Tattoo](ornate-tattoo-locg.md)
 
 Your tattoos are a work of eldritch genius, a masterpiece of art, magic, and skin. Choose a 3rd-level arcane spell from the same school as your Arcane Tattoos, either a common spell or another to which you have access, including a lower-level spell heightened to 3rd level if you wish.
 

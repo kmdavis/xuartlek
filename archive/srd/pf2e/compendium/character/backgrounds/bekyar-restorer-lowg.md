@@ -15,6 +15,6 @@ Though many Bekyars worship demons, you seek to pave a different path for yourse
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Abyss Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Abyss Lore](skills.md#Lore) skill.
 
-You gain the [Group Impression](compendium/feats/group-impression.md) skill feat.
+You gain the [Group Impression](archive/srd/pf2e/compendium/feats/group-impression.md) skill feat.

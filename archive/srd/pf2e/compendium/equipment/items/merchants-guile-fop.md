@@ -10,14 +10,14 @@ tags:
 aliases: ["Merchant's Guile"]
 ---
 # Merchant's Guile *Item 5*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Usage** worn
 
 The band of this ring is made from bluecolored iron and has two sharp, decorative protrusions on each side of the red-stone inlay. It feels quite heavy and reliable.
 
-Wearing this ring grants you a +2 item bonus to [Deception](compendium/skills.md#Deception) and [Diplomacy](compendium/skills.md#Diplomacy) checks, but only if the associated checks involve haggling or bargaining over a purchase or trade.
+Wearing this ring grants you a +2 item bonus to [Deception](skills.md#Deception) and [Diplomacy](skills.md#Diplomacy) checks, but only if the associated checks involve haggling or bargaining over a purchase or trade.
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") envision, [Interact](rules/actions/interact.md)

@@ -12,12 +12,12 @@ tags:
 aliases: ["Headbands of Translocation"]
 ---
 # Headbands of Translocation *Item 16*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10000 gp
 - **Bulk** —; **Usage** worn headwear
 
-Headbands of translocation are silk bands that come in pairs and usually feature a prominent symbol of a nation or team. If both wearers Invest their headbands at the same time and think of the same symbol while doing so, both headbands change to display that symbol until they are removed. If you both have invested your headbands, you can [Aid](rules/actions/aid.md) each other without taking an action to prepare, and when you roll a critical failure when attempting to [Aid](rules/actions/aid.md) an ally with a paired headband, you get a failure instead.
+Headbands of translocation are silk bands that come in pairs and usually feature a prominent symbol of a nation or team. If both wearers Invest their headbands at the same time and think of the same symbol while doing so, both headbands change to display that symbol until they are removed. If you both have invested your headbands, you can [Aid](archive/srd/pf2e/rules/actions/aid.md) each other without taking an action to prepare, and when you roll a critical failure when attempting to [Aid](archive/srd/pf2e/rules/actions/aid.md) an ally with a paired headband, you get a failure instead.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

@@ -10,8 +10,8 @@ tags:
 - trait/stance
 aliases: ["Magnetic Field"]
 ---
-# Magnetic Field  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
+# Magnetic Field  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [metal](metal-roe.md "Metal Energy & Element Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  
 
 - **Activity** Single Action
 

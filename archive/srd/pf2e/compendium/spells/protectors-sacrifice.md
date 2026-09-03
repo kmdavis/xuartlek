@@ -10,10 +10,10 @@ tags:
 aliases: ["Protector's Sacrifice"]
 ---
 # Protector's Sacrifice *Focus 1*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [protection](compendium/setting/domains.md#Protection)
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Domains** [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: An ally within 30 feet takes damage.
 - **Range**: 30 foot
 

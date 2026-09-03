@@ -8,9 +8,9 @@ tags:
 aliases: ["Party Crasher"]
 ---
 # Party Crasher  *Feat 7*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: [Dandy Dedication](compendium/feats/dandy-dedication-apg.md), master in [Society](compendium/skills.md#Society)
+- **Prerequisites**: [Dandy Dedication](dandy-dedication-apg.md), master in [Society](skills.md#Society)
 
 You attend all the fashionable society parties, no matter how exclusive they might be. Any time you encounter a social event you would ordinarily be denied access to, such as a coronation, royal gala, or other society function, you can spend `1d4` hours to secure entry without the need for a skill check. You find invitations, invitees looking for fashionable dates, temporary jobs with the caterers, event staff willing to look the other way, or some other mode of access for yourself and your allies.
 

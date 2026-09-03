@@ -20,8 +20,8 @@ aliases: ["Kitmu", "Mother of Fireflies"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [indulgence](compendium/setting/domains.md#Indulgence), [nightmares](compendium/setting/domains.md#Nightmares), [swarm](compendium/setting/domains.md#Swarm)
-- **Cleric Spells**: 1st: [sleep](compendium/spells/sleep.md); 2nd: [vomit swarm](compendium/spells/vomit-swarm-apg.md); 3rd: [insect form](compendium/spells/insect-form.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares), [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm)
+- **Cleric Spells**: 1st: [sleep](archive/srd/pf2e/compendium/spells/sleep.md); 2nd: [vomit swarm](vomit-swarm-apg.md); 3rd: [insect form](archive/srd/pf2e/compendium/spells/insect-form.md)

@@ -9,8 +9,8 @@ tags:
 - trait/unstable
 aliases: ["Explosive Leap"]
 ---
-# Explosive Leap  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [move](rules/traits/move.md "Move Combat Trait")  [unstable](rules/traits/unstable-g-g.md "Unstable  Trait")  
+# Explosive Leap  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  [move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  [unstable](unstable-g-g.md "Unstable  Trait")  
 
 - **Activity** Single Action
 

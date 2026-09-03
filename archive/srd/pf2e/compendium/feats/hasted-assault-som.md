@@ -7,11 +7,11 @@ tags:
 aliases: ["Hasted Assault"]
 ---
 # Hasted Assault  *Feat 14*  
-[magus](rules/traits/magus-som.md "Magus Class Trait")  
+[magus](archive/srd/pf2e/rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: focus pool
 
-You can speed yourself up to move and attack more swiftly. You learn the [hasted assault](compendium/spells/hasted-assault-som.md) conflux spell. Increase the number of Focus Points in your focus pool by 1.
+You can speed yourself up to move and attack more swiftly. You learn the [hasted assault](archive/srd/pf2e/compendium/spells/hasted-assault-som.md) conflux spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Secrets of Magic p. 49*  
 %% #compendium/src/pf2e/som #trait/magus %%

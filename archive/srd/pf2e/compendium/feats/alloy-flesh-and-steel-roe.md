@@ -11,8 +11,8 @@ tags:
 - trait/primal
 aliases: ["Alloy Flesh and Steel"]
 ---
-# Alloy Flesh and Steel  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Alloy Flesh and Steel  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 14*  
+[impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [metal](metal-roe.md "Metal Energy & Element Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Two-Action
 

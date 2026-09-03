@@ -9,14 +9,14 @@ tags:
 aliases: ["Divine Plagues"]
 ---
 # Divine Plagues *Focus 1*   
-[disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Domains** [plague](compendium/setting/domains.md#Plague)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [plague](archive/srd/pf2e/compendium/setting/domains.md#Plague)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 15 foot
 - **Saving Throw**: Fortitude
 
-Your deity sends wracking plagues. The target must attempt a Fortitude save. When you [Cast the Spell](rules/actions/cast-a-spell.md), decide whether the disease inflicts the [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) condition.
+Your deity sends wracking plagues. The target must attempt a Fortitude save. When you [Cast the Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md), decide whether the disease inflicts the [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy), [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled), or [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) condition.
 
 > [!success-degree] 
 > - **Success** The target is unaffected.
@@ -40,7 +40,7 @@ title: Divine Plague _Level 1_
 %% #affliction/level/level-1 #trait/disease %%
 ```
 
-**Heightened (5th)** The divine plague disease gains the [virulent](rules/traits/virulent.md "Virulent Item Trait") trait. The condition value for the [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) condition is 2 instead of 1.
+**Heightened (5th)** The divine plague disease gains the [virulent](archive/srd/pf2e/rules/traits/virulent.md "Virulent Item Trait") trait. The condition value for the [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy), [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled), or [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) condition is 2 instead of 1.
 
 ## Summary
 

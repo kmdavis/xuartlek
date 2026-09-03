@@ -11,7 +11,7 @@ aliases: ["Scarlet Leprosy"]
 ---
 # Scarlet Leprosy
 *Disease 4*  
-[disease](rules/traits/disease.md "Disease Effect Trait")  [virulent](rules/traits/virulent.md "Virulent Item Trait")  
+[disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait")  [virulent](archive/srd/pf2e/rules/traits/virulent.md "Virulent Item Trait")  
 
 Scarlet leprosy is widely feared for its devastating effects, crushing bones and organs while making recovery nearly impossible. Damage taken from scarlet leprosy can't be healed until the disease is cured.
 

@@ -20,8 +20,8 @@ aliases: ["Jaidi", "The Blessing and Bounty"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [scythe](compendium/equipment/items/scythe.md)
-- **Domains**: [family](compendium/setting/domains.md#Family), [might](compendium/setting/domains.md#Might), [nature](compendium/setting/domains.md#Nature), [sun](compendium/setting/domains.md#Sun)
-- **Cleric Spells**: 1st: temporary tool; 2nd: [shape wood](compendium/spells/shape-wood.md); 3rd: [wall of thorns](compendium/spells/wall-of-thorns.md)
+- **Favored Weapon**: [scythe](archive/srd/pf2e/compendium/equipment/items/scythe.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun)
+- **Cleric Spells**: 1st: temporary tool; 2nd: [shape wood](archive/srd/pf2e/compendium/spells/shape-wood.md); 3rd: [wall of thorns](archive/srd/pf2e/compendium/spells/wall-of-thorns.md)

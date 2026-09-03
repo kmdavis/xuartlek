@@ -9,7 +9,7 @@ tags:
 aliases: ["Pacifying"]
 ---
 # Pacifying *Item 5*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 150 gp
 - **Usage** etched onto a weapon

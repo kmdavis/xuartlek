@@ -19,8 +19,8 @@ aliases: ["Horus", "The Distant Falcon"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
 - **Favored Weapon**: khopesh
-- **Domains**: [air](compendium/setting/domains.md#Air), [moon](compendium/setting/domains.md#Moon), [protection](compendium/setting/domains.md#Protection), [sun](compendium/setting/domains.md#Sun)
-- **Cleric Spells**: 1st: [floating disk](compendium/spells/floating-disk.md); 3rd: [wall of wind](compendium/spells/wall-of-wind.md); 4th: aerial form (bird only)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [moon](archive/srd/pf2e/compendium/setting/domains.md#Moon), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun)
+- **Cleric Spells**: 1st: [floating disk](floating-disk.md); 3rd: [wall of wind](archive/srd/pf2e/compendium/spells/wall-of-wind.md); 4th: aerial form (bird only)

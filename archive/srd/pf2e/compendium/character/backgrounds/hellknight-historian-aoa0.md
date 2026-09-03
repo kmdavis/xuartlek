@@ -17,4 +17,4 @@ You decided to join the Call for Heroes to hoping to gain an opportunity to expl
 
 Choose two ability boosts. One must be Strength or Intelligence, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Architecture Lore](compendium/skills.md#Lore) skill. You gain the [Courtly Graces](compendium/feats/courtly-graces.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Architecture Lore](skills.md#Lore) skill. You gain the [Courtly Graces](archive/srd/pf2e/compendium/feats/courtly-graces.md) skill feat.

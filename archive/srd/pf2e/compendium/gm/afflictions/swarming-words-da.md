@@ -13,7 +13,7 @@ aliases: ["Swarming Words"]
 ---
 # Swarming Words
 *Curse 9*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 Placed upon those who use magic to cause harm, this curse causes a shower of bugs to fall from your lips whenever you speak, foiling your spellcasting.
 
@@ -25,7 +25,7 @@ title: Saving Throw: DC 26 Will
 
 ## Tempting Curse
 
-The insects multiply into a cascade. When you activate the tempted curse, you must spend 2 actions to cast a 5th-level vomit swarm to free the vermin inside you. For 1 minute after unleashing the swarm, you are not affected by the curse, but afterward, the swarming worsens. For the rest of the day, whenever you attempt to [Cast a Spell](rules/actions/cast-a-spell.md) with a verbal component or otherwise use an activity that has the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait, you must attempt a DC 10 flat check. On a failure, the insects counteract your activity.
+The insects multiply into a cascade. When you activate the tempted curse, you must spend 2 actions to cast a 5th-level vomit swarm to free the vermin inside you. For 1 minute after unleashing the swarm, you are not affected by the curse, but afterward, the swarming worsens. For the rest of the day, whenever you attempt to [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) with a verbal component or otherwise use an activity that has the [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait") trait, you must attempt a DC 10 flat check. On a failure, the insects counteract your activity.
 
 ## Summary
 

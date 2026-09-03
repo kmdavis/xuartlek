@@ -8,14 +8,14 @@ tags:
 aliases: ["Violet Mister"]
 ---
 # Violet Mister *Hazard 2*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained to notice the trap's trigger-thread attached to the door  
 
 Opening the door pulls a thread, which causes a plant mister to spray a cloud of poison into the triggering creature's face.
 
-- **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) to safely cut the thread  
+- **Disable** DC 18 [Thievery](skills.md#Thievery) to safely cut the thread  
 
 - **AC** 16, **Fort** +10, **Ref** +10
 - **Hardness** 7, **HP** 25

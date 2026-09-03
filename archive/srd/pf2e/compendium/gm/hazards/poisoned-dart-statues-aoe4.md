@@ -9,14 +9,14 @@ tags:
 aliases: ["Poisoned Dart Statues"]
 ---
 # Poisoned Dart Statues *Hazard 14*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +24 expert or DC 39 (master) to notice the control panel. Anyone specifically searching the name plate of Abresha Tallow-Hands locates the control panel automatically.  
 
 Countless poison darts fire from holes in the statues and walls of this hall.
 
-- **Disable** DC 34 [Thievery](compendium/skills.md#Thievery) (master) on the control panel deactivates the trap.  
+- **Disable** DC 34 [Thievery](skills.md#Thievery) (master) on the control panel deactivates the trap.  
 
 - **AC** 34, **Fort** +20, **Ref** +25
 - 

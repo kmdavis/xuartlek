@@ -9,9 +9,9 @@ tags:
 aliases: ["Halcyon Speaker Dedication"]
 ---
 # Halcyon Speaker Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), member of the Magaambya of conversant rank
+- **Prerequisites**: [Magaambyan Attendant Dedication](magaambyan-attendant-dedication-locg.md), member of the Magaambya of conversant rank
 
 You devote much of your study to halcyon magic. You gain two common Halcyon cantrips and two common 1st-level halcyon spells (see Halcyon Spells on page 100). In addition to being able to cast your halcyon spells via your arcane or primal spell slots, you also gain a 1st-level halcyon spell slot. You can use your halcyon spell slots to spontaneously cast your halcyon spells.
 
@@ -19,7 +19,7 @@ You devote much of your study to halcyon magic. You gain two common Halcyon cant
 
 ## Halcyon Speaker Dedication leads to...
 
-[Dualistic Synergy](compendium/feats/dualistic-synergy-locg.md), [Fulminating Synergy](compendium/feats/fulminating-synergy-locg.md), [Synergistic Spell](compendium/feats/synergistic-spell-locg.md), [Shared Synergy](compendium/feats/shared-synergy-locg.md), [Halcyon Spellcasting Initiate](compendium/feats/halcyon-spellcasting-initiate-locg.md), [Flexible Halcyon Spellcasting](compendium/feats/flexible-halcyon-spellcasting-locg.md), [Halcyon Spellcasting Adept](compendium/feats/halcyon-spellcasting-adept-locg.md), [Halcyon Spellcasting Sage](compendium/feats/halcyon-spellcasting-sage-locg.md), [Persistent Creation](compendium/feats/persistent-creation-locg.md), [Charged Creation](compendium/feats/charged-creation-locg.md)
+[Dualistic Synergy](dualistic-synergy-locg.md), [Fulminating Synergy](fulminating-synergy-locg.md), [Synergistic Spell](synergistic-spell-locg.md), [Shared Synergy](shared-synergy-locg.md), [Halcyon Spellcasting Initiate](halcyon-spellcasting-initiate-locg.md), [Flexible Halcyon Spellcasting](flexible-halcyon-spellcasting-locg.md), [Halcyon Spellcasting Adept](halcyon-spellcasting-adept-locg.md), [Halcyon Spellcasting Sage](halcyon-spellcasting-sage-locg.md), [Persistent Creation](persistent-creation-locg.md), [Charged Creation](charged-creation-locg.md)
 
 ## Summary
 

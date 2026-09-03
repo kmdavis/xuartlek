@@ -15,4 +15,4 @@ Forget the church orthodoxy and the stuffy cloisters—spreading the word of you
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [Religion](compendium/skills.md#Religion) skill and the [Lore](compendium/skills.md#Lore) skill for your patron deity. You gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat.
+You're trained in the [Religion](skills.md#Religion) skill and the [Lore](skills.md#Lore) skill for your patron deity. You gain the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) skill feat.

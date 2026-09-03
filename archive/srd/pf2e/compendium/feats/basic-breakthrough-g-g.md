@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Breakthrough"]
 ---
 # Basic Breakthrough  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Inventor Dedication](compendium/feats/inventor-dedication-g-g.md)
+- **Prerequisites**: [Inventor Dedication](inventor-dedication-g-g.md)
 
 You gain a 1st- or 2nd-level inventor feat of your choice.
 
 ## Basic Breakthrough leads to...
 
-[Advanced Breakthrough](compendium/feats/advanced-breakthrough-g-g.md)
+[Advanced Breakthrough](advanced-breakthrough-g-g.md)
 
 ## Summary
 

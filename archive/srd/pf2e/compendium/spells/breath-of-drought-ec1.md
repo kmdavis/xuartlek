@@ -11,10 +11,10 @@ tags:
 aliases: ["Breath Of Drought"]
 ---
 # Breath Of Drought *Spell 2*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Area**: 10-foot burst
 - **Duration**: sustained
@@ -23,10 +23,10 @@ You fill the area with an oppressive, arid swelter that overwhelms creatures wit
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.
-> - **Failure** The creature is [sickened](rules/conditions.md#Sickened).
-> - **Critical Failure** The creature is [sickened](rules/conditions.md#Sickened).
+> - **Failure** The creature is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Critical Failure** The creature is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
 
-**Heightened (4th)** Once per round when you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can move the center of the burst to a new location within range.
+**Heightened (4th)** Once per round when you [Sustain the Spell](sustain-a-spell.md), you can move the center of the burst to a new location within range.
 
 **Heightened (7th)** As the 4th-level version, except the range is 120 feet and the area is a 20-foot burst.
 

@@ -10,14 +10,14 @@ tags:
 aliases: ["Tiger's Claw"]
 ---
 # Tiger's Claw *Item 11*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 1400 gp
 - **Bulk** 1; **Usage** held in 1 hand
 
 This +2 striking fearsome dueling pistol (Advanced Player's Guide 260) is made from fine tigerwood, with the head of a tiger as the muzzle. Beneath the tiger head is a claw shaped bayonet. One of a set of four guns crafted as a gift to a Zenj family for delivery of rare healing and diseaseabating herbs during an outbreak of a deadly disease in the Grand Duchy of Alkenstar, these firearms are now passed down to those who have done brave acts in service to the Zenj people. The flintlock sparks thrown by this weapon take the shape of pouncing tigers and the firearm's report sounds like a tiger's growl. Clever wielders use the firearm's report to panic their prey into mistakes and then pounce for the kill.
 
-This firearm's bullets deal slashing damage instead of piercing and add an additional `1d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) on a critical hit. This [persistent bleed damage](rules/conditions.md#Persistent%20Damage) causes tiger-claw-shaped wounds to appear on the target.
+This firearm's bullets deal slashing damage instead of piercing and add an additional `1d6` [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) on a critical hit. This [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) causes tiger-claw-shaped wounds to appear on the target.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision

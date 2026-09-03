@@ -7,8 +7,8 @@ tags:
 - trait/gunslinger
 aliases: ["Ricochet Shot"]
 ---
-# Ricochet Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
+# Ricochet Shot  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [gunslinger](archive/srd/pf2e/rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 - **Activity** Single Action
 
@@ -16,7 +16,7 @@ You bounce your shot off a nearby surface to strike your opponent from an unexpe
 
 ## Ricochet Shot leads to...
 
-[Ricochet Master](compendium/feats/ricochet-master-g-g.md), [Ricochet Legend](compendium/feats/ricochet-legend-g-g.md)
+[Ricochet Master](ricochet-master-g-g.md), [Ricochet Legend](ricochet-legend-g-g.md)
 
 ## Summary
 

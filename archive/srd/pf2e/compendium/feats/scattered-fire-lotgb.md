@@ -7,11 +7,11 @@ tags:
 aliases: ["Scattered Fire"]
 ---
 # Scattered Fire  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [fireball](compendium/spells/fireball.md)
+- **Prerequisites**: [Spell Trickster Dedication](spell-trickster-dedication-lotgb.md), ability to cast [fireball](archive/srd/pf2e/compendium/spells/fireball.md)
 
-When you cast [fireball](compendium/spells/fireball.md), you can modify its area to be two non-overlapping 10-foot bursts.
+When you cast [fireball](archive/srd/pf2e/compendium/spells/fireball.md), you can modify its area to be two non-overlapping 10-foot bursts.
 
 *Source: Lost Omens: The Grand Bazaar p. 124*  
 %% #compendium/src/pf2e/lotgb #trait/archetype %%

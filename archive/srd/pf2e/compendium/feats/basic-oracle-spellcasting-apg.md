@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Oracle Spellcasting"]
 ---
 # Basic Oracle Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Oracle Dedication](compendium/feats/oracle-dedication-apg.md)
+- **Prerequisites**: [Oracle Dedication](oracle-dedication-apg.md)
 
 You gain the basic spellcasting benefits. When you gain a spell slot of a new level from the oracle archetype, add a common divine spell or another divine spell you have learned or discovered to your repertoire, of that spell level.
 
 ## Basic Oracle Spellcasting leads to...
 
-[Expert Oracle Spellcasting](compendium/feats/expert-oracle-spellcasting-apg.md), [Master Oracle Spellcasting](compendium/feats/master-oracle-spellcasting-apg.md), [Mysterious Breadth](compendium/feats/mysterious-breadth-apg.md)
+[Expert Oracle Spellcasting](expert-oracle-spellcasting-apg.md), [Master Oracle Spellcasting](master-oracle-spellcasting-apg.md), [Mysterious Breadth](mysterious-breadth-apg.md)
 
 ## Summary
 

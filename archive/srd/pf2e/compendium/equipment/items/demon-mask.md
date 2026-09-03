@@ -10,11 +10,11 @@ tags:
 aliases: ["Demon Mask"]
 ---
 # Demon Mask *Item 4+*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L; **Usage** worn mask
 
-This terrifying mask is crafted in the visage of a leering demon and grants a +1 item bonus to [Intimidation](compendium/skills.md#Intimidation) checks.
+This terrifying mask is crafted in the visage of a leering demon and grants a +1 item bonus to [Intimidation](skills.md#Intimidation) checks.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
@@ -36,7 +36,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Price**: 900 gp
 
-The mask grants a +2 item bonus. It casts 3rd-level [fear](compendium/spells/fear.md) with a DC of 29.
+The mask grants a +2 item bonus. It casts 3rd-level [fear](archive/srd/pf2e/compendium/spells/fear.md) with a DC of 29.
 
 ---
 *Source: Core Rulebook p. 609*

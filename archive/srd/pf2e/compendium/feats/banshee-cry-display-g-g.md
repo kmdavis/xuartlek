@@ -7,9 +7,9 @@ tags:
 aliases: ["Banshee Cry Display"]
 ---
 # Banshee Cry Display  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Firework Technician Dedication](compendium/feats/firework-technician-dedication-g-g.md)
+- **Prerequisites**: [Firework Technician Dedication](firework-technician-dedication-g-g.md)
 
 You've learned how to pull off a sudden noisemaker at just the right moment in your display, a technique that can disrupt precise wording. You gain the Banshee Cry fireworks display.
 

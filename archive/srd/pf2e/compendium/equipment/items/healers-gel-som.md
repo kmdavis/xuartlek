@@ -10,11 +10,11 @@ tags:
 aliases: ["Healer's Gel"]
 ---
 # Healer's Gel *Item 5+*  
-[catalyst](rules/traits/catalyst-som.md "Catalyst Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[catalyst](catalyst-som.md "Catalyst Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
-An astringent aroma from rare succulent plants wafts off these soothing cloth patches. Adding this material component to a [heal](compendium/spells/heal.md) spell bestows additional temporary Hit Points to one target healed by the spell. These temporary Hit Points last for 1 minute.
+An astringent aroma from rare succulent plants wafts off these soothing cloth patches. Adding this material component to a [heal](archive/srd/pf2e/compendium/spells/heal.md) spell bestows additional temporary Hit Points to one target healed by the spell. These temporary Hit Points last for 1 minute.
 
 ---
 

@@ -9,9 +9,9 @@ tags:
 aliases: ["Triangulate"]
 ---
 # Triangulate  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Prerequisites**: [Sniping Duo Dedication](compendium/feats/sniping-duo-dedication-g-g.md)
+- **Prerequisites**: [Sniping Duo Dedication](sniping-duo-dedication-g-g.md)
 
 Your spotter's quick signals help you make even difficult shots seem simple. As long as both you and your spotter can see the target of your attacks, you don't take a penalty for attacking within your weapon's second range increment.
 

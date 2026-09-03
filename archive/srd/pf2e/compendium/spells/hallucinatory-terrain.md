@@ -10,9 +10,9 @@ tags:
 aliases: ["Hallucinatory Terrain"]
 ---
 # Hallucinatory Terrain *Spell 4*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**: 500 foot
 - **Area**: 50-foot burst
@@ -20,7 +20,7 @@ aliases: ["Hallucinatory Terrain"]
 
 You create an illusion that causes natural terrain to look, sound, feel, and smell like a different kind of terrain. This doesn't disguise any structures or creatures in the area.
 
-Any creature that touches the illusion or uses the [Seek](rules/actions/seek.md) action to examine it can attempt to 0.
+Any creature that touches the illusion or uses the [Seek](archive/srd/pf2e/rules/actions/seek.md) action to examine it can attempt to 0.
 
 **Heightened (5th)** Your image can also disguise structures or create illusory structures (but still doesn't disguise creatures).
 

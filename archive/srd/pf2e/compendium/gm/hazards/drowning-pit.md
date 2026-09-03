@@ -9,14 +9,14 @@ tags:
 aliases: ["Drowning Pit"]
 ---
 # Drowning Pit *Hazard 3*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +10 trained DC 22 (expert) to notice the water spouts once the pit opens.  
 
-A trapdoor covers a 10-foot-square pit that's 30 feet deep and has 5 feet of water at the bottom. Four water spouts in the walls connect to [hidden](rules/conditions.md#Hidden) water tanks. Each water spout extends out of a different wall, 6 inches from the top of the pit.
+A trapdoor covers a 10-foot-square pit that's 30 feet deep and has 5 feet of water at the bottom. Four water spouts in the walls connect to [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) water tanks. Each water spout extends out of a different wall, 6 inches from the top of the pit.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 18 (trained) to seal each water spout,  
+- **Disable** [Thievery](skills.md#Thievery) DC 18 (trained) to seal each water spout,  
 
 ```ad-embed-ability
 title: **Thievery DC** 22 (trained) to open the trapdoor, or [Athletics](compendium/skills.md#Athletics) DC 22 to [Force Open](rules/actions/force-open.md) the trapdoor AC 19; Fort +8, Ref +5 Trapdoor Hardness 15, Trapdoor HP 60 (BT 30); Spout Hardness 8, Spout HP 32 (BT 16); Immunities critical hits, object immunities, precision damage.

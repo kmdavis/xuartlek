@@ -10,7 +10,7 @@ tags:
 aliases: ["Springald"]
 ---
 # Springald *Item 7*  
-[huge](rules/traits/huge-b1.md "Huge Size Trait")  [mounted](rules/traits/mounted-g-g.md "Mounted Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[huge](huge-b1.md "Huge Size Trait")  [mounted](mounted-g-g.md "Mounted Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 700 gp
 - **Usage** mounted

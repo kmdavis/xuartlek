@@ -9,14 +9,14 @@ tags:
 aliases: ["Summoning Rune"]
 ---
 # Summoning Rune *Hazard 1*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +7 trained  
 
-A cloud of [invisible](rules/conditions.md#Invisible) magical sensors in a 10-foot radius surrounds an [invisible](rules/conditions.md#Invisible) wall or floor rune the size of the creature to be summoned.
+A cloud of [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) magical sensors in a 10-foot radius surrounds an [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) wall or floor rune the size of the creature to be summoned.
 
-- **Disable** [Acrobatics](compendium/skills.md#Acrobatics) DC 15 to approach without triggering the trap followed by [Thievery](compendium/skills.md#Thievery) DC 17 (trained) to erase the rune, or dispel magic (1st level; counteract DC 15) to counteract the rune.  
+- **Disable** [Acrobatics](skills.md#Acrobatics) DC 15 to approach without triggering the trap followed by [Thievery](skills.md#Thievery) DC 17 (trained) to erase the rune, or dispel magic (1st level; counteract DC 15) to counteract the rune.  
 
 ```ad-embed-ability
 title: **Summon Monster** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [conjuration](rules/traits/conjuration.md), summon)

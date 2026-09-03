@@ -9,10 +9,10 @@ tags:
 aliases: ["Air Walk"]
 ---
 # Air Walk *Spell 4*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Duration**: 5 minutes

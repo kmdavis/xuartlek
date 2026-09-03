@@ -8,7 +8,7 @@ tags:
 aliases: ["Net Launcher"]
 ---
 # Net Launcher *Item 1*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 16 gp
 - **Bulk** 1; **Usage** held in 2 hands

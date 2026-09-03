@@ -6,8 +6,8 @@ tags:
 - trait/changeling
 aliases: ["Mother's Mindfulness"]
 ---
-# Mother's Mindfulness  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  
+# Mother's Mindfulness  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
+[changeling](changeling-b1.md "Changeling Ancestry & Heritage Trait")  
 
 - **Frequency**: once per minute
 - **Trigger** An adjacent ally is hit by an attack.

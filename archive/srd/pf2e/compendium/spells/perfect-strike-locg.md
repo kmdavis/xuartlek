@@ -10,10 +10,10 @@ tags:
 aliases: ["Perfect Strike"]
 ---
 # Perfect Strike *Focus 2*   
-[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**: You miss a [Strike](rules/actions/strike.md) with an unarmed attack.
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Trigger**: You miss a [Strike](archive/srd/pf2e/rules/actions/strike.md) with an unarmed attack.
 - 
 
 You call upon insight from your training to recover accuracy. Reroll the missed attack roll and keep the new result.

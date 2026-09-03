@@ -15,4 +15,4 @@ You learned the healing arts of your community wielding your ceremonial chonta, 
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Medicine](compendium/skills.md#Medicine) skill and the [Herbalism Lore](compendium/skills.md#Lore) skill. You gain the [Inoculation](compendium/feats/inoculation-apg.md) skill feat (Pathfinder Advanced Player's Guide 207).
+You're trained in the [Medicine](skills.md#Medicine) skill and the [Herbalism Lore](skills.md#Lore) skill. You gain the [Inoculation](inoculation-apg.md) skill feat (Pathfinder Advanced Player's Guide 207).

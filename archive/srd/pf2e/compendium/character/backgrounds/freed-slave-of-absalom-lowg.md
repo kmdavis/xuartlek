@@ -15,6 +15,6 @@ As a recently freed slave in Absalom, you belong to a new, closeknit social clas
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Absalom Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Society](skills.md#Society) skill and the [Absalom Lore](skills.md#Lore) skill.
 
-You gain the [Streetwise](compendium/feats/streetwise.md) skill feat.
+You gain the [Streetwise](archive/srd/pf2e/compendium/feats/streetwise.md) skill feat.

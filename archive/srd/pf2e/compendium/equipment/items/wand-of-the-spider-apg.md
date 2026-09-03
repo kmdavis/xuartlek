@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand Of The Spider"]
 ---
 # Wand Of The Spider *Item 7+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of web of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand
@@ -38,7 +38,7 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 
 - **Price**: 1400 gp
 
-The strands deal `2d6` poison damage plus `1d6` [persistent poison damage](rules/conditions.md#Persistent%20Damage).
+The strands deal `2d6` poison damage plus `1d6` [persistent poison damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
 ---
 *Source: Advanced Player's Guide p. 265*

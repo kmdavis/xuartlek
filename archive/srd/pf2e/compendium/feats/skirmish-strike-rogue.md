@@ -7,12 +7,12 @@ tags:
 - trait/rogue
 aliases: ["Skirmish Strike (Rogue)"]
 ---
-# Skirmish Strike (Rogue)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
+# Skirmish Strike (Rogue)  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
+[flourish](archive/srd/pf2e/rules/traits/flourish.md "Flourish Combat Trait")  [rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Activity** Single Action
 
-Your feet and weapon move in tandem. Either [Step](rules/actions/step.md) and then [Strike](rules/actions/strike.md), or [Strike](rules/actions/strike.md) and then [Step](rules/actions/step.md).
+Your feet and weapon move in tandem. Either [Step](archive/srd/pf2e/rules/actions/step.md) and then [Strike](archive/srd/pf2e/rules/actions/strike.md), or [Strike](archive/srd/pf2e/rules/actions/strike.md) and then [Step](archive/srd/pf2e/rules/actions/step.md).
 
 *Source: Core Rulebook p. 186*  
 %% #compendium/src/pf2e/crb #trait/flourish #trait/rogue %%

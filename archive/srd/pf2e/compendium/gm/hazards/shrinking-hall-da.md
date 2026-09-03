@@ -8,14 +8,14 @@ tags:
 aliases: ["Shrinking Hall"]
 ---
 # Shrinking Hall *Hazard 2*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18  
 
 This hallway is designed to shrink as creatures traverse it, making access to the door at the hall's end impossible.
 
-- **Disable** DC 21 [Thievery](compendium/skills.md#Thievery) (trained) to jam the scales built into the floor  
+- **Disable** DC 21 [Thievery](skills.md#Thievery) (trained) to jam the scales built into the floor  
 
 ```ad-embed-ability
 title: **Shrink** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

@@ -20,8 +20,8 @@ aliases: ["Isis", "Queen of Miracles"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Arcana
-- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
-- **Domains**: [family](compendium/setting/domains.md#Family), [healing](compendium/setting/domains.md#Healing), [magic](compendium/setting/domains.md#Magic), [passion](compendium/setting/domains.md#Passion)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 2nd: [humanoid form](compendium/spells/humanoid-form.md); 3rd: [animal vision](compendium/spells/animal-vision.md); 4th: [creation](compendium/spells/creation.md); 5th: [control water](compendium/spells/control-water.md); 6th: [wall of force](compendium/spells/wall-of-force.md); 7th: [magnificent mansion](compendium/spells/magnificent-mansion.md); 8th: [wind walk](compendium/spells/wind-walk.md); 9th: [shapechange](compendium/spells/shapechange.md)
+- **Favored Weapon**: [staff](archive/srd/pf2e/compendium/equipment/items/staff.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 2nd: [humanoid form](archive/srd/pf2e/compendium/spells/humanoid-form.md); 3rd: [animal vision](archive/srd/pf2e/compendium/spells/animal-vision.md); 4th: [creation](archive/srd/pf2e/compendium/spells/creation.md); 5th: [control water](archive/srd/pf2e/compendium/spells/control-water.md); 6th: [wall of force](archive/srd/pf2e/compendium/spells/wall-of-force.md); 7th: [magnificent mansion](magnificent-mansion.md); 8th: [wind walk](wind-walk.md); 9th: [shapechange](shapechange.md)

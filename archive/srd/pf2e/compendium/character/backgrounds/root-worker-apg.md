@@ -15,4 +15,4 @@ Some ailments can't be cured by herbs alone. You learned ritual remedies as well
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Occultism](compendium/skills.md#Occultism) skill and the [Herbalism Lore](compendium/skills.md#Lore) skill. You gain the [Root Magic](compendium/feats/root-magic-apg.md) skill feat.
+You're trained in the [Occultism](skills.md#Occultism) skill and the [Herbalism Lore](skills.md#Lore) skill. You gain the [Root Magic](root-magic-apg.md) skill feat.

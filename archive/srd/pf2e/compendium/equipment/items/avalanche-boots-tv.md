@@ -11,12 +11,12 @@ tags:
 aliases: ["Avalanche Boots"]
 ---
 # Avalanche Boots *Item 17*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 15000 gp
 - **Bulk** 1; **Usage** worn boots
 
-While the insides of these boots are comfortable, fur-lined leather, the outsides are a jumble of slate plates, giving the impression of a rockslide. You gain a +3 item bonus to [Athletics](compendium/skills.md#Athletics) checks and a +2 circumstance bonus to [Force Open](rules/actions/force-open.md) and [Shove](rules/actions/shove.md).
+While the insides of these boots are comfortable, fur-lined leather, the outsides are a jumble of slate plates, giving the impression of a rockslide. You gain a +3 item bonus to [Athletics](skills.md#Athletics) checks and a +2 circumstance bonus to [Force Open](archive/srd/pf2e/rules/actions/force-open.md) and [Shove](archive/srd/pf2e/rules/actions/shove.md).
 
 When you invest the boots, you either increase your Strength score by 2 or increase it to 18, whichever is higher.
 

@@ -7,11 +7,11 @@ tags:
 aliases: ["Master Spotter"]
 ---
 # Master Spotter  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Overwatch Dedication](compendium/feats/overwatch-dedication-g-g.md), expert in [Perception](compendium/skills.md#Perception)
+- **Prerequisites**: [Overwatch Dedication](overwatch-dedication-g-g.md), expert in [Perception](skills.md#Perception)
 
-Your incredible perception and trusty enhanced visual gear allow you to see things others miss. Your proficiency rank in [Perception](compendium/skills.md#Perception) increases to master.
+Your incredible perception and trusty enhanced visual gear allow you to see things others miss. Your proficiency rank in [Perception](skills.md#Perception) increases to master.
 
 *Source: Guns & Gears p. 51*  
 %% #compendium/src/pf2e/g&g #trait/archetype %%

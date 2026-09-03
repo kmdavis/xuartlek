@@ -10,7 +10,7 @@ tags:
 aliases: ["Tremorsensors"]
 ---
 # Tremorsensors *Item 4*  
-[adjustment](rules/traits/adjustment-lotgb.md "Adjustment  Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[adjustment](adjustment-lotgb.md "Adjustment  Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 100 gp
 - **Bulk** L; **Usage** affixed to armor

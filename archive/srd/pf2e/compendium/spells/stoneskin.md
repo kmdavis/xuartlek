@@ -9,10 +9,10 @@ tags:
 aliases: ["Stoneskin"]
 ---
 # Stoneskin *Spell 4*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Duration**: 20 minutes

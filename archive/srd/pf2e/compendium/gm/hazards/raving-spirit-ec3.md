@@ -8,14 +8,14 @@ tags:
 aliases: ["Raving Spirit"]
 ---
 # Raving Spirit *Hazard 11*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert or DC 30 (master) to detect the spiritual nexus.  
 
 The restless spirit of Currew raves against his tormentors when someone enters his room.
 
-- **Disable** DC 30 [Intimidation](compendium/skills.md#Intimidation) (expert) to quiet the spirit for 1 round, or DC 32 [Religion](compendium/skills.md#Religion) (master) to exorcise it.  
+- **Disable** DC 30 [Intimidation](skills.md#Intimidation) (expert) to quiet the spirit for 1 round, or DC 32 [Religion](skills.md#Religion) (master) to exorcise it.  
 
 ```ad-embed-ability
 title: **Raving Diatribe** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([death](rules/traits/death.md), [emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))

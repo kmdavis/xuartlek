@@ -10,15 +10,15 @@ tags:
 aliases: ["Neophyte's Fipple"]
 ---
 # Neophyte's Fipple *Item 3*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 8 gp
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Perform](rules/actions/perform.md); **Requirements** You are untrained in
+- **Activate** [Perform](archive/srd/pf2e/rules/actions/perform.md); **Requirements** You are untrained in
 
-[Performance](compendium/skills.md#Performance).
+[Performance](skills.md#Performance).
 
-Made of polished wood, a neophyte's fipple is a block flute enchanted to guarantee melodic sound. When you [Perform](rules/actions/perform.md) a song on the fipple to Activate it, your ability modifier, proficiency bonus, and item bonus for the [Performance](compendium/skills.md#Performance) check total +7, regardless of what they would normally be. Add other bonuses and penalties to the check normally. Once the magic is used, the fipple remains as a mundane instrument.
+Made of polished wood, a neophyte's fipple is a block flute enchanted to guarantee melodic sound. When you [Perform](archive/srd/pf2e/rules/actions/perform.md) a song on the fipple to Activate it, your ability modifier, proficiency bonus, and item bonus for the [Performance](skills.md#Performance) check total +7, regardless of what they would normally be. Add other bonuses and penalties to the check normally. Once the magic is used, the fipple remains as a mundane instrument.
 
 
 ---

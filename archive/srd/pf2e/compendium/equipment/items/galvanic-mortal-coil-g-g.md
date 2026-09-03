@@ -10,7 +10,7 @@ tags:
 aliases: ["Galvanic Mortal Coil"]
 ---
 # Galvanic Mortal Coil *Item 10*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 970 gp
 - **Bulk** L; **Usage** held in 1 hand

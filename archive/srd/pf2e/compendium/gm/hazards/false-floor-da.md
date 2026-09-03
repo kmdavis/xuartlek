@@ -9,14 +9,14 @@ tags:
 aliases: ["False Floor"]
 ---
 # False Floor *Hazard 3*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 (trained; or 0 if the illusory floor is dispelled)  
 
 The floor in this chamber is an illusion, which conceals a 40-foot drop to the true floor below. Additionally, the area beneath the floor is magically silenced—no sound is audible within nor does sound leave this space.
 
-- **Disable** Succeeding on a [Perception](compendium/skills.md#Perception) check against the [Stealth](compendium/skills.md#Stealth) DC of 21 (including the check to find the trap) disbelieves the illusory floor, or dispel magic (2nd level; counteract DC 18) to dispel the illusory floor; dispel magic (2nd level; counteract DC 20) to dispel the magical silence  
+- **Disable** Succeeding on a [Perception](skills.md#Perception) check against the [Stealth](skills.md#Stealth) DC of 21 (including the check to find the trap) disbelieves the illusory floor, or dispel magic (2nd level; counteract DC 18) to dispel the illusory floor; dispel magic (2nd level; counteract DC 20) to dispel the magical silence  
 
 ```ad-embed-ability
 title: **Drop** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

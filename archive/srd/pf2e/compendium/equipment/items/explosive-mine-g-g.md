@@ -10,12 +10,12 @@ tags:
 aliases: ["Explosive Mine"]
 ---
 # Explosive Mine *Item 1+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [gadget](rules/traits/gadget-g-g.md "Gadget  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [gadget](gadget-g-g.md "Gadget  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-When you [Activate](rules/actions/activate-an-item.md) an explosive mine, you place it on the ground in a square within your reach, priming it to explode when a creature steps on that square. If you have time in advance to prepare, you can place the mine on the ground before activating it, and you or an ally can try to use [Stealth](compendium/skills.md#Stealth) to [Conceal an Object](rules/actions/conceal-an-object.md) before you [Activate](rules/actions/activate-an-item.md) the mine. If you don't [Conceal](rules/actions/conceal-an-object.md) the mine, its position is obvious at a glance.
+When you [Activate](activate-an-item.md) an explosive mine, you place it on the ground in a square within your reach, priming it to explode when a creature steps on that square. If you have time in advance to prepare, you can place the mine on the ground before activating it, and you or an ally can try to use [Stealth](skills.md#Stealth) to [Conceal an Object](archive/srd/pf2e/rules/actions/conceal-an-object.md) before you [Activate](activate-an-item.md) the mine. If you don't [Conceal](archive/srd/pf2e/rules/actions/conceal-an-object.md) the mine, its position is obvious at a glance.
 
 Once activated, the mine is primed to explode when enough pressure is placed on the square where it's located.
 

@@ -7,9 +7,9 @@ tags:
 aliases: ["Greater Vital Evolution"]
 ---
 # Greater Vital Evolution  *Feat 16*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
-- **Prerequisites**: [Divine Evolution](compendium/feats/divine-evolution.md) or [Primal Evolution](compendium/feats/primal-evolution.md)
+- **Prerequisites**: [Divine Evolution](archive/srd/pf2e/compendium/feats/divine-evolution.md) or [Primal Evolution](archive/srd/pf2e/compendium/feats/primal-evolution.md)
 
 Vital power surges through you like a font of energy. Twice per day, you can cast a spell after you've run out of spell slots of the appropriate spell level; the two spells you cast with this feat must be of different spell levels.
 

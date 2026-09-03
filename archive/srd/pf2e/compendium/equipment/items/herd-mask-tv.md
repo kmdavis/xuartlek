@@ -12,7 +12,7 @@ tags:
 aliases: ["Herd Mask"]
 ---
 # Herd Mask *Item 6*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 210 gp
 - **Craft Requirements** Supply a casting of dimension door. You can link a herd mask you create to another herd mask in your possession when you finish crafting it, which causes it to be linked to the chosen mask as well as all other herd masks that are also linked to the chosen mask.

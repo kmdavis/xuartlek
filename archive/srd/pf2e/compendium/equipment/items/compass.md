@@ -12,7 +12,7 @@ aliases: ["Compass"]
 - **Bulk** —
 - **Hands** 1
 
-A compass helps you [Sense Direction](rules/actions/sense-direction.md) or navigate, provided you're in a location with uniform magnetic fields. Without a compass, you take a –2 item penalty to these checks (similar to using a shoddy item).
+A compass helps you [Sense Direction](archive/srd/pf2e/rules/actions/sense-direction.md) or navigate, provided you're in a location with uniform magnetic fields. Without a compass, you take a –2 item penalty to these checks (similar to using a shoddy item).
 
 ---
 

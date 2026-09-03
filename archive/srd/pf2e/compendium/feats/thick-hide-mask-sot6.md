@@ -10,9 +10,9 @@ tags:
 aliases: ["Thick Hide Mask"]
 ---
 # Thick Hide Mask  *Feat 20*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
-- **Prerequisites**: [Druid Dedication](compendium/feats/druid-dedication.md) or [Wizard Dedication](compendium/feats/wizard-dedication.md)
+- **Prerequisites**: [Druid Dedication](archive/srd/pf2e/compendium/feats/druid-dedication.md) or [Wizard Dedication](archive/srd/pf2e/compendium/feats/wizard-dedication.md)
 
 Your mask grants you the toughness of Elephant, the Conjured Chronicle.
 

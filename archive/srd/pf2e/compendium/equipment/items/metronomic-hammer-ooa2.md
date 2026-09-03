@@ -10,14 +10,14 @@ tags:
 aliases: ["Metronomic Hammer"]
 ---
 # Metronomic Hammer *Item 5*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Bulk** 1; **Usage** held in 1 or 2 hands
 
 A polished brass metronome ticks rhythmically within the haft of this +1 striking gnome hooked hammer.
 
-Gnome adherents of [Brigh](compendium/setting/deities/brigh-logm.md) often attempt to reproduce this item as part of a ritual symbolizing methodical problem-solving and thoughtful craftsmanship.
+Gnome adherents of [Brigh](brigh-logm.md) often attempt to reproduce this item as part of a ritual symbolizing methodical problem-solving and thoughtful craftsmanship.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision

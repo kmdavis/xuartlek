@@ -10,12 +10,12 @@ tags:
 aliases: ["Bloodthirsty"]
 ---
 # Bloodthirsty *Item 16*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8500 gp
 - **Usage** etched onto a slashing or piercing
 
-The magic in this rune sings in time with your attacks and coaxes you into finishing your opponent. When you critically hit a target that's taking [persistent bleed damage](rules/conditions.md#Persistent%20Damage), your target becomes [drained](rules/conditions.md#Drained).
+The magic in this rune sings in time with your attacks and coaxes you into finishing your opponent. When you critically hit a target that's taking [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), your target becomes [drained](archive/srd/pf2e/rules/conditions.md#Drained).
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision

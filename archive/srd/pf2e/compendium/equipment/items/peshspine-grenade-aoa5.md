@@ -12,12 +12,12 @@ tags:
 aliases: ["Peshspine Grenade"]
 ---
 # Peshspine Grenade *Item 1+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [bomb](rules/traits/bomb.md "Bomb Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [bomb](archive/srd/pf2e/rules/traits/bomb.md "Bomb Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Strike](rules/actions/strike.md)
+- **Activate** [Strike](archive/srd/pf2e/rules/actions/strike.md)
 
-Peshspine grenades are explosive bombs packed with alchemically treated needles from the pesh cactus. A peshspine grenade deals the listed piercing damage and [splash](rules/traits/splash.md "Splash Weapon Trait") damage. On a hit, the target gains the [stupefied](rules/conditions.md#Stupefied) condition until the end of its next turn.
+Peshspine grenades are explosive bombs packed with alchemically treated needles from the pesh cactus. A peshspine grenade deals the listed piercing damage and [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait") damage. On a hit, the target gains the [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) condition until the end of its next turn.
 
 Many types of peshpine grenade grant an item bonus to attack rolls.
 
@@ -29,7 +29,7 @@ Many types of peshpine grenade grant an item bonus to attack rolls.
 
 - **Price**: 3 gp
 
-The bomb deals `1d6` piercing damage and 1 piercing [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and the target is [stupefied](rules/conditions.md#Stupefied).
+The bomb deals `1d6` piercing damage and 1 piercing [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait") damage, and the target is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied).
 
 #### moderate *Item 3*
 
@@ -37,7 +37,7 @@ The bomb deals `1d6` piercing damage and 1 piercing [splash](rules/traits/splash
 
 You gain a +1 item bonus to attack rolls.
 
-The bomb deals `2d6` piercing damage and 2 piercing [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and the target is [stupefied](rules/conditions.md#Stupefied).
+The bomb deals `2d6` piercing damage and 2 piercing [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait") damage, and the target is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied).
 
 #### greater *Item 11*
 
@@ -45,7 +45,7 @@ The bomb deals `2d6` piercing damage and 2 piercing [splash](rules/traits/splash
 
 You gain a +2 item bonus to attack rolls.
 
-The bomb deals `3d6` piercing damage and 3 piercing [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and the target is [stupefied](rules/conditions.md#Stupefied).
+The bomb deals `3d6` piercing damage and 3 piercing [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait") damage, and the target is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied).
 
 #### major *Item 17*
 
@@ -53,7 +53,7 @@ The bomb deals `3d6` piercing damage and 3 piercing [splash](rules/traits/splash
 
 You gain a +3 item bonus to attack rolls.
 
-The bomb deals `4d6` piercing damage and 4 piercing [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and the target is [stupefied](rules/conditions.md#Stupefied).
+The bomb deals `4d6` piercing damage and 4 piercing [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait") damage, and the target is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied).
 
 ---
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 77*

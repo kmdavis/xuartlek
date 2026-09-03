@@ -8,14 +8,14 @@ tags:
 aliases: ["Purple Dye Trap"]
 ---
 # Purple Dye Trap *Hazard 3*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
 
 A spring-loaded glass jar containing purple dye and a thunderstone pops from the ground and explodes when a pressure sensor is triggered.
 
-- **Disable** DC 17 [Thievery](compendium/skills.md#Thievery) (trained) to remove the jar and thunderstone carefully or DC 20 [Athletics](compendium/skills.md#Athletics) to reinforce the flagstone pressure sensor with an improvised wedge  
+- **Disable** DC 17 [Thievery](skills.md#Thievery) (trained) to remove the jar and thunderstone carefully or DC 20 [Athletics](skills.md#Athletics) to reinforce the flagstone pressure sensor with an improvised wedge  
 
 - **AC** 15, **Fort** +10, **Ref** +4
 - **Flagstone Hardness** 7, **Flagstone HP** 44 (BT 22)

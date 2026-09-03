@@ -10,15 +10,15 @@ tags:
 aliases: ["Dragon Pillar"]
 ---
 # Dragon Pillar *Hazard 6*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** +0 or [detect magic](compendium/spells/detect-magic.md)  
+- **Stealth** +0 or [detect magic](archive/srd/pf2e/compendium/spells/detect-magic.md)  
 
-A 10-foot-tall wooden pole topped by a wooden carving of [Dahak](compendium/setting/deities/dahak-logm.md)'s head. Each dragon pillar's head has been treated with something to give it a distinct color, as indicated in the specific encounter, but regardless of color, plumes of smoke waft up from the mouth.
+A 10-foot-tall wooden pole topped by a wooden carving of [Dahak](dahak-logm.md)'s head. Each dragon pillar's head has been treated with something to give it a distinct color, as indicated in the specific encounter, but regardless of color, plumes of smoke waft up from the mouth.
 
-- **Disable** [Athletics](compendium/skills.md#Athletics) DC 26 (expert) to push the pillar over, or [Thievery](compendium/skills.md#Thievery) DC 26 (expert) on the pillar to erase the magic runes that power it, or [dispel magic](compendium/spells/dispel-magic.md) (4th level; counteract DC 22) to dispel the pillar's magic.  
-- **Perception** +16 [darkvision](rules/abilities/darkvision.md) 60 feet  
+- **Disable** [Athletics](skills.md#Athletics) DC 26 (expert) to push the pillar over, or [Thievery](skills.md#Thievery) DC 26 (expert) on the pillar to erase the magic runes that power it, or [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (4th level; counteract DC 22) to dispel the pillar's magic.  
+- **Perception** +16 [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) 60 feet  
 
 ```ad-embed-ability
 title: **Recognize Ally** A dragon pillar can see through its empty eye sockets, and it can recognize Cinderclaws and their allies. A character disguised as a Cinderclaw can trick a dragon pillar into perceiving it as a Cinderclaw ally by using [Deception](compendium/skills.md#Deception) to [Impersonate](rules/actions/impersonate.md). A dragon pillar always uses [Perception](compendium/skills.md#Perception) for initiative.
@@ -26,7 +26,7 @@ title: **Recognize Ally** A dragon pillar can see through its empty eye sockets,
 
 - **AC** 24, **Fort** +17, **Ref** +8
 - **Hardness** 14, **HP** 56 (BT 28)
-- **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
+- **Immunities** critical hits; [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
 
 ```ad-embed-ability
 title: **Dragon Pillar Glance** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

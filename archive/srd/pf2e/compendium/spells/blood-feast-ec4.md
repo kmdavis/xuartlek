@@ -9,22 +9,22 @@ tags:
 aliases: ["Blood Feast"]
 ---
 # Blood Feast *Spell 5*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 
 Your head splits vertically into an enormous maw, which feasts upon the target's blood, dealing `12d6` piercing damage, depending on your spell attack roll. After the spell, your head sews back together as if it had never split apart. You gain temporary Hit Points for 1 minute equal to half the piercing damage the target takes.
 
-If you are a gug, increase the piercing damage by `2d6` and increase the [persistent bleed damage](rules/conditions.md#Persistent%20Damage) you deal on a critical hit by `1d8`. This spell doesn't alter a gug's appearance.
+If you are a gug, increase the piercing damage by `2d6` and increase the [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) you deal on a critical hit by `1d8`. This spell doesn't alter a gug's appearance.
 
 > [!success-degree] 
-> - **Critical Success** The creature takes double damage and `1d8` [persistent bleed damage](rules/conditions.md#Persistent%20Damage).
+> - **Critical Success** The creature takes double damage and `1d8` [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 > - **Success** The creature takes full damage.
 > - **Failure** You miss and the creature takes no damage.
 
-**Heightened (+ 1)** The piercing damage increases by `2d6`, and the [persistent bleed damage](rules/conditions.md#Persistent%20Damage) on a critical increases by 1.
+**Heightened (+ 1)** The piercing damage increases by `2d6`, and the [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) on a critical increases by 1.
 
 *Source: Extinction Curse #4: Siege of the Dinosaurs p. 74*

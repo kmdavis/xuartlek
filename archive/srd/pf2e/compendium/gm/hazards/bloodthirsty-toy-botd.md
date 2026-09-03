@@ -7,14 +7,14 @@ tags:
 aliases: ["Bloodthirsty Toy"]
 ---
 # Bloodthirsty Toy *Hazard 2*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 trained to hear a child imitate an animal's roar  
 
 A scruffy stuffed bear animates, biting whoever disturbs it.
 
-- **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to handle the toy without disturbing it or DC 21 [Occultism](compendium/skills.md#Occultism) (trained) to suppress the memories suffusing the toy  
+- **Disable** DC 20 [Thievery](skills.md#Thievery) (trained) to handle the toy without disturbing it or DC 21 [Occultism](skills.md#Occultism) (trained) to suppress the memories suffusing the toy  
 
 ```ad-embed-ability
 title: **Chomp** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

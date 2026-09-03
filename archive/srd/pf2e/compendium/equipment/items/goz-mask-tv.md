@@ -10,7 +10,7 @@ tags:
 aliases: ["Goz Mask"]
 ---
 # Goz Mask *Item 2+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** —; **Usage** worn mask
 
@@ -42,7 +42,7 @@ The effect lasts for 10 minutes.
 
 - **Price**: 1900 gp
 
-The mask gives you darkvision and allows you to ignore all concealment from any [environmental](rules/traits/environmental.md "Environmental Hazard Trait") effects for 1 hour.
+The mask gives you darkvision and allows you to ignore all concealment from any [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait") effects for 1 hour.
 
 ---
 *Source: Treasure Vault p. 154*

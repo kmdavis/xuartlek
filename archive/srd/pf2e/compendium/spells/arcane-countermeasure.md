@@ -10,16 +10,16 @@ tags:
 aliases: ["Arcane Countermeasure"]
 ---
 # Arcane Countermeasure *Focus 5*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: A creature within range that you can see Casts a Spell.
 - **Range**: 120 foot
 - **Targets**: the spell cast by the triggering creature
 
 You undermine the target spell, making it easier to defend against. You reduce the spell's level by 1, and targets of the spell gain a +2 status bonus to any saving throws, skill checks, AC, or DC against it.
 
-You can't reduce the spell's level below its minimum. For example, a 5th-level [cone of cold](compendium/spells/cone-of-cold.md) would remain 5th-level, but a 5th-level [fireball](compendium/spells/fireball.md) would become 4th-level. Targets still gain all the other benefits, even if you don't reduce the spell's level.
+You can't reduce the spell's level below its minimum. For example, a 5th-level [cone of cold](cone-of-cold.md) would remain 5th-level, but a 5th-level [fireball](archive/srd/pf2e/compendium/spells/fireball.md) would become 4th-level. Targets still gain all the other benefits, even if you don't reduce the spell's level.
 
 *Source: Core Rulebook p. 403*

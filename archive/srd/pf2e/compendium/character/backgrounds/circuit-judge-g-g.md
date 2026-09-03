@@ -15,4 +15,4 @@ You're a circuit judge, a courtroom on horseback who serves a group of communiti
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in [Deception](compendium/skills.md#Deception) and [Legal Lore](compendium/skills.md#Lore). You gain the [Lie to Me](compendium/feats/lie-to-me.md) skill feat.
+You're trained in [Deception](skills.md#Deception) and [Legal Lore](skills.md#Lore). You gain the [Lie to Me](archive/srd/pf2e/compendium/feats/lie-to-me.md) skill feat.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Mantle of the Grogrisant"]
 ---
 # Mantle of the Grogrisant *Item 18*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 22000 gp
 - **Bulk** L; **Usage** worn cloak

@@ -8,7 +8,7 @@ tags:
 aliases: ["Locked Doors"]
 ---
 # Locked Doors
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 28*  
 
 

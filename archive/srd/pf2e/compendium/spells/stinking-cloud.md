@@ -10,21 +10,21 @@ tags:
 aliases: ["Stinking Cloud"]
 ---
 # Stinking Cloud *Spell 3*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Area**: 20-foot burst
 - **Saving Throw**: Fortitude
 - **Duration**: 1 minute
 
-You create a cloud of putrid mist in the area. The cloud functions as [obscuring mist](compendium/spells/obscuring-mist.md) except it sickens creatures that end their turns within the cloud. (The [concealed](rules/conditions.md#Concealed) condition is not a [poison](rules/traits/poison.md "Poison Effect Trait") effect.)
+You create a cloud of putrid mist in the area. The cloud functions as [obscuring mist](obscuring-mist.md) except it sickens creatures that end their turns within the cloud. (The [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) condition is not a [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait") effect.)
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is [sickened](rules/conditions.md#Sickened).
-> - **Failure** The creature is [sickened](rules/conditions.md#Sickened) and [slowed](rules/conditions.md#Slowed) while in the cloud.
-> - **Critical Failure** The creature is [sickened](rules/conditions.md#Sickened) and [slowed](rules/conditions.md#Slowed) until it leaves the cloud.
+> - **Success** The creature is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Failure** The creature is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) and [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) while in the cloud.
+> - **Critical Failure** The creature is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) and [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) until it leaves the cloud.
 
 *Source: Core Rulebook p. 373*

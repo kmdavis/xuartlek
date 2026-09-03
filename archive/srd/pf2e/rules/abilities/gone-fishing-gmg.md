@@ -5,4 +5,4 @@ aliases: ["Gone Fishing"]
 ---
 # Gone Fishing
 
-The NPC can use [Fishing Lore](compendium/skills.md#Lore) to [Track](rules/actions/track.md) aquatic creatures or to [Aid](rules/actions/aid.md) checks to [Track](rules/actions/track.md) them.
+The NPC can use [Fishing Lore](skills.md#Lore) to [Track](archive/srd/pf2e/rules/actions/track.md) aquatic creatures or to [Aid](archive/srd/pf2e/rules/actions/aid.md) checks to [Track](archive/srd/pf2e/rules/actions/track.md) them.

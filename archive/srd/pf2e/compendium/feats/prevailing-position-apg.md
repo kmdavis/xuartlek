@@ -6,8 +6,8 @@ tags:
 - trait/monk
 aliases: ["Prevailing Position"]
 ---
-# Prevailing Position  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[monk](rules/traits/monk.md "Monk Class Trait")  
+# Prevailing Position  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: at least one stance feat
 - **Trigger** You are targeted by an attack or attempt a Reflex saving throw against a damaging effect, and you are in a stance.

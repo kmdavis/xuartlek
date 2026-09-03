@@ -15,4 +15,4 @@ Despite the setbacks Cheliax has suffered recently, your loyalties lie with the 
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Religion](compendium/skills.md#Religion) skill and the [Hell Lore](compendium/skills.md#Lore) skill You gain the [Student of the Canon](compendium/feats/student-of-the-canon.md) skill feat.
+You're trained in the [Religion](skills.md#Religion) skill and the [Hell Lore](skills.md#Lore) skill You gain the [Student of the Canon](archive/srd/pf2e/compendium/feats/student-of-the-canon.md) skill feat.

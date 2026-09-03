@@ -15,4 +15,4 @@ You grew up in an untamed region of the Isle of Kortos, and you know how to surv
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and a [Lore](compendium/skills.md#Lore) skill related to the terrain type associated with your home region (such as [Hills Lore](compendium/skills.md#Lore) or [Mountains Lore](compendium/skills.md#Lore)). You gain the [Survey Wildlife](compendium/feats/survey-wildlife.md) skill feat.
+You're trained in the [Survival](skills.md#Survival) skill and a [Lore](skills.md#Lore) skill related to the terrain type associated with your home region (such as [Hills Lore](skills.md#Lore) or [Mountains Lore](skills.md#Lore)). You gain the [Survey Wildlife](archive/srd/pf2e/compendium/feats/survey-wildlife.md) skill feat.

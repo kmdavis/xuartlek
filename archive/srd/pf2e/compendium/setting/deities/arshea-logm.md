@@ -20,8 +20,8 @@ aliases: ["Arshea", "Spirit of Abandon"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [flail](compendium/equipment/items/flail.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [freedom](compendium/setting/domains.md#Freedom), [passion](compendium/setting/domains.md#Passion), [perfection](compendium/setting/domains.md#Perfection)
-- **Cleric Spells**: 1st: [mage armor](compendium/spells/mage-armor.md); 2nd: [humanoid form](compendium/spells/humanoid-form.md); 5th: [dreaming potential](compendium/spells/dreaming-potential.md)
+- **Favored Weapon**: [flail](archive/srd/pf2e/compendium/equipment/items/flail.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection)
+- **Cleric Spells**: 1st: [mage armor](mage-armor.md); 2nd: [humanoid form](archive/srd/pf2e/compendium/spells/humanoid-form.md); 5th: [dreaming potential](archive/srd/pf2e/compendium/spells/dreaming-potential.md)

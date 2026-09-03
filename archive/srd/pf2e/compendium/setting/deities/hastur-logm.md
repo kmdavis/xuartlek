@@ -20,8 +20,8 @@ aliases: ["Hastur", "The King in Yellow"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Deception
-- **Favored Weapon**: [rapier](compendium/equipment/items/rapier.md)
-- **Domains**: [glyph](compendium/setting/domains.md#Glyph), [secrecy](compendium/setting/domains.md#Secrecy), [void](compendium/setting/domains.md#Void), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [illusory disguise](compendium/spells/illusory-disguise.md); 4th: [confusion](compendium/spells/confusion.md); 5th: [hallucination](compendium/spells/hallucination.md)
+- **Favored Weapon**: [rapier](archive/srd/pf2e/compendium/equipment/items/rapier.md)
+- **Domains**: [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy), [void](archive/srd/pf2e/compendium/setting/domains.md#Void), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [illusory disguise](archive/srd/pf2e/compendium/spells/illusory-disguise.md); 4th: [confusion](archive/srd/pf2e/compendium/spells/confusion.md); 5th: [hallucination](archive/srd/pf2e/compendium/spells/hallucination.md)

@@ -10,10 +10,10 @@ tags:
 aliases: ["Word Of Truth"]
 ---
 # Word Of Truth *Focus 1*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [divination](divination.md "Divination School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [truth](compendium/setting/domains.md#Truth)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Domains** [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - 
 - **Duration**: sustained up to 1 minute
 

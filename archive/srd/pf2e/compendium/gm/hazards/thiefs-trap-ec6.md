@@ -8,14 +8,14 @@ tags:
 aliases: ["Thief's Trap"]
 ---
 # Thief's Trap *Hazard 20*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 50 master to notice that the hairline cracks on the passage walls actually form runes.  
 
 Nearly imperceptible runes set off an explosion at the point a thief is most unable to receive aid.
 
-- **Disable** DC 45 [Thievery](compendium/skills.md#Thievery) (master) or dispel magic (10th level, counteract DC 50) to counteract the runes.  
+- **Disable** DC 45 [Thievery](skills.md#Thievery) (master) or dispel magic (10th level, counteract DC 50) to counteract the runes.  
 
 ```ad-embed-ability
 title: **Explosion** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

@@ -9,8 +9,8 @@ tags:
 - trait/metamagic
 aliases: ["Harmonize"]
 ---
-# Harmonize  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[bard](rules/traits/bard.md "Bard Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
+# Harmonize  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [metamagic](metamagic.md "Metamagic General Trait")  
 
 - **Prerequisites**: Maestro muse
 - **Activity** Single Action
@@ -19,7 +19,7 @@ You can perform multiple compositions simultaneously. If your next action is to 
 
 ## Harmonize leads to...
 
-[Symphony Of The Muse](compendium/feats/symphony-of-the-muse.md)
+[Symphony Of The Muse](archive/srd/pf2e/compendium/feats/symphony-of-the-muse.md)
 
 ## Summary
 

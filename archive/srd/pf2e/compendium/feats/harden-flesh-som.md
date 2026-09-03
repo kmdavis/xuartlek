@@ -7,8 +7,8 @@ tags:
 - trait/earth
 aliases: ["Harden Flesh"]
 ---
-# Harden Flesh  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[druid](rules/traits/druid.md "Druid Class Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  
+# Harden Flesh  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  
 
 - **Prerequisites**: stone order
 - **Requirements**: You're standing on earthen or stone ground.

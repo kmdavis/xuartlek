@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Witchcraft"]
 ---
 # Advanced Witchcraft  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Witchcraft](compendium/feats/basic-witchcraft-apg.md)
+- **Prerequisites**: [Basic Witchcraft](basic-witchcraft-apg.md)
 
 You gain one witch feat. For the purpose of meeting its prerequisites, your witch level is equal to half your character level.
 

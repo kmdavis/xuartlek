@@ -20,8 +20,8 @@ aliases: ["Lao Shu Po", "Old Rat Woman"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Thievery
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [darkness](compendium/setting/domains.md#Darkness), [luck](compendium/setting/domains.md#Luck), [swarm](compendium/setting/domains.md#Swarm), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: summon animal (rodents only); 2nd: [knock](compendium/spells/knock.md); 3rd: [nondetection](compendium/spells/nondetection.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [luck](archive/srd/pf2e/compendium/setting/domains.md#Luck), [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: summon animal (rodents only); 2nd: [knock](archive/srd/pf2e/compendium/spells/knock.md); 3rd: [nondetection](nondetection.md)

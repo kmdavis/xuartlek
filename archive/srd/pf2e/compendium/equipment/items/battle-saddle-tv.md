@@ -10,7 +10,7 @@ tags:
 aliases: ["Battle Saddle"]
 ---
 # Battle Saddle *Item 0*  
-[parry](rules/traits/parry.md "Parry Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [vehicular](rules/traits/vehicular-tv.md "Vehicular Weapon Trait")  
+[parry](archive/srd/pf2e/rules/traits/parry.md "Parry Weapon Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [vehicular](vehicular-tv.md "Vehicular Weapon Trait")  
 
 - **Price** 6 gp
 - **Bulk** 2

@@ -11,14 +11,14 @@ tags:
 aliases: ["Binding Coil"]
 ---
 # Binding Coil *Item 6+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Usage** affixed to a weapon
-- **Activate** envision; **Trigger** Your [Strike](rules/actions/strike.md) with the affixed weapon damages a creature; **Requirements** You're an expert in [Athletics](compendium/skills.md#Athletics).
+- **Activate** envision; **Trigger** Your [Strike](archive/srd/pf2e/rules/actions/strike.md) with the affixed weapon damages a creature; **Requirements** You're an expert in [Athletics](skills.md#Athletics).
 
-This talisman, a bright red coil that's warm to the touch and faintly resembles a serpent, wraps entirely around your weapon. When you activate this talisman's effect, attempt to [Grapple](rules/actions/grapple.md) the creature you hit. On a success, rather than the normal [Grapple](rules/traits/grapple.md "Grapple Weapon Trait") effects, the coil instead wraps itself around the target with one end remaining attached to your weapon.
+This talisman, a bright red coil that's warm to the touch and faintly resembles a serpent, wraps entirely around your weapon. When you activate this talisman's effect, attempt to [Grapple](archive/srd/pf2e/rules/actions/grapple.md) the creature you hit. On a success, rather than the normal [Grapple](archive/srd/pf2e/rules/traits/grapple.md "Grapple Weapon Trait") effects, the coil instead wraps itself around the target with one end remaining attached to your weapon.
 
-Your opponent must succeed at a DC 20 [Escape](rules/actions/escape.md) check to break free. The coil breaks if you move any further away from the bound opponent, but not if you move any closer.
+Your opponent must succeed at a DC 20 [Escape](archive/srd/pf2e/rules/actions/escape.md) check to break free. The coil breaks if you move any further away from the bound opponent, but not if you move any closer.
 
 ---
 

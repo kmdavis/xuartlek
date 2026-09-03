@@ -10,7 +10,7 @@ tags:
 aliases: ["Spellshot Dedication"]
 ---
 # Spellshot Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [class](class-som.md "Class Class Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: way of the spellshot
 
@@ -27,11 +27,11 @@ title: **Conjure Bullet** [>](rules/core-rulebook/chapter-9-playing-the-game.md#
 %%
 ```
 
-**Special.** You can't select another dedication feat other than Beast Gunner Dedication until you've gained two other feats from the [spellshot](compendium/character/archetypes/spellshot-g-g.md) or [beast gunner](compendium/character/archetypes/beast-gunner-g-g.md) archetypes.
+**Special.** You can't select another dedication feat other than Beast Gunner Dedication until you've gained two other feats from the [spellshot](archive/srd/pf2e/compendium/character/archetypes/spellshot-g-g.md) or [beast gunner](beast-gunner-g-g.md) archetypes.
 
 ## Spellshot Dedication leads to...
 
-[Black Powder Embodiment](compendium/feats/black-powder-embodiment-g-g.md), [Call Gun](compendium/feats/call-gun-g-g.md), [Fulminating Shot](compendium/feats/fulminating-shot-g-g.md), [Phase Bullet](compendium/feats/phase-bullet-g-g.md)
+[Black Powder Embodiment](black-powder-embodiment-g-g.md), [Call Gun](call-gun-g-g.md), [Fulminating Shot](fulminating-shot-g-g.md), [Phase Bullet](phase-bullet-g-g.md)
 
 ## Summary
 

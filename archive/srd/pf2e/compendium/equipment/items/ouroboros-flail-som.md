@@ -9,11 +9,11 @@ tags:
 aliases: ["Ouroboros Flail"]
 ---
 # Ouroboros Flail *Item 14+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** 2; **Usage** held in 2 hands
 
-You can easily expand and contract the chain of this +2 greater striking [extending](compendium/equipment/items/extending-som.md) [war flail](compendium/equipment/items/war-flail.md).
+You can easily expand and contract the chain of this +2 greater striking [extending](extending-som.md) [war flail](archive/srd/pf2e/compendium/equipment/items/war-flail.md).
 
 It magically grows new links when extended and loses them when contracted.
 

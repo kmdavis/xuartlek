@@ -17,4 +17,4 @@ There are trees everywhere, and your study of them will inevitably take you ever
 
 Choose two attribute boosts. One must be to Intelligence or Wisdom, and one is a free attribute boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and the Plane of [Wood Lore](compendium/skills.md#Lore) skill. You gain the [Terrain Expertise](compendium/feats/terrain-expertise.md) skill feat for forests.
+You're trained in the [Survival](skills.md#Survival) skill and the Plane of [Wood Lore](skills.md#Lore) skill. You gain the [Terrain Expertise](archive/srd/pf2e/compendium/feats/terrain-expertise.md) skill feat for forests.

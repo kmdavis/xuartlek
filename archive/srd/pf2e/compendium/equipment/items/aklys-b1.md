@@ -12,7 +12,7 @@ tags:
 aliases: ["Aklys"]
 ---
 # Aklys *Item 0*  
-[ranged trip](rules/traits/ranged-trip-b1.md "Ranged Trip Weapon Trait")  [tethered](rules/traits/tethered-b1.md "Tethered Weapon Trait")  [thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[ranged trip](ranged-trip-b1.md "Ranged Trip Weapon Trait")  [tethered](tethered-b1.md "Tethered Weapon Trait")  [thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** 1

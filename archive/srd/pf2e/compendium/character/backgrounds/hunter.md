@@ -15,4 +15,4 @@ You stalked and took down animals and other creatures of the wild. Skinning anim
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and the [Tanning Lore](compendium/skills.md#Lore) skill. You gain the [Survey Wildlife](compendium/feats/survey-wildlife.md) skill feat.
+You're trained in the [Survival](skills.md#Survival) skill and the [Tanning Lore](skills.md#Lore) skill. You gain the [Survey Wildlife](archive/srd/pf2e/compendium/feats/survey-wildlife.md) skill feat.

@@ -6,13 +6,13 @@ tags:
 - trait/rogue
 aliases: ["Plant Evidence"]
 ---
-# Plant Evidence  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[rogue](rules/traits/rogue.md "Rogue Class Trait")  
+# Plant Evidence  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
-- **Prerequisites**: [Pickpocket](compendium/feats/pickpocket.md)
+- **Prerequisites**: [Pickpocket](archive/srd/pf2e/compendium/feats/pickpocket.md)
 - **Activity** Single Action
 
-You can put a single item you're holding of light or negligible Bulk onto a person without them noticing by succeeding at a [Thievery](compendium/skills.md#Thievery) check against their [Perception](compendium/skills.md#Perception) DC. If you have the ruffian racket, you can do this as a free action when you successfully [Shove](rules/actions/shove.md) a target.
+You can put a single item you're holding of light or negligible Bulk onto a person without them noticing by succeeding at a [Thievery](skills.md#Thievery) check against their [Perception](skills.md#Perception) DC. If you have the ruffian racket, you can do this as a free action when you successfully [Shove](archive/srd/pf2e/rules/actions/shove.md) a target.
 
 *Source: Advanced Player's Guide p. 134*  
 %% #compendium/src/pf2e/apg #trait/rogue %%

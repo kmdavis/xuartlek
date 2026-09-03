@@ -9,21 +9,21 @@ tags:
 aliases: ["Tempest Of Shades"]
 ---
 # Tempest Of Shades *Spell 7*   
-[incarnate](rules/traits/incarnate-som.md "Incarnate Spell Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[incarnate](incarnate-som.md "Incarnate Spell Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 100 foot
 - **Duration**: until the end of your next turn
 
 You channel the forces of undeath to briefly call forth an amalgam of the vengeful dead slain by your enemies and allies alike. This amalgam manifests as a large tornado of insubstantial, howling faces. It occupies the space of a Huge creature and has a Speed of 60 feet.
 
-**Arrive** ([negative](rules/traits/negative.md "Negative Energy & Element Trait")) Vortex of Death Each enemy creature within a 60-foot emanation must attempt a Fortitude save with the following effects.
+**Arrive** ([negative](negative.md "Negative Energy & Element Trait")) Vortex of Death Each enemy creature within a 60-foot emanation must attempt a Fortitude save with the following effects.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is [frightened](rules/conditions.md#Frightened).
-> - **Failure** The creature is [frightened](rules/conditions.md#Frightened).
-> - **Critical Failure** The creature is [frightened](rules/conditions.md#Frightened). It's also [fleeing](rules/conditions.md#Fleeing) for 1 round or until it's no longer [frightened](rules/conditions.md#Frightened), whichever comes first.
+> - **Success** The creature is [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
+> - **Failure** The creature is [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
+> - **Critical Failure** The creature is [frightened](archive/srd/pf2e/rules/conditions.md#Frightened). It's also [fleeing](archive/srd/pf2e/rules/conditions.md#Fleeing) for 1 round or until it's no longer [frightened](archive/srd/pf2e/rules/conditions.md#Frightened), whichever comes first.
 
 *Source: Secrets of Magic p. 135*

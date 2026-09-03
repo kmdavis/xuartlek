@@ -6,16 +6,16 @@ tags:
 - trait/fighter
 aliases: ["Sudden Leap (Fighter)"]
 ---
-# Sudden Leap (Fighter)  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  
+# Sudden Leap (Fighter)  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Activity** Two-Action
 
-You make an impressive leap and swing while you soar. Make a [Leap](rules/actions/leap.md), [High Jump](rules/actions/high-jump.md), or [Long Jump](rules/actions/long-jump.md) and attempt one melee [Strike](rules/actions/strike.md) at any point during your jump. Immediately after the [Strike](rules/actions/strike.md), you fall to the ground if you're in the air, even if you haven't reached the maximum distance of your jump. If the distance you fall is no more than the height of your jump, you take no damage and land upright.
+You make an impressive leap and swing while you soar. Make a [Leap](archive/srd/pf2e/rules/actions/leap.md), [High Jump](archive/srd/pf2e/rules/actions/high-jump.md), or [Long Jump](archive/srd/pf2e/rules/actions/long-jump.md) and attempt one melee [Strike](archive/srd/pf2e/rules/actions/strike.md) at any point during your jump. Immediately after the [Strike](archive/srd/pf2e/rules/actions/strike.md), you fall to the ground if you're in the air, even if you haven't reached the maximum distance of your jump. If the distance you fall is no more than the height of your jump, you take no damage and land upright.
 
-When attempting a [High Jump](rules/actions/high-jump.md) or [Long Jump](rules/actions/long-jump.md) during a Sudden Leap, determine the DC using the [Long Jump](rules/actions/long-jump.md) DCs, and increase your maximum distance to double your Speed.
+When attempting a [High Jump](archive/srd/pf2e/rules/actions/high-jump.md) or [Long Jump](archive/srd/pf2e/rules/actions/long-jump.md) during a Sudden Leap, determine the DC using the [Long Jump](archive/srd/pf2e/rules/actions/long-jump.md) DCs, and increase your maximum distance to double your Speed.
 
-**Special.** If you have [Felling Strike](compendium/feats/felling-strike.md), you can spend 3 actions to make a Sudden Leap and use [Felling Strike](compendium/feats/felling-strike.md) instead of a normal [Strike](rules/actions/strike.md).
+**Special.** If you have [Felling Strike](archive/srd/pf2e/compendium/feats/felling-strike.md), you can spend 3 actions to make a Sudden Leap and use [Felling Strike](archive/srd/pf2e/compendium/feats/felling-strike.md) instead of a normal [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 *Source: Core Rulebook p. 149*  
 %% #compendium/src/pf2e/crb #trait/fighter %%

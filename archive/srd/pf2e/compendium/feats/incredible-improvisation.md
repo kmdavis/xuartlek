@@ -6,10 +6,10 @@ tags:
 - trait/human
 aliases: ["Incredible Improvisation"]
 ---
-# Incredible Improvisation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 9*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
+# Incredible Improvisation  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 9*  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Clever Improviser](compendium/feats/clever-improviser.md)
+- **Prerequisites**: [Clever Improviser](archive/srd/pf2e/compendium/feats/clever-improviser.md)
 - **Frequency**: once per day
 - **Trigger** You attempt a check using a skill you're untrained in.
 - **Activity** Free Action

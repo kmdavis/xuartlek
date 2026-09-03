@@ -12,12 +12,12 @@ tags:
 aliases: ["Silhouette Cloak"]
 ---
 # Silhouette Cloak *Item 20*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  worn  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  worn  
 
 - **Price** 70000 gp
 - **Usage** worn cloak
 
-In bright light, this dark cloak shimmers with patches of color that shift and move even when the cloth is still. In dim light or darkness, the cloak seems to blend into your surroundings and grants you a +3 item bonus to [Stealth](compendium/skills.md#Stealth) checks.
+In bright light, this dark cloak shimmers with patches of color that shift and move even when the cloth is still. In dim light or darkness, the cloak seems to blend into your surroundings and grants you a +3 item bonus to [Stealth](skills.md#Stealth) checks.
 
 ```ad-embed-ability
 title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([Interact](rules/actions/interact.md)) (1 minute)

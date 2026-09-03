@@ -11,14 +11,14 @@ tags:
 aliases: ["Crystal Pin"]
 ---
 # Crystal Pin *Hazard 20*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](kaiju-frp2.md "Kaiju  Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 10  
 
 Ebeshra fires a crystal at a creature to pin them onto the Material Plane.
 
-- **Disable** DC 48 [Occultism](compendium/skills.md#Occultism) (legendary) or [Religion](compendium/skills.md#Religion) (legendary) to earn Ebeshra's favor and allow safe travel or DC 51 [Deception](compendium/skills.md#Deception) (master) to momentarily divert Ebeshra's attention  
+- **Disable** DC 48 [Occultism](skills.md#Occultism) (legendary) or [Religion](skills.md#Religion) (legendary) to earn Ebeshra's favor and allow safe travel or DC 51 [Deception](skills.md#Deception) (master) to momentarily divert Ebeshra's attention  
 
 ```ad-embed-ability
 title: **Fire Pin** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

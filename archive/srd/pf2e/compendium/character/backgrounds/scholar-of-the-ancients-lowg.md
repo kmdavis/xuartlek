@@ -15,4 +15,4 @@ You're fascinated by the lost Azlanti Empire and have dedicated yourself to seek
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Arcana](compendium/skills.md#Arcana) skill and the [Azlant Lore](compendium/skills.md#Lore) skills. You gain the [Quick Identification](compendium/feats/quick-identification.md) skill feat.
+You're trained in the [Arcana](skills.md#Arcana) skill and the [Azlant Lore](skills.md#Lore) skills. You gain the [Quick Identification](archive/srd/pf2e/compendium/feats/quick-identification.md) skill feat.

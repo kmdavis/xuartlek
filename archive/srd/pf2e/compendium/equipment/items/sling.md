@@ -8,12 +8,12 @@ tags:
 aliases: ["Sling"]
 ---
 # Sling *Item 0*  
-[propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  
+[propulsive](archive/srd/pf2e/rules/traits/propulsive.md "Propulsive Weapon Trait")  
 
 - **Price** 0 gp
 - **Bulk** L
   - **Damage**: `1d6` B
-  - **Ammunution** [Sling Bullets](compendium/equipment/items/sling-bullets.md); **Range** 50 ft.; **Reload** 1
+  - **Ammunution** [Sling Bullets](archive/srd/pf2e/compendium/equipment/items/sling-bullets.md); **Range** 50 ft.; **Reload** 1
 - **Hands** 1
 - **Category** Simple; **Group** Sling 
 

@@ -7,11 +7,11 @@ tags:
 aliases: ["Enlarge Companion"]
 ---
 # Enlarge Companion  *Feat 8*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
 - **Prerequisites**: an animal companion, warden spells
 
-You make your companion enormous. You gain the [enlarge companion](compendium/spells/enlarge-companion-apg.md) warden spell. Increase the number of Focus Points in your focus pool by 1.
+You make your companion enormous. You gain the [enlarge companion](archive/srd/pf2e/compendium/spells/enlarge-companion-apg.md) warden spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Advanced Player's Guide p. 132*  
 %% #compendium/src/pf2e/apg #trait/ranger %%

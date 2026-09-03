@@ -8,14 +8,14 @@ tags:
 aliases: ["Ice Fall Trap"]
 ---
 # Ice Fall Trap *Hazard 4*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained  
 
 Compartments in the ceiling are rigged to drop a freezing alchemical liquid into the entire room if the door is opened without using the key.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 20 (trained) on the door allows it to be opened without springing the trap.  
+- **Disable** [Thievery](skills.md#Thievery) DC 20 (trained) on the door allows it to be opened without springing the trap.  
 
 - **AC** 20, **Fort** +11, **Ref** +7
 - **Hardness** 8, **HP** 44 (BT 22)

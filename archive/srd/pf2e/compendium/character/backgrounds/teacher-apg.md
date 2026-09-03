@@ -16,4 +16,4 @@ You are incredibly knowledgeable, skilled, and perhaps even trained to teach chi
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of the [Performance](compendium/skills.md#Performance) or [Society](compendium/skills.md#Society) skills, along with the [Academia Lore](compendium/skills.md#Lore) skill. You gain the [Experienced Professional](compendium/feats/experienced-professional.md) skill feat.
+You're trained in your choice of the [Performance](skills.md#Performance) or [Society](skills.md#Society) skills, along with the [Academia Lore](skills.md#Lore) skill. You gain the [Experienced Professional](archive/srd/pf2e/compendium/feats/experienced-professional.md) skill feat.

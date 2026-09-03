@@ -9,11 +9,11 @@ tags:
 aliases: ["Cantrip Deck"]
 ---
 # Cantrip Deck *Item 1*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** held in 1 hand
 
-In an effort to spread the knowledge of magic as widely as possible, worshippers of [Nethys](compendium/setting/deities/nethys.md) discovered a way to bind cantrips into cards accessible even to non-spellcasters.
+In an effort to spread the knowledge of magic as widely as possible, worshippers of [Nethys](nethys.md) discovered a way to bind cantrips into cards accessible even to non-spellcasters.
 
 The deck contains thick parchment cards, each roughly half the size of a playing card. In precise, no-nonsense script, each card simply states the name of its cantrip, color-coded based on its school.
 
@@ -32,7 +32,7 @@ You envision your desired cantrip, causing its card to rise to the top of the de
 
 - **Price**: 5 gp
 
-This pack contains 5 cards of a single common cantrip (such as [light](compendium/spells/light.md)).
+This pack contains 5 cards of a single common cantrip (such as [light](archive/srd/pf2e/compendium/spells/light.md)).
 
 #### full pack *Item 1*
 

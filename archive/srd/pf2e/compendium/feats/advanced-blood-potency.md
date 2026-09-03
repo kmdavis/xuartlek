@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Blood Potency"]
 ---
 # Advanced Blood Potency  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Blood Potency](compendium/feats/basic-blood-potency.md)
+- **Prerequisites**: [Basic Blood Potency](archive/srd/pf2e/compendium/feats/basic-blood-potency.md)
 
 You gain one sorcerer feat. For the purpose of prerequisites, your sorcerer level is half your character level.
 

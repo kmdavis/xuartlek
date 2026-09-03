@@ -8,11 +8,11 @@ aliases: ["Scythe Blades"]
 # Scythe Blades *Hazard 4*  
 
 - **Complexity** Simple
-- **Stealth** DC 23 [Perception](compendium/skills.md#Perception) check  
+- **Stealth** DC 23 [Perception](skills.md#Perception) check  
 
 Two blades, each hidden in a 15-foot-long ceiling groove, are both connected to a trip wire.
 
-- **Disable** DC 21 [Thievery](compendium/skills.md#Thievery) to disable each blade  
+- **Disable** DC 21 [Thievery](skills.md#Thievery) to disable each blade  
 
 - **AC** 21, **Fort** +12, **Ref** +8
 - **Hardness** 11, **HP** 44 (BT 22)

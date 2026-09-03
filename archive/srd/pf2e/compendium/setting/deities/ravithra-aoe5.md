@@ -26,12 +26,12 @@ aliases: ["Ravithra", "The Mother of Nagas", "The Chalice-Bearer"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: jaws or [light mace](compendium/equipment/items/light-mace.md)
-- **Domains**: [fate](compendium/setting/domains.md#Fate), [naga](compendium/setting/domains.md#Naga), [sorrow](compendium/setting/domains.md#Sorrow), [truth](compendium/setting/domains.md#Truth)
-- **Alternate Domains**: [ambition](compendium/setting/domains.md#Ambition), [soul](compendium/setting/domains.md#Soul)
-- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 2nd: animal form (snake only); 4th: [clairvoyance](compendium/spells/clairvoyance.md)
+- **Favored Weapon**: jaws or [light mace](archive/srd/pf2e/compendium/equipment/items/light-mace.md)
+- **Domains**: [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [naga](archive/srd/pf2e/compendium/setting/domains.md#Naga), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Alternate Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [soul](archive/srd/pf2e/compendium/setting/domains.md#Soul)
+- **Cleric Spells**: 1st: [charm](archive/srd/pf2e/compendium/spells/charm.md); 2nd: animal form (snake only); 4th: [clairvoyance](archive/srd/pf2e/compendium/spells/clairvoyance.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Ravithra

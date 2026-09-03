@@ -13,7 +13,7 @@ aliases: ["Diving Suit"]
 
 Diving suits are bulky, waterproofed leather outfits with copper helmets, worn by divers and underwater salvagers.
 
-The suit grants a +1 item bonus to [Swim](rules/actions/swim.md) checks made underwater, and the helmet features tubes for connecting [bottled air](compendium/equipment/items/bottled-air.md). When connected to a diving suit, bottled air doesn't need to be held and can be used to breathe as a free action. If you wear armor over a diving suit, you become [clumsy](rules/conditions.md#Clumsy) until you remove the diving suit.
+The suit grants a +1 item bonus to [Swim](archive/srd/pf2e/rules/actions/swim.md) checks made underwater, and the helmet features tubes for connecting [bottled air](archive/srd/pf2e/compendium/equipment/items/bottled-air.md). When connected to a diving suit, bottled air doesn't need to be held and can be used to breathe as a free action. If you wear armor over a diving suit, you become [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) until you remove the diving suit.
 
 
 ---

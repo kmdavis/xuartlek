@@ -11,12 +11,12 @@ tags:
 aliases: ["Anklets of Alacrity"]
 ---
 # Anklets of Alacrity *Item 17*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 15000 gp
 - **Bulk** —; **Usage** worn anklets
 
-These gem-studded golden anklets give you a +3 item bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks. When you invest the anklets, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score.
+These gem-studded golden anklets give you a +3 item bonus to [Acrobatics](skills.md#Acrobatics) checks. When you invest the anklets, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

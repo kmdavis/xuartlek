@@ -8,7 +8,7 @@ tags:
 aliases: ["Darkwood Shield"]
 ---
 # Darkwood Shield *Item 8+*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** varies by shield
 

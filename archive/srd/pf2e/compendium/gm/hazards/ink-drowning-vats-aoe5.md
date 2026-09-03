@@ -9,14 +9,14 @@ tags:
 aliases: ["Ink Drowning Vats"]
 ---
 # Ink Drowning Vats *Hazard 18*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +36 master  
 
 Steel hatch doors automatically lock shut in each of the four vats labeled J2. Four ink spouts (one per vat) jut through a narrow aperture in the ceiling of each vat, 20 feet above.
 
-- **Disable** DC 40 [Thievery](compendium/skills.md#Thievery) (master) to seal an ink spout, DC 48 [Thievery](compendium/skills.md#Thievery) (master) to unlock a steel hatch door, or DC 45 [Athletics](compendium/skills.md#Athletics) (master) to [Force Open](rules/actions/force-open.md) a steel hatch door.  
+- **Disable** DC 40 [Thievery](skills.md#Thievery) (master) to seal an ink spout, DC 48 [Thievery](skills.md#Thievery) (master) to unlock a steel hatch door, or DC 45 [Athletics](skills.md#Athletics) (master) to [Force Open](archive/srd/pf2e/rules/actions/force-open.md) a steel hatch door.  
 
 - **AC** 39, **Fort** +30, **Ref** +27
 - **Door Hardness** 22, **Door HP** 112 (BT 56)

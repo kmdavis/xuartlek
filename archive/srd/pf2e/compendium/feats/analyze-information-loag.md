@@ -7,10 +7,10 @@ tags:
 aliases: ["Analyze Information"]
 ---
 # Analyze Information  *Feat 9*  
-[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
+[aphorite](aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 
-You can stoke your mind into a burst of analytical prowess. You can cast 3rd-level [hypercognition](compendium/spells/hypercognition.md) once per day as a divine innate spell.
+You can stoke your mind into a burst of analytical prowess. You can cast 3rd-level [hypercognition](archive/srd/pf2e/compendium/spells/hypercognition.md) once per day as a divine innate spell.
 
 *Source: Lost Omens: Ancestry Guide p. 78*  
 %% #compendium/src/pf2e/loag #trait/aphorite %%

@@ -10,7 +10,7 @@ tags:
 aliases: ["Ghostcaller's Planchette"]
 ---
 # Ghostcaller's Planchette *Item 12+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Bulk** —; **Usage** affixed to armor or a weapon
 

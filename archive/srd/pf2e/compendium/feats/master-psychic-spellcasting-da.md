@@ -7,9 +7,9 @@ tags:
 aliases: ["Master Psychic Spellcasting"]
 ---
 # Master Psychic Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Expert Psychic Spellcasting](compendium/feats/expert-psychic-spellcasting-da.md), legendary in [Occultism](compendium/skills.md#Occultism)
+- **Prerequisites**: [Expert Psychic Spellcasting](expert-psychic-spellcasting-da.md), legendary in [Occultism](skills.md#Occultism)
 
 You gain the master spellcasting benefits.
 

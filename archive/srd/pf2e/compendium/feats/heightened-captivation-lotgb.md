@@ -8,9 +8,9 @@ tags:
 aliases: ["Heightened Captivation"]
 ---
 # Heightened Captivation  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](metamagic.md "Metamagic General Trait")  
 
-- **Prerequisites**: [Captivator Dedication](compendium/feats/captivator-dedication-lotgb.md)
+- **Prerequisites**: [Captivator Dedication](captivator-dedication-lotgb.md)
 
 You can infuse your enchantments and illusions with more power. Choose one of your spells granted by captivator archetype feats; this spell can't be from your highest level of non-cantrip captivator spells. The spell you choose is heightened to the highest level of captivator spell you can cast, not including cantrips. You can't later change the spell that is heightened by this feat.
 

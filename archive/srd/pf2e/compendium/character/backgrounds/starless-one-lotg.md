@@ -15,7 +15,7 @@ You were born on a night when not a single star was in the night sky. While this
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in [Occultism](compendium/skills.md#Occultism) and [Astrology Lore](compendium/skills.md#Lore). You also gain the Reclaim Destiny action.
+You're trained in [Occultism](skills.md#Occultism) and [Astrology Lore](skills.md#Lore). You also gain the Reclaim Destiny action.
 
 ```ad-embed-ability
 title: **Reclaim Destiny** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([divination](rules/traits/divination.md), [occult](rules/traits/occult.md))

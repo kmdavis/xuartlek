@@ -8,14 +8,14 @@ tags:
 aliases: ["Iron Maiden Trap"]
 ---
 # Iron Maiden Trap *Hazard 8*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert  
 
-A pressure plate [hidden](rules/conditions.md#Hidden) on the floor before an iron maiden causes the torture device to snap shut and trap the triggering creature inside.
+A pressure plate [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) on the floor before an iron maiden causes the torture device to snap shut and trap the triggering creature inside.
 
-- **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) to disable the pressure plate.  
+- **Disable** DC 28 [Thievery](skills.md#Thievery) to disable the pressure plate.  
 
 - **AC** 25, **Fort** +0, **Ref** +0
 - 

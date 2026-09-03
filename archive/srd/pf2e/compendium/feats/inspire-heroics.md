@@ -7,11 +7,11 @@ tags:
 aliases: ["Inspire Heroics"]
 ---
 # Inspire Heroics  *Feat 8*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Maestro muse
 
-Your performances inspire even greater deeds in your allies. You learn the [inspire heroics](compendium/spells/inspire-heroics.md) metamagic focus spell. Increase the number of Focus Points in your focus pool by 1.
+Your performances inspire even greater deeds in your allies. You learn the [inspire heroics](archive/srd/pf2e/compendium/spells/inspire-heroics.md) metamagic focus spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Core Rulebook p. 102*  
 %% #compendium/src/pf2e/crb #trait/bard %%

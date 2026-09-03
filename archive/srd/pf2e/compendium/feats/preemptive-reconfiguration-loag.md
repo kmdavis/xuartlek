@@ -6,8 +6,8 @@ tags:
 - trait/aphorite
 aliases: ["Preemptive Reconfiguration"]
 ---
-# Preemptive Reconfiguration  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
+# Preemptive Reconfiguration  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
+[aphorite](aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You would take bludgeoning, piercing, or slashing damage.
@@ -15,7 +15,7 @@ aliases: ["Preemptive Reconfiguration"]
 
 Your body anticipates the blow. The impact area briefly reorganizes into a strengthened tissue lattice that blunts the attack. You gain resistance equal to your level to the triggering damage type, which applies against the triggering damage.
 
-If you have the [Crystalline Dust](compendium/feats/crystalline-dust-loag.md) feat, you can use Preemptive Reconfiguration without expending a usage of the reaction for the purpose of the feat's Frequency limit. Instead, the usage counts toward your number of [Crystalline Dust](compendium/feats/crystalline-dust-loag.md) uses per day, as if you had used that feat instead.
+If you have the [Crystalline Dust](crystalline-dust-loag.md) feat, you can use Preemptive Reconfiguration without expending a usage of the reaction for the purpose of the feat's Frequency limit. Instead, the usage counts toward your number of [Crystalline Dust](crystalline-dust-loag.md) uses per day, as if you had used that feat instead.
 
 *Source: Lost Omens: Ancestry Guide p. 78*  
 %% #compendium/src/pf2e/loag #trait/aphorite %%

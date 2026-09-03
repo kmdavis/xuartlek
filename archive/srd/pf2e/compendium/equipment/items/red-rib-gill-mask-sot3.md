@@ -10,14 +10,14 @@ tags:
 aliases: ["Red-Rib Gill Mask"]
 ---
 # Red-Rib Gill Mask *Item 2+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** L; **Usage** worn mask
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-This mask is made from the gills of the red-rib salamander, an amphibious creature unique to Terwa Lake. Once activated, the mask intensifies the odors of gaseous toxins, allowing you to automatically detect toxic fumes within 30 feet and their approximate source (making the source [undetected](rules/conditions.md#Undetected) instead of [unnoticed](rules/conditions.md#Unnoticed)). You can't wear other masks while you're wearing a red-rib gill mask.
+This mask is made from the gills of the red-rib salamander, an amphibious creature unique to Terwa Lake. Once activated, the mask intensifies the odors of gaseous toxins, allowing you to automatically detect toxic fumes within 30 feet and their approximate source (making the source [undetected](archive/srd/pf2e/rules/conditions.md#Undetected) instead of [unnoticed](archive/srd/pf2e/rules/conditions.md#Unnoticed)). You can't wear other masks while you're wearing a red-rib gill mask.
 
-After Activating the mask, you also gain the listed item bonus to Fortitude saves against [inhaled](rules/traits/inhaled.md "Inhaled Item Trait") effects; this bonus is increased against the deadly volcanic gas known around Terwa Lake as Dead Man's Breath, and possibly against other similar volcanic gases at the GM's discretion.
+After Activating the mask, you also gain the listed item bonus to Fortitude saves against [inhaled](archive/srd/pf2e/rules/traits/inhaled.md "Inhaled Item Trait") effects; this bonus is increased against the deadly volcanic gas known around Terwa Lake as Dead Man's Breath, and possibly against other similar volcanic gases at the GM's discretion.
 
 ---
 

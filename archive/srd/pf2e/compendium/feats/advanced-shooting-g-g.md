@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Shooting"]
 ---
 # Advanced Shooting  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Shooting](compendium/feats/basic-shooting-g-g.md)
+- **Prerequisites**: [Basic Shooting](basic-shooting-g-g.md)
 
 You gain one gunslinger feat. For the purpose of meeting its prerequisites, your gunslinger level is equal to half your level.
 

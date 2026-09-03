@@ -7,11 +7,11 @@ tags:
 aliases: ["Miracle Worker"]
 ---
 # Miracle Worker  *Feat 18*  
-[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
+[alchemist](archive/srd/pf2e/rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Frequency**: once every minute
 
-Your alchemical mastery can resuscitate the recently slain. You can administer a true elixir of life to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes [wounded](rules/conditions.md#Wounded).
+Your alchemical mastery can resuscitate the recently slain. You can administer a true elixir of life to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes [wounded](archive/srd/pf2e/rules/conditions.md#Wounded).
 
 *Source: Core Rulebook p. 81*  
 %% #compendium/src/pf2e/crb #trait/alchemist %%

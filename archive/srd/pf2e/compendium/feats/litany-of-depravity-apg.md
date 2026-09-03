@@ -8,11 +8,11 @@ tags:
 aliases: ["Litany Of Depravity"]
 ---
 # Litany Of Depravity  *Feat 14*  
-[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: tenets of evil
 
-You undercut your enemy's vain moralism, opening their heart to evil. You can cast the [litany of depravity](compendium/spells/litany-of-depravity-apg.md) focus spell. Increase the number of Focus Points in your focus pool by 1.
+You undercut your enemy's vain moralism, opening their heart to evil. You can cast the [litany of depravity](archive/srd/pf2e/compendium/spells/litany-of-depravity-apg.md) focus spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Advanced Player's Guide p. 121*  
 %% #compendium/src/pf2e/apg #trait/champion #trait/uncommon %%

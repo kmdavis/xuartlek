@@ -20,8 +20,8 @@ aliases: ["Zevgavizeb", "The Beast of Gluttondark"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [spiked gauntlet](compendium/equipment/items/spiked-gauntlet.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [might](compendium/setting/domains.md#Might), [nature](compendium/setting/domains.md#Nature), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
-- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 4th: [dinosaur form](compendium/spells/dinosaur-form.md); 8th: [earthquake](compendium/spells/earthquake.md)
+- **Favored Weapon**: [spiked gauntlet](archive/srd/pf2e/compendium/equipment/items/spiked-gauntlet.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [wyrmkin](archive/srd/pf2e/compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [magic fang](magic-fang.md); 4th: [dinosaur form](archive/srd/pf2e/compendium/spells/dinosaur-form.md); 8th: [earthquake](archive/srd/pf2e/compendium/spells/earthquake.md)

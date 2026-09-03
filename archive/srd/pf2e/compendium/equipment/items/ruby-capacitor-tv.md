@@ -11,10 +11,10 @@ tags:
 aliases: ["Ruby Capacitor"]
 ---
 # Ruby Capacitor *Item 10+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Bulk** —; **Usage** affixed to a magical staff
-- **Activate** [Interact](rules/actions/interact.md); **Requirements** You prepared the staff.
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md); **Requirements** You prepared the staff.
 
 This cluster of unworked ruby is bound to the top of a staff by silver wire. When activated, it adds one temporary charge to the staff. Any spells cast from the staff before the end of the turn expend these charges first. Any unused temporary charges are lost at the end of your turn.
 

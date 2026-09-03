@@ -8,8 +8,8 @@ tags:
 - trait/evocation
 aliases: ["Align Armament"]
 ---
-# Align Armament  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+# Align Armament  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  
 
 - **Prerequisites**: chaotic, evil, good, or lawful deity
 - **Frequency**: once per round
@@ -23,7 +23,7 @@ When you use this action, you touch a weapon. For 1 round, that weapon deals an 
 
 ## Align Armament leads to...
 
-[Extend Armament Alignment](compendium/feats/extend-armament-alignment.md)
+[Extend Armament Alignment](extend-armament-alignment.md)
 
 ## Summary
 

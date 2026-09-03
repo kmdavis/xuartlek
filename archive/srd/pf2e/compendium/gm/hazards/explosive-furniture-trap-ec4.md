@@ -8,14 +8,14 @@ tags:
 aliases: ["Explosive Furniture Trap"]
 ---
 # Explosive Furniture Trap *Hazard 12*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert  
 
 Wiring keeping the furniture together unravels, causing the spring-loaded pieces of furniture and wire to shoot outward.
 
-- **Disable** DC 34 [Thievery](compendium/skills.md#Thievery) (expert) to identify and harmlessly cut the taut wiring.  
+- **Disable** DC 34 [Thievery](skills.md#Thievery) (expert) to identify and harmlessly cut the taut wiring.  
 
 - **AC** 33, **Fort** +25, **Ref** +19
 - **Hardness** 21, **HP** 84 (BT 42)

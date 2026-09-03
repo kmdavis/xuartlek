@@ -10,7 +10,7 @@ tags:
 aliases: ["Ballista"]
 ---
 # Ballista *Item 5*  
-[large](rules/traits/large-b1.md "Large Size Trait")  [mounted](rules/traits/mounted-g-g.md "Mounted Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[large](large-b1.md "Large Size Trait")  [mounted](mounted-g-g.md "Mounted Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 320 gp
 - **Usage** mounted

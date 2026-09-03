@@ -7,14 +7,14 @@ tags:
 aliases: ["Blooming Jijioa"]
 ---
 # Blooming Jijioa *Hazard 5*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 26 expert  
 
-An [invisible](rules/conditions.md#Invisible) solar flare causes this patch of unassuming ground cover to suddenly bloom into a radioactive field.
+An [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) solar flare causes this patch of unassuming ground cover to suddenly bloom into a radioactive field.
 
-- **Disable** DC 22 [Survival](compendium/skills.md#Survival) (trained) to remove a 5-foot square of jijioa, or 5 points of fire damage to destroy an affected area  
+- **Disable** DC 22 [Survival](skills.md#Survival) (trained) to remove a 5-foot square of jijioa, or 5 points of fire damage to destroy an affected area  
 
 - **AC** 25, **Fort** +17, **Ref** +9
 - **HP** 52 (BT 26)

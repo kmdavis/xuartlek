@@ -15,4 +15,4 @@ In your youth, you earned coin running messages for persons of wealth and influe
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Lore](compendium/skills.md#Lore) skill for the city in which you were raised. You gain the [Glean Contents](compendium/feats/glean-contents-apg.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Lore](skills.md#Lore) skill for the city in which you were raised. You gain the [Glean Contents](glean-contents-apg.md) skill feat.

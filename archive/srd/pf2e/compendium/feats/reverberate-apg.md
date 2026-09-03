@@ -6,13 +6,13 @@ tags:
 - trait/bard
 aliases: ["Reverberate"]
 ---
-# Reverberate  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+# Reverberate  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 - **Trigger** You would take sonic damage from a spell.
 - **Activity** Reaction
 
-You can manipulate the acoustics around you to deflect sonic damage back at its source. Attempt a [Performance](compendium/skills.md#Performance) check against the spell DC of the creature that cast the triggering spell.
+You can manipulate the acoustics around you to deflect sonic damage back at its source. Attempt a [Performance](skills.md#Performance) check against the spell DC of the creature that cast the triggering spell.
 
 > [!success-degree] 
 > - **Critical Success** You reduce the triggering damage by an amount up to four times your level. The caster takes sonic damage equal to the amount of damage you reduced in this way.

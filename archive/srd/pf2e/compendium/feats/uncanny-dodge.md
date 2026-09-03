@@ -7,9 +7,9 @@ tags:
 aliases: ["Uncanny Dodge"]
 ---
 # Uncanny Dodge  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Rogue Dedication](compendium/feats/rogue-dedication.md)
+- **Prerequisites**: [Rogue Dedication](archive/srd/pf2e/compendium/feats/rogue-dedication.md)
 
 You gain the deny advantage class feature (page 181).
 

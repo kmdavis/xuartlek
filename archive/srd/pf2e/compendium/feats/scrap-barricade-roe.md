@@ -11,8 +11,8 @@ tags:
 - trait/primal
 aliases: ["Scrap Barricade"]
 ---
-# Scrap Barricade  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 6*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Scrap Barricade  [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 6*  
+[impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [metal](metal-roe.md "Metal Energy & Element Trait")  [overflow](overflow-roe.md "Overflow Action & Ability Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Three-Action
 

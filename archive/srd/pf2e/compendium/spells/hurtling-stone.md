@@ -12,10 +12,10 @@ tags:
 aliases: ["Hurtling Stone"]
 ---
 # Hurtling Stone *Focus 1*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [earth](compendium/setting/domains.md#Earth)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Domains** [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 60 foot
 - **Targets**: 1 creature
 

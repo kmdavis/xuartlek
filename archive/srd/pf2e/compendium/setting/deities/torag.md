@@ -24,12 +24,12 @@ aliases: ["Torag", "Father of Creation"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Crafting
-- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [earth](compendium/setting/domains.md#Earth), [family](compendium/setting/domains.md#Family), [protection](compendium/setting/domains.md#Protection)
-- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty)
-- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 3rd: [earthbind](compendium/spells/earthbind.md); 4th: [creation](compendium/spells/creation.md)
+- **Favored Weapon**: [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Alternate Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty)
+- **Cleric Spells**: 1st: [mindlink](archive/srd/pf2e/compendium/spells/mindlink.md); 3rd: [earthbind](archive/srd/pf2e/compendium/spells/earthbind.md); 4th: [creation](archive/srd/pf2e/compendium/spells/creation.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Torag
@@ -50,4 +50,4 @@ Torag makes his pleasure or displeasure known through unsubtle signs.
 
 - **Minor Curse**: Shoddy artisanship makes itself known. Whenever an item you're using takes damage, it is broken.
 - **Moderate Curse** You must prove your skills at a craft by providing your own equipment. You gain item bonuses only from items you make yourself.
-- **Major Curse**: You are forever cast out from your home. Members of your community have their attitudes towards you shift two steps worse, meaning those who used to be [helpful](rules/conditions.md#Helpful) are now [indifferent](rules/conditions.md#Indifferent), those who were [friendly](rules/conditions.md#Friendly) are now [unfriendly](rules/conditions.md#Unfriendly), and all others are now [hostile](rules/conditions.md#Hostile). This doesn't necessarily result in violence, but [hostile](rules/conditions.md#Hostile) community members generally seek your permanent exile.
+- **Major Curse**: You are forever cast out from your home. Members of your community have their attitudes towards you shift two steps worse, meaning those who used to be [helpful](archive/srd/pf2e/rules/conditions.md#Helpful) are now [indifferent](archive/srd/pf2e/rules/conditions.md#Indifferent), those who were [friendly](archive/srd/pf2e/rules/conditions.md#Friendly) are now [unfriendly](archive/srd/pf2e/rules/conditions.md#Unfriendly), and all others are now [hostile](archive/srd/pf2e/rules/conditions.md#Hostile). This doesn't necessarily result in violence, but [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) community members generally seek your permanent exile.

@@ -7,11 +7,11 @@ tags:
 aliases: ["Shore Step"]
 ---
 # Shore Step  *Feat 1*  
-[druid](rules/traits/druid.md "Druid Class Trait")  
+[druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: wave order
 
-The shallows and tide pools have always called to you and let you pass unhindered. You ignore difficult terrain resulting from shallow water. In addition, if you roll a success on an [Acrobatics](compendium/skills.md#Acrobatics) check to [Balance](rules/actions/balance.md) on a slippery or wet surface, or on an [Athletics](compendium/skills.md#Athletics) check to [Swim](rules/actions/swim.md), you get a critical success instead.
+The shallows and tide pools have always called to you and let you pass unhindered. You ignore difficult terrain resulting from shallow water. In addition, if you roll a success on an [Acrobatics](skills.md#Acrobatics) check to [Balance](archive/srd/pf2e/rules/actions/balance.md) on a slippery or wet surface, or on an [Athletics](skills.md#Athletics) check to [Swim](archive/srd/pf2e/rules/actions/swim.md), you get a critical success instead.
 
 *Source: Secrets of Magic p. 198*  
 %% #compendium/src/pf2e/som #trait/druid %%

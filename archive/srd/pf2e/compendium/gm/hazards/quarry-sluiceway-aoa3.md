@@ -9,14 +9,14 @@ tags:
 aliases: ["Quarry Sluiceway"]
 ---
 # Quarry Sluiceway *Hazard 9*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** +17 expert or [Perception](compendium/skills.md#Perception) DC 27 (expert) to notice the six cleverly [hidden](rules/conditions.md#Hidden) sluice gates while they are closed  
+- **Stealth** +17 expert or [Perception](skills.md#Perception) DC 27 (expert) to notice the six cleverly [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) sluice gates while they are closed  
 
 Six sluice gates open to allow thousands of gallons of water to begin flooding the room. The water churns through the room and flows out through three chutes on the south end of the room.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 28 (expert) twice to close a sluice (on a critical success, a sluice is closed immediately)  
+- **Disable** [Thievery](skills.md#Thievery) DC 28 (expert) twice to close a sluice (on a critical success, a sluice is closed immediately)  
 
 - **Sluiceway Hardness** 17, **Sluiceway HP** 38 (BT 34)
 - **Immunities** critical hits; object immunities; precision damage

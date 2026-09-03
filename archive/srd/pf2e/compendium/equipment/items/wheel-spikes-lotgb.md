@@ -11,7 +11,7 @@ aliases: ["Wheel Spikes"]
 - **Price** 5 sp
 - **Category** Wheelchair Upgrade
 
-A set of thick, sharp spikes have been added to the chair's wheels, granting you a piercing attack. While in the chair, you gain a wheel spike [Strike](rules/actions/strike.md). Your wheel spike deals `1d4` piercing damage and has the agile, [attached](rules/traits/attached.md "Attached Weapon Trait"), and [free-hand](rules/traits/free-hand.md "Free-Hand Weapon Trait") traits. A wheel spike is a simple melee weapon in the knife weapon group. You can etch weapon runes onto wheel spikes.
+A set of thick, sharp spikes have been added to the chair's wheels, granting you a piercing attack. While in the chair, you gain a wheel spike [Strike](archive/srd/pf2e/rules/actions/strike.md). Your wheel spike deals `1d4` piercing damage and has the agile, [attached](archive/srd/pf2e/rules/traits/attached.md "Attached Weapon Trait"), and [free-hand](archive/srd/pf2e/rules/traits/free-hand.md "Free-Hand Weapon Trait") traits. A wheel spike is a simple melee weapon in the knife weapon group. You can etch weapon runes onto wheel spikes.
 
 A wheelchair can only have one attached weapon.
 

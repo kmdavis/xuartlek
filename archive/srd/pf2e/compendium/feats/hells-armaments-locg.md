@@ -7,9 +7,9 @@ tags:
 aliases: ["Hell's Armaments"]
 ---
 # Hell's Armaments  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Hellknight Dedication](compendium/feats/hellknight-dedication-locg.md)
+- **Prerequisites**: [Hellknight Dedication](hellknight-dedication-locg.md)
 
 You've trained with your order's weapon and your Hellknight plate long enough to apply your expertise from other weapons and armor. If you have expert proficiency in any weapon or unarmed attack, you gain expert proficiency in your order's weapon as well. If you have expert proficiency in any armor or unarmored defense, you gain expert proficiency in Hellknight plate as well.
 

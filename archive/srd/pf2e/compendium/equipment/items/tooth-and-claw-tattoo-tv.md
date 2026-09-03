@@ -11,11 +11,11 @@ tags:
 aliases: ["Tooth and Claw Tattoo"]
 ---
 # Tooth and Claw Tattoo *Item 6+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** —; **Usage** tattooed on the body
 
-This tattoo resembles an animal's fangs, claws, or similar natural weapons, letting you wield such weapons and turn into the same beast. When you receive the tattoo, choose the animal from among the following: ape, bear, bull, canine, cat, deer, frog, shark, or snake. You can ask questions of, receive answers from, and use the [Diplomacy](compendium/skills.md#Diplomacy) skill with animals of that kind. This tattoo is usually located on the body part or parts it's meant to transform—on the back of the hands for claws, around the mouth for jaws, on the forehead for horns, and so on.
+This tattoo resembles an animal's fangs, claws, or similar natural weapons, letting you wield such weapons and turn into the same beast. When you receive the tattoo, choose the animal from among the following: ape, bear, bull, canine, cat, deer, frog, shark, or snake. You can ask questions of, receive answers from, and use the [Diplomacy](skills.md#Diplomacy) skill with animals of that kind. This tattoo is usually located on the body part or parts it's meant to transform—on the back of the hands for claws, around the mouth for jaws, on the forehead for horns, and so on.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command ([morph](rules/traits/morph.md))
@@ -49,13 +49,13 @@ The tattoo casts 3rd-level [animal form](compendium/spells/animal-form.md) to tr
 
 - **Price**: 500 gp
 
-The tattoo casts 4th-level [animal form](compendium/spells/animal-form.md) instead of 3rd.
+The tattoo casts 4th-level [animal form](archive/srd/pf2e/compendium/spells/animal-form.md) instead of 3rd.
 
 #### major tooth and claw tattoo *Item 10*
 
 - **Price**: 1000 gp
 
-The tattoo casts 5th-level [animal form](compendium/spells/animal-form.md) instead of 3rd.
+The tattoo casts 5th-level [animal form](archive/srd/pf2e/compendium/spells/animal-form.md) instead of 3rd.
 
 ---
 *Source: Treasure Vault p. 122*

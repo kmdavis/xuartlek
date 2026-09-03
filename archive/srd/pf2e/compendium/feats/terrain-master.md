@@ -7,9 +7,9 @@ tags:
 aliases: ["Terrain Master"]
 ---
 # Terrain Master  *Feat 8*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Prerequisites**: master in [Survival](compendium/skills.md#Survival), [Favored Terrain](compendium/feats/favored-terrain.md)
+- **Prerequisites**: master in [Survival](skills.md#Survival), [Favored Terrain](archive/srd/pf2e/compendium/feats/favored-terrain.md)
 
 You adapt to your surroundings in any natural terrain. You can spend 1 hour practicing in your current terrain in order to make it your favored terrain, replacing your current favored terrain temporarily. If you spend a full day out of the new favored terrain, your favored terrain reverts back to your original choice when you took the Favored Terrain feat.
 

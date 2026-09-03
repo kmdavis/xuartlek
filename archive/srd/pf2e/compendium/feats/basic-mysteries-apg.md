@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Mysteries"]
 ---
 # Basic Mysteries  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Oracle Dedication](compendium/feats/oracle-dedication-apg.md)
+- **Prerequisites**: [Oracle Dedication](oracle-dedication-apg.md)
 
 You gain a 1st- or 2nd-level oracle of your choice.
 
 ## Basic Mysteries leads to...
 
-[Advanced Mysteries](compendium/feats/advanced-mysteries-apg.md)
+[Advanced Mysteries](advanced-mysteries-apg.md)
 
 ## Summary
 

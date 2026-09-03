@@ -7,11 +7,11 @@ tags:
 aliases: ["Inner Fire"]
 ---
 # Inner Fire  *Feat 6*  
-[monk](rules/traits/monk.md "Monk Class Trait")  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
-- **Prerequisites**: [Stoked Flame Stance](compendium/feats/stoked-flame-stance-som.md)
+- **Prerequisites**: [Stoked Flame Stance](stoked-flame-stance-som.md)
 
-While you're in Stoked Flame Stance, you have cold and fire resistance equal to half your level, and any creature that hits you with an unarmed attack, tries to Grab or [Grapple](rules/actions/grapple.md) you, or otherwise touches you takes fire damage equal to your Wisdom modifier (minimum 1). A creature can take this damage no more than once per turn.
+While you're in Stoked Flame Stance, you have cold and fire resistance equal to half your level, and any creature that hits you with an unarmed attack, tries to Grab or [Grapple](archive/srd/pf2e/rules/actions/grapple.md) you, or otherwise touches you takes fire damage equal to your Wisdom modifier (minimum 1). A creature can take this damage no more than once per turn.
 
 *Source: Secrets of Magic p. 202*  
 %% #compendium/src/pf2e/som #trait/monk %%

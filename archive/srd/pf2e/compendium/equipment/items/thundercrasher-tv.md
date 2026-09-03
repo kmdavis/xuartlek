@@ -10,12 +10,12 @@ tags:
 aliases: ["Thundercrasher"]
 ---
 # Thundercrasher *Item 5*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 155 gp
 - **Bulk** 2; **Usage** held in 2 hands
 
-While looking straight down the barrel of this +1 striking blunderbussG&G, the spark gun's magical core is visible amid several reflectors. All damage dealt by a thundercrasher is sonic damage. On a critical hit, the target must succeed at a Fortitude save against your class DC or be [deafened](rules/conditions.md#Deafened) for 1 minute.
+While looking straight down the barrel of this +1 striking blunderbussG&G, the spark gun's magical core is visible amid several reflectors. All damage dealt by a thundercrasher is sonic damage. On a critical hit, the target must succeed at a Fortitude save against your class DC or be [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 minute.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

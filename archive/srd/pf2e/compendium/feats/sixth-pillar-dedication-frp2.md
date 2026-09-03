@@ -9,19 +9,19 @@ tags:
 aliases: ["Sixth Pillar Dedication"]
 ---
 # Sixth Pillar Dedication  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: Dexterity 14, expert in [Acrobatics](compendium/skills.md#Acrobatics), able to cast spells
+- **Prerequisites**: Dexterity 14, expert in [Acrobatics](skills.md#Acrobatics), able to cast spells
 
 You use your physical discipline to channel your magic.
 
-If your proficiency rank in unarmed attacks is at least expert, your proficiency rank in spell attacks increases to expert. Likewise, if your proficiency rank in spell attacks is at least expert, your proficiency rank in unarmed attacks improves to expert. You become an expert in [Athletics](compendium/skills.md#Athletics), or in another trained skill if you were already expert in [Athletics](compendium/skills.md#Athletics).
+If your proficiency rank in unarmed attacks is at least expert, your proficiency rank in spell attacks increases to expert. Likewise, if your proficiency rank in spell attacks is at least expert, your proficiency rank in unarmed attacks improves to expert. You become an expert in [Athletics](skills.md#Athletics), or in another trained skill if you were already expert in [Athletics](skills.md#Athletics).
 
 **Special.** You can't select another dedication feat until you've gained two other feats from the Sixth Pillar archetype.
 
 ## Sixth Pillar Dedication leads to...
 
-[Maneuvering Spell](compendium/feats/maneuvering-spell-frp2.md), [Six Pillars Stance](compendium/feats/six-pillars-stance-frp2.md), [Sixth Pillar Mastery](compendium/feats/sixth-pillar-mastery-frp2.md), [Touch Focus](compendium/feats/touch-focus-frp2.md)
+[Maneuvering Spell](maneuvering-spell-frp2.md), [Six Pillars Stance](six-pillars-stance-frp2.md), [Sixth Pillar Mastery](sixth-pillar-mastery-frp2.md), [Touch Focus](touch-focus-frp2.md)
 
 ## Summary
 

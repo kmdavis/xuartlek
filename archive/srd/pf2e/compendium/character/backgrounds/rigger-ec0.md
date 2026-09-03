@@ -17,4 +17,4 @@ Even though your work is often done before the crowds arrive, you know your skil
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Circus Lore](compendium/skills.md#Lore) skill. You gain the [Combat Climber](compendium/feats/combat-climber.md) skill feat.
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Circus Lore](skills.md#Lore) skill. You gain the [Combat Climber](archive/srd/pf2e/compendium/feats/combat-climber.md) skill feat.

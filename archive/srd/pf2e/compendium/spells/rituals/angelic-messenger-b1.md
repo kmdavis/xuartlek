@@ -9,10 +9,10 @@ tags:
 aliases: ["Angelic Messenger"]
 ---
 # Angelic Messenger *Ritual 1*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
-- **Primary Checks** [Religion](compendium/skills.md#Religion) (expert; you must be a angel)
+- **Primary Checks** [Religion](skills.md#Religion) (expert; you must be a angel)
 - 
 
 You transport yourself to either a celestial plane or a world on the Material Plane where worshippers of your patron can be found. You must be of no higher level than double _angelic messenger's_ spell level.

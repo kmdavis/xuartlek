@@ -11,10 +11,10 @@ tags:
 aliases: ["Touch Of Obedience"]
 ---
 # Touch Of Obedience *Focus 1*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [tyranny](compendium/setting/domains.md#Tyranny)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Domains** [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: touch
 - **Targets**: 1 living creature
 - **Saving Throw**: Will
@@ -24,8 +24,8 @@ Your imperious touch erodes the target's willpower, making it easier to control.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [stupefied](rules/conditions.md#Stupefied) until the end of your current turn.
-> - **Failure** The target is [stupefied](rules/conditions.md#Stupefied) until the end of your next turn.
-> - **Critical Failure** The target is [stupefied](rules/conditions.md#Stupefied) for 1 minute.
+> - **Success** The target is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) until the end of your current turn.
+> - **Failure** The target is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) until the end of your next turn.
+> - **Critical Failure** The target is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 minute.
 
 *Source: Core Rulebook p. 398*

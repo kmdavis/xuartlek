@@ -7,11 +7,11 @@ tags:
 aliases: ["Shared Dream"]
 ---
 # Shared Dream  *Feat 16*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Sleepwalker Dedication](compendium/feats/sleepwalker-dedication-da.md)
+- **Prerequisites**: [Sleepwalker Dedication](sleepwalker-dedication-da.md)
 
-You've learned to create a shared dreamscape to communicate with others. You can cast [dream council](compendium/spells/dream-council.md) as an innate occult spell.
+You've learned to create a shared dreamscape to communicate with others. You can cast [dream council](archive/srd/pf2e/compendium/spells/dream-council.md) as an innate occult spell.
 
 *Source: Dark Archive p. 207*  
 %% #compendium/src/pf2e/da #trait/archetype %%

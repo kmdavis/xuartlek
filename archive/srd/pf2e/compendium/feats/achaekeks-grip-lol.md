@@ -8,15 +8,15 @@ tags:
 aliases: ["Achaekek's Grip"]
 ---
 # Achaekek's Grip  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Prerequisites**: [Basic Red Mantis Magic](compendium/feats/basic-red-mantis-magic-lowg.md)
+- **Prerequisites**: [Basic Red Mantis Magic](basic-red-mantis-magic-lowg.md)
 
-You sense if a creature you have slain in the last year has been restored to life, as long as you and that creature are on the same plane. You also gain the [Achaekek's clutch](compendium/spells/achaekeks-clutch-lol.md) focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [Refocus](rules/actions/refocus.md) by praying to [Achaekek](compendium/setting/deities/achaekek-logm.md) or researching your assigned kill.
+You sense if a creature you have slain in the last year has been restored to life, as long as you and that creature are on the same plane. You also gain the [Achaekek's clutch](achaekeks-clutch-lol.md) focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [Refocus](archive/srd/pf2e/rules/actions/refocus.md) by praying to [Achaekek](achaekek-logm.md) or researching your assigned kill.
 
 ## Achaekek's Grip leads to...
 
-[Vernai Training](compendium/feats/vernai-training-lol.md)
+[Vernai Training](vernai-training-lol.md)
 
 ## Summary
 

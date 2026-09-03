@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of the Ash Puppet"]
 ---
 # Wand of the Ash Puppet *Item 14*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 4500 gp
 - **Craft Requirements** Supply a casting of disintegrate.

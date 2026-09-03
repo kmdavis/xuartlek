@@ -9,7 +9,7 @@ tags:
 aliases: ["Slates Of Distant Letters"]
 ---
 # Slates Of Distant Letters *Item 13*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 2450 gp
 - **Bulk** L; **Usage** held in 2 hands
@@ -18,7 +18,7 @@ This matched pair of slates, roughly one handspan wide and tall, have identical 
 
 Slates are crafted in pairs, and each works with only the other of its pair.
 
-If one slate of a pair is ever [broken](rules/conditions.md#Broken), the other shatters into non-magical shards. The listed price is for a pair of slates.
+If one slate of a pair is ever [broken](archive/srd/pf2e/rules/conditions.md#Broken), the other shatters into non-magical shards. The listed price is for a pair of slates.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)

@@ -9,18 +9,18 @@ tags:
 aliases: ["Living Monolith Dedication"]
 ---
 # Living Monolith Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from the Golden Road region.
-- **Prerequisites**: Ancient Osiriani and Sphinx languages, trained in [Crafting](compendium/skills.md#Crafting)
+- **Prerequisites**: Ancient Osiriani and Sphinx languages, trained in [Crafting](skills.md#Crafting)
 
-You've begun to inscribe a magical stone called a ka stone that you will some day tie to your soul. You gain knowledge of Ancient Osirion and a connection to your nascent ka stone. If you fail a recovery check while [dying](rules/conditions.md#Dying), your [dying](rules/conditions.md#Dying) condition does not increase; if you critically fail, your [dying](rules/conditions.md#Dying) condition increases by only 1. You become trained in [Ancient Osirion Lore](compendium/skills.md#Lore), or expert if you were already trained.
+You've begun to inscribe a magical stone called a ka stone that you will some day tie to your soul. You gain knowledge of Ancient Osirion and a connection to your nascent ka stone. If you fail a recovery check while [dying](archive/srd/pf2e/rules/conditions.md#Dying), your [dying](archive/srd/pf2e/rules/conditions.md#Dying) condition does not increase; if you critically fail, your [dying](archive/srd/pf2e/rules/conditions.md#Dying) condition increases by only 1. You become trained in [Ancient Osirion Lore](skills.md#Lore), or expert if you were already trained.
 
 **Special.** You cannot select another dedication feat until you have gained two other feats from the living monolith archetype.
 
 ## Living Monolith Dedication leads to...
 
-[Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md), [Attunement To Stone](compendium/feats/attunement-to-stone-lowg.md), [Fortified Flesh](compendium/feats/fortified-flesh-lowg.md), [Judgment Of The Monolith](compendium/feats/judgment-of-the-monolith-lowg.md), [Stone Blood](compendium/feats/stone-blood-lowg.md), [Stone Communion](compendium/feats/stone-communion-lowg.md)
+[Ka Stone Ritual](ka-stone-ritual-lowg.md), [Attunement To Stone](attunement-to-stone-lowg.md), [Fortified Flesh](fortified-flesh-lowg.md), [Judgment Of The Monolith](judgment-of-the-monolith-lowg.md), [Stone Blood](stone-blood-lowg.md), [Stone Communion](stone-communion-lowg.md)
 
 ## Summary
 

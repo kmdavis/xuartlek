@@ -8,14 +8,14 @@ tags:
 aliases: ["Daemonic Fog"]
 ---
 # Daemonic Fog *Hazard 10*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert  
 
 The fog solidifies into tiny, gnawing creatures that devour everyone within before fading back into mist.
 
-- **Disable** DC 28 [Survival](compendium/skills.md#Survival) (expert) to disrupt the fog before the hazard triggers or dispel magic (5th level; counteract DC 26) to counteract the magic.  
+- **Disable** DC 28 [Survival](skills.md#Survival) (expert) to disrupt the fog before the hazard triggers or dispel magic (5th level; counteract DC 26) to counteract the magic.  
 
 ```ad-embed-ability
 title: **Gnawing Fog** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [evocation](rules/traits/evocation.md))

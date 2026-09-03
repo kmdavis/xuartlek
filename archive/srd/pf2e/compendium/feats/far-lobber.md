@@ -7,14 +7,14 @@ tags:
 aliases: ["Far Lobber"]
 ---
 # Far Lobber  *Feat 1*  
-[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
+[alchemist](archive/srd/pf2e/rules/traits/alchemist.md "Alchemist Class Trait")  
 
 
 You've learned how to throw a longer distance. When you throw an alchemical bomb, it has a range increment of 30 feet instead of the usual 20 feet.
 
 ## Far Lobber leads to...
 
-[Uncanny Bombs](compendium/feats/uncanny-bombs.md)
+[Uncanny Bombs](archive/srd/pf2e/compendium/feats/uncanny-bombs.md)
 
 ## Summary
 

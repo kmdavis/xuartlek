@@ -20,8 +20,8 @@ aliases: ["Raumya", "The Evil Prince"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Performance
-- **Favored Weapon**: [trident](compendium/equipment/items/trident.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [might](compendium/setting/domains.md#Might), [knowledge](compendium/setting/domains.md#Knowledge), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 2nd: [invisibility](compendium/spells/invisibility.md); 4th: [weapon storm](compendium/spells/weapon-storm.md)
+- **Favored Weapon**: [trident](archive/srd/pf2e/compendium/equipment/items/trident.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 2nd: [invisibility](archive/srd/pf2e/compendium/spells/invisibility.md); 4th: [weapon storm](archive/srd/pf2e/compendium/spells/weapon-storm.md)

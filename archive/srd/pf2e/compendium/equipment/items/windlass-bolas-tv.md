@@ -10,12 +10,12 @@ tags:
 aliases: ["Windlass Bolas"]
 ---
 # Windlass Bolas *Item 6*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 200 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-Clockwork mechanisms tick away inside the weights of these +1 striking [returning](compendium/equipment/items/returning.md) [bolas](compendium/equipment/items/bola-tv.md), spooling out more cord in midair.
+Clockwork mechanisms tick away inside the weights of these +1 striking [returning](archive/srd/pf2e/compendium/equipment/items/returning.md) [bolas](bola-tv.md), spooling out more cord in midair.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

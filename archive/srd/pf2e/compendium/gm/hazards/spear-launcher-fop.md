@@ -8,14 +8,14 @@ tags:
 aliases: ["Spear Launcher"]
 ---
 # Spear Launcher *Hazard 2*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
 
-An old heavy crossbow is [hidden](rules/conditions.md#Hidden) in a pile of trash, loaded with a wooden spear, and connected to the rope holding the door.
+An old heavy crossbow is [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) in a pile of trash, loaded with a wooden spear, and connected to the rope holding the door.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 18 (trained) on the rope allows a PC to tie the rope off and open the door without setting off the trap.  
+- **Disable** [Thievery](skills.md#Thievery) DC 18 (trained) on the rope allows a PC to tie the rope off and open the door without setting off the trap.  
 
 - **AC** 18, **Fort** +11, **Ref** +3
 - **Hardness** 8, **HP** 32 (BT 16)

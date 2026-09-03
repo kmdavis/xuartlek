@@ -9,14 +9,14 @@ tags:
 aliases: ["Constricting Hall"]
 ---
 # Constricting Hall *Hazard 8*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 31  
 
 A hall's four walls become fluid and elastic when a creature reaches the hall's midpoint.
 
-- **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) (trained) to stabilize each wall, or dispel magic (4th level; counteract DC 26) to counteract each wall  
+- **Disable** DC 28 [Thievery](skills.md#Thievery) (trained) to stabilize each wall, or dispel magic (4th level; counteract DC 26) to counteract each wall  
 
 ```ad-embed-ability
 title: **Lose Form** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([occult](rules/traits/occult.md), [transmutation](rules/traits/transmutation.md))

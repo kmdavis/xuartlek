@@ -11,9 +11,9 @@ tags:
 aliases: ["Necklace Of Knives"]
 ---
 # Necklace Of Knives *Item 2*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Access** follower of [Pharasma](compendium/setting/deities/pharasma.md)
+- **Access** follower of [Pharasma](pharasma.md)
 - **Price** 25 gp
 - **Usage** worn
 

@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Trickery"]
 ---
 # Advanced Trickery  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Trickery](compendium/feats/basic-trickery.md)
+- **Prerequisites**: [Basic Trickery](archive/srd/pf2e/compendium/feats/basic-trickery.md)
 
 You gain one rogue feat. For the purpose of meeting its prerequisites, your rogue level is equal to half your character level.
 

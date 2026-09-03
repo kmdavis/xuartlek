@@ -10,14 +10,14 @@ tags:
 - trait/skill
 aliases: ["Encouraging Words"]
 ---
-# Encouraging Words  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [general](rules/traits/general.md "General Feat Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+# Encouraging Words  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy)
+- **Prerequisites**: trained in [Diplomacy](skills.md#Diplomacy)
 - **Requirements**: The target ally lost Stamina Points within the last round.
 - **Activity** Single Action
 
-You give an ally within 30 feet a quick pep talk, helping them recover. Attempt a [Diplomacy](compendium/skills.md#Diplomacy) check. The DC is usually 15, though the GM might adjust it based on the circumstances. If you have expert proficiency in [Diplomacy](compendium/skills.md#Diplomacy), you can instead attempt a DC 20 check to increase the Stamina Points recovered by 5; if you have master proficiency, you can attempt a DC 30 check to increase the Stamina Points by 15; if you have legendary proficiency, you can attempt a DC 40 check to increase the Stamina Points by 25. No matter the result, the ally is temporarily immune to Encouraging Words until they either Take a Breather or rest for the day.
+You give an ally within 30 feet a quick pep talk, helping them recover. Attempt a [Diplomacy](skills.md#Diplomacy) check. The DC is usually 15, though the GM might adjust it based on the circumstances. If you have expert proficiency in [Diplomacy](skills.md#Diplomacy), you can instead attempt a DC 20 check to increase the Stamina Points recovered by 5; if you have master proficiency, you can attempt a DC 30 check to increase the Stamina Points by 15; if you have legendary proficiency, you can attempt a DC 40 check to increase the Stamina Points by 25. No matter the result, the ally is temporarily immune to Encouraging Words until they either Take a Breather or rest for the day.
 
 > [!success-degree] 
 > - **Critical Success** The ally recovers `2d8` Stamina Points.

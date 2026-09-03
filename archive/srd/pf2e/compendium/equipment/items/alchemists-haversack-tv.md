@@ -11,7 +11,7 @@ tags:
 aliases: ["Alchemist's Haversack"]
 ---
 # Alchemist's Haversack *Item 11*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [extradimensional](rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [extradimensional](archive/srd/pf2e/rules/traits/extradimensional.md "Extradimensional Effect Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1400 gp
 - **Craft Requirements** You are an alchemist.
@@ -19,7 +19,7 @@ aliases: ["Alchemist's Haversack"]
 
 An alchemist's haversack is a sturdy leather backpack with two compartments. The main section contains an extradimensional space equivalent to a bag of holding type II, perfect for carrying bulkier alchemist equipment. A secondary partition can hold 2 Bulk of items, 1 of which doesn't count against your Bulk limit.
 
-This second compartment can also be activated (see below). Two shoulder straps and a thick belt for the waist hold the haversack on the wearer securely. These straps have pouches and loops for keeping alchemical items handy. They also contain magically expanded alchemist's tools that grant you a +2 item bonus to [Crafting](compendium/skills.md#Crafting) checks to create alchemical items.
+This second compartment can also be activated (see below). Two shoulder straps and a thick belt for the waist hold the haversack on the wearer securely. These straps have pouches and loops for keeping alchemical items handy. They also contain magically expanded alchemist's tools that grant you a +2 item bonus to [Crafting](skills.md#Crafting) checks to create alchemical items.
 
 Water and undesirable material can't seep into the haversack, which cleans itself once per hour. When you reach in any part of the haversack, the item you sought is the first one you find.
 

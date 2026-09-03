@@ -13,13 +13,13 @@ tags:
 aliases: ["Shadowed Scale, the Jungle Secret"]
 ---
 # Shadowed Scale, the Jungle Secret *Item 22*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** L; **Usage** worn mask
 
 This gold-inlaid wooden mask depicts the reptilian visage of a mokele-mbembe, a jungle predator seen by the Mwangi as embodiments of nature's strength and majesty.
 
-If you're a Magaambyan who already has a mask, you can use Shadowed Scale, the Jungle Secret in lieu of your own mask for the purposes of mask-related abilities, such as Magic Warrior Dedication (Lost Omens World Guide 95). When you wear the mask, you are always [concealed](rules/conditions.md#Concealed) while in a jungle.
+If you're a Magaambyan who already has a mask, you can use Shadowed Scale, the Jungle Secret in lieu of your own mask for the purposes of mask-related abilities, such as Magic Warrior Dedication (Lost Omens World Guide 95). When you wear the mask, you are always [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) while in a jungle.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

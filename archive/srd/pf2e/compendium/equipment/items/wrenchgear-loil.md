@@ -8,12 +8,12 @@ tags:
 aliases: ["Wrenchgear"]
 ---
 # Wrenchgear *Item 3*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 50 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-The ubiquity of clockwork constructs in Alkenstar spurred the development of the wrenchgear (a shortened "wrench in the gears") by innovative criminals ("wrenchers") to create security exploits and larcenous opportunities. You gain a +2 item bonus to [Disable a Device](rules/actions/disable-a-device.md) checks made against clockwork creatures (typically to wind them down).
+The ubiquity of clockwork constructs in Alkenstar spurred the development of the wrenchgear (a shortened "wrench in the gears") by innovative criminals ("wrenchers") to create security exploits and larcenous opportunities. You gain a +2 item bonus to [Disable a Device](archive/srd/pf2e/rules/actions/disable-a-device.md) checks made against clockwork creatures (typically to wind them down).
 
 
 ---

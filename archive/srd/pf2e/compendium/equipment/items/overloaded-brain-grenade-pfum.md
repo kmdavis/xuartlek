@@ -13,14 +13,14 @@ tags:
 aliases: ["Overloaded Brain Grenade"]
 ---
 # Overloaded Brain Grenade *Item 10*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [splash](rules/traits/splash.md "Splash Weapon Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 200 gp
 - **Craft Requirements** Supply a brain case harvested from alchemical golem
 - **Bulk** 1; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-It's possible for a desperate alchemist to rig the brain container of a defeated alchemical golem to create a volatile (if unusual) explosive. You throw the grenade up to 60 feet, and it explodes, dealing `3d6` fire damage and `3d6` mental damage in a 10-foot burst (DC 27 basic Reflex save). On a critical failure, a creature takes `2d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage).
+It's possible for a desperate alchemist to rig the brain container of a defeated alchemical golem to create a volatile (if unusual) explosive. You throw the grenade up to 60 feet, and it explodes, dealing `3d6` fire damage and `3d6` mental damage in a 10-foot burst (DC 27 basic Reflex save). On a critical failure, a creature takes `2d6` [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
 
 ---

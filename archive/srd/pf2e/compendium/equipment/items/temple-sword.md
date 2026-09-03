@@ -10,7 +10,7 @@ tags:
 aliases: ["Temple Sword"]
 ---
 # Temple Sword *Item 0*  
-[monk](rules/traits/monk.md "Monk Class Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

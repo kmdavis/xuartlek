@@ -7,7 +7,7 @@ tags:
 aliases: ["Woodland Stride"]
 ---
 # Woodland Stride  *Feat 4*  
-[druid](rules/traits/druid.md "Druid Class Trait")  
+[druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Leaf order
 

@@ -9,13 +9,13 @@ tags:
 aliases: ["Frightful Presence"]
 ---
 # Frightful Presence
-[aura](rules/traits/aura.md "Aura Combat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[aura](archive/srd/pf2e/rules/traits/aura.md "Aura Combat Trait")  [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
 
 A creature that first enters the area must attempt a Will save. Regardless of the result of the saving throw, the creature is temporarily immune to this monster's Frightful Presence for 1 minute.
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected by the presence.
-> - **Success** The creature is [frightened](rules/conditions.md#Frightened).
-> - **Failure** The creature is [frightened](rules/conditions.md#Frightened).
-> - **Critical Failure** The creature is [frightened](rules/conditions.md#Frightened).
+> - **Success** The creature is [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
+> - **Failure** The creature is [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
+> - **Critical Failure** The creature is [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).

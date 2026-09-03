@@ -10,7 +10,7 @@ tags:
 aliases: ["Cursebreak Bulwark"]
 ---
 # Cursebreak Bulwark *Item 17*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 14500 gp
 - **Bulk** 4; **Usage** held in one hand

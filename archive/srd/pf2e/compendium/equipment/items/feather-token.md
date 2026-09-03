@@ -10,12 +10,12 @@ tags:
 aliases: ["Feather Token"]
 ---
 # Feather Token *Item 1+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** —; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. [Activating](rules/actions/activate-an-item.md) a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.
+Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. [Activating](activate-an-item.md) a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.
 
 ---
 
@@ -39,7 +39,7 @@ The recipient must be someone you have met, and the location must be somewhere y
 
 - **Price**: 10 gp
 
-When you use this token, a small wooden chest appears and immediately opens. This chest can hold up to 10 Bulk worth of items. Once the chest is closed, it transforms again—this time into a key—taking all of the stored items with it. You can activate this key by spending an [Interact](rules/actions/interact.md) action to turn it in an imaginary lock, which causes it to transform back into a chest with all of the items still inside. Once it has turned into a chest a second time, it forever remains a wooden chest.
+When you use this token, a small wooden chest appears and immediately opens. This chest can hold up to 10 Bulk worth of items. Once the chest is closed, it transforms again—this time into a key—taking all of the stored items with it. You can activate this key by spending an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to turn it in an imaginary lock, which causes it to transform back into a chest with all of the items still inside. Once it has turned into a chest a second time, it forever remains a wooden chest.
 
 #### fan *Item 4*
 
@@ -55,7 +55,7 @@ If this direction is toward the sail of a vessel, the feather flutters up toward
 
 When this feather is activated, it immediately transforms into a living holly bush, filling a single square. This bush can provide standard cover. In addition, the bush has `2d4` bright-red berries.
 
-While holly berries are usually poisonous, these berries are infused with beneficial magic. You can pick and eat a berry as an [Interact](rules/actions/interact.md) action to recover 1 Hit Point. Once plucked from the bush, a berry becomes non-magical after a few seconds, so it doesn't heal you if you don't eat it within the span of your [Interact](rules/actions/interact.md) action.
+While holly berries are usually poisonous, these berries are infused with beneficial magic. You can pick and eat a berry as an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to recover 1 Hit Point. Once plucked from the bush, a berry becomes non-magical after a few seconds, so it doesn't heal you if you don't eat it within the span of your [Interact](archive/srd/pf2e/rules/actions/interact.md) action.
 
 If activated on soil, the plant continues to grow and thrive (although it doesn't produce any more healing berries). If activated elsewhere, it withers and dies within `1d4` days.
 
@@ -83,7 +83,7 @@ This token can be activated only on an unoccupied patch of earth or soil. When a
 
 This feather transforms into a +1 striking dancing whip when activated. The whip immediately jumps from your grasp and proceeds to attack your enemies until 1 minute has passed or it fails its flat check for dancing, at which point it vanishes.
 
-If the whip's target isn't [prone](rules/conditions.md#Prone), the whip uses its actions to attempt to [Trip](rules/actions/trip.md) that creature instead of making a [Strike](rules/actions/strike.md). The whip's total attack modifier for Striking or Tripping is +18 instead of the normal bonus for a dancing weapon.
+If the whip's target isn't [prone](archive/srd/pf2e/rules/conditions.md#Prone), the whip uses its actions to attempt to [Trip](archive/srd/pf2e/rules/actions/trip.md) that creature instead of making a [Strike](archive/srd/pf2e/rules/actions/strike.md). The whip's total attack modifier for Striking or Tripping is +18 instead of the normal bonus for a dancing weapon.
 
 #### balloon *Item 6*
 

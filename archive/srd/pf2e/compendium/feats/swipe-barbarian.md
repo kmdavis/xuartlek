@@ -7,14 +7,14 @@ tags:
 - trait/flourish
 aliases: ["Swipe (Barbarian)"]
 ---
-# Swipe (Barbarian)  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
+# Swipe (Barbarian)  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 4*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [flourish](archive/srd/pf2e/rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Activity** Two-Action
 
-You make a wide, arcing swing. Make a single melee [Strike](rules/actions/strike.md) and compare the attack roll result to the ACs of up to two foes, each of whom must be within your melee reach and adjacent to the other. Roll damage only once and apply it to each creature you hit. A Swipe counts as two attacks for your multiple attack penalty.
+You make a wide, arcing swing. Make a single melee [Strike](archive/srd/pf2e/rules/actions/strike.md) and compare the attack roll result to the ACs of up to two foes, each of whom must be within your melee reach and adjacent to the other. Roll damage only once and apply it to each creature you hit. A Swipe counts as two attacks for your multiple attack penalty.
 
-If you're using a weapon with the [sweep](rules/traits/sweep.md "Sweep Weapon Trait") trait, its modifier applies to all your Swipe attacks.
+If you're using a weapon with the [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait") trait, its modifier applies to all your Swipe attacks.
 
 *Source: Core Rulebook p. 89*  
 %% #compendium/src/pf2e/crb #trait/barbarian #trait/flourish %%

@@ -11,17 +11,17 @@ tags:
 aliases: ["Call The Blood"]
 ---
 # Call The Blood *Spell 4*   
-[death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[death](archive/srd/pf2e/rules/traits/death.md "Death Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 living creature
 - **Saving Throw**:  basic Fortitude
 
 With a word and gesture, you cause streams of blood to erupt from the target's mouth, nostrils, ears, or other facial openings and come rushing into your mouth. You deal `8d4` negative damage to the target.
 
-If the target takes damage, its blood flows into your mouth. If you're a living creature and don't have negative healing, you're [sickened](rules/conditions.md#Sickened). If you're undead (or living but have negative healing), you can choose to either gain temporary Hit Points equal to half of the negative damage the target takes (after applying resistance and the like) and become [quickened](rules/conditions.md#Quickened) for 1 round, or forgo the temporary Hit Points and become [quickened](rules/conditions.md#Quickened) for 1 minute. You can use this extra action only to [Step](rules/actions/step.md), [Stride](rules/actions/stride.md), or [Strike](rules/actions/strike.md). You lose any remaining temporary Hit Points after 1 minute.
+If the target takes damage, its blood flows into your mouth. If you're a living creature and don't have negative healing, you're [sickened](archive/srd/pf2e/rules/conditions.md#Sickened). If you're undead (or living but have negative healing), you can choose to either gain temporary Hit Points equal to half of the negative damage the target takes (after applying resistance and the like) and become [quickened](archive/srd/pf2e/rules/conditions.md#Quickened) for 1 round, or forgo the temporary Hit Points and become [quickened](archive/srd/pf2e/rules/conditions.md#Quickened) for 1 minute. You can use this extra action only to [Step](archive/srd/pf2e/rules/actions/step.md), [Stride](archive/srd/pf2e/rules/actions/stride.md), or [Strike](archive/srd/pf2e/rules/actions/strike.md). You lose any remaining temporary Hit Points after 1 minute.
 
 **Heightened (+ 1)** The damage increases by `2d4`.
 

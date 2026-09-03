@@ -9,10 +9,10 @@ tags:
 - trait/uncommon
 aliases: ["Electric Counter"]
 ---
-# Electric Counter  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  electric  
+# Electric Counter  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 16*  
+[evocation](evocation.md "Evocation School Trait")  [monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  electric  
 
-- **Prerequisites**: [Wild Winds Initiate](compendium/feats/wild-winds-initiate.md)
+- **Prerequisites**: [Wild Winds Initiate](archive/srd/pf2e/compendium/feats/wild-winds-initiate.md)
 - **Trigger** You would take damage.
 - **Requirements**: You are in Wild Winds stance.
 - **Activity** Reaction

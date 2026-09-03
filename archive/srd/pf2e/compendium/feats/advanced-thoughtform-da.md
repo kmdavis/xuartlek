@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Thoughtform"]
 ---
 # Advanced Thoughtform  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Thoughtform](compendium/feats/basic-thoughtform-da.md)
+- **Prerequisites**: [Basic Thoughtform](basic-thoughtform-da.md)
 
 You gain one psychic feat. For the purpose of meeting its prerequisites, your psychic level is equal to half your character level.
 

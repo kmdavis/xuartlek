@@ -9,7 +9,7 @@ tags:
 aliases: ["Steelheart 21"]
 ---
 # Steelheart 21 *Item 13*  
-[large](rules/traits/large-b1.md "Large Size Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[large](large-b1.md "Large Size Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 6000 gp
 - **Usage** mounted (black powder)

@@ -11,7 +11,7 @@ tags:
 aliases: ["Toadskin Salve"]
 ---
 # Toadskin Salve *Item 3+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -45,13 +45,13 @@ title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Price**: 55 gp
 
-The [persistent poison damage](rules/conditions.md#Persistent%20Damage) increases to `2d4`, and the resistance increases to 5.
+The [persistent poison damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) increases to `2d4`, and the resistance increases to 5.
 
 #### major toadskin salve *Item 11*
 
 - **Price**: 225 gp
 
-The [persistent poison damage](rules/conditions.md#Persistent%20Damage) increases to `3d4`, the resistance increases to 8, and the duration increases to up to 1 hour if you don't use the reaction.
+The [persistent poison damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) increases to `3d4`, the resistance increases to 8, and the duration increases to up to 1 hour if you don't use the reaction.
 
 ---
 *Source: Lost Omens: The Grand Bazaar p. 27*

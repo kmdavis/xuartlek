@@ -11,12 +11,12 @@ tags:
 aliases: ["South Wind's Scorch Song"]
 ---
 # South Wind's Scorch Song *Item 10*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 900 gp
 - **Bulk** 1; **Usage** held in 1 hands
 
-This +1 striking flaming scimitar is always warm to the touch, nearly unbearably so. Lines of crackling flame radiate from carnelians affixed to its curved and blackened blade, and its pommel ends in a brilliant tassel of phoenix feathers. While you have a status bonus to at least one of your Speeds, your [Strikes](rules/actions/strike.md) with this scimitar that deal fire damage gain a +2 status bonus to their fire damage. The status bonus increases to +3 if the weapon has a greater striking rune and +4 for major striking.
+This +1 striking flaming scimitar is always warm to the touch, nearly unbearably so. Lines of crackling flame radiate from carnelians affixed to its curved and blackened blade, and its pommel ends in a brilliant tassel of phoenix feathers. While you have a status bonus to at least one of your Speeds, your [Strikes](archive/srd/pf2e/rules/actions/strike.md) with this scimitar that deal fire damage gain a +2 status bonus to their fire damage. The status bonus increases to +3 if the weapon has a greater striking rune and +4 for major striking.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") command ([evocation](rules/traits/evocation.md), [fire](rules/traits/fire.md), [magical](rules/traits/magical.md))

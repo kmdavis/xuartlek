@@ -13,11 +13,11 @@ tags:
 aliases: ["Purloining Cloak"]
 ---
 # Purloining Cloak *Item 18*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** L; **Usage** worn cloak
 
-Each purloining cloak is a mercurial mantle once worn by a legendary thief or two. The cloak became infused with a daredevil spirit and a penchant for high-stakes thievery. If its owner isn't willing to partake in such activities, the cloak tries to convince them to sell or give it to someone who will. A purloining cloak can use tendrils of its cloth to attempt [Thievery](compendium/skills.md#Thievery) checks to [Palm an Object](rules/actions/palm-an-object.md) or [Steal](rules/actions/steal.md), proudly offering you its loot later. In addition to those of a mercurial mantle, a purloining cloak has the following activations.
+Each purloining cloak is a mercurial mantle once worn by a legendary thief or two. The cloak became infused with a daredevil spirit and a penchant for high-stakes thievery. If its owner isn't willing to partake in such activities, the cloak tries to convince them to sell or give it to someone who will. A purloining cloak can use tendrils of its cloth to attempt [Thievery](skills.md#Thievery) checks to [Palm an Object](archive/srd/pf2e/rules/actions/palm-an-object.md) or [Steal](archive/srd/pf2e/rules/actions/steal.md), proudly offering you its loot later. In addition to those of a mercurial mantle, a purloining cloak has the following activations.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, envision

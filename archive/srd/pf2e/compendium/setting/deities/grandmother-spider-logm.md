@@ -27,14 +27,14 @@ aliases: ["Grandmother Spider", "The Weaver", "Nana Anadi"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Crafting
 - **Favored Weapon**: bola
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [fate](compendium/setting/domains.md#Fate), [family](compendium/setting/domains.md#Family), [trickery](compendium/setting/domains.md#Trickery)
-- **Alternate Domains**: [change](compendium/setting/domains.md#Change), [darkness](compendium/setting/domains.md#Darkness)
-- **Cleric Spells**: 1st: [pest form](compendium/spells/pest-form.md); 2nd: [web](compendium/spells/web.md); 4th: [glibness](compendium/spells/glibness.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Alternate Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness)
+- **Cleric Spells**: 1st: [pest form](archive/srd/pf2e/compendium/spells/pest-form.md); 2nd: [web](archive/srd/pf2e/compendium/spells/web.md); 4th: [glibness](glibness.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Grandmother Spider gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Grandmother Spider gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Grandmother Spider
@@ -50,10 +50,10 @@ title: [Avatar](compendium/spells/avatar.md) of Grandmother Spider
 
 Though the Weaver often condones bad decisions so long as a lesson is learned, and is even willing to accept being fairly tricked herself, cruelty and predation upon the weak draw her outrage.
 
-- **Minor Boon** Grandmother Spider rescues your prank from the jaws of failure. Once, when you would fail a [Deception](compendium/skills.md#Deception) check, you critically succeed instead. Grandmother Spider typically grants this boon for deceptions that are necessary for an interesting or consequential prank.
+- **Minor Boon** Grandmother Spider rescues your prank from the jaws of failure. Once, when you would fail a [Deception](skills.md#Deception) check, you critically succeed instead. Grandmother Spider typically grants this boon for deceptions that are necessary for an interesting or consequential prank.
 - **Moderate Boon**: You can feel tugs on the strands of fate. You gain a +2 status bonus to initiative rolls.
-- **Major Boon**: Grandmother Spider rejoices in freedom and tricks those who would limit it. Any time you would become [grabbed](rules/conditions.md#Grabbed), [immobilized](rules/conditions.md#Immobilized), or [restrained](rules/conditions.md#Restrained), attempt a DC 10 flat check. On a success, you ignore the effect, and the originator of the effect becomes [grabbed](rules/conditions.md#Grabbed), [immobilized](rules/conditions.md#Immobilized), or [restrained](rules/conditions.md#Restrained) instead. If this simply causes a creature to grab itself, it can usually [Escape](rules/actions/escape.md) as a free action, but it might be stuck if it tried to immobilize you in other ways.
+- **Major Boon**: Grandmother Spider rejoices in freedom and tricks those who would limit it. Any time you would become [grabbed](archive/srd/pf2e/rules/conditions.md#Grabbed), [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized), or [restrained](archive/srd/pf2e/rules/conditions.md#Restrained), attempt a DC 10 flat check. On a success, you ignore the effect, and the originator of the effect becomes [grabbed](archive/srd/pf2e/rules/conditions.md#Grabbed), [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized), or [restrained](archive/srd/pf2e/rules/conditions.md#Restrained) instead. If this simply causes a creature to grab itself, it can usually [Escape](archive/srd/pf2e/rules/actions/escape.md) as a free action, but it might be stuck if it tried to immobilize you in other ways.
 
-- **Minor Curse**: When your pranks start going wrong, they dissolve into a string of catastrophic failures. When you roll a failure on a [Deception](compendium/skills.md#Deception) or [Stealth](compendium/skills.md#Stealth) check, you get a critical failure instead.
-- **Moderate Curse** Grandmother Spider weaves a web to ensnare you, and you trail webs behind you wherever you go. You become permanently [slowed](rules/conditions.md#Slowed) and take a –10-foot circumstance penalty to your Speeds.
+- **Minor Curse**: When your pranks start going wrong, they dissolve into a string of catastrophic failures. When you roll a failure on a [Deception](skills.md#Deception) or [Stealth](skills.md#Stealth) check, you get a critical failure instead.
+- **Moderate Curse** Grandmother Spider weaves a web to ensnare you, and you trail webs behind you wherever you go. You become permanently [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) and take a –10-foot circumstance penalty to your Speeds.
 - **Major Curse**: Grandmother Spider throws all of her might behind the underdog. Any time a creature with a level lower than yours rolls a success on a check against you, it critically succeeds instead; any time you roll a failure on a check against a creature with a level lower than yours, you critically fail instead.

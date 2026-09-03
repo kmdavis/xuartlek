@@ -30,7 +30,7 @@ The plates of this waffle iron feature a noble insignia, a religious symbol, or 
 
 - **Price**: 355 gp
 
-The plates of this waffle iron are made of standard-grade mithral rather than iron and might bear an imprint on the plates. As with other mithral cookware, food rarely sticks to a mithral waffle iron. As it's made of mithral, this is an [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait") item.
+The plates of this waffle iron are made of standard-grade mithral rather than iron and might bear an imprint on the plates. As with other mithral cookware, food rarely sticks to a mithral waffle iron. As it's made of mithral, this is an [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait") item.
 
 #### high-grade mithral waffle iron *Item 16*
 
@@ -38,7 +38,7 @@ The plates of this waffle iron are made of standard-grade mithral rather than ir
 
 Truly fit for emperors and demigods, this waffle iron is made of high-grade mithral. Although most metallurgists are certain that the much more affordable standard-grade mithral waffle iron maintains mithral's full non-stick properties, the super elite insist that only waffles made from high-grade mithral waffle irons conform to the most perfect shape and texture.
 
-Nadian has one high-grade mithral waffle iron for sale emblazoned with an archaic symbol associated with [Milani](compendium/setting/deities/milani-logm.md) from before she became a deity, supposedly used to make [Milani](compendium/setting/deities/milani-logm.md) herself waffles during her mortal life. As it's made of mithral, this is an [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait") item.
+Nadian has one high-grade mithral waffle iron for sale emblazoned with an archaic symbol associated with [Milani](milani-logm.md) from before she became a deity, supposedly used to make [Milani](milani-logm.md) herself waffles during her mortal life. As it's made of mithral, this is an [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait") item.
 
 ---
 *Source: Lost Omens: The Grand Bazaar p. 93*

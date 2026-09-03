@@ -9,17 +9,17 @@ tags:
 - trait/uncommon
 aliases: ["Everstand Stance"]
 ---
-# Everstand Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[champion](rules/traits/champion.md "Champion Class Trait")  [fighter](rules/traits/fighter.md "Fighter Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Everstand Stance  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  [fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Requirements**: You are wielding a shield.
 - **Activity** Single Action
 
-You brace your shield with both hands, enhancing its potential for both offense and defense. When in this stance, you wield the shield with both hands. When wielding a shield this way, increase the weapon damage die of the shield's boss or spikes by one step, and increase the shield's Hardness by 2 when using the [Shield Block](compendium/feats/shield-block.md) reaction.
+You brace your shield with both hands, enhancing its potential for both offense and defense. When in this stance, you wield the shield with both hands. When wielding a shield this way, increase the weapon damage die of the shield's boss or spikes by one step, and increase the shield's Hardness by 2 when using the [Shield Block](archive/srd/pf2e/compendium/feats/shield-block.md) reaction.
 
 ## Everstand Stance leads to...
 
-[Everstand Strike](compendium/feats/everstand-strike-locg.md)
+[Everstand Strike](everstand-strike-locg.md)
 
 ## Summary
 

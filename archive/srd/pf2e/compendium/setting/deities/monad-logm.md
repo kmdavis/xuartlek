@@ -20,8 +20,8 @@ aliases: ["Monad", "The Condition of All"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Occultism
 - **Favored Weapon**: fist
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [knowledge](compendium/setting/domains.md#Knowledge), [truth](compendium/setting/domains.md#Truth), [void](compendium/setting/domains.md#Void)
-- **Cleric Spells**: 1st: [unseen servant](compendium/spells/unseen-servant.md); 2nd: [spectral hand](compendium/spells/spectral-hand.md); 4th: [gaseous form](compendium/spells/gaseous-form.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth), [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [unseen servant](unseen-servant.md); 2nd: [spectral hand](spectral-hand.md); 4th: [gaseous form](gaseous-form.md)

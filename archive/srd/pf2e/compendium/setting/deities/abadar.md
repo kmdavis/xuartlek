@@ -22,12 +22,12 @@ aliases: ["Abadar", "The Master of the First Vault"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [crossbow](compendium/equipment/items/crossbow.md)
-- **Domains**: [cities](compendium/setting/domains.md#Cities), [earth](compendium/setting/domains.md#Earth), [travel](compendium/setting/domains.md#Travel), [wealth](compendium/setting/domains.md#Wealth)
-- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty)
-- **Cleric Spells**: 1st: [illusory object](compendium/spells/illusory-object.md); 4th: [creation](compendium/spells/creation.md); 7th: [magnificent mansion](compendium/spells/magnificent-mansion.md)
+- **Favored Weapon**: [crossbow](archive/srd/pf2e/compendium/equipment/items/crossbow.md)
+- **Domains**: [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Alternate Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty)
+- **Cleric Spells**: 1st: [illusory object](archive/srd/pf2e/compendium/spells/illusory-object.md); 4th: [creation](archive/srd/pf2e/compendium/spells/creation.md); 7th: [magnificent mansion](magnificent-mansion.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Abadar
@@ -42,10 +42,10 @@ title: [Avatar](compendium/spells/avatar.md) of Abadar
 
 Abadar's gifts take the form of riches, while his ire tends to cause offenders to lose wealth.
 
-- **Minor Boon** Abadar warns his favored against those who might unfairly take advantage. Once, when someone rolls a success on a [Deception](compendium/skills.md#Deception) check to [Lie](rules/actions/lie.md) maliciously to you and you alone, they get a critical failure instead. Abadar typically chooses to grant this boon in response to an extremely consequential lie.
-- **Moderate Boon**: Abadar blesses all your enterprises, leading to financial success as all your ventures always seems to work out. If you roll a critical failure at a check to [Earn Income](rules/actions/earn-income.md), you get a failure instead. If you roll a success on a check to [Earn Income](rules/actions/earn-income.md), you earn twice the usual amount of income.
-- **Major Boon**: Your silver tongue is infallible, allowing you to reach a compromise if one is even remotely possible. Once per day, you know just what to offer to make a deal or broker a negotiation, and if you offer your divinely inspired deal, you can automatically receive a result of 20 + your [Diplomacy](compendium/skills.md#Diplomacy) modifier on your [Diplomacy](compendium/skills.md#Diplomacy) check instead of rolling. This does not increase your degree of success like rolling a 20 would. If there is legitimately nothing you could offer to reach an agreement, you learn that, and you don't expend your daily use of the boon.
+- **Minor Boon** Abadar warns his favored against those who might unfairly take advantage. Once, when someone rolls a success on a [Deception](skills.md#Deception) check to [Lie](archive/srd/pf2e/rules/actions/lie.md) maliciously to you and you alone, they get a critical failure instead. Abadar typically chooses to grant this boon in response to an extremely consequential lie.
+- **Moderate Boon**: Abadar blesses all your enterprises, leading to financial success as all your ventures always seems to work out. If you roll a critical failure at a check to [Earn Income](archive/srd/pf2e/rules/actions/earn-income.md), you get a failure instead. If you roll a success on a check to [Earn Income](archive/srd/pf2e/rules/actions/earn-income.md), you earn twice the usual amount of income.
+- **Major Boon**: Your silver tongue is infallible, allowing you to reach a compromise if one is even remotely possible. Once per day, you know just what to offer to make a deal or broker a negotiation, and if you offer your divinely inspired deal, you can automatically receive a result of 20 + your [Diplomacy](skills.md#Diplomacy) modifier on your [Diplomacy](skills.md#Diplomacy) check instead of rolling. This does not increase your degree of success like rolling a 20 would. If there is legitimately nothing you could offer to reach an agreement, you learn that, and you don't expend your daily use of the boon.
 
 - **Minor Curse**: Any time you steal, illegally harm or kill another creature, or undermine a law-abiding officer or court, a symbol or word describing your crime appears on a visible spot on your skin. This symbol cannot be removed or hidden with makeup (though it can be covered with clothing) and it doesn't vanish until you make legal restitution for the crime, such as by serving your sentence.
-- **Moderate Curse** Abadar curses all your enterprises, leading to financial disaster as all your ventures always seem to fail. The result of your check to [Earn Income](rules/actions/earn-income.md) is always one degree of success worse than the one you rolled.
-- **Major Curse**: You become honest to a fault. You constantly suffer the critical failure effect of [zone of truth](compendium/spells/zone-of-truth.md). Additionally, you are always offered the worst possible option in a bargain.
+- **Moderate Curse** Abadar curses all your enterprises, leading to financial disaster as all your ventures always seem to fail. The result of your check to [Earn Income](archive/srd/pf2e/rules/actions/earn-income.md) is always one degree of success worse than the one you rolled.
+- **Major Curse**: You become honest to a fault. You constantly suffer the critical failure effect of [zone of truth](zone-of-truth.md). Additionally, you are always offered the worst possible option in a bargain.

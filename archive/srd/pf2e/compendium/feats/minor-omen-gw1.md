@@ -9,10 +9,10 @@ tags:
 - trait/occult
 aliases: ["Minor Omen"]
 ---
-# Minor Omen  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+# Minor Omen  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [divination](divination.md "Divination School Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  
 
-- **Prerequisites**: [Oatia Skysage Dedication](compendium/feats/oatia-skysage-dedication-gw1.md)
+- **Prerequisites**: [Oatia Skysage Dedication](oatia-skysage-dedication-gw1.md)
 - **Frequency**: once per day
 - **Trigger** You fail a Reflex save.
 - **Requirements**: You can see the night sky.

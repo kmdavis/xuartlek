@@ -11,9 +11,9 @@ tags:
 aliases: ["Read Fate"]
 ---
 # Read Fate *Focus 1*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [prediction](rules/traits/prediction.md "Prediction Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [divination](divination.md "Divination School Trait")  [prediction](archive/srd/pf2e/rules/traits/prediction.md "Prediction Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [fate](compendium/setting/domains.md#Fate)
+- **Domains** [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate)
 - **Cast** 1 minute 
 - **Range**: 10 foot
 - **Targets**: 1 creature other than you

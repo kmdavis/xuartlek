@@ -7,15 +7,15 @@ tags:
 aliases: ["Disturbing Defense"]
 ---
 # Disturbing Defense  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Oozemorph Dedication](compendium/feats/oozemorph-dedication-sli.md)
+- **Prerequisites**: [Oozemorph Dedication](oozemorph-dedication-sli.md)
 
-Your internal organs and blood vessels have shifted and changed, and even you don't know precisely where in your body they are. You gain resistance to precision damage equal to 2 + your number of class feats from the oozemorph archetype. The DC of your flat checks to recover from [persistent bleed damage](rules/conditions.md#Persistent%20Damage) is 13, rather than 15.
+Your internal organs and blood vessels have shifted and changed, and even you don't know precisely where in your body they are. You gain resistance to precision damage equal to 2 + your number of class feats from the oozemorph archetype. The DC of your flat checks to recover from [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) is 13, rather than 15.
 
 ## Disturbing Defense leads to...
 
-[Peculiar Anatomy](compendium/feats/peculiar-anatomy-sli.md), [Rubbery Skin](compendium/feats/rubbery-skin-sli.md)
+[Peculiar Anatomy](peculiar-anatomy-sli.md), [Rubbery Skin](rubbery-skin-sli.md)
 
 ## Summary
 

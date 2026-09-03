@@ -10,11 +10,11 @@ tags:
 aliases: ["Crafter's Eyepiece"]
 ---
 # Crafter's Eyepiece *Item 3+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** —; **Usage** worn eyepiece
 
-This rugged metal eyepiece etched with square patterns is designed to be worn over a single eye. Twisting the lens reveals a faint three-dimensional outline of an item you plan to build or repair, with helpful labels on the component parts. While worn, this eyepiece gives you a +1 item bonus to [Crafting](compendium/skills.md#Crafting) checks. When you [Repair](rules/actions/repair.md) an item, increase the Hit Points restored by 15 per proficiency rank instead of 10.
+This rugged metal eyepiece etched with square patterns is designed to be worn over a single eye. Twisting the lens reveals a faint three-dimensional outline of an item you plan to build or repair, with helpful labels on the component parts. While worn, this eyepiece gives you a +1 item bonus to [Crafting](skills.md#Crafting) checks. When you [Repair](archive/srd/pf2e/rules/actions/repair.md) an item, increase the Hit Points restored by 15 per proficiency rank instead of 10.
 
 ---
 

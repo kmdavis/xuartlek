@@ -7,13 +7,13 @@ tags:
 aliases: ["Magic Warrior Transformation"]
 ---
 # Magic Warrior Transformation  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Magic Warrior Dedication](compendium/feats/magic-warrior-dedication-lowg.md)
+- **Prerequisites**: [Magic Warrior Dedication](magic-warrior-dedication-lowg.md)
 
 You can transform fully into the animal your mask represents.
 
-You gain the [magic warrior transformation](compendium/spells/magic-warrior-transformation-lowg.md) focus spell.
+You gain the [magic warrior transformation](archive/srd/pf2e/compendium/spells/magic-warrior-transformation-lowg.md) focus spell.
 
 *Source: Lost Omens: World Guide p. 95*  
 %% #compendium/src/pf2e/lowg #trait/archetype %%

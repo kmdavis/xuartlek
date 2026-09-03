@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
 aliases: ["Shield Block"]
 ---
-# Shield Block [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+# Shield Block [R](chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Activate**: Reaction
 - **Trigger**: The monster has its shield raised and takes damage from a physical attack.

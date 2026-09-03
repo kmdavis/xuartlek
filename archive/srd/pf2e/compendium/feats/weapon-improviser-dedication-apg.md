@@ -8,7 +8,7 @@ tags:
 aliases: ["Weapon Improviser Dedication"]
 ---
 # Weapon Improviser Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: trained in all martial weapons
 
@@ -18,7 +18,7 @@ You don't take the normal –2 penalty to attack rolls with improvised weapons. 
 
 ## Weapon Improviser Dedication leads to...
 
-[Improvised Critical](compendium/feats/improvised-critical-apg.md), [Improvised Pummel](compendium/feats/improvised-pummel-apg.md), [Shattering Strike](compendium/feats/shattering-strike-apg.md), [Makeshift Strike](compendium/feats/makeshift-strike-apg.md), [Surprise Strike](compendium/feats/surprise-strike-apg.md)
+[Improvised Critical](improvised-critical-apg.md), [Improvised Pummel](improvised-pummel-apg.md), [Shattering Strike](shattering-strike-apg.md), [Makeshift Strike](makeshift-strike-apg.md), [Surprise Strike](surprise-strike-apg.md)
 
 ## Summary
 

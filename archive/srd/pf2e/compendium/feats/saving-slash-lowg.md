@@ -6,12 +6,12 @@ tags:
 - trait/archetype
 aliases: ["Saving Slash"]
 ---
-# Saving Slash  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")]) *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Saving Slash  [V](chapter-9-playing-the-game.md#Actions "Varies") Varies ([R](chapter-9-playing-the-game.md#Actions "Reaction")]) *Feat 10*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Aldori Duelist Dedication](compendium/feats/aldori-duelist-dedication-lowg.md)
+- **Prerequisites**: [Aldori Duelist Dedication](aldori-duelist-dedication-lowg.md)
 - **Trigger** An opponent critically hits you with a melee attack.
-- **Activity** Varies ([R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")])
+- **Activity** Varies ([R](chapter-9-playing-the-game.md#Actions "Reaction")])
 
 You quickly whirl your blade, trying to deflect enough momentum to avoid the worst of the attack. Attempt a DC 16 flat check. If you succeed, the attack becomes a normal hit, instead of a critical hit.
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Grail Of Twisted Desires"]
 ---
 # Grail Of Twisted Desires *Item 10*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 850 gp
 - **Bulk** L; **Usage** held in 1 hand

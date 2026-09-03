@@ -20,8 +20,8 @@ aliases: ["Nurgal", "The Shining Scourge"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [dust](compendium/setting/domains.md#Dust), [fire](compendium/setting/domains.md#Fire), [sun](compendium/setting/domains.md#Sun)
-- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 2nd: [flaming sphere](compendium/spells/flaming-sphere.md); 3rd: [cup of dust](compendium/spells/cup-of-dust-logm.md)
+- **Favored Weapon**: [mace](archive/srd/pf2e/compendium/equipment/items/mace.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [dust](archive/srd/pf2e/compendium/setting/domains.md#Dust), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun)
+- **Cleric Spells**: 1st: [burning hands](burning-hands.md); 2nd: [flaming sphere](flaming-sphere.md); 3rd: [cup of dust](cup-of-dust-logm.md)

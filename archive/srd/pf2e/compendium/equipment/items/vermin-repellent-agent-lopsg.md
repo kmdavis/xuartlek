@@ -10,20 +10,20 @@ tags:
 aliases: ["Vermin Repellent Agent"]
 ---
 # Vermin Repellent Agent *Item 3+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This specialized cream serves as a repellent to stave off insects.
 
-The repellent also binds with a number of common insect venoms, dulling the potency and giving the wearer's immune system a boost to resist venoms. Once applied to your skin, the repellent grants you an item bonus to Fortitude saving throws against poisons for 4 hours. In addition, any arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals) must attempt a Will save when attempting to attack you with a melee [Strike](rules/actions/strike.md), or with a swarm attack such as the spider swarm's swarming bites. The arthropod then becomes temporarily immune for 1 minute.
+The repellent also binds with a number of common insect venoms, dulling the potency and giving the wearer's immune system a boost to resist venoms. Once applied to your skin, the repellent grants you an item bonus to Fortitude saving throws against poisons for 4 hours. In addition, any arthropods (insects, spiders, scorpions, crabs, and similar invertebrate animals) must attempt a Will save when attempting to attack you with a melee [Strike](archive/srd/pf2e/rules/actions/strike.md), or with a swarm attack such as the spider swarm's swarming bites. The arthropod then becomes temporarily immune for 1 minute.
 
 > [!success-degree] 
 > - **Critical Success** The creature can act normally.
-> - **Success** The creature is [frightened](rules/conditions.md#Frightened).
-> - **Failure** The creature is [frightened](rules/conditions.md#Frightened).
-> - **Critical Failure** The creature is [frightened](rules/conditions.md#Frightened) and [fleeing](rules/conditions.md#Fleeing).
+> - **Success** The creature is [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
+> - **Failure** The creature is [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
+> - **Critical Failure** The creature is [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) and [fleeing](archive/srd/pf2e/rules/conditions.md#Fleeing).
 
 ---
 

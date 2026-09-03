@@ -8,11 +8,11 @@ tags:
 aliases: ["Replacement Filter"]
 ---
 # Replacement Filter *Item 0*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 > [!pf2-note]
-> See [Water Purifier](compendium/equipment/items/water-purifier-lopsg.md) for information.
+> See [Water Purifier](water-purifier-lopsg.md) for information.
 
 ---
 

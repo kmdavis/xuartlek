@@ -7,7 +7,7 @@ tags:
 aliases: ["Second Ally"]
 ---
 # Second Ally  *Feat 8*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally
 

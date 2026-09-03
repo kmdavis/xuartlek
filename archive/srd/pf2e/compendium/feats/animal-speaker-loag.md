@@ -7,11 +7,11 @@ tags:
 aliases: ["Animal Speaker"]
 ---
 # Animal Speaker  *Feat 5*  
-[sprite](rules/traits/sprite-b1.md "Sprite Ancestry & Heritage Trait")  
+[sprite](sprite-b1.md "Sprite Ancestry & Heritage Trait")  
 
 - **Prerequisites**: ability to communicate with some type of animals (such as bats or arthropods)
 
-You can speak to all animals, not just a particular subset. You gain a +1 circumstance bonus to [Make an Impression](rules/actions/make-an-impression.md) on animals (which usually uses the [Diplomacy](compendium/skills.md#Diplomacy) skill).
+You can speak to all animals, not just a particular subset. You gain a +1 circumstance bonus to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md) on animals (which usually uses the [Diplomacy](skills.md#Diplomacy) skill).
 
 *Source: Lost Omens: Ancestry Guide p. 131*  
 %% #compendium/src/pf2e/loag #trait/sprite %%

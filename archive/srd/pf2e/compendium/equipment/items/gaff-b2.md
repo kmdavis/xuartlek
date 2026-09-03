@@ -9,7 +9,7 @@ tags:
 aliases: ["Gaff"]
 ---
 # Gaff *Item 0*  
-[trip](rules/traits/trip.md "Trip Weapon Trait")  [versatile](rules/traits/versatile.md "Versatile Weapon Trait")  
+[trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  [versatile](archive/srd/pf2e/rules/traits/versatile.md "Versatile Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 1
@@ -17,7 +17,7 @@ aliases: ["Gaff"]
 - **Hands** 1
 - **Category** Martial; **Group** Club 
 
-These hooked staffs are popular among Senghor fishers and warriors alike. A gaff sized for a Medium creature is a common martial weapon in the club group. It deals `1d6` bludgeoning damage and has 1 Bulk. It requires one hand to use and has the [trip](rules/traits/trip.md "Trip Weapon Trait") and [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait") weapon traits. Gaffs are readily available in Senghor and nearby settlements for 1 gp.
+These hooked staffs are popular among Senghor fishers and warriors alike. A gaff sized for a Medium creature is a common martial weapon in the club group. It deals `1d6` bludgeoning damage and has 1 Bulk. It requires one hand to use and has the [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait") and [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait") weapon traits. Gaffs are readily available in Senghor and nearby settlements for 1 gp.
 
 
 ---

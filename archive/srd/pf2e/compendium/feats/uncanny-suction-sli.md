@@ -7,13 +7,13 @@ tags:
 aliases: ["Uncanny Suction"]
 ---
 # Uncanny Suction  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Oozemorph Dedication](compendium/feats/oozemorph-dedication-sli.md)
+- **Prerequisites**: [Oozemorph Dedication](oozemorph-dedication-sli.md)
 
-Your limbs produce strange, sucker-like growths that allow you to adhere to walls, objects, and most other surfaces. You gain a climb Speed equal to your half your land Speed (minimum 5 feet). If you have the [Quick Climb](compendium/feats/quick-climb.md) feat, your climb Speed is equal to your land Speed.
+Your limbs produce strange, sucker-like growths that allow you to adhere to walls, objects, and most other surfaces. You gain a climb Speed equal to your half your land Speed (minimum 5 feet). If you have the [Quick Climb](archive/srd/pf2e/compendium/feats/quick-climb.md) feat, your climb Speed is equal to your land Speed.
 
-In addition, you gain a +2 circumstance bonus to your Reflex DC to avoid being [Disarmed](rules/actions/disarm.md).
+In addition, you gain a +2 circumstance bonus to your Reflex DC to avoid being [Disarmed](archive/srd/pf2e/rules/actions/disarm.md).
 
 *Source: The Slithering p. 60*  
 %% #compendium/src/pf2e/sli #trait/archetype %%

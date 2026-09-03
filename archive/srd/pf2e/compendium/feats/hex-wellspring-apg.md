@@ -7,11 +7,11 @@ tags:
 aliases: ["Hex Wellspring"]
 ---
 # Hex Wellspring  *Feat 18*  
-[witch](rules/traits/witch-apg.md "Witch Class Trait")  
+[witch](archive/srd/pf2e/rules/traits/witch-apg.md "Witch Class Trait")  
 
-- **Prerequisites**: [Hex Focus](compendium/feats/hex-focus-apg.md)
+- **Prerequisites**: [Hex Focus](hex-focus-apg.md)
 
-Focus flows from your patron each time you commune with your familiar. You can recover 3 Focus Points when you [Refocus](rules/actions/refocus.md) instead of 1 if you have spent at least 3 Focus Points since the last time you [Refocused](rules/actions/refocus.md).
+Focus flows from your patron each time you commune with your familiar. You can recover 3 Focus Points when you [Refocus](archive/srd/pf2e/rules/actions/refocus.md) instead of 1 if you have spent at least 3 Focus Points since the last time you [Refocused](archive/srd/pf2e/rules/actions/refocus.md).
 
 *Source: Advanced Player's Guide p. 105*  
 %% #compendium/src/pf2e/apg #trait/witch %%

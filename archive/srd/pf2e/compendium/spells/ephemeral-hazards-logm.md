@@ -10,16 +10,16 @@ tags:
 aliases: ["Ephemeral Hazards"]
 ---
 # Ephemeral Hazards *Focus 4*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Domains** [delirium](compendium/setting/domains.md#Delirium)
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Domains** [delirium](archive/srd/pf2e/compendium/setting/domains.md#Delirium)
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 60 foot
 - **Duration**: 1 minute
 
 You create illusory hazards, such as spinning blades or a puddle of acid, in four 10-foot-by-10-foot spaces within range.
 
-The hazards are merely a mental projection, and a creature receives a Will save each time it touches a hazard or is occupying one's space at the start of its turn. Depending on the result, the creature takes `4d6` mental damage and might have difficulty moving through the area. A creature can take this damage only once per turn, even if it moves through several hazards. Choose bludgeoning, slashing, piercing, acid, cold, electricity, fire, or sonic damage when you cast [ephemeral hazards](compendium/spells/ephemeral-hazards-logm.md); resistances and weaknesses to those damage types apply if the target thinks they do, as judged by the GM. You can freely choose the appearance and damage type of each hazard as long as its appearance reflects the type of damage it deals (for instance, a hazard that deals piercing damage might take the form of sharpened spikes).
+The hazards are merely a mental projection, and a creature receives a Will save each time it touches a hazard or is occupying one's space at the start of its turn. Depending on the result, the creature takes `4d6` mental damage and might have difficulty moving through the area. A creature can take this damage only once per turn, even if it moves through several hazards. Choose bludgeoning, slashing, piercing, acid, cold, electricity, fire, or sonic damage when you cast [ephemeral hazards](ephemeral-hazards-logm.md); resistances and weaknesses to those damage types apply if the target thinks they do, as judged by the GM. You can freely choose the appearance and damage type of each hazard as long as its appearance reflects the type of damage it deals (for instance, a hazard that deals piercing damage might take the form of sharpened spikes).
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected by the hazards and no longer needs to attempt Will saves against them.

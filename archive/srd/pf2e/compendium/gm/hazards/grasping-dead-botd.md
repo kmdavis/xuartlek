@@ -8,14 +8,14 @@ tags:
 aliases: ["Grasping Dead"]
 ---
 # Grasping Dead *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +12 expert  
 
 Hands of the buried dead rise from the ground, grabbing and tearing at creatures in the area to drag them underground.
 
-- **Disable** DC 22 [Religion](compendium/skills.md#Religion) (trained) to ritually pray for the dead or DC 24 [Occultism](compendium/skills.md#Occultism) (trained) to exorcise the spirits' anger; two total successes are required to disable the haunt  
+- **Disable** DC 22 [Religion](skills.md#Religion) (trained) to ritually pray for the dead or DC 24 [Occultism](skills.md#Occultism) (trained) to exorcise the spirits' anger; two total successes are required to disable the haunt  
 
 - **Hardness** 10; **per instrument HP** 22 (BT 11)
 - **Immunities** critical hits; object immunities; precision damage

@@ -7,15 +7,15 @@ tags:
 aliases: ["Advanced Construct Companion"]
 ---
 # Advanced Construct Companion  *Feat 4*  
-[inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  
+[inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  
 
 - **Prerequisites**: construct companion
 
-You've upgraded your construct companion's power and decision-making ability. It becomes an advanced construct companion (page 33). During an encounter, even if you don't use the Command a Minion action, your construct companion can still use 1 action on your turn that round to [Stride](rules/actions/stride.md) or [Strike](rules/actions/strike.md).
+You've upgraded your construct companion's power and decision-making ability. It becomes an advanced construct companion (page 33). During an encounter, even if you don't use the Command a Minion action, your construct companion can still use 1 action on your turn that round to [Stride](archive/srd/pf2e/rules/actions/stride.md) or [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 ## Advanced Construct Companion leads to...
 
-[Incredible Construct Companion](compendium/feats/incredible-construct-companion-g-g.md)
+[Incredible Construct Companion](incredible-construct-companion-g-g.md)
 
 ## Summary
 

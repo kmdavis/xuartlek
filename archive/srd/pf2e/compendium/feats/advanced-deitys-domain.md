@@ -7,11 +7,11 @@ tags:
 aliases: ["Advanced Deity's Domain"]
 ---
 # Advanced Deity's Domain  *Feat 8*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
-- **Prerequisites**: [Deity's Domain](compendium/feats/deitys-domain.md)
+- **Prerequisites**: [Deity's Domain](archive/srd/pf2e/compendium/feats/deitys-domain.md)
 
-Through your conviction, you have glimpsed the deeper secrets of your deity's domain. You gain an advanced domain spell from the domain you chose with [Deity's Domain](compendium/feats/deitys-domain.md). You can cast that spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.
+Through your conviction, you have glimpsed the deeper secrets of your deity's domain. You gain an advanced domain spell from the domain you chose with [Deity's Domain](archive/srd/pf2e/compendium/feats/deitys-domain.md). You can cast that spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Core Rulebook p. 112*  
 %% #compendium/src/pf2e/crb #trait/champion %%

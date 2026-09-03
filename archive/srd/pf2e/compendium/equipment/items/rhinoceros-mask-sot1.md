@@ -11,11 +11,11 @@ tags:
 aliases: ["Rhinoceros Mask"]
 ---
 # Rhinoceros Mask *Item 4+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** worn mask
 
-Covered with thick armor and bearing a thicker horn, this face mask grants you increased momentum. If you [Stride](rules/actions/stride.md) at least 10 feet, your next melee [Strike](rules/actions/strike.md) before the end of your turn ignores the Hardness of objects with a Hardness of 5 or less. If the object has more than Hardness 5, the mask grants no benefit.
+Covered with thick armor and bearing a thicker horn, this face mask grants you increased momentum. If you [Stride](archive/srd/pf2e/rules/actions/stride.md) at least 10 feet, your next melee [Strike](archive/srd/pf2e/rules/actions/strike.md) before the end of your turn ignores the Hardness of objects with a Hardness of 5 or less. If the object has more than Hardness 5, the mask grants no benefit.
 
 ---
 
@@ -29,7 +29,7 @@ Covered with thick armor and bearing a thicker horn, this face mask grants you i
 
 - **Price**: 425 gp
 
-Your melee [Strikes](rules/actions/strike.md) ignore the Hardness of objects with a Hardness of 10 or less.
+Your melee [Strikes](archive/srd/pf2e/rules/actions/strike.md) ignore the Hardness of objects with a Hardness of 10 or less.
 
 ---
 *Source: Strength of Thousands #1: Kindled Magic p. 74*

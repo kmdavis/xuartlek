@@ -19,8 +19,8 @@ aliases: ["Set"]
 
 ## Devotee benefits
 
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [darkness](compendium/setting/domains.md#Darkness), [dust](compendium/setting/domains.md#Dust), [lightning](compendium/setting/domains.md#Lightning)
-- **Cleric Spells**: 1st: [penumbral shroud](compendium/spells/penumbral-shroud-logm.md); 3rd: [cup of dust](compendium/spells/cup-of-dust-logm.md); 6th: [disintegrate](compendium/spells/disintegrate.md)
+- **Favored Weapon**: [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [dust](archive/srd/pf2e/compendium/setting/domains.md#Dust), [lightning](archive/srd/pf2e/compendium/setting/domains.md#Lightning)
+- **Cleric Spells**: 1st: [penumbral shroud](penumbral-shroud-logm.md); 3rd: [cup of dust](cup-of-dust-logm.md); 6th: [disintegrate](archive/srd/pf2e/compendium/spells/disintegrate.md)

@@ -9,7 +9,7 @@ tags:
 aliases: ["Nine-Ring Sword"]
 ---
 # Nine-Ring Sword *Item 0*  
-[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 9 sp
 - **Bulk** 1

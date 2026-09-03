@@ -11,10 +11,10 @@ tags:
 aliases: ["Grasping Grave"]
 ---
 # Grasping Grave *Focus 5*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bloodline** Sorcerer
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Area**: 20-foot radius on the ground
 - **Saving Throw**: Reflex
@@ -25,7 +25,7 @@ Hundreds of skeletal arms erupt from the ground in the area, clawing at creature
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
 > - **Failure** The creature takes full damage and a –10-foot circumstance penalty to its Speeds for 1 round.
-> - **Critical Failure** The creature takes double damage and is [immobilized](rules/conditions.md#Immobilized) for 1 round or until it [Escapes](rules/actions/escape.md).
+> - **Critical Failure** The creature takes double damage and is [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) for 1 round or until it [Escapes](archive/srd/pf2e/rules/actions/escape.md).
 
 **Heightened (+ 1)** The damage increases by 2d6.
 

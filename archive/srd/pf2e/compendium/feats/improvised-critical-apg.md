@@ -7,9 +7,9 @@ tags:
 aliases: ["Improvised Critical"]
 ---
 # Improvised Critical  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Weapon Improviser Dedication](compendium/feats/weapon-improviser-dedication-apg.md)
+- **Prerequisites**: [Weapon Improviser Dedication](weapon-improviser-dedication-apg.md)
 
 You can apply critical specialization effects to improvised weapons you wield. For any given improvised weapon, the GM determines which critical specialization effect is most applicable, based on the type of object it is.
 

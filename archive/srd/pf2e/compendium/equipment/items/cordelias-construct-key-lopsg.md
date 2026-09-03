@@ -12,13 +12,13 @@ tags:
 aliases: ["Cordelia's Construct Key"]
 ---
 # Cordelia's Construct Key *Item 8+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** worn
 
-Worn on a necklace, this intricate key grants you greater facility with constructs. The key alerts you to constructs lurking around you. Whether or not you are Investigating, the GM automatically rolls secret [Recall Knowledge](rules/actions/recall-knowledge.md) checks for you when you see a construct pretending to be a normal object, statue, or the like. Typically, this check is [Arcana](compendium/skills.md#Arcana), [Crafting](compendium/skills.md#Crafting), or an appropriate [Lore](compendium/skills.md#Lore) skill. On a success, you recognize the presence of the construct and gain the usual benefits of [Recall Knowledge](rules/actions/recall-knowledge.md).
+Worn on a necklace, this intricate key grants you greater facility with constructs. The key alerts you to constructs lurking around you. Whether or not you are Investigating, the GM automatically rolls secret [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) checks for you when you see a construct pretending to be a normal object, statue, or the like. Typically, this check is [Arcana](skills.md#Arcana), [Crafting](skills.md#Crafting), or an appropriate [Lore](skills.md#Lore) skill. On a success, you recognize the presence of the construct and gain the usual benefits of [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md).
 
-While you're wearing the key, if your attack reduces a construct to 0 Hit Points, instead of destroying it completely, you can send it into a dormant state, from which you can study its inner workings and possibly (at the GM's discretion) spend time and money to reprogram or repurpose it. Even if you don't subvert it, you can [Repair](rules/actions/repair.md) a construct rendered dormant this way, allowing you to return tomb guardians to their vigil after you've battled them. Additionally, you can activate the key in two ways to call a construct to serve you.
+While you're wearing the key, if your attack reduces a construct to 0 Hit Points, instead of destroying it completely, you can send it into a dormant state, from which you can study its inner workings and possibly (at the GM's discretion) spend time and money to reprogram or repurpose it. Even if you don't subvert it, you can [Repair](archive/srd/pf2e/rules/actions/repair.md) a construct rendered dormant this way, allowing you to return tomb guardians to their vigil after you've battled them. Additionally, you can activate the key in two ways to call a construct to serve you.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
@@ -50,7 +50,7 @@ title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 
 - **Price**: 1750 gp
 
-A greater key allows you to fully comprehend and thus partially bypass a construct's resistances. You ignore the first 5 resistance a construct has against your damaging effects, whether martial or magical. Additionally, the key's first activation casts a 5th-level [summon construct](compendium/spells/summon-construct.md), and its second activation lasts 8 hours.
+A greater key allows you to fully comprehend and thus partially bypass a construct's resistances. You ignore the first 5 resistance a construct has against your damaging effects, whether martial or magical. Additionally, the key's first activation casts a 5th-level [summon construct](archive/srd/pf2e/compendium/spells/summon-construct.md), and its second activation lasts 8 hours.
 
 ---
 *Source: Lost Omens: Pathfinder Society Guide p. 124*

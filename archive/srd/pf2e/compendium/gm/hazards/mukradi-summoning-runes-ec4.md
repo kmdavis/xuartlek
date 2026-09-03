@@ -10,14 +10,14 @@ tags:
 aliases: ["Mukradi Summoning Runes"]
 ---
 # Mukradi Summoning Runes *Hazard 15*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +25 master to notice runes marked on the floor.  
 
 Barely visible runes are etched into the stone floor in a 20-foot diameter circle.
 
-- **Disable** DC 36 [Acrobatics](compendium/skills.md#Acrobatics) to approach without triggering the trap followed by DC 34 [Occultism](compendium/skills.md#Occultism) (expert) or DC 38 Thievery(master) to erase the rune, or dispel magic (8th level; counteract DC 34) to counteract the rune..  
+- **Disable** DC 36 [Acrobatics](skills.md#Acrobatics) to approach without triggering the trap followed by DC 34 [Occultism](skills.md#Occultism) (expert) or DC 38 Thievery(master) to erase the rune, or dispel magic (8th level; counteract DC 34) to counteract the rune..  
 
 ```ad-embed-ability
 title: **Summon Monster** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([conjuration](rules/traits/conjuration.md), [occult](rules/traits/occult.md), summon)

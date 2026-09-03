@@ -12,7 +12,7 @@ aliases: ["Curse of the Ravenous"]
 ---
 # Curse of the Ravenous
 *Curse 5*  
-[curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 This hideous curse kills through constant hunger. You become gaunt and repeatedly gnash your teeth.
 

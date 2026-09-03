@@ -22,11 +22,11 @@ aliases: ["Falayna", "Warrior's Ring"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [longsword](compendium/equipment/items/longsword.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [freedom](compendium/setting/domains.md#Freedom), [might](compendium/setting/domains.md#Might), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 3rd: [ghostly weapon](compendium/spells/ghostly-weapon.md); 5th: [cloak of colors](compendium/spells/cloak-of-colors.md)
+- **Favored Weapon**: [longsword](archive/srd/pf2e/compendium/equipment/items/longsword.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 3rd: [ghostly weapon](archive/srd/pf2e/compendium/spells/ghostly-weapon.md); 5th: [cloak of colors](archive/srd/pf2e/compendium/spells/cloak-of-colors.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Falayna

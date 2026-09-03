@@ -10,11 +10,11 @@ tags:
 aliases: ["Tablet of Chained Souls"]
 ---
 # Tablet of Chained Souls *Item 8*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Bulk** L; **Usage** held in 2 hands
 
-Half-formed, unreadable runes drift across this weathered stone tablet, which resembles a tombstone too eroded to be legible. Created by a long-dead order of scholars dedicated to [Pharasma](compendium/setting/deities/pharasma.md), the tablet of chained souls can be a powerful tool in laying uneasy spirits to rest, but its magic exacts a heavy cost.
+Half-formed, unreadable runes drift across this weathered stone tablet, which resembles a tombstone too eroded to be legible. Created by a long-dead order of scholars dedicated to [Pharasma](pharasma.md), the tablet of chained souls can be a powerful tool in laying uneasy spirits to rest, but its magic exacts a heavy cost.
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") envision, [Interact](rules/actions/interact.md)

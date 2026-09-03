@@ -13,9 +13,9 @@ tags:
 aliases: ["Shatter Mind"]
 ---
 # Shatter Mind *Cantrip 3*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](evocation.md "Evocation School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot cone
 - **Saving Throw**:  basic Will
 
@@ -25,7 +25,7 @@ You telepathically assail the minds of your foes. You deal mental damage equal t
 
 ## Amp
 
-You increase the area of the spell to your choice of a 30-foot cone or 60-foot cone, and the damage dice for the spell change to d10s. Creatures that fail are [stupefied](rules/conditions.md#Stupefied) until the start of your next turn (or [stupefied](rules/conditions.md#Stupefied) on a critical failure).
+You increase the area of the spell to your choice of a 30-foot cone or 60-foot cone, and the damage dice for the spell change to d10s. Creatures that fail are [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) until the start of your next turn (or [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) on a critical failure).
 
 ## Summary
 

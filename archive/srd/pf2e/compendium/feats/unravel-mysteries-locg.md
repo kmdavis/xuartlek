@@ -8,11 +8,11 @@ tags:
 aliases: ["Unravel Mysteries"]
 ---
 # Unravel Mysteries  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: master in a [Decipher Writing](rules/actions/decipher-writing.md) skill, [Scrollmaster Dedication](compendium/feats/scrollmaster-dedication-locg.md)
+- **Prerequisites**: master in a [Decipher Writing](archive/srd/pf2e/rules/actions/decipher-writing.md) skill, [Scrollmaster Dedication](scrollmaster-dedication-locg.md)
 
-You can understand the true meaning of texts quickly, and even when you get lost or hit a dead end, you aren't discouraged from making further attempts to get to the bottom of things. When you [Decipher Writing](rules/actions/decipher-writing.md), you need only half as long as usual (reducing the time from about 1 minute to about half a minute per page), and if you fail, you don't take the usual –2 circumstance penalty to further checks to decipher that text.
+You can understand the true meaning of texts quickly, and even when you get lost or hit a dead end, you aren't discouraged from making further attempts to get to the bottom of things. When you [Decipher Writing](archive/srd/pf2e/rules/actions/decipher-writing.md), you need only half as long as usual (reducing the time from about 1 minute to about half a minute per page), and if you fail, you don't take the usual –2 circumstance penalty to further checks to decipher that text.
 
 *Source: Lost Omens: Character Guide p. 113*  
 %% #compendium/src/pf2e/locg #trait/archetype #trait/skill %%

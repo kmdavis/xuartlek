@@ -9,14 +9,14 @@ tags:
 aliases: ["Inky Tendrils"]
 ---
 # Inky Tendrils *Hazard 20*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +32  
 
 Six giant tentacles reach up from the ink lake, grabbing any foes in reach and dragging them underwater.
 
-- **Disable** DC 48 [Athletics](compendium/skills.md#Athletics) (legendary) or DC 45 [Acrobatics](compendium/skills.md#Acrobatics) (master) to tie one tentacle into a knot, rendering it useless, or dispel magic (8th level; counteract DC 44) to counteract one tentacle. The death of the Daemonic Rumormonger permanently dispels all the inky tendrils.  
+- **Disable** DC 48 [Athletics](skills.md#Athletics) (legendary) or DC 45 [Acrobatics](skills.md#Acrobatics) (master) to tie one tentacle into a knot, rendering it useless, or dispel magic (8th level; counteract DC 44) to counteract one tentacle. The death of the Daemonic Rumormonger permanently dispels all the inky tendrils.  
 
 - **AC** 42, **Fort** +36, **Ref** +39
 - **Tentacle Hardness** 5, **Tentacle HP** 80 (BT 40)

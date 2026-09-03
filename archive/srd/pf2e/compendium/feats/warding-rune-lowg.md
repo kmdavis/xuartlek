@@ -7,9 +7,9 @@ tags:
 aliases: ["Warding Rune"]
 ---
 # Warding Rune  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Runescarred Dedication](compendium/feats/runescarred-dedication-lowg.md)
+- **Prerequisites**: [Runescarred Dedication](runescarred-dedication-lowg.md)
 
 Your runes provide a warding effect that protects you against a specific school of magic. Choose a school of magic other than divination. You gain a rune on your body corresponding to that school, and you gain a +2 circumstance bonus to all saving throws against effects of that school.
 

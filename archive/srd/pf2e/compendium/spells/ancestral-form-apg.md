@@ -11,14 +11,14 @@ tags:
 aliases: ["Ancestral Form"]
 ---
 # Ancestral Form *Focus 6*   
-[cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cursebound](cursebound-apg.md "Cursebound Spell Trait")  [oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: sustained up to 1 minute
 
-You take the form of your ancestral spirits, becoming [invisible](rules/conditions.md#Invisible) and quasi-corporeal. You gain resistance 10 to all damage (except force and damage from [Strikes](rules/actions/strike.md) with the [ghost touch](compendium/equipment/items/ghost-touch.md) property rune), and this resistance is doubled against non-magical and precision damage. You gain a fly Speed equal to your land Speed; when Flying, moving upward isn't difficult terrain for you. You can't move through solid objects, but you can float through tiny gaps. You can't [Cast Spells](rules/actions/cast-a-spell.md) (but you can Sustain a Spell), activate items, or use actions that have the [attack](rules/traits/attack.md "Attack Combat Trait") or [manipulate](rules/traits/manipulate.md "Manipulate General Trait") trait.
+You take the form of your ancestral spirits, becoming [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) and quasi-corporeal. You gain resistance 10 to all damage (except force and damage from [Strikes](archive/srd/pf2e/rules/actions/strike.md) with the [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md) property rune), and this resistance is doubled against non-magical and precision damage. You gain a fly Speed equal to your land Speed; when Flying, moving upward isn't difficult terrain for you. You can't move through solid objects, but you can float through tiny gaps. You can't [Cast Spells](archive/srd/pf2e/rules/actions/cast-a-spell.md) (but you can Sustain a Spell), activate items, or use actions that have the [attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait") or [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait") trait.
 
 **Heightened (+ 2)** The resistance increases by 5.
 

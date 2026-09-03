@@ -7,10 +7,10 @@ tags:
 - trait/misfortune
 aliases: ["Lucky Escape"]
 ---
-# Lucky Escape  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  
+# Lucky Escape  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [misfortune](archive/srd/pf2e/rules/traits/misfortune.md "Misfortune Effect Trait")  
 
-- **Prerequisites**: [Unexpected Sharpshooter Dedication](compendium/feats/unexpected-sharpshooter-dedication-g-g.md)
+- **Prerequisites**: [Unexpected Sharpshooter Dedication](unexpected-sharpshooter-dedication-g-g.md)
 - **Frequency**: once per day
 - **Trigger** A creature targets you with an attack, even if you aren't aware of it.
 - **Activity** Reaction

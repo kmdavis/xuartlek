@@ -8,11 +8,11 @@ tags:
 aliases: ["Glad-hand"]
 ---
 # Glad-hand  *Feat 2*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: expert in [Diplomacy](compendium/skills.md#Diplomacy)
+- **Prerequisites**: expert in [Diplomacy](skills.md#Diplomacy)
 
-First impressions are your strong suit. When you meet someone in a casual or social situation, you can immediately attempt a [Diplomacy](compendium/skills.md#Diplomacy) check to [Make an Impression](rules/actions/make-an-impression.md) on that creature rather than needing to converse for 1 minute. You take a –5 penalty to the check. If you fail or critically fail, you can engage in 1 minute of conversation and attempt a new check at the end of that time rather than accepting the failure or critical failure result.
+First impressions are your strong suit. When you meet someone in a casual or social situation, you can immediately attempt a [Diplomacy](skills.md#Diplomacy) check to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md) on that creature rather than needing to converse for 1 minute. You take a –5 penalty to the check. If you fail or critically fail, you can engage in 1 minute of conversation and attempt a new check at the end of that time rather than accepting the failure or critical failure result.
 
 *Source: Core Rulebook p. 261*  
 %% #compendium/src/pf2e/crb #trait/general #trait/skill %%

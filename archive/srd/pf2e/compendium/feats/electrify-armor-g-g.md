@@ -7,8 +7,8 @@ tags:
 - trait/manipulate
 aliases: ["Electrify Armor"]
 ---
-# Electrify Armor  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
-[inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
+# Electrify Armor  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 10*  
+[inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Prerequisites**: armor innovation
 - **Requirements**: You are wearing your armor innovation.

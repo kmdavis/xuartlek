@@ -14,7 +14,7 @@ You speak to spirits only you can perceive: wispy shreds of lost souls, househol
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [Spirit Lore](compendium/skills.md#Lore) skill. You gain the Host Spirit action.
+You're trained in the [Spirit Lore](skills.md#Lore) skill. You gain the Host Spirit action.
 
 ```ad-embed-ability
 title: **Host Spirit**  ([exploration](rules/traits/exploration.md), [necromancy](rules/traits/necromancy.md), [occult](rules/traits/occult.md))

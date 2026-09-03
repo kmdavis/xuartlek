@@ -20,8 +20,8 @@ aliases: ["Shyka", "The Many"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [light mace](compendium/equipment/items/light-mace.md)
-- **Domains**: [decay](compendium/setting/domains.md#Decay), [delirium](compendium/setting/domains.md#Delirium), [fate](compendium/setting/domains.md#Fate), [time](compendium/setting/domains.md#Time)
-- **Cleric Spells**: 1st: [anticipate peril](compendium/spells/anticipate-peril-logm.md); 3rd: [haste](compendium/spells/haste.md); 7th: [time beacon](compendium/spells/time-beacon-logm.md)
+- **Favored Weapon**: [light mace](archive/srd/pf2e/compendium/equipment/items/light-mace.md)
+- **Domains**: [decay](archive/srd/pf2e/compendium/setting/domains.md#Decay), [delirium](archive/srd/pf2e/compendium/setting/domains.md#Delirium), [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [time](archive/srd/pf2e/compendium/setting/domains.md#Time)
+- **Cleric Spells**: 1st: [anticipate peril](anticipate-peril-logm.md); 3rd: [haste](archive/srd/pf2e/compendium/spells/haste.md); 7th: [time beacon](time-beacon-logm.md)

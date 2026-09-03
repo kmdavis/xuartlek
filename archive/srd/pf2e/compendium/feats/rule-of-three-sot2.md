@@ -9,10 +9,10 @@ tags:
 - trait/magical
 aliases: ["Rule Of Three"]
 ---
-# Rule Of Three  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+# Rule Of Three  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
-- **Prerequisites**: [Folklorist Dedication](compendium/feats/folklorist-dedication-sot2.md)
+- **Prerequisites**: [Folklorist Dedication](folklorist-dedication-sot2.md)
 - **Trigger** The villain of the tale you've spun makes an attack roll with a given weapon or unarmed attack, uses a particular special ability (such as a Breath Weapon), or
 - **Requirements**: You have Spun a Tale.
 - **Activity** Reaction

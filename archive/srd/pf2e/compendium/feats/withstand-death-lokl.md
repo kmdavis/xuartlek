@@ -7,9 +7,9 @@ tags:
 aliases: ["Withstand Death"]
 ---
 # Withstand Death  *Feat 16*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md), Necromantic Resistance
+- **Prerequisites**: [Lastwall Sentry Dedication](lastwall-sentry-dedication-lowg.md), Necromantic Resistance
 
 Through repeated exposure, you've trained to resist the damage wrought by undead. Your resistance to negative damage also applies to damage dealt by the attacks and abilities of undead creatures, regardless of damage type.
 

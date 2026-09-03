@@ -10,10 +10,10 @@ tags:
 aliases: ["Consecrate Flesh"]
 ---
 # Consecrate Flesh *Spell 3*   
-[good](rules/traits/good.md "Good Alignment Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[good](good.md "Good Alignment Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 1 minute
 
@@ -21,6 +21,6 @@ Through the strength of your faith, your body becomes infused with holy energy. 
 
 Your unarmed attacks deal an additional 1 good damage. Your healing spells that restore Hit Points restore an additional `1d4` Hit Points when you initially cast them; as normal, if your healing spell restores Hit Points more than once, grants fast healing, or the like, the additional Hit Points still only apply once.
 
-**Heightened (+ 3)** Creatures touching you take `1d6` additional good damage, your unarmed [Strikes](rules/actions/strike.md) deal 1 additional good damage, your healing spells restore `1d4` more additional Hit Points, and your weakness to evil increases by 5.
+**Heightened (+ 3)** Creatures touching you take `1d6` additional good damage, your unarmed [Strikes](archive/srd/pf2e/rules/actions/strike.md) deal 1 additional good damage, your healing spells restore `1d4` more additional Hit Points, and your weakness to evil increases by 5.
 
 *Source: Lost Omens: Knights of Lastwall p. 92*

@@ -21,4 +21,4 @@ But you don't care—you know you're doing the right thing by taking on the roug
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and [Legal Lore](compendium/skills.md#Lore). You gain a +1 circumstance bonus to [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), and [Intimidation](compendium/skills.md#Intimidation) checks to interact with members of Absalom's political establishment. You gain the [Hobnobber](compendium/feats/hobnobber.md) skill feat.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and [Legal Lore](skills.md#Lore). You gain a +1 circumstance bonus to [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), and [Intimidation](skills.md#Intimidation) checks to interact with members of Absalom's political establishment. You gain the [Hobnobber](archive/srd/pf2e/compendium/feats/hobnobber.md) skill feat.

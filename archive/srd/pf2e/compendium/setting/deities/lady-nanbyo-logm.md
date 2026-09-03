@@ -20,8 +20,8 @@ aliases: ["Lady Nanbyo", "The Widow of Suffering"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [fire](compendium/setting/domains.md#Fire), [plague](compendium/setting/domains.md#Plague), [water](compendium/setting/domains.md#Water)
-- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 5th: [control water](compendium/spells/control-water.md); 6th: [dragon form](compendium/spells/dragon-form.md)
+- **Favored Weapon**: [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [plague](archive/srd/pf2e/compendium/setting/domains.md#Plague), [water](archive/srd/pf2e/compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [burning hands](burning-hands.md); 5th: [control water](archive/srd/pf2e/compendium/spells/control-water.md); 6th: [dragon form](archive/srd/pf2e/compendium/spells/dragon-form.md)

@@ -12,8 +12,8 @@ tags:
 - trait/wood
 aliases: ["Hedge Maze"]
 ---
-# Hedge Maze  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 12*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [wood](rules/traits/wood-roe.md "Wood Energy & Element Trait")  
+# Hedge Maze  [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 12*  
+[impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [overflow](overflow-roe.md "Overflow Action & Ability Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [wood](wood-roe.md "Wood Energy & Element Trait")  
 
 - **Activity** Three-Action
 

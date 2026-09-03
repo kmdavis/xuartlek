@@ -8,15 +8,15 @@ tags:
 aliases: ["Swift Sneak"]
 ---
 # Swift Sneak  *Feat 7*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: master in [Stealth](compendium/skills.md#Stealth)
+- **Prerequisites**: master in [Stealth](skills.md#Stealth)
 
-You can move your full Speed when you [Sneak](rules/actions/sneak.md). You can use Swift Sneak while [Burrowing](rules/actions/burrow.md), [Climbing](rules/actions/climb.md), [Flying](rules/actions/fly.md), or [Swimming](rules/actions/swim.md) instead of [Striding](rules/actions/stride.md) if you have the corresponding movement type.
+You can move your full Speed when you [Sneak](archive/srd/pf2e/rules/actions/sneak.md). You can use Swift Sneak while [Burrowing](archive/srd/pf2e/rules/actions/burrow.md), [Climbing](archive/srd/pf2e/rules/actions/climb.md), [Flying](archive/srd/pf2e/rules/actions/fly.md), or [Swimming](archive/srd/pf2e/rules/actions/swim.md) instead of [Striding](archive/srd/pf2e/rules/actions/stride.md) if you have the corresponding movement type.
 
 ## Swift Sneak leads to...
 
-[Legendary Sneak](compendium/feats/legendary-sneak.md)
+[Legendary Sneak](archive/srd/pf2e/compendium/feats/legendary-sneak.md)
 
 ## Summary
 

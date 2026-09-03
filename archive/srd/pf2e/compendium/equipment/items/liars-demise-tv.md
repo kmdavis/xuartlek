@@ -14,14 +14,14 @@ tags:
 aliases: ["Liar's Demise"]
 ---
 # Liar's Demise *Item 14*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [contact](archive/srd/pf2e/rules/traits/contact.md "Contact Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 650 gp
 - **Craft Requirements** Supply one casting of zone of truth.
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-This thick green cream quickly seeps into victim's skin. In addition to causing painful swelling in the brain, liar's demise compels the victim to speak only the truth. While under the effect of liar's demise, the victim takes the listed poison damage and mental damage for any time they voluntarily and knowingly tell a lie, due to the poison's increased blood pressure to their brain. They take this damage once per round at most, even if they lie several times in rapid succession. The victim is aware of this effect and can choose to not answer or give only evasive, technically truthful, answers—this is a [mental](rules/traits/mental.md "Mental Effect Trait") effect.
+This thick green cream quickly seeps into victim's skin. In addition to causing painful swelling in the brain, liar's demise compels the victim to speak only the truth. While under the effect of liar's demise, the victim takes the listed poison damage and mental damage for any time they voluntarily and knowingly tell a lie, due to the poison's increased blood pressure to their brain. They take this damage once per round at most, even if they lie several times in rapid succession. The victim is aware of this effect and can choose to not answer or give only evasive, technically truthful, answers—this is a [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") effect.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 34 Fortitude

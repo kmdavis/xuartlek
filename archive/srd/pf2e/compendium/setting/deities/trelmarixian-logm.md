@@ -20,8 +20,8 @@ aliases: ["Trelmarixian", "The Lysogenic Prince"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [spiked gauntlet](compendium/equipment/items/spiked-gauntlet.md)
-- **Domains**: [decay](compendium/setting/domains.md#Decay), [dust](compendium/setting/domains.md#Dust), [earth](compendium/setting/domains.md#Earth), [nightmares](compendium/setting/domains.md#Nightmares)
-- **Cleric Spells**: 1st: [grease](compendium/spells/grease.md); 2nd: [feast of ashes](compendium/spells/feast-of-ashes-logm.md); 5th: [acid storm](compendium/spells/acid-storm-logm.md)
+- **Favored Weapon**: [spiked gauntlet](archive/srd/pf2e/compendium/equipment/items/spiked-gauntlet.md)
+- **Domains**: [decay](archive/srd/pf2e/compendium/setting/domains.md#Decay), [dust](archive/srd/pf2e/compendium/setting/domains.md#Dust), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares)
+- **Cleric Spells**: 1st: [grease](archive/srd/pf2e/compendium/spells/grease.md); 2nd: [feast of ashes](feast-of-ashes-logm.md); 5th: [acid storm](acid-storm-logm.md)

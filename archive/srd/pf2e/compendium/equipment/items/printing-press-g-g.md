@@ -9,7 +9,7 @@ tags:
 aliases: ["Printing Press"]
 ---
 # Printing Press *Item 9*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 600 gp
 - **Bulk** 20

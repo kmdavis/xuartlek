@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Ghost Flight"]
 ---
-# Ghost Flight  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Ghost Flight  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
+- **Prerequisites**: [Ghost Dedication](ghost-dedication-botd.md)
 - **Frequency**: once per day
 - **Activity** Two-Action
 
@@ -17,7 +17,7 @@ You can suppress your tether to the ground, overcoming your resistance to fly fr
 
 ## Ghost Flight leads to...
 
-[Unlimited Ghost Flight](compendium/feats/unlimited-ghost-flight-botd.md)
+[Unlimited Ghost Flight](unlimited-ghost-flight-botd.md)
 
 ## Summary
 

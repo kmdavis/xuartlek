@@ -10,7 +10,7 @@ tags:
 aliases: ["Cube of Force"]
 ---
 # Cube of Force *Item 13*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 3000 gp
 - **Bulk** —; **Usage** held in 1 hand

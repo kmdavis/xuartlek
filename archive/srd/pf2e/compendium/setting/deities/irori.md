@@ -27,12 +27,12 @@ aliases: ["Irori", "Master of Masters"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
 - **Favored Weapon**: fist
-- **Domains**: [knowledge](compendium/setting/domains.md#Knowledge), [might](compendium/setting/domains.md#Might), [perfection](compendium/setting/domains.md#Perfection), [truth](compendium/setting/domains.md#Truth)
-- **Alternate Domains**: [change](compendium/setting/domains.md#Change), [vigil](compendium/setting/domains.md#Vigil)
-- **Cleric Spells**: 1st: [jump](compendium/spells/jump.md); 3rd: [haste](compendium/spells/haste.md); 4th: [stoneskin](compendium/spells/stoneskin.md)
+- **Domains**: [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Alternate Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [jump](archive/srd/pf2e/compendium/spells/jump.md); 3rd: [haste](archive/srd/pf2e/compendium/spells/haste.md); 4th: [stoneskin](stoneskin.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Irori
@@ -48,10 +48,10 @@ title: [Avatar](compendium/spells/avatar.md) of Irori
 
 Irori grants his boons to those making progress on their paths toward perfection. He avoids bestowing misfortune as punishment, preferring to do so only to give an individual a challenging obstacle to overcome to help them progress in their quest for self-perfection.
 
-- **Minor Boon** Irori grants you great insight and knowledge. Once, when you roll a failure at a check to [Recall Knowledge](rules/actions/recall-knowledge.md), you get a critical success instead. Furthermore, the check loses the [secret](rules/traits/secret.md "Secret General Trait") trait, so you know for sure that the result was a critical success. Irori typically grants this boon for an extremely consequential check to [Recall Knowledge](rules/actions/recall-knowledge.md).
-- **Moderate Boon**: Your body rebuilds after adversity, becoming stronger. You can cast [wholeness of body](compendium/spells/wholeness-of-body.md) as an [occult](rules/traits/occult.md "Occult Tradition Trait") ki spell. If you didn't have one already, you gain a focus pool with 1 Focus Point and are trained in [occult](rules/traits/occult.md "Occult Tradition Trait") spell attack rolls and spell DCs.
-- **Major Boon**: You can temporarily ascend to a greater form. You can cast 8th-level [righteous might](compendium/spells/righteous-might.md) once per day as an [occult](rules/traits/occult.md "Occult Tradition Trait") innate spell. When you do, your form appears unremarkable, rather than clad in powerful armaments.
+- **Minor Boon** Irori grants you great insight and knowledge. Once, when you roll a failure at a check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md), you get a critical success instead. Furthermore, the check loses the [secret](archive/srd/pf2e/rules/traits/secret.md "Secret General Trait") trait, so you know for sure that the result was a critical success. Irori typically grants this boon for an extremely consequential check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md).
+- **Moderate Boon**: Your body rebuilds after adversity, becoming stronger. You can cast [wholeness of body](archive/srd/pf2e/compendium/spells/wholeness-of-body.md) as an [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait") ki spell. If you didn't have one already, you gain a focus pool with 1 Focus Point and are trained in [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait") spell attack rolls and spell DCs.
+- **Major Boon**: You can temporarily ascend to a greater form. You can cast 8th-level [righteous might](righteous-might.md) once per day as an [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait") innate spell. When you do, your form appears unremarkable, rather than clad in powerful armaments.
 
-- **Minor Curse**: Irori challenges you to seek another path, rather than treat every problem as a nail just because you have a hammer. If you select a check for which you have a higher bonus when another method would have been more appropriate for the situation, such as using [Deception](compendium/skills.md#Deception) to lie through life because it's your highest modifier, even if it would be better to reach a compromise through [Diplomacy](compendium/skills.md#Diplomacy), you must roll twice and take the lower result.
-- **Moderate Curse** Irori challenges you to adapt to adversity in order to perfect yourself. You become weighed down as if under heavy weights, becoming [clumsy](rules/conditions.md#Clumsy) and [encumbered](rules/conditions.md#Encumbered) until you accomplish a challenging task of Irori's choosing.
+- **Minor Curse**: Irori challenges you to seek another path, rather than treat every problem as a nail just because you have a hammer. If you select a check for which you have a higher bonus when another method would have been more appropriate for the situation, such as using [Deception](skills.md#Deception) to lie through life because it's your highest modifier, even if it would be better to reach a compromise through [Diplomacy](skills.md#Diplomacy), you must roll twice and take the lower result.
+- **Moderate Curse** Irori challenges you to adapt to adversity in order to perfect yourself. You become weighed down as if under heavy weights, becoming [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) and [encumbered](archive/srd/pf2e/rules/conditions.md#Encumbered) until you accomplish a challenging task of Irori's choosing.
 - **Major Curse**: Irori makes all living creatures forget your existence. This can be further compounded by raising Irori's ire, resulting in your name being obliterated from all written records. In both cases, memories and writings rearrange themselves to omit you smoothly, rather than leaving obvious gaps.

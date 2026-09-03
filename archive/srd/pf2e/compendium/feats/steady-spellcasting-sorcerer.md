@@ -7,10 +7,10 @@ tags:
 aliases: ["Steady Spellcasting (Sorcerer)"]
 ---
 # Steady Spellcasting (Sorcerer)  *Feat 6*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 
-You are confident in your spellcasting technique, and you are more easily able to retain your concentration when you [Cast a Spell](rules/actions/cast-a-spell.md). If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. If you succeed, your action isn't disrupted.
+You are confident in your spellcasting technique, and you are more easily able to retain your concentration when you [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md). If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. If you succeed, your action isn't disrupted.
 
 *Source: Core Rulebook p. 200*  
 %% #compendium/src/pf2e/crb #trait/sorcerer %%

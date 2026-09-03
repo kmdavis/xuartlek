@@ -12,11 +12,11 @@ tags:
 aliases: ["Cane Of The Maelstrom"]
 ---
 # Cane Of The Maelstrom *Item 22*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [cursed](cursed-gmg.md "Cursed Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
-A large crystal of [warpglass](compendium/equipment/items/warpglass-aoe6.md) floats above the head of this silvery purple +3 anarchic greater striking club. If you successfully [Strike](rules/actions/strike.md) a creature, the cane also affects the target with a [warpwave](rules/abilities/warpwave-aoe6.md). While you carry the cane, you hear a constant, distracting chorus of laughing, incoherent Protean whispers and sing-song voices in your mind. Blatant acts of self-indulgence or narcissism quell these whispers, from a few minutes up to a full day depending on the scope of the act, but they immediately return when you use the artifact's powers.
+A large crystal of [warpglass](warpglass-aoe6.md) floats above the head of this silvery purple +3 anarchic greater striking club. If you successfully [Strike](archive/srd/pf2e/rules/actions/strike.md) a creature, the cane also affects the target with a [warpwave](warpwave-aoe6.md). While you carry the cane, you hear a constant, distracting chorus of laughing, incoherent Protean whispers and sing-song voices in your mind. Blatant acts of self-indulgence or narcissism quell these whispers, from a few minutes up to a full day depending on the scope of the act, but they immediately return when you use the artifact's powers.
 
 The gradually rising chorus eventually drives away rational thought and renders the cane's owner insane, even if staved off from time to time with self-centered acts. As the artifact's abilities pull material from the Maelstrom, it doesn't function in areas where planar connections are severed.
 

@@ -10,11 +10,11 @@ tags:
 aliases: ["Cloak of Elvenkind"]
 ---
 # Cloak of Elvenkind *Item 7+*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L; **Usage** worn cloak
 
-This cloak is deep green with a voluminous hood, embroidered with gold trim and symbols significant in elven culture. The cloak allows you to cast the [ghost sound](compendium/spells/ghost-sound.md) cantrip as an arcane innate spell. When you adjust the cloak's clasp (an [Interact](rules/actions/interact.md) action), the cloak transforms to match the environment around you and muffles your sounds, granting you a +1 item bonus to [Stealth](compendium/skills.md#Stealth) checks.
+This cloak is deep green with a voluminous hood, embroidered with gold trim and symbols significant in elven culture. The cloak allows you to cast the [ghost sound](ghost-sound.md) cantrip as an arcane innate spell. When you adjust the cloak's clasp (an [Interact](archive/srd/pf2e/rules/actions/interact.md) action), the cloak transforms to match the environment around you and muffles your sounds, granting you a +1 item bonus to [Stealth](skills.md#Stealth) checks.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)
@@ -36,7 +36,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Price**: 1750 gp
 
-The cloak grants a +2 item bonus, and the effects of 4th-level [invisibility](compendium/spells/invisibility.md). If you're also wearing boots of elvenkind, the greater cloak of elvenkind allows you to [Sneak](rules/actions/sneak.md) in forest environments even when creatures are currently observing you.
+The cloak grants a +2 item bonus, and the effects of 4th-level [invisibility](archive/srd/pf2e/compendium/spells/invisibility.md). If you're also wearing boots of elvenkind, the greater cloak of elvenkind allows you to [Sneak](archive/srd/pf2e/rules/actions/sneak.md) in forest environments even when creatures are currently observing you.
 
 ---
 *Source: Core Rulebook p. 608*

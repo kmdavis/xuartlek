@@ -20,8 +20,8 @@ aliases: ["Cernunnos", "The Horned Lord"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md)
-- **Domains**: [lightning](compendium/setting/domains.md#Lightning), [nature](compendium/setting/domains.md#Nature), [passion](compendium/setting/domains.md#Passion), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 2nd: [animal form](compendium/spells/animal-form.md); 3rd: [lightning bolt](compendium/spells/lightning-bolt.md)
+- **Favored Weapon**: [longbow](archive/srd/pf2e/compendium/equipment/items/longbow.md)
+- **Domains**: [lightning](archive/srd/pf2e/compendium/setting/domains.md#Lightning), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 2nd: [animal form](archive/srd/pf2e/compendium/spells/animal-form.md); 3rd: [lightning bolt](archive/srd/pf2e/compendium/spells/lightning-bolt.md)

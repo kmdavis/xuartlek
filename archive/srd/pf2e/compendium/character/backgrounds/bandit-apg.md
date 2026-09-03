@@ -17,4 +17,4 @@ Now, adventure is your stock and trade, and years of camping and skirmishing hav
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and a [Lore](compendium/skills.md#Lore) skill related to the terrain you worked in (such as [Desert Lore](compendium/skills.md#Lore) or [Plains Lore](compendium/skills.md#Lore)). You gain the [Group Coercion](compendium/feats/group-coercion.md) skill feat.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and a [Lore](skills.md#Lore) skill related to the terrain you worked in (such as [Desert Lore](skills.md#Lore) or [Plains Lore](skills.md#Lore)). You gain the [Group Coercion](archive/srd/pf2e/compendium/feats/group-coercion.md) skill feat.

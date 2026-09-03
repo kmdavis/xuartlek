@@ -9,7 +9,7 @@ tags:
 aliases: ["Wand Cane"]
 ---
 # Wand Cane *Item 4*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 100 gp
 - **Bulk** L; **Usage** held in 1 hand

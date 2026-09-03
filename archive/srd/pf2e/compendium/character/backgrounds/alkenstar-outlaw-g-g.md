@@ -17,4 +17,4 @@ The life of an adventurer might even be a relief compared to a life forever on t
 
 Choose two ability boosts. One boost must be to Dexterity or Constitution, and one is a free ability boost.
 
-You're trained in [Thievery](compendium/skills.md#Thievery) and [Underworld Lore](compendium/skills.md#Lore). You gain the [Subtle Theft](compendium/feats/subtle-theft.md) skill feat.
+You're trained in [Thievery](skills.md#Thievery) and [Underworld Lore](skills.md#Lore). You gain the [Subtle Theft](archive/srd/pf2e/compendium/feats/subtle-theft.md) skill feat.

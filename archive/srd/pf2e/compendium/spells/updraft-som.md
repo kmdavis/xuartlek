@@ -10,14 +10,14 @@ tags:
 aliases: ["Updraft"]
 ---
 # Updraft *Focus 1*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 creature
 - **Saving Throw**:  basic Reflex
 
-A powerful blast of wind erupts from the ground, launching the target into the air and sending it crashing back down. The collision deals `2d6` bludgeoning damage with a basic Reflex save. On a failure, the target is knocked [prone](rules/conditions.md#Prone).
+A powerful blast of wind erupts from the ground, launching the target into the air and sending it crashing back down. The collision deals `2d6` bludgeoning damage with a basic Reflex save. On a failure, the target is knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone).
 
 **Heightened (+ 1)** Increase the damage by `2d6`.
 

@@ -14,14 +14,14 @@ tags:
 aliases: ["Sight-Theft Grit"]
 ---
 # Sight-Theft Grit *Item 9*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [ingested](archive/srd/pf2e/rules/traits/ingested.md "Ingested Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 115 gp
 - **Craft Requirements** Supply one casting of blindness.
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-This blackish grit seems to absorb light and resembles particularly dark flakes of black pepper. Infused with the [blindness](compendium/spells/blindness.md) spell, sight-theft grit causes the victim's sight to dim and then depart altogether. The [blinded](rules/conditions.md#Blinded) condition from this poison lasts for an additional 24 hours once the poison has run its course.
+This blackish grit seems to absorb light and resembles particularly dark flakes of black pepper. Infused with the [blindness](archive/srd/pf2e/compendium/spells/blindness.md) spell, sight-theft grit causes the victim's sight to dim and then depart altogether. The [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) condition from this poison lasts for an additional 24 hours once the poison has run its course.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 28 Fortitude

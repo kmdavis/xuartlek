@@ -7,14 +7,14 @@ tags:
 aliases: ["Plummeting Doom"]
 ---
 # Plummeting Doom *Hazard 15*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 40 master to hear the echoes of a faraway object crashing into the ground  
 
 Four vengeful spirits grab interlopers and toss them off the edge of a nearby 120-foot-tall cliff.
 
-- **Disable** DC 40 [Athletics](compendium/skills.md#Athletics) (trained) to push back so forcefully that the spirits fear being thrown off the cliff, or DC 40 [Religion](compendium/skills.md#Religion) (expert) to temporarily seal the spirits away  
+- **Disable** DC 40 [Athletics](skills.md#Athletics) (trained) to push back so forcefully that the spirits fear being thrown off the cliff, or DC 40 [Religion](skills.md#Religion) (expert) to temporarily seal the spirits away  
 
 ```ad-embed-ability
 title: **Call of the Ground** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([abjuration](rules/traits/abjuration.md), [divine](rules/traits/divine.md))

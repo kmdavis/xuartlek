@@ -9,7 +9,7 @@ tags:
 aliases: ["Armor Potency"]
 ---
 # Armor Potency *Item 5+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Usage** etched onto armor
 
@@ -24,19 +24,19 @@ You can upgrade the armor potency rune already etched on a suit of armor to a st
 #### +1 armor potency *Item 5*
 
 - **Price**: 160 gp
-- **Craft Requirements**: You are an expert in [Crafting](compendium/skills.md#Crafting).
+- **Craft Requirements**: You are an expert in [Crafting](skills.md#Crafting).
 
 #### +2 armor potency *Item 11*
 
 - **Price**: 1060 gp
-- **Craft Requirements**: You are a master in [Crafting](compendium/skills.md#Crafting).
+- **Craft Requirements**: You are a master in [Crafting](skills.md#Crafting).
 
 Increase the armor's item bonus to AC by 2, and the armor can be etched with two property runes.
 
 #### +3 armor potency *Item 18*
 
 - **Price**: 20560 gp
-- **Craft Requirements**: You are legendary in [Crafting](compendium/skills.md#Crafting).
+- **Craft Requirements**: You are legendary in [Crafting](skills.md#Crafting).
 
 Increase the armor's item bonus to AC by 3, and the armor can be etched with three property runes.
 

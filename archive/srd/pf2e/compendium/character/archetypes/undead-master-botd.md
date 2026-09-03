@@ -11,7 +11,7 @@ Not everyone with an interest in the undead raises a vast army of faceless, disp
 
 This archetype works well for a necromancer capable of raising undead but isn't exclusive to them. You could be a warrior who befriended an undead, an evil champion granted an undead companion by your deity, or an undead bloodline sorcerer undead are drawn to.
 
-The additional feats below are found in the [beastmaster](compendium/character/archetypes/beastmaster-apg.md) archetype. Whenever one of these additional feats refers to an animal companion, as an undead master, you apply it to your undead companion instead.
+The additional feats below are found in the [beastmaster](beastmaster-apg.md) archetype. Whenever one of these additional feats refers to an animal companion, as an undead master, you apply it to your undead companion instead.
 
 *Source: Book of the Dead p. 41*
 

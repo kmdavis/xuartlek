@@ -10,14 +10,14 @@ tags:
 - trait/mental
 aliases: ["Request"]
 ---
-# Request (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+# Request (basic) [>](chapter-9-playing-the-game.md#Actions "Single Action")
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](archive/srd/pf2e/rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 *Source: Core Rulebook p. 247*  
 
-**Skill** [diplomacy](compendium/skills.md#Diplomacy) (untrained)
+**Skill** [diplomacy](skills.md#Diplomacy) (untrained)
 - **Activity**: Single Action
 
-You can make a request of a creature that's [friendly](rules/conditions.md#Friendly) or [helpful](rules/conditions.md#Helpful) to you. You must couch the request in terms that the target would accept given their current attitude toward you. The GM sets the DC based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.
+You can make a request of a creature that's [friendly](archive/srd/pf2e/rules/conditions.md#Friendly) or [helpful](archive/srd/pf2e/rules/conditions.md#Helpful) to you. You must couch the request in terms that the target would accept given their current attitude toward you. The GM sets the DC based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.
 
 > [!success-degree] 
 > - **Critical Success** The target agrees to your request without qualifications.

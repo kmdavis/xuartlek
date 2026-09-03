@@ -15,4 +15,4 @@ Astrologers look to the stars for signs and portents, using their positions to c
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in [Occultism](compendium/skills.md#Occultism) and [Astrology Lore](compendium/skills.md#Lore). You gain the [Oddity Identification](compendium/feats/oddity-identification.md) skill feat.
+You're trained in [Occultism](skills.md#Occultism) and [Astrology Lore](skills.md#Lore). You gain the [Oddity Identification](archive/srd/pf2e/compendium/feats/oddity-identification.md) skill feat.

@@ -6,17 +6,17 @@ tags:
 - trait/archetype
 aliases: ["Interrupt Charge"]
 ---
-# Interrupt Charge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Interrupt Charge  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md)
+- **Prerequisites**: [Knight Vigilant Dedication](knight-vigilant-dedication-locg.md)
 - **Trigger** A foe within reach attempts to move away from you.
 - **Requirements**: You have a hand free.
 - **Activity** Reaction
 
 You attempt to snag the foe before they run away.
 
-Attempt an [Athletics](compendium/skills.md#Athletics) check against the higher of the triggering creature's [Athletics](compendium/skills.md#Athletics) DC or Fortitude DC.
+Attempt an [Athletics](skills.md#Athletics) check against the higher of the triggering creature's [Athletics](skills.md#Athletics) DC or Fortitude DC.
 
 > [!success-degree] 
 > - **Critical Success** You disrupt the movement.

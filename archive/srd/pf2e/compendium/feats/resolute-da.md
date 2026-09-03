@@ -7,9 +7,9 @@ tags:
 aliases: ["Resolute"]
 ---
 # Resolute  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Thaumaturge Dedication](compendium/feats/thaumaturge-dedication-da.md), expert in Will
+- **Prerequisites**: [Thaumaturge Dedication](thaumaturge-dedication-da.md), expert in Will
 
 You've tempered your mind and become resolute against effects that strain your willpower. Your proficiency rank for Will saves increases to master.
 

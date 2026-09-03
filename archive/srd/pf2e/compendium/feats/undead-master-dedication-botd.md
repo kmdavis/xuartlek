@@ -9,7 +9,7 @@ tags:
 aliases: ["Undead Master Dedication"]
 ---
 # Undead Master Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: evil alignment
 
@@ -21,7 +21,7 @@ Contrary to the usual rules for companions, as an undead master it's possible fo
 
 ## Undead Master Dedication leads to...
 
-[Guardian Ghosts](compendium/feats/guardian-ghosts-botd.md), [Their Master's Call](compendium/feats/their-masters-call-botd.md)
+[Guardian Ghosts](guardian-ghosts-botd.md), [Their Master's Call](their-masters-call-botd.md)
 
 ## Summary
 

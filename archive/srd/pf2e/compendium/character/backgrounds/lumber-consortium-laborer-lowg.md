@@ -15,6 +15,6 @@ You have suffered as a worker for the unscrupulous Lumber Consortium, laboring u
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Forest Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Forest Lore](skills.md#Lore) skill.
 
-You gain the [Assurance](compendium/feats/assurance.md) skill feat with [Athletics](compendium/skills.md#Athletics).
+You gain the [Assurance](archive/srd/pf2e/compendium/feats/assurance.md) skill feat with [Athletics](skills.md#Athletics).

@@ -15,4 +15,4 @@ You died. No real doubt about that. Bullet to the brain or knife to the throat, 
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in [Religion](compendium/skills.md#Religion) and [Boneyard Lore](compendium/skills.md#Lore). You're still alive, not [undead](rules/traits/undead.md "Undead Creature Type Trait"), but you have the [negative healing](rules/abilities/negative-healing-b2.md) ability, which means you're harmed by positive damage and healed by [negative](rules/traits/negative.md "Negative Energy & Element Trait") effects as if you were [undead](rules/traits/undead.md "Undead Creature Type Trait").
+You're trained in [Religion](skills.md#Religion) and [Boneyard Lore](skills.md#Lore). You're still alive, not [undead](archive/srd/pf2e/rules/traits/undead.md "Undead Creature Type Trait"), but you have the [negative healing](negative-healing-b2.md) ability, which means you're harmed by positive damage and healed by [negative](negative.md "Negative Energy & Element Trait") effects as if you were [undead](archive/srd/pf2e/rules/traits/undead.md "Undead Creature Type Trait").

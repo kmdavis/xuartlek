@@ -9,14 +9,14 @@ tags:
 aliases: ["Mana Whorl"]
 ---
 # Mana Whorl *Hazard 7*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +14 trained to identify as dangerous quicksand; +20 (expert) to recognize its magical properties  
 
 This 15-foot-wide patch of destabilized sand attempts to submerge creatures who wield magic. A desert tree with dense bright green foliage, pale pink blooms, and at least one carnivorous red-chested magpie is always nearby.
 
-- **Disable** DC 26 [Arcana](compendium/skills.md#Arcana) (expert) to feed magic into the whorl and temporarily stabilize it for a few minutes; feed the whorl a number of spellcasters and magic items with a combined 10 levels (for instance, a 4th-level cleric with two 3rd-level magic items) to stabilize it for 1 week; or feed the whorl a number of spellcasters and magic items with a combined 20 levels to stabilize it permanently.
+- **Disable** DC 26 [Arcana](skills.md#Arcana) (expert) to feed magic into the whorl and temporarily stabilize it for a few minutes; feed the whorl a number of spellcasters and magic items with a combined 10 levels (for instance, a 4th-level cleric with two 3rd-level magic items) to stabilize it for 1 week; or feed the whorl a number of spellcasters and magic items with a combined 20 levels to stabilize it permanently.
 Spellcasters and magic items fed to the whorl are devoured whole.  
 
 ```ad-embed-ability

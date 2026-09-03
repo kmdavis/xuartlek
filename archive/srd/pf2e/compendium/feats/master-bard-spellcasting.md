@@ -7,9 +7,9 @@ tags:
 aliases: ["Master Bard Spellcasting"]
 ---
 # Master Bard Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Expert Bard Spellcasting](compendium/feats/expert-bard-spellcasting.md), legendary in [Occultism](compendium/skills.md#Occultism)
+- **Prerequisites**: [Expert Bard Spellcasting](archive/srd/pf2e/compendium/feats/expert-bard-spellcasting.md), legendary in [Occultism](skills.md#Occultism)
 
 You gain the master spellcasting benefits.
 

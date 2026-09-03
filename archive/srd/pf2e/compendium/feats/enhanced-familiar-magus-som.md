@@ -7,7 +7,7 @@ tags:
 aliases: ["Enhanced Familiar (Magus)"]
 ---
 # Enhanced Familiar (Magus)  *Feat 2*  
-[magus](rules/traits/magus-som.md "Magus Class Trait")  
+[magus](archive/srd/pf2e/rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: a familiar
 

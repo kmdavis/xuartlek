@@ -9,7 +9,7 @@ tags:
 aliases: ["Retribution Axe"]
 ---
 # Retribution Axe *Item 3*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 60 gp
 - **Bulk** 2; **Usage** held in 2 hands

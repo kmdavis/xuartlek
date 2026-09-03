@@ -7,11 +7,11 @@ tags:
 aliases: ["Ooze Empathy"]
 ---
 # Ooze Empathy  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Oozemorph Dedication](compendium/feats/oozemorph-dedication-sli.md), at least two other class feats from the oozemorph archetype
+- **Prerequisites**: [Oozemorph Dedication](oozemorph-dedication-sli.md), at least two other class feats from the oozemorph archetype
 
-You can connect with oozes (and other amorphous aberrations, at the GM's discretion) on a rudimentary level. You can use [Diplomacy](compendium/skills.md#Diplomacy) to [Make an Impression](rules/actions/make-an-impression.md) on oozes and to make very simple Requests of them. In most instances, oozes will give you time to make your case.
+You can connect with oozes (and other amorphous aberrations, at the GM's discretion) on a rudimentary level. You can use [Diplomacy](skills.md#Diplomacy) to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md) on oozes and to make very simple Requests of them. In most instances, oozes will give you time to make your case.
 
 *Source: The Slithering p. 59*  
 %% #compendium/src/pf2e/sli #trait/archetype %%

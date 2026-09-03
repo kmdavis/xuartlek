@@ -7,11 +7,11 @@ tags:
 aliases: ["Guiding Riposte"]
 ---
 # Guiding Riposte  *Feat 14*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  
 
-- **Prerequisites**: [Dueling Riposte](compendium/feats/dueling-riposte.md)
+- **Prerequisites**: [Dueling Riposte](archive/srd/pf2e/compendium/feats/dueling-riposte.md)
 
-By shifting your weight and angling your weapon, you guide your opponent to a more favorable position. When you use Dueling Riposte to [Strike](rules/actions/strike.md) and you hit, you can move the target up to 10 feet into a space in your reach. This follows the forced movement rules found on page 475.
+By shifting your weight and angling your weapon, you guide your opponent to a more favorable position. When you use Dueling Riposte to [Strike](archive/srd/pf2e/rules/actions/strike.md) and you hit, you can move the target up to 10 feet into a space in your reach. This follows the forced movement rules found on page 475.
 
 *Source: Core Rulebook p. 153*  
 %% #compendium/src/pf2e/crb #trait/fighter %%

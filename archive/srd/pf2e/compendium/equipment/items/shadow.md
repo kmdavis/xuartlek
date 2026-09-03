@@ -9,11 +9,11 @@ tags:
 aliases: ["Shadow"]
 ---
 # Shadow *Item 5+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Usage** etched onto light or medium nonmetallic armor
 
-Armor with this rune becomes hazy black. You gain a +1 item bonus to [Stealth](compendium/skills.md#Stealth) checks while wearing the armor.
+Armor with this rune becomes hazy black. You gain a +1 item bonus to [Stealth](skills.md#Stealth) checks while wearing the armor.
 
 ---
 

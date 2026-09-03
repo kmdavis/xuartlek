@@ -11,7 +11,7 @@ tags:
 aliases: ["Dwarven War Axe"]
 ---
 # Dwarven War Axe *Item 0*  
-[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [two-hand <d12>](rules/traits/two-hand-d12.md "Two-Hand Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[dwarf](archive/srd/pf2e/rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [two-hand <d12>](rules/traits/two-hand-d12.md "Two-Hand Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 3 gp
 - **Bulk** 2

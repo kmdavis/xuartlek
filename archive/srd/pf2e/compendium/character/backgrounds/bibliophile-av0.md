@@ -15,4 +15,4 @@ You love few things more than a good book, and as a result, Odd Stories is your 
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Arcana](compendium/skills.md#Arcana) skill and the [Library Lore](compendium/skills.md#Lore) skill. You gain the [Arcane Sense](compendium/feats/arcane-sense.md) skill feat.
+You're trained in the [Arcana](skills.md#Arcana) skill and the [Library Lore](skills.md#Lore) skill. You gain the [Arcane Sense](archive/srd/pf2e/compendium/feats/arcane-sense.md) skill feat.

@@ -15,4 +15,4 @@ Although you've spent time in greasepaint and colorful clothing to amuse crowds,
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [Performance](compendium/skills.md#Performance) skill and the [Clown Lore](compendium/skills.md#Lore) skill. You gain the [Virtuosic Performer (comedy)](compendium/feats/virtuosic-performer.md) skill feat.
+You're trained in the [Performance](skills.md#Performance) skill and the [Clown Lore](skills.md#Lore) skill. You gain the [Virtuosic Performer (comedy)](archive/srd/pf2e/compendium/feats/virtuosic-performer.md) skill feat.

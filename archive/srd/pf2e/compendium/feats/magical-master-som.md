@@ -8,9 +8,9 @@ tags:
 aliases: ["Magical Master"]
 ---
 # Magical Master  *Feat 18*  
-[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[evolution](evolution-som.md "Evolution Feat Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
-- **Prerequisites**: [Magical Adept](compendium/feats/magical-adept-som.md)
+- **Prerequisites**: [Magical Adept](magical-adept-som.md)
 
 Your eidolon gains a bevy of lower-level spells. Choose an innate spell of your eidolon's tradition of each of the spell levels from 1 to 7 in which your eidolon doesn't currently have an innate spell from Magical Adept. Your eidolon can cast each once per day as innate spells. You can swap these spells at every even level, but your eidolon can never know more than one spell of each spell level 1 through 7.
 

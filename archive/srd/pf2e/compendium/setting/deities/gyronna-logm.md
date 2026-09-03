@@ -20,8 +20,8 @@ aliases: ["Gyronna", "The Angry Hag"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [nightmares](compendium/setting/domains.md#Nightmares), [pain](compendium/setting/domains.md#Pain), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [ill omen](compendium/spells/ill-omen-logm.md); 2nd: [paranoia](compendium/spells/paranoia.md); 6th: [feeblemind](compendium/spells/feeblemind.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares), [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [ill omen](ill-omen-logm.md); 2nd: [paranoia](archive/srd/pf2e/compendium/spells/paranoia.md); 6th: [feeblemind](feeblemind.md)

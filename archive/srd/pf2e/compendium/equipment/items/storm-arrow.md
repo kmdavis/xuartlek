@@ -12,11 +12,11 @@ tags:
 aliases: ["Storm Arrow"]
 ---
 # Storm Arrow *Item 9*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 130 gp
-- **Ammunition** [arrow](compendium/equipment/items/arrow.md)
-- **Activate** [Interact](rules/actions/interact.md)
+- **Ammunition** [arrow](arrow.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 The head of this arrow is made from gleaming copper.
 

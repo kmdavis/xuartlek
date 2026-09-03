@@ -27,14 +27,14 @@ aliases: ["Chohar", "The Golden Lion"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [starknife](compendium/equipment/items/starknife.md)
-- **Domains**: [fire](compendium/setting/domains.md#Fire), [family](compendium/setting/domains.md#Family), [cities](compendium/setting/domains.md#Cities), [sun](compendium/setting/domains.md#Sun)
-- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty), [toil](compendium/setting/domains.md#Toil), [vigil](compendium/setting/domains.md#Vigil), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 3rd: [fireball](compendium/spells/fireball.md); 4th: [fire shield](compendium/spells/fire-shield.md)
+- **Favored Weapon**: [starknife](archive/srd/pf2e/compendium/equipment/items/starknife.md)
+- **Domains**: [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun)
+- **Alternate Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [toil](archive/srd/pf2e/compendium/setting/domains.md#Toil), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [burning hands](burning-hands.md); 3rd: [fireball](archive/srd/pf2e/compendium/spells/fireball.md); 4th: [fire shield](archive/srd/pf2e/compendium/spells/fire-shield.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Chohar gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Chohar gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Chohar

@@ -6,12 +6,12 @@ tags:
 - trait/rogue
 aliases: ["Predictable!"]
 ---
-# Predictable!  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[rogue](rules/traits/rogue.md "Rogue Class Trait")  
+# Predictable!  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Activity** Single Action
 
-By observing an opponent, you can get a sense of their next move and prepare to counter or resist it. Choose one target and attempt a [Perception](compendium/skills.md#Perception) check to [Sense Motive](rules/actions/sense-motive.md) against the foe's [Deception](compendium/skills.md#Deception) DC or a hard DC of the foe's level, whichever is higher.
+By observing an opponent, you can get a sense of their next move and prepare to counter or resist it. Choose one target and attempt a [Perception](skills.md#Perception) check to [Sense Motive](archive/srd/pf2e/rules/actions/sense-motive.md) against the foe's [Deception](skills.md#Deception) DC or a hard DC of the foe's level, whichever is higher.
 
 > [!success-degree] 
 > - **Critical Success** You precisely discern the target's strategy, gaining a +2 circumstance bonus to AC against the creature until the start of your next turn and a +2 circumstance bonus to your next saving throw against the creature before the start of your next turn.

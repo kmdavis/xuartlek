@@ -20,8 +20,8 @@ aliases: ["Kabriri", "Him Who Gnaws"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Stealth
-- **Favored Weapon**: jaws or [flail](compendium/equipment/items/flail.md)
-- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [knowledge](compendium/setting/domains.md#Knowledge), [undeath](compendium/setting/domains.md#Undeath), [vigil](compendium/setting/domains.md#Vigil)
-- **Cleric Spells**: 1st: [jump](compendium/spells/jump.md); 2nd: [expeditious excavation](compendium/spells/expeditious-excavation-logm.md); 3rd: [paralyze](compendium/spells/paralyze.md)
+- **Favored Weapon**: jaws or [flail](archive/srd/pf2e/compendium/equipment/items/flail.md)
+- **Domains**: [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [undeath](archive/srd/pf2e/compendium/setting/domains.md#Undeath), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [jump](archive/srd/pf2e/compendium/spells/jump.md); 2nd: [expeditious excavation](expeditious-excavation-logm.md); 3rd: [paralyze](archive/srd/pf2e/compendium/spells/paralyze.md)

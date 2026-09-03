@@ -17,4 +17,4 @@ You have taken up the dangerous life of an adventurer in hopes of earning a spot
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Pathfinder Society Lore](compendium/skills.md#Lore) skill. You gain the [Additional Lore](compendium/feats/additional-lore.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Pathfinder Society Lore](skills.md#Lore) skill. You gain the [Additional Lore](archive/srd/pf2e/compendium/feats/additional-lore.md) skill feat.

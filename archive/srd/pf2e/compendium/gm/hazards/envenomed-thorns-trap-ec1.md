@@ -8,14 +8,14 @@ tags:
 aliases: ["Envenomed Thorns Trap"]
 ---
 # Envenomed Thorns Trap *Hazard 2*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
 
 A trip wire strung 4 feet above the ground releases a branch studded with envenomed thorns.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 18 (trained) to remove the trip wire.  
+- **Disable** [Thievery](skills.md#Thievery) DC 18 (trained) to remove the trip wire.  
 
 - **AC** 18, **Fort** +10, **Ref** +4
 - **Hardness** 5, **HP** 28 (BT 14)

@@ -9,13 +9,13 @@ tags:
 aliases: ["Glass Skin"]
 ---
 # Glass Skin  *Feat 10*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [aftermath](aftermath-da.md "Aftermath Class Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: You were present at the death of the medusa Alethsia, whose vitrumantic powers were passed on to you in the wake of her destruction.
 
-Even if vitrumancy is a mystery to you, your blood and flesh know the secrets of the art of arcane glass. Patches of your skin to flicker into glass without warning. By focusing the effect, you can concentrate the glass into a powerful protective layer of magical obsidian. Once per day, you can cast [stoneskin](compendium/spells/stoneskin.md) on yourself as an innate primal spell, though the spell covers you in a layer of glass instead of stone.
+Even if vitrumancy is a mystery to you, your blood and flesh know the secrets of the art of arcane glass. Patches of your skin to flicker into glass without warning. By focusing the effect, you can concentrate the glass into a powerful protective layer of magical obsidian. Once per day, you can cast [stoneskin](stoneskin.md) on yourself as an innate primal spell, though the spell covers you in a layer of glass instead of stone.
 
-During this innate stoneskin, you gain the Shatter Glass reaction. At 18th level, the [stoneskin](compendium/spells/stoneskin.md) is heightened to 6th level instead of 4th.
+During this innate stoneskin, you gain the Shatter Glass reaction. At 18th level, the [stoneskin](stoneskin.md) is heightened to 6th level instead of 4th.
 
 ```ad-embed-ability
 title: **Shatter Glass** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

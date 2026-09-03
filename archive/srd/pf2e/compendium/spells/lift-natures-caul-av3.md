@@ -12,10 +12,10 @@ tags:
 aliases: ["Lift Nature's Caul"]
 ---
 # Lift Nature's Caul *Focus 1*   
-[fear](rules/traits/fear.md "Fear Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Domains** [abomination](compendium/setting/domains.md#Abomination)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [abomination](archive/srd/pf2e/compendium/setting/domains.md#Abomination)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 5-foot emanation
 - **Targets**: creatures in the area
 - **Saving Throw**: Will
@@ -27,10 +27,10 @@ Aberrations or worshippers of Outer Gods or Great Old Ones are bolstered by this
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected and temporarily immune for 1 hour.
-> - **Success** The creature is [sickened](rules/conditions.md#Sickened).
-> - **Failure** The creature is [stupefied](rules/conditions.md#Stupefied) for 1 minute and [frightened](rules/conditions.md#Frightened).
-> - **Critical Failure** The creature is [stupefied](rules/conditions.md#Stupefied) for 1 minute and [frightened](rules/conditions.md#Frightened). It can't reduce the value of its [frightened](rules/conditions.md#Frightened) condition below 1 as long as it remains [stupefied](rules/conditions.md#Stupefied) by this spell.
+> - **Success** The creature is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Failure** The creature is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 minute and [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
+> - **Critical Failure** The creature is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 minute and [frightened](archive/srd/pf2e/rules/conditions.md#Frightened). It can't reduce the value of its [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) condition below 1 as long as it remains [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) by this spell.
 
-**Heightened (+ 2)** You increase the area by 5 feet and the duration of the [stupefied](rules/conditions.md#Stupefied) condition by 1 minute.
+**Heightened (+ 2)** You increase the area by 5 feet and the duration of the [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) condition by 1 minute.
 
 *Source: Abomination Vaults #3: Eyes of Empty Death p. 65*

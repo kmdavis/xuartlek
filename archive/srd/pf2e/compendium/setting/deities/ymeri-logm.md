@@ -20,8 +20,8 @@ aliases: ["Ymeri", "Queen of the Inferno"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [longsword](compendium/equipment/items/longsword.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [dust](compendium/setting/domains.md#Dust), [fire](compendium/setting/domains.md#Fire), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 2nd: summon elemental (fire only); 4th: [wall of fire](compendium/spells/wall-of-fire.md)
+- **Favored Weapon**: [longsword](archive/srd/pf2e/compendium/equipment/items/longsword.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [dust](archive/srd/pf2e/compendium/setting/domains.md#Dust), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [burning hands](burning-hands.md); 2nd: summon elemental (fire only); 4th: [wall of fire](archive/srd/pf2e/compendium/spells/wall-of-fire.md)

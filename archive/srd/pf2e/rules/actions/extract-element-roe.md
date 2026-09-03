@@ -9,8 +9,8 @@ tags:
 - trait/primal
 aliases: ["Extract Element"]
 ---
-# Extract Element [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Extract Element [>](chapter-9-playing-the-game.md#Actions "Single Action")
+[impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 *Source: Rage of Elements p. 17*  
 
 - **Activity**: Single Action

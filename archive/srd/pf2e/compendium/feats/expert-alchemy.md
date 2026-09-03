@@ -7,15 +7,15 @@ tags:
 aliases: ["Expert Alchemy"]
 ---
 # Expert Alchemy  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Alchemist Dedication](compendium/feats/alchemist-dedication.md), expert in [Crafting](compendium/skills.md#Crafting)
+- **Prerequisites**: [Alchemist Dedication](archive/srd/pf2e/compendium/feats/alchemist-dedication.md), expert in [Crafting](skills.md#Crafting)
 
 Your advanced alchemy level increases to 3. At 10th level, it increases to 5.
 
 ## Expert Alchemy leads to...
 
-[Master Alchemy](compendium/feats/master-alchemy.md)
+[Master Alchemy](master-alchemy.md)
 
 ## Summary
 

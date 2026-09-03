@@ -10,14 +10,14 @@ tags:
 aliases: ["Echoes Of Betrayal"]
 ---
 # Echoes Of Betrayal *Hazard 16*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [ne](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  [ne](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 35 master to hear the quiet murmurs of angry spirits  
 
 Malevolent spirits led by a ghostly image of Ludika rise and begin a deadly brawl. These spirits attempt to overwhelm living creatures, forcing them to join the battle.
 
-- **Disable** [Religion](compendium/skills.md#Religion) DC 35 (master) three times to exorcise the spirits or [Diplomacy](compendium/skills.md#Diplomacy) DC 39 (expert) three times to talk them down.  
+- **Disable** [Religion](skills.md#Religion) DC 35 (master) three times to exorcise the spirits or [Diplomacy](skills.md#Diplomacy) DC 39 (expert) three times to talk them down.  
 
 ```ad-embed-ability
 title: **Confuse** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([emotion](rules/traits/emotion.md), [fear](rules/traits/fear.md), [illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))

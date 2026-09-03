@@ -20,8 +20,8 @@ aliases: ["Mammon", "The Argent Prince"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Thievery
-- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [creation](compendium/setting/domains.md#Creation), [toil](compendium/setting/domains.md#Toil), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [shattering gem](compendium/spells/shattering-gem-logm.md); 4th: [creation](compendium/spells/creation.md); 7th: [magnificent mansion](compendium/spells/magnificent-mansion.md)
+- **Favored Weapon**: [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [toil](archive/srd/pf2e/compendium/setting/domains.md#Toil), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [shattering gem](shattering-gem-logm.md); 4th: [creation](archive/srd/pf2e/compendium/spells/creation.md); 7th: [magnificent mansion](magnificent-mansion.md)

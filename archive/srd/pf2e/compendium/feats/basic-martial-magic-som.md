@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Martial Magic"]
 ---
 # Basic Martial Magic  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Magus Dedication](compendium/feats/magus-dedication-som.md)
+- **Prerequisites**: [Magus Dedication](magus-dedication-som.md)
 
 You gain a 1st- or 2nd-level magus feat of your choice.
 
 ## Basic Martial Magic leads to...
 
-[Advanced Martial Magic](compendium/feats/advanced-martial-magic-som.md)
+[Advanced Martial Magic](advanced-martial-magic-som.md)
 
 ## Summary
 

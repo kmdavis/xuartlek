@@ -10,12 +10,12 @@ tags:
 aliases: ["Smoke Fan"]
 ---
 # Smoke Fan *Item 2+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [gadget](rules/traits/gadget-g-g.md "Gadget  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [gadget](gadget-g-g.md "Gadget  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-When you [Activate](rules/actions/activate-an-item.md) a smoke fan, it creates a cloud of colored smoke. The smoke fills a 5-foot radius. The creator chooses the smoke's color when creating the smoke fan. Creatures within the smoke's area are [concealed](rules/conditions.md#Concealed), and all other creatures are [concealed](rules/conditions.md#Concealed) to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
+When you [Activate](activate-an-item.md) a smoke fan, it creates a cloud of colored smoke. The smoke fills a 5-foot radius. The creator chooses the smoke's color when creating the smoke fan. Creatures within the smoke's area are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed), and all other creatures are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
 
 ---
 

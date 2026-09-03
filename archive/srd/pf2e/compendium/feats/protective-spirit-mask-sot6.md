@@ -10,7 +10,7 @@ tags:
 aliases: ["Protective Spirit Mask"]
 ---
 # Protective Spirit Mask  *Feat 20*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: Druid Dedication or Wizard Dedication
 

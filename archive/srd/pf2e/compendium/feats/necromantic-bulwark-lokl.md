@@ -7,9 +7,9 @@ tags:
 aliases: ["Necromantic Bulwark"]
 ---
 # Necromantic Bulwark  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
+- **Prerequisites**: [Lastwall Sentry Dedication](lastwall-sentry-dedication-lowg.md)
 
 Regular exposure to necromantic effects left you better able to defend against them. When you have your shield raised, you gain your shield's circumstance bonus to saving throws against effects that would deal negative damage. If you have the Shield Block reaction, negative damage you take can trigger the reaction, even though the damage isn't physical damage.
 

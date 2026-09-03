@@ -8,7 +8,7 @@ tags:
 aliases: ["Cold Iron"]
 ---
 # Cold Iron *Item 2+*  
-[precious](rules/traits/precious.md "Precious Item Trait")  
+[precious](archive/srd/pf2e/rules/traits/precious.md "Precious Item Trait")  
 
 
 Weapons made from cold iron are deadly to demons and fey alike.

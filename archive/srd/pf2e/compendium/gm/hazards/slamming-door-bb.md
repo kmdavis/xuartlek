@@ -8,11 +8,11 @@ aliases: ["Slamming Door"]
 # Slamming Door *Hazard 1*  
 
 - **Complexity** Simple
-- **Stealth** DC 17 [Perception](compendium/skills.md#Perception) check  
+- **Stealth** DC 17 [Perception](skills.md#Perception) check  
 
 Pressure-sensitive panels in the floor connect to a stone slab hidden in a hallway's ceiling.
 
-- **Disable** DC 15 [Thievery](compendium/skills.md#Thievery) on the floor panels before the slab falls  
+- **Disable** DC 15 [Thievery](skills.md#Thievery) on the floor panels before the slab falls  
 
 - **AC** 16, **Fort** +10, **Ref** +2
 - **Hardness** 5, **HP** 20 (BT 10)

@@ -7,8 +7,8 @@ tags:
 - trait/sorcerer
 aliases: ["Energetic Resonance"]
 ---
-# Energetic Resonance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+# Energetic Resonance  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
+[abjuration](abjuration.md "Abjuration School Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Trigger** You would take acid, cold, electricity, fire, or sonic damage from a spell.
 - **Requirements**: You have an unexpended spell slot of a level equal to or higher than the triggering spell.

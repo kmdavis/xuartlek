@@ -11,7 +11,7 @@ tags:
 aliases: ["Spraysling"]
 ---
 # Spraysling *Item 0*  
-[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [scatter <5 ft.>](rules/traits/scatter-5-ft-g-g.md "Scatter Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[halfling](archive/srd/pf2e/rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  [propulsive](archive/srd/pf2e/rules/traits/propulsive.md "Propulsive Weapon Trait")  [scatter <5 ft.>](rules/traits/scatter-5-ft-g-g.md "Scatter Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 - **Bulk** L

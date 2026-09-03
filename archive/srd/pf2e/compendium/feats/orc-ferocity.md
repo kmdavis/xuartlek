@@ -6,18 +6,18 @@ tags:
 - trait/orc
 aliases: ["Orc Ferocity"]
 ---
-# Orc Ferocity  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
+# Orc Ferocity  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[orc](archive/srd/pf2e/rules/traits/orc.md "Orc Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You would be reduced to 0 Hit Points but not immediately killed.
 - **Activity** Reaction
 
-Fierceness in battle runs through your blood, and you refuse to fall from your injuries. You avoid being knocked out and remain at 1 Hit Point, and your [wounded](rules/conditions.md#Wounded) condition increases by 1.
+Fierceness in battle runs through your blood, and you refuse to fall from your injuries. You avoid being knocked out and remain at 1 Hit Point, and your [wounded](archive/srd/pf2e/rules/conditions.md#Wounded) condition increases by 1.
 
 ## Orc Ferocity leads to...
 
-[Incredible Ferocity](compendium/feats/incredible-ferocity.md), [Ferocious Beasts](compendium/feats/ferocious-beasts-apg.md), [Rampaging Ferocity](compendium/feats/rampaging-ferocity-apg.md), [Undying Ferocity](compendium/feats/undying-ferocity-apg.md), [Defy Death](compendium/feats/defy-death-loag.md)
+[Incredible Ferocity](archive/srd/pf2e/compendium/feats/incredible-ferocity.md), [Ferocious Beasts](ferocious-beasts-apg.md), [Rampaging Ferocity](rampaging-ferocity-apg.md), [Undying Ferocity](undying-ferocity-apg.md), [Defy Death](defy-death-loag.md)
 
 ## Summary
 

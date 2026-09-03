@@ -8,15 +8,15 @@ tags:
 aliases: ["Water Walk"]
 ---
 # Water Walk *Spell 2*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Duration**: 10 minutes
 
-The target can walk on the surface of water and other liquids without falling through. It can go underwater if it wishes, but in that case it must [Swim](rules/actions/swim.md) normally. This spell doesn't grant the ability to breathe underwater.
+The target can walk on the surface of water and other liquids without falling through. It can go underwater if it wishes, but in that case it must [Swim](archive/srd/pf2e/rules/actions/swim.md) normally. This spell doesn't grant the ability to breathe underwater.
 
 **Heightened (4th)** The spell's range increases to 30 feet, the duration increases to 1 hour, and you can target up to 10 creatures.
 

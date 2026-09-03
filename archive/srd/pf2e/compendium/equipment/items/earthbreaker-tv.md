@@ -11,7 +11,7 @@ tags:
 aliases: ["Earthbreaker"]
 ---
 # Earthbreaker *Item 0*  
-[razing](rules/traits/razing-tv.md "Razing Weapon Trait")  [shove](rules/traits/shove.md "Shove Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
+[razing](razing-tv.md "Razing Weapon Trait")  [shove](archive/srd/pf2e/rules/traits/shove.md "Shove Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 4 gp
 - **Bulk** 2

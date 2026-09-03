@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Shifting Terrain"]
 ---
-# Shifting Terrain  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Shifting Terrain  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Rough Terrain Stance](compendium/feats/rough-terrain-stance-som.md), master in [Nature](compendium/skills.md#Nature)
+- **Prerequisites**: [Rough Terrain Stance](rough-terrain-stance-som.md), master in [Nature](skills.md#Nature)
 - **Requirements**: Your terrain attunement matches the terrain you're in and you're in Rough Terrain Stance.
 - **Activity** Single Action
 
@@ -17,9 +17,9 @@ You slam your fist into the ground or twirl your arms about to cause the terrain
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is [clumsy](rules/conditions.md#Clumsy) for 1 round.
-> - **Failure** The creature is [clumsy](rules/conditions.md#Clumsy) for 1 round.
-> - **Critical Failure** The creature is [clumsy](rules/conditions.md#Clumsy) for 1 round and falls [prone](rules/conditions.md#Prone).
+> - **Success** The creature is [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) for 1 round.
+> - **Failure** The creature is [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) for 1 round.
+> - **Critical Failure** The creature is [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) for 1 round and falls [prone](archive/srd/pf2e/rules/conditions.md#Prone).
 
 *Source: Secrets of Magic p. 213*  
 %% #compendium/src/pf2e/som #trait/archetype %%

@@ -9,15 +9,15 @@ tags:
 aliases: ["Prestidigitation"]
 ---
 # Prestidigitation *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 10 foot
 - **Targets**: 1 object (cook, lift, or tidy only)
 - **Duration**: sustained
 
-The simplest magic does your bidding. You can perform simple [magical](rules/traits/magical.md "Magical Item Trait") effects for as long as you [Sustain the Spell](rules/actions/sustain-a-spell.md). Each time you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can choose one of four options.
+The simplest magic does your bidding. You can perform simple [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait") effects for as long as you [Sustain the Spell](sustain-a-spell.md). Each time you [Sustain the Spell](sustain-a-spell.md), you can choose one of four options.
 
 - **Cook** Cool, warm, or flavor 1 pound of nonliving material.
 - **Lift** Slowly lift an unattended object of light Bulk or less 1 foot off the ground.
@@ -26,7 +26,7 @@ The simplest magic does your bidding. You can perform simple [magical](rules/tra
 
 You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.
 
-Prestidigitation can't deal damage or cause adverse conditions. Any actual change to an object (beyond what is noted above) persists only as long as you [Sustain the Spell](rules/actions/sustain-a-spell.md).
+Prestidigitation can't deal damage or cause adverse conditions. Any actual change to an object (beyond what is noted above) persists only as long as you [Sustain the Spell](sustain-a-spell.md).
 
 **Spell Lists**: Elemental
 

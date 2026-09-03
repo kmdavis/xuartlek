@@ -20,8 +20,8 @@ aliases: ["Bastet", "The Sly Enchantress"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Deception
 - **Favored Weapon**: claw or tekko-kagi
-- **Domains**: [nature](compendium/setting/domains.md#Nature), [passion](compendium/setting/domains.md#Passion), [protection](compendium/setting/domains.md#Protection), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: pest form (cats only); 3rd: [animal vision](compendium/spells/animal-vision.md); 4th: [private sanctum](compendium/spells/private-sanctum.md)
+- **Domains**: [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: pest form (cats only); 3rd: [animal vision](archive/srd/pf2e/compendium/spells/animal-vision.md); 4th: [private sanctum](private-sanctum.md)

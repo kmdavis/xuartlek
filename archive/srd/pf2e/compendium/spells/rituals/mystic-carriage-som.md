@@ -9,13 +9,13 @@ tags:
 aliases: ["Mystic Carriage"]
 ---
 # Mystic Carriage *Ritual 3*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 hour
 - **Cost** toy carriage, horse statues, rare incense, and feathers worth 50 gp
 - **Secondary Casters** 1
-- **Primary Checks** [Arcana](compendium/skills.md#Arcana) (Expert) or [Occultism](compendium/skills.md#Occultism) (Expert)
-- **Secondary Checks** [Crafting](compendium/skills.md#Crafting) or [Driving Lore](compendium/skills.md#Lore)
+- **Primary Checks** [Arcana](skills.md#Arcana) (Expert) or [Occultism](skills.md#Occultism) (Expert)
+- **Secondary Checks** [Crafting](skills.md#Crafting) or [Driving Lore](skills.md#Lore)
 - 
 
 This ritual allows you and the other casters to conjure a magical carriage that transports you to a destination of your choice. To summon the mystic carriage, you must be within 250 miles of your destination and spend 1 hour burning incense and feathers while chanting the name of the location you wish the carriage to take you to. When it arrives, the carriage is a Large vehicle that can fit 4 Medium or smaller passengers, as well as 100 Bulk. It has a Speed of 60 feet, AC of 14, Fortitude saving throw modifier of +8, Hardness 5, 100 Hit Points (BT 50), object immunities, and immunities to critical hits and precision damage.
@@ -30,6 +30,6 @@ If it's attacked, it continues going as long as nothing blocks its passage. If s
 > - **Failure** You don't create a mystic carriage.
 > - **Critical Failure** You don't create a mystic carriage, and you're attacked by a herd of four riding horses.
 
-**Heightened (+ 1)** The carriage's AC, Fortitude save, and Hardness increase by 2, its Hit Points increase by 20, and its [Broken](rules/conditions.md#Broken) Threshold increases by 10.
+**Heightened (+ 1)** The carriage's AC, Fortitude save, and Hardness increase by 2, its Hit Points increase by 20, and its [Broken](archive/srd/pf2e/rules/conditions.md#Broken) Threshold increases by 10.
 
 *Source: Secrets of Magic p. 152*

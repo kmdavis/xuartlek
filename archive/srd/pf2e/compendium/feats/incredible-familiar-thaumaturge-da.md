@@ -7,7 +7,7 @@ tags:
 aliases: ["Incredible Familiar (Thaumaturge)"]
 ---
 # Incredible Familiar (Thaumaturge)  *Feat 8*  
-[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
+[thaumaturge](archive/srd/pf2e/rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Enhanced Familiar
 

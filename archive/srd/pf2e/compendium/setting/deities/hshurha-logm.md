@@ -20,8 +20,8 @@ aliases: ["Hshurha", "Duchess of All Winds"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Dexterity
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Stealth
-- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md)
-- **Domains**: [air](compendium/setting/domains.md#Air), [cold](compendium/setting/domains.md#Cold), [destruction](compendium/setting/domains.md#Destruction), [dust](compendium/setting/domains.md#Dust)
-- **Cleric Spells**: 1st: [gust of wind](compendium/spells/gust-of-wind.md); 2nd: summon elemental (air only); 4th: [gaseous form](compendium/spells/gaseous-form.md)
+- **Favored Weapon**: [longbow](archive/srd/pf2e/compendium/equipment/items/longbow.md)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [cold](archive/srd/pf2e/compendium/setting/domains.md#Cold), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [dust](archive/srd/pf2e/compendium/setting/domains.md#Dust)
+- **Cleric Spells**: 1st: [gust of wind](archive/srd/pf2e/compendium/spells/gust-of-wind.md); 2nd: summon elemental (air only); 4th: [gaseous form](gaseous-form.md)

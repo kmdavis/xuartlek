@@ -11,11 +11,11 @@ tags:
 aliases: ["Unmemorable Mantle"]
 ---
 # Unmemorable Mantle *Item 7+*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  worn  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  worn  
 
 - **Bulk** 1; **Usage** worn cloak
 
-This long, shoddy cloak bears a hood and a simple brass clasp. While wearing the cloak, you gain a +1 item bonus to [Deception](compendium/skills.md#Deception) checks to [Impersonate](rules/actions/impersonate.md) an individual and to [Lie](rules/actions/lie.md) while in character as that individual.
+This long, shoddy cloak bears a hood and a simple brass clasp. While wearing the cloak, you gain a +1 item bonus to [Deception](skills.md#Deception) checks to [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md) an individual and to [Lie](archive/srd/pf2e/rules/actions/lie.md) while in character as that individual.
 
 ```ad-embed-ability
 title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 minute envision, [Interact](rules/actions/interact.md)

@@ -14,7 +14,7 @@ aliases: ["Splint Mail"]
 - **Strength** 16; **Check Penalty** -3; **Speed Penalty** -10 ft.
 - **Category** Heavy; **Group** Composite 
 
-This type of armor is [chain mail](compendium/equipment/items/chain-mail.md) reinforced with flexible, interlocking metal plates, typically located on the wearer's torso, upper arms, and legs. A suit of this armor comes with an undercoat of [padded armor](compendium/equipment/items/padded-armor.md) and a pair of [gauntlets](compendium/equipment/items/gauntlet.md).
+This type of armor is [chain mail](archive/srd/pf2e/compendium/equipment/items/chain-mail.md) reinforced with flexible, interlocking metal plates, typically located on the wearer's torso, upper arms, and legs. A suit of this armor comes with an undercoat of [padded armor](archive/srd/pf2e/compendium/equipment/items/padded-armor.md) and a pair of [gauntlets](archive/srd/pf2e/compendium/equipment/items/gauntlet.md).
 
 
 ---

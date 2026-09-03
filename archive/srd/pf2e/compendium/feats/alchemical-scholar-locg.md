@@ -7,10 +7,10 @@ tags:
 aliases: ["Alchemical Scholar"]
 ---
 # Alchemical Scholar  *Feat 1*  
-[hobgoblin](rules/traits/hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
+[hobgoblin](hobgoblin-locg.md "Hobgoblin Ancestry & Heritage Trait")  
 
 
-You learn formulas more easily. You gain four common 1st-level alchemical formulas when you take this feat, and each time you gain a level, you gain a common alchemical formula of that level. You still need [Alchemical Crafting](compendium/feats/alchemical-crafting.md) to [Craft](rules/actions/craft.md) alchemical items.
+You learn formulas more easily. You gain four common 1st-level alchemical formulas when you take this feat, and each time you gain a level, you gain a common alchemical formula of that level. You still need [Alchemical Crafting](archive/srd/pf2e/compendium/feats/alchemical-crafting.md) to [Craft](archive/srd/pf2e/rules/actions/craft.md) alchemical items.
 
 **Special.** You can take this feat only at 1st level, and you can't retrain into or out of this feat.
 

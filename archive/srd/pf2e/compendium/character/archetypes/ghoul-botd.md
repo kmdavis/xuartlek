@@ -13,7 +13,7 @@ aliases: ["Ghoul"]
 > 
 > As you get more ghoul feats, you can roleplay your character's diminishing aspects as ghoul-like characteristics emerge. As your character becomes more ghoulish, they loses old inhibitions and becomes more ambitious. Ambition, after all, is another sort of hunger. Adding these new ambitions gives you ways to portray the transformation besides just making your character a cannibal.
 
-You died from the necrotic disease known as [ghoul fever](compendium/gm/afflictions/ghoul-fever-b1.md) and rose anew as a ravenous ghoul, forever craving the flesh of sapient creatures. While you can temper your hunger with long-dead flesh stolen from ancient graves, you much prefer devouring those who are freshly dead, whether as a scavenger or because you killed the creature yourself to ensure a fresh meal.
+You died from the necrotic disease known as [ghoul fever](ghoul-fever-b1.md) and rose anew as a ravenous ghoul, forever craving the flesh of sapient creatures. While you can temper your hunger with long-dead flesh stolen from ancient graves, you much prefer devouring those who are freshly dead, whether as a scavenger or because you killed the creature yourself to ensure a fresh meal.
 
 Whether they stalk through the graveyards and crypts of Golarion or work together with other ghouls to build empires in the Darklands, ghouls care most about the consumption of dead flesh. The moment you become a ghoul, your existence focuses upon satisfying this endless craving. Ghouls who go more than a few days without feeding on freshly dead humanoid flesh find themselves in constant pain; those who go for more than a week might be driven to the edge of delirium, becoming bestial in their craving.
 

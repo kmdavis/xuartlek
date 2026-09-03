@@ -9,7 +9,7 @@ tags:
 aliases: ["Preserving"]
 ---
 # Preserving *Item 3+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Usage** applied to a basket, bag, or other container
 

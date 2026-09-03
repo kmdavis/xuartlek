@@ -10,11 +10,11 @@ tags:
 - trait/primal
 aliases: ["Elemental Blast"]
 ---
-# Elemental Blast [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"))
-[attack](rules/traits/attack.md "Attack Combat Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Elemental Blast [V](chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](chapter-9-playing-the-game.md#Actions "Single Action") or [>>](chapter-9-playing-the-game.md#Actions "Two-Action"))
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 *Source: Rage of Elements p. 15*  
 
-- **Activity**: Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"))
+- **Activity**: Varies ([>](chapter-9-playing-the-game.md#Actions "Single Action") or [>>](chapter-9-playing-the-game.md#Actions "Two-Action"))
 
 With a wave of your hand, you collect elemental matter from your aura and swing or hurl it. Choose one of your kinetic elements and a damage type listed for that element, then make a melee or ranged impulse attack against the AC of one creature. Add your Strength modifier to the damage roll for a melee Elemental Blast. If you make a 2-action Elemental Blast, you gain a status bonus to the damage roll equal to your Constitution modifier.
 

@@ -15,6 +15,6 @@ You have spent time learning the practices and traditions of the ancient Rivethu
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Occultism](compendium/skills.md#Occultism) skill and the [Spirit Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Occultism](skills.md#Occultism) skill and the [Spirit Lore](skills.md#Lore) skill.
 
-You gain the [Recognize Spell](compendium/feats/recognize-spell.md) skill feat.
+You gain the [Recognize Spell](archive/srd/pf2e/compendium/feats/recognize-spell.md) skill feat.

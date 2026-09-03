@@ -20,8 +20,8 @@ aliases: ["Qi Zhong", "Master of Medicine"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Medicine
 - **Favored Weapon**: heavy mace
-- **Domains**: [healing](compendium/setting/domains.md#Healing), [knowledge](compendium/setting/domains.md#Knowledge), [magic](compendium/setting/domains.md#Magic), [protection](compendium/setting/domains.md#Protection)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 2nd: [false life](compendium/spells/false-life.md); 4th: [resilient sphere](compendium/spells/resilient-sphere.md)
+- **Domains**: [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 2nd: [false life](false-life.md); 4th: [resilient sphere](resilient-sphere.md)

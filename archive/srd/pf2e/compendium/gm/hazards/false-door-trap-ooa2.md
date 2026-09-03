@@ -8,14 +8,14 @@ tags:
 aliases: ["False Door Trap"]
 ---
 # False Door Trap *Hazard 6*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 28 expert to see the brick wall behind the edges of the door  
 
 A black-powder charge detonates as soon as the doorknob is turned, shattering the door into splinters.
 
-- **Disable** DC 27 [Thievery](compendium/skills.md#Thievery) (expert) to disable the doorknob trigger  
+- **Disable** DC 27 [Thievery](skills.md#Thievery) (expert) to disable the doorknob trigger  
 
 - **AC** 24, **Fort** +17, **Ref** +11
 - **Hardness** 8, **HP** 50 (BT 25)

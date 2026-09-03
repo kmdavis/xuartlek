@@ -7,15 +7,15 @@ tags:
 aliases: ["Healing Hands"]
 ---
 # Healing Hands  *Feat 1*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: healing font
 
-Your positive energy is even more vibrant and restorative. When you cast [heal](compendium/spells/heal.md), you roll d10s instead of d8s.
+Your positive energy is even more vibrant and restorative. When you cast [heal](archive/srd/pf2e/compendium/spells/heal.md), you roll d10s instead of d8s.
 
 ## Healing Hands leads to...
 
-[Magic Hands](compendium/feats/magic-hands-apg.md)
+[Magic Hands](magic-hands-apg.md)
 
 ## Summary
 

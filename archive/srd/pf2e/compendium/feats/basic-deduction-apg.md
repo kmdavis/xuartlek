@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Deduction"]
 ---
 # Basic Deduction  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Investigator Dedication](compendium/feats/investigator-dedication-apg.md)
+- **Prerequisites**: [Investigator Dedication](investigator-dedication-apg.md)
 
 You gain a 1st- or 2nd-level investigator feat of your choice.
 
 ## Basic Deduction leads to...
 
-[Advanced Deduction](compendium/feats/advanced-deduction-apg.md)
+[Advanced Deduction](advanced-deduction-apg.md)
 
 ## Summary
 

@@ -7,14 +7,14 @@ tags:
 aliases: ["Jealous Abjurer"]
 ---
 # Jealous Abjurer *Hazard 11*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 33 master  
 
 A robe-clad spirit rises out of the floor, pointing an accusing finger.
 
-- **Disable** DC 36 [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) (master) to convince the spirit that the target's magical knowledge is too great to be trifled with  
+- **Disable** DC 36 [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion) (master) to convince the spirit that the target's magical knowledge is too great to be trifled with  
 
 ```ad-embed-ability
 title: **Rend Magic** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([abjuration](rules/traits/abjuration.md), [arcane](rules/traits/arcane.md))

@@ -7,9 +7,9 @@ tags:
 aliases: ["Master Sorcerer Spellcasting"]
 ---
 # Master Sorcerer Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Expert Sorcerer Spellcasting](compendium/feats/expert-sorcerer-spellcasting.md); legendary in [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion), depending on bloodline
+- **Prerequisites**: [Expert Sorcerer Spellcasting](archive/srd/pf2e/compendium/feats/expert-sorcerer-spellcasting.md); legendary in [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion), depending on bloodline
 
 You gain the master spellcasting benefits.
 

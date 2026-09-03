@@ -7,7 +7,7 @@ tags:
 aliases: ["Swift Swimmer"]
 ---
 # Swift Swimmer  *Feat 5*  
-[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
+[lizardfolk](lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Prerequisites**: wetlander lizardfolk
 

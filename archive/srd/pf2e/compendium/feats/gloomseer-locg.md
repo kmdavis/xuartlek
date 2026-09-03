@@ -7,15 +7,15 @@ tags:
 aliases: ["Gloomseer"]
 ---
 # Gloomseer  *Feat 1*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Nidalese ethnicity
 
-Gloom holds few terrors for you, and the pall of darkness over Nidal has made you comfortable in dim light. You gain [low-light vision](rules/abilities/low-light-vision.md).
+Gloom holds few terrors for you, and the pall of darkness over Nidal has made you comfortable in dim light. You gain [low-light vision](archive/srd/pf2e/rules/abilities/low-light-vision.md).
 
 ## Gloomseer leads to...
 
-[Darkseer](compendium/feats/darkseer-locg.md)
+[Darkseer](darkseer-locg.md)
 
 ## Summary
 

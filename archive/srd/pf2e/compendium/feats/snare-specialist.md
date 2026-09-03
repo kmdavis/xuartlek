@@ -7,17 +7,17 @@ tags:
 aliases: ["Snare Specialist"]
 ---
 # Snare Specialist  *Feat 4*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting), [Snare Crafting](compendium/feats/snare-crafting.md)
+- **Prerequisites**: expert in [Crafting](skills.md#Crafting), [Snare Crafting](archive/srd/pf2e/compendium/feats/snare-crafting.md)
 
-You specialize in creating quick traps to obstruct your enemies on the battlefield. If your proficiency rank in [Crafting](compendium/skills.md#Crafting) is expert, you gain the formulas for three common or uncommon snares. If your rank is master, you gain 6. If your rank is legendary, you gain 9.
+You specialize in creating quick traps to obstruct your enemies on the battlefield. If your proficiency rank in [Crafting](skills.md#Crafting) is expert, you gain the formulas for three common or uncommon snares. If your rank is master, you gain 6. If your rank is legendary, you gain 9.
 
-Each day during your daily preparations, you can prepare four snares from your formula book for quick deployment; if they normally take 1 minute to [Craft](rules/actions/craft.md), you can [Craft](rules/actions/craft.md) them with 3 [Interact](rules/actions/interact.md) actions. The number of snares increases to six if you have master proficiency in [Crafting](compendium/skills.md#Crafting) and eight if you have legendary proficiency in [Crafting](compendium/skills.md#Crafting). Snares prepared in this way don't cost you any resources to [Craft](rules/actions/craft.md).
+Each day during your daily preparations, you can prepare four snares from your formula book for quick deployment; if they normally take 1 minute to [Craft](archive/srd/pf2e/rules/actions/craft.md), you can [Craft](archive/srd/pf2e/rules/actions/craft.md) them with 3 [Interact](archive/srd/pf2e/rules/actions/interact.md) actions. The number of snares increases to six if you have master proficiency in [Crafting](skills.md#Crafting) and eight if you have legendary proficiency in [Crafting](skills.md#Crafting). Snares prepared in this way don't cost you any resources to [Craft](archive/srd/pf2e/rules/actions/craft.md).
 
 ## Snare Specialist leads to...
 
-[Lightning Snares](compendium/feats/lightning-snares.md), [Powerful Snares](compendium/feats/powerful-snares.md), [Quick Snares](compendium/feats/quick-snares.md), [Ubiquitous Snares](compendium/feats/ubiquitous-snares.md), [Impossible Snares](compendium/feats/impossible-snares-apg.md), [Trapsmith Dedication](compendium/feats/trapsmith-dedication-g-g.md), [Finessed Features](compendium/feats/finessed-features-g-g.md), [Gear Gnash](compendium/feats/gear-gnash-g-g.md), [Propeller Attachment](compendium/feats/propeller-attachment-g-g.md), [Recycled Cogwheels](compendium/feats/recycled-cogwheels-g-g.md), [Repurposed Parts](compendium/feats/repurposed-parts-g-g.md)
+[Lightning Snares](archive/srd/pf2e/compendium/feats/lightning-snares.md), [Powerful Snares](powerful-snares.md), [Quick Snares](quick-snares.md), [Ubiquitous Snares](ubiquitous-snares.md), [Impossible Snares](impossible-snares-apg.md), [Trapsmith Dedication](trapsmith-dedication-g-g.md), [Finessed Features](finessed-features-g-g.md), [Gear Gnash](gear-gnash-g-g.md), [Propeller Attachment](propeller-attachment-g-g.md), [Recycled Cogwheels](recycled-cogwheels-g-g.md), [Repurposed Parts](repurposed-parts-g-g.md)
 
 ## Summary
 

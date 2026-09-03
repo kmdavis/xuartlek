@@ -10,10 +10,10 @@ tags:
 aliases: ["Magical Fetters"]
 ---
 # Magical Fetters *Spell 3*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Reflex
@@ -25,8 +25,8 @@ The target must attempt a Reflex save.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [clumsy](rules/conditions.md#Clumsy) and takes a –10-foot status penalty to its Speed for 1 round.
-> - **Failure** The target is [clumsy](rules/conditions.md#Clumsy) and takes a –10-foot status penalty to its Speed for 1 minute.
-> - **Critical Failure** As failure, but the target is also [slowed](rules/conditions.md#Slowed) for the duration.
+> - **Success** The target is [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) and takes a –10-foot status penalty to its Speed for 1 round.
+> - **Failure** The target is [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) and takes a –10-foot status penalty to its Speed for 1 minute.
+> - **Critical Failure** As failure, but the target is also [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for the duration.
 
 *Source: Agents of Edgewatch #2: Sixty Feet Under p. 77*

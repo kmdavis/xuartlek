@@ -9,10 +9,10 @@ tags:
 aliases: ["Abyssal Pact"]
 ---
 # Abyssal Pact *Ritual 1*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
-- **Primary Checks** [Religion](compendium/skills.md#Religion) (expert; you must be a demon)
+- **Primary Checks** [Religion](skills.md#Religion) (expert; you must be a demon)
 - 
 
 You call in a favor from another demon whose level is no more than double _Abyssal pact's_ spell level, two demons whose levels are each at least 2 less than double the spell level, or three demons whose levels are each at least 3 less than double the spell level.

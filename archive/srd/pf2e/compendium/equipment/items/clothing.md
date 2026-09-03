@@ -37,7 +37,7 @@ Fine clothing, suitable for a noble or royal, is made with expensive fabrics, pr
 
 - **Price**: 55 gp
 
-You gain a +1 item bonus to checks to [Make an Impression](rules/actions/make-an-impression.md) on upper-class folk while wearing high-fashion fine clothing.
+You gain a +1 item bonus to checks to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md) on upper-class folk while wearing high-fashion fine clothing.
 
 #### winter *Item 0*
 

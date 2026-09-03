@@ -11,13 +11,13 @@ tags:
 aliases: ["Potion of Water Breathing"]
 ---
 # Potion of Water Breathing *Item 3*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [potion](archive/srd/pf2e/rules/traits/potion.md "Potion Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 11 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-This filmy, gray potion smells of an old fish midden and tastes even worse. After drinking this potion, you gain the effects of a 2nd-level [water breathing](compendium/spells/water-breathing.md) spell for 1 hour.
+This filmy, gray potion smells of an old fish midden and tastes even worse. After drinking this potion, you gain the effects of a 2nd-level [water breathing](archive/srd/pf2e/compendium/spells/water-breathing.md) spell for 1 hour.
 
 
 ---

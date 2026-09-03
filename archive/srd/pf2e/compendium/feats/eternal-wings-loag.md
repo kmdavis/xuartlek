@@ -7,9 +7,9 @@ tags:
 aliases: ["Eternal Wings"]
 ---
 # Eternal Wings  *Feat 17*  
-[sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  
+[sylph](sylph-b2.md "Sylph Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Wings of Air](compendium/feats/wings-of-air-loag.md)
+- **Prerequisites**: [Wings of Air](wings-of-air-loag.md)
 
 Your wings are now a permanent part of your body. You gain the effects of Wings of Air at all times rather than just once per day for 10 minutes.
 

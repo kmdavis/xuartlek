@@ -7,10 +7,10 @@ tags:
 aliases: ["Hazard Finder"]
 ---
 # Hazard Finder  *Feat 8*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
 
-You have an intuitive ability to sense hazards. You gain a +1 circumstance bonus to [Perception](compendium/skills.md#Perception) checks to find traps and hazards, to AC against their attacks, and to saves against their effects. You can find hazards that would normally require you to [Search](rules/actions/search.md) even if you aren't [Searching](rules/actions/search.md).
+You have an intuitive ability to sense hazards. You gain a +1 circumstance bonus to [Perception](skills.md#Perception) checks to find traps and hazards, to AC against their attacks, and to saves against their effects. You can find hazards that would normally require you to [Search](archive/srd/pf2e/rules/actions/search.md) even if you aren't [Searching](archive/srd/pf2e/rules/actions/search.md).
 
 *Source: Core Rulebook p. 174*  
 %% #compendium/src/pf2e/crb #trait/ranger %%

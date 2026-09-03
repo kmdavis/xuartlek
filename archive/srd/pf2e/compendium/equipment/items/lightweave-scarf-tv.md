@@ -11,14 +11,14 @@ tags:
 aliases: ["Lightweave Scarf"]
 ---
 # Lightweave Scarf *Item 8+*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
 - **Bulk** —; **Usage** affixed to armor or a weapon
 
 The first of these strips of glittering cloth was worn by a monk from Jinin who would interweave it into his handwraps of mighty blows. The spell DC of any spell cast by activating this item is 24.
 
-- Armor You gain a +2 item bonus to saving throws against illusions and [Deception](compendium/skills.md#Deception) checks to [Create a Diversion](rules/actions/create-a-diversion.md).
-- Weapon (visual) After you cast an illusion spell by activating the scarf, the weapon is shrouded in a mesmerizing illusory pattern. Your next [Strike](rules/actions/strike.md) causes the target to be [confused](rules/conditions.md#Confused) for 1 round if it hits. If you don't make a [Strike](rules/actions/strike.md) by the end of your next turn, the illusion ends with no effect.
+- Armor You gain a +2 item bonus to saving throws against illusions and [Deception](skills.md#Deception) checks to [Create a Diversion](archive/srd/pf2e/rules/actions/create-a-diversion.md).
+- Weapon (visual) After you cast an illusion spell by activating the scarf, the weapon is shrouded in a mesmerizing illusory pattern. Your next [Strike](archive/srd/pf2e/rules/actions/strike.md) causes the target to be [confused](archive/srd/pf2e/rules/conditions.md#Confused) for 1 round if it hits. If you don't make a [Strike](archive/srd/pf2e/rules/actions/strike.md) by the end of your next turn, the illusion ends with no effect.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
@@ -65,7 +65,7 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 
 - **Price**: 22000 gp
 
-Item bonus when affixed to armor is +3; when affixed to a weapon, creatures are [confused](rules/conditions.md#Confused) for 1 minute; and the spell DC is 38.
+Item bonus when affixed to armor is +3; when affixed to a weapon, creatures are [confused](archive/srd/pf2e/rules/conditions.md#Confused) for 1 minute; and the spell DC is 38.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

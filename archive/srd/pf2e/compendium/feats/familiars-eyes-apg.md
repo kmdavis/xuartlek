@@ -8,13 +8,13 @@ tags:
 - trait/witch
 aliases: ["Familiar's Eyes"]
 ---
-# Familiar's Eyes  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
+# Familiar's Eyes  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](divination.md "Divination School Trait")  [witch](archive/srd/pf2e/rules/traits/witch-apg.md "Witch Class Trait")  
 
 - **Prerequisites**: a familiar
 - **Activity** Single Action
 
-You use your familiar's senses as easily as your own. You project your senses into your familiar. When you do, you lose all sensory information from your own body, but you can sense through your familiar's body until you [Dismiss](rules/actions/dismiss.md) the effect.
+You use your familiar's senses as easily as your own. You project your senses into your familiar. When you do, you lose all sensory information from your own body, but you can sense through your familiar's body until you [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the effect.
 
 While projecting your senses in this way, you can converse telepathically with your familiar if it understands a language.
 

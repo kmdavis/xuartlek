@@ -15,6 +15,6 @@ Your experience as a ledger-keeper for one of Absalom's trade guilds has made yo
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Business Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Society](skills.md#Society) skill and the [Business Lore](skills.md#Lore) skill.
 
-You gain the [Experienced Professional](compendium/feats/experienced-professional.md) skill feat.
+You gain the [Experienced Professional](archive/srd/pf2e/compendium/feats/experienced-professional.md) skill feat.

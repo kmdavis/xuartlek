@@ -9,7 +9,7 @@ tags:
 aliases: ["Swallow-Spike"]
 ---
 # Swallow-Spike *Item 6+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Usage** etched onto armor
 

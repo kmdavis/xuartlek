@@ -7,10 +7,10 @@ tags:
 aliases: ["Shaitan Skin"]
 ---
 # Shaitan Skin  *Feat 13*  
-[oread](rules/traits/oread-b2.md "Oread Ancestry & Heritage Trait")  
+[oread](oread-b2.md "Oread Ancestry & Heritage Trait")  
 
 
-When in danger, you can harden the stone in your skin into armor, much like a shaitan. You can cast [stoneskin](compendium/spells/stoneskin.md) on yourself only, 3 times per day as a 4th-level arcane innate spell.
+When in danger, you can harden the stone in your skin into armor, much like a shaitan. You can cast [stoneskin](stoneskin.md) on yourself only, 3 times per day as a 4th-level arcane innate spell.
 
 *Source: Lost Omens: Ancestry Guide p. 108*  
 %% #compendium/src/pf2e/loag #trait/oread %%

@@ -13,7 +13,7 @@ tags:
 aliases: ["Radiant Lance"]
 ---
 # Radiant Lance *Item 15*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [good](good.md "Good Alignment Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5750 gp
 - **Bulk** 2; **Usage** held in 2 hands
@@ -26,8 +26,8 @@ When wielded in battle, the radiant lance sheds bright light in a 60-foot radius
 
 > [!success-degree] 
 > - **Success** The undead is unaffected.
-> - **Failure** The undead is [slowed](rules/conditions.md#Slowed) for 1 round.
-> - **Critical Failure** The undead is [slowed](rules/conditions.md#Slowed) for 1 minute. Activate [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md); Frequency once per day; Effect You point the lance at a foe and call out, firing a beam with the effects of a 7th-level [searing light](compendium/spells/searing-light.md).
+> - **Failure** The undead is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 1 round.
+> - **Critical Failure** The undead is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) for 1 minute. Activate [>>](chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](archive/srd/pf2e/rules/actions/interact.md); Frequency once per day; Effect You point the lance at a foe and call out, firing a beam with the effects of a 7th-level [searing light](searing-light.md).
 
 
 ---

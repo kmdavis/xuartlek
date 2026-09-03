@@ -10,13 +10,13 @@ tags:
 aliases: ["Focusing Hum"]
 ---
 # Focusing Hum *Spell 3*   
-[divination](rules/traits/divination.md "Divination School Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  
+[divination](divination.md "Divination School Trait")  [enchantment](enchantment.md "Enchantment School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Area**: 15-foot emanation centered on you
 - **Duration**: sustained up to 1 minute
 
-You infuse the air around you with a sustained hum that allows creatures within it to resist distractions. The DC of any flat check to [Cast a Spell](rules/actions/cast-a-spell.md) while [stupefied](rules/conditions.md#Stupefied) for creatures within the area is 2 lower. [Confused](rules/conditions.md#Confused) creatures in the area don't attack anyone, including themselves, and instead lose the ability to speak coherently. You take a –2 penalty to [Stealth](compendium/skills.md#Stealth) checks to [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md).
+You infuse the air around you with a sustained hum that allows creatures within it to resist distractions. The DC of any flat check to [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) while [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for creatures within the area is 2 lower. [Confused](archive/srd/pf2e/rules/conditions.md#Confused) creatures in the area don't attack anyone, including themselves, and instead lose the ability to speak coherently. You take a –2 penalty to [Stealth](skills.md#Stealth) checks to [Hide](archive/srd/pf2e/rules/actions/hide.md) and [Sneak](archive/srd/pf2e/rules/actions/sneak.md).
 
 *Source: Dark Archive p. 105*

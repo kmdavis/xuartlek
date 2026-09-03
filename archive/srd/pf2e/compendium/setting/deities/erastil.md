@@ -23,12 +23,12 @@ aliases: ["Erastil", "Old Deadeye"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [longbow](compendium/equipment/items/longbow.md)
-- **Domains**: [earth](compendium/setting/domains.md#Earth), [family](compendium/setting/domains.md#Family), [nature](compendium/setting/domains.md#Nature), [wealth](compendium/setting/domains.md#Wealth)
-- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 3rd: [wall of thorns](compendium/spells/wall-of-thorns.md); 5th: [tree stride](compendium/spells/tree-stride.md)
+- **Favored Weapon**: [longbow](archive/srd/pf2e/compendium/equipment/items/longbow.md)
+- **Domains**: [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Alternate Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 3rd: [wall of thorns](archive/srd/pf2e/compendium/spells/wall-of-thorns.md); 5th: [tree stride](tree-stride.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Erastil
@@ -43,10 +43,10 @@ title: [Avatar](compendium/spells/avatar.md) of Erastil
 
 Erastil favors those who commit themselves to their communities and detests those who disrupt these families.
 
-- **Minor Boon** Erastil shares in his bounty as long as you work for it. Whenever you roll a critical failure at a check to [Subsist](rules/actions/subsist.md) in the wild, you get a failure instead.
-- **Moderate Boon**: You share Erastil's sharp eye, allowing you to use a [longbow](compendium/equipment/items/longbow.md) in any situation. When you attack with a [longbow](compendium/equipment/items/longbow.md), you can ignore the [longbow's](compendium/equipment/items/longbow.md) [volley](rules/traits/volley.md "Volley Weapon Trait") trait, and [longbows](compendium/equipment/items/longbow.md) have double the normal range increment for you.
-- **Major Boon**: You become a friend to the land. You can cast [speak with plants](compendium/spells/speak-with-plants.md) as a [divine](rules/traits/divine.md "Divine Tradition Trait") innate spell. When you are in a healthy natural environment, the land sustains you without need for food or drink. You can cast the [commune with nature](compendium/spells/rituals/commune-with-nature.md) ritual without any secondary casters or secondary checks.
+- **Minor Boon** Erastil shares in his bounty as long as you work for it. Whenever you roll a critical failure at a check to [Subsist](archive/srd/pf2e/rules/actions/subsist.md) in the wild, you get a failure instead.
+- **Moderate Boon**: You share Erastil's sharp eye, allowing you to use a [longbow](archive/srd/pf2e/compendium/equipment/items/longbow.md) in any situation. When you attack with a [longbow](archive/srd/pf2e/compendium/equipment/items/longbow.md), you can ignore the [longbow's](archive/srd/pf2e/compendium/equipment/items/longbow.md) [volley](archive/srd/pf2e/rules/traits/volley.md "Volley Weapon Trait") trait, and [longbows](archive/srd/pf2e/compendium/equipment/items/longbow.md) have double the normal range increment for you.
+- **Major Boon**: You become a friend to the land. You can cast [speak with plants](archive/srd/pf2e/compendium/spells/speak-with-plants.md) as a [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait") innate spell. When you are in a healthy natural environment, the land sustains you without need for food or drink. You can cast the [commune with nature](commune-with-nature.md) ritual without any secondary casters or secondary checks.
 
-- **Minor Curse**: Erastil curses your table and punishes you for relying on others' hard work. Any food you didn't grow, gather, or otherwise harvest yourself tastes like ash and leaves you [fatigued](rules/conditions.md#Fatigued).
-- **Moderate Curse** Erastil's beasts take a dislike to you. Animals' attitudes toward you are one category worse ([friendly](rules/conditions.md#Friendly) instead of [helpful](rules/conditions.md#Helpful), [indifferent](rules/conditions.md#Indifferent) instead of [friendly](rules/conditions.md#Friendly), and so on).
+- **Minor Curse**: Erastil curses your table and punishes you for relying on others' hard work. Any food you didn't grow, gather, or otherwise harvest yourself tastes like ash and leaves you [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued).
+- **Moderate Curse** Erastil's beasts take a dislike to you. Animals' attitudes toward you are one category worse ([friendly](archive/srd/pf2e/rules/conditions.md#Friendly) instead of [helpful](archive/srd/pf2e/rules/conditions.md#Helpful), [indifferent](archive/srd/pf2e/rules/conditions.md#Indifferent) instead of [friendly](archive/srd/pf2e/rules/conditions.md#Friendly), and so on).
 - **Major Curse**: Erastil leaves you unable to have children (or otherwise reproduce or propagate if you do so in a different manner). This curse also affects your livestock, pets, and crops.

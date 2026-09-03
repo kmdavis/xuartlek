@@ -8,11 +8,11 @@ tags:
 aliases: ["Seek the Animals"]
 ---
 # Seek the Animals
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #2: Cult of Cinders p. 20*  
 
 
-You help the elven hunters look for signs of animals. Attempt a DC 17 [Nature](compendium/skills.md#Nature) or [Perception](compendium/skills.md#Perception) check.
+You help the elven hunters look for signs of animals. Attempt a DC 17 [Nature](skills.md#Nature) or [Perception](skills.md#Perception) check.
 
 > [!success-degree] 
 > - **Critical Success** You make an impressive and potentially dangerous find, such as a large pack of particularly healthy (and thus cranky) red river boars or a large waterbuck with razor-sharp horns. You also find signs of animals that are safer to hunt than your impressive and delicious find.

@@ -11,9 +11,9 @@ tags:
 aliases: ["Dagger Of Eternal Sleep"]
 ---
 # Dagger Of Eternal Sleep *Item 5*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Access** follower of [Achaekek](compendium/setting/deities/achaekek-logm.md)
+- **Access** follower of [Achaekek](achaekek-logm.md)
 - **Price** 25 gp
 - **Bulk** L; **Usage** held in 1 hand
 

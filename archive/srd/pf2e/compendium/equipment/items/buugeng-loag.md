@@ -12,7 +12,7 @@ tags:
 aliases: ["Buugeng"]
 ---
 # Buugeng *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [twin](rules/traits/twin.md "Twin Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [conrasu](conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [twin](archive/srd/pf2e/rules/traits/twin.md "Twin Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4 gp
 - **Bulk** 1

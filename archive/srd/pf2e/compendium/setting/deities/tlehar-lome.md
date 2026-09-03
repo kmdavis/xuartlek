@@ -27,14 +27,14 @@ aliases: ["Tlehar", "The Rising Sun"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Crafting
-- **Favored Weapon**: [morningstar](compendium/equipment/items/morningstar.md)
-- **Domains**: [cities](compendium/setting/domains.md#Cities), [healing](compendium/setting/domains.md#Healing), [passion](compendium/setting/domains.md#Passion), [sun](compendium/setting/domains.md#Sun)
-- **Alternate Domains**: [change](compendium/setting/domains.md#Change), [creation](compendium/setting/domains.md#Creation), [vigil](compendium/setting/domains.md#Vigil), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 3rd: [enthrall](compendium/spells/enthrall.md); 5th: [dreaming potential](compendium/spells/dreaming-potential.md)
+- **Favored Weapon**: [morningstar](archive/srd/pf2e/compendium/equipment/items/morningstar.md)
+- **Domains**: [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun)
+- **Alternate Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 3rd: [enthrall](archive/srd/pf2e/compendium/spells/enthrall.md); 5th: [dreaming potential](archive/srd/pf2e/compendium/spells/dreaming-potential.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Tlehar gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Tlehar gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Tlehar

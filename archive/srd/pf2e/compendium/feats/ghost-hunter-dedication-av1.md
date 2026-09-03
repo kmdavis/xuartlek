@@ -9,13 +9,13 @@ tags:
 aliases: ["Ghost Hunter Dedication"]
 ---
 # Ghost Hunter Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: Trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion)
+- **Prerequisites**: Trained in [Occultism](skills.md#Occultism) or [Religion](skills.md#Religion)
 
-You have focused your training on hunting and defeating ghosts, spirits, and all manner of haunts. [Pick Spirit Lore](compendium/skills.md#Lore) or [Haunt Lore](compendium/skills.md#Lore); you become trained in this skill. If you were already trained in both skills, you become trained in a new [Lore](compendium/skills.md#Lore) skill of your choice.
+You have focused your training on hunting and defeating ghosts, spirits, and all manner of haunts. [Pick Spirit Lore](skills.md#Lore) or [Haunt Lore](skills.md#Lore); you become trained in this skill. If you were already trained in both skills, you become trained in a new [Lore](skills.md#Lore) skill of your choice.
 
-Choose two cantrips from the occult spell list. Each cantrip must have the divination, [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), or [necromancy](rules/traits/necromancy.md "Necromancy School Trait") trait. You can cast these spells as innate occult spells. You gain access to the [Cast a Spell](rules/actions/cast-a-spell.md) activity if you didn't have it already.
+Choose two cantrips from the occult spell list. Each cantrip must have the divination, [enchantment](enchantment.md "Enchantment School Trait"), or [necromancy](necromancy.md "Necromancy School Trait") trait. You can cast these spells as innate occult spells. You gain access to the [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) activity if you didn't have it already.
 
 You're trained in occult spell attack rolls and spell DCs. You can usually replace material components with somatic components, so you don't need a spell component pouch. Your key spellcasting ability for these spells is Charisma.
 
@@ -23,7 +23,7 @@ You're trained in occult spell attack rolls and spell DCs. You can usually repla
 
 ## Ghost Hunter Dedication leads to...
 
-[Ghost Strike](compendium/feats/ghost-strike-av1.md), [Grave's Voice](compendium/feats/graves-voice-av1.md), [Investigate Haunting](compendium/feats/investigate-haunting-av1.md), [Peer Beyond](compendium/feats/peer-beyond-av1.md), [Spirit Spells](compendium/feats/spirit-spells-av1.md)
+[Ghost Strike](ghost-strike-av1.md), [Grave's Voice](graves-voice-av1.md), [Investigate Haunting](investigate-haunting-av1.md), [Peer Beyond](peer-beyond-av1.md), [Spirit Spells](spirit-spells-av1.md)
 
 ## Summary
 

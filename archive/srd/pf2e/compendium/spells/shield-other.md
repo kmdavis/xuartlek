@@ -8,10 +8,10 @@ tags:
 aliases: ["Shield Other"]
 ---
 # Shield Other *Spell 2*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Duration**: 10 minutes

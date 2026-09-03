@@ -10,12 +10,12 @@ tags:
 aliases: ["Black Hole Armor"]
 ---
 # Black Hole Armor *Item 16*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 8500 gp
 - **Bulk** 5; **Usage** worn armor
 
-The joints of this black +2 greater resilient fortification [fortress plate](compendium/equipment/items/fortress-plate-tv.md) look like swirling vortices of silver. Non-magical ammunition and thrown weapons aimed at you are destroyed after they hit you and deal damage or miss you. You also have resistance 10 to physical damage from ranged attacks.
+The joints of this black +2 greater resilient fortification [fortress plate](fortress-plate-tv.md) look like swirling vortices of silver. Non-magical ammunition and thrown weapons aimed at you are destroyed after they hit you and deal damage or miss you. You also have resistance 10 to physical damage from ranged attacks.
 
 When an enemy's ranged attack misses you or hits you and deals no damage, the armor absorbs the projectile.
 

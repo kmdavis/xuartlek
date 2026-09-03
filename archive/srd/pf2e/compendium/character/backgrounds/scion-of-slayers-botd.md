@@ -15,6 +15,6 @@ You were born into a lineage of undead slayers. No mere occupation, in your fami
 
 Choose two ability boosts. One must be to Strength or Intelligence, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Undead Lore](compendium/skills.md#Lore) skill. You can cast [disrupt undead](compendium/spells/disrupt-undead.md) as an innate divine cantrip.
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Undead Lore](skills.md#Lore) skill. You can cast [disrupt undead](disrupt-undead.md) as an innate divine cantrip.
 
 You can use Intelligence as your spellcasting ability for this innate spell.

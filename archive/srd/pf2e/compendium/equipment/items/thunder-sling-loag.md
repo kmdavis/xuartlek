@@ -11,7 +11,7 @@ tags:
 aliases: ["Thunder Sling"]
 ---
 # Thunder Sling *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [propulsive](archive/srd/pf2e/rules/traits/propulsive.md "Propulsive Weapon Trait")  [tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** L
@@ -20,7 +20,7 @@ aliases: ["Thunder Sling"]
 - **Hands** 1
 - **Category** Martial; **Group** Sling 
 
-Tengu use these specialized slings to fire darts further and with greater force than when thrown by hand, which is particularly effective when attacking from great heights. A thunder sling uses [darts](compendium/equipment/items/dart.md) as ammunition. It can also hurl [blowgun darts](compendium/equipment/items/blowgun-dart.md) as ammunition but deals `1d4` piercing damage instead of `1d6` when used this way.
+Tengu use these specialized slings to fire darts further and with greater force than when thrown by hand, which is particularly effective when attacking from great heights. A thunder sling uses [darts](archive/srd/pf2e/compendium/equipment/items/dart.md) as ammunition. It can also hurl [blowgun darts](blowgun-dart.md) as ammunition but deals `1d4` piercing damage instead of `1d6` when used this way.
 
 
 ---

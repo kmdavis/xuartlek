@@ -8,9 +8,9 @@ tags:
 aliases: ["Garuda's Squall"]
 ---
 # Garuda's Squall  *Feat 5*  
-[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [lineage](rules/traits/lineage-apg.md "Lineage  Trait")  
+[aasimar](aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [lineage](lineage-apg.md "Lineage  Trait")  
 
-- **Prerequisites**: [Plumekith](compendium/feats/plumekith-loag.md)
+- **Prerequisites**: [Plumekith](plumekith-loag.md)
 
 Garudas' marksmanship and magic are second nature to you. Whenever you critically hit using a bow, you apply the weapon's critical specialization effect.
 

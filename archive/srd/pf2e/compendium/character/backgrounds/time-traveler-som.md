@@ -14,7 +14,7 @@ You come from a different time. Whether by your own doing or a terrible accident
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You are trained in three [Lore](compendium/skills.md#Lore) skills of your choice that represent your knowledge from your old time. You gain the Bend Time reaction.
+You are trained in three [Lore](skills.md#Lore) skills of your choice that represent your knowledge from your old time. You gain the Bend Time reaction.
 
 ```ad-embed-ability
 title: **Bend Time** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([occult](rules/traits/occult.md), [transmutation](rules/traits/transmutation.md))

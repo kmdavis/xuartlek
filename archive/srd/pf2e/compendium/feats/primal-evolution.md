@@ -8,15 +8,15 @@ tags:
 aliases: ["Primal Evolution"]
 ---
 # Primal Evolution  *Feat 4*  
-[primal](rules/traits/primal.md "Primal Tradition Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: bloodline that grants primal spells
 
-You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest level, which you can use only to cast [summon animal](compendium/spells/summon-animal.md) or [summon plants and fungi](compendium/spells/summon-plant-or-fungus.md). You can cast either of these spells using that spell slot, even if it they aren't in your spell repertoire.
+You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest level, which you can use only to cast [summon animal](archive/srd/pf2e/compendium/spells/summon-animal.md) or [summon plants and fungi](archive/srd/pf2e/compendium/spells/summon-plant-or-fungus.md). You can cast either of these spells using that spell slot, even if it they aren't in your spell repertoire.
 
 ## Primal Evolution leads to...
 
-[Greater Vital Evolution](compendium/feats/greater-vital-evolution.md), [Greater Physical Evolution](compendium/feats/greater-physical-evolution-apg.md)
+[Greater Vital Evolution](archive/srd/pf2e/compendium/feats/greater-vital-evolution.md), [Greater Physical Evolution](greater-physical-evolution-apg.md)
 
 ## Summary
 

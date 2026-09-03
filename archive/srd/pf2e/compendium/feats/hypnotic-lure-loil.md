@@ -11,8 +11,8 @@ tags:
 - trait/visual
 aliases: ["Hypnotic Lure"]
 ---
-# Hypnotic Lure  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+# Hypnotic Lure  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [nagaji](nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Two-Action
@@ -21,8 +21,8 @@ Your unblinking gaze is so intense it can befuddle the mind of others, drawing y
 
 > [!success-degree] 
 > - **Success** The target is unaffected.
-> - **Failure** On its turn, the target must spend its first action to approach you. It can't [Delay](rules/actions/delay.md) or take reactions until it has done so.
-> - **Critical Failure** The target must use all its actions on its next turn to approach you. It can't [Delay](rules/actions/delay.md) or take any reactions until it has reached a space that's adjacent to you (or as close to you as possible if it reaches an impassable barrier).
+> - **Failure** On its turn, the target must spend its first action to approach you. It can't [Delay](archive/srd/pf2e/rules/actions/delay.md) or take reactions until it has done so.
+> - **Critical Failure** The target must use all its actions on its next turn to approach you. It can't [Delay](archive/srd/pf2e/rules/actions/delay.md) or take any reactions until it has reached a space that's adjacent to you (or as close to you as possible if it reaches an impassable barrier).
 
 *Source: Lost Omens: Impossible Lands p. 49*  
 %% #compendium/src/pf2e/loil #trait/concentrate #trait/enchantment #trait/mental #trait/nagaji #trait/occult #trait/visual %%

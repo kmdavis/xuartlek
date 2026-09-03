@@ -20,8 +20,8 @@ aliases: ["Korada", "The Open Hand of Harmony"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
 - **Favored Weapon**: fist
-- **Domains**: [change](compendium/setting/domains.md#Change), [healing](compendium/setting/domains.md#Healing), [magic](compendium/setting/domains.md#Magic), [protection](compendium/setting/domains.md#Protection)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 3rd: [slow](compendium/spells/slow.md); 4th: [resilient sphere](compendium/spells/resilient-sphere.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 3rd: [slow](archive/srd/pf2e/compendium/spells/slow.md); 4th: [resilient sphere](resilient-sphere.md)

@@ -15,4 +15,4 @@ Your birthplace was on one of the elemental planes, but you traveled to the Univ
 
 Choose two attribute boosts. One must be Dexterity or Constitution, and one is a free attribute boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and one of the following lore skills: Plane of [Air Lore](compendium/skills.md#Lore), Plane of [Earth Lore](compendium/skills.md#Lore), Plane of [Fire Lore](compendium/skills.md#Lore), Plane of [Metal Lore](compendium/skills.md#Lore), Plane of [Water Lore](compendium/skills.md#Lore), or Plane of [Wood Lore](compendium/skills.md#Lore). You gain the Hefty Hauler and [Prescient Planner](compendium/feats/prescient-planner-apg.md) skill feats.
+You're trained in the [Athletics](skills.md#Athletics) skill and one of the following lore skills: Plane of [Air Lore](skills.md#Lore), Plane of [Earth Lore](skills.md#Lore), Plane of [Fire Lore](skills.md#Lore), Plane of [Metal Lore](skills.md#Lore), Plane of [Water Lore](skills.md#Lore), or Plane of [Wood Lore](skills.md#Lore). You gain the Hefty Hauler and [Prescient Planner](prescient-planner-apg.md) skill feats.

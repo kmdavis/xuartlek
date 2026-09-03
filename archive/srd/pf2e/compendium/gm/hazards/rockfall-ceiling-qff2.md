@@ -8,14 +8,14 @@ tags:
 aliases: ["Rockfall Ceiling"]
 ---
 # Rockfall Ceiling *Hazard 5*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
 
 A load of rocks, held up by a rope pulley, is dropped on the cavern's lower level.
 
-- **Disable** DC 25 [Thievery](compendium/skills.md#Thievery) (trained) to pin the pulley in place  
+- **Disable** DC 25 [Thievery](skills.md#Thievery) (trained) to pin the pulley in place  
 
 - **AC** 22, **Fort** +15, **Ref** +15
 - **Hardness** 12, **HP** 50 (BT 25)

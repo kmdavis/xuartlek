@@ -10,8 +10,8 @@ tags:
 - trait/transmutation
 aliases: ["Terraforming Spell"]
 ---
-# Terraforming Spell  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Terraforming Spell  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 16*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [metamagic](metamagic.md "Metamagic General Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Activity** Single Action
 

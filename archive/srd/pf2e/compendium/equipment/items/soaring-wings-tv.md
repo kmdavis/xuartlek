@@ -11,7 +11,7 @@ tags:
 aliases: ["Soaring Wings"]
 ---
 # Soaring Wings *Item 9+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** —; **Usage** tattooed on the body
 
@@ -43,7 +43,7 @@ You can activate the tattoo once per hour.
 
 - **Price**: 38000 gp
 
-You can activate the tattoo any number of times, and the effect lasts until you [Dismiss](rules/actions/dismiss.md) the activation.
+You can activate the tattoo any number of times, and the effect lasts until you [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the activation.
 
 ---
 *Source: Treasure Vault p. 121*

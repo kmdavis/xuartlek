@@ -15,4 +15,4 @@ Rumors abound that your family is cursed. While that would explain several unfor
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Occultism](compendium/skills.md#Occultism) skill and the [Curse Lore](compendium/skills.md#Lore) skill. You gain the [Oddity Identification](compendium/feats/oddity-identification.md) skill feat.
+You're trained in the [Occultism](skills.md#Occultism) skill and the [Curse Lore](skills.md#Lore) skill. You gain the [Oddity Identification](archive/srd/pf2e/compendium/feats/oddity-identification.md) skill feat.

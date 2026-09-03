@@ -8,14 +8,14 @@ tags:
 aliases: ["Guthallath Rockslide"]
 ---
 # Guthallath Rockslide *Hazard 19*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 master to notice the odd aging of the stones, seemingly far older and more weathered than the surrounding rocks.  
 
 The rock walls nearby begin to crumble and collapse.
 
-- **Disable** DC 48 [Crafting](compendium/skills.md#Crafting) (legendary) to buttress the collapsing rocks in three different locations. Using large and durable materials (or applicable spells) to support the rocks reduces the check to DC 45 [Crafting](compendium/skills.md#Crafting) (master).  
+- **Disable** DC 48 [Crafting](skills.md#Crafting) (legendary) to buttress the collapsing rocks in three different locations. Using large and durable materials (or applicable spells) to support the rocks reduces the check to DC 45 [Crafting](skills.md#Crafting) (master).  
 
 - **AC** 42, **Fort** +35, **Ref** +29
 - **HP** 150

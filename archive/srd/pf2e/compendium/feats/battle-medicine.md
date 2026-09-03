@@ -9,18 +9,18 @@ tags:
 - trait/skill
 aliases: ["Battle Medicine"]
 ---
-# Battle Medicine  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+# Battle Medicine  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Medicine](compendium/skills.md#Medicine)
-- **Requirements**: You are holding or wearing [healer's tools](compendium/equipment/items/healers-tools.md) and have a hand free.
+- **Prerequisites**: trained in [Medicine](skills.md#Medicine)
+- **Requirements**: You are holding or wearing [healer's tools](healers-tools.md) and have a hand free.
 - **Activity** Single Action
 
-You can patch up yourself or an adjacent ally, even in combat. Attempt a [Medicine](compendium/skills.md#Medicine) check with the same DC as for [Treat Wounds](rules/actions/treat-wounds.md), and restore a corresponding amount of Hit Points; this does not remove the [wounded](rules/conditions.md#Wounded) condition. As with [Treat Wounds](rules/actions/treat-wounds.md), you can attempt checks against higher DCs if you have the minimum proficiency rank. The target is then temporarily immune to your [Battle Medicine](compendium/feats/battle-medicine.md) for 1 day.
+You can patch up yourself or an adjacent ally, even in combat. Attempt a [Medicine](skills.md#Medicine) check with the same DC as for [Treat Wounds](archive/srd/pf2e/rules/actions/treat-wounds.md), and restore a corresponding amount of Hit Points; this does not remove the [wounded](archive/srd/pf2e/rules/conditions.md#Wounded) condition. As with [Treat Wounds](archive/srd/pf2e/rules/actions/treat-wounds.md), you can attempt checks against higher DCs if you have the minimum proficiency rank. The target is then temporarily immune to your [Battle Medicine](archive/srd/pf2e/compendium/feats/battle-medicine.md) for 1 day.
 
 ## Battle Medicine leads to...
 
-[Medic Dedication](compendium/feats/medic-dedication-apg.md), [Doctor's Visitation](compendium/feats/doctors-visitation-apg.md), [Resuscitate](compendium/feats/resuscitate-apg.md), [Treat Condition](compendium/feats/treat-condition-apg.md), [Holistic Care](compendium/feats/holistic-care-apg.md), [Preventative Treatment](compendium/feats/preventative-treatment-lokl.md), [Godless Healing](compendium/feats/godless-healing-lowg.md), [Mortal Healing](compendium/feats/mortal-healing-logm.md), [Paragon Battle Medicine](compendium/feats/paragon-battle-medicine-lol.md)
+[Medic Dedication](medic-dedication-apg.md), [Doctor's Visitation](doctors-visitation-apg.md), [Resuscitate](resuscitate-apg.md), [Treat Condition](treat-condition-apg.md), [Holistic Care](holistic-care-apg.md), [Preventative Treatment](preventative-treatment-lokl.md), [Godless Healing](godless-healing-lowg.md), [Mortal Healing](mortal-healing-logm.md), [Paragon Battle Medicine](paragon-battle-medicine-lol.md)
 
 ## Summary
 

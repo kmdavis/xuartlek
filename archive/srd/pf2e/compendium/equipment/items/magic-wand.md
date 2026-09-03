@@ -9,7 +9,7 @@ tags:
 aliases: ["Magic Wand"]
 ---
 # Magic Wand *Item 3+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a listed-level casting of the spell.
 - **Bulk** L; **Usage** held in 1 hand

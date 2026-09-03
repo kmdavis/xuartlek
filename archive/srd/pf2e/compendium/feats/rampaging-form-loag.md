@@ -7,11 +7,11 @@ tags:
 aliases: ["Rampaging Form"]
 ---
 # Rampaging Form  *Feat 17*  
-[kitsune](rules/traits/kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
+[kitsune](kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Change Shape (Kitsune)](rules/actions/change-shape-kitsune-loag.md) with a fox alternate form
+- **Prerequisites**: [Change Shape (Kitsune)](change-shape-kitsune-loag.md) with a fox alternate form
 
-Once per day, when you [Change Shape (Kitsune)](rules/actions/change-shape-kitsune-loag.md) into a fox, you can instead gain the effects of both the canine form of 5th-level [animal form](compendium/spells/animal-form.md) and 7th-level [fiery body](compendium/spells/fiery-body.md) for 1 minute or until you shift back, whichever comes first. You can cast [produce flame](compendium/spells/produce-flame.md) from the fiery body effect even though you're in a battle form.
+Once per day, when you [Change Shape (Kitsune)](change-shape-kitsune-loag.md) into a fox, you can instead gain the effects of both the canine form of 5th-level [animal form](archive/srd/pf2e/compendium/spells/animal-form.md) and 7th-level [fiery body](archive/srd/pf2e/compendium/spells/fiery-body.md) for 1 minute or until you shift back, whichever comes first. You can cast [produce flame](produce-flame.md) from the fiery body effect even though you're in a battle form.
 
 **Special.** If you are a frozen wind kitsune, your form is ice instead of fire. This changes the immunity and damage from the fiery body effect to cold, changes the weakness to fire, and changes produce flame to ray of frost.
 

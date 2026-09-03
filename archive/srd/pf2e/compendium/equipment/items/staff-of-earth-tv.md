@@ -10,12 +10,12 @@ tags:
 aliases: ["Staff of Earth"]
 ---
 # Staff of Earth *Item 3+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
 
-Geometric patterns are etched into the smooth brown and gray surface of a staff of earth, which makes a solid thud whenever tapped against the ground. While wielding a staff of earth, you gain a +1 circumstance bonus to your Fortitude saves and DC against effects that [Shove](rules/actions/shove.md) you or knock you [prone](rules/conditions.md#Prone).
+Geometric patterns are etched into the smooth brown and gray surface of a staff of earth, which makes a solid thud whenever tapped against the ground. While wielding a staff of earth, you gain a +1 circumstance bonus to your Fortitude saves and DC against effects that [Shove](archive/srd/pf2e/rules/actions/shove.md) you or knock you [prone](archive/srd/pf2e/rules/conditions.md#Prone).
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

@@ -9,9 +9,9 @@ tags:
 aliases: ["Folklorist Dedication"]
 ---
 # Folklorist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: trained in [Performance](compendium/skills.md#Performance)
+- **Prerequisites**: trained in [Performance](skills.md#Performance)
 
 You are a master archivist and entertainer, capable of pulling wisdom from the tales you tell and weaving your allies and enemies into a powerful narrative. You gain the Spin Tale action.
 
@@ -30,7 +30,7 @@ title: **Spin Tale** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 ## Folklorist Dedication leads to...
 
-[Communal Tale](compendium/feats/communal-tale-sot2.md), [Folktales Lore](compendium/feats/folktales-lore-sot2.md), [Narrative Conduit](compendium/feats/narrative-conduit-sot2.md), [Rule Of Three](compendium/feats/rule-of-three-sot2.md)
+[Communal Tale](communal-tale-sot2.md), [Folktales Lore](folktales-lore-sot2.md), [Narrative Conduit](narrative-conduit-sot2.md), [Rule Of Three](rule-of-three-sot2.md)
 
 ## Summary
 

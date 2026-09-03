@@ -10,10 +10,10 @@ tags:
 aliases: ["Uncontrollable Dance"]
 ---
 # Uncontrollable Dance *Spell 8*   
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -21,7 +21,7 @@ aliases: ["Uncontrollable Dance"]
 
 The target is overcome with an all-consuming urge to dance.
 
-For the duration of the spell, the target is [flat-footed](rules/conditions.md#Flat-footed) and can't use reactions. While affected, the creature can't use actions with the [move](rules/traits/move.md "Move Combat Trait") trait except to dance, using the [Stride](rules/actions/stride.md) action to move up to half its Speed.
+For the duration of the spell, the target is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) and can't use reactions. While affected, the creature can't use actions with the [move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait") trait except to dance, using the [Stride](archive/srd/pf2e/rules/actions/stride.md) action to move up to half its Speed.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.

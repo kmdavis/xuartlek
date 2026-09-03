@@ -9,7 +9,7 @@ tags:
 aliases: ["Blasting Ram"]
 ---
 # Blasting Ram *Item 7*  
-[large](rules/traits/large-b1.md "Large Size Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[large](large-b1.md "Large Size Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 360 gp
 - **Bulk** 14; **Usage** portable (black powder), held in 8 hands

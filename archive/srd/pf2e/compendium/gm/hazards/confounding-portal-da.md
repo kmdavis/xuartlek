@@ -10,14 +10,14 @@ tags:
 aliases: ["Confounding Portal"]
 ---
 # Confounding Portal *Hazard 0*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 16  
 
 Tiny runes carved around a doorframe or on a hall's walls surreptitiously confound creatures into circling the room or hallway they attempted to exit or pass through.
 
-- **Disable** DC 17 [Thievery](compendium/skills.md#Thievery) to scratch out the runes, or DC 16 [Arcana](compendium/skills.md#Arcana) to destroy the runes  
+- **Disable** DC 17 [Thievery](skills.md#Thievery) to scratch out the runes, or DC 16 [Arcana](skills.md#Arcana) to destroy the runes  
 
 ```ad-embed-ability
 title: **Confounding Misdirection** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md))

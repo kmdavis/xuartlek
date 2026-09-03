@@ -7,7 +7,7 @@ tags:
 aliases: ["Familiar (Sorcerer)"]
 ---
 # Familiar (Sorcerer)  *Feat 1*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 
 An animal serves you and assists your spellcasting. You gain a familiar.

@@ -20,8 +20,8 @@ aliases: ["Gogunta", "Song of the Swamp"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [might](compendium/setting/domains.md#Might), [tyranny](compendium/setting/domains.md#Tyranny), [water](compendium/setting/domains.md#Water)
-- **Cleric Spells**: 1st: [jump](compendium/spells/jump.md); 3rd: [stinking cloud](compendium/spells/stinking-cloud.md); 5th: [black tentacles](compendium/spells/black-tentacles.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny), [water](archive/srd/pf2e/compendium/setting/domains.md#Water)
+- **Cleric Spells**: 1st: [jump](archive/srd/pf2e/compendium/spells/jump.md); 3rd: [stinking cloud](stinking-cloud.md); 5th: [black tentacles](black-tentacles.md)

@@ -6,8 +6,8 @@ tags:
 - trait/rogue
 aliases: ["Reactive Interference"]
 ---
-# Reactive Interference  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[rogue](rules/traits/rogue.md "Rogue Class Trait")  
+# Reactive Interference  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
+[rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Trigger** An adjacent enemy begins to use a reaction.
 - **Activity** Reaction

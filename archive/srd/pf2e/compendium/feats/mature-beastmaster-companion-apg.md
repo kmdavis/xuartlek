@@ -7,15 +7,15 @@ tags:
 aliases: ["Mature Beastmaster Companion"]
 ---
 # Mature Beastmaster Companion  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Beastmaster Dedication](compendium/feats/beastmaster-dedication-apg.md)
+- **Prerequisites**: [Beastmaster Dedication](beastmaster-dedication-apg.md)
 
-All of your animal companions grow up, becoming mature animal companions and gaining additional capabilities (Core Rulebook 214). During an encounter, even if you don't use the [Command an Animal](rules/actions/command-an-animal.md) action, your animal companion can still use 1 action on your turn to either [Stride](rules/actions/stride.md) or [Strike](rules/actions/strike.md).
+All of your animal companions grow up, becoming mature animal companions and gaining additional capabilities (Core Rulebook 214). During an encounter, even if you don't use the [Command an Animal](archive/srd/pf2e/rules/actions/command-an-animal.md) action, your animal companion can still use 1 action on your turn to either [Stride](archive/srd/pf2e/rules/actions/stride.md) or [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 ## Mature Beastmaster Companion leads to...
 
-[Incredible Beastmaster Companion](compendium/feats/incredible-beastmaster-companion-apg.md), [Specialized Beastmaster Companion](compendium/feats/specialized-beastmaster-companion-apg.md), [Lead The Pack](compendium/feats/lead-the-pack-apg.md)
+[Incredible Beastmaster Companion](incredible-beastmaster-companion-apg.md), [Specialized Beastmaster Companion](specialized-beastmaster-companion-apg.md), [Lead The Pack](lead-the-pack-apg.md)
 
 ## Summary
 

@@ -15,4 +15,4 @@ New realms rise constantly in the River Kingdoms, and you intend to lead one of 
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Politics Lore](compendium/skills.md#Lore) skill. You gain the [Courtly Graces](compendium/feats/courtly-graces.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Politics Lore](skills.md#Lore) skill. You gain the [Courtly Graces](archive/srd/pf2e/compendium/feats/courtly-graces.md) skill feat.

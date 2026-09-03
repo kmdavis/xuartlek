@@ -9,12 +9,12 @@ tags:
 aliases: ["Composite Shortbow"]
 ---
 # Composite Shortbow *Item 0*  
-[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  
+[deadly <d10>](rules/traits/deadly-d10.md "Deadly Weapon Trait")  [propulsive](archive/srd/pf2e/rules/traits/propulsive.md "Propulsive Weapon Trait")  
 
 - **Price** 14 gp
 - **Bulk** 1
   - **Damage**: `1d6` P
-  - **Ammunution** [Arrow](compendium/equipment/items/arrow.md); **Range** 60 ft.; **Reload** 0
+  - **Ammunution** [Arrow](arrow.md); **Range** 60 ft.; **Reload** 0
 - **Hands** 1+
 - **Category** Martial; **Group** Bow 
 

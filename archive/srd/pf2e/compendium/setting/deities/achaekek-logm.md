@@ -26,13 +26,13 @@ aliases: ["Achaekek", "He Who Walks In Blood"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Dexterity
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Stealth
-- **Favored Weapon**: [sawtooth saber](compendium/equipment/items/sawtooth-saber.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [might](compendium/setting/domains.md#Might), [trickery](compendium/setting/domains.md#Trickery), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 2nd: [invisibility](compendium/spells/invisibility.md); 4th: [phantasmal killer](compendium/spells/phantasmal-killer.md)
+- **Favored Weapon**: [sawtooth saber](archive/srd/pf2e/compendium/equipment/items/sawtooth-saber.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 2nd: [invisibility](archive/srd/pf2e/compendium/spells/invisibility.md); 4th: [phantasmal killer](phantasmal-killer.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Achaekek gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Achaekek gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Achaekek
@@ -46,12 +46,12 @@ title: [Avatar](compendium/spells/avatar.md) of Achaekek
 ## Divine intercession
 *Source: Lost Omens: Gods & Magic Web Supplement p. 3*
 
-He Who Walks in Blood detests oathbreakers and bears a particular prejudice against mortals seeking to ascend into divinity, but the Mantis God believes in compensation for selfless duties and rewards the rare individual for their murderous deeds. Violation of his tenets and, occasionally, slights against [Grandmother Spider](compendium/setting/deities/grandmother-spider-logm.md) may provoke Achaekek's wrath.
+He Who Walks in Blood detests oathbreakers and bears a particular prejudice against mortals seeking to ascend into divinity, but the Mantis God believes in compensation for selfless duties and rewards the rare individual for their murderous deeds. Violation of his tenets and, occasionally, slights against [Grandmother Spider](grandmother-spider-logm.md) may provoke Achaekek's wrath.
 
-- **Minor Boon** You hide among the shadows of death. Once, when you would fail a [Stealth](compendium/skills.md#Stealth) check, you critically succeed instead. Achaekek typically grants this boon for an extremely consequential [Stealth](compendium/skills.md#Stealth) check that could lead to an assassination, such as one that could get you into position to kill an important target, but rarely on a [Stealth](compendium/skills.md#Stealth) check to help you escape.
-- **Moderate Boon**: You gain the god's approval to take a life. You can cast [death knell](compendium/spells/death-knell.md) once per day as an innate divine spell.
+- **Minor Boon** You hide among the shadows of death. Once, when you would fail a [Stealth](skills.md#Stealth) check, you critically succeed instead. Achaekek typically grants this boon for an extremely consequential [Stealth](skills.md#Stealth) check that could lead to an assassination, such as one that could get you into position to kill an important target, but rarely on a [Stealth](skills.md#Stealth) check to help you escape.
+- **Moderate Boon**: You gain the god's approval to take a life. You can cast [death knell](death-knell.md) once per day as an innate divine spell.
 - **Major Boon**: Death lives in your very blade. You gain the sneak attack|rogue||1 rogue class feature, dealing `3d6` precision damage. If you already have that class feature, you increase your sneak attack damage by `3d6`.
 
-- **Minor Curse**: Achaekek's minions seek vengeance. Nonsapient insects (especially mantises) become [hostile](rules/conditions.md#Hostile) against you.
+- **Minor Curse**: Achaekek's minions seek vengeance. Nonsapient insects (especially mantises) become [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) against you.
 - **Moderate Curse** Hubris brings death. Your name and location are mentally projected into the mind of a Red Mantis assassin, who is tasked with eliminating you.
 - **Major Curse**: The Mantis God doesn't waste his time toying with or tormenting those who truly anger him, or those who dare to consider themselves divine. He rips open a portal to your location, kills you, drags your soul to judgment in a way that prevents resurrection magic, and then leaves.

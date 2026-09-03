@@ -10,7 +10,7 @@ tags:
 aliases: ["Trebuchet"]
 ---
 # Trebuchet *Item 10*  
-[gargantuan](rules/traits/gargantuan-b1.md "Gargantuan Size Trait")  [mounted](rules/traits/mounted-g-g.md "Mounted Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[gargantuan](gargantuan-b1.md "Gargantuan Size Trait")  [mounted](mounted-g-g.md "Mounted Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2000 gp
 - **Usage** mounted

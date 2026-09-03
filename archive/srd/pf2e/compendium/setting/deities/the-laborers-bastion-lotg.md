@@ -23,9 +23,9 @@ aliases: ["The Laborer's Bastion"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
-- **Domains**: [freedom](compendium/setting/domains.md#Freedom), [might](compendium/setting/domains.md#Might), [truth](compendium/setting/domains.md#Truth), [zeal](compendium/setting/domains.md#Zeal)
-- **Alternate Domains**: [ambition](compendium/setting/domains.md#Ambition), [indulgence](compendium/setting/domains.md#Indulgence)
-- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 2nd: [enlarge](compendium/spells/enlarge.md); 4th: [creation](compendium/spells/creation.md)
+- **Favored Weapon**: [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md)
+- **Domains**: [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Alternate Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence)
+- **Cleric Spells**: 1st: [fleet step](archive/srd/pf2e/compendium/spells/fleet-step.md); 2nd: [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md); 4th: [creation](archive/srd/pf2e/compendium/spells/creation.md)

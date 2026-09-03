@@ -8,7 +8,7 @@ tags:
 aliases: ["Mirror-Risen"]
 ---
 # Mirror-Risen  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [reflection](rules/traits/reflection-da.md "Reflection Ancestry & Heritage Trait")  
+[lineage](lineage-apg.md "Lineage  Trait")  [reflection](reflection-da.md "Reflection Ancestry & Heritage Trait")  
 
 
 You were created from magic involving mirrors and still retain some ability to seek refuge in reflected illusions. You gain the Mirror's Trickery reaction.
@@ -27,7 +27,7 @@ title: **Mirror's Trickery** [R](rules/core-rulebook/chapter-9-playing-the-game.
 
 ## Mirror-Risen leads to...
 
-[Reflective Pocket](compendium/feats/reflective-pocket-da.md), [Mirror Refuge](compendium/feats/mirror-refuge-da.md)
+[Reflective Pocket](reflective-pocket-da.md), [Mirror Refuge](mirror-refuge-da.md)
 
 ## Summary
 

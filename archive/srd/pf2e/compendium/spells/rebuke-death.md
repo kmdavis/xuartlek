@@ -13,14 +13,14 @@ tags:
 aliases: ["Rebuke Death"]
 ---
 # Rebuke Death *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [positive](positive.md "Positive Energy & Element Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [healing](compendium/setting/domains.md#Healing)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Domains** [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Area**: 20-foot emanation
 - **Targets**: 1 living creature per action spent to cast this spell
 
-You snatch creatures from the jaws of death. You can spend 1 to 3 actions [Casting this Spell](rules/actions/cast-a-spell.md), and you can target a number of creatures equal to the actions spent. Each target regains `3d6` Hit Points. If the target had the [dying](rules/conditions.md#Dying) condition, coming back from [dying](rules/conditions.md#Dying) due to this healing doesn't increase its [wounded](rules/conditions.md#Wounded) condition.
+You snatch creatures from the jaws of death. You can spend 1 to 3 actions [Casting this Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md), and you can target a number of creatures equal to the actions spent. Each target regains `3d6` Hit Points. If the target had the [dying](archive/srd/pf2e/rules/conditions.md#Dying) condition, coming back from [dying](archive/srd/pf2e/rules/conditions.md#Dying) due to this healing doesn't increase its [wounded](archive/srd/pf2e/rules/conditions.md#Wounded) condition.
 
 **Heightened (+ 1)** Increase the healing by `1d6`.
 

@@ -7,14 +7,14 @@ tags:
 aliases: ["Precarious Pile"]
 ---
 # Precarious Pile *Hazard 2*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 9  
 
 This dangerously unsteady pile of miscellaneous goods stands 7 feet high and 10 feet wide.
 
-- **Disable** DC 15 [Thievery](compendium/skills.md#Thievery) to carefully excavate a path through the wall without upsetting its balance, or DC 17 [Athletics](compendium/skills.md#Athletics) to hold up any unstable portions  
+- **Disable** DC 15 [Thievery](skills.md#Thievery) to carefully excavate a path through the wall without upsetting its balance, or DC 17 [Athletics](skills.md#Athletics) to hold up any unstable portions  
 
 - **AC** 16, **Fort** +10, **Ref** +2
 - **Hardness** 5, **HP** 25 (BT 12)

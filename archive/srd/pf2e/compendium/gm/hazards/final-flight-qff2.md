@@ -8,14 +8,14 @@ tags:
 aliases: ["Final Flight"]
 ---
 # Final Flight *Hazard 5*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 26 expert  
 
 A creature experiences the death of a priest carried off by griffons and fed to their chicks.
 
-- **Disable** DC 22 [Diplomacy](compendium/skills.md#Diplomacy) (trained) to soothe the restless spirits, or DC 24 [Religion](compendium/skills.md#Religion) (trained) to recite a prayer honoring the deceased; two successful checks are required to disable the haunt  
+- **Disable** DC 22 [Diplomacy](skills.md#Diplomacy) (trained) to soothe the restless spirits, or DC 24 [Religion](skills.md#Religion) (trained) to recite a prayer honoring the deceased; two successful checks are required to disable the haunt  
 
 ```ad-embed-ability
 title: **Final Flight** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))

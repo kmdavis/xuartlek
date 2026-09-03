@@ -8,11 +8,11 @@ aliases: ["Spear Launcher"]
 # Spear Launcher *Hazard 2*  
 
 - **Complexity** Simple
-- **Stealth** DC 20 [Perception](compendium/skills.md#Perception) check  
+- **Stealth** DC 20 [Perception](skills.md#Perception) check  
 
 A wall socket loaded with a spear connects to a floor tile in one 5-foot square.
 
-- **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) on the floor tile or wall socket  
+- **Disable** DC 18 [Thievery](skills.md#Thievery) on the floor tile or wall socket  
 
 - **AC** 18, **Fort** +11, **Ref** +3
 - **Hardness** 8, **HP** 32 (BT 16)

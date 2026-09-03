@@ -8,14 +8,14 @@ tags:
 aliases: ["Scythe Blades"]
 ---
 # Scythe Blades *Hazard 4*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
 
-Two blades, each [hidden](rules/conditions.md#Hidden) in a 15-foot-long ceiling groove, are both connected to a trip wire.
+Two blades, each [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) in a 15-foot-long ceiling groove, are both connected to a trip wire.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 21 (trained) to disable each blade.  
+- **Disable** [Thievery](skills.md#Thievery) DC 21 (trained) to disable each blade.  
 
 - **AC** 21, **Fort** +12, **Ref** +8
 - **Hardness** 11, **HP** 44 (BT 22)

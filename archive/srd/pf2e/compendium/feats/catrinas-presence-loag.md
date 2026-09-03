@@ -7,10 +7,10 @@ tags:
 aliases: ["Catrina's Presence"]
 ---
 # Catrina's Presence  *Feat 9*  
-[duskwalker](rules/traits/duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
+[duskwalker](duskwalker-apg.md "Duskwalker Ancestry & Heritage Trait")  
 
 
-You've adopted the calming presence of catrinas, the festive dead; you might have even danced with a catrina yourself! So long as you are visibly carrying fresh flowers or colorful ribbons somewhere on your person, you can cast [calm emotions](compendium/spells/calm-emotions.md) twice per day as a 2nd-level divine innate spell.
+You've adopted the calming presence of catrinas, the festive dead; you might have even danced with a catrina yourself! So long as you are visibly carrying fresh flowers or colorful ribbons somewhere on your person, you can cast [calm emotions](calm-emotions.md) twice per day as a 2nd-level divine innate spell.
 
 *Source: Lost Omens: Ancestry Guide p. 31*  
 %% #compendium/src/pf2e/loag #trait/duskwalker %%

@@ -7,15 +7,15 @@ tags:
 aliases: ["Radiant Blade Spirit"]
 ---
 # Radiant Blade Spirit  *Feat 10*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (blade)
 
-Your divine ally radiates power, enhancing your chosen weapon. When you choose the weapon for your blade ally during your daily preparations, add the following property runes to the list of effects you can choose from: [flaming](compendium/equipment/items/flaming.md) and any aligned properties ([anarchic](compendium/equipment/items/anarchic.md), [axiomatic](compendium/equipment/items/axiomatic.md), [holy](compendium/equipment/items/holy.md), or [unholy](compendium/equipment/items/unholy.md)) that match your cause's alignment.
+Your divine ally radiates power, enhancing your chosen weapon. When you choose the weapon for your blade ally during your daily preparations, add the following property runes to the list of effects you can choose from: [flaming](archive/srd/pf2e/compendium/equipment/items/flaming.md) and any aligned properties ([anarchic](anarchic.md), [axiomatic](axiomatic.md), [holy](archive/srd/pf2e/compendium/equipment/items/holy.md), or [unholy](archive/srd/pf2e/compendium/equipment/items/unholy.md)) that match your cause's alignment.
 
 ## Radiant Blade Spirit leads to...
 
-[Radiant Blade Master](compendium/feats/radiant-blade-master.md)
+[Radiant Blade Master](radiant-blade-master.md)
 
 ## Summary
 

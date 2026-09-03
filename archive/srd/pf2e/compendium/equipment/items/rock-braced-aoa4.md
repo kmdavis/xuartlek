@@ -12,12 +12,12 @@ tags:
 aliases: ["Rock-braced"]
 ---
 # Rock-braced *Item 13*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [saggorak](rules/traits/saggorak-aoa4.md "Saggorak  Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [dwarf](archive/srd/pf2e/rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [saggorak](saggorak-aoa4.md "Saggorak  Trait")  
 
 - **Price** 3000 gp
 - **Usage** etched onto medium or heavy armor
 
-_Rock-braced_ armor makes you as hard to move as a boulder. Whenever another creature attempts to forcibly move you from your space, you gain a +4 item bonus to your Fortitude DC against the check to move you. If the creature would not normally need to attempt a check to move you, then the creature must succeed at an [Athletics](compendium/skills.md#Athletics) check against your Fortitude DC (including the +4 item bonus) or you are unmoved.
+_Rock-braced_ armor makes you as hard to move as a boulder. Whenever another creature attempts to forcibly move you from your space, you gain a +4 item bonus to your Fortitude DC against the check to move you. If the creature would not normally need to attempt a check to move you, then the creature must succeed at an [Athletics](skills.md#Athletics) check against your Fortitude DC (including the +4 item bonus) or you are unmoved.
 
 
 ---

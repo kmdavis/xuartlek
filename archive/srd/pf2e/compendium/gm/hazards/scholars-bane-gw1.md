@@ -10,14 +10,14 @@ tags:
 aliases: ["Scholar's Bane"]
 ---
 # Scholar's Bane *Hazard 4*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** +14 trained to notice magical sensors [hidden](rules/conditions.md#Hidden) within four of the carvings' eyes  
+- **Stealth** +14 trained to notice magical sensors [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) within four of the carvings' eyes  
 
 Illusion magic overwhelms the minds of particularly intelligent creatures, forcing them to relive every intellectual failure and shame they've ever suffered.
 
-- **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (trained) to carve out one eye sensor, DC 22 [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (trained) to blank out one's mind (disables trap for self only), or dispel magic (2nd level; counteract DC 20) to counteract one eye sensor  
+- **Disable** DC 22 [Thievery](skills.md#Thievery) (trained) to carve out one eye sensor, DC 22 [Arcana](skills.md#Arcana) or [Occultism](skills.md#Occultism) (trained) to blank out one's mind (disables trap for self only), or dispel magic (2nd level; counteract DC 20) to counteract one eye sensor  
 
 - **AC** 20, **Fort** +12, **Ref** +8
 - **Eye Hardness** 6, **Eye HP** 20

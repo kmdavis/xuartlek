@@ -12,7 +12,7 @@ tags:
 aliases: ["Holy Avenger"]
 ---
 # Holy Avenger *Item 14*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [lawful](rules/traits/lawful.md "Lawful Alignment Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [good](good.md "Good Alignment Trait")  [lawful](lawful.md "Lawful Alignment Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4500 gp
 - **Craft Requirements** You are a champion with the paladin cause; supply a casting of detect alignment and dispel magic. The initial raw materials must include 120 gp of cold iron.
@@ -20,7 +20,7 @@ aliases: ["Holy Avenger"]
 
 The gleaming holy avenger is the iconic weapon of powerful paladins. The crossbar of this +2 greater striking holy cold iron longsword is styled to look like angel wings.
 
-Tradition holds that those who see their reflection in a holy avenger's highly polished blade have their faults laid bare. If you are evil, you are [enfeebled](rules/conditions.md#Enfeebled) while carrying or wielding this weapon.
+Tradition holds that those who see their reflection in a holy avenger's highly polished blade have their faults laid bare. If you are evil, you are [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) while carrying or wielding this weapon.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)

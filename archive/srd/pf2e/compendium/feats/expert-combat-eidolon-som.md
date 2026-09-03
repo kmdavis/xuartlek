@@ -7,9 +7,9 @@ tags:
 aliases: ["Expert Combat Eidolon"]
 ---
 # Expert Combat Eidolon  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
+- **Prerequisites**: [Summoner Dedication](summoner-dedication-som.md)
 
 Your eidolon advances its capabilities in combat. Your eidolon becomes an expert in unarmed attacks. If you are an expert in unarmored defense, your eidolon also becomes an expert in unarmored defense. If you have weapon specialization, your eidolon also gains weapon specialization.
 

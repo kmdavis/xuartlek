@@ -9,14 +9,14 @@ tags:
 aliases: ["Serpent Ward"]
 ---
 # Serpent Ward *Hazard 7*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
 
 Illusionary snakes erupt from the trapped door, inflicting a venomous curse on intruders.
 
-- **Disable** DC 26 [Thievery](compendium/skills.md#Thievery) (expert) or DC 24 [Occultism](compendium/skills.md#Occultism) (expert) to deactivate the magical trigger.  
+- **Disable** DC 26 [Thievery](skills.md#Thievery) (expert) or DC 24 [Occultism](skills.md#Occultism) (expert) to deactivate the magical trigger.  
 
 ```ad-embed-ability
 title: **Curse the Intruders** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([curse](rules/traits/curse.md), [illusion](rules/traits/illusion.md), [occult](rules/traits/occult.md))

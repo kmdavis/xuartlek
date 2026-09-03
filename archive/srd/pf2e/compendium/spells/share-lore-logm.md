@@ -9,9 +9,9 @@ tags:
 aliases: ["Share Lore"]
 ---
 # Share Lore *Spell 1*   
-[divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[divination](divination.md "Divination School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Range**: touch
 - **Targets**: up to 3 creatures
@@ -19,10 +19,10 @@ aliases: ["Share Lore"]
 
 You share your knowledge with the touched creatures.
 
-Choose one [Lore](compendium/skills.md#Lore) skill in which you are trained. The targets become trained in that [Lore](compendium/skills.md#Lore) skill for the duration of the spell.
+Choose one [Lore](skills.md#Lore) skill in which you are trained. The targets become trained in that [Lore](skills.md#Lore) skill for the duration of the spell.
 
 **Heightened (3rd)** The duration of the spell is 1 hour and you can target up to five creatures.
 
-**Heightened (5th)** The duration of the spell is 8 hours, you can target up to five creatures, and you can share up to two [Lore](compendium/skills.md#Lore) skills in which you are trained.
+**Heightened (5th)** The duration of the spell is 8 hours, you can target up to five creatures, and you can share up to two [Lore](skills.md#Lore) skills in which you are trained.
 
 *Source: Lost Omens: Gods & Magic p. 109*

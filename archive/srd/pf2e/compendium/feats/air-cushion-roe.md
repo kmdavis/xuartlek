@@ -9,8 +9,8 @@ tags:
 - trait/primal
 aliases: ["Air Cushion"]
 ---
-# Air Cushion  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Air Cushion  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Trigger** A creature within 60 feet is falling.
 - **Activity** Reaction

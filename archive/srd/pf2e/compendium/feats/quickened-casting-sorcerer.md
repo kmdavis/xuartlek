@@ -8,8 +8,8 @@ tags:
 - trait/sorcerer
 aliases: ["Quickened Casting (Sorcerer)"]
 ---
-# Quickened Casting (Sorcerer)  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+# Quickened Casting (Sorcerer)  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [metamagic](metamagic.md "Metamagic General Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Frequency**: once per day
 - **Activity** Free Action

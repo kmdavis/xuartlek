@@ -8,14 +8,14 @@ tags:
 aliases: ["Precarious Thunderstone Trap"]
 ---
 # Precarious Thunderstone Trap *Hazard 1*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 15 trained  
 
 A tripwire fastened to the gate snaps when the gate is opened, releasing a moderate thunderstone to the ground.
 
-- **Disable** DC 15 [Thievery](compendium/skills.md#Thievery) (trained) to remove the thunderstone or DC 18 Reflex save to catch the falling thunderstone  
+- **Disable** DC 15 [Thievery](skills.md#Thievery) (trained) to remove the thunderstone or DC 18 Reflex save to catch the falling thunderstone  
 
 - **AC** 12, **Fort** +7, **Ref** +3
 - **Wire Hardness** 3, **Wire HP** 10 (BT 5)

@@ -15,4 +15,4 @@ You live on the outskirts of civilization, combing through the detritus left beh
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Lore](compendium/skills.md#Lore) skill of the terrain in which you scavenge. You gain the [Hefty Hauler](compendium/feats/hefty-hauler.md) skill feat.
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Lore](skills.md#Lore) skill of the terrain in which you scavenge. You gain the [Hefty Hauler](archive/srd/pf2e/compendium/feats/hefty-hauler.md) skill feat.

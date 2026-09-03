@@ -15,4 +15,4 @@ Whether you grew up in the Mana Wastes or another similarly desolate place, you 
 
 Choose two ability boosts. One boost must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill, and [Mana Wastes Lore](compendium/skills.md#Lore) (or another similar [Lore](compendium/skills.md#Lore) skill associated with the wastes where you grew up). You gain the [Forager](compendium/feats/forager.md) skill feat.
+You're trained in the [Survival](skills.md#Survival) skill, and [Mana Wastes Lore](skills.md#Lore) (or another similar [Lore](skills.md#Lore) skill associated with the wastes where you grew up). You gain the [Forager](archive/srd/pf2e/compendium/feats/forager.md) skill feat.

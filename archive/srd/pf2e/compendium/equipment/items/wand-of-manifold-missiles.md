@@ -11,9 +11,9 @@ tags:
 aliases: ["Wand of Manifold Missiles"]
 ---
 # Wand of Manifold Missiles *Item 5+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [force](archive/srd/pf2e/rules/traits/force.md "Force Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
-- **Craft Requirements** Supply a casting of [magic missile](compendium/spells/magic-missile.md) of the appropriate level.
+- **Craft Requirements** Supply a casting of [magic missile](magic-missile.md) of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand
 
 This wand features a carved dragon's head at its top and a polished metal sphere set in its midsection.

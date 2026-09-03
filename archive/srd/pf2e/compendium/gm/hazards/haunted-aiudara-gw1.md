@@ -8,14 +8,14 @@ tags:
 aliases: ["Haunted Aiudara"]
 ---
 # Haunted Aiudara *Hazard 6*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +15 expert  
 
 The spiritual imprints of long-dead explorers haunt this aiudara, manifesting as a trio of astral wraiths who guard the gateway jealously.
 
-- **Disable** DC 25 [Religion](compendium/skills.md#Religion) (trained) to exorcise one of the wraiths or DC 25 [Occultism](compendium/skills.md#Occultism) (expert) to erase one of the wraith's astral sigils; three successful checks are required to disable the haunt  
+- **Disable** DC 25 [Religion](skills.md#Religion) (trained) to exorcise one of the wraiths or DC 25 [Occultism](skills.md#Occultism) (expert) to erase one of the wraith's astral sigils; three successful checks are required to disable the haunt  
 
 ```ad-embed-ability
 title: **Forceful Screech** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md))

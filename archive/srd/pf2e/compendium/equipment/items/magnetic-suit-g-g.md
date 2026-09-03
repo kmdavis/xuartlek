@@ -9,14 +9,14 @@ tags:
 aliases: ["Magnetic Suit"]
 ---
 # Magnetic Suit *Item 4+*  
-[aura](rules/traits/aura.md "Aura Combat Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  
+[aura](archive/srd/pf2e/rules/traits/aura.md "Aura Combat Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  
 
 - **Bulk** 1; **Usage** worn over armor and clothes
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-This magnetized suit is strapped to your body over your armor or clothes. When you [Activate](rules/actions/activate-an-item.md) it, you must choose whether to set it to attract or repel.
+This magnetized suit is strapped to your body over your armor or clothes. When you [Activate](activate-an-item.md) it, you must choose whether to set it to attract or repel.
 
-While set to attract, you take a –1 item penalty to your AC against attacks made by metal weapons, while creatures within a 5-foot emanation other than you gain a +1 item bonus to their AC. If set to repel, you gain a +1 item bonus to AC against attacks made with metal weapons. While attracting metal, you gain a +1 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [Climb](rules/actions/climb.md) metal objects and [Grapple](rules/actions/grapple.md) metal creatures and a –1 item penalty to [Athletics](compendium/skills.md#Athletics) checks to [Shove](rules/actions/shove.md) metal creatures. While repelling metal, you gain a +1 item bonus to [Athletics](compendium/skills.md#Athletics) checks to [Shove](rules/actions/shove.md) metal creatures, but you take a –1 item penalty to [Climb](rules/actions/climb.md) metal objects and [Grapple](rules/actions/grapple.md) metal creatures.
+While set to attract, you take a –1 item penalty to your AC against attacks made by metal weapons, while creatures within a 5-foot emanation other than you gain a +1 item bonus to their AC. If set to repel, you gain a +1 item bonus to AC against attacks made with metal weapons. While attracting metal, you gain a +1 item bonus to [Athletics](skills.md#Athletics) checks to [Climb](archive/srd/pf2e/rules/actions/climb.md) metal objects and [Grapple](archive/srd/pf2e/rules/actions/grapple.md) metal creatures and a –1 item penalty to [Athletics](skills.md#Athletics) checks to [Shove](archive/srd/pf2e/rules/actions/shove.md) metal creatures. While repelling metal, you gain a +1 item bonus to [Athletics](skills.md#Athletics) checks to [Shove](archive/srd/pf2e/rules/actions/shove.md) metal creatures, but you take a –1 item penalty to [Climb](archive/srd/pf2e/rules/actions/climb.md) metal objects and [Grapple](archive/srd/pf2e/rules/actions/grapple.md) metal creatures.
 
 ---
 

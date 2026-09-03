@@ -8,7 +8,7 @@ tags:
 aliases: ["Explosive Savant"]
 ---
 # Explosive Savant  *Feat 1*  
-[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[dwarf](archive/srd/pf2e/rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: You are from Dongun Hold or Alkenstar.
 
@@ -16,7 +16,7 @@ A lifetime wielding firearms and explosive ordinance amid the chaos of battle ha
 
 ## Explosive Savant leads to...
 
-[Explosive Expert](compendium/feats/explosive-expert-g-g.md)
+[Explosive Expert](explosive-expert-g-g.md)
 
 ## Summary
 

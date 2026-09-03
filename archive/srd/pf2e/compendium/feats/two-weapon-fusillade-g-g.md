@@ -7,13 +7,13 @@ tags:
 - trait/gunslinger
 aliases: ["Two-weapon Fusillade"]
 ---
-# Two-weapon Fusillade  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
-[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
+# Two-weapon Fusillade  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 14*  
+[flourish](archive/srd/pf2e/rules/traits/flourish.md "Flourish Combat Trait")  [gunslinger](archive/srd/pf2e/rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 - **Requirements**: You're wielding two weapons, each in a different hand.
 - **Activity** Single Action
 
-You attack with both your weapons in a furious barrage. [Strike](rules/actions/strike.md) twice, once with each weapon.
+You attack with both your weapons in a furious barrage. [Strike](archive/srd/pf2e/rules/actions/strike.md) twice, once with each weapon.
 
 *Source: Guns & Gears p. 118*  
 %% #compendium/src/pf2e/g&g #trait/flourish #trait/gunslinger %%

@@ -7,9 +7,9 @@ tags:
 aliases: ["Specialized Mount"]
 ---
 # Specialized Mount  *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Incredible Mount](compendium/feats/incredible-mount-apg.md)
+- **Prerequisites**: [Incredible Mount](incredible-mount-apg.md)
 
 You've trained your mount to perform in unusual or even extreme circumstances, granting it abilities far beyond others of its kind. Your mount gains one specialization of your choice.
 

@@ -8,17 +8,17 @@ tags:
 aliases: ["Bounding Hounds"]
 ---
 # Bounding Hounds *Hazard 13*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 37  
 
 Three phantom hounds chase down intruders, damaging any they pass through.
 
-- **Disable** DC 36 [Nature](compendium/skills.md#Nature) (expert) to calm each hound, or DC 38 (master) to banish each hound  
+- **Disable** DC 36 [Nature](skills.md#Nature) (expert) to calm each hound, or DC 38 (master) to banish each hound  
 
 - **AC** 34, **Fort** +20, **Ref** +26, **Will** +20
-- **HP** 60 per hound; Resistance all damage 10 (except force, [ghost touch](compendium/equipment/items/ghost-touch.md), or positive; double resistance to non-magical)
+- **HP** 60 per hound; Resistance all damage 10 (except force, [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md), or positive; double resistance to non-magical)
 
 ```ad-embed-ability
 title: **Bay** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([evocation](rules/traits/evocation.md), [sonic](rules/traits/sonic.md))

@@ -11,14 +11,14 @@ tags:
 aliases: ["Shadow Guards"]
 ---
 # Shadow Guards *Hazard 2*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [shadow](archive/srd/pf2e/rules/traits/shadow.md "Shadow General Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** +11 trained to notice the runes [concealed](rules/conditions.md#Concealed) among the drawings  
+- **Stealth** +11 trained to notice the runes [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) among the drawings  
 
 Shadowy caricatures of elves peel themselves from the floor and attack everyone in the room.
 
-- **Disable** DC 16 [Acrobatics](compendium/skills.md#Acrobatics) to move through the room without touching any of the runes, followed by DC 18  
+- **Disable** DC 16 [Acrobatics](skills.md#Acrobatics) to move through the room without touching any of the runes, followed by DC 18  
 
 - **AC** 18, **Fort** +11, **Ref** +11
 - **Hardness** 8, **HP** 32

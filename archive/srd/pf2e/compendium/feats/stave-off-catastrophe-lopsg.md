@@ -7,9 +7,9 @@ tags:
 aliases: ["Stave Off Catastrophe"]
 ---
 # Stave Off Catastrophe  *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Shoulder Catastrophe](compendium/feats/shoulder-catastrophe-locg.md)
+- **Prerequisites**: [Shoulder Catastrophe](shoulder-catastrophe-locg.md)
 
 You fully protect your allies from the worst blows. When you use the Shoulder Catastrophe reaction, you can choose to take the full critical damage and effects from the attack, including effects that apply on a critical hit, and have your ally take no damage and avoid the attack's effects.
 

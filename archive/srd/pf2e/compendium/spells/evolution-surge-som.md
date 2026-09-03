@@ -11,18 +11,18 @@ tags:
 aliases: ["Evolution Surge"]
 ---
 # Evolution Surge *Focus 1*   
-[morph](rules/traits/morph.md "Morph Effect Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 100 foot
 - **Targets**: your eidolon
 - **Duration**: 1 minute
 
 You flood your eidolon with power, creating a temporary evolution in your eidolon's capabilities. Choose one of the following effects:
 
-- Your eidolon gains [low-light vision](rules/abilities/low-light-vision.md) and [darkvision](rules/abilities/darkvision.md).
-- Your eidolon gains [scent](rules/abilities/scent.md) as an imprecise sense up to 30 feet.
-- Your eidolon can breathe underwater and gains a swim Speed equal to its land Speed or 30 feet, whichever is less. Alternatively, if your eidolon is normally aquatic, it can breathe air and gains a land Speed equal to its swim Speed or 30 feet, whichever is less. Either way, it gains the [amphibious](rules/traits/amphibious-b1.md "Amphibious Creature Trait") trait.
+- Your eidolon gains [low-light vision](archive/srd/pf2e/rules/abilities/low-light-vision.md) and [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md).
+- Your eidolon gains [scent](archive/srd/pf2e/rules/abilities/scent.md) as an imprecise sense up to 30 feet.
+- Your eidolon can breathe underwater and gains a swim Speed equal to its land Speed or 30 feet, whichever is less. Alternatively, if your eidolon is normally aquatic, it can breathe air and gains a land Speed equal to its swim Speed or 30 feet, whichever is less. Either way, it gains the [amphibious](amphibious-b1.md "Amphibious Creature Trait") trait.
 - Your eidolon gains a +20-foot status bonus to its Speed.
 
 **Heightened (3rd)** Add the following options to the list of effects you can choose:

@@ -10,9 +10,9 @@ tags:
 aliases: ["Singing Bowl Of The Versatile Stance"]
 ---
 # Singing Bowl Of The Versatile Stance *Item 11*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Access** follower of [Irori](compendium/setting/deities/irori.md)
+- **Access** follower of [Irori](irori.md)
 - **Price** 1175 gp
 - **Bulk** L; **Usage** held in 2 hands
 

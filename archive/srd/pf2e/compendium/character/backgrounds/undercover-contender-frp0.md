@@ -19,4 +19,4 @@ You've told a small squad of your closest confidants about your mission, and you
 
 Choose two ability boosts. One must be to Charisma or Dexterity, and one is a free ability boost.
 
-You're trained in [Deception](compendium/skills.md#Deception) and the [Underworld Lore](compendium/skills.md#Lore) skill. You gain the [Lengthy Diversion](compendium/feats/lengthy-diversion.md) skill feat.
+You're trained in [Deception](skills.md#Deception) and the [Underworld Lore](skills.md#Lore) skill. You gain the [Lengthy Diversion](archive/srd/pf2e/compendium/feats/lengthy-diversion.md) skill feat.

@@ -7,10 +7,10 @@ tags:
 aliases: ["Sensitive Nose"]
 ---
 # Sensitive Nose  *Feat 1*  
-[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
+[gnoll](gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 
-Your large black nose isn't just for show. You gain imprecise [scent](rules/abilities/scent.md) with a range of 30 feet.
+Your large black nose isn't just for show. You gain imprecise [scent](archive/srd/pf2e/rules/abilities/scent.md) with a range of 30 feet.
 
 **Special.** You can take this feat only at 1st level, and you can't retrain out of this feat or into this feat.
 

@@ -7,16 +7,16 @@ tags:
 - trait/flourish
 aliases: ["Power Attack"]
 ---
-# Power Attack  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  [flourish](rules/traits/flourish.md "Flourish Combat Trait")  
+# Power Attack  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 1*  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  [flourish](archive/srd/pf2e/rules/traits/flourish.md "Flourish Combat Trait")  
 
 - **Activity** Two-Action
 
-You unleash a particularly powerful attack that clobbers your foe but leaves you a bit unsteady. Make a melee [Strike](rules/actions/strike.md). This counts as two attacks when calculating your multiple attack penalty. If this [Strike](rules/actions/strike.md) hits, you deal an extra die of weapon damage. If you're at least 10th level, increase this to two extra dice, and if you're at least 18th level, increase it to three extra dice.
+You unleash a particularly powerful attack that clobbers your foe but leaves you a bit unsteady. Make a melee [Strike](archive/srd/pf2e/rules/actions/strike.md). This counts as two attacks when calculating your multiple attack penalty. If this [Strike](archive/srd/pf2e/rules/actions/strike.md) hits, you deal an extra die of weapon damage. If you're at least 10th level, increase this to two extra dice, and if you're at least 18th level, increase it to three extra dice.
 
 ## Power Attack leads to...
 
-[Furious Focus](compendium/feats/furious-focus.md)
+[Furious Focus](archive/srd/pf2e/compendium/feats/furious-focus.md)
 
 ## Summary
 

@@ -9,14 +9,14 @@ tags:
 aliases: ["Scroll Shock Trap"]
 ---
 # Scroll Shock Trap *Hazard 9*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +17 expert or DC 29 (expert) to spot the hidden control panel  
 
 Five scroll symbols shoot electricity bolts around the room.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 25 (expert) or [dispel magic](compendium/spells/dispel-magic.md) (3rd level; counteract DC 24); [Thievery](compendium/skills.md#Thievery) DC 29 (master) to disable the entire trap from the [hidden](rules/conditions.md#Hidden) control panel beneath the central slab.  
+- **Disable** [Thievery](skills.md#Thievery) DC 25 (expert) or [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (3rd level; counteract DC 24); [Thievery](skills.md#Thievery) DC 29 (master) to disable the entire trap from the [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) control panel beneath the central slab.  
 
 - **AC** 28, **Fort** +21, **Ref** +15
 - **Panel Hardness** 18, **Panel HP** 72 (BT 36); **Symbol Hardness** 16, **Symbol HP** 64 (BT 32)

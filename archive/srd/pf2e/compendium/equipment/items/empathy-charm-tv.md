@@ -12,7 +12,7 @@ tags:
 aliases: ["Empathy Charm"]
 ---
 # Empathy Charm *Item 2*  
-[companion](rules/traits/companion.md "Companion Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[companion](archive/srd/pf2e/rules/traits/companion.md "Companion Item Trait")  [divination](divination.md "Divination School Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 35 gp
 - **Bulk** —; **Usage** affixed to harness

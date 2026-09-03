@@ -8,7 +8,7 @@ tags:
 aliases: ["Do I Know You?"]
 ---
 # Do I Know You?
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 26*  
 
 - **Trigger**: Awareness reaches 5 or 10.

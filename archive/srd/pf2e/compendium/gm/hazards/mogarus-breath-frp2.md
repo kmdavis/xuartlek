@@ -11,14 +11,14 @@ tags:
 aliases: ["Mogaru's Breath"]
 ---
 # Mogaru's Breath *Hazard 21*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [kaiju](kaiju-frp2.md "Kaiju  Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 10  
 
 Mogaru exhales a blast of intense flames to eradicate any meddlesome pests in the area.
 
-- **Disable** DC 50 [Performance](compendium/skills.md#Performance) (legendary)  
+- **Disable** DC 50 [Performance](skills.md#Performance) (legendary)  
 
 ```ad-embed-ability
 title: **or DC** 53 [Deception](compendium/skills.md#Deception) (legendary) to momentarily divert Mogaru's attention.

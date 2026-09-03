@@ -12,12 +12,12 @@ tags:
 aliases: ["Spirit-sealing Fulu"]
 ---
 # Spirit-sealing Fulu *Item 3+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [fulu](rules/traits/fulu-som.md "Fulu Item Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [fulu](fulu-som.md "Fulu Item Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Usage** affixed to one undead creature
 - **Duration** 1 round (or 4 rounds)
 
-This classic fulu seals the negative energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a Will save or be [paralyzed](rules/conditions.md#Paralyzed) for 1 round.
+This classic fulu seals the negative energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a Will save or be [paralyzed](archive/srd/pf2e/rules/conditions.md#Paralyzed) for 1 round.
 
 ---
 
@@ -33,7 +33,7 @@ The DC is 17.
 
 - **Price**: 155 gp
 
-The DC is 27. On a critical failure, the undead is [paralyzed](rules/conditions.md#Paralyzed) for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
+The DC is 27. On a critical failure, the undead is [paralyzed](archive/srd/pf2e/rules/conditions.md#Paralyzed) for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
 
 ---
 *Source: Secrets of Magic p. 160*

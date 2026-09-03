@@ -9,7 +9,7 @@ tags:
 aliases: ["Hat of Disguise"]
 ---
 # Hat of Disguise *Item 2*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 30 gp
 - **Usage** worn headwear

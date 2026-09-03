@@ -9,14 +9,14 @@ tags:
 aliases: ["Hammer Of Forbiddance"]
 ---
 # Hammer Of Forbiddance *Hazard 11*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 30 expert  
 
 An enormous hammer at an edifice's entrance swings down in an attempt to damage a creature entering an area, push it back, and prevent it from going any further.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 28 (expert) once on the hammer itself and once on its joint to prevent the hammer from swinging.  
+- **Disable** [Thievery](skills.md#Thievery) DC 28 (expert) once on the hammer itself and once on its joint to prevent the hammer from swinging.  
 
 - **AC** 32, **Fort** +24, **Ref** +15
 - **Hammer Hardness** 22, **Hammer HP** 88 (BT 44); **Joint Hardness** 16, **Joint HP** 64 (BT 32)

@@ -15,4 +15,4 @@ You have learned the secrets of taming the mighty mammoths and other megafauna o
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Nature](compendium/skills.md#Nature) skill and the [Animal Lore](compendium/skills.md#Lore) skill. You gain the [Train Animal](compendium/feats/train-animal.md) skill feat.
+You're trained in the [Nature](skills.md#Nature) skill and the [Animal Lore](skills.md#Lore) skill. You gain the [Train Animal](archive/srd/pf2e/compendium/feats/train-animal.md) skill feat.

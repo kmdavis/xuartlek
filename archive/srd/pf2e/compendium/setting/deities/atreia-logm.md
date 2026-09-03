@@ -20,8 +20,8 @@ aliases: ["Atreia", "The Lambent King"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Performance
-- **Favored Weapon**: [katar](compendium/equipment/items/katar.md)
-- **Domains**: [fire](compendium/setting/domains.md#Fire), [healing](compendium/setting/domains.md#Healing), [protection](compendium/setting/domains.md#Protection), [sun](compendium/setting/domains.md#Sun)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 3rd: [ghostly weapon](compendium/spells/ghostly-weapon.md); 4th: [fire shield](compendium/spells/fire-shield.md)
+- **Favored Weapon**: [katar](archive/srd/pf2e/compendium/equipment/items/katar.md)
+- **Domains**: [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 3rd: [ghostly weapon](archive/srd/pf2e/compendium/spells/ghostly-weapon.md); 4th: [fire shield](archive/srd/pf2e/compendium/spells/fire-shield.md)

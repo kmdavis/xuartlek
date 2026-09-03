@@ -24,14 +24,14 @@ aliases: ["Casandalee", "The Iron Goddess"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
 - **Favored Weapon**: polytool
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [freedom](compendium/setting/domains.md#Freedom), [knowledge](compendium/setting/domains.md#Knowledge), [perfection](compendium/setting/domains.md#Perfection)
-- **Alternate Domains**: [ambition](compendium/setting/domains.md#Ambition), [lightning](compendium/setting/domains.md#Lightning)
-- **Cleric Spells**: 1st: [floating disk](compendium/spells/floating-disk.md); 3rd: [hypercognition](compendium/spells/hypercognition.md); 6th: [wall of force](compendium/spells/wall-of-force.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection)
+- **Alternate Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [lightning](archive/srd/pf2e/compendium/setting/domains.md#Lightning)
+- **Cleric Spells**: 1st: [floating disk](floating-disk.md); 3rd: [hypercognition](archive/srd/pf2e/compendium/spells/hypercognition.md); 6th: [wall of force](archive/srd/pf2e/compendium/spells/wall-of-force.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Casandalee gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Casandalee gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Casandalee
@@ -48,9 +48,9 @@ title: [Avatar](compendium/spells/avatar.md) of Casandalee
 Seeing her android devotees and other followers of a constructed nature as her children, the Iron Goddess is most likely to bestow her boons and curses on these individuals.
 
 - **Minor Boon** Casandalee frees your thinking from dangerous control. Once, when you fail a Will save against an effect that would control your actions, you critically succeed instead. Casandalee typically grants this boon for particularly consequential violations of autonomy and agency.
-- **Moderate Boon**: Your organs are partially transformed into mechanical counterparts. You gain resistance 10 to negative damage, and the DC of your flat check to remove [persistent bleed damage](rules/conditions.md#Persistent%20Damage) is only 5.
+- **Moderate Boon**: Your organs are partially transformed into mechanical counterparts. You gain resistance 10 to negative damage, and the DC of your flat check to remove [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) is only 5.
 - **Major Boon**: Casandalee backs up your memory and soul within her divine data flow. After you die, she casts your consciousness into a new artificial body. While Casandalee constructed your new body artificially, it is otherwise similar to the old, with the same effects as a critical success on a resurrection ritual. Casandalee is instead willing to provide different bodies to those who request them.
 
 - **Minor Curse**: Your joints stiffen, and your mind becomes clouded. You take a –2 status penalty to all rolls for initiative.
-- **Moderate Curse** Casandalee attempts to bring you unwanted intellectual advancement to help you become something better. Each day, at some point during the day, Casandalee bestows a strange insight upon you that you find uncomfortable. If you embrace it, you aren't otherwise affected, but if you don't, you become [confused](rules/conditions.md#Confused) for 10 minutes.
+- **Moderate Curse** Casandalee attempts to bring you unwanted intellectual advancement to help you become something better. Each day, at some point during the day, Casandalee bestows a strange insight upon you that you find uncomfortable. If you embrace it, you aren't otherwise affected, but if you don't, you become [confused](archive/srd/pf2e/rules/conditions.md#Confused) for 10 minutes.
 - **Major Curse**: The code of your soul is constantly being rewritten, and not for the better. You are never temporarily immune against a harmful effect.

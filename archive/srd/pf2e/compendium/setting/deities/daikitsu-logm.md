@@ -20,8 +20,8 @@ aliases: ["Daikitsu", "Lady of Foxes"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Intelligence
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Crafting
-- **Favored Weapon**: [flail](compendium/equipment/items/flail.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [creation](compendium/setting/domains.md#Creation), [family](compendium/setting/domains.md#Family), [nature](compendium/setting/domains.md#Nature)
-- **Cleric Spells**: 1st: [pest form](compendium/spells/pest-form.md); 2nd: [humanoid form](compendium/spells/humanoid-form.md); 5th: [illusory scene](compendium/spells/illusory-scene.md)
+- **Favored Weapon**: [flail](archive/srd/pf2e/compendium/equipment/items/flail.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature)
+- **Cleric Spells**: 1st: [pest form](archive/srd/pf2e/compendium/spells/pest-form.md); 2nd: [humanoid form](archive/srd/pf2e/compendium/spells/humanoid-form.md); 5th: [illusory scene](archive/srd/pf2e/compendium/spells/illusory-scene.md)

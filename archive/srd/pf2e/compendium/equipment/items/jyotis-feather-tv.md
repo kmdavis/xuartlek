@@ -12,7 +12,7 @@ tags:
 aliases: ["Jyoti's Feather"]
 ---
 # Jyoti's Feather *Item 10+*  
-[healing](rules/traits/healing.md "Healing Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
+[healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [positive](positive.md "Positive Energy & Element Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Bulk** —; **Usage** affixed to armor or a weapon
 
@@ -20,7 +20,7 @@ A jyoti's feather is a shimmering red and gold feather, seeming almost metallic,
 
 Though most aren't made from true jyoti feathers, as the reclusive outsiders avoid visitors from the Material Plane, their connection to positive energy lent the spellhearts their name.
 
-- Armor You gain a +2 item bonus to saving throws against [death](rules/traits/death.md "Death Effect Trait") effects and negative energy.
+- Armor You gain a +2 item bonus to saving throws against [death](archive/srd/pf2e/rules/traits/death.md "Death Effect Trait") effects and negative energy.
 - Weapon The weapon has the disrupting rune while the feather is affixed.
 
 ```ad-embed-ability

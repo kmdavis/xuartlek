@@ -20,8 +20,8 @@ aliases: ["Ng", "The Hooded"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [gauntlet](compendium/equipment/items/gauntlet.md)
-- **Domains**: [knowledge](compendium/setting/domains.md#Knowledge), [magic](compendium/setting/domains.md#Magic), [secrecy](compendium/setting/domains.md#Secrecy), [travel](compendium/setting/domains.md#Travel)
-- **Cleric Spells**: 1st: [pass without trace](compendium/spells/pass-without-trace.md); 2nd: [invisibility](compendium/spells/invisibility.md); 4th: [blink](compendium/spells/blink.md)
+- **Favored Weapon**: [gauntlet](archive/srd/pf2e/compendium/equipment/items/gauntlet.md)
+- **Domains**: [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel)
+- **Cleric Spells**: 1st: [pass without trace](pass-without-trace.md); 2nd: [invisibility](archive/srd/pf2e/compendium/spells/invisibility.md); 4th: [blink](blink.md)

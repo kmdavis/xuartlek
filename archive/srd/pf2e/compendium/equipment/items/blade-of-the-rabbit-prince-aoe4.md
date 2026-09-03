@@ -10,13 +10,13 @@ tags:
 aliases: ["Blade Of The Rabbit Prince"]
 ---
 # Blade Of The Rabbit Prince *Item 15*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 6250 gp
 - **Craft Requirements** You must craft the blade in the Harrowed Realm.
 - **Bulk** 1; **Usage** held in 1 hand
 
-This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is [broken](rules/conditions.md#Broken) halfway up its length, but this doesn't impair the sword's function.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is [broken](archive/srd/pf2e/rules/conditions.md#Broken) halfway up its length, but this doesn't impair the sword's function.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command, [Interact](rules/actions/interact.md)

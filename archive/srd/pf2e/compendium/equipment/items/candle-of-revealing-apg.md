@@ -10,13 +10,13 @@ tags:
 aliases: ["Candle Of Revealing"]
 ---
 # Candle Of Revealing *Item 7*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 60 gp
 - **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-When lit, this black candle's eerie blue flame reveals the presence of [invisible](rules/conditions.md#Invisible) creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the [invisible](rules/conditions.md#Invisible) condition. Their bodies are outlined, not fully visible, so they are [concealed](rules/conditions.md#Concealed). Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit.
+When lit, this black candle's eerie blue flame reveals the presence of [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) condition. Their bodies are outlined, not fully visible, so they are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed). Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit.
 
 
 ---

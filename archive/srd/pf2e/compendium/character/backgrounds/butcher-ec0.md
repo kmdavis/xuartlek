@@ -15,4 +15,4 @@ You've spent uncounted hours walking up and down crowded and noisy circus stands
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Mercantile Lore](compendium/skills.md#Lore) skill. You gain the [Read Lips](compendium/feats/read-lips.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Mercantile Lore](skills.md#Lore) skill. You gain the [Read Lips](archive/srd/pf2e/compendium/feats/read-lips.md) skill feat.

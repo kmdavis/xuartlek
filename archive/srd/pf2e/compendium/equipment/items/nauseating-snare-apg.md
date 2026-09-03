@@ -12,7 +12,7 @@ tags:
 aliases: ["Nauseating Snare"]
 ---
 # Nauseating Snare *Item 6*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 40 gp
 
@@ -20,9 +20,9 @@ You position particularly foul substances to splash over a creature. The first c
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature becomes [sickened](rules/conditions.md#Sickened).
-> - **Failure** The creature becomes [sickened](rules/conditions.md#Sickened).
-> - **Critical Failure** The creature becomes [sickened](rules/conditions.md#Sickened).
+> - **Success** The creature becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Failure** The creature becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Critical Failure** The creature becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
 
 
 ---

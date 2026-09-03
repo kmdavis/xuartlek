@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand Of Hopeless Night"]
 ---
 # Wand Of Hopeless Night *Item 6+*  
-[darkness](rules/traits/darkness.md "Darkness Effect Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[darkness](archive/srd/pf2e/rules/traits/darkness.md "Darkness Effect Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of darkness of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand

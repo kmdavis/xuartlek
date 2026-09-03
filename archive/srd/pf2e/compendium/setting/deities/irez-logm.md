@@ -20,8 +20,8 @@ aliases: ["Irez", "Lady of Inscribed Wonder"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Intelligence
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Arcana
-- **Favored Weapon**: [dart](compendium/equipment/items/dart.md)
-- **Domains**: [fate](compendium/setting/domains.md#Fate), [glyph](compendium/setting/domains.md#Glyph), [luck](compendium/setting/domains.md#Luck), [magic](compendium/setting/domains.md#Magic)
-- **Cleric Spells**: 1st: anticipate peril; 2nd: [mirror image](compendium/spells/mirror-image.md); 3rd: [secret page](compendium/spells/secret-page.md)
+- **Favored Weapon**: [dart](archive/srd/pf2e/compendium/equipment/items/dart.md)
+- **Domains**: [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [luck](archive/srd/pf2e/compendium/setting/domains.md#Luck), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic)
+- **Cleric Spells**: 1st: anticipate peril; 2nd: [mirror image](mirror-image.md); 3rd: [secret page](secret-page.md)

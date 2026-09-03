@@ -7,11 +7,11 @@ tags:
 aliases: ["Mantis Form"]
 ---
 # Mantis Form  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Red Mantis Magic](compendium/feats/basic-red-mantis-magic-lowg.md)
+- **Prerequisites**: [Basic Red Mantis Magic](basic-red-mantis-magic-lowg.md)
 
-You gain the [mantis form](compendium/spells/mantis-form-lowg.md) focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [Refocus](rules/actions/refocus.md) by praying to [Achaekek](compendium/setting/deities/achaekek-logm.md) or researching your assigned kill.
+You gain the [mantis form](archive/srd/pf2e/compendium/spells/mantis-form-lowg.md) focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [Refocus](archive/srd/pf2e/rules/actions/refocus.md) by praying to [Achaekek](achaekek-logm.md) or researching your assigned kill.
 
 *Source: Lost Omens: World Guide p. 71*  
 %% #compendium/src/pf2e/lowg #trait/archetype %%

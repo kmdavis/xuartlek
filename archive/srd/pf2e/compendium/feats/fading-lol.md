@@ -8,12 +8,12 @@ tags:
 - trait/teleportation
 aliases: ["Fading"]
 ---
-# Fading  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+# Fading  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  
 
-- **Prerequisites**: [Crimson Shroud](compendium/feats/crimson-shroud-lowg.md)
+- **Prerequisites**: [Crimson Shroud](crimson-shroud-lowg.md)
 - **Frequency**: once per Crimson Shroud
-- **Trigger** You are targeted with a [Strike](rules/actions/strike.md) by someone you can detect while your Crimson
+- **Trigger** You are targeted with a [Strike](archive/srd/pf2e/rules/actions/strike.md) by someone you can detect while your Crimson
 - **Activity** Reaction
 
 You fade partially from reality. The attacker must attempt a DC 11 flat check; on a failure, the attack passes harmlessly through the image of your body that remains behind. An instant later you return to reality, and your Crimson Shroud ends.

@@ -11,7 +11,7 @@ aliases: ["Replacement Cosmetics"]
 - **Price** 1 sp
 - **Bulk** —
 
-If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your [disguise kit](compendium/equipment/items/disguise-kit.md).
+If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your [disguise kit](archive/srd/pf2e/compendium/equipment/items/disguise-kit.md).
 
 ---
 

@@ -15,4 +15,4 @@ The devastation and carnage of the Worldwound were nearly complete, but you some
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and the [Sarkorian History Lore](compendium/skills.md#Lore) skill. You gain the [Forager](compendium/feats/forager.md) skill feat.
+You're trained in the [Survival](skills.md#Survival) skill and the [Sarkorian History Lore](skills.md#Lore) skill. You gain the [Forager](archive/srd/pf2e/compendium/feats/forager.md) skill feat.

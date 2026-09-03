@@ -7,9 +7,9 @@ tags:
 aliases: ["Diverse Weapon Expert"]
 ---
 # Diverse Weapon Expert  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Fighter Dedication](compendium/feats/fighter-dedication.md), expert in any kind of weapon or unarmed attack
+- **Prerequisites**: [Fighter Dedication](archive/srd/pf2e/compendium/feats/fighter-dedication.md), expert in any kind of weapon or unarmed attack
 
 Your proficiency ranks for simple weapons and martial weapons increase to expert, and your proficiency rank for advanced weapons increases to trained.
 

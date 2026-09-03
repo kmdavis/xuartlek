@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Synergy"]
 ---
 # Basic Synergy  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Summoner Dedication](compendium/feats/summoner-dedication-som.md)
+- **Prerequisites**: [Summoner Dedication](summoner-dedication-som.md)
 
 You gain a 1st- or 2nd-level summoner feat of your choice.
 
 ## Basic Synergy leads to...
 
-[Advanced Synergy](compendium/feats/advanced-synergy-som.md), [Signature Synergy](compendium/feats/signature-synergy-som.md)
+[Advanced Synergy](advanced-synergy-som.md), [Signature Synergy](signature-synergy-som.md)
 
 ## Summary
 

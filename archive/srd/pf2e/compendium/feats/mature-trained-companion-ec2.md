@@ -8,11 +8,11 @@ tags:
 aliases: ["Mature Trained Companion"]
 ---
 # Mature Trained Companion  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Animal Trainer Dedication](compendium/feats/animal-trainer-dedication-ec2.md)
+- **Prerequisites**: [Animal Trainer Dedication](animal-trainer-dedication-ec2.md)
 
-Your animal companion grows up, becoming a mature animal companion. Increase its proficiency rank in [Performance](compendium/skills.md#Performance) to expert instead of one of the three skill increases for mature. It gains the Mesmerizing Performance advanced maneuver, rather than the normal advanced maneuver for its type.
+Your animal companion grows up, becoming a mature animal companion. Increase its proficiency rank in [Performance](skills.md#Performance) to expert instead of one of the three skill increases for mature. It gains the Mesmerizing Performance advanced maneuver, rather than the normal advanced maneuver for its type.
 
 ```ad-embed-action
 title: Mesmerizing Performance
@@ -34,7 +34,7 @@ The companion maintains its performance to captivate a single target within 30 f
 
 ## Mature Trained Companion leads to...
 
-[Splendid Companion](compendium/feats/splendid-companion-ec2.md), [Specialized Companion](compendium/feats/specialized-companion-ec2.md)
+[Splendid Companion](splendid-companion-ec2.md), [Specialized Companion](specialized-companion-ec2.md)
 
 ## Summary
 

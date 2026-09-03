@@ -10,17 +10,17 @@ tags:
 aliases: ["Raise Dead"]
 ---
 # Raise Dead *Spell 6*   
-[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")
 - **Cast** 10 minutes 
 - **Cost**: diamonds worth a total value of the target's level (minimum 1) × 200 gp
 - **Range**: 10 foot
 - **Targets**: 1 dead creature of 13th level or lower
 
-You attempt to call forth the dead creature's soul, requiring the creature's body to be present and relatively intact. The creature must have died within the past 3 days. If [Pharasma](compendium/setting/deities/pharasma.md) has decided that the creature's time has come (at the GM's discretion), or if the creature doesn't wish to return to life, this spell automatically fails, but the diamonds aren't consumed in the casting.
+You attempt to call forth the dead creature's soul, requiring the creature's body to be present and relatively intact. The creature must have died within the past 3 days. If [Pharasma](pharasma.md) has decided that the creature's time has come (at the GM's discretion), or if the creature doesn't wish to return to life, this spell automatically fails, but the diamonds aren't consumed in the casting.
 
-If the spell is successful, the creature returns to life with 1 Hit Point, no spells prepared or spell slots available, no points in any pools or any other daily resources, and still with any long-term debilitations of the old body. The time spent in the Boneyard leaves the target temporarily debilitated, making it [clumsy](rules/conditions.md#Clumsy), [drained](rules/conditions.md#Drained), and [enfeebled](rules/conditions.md#Enfeebled) for 1 week; these conditions can't be removed or reduced by any means until the week has passed.
+If the spell is successful, the creature returns to life with 1 Hit Point, no spells prepared or spell slots available, no points in any pools or any other daily resources, and still with any long-term debilitations of the old body. The time spent in the Boneyard leaves the target temporarily debilitated, making it [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy), [drained](archive/srd/pf2e/rules/conditions.md#Drained), and [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 week; these conditions can't be removed or reduced by any means until the week has passed.
 
 The creature is also permanently changed by its time in the afterlife, such as a slight personality shift, a streak of white in the hair, or a strange new birthmark.
 

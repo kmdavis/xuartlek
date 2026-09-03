@@ -12,7 +12,7 @@ tags:
 aliases: ["Spoon Gun"]
 ---
 # Spoon Gun *Item 1*  
-[cobbled](rules/traits/cobbled-g-g.md "Cobbled Weapon Trait")  [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  [modular <b, p, or s>](rules/traits/modular-b-p-or-s-logm.md "Modular Weapon Trait")  [scatter <5 ft.>](rules/traits/scatter-5-ft-g-g.md "Scatter Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cobbled](cobbled-g-g.md "Cobbled Weapon Trait")  [goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  [modular <b, p, or s>](rules/traits/modular-b-p-or-s-logm.md "Modular Weapon Trait")  [scatter <5 ft.>](rules/traits/scatter-5-ft-g-g.md "Scatter Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 10 gp
 - **Bulk** 1
@@ -23,7 +23,7 @@ aliases: ["Spoon Gun"]
 
 No one's entirely certain who developed the spoon gun, but all authorities agree that it was probably a goblin. Essentially a terrible idea in firearm form, the spoon gun is a spring-powered hand cannon with a modified grip that uses miscellaneous knives, forks, chopsticks, and spoons as ammunition. Users typically upend the entire contents of their cutlery drawer into the gun, aim it in the general direction of the foe, and hope it hits something.
 
-This [hand cannon](compendium/equipment/items/hand-cannon-g-g.md) is a martial weapon, instead of a simple weapon. It has the scatter (5 feet) trait and uses cutlery or similar-sized objects as ammunition instead of bullets (enough cheap cutlery to fire ten shots costs 1 sp).
+This [hand cannon](hand-cannon-g-g.md) is a martial weapon, instead of a simple weapon. It has the scatter (5 feet) trait and uses cutlery or similar-sized objects as ammunition instead of bullets (enough cheap cutlery to fire ten shots costs 1 sp).
 
 
 ---

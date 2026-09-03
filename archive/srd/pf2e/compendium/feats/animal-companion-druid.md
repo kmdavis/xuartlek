@@ -7,7 +7,7 @@ tags:
 aliases: ["Animal Companion (Druid)"]
 ---
 # Animal Companion (Druid)  *Feat 1*  
-[druid](rules/traits/druid.md "Druid Class Trait")  
+[druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Animal order
 
@@ -15,7 +15,7 @@ You gain the service of a young animal companion that travels with you on your a
 
 ## Animal Companion (Druid) leads to...
 
-[Mature Animal Companion (Druid)](compendium/feats/mature-animal-companion-druid.md), [Incredible Companion (Druid)](compendium/feats/incredible-companion-druid.md)
+[Mature Animal Companion (Druid)](archive/srd/pf2e/compendium/feats/mature-animal-companion-druid.md), [Incredible Companion (Druid)](archive/srd/pf2e/compendium/feats/incredible-companion-druid.md)
 
 ## Summary
 

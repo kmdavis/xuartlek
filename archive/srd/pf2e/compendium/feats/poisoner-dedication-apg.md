@@ -8,9 +8,9 @@ tags:
 aliases: ["Poisoner Dedication"]
 ---
 # Poisoner Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
-- **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
+- **Prerequisites**: trained in [Crafting](skills.md#Crafting)
 
 You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful. You gain the basic alchemy benefits (page 150), though they can be used only for alchemical poisons. You gain batches of infused reagents per day equal to your level. Your advanced alchemy level for creating these is 1 and doesn't increase on its own.
 
@@ -18,7 +18,7 @@ You make a point of always having a few toxins near at hand—you never know whe
 
 ## Poisoner Dedication leads to...
 
-[Acquired Tolerance](compendium/feats/acquired-tolerance-apg.md), [Expert Poisoner](compendium/feats/expert-poisoner-apg.md), [Poison Coat](compendium/feats/poison-coat-apg.md), [Poisoner's Twist](compendium/feats/poisoners-twist-apg.md)
+[Acquired Tolerance](acquired-tolerance-apg.md), [Expert Poisoner](expert-poisoner-apg.md), [Poison Coat](poison-coat-apg.md), [Poisoner's Twist](poisoners-twist-apg.md)
 
 ## Summary
 

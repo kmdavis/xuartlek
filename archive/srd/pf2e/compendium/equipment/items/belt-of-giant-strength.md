@@ -11,12 +11,12 @@ tags:
 aliases: ["Belt of Giant Strength"]
 ---
 # Belt of Giant Strength *Item 17*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 15000 gp
 - **Bulk** L; **Usage** worn belt
 
-This thick leather belt is decorated with a buckle carved from glittering quartz in the shape of a fist. You gain a +3 item bonus to [Athletics](compendium/skills.md#Athletics) checks and a +2 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks to lift a heavy object, [Escape](rules/actions/escape.md), and [Force Open](rules/actions/force-open.md). When you invest the belt, you either increase your Strength score by 2 or increase it to 18, whichever would give you a higher score.
+This thick leather belt is decorated with a buckle carved from glittering quartz in the shape of a fist. You gain a +3 item bonus to [Athletics](skills.md#Athletics) checks and a +2 circumstance bonus to [Athletics](skills.md#Athletics) checks to lift a heavy object, [Escape](archive/srd/pf2e/rules/actions/escape.md), and [Force Open](archive/srd/pf2e/rules/actions/force-open.md). When you invest the belt, you either increase your Strength score by 2 or increase it to 18, whichever would give you a higher score.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") [Interact](rules/actions/interact.md)

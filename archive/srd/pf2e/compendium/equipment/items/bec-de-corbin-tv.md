@@ -11,7 +11,7 @@ tags:
 aliases: ["Bec De Corbin"]
 ---
 # Bec De Corbin *Item 0*  
-[razing](rules/traits/razing-tv.md "Razing Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [shove](rules/traits/shove.md "Shove Weapon Trait")  [versatile <B>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
+[razing](razing-tv.md "Razing Weapon Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [shove](archive/srd/pf2e/rules/traits/shove.md "Shove Weapon Trait")  [versatile <B>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
 
 - **Price** 4 gp
 - **Bulk** 2

@@ -7,7 +7,7 @@ tags:
 aliases: ["Esoteric Reflexes"]
 ---
 # Esoteric Reflexes  *Feat 14*  
-[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
+[thaumaturge](archive/srd/pf2e/rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: an implement that grants a reaction
 

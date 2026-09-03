@@ -11,12 +11,12 @@ tags:
 aliases: ["Brooch of Shielding"]
 ---
 # Brooch of Shielding *Item 2*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 30 gp
 - **Bulk** —; **Usage** worn
 
-This piece of silver or gold jewelry is adorned with miniature images of kite shields and can be used to fasten a cloak or cape. The brooch automatically absorbs [magic missile](compendium/spells/magic-missile.md) spells targeting you. A brooch of shielding can absorb 30 individual [magic missile](compendium/spells/magic-missile.md)s before it melts and becomes useless.
+This piece of silver or gold jewelry is adorned with miniature images of kite shields and can be used to fasten a cloak or cape. The brooch automatically absorbs [magic missile](magic-missile.md) spells targeting you. A brooch of shielding can absorb 30 individual [magic missile](magic-missile.md)s before it melts and becomes useless.
 
 Sometimes when found, a brooch of shielding has already absorbed a number of missiles.
 

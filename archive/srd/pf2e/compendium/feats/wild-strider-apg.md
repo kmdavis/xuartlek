@@ -7,11 +7,11 @@ tags:
 aliases: ["Wild Strider"]
 ---
 # Wild Strider  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Horizon Walker Dedication](compendium/feats/horizon-walker-dedication-apg.md)
+- **Prerequisites**: [Horizon Walker Dedication](horizon-walker-dedication-apg.md)
 
-Natural obstacles pose no obstacle to you. You gain the ranger's wild stride class feature. This allows you to ignore the effects of all non-magical difficult terrain, treat greater difficult terrain as merely difficult terrain, and gives you an additional benefit from [Favored Terrain](compendium/feats/favored-terrain.md) based on the terrain.
+Natural obstacles pose no obstacle to you. You gain the ranger's wild stride class feature. This allows you to ignore the effects of all non-magical difficult terrain, treat greater difficult terrain as merely difficult terrain, and gives you an additional benefit from [Favored Terrain](archive/srd/pf2e/compendium/feats/favored-terrain.md) based on the terrain.
 
 *Source: Advanced Player's Guide p. 177*  
 %% #compendium/src/pf2e/apg #trait/archetype %%

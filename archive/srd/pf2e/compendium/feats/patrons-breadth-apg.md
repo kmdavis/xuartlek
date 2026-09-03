@@ -7,9 +7,9 @@ tags:
 aliases: ["Patron's Breadth"]
 ---
 # Patron's Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Witch Spellcasting](compendium/feats/basic-witch-spellcasting-apg.md)
+- **Prerequisites**: [Basic Witch Spellcasting](basic-witch-spellcasting-apg.md)
 
 You can cast more spells each day. Increase the spell slots you gain from witch archetype feats by 1 for each spell level other than your two highest spell levels.
 

@@ -6,11 +6,11 @@ tags:
 - trait/archetype
 aliases: ["Swift Intervention"]
 ---
-# Swift Intervention  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Swift Intervention  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Overwatch Dedication](compendium/feats/overwatch-dedication-g-g.md)
-- **Trigger** An ally within your overwatch field fails in their attempt to [Arrest a Fall](rules/actions/arrest-a-fall.md), [Balance](rules/actions/balance.md), Grab a Ledge, or
+- **Prerequisites**: [Overwatch Dedication](overwatch-dedication-g-g.md)
+- **Trigger** An ally within your overwatch field fails in their attempt to [Arrest a Fall](archive/srd/pf2e/rules/actions/arrest-a-fall.md), [Balance](archive/srd/pf2e/rules/actions/balance.md), Grab a Ledge, or
 - **Requirements**: You are wielding a ranged weapon.
 - **Activity** Reaction
 

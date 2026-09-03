@@ -9,14 +9,14 @@ tags:
 aliases: ["Eyeball Tank"]
 ---
 # Eyeball Tank *Hazard 15*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +31 master  
 
 A vat of thick glass stands 10 feet high and is filled with green slime and fist-sized eyeballs.
 
-- **Disable** DC 38 [Thievery](compendium/skills.md#Thievery) (master) or DC 34 [Crafting](compendium/skills.md#Crafting) (expert) to acidify the slime inside the tank, destroying the eyeballs.  
+- **Disable** DC 38 [Thievery](skills.md#Thievery) (master) or DC 34 [Crafting](skills.md#Crafting) (expert) to acidify the slime inside the tank, destroying the eyeballs.  
 
 - **AC** 33, **Fort** +29, **Ref** +26
 - **Tank Hardness** 2, **Tank HP** 180 (BT 90)

@@ -13,11 +13,11 @@ tags:
 aliases: ["Wet Shock Snare"]
 ---
 # Wet Shock Snare *Item 5*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 gp
 
-A [hidden](rules/conditions.md#Hidden) copper plate conceals a bag of electric eels. When a creature steps on the plate, the eels become agitated, and the creature takes `4d8` electricity damage (DC 21 basic Reflex save). On a critical failure, the current causes the creature to become [stunned](rules/conditions.md#Stunned). The eels are unharmed after use, but the mechanism is [broken](rules/conditions.md#Broken) as usual for snares.
+A [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) copper plate conceals a bag of electric eels. When a creature steps on the plate, the eels become agitated, and the creature takes `4d8` electricity damage (DC 21 basic Reflex save). On a critical failure, the current causes the creature to become [stunned](archive/srd/pf2e/rules/conditions.md#Stunned). The eels are unharmed after use, but the mechanism is [broken](archive/srd/pf2e/rules/conditions.md#Broken) as usual for snares.
 
 An intricate maze of well-ordered exhibits and shelves, the Historia Reliquary is almost more of a museum than a store. The front is covered with a heavy black curtain that is pinned in place with wooden stakes to prevent passersby from sneaking a look at what is inside.
 

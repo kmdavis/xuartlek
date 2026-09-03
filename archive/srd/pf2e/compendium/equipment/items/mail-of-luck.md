@@ -10,7 +10,7 @@ tags:
 aliases: ["Mail of Luck"]
 ---
 # Mail of Luck *Item 13*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 2600 gp
 - **Bulk** 3; **Usage** worn armor

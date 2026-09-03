@@ -11,11 +11,11 @@ tags:
 aliases: ["Ravenous"]
 ---
 # Ravenous *Item 1*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Usage** curses a ring, staff, or wand
 
-A _ravenous_ curse draws power from the wielder's body. Whenever you [activate](rules/actions/activate-an-item.md) the item, you become incredibly hungry and immediately begin to starve (10). You require 10 times as much food as normal for the next day.
+A _ravenous_ curse draws power from the wielder's body. Whenever you [activate](activate-an-item.md) the item, you become incredibly hungry and immediately begin to starve (10). You require 10 times as much food as normal for the next day.
 
 
 ---

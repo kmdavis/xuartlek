@@ -10,7 +10,7 @@ aliases: ["Kite"]
 
 - **Usage** held in 1 hand
 
-This colorful canvas kite is [controlled](rules/conditions.md#Controlled) by twine and flies when it catches the wind.
+This colorful canvas kite is [controlled](archive/srd/pf2e/rules/conditions.md#Controlled) by twine and flies when it catches the wind.
 
 
 ---

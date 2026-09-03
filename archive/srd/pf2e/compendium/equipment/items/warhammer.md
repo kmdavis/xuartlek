@@ -8,7 +8,7 @@ tags:
 aliases: ["Warhammer"]
 ---
 # Warhammer *Item 0*  
-[shove](rules/traits/shove.md "Shove Weapon Trait")  
+[shove](archive/srd/pf2e/rules/traits/shove.md "Shove Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** 1

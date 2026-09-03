@@ -10,10 +10,10 @@ tags:
 aliases: ["Positive Attunement"]
 ---
 # Positive Attunement *Spell 3*   
-[healing](rules/traits/healing.md "Healing Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
+[healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [positive](positive.md "Positive Energy & Element Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 living or undead creature
 - **Saving Throw**: Will
@@ -26,7 +26,7 @@ If the creature is undead or has negative healing, it instead takes `1d8` positi
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature is damaged once and the spell ends.
-> - **Failure** The creature is damaged immediately and at the end of each of your turns (so twice in the round you [Cast the Spell](rules/actions/cast-a-spell.md)).
+> - **Failure** The creature is damaged immediately and at the end of each of your turns (so twice in the round you [Cast the Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md)).
 > - **Critical Failure** As failure, and the damage is doubled.
 
 **Heightened (+ 3)** The damage and healing each increase by `1d8`.

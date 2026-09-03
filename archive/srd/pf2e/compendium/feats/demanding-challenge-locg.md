@@ -7,9 +7,9 @@ tags:
 aliases: ["Demanding Challenge"]
 ---
 # Demanding Challenge  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Boaster's Challenge](compendium/feats/boasters-challenge-locg.md)
+- **Prerequisites**: [Boaster's Challenge](boasters-challenge-locg.md)
 
 If your skill check to challenge a foe is a success, the target of your challenge takes a–1 circumstance penalty to attack rolls (or –2 if you critically succeed) until the end of your next turn.
 

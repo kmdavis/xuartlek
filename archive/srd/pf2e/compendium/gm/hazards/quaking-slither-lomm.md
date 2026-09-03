@@ -10,14 +10,14 @@ tags:
 aliases: ["Quaking Slither"]
 ---
 # Quaking Slither *Hazard 14*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](kaiju-frp2.md "Kaiju  Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 10  
 
 Ebeshra slithers across the ground, causing the earth to tremble as though from a powerful earthquake.
 
-- **Disable** three DC 38 [Athletics](compendium/skills.md#Athletics) (trained), [Crafting](compendium/skills.md#Crafting) (trained), or [Engineering Lore](compendium/skills.md#Lore) (trained) checks to brace a small structure or surface to cancel the effects of the quake in that area, or a single DC 41 [Diplomacy](compendium/skills.md#Diplomacy) (master) check to entreat Ebeshra to stand down  
+- **Disable** three DC 38 [Athletics](skills.md#Athletics) (trained), [Crafting](skills.md#Crafting) (trained), or [Engineering Lore](skills.md#Lore) (trained) checks to brace a small structure or surface to cancel the effects of the quake in that area, or a single DC 41 [Diplomacy](skills.md#Diplomacy) (master) check to entreat Ebeshra to stand down  
 
 ```ad-embed-ability
 title: **Quake** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

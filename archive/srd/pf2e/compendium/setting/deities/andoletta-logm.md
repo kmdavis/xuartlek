@@ -20,8 +20,8 @@ aliases: ["Andoletta", "Grandmother Crow"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
-- **Domains**: [family](compendium/setting/domains.md#Family), [knowledge](compendium/setting/domains.md#Knowledge), [protection](compendium/setting/domains.md#Protection), [sorrow](compendium/setting/domains.md#Sorrow)
-- **Cleric Spells**: 1st: [shillelagh](compendium/spells/shillelagh.md); 4th: aerial form (bird only); 6th: [collective transposition](compendium/spells/collective-transposition.md)
+- **Favored Weapon**: [staff](archive/srd/pf2e/compendium/equipment/items/staff.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow)
+- **Cleric Spells**: 1st: [shillelagh](shillelagh.md); 4th: aerial form (bird only); 6th: [collective transposition](archive/srd/pf2e/compendium/spells/collective-transposition.md)

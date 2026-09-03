@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Wearying Dance"]
 ---
 # Wand of Wearying Dance *Item 18*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Price** 24000 gp
 - **Craft Requirements** Supply a casting of uncontrollable dance.

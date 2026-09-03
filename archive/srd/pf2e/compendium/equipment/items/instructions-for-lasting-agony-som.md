@@ -10,7 +10,7 @@ tags:
 aliases: ["Instructions For Lasting Agony"]
 ---
 # Instructions For Lasting Agony *Item 5*  
-[grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Price** 200 gp
 - **Bulk** L

@@ -18,4 +18,4 @@ You are currently enrolled at a school of magic, where you're learning the funda
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion), as well as [Academia Lore](compendium/skills.md#Lore). You gain the [Recognize Spell](compendium/feats/recognize-spell.md) skill feat.
+You're trained in your choice of [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion), as well as [Academia Lore](skills.md#Lore). You gain the [Recognize Spell](archive/srd/pf2e/compendium/feats/recognize-spell.md) skill feat.

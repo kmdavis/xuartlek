@@ -7,7 +7,7 @@ tags:
 aliases: ["Advanced Element Control"]
 ---
 # Advanced Element Control  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Prerequisites**: Through the Gate
 
@@ -19,7 +19,7 @@ Your options include impulse feats for your kinetic element, as normal for a kin
 
 ## Advanced Element Control leads to...
 
-[Add Element](compendium/feats/add-element-roe.md)
+[Add Element](add-element-roe.md)
 
 ## Summary
 

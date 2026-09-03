@@ -7,9 +7,9 @@ tags:
 aliases: ["Master Witch Spellcasting"]
 ---
 # Master Witch Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Expert Witch Spellcasting](compendium/feats/expert-witch-spellcasting-apg.md), legendary in the skill associated with your patron's tradition
+- **Prerequisites**: [Expert Witch Spellcasting](expert-witch-spellcasting-apg.md), legendary in the skill associated with your patron's tradition
 
 You gain the master spellcasting benefits.
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Engulfing Snare"]
 ---
 # Engulfing Snare *Item 14*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 900 gp
 
@@ -21,8 +21,8 @@ The snare deals `9d8` piercing damage to the first creature to enter this square
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is knocked aside by the snare's deployment, taking half damage, and is [flat-footed](rules/conditions.md#Flat-footed) until the end of its next turn.
-> - **Failure** The creature is captured by the cage, taking full damage and falling [prone](rules/conditions.md#Prone). It is [immobilized](rules/conditions.md#Immobilized) while it remains within the cage. It can get free by Escaping (DC 31) or by destroying the cage (Hardness 5, HP 30, object immunities).
+> - **Success** The creature is knocked aside by the snare's deployment, taking half damage, and is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until the end of its next turn.
+> - **Failure** The creature is captured by the cage, taking full damage and falling [prone](archive/srd/pf2e/rules/conditions.md#Prone). It is [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) while it remains within the cage. It can get free by Escaping (DC 31) or by destroying the cage (Hardness 5, HP 30, object immunities).
 > - **Critical Failure** As failure, but the creature takes double damage.
 
 

@@ -12,7 +12,7 @@ You revel in the creation of clever inventions, deploying your brilliance to def
 ## Multiclass Inventor characters
 <sup>G&G p. 49</sup>
 
-Inventor is a great fit for intelligent characters looking to branch out and learn new tricks, especially alchemists, who are already good at [Crafting](compendium/skills.md#Crafting) and may appreciate [unstable](rules/traits/unstable-g-g.md "Unstable  Trait") options as an alternative to daily alchemical resources. If they meet the Intelligence requirements, clerics of deities who encourage invention and experimentation like [Brigh](compendium/setting/deities/brigh-logm.md) are an amazing fit, both because it makes narrative sense and because such characters can usually [Refocus](rules/actions/refocus.md) while fixing their innovation after using an [unstable](rules/traits/unstable-g-g.md "Unstable  Trait") ability.
+Inventor is a great fit for intelligent characters looking to branch out and learn new tricks, especially alchemists, who are already good at [Crafting](skills.md#Crafting) and may appreciate [unstable](unstable-g-g.md "Unstable  Trait") options as an alternative to daily alchemical resources. If they meet the Intelligence requirements, clerics of deities who encourage invention and experimentation like [Brigh](brigh-logm.md) are an amazing fit, both because it makes narrative sense and because such characters can usually [Refocus](archive/srd/pf2e/rules/actions/refocus.md) while fixing their innovation after using an [unstable](unstable-g-g.md "Unstable  Trait") ability.
 
 *Source: Guns & Gears p. 49*
 

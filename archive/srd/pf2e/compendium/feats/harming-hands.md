@@ -7,11 +7,11 @@ tags:
 aliases: ["Harming Hands"]
 ---
 # Harming Hands  *Feat 1*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: harmful font
 
-The mordant power of your negative energy grows. When you cast [harm](compendium/spells/harm.md), you roll d10s instead of d8s.
+The mordant power of your negative energy grows. When you cast [harm](archive/srd/pf2e/compendium/spells/harm.md), you roll d10s instead of d8s.
 
 *Source: Core Rulebook p. 121*  
 %% #compendium/src/pf2e/crb #trait/cleric %%

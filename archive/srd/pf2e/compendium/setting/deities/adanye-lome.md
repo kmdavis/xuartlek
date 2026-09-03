@@ -26,14 +26,14 @@ aliases: ["Adanye", "The Warmth of the Hearth"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: claw or [kukri](compendium/equipment/items/kukri.md)
-- **Domains**: [duty](compendium/setting/domains.md#Duty), [family](compendium/setting/domains.md#Family), [protection](compendium/setting/domains.md#Protection), [repose](compendium/setting/domains.md#Repose)
-- **Alternate Domains**: [confidence](compendium/setting/domains.md#Confidence), [fire](compendium/setting/domains.md#Fire)
-- **Cleric Spells**: 1st: [feather fall](compendium/spells/feather-fall.md); 2nd: [misdirection](compendium/spells/misdirection.md); 7th: [magnificent mansion](compendium/spells/magnificent-mansion.md)
+- **Favored Weapon**: claw or [kukri](archive/srd/pf2e/compendium/equipment/items/kukri.md)
+- **Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose)
+- **Alternate Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire)
+- **Cleric Spells**: 1st: [feather fall](feather-fall.md); 2nd: [misdirection](misdirection.md); 7th: [magnificent mansion](magnificent-mansion.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Adanye gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Adanye gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Adanye

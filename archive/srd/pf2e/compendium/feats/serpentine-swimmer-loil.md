@@ -7,7 +7,7 @@ tags:
 aliases: ["Serpentine Swimmer"]
 ---
 # Serpentine Swimmer  *Feat 9*  
-[nagaji](rules/traits/nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
+[nagaji](nagaji-loil.md "Nagaji Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Water Nagaji
 

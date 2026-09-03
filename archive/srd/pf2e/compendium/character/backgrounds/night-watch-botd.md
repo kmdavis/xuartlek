@@ -16,4 +16,4 @@ When everyone else slumbers, you're on guard. You might have been a watch member
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and either [Legal Lore](compendium/skills.md#Lore) or the [Lore](compendium/skills.md#Lore) skill for your home settlement. You gain the [Quick Coercion](compendium/feats/quick-coercion.md) skill feat.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and either [Legal Lore](skills.md#Lore) or the [Lore](skills.md#Lore) skill for your home settlement. You gain the [Quick Coercion](archive/srd/pf2e/compendium/feats/quick-coercion.md) skill feat.

@@ -7,9 +7,9 @@ tags:
 aliases: ["Shared Attunement"]
 ---
 # Shared Attunement  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Geomancer Dedication](compendium/feats/geomancer-dedication-som.md)
+- **Prerequisites**: [Geomancer Dedication](geomancer-dedication-som.md)
 
 When you would gain a benefit from your terrain attunement, you can grant it to one ally within 30 feet instead of yourself.
 

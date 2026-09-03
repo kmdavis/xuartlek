@@ -18,4 +18,4 @@ Choose two ability boosts.
 
 One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Nature](compendium/skills.md#Nature) skill as well as the [Forest Lore](compendium/skills.md#Lore) skill. You gain the [Natural Medicine](compendium/feats/natural-medicine.md) skill feat.
+You're trained in the [Nature](skills.md#Nature) skill as well as the [Forest Lore](skills.md#Lore) skill. You gain the [Natural Medicine](archive/srd/pf2e/compendium/feats/natural-medicine.md) skill feat.

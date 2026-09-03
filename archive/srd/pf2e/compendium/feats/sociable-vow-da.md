@@ -8,11 +8,11 @@ tags:
 aliases: ["Sociable Vow"]
 ---
 # Sociable Vow  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: [Pactbinder Dedication](compendium/feats/pactbinder-dedication-da.md), expert in [Diplomacy](compendium/skills.md#Diplomacy)
+- **Prerequisites**: [Pactbinder Dedication](pactbinder-dedication-da.md), expert in [Diplomacy](skills.md#Diplomacy)
 
-You can leverage your vow in more social interactions. The circumstance bonus from your Binding Vow also applies to attempts to [Gather Information](rules/actions/gather-information.md), [Make an Impression](rules/actions/make-an-impression.md), or [Demoralize](rules/actions/demoralize.md) you make directly in service of fulfilling the vow.
+You can leverage your vow in more social interactions. The circumstance bonus from your Binding Vow also applies to attempts to [Gather Information](archive/srd/pf2e/rules/actions/gather-information.md), [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md), or [Demoralize](archive/srd/pf2e/rules/actions/demoralize.md) you make directly in service of fulfilling the vow.
 
 *Source: Dark Archive p. 166*  
 %% #compendium/src/pf2e/da #trait/archetype #trait/skill %%

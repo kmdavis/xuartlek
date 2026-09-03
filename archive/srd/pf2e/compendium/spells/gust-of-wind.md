@@ -10,10 +10,10 @@ tags:
 aliases: ["Gust Of Wind"]
 ---
 # Gust Of Wind *Spell 1*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 60-foot line
 - **Duration**: until the start of your next turn
 
@@ -22,8 +22,8 @@ A violent wind issues forth from your palm, blowing from the point where you are
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature can't move against the wind.
-> - **Failure** The creature is knocked [prone](rules/conditions.md#Prone). If it was flying, it suffers the effects of critical failure instead.
-> - **Critical Failure** The creature is pushed 30 feet in the wind's direction, knocked [prone](rules/conditions.md#Prone), and takes `2d6` bludgeoning damage.
+> - **Failure** The creature is knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone). If it was flying, it suffers the effects of critical failure instead.
+> - **Critical Failure** The creature is pushed 30 feet in the wind's direction, knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone), and takes `2d6` bludgeoning damage.
 
 **Spell Lists**: Elemental
 

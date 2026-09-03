@@ -14,7 +14,7 @@ aliases: ["Curse of Slumber"]
 ---
 # Curse of Slumber
 *Curse 11*  
-[curse](rules/traits/curse.md "Curse Effect Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [sleep](archive/srd/pf2e/rules/traits/sleep.md "Sleep Effect Trait")  
 
 This legendary curse sends you into a sleep indistinguishable from death.
 

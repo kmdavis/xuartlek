@@ -7,9 +7,9 @@ tags:
 aliases: ["Master Cleric Spellcasting"]
 ---
 # Master Cleric Spellcasting  *Feat 18*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Expert Cleric Spellcasting](compendium/feats/expert-cleric-spellcasting.md), legendary in [Religion](compendium/skills.md#Religion)
+- **Prerequisites**: [Expert Cleric Spellcasting](archive/srd/pf2e/compendium/feats/expert-cleric-spellcasting.md), legendary in [Religion](skills.md#Religion)
 
 You gain the master spellcasting benefits.
 

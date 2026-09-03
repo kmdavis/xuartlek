@@ -11,14 +11,14 @@ tags:
 aliases: ["Chameleon Suit"]
 ---
 # Chameleon Suit *Item 4+*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [gadget](rules/traits/gadget-g-g.md "Gadget  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [gadget](gadget-g-g.md "Gadget  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** worn over armor and clothes
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This complex clockwork outerwear, worn over armor or other clothing, is composed of thin, interlocking scales of myriad colors attached to numerous clockwork gears that can rotate between all visible colors and shades.
 
-When activated, the clockwork gears work double-time to temporarily switch and adjust the scales to match the exact coloration of the area around you, allowing you to blend in as long as you stay still. For the duration, you can [Hide](rules/actions/hide.md) without needing cover or concealment to do so. This doesn't allow you to [Sneak](rules/actions/sneak.md) without ending your movement in cover or concealment, however, as the clockwork flips over and adjusts the scales to match your background as you move, giving the impression of rippling waves of color and revealing your movement. Once the duration expires, the overworked clockwork and scales fall apart.
+When activated, the clockwork gears work double-time to temporarily switch and adjust the scales to match the exact coloration of the area around you, allowing you to blend in as long as you stay still. For the duration, you can [Hide](archive/srd/pf2e/rules/actions/hide.md) without needing cover or concealment to do so. This doesn't allow you to [Sneak](archive/srd/pf2e/rules/actions/sneak.md) without ending your movement in cover or concealment, however, as the clockwork flips over and adjusts the scales to match your background as you move, giving the impression of rippling waves of color and revealing your movement. Once the duration expires, the overworked clockwork and scales fall apart.
 
 ---
 

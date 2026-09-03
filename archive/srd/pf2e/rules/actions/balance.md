@@ -7,15 +7,15 @@ tags:
 - trait/move
 aliases: ["Balance"]
 ---
-# Balance (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[move](rules/traits/move.md "Move Combat Trait")  
+# Balance (basic) [>](chapter-9-playing-the-game.md#Actions "Single Action")
+[move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  
 *Source: Core Rulebook p. 240*  
 
-**Skill** [acrobatics](compendium/skills.md#Acrobatics) (untrained)
+**Skill** [acrobatics](skills.md#Acrobatics) (untrained)
 - **Requirements**: You are in a square that contains a narrow surface, uneven ground, or another similar feature.
 - **Activity**: Single Action
 
-You move across a narrow surface or uneven ground, attempting an [Acrobatics](compendium/skills.md#Acrobatics) check against its Balance DC. You are [flat-footed](rules/conditions.md#Flat-footed) while on a narrow surface or uneven ground.
+You move across a narrow surface or uneven ground, attempting an [Acrobatics](skills.md#Acrobatics) check against its Balance DC. You are [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) while on a narrow surface or uneven ground.
 
 > [!success-degree] 
 > - **Critical Success** You move up to your Speed.

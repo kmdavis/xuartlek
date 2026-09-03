@@ -7,9 +7,9 @@ tags:
 aliases: ["Recycled Cogwheels"]
 ---
 # Recycled Cogwheels  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Trapsmith Dedication](compendium/feats/trapsmith-dedication-g-g.md)
+- **Prerequisites**: [Trapsmith Dedication](trapsmith-dedication-g-g.md)
 
 You're able to scavenge the cogwheels from your daily quick-deploy snares that use gears. This allows you to deconstruct a snare that didn't trigger in order to set the snare up somewhere else. Doing so takes the same number of actions as setting the snare did. When you do, you recover the snare and can deploy it in another location.
 

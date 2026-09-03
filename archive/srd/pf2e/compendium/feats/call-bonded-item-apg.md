@@ -9,8 +9,8 @@ tags:
 - trait/wizard
 aliases: ["Call Bonded Item"]
 ---
-# Call Bonded Item  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+# Call Bonded Item  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: arcane bond
 - **Activity** Single Action

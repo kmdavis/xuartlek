@@ -7,7 +7,7 @@ tags:
 aliases: ["Enhanced Familiar (Wizard)"]
 ---
 # Enhanced Familiar (Wizard)  *Feat 2*  
-[wizard](rules/traits/wizard.md "Wizard Class Trait")  
+[wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Prerequisites**: a familiar
 

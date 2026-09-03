@@ -9,14 +9,14 @@ tags:
 aliases: ["Subduing Gas Chamber"]
 ---
 # Subduing Gas Chamber *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +10 expert  
 
 A mechanical sensor in the desk drawer releases a counterweight in the wall, which slams the door shut and opens the sleeping gas tank under the bed, allowing gas to fill the air-tight room with a hissing sound.
 
-- **Disable** DC 26 [Thievery](compendium/skills.md#Thievery) (Trained) to disconnect the wire to the counterweight, preventing it from falling, or DC 20  
+- **Disable** DC 26 [Thievery](skills.md#Thievery) (Trained) to disconnect the wire to the counterweight, preventing it from falling, or DC 20  
 
 - **AC** 10, **Fort** +15, **Ref** +9
 - **Hardness** 10, **HP** 40 (BT 20)

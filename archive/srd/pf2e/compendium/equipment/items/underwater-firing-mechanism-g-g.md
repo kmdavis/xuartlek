@@ -9,7 +9,7 @@ tags:
 aliases: ["Underwater Firing Mechanism"]
 ---
 # Underwater Firing Mechanism *Item 9*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 600 gp
 - **Usage** attached <to firearm (firing mechanism)>

@@ -11,14 +11,14 @@ tags:
 aliases: ["Sage's Lash"]
 ---
 # Sage's Lash *Item 18*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Price** 24000 gp
 - **Usage** worn belt
 
 The thin, glittering strands of rope that comprise this thick belt appear to be spun gold. Strung along the front of the belt are a collection of four multicolored, perfectly spherical beads: jade, turquoise, quartz, and amethyst.
 
-While wearing the lash, you gain a +3 item bonus to [Religion](compendium/skills.md#Religion).
+While wearing the lash, you gain a +3 item bonus to [Religion](skills.md#Religion).
 
 When you invest the belt, you either increase your Wisdom score by 2 or to 18, whichever would give you a higher score.
 

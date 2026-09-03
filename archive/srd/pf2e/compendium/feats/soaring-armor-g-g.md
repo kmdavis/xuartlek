@@ -8,7 +8,7 @@ tags:
 aliases: ["Soaring Armor"]
 ---
 # Soaring Armor  *Feat 14*  
-[inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [modification](rules/traits/modification-g-g.md "Modification Feat Trait")  
+[inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  [modification](modification-g-g.md "Modification Feat Trait")  
 
 - **Prerequisites**: armor innovation
 

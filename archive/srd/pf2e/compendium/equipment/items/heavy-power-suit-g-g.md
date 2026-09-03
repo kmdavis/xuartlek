@@ -9,7 +9,7 @@ tags:
 aliases: ["Heavy Power Suit"]
 ---
 # Heavy Power Suit *Item 0*  
-[bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[bulwark](archive/srd/pf2e/rules/traits/bulwark.md "Bulwark Armor Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 3
 - **AC Bonus** +5; **Dex Cap** +1

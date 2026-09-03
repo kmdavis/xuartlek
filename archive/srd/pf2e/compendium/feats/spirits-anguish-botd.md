@@ -8,10 +8,10 @@ tags:
 - trait/sonic
 aliases: ["Spirit's Anguish"]
 ---
-# Spirit's Anguish  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+# Spirit's Anguish  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [evocation](evocation.md "Evocation School Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Prerequisites**: [Exorcist Dedication](compendium/feats/exorcist-dedication-botd.md)
+- **Prerequisites**: [Exorcist Dedication](exorcist-dedication-botd.md)
 - **Cost**: 1 spirit wisp or spirit remnant from your spirit dwelling
 - **Requirements**: You are holding your spirit dwelling.
 - **Activity** Two-Action

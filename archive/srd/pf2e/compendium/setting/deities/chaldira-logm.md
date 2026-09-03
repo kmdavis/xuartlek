@@ -26,13 +26,13 @@ aliases: ["Chaldira", "The Calamitous Turn"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Thievery
-- **Favored Weapon**: [shortsword](compendium/equipment/items/shortsword.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [luck](compendium/setting/domains.md#Luck), [trickery](compendium/setting/domains.md#Trickery), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 2nd: [misdirection](compendium/spells/misdirection.md); 5th: [cloak of colors](compendium/spells/cloak-of-colors.md)
+- **Favored Weapon**: [shortsword](archive/srd/pf2e/compendium/equipment/items/shortsword.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [luck](archive/srd/pf2e/compendium/setting/domains.md#Luck), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [fleet step](archive/srd/pf2e/compendium/spells/fleet-step.md); 2nd: [misdirection](misdirection.md); 5th: [cloak of colors](archive/srd/pf2e/compendium/spells/cloak-of-colors.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Chaldira gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Chaldira gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Chaldira
@@ -49,9 +49,9 @@ title: [Avatar](compendium/spells/avatar.md) of Chaldira
 The Calamitous Turn's pleasure most often manifests as improbably good luck, while her displeasure creates startling misfortune.
 
 - **Minor Boon** Once, you can choose the result of the next ordinary coin you flip or ordinary die you roll. If this ability is used for personal gain at the expense of someone innocent or less fortunate, Chaldira levies her moderate curse on you as punishment.
-- **Moderate Boon**: You gain a lucky impetuousness, allowing you to roll for initiative twice and use the higher result once per day. This is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect.
-- **Major Boon**: Chaldira's major boon grants truly improbable luck in combat. Your movement doesn't trigger reactions. You always succeed at flat checks you make to hit opponents with [attack](rules/traits/attack.md "Attack Combat Trait") actions; this is a [fortune](rules/traits/fortune.md "Fortune Effect Trait") effect.
+- **Moderate Boon**: You gain a lucky impetuousness, allowing you to roll for initiative twice and use the higher result once per day. This is a [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait") effect.
+- **Major Boon**: Chaldira's major boon grants truly improbable luck in combat. Your movement doesn't trigger reactions. You always succeed at flat checks you make to hit opponents with [attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait") actions; this is a [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait") effect.
 
 - **Minor Curse**: Any time you refuse a request made in good faith, you vomit up a frog, mouse, or other small animal. This deals no damage and causes no conditions, but is obvious to all bystanders.
-- **Moderate Curse** You are plagued with ill luck just when fortune is most needed. You must always roll flat checks twice and use the worse result. This is a [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait") effect.
-- **Major Curse**: Ill luck causes even once-certain aid to fail with frustrating regularity. You cannot benefit from circumstance or status bonuses, or from [fortune](rules/traits/fortune.md "Fortune Effect Trait") effects.
+- **Moderate Curse** You are plagued with ill luck just when fortune is most needed. You must always roll flat checks twice and use the worse result. This is a [misfortune](archive/srd/pf2e/rules/traits/misfortune.md "Misfortune Effect Trait") effect.
+- **Major Curse**: Ill luck causes even once-certain aid to fail with frustrating regularity. You cannot benefit from circumstance or status bonuses, or from [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait") effects.

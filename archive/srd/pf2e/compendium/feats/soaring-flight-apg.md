@@ -9,8 +9,8 @@ tags:
 - trait/transmutation
 aliases: ["Soaring Flight"]
 ---
-# Soaring Flight  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[morph](rules/traits/morph.md "Morph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Soaring Flight  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
+[morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: skyborn tengu heritage
 - **Frequency**: once per day
@@ -20,7 +20,7 @@ To be a tengu is to be unburdened by the concerns of the world below. You grow a
 
 ## Soaring Flight leads to...
 
-[Soaring Form](compendium/feats/soaring-form-loag.md)
+[Soaring Form](soaring-form-loag.md)
 
 ## Summary
 

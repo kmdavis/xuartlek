@@ -12,7 +12,7 @@ aliases: ["Basic Corrective Lenses"]
 - **Usage** worn
 - **Category** Vision
 
-A set of corrective lenses might take the form of eyeglasses or specialized goggles. You can don or remove your corrective lenses as an [Interact](rules/actions/interact.md) action.
+A set of corrective lenses might take the form of eyeglasses or specialized goggles. You can don or remove your corrective lenses as an [Interact](archive/srd/pf2e/rules/actions/interact.md) action.
 
 
 ---

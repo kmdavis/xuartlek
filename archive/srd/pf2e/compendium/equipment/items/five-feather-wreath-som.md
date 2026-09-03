@@ -11,14 +11,14 @@ tags:
 aliases: ["Five-feather Wreath"]
 ---
 # Five-feather Wreath *Item 4+*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Usage** affixed to armor or a weapon
 
-Identical feathers radiate from the center of this spellheart, held in place by woven straw. The spell attack roll of any spell cast by [Activating](rules/actions/activate-an-item.md) this item is +8, and the spell DC is 18.
+Identical feathers radiate from the center of this spellheart, held in place by woven straw. The spell attack roll of any spell cast by [Activating](activate-an-item.md) this item is +8, and the spell DC is 18.
 
-- **Armor** You gain a +1 item bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks and resistance 2 to falling damage.
-- **Weapon** After you cast an air spell by [Activating](rules/actions/activate-an-item.md) the wreath, you can [Fly](rules/actions/fly.md) 5 feet as a single action, or you can [Fly](rules/actions/fly.md) 10 feet as a free action if the spell you cast wasn't a cantrip. This must be your next action, and if you don't have a fly Speed, you must end the flight on solid ground or fall.
+- **Armor** You gain a +1 item bonus to [Acrobatics](skills.md#Acrobatics) checks and resistance 2 to falling damage.
+- **Weapon** After you cast an air spell by [Activating](activate-an-item.md) the wreath, you can [Fly](archive/srd/pf2e/rules/actions/fly.md) 5 feet as a single action, or you can [Fly](archive/srd/pf2e/rules/actions/fly.md) 10 feet as a free action if the spell you cast wasn't a cantrip. This must be your next action, and if you don't have a fly Speed, you must end the flight on solid ground or fall.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

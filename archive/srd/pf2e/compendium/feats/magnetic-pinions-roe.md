@@ -10,8 +10,8 @@ tags:
 - trait/primal
 aliases: ["Magnetic Pinions"]
 ---
-# Magnetic Pinions  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 1*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Magnetic Pinions  [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 1*  
+[impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [metal](metal-roe.md "Metal Energy & Element Trait")  [overflow](overflow-roe.md "Overflow Action & Ability Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Activity** Three-Action
 

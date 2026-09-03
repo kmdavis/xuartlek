@@ -17,4 +17,4 @@ You've decided that joining an adventuring group would be the best way to secure
 
 Choose two ability boosts. One must be Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and the Darklands, Desert, or [Jungle Lore](compendium/skills.md#Lore) skill. You gain the [Terrain Expertise](compendium/feats/terrain-expertise.md) skill feat (underground if you have [Darklands Lore](compendium/skills.md#Lore), desert if you have [Desert Lore](compendium/skills.md#Lore), or forest if you have [Jungle Lore](compendium/skills.md#Lore)).
+You're trained in the [Survival](skills.md#Survival) skill and the Darklands, Desert, or [Jungle Lore](skills.md#Lore) skill. You gain the [Terrain Expertise](archive/srd/pf2e/compendium/feats/terrain-expertise.md) skill feat (underground if you have [Darklands Lore](skills.md#Lore), desert if you have [Desert Lore](skills.md#Lore), or forest if you have [Jungle Lore](skills.md#Lore)).

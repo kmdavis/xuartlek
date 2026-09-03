@@ -14,4 +14,4 @@ You have been blessed by a divinity. For an unknown reason, and irrespective of 
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You are trained in a [Lore](compendium/skills.md#Lore) skill associated with the deity who blessed you (such as [Shelyn Lore](compendium/skills.md#Lore)) if you know their identity, or else in a [Lore](compendium/skills.md#Lore) skill of the GM's choice if you don't. Either you can cast [guidance](compendium/spells/guidance.md) as a divine innate spell at will, or you gain a similar blessing determined by the GM.
+You are trained in a [Lore](skills.md#Lore) skill associated with the deity who blessed you (such as [Shelyn Lore](skills.md#Lore)) if you know their identity, or else in a [Lore](skills.md#Lore) skill of the GM's choice if you don't. Either you can cast [guidance](archive/srd/pf2e/compendium/spells/guidance.md) as a divine innate spell at will, or you gain a similar blessing determined by the GM.

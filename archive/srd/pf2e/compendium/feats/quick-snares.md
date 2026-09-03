@@ -7,15 +7,15 @@ tags:
 aliases: ["Quick Snares"]
 ---
 # Quick Snares  *Feat 6*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting), [Snare Specialist](compendium/feats/snare-specialist.md)
+- **Prerequisites**: expert in [Crafting](skills.md#Crafting), [Snare Specialist](snare-specialist.md)
 
-You can rig a snare in only moments. You can [Craft](rules/actions/craft.md) snares that normally take 1 minute to [Craft](rules/actions/craft.md) with 3 [Interact](rules/actions/interact.md) actions, even if you haven't prepared them.
+You can rig a snare in only moments. You can [Craft](archive/srd/pf2e/rules/actions/craft.md) snares that normally take 1 minute to [Craft](archive/srd/pf2e/rules/actions/craft.md) with 3 [Interact](archive/srd/pf2e/rules/actions/interact.md) actions, even if you haven't prepared them.
 
 ## Quick Snares leads to...
 
-[Lightning Snares](compendium/feats/lightning-snares.md)
+[Lightning Snares](archive/srd/pf2e/compendium/feats/lightning-snares.md)
 
 ## Summary
 

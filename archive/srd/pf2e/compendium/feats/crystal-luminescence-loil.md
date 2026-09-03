@@ -8,12 +8,12 @@ tags:
 - trait/light
 aliases: ["Crystal Luminescence"]
 ---
-# Crystal Luminescence  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  [light](rules/traits/light.md "Light Effect Trait")  
+# Crystal Luminescence  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [kashrishi](kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  
 
 - **Activity** Single Action
 
-Your horn glows with bioluminescent color, casting bright light in a 20-foot emanation (and dim light for the next 20 feet). This light can be any color. The most common colors are blue and purple, except for trogloshi, who normally shed white light. The light shuts off when you take this action again or fall [unconscious](rules/conditions.md#Unconscious).
+Your horn glows with bioluminescent color, casting bright light in a 20-foot emanation (and dim light for the next 20 feet). This light can be any color. The most common colors are blue and purple, except for trogloshi, who normally shed white light. The light shuts off when you take this action again or fall [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious).
 
 If a spell or ability would activate your glowing horn while Crystal Luminescence is active, it instead increases the radius of the bright light and dim light by 10 feet each until the start of your next turn. This isn't cumulative, so using another such ability doesn't increase the radius again.
 

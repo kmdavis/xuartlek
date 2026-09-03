@@ -9,11 +9,11 @@ tags:
 aliases: ["Shift Blame"]
 ---
 # Shift Blame *Spell 3*   
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
-- **Trigger**: You or another creature attacks a creature or fails at a [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), or [Intimidation](compendium/skills.md#Intimidation) check.
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Trigger**: You or another creature attacks a creature or fails at a [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), or [Intimidation](skills.md#Intimidation) check.
 - **Range**: 30 foot
 - **Targets**: the target of the triggering attack or skill check
 - **Saving Throw**: Will

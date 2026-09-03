@@ -10,14 +10,14 @@ tags:
 aliases: ["Acidic Poison Cloud Trap"]
 ---
 # Acidic Poison Cloud Trap *Hazard 13*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 master  
 
-Five nozzles [hidden](rules/conditions.md#Hidden) across the apartment's ceiling spew thick clouds of acidic poison from a reinforced tank behind the wall.
+Five nozzles [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) across the apartment's ceiling spew thick clouds of acidic poison from a reinforced tank behind the wall.
 
-- **Disable** DC 35 [Thievery](compendium/skills.md#Thievery) (expert) to block one of the nozzles or DC 40 [Thievery](compendium/skills.md#Thievery) (master) to shut off the tank. The trap deactivates after 5 rounds, once the tank is empty.  
+- **Disable** DC 35 [Thievery](skills.md#Thievery) (expert) to block one of the nozzles or DC 40 [Thievery](skills.md#Thievery) (master) to shut off the tank. The trap deactivates after 5 rounds, once the tank is empty.  
 
 - **AC** 34, **Fort** +28, **Ref** +20
 - **Nozzle Hardness** 15, **Nozzle HP** 40 (BT 20) to destroy a nozzle; **Tank Hardness** 20, **Tank HP** 100 (BT 50) to damage the tank enough to stop it from spewing gas

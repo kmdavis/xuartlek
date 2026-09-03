@@ -10,14 +10,14 @@ tags:
 aliases: ["Call of the Void"]
 ---
 # Call of the Void *Hazard 12*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 25 expert to notice a slight tugging feeling  
 
 A supernatural compulsion to leap into the unknown exerts itself on anyone who approaches the ledge.
 
-- **Disable** DC 34 [Occultism](compendium/skills.md#Occultism) or DC 36 [Arcana](compendium/skills.md#Arcana) to expel the magical compulsion from the current island and from any of the red ropes directly attached to it, darkening the rope in color. The Echo also automatically disables the hazard from any island he's standing on, and any of the red ropes directly attached to it, when he Reconstitutes from Thought on that island.  
+- **Disable** DC 34 [Occultism](skills.md#Occultism) or DC 36 [Arcana](skills.md#Arcana) to expel the magical compulsion from the current island and from any of the red ropes directly attached to it, darkening the rope in color. The Echo also automatically disables the hazard from any island he's standing on, and any of the red ropes directly attached to it, when he Reconstitutes from Thought on that island.  
 
 ```ad-embed-ability
 title: **Leap into the Unknown** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([enchantment](rules/traits/enchantment.md), [mental](rules/traits/mental.md))

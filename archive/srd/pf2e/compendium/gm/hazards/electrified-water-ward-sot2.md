@@ -9,14 +9,14 @@ tags:
 aliases: ["Electrified Water Ward"]
 ---
 # Electrified Water Ward *Hazard 8*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +18 expert  
 
-Passing over an [invisible](rules/conditions.md#Invisible) rune on the floor between the north and south doors triggers a dancing burst of electricity.
+Passing over an [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) rune on the floor between the north and south doors triggers a dancing burst of electricity.
 
-- **Disable** DC 26 [Thievery](compendium/skills.md#Thievery) (expert), DC 28 [Arcana](compendium/skills.md#Arcana) (expert),  
+- **Disable** DC 26 [Thievery](skills.md#Thievery) (expert), DC 28 [Arcana](skills.md#Arcana) (expert),  
 
 ```ad-embed-ability
 title: **or DC** 28 [Occultism](compendium/skills.md#Occultism) (expert) to harmlessly bleed away the electrical energy from the rune. Once the trap has been activated, the electrical energy is stronger, so three successful checks (of any combination of the relevant skills) are necessary to deactivate it, but these checks can be attempted from anywhere in the room.

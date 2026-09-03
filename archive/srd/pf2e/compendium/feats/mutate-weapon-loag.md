@@ -6,10 +6,10 @@ tags:
 - trait/fleshwarp
 aliases: ["Mutate Weapon"]
 ---
-# Mutate Weapon  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[fleshwarp](rules/traits/fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
+# Mutate Weapon  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
+[fleshwarp](fleshwarp-loag.md "Fleshwarp Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Living Weapon](compendium/feats/living-weapon-loag.md)
+- **Prerequisites**: [Living Weapon](living-weapon-loag.md)
 - **Activity** Single Action
 
 Select one unarmed attack you gained with Living Weapon. The damage die for that attack increases by one step until the end of your turn. In addition, choose to either have the attack gain a reach of 10 feet until the end of your turn or for you to gain a +1 status bonus to attack rolls with the chosen unarmed attack until the end of your turn.

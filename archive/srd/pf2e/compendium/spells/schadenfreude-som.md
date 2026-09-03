@@ -10,10 +10,10 @@ tags:
 aliases: ["Schadenfreude"]
 ---
 # Schadenfreude *Spell 1*   
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: You critically fail a saving throw against a foe's effect.
 - **Range**: 30 foot
 - **Targets**: the triggering foe
@@ -23,8 +23,8 @@ You distract your enemy with their feeling of smug pleasure when you fail catast
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is distracted by its amusement and takes a –1 status penalty on [Perception](compendium/skills.md#Perception) checks and Will saves for 1 round.
-> - **Failure** The creature is overcome by its amusement and is [stupefied](rules/conditions.md#Stupefied) for 1 round.
-> - **Critical Failure** The creature is lost in its amusement and is [stupefied](rules/conditions.md#Stupefied) for 1 round and [stunned](rules/conditions.md#Stunned).
+> - **Success** The creature is distracted by its amusement and takes a –1 status penalty on [Perception](skills.md#Perception) checks and Will saves for 1 round.
+> - **Failure** The creature is overcome by its amusement and is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 round.
+> - **Critical Failure** The creature is lost in its amusement and is [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) for 1 round and [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
 
 *Source: Secrets of Magic p. 127*

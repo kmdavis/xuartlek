@@ -10,14 +10,14 @@ tags:
 aliases: ["Supplicant Statues"]
 ---
 # Supplicant Statues *Hazard 14*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 master  
 
 Six statues rapidly slide around the room on rollers, slowing down intruders and striking at them with spring-loaded sword arms.
 
-- **Disable** DC 34 [Thievery](compendium/skills.md#Thievery) (master) to disable a specific statue's rollers, or DC 39 [Thievery](compendium/skills.md#Thievery) (master) on the control panel in A4 deactivates the whole trap. For each statue disabled, the trap loses 1 action from its routine and the DC for its predictive impediment ability decreases by 4. Dispel magic (7th level, counteract DC 32) doesn't harm the statues but removes the predictive impediment ability. Breaking the control panel prevents the trap from resetting.  
+- **Disable** DC 34 [Thievery](skills.md#Thievery) (master) to disable a specific statue's rollers, or DC 39 [Thievery](skills.md#Thievery) (master) on the control panel in A4 deactivates the whole trap. For each statue disabled, the trap loses 1 action from its routine and the DC for its predictive impediment ability decreases by 4. Dispel magic (7th level, counteract DC 32) doesn't harm the statues but removes the predictive impediment ability. Breaking the control panel prevents the trap from resetting.  
 
 - **AC** 34, **Fort** +20, **Ref** +28
 - **HP** 20 (BT 10); **Statue Hardness** 22, **Statue HP** 96 (BT 48)

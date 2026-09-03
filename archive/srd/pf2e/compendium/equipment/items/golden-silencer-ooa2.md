@@ -12,14 +12,14 @@ tags:
 aliases: ["Golden Silencer"]
 ---
 # Golden Silencer *Item 6+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** affixed to a firearm
-- **Activate** [Interact](rules/actions/interact.md); **Requirements** You're an expert in
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md); **Requirements** You're an expert in
 
-[Stealth](compendium/skills.md#Stealth).
+[Stealth](skills.md#Stealth).
 
-The Golden Gunners are dreaded for their use of their golden silencers, which they put to good use in clandestine raids. They silence both the loud gunshot and the screams of creatures [wounded](rules/conditions.md#Wounded) by its shot. A weapon with a golden silencer attached emits no light and makes no noise when fired. A target hit by a ranged [Strike](rules/actions/strike.md) from the affixed weapon must succeed at a DC 20 Fortitude save or be silenced as well until the start of its next turn. A silenced creature can't call for help or use sonic abilities, nor can it use abilities with the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait. This prevents it from casting spells that include verbal components.
+The Golden Gunners are dreaded for their use of their golden silencers, which they put to good use in clandestine raids. They silence both the loud gunshot and the screams of creatures [wounded](archive/srd/pf2e/rules/conditions.md#Wounded) by its shot. A weapon with a golden silencer attached emits no light and makes no noise when fired. A target hit by a ranged [Strike](archive/srd/pf2e/rules/actions/strike.md) from the affixed weapon must succeed at a DC 20 Fortitude save or be silenced as well until the start of its next turn. A silenced creature can't call for help or use sonic abilities, nor can it use abilities with the [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait") trait. This prevents it from casting spells that include verbal components.
 
 ---
 

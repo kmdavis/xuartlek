@@ -10,7 +10,7 @@ tags:
 aliases: ["Wondrous Figurines"]
 ---
 # Wondrous Figurines *Item 8+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -26,7 +26,7 @@ The following additional figurines are uncommon versions sometimes found among t
 
 - **Price**: 495 gp
 
-This exquisitely crafted statuette is carved into the form of twin panthers climbing a tree. When activated, it transforms into a pair of beautiful leopards that are carved out of bismuth and flash hypnotically as they move. Creatures that come within 5 feet of a bismuth leopard or that end their turn within 5 feet of a bismuth leopard become [dazzled](rules/conditions.md#Dazzled) for 1 round unless they succeed at a DC 24 Will save. A creature that comes within 5 feet of both leopards or ends its turn within 5 feet of both leopards need only attempt one saving throw each time.
+This exquisitely crafted statuette is carved into the form of twin panthers climbing a tree. When activated, it transforms into a pair of beautiful leopards that are carved out of bismuth and flash hypnotically as they move. Creatures that come within 5 feet of a bismuth leopard or that end their turn within 5 feet of a bismuth leopard become [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 round unless they succeed at a DC 24 Will save. A creature that comes within 5 feet of both leopards or ends its turn within 5 feet of both leopards need only attempt one saving throw each time.
 
 The leopards can be called on only once per day, and they remain in their leopard form for up to 10 minutes. If either of the leopards is slain, that leopard can't be summoned again until 1 week has passed, but this doesn't prevent you from summoning the other leopard.
 

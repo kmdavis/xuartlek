@@ -8,14 +8,14 @@ tags:
 aliases: ["Axiomatic Polymorph Trap"]
 ---
 # Axiomatic Polymorph Trap *Hazard 20*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 47 master  
 
 A Utopian glyph transforms trespassers into aeons.
 
-- **Disable** DC 48 [Thievery](compendium/skills.md#Thievery) (master) to drain the glyph's power harmlessly, or dispel magic (9th level; counteract DC 42) to counteract the glyph.  
+- **Disable** DC 48 [Thievery](skills.md#Thievery) (master) to drain the glyph's power harmlessly, or dispel magic (9th level; counteract DC 42) to counteract the glyph.  
 
 ```ad-embed-ability
 title: **Axiomatic Polymorph** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [transmutation](rules/traits/transmutation.md))

@@ -9,7 +9,7 @@ tags:
 aliases: ["Chain Mail"]
 ---
 # Chain Mail *Item 0*  
-[flexible](rules/traits/flexible.md "Flexible Armor Trait")  [noisy](rules/traits/noisy.md "Noisy Armor Trait")  
+[flexible](archive/srd/pf2e/rules/traits/flexible.md "Flexible Armor Trait")  [noisy](archive/srd/pf2e/rules/traits/noisy.md "Noisy Armor Trait")  
 
 - **Price** 6 gp
 - **Bulk** 2

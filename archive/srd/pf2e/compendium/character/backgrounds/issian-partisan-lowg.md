@@ -17,4 +17,4 @@ Steeped in the cultural legacy of pirates and smugglers, you rely on your clever
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Deception](compendium/skills.md#Deception) skill and the [Underworld Lore](compendium/skills.md#Lore) skill. You gain the [Charming Liar](compendium/feats/charming-liar.md) skill feat.
+You're trained in the [Deception](skills.md#Deception) skill and the [Underworld Lore](skills.md#Lore) skill. You gain the [Charming Liar](archive/srd/pf2e/compendium/feats/charming-liar.md) skill feat.

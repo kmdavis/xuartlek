@@ -8,15 +8,15 @@ tags:
 aliases: ["Alchemical Crafting"]
 ---
 # Alchemical Crafting  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Crafting](compendium/skills.md#Crafting)
+- **Prerequisites**: trained in [Crafting](skills.md#Crafting)
 
-You can use the [Craft](rules/actions/craft.md) activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your formula book.
+You can use the [Craft](archive/srd/pf2e/rules/actions/craft.md) activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your formula book.
 
 ## Alchemical Crafting leads to...
 
-[Assassin Dedication](compendium/feats/assassin-dedication-apg.md), [Angel Of Death](compendium/feats/angel-of-death-apg.md), [Assassinate](compendium/feats/assassinate-apg.md), [Expert Backstabber](compendium/feats/expert-backstabber-apg.md), [Surprise Attack](compendium/feats/surprise-attack-apg.md), [Angel of Vindication](compendium/feats/angel-of-vindication-lokl.md), [Eclipsed Vitality](compendium/feats/eclipsed-vitality-lokl.md)
+[Assassin Dedication](assassin-dedication-apg.md), [Angel Of Death](angel-of-death-apg.md), [Assassinate](assassinate-apg.md), [Expert Backstabber](expert-backstabber-apg.md), [Surprise Attack](surprise-attack-apg.md), [Angel of Vindication](angel-of-vindication-lokl.md), [Eclipsed Vitality](eclipsed-vitality-lokl.md)
 
 ## Summary
 

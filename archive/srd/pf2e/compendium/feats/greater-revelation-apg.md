@@ -7,7 +7,7 @@ tags:
 aliases: ["Greater Revelation"]
 ---
 # Greater Revelation  *Feat 12*  
-[oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  
+[oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  
 
 - **Prerequisites**: initial revelation spell
 
@@ -15,7 +15,7 @@ You learn a greater revelation spell associated with your mystery. Increase the 
 
 ## Greater Revelation leads to...
 
-[Paradoxical Mystery](compendium/feats/paradoxical-mystery-apg.md)
+[Paradoxical Mystery](paradoxical-mystery-apg.md)
 
 ## Summary
 

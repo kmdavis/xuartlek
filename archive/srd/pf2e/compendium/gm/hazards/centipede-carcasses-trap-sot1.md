@@ -9,14 +9,14 @@ tags:
 aliases: ["Centipede Carcasses Trap"]
 ---
 # Centipede Carcasses Trap *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained  
 
 Three giant centipede carcasses have wire springs that pull out and fling their sharpened legs around the room.
 
-- **Disable** DC 23 [Nature](compendium/skills.md#Nature) (trained) to bend the centipede carapace so the wire can't pull out any more legs, or DC 21 [Thievery](compendium/skills.md#Thievery) (expert) to cut the springy wires. After all three carcasses are disabled (regardless of the check used), the trap is deactivated. The trap automatically deactivates after 10 rounds.  
+- **Disable** DC 23 [Nature](skills.md#Nature) (trained) to bend the centipede carapace so the wire can't pull out any more legs, or DC 21 [Thievery](skills.md#Thievery) (expert) to cut the springy wires. After all three carcasses are disabled (regardless of the check used), the trap is deactivated. The trap automatically deactivates after 10 rounds.  
 
 - **AC** 22, **Fort** +15, **Ref** +9
 - **Carcass Hardness** 12, **Carcass HP** 20 (BT 10)

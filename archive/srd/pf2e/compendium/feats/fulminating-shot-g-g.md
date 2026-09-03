@@ -8,10 +8,10 @@ tags:
 - trait/magical
 aliases: ["Fulminating Shot"]
 ---
-# Fulminating Shot  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+# Fulminating Shot  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
-- **Prerequisites**: [Spellshot Dedication](compendium/feats/spellshot-dedication-g-g.md)
+- **Prerequisites**: [Spellshot Dedication](spellshot-dedication-g-g.md)
 - **Frequency**: once per round
 - **Activity** Single Action
 

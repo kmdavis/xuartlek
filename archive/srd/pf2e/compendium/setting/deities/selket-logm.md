@@ -20,8 +20,8 @@ aliases: ["Selket", "Mistress of the Beautiful House"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Medicine
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [healing](compendium/setting/domains.md#Healing), [magic](compendium/setting/domains.md#Magic), [nature](compendium/setting/domains.md#Nature), [protection](compendium/setting/domains.md#Protection)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 3rd: [paralyze](compendium/spells/paralyze.md); 6th: [purple worm sting](compendium/spells/purple-worm-sting.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 3rd: [paralyze](archive/srd/pf2e/compendium/spells/paralyze.md); 6th: [purple worm sting](purple-worm-sting.md)

@@ -7,13 +7,13 @@ tags:
 - trait/rage
 aliases: ["Wounded Rage"]
 ---
-# Wounded Rage  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
+# Wounded Rage  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [rage](archive/srd/pf2e/rules/traits/rage.md "Rage Combat Trait")  
 
 - **Trigger** You take damage and are capable of entering a rage.
 - **Activity** Reaction
 
-You roar in pain, awakening the rage within you. You [Rage](rules/actions/rage.md).
+You roar in pain, awakening the rage within you. You [Rage](archive/srd/pf2e/rules/actions/rage.md).
 
 *Source: Core Rulebook p. 90*  
 %% #compendium/src/pf2e/crb #trait/barbarian #trait/rage %%

@@ -11,8 +11,8 @@ tags:
 - trait/transmutation
 aliases: ["Dragon's Rage Wings"]
 ---
-# Dragon's Rage Wings  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [instinct](rules/traits/instinct.md "Instinct Action & Ability Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Dragon's Rage Wings  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 12*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [instinct](archive/srd/pf2e/rules/traits/instinct.md "Instinct Action & Ability Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [rage](archive/srd/pf2e/rules/traits/rage.md "Rage Combat Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Prerequisites**: dragon instinct
 - **Activity** Single Action
@@ -21,7 +21,7 @@ You sprout dragon wings from your back of the same color as your chosen dragon. 
 
 ## Dragon's Rage Wings leads to...
 
-[Dragon Transformation](compendium/feats/dragon-transformation.md)
+[Dragon Transformation](archive/srd/pf2e/compendium/feats/dragon-transformation.md)
 
 ## Summary
 

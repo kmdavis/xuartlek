@@ -9,13 +9,13 @@ tags:
 aliases: ["Mummy Dedication"]
 ---
 # Mummy Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: you are dead and were mummified (by natural or ritualistic means)
 
-Whether through natural processes or foul rituals, your body was mummified, and you've risen as an undead mummy. You gain the [mummy](rules/traits/mummy-b1.md "Mummy Creature Trait") and [undead](rules/traits/undead.md "Undead Creature Type Trait") traits, as well as basic undead benefits (page 44). Many effects that harm the living are far less effective against your desiccated form. Unfortunately, your dried-out body is also highly flammable. You gain the [Toughness](compendium/feats/toughness.md) feat, but also fire weakness equal to half your level.
+Whether through natural processes or foul rituals, your body was mummified, and you've risen as an undead mummy. You gain the [mummy](mummy-b1.md "Mummy Creature Trait") and [undead](archive/srd/pf2e/rules/traits/undead.md "Undead Creature Type Trait") traits, as well as basic undead benefits (page 44). Many effects that harm the living are far less effective against your desiccated form. Unfortunately, your dried-out body is also highly flammable. You gain the [Toughness](archive/srd/pf2e/compendium/feats/toughness.md) feat, but also fire weakness equal to half your level.
 
-Your fist draws moisture from the living by touch, making it more damaging and deadly. The damage die for your fist increases to `1d6` instead of `1d4`, and your fist loses the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait.
+Your fist draws moisture from the living by touch, making it more damaging and deadly. The damage die for your fist increases to `1d6` instead of `1d4`, and your fist loses the [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait.
 
 Finally, you become supernaturally bound to the dominant terrain in which you were created, either because you formed naturally from the weather of that terrain or because of the local ingredients and methods used in an intentional mummification process. Choose arctic, desert, mountain, or swamp. This choice can't be changed and may alter the effects of some of your feats.
 
@@ -23,7 +23,7 @@ Finally, you become supernaturally bound to the dominant terrain in which you we
 
 ## Mummy Dedication leads to...
 
-[One with the Land](compendium/feats/one-with-the-land-botd.md), [Semblance of Life](compendium/feats/semblance-of-life-botd.md), [Grave Mummification](compendium/feats/grave-mummification-botd.md), [Mummy's Despair](compendium/feats/mummys-despair-botd.md), [Accursed Touch](compendium/feats/accursed-touch-botd.md), [Channel Rot](compendium/feats/channel-rot-botd.md), [Storm Shroud](compendium/feats/storm-shroud-botd.md), [Terrain Form](compendium/feats/terrain-form-botd.md), [Desiccating Inhalation](compendium/feats/desiccating-inhalation-botd.md)
+[One with the Land](one-with-the-land-botd.md), [Semblance of Life](semblance-of-life-botd.md), [Grave Mummification](grave-mummification-botd.md), [Mummy's Despair](mummys-despair-botd.md), [Accursed Touch](accursed-touch-botd.md), [Channel Rot](channel-rot-botd.md), [Storm Shroud](storm-shroud-botd.md), [Terrain Form](terrain-form-botd.md), [Desiccating Inhalation](desiccating-inhalation-botd.md)
 
 ## Summary
 

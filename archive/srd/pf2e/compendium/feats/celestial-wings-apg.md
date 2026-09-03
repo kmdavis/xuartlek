@@ -9,8 +9,8 @@ tags:
 - trait/transmutation
 aliases: ["Celestial Wings"]
 ---
-# Celestial Wings  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
-[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Celestial Wings  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 9*  
+[aasimar](aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action
@@ -21,7 +21,7 @@ These wings remain for 10 minutes. You gain a fly Speed equal to your Speed whil
 
 ## Celestial Wings leads to...
 
-[Eternal Wings](compendium/feats/eternal-wings-apg.md)
+[Eternal Wings](eternal-wings-apg.md)
 
 ## Summary
 

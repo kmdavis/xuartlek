@@ -11,7 +11,7 @@ tags:
 aliases: ["Architect's Pattern Book"]
 ---
 # Architect's Pattern Book *Item 6*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 240 gp
 - **Bulk** L

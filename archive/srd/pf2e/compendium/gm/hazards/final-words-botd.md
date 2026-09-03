@@ -7,14 +7,14 @@ tags:
 aliases: ["Final Words"]
 ---
 # Final Words *Hazard 4*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained to hear the scratch of a quill upon paper  
 
 As a creature touches a hand-written letter, they witness the letter's author scribe it in the past; each pen stroke across the page carves the letter's text into the creature's flesh.
 
-- **Disable** DC 24 [Religion](compendium/skills.md#Religion) (trained) to ward off the haunt or DC 25 [Thievery](compendium/skills.md#Thievery) (trained) to dispose of the letter with extreme care before the haunt can form  
+- **Disable** DC 24 [Religion](skills.md#Religion) (trained) to ward off the haunt or DC 25 [Thievery](skills.md#Thievery) (trained) to dispose of the letter with extreme care before the haunt can form  
 
 ```ad-embed-ability
 title: **Carve in Flesh** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md), [visual](rules/traits/visual.md))

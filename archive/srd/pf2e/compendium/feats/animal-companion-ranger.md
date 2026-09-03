@@ -7,14 +7,14 @@ tags:
 aliases: ["Animal Companion (Ranger)"]
 ---
 # Animal Companion (Ranger)  *Feat 1*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
 
-You gain the service of a young animal companion that travels with you and obeys simple commands as best as it can. See Animal Companions. When you [Hunt Prey](rules/actions/hunt-prey.md), your animal companion gains the action's benefits and your hunter's edge benefit if you have one.
+You gain the service of a young animal companion that travels with you and obeys simple commands as best as it can. See Animal Companions. When you [Hunt Prey](archive/srd/pf2e/rules/actions/hunt-prey.md), your animal companion gains the action's benefits and your hunter's edge benefit if you have one.
 
 ## Animal Companion (Ranger) leads to...
 
-[Mature Animal Companion (Ranger)](compendium/feats/mature-animal-companion-ranger.md), [Incredible Companion (Ranger)](compendium/feats/incredible-companion-ranger.md), [Specialized Companion (Ranger)](compendium/feats/specialized-companion-ranger.md), [Stealthy Companion](compendium/feats/stealthy-companion.md)
+[Mature Animal Companion (Ranger)](archive/srd/pf2e/compendium/feats/mature-animal-companion-ranger.md), [Incredible Companion (Ranger)](archive/srd/pf2e/compendium/feats/incredible-companion-ranger.md), [Specialized Companion (Ranger)](archive/srd/pf2e/compendium/feats/specialized-companion-ranger.md), [Stealthy Companion](archive/srd/pf2e/compendium/feats/stealthy-companion.md)
 
 ## Summary
 

@@ -9,8 +9,8 @@ tags:
 - trait/summoner
 aliases: ["Glider Form"]
 ---
-# Glider Form  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[eidolon](rules/traits/eidolon-som.md "Eidolon Creature Type Trait")  [evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [move](rules/traits/move.md "Move Combat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+# Glider Form  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[eidolon](eidolon-som.md "Eidolon Creature Type Trait")  [evolution](evolution-som.md "Evolution Feat Trait")  [move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
 - **Activity** Single Action
 
@@ -18,7 +18,7 @@ Your eidolon evolves wings, a buoyant body, or some other means to control desce
 
 ## Glider Form leads to...
 
-[Airborne Form](compendium/feats/airborne-form-som.md)
+[Airborne Form](airborne-form-som.md)
 
 ## Summary
 

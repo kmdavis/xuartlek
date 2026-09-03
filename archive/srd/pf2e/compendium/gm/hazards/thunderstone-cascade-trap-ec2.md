@@ -9,14 +9,14 @@ tags:
 aliases: ["Thunderstone Cascade Trap"]
 ---
 # Thunderstone Cascade Trap *Hazard 7*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
 
 A trip wire halfway up the stairs releases half a dozen spherical thunderstones that bounce down the stairs and explode.
 
-- **Disable** DC 27 [Thievery](compendium/skills.md#Thievery) (expert) to safely cut the trip wire.  
+- **Disable** DC 27 [Thievery](skills.md#Thievery) (expert) to safely cut the trip wire.  
 
 - **AC** 26, **Fort** +15, **Ref** +13
 - **HP** 54; **default Hardness** 0

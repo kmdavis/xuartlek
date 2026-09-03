@@ -10,22 +10,22 @@ tags:
 aliases: ["Murderous Vine"]
 ---
 # Murderous Vine *Spell 4*   
-[attack](rules/traits/attack.md "Attack Combat Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  
 
-- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 creature adjacent to a flat surface
 - **Duration**: 1 minute
 
 You summon a slithering, thorny vine that attempts to constrict and crush a foe against a wall or other surface.
 
-Make a spell attack roll against the target's Fortitude DC. On a success, the creature is [grabbed](rules/conditions.md#Grabbed) and takes `3d6` bludgeoning damage and `2d8` piercing damage. At the end of that creature's turn, if it's still [grabbed](rules/conditions.md#Grabbed) by the vine, it takes `2d6` bludgeoning damage.
+Make a spell attack roll against the target's Fortitude DC. On a success, the creature is [grabbed](archive/srd/pf2e/rules/conditions.md#Grabbed) and takes `3d6` bludgeoning damage and `2d8` piercing damage. At the end of that creature's turn, if it's still [grabbed](archive/srd/pf2e/rules/conditions.md#Grabbed) by the vine, it takes `2d6` bludgeoning damage.
 
-The vine's [Escape](rules/actions/escape.md) DC is equal to your spell DC. A creature can attack the vine in an attempt to break its grip. The vine's AC is equal to your spell DC, and the vine is destroyed if it takes 20 or more damage. Destroying or escaping from the vines ends the spell.
+The vine's [Escape](archive/srd/pf2e/rules/actions/escape.md) DC is equal to your spell DC. A creature can attack the vine in an attempt to break its grip. The vine's AC is equal to your spell DC, and the vine is destroyed if it takes 20 or more damage. Destroying or escaping from the vines ends the spell.
 
-You can [Dismiss](rules/actions/dismiss.md) the spell.
+You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the spell.
 
-**Heightened (+ 2)** The initial bludgeoning damage increases by `1d6`, the initial piercing damage increases by `1d8`, and the damage a creature takes for ending its turn [grabbed](rules/conditions.md#Grabbed) by the vine increases by `1d6`.
+**Heightened (+ 2)** The initial bludgeoning damage increases by `1d6`, the initial piercing damage increases by `1d8`, and the damage a creature takes for ending its turn [grabbed](archive/srd/pf2e/rules/conditions.md#Grabbed) by the vine increases by `1d6`.
 
 *Source: Secrets of Magic p. 117*

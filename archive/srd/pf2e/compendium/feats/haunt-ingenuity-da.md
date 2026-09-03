@@ -9,10 +9,10 @@ tags:
 aliases: ["Haunt Ingenuity"]
 ---
 # Haunt Ingenuity  *Feat 1*  
-[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
+[divination](divination.md "Divination School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [thaumaturge](archive/srd/pf2e/rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 
-Your cunning knowledge grants you the ability to notice the emotional echo of a soul that passed on, leaving a haunt in its wake. Even when you aren't [Searching](rules/actions/search.md) while in exploration mode, the GM rolls a secret check for you to notice haunts that usually require you to be [Searching](rules/actions/search.md).
+Your cunning knowledge grants you the ability to notice the emotional echo of a soul that passed on, leaving a haunt in its wake. Even when you aren't [Searching](archive/srd/pf2e/rules/actions/search.md) while in exploration mode, the GM rolls a secret check for you to notice haunts that usually require you to be [Searching](archive/srd/pf2e/rules/actions/search.md).
 
 You can disable haunts that require master proficiency in a skill as long as you're at least trained in the skill. If you have master proficiency in the skill, you can disable haunts that require a proficiency rank of legendary instead.
 

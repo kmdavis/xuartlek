@@ -20,8 +20,8 @@ aliases: ["Zohls", "Verity"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [heavy crossbow](compendium/equipment/items/heavy-crossbow.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [cities](compendium/setting/domains.md#Cities), [knowledge](compendium/setting/domains.md#Knowledge), [truth](compendium/setting/domains.md#Truth)
-- **Cleric Spells**: 1st: [share lore](compendium/spells/share-lore-logm.md); 3rd: [hypercognition](compendium/spells/hypercognition.md); 7th: [retrocognition](compendium/spells/retrocognition.md)
+- **Favored Weapon**: [heavy crossbow](archive/srd/pf2e/compendium/equipment/items/heavy-crossbow.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [share lore](share-lore-logm.md); 3rd: [hypercognition](archive/srd/pf2e/compendium/spells/hypercognition.md); 7th: [retrocognition](archive/srd/pf2e/compendium/spells/retrocognition.md)

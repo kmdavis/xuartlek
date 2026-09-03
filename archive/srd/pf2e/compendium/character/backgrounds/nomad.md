@@ -15,4 +15,4 @@ Traveling far and wide, you picked up basic tactics for surviving on the road an
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and a [Lore](compendium/skills.md#Lore) skill related to one terrain you traveled in (such as [Desert Lore](compendium/skills.md#Lore) or [Swamp Lore](compendium/skills.md#Lore)). You gain the [Assurance](compendium/feats/assurance.md) skill feat with [Survival](compendium/skills.md#Survival).
+You're trained in the [Survival](skills.md#Survival) skill and a [Lore](skills.md#Lore) skill related to one terrain you traveled in (such as [Desert Lore](skills.md#Lore) or [Swamp Lore](skills.md#Lore)). You gain the [Assurance](archive/srd/pf2e/compendium/feats/assurance.md) skill feat with [Survival](skills.md#Survival).

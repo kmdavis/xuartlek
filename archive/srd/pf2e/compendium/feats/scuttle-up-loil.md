@@ -7,11 +7,11 @@ tags:
 aliases: ["Scuttle Up"]
 ---
 # Scuttle Up  *Feat 1*  
-[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
+[kashrishi](kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: athamasi or xyloshi
 
-Your environment requires you to climb cave walls or tree trunks with great regularity. You gain a [Climb](rules/actions/climb.md) speed of 10 feet.
+Your environment requires you to climb cave walls or tree trunks with great regularity. You gain a [Climb](archive/srd/pf2e/rules/actions/climb.md) speed of 10 feet.
 
 *Source: Lost Omens: Impossible Lands p. 43*  
 %% #compendium/src/pf2e/loil #trait/kashrishi %%

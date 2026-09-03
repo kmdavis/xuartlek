@@ -10,13 +10,13 @@ tags:
 aliases: ["Glaive Of The Artist"]
 ---
 # Glaive Of The Artist *Item 14*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Access** follower of [Shelyn](compendium/setting/deities/shelyn.md)
+- **Access** follower of [Shelyn](shelyn.md)
 - **Price** 4000 gp
 - **Bulk** 2; **Usage** held in 2 hands
 
-This +2 holy greater striking glaive has a long, multi-tailed rainbow-colored banner affixed to the butt of the pole in the style of Shelyn's religious symbol. While wielding the glaive, you gain a +2 item bonus on [Crafting](compendium/skills.md#Crafting) and [Performance](compendium/skills.md#Performance) checks.
+This +2 holy greater striking glaive has a long, multi-tailed rainbow-colored banner affixed to the butt of the pole in the style of Shelyn's religious symbol. While wielding the glaive, you gain a +2 item bonus on [Crafting](skills.md#Crafting) and [Performance](skills.md#Performance) checks.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

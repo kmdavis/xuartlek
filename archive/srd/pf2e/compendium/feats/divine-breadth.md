@@ -7,9 +7,9 @@ tags:
 aliases: ["Divine Breadth"]
 ---
 # Divine Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Cleric Spellcasting](compendium/feats/basic-cleric-spellcasting.md)
+- **Prerequisites**: [Basic Cleric Spellcasting](archive/srd/pf2e/compendium/feats/basic-cleric-spellcasting.md)
 
 You can cast more divine spells each day. Increase the spell slots you gain from cleric archetype feats by 1 for each spell level other than your two highest Cleric spell slots.
 

@@ -7,14 +7,14 @@ tags:
 aliases: ["Cooperative Nature"]
 ---
 # Cooperative Nature  *Feat 1*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 
-The short human life span lends perspective and has taught you from a young age to set aside differences and work with others to achieve greatness. You gain a +4 circumstance bonus on checks to [Aid](rules/actions/aid.md).
+The short human life span lends perspective and has taught you from a young age to set aside differences and work with others to achieve greatness. You gain a +4 circumstance bonus on checks to [Aid](archive/srd/pf2e/rules/actions/aid.md).
 
 ## Cooperative Nature leads to...
 
-[Cooperative Soul](compendium/feats/cooperative-soul.md)
+[Cooperative Soul](archive/srd/pf2e/compendium/feats/cooperative-soul.md)
 
 ## Summary
 

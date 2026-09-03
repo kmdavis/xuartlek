@@ -7,9 +7,9 @@ tags:
 aliases: ["Greater Interpose"]
 ---
 # Greater Interpose  *Feat 14*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
-- **Prerequisites**: [Sacrifice Armor](compendium/feats/sacrifice-armor-apg.md)
+- **Prerequisites**: [Sacrifice Armor](sacrifice-armor-apg.md)
 
 Your divine grace empowers you to avoid hits when you otherwise could not. You can use Sacrifice Armor to reduce any type of damage from an attack or effect requiring a Reflex save.
 

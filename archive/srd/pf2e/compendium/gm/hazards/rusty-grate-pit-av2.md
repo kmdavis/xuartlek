@@ -8,14 +8,14 @@ tags:
 aliases: ["Rusty Grate Pit"]
 ---
 # Rusty Grate Pit *Hazard 6*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 0  
 
 The rusty grate covers a pit that's 10 feet in diameter and 40 feet deep.
 
-- **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) to harmlessly trigger the trap by nudging the gate or the dangling winch, or DC 24 [Thievery](compendium/skills.md#Thievery) to stabilize the grate so it doesn't collapse.  
+- **Disable** DC 18 [Thievery](skills.md#Thievery) to harmlessly trigger the trap by nudging the gate or the dangling winch, or DC 24 [Thievery](skills.md#Thievery) to stabilize the grate so it doesn't collapse.  
 
 - **AC** 21, **Fort** +17, **Ref** +11
 - **Hardness** 14, **HP** 56 (BT 28)

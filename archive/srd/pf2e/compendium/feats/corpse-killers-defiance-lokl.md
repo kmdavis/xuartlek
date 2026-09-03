@@ -8,8 +8,8 @@ tags:
 - trait/uncommon
 aliases: ["Corpse-Killer's Defiance"]
 ---
-# Corpse-Killer's Defiance  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Corpse-Killer's Defiance  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [swashbuckler](archive/srd/pf2e/rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Knights of Lastwall have access to this feat.
 - **Trigger** You destroy an undead foe.

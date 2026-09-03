@@ -11,7 +11,7 @@ tags:
 aliases: ["Light Writer"]
 ---
 # Light Writer *Item 6*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [evocation](evocation.md "Evocation School Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 200 gp
 - **Bulk** 2

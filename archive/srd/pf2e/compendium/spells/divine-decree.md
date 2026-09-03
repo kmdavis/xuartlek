@@ -9,10 +9,10 @@ tags:
 aliases: ["Divine Decree"]
 ---
 # Divine Decree *Spell 7*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  
+[evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 40 foot
 - **Area**: 40-foot emanation
 - **Saving Throw**: Fortitude
@@ -27,8 +27,8 @@ Those that neither match nor oppose it treat the result of their saving throw as
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and is [enfeebled](rules/conditions.md#Enfeebled) for 1 minute.
-> - **Critical Failure** The creature takes double damage and is [enfeebled](rules/conditions.md#Enfeebled) for 1 minute. On your home plane, a creature that critically fails is banished with the effect of a failed banishment save. A 10th-level creature or lower must attempt a Will save. On a failure, it's [paralyzed](rules/conditions.md#Paralyzed) for 1 minute; on a critical failure, it dies.
+> - **Failure** The creature takes full damage and is [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 minute.
+> - **Critical Failure** The creature takes double damage and is [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 minute. On your home plane, a creature that critically fails is banished with the effect of a failed banishment save. A 10th-level creature or lower must attempt a Will save. On a failure, it's [paralyzed](archive/srd/pf2e/rules/conditions.md#Paralyzed) for 1 minute; on a critical failure, it dies.
 
 **Heightened (+ 1)** The damage increases by `1d10`, and the level of creatures that must attempt a second save on a critical failure increases by 2.
 

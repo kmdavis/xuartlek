@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand Of Crackling Lightning"]
 ---
 # Wand Of Crackling Lightning *Item 8+*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -45,7 +45,7 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 
 - **Price**: 24000 gp
 
-[Crafting](compendium/skills.md#Crafting) Requirements Supply a casting of lightning bolt of the appropriate level.
+[Crafting](skills.md#Crafting) Requirements Supply a casting of lightning bolt of the appropriate level.
 
 ---
 *Source: Advanced Player's Guide p. 265*

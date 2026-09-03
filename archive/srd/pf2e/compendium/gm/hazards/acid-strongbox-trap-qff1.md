@@ -10,14 +10,14 @@ tags:
 aliases: ["Acid Strongbox Trap"]
 ---
 # Acid Strongbox Trap *Hazard 4*  
-[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[acid](archive/srd/pf2e/rules/traits/acid.md "Acid Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained  
 
-An [invisible](rules/conditions.md#Invisible) magic field around the strongbox releases a spray of acid when disturbed.
+An [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) magic field around the strongbox releases a spray of acid when disturbed.
 
-- **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (expert) to harmlessly bleed away the magical field or dispel magic (2nd level; counteract DC 20) to dispel it.  
+- **Disable** DC 22 [Thievery](skills.md#Thievery) (expert) to harmlessly bleed away the magical field or dispel magic (2nd level; counteract DC 20) to dispel it.  
 
 ```ad-embed-ability
 title: **Acidic Spray** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([acid](rules/traits/acid.md), [arcane](rules/traits/arcane.md), [evocation](rules/traits/evocation.md))

@@ -12,13 +12,13 @@ tags:
 aliases: ["Sunken Pistol"]
 ---
 # Sunken Pistol *Item 8*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [cn](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [cn](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
-A sunken pistol is imbued with the unfulfilled desires and insatiable greed of its previous wielder, a notorious pirate drowned at sea. Once a beautiful and artistically wrought weapon, a sunken pistol is coated in a fine layer of dried salt and encrusted with barnacles. Each shot fired from this dragon mouth pistol is now coated in a layer of salty ectoplasm and has the effects of a [ghost touch](compendium/equipment/items/ghost-touch.md) rune. You can shoot the sunken pistol underwater, even when using black powder ammunition.
+A sunken pistol is imbued with the unfulfilled desires and insatiable greed of its previous wielder, a notorious pirate drowned at sea. Once a beautiful and artistically wrought weapon, a sunken pistol is coated in a fine layer of dried salt and encrusted with barnacles. Each shot fired from this dragon mouth pistol is now coated in a layer of salty ectoplasm and has the effects of a [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md) rune. You can shoot the sunken pistol underwater, even when using black powder ammunition.
 
-A sunken pistol urges you to amass a horde of treasure even a dragon would be proud of. The methods used to acquire these riches matter not to the greedy pirate pistol, so long as you amass and hoard excessive wealth. Above all else, a sunken pistol desires the return of its own treasure, which might rest in the wreck of its sunken ship's hold or be [hidden](rules/conditions.md#Hidden) on a dangerous island.
+A sunken pistol urges you to amass a horde of treasure even a dragon would be proud of. The methods used to acquire these riches matter not to the greedy pirate pistol, so long as you amass and hoard excessive wealth. Above all else, a sunken pistol desires the return of its own treasure, which might rest in the wreck of its sunken ship's hold or be [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) on a dangerous island.
 
 In pursuit of treasure, a sunken pistol offers nautical and navigation advice to you, though it refuses such aid during less lucrative ventures. If you prove a profitable partner, the sunken pistol aids you in combat by Demoralizing your opponents (see the first Activation below). If you prove charitable or unwilling to retrieve its treasure, the sunken pistol turns its ire on you, Demoralizing you during combat until you relent. If you repeatedly refuse the sunken pistol, it would be wise to not accept water breathing from it, as it might attempt to drown you to allow a more suitable wielder to acquire it from your corpse. The sunken pistol can use the following activations.
 

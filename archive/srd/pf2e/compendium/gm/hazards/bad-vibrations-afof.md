@@ -10,14 +10,14 @@ tags:
 aliases: ["Bad Vibrations"]
 ---
 # Bad Vibrations *Hazard 3*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 20 expert  
 
 The three larger crystals on the table begin to vibrate and emit a swiftly growing peal of sound.
 
-- **Disable** DC 17 [Thievery](compendium/skills.md#Thievery) (trained) or [Occultism](compendium/skills.md#Occultism) (trained) to disrupt the magic enchanting one of the crystals, or DC 20 [Performance](compendium/skills.md#Performance) (trained) by a character who can cast [counter performance](compendium/spells/counter-performance.md) to use sound to redirect the noise back into the crystal, or [dispel magic](compendium/spells/dispel-magic.md) (2nd level, DC 18) to counteract a crystal.  
+- **Disable** DC 17 [Thievery](skills.md#Thievery) (trained) or [Occultism](skills.md#Occultism) (trained) to disrupt the magic enchanting one of the crystals, or DC 20 [Performance](skills.md#Performance) (trained) by a character who can cast [counter performance](archive/srd/pf2e/compendium/spells/counter-performance.md) to use sound to redirect the noise back into the crystal, or [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (2nd level, DC 18) to counteract a crystal.  
 
 - **AC** 19, **Fort** +12, **Ref** +6
 - **Hardness** 10, **HP** 16 each (BT 8)

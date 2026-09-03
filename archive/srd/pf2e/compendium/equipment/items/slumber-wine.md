@@ -12,15 +12,15 @@ tags:
 aliases: ["Slumber Wine"]
 ---
 # Slumber Wine *Item 12*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [sleep](rules/traits/sleep.md "Sleep Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [ingested](archive/srd/pf2e/rules/traits/ingested.md "Ingested Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [sleep](archive/srd/pf2e/rules/traits/sleep.md "Sleep Effect Trait")  
 
 - **Price** 325 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Slumber wine sees its greatest use in games of intrigue, where an absence can be more devastating than injury.
 
-Characters [unconscious](rules/conditions.md#Unconscious) from slumber wine can't wake up by any means while the poison lasts, don't need to eat or drink while [unconscious](rules/conditions.md#Unconscious) in this way, and appear to be recently dead unless an examiner succeeds at a DC 40 [Medicine](compendium/skills.md#Medicine) check.
+Characters [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious) from slumber wine can't wake up by any means while the poison lasts, don't need to eat or drink while [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious) in this way, and appear to be recently dead unless an examiner succeeds at a DC 40 [Medicine](skills.md#Medicine) check.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 32 Fortitude

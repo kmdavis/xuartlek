@@ -7,7 +7,7 @@ tags:
 aliases: ["Hard Tail"]
 ---
 # Hard Tail  *Feat 1*  
-[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
+[goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: tailed goblin heritage
 
@@ -15,7 +15,7 @@ Your tail is much stronger than most, and you can lash out with it with the stre
 
 ## Hard Tail leads to...
 
-[Tail Spin](compendium/feats/tail-spin-locg.md)
+[Tail Spin](tail-spin-locg.md)
 
 ## Summary
 

@@ -23,9 +23,9 @@ aliases: ["Urban Prosperity"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
-- **Divine Skill**: [Diplomacy](compendium/skills.md#Diplomacy) or [Society](compendium/skills.md#Society)
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [cities](compendium/setting/domains.md#Cities), [magic](compendium/setting/domains.md#Magic), [protection](compendium/setting/domains.md#Protection)
-- **Alternate Domains**: [healing](compendium/setting/domains.md#Healing), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [anticipate peril](compendium/spells/anticipate-peril-logm.md); 2nd: [knock](compendium/spells/knock.md); 4th: [resilient sphere](compendium/spells/resilient-sphere.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
+- **Divine Skill**: [Diplomacy](skills.md#Diplomacy) or [Society](skills.md#Society)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Alternate Domains**: [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [anticipate peril](anticipate-peril-logm.md); 2nd: [knock](archive/srd/pf2e/compendium/spells/knock.md); 4th: [resilient sphere](resilient-sphere.md)

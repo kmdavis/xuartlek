@@ -11,7 +11,7 @@ tags:
 aliases: ["Golden Goose"]
 ---
 # Golden Goose *Item 11*  
-[cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[cursed](cursed-gmg.md "Cursed Item Trait")  [evil](evil.md "Evil Alignment Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** L; **Usage** held in 2 hands
 

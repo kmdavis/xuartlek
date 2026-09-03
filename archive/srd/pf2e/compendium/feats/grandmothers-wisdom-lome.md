@@ -7,12 +7,12 @@ tags:
 aliases: ["Grandmother's Wisdom"]
 ---
 # Grandmother's Wisdom  *Feat 9*  
-[gnoll](rules/traits/gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
+[gnoll](gnoll-b1.md "Gnoll Ancestry & Heritage Trait")  
 
 
 You carry the bones of your ancestors with you, and you can ask them for counsel.
 
-You can cast [augury](compendium/spells/augury.md) twice per day as a 2nd-level occult innate spell.
+You can cast [augury](archive/srd/pf2e/compendium/spells/augury.md) twice per day as a 2nd-level occult innate spell.
 
 *Source: Lost Omens: The Mwangi Expanse p. 114*  
 %% #compendium/src/pf2e/lome #trait/gnoll %%

@@ -10,12 +10,12 @@ tags:
 aliases: ["Control Weather"]
 ---
 # Control Weather *Ritual 8*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Secondary Casters** 1
-- **Primary Checks** [Nature](compendium/skills.md#Nature) (master)
-- **Secondary Checks** [Survival](compendium/skills.md#Survival)
+- **Primary Checks** [Nature](skills.md#Nature) (master)
+- **Secondary Checks** [Survival](skills.md#Survival)
 - **Area**: 2-mile-radius circle centered on you
 
 You alter the weather, making it calm and normal for the season or choosing up to two effects based on the season:

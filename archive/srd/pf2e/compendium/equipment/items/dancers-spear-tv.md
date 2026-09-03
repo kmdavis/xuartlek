@@ -12,7 +12,7 @@ tags:
 aliases: ["Dancer's Spear"]
 ---
 # Dancer's Spear *Item 0*  
-[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [versatile <B>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
+[backswing](archive/srd/pf2e/rules/traits/backswing.md "Backswing Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [versatile <B>](rules/traits/versatile-b.md "Versatile Weapon Trait")  
 
 - **Price** 3 gp
 - **Bulk** 1

@@ -7,11 +7,11 @@ tags:
 aliases: ["Bloodletting Fangs"]
 ---
 # Bloodletting Fangs  *Feat 9*  
-[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
+[dhampir](dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 - **Prerequisites**: fangs unarmed attack
 
-You emulate your vampiric parent's techniques for drawing blood from a victim. Your fangs [Strikes](rules/actions/strike.md) deal an additional `1d4` [persistent bleed damage](rules/conditions.md#Persistent%20Damage) on a critical hit.
+You emulate your vampiric parent's techniques for drawing blood from a victim. Your fangs [Strikes](archive/srd/pf2e/rules/actions/strike.md) deal an additional `1d4` [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) on a critical hit.
 
 *Source: Advanced Player's Guide p. 33*  
 %% #compendium/src/pf2e/apg #trait/dhampir %%

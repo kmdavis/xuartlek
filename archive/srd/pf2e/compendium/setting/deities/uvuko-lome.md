@@ -25,14 +25,14 @@ aliases: ["Uvuko", "The Diamond Ring"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [maul](compendium/equipment/items/maul.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [creation](compendium/setting/domains.md#Creation), [healing](compendium/setting/domains.md#Healing), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
-- **Alternate Domains**: [air](compendium/setting/domains.md#Air), [cold](compendium/setting/domains.md#Cold)
-- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 3rd: [haste](compendium/spells/haste.md); 6th: [dragon form](compendium/spells/dragon-form.md)
+- **Favored Weapon**: [maul](archive/srd/pf2e/compendium/equipment/items/maul.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [wyrmkin](archive/srd/pf2e/compendium/setting/domains.md#Wyrmkin)
+- **Alternate Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [cold](archive/srd/pf2e/compendium/setting/domains.md#Cold)
+- **Cleric Spells**: 1st: [fleet step](archive/srd/pf2e/compendium/spells/fleet-step.md); 3rd: [haste](archive/srd/pf2e/compendium/spells/haste.md); 6th: [dragon form](archive/srd/pf2e/compendium/spells/dragon-form.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Uvuko gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Uvuko gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Uvuko

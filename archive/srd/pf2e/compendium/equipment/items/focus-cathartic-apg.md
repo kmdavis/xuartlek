@@ -11,14 +11,14 @@ tags:
 aliases: ["Focus Cathartic"]
 ---
 # Focus Cathartic *Item 2+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Focus briefly calms your neurons, helping ease [mental](rules/traits/mental.md "Mental Effect Trait") effects.
+Focus briefly calms your neurons, helping ease [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") effects.
 
-When you drink this elixir, the elixir attempts a counteract check with the listed counteract modifier to remove the [confused](rules/conditions.md#Confused) or [stupefied](rules/conditions.md#Stupefied) condition from a single source, using the source of that condition to determine the counteract level and DC.
+When you drink this elixir, the elixir attempts a counteract check with the listed counteract modifier to remove the [confused](archive/srd/pf2e/rules/conditions.md#Confused) or [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) condition from a single source, using the source of that condition to determine the counteract level and DC.
 
 ---
 

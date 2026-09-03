@@ -9,9 +9,9 @@ tags:
 aliases: ["Drow Shootist Dedication"]
 ---
 # Drow Shootist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: trained in the [hand crossbow](compendium/equipment/items/hand-crossbow.md)
+- **Prerequisites**: trained in the [hand crossbow](archive/srd/pf2e/compendium/equipment/items/hand-crossbow.md)
 
 Every chance you get, you practice with the hand crossbow to increase your draw speed and accuracy. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the hand crossbow. If you're at least an expert in a hand crossbow you're using, you gain access to its critical specialization effect. You also gain the Shootist's Draw action.
 
@@ -27,7 +27,7 @@ title: **Shootist's Draw** [>](rules/core-rulebook/chapter-9-playing-the-game.md
 
 ## Drow Shootist Dedication leads to...
 
-[Lethargy Poisoner](compendium/feats/lethargy-poisoner-av3.md), [Reloading Trick](compendium/feats/reloading-trick-av3.md), [Repeating Hand Crossbow Training](compendium/feats/repeating-hand-crossbow-training-av3.md)
+[Lethargy Poisoner](lethargy-poisoner-av3.md), [Reloading Trick](reloading-trick-av3.md), [Repeating Hand Crossbow Training](repeating-hand-crossbow-training-av3.md)
 
 ## Summary
 

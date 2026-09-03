@@ -9,21 +9,21 @@ tags:
 aliases: ["Chromatic Armor"]
 ---
 # Chromatic Armor *Spell 4*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [light](rules/traits/light.md "Light Effect Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") or [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") or [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: touch
 - **Targets**: 1 willing creature
 - **Duration**: 1 minute
 
 You wrap the target in armor made of sheets of colored light.
 
-The armor sheds bright light for 20 feet (and dim light for the next 20 feet). Whenever a creature attacks the target and is adjacent to it, the attacker must attempt a Will save at the end of its action. On a failure, it becomes [dazzled](rules/conditions.md#Dazzled) until the end of its next turn. Regardless of the result of the save, the attacker is temporarily immune until the end of its next turn. The dazzling effect has the [light](rules/traits/light.md "Light Effect Trait") and [visual](rules/traits/visual.md "Visual Effect Trait") traits.
+The armor sheds bright light for 20 feet (and dim light for the next 20 feet). Whenever a creature attacks the target and is adjacent to it, the attacker must attempt a Will save at the end of its action. On a failure, it becomes [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) until the end of its next turn. Regardless of the result of the save, the attacker is temporarily immune until the end of its next turn. The dazzling effect has the [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait") and [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait") traits.
 
 When you cast the spell, roll `1d8` twice on the table below to see the armor's colors (rerolling any duplicates)
 
-Each color grants resistance 5 to the indicated damage type. If you spend three actions to [Cast the Spell](rules/actions/cast-a-spell.md), roll three times instead.
+Each color grants resistance 5 to the indicated damage type. If you spend three actions to [Cast the Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md), roll three times instead.
 
 - **1. Red.** fire
 - **2. Orange.** acid

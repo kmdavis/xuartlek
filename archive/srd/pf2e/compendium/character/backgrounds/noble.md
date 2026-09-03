@@ -15,4 +15,4 @@ To the common folk, the life of a noble seems one of idyllic luxury, but growing
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and your choice of the [Genealogy Lore](compendium/skills.md#Lore) or [Heraldry Lore](compendium/skills.md#Lore) skill. You gain the [Courtly Graces](compendium/feats/courtly-graces.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and your choice of the [Genealogy Lore](skills.md#Lore) or [Heraldry Lore](skills.md#Lore) skill. You gain the [Courtly Graces](archive/srd/pf2e/compendium/feats/courtly-graces.md) skill feat.

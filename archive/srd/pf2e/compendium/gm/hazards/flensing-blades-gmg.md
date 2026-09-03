@@ -8,14 +8,14 @@ tags:
 aliases: ["Flensing Blades"]
 ---
 # Flensing Blades *Hazard 12*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +25 expert  
 
 A whirling tornado of spectrally propelled glass and steel slices whatever it touches to ribbons.
 
-- **Disable** DC 35 [Thievery](compendium/skills.md#Thievery) (master) to precisely adjust the blades so that they destroy each other, or DC 38 [Religion](compendium/skills.md#Religion) (expert) to weaken the haunt; four successes are required to disable it  
+- **Disable** DC 35 [Thievery](skills.md#Thievery) (master) to precisely adjust the blades so that they destroy each other, or DC 38 [Religion](skills.md#Religion) (expert) to weaken the haunt; four successes are required to disable it  
 
 - **AC** 33, **Fort** +27, **Ref** +25, **Will** +22
 - **Hardness** 20, **HP** 100 (BT 50)

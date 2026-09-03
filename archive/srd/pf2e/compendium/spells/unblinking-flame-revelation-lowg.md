@@ -9,10 +9,10 @@ tags:
 aliases: ["Unblinking Flame Revelation"]
 ---
 # Unblinking Flame Revelation *Focus 3*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
-- **Requirements**: Your previous action was a successful unarmed [Strike](rules/actions/strike.md).
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Requirements**: Your previous action was a successful unarmed [Strike](archive/srd/pf2e/rules/actions/strike.md).
 - **Targets**: the creature you hit
 - **Duration**: 2 rounds
 

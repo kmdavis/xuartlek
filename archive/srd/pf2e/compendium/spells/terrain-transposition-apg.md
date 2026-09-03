@@ -11,15 +11,15 @@ tags:
 aliases: ["Terrain Transposition"]
 ---
 # Terrain Transposition *Focus 5*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 90 foot
 
 You mystically transpose your current location with another.
 
 While in a wilderness environment, you transport yourself and items you're holding to a clear space you can see within range.
 
-If you have [Favored Terrain](compendium/feats/favored-terrain.md) and both your starting and ending position are in your favored terrain, the range increases to 180 feet. If you have an animal companion and it is adjacent to you, you can transport it along with you to an adjacent open space, but if this spell would bring any other creature with you, even in an extradimensional container, the spell is lost.
+If you have [Favored Terrain](archive/srd/pf2e/compendium/feats/favored-terrain.md) and both your starting and ending position are in your favored terrain, the range increases to 180 feet. If you have an animal companion and it is adjacent to you, you can transport it along with you to an adjacent open space, but if this spell would bring any other creature with you, even in an extradimensional container, the spell is lost.
 
 *Source: Advanced Player's Guide p. 235*

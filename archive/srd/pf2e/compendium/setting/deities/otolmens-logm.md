@@ -20,8 +20,8 @@ aliases: ["Otolmens", "The Universal"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Intelligence
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Crafting
-- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [fate](compendium/setting/domains.md#Fate), [knowledge](compendium/setting/domains.md#Knowledge), [perfection](compendium/setting/domains.md#Perfection)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 4th: gravity well; 7th: [reverse gravity](compendium/spells/reverse-gravity.md)
+- **Favored Weapon**: [mace](archive/srd/pf2e/compendium/equipment/items/mace.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 4th: gravity well; 7th: [reverse gravity](reverse-gravity.md)

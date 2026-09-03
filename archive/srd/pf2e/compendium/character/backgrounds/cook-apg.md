@@ -15,4 +15,4 @@ You grew up in the kitchens of a tavern or other dining establishment and excell
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and the [Cooking Lore](compendium/skills.md#Lore) skill. You gain the [Seasoned](compendium/feats/seasoned-apg.md) skill feat.
+You're trained in the [Survival](skills.md#Survival) skill and the [Cooking Lore](skills.md#Lore) skill. You gain the [Seasoned](seasoned-apg.md) skill feat.

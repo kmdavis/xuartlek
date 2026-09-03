@@ -20,8 +20,8 @@ aliases: ["Kofusachi", "The Laughing God"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Performance
-- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
-- **Domains**: [luck](compendium/setting/domains.md#Luck), [passion](compendium/setting/domains.md#Passion), [travel](compendium/setting/domains.md#Travel), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 2nd: [hideous laughter](compendium/spells/hideous-laughter.md); 8th: [uncontrollable dance](compendium/spells/uncontrollable-dance.md)
+- **Favored Weapon**: [staff](archive/srd/pf2e/compendium/equipment/items/staff.md)
+- **Domains**: [luck](archive/srd/pf2e/compendium/setting/domains.md#Luck), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [wealth](archive/srd/pf2e/compendium/setting/domains.md#Wealth)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 2nd: [hideous laughter](hideous-laughter.md); 8th: [uncontrollable dance](archive/srd/pf2e/compendium/spells/uncontrollable-dance.md)

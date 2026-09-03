@@ -9,14 +9,14 @@ tags:
 aliases: ["Summoning Rune (Barbazu Devil)"]
 ---
 # Summoning Rune (Barbazu Devil) *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +11 trained  
 
 A summoning circle inlaid into the room's floor detects living creatures and summons a violent devil.
 
-- **Disable** DC 18 [Perception](compendium/skills.md#Perception) to notice the trap's magic and avoid stepping on the floor outside the circle, followed by DC 21 [Thievery](compendium/skills.md#Thievery) (trained) to break the circle or dispel magic (3rd level; counteract DC 23) to counteract the rune.  
+- **Disable** DC 18 [Perception](skills.md#Perception) to notice the trap's magic and avoid stepping on the floor outside the circle, followed by DC 21 [Thievery](skills.md#Thievery) (trained) to break the circle or dispel magic (3rd level; counteract DC 23) to counteract the rune.  
 
 ```ad-embed-ability
 title: **Summon Devil** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [conjuration](rules/traits/conjuration.md), summon)

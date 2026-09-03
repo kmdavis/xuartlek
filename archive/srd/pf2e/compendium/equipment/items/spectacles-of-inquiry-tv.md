@@ -10,13 +10,13 @@ tags:
 aliases: ["Spectacles of Inquiry"]
 ---
 # Spectacles of Inquiry *Item 12*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1750 gp
 - **Craft Requirements** You are an investigator.
 - **Bulk** —; **Usage** worn eyepiece
 
-Anything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to [Perception](compendium/skills.md#Perception) checks.
+Anything viewed through these thin spectacles looks crisp and clear, and the earpieces accentuate sounds around you. You gain a +2 item bonus to [Perception](skills.md#Perception) checks.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

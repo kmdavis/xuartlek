@@ -10,12 +10,12 @@ tags:
 aliases: ["Tactician's Helm"]
 ---
 # Tactician's Helm *Item 5*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 160 gp
 - **Bulk** L; **Usage** worn headwear
 
-Repurposing and enchanting a helmet worn by a battlefield commander can create a tactician's helm, imparting knowledge of battlefield tactics that feeds off your minor victories. The helm grants you a +1 item bonus to [Warfare Lore](compendium/skills.md#Lore) checks. Also, a jewel adorns the brow of the helmet. This jewel becomes charged each time you hit a creature with an [Attack of Opportunity](rules/actions/attack-of-opportunity.md). A tactician's helm can hold up to 2 charges, and its charges reset to 0 when you invest it.
+Repurposing and enchanting a helmet worn by a battlefield commander can create a tactician's helm, imparting knowledge of battlefield tactics that feeds off your minor victories. The helm grants you a +1 item bonus to [Warfare Lore](skills.md#Lore) checks. Also, a jewel adorns the brow of the helmet. This jewel becomes charged each time you hit a creature with an [Attack of Opportunity](archive/srd/pf2e/rules/actions/attack-of-opportunity.md). A tactician's helm can hold up to 2 charges, and its charges reset to 0 when you invest it.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

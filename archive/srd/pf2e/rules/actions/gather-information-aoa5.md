@@ -9,7 +9,7 @@ tags:
 aliases: ["Gather Information"]
 ---
 # Gather Information
-[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
+[downtime](archive/srd/pf2e/rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](archive/srd/pf2e/rules/traits/secret.md "Secret General Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 24*  
 
 

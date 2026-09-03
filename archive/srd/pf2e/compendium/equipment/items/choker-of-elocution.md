@@ -10,13 +10,13 @@ tags:
 aliases: ["Choker of Elocution"]
 ---
 # Choker of Elocution *Item 6+*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** L; **Usage** worn collar
 
-This platinum choker bears characters from a language's alphabet, and it gives knowledge of that language and the associated culture's customs. You gain a +1 item bonus to [Society](compendium/skills.md#Society) checks and the ability to understand, speak, and write the chosen language.
+This platinum choker bears characters from a language's alphabet, and it gives knowledge of that language and the associated culture's customs. You gain a +1 item bonus to [Society](skills.md#Society) checks and the ability to understand, speak, and write the chosen language.
 
-Your excellent elocution reduces the DC of the flat check to perform an auditory action while [deafened](rules/conditions.md#Deafened) from 5 to 3.
+Your excellent elocution reduces the DC of the flat check to perform an auditory action while [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) from 5 to 3.
 
 ---
 

@@ -11,12 +11,12 @@ tags:
 aliases: ["Doctrine of Blissful Eternity"]
 ---
 # Doctrine of Blissful Eternity *Item 7*  
-[grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 340 gp
 - **Bulk** L
 
-The bones of small animals decorate the cover of this tome, creating a pattern that resembles a gross perversion of [Pharasma](compendium/setting/deities/pharasma.md)'s holy symbol.
+The bones of small animals decorate the cover of this tome, creating a pattern that resembles a gross perversion of [Pharasma](pharasma.md)'s holy symbol.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") command

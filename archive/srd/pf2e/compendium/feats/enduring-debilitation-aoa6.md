@@ -7,10 +7,10 @@ tags:
 - trait/uncommon
 aliases: ["Enduring Debilitation"]
 ---
-# Enduring Debilitation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 20*  
-[rogue](rules/traits/rogue.md "Rogue Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Enduring Debilitation  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 20*  
+[rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Debilitating Strike](rules/actions/debilitating-strike.md)
+- **Prerequisites**: [Debilitating Strike](archive/srd/pf2e/rules/actions/debilitating-strike.md)
 - **Frequency**: once per minute
 - **Trigger** You apply a debilitation to a creature.
 - **Activity** Free Action

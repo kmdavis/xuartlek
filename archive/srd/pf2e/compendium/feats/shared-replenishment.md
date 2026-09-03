@@ -7,9 +7,9 @@ tags:
 aliases: ["Shared Replenishment"]
 ---
 # Shared Replenishment  *Feat 12*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
-- **Prerequisites**: [Replenishment of War](compendium/feats/replenishment-of-war.md)
+- **Prerequisites**: [Replenishment of War](archive/srd/pf2e/compendium/feats/replenishment-of-war.md)
 
 When your deity blesses your warlike acts, you can extend that favor to your allies. You can grant the temporary Hit Points from Replenishment of War to an ally within 10 feet instead of gaining them yourself. You can grant these temporary Hit Points to a different ally each time, meaning you might be able to grant them to multiple creatures in a single turn.
 

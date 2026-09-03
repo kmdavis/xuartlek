@@ -7,11 +7,11 @@ tags:
 aliases: ["Link Wellspring"]
 ---
 # Link Wellspring  *Feat 18*  
-[summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
-- **Prerequisites**: [Link Focus](compendium/feats/link-focus-som.md)
+- **Prerequisites**: [Link Focus](link-focus-som.md)
 
-Your bond replenishes your focus. If you have spent at least 3 Focus Points since the last time you [Refocused](rules/actions/refocus.md), you recover 3 Focus Points when you [Refocus](rules/actions/refocus.md) instead of 1.
+Your bond replenishes your focus. If you have spent at least 3 Focus Points since the last time you [Refocused](archive/srd/pf2e/rules/actions/refocus.md), you recover 3 Focus Points when you [Refocus](archive/srd/pf2e/rules/actions/refocus.md) instead of 1.
 
 *Source: Secrets of Magic p. 73*  
 %% #compendium/src/pf2e/som #trait/summoner %%

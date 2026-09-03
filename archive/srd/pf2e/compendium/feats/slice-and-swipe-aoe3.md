@@ -9,14 +9,14 @@ tags:
 - trait/uncommon
 aliases: ["Slice And Swipe"]
 ---
-# Slice And Swipe  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[flourish](rules/traits/flourish.md "Flourish Combat Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Slice And Swipe  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
+[flourish](archive/srd/pf2e/rules/traits/flourish.md "Flourish Combat Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access**: Help either the Washboard Dogs or the Diobel
 - **Requirements**: You're wielding a melee weapon that deals slashing damage and you have a free hand.
 - **Activity** Single Action
 
-You attempt a melee [Strike](rules/actions/strike.md) with the required weapon. If you hit and deal damage and the result of your attack roll exceeds the target's [Perception](compendium/skills.md#Perception) DC, you [Steal](rules/actions/steal.md) a small object from the target (as if you had succeeded at that task using the [Thievery](compendium/skills.md#Thievery) skill). Depending on the object, the target might realize that it has been stolen, and onlookers might realize you have stolen the object if the attack roll doesn't exceed their [Perception](compendium/skills.md#Perception) DCs.
+You attempt a melee [Strike](archive/srd/pf2e/rules/actions/strike.md) with the required weapon. If you hit and deal damage and the result of your attack roll exceeds the target's [Perception](skills.md#Perception) DC, you [Steal](archive/srd/pf2e/rules/actions/steal.md) a small object from the target (as if you had succeeded at that task using the [Thievery](skills.md#Thievery) skill). Depending on the object, the target might realize that it has been stolen, and onlookers might realize you have stolen the object if the attack roll doesn't exceed their [Perception](skills.md#Perception) DCs.
 
 *Source: Agents of Edgewatch #3: All or Nothing p. 75*  
 %% #compendium/src/pf2e/aoe3 #trait/flourish #trait/manipulate #trait/rogue #trait/uncommon %%

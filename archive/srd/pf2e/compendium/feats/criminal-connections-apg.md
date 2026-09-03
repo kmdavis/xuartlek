@@ -9,11 +9,11 @@ tags:
 aliases: ["Criminal Connections"]
 ---
 # Criminal Connections  *Feat 2*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: expert in [Society](compendium/skills.md#Society), [Streetwise](compendium/feats/streetwise.md)
+- **Prerequisites**: expert in [Society](skills.md#Society), [Streetwise](archive/srd/pf2e/compendium/feats/streetwise.md)
 
-You have dealings with a variety of unsavory characters, which you can leverage to trade favors or meet powerful people. When you're in an area where you have connections (typically a settlement where you've spent downtime building connections or possibly another area in the same nation), you can attempt a [Society](compendium/skills.md#Society) check to arrange a meeting with an important criminal, such as a thieves' guild leader, or ask for a favor in exchange for a later favor of your contact's choice.
+You have dealings with a variety of unsavory characters, which you can leverage to trade favors or meet powerful people. When you're in an area where you have connections (typically a settlement where you've spent downtime building connections or possibly another area in the same nation), you can attempt a [Society](skills.md#Society) check to arrange a meeting with an important criminal, such as a thieves' guild leader, or ask for a favor in exchange for a later favor of your contact's choice.
 
 The GM decides the DC based on the difficulty of the favor and the figure's prominence.
 

@@ -13,11 +13,11 @@ tags:
 aliases: ["Sky Serpent Bolt"]
 ---
 # Sky Serpent Bolt *Item 5*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 25 gp
-- **Ammunition** [bolt](compendium/equipment/items/bolt.md)
-- **Activate** [Interact](rules/actions/interact.md)
+- **Ammunition** [bolt](bolt.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This azure bolt is carved in the shape of an undulating snake, its bared fangs framing the point of its head. When an activated sky serpent bolt successfully hits a target, the bolt takes the form of a snake made of pure lightning, dealing `2d12` electricity damage to all creatures in a 30-foot line (DC 19 basic Reflex save) starting from the target.
 

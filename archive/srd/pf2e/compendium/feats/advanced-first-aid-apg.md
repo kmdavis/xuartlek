@@ -10,11 +10,11 @@ tags:
 aliases: ["Advanced First Aid"]
 ---
 # Advanced First Aid  *Feat 7*  
-[general](rules/traits/general.md "General Feat Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: master in [Medicine](compendium/skills.md#Medicine)
+- **Prerequisites**: master in [Medicine](skills.md#Medicine)
 
-You use your medical training to ameliorate sickness or assuage fears. When you use [Medicine](compendium/skills.md#Medicine) to [Administer First Aid](rules/actions/administer-first-aid.md), instead of Stabilizing a character or Stopping Bleeding, you can reduce an ally's [frightened](rules/conditions.md#Frightened) or [sickened](rules/conditions.md#Sickened) condition by 2, or remove either of those conditions entirely on a critical success. You can remove only one condition at a time. The DC for the [Medicine](compendium/skills.md#Medicine) check is usually the DC of the effect that caused the condition.
+You use your medical training to ameliorate sickness or assuage fears. When you use [Medicine](skills.md#Medicine) to [Administer First Aid](archive/srd/pf2e/rules/actions/administer-first-aid.md), instead of Stabilizing a character or Stopping Bleeding, you can reduce an ally's [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) or [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) condition by 2, or remove either of those conditions entirely on a critical success. You can remove only one condition at a time. The DC for the [Medicine](skills.md#Medicine) check is usually the DC of the effect that caused the condition.
 
 *Source: Advanced Player's Guide p. 202*  
 %% #compendium/src/pf2e/apg #trait/general #trait/healing #trait/manipulate #trait/skill %%

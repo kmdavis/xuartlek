@@ -7,15 +7,15 @@ tags:
 aliases: ["Persistent Creation"]
 ---
 # Persistent Creation  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Halcyon Speaker Dedication](compendium/feats/halcyon-speaker-dedication-locg.md)
+- **Prerequisites**: [Halcyon Speaker Dedication](halcyon-speaker-dedication-locg.md)
 
-You can cast [creation](compendium/spells/creation.md) as an innate spell at will, choosing whether it is arcane or primal each time. The created object lasts until you spend 1 hour not within its immediate vicinity or until it is destroyed. Such objects are called persistent creations. If you cast [creation](compendium/spells/creation.md) again, any persistent creation you previously created with the spell immediately disintegrates.
+You can cast [creation](archive/srd/pf2e/compendium/spells/creation.md) as an innate spell at will, choosing whether it is arcane or primal each time. The created object lasts until you spend 1 hour not within its immediate vicinity or until it is destroyed. Such objects are called persistent creations. If you cast [creation](archive/srd/pf2e/compendium/spells/creation.md) again, any persistent creation you previously created with the spell immediately disintegrates.
 
 ## Persistent Creation leads to...
 
-[Charged Creation](compendium/feats/charged-creation-locg.md)
+[Charged Creation](charged-creation-locg.md)
 
 ## Summary
 

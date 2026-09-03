@@ -7,11 +7,11 @@ tags:
 aliases: ["Attunement To Stone"]
 ---
 # Attunement To Stone  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
+- **Prerequisites**: [Ka Stone Ritual](ka-stone-ritual-lowg.md)
 
-You become attuned to the stone around you. When in contact with a stone surface, you gain [tremorsense](rules/abilities/tremorsense.md) (imprecise) 5 feet along that surface, and you can activate your ka stone to cast [meld into stone](compendium/spells/meld-into-stone.md).
+You become attuned to the stone around you. When in contact with a stone surface, you gain [tremorsense](archive/srd/pf2e/rules/abilities/tremorsense.md) (imprecise) 5 feet along that surface, and you can activate your ka stone to cast [meld into stone](meld-into-stone.md).
 
 *Source: Lost Omens: World Guide p. 59*  
 %% #compendium/src/pf2e/lowg #trait/archetype %%

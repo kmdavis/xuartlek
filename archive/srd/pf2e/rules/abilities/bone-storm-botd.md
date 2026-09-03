@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
 aliases: ["Bone Storm"]
 ---
-# Bone Storm [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+# Bone Storm [>>>](chapter-9-playing-the-game.md#Actions "Three-Action")
 
 - **Activate**: Three-Action
 - **Frequency**: once per day

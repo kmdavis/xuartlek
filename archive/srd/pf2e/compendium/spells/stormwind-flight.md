@@ -11,9 +11,9 @@ tags:
 aliases: ["Stormwind Flight"]
 ---
 # Stormwind Flight *Focus 4*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [druid](rules/traits/druid.md "Druid Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 1 minute
 

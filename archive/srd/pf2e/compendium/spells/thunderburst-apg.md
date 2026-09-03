@@ -14,10 +14,10 @@ tags:
 aliases: ["Thunderburst"]
 ---
 # Thunderburst *Focus 3*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [cursebound](rules/traits/cursebound-apg.md "Cursebound Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [oracle](rules/traits/oracle-apg.md "Oracle Class Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [cursebound](cursebound-apg.md "Cursebound Spell Trait")  [evocation](evocation.md "Evocation School Trait")  [oracle](archive/srd/pf2e/rules/traits/oracle-apg.md "Oracle Class Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Mystery** Oracle
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 100 foot
 - **Area**: 20-foot burst
 - **Saving Throw**: Fortitude
@@ -29,8 +29,8 @@ Each creature in the area must attempt a Fortitude save.
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and is [deafened](rules/conditions.md#Deafened) for 1 minute.
-> - **Critical Failure** The creature takes double damage and is [deafened](rules/conditions.md#Deafened) for 1 hour.
+> - **Failure** The creature takes full damage and is [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 minute.
+> - **Critical Failure** The creature takes double damage and is [deafened](archive/srd/pf2e/rules/conditions.md#Deafened) for 1 hour.
 
 **Heightened (+ 2)** Increase each type of damage by `2d6` and the area by 5 feet.
 

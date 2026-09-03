@@ -7,9 +7,9 @@ tags:
 aliases: ["Hilt Hammer"]
 ---
 # Hilt Hammer  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md)
+- **Prerequisites**: [Knight Reclaimant Dedication](knight-reclaimant-dedication-locg.md)
 
 You know how to turn any weapon into a bone-crushing implement of skeletal destruction. Melee weapons you wield gain the versatile B trait. You can use the weapon only to deal bludgeoning damage when making melee attacks. At the GM's discretion, specific weapons might not be able to gain the versatile B trait.
 

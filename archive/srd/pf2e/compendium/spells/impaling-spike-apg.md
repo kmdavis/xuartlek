@@ -8,10 +8,10 @@ tags:
 aliases: ["Impaling Spike"]
 ---
 # Impaling Spike *Spell 5*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Reflex
@@ -22,8 +22,8 @@ You conjure a spike that thrusts up from the earth beneath a target creature, po
 > [!success-degree] 
 > - **Critical Success** The target dodges the spike and is unaffected.
 > - **Success** The target is struck by the spike and takes half damage.
-> - **Failure** The target is impaled through a leg or another non-vital body part. The creature takes full damage and, if it's standing on solid ground, becomes [immobilized](rules/conditions.md#Immobilized). It can attempt to [Escape](rules/actions/escape.md) (the DC is your spell DC). While it remains impaled, it takes damage from any weakness to cold iron it has at the end of each of its turns.
-> - **Critical Failure** As failure, but the creature is impaled through a vital organ or its center of mass, taking double damage, and it is [flat-footed](rules/conditions.md#Flat-footed) as long as it's impaled.
+> - **Failure** The target is impaled through a leg or another non-vital body part. The creature takes full damage and, if it's standing on solid ground, becomes [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized). It can attempt to [Escape](archive/srd/pf2e/rules/actions/escape.md) (the DC is your spell DC). While it remains impaled, it takes damage from any weakness to cold iron it has at the end of each of its turns.
+> - **Critical Failure** As failure, but the creature is impaled through a vital organ or its center of mass, taking double damage, and it is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) as long as it's impaled.
 
 **Heightened (+ 1)** The damage increases by `2d6`.
 

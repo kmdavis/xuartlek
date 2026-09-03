@@ -14,4 +14,4 @@ You died and miraculously returned with knowledge of the realms beyond death and
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You gain the [Diehard](compendium/feats/diehard.md) feat and the [Additional Lore](compendium/feats/additional-lore.md) feat for [Boneyard Lore](compendium/skills.md#Lore).
+You gain the [Diehard](archive/srd/pf2e/compendium/feats/diehard.md) feat and the [Additional Lore](archive/srd/pf2e/compendium/feats/additional-lore.md) feat for [Boneyard Lore](skills.md#Lore).

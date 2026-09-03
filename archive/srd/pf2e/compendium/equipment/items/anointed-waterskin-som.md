@@ -11,7 +11,7 @@ tags:
 aliases: ["Anointed Waterskin"]
 ---
 # Anointed Waterskin *Item 9*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [good](good.md "Good Alignment Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Price** 600 gp
 - **Bulk** L; **Usage** held in 1 hand

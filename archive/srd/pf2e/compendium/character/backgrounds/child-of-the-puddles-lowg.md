@@ -15,4 +15,4 @@ You grew up in the soggy, squalid quarter of Absalom known as the Puddles. You'r
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [Acrobatics](compendium/skills.md#Acrobatics) skill and the [Absalom Lore](compendium/skills.md#Lore) skill. You gain the [Steady Balance](compendium/feats/steady-balance.md) skill feat.
+You're trained in the [Acrobatics](skills.md#Acrobatics) skill and the [Absalom Lore](skills.md#Lore) skill. You gain the [Steady Balance](archive/srd/pf2e/compendium/feats/steady-balance.md) skill feat.

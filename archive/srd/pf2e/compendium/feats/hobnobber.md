@@ -8,15 +8,15 @@ tags:
 aliases: ["Hobnobber"]
 ---
 # Hobnobber  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy)
+- **Prerequisites**: trained in [Diplomacy](skills.md#Diplomacy)
 
-You are skilled at learning information through conversation. The [Gather Information](rules/actions/gather-information.md) exploration activity takes you half as long as normal (typically reducing the time to 1 hour). If you're a master in [Diplomacy](compendium/skills.md#Diplomacy) and you [Gather Information](rules/actions/gather-information.md) at the normal speed, when you attempt to do so and roll a critical failure, you get a failure instead. There is still no guarantee that a rumor you learn with [Gather Information](rules/actions/gather-information.md) is accurate.
+You are skilled at learning information through conversation. The [Gather Information](archive/srd/pf2e/rules/actions/gather-information.md) exploration activity takes you half as long as normal (typically reducing the time to 1 hour). If you're a master in [Diplomacy](skills.md#Diplomacy) and you [Gather Information](archive/srd/pf2e/rules/actions/gather-information.md) at the normal speed, when you attempt to do so and roll a critical failure, you get a failure instead. There is still no guarantee that a rumor you learn with [Gather Information](archive/srd/pf2e/rules/actions/gather-information.md) is accurate.
 
 ## Hobnobber leads to...
 
-[Entourage](compendium/feats/entourage-locg.md)
+[Entourage](entourage-locg.md)
 
 ## Summary
 

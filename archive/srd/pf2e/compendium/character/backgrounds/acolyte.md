@@ -15,4 +15,4 @@ You spent your early days in a religious monastery or cloister. You may have tra
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Religion](compendium/skills.md#Religion) skill and the [Scribing Lore](compendium/skills.md#Lore) skill. You gain the [Student of the Canon](compendium/feats/student-of-the-canon.md) skill feat.
+You're trained in the [Religion](skills.md#Religion) skill and the [Scribing Lore](skills.md#Lore) skill. You gain the [Student of the Canon](archive/srd/pf2e/compendium/feats/student-of-the-canon.md) skill feat.

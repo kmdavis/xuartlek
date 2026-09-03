@@ -11,7 +11,7 @@ tags:
 aliases: ["Staff of Power"]
 ---
 # Staff of Power *Item 16*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Price** 10000 gp
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
@@ -19,9 +19,9 @@ aliases: ["Staff of Power"]
 
 This staff of magically hardened wood is topped with a silver sculpture depicting magical runic symbols. When used as a weapon, a staff of power is a +2 greater striking staff.
 
-Voluntarily destroying a staff of power unleashes an incredible blast of energy. When wielding the staff, you can [Interact](rules/actions/interact.md) to break it. This releases a 30-foot-burst magical explosion centered on the staff. This deals `2d8` force damage per charge remaining in the staff (DC 40 basic Reflex save)
+Voluntarily destroying a staff of power unleashes an incredible blast of energy. When wielding the staff, you can [Interact](archive/srd/pf2e/rules/actions/interact.md) to break it. This releases a 30-foot-burst magical explosion centered on the staff. This deals `2d8` force damage per charge remaining in the staff (DC 40 basic Reflex save)
 
-You automatically critically fail your save. A creature reduced to 0 Hit Points by this damage dies instantly; this is a [death](rules/traits/death.md "Death Effect Trait") effect.
+You automatically critically fail your save. A creature reduced to 0 Hit Points by this damage dies instantly; this is a [death](archive/srd/pf2e/rules/traits/death.md "Death Effect Trait") effect.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

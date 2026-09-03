@@ -20,8 +20,8 @@ aliases: ["Zura", "The Vampire Queen"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [rapier](compendium/equipment/items/rapier.md)
-- **Domains**: [delirium](compendium/setting/domains.md#Delirium), [indulgence](compendium/setting/domains.md#Indulgence), [nightmares](compendium/setting/domains.md#Nightmares), [undeath](compendium/setting/domains.md#Undeath)
-- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 4th: [gaseous form](compendium/spells/gaseous-form.md); 6th: [dominate](compendium/spells/dominate.md)
+- **Favored Weapon**: [rapier](archive/srd/pf2e/compendium/equipment/items/rapier.md)
+- **Domains**: [delirium](archive/srd/pf2e/compendium/setting/domains.md#Delirium), [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares), [undeath](archive/srd/pf2e/compendium/setting/domains.md#Undeath)
+- **Cleric Spells**: 1st: [charm](archive/srd/pf2e/compendium/spells/charm.md); 4th: [gaseous form](gaseous-form.md); 6th: [dominate](archive/srd/pf2e/compendium/spells/dominate.md)

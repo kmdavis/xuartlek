@@ -8,9 +8,9 @@ tags:
 aliases: ["Craft Facsimile"]
 ---
 # Craft Facsimile  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting), [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
+- **Prerequisites**: expert in [Crafting](skills.md#Crafting), [Pathfinder Agent Dedication](pathfinder-agent-dedication-lowg.md)
 
 You're renowned for your ability to recover important items, whether they're from a long-abandoned temple or a thieves' den, and sometimes that requires creating a stand-in. You can spend 1 minute to assemble a facsimile of an object of no more than 1 Bulk that you can see from available materials. The facsimile has the same shape and Bulk as the replaced object and can pass as the object if not examined.
 

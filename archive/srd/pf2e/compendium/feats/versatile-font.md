@@ -7,15 +7,15 @@ tags:
 aliases: ["Versatile Font"]
 ---
 # Versatile Font  *Feat 2*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 - **Prerequisites**: harmful font or healing font, deity that allows clerics to have both fonts
 
-As you explore your deity's aspects, you move beyond restrictions on healing or harming. You can prepare either [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md) in the spell slots gained from the harmful font or healing font.
+As you explore your deity's aspects, you move beyond restrictions on healing or harming. You can prepare either [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md) in the spell slots gained from the harmful font or healing font.
 
 ## Versatile Font leads to...
 
-[Ebb And Flow](compendium/feats/ebb-and-flow-apg.md)
+[Ebb And Flow](ebb-and-flow-apg.md)
 
 ## Summary
 

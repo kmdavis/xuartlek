@@ -10,7 +10,7 @@ tags:
 aliases: ["Warcaller's Chime"]
 ---
 # Warcaller's Chime *Item 4+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -33,7 +33,7 @@ You ring the chime, unleashing its magic. The specifics of each chime, as well a
 
 This chime features carvings of destructive runes.
 
-When activated, it creates the effects of a 3rd-level [sound burst](compendium/spells/sound-burst.md) centered on you (DC 20 Fortitude save). Instead of the spell's normal range, it has a 5-foot emanation. In addition, creatures that critically fail their save are knocked [prone](rules/conditions.md#Prone) by the chime's effect. You can use this chime once per day.
+When activated, it creates the effects of a 3rd-level [sound burst](sound-burst.md) centered on you (DC 20 Fortitude save). Instead of the spell's normal range, it has a 5-foot emanation. In addition, creatures that critically fail their save are knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone) by the chime's effect. You can use this chime once per day.
 
 #### warcaller's chime of destruction *Item 4*
 
@@ -47,7 +47,7 @@ A series of shattered mountains are carved into this chime. When activated, you 
 
 This chime's carvings depict skulls and other grim icons.
 
-When activated, it creates an aura of fear in a 5-foot emanation for 1 round. Creatures in the aura must attempt a DC 27 Will save. On a failure, they become [frightened](rules/conditions.md#Frightened) ([frightened](rules/conditions.md#Frightened) on a critical failure). Affected creatures can't reduce their [frightened](rules/conditions.md#Frightened) condition below [frightened](rules/conditions.md#Frightened) while the chime is ringing. You can Sustain the Activation to sustain the aura, up to a total of 5 rounds. This chime can be used only once per day, whether or not you Sustain the aura.
+When activated, it creates an aura of fear in a 5-foot emanation for 1 round. Creatures in the aura must attempt a DC 27 Will save. On a failure, they become [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) ([frightened](archive/srd/pf2e/rules/conditions.md#Frightened) on a critical failure). Affected creatures can't reduce their [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) condition below [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) while the chime is ringing. You can Sustain the Activation to sustain the aura, up to a total of 5 rounds. This chime can be used only once per day, whether or not you Sustain the aura.
 
 #### warcaller's chime of refuge *Item 8*
 

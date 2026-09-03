@@ -7,7 +7,7 @@ tags:
 aliases: ["Divine Wall"]
 ---
 # Divine Wall  *Feat 12*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Requirements**: You are wielding a shield.
 

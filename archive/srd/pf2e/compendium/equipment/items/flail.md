@@ -10,7 +10,7 @@ tags:
 aliases: ["Flail"]
 ---
 # Flail *Item 0*  
-[disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [sweep](rules/traits/sweep.md "Sweep Weapon Trait")  [trip](rules/traits/trip.md "Trip Weapon Trait")  
+[disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [sweep](archive/srd/pf2e/rules/traits/sweep.md "Sweep Weapon Trait")  [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait")  
 
 - **Price** 8 sp
 - **Bulk** 1

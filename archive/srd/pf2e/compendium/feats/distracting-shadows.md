@@ -7,14 +7,14 @@ tags:
 aliases: ["Distracting Shadows"]
 ---
 # Distracting Shadows  *Feat 1*  
-[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
+[halfling](archive/srd/pf2e/rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 
-You have learned to remain [hidden](rules/conditions.md#Hidden) by using larger folk as a distraction to avoid drawing attention to yourself. You can use creatures that are at least one size larger than you (usually Medium or larger) as cover for the [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md) actions, though you still can't use such creatures as cover for other uses, such as the [Take Cover](rules/actions/take-cover.md) action.
+You have learned to remain [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) by using larger folk as a distraction to avoid drawing attention to yourself. You can use creatures that are at least one size larger than you (usually Medium or larger) as cover for the [Hide](archive/srd/pf2e/rules/actions/hide.md) and [Sneak](archive/srd/pf2e/rules/actions/sneak.md) actions, though you still can't use such creatures as cover for other uses, such as the [Take Cover](archive/srd/pf2e/rules/actions/take-cover.md) action.
 
 ## Distracting Shadows leads to...
 
-[Ceaseless Shadows](compendium/feats/ceaseless-shadows.md)
+[Ceaseless Shadows](archive/srd/pf2e/compendium/feats/ceaseless-shadows.md)
 
 ## Summary
 

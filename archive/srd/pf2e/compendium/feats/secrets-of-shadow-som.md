@@ -7,9 +7,9 @@ tags:
 aliases: ["Secrets Of Shadow"]
 ---
 # Secrets Of Shadow  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Shadow Reservoir](compendium/feats/shadow-reservoir-som.md)
+- **Prerequisites**: [Shadow Reservoir](shadow-reservoir-som.md)
 
 Your shadow's voice grows ever clearer; it whispers secrets of true power to you and shields your flesh from harm.
 

@@ -11,14 +11,14 @@ tags:
 aliases: ["Poisonous Atmosphere"]
 ---
 # Poisonous Atmosphere *Hazard 1*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
 - **Complexity** Complex
 - **Stealth** +5 expert to identify the source of sudden nausea  
 
 Aucturn's poisonous, magical atmosphere has strange effects on the planet's creatures.
 
-- **Disable** DC 20 [Survival](compendium/skills.md#Survival) (trained) or [Occultism](compendium/skills.md#Occultism) (trained) to breathe pockets of safe air trapped in bags and clothing  
+- **Disable** DC 20 [Survival](skills.md#Survival) (trained) or [Occultism](skills.md#Occultism) (trained) to breathe pockets of safe air trapped in bags and clothing  
 
 ```ad-embed-ability
 title: **Poisonous Atmosphere** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([illusion](rules/traits/illusion.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))

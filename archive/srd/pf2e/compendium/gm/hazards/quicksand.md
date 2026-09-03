@@ -8,14 +8,14 @@ tags:
 aliases: ["Quicksand"]
 ---
 # Quicksand *Hazard 3*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +12 trained (or –10 and no minimum proficiency if the surface is disturbed)  
 
 A 15-foot-wide patch of water and sand attempts to submerge creatures that step onto it.
 
-- **Disable** [Survival](compendium/skills.md#Survival) DC 18 (trained) to disturb the surface.  
+- **Disable** [Survival](skills.md#Survival) DC 18 (trained) to disturb the surface.  
 
 ```ad-embed-ability
 title: **Submerge** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
@@ -33,6 +33,6 @@ A creature in the quicksand can attempt a DC 20 [Athletics](compendium/skills.md
 ```
 ^routine
 
-**Reset** The hazard still submerges anyone who walks in, but the surface doesn't become [hidden](rules/conditions.md#Hidden) again until it settles over the course of 24 hours.  
+**Reset** The hazard still submerges anyone who walks in, but the surface doesn't become [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) again until it settles over the course of 24 hours.  
 
 *Source: Core Rulebook p. 526*

@@ -9,14 +9,14 @@ tags:
 aliases: ["Etward's Nightmare"]
 ---
 # Etward's Nightmare *Hazard 9*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 master  
 
 The incense burners begin to smoke, filling the air with strangely nostalgic scents.
 
-- **Disable** DC 26 [Occultism](compendium/skills.md#Occultism) (expert) to enter a state akin to lucid dreaming so as to unweave the nightmare from within, or DC 30 [Intimidation](compendium/skills.md#Intimidation) (master) to stand resolute against the nightmares and turn the fear back upon itself  
+- **Disable** DC 26 [Occultism](skills.md#Occultism) (expert) to enter a state akin to lucid dreaming so as to unweave the nightmare from within, or DC 30 [Intimidation](skills.md#Intimidation) (master) to stand resolute against the nightmares and turn the fear back upon itself  
 
 ```ad-embed-ability
 title: **Light Incense Burners** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([enchantment](rules/traits/enchantment.md), [incapacitation](rules/traits/incapacitation.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md), [sleep](rules/traits/sleep.md))

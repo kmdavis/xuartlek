@@ -10,11 +10,11 @@ tags:
 aliases: ["Consecrated Aura"]
 ---
 # Consecrated Aura  *Feat 14*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [aura](rules/traits/aura.md "Aura Combat Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [aura](archive/srd/pf2e/rules/traits/aura.md "Aura Combat Trait")  [positive](positive.md "Positive Energy & Element Trait")  
 
-- **Prerequisites**: [Hallowed Necromancer Dedication](compendium/feats/hallowed-necromancer-dedication-botd.md)
+- **Prerequisites**: [Hallowed Necromancer Dedication](hallowed-necromancer-dedication-botd.md)
 
-Your body radiates positive energy, making your very presence disorienting to undead and encouraging them to move away from you. The effect plays upon the instincts flowing through their bodies from negative energy and can thus affect even mindless creatures. You gain an aura of positive energy in a 20-foot emanation. Each undead creature that ends its turn in your aura must succeed at a Will save against your spell DC or become [frightened](rules/conditions.md#Frightened) ([frightened](rules/conditions.md#Frightened) on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute.
+Your body radiates positive energy, making your very presence disorienting to undead and encouraging them to move away from you. The effect plays upon the instincts flowing through their bodies from negative energy and can thus affect even mindless creatures. You gain an aura of positive energy in a 20-foot emanation. Each undead creature that ends its turn in your aura must succeed at a Will save against your spell DC or become [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) ([frightened](archive/srd/pf2e/rules/conditions.md#Frightened) on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute.
 
 **Special.** Your aura gains the trait of the magical tradition for the spells you used to qualify for Hallowed Necromancer Dedication.
 

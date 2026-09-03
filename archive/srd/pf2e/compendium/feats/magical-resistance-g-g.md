@@ -7,7 +7,7 @@ tags:
 aliases: ["Magical Resistance"]
 ---
 # Magical Resistance  *Feat 5*  
-[automaton](rules/traits/automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
+[automaton](automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
 
 
 Your animating magic provides some defense. Choose one of the following energy damage types: cold, electricity, or sonic.

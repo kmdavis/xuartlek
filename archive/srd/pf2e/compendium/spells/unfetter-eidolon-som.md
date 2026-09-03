@@ -10,9 +10,9 @@ tags:
 aliases: ["Unfetter Eidolon"]
 ---
 # Unfetter Eidolon *Focus 1*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 100 foot
 - **Targets**: your eidolon
 - **Duration**: 1 minute

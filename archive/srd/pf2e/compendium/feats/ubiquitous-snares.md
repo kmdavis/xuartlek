@@ -7,15 +7,15 @@ tags:
 aliases: ["Ubiquitous Snares"]
 ---
 # Ubiquitous Snares  *Feat 16*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Prerequisites**: [Snare Specialist](compendium/feats/snare-specialist.md)
+- **Prerequisites**: [Snare Specialist](snare-specialist.md)
 
 You can prepare a seemingly impossible number of snares in advance, and you're ready to spring them on unsuspecting foes. Double the number of prepared snares from Snare Specialist.
 
 ## Ubiquitous Snares leads to...
 
-[Impossible Snares](compendium/feats/impossible-snares-apg.md)
+[Impossible Snares](impossible-snares-apg.md)
 
 ## Summary
 

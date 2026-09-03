@@ -9,13 +9,13 @@ tags:
 aliases: ["Cathartic Mage Dedication"]
 ---
 # Cathartic Mage Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Cha 14 or ability to cast spells from spell slots
 
 You've learned to harness a particular emotion and mix it into your magic. Choose an emotion from the Emotional States section to be your catharsis emotion.
 
-If you don't already cast spells from spell slots, you learn to cast spontaneous spells and gain the [Cast a Spell](rules/actions/cast-a-spell.md) activity.
+If you don't already cast spells from spell slots, you learn to cast spontaneous spells and gain the [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) activity.
 
 You gain a spell repertoire with one cantrip of your choice, from a spell list of your choice. You choose this cantrip from the common spells on your chosen spell list or from other spells to which you have access on that list. You're trained in spell attack rolls and spell DCs for that tradition. Your key spellcasting ability for these spells is Charisma.
 
@@ -48,7 +48,7 @@ You spend 10 minutes using techniques you've developed to calm your emotions and
 
 ## Cathartic Mage Dedication leads to...
 
-[Basic Cathartic Spellcasting](compendium/feats/basic-cathartic-spellcasting-som.md), [Expert Cathartic Spellcasting](compendium/feats/expert-cathartic-spellcasting-som.md), [Master Cathartic Spellcasting](compendium/feats/master-cathartic-spellcasting-som.md), [Cathartic Focus Spell](compendium/feats/cathartic-focus-spell-som.md), [Infectious Emotions](compendium/feats/infectious-emotions-som.md), [Work Yourself Up](compendium/feats/work-yourself-up-som.md)
+[Basic Cathartic Spellcasting](basic-cathartic-spellcasting-som.md), [Expert Cathartic Spellcasting](expert-cathartic-spellcasting-som.md), [Master Cathartic Spellcasting](master-cathartic-spellcasting-som.md), [Cathartic Focus Spell](cathartic-focus-spell-som.md), [Infectious Emotions](infectious-emotions-som.md), [Work Yourself Up](work-yourself-up-som.md)
 
 ## Summary
 

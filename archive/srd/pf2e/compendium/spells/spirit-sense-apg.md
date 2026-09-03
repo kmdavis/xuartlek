@@ -11,14 +11,14 @@ tags:
 aliases: ["Spirit Sense"]
 ---
 # Spirit Sense *Spell 2*   
-[detection](rules/traits/detection.md "Detection Effect Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[detection](archive/srd/pf2e/rules/traits/detection.md "Detection Effect Trait")  [divination](divination.md "Divination School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 30-foot emanation
 - **Duration**: 10 minutes
 
-You open your mind to the metaphysical, enabling you to sense nearby spirits. Even if you aren't [Searching](rules/actions/search.md), you get a check to find haunts and spirits in the area. You gain a +1 status bonus to the following checks regarding haunts or spirits: [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md), attempts to [Recall Knowledge](rules/actions/recall-knowledge.md), skill checks to determine the reason for their existence, and skill checks to disable a haunt. You also gain a +1 status bonus to AC and saving throws against haunts and spirits.
+You open your mind to the metaphysical, enabling you to sense nearby spirits. Even if you aren't [Searching](archive/srd/pf2e/rules/actions/search.md), you get a check to find haunts and spirits in the area. You gain a +1 status bonus to the following checks regarding haunts or spirits: [Perception](skills.md#Perception) checks to [Seek](archive/srd/pf2e/rules/actions/seek.md), attempts to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md), skill checks to determine the reason for their existence, and skill checks to disable a haunt. You also gain a +1 status bonus to AC and saving throws against haunts and spirits.
 
 **Heightened (6th)** The spell's duration lasts until the next time you make your daily preparations.
 

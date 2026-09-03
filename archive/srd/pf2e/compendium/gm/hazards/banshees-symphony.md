@@ -9,14 +9,14 @@ tags:
 aliases: ["Banshee's Symphony"]
 ---
 # Banshee's Symphony *Hazard 18*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +30 legendary  
 
-A magically contagious [wail of the banshee](compendium/spells/wail-of-the-banshee.md) spell is trapped in the larynx of an [invisible](rules/conditions.md#Invisible), mummified elf.
+A magically contagious [wail of the banshee](wail-of-the-banshee.md) spell is trapped in the larynx of an [invisible](archive/srd/pf2e/rules/conditions.md#Invisible), mummified elf.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 42 (master) to pierce the [invisible](rules/conditions.md#Invisible) larynx so precisely that the magic releases in a trickle before the trap activates, [Thievery](compendium/skills.md#Thievery) DC 44 (legendary) three times to deconstruct the larynx while the trap is active in such a way that it tears the spell apart, or spell DC 38 (9th level) to counteract the wail of the banshee before the trap activates.  
+- **Disable** [Thievery](skills.md#Thievery) DC 42 (master) to pierce the [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) larynx so precisely that the magic releases in a trickle before the trap activates, [Thievery](skills.md#Thievery) DC 44 (legendary) three times to deconstruct the larynx while the trap is active in such a way that it tears the spell apart, or spell DC 38 (9th level) to counteract the wail of the banshee before the trap activates.  
 
 ```ad-embed-ability
 title: **Scream** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

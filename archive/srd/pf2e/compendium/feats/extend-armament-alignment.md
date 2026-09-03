@@ -7,9 +7,9 @@ tags:
 aliases: ["Extend Armament Alignment"]
 ---
 # Extend Armament Alignment  *Feat 14*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
-- **Prerequisites**: [Align Armament](compendium/feats/align-armament.md)
+- **Prerequisites**: [Align Armament](align-armament.md)
 
 The alignment you impose on a weapon lasts much longer. The duration of Align Armament increases to 1 minute.
 

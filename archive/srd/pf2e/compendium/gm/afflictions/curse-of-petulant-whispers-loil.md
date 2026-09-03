@@ -13,7 +13,7 @@ aliases: ["Curse of Petulant Whispers"]
 ---
 # Curse of Petulant Whispers
 *Curse 2*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 A cruel, ghostly voice follows you, whispering your transgressions to anyone you encounter.
 

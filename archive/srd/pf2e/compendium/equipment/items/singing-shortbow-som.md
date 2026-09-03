@@ -9,11 +9,11 @@ tags:
 aliases: ["Singing Shortbow"]
 ---
 # Singing Shortbow *Item 14+*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
-Rather than a normal bowstring, this +2 greater striking [thundering](compendium/equipment/items/thundering.md) [composite shortbow](compendium/equipment/items/composite-shortbow.md) has a string made of animal gut, much like a musical instrument's. When you shoot the bow, it releases a soft musical note—sonorous if your aim is true and discordant if your shot goes off-target.
+Rather than a normal bowstring, this +2 greater striking [thundering](archive/srd/pf2e/compendium/equipment/items/thundering.md) [composite shortbow](archive/srd/pf2e/compendium/equipment/items/composite-shortbow.md) has a string made of animal gut, much like a musical instrument's. When you shoot the bow, it releases a soft musical note—sonorous if your aim is true and discordant if your shot goes off-target.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command ([abjuration](rules/traits/abjuration.md), [auditory](rules/traits/auditory.md))
@@ -41,7 +41,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Price**: 22500 gp
 
-The weapon is a +3 greater striking greater thundering [composite shortbow](compendium/equipment/items/composite-shortbow.md), the healing and damage are `5d10`, and the DC is 38.
+The weapon is a +3 greater striking greater thundering [composite shortbow](archive/srd/pf2e/compendium/equipment/items/composite-shortbow.md), the healing and damage are `5d10`, and the DC is 38.
 
 ---
 *Source: Secrets of Magic p. 189*

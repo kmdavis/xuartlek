@@ -15,6 +15,6 @@ Uncharted realms have always intrigued you, and you've explored and mapped large
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and the [Cartography Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Survival](skills.md#Survival) skill and the [Cartography Lore](skills.md#Lore) skill.
 
-You gain the [Terrain Expertise](compendium/feats/terrain-expertise.md) skill feat with one terrain you've explored (such as forest or underground).
+You gain the [Terrain Expertise](archive/srd/pf2e/compendium/feats/terrain-expertise.md) skill feat with one terrain you've explored (such as forest or underground).

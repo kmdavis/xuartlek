@@ -10,7 +10,7 @@ tags:
 aliases: ["Wolfjaw Armor"]
 ---
 # Wolfjaw Armor *Item 7*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+[evocation](evocation.md "Evocation School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Price** 355 gp
 - **Craft Requirements** The initial raw materials must include the hides of at least three winter wolves (Bestiary 322).

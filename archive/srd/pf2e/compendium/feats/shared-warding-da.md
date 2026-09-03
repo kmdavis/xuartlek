@@ -7,7 +7,7 @@ tags:
 aliases: ["Shared Warding"]
 ---
 # Shared Warding  *Feat 12*  
-[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
+[thaumaturge](archive/srd/pf2e/rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Esoteric Warden
 

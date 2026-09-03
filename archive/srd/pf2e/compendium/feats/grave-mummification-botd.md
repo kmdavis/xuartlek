@@ -7,9 +7,9 @@ tags:
 aliases: ["Grave Mummification"]
 ---
 # Grave Mummification  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Mummy Dedication](compendium/feats/mummy-dedication-botd.md)
+- **Prerequisites**: [Mummy Dedication](mummy-dedication-botd.md)
 
 Exposure to the elements, magic, alchemy, and other phenomena intensified the changes from your mummification. You gain the advanced undead benefits (page 44). In addition, you gain resistance equal to half your level against any damage you'd take from your bound terrain, including its dangerous temperatures, weather, hazardous terrain, and environmental hazards.
 

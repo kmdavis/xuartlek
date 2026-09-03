@@ -6,16 +6,16 @@ tags:
 - trait/lizardfolk
 aliases: ["Lightning Tongue"]
 ---
-# Lightning Tongue  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[lizardfolk](rules/traits/lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
+# Lightning Tongue  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[lizardfolk](lizardfolk-b1.md "Lizardfolk Ancestry & Heritage Trait")  
 
 - **Activity** Single Action
 
-Your tongue darts out faster than the eye can see to retrieve loose objects. You [Interact](rules/actions/interact.md) to pick up a single unattended object of light Bulk or less within 10 feet of you. If you don't have enough hands free to hold the object, it falls to the ground in your space.
+Your tongue darts out faster than the eye can see to retrieve loose objects. You [Interact](archive/srd/pf2e/rules/actions/interact.md) to pick up a single unattended object of light Bulk or less within 10 feet of you. If you don't have enough hands free to hold the object, it falls to the ground in your space.
 
 ## Lightning Tongue leads to...
 
-[Tongue Disarm](compendium/feats/tongue-disarm-loag.md)
+[Tongue Disarm](tongue-disarm-loag.md)
 
 ## Summary
 

@@ -10,7 +10,7 @@ aliases: ["Ursine Avenger Hood"]
 Over many generations, the magic of the hood was proven true, and more than that, the magic continued to grow and evolve with ever-more-ursine attributes. As the belief and power of each new wearer soaked into the hood, the artifact's potential has continued to grow. Now, those who bond with the generational artifact will discover that the _Ursine Avenger Hood_ continues to grow in power alongside them.
 
 > [!pf2-note]
-> This archetype is a part of the [Ursine Avenger Hood](compendium/equipment/items/ursine-avenger-hood-tv.md) artifact.
+> This archetype is a part of the [Ursine Avenger Hood](archive/srd/pf2e/compendium/equipment/items/ursine-avenger-hood-tv.md) artifact.
 
 *Source: Treasure Vault p. 183*
 

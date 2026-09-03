@@ -10,12 +10,12 @@ tags:
 aliases: ["Shattered Plan"]
 ---
 # Shattered Plan *Item 11*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1400 gp
 - **Bulk** 1; **Usage** held in 1 hand
 
-Though the body of this +2 striking [impactful](compendium/equipment/items/impactful-som.md) [boomerang](compendium/equipment/items/boomerang-tv.md) is riddled with glowing hairline cracks, the weapon feels reassuringly solid in the hand. If you damage a target that has been struck by a rime foil within the last round, you bruise its chilled body, and the target takes a –5-foot penalty to all its Speeds, or a –10-foot penalty on a critical hit.
+Though the body of this +2 striking [impactful](impactful-som.md) [boomerang](boomerang-tv.md) is riddled with glowing hairline cracks, the weapon feels reassuringly solid in the hand. If you damage a target that has been struck by a rime foil within the last round, you bruise its chilled body, and the target takes a –5-foot penalty to all its Speeds, or a –10-foot penalty on a critical hit.
 
 Special The shattered plan pairs with the rime foil.
 

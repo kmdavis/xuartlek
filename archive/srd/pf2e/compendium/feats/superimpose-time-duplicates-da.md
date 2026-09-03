@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Superimpose Time Duplicates"]
 ---
-# Superimpose Time Duplicates  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Superimpose Time Duplicates  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Chronoskimmer Dedication](compendium/feats/chronoskimmer-dedication-da.md)
+- **Prerequisites**: [Chronoskimmer Dedication](chronoskimmer-dedication-da.md)
 - **Frequency**: once per hour
 - **Activity** Single Action
 

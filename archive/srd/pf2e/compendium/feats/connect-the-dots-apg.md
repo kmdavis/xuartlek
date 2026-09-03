@@ -10,11 +10,11 @@ tags:
 aliases: ["Connect The Dots"]
 ---
 # Connect The Dots  *Feat 6*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [secret](rules/traits/secret.md "Secret General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [investigator](archive/srd/pf2e/rules/traits/investigator-apg.md "Investigator Class Trait")  [secret](archive/srd/pf2e/rules/traits/secret.md "Secret General Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Requirements**: You must be pursuing at least two leads.
 
-Ephemeral connections between people, places, and concepts are invisible to most, but seeing them is your stock and trade. You spend 10 minutes considering two different leads you're pursuing. You then attempt a check to investigate how connected the two are. Unless the GM determines otherwise, this is a [Crafting](compendium/skills.md#Crafting) check if they're both items or a [Society](compendium/skills.md#Society) check for other combinations of leads. If any subjects are creatures, this check usually uses the highest DC among their [Deception](compendium/skills.md#Deception) and Will DCs.
+Ephemeral connections between people, places, and concepts are invisible to most, but seeing them is your stock and trade. You spend 10 minutes considering two different leads you're pursuing. You then attempt a check to investigate how connected the two are. Unless the GM determines otherwise, this is a [Crafting](skills.md#Crafting) check if they're both items or a [Society](skills.md#Society) check for other combinations of leads. If any subjects are creatures, this check usually uses the highest DC among their [Deception](skills.md#Deception) and Will DCs.
 
 If no subjects are creatures, but at least one is an item, the DC is usually a hard DC for the level of the highest-level item. If neither case applies, the DC is usually a hard expert or hard master DC (22 or 32). Once you try to Connect the Dots between two particular leads, you can never try to Connect the Dots between those same leads again unless the GM allows it after you've learned a substantial amount of new information.
 

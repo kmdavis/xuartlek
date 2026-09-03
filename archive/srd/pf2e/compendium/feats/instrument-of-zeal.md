@@ -7,11 +7,11 @@ tags:
 aliases: ["Instrument Of Zeal"]
 ---
 # Instrument Of Zeal  *Feat 16*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: divine ally (blade), tenets of good
 
-Divine energy fills your weapon. Whenever you critically hit a foe with [Blade of Justice](compendium/feats/blade-of-justice.md) or a [Retributive Strike](rules/actions/retributive-strike.md), your attack adds an extra damage die, and the target is [slowed](rules/conditions.md#Slowed) on its next turn.
+Divine energy fills your weapon. Whenever you critically hit a foe with [Blade of Justice](blade-of-justice.md) or a [Retributive Strike](archive/srd/pf2e/rules/actions/retributive-strike.md), your attack adds an extra damage die, and the target is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) on its next turn.
 
 *Source: Core Rulebook p. 115*  
 %% #compendium/src/pf2e/crb #trait/champion %%

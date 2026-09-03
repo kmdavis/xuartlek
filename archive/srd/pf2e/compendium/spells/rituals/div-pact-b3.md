@@ -9,10 +9,10 @@ tags:
 aliases: ["Div Pact"]
 ---
 # Div Pact *Ritual 1*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
-- **Primary Checks** [Religion](compendium/skills.md#Religion) (expert; you must be a div)
+- **Primary Checks** [Religion](skills.md#Religion) (expert; you must be a div)
 - 
 
 You call upon the powers of Abaddon to grant you the assistance of a div. You call upon a div whose level can be no more than double _div pact's_ spell level, two divs whose levels are each at least 2 less than double the spell level, or three divs whose levels are each at least 3 less than double the spell level.

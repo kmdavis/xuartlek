@@ -9,14 +9,14 @@ tags:
 aliases: ["Reservoir Trap"]
 ---
 # Reservoir Trap *Hazard 2*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 19 expert to notice the water tank bulging under the immense pressure  
 
 Pipes extending from a pressurized water tank spray flesh-cutting jets of water at unwary passersby.
 
-- **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) (trained) to safely puncture a pipe, or DC 16 [Engineering Lore](compendium/skills.md#Lore) (trained) to find and turn a pressure release valve; any combination of three punctured pipes or turned valves disables the trap  
+- **Disable** DC 18 [Thievery](skills.md#Thievery) (trained) to safely puncture a pipe, or DC 16 [Engineering Lore](skills.md#Lore) (trained) to find and turn a pressure release valve; any combination of three punctured pipes or turned valves disables the trap  
 
 - **AC** 18, **Fort** +11, **Ref** +3
 - **Pipe Hardness** 7, **Pipe HP** 30 (BT 15); **Tank Hardness** 7, **Tank HP** 50 (BT 25)

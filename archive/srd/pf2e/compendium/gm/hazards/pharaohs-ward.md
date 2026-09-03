@@ -8,14 +8,14 @@ tags:
 aliases: ["Pharaoh's Ward"]
 ---
 # Pharaoh's Ward *Hazard 7*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
 
 A curse is imbued on an entryway's threshold.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 27 (master) to painstakingly remove the lintel without triggering the magic, or dispel magic (4th level; counteract DC 25) to counteract the rune.  
+- **Disable** [Thievery](skills.md#Thievery) DC 27 (master) to painstakingly remove the lintel without triggering the magic, or dispel magic (4th level; counteract DC 25) to counteract the rune.  
 
 ```ad-embed-ability
 title: **Curse the Intruders** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([curse](rules/traits/curse.md), [divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md))

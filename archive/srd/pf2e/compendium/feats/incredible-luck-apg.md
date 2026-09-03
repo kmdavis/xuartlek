@@ -8,9 +8,9 @@ tags:
 aliases: ["Incredible Luck"]
 ---
 # Incredible Luck  *Feat 18*  
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
+[fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [swashbuckler](archive/srd/pf2e/rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  
 
-- **Prerequisites**: [Charmed Life](compendium/feats/charmed-life-apg.md)
+- **Prerequisites**: [Charmed Life](charmed-life-apg.md)
 
 You always seem to bounce back from the worst. When you use Charmed Life, roll the save twice (including the +2 circumstance bonus from Charmed Life) and use the better result.
 

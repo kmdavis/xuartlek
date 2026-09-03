@@ -7,10 +7,10 @@ tags:
 aliases: ["Dirge Of Doom"]
 ---
 # Dirge Of Doom  *Feat 6*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 
-You learn the [dirge of doom](compendium/spells/dirge-of-doom.md) composition cantrip, which frightens your enemies.
+You learn the [dirge of doom](archive/srd/pf2e/compendium/spells/dirge-of-doom.md) composition cantrip, which frightens your enemies.
 
 *Source: Core Rulebook p. 101*  
 %% #compendium/src/pf2e/crb #trait/bard %%

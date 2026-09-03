@@ -8,7 +8,7 @@ tags:
 aliases: ["Smooth the Path"]
 ---
 # Smooth the Path
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 27*  
 
 - **Requirements**: The PC has successfully infiltrated the estate.

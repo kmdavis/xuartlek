@@ -10,7 +10,7 @@ tags:
 aliases: ["Batsbreath Cane"]
 ---
 # Batsbreath Cane *Item 10*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
 - **Price** 950 gp
 - **Bulk** L; **Usage** held in 1 hand

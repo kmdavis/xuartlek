@@ -11,10 +11,10 @@ tags:
 aliases: ["Sonata Span"]
 ---
 # Sonata Span *Spell 2*   
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  
 
-- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 30-foot line
 - **Duration**: sustained
 

@@ -10,9 +10,9 @@ tags:
 aliases: ["Magic Hide"]
 ---
 # Magic Hide *Focus 1*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Targets**: your animal companion
 - **Duration**: 1 minute

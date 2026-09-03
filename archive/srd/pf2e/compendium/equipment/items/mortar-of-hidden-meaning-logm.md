@@ -9,7 +9,7 @@ tags:
 aliases: ["Mortar Of Hidden Meaning"]
 ---
 # Mortar Of Hidden Meaning *Item 4*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 75 gp
 - **Bulk** L; **Usage** held in 2 hands

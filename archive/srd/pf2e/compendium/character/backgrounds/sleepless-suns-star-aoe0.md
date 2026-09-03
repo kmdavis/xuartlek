@@ -17,4 +17,4 @@ Your laudable performance has earned you a transfer to the newly formed Edgewatc
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society), plus either [Gladiatorial Lore](compendium/skills.md#Lore) or [Genealogy Lore](compendium/skills.md#Lore). You gain a +1 circumstance bonus to [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), and [Intimidation](compendium/skills.md#Intimidation) checks to interact with members of the Sleepless Suns and residents of the Foreign Quarter. You gain the [Multilingual](compendium/feats/multilingual.md) skill feat.
+You're trained in the [Society](skills.md#Society), plus either [Gladiatorial Lore](skills.md#Lore) or [Genealogy Lore](skills.md#Lore). You gain a +1 circumstance bonus to [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), and [Intimidation](skills.md#Intimidation) checks to interact with members of the Sleepless Suns and residents of the Foreign Quarter. You gain the [Multilingual](archive/srd/pf2e/compendium/feats/multilingual.md) skill feat.

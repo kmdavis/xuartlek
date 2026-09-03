@@ -11,7 +11,7 @@ tags:
 aliases: ["Dezullon Fountain"]
 ---
 # Dezullon Fountain *Item 11*  
-[acid](rules/traits/acid.md "Acid Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  
+[acid](archive/srd/pf2e/rules/traits/acid.md "Acid Energy & Element Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  
 
 - **Price** 1300 gp
 - **Craft Requirements** The initial raw materials must include a pitcher from a dezullon (Bestiary 94) or similar creature.

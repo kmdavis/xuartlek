@@ -9,7 +9,7 @@ tags:
 aliases: ["Hustle"]
 ---
 # Hustle (basic)
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  
 *Source: Core Rulebook p. 480*  
 
 

@@ -7,10 +7,10 @@ tags:
 aliases: ["Offensive Analysis"]
 ---
 # Offensive Analysis  *Feat 5*  
-[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
+[aphorite](aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 
-You can enhance your senses and mental state to consider every aspect of an attack. You can cast [true strike](compendium/spells/true-strike.md) as a divine innate spell once per day.
+You can enhance your senses and mental state to consider every aspect of an attack. You can cast [true strike](true-strike.md) as a divine innate spell once per day.
 
 *Source: Lost Omens: Ancestry Guide p. 77*  
 %% #compendium/src/pf2e/loag #trait/aphorite %%

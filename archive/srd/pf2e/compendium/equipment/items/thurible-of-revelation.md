@@ -9,7 +9,7 @@ tags:
 aliases: ["Thurible of Revelation"]
 ---
 # Thurible of Revelation *Item 3+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  
+[divination](divination.md "Divination School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
@@ -36,7 +36,7 @@ You light the incense inside the censer, and it burns for 1 hour. During that ti
 
 - **Price**: 900 gp
 
-The thurible grants a +2 bonus. Once per day, when you activate the thurible, you can increase its revelations. During that activation, you can hold the thurible up to your eyes with an [Interact](rules/actions/interact.md) action to gain the effects of see invisibility for 1 round by peering through the smoke.
+The thurible grants a +2 bonus. Once per day, when you activate the thurible, you can increase its revelations. During that activation, you can hold the thurible up to your eyes with an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to gain the effects of see invisibility for 1 round by peering through the smoke.
 
 #### greater *Item 18*
 

@@ -7,9 +7,9 @@ tags:
 aliases: ["Flexible Ritualist"]
 ---
 # Flexible Ritualist  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Ritualist Dedication](compendium/feats/ritualist-dedication-apg.md)
+- **Prerequisites**: [Ritualist Dedication](ritualist-dedication-apg.md)
 
 You can perform two aspects of a ritual yourself. When you cast a ritual, you can reduce the number of secondary casters by 1.
 
@@ -17,7 +17,7 @@ When you do, you must fulfill any requirements for the secondary caster, and you
 
 ## Flexible Ritualist leads to...
 
-[Assured Ritualist](compendium/feats/assured-ritualist-apg.md)
+[Assured Ritualist](assured-ritualist-apg.md)
 
 ## Summary
 

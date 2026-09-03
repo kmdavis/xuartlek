@@ -11,15 +11,15 @@ tags:
 aliases: ["Rhino Shot"]
 ---
 # Rhino Shot *Item 5*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 22 gp
 - **Ammunition** Any
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This arrow is made of polished animal horn, with the head of a rhinoceros carved in place of a traditional arrowhead.
 
-When an activated rhino shot is fired, the ethereal form of a large rhinoceros takes shape around the projectile. On a successful [Strike](rules/actions/strike.md), the attack deals an additional `2d6` force damage, and the target must succeed at a DC 19 Fortitude save or be knocked [prone](rules/conditions.md#Prone). If the hit with the rhino shot was a critical success, the target is knocked [prone](rules/conditions.md#Prone) unless it critically succeeds at its save.
+When an activated rhino shot is fired, the ethereal form of a large rhinoceros takes shape around the projectile. On a successful [Strike](archive/srd/pf2e/rules/actions/strike.md), the attack deals an additional `2d6` force damage, and the target must succeed at a DC 19 Fortitude save or be knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone). If the hit with the rhino shot was a critical success, the target is knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone) unless it critically succeeds at its save.
 
 
 ---

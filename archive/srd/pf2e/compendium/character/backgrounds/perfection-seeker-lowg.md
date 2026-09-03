@@ -15,4 +15,4 @@ You aspire to perfect your body and mind in the tradition of Jalmeray's Houses o
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Acrobatics](compendium/skills.md#Acrobatics) skill as well as the [Warfare Lore](compendium/skills.md#Lore) skill. You gain the [Cat Fall](compendium/feats/cat-fall.md) skill feat.
+You're trained in the [Acrobatics](skills.md#Acrobatics) skill as well as the [Warfare Lore](skills.md#Lore) skill. You gain the [Cat Fall](archive/srd/pf2e/compendium/feats/cat-fall.md) skill feat.

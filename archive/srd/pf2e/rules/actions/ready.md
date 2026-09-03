@@ -7,8 +7,8 @@ tags:
 - trait/concentrate
 aliases: ["Ready"]
 ---
-# Ready (basic) [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+# Ready (basic) [>>](chapter-9-playing-the-game.md#Actions "Two-Action")
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 *Source: Core Rulebook p. 470*  
 
 

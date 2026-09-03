@@ -11,11 +11,11 @@ tags:
 aliases: ["Dancing Scarf"]
 ---
 # Dancing Scarf *Item 3+*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
 - **Bulk** —; **Usage** worn belt
 
-This long and billowing scarf is typically woven of silk or sheer fabric and adorned with bells or other jangling bits of shiny metal. It grants a +1 item bonus to [Performance](compendium/skills.md#Performance) checks to dance.
+This long and billowing scarf is typically woven of silk or sheer fabric and adorned with bells or other jangling bits of shiny metal. It grants a +1 item bonus to [Performance](skills.md#Performance) checks to dance.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)
@@ -37,7 +37,7 @@ title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Price**: 650 gp
 
-The scarf grants a +2 bonus. When you activate the scarf, you can also [Stride](rules/actions/stride.md) up to half your Speed or [Step](rules/actions/step.md).
+The scarf grants a +2 bonus. When you activate the scarf, you can also [Stride](archive/srd/pf2e/rules/actions/stride.md) up to half your Speed or [Step](archive/srd/pf2e/rules/actions/step.md).
 
 ---
 *Source: Core Rulebook p. 609*

@@ -6,8 +6,8 @@ tags:
 - trait/ghoran
 aliases: ["Eternal Memories"]
 ---
-# Eternal Memories  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
-[ghoran](rules/traits/ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
+# Eternal Memories  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 13*  
+[ghoran](ghoran-loil.md "Ghoran Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Endless Memories
 - **Frequency**: once per day

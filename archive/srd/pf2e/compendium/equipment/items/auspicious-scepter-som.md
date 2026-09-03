@@ -9,12 +9,12 @@ tags:
 aliases: ["Auspicious Scepter"]
 ---
 # Auspicious Scepter *Item 5*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 150 gp
 - **Bulk** 1; **Usage** held in 1 hand
 
-This imperious mace has a glowing orb in the shape of an eye set in its flanged head. When you succeed at a check to [Recall Knowledge](rules/actions/recall-knowledge.md) about a creature after you've dealt it damage with the auspicious scepter, you learn one of its resistances in addition to any other information.
+This imperious mace has a glowing orb in the shape of an eye set in its flanged head. When you succeed at a check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) about a creature after you've dealt it damage with the auspicious scepter, you learn one of its resistances in addition to any other information.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") command ([divination](rules/traits/divination.md), [magical](rules/traits/magical.md))

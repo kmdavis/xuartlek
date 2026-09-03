@@ -8,7 +8,7 @@ tags:
 aliases: ["Archer Dedication"]
 ---
 # Archer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 You become trained in all simple and martial weapons in the bow weapon group. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank in all simple and martial weapons in the bow weapon group. If you are at least an expert in the bow you are using, you gain access to the critical specialization effect with that bow.
@@ -17,7 +17,7 @@ You become trained in all simple and martial weapons in the bow weapon group. Wh
 
 ## Archer Dedication leads to...
 
-[Advanced Bow Training](compendium/feats/advanced-bow-training-apg.md), [Archer's Aim](compendium/feats/archers-aim-apg.md), [Crossbow Terror](compendium/feats/crossbow-terror-apg.md), [Quick Shot](compendium/feats/quick-shot-apg.md), [Staggering Fire](compendium/feats/staggering-fire-lokl.md)
+[Advanced Bow Training](advanced-bow-training-apg.md), [Archer's Aim](archers-aim-apg.md), [Crossbow Terror](crossbow-terror-apg.md), [Quick Shot](quick-shot-apg.md), [Staggering Fire](staggering-fire-lokl.md)
 
 ## Summary
 

@@ -7,14 +7,14 @@ tags:
 - trait/stance
 aliases: ["Sky and Heaven Stance"]
 ---
-# Sky and Heaven Stance  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
+# Sky and Heaven Stance  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  
 
 - **Prerequisites**: Jalmeri Heavenseeker Dedication
 - **Requirements**: You're unarmored.
 - **Activity** Single Action
 
-Your jagged blows are like lightning. The only Strikes you can make are skyward slash unarmed attacks. These unarmed attacks deal `1d10` slashing damage; are in the brawling group; and have the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"),  unarmed, and [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait") traits. While in Sky and Heaven Stance, you gain resistance 2 to electricity and resistance 2 to sonic damage. These resistances increase to 5 at 12th level and to 8 at 18th level.
+Your jagged blows are like lightning. The only Strikes you can make are skyward slash unarmed attacks. These unarmed attacks deal `1d10` slashing damage; are in the brawling group; and have the [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait"),  unarmed, and [versatile <P>](rules/traits/versatile-p.md "Versatile Weapon Trait") traits. While in Sky and Heaven Stance, you gain resistance 2 to electricity and resistance 2 to sonic damage. These resistances increase to 5 at 12th level and to 8 at 18th level.
 
 *Source: Lost Omens: Impossible Lands p. 224*  
 %% #compendium/src/pf2e/loil #trait/archetype #trait/stance %%

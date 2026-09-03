@@ -10,7 +10,7 @@ tags:
 aliases: ["Rod Of Cancellation"]
 ---
 # Rod Of Cancellation *Item 20*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 75000 gp
 - **Bulk** 1; **Usage** held in 1 hand

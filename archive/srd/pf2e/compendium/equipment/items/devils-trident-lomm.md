@@ -10,7 +10,7 @@ tags:
 aliases: ["Devil's Trident"]
 ---
 # Devil's Trident *Item 9*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 100 gp
 - **Bulk** 1; **Usage** held in 1 hand

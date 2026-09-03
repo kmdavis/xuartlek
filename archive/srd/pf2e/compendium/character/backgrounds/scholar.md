@@ -20,4 +20,4 @@ Eventually, that curiosity led you to leave your studies and become an adventure
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of the [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) skill, and gain the [Assurance](compendium/feats/assurance.md) skill feat in your chosen skill. You're also trained in the [Academia Lore](compendium/skills.md#Lore) skill.
+You're trained in your choice of the [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion) skill, and gain the [Assurance](archive/srd/pf2e/compendium/feats/assurance.md) skill feat in your chosen skill. You're also trained in the [Academia Lore](skills.md#Lore) skill.

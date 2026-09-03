@@ -9,7 +9,7 @@ tags:
 aliases: ["Earthbinding"]
 ---
 # Earthbinding *Item 5*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 125 gp
 - **Usage** etched onto a weapon

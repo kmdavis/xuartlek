@@ -9,12 +9,12 @@ tags:
 aliases: ["Vestige Lenses"]
 ---
 # Vestige Lenses *Item 3*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 40 gp
 - **Bulk** L; **Usage** worn eyepiece
 
-These simple lenses are alchemically treated to detect the faint smoke trail from a piece of specially formulated sandalwood incense. This incense has an odor undetectable by most people and a long burn time, making it perfect for discreetly tracking individuals. A stick of this incense costs 1 sp and can safely burn for up to 8 hours. While wearing the lenses, you see alchemical fumes in a distinct green tint, granting you a +1 item bonus to [Survival](compendium/skills.md#Survival) checks to [Track](rules/actions/track.md) a creature marked with the incense and to [Perception](compendium/skills.md#Perception) checks to [Seek](rules/actions/seek.md) any alchemical vapors. If the smoke is fresh, [Tracking](rules/actions/track.md) via the incense's fumes might use a lower DC than normal for tracking a creature walking on firm surfaces.
+These simple lenses are alchemically treated to detect the faint smoke trail from a piece of specially formulated sandalwood incense. This incense has an odor undetectable by most people and a long burn time, making it perfect for discreetly tracking individuals. A stick of this incense costs 1 sp and can safely burn for up to 8 hours. While wearing the lenses, you see alchemical fumes in a distinct green tint, granting you a +1 item bonus to [Survival](skills.md#Survival) checks to [Track](archive/srd/pf2e/rules/actions/track.md) a creature marked with the incense and to [Perception](skills.md#Perception) checks to [Seek](archive/srd/pf2e/rules/actions/seek.md) any alchemical vapors. If the smoke is fresh, [Tracking](archive/srd/pf2e/rules/actions/track.md) via the incense's fumes might use a lower DC than normal for tracking a creature walking on firm surfaces.
 
 
 ---

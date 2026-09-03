@@ -22,11 +22,11 @@ aliases: ["Likha", "The Teller"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Performance
-- **Favored Weapon**: [hatchet](compendium/equipment/items/hatchet.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [knowledge](compendium/setting/domains.md#Knowledge), [passion](compendium/setting/domains.md#Passion), [sorrow](compendium/setting/domains.md#Sorrow)
-- **Cleric Spells**: 1st: [illusory disguise](compendium/spells/illusory-disguise.md); 3rd: [enthrall](compendium/spells/enthrall.md); 5th: [illusory scene](compendium/spells/illusory-scene.md)
+- **Favored Weapon**: [hatchet](archive/srd/pf2e/compendium/equipment/items/hatchet.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow)
+- **Cleric Spells**: 1st: [illusory disguise](archive/srd/pf2e/compendium/spells/illusory-disguise.md); 3rd: [enthrall](archive/srd/pf2e/compendium/spells/enthrall.md); 5th: [illusory scene](archive/srd/pf2e/compendium/spells/illusory-scene.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Likha

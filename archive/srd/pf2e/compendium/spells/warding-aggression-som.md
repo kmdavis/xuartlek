@@ -8,14 +8,14 @@ tags:
 aliases: ["Warding Aggression"]
 ---
 # Warding Aggression *Spell 3*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: up to 1 minute
 
-You channel a magical ward through your attack and attempt to plant it on a foe. This ward increases your defenses against that foe, as long as you keep attacking that foe to maintain it. Make a melee [Strike](rules/actions/strike.md) with a weapon or unarmed attack against a foe. In addition to the normal effects of the [Strike](rules/actions/strike.md), it has the effects below. Warding aggression ends if the foe you attacked dies or at the end of any turn in which you didn't hit that foe with a melee [Strike](rules/actions/strike.md).
+You channel a magical ward through your attack and attempt to plant it on a foe. This ward increases your defenses against that foe, as long as you keep attacking that foe to maintain it. Make a melee [Strike](archive/srd/pf2e/rules/actions/strike.md) with a weapon or unarmed attack against a foe. In addition to the normal effects of the [Strike](archive/srd/pf2e/rules/actions/strike.md), it has the effects below. Warding aggression ends if the foe you attacked dies or at the end of any turn in which you didn't hit that foe with a melee [Strike](archive/srd/pf2e/rules/actions/strike.md).
 
 > [!success-degree] 
 > - **Critical Success** You gain a +3 status bonus to AC against the foe for 1 round and a +2 status bonus to AC against the foe for the remaining duration.

@@ -8,18 +8,18 @@ tags:
 aliases: ["Ash Web"]
 ---
 # Ash Web *Hazard 10*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](fungus-b1.md "Fungus Creature Type Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 31 expert  
 
 This dangerous sooty black mold readily releases its toxic spores when disturbed. The entire swath of fungus in area **B2** is a single organism. There are nine 10-foot-square patches to remove, but the whole organism dies once it takes enough damage.
 
-- **Disable** [Survival](compendium/skills.md#Survival) DC 27 (expert) to remove a 10-foot-square patch of ash web without triggering the spores  
+- **Disable** [Survival](skills.md#Survival) DC 27 (expert) to remove a 10-foot-square patch of ash web without triggering the spores  
 
 - **AC** 28, **Fort** +22, **Ref** +14
 - **HP** 100
-- **Immunities** [acid](rules/traits/acid.md "Acid Energy & Element Trait"); critical hits; [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait"); [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
+- **Immunities** [acid](archive/srd/pf2e/rules/traits/acid.md "Acid Energy & Element Trait"); critical hits; [electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait"); [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
 
 ```ad-embed-ability
 title: **Spore Explosion** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

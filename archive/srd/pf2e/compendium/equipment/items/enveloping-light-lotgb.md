@@ -13,11 +13,11 @@ tags:
 aliases: ["Enveloping Light"]
 ---
 # Enveloping Light *Item 3+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [positive](positive.md "Positive Energy & Element Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** tattoo
 
-This tattoo is a series of six concentric circles that show up as a soft yellow on any skin tone. The marks carry in them a protective force that bolsters your body and soul. The first time each day that someone attempts to [Treat your Wounds](rules/actions/treat-wounds.md) and rolls a critical failure, they get a failure instead.
+This tattoo is a series of six concentric circles that show up as a soft yellow on any skin tone. The marks carry in them a protective force that bolsters your body and soul. The first time each day that someone attempts to [Treat your Wounds](archive/srd/pf2e/rules/actions/treat-wounds.md) and rolls a critical failure, they get a failure instead.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command
@@ -39,7 +39,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Price**: 650 gp
 
-Any time someone rolls a critical failure to [Treat your Wounds](rules/actions/treat-wounds.md), they get a failure instead. The glow has the effects of a 4th-level [light](compendium/spells/light.md) spell, and you regain `2d8` Hit Points per round.
+Any time someone rolls a critical failure to [Treat your Wounds](archive/srd/pf2e/rules/actions/treat-wounds.md), they get a failure instead. The glow has the effects of a 4th-level [light](archive/srd/pf2e/compendium/spells/light.md) spell, and you regain `2d8` Hit Points per round.
 
 ---
 *Source: Lost Omens: The Grand Bazaar p. 38*

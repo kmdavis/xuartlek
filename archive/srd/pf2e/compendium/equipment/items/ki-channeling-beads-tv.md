@@ -11,13 +11,13 @@ tags:
 aliases: ["Ki-Channeling Beads"]
 ---
 # Ki-Channeling Beads *Item 11*  
-[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  
+[divination](divination.md "Divination School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [focused](archive/srd/pf2e/rules/traits/focused.md "Focused Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  
 
 - **Price** 1300 gp
 - **Craft Requirements** You are a monk with divine ki spells.
 - **Bulk** L; **Usage** worn
 
-As you move your body, ki flows into ki-channeling beads you wear and have invested, making them one with your life force. In their usual form, beads are spheres of wood, but versions customized to different martial orders are common. You gain a +2 item bonus to [Religion](compendium/skills.md#Religion) checks.
+As you move your body, ki flows into ki-channeling beads you wear and have invested, making them one with your life force. In their usual form, beads are spheres of wood, but versions customized to different martial orders are common. You gain a +2 item bonus to [Religion](skills.md#Religion) checks.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

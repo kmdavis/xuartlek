@@ -9,14 +9,14 @@ tags:
 aliases: ["Repeater Crossbow Trap"]
 ---
 # Repeater Crossbow Trap *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +13 trained  
 
 A pressure plate in the hallway floor releases a latch, causing a ceiling panel to drop down. A +1 striking heavy crossbow contained in a steel box sprays bolts at any creatures in the hallway.
 
-- **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (Expert) or [Crafting](compendium/skills.md#Crafting) (Trained) to disengage the reloading mechanism; the trap can also be disabled by the switch in area F2  
+- **Disable** DC 20 [Thievery](skills.md#Thievery) (Expert) or [Crafting](skills.md#Crafting) (Trained) to disengage the reloading mechanism; the trap can also be disabled by the switch in area F2  
 
 - **AC** 22, **Fort** +15, **Ref** +9
 - **Hardness** 12, **HP** 50 (BT 25)

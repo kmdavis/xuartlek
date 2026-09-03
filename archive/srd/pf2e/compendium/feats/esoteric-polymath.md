@@ -7,17 +7,17 @@ tags:
 aliases: ["Esoteric Polymath"]
 ---
 # Esoteric Polymath  *Feat 2*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Polymath muse
 
-You keep a book of occult spells, similar to a wizard's spellbook, and can use its spells to supplement your spell repertoire. Add all the spells in your repertoire to this book for free. You can use the [Occultism](compendium/skills.md#Occultism) skill to [Learn Spells](rules/actions/learn-a-spell.md) and add them to your spellbook by paying the appropriate cost, similar to a wizard.
+You keep a book of occult spells, similar to a wizard's spellbook, and can use its spells to supplement your spell repertoire. Add all the spells in your repertoire to this book for free. You can use the [Occultism](skills.md#Occultism) skill to [Learn Spells](archive/srd/pf2e/rules/actions/learn-a-spell.md) and add them to your spellbook by paying the appropriate cost, similar to a wizard.
 
 During your daily preparations, choose any one spell from your book of occult spells. If that spell is already in your spell repertoire, you can treat it as an additional signature spell that day. If it isn't in your repertoire, treat it as though it were until your next daily preparations.
 
 ## Esoteric Polymath leads to...
 
-[Eclectic Polymath](compendium/feats/eclectic-polymath.md), [Impossible Polymath](compendium/feats/impossible-polymath.md)
+[Eclectic Polymath](archive/srd/pf2e/compendium/feats/eclectic-polymath.md), [Impossible Polymath](archive/srd/pf2e/compendium/feats/impossible-polymath.md)
 
 ## Summary
 

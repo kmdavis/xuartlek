@@ -15,4 +15,4 @@ Reviled but required, you were sent when taxes were due. Performing your job mig
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and the [Lore](compendium/skills.md#Lore) skill for the settlement that employed you. You gain the [Quick Coercion](compendium/feats/quick-coercion.md) skill feat.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and the [Lore](skills.md#Lore) skill for the settlement that employed you. You gain the [Quick Coercion](archive/srd/pf2e/compendium/feats/quick-coercion.md) skill feat.

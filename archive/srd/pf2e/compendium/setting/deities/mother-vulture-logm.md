@@ -20,8 +20,8 @@ aliases: ["Mother Vulture", "The Flesheater"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [sickle](compendium/equipment/items/sickle.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [death](compendium/setting/domains.md#Death), [decay](compendium/setting/domains.md#Decay), [nature](compendium/setting/domains.md#Nature)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 4th: [aerial form](compendium/spells/aerial-form.md); 6th: [baleful polymorph](compendium/spells/baleful-polymorph.md)
+- **Favored Weapon**: [sickle](archive/srd/pf2e/compendium/equipment/items/sickle.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [decay](archive/srd/pf2e/compendium/setting/domains.md#Decay), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 4th: [aerial form](archive/srd/pf2e/compendium/spells/aerial-form.md); 6th: [baleful polymorph](baleful-polymorph.md)

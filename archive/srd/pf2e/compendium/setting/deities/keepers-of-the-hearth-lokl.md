@@ -21,8 +21,8 @@ aliases: ["Keepers of the Hearth"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [light hammer](compendium/equipment/items/light-hammer.md)
-- **Domains**: [family](compendium/setting/domains.md#Family), [freedom](compendium/setting/domains.md#Freedom), [might](compendium/setting/domains.md#Might), [protection](compendium/setting/domains.md#Protection)
-- **Cleric Spells**: 1st: [mage armor](compendium/spells/mage-armor.md); 2nd: [enlarge](compendium/spells/enlarge.md); 4th: [stoneskin](compendium/spells/stoneskin.md)
+- **Favored Weapon**: [light hammer](archive/srd/pf2e/compendium/equipment/items/light-hammer.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [mage armor](mage-armor.md); 2nd: [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md); 4th: [stoneskin](stoneskin.md)

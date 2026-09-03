@@ -14,10 +14,10 @@ tags:
 aliases: ["Moonlit Spellgun"]
 ---
 # Moonlit Spellgun *Item 2+*  
-[attack](rules/traits/attack.md "Attack Combat Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellgun](rules/traits/spellgun-tv.md "Spellgun Item Trait")  
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [spellgun](spellgun-tv.md "Spellgun Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md), [Strike](rules/actions/strike.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md), [Strike](archive/srd/pf2e/rules/actions/strike.md)
 
 Elegant silver filigree contains the body of this ephemeral item, which is made of solid light. Its shape resembles a pistol, and it's often carried by hunters of werecreatures, vampires, and devils.
 
@@ -26,8 +26,8 @@ You Activate the spellgun by aiming it at one creature and making your choice of
 The spellgun emits a silvery ray of pure moonlight that deals fire damage depending on its type. The spellgun's damage is treated as silver for the purposes of weaknesses, resistances, and the like.
 
 > [!success-degree] 
-> - **Critical Success** The target takes double damage and is [dazzled](rules/conditions.md#Dazzled) until the start of your next turn. If it has a weakness to silver or a resistance that can be bypassed by silver, it's also [enfeebled](rules/conditions.md#Enfeebled) for 1 minute.
-> - **Success** The target takes full damage and is [dazzled](rules/conditions.md#Dazzled) until the start of your next turn.
+> - **Critical Success** The target takes double damage and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) until the start of your next turn. If it has a weakness to silver or a resistance that can be bypassed by silver, it's also [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 minute.
+> - **Success** The target takes full damage and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) until the start of your next turn.
 
 ---
 

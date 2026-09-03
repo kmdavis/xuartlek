@@ -10,13 +10,13 @@ tags:
 aliases: ["Untwisting Iron Augmentation"]
 ---
 # Untwisting Iron Augmentation *Focus 7*   
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - 
 - **Duration**: 1 minute
 
-Your unarmed attacks are treated as cold iron and silver, they gain the [earth](rules/traits/earth.md "Earth Energy & Element Trait") trait, and they gain a +1 status bonus to damage rolls per damage die.
+Your unarmed attacks are treated as cold iron and silver, they gain the [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait") trait, and they gain a +1 status bonus to damage rolls per damage die.
 
 **Heightened (9th)** Your unarmed attacks are also treated as adamantine.
 

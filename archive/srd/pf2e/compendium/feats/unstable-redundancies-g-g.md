@@ -6,8 +6,8 @@ tags:
 - trait/inventor
 aliases: ["Unstable Redundancies"]
 ---
-# Unstable Redundancies  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  
+# Unstable Redundancies  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
+[inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  
 
 - **Trigger** You would attempt the flat check for an unstable action, but you haven't rolled the flat check yet.
 - **Activity** Free Action

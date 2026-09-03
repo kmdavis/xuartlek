@@ -7,11 +7,11 @@ tags:
 aliases: ["Eyes Of Night"]
 ---
 # Eyes Of Night  *Feat 1*  
-[dhampir](rules/traits/dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
+[dhampir](dhampir-b1.md "Dhampir Ancestry & Heritage Trait")  
 
 - **Prerequisites**: low-light vision
 
-You can see in the darkness as easily as a true vampire. You gain [darkvision](rules/abilities/darkvision.md).
+You can see in the darkness as easily as a true vampire. You gain [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md).
 
 **Special.** You can select this feat only at 1st level, and you can't retrain into or out of this feat.
 

@@ -7,14 +7,14 @@ tags:
 aliases: ["Calculated Splash"]
 ---
 # Calculated Splash  *Feat 4*  
-[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
+[alchemist](archive/srd/pf2e/rules/traits/alchemist.md "Alchemist Class Trait")  
 
 
-You have calculated all the angles to maximize a bomb's splash. When you throw an alchemical bomb with the [splash](rules/traits/splash.md "Splash Weapon Trait") trait, you can cause the bomb to deal [splash](rules/traits/splash.md "Splash Weapon Trait") damage equal to your Intelligence modifier (minimum 0) instead of the normal amount.
+You have calculated all the angles to maximize a bomb's splash. When you throw an alchemical bomb with the [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait") trait, you can cause the bomb to deal [splash](archive/srd/pf2e/rules/traits/splash.md "Splash Weapon Trait") damage equal to your Intelligence modifier (minimum 0) instead of the normal amount.
 
 ## Calculated Splash leads to...
 
-[Expanded Splash](compendium/feats/expanded-splash.md), [Mega Bomb](compendium/feats/mega-bomb.md), [Controlled Blast](compendium/feats/controlled-blast-g-g.md)
+[Expanded Splash](archive/srd/pf2e/compendium/feats/expanded-splash.md), [Mega Bomb](archive/srd/pf2e/compendium/feats/mega-bomb.md), [Controlled Blast](controlled-blast-g-g.md)
 
 ## Summary
 

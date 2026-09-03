@@ -7,11 +7,11 @@ tags:
 aliases: ["Force Fang"]
 ---
 # Force Fang  *Feat 2*  
-[magus](rules/traits/magus-som.md "Magus Class Trait")  
+[magus](archive/srd/pf2e/rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: focus pool
 
-You can turn your attack into an unerring blur of force. You learn the [force fang](compendium/spells/force-fang-som.md) conflux spell. Increase the number of Focus Points in your focus pool by 1.
+You can turn your attack into an unerring blur of force. You learn the [force fang](archive/srd/pf2e/compendium/spells/force-fang-som.md) conflux spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Secrets of Magic p. 43*  
 %% #compendium/src/pf2e/som #trait/magus %%

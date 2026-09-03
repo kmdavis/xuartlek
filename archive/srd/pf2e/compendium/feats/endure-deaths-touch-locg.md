@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Endure Death's Touch"]
 ---
-# Endure Death's Touch  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Endure Death's Touch  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Knight Vigilant Dedication](compendium/feats/knight-vigilant-dedication-locg.md), expert in medium or heavy armor
+- **Prerequisites**: [Knight Vigilant Dedication](knight-vigilant-dedication-locg.md), expert in medium or heavy armor
 - **Trigger** An undead hits you with an unarmed attack.
 - **Requirements**: You are wearing medium or heavy armor in which you have expert proficiency.
 - **Activity** Reaction

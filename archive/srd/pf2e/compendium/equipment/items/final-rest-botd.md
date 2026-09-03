@@ -9,19 +9,19 @@ tags:
 aliases: ["Final Rest"]
 ---
 # Final Rest *Item 18*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Price** 24000 gp
 - **Craft Requirements** The initial raw materials must include 4,950 gp of silver.
 - **Bulk** 1; **Usage** held in 1 hand
 
-This +3 greater disrupting greater striking silver longsword is made from the purest silver. The blade is carefully etched to depict a vast and sprawling necropolis, a place where the dead are laid to rest. Whenever you critically hit an undead creature with final rest, the undead creature takes `3d6` [persistent good damage](rules/conditions.md#Persistent%20Damage), with a DC 36 Fortitude save.
+This +3 greater disrupting greater striking silver longsword is made from the purest silver. The blade is carefully etched to depict a vast and sprawling necropolis, a place where the dead are laid to rest. Whenever you critically hit an undead creature with final rest, the undead creature takes `3d6` [persistent good damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), with a DC 36 Fortitude save.
 
 > [!success-degree] 
 > - **Critical Success** No effect.
-> - **Success** The creature takes half the [persistent good damage](rules/conditions.md#Persistent%20Damage).
-> - **Failure** The creature is [stunned](rules/conditions.md#Stunned) and takes the full [persistent good damage](rules/conditions.md#Persistent%20Damage).
-> - **Critical Failure** The creature is [stunned](rules/conditions.md#Stunned) and takes double the [persistent good damage](rules/conditions.md#Persistent%20Damage).
+> - **Success** The creature takes half the [persistent good damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
+> - **Failure** The creature is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned) and takes the full [persistent good damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
+> - **Critical Failure** The creature is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned) and takes double the [persistent good damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, envision

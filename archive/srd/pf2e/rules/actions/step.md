@@ -7,8 +7,8 @@ tags:
 - trait/move
 aliases: ["Step", "Disengage"]
 ---
-# Step (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[move](rules/traits/move.md "Move Combat Trait")  
+# Step (basic) [>](chapter-9-playing-the-game.md#Actions "Single Action")
+[move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  
 *Source: Core Rulebook p. 471*  
 
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Flintlock Musket"]
 ---
 # Flintlock Musket *Item 0*  
-[concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concussive](concussive-g-g.md "Concussive Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 7 gp
@@ -20,7 +20,7 @@ aliases: ["Flintlock Musket"]
 - **Hands** 2
 - **Category** Simple; **Group** Firearm 
 
-The most commonly available of firearms in Alkenstar, the flintlock musket includes an external firing mechanism and an efficient and relatively compact frame. Though lacking the range and firing power of the [arquebus](compendium/equipment/items/arquebus-g-g.md) preferred by Alkenstar and Dongun Hold's military members, the flintlock musket is popular among civilians for its ease of use.
+The most commonly available of firearms in Alkenstar, the flintlock musket includes an external firing mechanism and an efficient and relatively compact frame. Though lacking the range and firing power of the [arquebus](arquebus-g-g.md) preferred by Alkenstar and Dongun Hold's military members, the flintlock musket is popular among civilians for its ease of use.
 
 
 ---

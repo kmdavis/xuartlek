@@ -466,7 +466,7 @@ def render_page(entry: Entry, body: str, source: str | None, contents: list[str]
         "  - pf2e",
         "  - pf2e-book",
         "tags:",
-        f"  - srd/pf2e-remaster/{slugify(entry.book)}",
+        f"  - srd/pf2e/{slugify(entry.book)}",
         f"source: {yaml_escape(entry.book)}",
         f"aon_id: {entry.aon_id}",
         f"aon_url: {yaml_escape(f'{BASE}/Rules.aspx?ID={entry.aon_id}')}",
@@ -497,7 +497,7 @@ def render_page(entry: Entry, body: str, source: str | None, contents: list[str]
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    default_out = Path(__file__).resolve().parents[2] / "content" / "srd" / "pf2e-remaster" / "rules"
+    default_out = Path(__file__).resolve().parents[2] / "content" / "srd" / "pf2e" / "books"
     ap.add_argument("--out", type=Path, default=default_out, help="output directory")
     ap.add_argument("--cache", type=Path, default=Path(__file__).parent / ".cache", help="HTML cache directory")
     ap.add_argument("--delay", type=float, default=1.0, help="seconds between network fetches")

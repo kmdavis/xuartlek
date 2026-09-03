@@ -9,14 +9,14 @@ tags:
 aliases: ["Exhaling Portal"]
 ---
 # Exhaling Portal *Hazard 9*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 33  
 
 Magic runes carved into a doorframe connect a door to the Plane of Air when opened, blowing creatures down the connecting hall.
 
-- **Disable** DC 30 [Thievery](compendium/skills.md#Thievery) (expert) twice to scratch out the runes, or dispel magic (5th level; counteract DC 30) to counteract the planar runes; DC 32 [Athletics](compendium/skills.md#Athletics) to shut the door if it's open (using [Athletics](compendium/skills.md#Athletics) only stops the trap, it doesn't fully disable it)  
+- **Disable** DC 30 [Thievery](skills.md#Thievery) (expert) twice to scratch out the runes, or dispel magic (5th level; counteract DC 30) to counteract the planar runes; DC 32 [Athletics](skills.md#Athletics) to shut the door if it's open (using [Athletics](skills.md#Athletics) only stops the trap, it doesn't fully disable it)  
 
 ```ad-embed-ability
 title: **Gust** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([air](rules/traits/air.md), [conjuration](rules/traits/conjuration.md))

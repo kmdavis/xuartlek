@@ -7,9 +7,9 @@ tags:
 aliases: ["Perfection's Path"]
 ---
 # Perfection's Path  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Monk Dedication](compendium/feats/monk-dedication.md), expert in at least one saving throw
+- **Prerequisites**: [Monk Dedication](archive/srd/pf2e/compendium/feats/monk-dedication.md), expert in at least one saving throw
 
 Choose one saving throw (Fortitude, Reflex, or Will) in which you are an expert. Your proficiency rank in the chosen saving throw increases to master.
 

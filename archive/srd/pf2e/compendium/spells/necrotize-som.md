@@ -9,10 +9,10 @@ tags:
 aliases: ["Necrotize"]
 ---
 # Necrotize *Spell 6*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Targets**: 1 living creature
 - **Saving Throw**: Fortitude
@@ -21,9 +21,9 @@ aliases: ["Necrotize"]
 You necrotize part of a creature's body, harming it and debilitating it as its body putrefies, mimicking the natural process of decay. The target takes `12d6` negative damage and one of the following debilitations; roll `1d4` to randomly determine which. The effects depend on its Fortitude save.
 
 - **Bones** The target's bones necrotize and become spongy and weak, giving it weakness 3 to bludgeoning damage.
-- **Joints** The target's joints necrotize, making its movements ungainly and [clumsy](rules/conditions.md#Clumsy). It becomes [clumsy](rules/conditions.md#Clumsy).
+- **Joints** The target's joints necrotize, making its movements ungainly and [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy). It becomes [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy).
 - **Legs** The target's legs necrotize, as well as any other limbs associated with forms of movement, making it harder for the creature to move. The target takes a –10-foot status penalty to its Speeds.
-- **Muscles** The target's muscles necrotize, rotting away. The target becomes [enfeebled](rules/conditions.md#Enfeebled).
+- **Muscles** The target's muscles necrotize, rotting away. The target becomes [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled).
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.

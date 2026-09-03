@@ -10,7 +10,7 @@ tags:
 aliases: ["Explorer's Yurt"]
 ---
 # Explorer's Yurt *Item 10*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [structure](rules/traits/structure.md "Structure General Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [structure](archive/srd/pf2e/rules/traits/structure.md "Structure General Trait")  
 
 - **Price** 880 gp
 - **Bulk** 1 (when not activated)

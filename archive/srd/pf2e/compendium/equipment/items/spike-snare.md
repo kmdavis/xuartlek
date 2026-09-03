@@ -11,11 +11,11 @@ tags:
 aliases: ["Spike Snare"]
 ---
 # Spike Snare *Item 1*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 3 gp
 
-This basic snare consists of [hidden](rules/conditions.md#Hidden) spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing `2d8` piercing damage. The creature must attempt a DC 17 basic Reflex saving throw.
+This basic snare consists of [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing `2d8` piercing damage. The creature must attempt a DC 17 basic Reflex saving throw.
 
 
 ---

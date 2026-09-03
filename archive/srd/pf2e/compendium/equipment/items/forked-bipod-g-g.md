@@ -10,7 +10,7 @@ tags:
 aliases: ["Forked Bipod"]
 ---
 # Forked Bipod *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [deadly <d6>](rules/traits/deadly-d6.md "Deadly Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  
 
 - **Price** 3 sp
 - **Bulk** L
@@ -18,7 +18,7 @@ aliases: ["Forked Bipod"]
 - **Hands** 1
 - **Category** Simple; **Group** Spear 
 
-Developed by Alkenstar scouts who often don't have time to break down a tripod when beset by the chaotic mutant monsters of the Mana Wastes, this two-pronged stabbing weapon can be used as a bipod to stabilize a gun with potent kickback. A forked bipod can be deployed or retrieved for use as a melee weapon as an [Interact](rules/actions/interact.md) action.
+Developed by Alkenstar scouts who often don't have time to break down a tripod when beset by the chaotic mutant monsters of the Mana Wastes, this two-pronged stabbing weapon can be used as a bipod to stabilize a gun with potent kickback. A forked bipod can be deployed or retrieved for use as a melee weapon as an [Interact](archive/srd/pf2e/rules/actions/interact.md) action.
 
 
 ---

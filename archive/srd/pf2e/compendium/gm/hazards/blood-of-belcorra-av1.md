@@ -8,19 +8,19 @@ tags:
 aliases: ["Blood Of Belcorra"]
 ---
 # Blood Of Belcorra *Hazard 3*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +23 expert  
 
 A bloody image of Belcorra arises, emits a soul-draining light, then inhales blood from living creatures in the room.
 
-- **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (trained) to wipe away enough of the bloodstain to disrupt the haunt's necromantic energies, or DC 20 [Religion](compendium/skills.md#Religion) (trained) to exorcise the haunt.  
+- **Disable** DC 22 [Thievery](skills.md#Thievery) (trained) to wipe away enough of the bloodstain to disrupt the haunt's necromantic energies, or DC 20 [Religion](skills.md#Religion) (trained) to exorcise the haunt.  
 
 - **AC** 19, **Fort** +6, **Ref** +9
 - **HP** 50
 - **Immunities** critical hits; object immunities; precision damage
-- **Resistances** physical 5except [ghost touch](compendium/equipment/items/ghost-touch.md)
+- **Resistances** physical 5except [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md)
 - **Weaknesses** positive 5
 
 ```ad-embed-ability
@@ -52,6 +52,6 @@ title: Routine
 ```
 ^routine
 
-**Reset** If the haunt is disabled or destroyed through damage, the bloody phantom of Belcorra sprays upward in a spiral, dousing the trap door leading to area A25 before draining upward through the keyhole, which reduces the [Thievery](compendium/skills.md#Thievery) DC to [Pick the Lock](rules/actions/pick-a-lock.md) to 20. At the next sunrise, the blood drains back down to this room and the haunt resets. The haunt is destroyed permanently once Lasda Venkervale is rescued from area D9.  
+**Reset** If the haunt is disabled or destroyed through damage, the bloody phantom of Belcorra sprays upward in a spiral, dousing the trap door leading to area A25 before draining upward through the keyhole, which reduces the [Thievery](skills.md#Thievery) DC to [Pick the Lock](archive/srd/pf2e/rules/actions/pick-a-lock.md) to 20. At the next sunrise, the blood drains back down to this room and the haunt resets. The haunt is destroyed permanently once Lasda Venkervale is rescued from area D9.  
 
 *Source: Abomination Vaults #1: Ruins of Gauntlight p. 13*

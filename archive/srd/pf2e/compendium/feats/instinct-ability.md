@@ -7,11 +7,11 @@ tags:
 aliases: ["Instinct Ability"]
 ---
 # Instinct Ability  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Barbarian Dedication](compendium/feats/barbarian-dedication.md)
+- **Prerequisites**: [Barbarian Dedication](archive/srd/pf2e/compendium/feats/barbarian-dedication.md)
 
-You gain the instinct|Barbarian||1 ability for the instinct you chose for [Barbarian Dedication](compendium/feats/barbarian-dedication.md).
+You gain the instinct|Barbarian||1 ability for the instinct you chose for [Barbarian Dedication](archive/srd/pf2e/compendium/feats/barbarian-dedication.md).
 
 *Source: Core Rulebook p. 221*  
 %% #compendium/src/pf2e/crb #trait/archetype %%

@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Trickery"]
 ---
 # Basic Trickery  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Rogue Dedication](compendium/feats/rogue-dedication.md)
+- **Prerequisites**: [Rogue Dedication](archive/srd/pf2e/compendium/feats/rogue-dedication.md)
 
 You gain a 1st- or 2nd-level rogue feat.
 
 ## Basic Trickery leads to...
 
-[Advanced Trickery](compendium/feats/advanced-trickery.md)
+[Advanced Trickery](archive/srd/pf2e/compendium/feats/advanced-trickery.md)
 
 ## Summary
 

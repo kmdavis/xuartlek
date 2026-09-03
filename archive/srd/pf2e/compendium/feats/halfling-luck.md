@@ -7,8 +7,8 @@ tags:
 - trait/halfling
 aliases: ["Halfling Luck"]
 ---
-# Halfling Luck  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 1*  
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
+# Halfling Luck  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 1*  
+[fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [halfling](archive/srd/pf2e/rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** You fail a skill check or saving throw.
@@ -18,7 +18,7 @@ Your happy-go-lucky nature makes it seem like misfortune avoids you, and to an e
 
 ## Halfling Luck leads to...
 
-[Guiding Luck](compendium/feats/guiding-luck.md), [Halfling Ingenuity](compendium/feats/halfling-ingenuity-locg.md), [Incredible Luck](compendium/feats/incredible-luck-locg.md), [Shared Luck](compendium/feats/shared-luck-locg.md)
+[Guiding Luck](archive/srd/pf2e/compendium/feats/guiding-luck.md), [Halfling Ingenuity](halfling-ingenuity-locg.md), [Incredible Luck](incredible-luck-locg.md), [Shared Luck](shared-luck-locg.md)
 
 ## Summary
 

@@ -15,6 +15,6 @@ You love diving and exploring the world beneath the waves, and long periods of s
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the [Ocean Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Athletics](skills.md#Athletics) skill and the [Ocean Lore](skills.md#Lore) skill.
 
-You gain the [Underwater Marauder](compendium/feats/underwater-marauder.md) skill feat.
+You gain the [Underwater Marauder](archive/srd/pf2e/compendium/feats/underwater-marauder.md) skill feat.

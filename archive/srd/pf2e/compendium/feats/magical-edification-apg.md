@@ -7,15 +7,15 @@ tags:
 aliases: ["Magical Edification"]
 ---
 # Magical Edification  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Loremaster Dedication](compendium/feats/loremaster-dedication-apg.md)
+- **Prerequisites**: [Loremaster Dedication](loremaster-dedication-apg.md)
 
-You've learned those tidbits of magic that are most conducive to furthering your acquisition and transmission of knowledge. You gain [guidance](compendium/spells/guidance.md), [message](compendium/spells/message.md), and [sigil](compendium/spells/sigil.md) as innate occult cantrips.
+You've learned those tidbits of magic that are most conducive to furthering your acquisition and transmission of knowledge. You gain [guidance](archive/srd/pf2e/compendium/spells/guidance.md), [message](archive/srd/pf2e/compendium/spells/message.md), and [sigil](archive/srd/pf2e/compendium/spells/sigil.md) as innate occult cantrips.
 
 ## Magical Edification leads to...
 
-[Greater Magical Edification](compendium/feats/greater-magical-edification-apg.md)
+[Greater Magical Edification](greater-magical-edification-apg.md)
 
 ## Summary
 

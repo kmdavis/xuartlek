@@ -10,7 +10,7 @@ aliases: ["Grove-Harbored"]
 ardande  
 
 
-You are accustomed to exploring thick woodlands and defending yourself against the attacks of magical plants. You gain a +1 circumstance bonus to saves against plant, poison, and wood effects, and if you roll a success on a save against a [poison](rules/traits/poison.md "Poison Effect Trait") effect, you get a critical success instead.
+You are accustomed to exploring thick woodlands and defending yourself against the attacks of magical plants. You gain a +1 circumstance bonus to saves against plant, poison, and wood effects, and if you roll a success on a save against a [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait") effect, you get a critical success instead.
 
 *Source: Rage of Elements p. 48*  
 %% #compendium/src/pf2e/roe #trait/ardande %%

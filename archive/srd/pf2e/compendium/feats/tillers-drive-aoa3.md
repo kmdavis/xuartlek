@@ -8,9 +8,9 @@ tags:
 aliases: ["Tiller's Drive"]
 ---
 # Tiller's Drive  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Bellflower Dedication](compendium/feats/bellflower-dedication-aoa3.md)
+- **Prerequisites**: [Bellflower Dedication](bellflower-dedication-aoa3.md)
 
 Your Speed bonus from Bellflower Dedication increases to +10 feet. Members of your crop receive a +5-foot circumstance bonus to Speed.
 

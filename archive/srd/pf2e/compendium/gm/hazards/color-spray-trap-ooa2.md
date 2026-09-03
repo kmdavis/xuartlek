@@ -12,14 +12,14 @@ tags:
 aliases: ["Color Spray Trap"]
 ---
 # Color Spray Trap *Hazard 4*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 22 trained to notice the glyph on the doorjamb  
 
 A loud pop sounds when this door is opened, followed immediately by a blast of colorful lights that washes over whoever opened the door.
 
-- **Disable** DC 25 [Thievery](compendium/skills.md#Thievery) (trained) to disable the glyph, or dispel magic (1st level; counteract DC 22) to counteract the glyph  
+- **Disable** DC 25 [Thievery](skills.md#Thievery) (trained) to disable the glyph, or dispel magic (1st level; counteract DC 22) to counteract the glyph  
 
 - **AC** 22, **Fort** +12, **Ref** +10
 - **Door Hardness** 8, **Door HP** 50 (BT 25)

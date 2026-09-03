@@ -8,14 +8,14 @@ tags:
 aliases: ["Eternal Flame"]
 ---
 # Eternal Flame *Hazard 7*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +18 expert  
 
 A raging spectral inferno arises out of thin air, strengthening all undead creatures within its area. This haunt most often arises from the charred remains of a group of three people who burned to death, whether in a terrible accident or a deliberate execution, and their unavenged souls burn with rage.
 
-- **Disable** DC 27 [Diplomacy](compendium/skills.md#Diplomacy) (expert) to temporarily calm the rage of one of the three spirits, or DC 30 [Religion](compendium/skills.md#Religion) (trained) to exorcise one of the spirits; three total successes are required to disable the haunt  
+- **Disable** DC 27 [Diplomacy](skills.md#Diplomacy) (expert) to temporarily calm the rage of one of the three spirits, or DC 30 [Religion](skills.md#Religion) (trained) to exorcise one of the spirits; three total successes are required to disable the haunt  
 
 ```ad-embed-ability
 title: **Searing Agony** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([divination](rules/traits/divination.md), [mental](rules/traits/mental.md))

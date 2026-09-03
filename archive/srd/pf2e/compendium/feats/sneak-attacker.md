@@ -7,9 +7,9 @@ tags:
 aliases: ["Sneak Attacker"]
 ---
 # Sneak Attacker  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Rogue Dedication](compendium/feats/rogue-dedication.md)
+- **Prerequisites**: [Rogue Dedication](archive/srd/pf2e/compendium/feats/rogue-dedication.md)
 
 You gain the sneak attack class feature (page 181), except it deals `1d4` damage, increasing to `1d6` at 6th level. You don't increase the number of dice as you gain levels.
 

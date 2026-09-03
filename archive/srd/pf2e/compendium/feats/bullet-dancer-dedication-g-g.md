@@ -9,7 +9,7 @@ tags:
 aliases: ["Bullet Dancer Dedication"]
 ---
 # Bullet Dancer Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: expert in unarmored defense and trained in simple weapons
 
@@ -30,7 +30,7 @@ title: **Bullet Dancer Stance** [>](rules/core-rulebook/chapter-9-playing-the-ga
 
 ## Bullet Dancer Dedication leads to...
 
-[Ranged Disarm](compendium/feats/ranged-disarm-g-g.md)
+[Ranged Disarm](ranged-disarm-g-g.md)
 
 ## Summary
 

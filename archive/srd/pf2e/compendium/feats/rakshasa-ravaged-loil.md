@@ -7,9 +7,9 @@ tags:
 aliases: ["Rakshasa Ravaged"]
 ---
 # Rakshasa Ravaged  *Feat 9*  
-[vanara](rules/traits/vanara-loil.md "Vanara Ancestry & Heritage Trait")  
+[vanara](vanara-loil.md "Vanara Ancestry & Heritage Trait")  
 
-- **Prerequisites**: expert in [Occultism](compendium/skills.md#Occultism)
+- **Prerequisites**: expert in [Occultism](skills.md#Occultism)
 
 You and your family know well the ravages of rakshasa predations, and you know how to best defend yourself against their growing corruption in the world. You gain a +1 circumstance bonus to saving throws against occult spells.
 

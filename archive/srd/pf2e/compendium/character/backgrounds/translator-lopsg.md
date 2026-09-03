@@ -15,4 +15,4 @@ In your youth, you learned to transcribe books and translate scrolls to preserve
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Scribing Lore](compendium/skills.md#Lore) skill. You gain the [Multilingual](compendium/feats/multilingual.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Scribing Lore](skills.md#Lore) skill. You gain the [Multilingual](archive/srd/pf2e/compendium/feats/multilingual.md) skill feat.

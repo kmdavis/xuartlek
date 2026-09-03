@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Muse's Whispers"]
 ---
 # Advanced Muse's Whispers  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Muse's Whispers](compendium/feats/basic-muses-whispers.md)
+- **Prerequisites**: [Basic Muse's Whispers](archive/srd/pf2e/compendium/feats/basic-muses-whispers.md)
 
 You gain one bard feat. For the purpose of meeting its prerequisites, your bard level is equal to half your character level.
 

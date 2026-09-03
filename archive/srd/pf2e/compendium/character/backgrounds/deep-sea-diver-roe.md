@@ -15,4 +15,4 @@ The sapphire depths of the seas and the mysteries they hold beneath their surfac
 
 Choose two attribute boosts. One must be to Strength or Wisdom, and one is a free attribute boost.
 
-You're trained in the [Athletics](compendium/skills.md#Athletics) skill and the Plane of [Water Lore](compendium/skills.md#Lore) skill. You gain the [Underwater Marauder](compendium/feats/underwater-marauder.md) skill feat.
+You're trained in the [Athletics](skills.md#Athletics) skill and the Plane of [Water Lore](skills.md#Lore) skill. You gain the [Underwater Marauder](archive/srd/pf2e/compendium/feats/underwater-marauder.md) skill feat.

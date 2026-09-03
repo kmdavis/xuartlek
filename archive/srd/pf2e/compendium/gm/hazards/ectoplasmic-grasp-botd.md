@@ -7,14 +7,14 @@ tags:
 aliases: ["Ectoplasmic Grasp"]
 ---
 # Ectoplasmic Grasp *Hazard 5*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained to notice ectoplasm coalescing  
 
 A massive ectoplasmic hand forms around a creature and squeezes it.
 
-- **Disable** DC 24 [Occultism](compendium/skills.md#Occultism) (trained) to send the ectoplasm back to the Ethereal Plane or DC 26 [Acrobatics](compendium/skills.md#Acrobatics) to move through and disrupt the coalescing ectoplasm before it takes hold  
+- **Disable** DC 24 [Occultism](skills.md#Occultism) (trained) to send the ectoplasm back to the Ethereal Plane or DC 26 [Acrobatics](skills.md#Acrobatics) to move through and disrupt the coalescing ectoplasm before it takes hold  
 
 ```ad-embed-ability
 title: **Squeeze** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

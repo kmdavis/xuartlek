@@ -7,14 +7,14 @@ tags:
 aliases: ["Earned Glory"]
 ---
 # Earned Glory  *Feat 1*  
-[half-elf](rules/traits/half-elf.md "Half-Elf Ancestry & Heritage Trait")  
+[half-elf](half-elf.md "Half-Elf Ancestry & Heritage Trait")  
 
 
-Elves are often skeptical of their half-elven kin, and you are experienced at telling stories of your accomplishments to gain their respect. You are trained in [Performance](compendium/skills.md#Performance). If you would automatically become trained in [Performance](compendium/skills.md#Performance) (from your background or class, for example), you instead become trained in a skill of your choice.
+Elves are often skeptical of their half-elven kin, and you are experienced at telling stories of your accomplishments to gain their respect. You are trained in [Performance](skills.md#Performance). If you would automatically become trained in [Performance](skills.md#Performance) (from your background or class, for example), you instead become trained in a skill of your choice.
 
-You gain the [Impressive Performance](compendium/feats/impressive-performance.md) feat.
+You gain the [Impressive Performance](archive/srd/pf2e/compendium/feats/impressive-performance.md) feat.
 
-When you attempt a [Performance](compendium/skills.md#Performance) check to [Make an Impression](rules/actions/make-an-impression.md) on an elf, if you roll a critical failure, you get a failure instead.
+When you attempt a [Performance](skills.md#Performance) check to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md) on an elf, if you roll a critical failure, you get a failure instead.
 
 *Source: Advanced Player's Guide p. 47*  
 %% #compendium/src/pf2e/apg #trait/half-elf %%

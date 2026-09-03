@@ -12,7 +12,7 @@ tags:
 aliases: ["Wand of Hybrid Form"]
 ---
 # Wand of Hybrid Form *Item 6+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -61,7 +61,7 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 #### 9th-level spell *Item 20*
 
 - **Price**: 55000 gp
-- **Craft Requirements**: Supply a casting of a spell of the appropriate level. The spell must have a casting time of [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") must have the [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait") trait, and must allow more than one choice of battle form.
+- **Craft Requirements**: Supply a casting of a spell of the appropriate level. The spell must have a casting time of [>](chapter-9-playing-the-game.md#Actions "Single Action") or [>>](chapter-9-playing-the-game.md#Actions "Two-Action") must have the [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait") trait, and must allow more than one choice of battle form.
 
 ---
 *Source: Treasure Vault p. 140*

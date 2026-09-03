@@ -9,14 +9,14 @@ tags:
 aliases: ["Wooden Bullets Trap"]
 ---
 # Wooden Bullets Trap *Hazard 3*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +10 trained  
 
 A hopper full of wooden sling bullets is attached to several launching devices, which spew the bullets at high velocity through various holes in the boards covering the window. A distinctive "click" and whirring sound indicate the trap has been sprung.
 
-- **Disable** DC 17 [Thievery](compendium/skills.md#Thievery) (trained) to reinforce the porch pressure sensor or DC 15 [Crafting](compendium/skills.md#Crafting) (trained) to cover the holes launching the bullets  
+- **Disable** DC 17 [Thievery](skills.md#Thievery) (trained) to reinforce the porch pressure sensor or DC 15 [Crafting](skills.md#Crafting) (trained) to cover the holes launching the bullets  
 
 - **Fort** +15, **Ref** +5
 - **Wall Hardness** 10, **Wall HP** 50 (BT 25)

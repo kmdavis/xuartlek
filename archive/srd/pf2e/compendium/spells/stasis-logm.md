@@ -9,10 +9,10 @@ tags:
 aliases: ["Stasis"]
 ---
 # Stasis *Focus 4*   
-[incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Domains** [time](compendium/setting/domains.md#Time)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [time](archive/srd/pf2e/compendium/setting/domains.md#Time)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature or up to 1 Bulk of objects
 - **Saving Throw**: Will
@@ -22,7 +22,7 @@ The flow of time congeals around an object or creature, holding it in place. The
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [stunned](rules/conditions.md#Stunned) as time thickens around it.
+> - **Success** The target is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned) as time thickens around it.
 > - **Failure** Time ceases to pass for the target for 1 round. It is invulnerable to all damage, it cannot be targeted or affected by anything, and no rounds elapse for any timed durations, conditions, afflictions, and other effects it has. While in stasis, the target can't be moved, and it remains fixed in place, defying gravity if need be.
 > - **Critical Failure** As failure, but the target is held in stasis for 3 rounds. At the end of each of its turns, it can attempt a Will save to reduce the remaining duration by 1 round or end it entirely on a critical success.
 

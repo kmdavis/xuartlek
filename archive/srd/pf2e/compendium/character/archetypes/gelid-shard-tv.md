@@ -10,7 +10,7 @@ aliases: ["Gelid Shard"]
 _Gelid shards_ are arcane focuses of refined magical cold in physical form. Unfortunately for their creator, _gelid shards_ do not grant immortality, though mortal creatures bonded to them do often have slightly longer lifespans thanks to the preserving cold that inundates and surrounds them.
 
 > [!pf2-note]
-> This archetype is a part of the [Gelid Shard](compendium/equipment/items/gelid-shard-tv.md) artifact.
+> This archetype is a part of the [Gelid Shard](archive/srd/pf2e/compendium/equipment/items/gelid-shard-tv.md) artifact.
 
 *Source: Treasure Vault p. 184*
 

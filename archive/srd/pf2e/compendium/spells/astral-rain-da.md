@@ -13,9 +13,9 @@ tags:
 aliases: ["Astral Rain"]
 ---
 # Astral Rain *Cantrip 3*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [force](rules/traits/force.md "Force Energy & Element Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [evocation](evocation.md "Evocation School Trait")  [force](archive/srd/pf2e/rules/traits/force.md "Force Energy & Element Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Area**: one 5-foot cube
 - **Saving Throw**: Reflex
@@ -26,7 +26,7 @@ You fling a mass of furious thoughts into the air, where they expand into numero
 
 ## Amp
 
-The area changes to a 5-foot burst, and you can [Sustain the Spell](rules/actions/sustain-a-spell.md) up to 1 minute. The first time each round that you [Sustain the Spell](rules/actions/sustain-a-spell.md), you can move the burst up to 20 feet.
+The area changes to a 5-foot burst, and you can [Sustain the Spell](sustain-a-spell.md) up to 1 minute. The first time each round that you [Sustain the Spell](sustain-a-spell.md), you can move the burst up to 20 feet.
 
 ## Summary
 

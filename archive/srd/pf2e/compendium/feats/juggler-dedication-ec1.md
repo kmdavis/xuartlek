@@ -9,17 +9,17 @@ tags:
 aliases: ["Juggler Dedication"]
 ---
 # Juggler Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Prerequisites**: Dexterity 14
 
-You become trained in [Performance](compendium/skills.md#Performance); if you were already trained in [Performance](compendium/skills.md#Performance), you instead become trained in a skill of your choice. You also gain the Juggle skill feat (page 76), even if you don't meet its prerequisites.
+You become trained in [Performance](skills.md#Performance); if you were already trained in [Performance](skills.md#Performance), you instead become trained in a skill of your choice. You also gain the Juggle skill feat (page 76), even if you don't meet its prerequisites.
 
 **Special.** You cannot select another dedication feat until you have gained one other feat from the juggler archetype.
 
 ## Juggler Dedication leads to...
 
-[Focused Juggler](compendium/feats/focused-juggler-ec1.md), [Lobbed Attack](compendium/feats/lobbed-attack-ec1.md), [Opportune Throw](compendium/feats/opportune-throw-ec1.md), [Quick Juggler](compendium/feats/quick-juggler-ec1.md), [Reflexive Catch](compendium/feats/reflexive-catch-ec1.md)
+[Focused Juggler](focused-juggler-ec1.md), [Lobbed Attack](lobbed-attack-ec1.md), [Opportune Throw](opportune-throw-ec1.md), [Quick Juggler](quick-juggler-ec1.md), [Reflexive Catch](reflexive-catch-ec1.md)
 
 ## Summary
 

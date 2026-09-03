@@ -6,8 +6,8 @@ tags:
 - trait/fighter
 aliases: ["Dueling Parry"]
 ---
-# Dueling Parry  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  
+# Dueling Parry  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  
 
 - **Requirements**: You are wielding only a single one-handed melee weapon and have your other hand or hands free.
 - **Activity** Single Action

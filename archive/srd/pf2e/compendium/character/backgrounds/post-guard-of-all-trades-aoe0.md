@@ -19,4 +19,4 @@ For all the excitement of guarding Absalom's Postern Gate, the Post Guard wasn't
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [Performance](compendium/skills.md#Performance) skill, a [Lore](compendium/skills.md#Lore) skill of your choice, and you gain a bonus language. You gain a +1 circumstance bonus to [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), and [Intimidation](compendium/skills.md#Intimidation) checks to interact with Post Guards. You gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat.
+You're trained in the [Performance](skills.md#Performance) skill, a [Lore](skills.md#Lore) skill of your choice, and you gain a bonus language. You gain a +1 circumstance bonus to [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), and [Intimidation](skills.md#Intimidation) checks to interact with Post Guards. You gain the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) skill feat.

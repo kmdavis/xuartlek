@@ -20,8 +20,8 @@ aliases: ["Alglenweis", "Princess of the Rime"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [war flail](compendium/equipment/items/war-flail.md)
-- **Domains**: [cold](compendium/setting/domains.md#Cold), [creation](compendium/setting/domains.md#Creation), [might](compendium/setting/domains.md#Might), [soul](compendium/setting/domains.md#Soul)
-- **Cleric Spells**: 1st: [agitate](compendium/spells/agitate-logm.md); 4th: [creation](compendium/spells/creation.md); 5th: [cone of cold](compendium/spells/cone-of-cold.md)
+- **Favored Weapon**: [war flail](archive/srd/pf2e/compendium/equipment/items/war-flail.md)
+- **Domains**: [cold](archive/srd/pf2e/compendium/setting/domains.md#Cold), [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [soul](archive/srd/pf2e/compendium/setting/domains.md#Soul)
+- **Cleric Spells**: 1st: [agitate](agitate-logm.md); 4th: [creation](archive/srd/pf2e/compendium/spells/creation.md); 5th: [cone of cold](cone-of-cold.md)

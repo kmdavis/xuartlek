@@ -8,14 +8,14 @@ tags:
 aliases: ["Blackfingers's Prayer"]
 ---
 # Blackfingers's Prayer *Hazard 19*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 40 legendary  
 
 The trapdoor's metal is infused with a deadly toxin that seeps out when the trap is triggered.
 
-- **Disable** DC 50 [Thievery](compendium/skills.md#Thievery) (legendary) to gum up the trapdoor's porous metal surface, DC 45 [Crafting](compendium/skills.md#Crafting) (master) to render the toxin inert, or dispel magic (9th level; counteract DC 45) to counteract the trap's magic.  
+- **Disable** DC 50 [Thievery](skills.md#Thievery) (legendary) to gum up the trapdoor's porous metal surface, DC 45 [Crafting](skills.md#Crafting) (master) to render the toxin inert, or dispel magic (9th level; counteract DC 45) to counteract the trap's magic.  
 
 - **AC** 40, **Fort** +38, **Ref** +30
 - **Hardness** 30, **HP** 150 (BT 75)

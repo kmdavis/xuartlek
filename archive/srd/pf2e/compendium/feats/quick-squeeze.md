@@ -8,15 +8,15 @@ tags:
 aliases: ["Quick Squeeze"]
 ---
 # Quick Squeeze  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Acrobatics](compendium/skills.md#Acrobatics)
+- **Prerequisites**: trained in [Acrobatics](skills.md#Acrobatics)
 
-You [Squeeze](rules/actions/squeeze.md) 5 feet per round (10 feet on a critical success). If you're legendary in [Acrobatics](compendium/skills.md#Acrobatics), you [Squeeze](rules/actions/squeeze.md) at full Speed.
+You [Squeeze](archive/srd/pf2e/rules/actions/squeeze.md) 5 feet per round (10 feet on a critical success). If you're legendary in [Acrobatics](skills.md#Acrobatics), you [Squeeze](archive/srd/pf2e/rules/actions/squeeze.md) at full Speed.
 
 ## Quick Squeeze leads to...
 
-[Implausible Infiltration](compendium/feats/implausible-infiltration.md)
+[Implausible Infiltration](archive/srd/pf2e/compendium/feats/implausible-infiltration.md)
 
 ## Summary
 

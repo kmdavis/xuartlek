@@ -20,8 +20,8 @@ aliases: ["Yog-Sothoth", "Lurker at the Threshold"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [knowledge](compendium/setting/domains.md#Knowledge), [time](compendium/setting/domains.md#Time), [travel](compendium/setting/domains.md#Travel), [void](compendium/setting/domains.md#Void)
-- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 5th: [black tentacles](compendium/spells/black-tentacles.md); 7th: [time beacon](compendium/spells/time-beacon-logm.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [time](archive/srd/pf2e/compendium/setting/domains.md#Time), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [fleet step](archive/srd/pf2e/compendium/spells/fleet-step.md); 5th: [black tentacles](black-tentacles.md); 7th: [time beacon](time-beacon-logm.md)

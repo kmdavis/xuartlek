@@ -7,12 +7,12 @@ tags:
 aliases: ["Secure Disguises"]
 ---
 # Secure Disguises
-[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
+[downtime](archive/srd/pf2e/rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Gamemastery Guide p. 163*  
 
 **Variant Rule** Infiltration
 
-You seek to procure or create disguises. Attempt a normal, hard, or very hard [Crafting](compendium/skills.md#Crafting), [Deception](compendium/skills.md#Deception), [Performance](compendium/skills.md#Performance), or [Society](compendium/skills.md#Society) check.
+You seek to procure or create disguises. Attempt a normal, hard, or very hard [Crafting](skills.md#Crafting), [Deception](skills.md#Deception), [Performance](skills.md#Performance), or [Society](skills.md#Society) check.
 
 > [!success-degree] 
 > - **Success** You procure or creates disguises, gaining 1 EP that can be used only to maintain a cover identity.

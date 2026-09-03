@@ -23,9 +23,9 @@ aliases: ["The Enlightened Scholar's Path"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
-- **Divine Skill**: [Lore](compendium/skills.md#Lore) or [Performance](compendium/skills.md#Performance)
-- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [knowledge](compendium/setting/domains.md#Knowledge), [magic](compendium/setting/domains.md#Magic), [protection](compendium/setting/domains.md#Protection)
-- **Alternate Domains**: [glyph](compendium/setting/domains.md#Glyph), [passion](compendium/setting/domains.md#Passion)
-- **Cleric Spells**: 1st: [share lore](compendium/spells/share-lore-logm.md); 3rd: [secret page](compendium/spells/secret-page.md); 5th: [strange geometry](compendium/spells/strange-geometry-apg.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
+- **Divine Skill**: [Lore](skills.md#Lore) or [Performance](skills.md#Performance)
+- **Favored Weapon**: [staff](archive/srd/pf2e/compendium/equipment/items/staff.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Alternate Domains**: [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion)
+- **Cleric Spells**: 1st: [share lore](share-lore-logm.md); 3rd: [secret page](secret-page.md); 5th: [strange geometry](strange-geometry-apg.md)

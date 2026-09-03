@@ -31,12 +31,12 @@ aliases: ["Suyuddha", "The Warrior Queen"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [duty](compendium/setting/domains.md#Duty), [perfection](compendium/setting/domains.md#Perfection), [trickery](compendium/setting/domains.md#Trickery), [zeal](compendium/setting/domains.md#Zeal)
-- **Alternate Domains**: [swarm](compendium/setting/domains.md#Swarm), [travel](compendium/setting/domains.md#Travel)
-- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 2nd: [mirror image](compendium/spells/mirror-image.md); 5th: [strange geometry](compendium/spells/strange-geometry-apg.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Alternate Domains**: [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel)
+- **Cleric Spells**: 1st: [mindlink](archive/srd/pf2e/compendium/spells/mindlink.md); 2nd: [mirror image](mirror-image.md); 5th: [strange geometry](strange-geometry-apg.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Suyuddha

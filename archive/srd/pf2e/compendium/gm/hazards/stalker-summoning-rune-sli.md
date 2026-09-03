@@ -10,14 +10,14 @@ tags:
 aliases: ["Stalker Summoning Rune"]
 ---
 # Stalker Summoning Rune *Hazard 7*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +15 expert  
 
-The sand conceals a rune that summons an [invisible](rules/conditions.md#Invisible) stalker into this yard.
+The sand conceals a rune that summons an [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) stalker into this yard.
 
-- **Disable** [Acrobatics](compendium/skills.md#Acrobatics) DC 25 to approach without triggering the trap followed by [Arcana](compendium/skills.md#Arcana) DC 25 (expert) or [Thievery](compendium/skills.md#Thievery) DC 27 (expert) to erase the rune, or dispel magic (4th level; counteract DC 25) to counteract the rune.  
+- **Disable** [Acrobatics](skills.md#Acrobatics) DC 25 to approach without triggering the trap followed by [Arcana](skills.md#Arcana) DC 25 (expert) or [Thievery](skills.md#Thievery) DC 27 (expert) to erase the rune, or dispel magic (4th level; counteract DC 25) to counteract the rune.  
 
 ```ad-embed-ability
 title: **Summon Monster** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [conjuration](rules/traits/conjuration.md), summon)

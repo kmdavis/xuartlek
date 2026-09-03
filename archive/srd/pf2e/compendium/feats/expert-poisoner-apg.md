@@ -7,9 +7,9 @@ tags:
 aliases: ["Expert Poisoner"]
 ---
 # Expert Poisoner  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Poisoner Dedication](compendium/feats/poisoner-dedication-apg.md), expert in [Crafting](compendium/skills.md#Crafting)
+- **Prerequisites**: [Poisoner Dedication](poisoner-dedication-apg.md), expert in [Crafting](skills.md#Crafting)
 
 Your advanced alchemy level for poison increases to your level – 3.
 

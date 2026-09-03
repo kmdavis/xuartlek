@@ -7,9 +7,9 @@ tags:
 aliases: ["Ancestral Mage"]
 ---
 # Ancestral Mage  *Feat 10*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
-- **Prerequisites**: [Ancestral Blood Magic](compendium/feats/ancestral-blood-magic-apg.md)
+- **Prerequisites**: [Ancestral Blood Magic](ancestral-blood-magic-apg.md)
 
 The magic of your ancestry and bloodline are one and the same. Add any innate spells you have from a heritage or an ancestry feat to your spell repertoire, meaning you can cast them using your spell slots.
 

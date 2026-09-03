@@ -10,13 +10,13 @@ tags:
 aliases: ["Undead Compendium"]
 ---
 # Undead Compendium *Item 14*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Knights of Lastwall have access to this item.
 - **Price** 6300 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-The best minds among the Magaambyan, Iomedaean, and Pharasmin Knights of Lastwall joined together to create these small, leather-bound journals. While you're holding an undead compendium, the information it contains slips into your mind, granting you a +2 item bonus to [Recall Knowledge](rules/actions/recall-knowledge.md) checks to obtain information about undead creatures.
+The best minds among the Magaambyan, Iomedaean, and Pharasmin Knights of Lastwall joined together to create these small, leather-bound journals. While you're holding an undead compendium, the information it contains slips into your mind, granting you a +2 item bonus to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) checks to obtain information about undead creatures.
 
 ```ad-embed-ability
 title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 10 minute envision, [Interact](rules/actions/interact.md) ([auditory](rules/traits/auditory.md), [linguistic](rules/traits/linguistic.md))

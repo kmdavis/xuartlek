@@ -10,19 +10,19 @@ tags:
 aliases: ["Fantastic Façade"]
 ---
 # Fantastic Façade *Ritual 9*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 week
 - **Cost** mystical paint, elaborate veils, and powdered minerals worth 20,000 gp total
 - **Secondary Casters** 3
-- **Primary Checks** [Arcana](compendium/skills.md#Arcana) or [Occultism](compendium/skills.md#Occultism) (legendary)
-- **Secondary Checks** [Society](compendium/skills.md#Society) or [Survival](compendium/skills.md#Survival), [Deception](compendium/skills.md#Deception), [Stealth](compendium/skills.md#Stealth)
+- **Primary Checks** [Arcana](skills.md#Arcana) or [Occultism](skills.md#Occultism) (legendary)
+- **Secondary Checks** [Society](skills.md#Society) or [Survival](skills.md#Survival), [Deception](skills.md#Deception), [Stealth](skills.md#Stealth)
 - **Area**: circle centered on you up to 1 mile in radius
 - **Targets**: 1 settlement and its residents
 
 You draw a permanent series of complex illusions over the target settlement, choosing the look, sound, feel, and smell of the structures, terrain, and creatures within at the time the ritual is cast. You can alter the appearance of existing structures and creatures, and you can add illusory structures or creatures. For example, you could cause everything and everyone in the target area to appear green, create an illusory forest with a thick canopy that obscures the settlement from outside view, or make empty ruins seem inhabited and pristine. When you create the facade, you determine which illusory elements remain static (limited to basic natural movement, such as flags blowing in the breeze) and which follow a basic program (for example, a daily parade in the town square, complete with marching band). You're unable to alter the programs after you create the facade.
 
-You can disguise creatures as you please, with the same effects as a 3rd-level [illusory disguise](compendium/spells/illusory-disguise.md). If a creature affected by the facade leaves the area, any illusions affecting it fade after 1 day. You decide when casting the ritual whether newcomers are disguised by the illusions, and whether the disguise appears immediately or after a set period, up to 1 week.
+You can disguise creatures as you please, with the same effects as a 3rd-level [illusory disguise](archive/srd/pf2e/compendium/spells/illusory-disguise.md). If a creature affected by the facade leaves the area, any illusions affecting it fade after 1 day. You decide when casting the ritual whether newcomers are disguised by the illusions, and whether the disguise appears immediately or after a set period, up to 1 week.
 
 A creature that interacts with the target settlement in a way that would suggest or reveal the illusory nature of the facade, such as by trying to paint a building affected by the facade or climbing an illusory structure, can attempt to 0. The illusions created by the spell are harmless, so an illusory river of lava wouldn't cause damage, nor could thorns on an illusory rose bush prick someone.
 

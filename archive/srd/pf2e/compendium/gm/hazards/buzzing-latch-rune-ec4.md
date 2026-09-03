@@ -10,14 +10,14 @@ tags:
 aliases: ["Buzzing Latch Rune"]
 ---
 # Buzzing Latch Rune *Hazard 13*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [sonic](archive/srd/pf2e/rules/traits/sonic.md "Sonic Energy & Element Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 32 master  
 
-An [invisible](rules/conditions.md#Invisible) rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder.
+An [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder.
 
-- **Disable** DC 34 [Thievery](compendium/skills.md#Thievery) (master) to disrupt the rune without triggering it or dispel magic (6th level; counteract DC 31) to magically counteract the rune.  
+- **Disable** DC 34 [Thievery](skills.md#Thievery) (master) to disrupt the rune without triggering it or dispel magic (6th level; counteract DC 31) to magically counteract the rune.  
 
 - **AC** 33, **Fort** +25, **Ref** +19
 - **Hardness** 21, **HP** 84 (BT 42)

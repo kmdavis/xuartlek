@@ -17,4 +17,4 @@ You plan to join the Call for Heroes so that you can make yourself known to the 
 
 Choose two ability boosts. One must be Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [Deception](compendium/skills.md#Deception) skill and the [Politics Lore](compendium/skills.md#Lore) skill. You gain the [Lie to Me](compendium/feats/lie-to-me.md) skill feat.
+You're trained in the [Deception](skills.md#Deception) skill and the [Politics Lore](skills.md#Lore) skill. You gain the [Lie to Me](archive/srd/pf2e/compendium/feats/lie-to-me.md) skill feat.

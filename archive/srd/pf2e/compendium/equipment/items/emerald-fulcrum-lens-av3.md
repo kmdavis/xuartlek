@@ -12,12 +12,12 @@ tags:
 aliases: ["Emerald Fulcrum Lens"]
 ---
 # Emerald Fulcrum Lens *Item 10*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 1000 gp
 - **Bulk** 3
 
-This concave green lens is pitted and flawed; its jagged edges can cut those who don't handle it with care. While you have the Emerald Fulcrum Lens invested, your flesh appears waxen and pallid. You gain negative healing and [harm](compendium/spells/harm.md) spells gain a +4 status bonus to the Hit Points they restore to you.
+This concave green lens is pitted and flawed; its jagged edges can cut those who don't handle it with care. While you have the Emerald Fulcrum Lens invested, your flesh appears waxen and pallid. You gain negative healing and [harm](archive/srd/pf2e/compendium/spells/harm.md) spells gain a +4 status bonus to the Hit Points they restore to you.
 
 You can also activate the lens in the following ways.
 

@@ -8,15 +8,15 @@ tags:
 aliases: ["Soul Warden Dedication"]
 ---
 # Soul Warden Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
-- **Prerequisites**: trained in [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion), worships [Pharasma](compendium/setting/deities/pharasma.md) or a psychopomp usher
+- **Prerequisites**: trained in [Occultism](skills.md#Occultism) or [Religion](skills.md#Religion), worships [Pharasma](pharasma.md) or a psychopomp usher
 
-You can take 10 minutes to emblazon [Pharasma](compendium/setting/deities/pharasma.md)'s holy sigil—a spiraling comet that represents the winding path a soul takes through its existence—upon a shield, tabard, banner, or other prominent object that your wear or wield. The symbol doesn't fade until 1 year has passed, but if you emblazon the symbol again, any symbol you previously emblazoned and any symbol already emblazoned on that item instantly disappears. The item becomes a religious symbol of [Pharasma](compendium/setting/deities/pharasma.md) and can be used as a divine focus while emblazoned.
+You can take 10 minutes to emblazon [Pharasma](pharasma.md)'s holy sigil—a spiraling comet that represents the winding path a soul takes through its existence—upon a shield, tabard, banner, or other prominent object that your wear or wield. The symbol doesn't fade until 1 year has passed, but if you emblazon the symbol again, any symbol you previously emblazoned and any symbol already emblazoned on that item instantly disappears. The item becomes a religious symbol of [Pharasma](pharasma.md) and can be used as a divine focus while emblazoned.
 
-Whenever an undead creature or captive soul is within 100 feet of this object, the spiral glows, shedding dim blue light in a 10-foot radius. If the creature is hiding or the soul is [hidden](rules/conditions.md#Hidden), it must succeed at a [Stealth](compendium/skills.md#Stealth) check against your [Perception](compendium/skills.md#Perception) DC to fool the sigil and prevent the spiral from glowing.
+Whenever an undead creature or captive soul is within 100 feet of this object, the spiral glows, shedding dim blue light in a 10-foot radius. If the creature is hiding or the soul is [hidden](archive/srd/pf2e/rules/conditions.md#Hidden), it must succeed at a [Stealth](skills.md#Stealth) check against your [Perception](skills.md#Perception) DC to fool the sigil and prevent the spiral from glowing.
 
-In addition, you can cast [disrupt undead](compendium/spells/disrupt-undead.md) as a divine innate cantrip at will. As normal, a cantrip is automatically heightened to half your level rounded up. You gain access to the [Cast a Spell](rules/actions/cast-a-spell.md) activity if you didn't have it already. You're trained in divine spell attack rolls and spell DCs. Your key spellcasting ability for these spells is Wisdom.
+In addition, you can cast [disrupt undead](disrupt-undead.md) as a divine innate cantrip at will. As normal, a cantrip is automatically heightened to half your level rounded up. You gain access to the [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) activity if you didn't have it already. You're trained in divine spell attack rolls and spell DCs. Your key spellcasting ability for these spells is Wisdom.
 
 When you have at least two other feats from this archetype, the spiral glows with bright light in a 10-foot radius (and dim light for the next 10 feet). Feats that require a creature or object to be in the light of your spiral function whether it's in the bright or dim light.
 
@@ -24,7 +24,7 @@ When you have at least two other feats from this archetype, the spiral glows wit
 
 ## Soul Warden Dedication leads to...
 
-[Cycle Spell](compendium/feats/cycle-spell-botd.md), [Psychopomp Familiar](compendium/feats/psychopomp-familiar-botd.md), [Enhanced Psychopomp Familiar](compendium/feats/enhanced-psychopomp-familiar-botd.md), [Liberate Soul](compendium/feats/liberate-soul-botd.md), [Spiral Sworn](compendium/feats/spiral-sworn-botd.md), [Expand Spiral](compendium/feats/expand-spiral-botd.md), [Safeguard Soul](compendium/feats/safeguard-soul-botd.md)
+[Cycle Spell](cycle-spell-botd.md), [Psychopomp Familiar](psychopomp-familiar-botd.md), [Enhanced Psychopomp Familiar](enhanced-psychopomp-familiar-botd.md), [Liberate Soul](liberate-soul-botd.md), [Spiral Sworn](spiral-sworn-botd.md), [Expand Spiral](expand-spiral-botd.md), [Safeguard Soul](safeguard-soul-botd.md)
 
 ## Summary
 

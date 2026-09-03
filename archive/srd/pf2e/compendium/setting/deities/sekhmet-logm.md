@@ -20,8 +20,8 @@ aliases: ["Sekhmet", "Lady of Slaughter"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Medicine
-- **Favored Weapon**: claws or [battle axe](compendium/equipment/items/battle-axe.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [healing](compendium/setting/domains.md#Healing), [indulgence](compendium/setting/domains.md#Indulgence), [might](compendium/setting/domains.md#Might)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 4th: [wall of fire](compendium/spells/wall-of-fire.md); 5th: moon frenzy Claw or
+- **Favored Weapon**: claws or [battle axe](archive/srd/pf2e/compendium/equipment/items/battle-axe.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [might](archive/srd/pf2e/compendium/setting/domains.md#Might)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 4th: [wall of fire](archive/srd/pf2e/compendium/spells/wall-of-fire.md); 5th: moon frenzy Claw or

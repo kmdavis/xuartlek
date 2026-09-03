@@ -10,13 +10,13 @@ tags:
 aliases: ["Coyote Cloak"]
 ---
 # Coyote Cloak *Item 3+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** —; **Usage** worn cloak
 
 This dusty coat is made of mangy brown-and-gray coyote fur.
 
-You gain a +1 item bonus to [Survival](compendium/skills.md#Survival) checks. If you critically succeed at your [Survival](compendium/skills.md#Survival) check to [Subsist](rules/actions/subsist.md), you can feed twice as many additional creatures.
+You gain a +1 item bonus to [Survival](skills.md#Survival) checks. If you critically succeed at your [Survival](skills.md#Survival) check to [Subsist](archive/srd/pf2e/rules/actions/subsist.md), you can feed twice as many additional creatures.
 
 ---
 
@@ -30,7 +30,7 @@ You gain a +1 item bonus to [Survival](compendium/skills.md#Survival) checks. If
 
 - **Price**: 650 gp
 
-The cloak grants a +2 item bonus, and if you critically succeed at a [Survival](compendium/skills.md#Survival) check to [Subsist](rules/actions/subsist.md), you can feed four times as many additional creatures.
+The cloak grants a +2 item bonus, and if you critically succeed at a [Survival](skills.md#Survival) check to [Subsist](archive/srd/pf2e/rules/actions/subsist.md), you can feed four times as many additional creatures.
 
 ---
 *Source: Core Rulebook p. 609*

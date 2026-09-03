@@ -8,14 +8,14 @@ tags:
 aliases: ["Damurdiel's Vengeance"]
 ---
 # Damurdiel's Vengeance *Hazard 19*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +37 legendary or DC 47 to notice the dagger left in the pool start to move on its own  
 
 An elven woman wearing a robe stands in the water. She beckons anyone who enters the room to join her in the pool.
 
-- **Disable** [Deception](compendium/skills.md#Deception) 45 (legendary) to pretend to be Erveniss and ask for forgiveness, [Diplomacy](compendium/skills.md#Diplomacy) 45 (legendary) to convince Damurdiel to stand down (elves who are masters in [Diplomacy](compendium/skills.md#Diplomacy) can attempt the check as if they were legendary instead), or [Religion](compendium/skills.md#Religion) 40 (legendary) to call upon [Calistria](compendium/setting/deities/calistria.md) to calm Damurdiel's spirit.  
+- **Disable** [Deception](skills.md#Deception) 45 (legendary) to pretend to be Erveniss and ask for forgiveness, [Diplomacy](skills.md#Diplomacy) 45 (legendary) to convince Damurdiel to stand down (elves who are masters in [Diplomacy](skills.md#Diplomacy) can attempt the check as if they were legendary instead), or [Religion](skills.md#Religion) 40 (legendary) to call upon [Calistria](calistria.md) to calm Damurdiel's spirit.  
 
 - **AC** 43, **Fort** +26, **Ref** +26, **Will** +35
 - **HP** 128 (BT 64) dagger

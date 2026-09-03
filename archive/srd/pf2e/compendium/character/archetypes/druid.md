@@ -13,7 +13,7 @@ You have entered a druidic circle and learned a few of the order's secrets, gran
 ## Multiclass Druid characters
 <sup>CRB p. 225</sup>
 
-The druid archetype can provide a bit of healing or elemental damage and can increase your utility in a natural environment with spells like [speak with animals](compendium/spells/speak-with-animals.md) and [meld into stone](compendium/spells/meld-into-stone.md).
+The druid archetype can provide a bit of healing or elemental damage and can increase your utility in a natural environment with spells like [speak with animals](archive/srd/pf2e/compendium/spells/speak-with-animals.md) and [meld into stone](meld-into-stone.md).
 
 *Source: Core Rulebook p. 225*
 

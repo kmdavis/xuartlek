@@ -7,10 +7,10 @@ tags:
 aliases: ["Cultural Adaptability"]
 ---
 # Cultural Adaptability  *Feat 5*  
-[halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
+[halfling](archive/srd/pf2e/rules/traits/halfling.md "Halfling Ancestry & Heritage Trait")  
 
 
-During your adventures, you've honed your ability to adapt to the culture of the predominant ancestry around you. You gain the [Adopted Ancestry](compendium/feats/adopted-ancestry.md) general feat, and you also gain one 1st-level ancestry feat from the ancestry you chose for the Adopted Ancestry feat.
+During your adventures, you've honed your ability to adapt to the culture of the predominant ancestry around you. You gain the [Adopted Ancestry](archive/srd/pf2e/compendium/feats/adopted-ancestry.md) general feat, and you also gain one 1st-level ancestry feat from the ancestry you chose for the Adopted Ancestry feat.
 
 *Source: Core Rulebook p. 53*  
 %% #compendium/src/pf2e/crb #trait/halfling %%

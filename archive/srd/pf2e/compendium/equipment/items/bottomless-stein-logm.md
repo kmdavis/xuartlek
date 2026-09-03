@@ -10,9 +10,9 @@ tags:
 aliases: ["Bottomless Stein"]
 ---
 # Bottomless Stein *Item 2*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Access** follower of [Cayden Cailean](compendium/setting/deities/cayden-cailean.md)
+- **Access** follower of [Cayden Cailean](cayden-cailean.md)
 - **Price** 25 gp
 - **Bulk** L; **Usage** held in 1 hand
 

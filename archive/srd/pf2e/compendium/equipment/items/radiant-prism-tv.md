@@ -10,13 +10,13 @@ tags:
 aliases: ["Radiant Prism"]
 ---
 # Radiant Prism *Item 16+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Bulk** —; **Usage** affixed to armor or a weapon
 
 Any armor or weapon this glass prism is affixed to glows softly with shifting colored lights. The spell DC of any spell cast by activating this item is 35.
 
-- Armor (light) After you cast an abjuration spell by activating the prism, you glow with dim light in a multitude of shimmering hues, shedding light like a torch and making you [concealed](rules/conditions.md#Concealed) until the end of your next turn.
+- Armor (light) After you cast an abjuration spell by activating the prism, you glow with dim light in a multitude of shimmering hues, shedding light like a torch and making you [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) until the end of your next turn.
 - Weapon After you cast an abjuration spell by activating the prism, your Strikes with the weapon gain the brilliant property rune until the end of your next turn.
 
 ```ad-embed-ability

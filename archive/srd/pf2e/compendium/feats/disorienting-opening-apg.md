@@ -7,11 +7,11 @@ tags:
 aliases: ["Disorienting Opening"]
 ---
 # Disorienting Opening  *Feat 8*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  
 
-- **Prerequisites**: [Attack of Opportunity](rules/actions/attack-of-opportunity.md)
+- **Prerequisites**: [Attack of Opportunity](archive/srd/pf2e/rules/actions/attack-of-opportunity.md)
 
-You use your foes' openings to expose even greater weaknesses. When you hit a creature as part of an [Attack of Opportunity](rules/actions/attack-of-opportunity.md), that creature becomes [flat-footed](rules/conditions.md#Flat-footed) until the start of your next turn.
+You use your foes' openings to expose even greater weaknesses. When you hit a creature as part of an [Attack of Opportunity](archive/srd/pf2e/rules/actions/attack-of-opportunity.md), that creature becomes [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until the start of your next turn.
 
 *Source: Advanced Player's Guide p. 126*  
 %% #compendium/src/pf2e/apg #trait/fighter %%

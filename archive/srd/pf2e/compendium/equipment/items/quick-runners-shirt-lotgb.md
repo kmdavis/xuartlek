@@ -11,7 +11,7 @@ tags:
 aliases: ["Quick Runner's Shirt"]
 ---
 # Quick Runner's Shirt *Item 5+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** worn
 
@@ -39,7 +39,7 @@ You [Stride](rules/actions/stride.md) twice and gain a +10-foot item bonus to yo
 
 - **Price**: 1750 gp
 
-When you Activate the shirt, you [Stride](rules/actions/stride.md) three times.
+When you Activate the shirt, you [Stride](archive/srd/pf2e/rules/actions/stride.md) three times.
 
 ---
 *Source: Lost Omens: The Grand Bazaar p. 43*

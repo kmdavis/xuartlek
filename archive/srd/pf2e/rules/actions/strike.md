@@ -7,8 +7,8 @@ tags:
 - trait/attack
 aliases: ["Strike", "Attack"]
 ---
-# Strike (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[attack](rules/traits/attack.md "Attack Combat Trait")  
+# Strike (basic) [>](chapter-9-playing-the-game.md#Actions "Single Action")
+[attack](archive/srd/pf2e/rules/traits/attack.md "Attack Combat Trait")  
 *Source: Core Rulebook p. 471*  
 
 

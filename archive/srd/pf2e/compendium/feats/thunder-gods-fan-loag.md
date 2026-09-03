@@ -7,11 +7,11 @@ tags:
 aliases: ["Thunder God's Fan"]
 ---
 # Thunder God's Fan  *Feat 13*  
-[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
+[tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Wind God's Fan](compendium/feats/wind-gods-fan-loag.md)
+- **Prerequisites**: [Wind God's Fan](wind-gods-fan-loag.md)
 
-A wave of your fan unleashes the fury of the storm. You can Activate your tengu feather fan one additional time per day. Add the 5th-level [lightning bolt](compendium/spells/lightning-bolt.md) spell to the spells contained within your fan.
+A wave of your fan unleashes the fury of the storm. You can Activate your tengu feather fan one additional time per day. Add the 5th-level [lightning bolt](archive/srd/pf2e/compendium/spells/lightning-bolt.md) spell to the spells contained within your fan.
 
 *Source: Lost Omens: Ancestry Guide p. 60*  
 %% #compendium/src/pf2e/loag #trait/tengu %%

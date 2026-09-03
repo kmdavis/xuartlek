@@ -8,10 +8,10 @@ tags:
 aliases: ["Adaptive Ablation"]
 ---
 # Adaptive Ablation *Focus 4*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  
 
-- **Domains** [change](compendium/setting/domains.md#Change)
-- **Cast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") 
+- **Domains** [change](archive/srd/pf2e/compendium/setting/domains.md#Change)
+- **Cast** [R](chapter-9-playing-the-game.md#Actions "Reaction") 
 - **Trigger**: You take acid, cold, electricity, fire, or sonic damage.
 - 
 - **Duration**: 1 minute

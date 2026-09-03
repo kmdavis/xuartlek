@@ -10,7 +10,7 @@ aliases: ["Cold Iron Armor"]
 
 - **Bulk** varies by armor; **Usage** worn armor
 
-Cold iron armor sickens certain creatures that touch it. A creature with weakness to cold iron (such as most demons and fey) that critically fails an unarmed attack against a creature in cold iron armor becomes [sickened](rules/conditions.md#Sickened). A creature with weakness to cold iron is [sickened](rules/conditions.md#Sickened) as long as it wears cold iron armor.
+Cold iron armor sickens certain creatures that touch it. A creature with weakness to cold iron (such as most demons and fey) that critically fails an unarmed attack against a creature in cold iron armor becomes [sickened](archive/srd/pf2e/rules/conditions.md#Sickened). A creature with weakness to cold iron is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) as long as it wears cold iron armor.
 
 ---
 

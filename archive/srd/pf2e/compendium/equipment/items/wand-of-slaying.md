@@ -10,7 +10,7 @@ tags:
 aliases: ["Wand of Slaying"]
 ---
 # Wand of Slaying *Item 16+*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of finger of death of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand

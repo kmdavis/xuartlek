@@ -7,7 +7,7 @@ tags:
 aliases: ["Ancestral Longevity"]
 ---
 # Ancestral Longevity  *Feat 1*  
-[elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
+[elf](archive/srd/pf2e/rules/traits/elf.md "Elf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: at least 100 years old
 
@@ -15,7 +15,7 @@ You have accumulated a vast array of lived knowledge over the years. During your
 
 ## Ancestral Longevity leads to...
 
-[Expert Longevity](compendium/feats/expert-longevity.md), [Universal Longevity](compendium/feats/universal-longevity.md)
+[Expert Longevity](archive/srd/pf2e/compendium/feats/expert-longevity.md), [Universal Longevity](archive/srd/pf2e/compendium/feats/universal-longevity.md)
 
 ## Summary
 

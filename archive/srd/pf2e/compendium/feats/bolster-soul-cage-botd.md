@@ -7,9 +7,9 @@ tags:
 aliases: ["Bolster Soul Cage"]
 ---
 # Bolster Soul Cage  *Feat 16*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Lich Dedication](compendium/feats/lich-dedication-botd.md), legendary in [Crafting](compendium/skills.md#Crafting)
+- **Prerequisites**: [Lich Dedication](lich-dedication-botd.md), legendary in [Crafting](skills.md#Crafting)
 
 Your constant efforts to augment and perfect your soul cage have bolstered its efficiency. Your soul cage has Hardness equal to your level and HP equal to four times your level. The time it takes your soul cage to rebuild your body is reduced to `1d6` days rather than `1d10` days.
 

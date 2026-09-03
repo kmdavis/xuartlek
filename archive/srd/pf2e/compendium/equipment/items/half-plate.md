@@ -14,7 +14,7 @@ aliases: ["Half Plate"]
 - **Strength** 16; **Check Penalty** -3; **Speed Penalty** -10 ft.
 - **Category** Heavy; **Group** Plate 
 
-Half plate consists of most of the upper body plates used in full plate, with lighter or sparser steel plate protection for the arms and legs. This provides some of the protection of [full plate](compendium/equipment/items/full-plate.md) with greater flexibility and speed. A suit of this armor comes with an undercoat of [padded armor](compendium/equipment/items/padded-armor.md) and a pair of [gauntlets](compendium/equipment/items/gauntlet.md).
+Half plate consists of most of the upper body plates used in full plate, with lighter or sparser steel plate protection for the arms and legs. This provides some of the protection of [full plate](archive/srd/pf2e/compendium/equipment/items/full-plate.md) with greater flexibility and speed. A suit of this armor comes with an undercoat of [padded armor](archive/srd/pf2e/compendium/equipment/items/padded-armor.md) and a pair of [gauntlets](archive/srd/pf2e/compendium/equipment/items/gauntlet.md).
 
 
 ---

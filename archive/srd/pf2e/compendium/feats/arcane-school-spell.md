@@ -7,11 +7,11 @@ tags:
 aliases: ["Arcane School Spell"]
 ---
 # Arcane School Spell  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Wizard Dedication](compendium/feats/wizard-dedication.md)
+- **Prerequisites**: [Wizard Dedication](archive/srd/pf2e/compendium/feats/wizard-dedication.md)
 
-You gain the school's initial school spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [Refocus](rules/actions/refocus.md) by studying.
+You gain the school's initial school spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [Refocus](archive/srd/pf2e/rules/actions/refocus.md) by studying.
 
 *Source: Core Rulebook p. 231*  
 %% #compendium/src/pf2e/crb #trait/archetype %%

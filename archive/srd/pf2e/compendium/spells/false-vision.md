@@ -10,14 +10,14 @@ tags:
 aliases: ["False Vision"]
 ---
 # False Vision *Spell 5*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 10 minutes 
 - **Range**: touch
 - **Area**: 100-foot burst
 - **Duration**: until the next time you make your daily preparations
 
-You create a false image that fools any attempts to scry on an area. Any [scrying](compendium/spells/scrying.md) spell sees, hears, smells, and otherwise detects whatever you wish within the area, rather than what is actually in the area. You can [Sustain the Spell](rules/actions/sustain-a-spell.md) each round to change the illusion as you desire, including playing out a complex scene. If the [scrying](compendium/spells/scrying.md) spell is of a higher level than false vision, the scryer can attempt a [Perception](compendium/skills.md#Perception) check to 0, though even if they're successful, they can't learn what's truly going on in the area.
+You create a false image that fools any attempts to scry on an area. Any [scrying](archive/srd/pf2e/compendium/spells/scrying.md) spell sees, hears, smells, and otherwise detects whatever you wish within the area, rather than what is actually in the area. You can [Sustain the Spell](sustain-a-spell.md) each round to change the illusion as you desire, including playing out a complex scene. If the [scrying](archive/srd/pf2e/compendium/spells/scrying.md) spell is of a higher level than false vision, the scryer can attempt a [Perception](skills.md#Perception) check to 0, though even if they're successful, they can't learn what's truly going on in the area.
 
 *Source: Core Rulebook p. 337*

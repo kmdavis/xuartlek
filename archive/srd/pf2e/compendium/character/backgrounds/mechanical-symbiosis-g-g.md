@@ -23,6 +23,6 @@ The entity might talk to you periodically, or it might only speak when it wants 
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Arcana](compendium/skills.md#Arcana) skill and an additional skill in which the clockwork entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were [Aiding](rules/actions/aid.md) you.
+You're trained in the [Arcana](skills.md#Arcana) skill and an additional skill in which the clockwork entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were [Aiding](archive/srd/pf2e/rules/actions/aid.md) you.
 
-If you accept but fail the check, the entity clenches up and you are [stunned](rules/conditions.md#Stunned) ([stunned](rules/conditions.md#Stunned) on a critical failure).
+If you accept but fail the check, the entity clenches up and you are [stunned](archive/srd/pf2e/rules/conditions.md#Stunned) ([stunned](archive/srd/pf2e/rules/conditions.md#Stunned) on a critical failure).

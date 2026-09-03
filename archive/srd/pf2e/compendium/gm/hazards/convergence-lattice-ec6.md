@@ -10,14 +10,14 @@ tags:
 aliases: ["Convergence Lattice"]
 ---
 # Convergence Lattice *Hazard 20*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +34 master to realize the lattice is a complex clockwork before it begins to move; noticing the lattice itself is DC 0.  
 
 A complex clockwork of bright metal and delicately carved gemstones, the lattice's interlocking gears begin to whir as golden runes glow across its surface.
 
-- **Disable** DC 40 [Thievery](compendium/skills.md#Thievery) (master) or DC 35 [Religion](compendium/skills.md#Religion) (master) four times to obliterate each of the four key runes. A DC 45 [Thievery](compendium/skills.md#Thievery) (legendary) check (or breaking the lattice) stops the clockwork's movement and prevents it from resetting, but doesn't stop its current activation.  
+- **Disable** DC 40 [Thievery](skills.md#Thievery) (master) or DC 35 [Religion](skills.md#Religion) (master) four times to obliterate each of the four key runes. A DC 45 [Thievery](skills.md#Thievery) (legendary) check (or breaking the lattice) stops the clockwork's movement and prevents it from resetting, but doesn't stop its current activation.  
 
 - **AC** 45, **Fort** +33, **Ref** +28
 - **Hardness** 30, **HP** 460 (BT 230)

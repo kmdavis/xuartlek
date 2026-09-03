@@ -11,7 +11,7 @@ tags:
 aliases: ["Khakkara"]
 ---
 # Khakkara *Item 0*  
-[shove](rules/traits/shove.md "Shove Weapon Trait")  [two-hand <1d10>](rules/traits/two-hand-1d10.md "Two-Hand Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
+[shove](archive/srd/pf2e/rules/traits/shove.md "Shove Weapon Trait")  [two-hand <1d10>](rules/traits/two-hand-1d10.md "Two-Hand Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** 1

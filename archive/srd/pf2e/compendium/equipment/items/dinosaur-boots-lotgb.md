@@ -11,7 +11,7 @@ tags:
 aliases: ["Dinosaur Boots"]
 ---
 # Dinosaur Boots *Item 10+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 1; **Usage** worn
 
@@ -42,7 +42,7 @@ You gain a foot unarmed attack that has the same statistics as your fist unarmed
 
 - **Price**: 9500 gp
 
-The activation makes you grow to size [Huge](rules/traits/huge-b1.md "Huge Size Trait"), if you choose, with the effects of 4th-level [enlarge](compendium/spells/enlarge.md). Either way, the damage die of your foot unarmed attack increases from `1d4` to `1d8`, and you can use Trample as many times as you want during the activation.
+The activation makes you grow to size [Huge](huge-b1.md "Huge Size Trait"), if you choose, with the effects of 4th-level [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md). Either way, the damage die of your foot unarmed attack increases from `1d4` to `1d8`, and you can use Trample as many times as you want during the activation.
 
 ---
 *Source: Lost Omens: The Grand Bazaar p. 42*

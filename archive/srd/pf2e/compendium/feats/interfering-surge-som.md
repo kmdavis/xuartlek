@@ -7,10 +7,10 @@ tags:
 - trait/archetype
 aliases: ["Interfering Surge"]
 ---
-# Interfering Surge  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Interfering Surge  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 12*  
+[abjuration](abjuration.md "Abjuration School Trait")  [archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Wellspring Mage Dedication](compendium/feats/wellspring-mage-dedication-som.md)
+- **Prerequisites**: [Wellspring Mage Dedication](wellspring-mage-dedication-som.md)
 - **Trigger** A creature you can see Casts a Spell.
 - **Requirements**: You have an unexpended spell slot and can see the triggering spell's manifestations.
 - **Activity** Reaction

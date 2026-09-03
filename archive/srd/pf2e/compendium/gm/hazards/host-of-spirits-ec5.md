@@ -8,14 +8,14 @@ tags:
 aliases: ["Host Of Spirits"]
 ---
 # Host Of Spirits *Hazard 18*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +35 expert  
 
 A host of angry spirits inhabiting the ruined house attempts to drag living creatures closer and crush them to death.
 
-- **Disable** DC 43 [Religion](compendium/skills.md#Religion) (master) to exorcise the spirits or DC 45 [Deception](compendium/skills.md#Deception) (master) to trick the spirits into departing.  
+- **Disable** DC 43 [Religion](skills.md#Religion) (master) to exorcise the spirits or DC 45 [Deception](skills.md#Deception) (master) to trick the spirits into departing.  
 
 ```ad-embed-ability
 title: **Embrace of Death** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](rules/traits/attack.md), [death](rules/traits/death.md), [necromancy](rules/traits/necromancy.md), [occult](rules/traits/occult.md))

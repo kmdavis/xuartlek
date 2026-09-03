@@ -10,10 +10,10 @@ tags:
 aliases: ["Overstuff"]
 ---
 # Overstuff *Focus 1*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [indulgence](compendium/setting/domains.md#Indulgence)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 living creature
 - **Saving Throw**: Fortitude
@@ -22,8 +22,8 @@ Huge amounts of food and drink fill the target. It receives a full meal's worth 
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [sickened](rules/conditions.md#Sickened), but if it spends an action to end the condition, it succeeds automatically.
-> - **Failure** The target is [sickened](rules/conditions.md#Sickened).
-> - **Critical Failure** The target is [sickened](rules/conditions.md#Sickened). A target [sickened](rules/conditions.md#Sickened) by this spell takes a –10-foot status penalty to its Speed until it's no longer [sickened](rules/conditions.md#Sickened).
+> - **Success** The target is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened), but if it spends an action to end the condition, it succeeds automatically.
+> - **Failure** The target is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Critical Failure** The target is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened). A target [sickened](archive/srd/pf2e/rules/conditions.md#Sickened) by this spell takes a –10-foot status penalty to its Speed until it's no longer [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
 
 *Source: Core Rulebook p. 394*

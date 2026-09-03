@@ -12,10 +12,10 @@ tags:
 aliases: ["Commanding Lash"]
 ---
 # Commanding Lash *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [tyranny](compendium/setting/domains.md#Tyranny)
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Domains** [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny)
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Requirements**: Your most recent action dealt damage to a target.
 - **Range**: 100 foot
 - **Targets**: A creature you dealt damage to on your most recent action.

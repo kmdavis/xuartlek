@@ -7,11 +7,11 @@ tags:
 aliases: ["Physical Training"]
 ---
 # Physical Training  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Swordmaster Dedication](compendium/feats/swordmaster-dedication-locg.md), expert in [Athletics](compendium/skills.md#Athletics) and [Acrobatics](compendium/skills.md#Acrobatics)
+- **Prerequisites**: [Swordmaster Dedication](swordmaster-dedication-locg.md), expert in [Athletics](skills.md#Athletics) and [Acrobatics](skills.md#Acrobatics)
 
-You spend a lot of time focusing on your physical fitness. You increase your proficiency rank in [Acrobatics](compendium/skills.md#Acrobatics) and [Athletics](compendium/skills.md#Athletics) from expert to master.
+You spend a lot of time focusing on your physical fitness. You increase your proficiency rank in [Acrobatics](skills.md#Acrobatics) and [Athletics](skills.md#Athletics) from expert to master.
 
 *Source: Lost Omens: Pathfinder Society Guide p. 52*  
 %% #compendium/src/pf2e/lopsg #trait/archetype %%

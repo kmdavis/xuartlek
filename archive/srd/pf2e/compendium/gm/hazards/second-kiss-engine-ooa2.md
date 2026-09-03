@@ -9,13 +9,13 @@ tags:
 aliases: ["Second Kiss Engine"]
 ---
 # Second Kiss Engine *Hazard 6*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 
 Exposed clockwork gears spin at high speeds.
 
-- **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) (expert) to disable the engine, or DC 26 [Engineering Lore](compendium/skills.md#Lore) to disengage the drive shaft. Either method disables the trap but also shuts down the engine, disabling the Second Kiss's propulsion.  
+- **Disable** DC 28 [Thievery](skills.md#Thievery) (expert) to disable the engine, or DC 26 [Engineering Lore](skills.md#Lore) to disengage the drive shaft. Either method disables the trap but also shuts down the engine, disabling the Second Kiss's propulsion.  
 
 - **AC** 27, **Fort** +15, **Ref** +18
 - **Hardness** 10, **HP** 50 (BT 25)

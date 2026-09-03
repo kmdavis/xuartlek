@@ -8,11 +8,11 @@ tags:
 aliases: ["Issue Challange"]
 ---
 # Issue Challange
-[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
+[downtime](archive/srd/pf2e/rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Age of Ashes #5: Against the Scarlet Triad p. 20*  
 
 
-You spend a day promoting your combat abilities, trash-talking the competition, calling out the leadership of the Gladiators' Guild, or performing public feats of bravado to compel the guildmaster of the Gladiators' Guild to accept your challenge to rule over the arena. This action ties specifically into Task 3: Blood on the Sand (page 32). Attempt a DC 36 [Athletics](compendium/skills.md#Athletics), [Deception](compendium/skills.md#Deception), [Intimidation](compendium/skills.md#Intimidation), [Performance](compendium/skills.md#Performance), or appropriate [Lore](compendium/skills.md#Lore) skill check.
+You spend a day promoting your combat abilities, trash-talking the competition, calling out the leadership of the Gladiators' Guild, or performing public feats of bravado to compel the guildmaster of the Gladiators' Guild to accept your challenge to rule over the arena. This action ties specifically into Task 3: Blood on the Sand (page 32). Attempt a DC 36 [Athletics](skills.md#Athletics), [Deception](skills.md#Deception), [Intimidation](skills.md#Intimidation), [Performance](skills.md#Performance), or appropriate [Lore](skills.md#Lore) skill check.
 
 > [!success-degree] 
 > - **Critical Success** You provoke Bshez Shak into accepting your challenge.

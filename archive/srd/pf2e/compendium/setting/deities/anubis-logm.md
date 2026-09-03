@@ -20,8 +20,8 @@ aliases: ["Anubis", "Guardian of the Tomb"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [flail](compendium/equipment/items/flail.md)
-- **Domains**: [death](compendium/setting/domains.md#Death), [protection](compendium/setting/domains.md#Protection), [soul](compendium/setting/domains.md#Soul), [vigil](compendium/setting/domains.md#Vigil)
-- **Cleric Spells**: 1st: [unseen servant](compendium/spells/unseen-servant.md); 3rd: shifting sand; 5th: [wall of stone](compendium/spells/wall-of-stone.md)
+- **Favored Weapon**: [flail](archive/srd/pf2e/compendium/equipment/items/flail.md)
+- **Domains**: [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [soul](archive/srd/pf2e/compendium/setting/domains.md#Soul), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [unseen servant](unseen-servant.md); 3rd: shifting sand; 5th: [wall of stone](archive/srd/pf2e/compendium/spells/wall-of-stone.md)

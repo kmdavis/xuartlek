@@ -7,14 +7,14 @@ tags:
 aliases: ["Cannibalistic Echoes"]
 ---
 # Cannibalistic Echoes *Hazard 16*  
-[haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 42 master to sense something unusual lurking in the area's echoes  
 
 A pack of cannibalistic spirits swarm through the area, devouring living creatures
 
-- **Disable** DC 40 [Intimidation](compendium/skills.md#Intimidation) (master) to drive the spirits off with a ferocious display or DC 42 [Occultism](compendium/skills.md#Occultism) (expert) to exorcise the spirits  
+- **Disable** DC 40 [Intimidation](skills.md#Intimidation) (master) to drive the spirits off with a ferocious display or DC 42 [Occultism](skills.md#Occultism) (expert) to exorcise the spirits  
 
 ```ad-embed-ability
 title: **Feast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

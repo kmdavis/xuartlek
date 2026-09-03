@@ -11,18 +11,18 @@ tags:
 aliases: ["Vision Of Dahak"]
 ---
 # Vision Of Dahak *Hazard 8*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +16 expert  
 
-Blasts of fire and smoke pour out of the tunnel walls to coalesce into the burning form of [Dahak](compendium/setting/deities/dahak-logm.md) himself; a PC who succeeds at a DC 20 [Religion](compendium/skills.md#Religion) check to [Recall Knowledge](rules/actions/recall-knowledge.md) notes that the fiery dragon closely resembles classical depictions of the draconic god of destruction.
+Blasts of fire and smoke pour out of the tunnel walls to coalesce into the burning form of [Dahak](dahak-logm.md) himself; a PC who succeeds at a DC 20 [Religion](skills.md#Religion) check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) notes that the fiery dragon closely resembles classical depictions of the draconic god of destruction.
 
-- **Disable** [Religion](compendium/skills.md#Religion) DC 26 (expert) to utter prayers to a nonevil deity to counteract [Dahak](compendium/setting/deities/dahak-logm.md)'s presence (prayers to [Apsu](compendium/setting/deities/apsu-logm.md) allow this check to be made if the character is merely trained in [Religion](compendium/skills.md#Religion)), [Thievery](compendium/skills.md#Thievery) DC 30 (expert) to divert the hazard's energies back upon themselves, or a successful dispel magic (4th level; counteract DC 26).  
+- **Disable** [Religion](skills.md#Religion) DC 26 (expert) to utter prayers to a nonevil deity to counteract [Dahak](dahak-logm.md)'s presence (prayers to [Apsu](apsu-logm.md) allow this check to be made if the character is merely trained in [Religion](skills.md#Religion)), [Thievery](skills.md#Thievery) DC 30 (expert) to divert the hazard's energies back upon themselves, or a successful dispel magic (4th level; counteract DC 26).  
 
 - **AC** 27, **Fort** +17, **Ref** +13
 - **HP** 130
-- **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
+- **Immunities** critical hits; [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
 - **Weaknesses** cold 10
 
 ```ad-embed-ability
@@ -47,6 +47,6 @@ The vision of [Dahak](compendium/setting/deities/dahak-logm.md) unleashes a blas
 ````
 ^routine
 
-**Reset** The vision of [Dahak](compendium/setting/deities/dahak-logm.md) deactivates and resets automatically once no creatures remain within the Huntergate way station.  
+**Reset** The vision of [Dahak](dahak-logm.md) deactivates and resets automatically once no creatures remain within the Huntergate way station.  
 
 *Source: Age of Ashes #2: Cult of Cinders p. 10*

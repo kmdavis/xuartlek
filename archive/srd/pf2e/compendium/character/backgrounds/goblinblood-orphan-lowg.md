@@ -15,4 +15,4 @@ Your family, whether goblin, hobgoblin, or human, died in the Goblinblood Wars. 
 
 Choose two ability boosts. One must be to Dexterity or Constitution, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and the [Goblin Lore](compendium/skills.md#Lore) skill. You gain the [Assurance](compendium/feats/assurance.md) skill feat with [Survival](compendium/skills.md#Survival).
+You're trained in the [Survival](skills.md#Survival) skill and the [Goblin Lore](skills.md#Lore) skill. You gain the [Assurance](archive/srd/pf2e/compendium/feats/assurance.md) skill feat with [Survival](skills.md#Survival).

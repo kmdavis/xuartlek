@@ -9,7 +9,7 @@ tags:
 aliases: ["Advancing"]
 ---
 # Advancing *Item 9+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Usage** etched onto heavy armor
 
@@ -35,7 +35,7 @@ title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Action
 
 - **Price**: 8000 gp
 
-You can [Stride](rules/actions/stride.md) up to your Speed instead of 15 feet.
+You can [Stride](archive/srd/pf2e/rules/actions/stride.md) up to your Speed instead of 15 feet.
 
 ---
 *Source: Treasure Vault p. 12*

@@ -7,9 +7,9 @@ tags:
 aliases: ["Wyrmling Flight"]
 ---
 # Wyrmling Flight  *Feat 17*  
-[kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  
+[kobold](kobold-b1.md "Kobold Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Hatchling Flight](compendium/feats/hatchling-flight-loag.md)
+- **Prerequisites**: [Hatchling Flight](hatchling-flight-loag.md)
 
 Your draconic wings have grown large and strong enough for flight. You gain a fly Speed equal to your Speed, using your wings to stay aloft.
 

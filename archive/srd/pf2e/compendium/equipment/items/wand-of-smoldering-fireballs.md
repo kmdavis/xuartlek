@@ -11,7 +11,7 @@ tags:
 aliases: ["Wand of Smoldering Fireballs"]
 ---
 # Wand of Smoldering Fireballs *Item 8+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [wand](rules/traits/wand.md "Wand Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [wand](archive/srd/pf2e/rules/traits/wand.md "Wand Item Trait")  
 
 - **Craft Requirements** Supply a casting of fireball of the appropriate level.
 - **Bulk** L; **Usage** held in 1 hand
@@ -34,25 +34,25 @@ title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
 
 - **Price**: 500 gp
 
-[persistent damage](rules/conditions.md#Persistent%20Damage) `1d6`.
+[persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) `1d6`.
 
 #### 5th-level spell *Item 12*
 
 - **Price**: 2000 gp
 
-[persistent damage](rules/conditions.md#Persistent%20Damage) `2d6`.
+[persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) `2d6`.
 
 #### 7th-level spell *Item 16*
 
 - **Price**: 10000 gp
 
-[persistent damage](rules/conditions.md#Persistent%20Damage) `3d6`.
+[persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) `3d6`.
 
 #### 9th-level spell *Item 20*
 
 - **Price**: 70000 gp
 
-[persistent damage](rules/conditions.md#Persistent%20Damage) `4d6`.
+[persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) `4d6`.
 
 ---
 *Source: Core Rulebook p. 598*

@@ -20,8 +20,8 @@ aliases: ["Sifkesh", "The Whispered Doubt"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Deception
 - **Favored Weapon**: war razor
-- **Domains**: [nightmares](compendium/setting/domains.md#Nightmares), [pain](compendium/setting/domains.md#Pain), [sorrow](compendium/setting/domains.md#Sorrow), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [ill omen](compendium/spells/ill-omen-logm.md); 4th: [crushing despair](compendium/spells/crushing-despair.md); 5th: [subconscious suggestion](compendium/spells/subconscious-suggestion.md)
+- **Domains**: [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares), [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [ill omen](ill-omen-logm.md); 4th: [crushing despair](crushing-despair.md); 5th: [subconscious suggestion](archive/srd/pf2e/compendium/spells/subconscious-suggestion.md)

@@ -10,7 +10,7 @@ tags:
 aliases: ["Unholy"]
 ---
 # Unholy *Item 11*  
-[evil](rules/traits/evil.md "Evil Alignment Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evil](evil.md "Evil Alignment Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1400 gp
 - **Craft Requirements** You are evil.
@@ -18,7 +18,7 @@ aliases: ["Unholy"]
 
 An unholy rune instills fiendish power into the etched weapon.
 
-A weapon with this rune deals an additional `1d6` evil damage when it hits a good target. If you are good, you are [enfeebled](rules/conditions.md#Enfeebled) while carrying or wielding this weapon.
+A weapon with this rune deals an additional `1d6` evil damage when it hits a good target. If you are good, you are [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) while carrying or wielding this weapon.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") command

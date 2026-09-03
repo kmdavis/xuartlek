@@ -7,15 +7,15 @@ tags:
 aliases: ["Basic Sorcerer Spellcasting"]
 ---
 # Basic Sorcerer Spellcasting  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Sorcerer Dedication](compendium/feats/sorcerer-dedication.md)
+- **Prerequisites**: [Sorcerer Dedication](archive/srd/pf2e/compendium/feats/sorcerer-dedication.md)
 
 You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the sorcerer archetype, add a spell of the appropriate spell level to your repertoire: a common spell of your bloodline's tradition, one of your bloodline's granted spells, or another spell you have learned or discovered.
 
 ## Basic Sorcerer Spellcasting leads to...
 
-[Bloodline Breadth](compendium/feats/bloodline-breadth.md), [Expert Sorcerer Spellcasting](compendium/feats/expert-sorcerer-spellcasting.md), [Master Sorcerer Spellcasting](compendium/feats/master-sorcerer-spellcasting.md)
+[Bloodline Breadth](archive/srd/pf2e/compendium/feats/bloodline-breadth.md), [Expert Sorcerer Spellcasting](archive/srd/pf2e/compendium/feats/expert-sorcerer-spellcasting.md), [Master Sorcerer Spellcasting](archive/srd/pf2e/compendium/feats/master-sorcerer-spellcasting.md)
 
 ## Summary
 

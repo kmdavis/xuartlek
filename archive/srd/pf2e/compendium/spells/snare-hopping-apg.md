@@ -11,9 +11,9 @@ tags:
 aliases: ["Snare Hopping"]
 ---
 # Snare Hopping *Focus 1*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 10 foot
 - **Targets**: one snare you built
 

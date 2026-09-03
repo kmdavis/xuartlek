@@ -15,8 +15,8 @@ On the night of the Missing Moment, you saw visions of fabulous riches in the ga
 
 The night's cold hardly bothered you; in fact, you soon discovered that you could absorb the very chill in the air, in the process changing the appearance of everything around you into a sheen of finest silver. You're no richer than before you walked through the gate, unfortunately, but perhaps you could use this new power somehow to pursue your avarice anew.
 
-Your deviant abilities are of the dragon classification. You gain the [Consume Energy](compendium/feats/consume-energy-da.md) deviant feat with the cold type. As a quirk, your deviant abilities manifest in a silver hue, and when you use a deviant ability you absorb the color silver from your surroundings. The absorbed color returns to your surroundings within an hour.
+Your deviant abilities are of the dragon classification. You gain the [Consume Energy](consume-energy-da.md) deviant feat with the cold type. As a quirk, your deviant abilities manifest in a silver hue, and when you use a deviant ability you absorb the color silver from your surroundings. The absorbed color returns to your surroundings within an hour.
 
 Choose two ability boosts. One must be to Charisma or Dexterity, and one is a free ability boost.
 
-You're trained in the [Thievery](compendium/skills.md#Thievery) skill and the [Games Lore](compendium/skills.md#Lore) skill. You gain the [Subtle Theft](compendium/feats/subtle-theft.md) skill feat.
+You're trained in the [Thievery](skills.md#Thievery) skill and the [Games Lore](skills.md#Lore) skill. You gain the [Subtle Theft](archive/srd/pf2e/compendium/feats/subtle-theft.md) skill feat.

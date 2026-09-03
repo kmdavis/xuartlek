@@ -8,11 +8,11 @@ tags:
 aliases: ["Warpglass Weapon"]
 ---
 # Warpglass Weapon *Item 17*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** varies; **Usage** varies by weapon
 
-If you critically hit a creature with a [Strike](rules/actions/strike.md) with a warpglass weapon, the target is affected by a warpwave and automatically fails its saving throw.
+If you critically hit a creature with a [Strike](archive/srd/pf2e/rules/actions/strike.md) with a warpglass weapon, the target is affected by a warpwave and automatically fails its saving throw.
 
 ---
 

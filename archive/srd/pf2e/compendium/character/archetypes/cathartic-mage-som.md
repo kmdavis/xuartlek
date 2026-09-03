@@ -27,22 +27,22 @@ The following emotional states are used in the Cathartic Mage archetype. Each em
 
 **Emotional Fallout** The effect you experience when your emotional fervor ends.
 
-**Focus Spell** The focus spell you gain if you select the [Cathartic Focus Spell](compendium/feats/cathartic-focus-spell-som.md) archetype feat.
+**Focus Spell** The focus spell you gain if you select the [Cathartic Focus Spell](cathartic-focus-spell-som.md) archetype feat.
 
 ### Anger
 <sup>SoM p. 194</sup>
 
 Your destructive wrath allows you to harm your foes but causes you pain in the process.
 
-**Catharsis Trigger** An enemy deals damage to you. You can't use this reaction if you're [fatigued](rules/conditions.md#Fatigued).
+**Catharsis Trigger** An enemy deals damage to you. You can't use this reaction if you're [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued).
 
-**Catharsis Activation** If you're [grabbed](rules/conditions.md#Grabbed), [immobilized](rules/conditions.md#Immobilized), or [restrained](rules/conditions.md#Restrained), you can attempt to [Escape](rules/actions/escape.md). If you succeed, the creature or hazard imposing the condition on you (if applicable) takes force damage equal to your level.
+**Catharsis Activation** If you're [grabbed](archive/srd/pf2e/rules/conditions.md#Grabbed), [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized), or [restrained](archive/srd/pf2e/rules/conditions.md#Restrained), you can attempt to [Escape](archive/srd/pf2e/rules/actions/escape.md). If you succeed, the creature or hazard imposing the condition on you (if applicable) takes force damage equal to your level.
 
-**Emotional Fervor** When you [Cast a Spell](rules/actions/cast-a-spell.md) from your spell slots, if the spell deals damage and doesn't have a duration, you gain a status bonus to that spell's damage equal to the spell's level. Spell: [draw ire](compendium/spells/draw-ire-som.md)
+**Emotional Fervor** When you [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) from your spell slots, if the spell deals damage and doesn't have a duration, you gain a status bonus to that spell's damage equal to the spell's level. Spell: [draw ire](draw-ire-som.md)
 
-**Emotional Fallout** You become [fatigued](rules/conditions.md#Fatigued) until you Settle your Emotions.
+**Emotional Fallout** You become [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) until you Settle your Emotions.
 
-**Focus Spell** [athletic rush](compendium/spells/athletic-rush.md)
+**Focus Spell** [athletic rush](archive/srd/pf2e/compendium/spells/athletic-rush.md)
 
 ### Awe
 <sup>SoM p. 194</sup>
@@ -51,13 +51,13 @@ Your powerful sense of wonderment can be infectious and distracting.
 
 **Catharsis Trigger** You or an ally within 30 feet critically succeeds on an attack roll against an enemy's AC or a skill check against one of an enemy's DCs.
 
-**Catharsis Activation** If you're [fascinated](rules/conditions.md#Fascinated) or [stupefied](rules/conditions.md#Stupefied), you can attempt an additional save to end the effect if it allowed a save.
+**Catharsis Activation** If you're [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) or [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied), you can attempt an additional save to end the effect if it allowed a save.
 
-**Emotional Fervor** When you cast a spell, choose one creature that was hit by your spell attack roll or that failed its saving throw, if any. That creature becomes [fascinated](rules/conditions.md#Fascinated) with you until the end of its next turn. It's then temporarily immune to this fervor effect for 1 hour. Spell: [glitterdust](compendium/spells/glitterdust.md)
+**Emotional Fervor** When you cast a spell, choose one creature that was hit by your spell attack roll or that failed its saving throw, if any. That creature becomes [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) with you until the end of its next turn. It's then temporarily immune to this fervor effect for 1 hour. Spell: [glitterdust](glitterdust.md)
 
-**Emotional Fallout** You become [flat-footed](rules/conditions.md#Flat-footed) until you Settle your Emotions.
+**Emotional Fallout** You become [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until you Settle your Emotions.
 
-**Focus Spell** [dazzling flash](compendium/spells/dazzling-flash.md) (doesn't require a religious symbol)
+**Focus Spell** [dazzling flash](archive/srd/pf2e/compendium/spells/dazzling-flash.md) (doesn't require a religious symbol)
 
 ### Dedication
 <sup>SoM p. 194</sup>
@@ -68,26 +68,26 @@ Your commitment protects those you are dedicated to but can lead to dependency. 
 
 **Catharsis Activation** Your emotional focus gains a number of temporary Hit Points equal to half your level rounded up. These temporary HP last for 1 minute.
 
-**Emotional Fervor** Your spells that target your emotional focus gain the benefits of Reach Spell. When you cast a healing spell that affects your emotional focus, your emotional focus also gains temporary HP equal to the spell's level in addition to the spell's effects. These temporary HP last for 1 minute. Spell: [spirit link](compendium/spells/spirit-link.md)
+**Emotional Fervor** Your spells that target your emotional focus gain the benefits of Reach Spell. When you cast a healing spell that affects your emotional focus, your emotional focus also gains temporary HP equal to the spell's level in addition to the spell's effects. These temporary HP last for 1 minute. Spell: [spirit link](archive/srd/pf2e/compendium/spells/spirit-link.md)
 
 **Emotional Fallout** Until you Settle your Emotions, you can't Cast Spells unless you're adjacent to your emotional focus.
 
-**Focus Spell** [protector's sacrifice](compendium/spells/protectors-sacrifice.md)
+**Focus Spell** [protector's sacrifice](archive/srd/pf2e/compendium/spells/protectors-sacrifice.md)
 
 ### Fear
 <sup>SoM p. 194</sup>
 
 You let your fear fuel you, rather than consume you, but it burns your endurance.
 
-**Catharsis Trigger** An enemy makes you [frightened](rules/conditions.md#Frightened).
+**Catharsis Trigger** An enemy makes you [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
 
-**Catharsis Activation** Increase your [frightened](rules/conditions.md#Frightened) value by 1, to a maximum of [frightened](rules/conditions.md#Frightened).
+**Catharsis Activation** Increase your [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) value by 1, to a maximum of [frightened](archive/srd/pf2e/rules/conditions.md#Frightened).
 
-**Emotional Fervor** You don't take the status penalty from the [frightened](rules/conditions.md#Frightened) condition to your spell DCs or spell attack bonus. Instead, you gain a status bonus to spell attack rolls equal to the penalty you would've taken, and your foes take the same status penalty to their saving throws against your spells. Any other statistic takes the status penalty as normal. Spell: [fear](compendium/spells/fear.md)
+**Emotional Fervor** You don't take the status penalty from the [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) condition to your spell DCs or spell attack bonus. Instead, you gain a status bonus to spell attack rolls equal to the penalty you would've taken, and your foes take the same status penalty to their saving throws against your spells. Any other statistic takes the status penalty as normal. Spell: [fear](archive/srd/pf2e/compendium/spells/fear.md)
 
-**Emotional Fallout** You are [fleeing](rules/conditions.md#Fleeing) for 2 rounds, running from the source of the [frightened](rules/conditions.md#Frightened) condition that triggered your Catharsis. If that source is no longer present, you instead flee from the position where you were at the start of your emotional fallout.
+**Emotional Fallout** You are [fleeing](archive/srd/pf2e/rules/conditions.md#Fleeing) for 2 rounds, running from the source of the [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) condition that triggered your Catharsis. If that source is no longer present, you instead flee from the position where you were at the start of your emotional fallout.
 
-**Focus Spell** [waking nightmare](compendium/spells/waking-nightmare.md)
+**Focus Spell** [waking nightmare](archive/srd/pf2e/compendium/spells/waking-nightmare.md)
 
 ### Hatred
 <sup>SoM p. 194</sup>
@@ -96,13 +96,13 @@ Your unabashed hatred consumes your soul and causes your foe to falter. Your emo
 
 **Catharsis Trigger** You start your first turn in an encounter against your emotional focus or one of their followers. If the encounter includes multiple eligible followers and doesn't include your actual emotional focus, choose one of the followers to act as your emotional focus for this encounter (or until your actual emotional focus shows up).
 
-**Catharsis Activation** You can [Step](rules/actions/step.md) or [Stride](rules/actions/stride.md). You must end this movement closer to your emotional focus.
+**Catharsis Activation** You can [Step](archive/srd/pf2e/rules/actions/step.md) or [Stride](archive/srd/pf2e/rules/actions/stride.md). You must end this movement closer to your emotional focus.
 
-**Emotional Fervor** Your emotional focus is [flat-footed](rules/conditions.md#Flat-footed) to you and takes a –2 status penalty to saves against your spells. You're [flat-footed](rules/conditions.md#Flat-footed) to your emotional focus and take a –2 status penalty to saves against it. Spell: [blood vendetta](compendium/spells/blood-vendetta-apg.md)
+**Emotional Fervor** Your emotional focus is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) to you and takes a –2 status penalty to saves against your spells. You're [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) to your emotional focus and take a –2 status penalty to saves against it. Spell: [blood vendetta](blood-vendetta-apg.md)
 
-**Emotional Fallout** You become [stunned](rules/conditions.md#Stunned).
+**Emotional Fallout** You become [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
 
-**Focus Spell** [cry of destruction](compendium/spells/cry-of-destruction.md)
+**Focus Spell** [cry of destruction](archive/srd/pf2e/compendium/spells/cry-of-destruction.md)
 
 ### Joy
 <sup>SoM p. 194</sup>
@@ -111,13 +111,13 @@ Your unbridled enthusiasm and positive attitude can lead you to success, but you
 
 **Catharsis Trigger** You critically succeed on an attack roll or save, or an enemy critically fails on a save against you.
 
-**Catharsis Activation** Reduce the value of any [frightened](rules/conditions.md#Frightened) or [stupefied](rules/conditions.md#Stupefied) condition you have by 1 and end any [persistent mental damage](rules/conditions.md#Persistent%20Damage) you have.
+**Catharsis Activation** Reduce the value of any [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) or [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) condition you have by 1 and end any [persistent mental damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) you have.
 
-**Emotional Fervor** You gain a +1 status bonus to [Performance](compendium/skills.md#Performance) checks and to the spell attack rolls of [emotion](rules/traits/emotion.md "Emotion Effect Trait") spells, and enemies take a –1 status penalty to saves against your [emotion](rules/traits/emotion.md "Emotion Effect Trait") spells. Spell: [hideous laughter](compendium/spells/hideous-laughter.md)
+**Emotional Fervor** You gain a +1 status bonus to [Performance](skills.md#Performance) checks and to the spell attack rolls of [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") spells, and enemies take a –1 status penalty to saves against your [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait") spells. Spell: [hideous laughter](hideous-laughter.md)
 
-**Emotional Fallout** You become [fatigued](rules/conditions.md#Fatigued) until you Settle your Emotions.
+**Emotional Fallout** You become [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) until you Settle your Emotions.
 
-**Focus Spell** [unimpeded stride](compendium/spells/unimpeded-stride.md)
+**Focus Spell** [unimpeded stride](archive/srd/pf2e/compendium/spells/unimpeded-stride.md)
 
 ### Love
 <sup>SoM p. 194</sup>
@@ -126,28 +126,28 @@ You're joined by the bonds of love and nothing can break that, but love can dist
 
 **Catharsis Trigger** Your emotional focus takes damage from an enemy while within 30 feet of you.
 
-**Catharsis Activation** If either you or your emotional focus is [confused](rules/conditions.md#Confused) or [controlled](rules/conditions.md#Controlled), one of you can attempt a new saving throw against one confusing or controlling effect (if it allowed a save), ending the condition if the new save is a success. If both of you are eligible, your emotional focus gets the new save.
+**Catharsis Activation** If either you or your emotional focus is [confused](archive/srd/pf2e/rules/conditions.md#Confused) or [controlled](archive/srd/pf2e/rules/conditions.md#Controlled), one of you can attempt a new saving throw against one confusing or controlling effect (if it allowed a save), ending the condition if the new save is a success. If both of you are eligible, your emotional focus gets the new save.
 
-**Emotional Fervor** You gain a +1 status bonus to Will saves. If you cast a spell to benefit your emotional focus, this bonus increases to +3 until the start of your next turn. Spell: [soothe](compendium/spells/soothe.md)
+**Emotional Fervor** You gain a +1 status bonus to Will saves. If you cast a spell to benefit your emotional focus, this bonus increases to +3 until the start of your next turn. Spell: [soothe](archive/srd/pf2e/compendium/spells/soothe.md)
 
-**Emotional Fallout** You're [fascinated](rules/conditions.md#Fascinated) with your emotional focus for 1 minute.
+**Emotional Fallout** You're [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) with your emotional focus for 1 minute.
 
-**Focus Spell** [soothing words](compendium/spells/soothing-words.md)
+**Focus Spell** [soothing words](archive/srd/pf2e/compendium/spells/soothing-words.md)
 
 ### Misery
 <sup>SoM p. 194</sup>
 
 To suffer is to know you're alive; to make your enemies suffer as greatly as you have eases your suffering.
 
-**Catharsis Trigger** You gain [persistent damage](rules/conditions.md#Persistent%20Damage) from a foe.
+**Catharsis Trigger** You gain [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) from a foe.
 
 **Catharsis Activation** You gain a number of temporary Hit Points equal to your level. They last for 1 minute.
 
-**Emotional Fervor** You can choose not to attempt a flat check to end [persistent damage](rules/conditions.md#Persistent%20Damage) you're taking. When you cast a damaging spell, you can choose one creature that failed its save or that you hit with your spell attack roll. That target takes [persistent damage](rules/conditions.md#Persistent%20Damage) of the same type the spell dealt, of an amount equal to the highest amount of [persistent damage](rules/conditions.md#Persistent%20Damage) you currently have. You can't choose a creature that's already taking [persistent damage](rules/conditions.md#Persistent%20Damage). Spell: [phantom pain](compendium/spells/phantom-pain.md)
+**Emotional Fervor** You can choose not to attempt a flat check to end [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) you're taking. When you cast a damaging spell, you can choose one creature that failed its save or that you hit with your spell attack roll. That target takes [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) of the same type the spell dealt, of an amount equal to the highest amount of [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) you currently have. You can't choose a creature that's already taking [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage). Spell: [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md)
 
 **Emotional Fallout** You take an untyped penalty to any damage you would deal with any spell you cast until you Settle your Emotions. The penalty is –1 per spell level.
 
-**Focus Spell** [savor the sting](compendium/spells/savor-the-sting.md)
+**Focus Spell** [savor the sting](archive/srd/pf2e/compendium/spells/savor-the-sting.md)
 
 ### Pride
 <sup>SoM p. 194</sup>
@@ -158,11 +158,11 @@ All is well as long as you appear well, but you get caught up in the moment and 
 
 **Catharsis Activation** The critical failure becomes a failure.
 
-**Emotional Fervor** Each time you cast an illusion spell, until the start of your next turn, any critical failure you roll on an attack roll or saving throw is a failure instead. Spell: [color spray](compendium/spells/color-spray.md)
+**Emotional Fervor** Each time you cast an illusion spell, until the start of your next turn, any critical failure you roll on an attack roll or saving throw is a failure instead. Spell: [color spray](color-spray.md)
 
-**Emotional Fallout** You momentarily lose track of what's real, becoming [confused](rules/conditions.md#Confused) for 1 round. Spell: [mirror image](compendium/spells/mirror-image.md)
+**Emotional Fallout** You momentarily lose track of what's real, becoming [confused](archive/srd/pf2e/rules/conditions.md#Confused) for 1 round. Spell: [mirror image](mirror-image.md)
 
-**Focus Spell** [veil of confidence](compendium/spells/veil-of-confidence.md)
+**Focus Spell** [veil of confidence](archive/srd/pf2e/compendium/spells/veil-of-confidence.md)
 
 ### Remorse
 <sup>SoM p. 194</sup>
@@ -171,13 +171,13 @@ You attempt to overcome your failings, but your guilt stays with you.
 
 **Catharsis Trigger** An ally within 30 feet drops to 0 Hit Points.
 
-**Catharsis Activation** You [Step](rules/actions/step.md) or [Stride](rules/actions/stride.md). You must end this movement closer to the triggering ally
+**Catharsis Activation** You [Step](archive/srd/pf2e/rules/actions/step.md) or [Stride](archive/srd/pf2e/rules/actions/stride.md). You must end this movement closer to the triggering ally
 
-**Emotional Fervor** Any spell you cast that restores Hit Points to the triggering ally gets a status bonus to the Hit Points healed equal to the spell's level, or double the spell's level if the ally is at 0 Hit Points. Spell: [warrior's regret](compendium/spells/warriors-regret-som.md)
+**Emotional Fervor** Any spell you cast that restores Hit Points to the triggering ally gets a status bonus to the Hit Points healed equal to the spell's level, or double the spell's level if the ally is at 0 Hit Points. Spell: [warrior's regret](warriors-regret-som.md)
 
-**Emotional Fallout** Your emotional weight crushes you, leaving you [stupefied](rules/conditions.md#Stupefied) until you Settle your Emotions.
+**Emotional Fallout** Your emotional weight crushes you, leaving you [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) until you Settle your Emotions.
 
-**Focus Spell** [healer's blessing](compendium/spells/healers-blessing.md)
+**Focus Spell** [healer's blessing](archive/srd/pf2e/compendium/spells/healers-blessing.md)
 
 *Source: Secrets of Magic p. 194*
 

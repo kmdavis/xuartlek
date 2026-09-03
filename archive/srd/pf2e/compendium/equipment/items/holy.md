@@ -10,13 +10,13 @@ tags:
 aliases: ["Holy"]
 ---
 # Holy *Item 11*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [good](good.md "Good Alignment Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 1400 gp
 - **Craft Requirements** You are good.
 - **Usage** etched onto a weapon without an unholy rune
 
-Holy weapons command powerful celestial energy. A weapon with this rune deals an extra `1d6` good damage against evil targets. If you are evil, you are [enfeebled](rules/conditions.md#Enfeebled) while carrying or wielding this weapon.
+Holy weapons command powerful celestial energy. A weapon with this rune deals an extra `1d6` good damage against evil targets. If you are evil, you are [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) while carrying or wielding this weapon.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") command

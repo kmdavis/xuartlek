@@ -8,11 +8,11 @@ aliases: ["Envenomed Lock"]
 # Envenomed Lock *Hazard 1*  
 
 - **Complexity** Simple
-- **Stealth** DC 17 [Perception](compendium/skills.md#Perception) check  
+- **Stealth** DC 17 [Perception](skills.md#Perception) check  
 
 A spring-loaded, poisoned spine is hidden near the keyhole of a lock. Disabling or breaking the trap doesn't disable or break the lock.
 
-- **Disable** DC 17 [Thievery](compendium/skills.md#Thievery) on the spring mechanism  
+- **Disable** DC 17 [Thievery](skills.md#Thievery) on the spring mechanism  
 
 - **AC** 15, **Fort** +8, **Ref** +4
 - **Hardness** 6, **HP** 24 (BT 12)

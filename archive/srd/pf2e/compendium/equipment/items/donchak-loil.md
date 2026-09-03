@@ -12,7 +12,7 @@ tags:
 aliases: ["Donchak"]
 ---
 # Donchak *Item 0*  
-[hampering](rules/traits/hampering-loag.md "Hampering Weapon Trait")  [reach](rules/traits/reach.md "Reach Weapon Trait")  [tethered](rules/traits/tethered-b1.md "Tethered Weapon Trait")  [thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[hampering](hampering-loag.md "Hampering Weapon Trait")  [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [tethered](tethered-b1.md "Tethered Weapon Trait")  [thrown <20 ft.>](rules/traits/thrown-20-ft.md "Thrown Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4 gp
 - **Bulk** 2
@@ -20,7 +20,7 @@ aliases: ["Donchak"]
 - **Hands** 2
 - **Category** Advanced; **Group** Polearm 
 
-This long metal pole has a large [chakram](compendium/equipment/items/chakram-lotgb.md) attached at the end. A mechanism within the handle allows the wielder to launch and retract the [chakram](compendium/equipment/items/chakram-lotgb.md), which is connected with wire to the inside of the weapon. The donchak is seldom seen used outside training scenarios.
+This long metal pole has a large [chakram](chakram-lotgb.md) attached at the end. A mechanism within the handle allows the wielder to launch and retract the [chakram](chakram-lotgb.md), which is connected with wire to the inside of the weapon. The donchak is seldom seen used outside training scenarios.
 
 
 ---

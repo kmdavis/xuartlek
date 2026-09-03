@@ -7,7 +7,7 @@ tags:
 aliases: ["Take a Breather"]
 ---
 # Take a Breather
-[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
+[exploration](archive/srd/pf2e/rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Gamemastery Guide p. 200*  
 
 **Variant Rule** Inspiration

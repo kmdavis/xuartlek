@@ -7,11 +7,11 @@ tags:
 aliases: ["Impaling Briars"]
 ---
 # Impaling Briars  *Feat 16*  
-[druid](rules/traits/druid.md "Druid Class Trait")  
+[druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  
 
 - **Prerequisites**: Leaf order
 
-You can fill an area with devastating briars that impale and impede your foes. You gain the [impaling briars](compendium/spells/impaling-briars.md) order spell. Increase the number of Focus Points in your focus pool by 1.
+You can fill an area with devastating briars that impale and impede your foes. You gain the [impaling briars](archive/srd/pf2e/compendium/spells/impaling-briars.md) order spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Core Rulebook p. 139*  
 %% #compendium/src/pf2e/crb #trait/druid %%

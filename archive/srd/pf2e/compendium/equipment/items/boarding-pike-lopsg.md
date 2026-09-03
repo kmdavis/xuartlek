@@ -10,7 +10,7 @@ tags:
 aliases: ["Boarding Pike"]
 ---
 # Boarding Pike *Item 1*  
-[reach](rules/traits/reach.md "Reach Weapon Trait")  [shove](rules/traits/shove.md "Shove Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait")  [shove](archive/srd/pf2e/rules/traits/shove.md "Shove Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8 sp
 - **Bulk** 2

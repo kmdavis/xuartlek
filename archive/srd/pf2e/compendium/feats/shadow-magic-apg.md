@@ -7,17 +7,17 @@ tags:
 aliases: ["Shadow Magic"]
 ---
 # Shadow Magic  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Shadowdancer Dedication](compendium/feats/shadowdancer-dedication-apg.md)
+- **Prerequisites**: [Shadowdancer Dedication](shadowdancer-dedication-apg.md)
 
-You gain the ability to fuse and play with shadows by using focus spells specific to shadowdancers. You learn a shadowdancer focus spell of your choice: [dance of darkness](compendium/spells/dance-of-darkness-apg.md) or [shadow jump](compendium/spells/shadow-jump-apg.md). If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [Refocus](rules/actions/refocus.md) by meditating within an area of dim light or darkness.
+You gain the ability to fuse and play with shadows by using focus spells specific to shadowdancers. You learn a shadowdancer focus spell of your choice: [dance of darkness](dance-of-darkness-apg.md) or [shadow jump](shadow-jump-apg.md). If you don't already have one, you gain a focus pool of 1 Focus Point, which you can [Refocus](archive/srd/pf2e/rules/actions/refocus.md) by meditating within an area of dim light or darkness.
 
 Shadowdancer focus spells are occult spells. You become trained in occult spell attack rolls and spell DCs, and your spellcasting ability for these spells is Charisma.
 
 ## Shadow Magic leads to...
 
-[Additional Shadow Magic](compendium/feats/additional-shadow-magic-apg.md), [Shadow Illusion](compendium/feats/shadow-illusion-apg.md), [Shadow Power](compendium/feats/shadow-power-apg.md)
+[Additional Shadow Magic](additional-shadow-magic-apg.md), [Shadow Illusion](archive/srd/pf2e/compendium/feats/shadow-illusion-apg.md), [Shadow Power](shadow-power-apg.md)
 
 ## Summary
 

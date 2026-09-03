@@ -15,4 +15,4 @@ Through an education in the arts or sheer dogged practice, you learned to entert
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [Performance](compendium/skills.md#Performance) skill and the [Theater Lore](compendium/skills.md#Lore) skill. You gain the [Fascinating Performance](compendium/feats/fascinating-performance.md) skill feat.
+You're trained in the [Performance](skills.md#Performance) skill and the [Theater Lore](skills.md#Lore) skill. You gain the [Fascinating Performance](archive/srd/pf2e/compendium/feats/fascinating-performance.md) skill feat.

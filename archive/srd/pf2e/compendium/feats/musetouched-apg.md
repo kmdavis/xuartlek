@@ -8,14 +8,14 @@ tags:
 aliases: ["Musetouched"]
 ---
 # Musetouched  *Feat 1*  
-[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [lineage](rules/traits/lineage-apg.md "Lineage  Trait")  
+[aasimar](aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  [lineage](lineage-apg.md "Lineage  Trait")  
 
 
-Your blood sings with the liberating power of the azatas, living embodiments of freedom from the wild realm of Elysium. You gain a +1 circumstance bonus to [Escape](rules/actions/escape.md). When you roll a critical failure on a check to [Escape](rules/actions/escape.md), you get a failure instead, and when you roll a success, you get a critical success instead.
+Your blood sings with the liberating power of the azatas, living embodiments of freedom from the wild realm of Elysium. You gain a +1 circumstance bonus to [Escape](archive/srd/pf2e/rules/actions/escape.md). When you roll a critical failure on a check to [Escape](archive/srd/pf2e/rules/actions/escape.md), you get a failure instead, and when you roll a success, you get a critical success instead.
 
 ## Musetouched leads to...
 
-[Azata Magic](compendium/feats/azata-magic-apg.md), [Call Of Elysium](compendium/feats/call-of-elysium-loag.md)
+[Azata Magic](azata-magic-apg.md), [Call Of Elysium](call-of-elysium-loag.md)
 
 ## Summary
 

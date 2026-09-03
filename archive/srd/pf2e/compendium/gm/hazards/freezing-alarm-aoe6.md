@@ -8,14 +8,14 @@ tags:
 aliases: ["Freezing Alarm"]
 ---
 # Freezing Alarm *Hazard 20*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43 master  
 
 Miniature snowflake-shaped glyphs on the ground cause a layer of ice to ripple over the floor of the room and sound a silent alarm.
 
-- **Disable** DC 51 [Arcana](compendium/skills.md#Arcana) (legendary) to draw a fiery counteracting glyph over each snowflake, or dispel magic (9th level, counteract DC 48)  
+- **Disable** DC 51 [Arcana](skills.md#Arcana) (legendary) to draw a fiery counteracting glyph over each snowflake, or dispel magic (9th level, counteract DC 48)  
 
 ```ad-embed-ability
 title: **Freeze Floor** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([abjuration](rules/traits/abjuration.md), [arcane](rules/traits/arcane.md), [cold](rules/traits/cold.md))

@@ -7,9 +7,9 @@ tags:
 aliases: ["Skill Mastery"]
 ---
 # Skill Mastery  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Rogue Dedication](compendium/feats/rogue-dedication.md), trained in at least one skill and expert in at least one skill
+- **Prerequisites**: [Rogue Dedication](archive/srd/pf2e/compendium/feats/rogue-dedication.md), trained in at least one skill and expert in at least one skill
 
 Increase your proficiency rank in one of your skills from expert to master and in another of your skills from trained to expert. You gain a skill feat associated with one of the skills you chose.
 

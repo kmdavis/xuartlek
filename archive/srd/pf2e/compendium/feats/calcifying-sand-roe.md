@@ -11,8 +11,8 @@ tags:
 - trait/primal
 aliases: ["Calcifying Sand"]
 ---
-# Calcifying Sand  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
-[earth](rules/traits/earth.md "Earth Energy & Element Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [overflow](rules/traits/overflow-roe.md "Overflow Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Calcifying Sand  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 4*  
+[earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [impulse](impulse-roe.md "Impulse Action & Ability Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [overflow](overflow-roe.md "Overflow Action & Ability Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Trigger** A creature damages you with an attack using an unarmed attack or a non-reach melee weapon.
 - **Activity** Reaction
@@ -21,8 +21,8 @@ Your flesh gives way as you're struck, becoming coarse sand that can magically t
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.
-> - **Failure** The creature is [slowed](rules/conditions.md#Slowed) until the end of its next turn.
-> - **Critical Failure** The creature is [petrified](rules/conditions.md#Petrified) until the end of its next turn.
+> - **Failure** The creature is [slowed](archive/srd/pf2e/rules/conditions.md#Slowed) until the end of its next turn.
+> - **Critical Failure** The creature is [petrified](archive/srd/pf2e/rules/conditions.md#Petrified) until the end of its next turn.
 
 *Source: Rage of Elements p. 26*  
 %% #compendium/src/pf2e/roe #trait/earth #trait/impulse #trait/incapacitation #trait/kineticist #trait/overflow #trait/primal %%

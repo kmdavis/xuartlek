@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Dogma"]
 ---
 # Advanced Dogma  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Dogma](compendium/feats/basic-dogma.md)
+- **Prerequisites**: [Basic Dogma](archive/srd/pf2e/compendium/feats/basic-dogma.md)
 
 You gain one cleric feat. For the purpose of meeting its prerequisites, your cleric level is equal to half your character level.
 

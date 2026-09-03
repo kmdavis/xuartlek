@@ -20,8 +20,8 @@ aliases: ["Belial", "The Pale Kiss"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [ranseur](compendium/equipment/items/ranseur.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [passion](compendium/setting/domains.md#Passion), [trickery](compendium/setting/domains.md#Trickery), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 2nd: [humanoid form](compendium/spells/humanoid-form.md); 3rd: [enthrall](compendium/spells/enthrall.md)
+- **Favored Weapon**: [ranseur](archive/srd/pf2e/compendium/equipment/items/ranseur.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [charm](archive/srd/pf2e/compendium/spells/charm.md); 2nd: [humanoid form](archive/srd/pf2e/compendium/spells/humanoid-form.md); 3rd: [enthrall](archive/srd/pf2e/compendium/spells/enthrall.md)

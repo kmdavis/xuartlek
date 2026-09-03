@@ -7,10 +7,10 @@ tags:
 aliases: ["Demolition Charge"]
 ---
 # Demolition Charge  *Feat 2*  
-[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
+[alchemist](archive/srd/pf2e/rules/traits/alchemist.md "Alchemist Class Trait")  
 
 
-You can rig your bombs to inanimate objects in order to cause destruction to the surrounding area. As an activity that takes 1 minute, you attach between one and four bombs to an inanimate object within your reach, such as a chest, door, wall, or column. This creates a hazard in one square occupied by or adjacent to the inanimate object, and the hazard's [Stealth](compendium/skills.md#Stealth) DC to detect it and [Thievery](compendium/skills.md#Thievery) DC to disable it are equal to your class DC.
+You can rig your bombs to inanimate objects in order to cause destruction to the surrounding area. As an activity that takes 1 minute, you attach between one and four bombs to an inanimate object within your reach, such as a chest, door, wall, or column. This creates a hazard in one square occupied by or adjacent to the inanimate object, and the hazard's [Stealth](skills.md#Stealth) DC to detect it and [Thievery](skills.md#Thievery) DC to disable it are equal to your class DC.
 
 The hazard has the following reaction, which you can also trigger as a single action so long as you are within 30 feet of the hazard. The hazard retains its potency until it's triggered, until the inanimate object moves from its space, or until you make your next daily preparations, whichever comes first.
 

@@ -17,6 +17,6 @@ You finally found a like mind in Captain Runewulf, "the Unbeliever," whose reput
 
 Your good record has earned you a transfer—temporary or not, the choice is yours—to the newly formed Edgewatch, where you'll use your authority to guard the lives of not just Absalomians, but all who have come to your grand city to experience its wonders. Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Religion](compendium/skills.md#Religion) skill and your choice of a specific religion [Lore](compendium/skills.md#Lore) skill (such as [Iomedae Lore](compendium/skills.md#Lore) or [Norgorber Lore](compendium/skills.md#Lore))
+You're trained in the [Religion](skills.md#Religion) skill and your choice of a specific religion [Lore](skills.md#Lore) skill (such as [Iomedae Lore](skills.md#Lore) or [Norgorber Lore](skills.md#Lore))
 
-You gain a +1 circumstance bonus to [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), and [Intimidation](compendium/skills.md#Intimidation) checks to interact with Graycloaks, priests, and clerics. You gain the [Quick Identification](compendium/feats/quick-identification.md) feat.
+You gain a +1 circumstance bonus to [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), and [Intimidation](skills.md#Intimidation) checks to interact with Graycloaks, priests, and clerics. You gain the [Quick Identification](archive/srd/pf2e/compendium/feats/quick-identification.md) feat.

@@ -8,12 +8,12 @@ tags:
 aliases: ["Weighty Impact"]
 ---
 # Weighty Impact  *Feat 10*  
-[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[evolution](evolution-som.md "Evolution Feat Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
-Your eidolon knocks enemies down. Choose one of the eidolon's unarmed attacks with the [trip](rules/traits/trip.md "Trip Weapon Trait") trait.
+Your eidolon knocks enemies down. Choose one of the eidolon's unarmed attacks with the [trip](archive/srd/pf2e/rules/traits/trip.md "Trip Weapon Trait") trait.
 
-It gains the [Knockdown](rules/abilities/knockdown.md) action for that attack.
+It gains the [Knockdown](archive/srd/pf2e/rules/abilities/knockdown.md) action for that attack.
 
 *Source: Secrets of Magic p. 71*  
 %% #compendium/src/pf2e/som #trait/evolution #trait/summoner %%

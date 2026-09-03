@@ -15,6 +15,6 @@ You grew up among the southern houses of Brevoy in old Rostland. You're accustom
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Politics Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Politics Lore](skills.md#Lore) skill.
 
-You gain the [Group Impression](compendium/feats/group-impression.md) skill feat.
+You gain the [Group Impression](archive/srd/pf2e/compendium/feats/group-impression.md) skill feat.

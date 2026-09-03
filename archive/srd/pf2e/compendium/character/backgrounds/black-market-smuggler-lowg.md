@@ -15,6 +15,6 @@ You know how to work the less-than-legal side of the region's markets and know h
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [Stealth](compendium/skills.md#Stealth) skill and the [Underworld Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Stealth](skills.md#Stealth) skill and the [Underworld Lore](skills.md#Lore) skill.
 
-You gain the [Experienced Smuggler](compendium/feats/experienced-smuggler.md) skill feat.
+You gain the [Experienced Smuggler](archive/srd/pf2e/compendium/feats/experienced-smuggler.md) skill feat.

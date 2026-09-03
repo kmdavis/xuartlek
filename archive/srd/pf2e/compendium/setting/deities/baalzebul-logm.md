@@ -20,8 +20,8 @@ aliases: ["Baalzebul", "Lord of Flies"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Deception
-- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
-- **Domains**: [air](compendium/setting/domains.md#Air), [ambition](compendium/setting/domains.md#Ambition), [magic](compendium/setting/domains.md#Magic), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 2nd: [vomit swarm](compendium/spells/vomit-swarm-apg.md); 6th: [mislead](compendium/spells/mislead.md)
+- **Favored Weapon**: [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [fleet step](archive/srd/pf2e/compendium/spells/fleet-step.md); 2nd: [vomit swarm](vomit-swarm-apg.md); 6th: [mislead](archive/srd/pf2e/compendium/spells/mislead.md)

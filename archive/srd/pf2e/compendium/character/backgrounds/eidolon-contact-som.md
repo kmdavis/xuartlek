@@ -20,4 +20,4 @@ You might have forged a powerful conduit with that eidolon, allowing you to mani
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in your choice of [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion), and a [Lore](compendium/skills.md#Lore) skill for the creature associated with your contacted eidolon (such as [Angel Lore](compendium/skills.md#Lore) or [Dragon Lore](compendium/skills.md#Lore)). You gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat.
+You're trained in your choice of [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion), and a [Lore](skills.md#Lore) skill for the creature associated with your contacted eidolon (such as [Angel Lore](skills.md#Lore) or [Dragon Lore](skills.md#Lore)). You gain the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) skill feat.

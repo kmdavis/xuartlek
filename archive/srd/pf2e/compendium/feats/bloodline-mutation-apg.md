@@ -7,11 +7,11 @@ tags:
 aliases: ["Bloodline Mutation"]
 ---
 # Bloodline Mutation  *Feat 20*  
-[sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+[sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Prerequisites**: a bloodline based on a specific type of creature
 
-You permanently mutate to become more like the creatures of your bloodline. You gain the appropriate trait or traits for those types of creatures (aberration for aberrant, angel and celestial for angelic, psychopomp and monitor for psychopomp, and so on). You gain [low-light vision](rules/abilities/low-light-vision.md) or [darkvision](rules/abilities/darkvision.md), if one is appropriate for creatures with those traits. Choose one of the following.
+You permanently mutate to become more like the creatures of your bloodline. You gain the appropriate trait or traits for those types of creatures (aberration for aberrant, angel and celestial for angelic, psychopomp and monitor for psychopomp, and so on). You gain [low-light vision](archive/srd/pf2e/rules/abilities/low-light-vision.md) or [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md), if one is appropriate for creatures with those traits. Choose one of the following.
 
 - If the creatures associated with your bloodline have the ability to fly, you gain a fly Speed equal to your land Speed.
 - If the creatures associated with your bloodline are aquatic or amphibious, you become amphibious, able to breathe water and air equally well, and you gain a swim Speed equal to your Speed.

@@ -9,10 +9,10 @@ tags:
 aliases: ["Divine Wrath"]
 ---
 # Divine Wrath *Spell 4*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  
+[evocation](evocation.md "Evocation School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Area**: 20-foot burst
 - **Saving Throw**: Fortitude
@@ -22,8 +22,8 @@ You can channel the fury of your deity against foes of opposed alignment. Choose
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and is [sickened](rules/conditions.md#Sickened).
-> - **Critical Failure** The creature takes full damage and is [sickened](rules/conditions.md#Sickened); while it is [sickened](rules/conditions.md#Sickened), it is also [slowed](rules/conditions.md#Slowed).
+> - **Failure** The creature takes full damage and is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened).
+> - **Critical Failure** The creature takes full damage and is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened); while it is [sickened](archive/srd/pf2e/rules/conditions.md#Sickened), it is also [slowed](archive/srd/pf2e/rules/conditions.md#Slowed).
 
 **Heightened (+ 1)** The damage increases by `1d10`.
 

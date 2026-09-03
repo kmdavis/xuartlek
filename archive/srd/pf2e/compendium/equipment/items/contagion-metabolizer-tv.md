@@ -11,14 +11,14 @@ tags:
 aliases: ["Contagion Metabolizer"]
 ---
 # Contagion Metabolizer *Item 5+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Contagion metabolizers seek out toxins in the bloodstream and attempt to purify them into humors the body processes naturally. When you drink this elixir, it attempts a counteract check with the listed counteract modifier to remove the highest-level poison or disease afflicting you. This takes longer for a disease—the counteract check doesn't happen until 10 minutes after you drink the elixir. After drinking, you become temporarily immune to contagion metabolizers for 1 hour.
 
-If you're a chirurgeon alchemist and have powerful alchemy, you can substitute your statistics when you create a contagion metabolizer using [Quick Alchemy](rules/actions/quick-alchemy.md), if your stats are higher. This replaces the counteract level with half your level rounded up and the counteract modifier with your class DC – 10.
+If you're a chirurgeon alchemist and have powerful alchemy, you can substitute your statistics when you create a contagion metabolizer using [Quick Alchemy](archive/srd/pf2e/rules/actions/quick-alchemy.md), if your stats are higher. This replaces the counteract level with half your level rounded up and the counteract modifier with your class DC – 10.
 
 ---
 

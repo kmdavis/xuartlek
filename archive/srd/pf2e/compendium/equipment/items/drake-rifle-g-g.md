@@ -10,14 +10,14 @@ tags:
 aliases: ["Drake Rifle"]
 ---
 # Drake Rifle *Item 4*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 100 gp
 - **Craft Requirements** The initial raw materials must include the saliva glands of a ritually hunted drake with a breath weapon that deals the appropriate damage type for the drake rifle.
 - **Bulk** 2; **Usage** held in 2 hands
 - **Category** Beast Gun
 
-A drake rifle is a firearm made from the saliva glands of a drake. The firearm launches small bursts of empowered spittle instead of typical rounds of ammunition. A drake rifle is a +1 weapon. It's a distinct type of martial firearm that deals `1d10` damage with a range increment of 150 feet and reload 1. It deals acid, cold, electricity, fire, or poison damage, depending on the drake from which it was made. On a critical hit, the spittle clings to the target and they take [persistent damage](rules/conditions.md#Persistent%20Damage) of the same type as the weapon equal to `1d4` + the number of weapon damage dice. A drake rifle does not add critical specialization effects.
+A drake rifle is a firearm made from the saliva glands of a drake. The firearm launches small bursts of empowered spittle instead of typical rounds of ammunition. A drake rifle is a +1 weapon. It's a distinct type of martial firearm that deals `1d10` damage with a range increment of 150 feet and reload 1. It deals acid, cold, electricity, fire, or poison damage, depending on the drake from which it was made. On a critical hit, the spittle clings to the target and they take [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) of the same type as the weapon equal to `1d4` + the number of weapon damage dice. A drake rifle does not add critical specialization effects.
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md) ([evocation](rules/traits/evocation.md), [magical](rules/traits/magical.md))

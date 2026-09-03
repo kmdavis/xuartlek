@@ -11,7 +11,7 @@ tags:
 aliases: ["Warding Tattoo"]
 ---
 # Warding Tattoo *Item 5+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  
 
 - **Usage** tattooed on the body
 
@@ -44,7 +44,7 @@ You gain resistance 2 to damage from hazardous terrain and environmental hazards
 
 - **Price**: 220 gp
 
-In addition to the normal triggers, you can activate the tattoo when you enter an environment where you can't breathe. When you activate the tattoo, it casts [air bubble](compendium/spells/air-bubble.md) on you, in addition to the other effects.
+In addition to the normal triggers, you can activate the tattoo when you enter an environment where you can't breathe. When you activate the tattoo, it casts [air bubble](archive/srd/pf2e/compendium/spells/air-bubble.md) on you, in addition to the other effects.
 
 #### fiend warding tattoo *Item 7*
 

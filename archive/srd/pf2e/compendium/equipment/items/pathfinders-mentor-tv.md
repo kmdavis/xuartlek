@@ -12,11 +12,11 @@ tags:
 aliases: ["Pathfinder's Mentor"]
 ---
 # Pathfinder's Mentor *Item 6*  
-[divination](rules/traits/divination.md "Divination School Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** —; **Usage** worn
 
-A Pathfinder's mentor is a bi‑resonant wayfinder (Pathfinder Lost Omens World Guide 17) that has developed sapience. Most Pathfinder's mentors are eager explorers that object to staying in one location for long, urging their bearers toward ancient ruins to explore, relics to study, and discoveries to make. To this end, the wayfinder acts as a guide, making [Survival](compendium/skills.md#Survival) checks on your behalf during your travels. A Pathfinder's mentor also has the following activations.
+A Pathfinder's mentor is a bi‑resonant wayfinder (Pathfinder Lost Omens World Guide 17) that has developed sapience. Most Pathfinder's mentors are eager explorers that object to staying in one location for long, urging their bearers toward ancient ruins to explore, relics to study, and discoveries to make. To this end, the wayfinder acts as a guide, making [Survival](skills.md#Survival) checks on your behalf during your travels. A Pathfinder's mentor also has the following activations.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, envision

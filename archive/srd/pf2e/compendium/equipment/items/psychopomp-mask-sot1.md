@@ -11,12 +11,12 @@ tags:
 aliases: ["Psychopomp Mask"]
 ---
 # Psychopomp Mask *Item 1*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Usage** worn mask
 
-These minor magic items are painted to resemble your face, or some metaphorical depiction thereof, to encourage the ushers of death to take the mask in your place. If you begin your turn with a [dying](rules/conditions.md#Dying) value of 3 or greater, instead of making your recovery check, you lose the [dying](rules/conditions.md#Dying) condition but remain [unconscious](rules/conditions.md#Unconscious) at 0 Hit Points. The mask then cracks in half and is destroyed. The psychopomps won't be so easily fooled again—you are temporarily immune to the effects of any psychopomp mask for 1 year.
+These minor magic items are painted to resemble your face, or some metaphorical depiction thereof, to encourage the ushers of death to take the mask in your place. If you begin your turn with a [dying](archive/srd/pf2e/rules/conditions.md#Dying) value of 3 or greater, instead of making your recovery check, you lose the [dying](archive/srd/pf2e/rules/conditions.md#Dying) condition but remain [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious) at 0 Hit Points. The mask then cracks in half and is destroyed. The psychopomps won't be so easily fooled again—you are temporarily immune to the effects of any psychopomp mask for 1 year.
 
 
 ---

@@ -12,7 +12,7 @@ aliases: ["Magnifying Glass"]
 - **Bulk** —
 - **Hands** 1
 
-This quality handheld lens gives you a +1 item bonus to [Perception](compendium/skills.md#Perception) checks to notice minute details of documents, fabric, and the like.
+This quality handheld lens gives you a +1 item bonus to [Perception](skills.md#Perception) checks to notice minute details of documents, fabric, and the like.
 
 
 ---

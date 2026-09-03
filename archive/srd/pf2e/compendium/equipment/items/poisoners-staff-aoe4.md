@@ -12,14 +12,14 @@ tags:
 aliases: ["Poisoner's Staff"]
 ---
 # Poisoner's Staff *Item 4+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
 
 This gnarled staff is covered with thorns and coated with a glistening lacquer that acts as a minor irritant.
 
-While holding the staff, you aren't affected by its coating or thorns, and you reduce the DC of your flat checks to overcome [persistent poison damage](rules/conditions.md#Persistent%20Damage).
+While holding the staff, you aren't affected by its coating or thorns, and you reduce the DC of your flat checks to overcome [persistent poison damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage).
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)
@@ -36,7 +36,7 @@ You expend a number of charges from the staff to cast a spell from its list.
 
 - **Price**: 90 gp
 
-You reduce the DC of your flat checks to overcome [persistent poison damage](rules/conditions.md#Persistent%20Damage) from 15 to 13.
+You reduce the DC of your flat checks to overcome [persistent poison damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) from 15 to 13.
 
 - **Cantrip** guidance
 - **1st** detect poison, spider sting
@@ -45,7 +45,7 @@ You reduce the DC of your flat checks to overcome [persistent poison damage](rul
 
 - **Price**: 450 gp
 
-You reduce the DC of your flat checks to overcome [persistent poison damage](rules/conditions.md#Persistent%20Damage) from 15 to 10.
+You reduce the DC of your flat checks to overcome [persistent poison damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) from 15 to 10.
 
 - **2nd** enhance victuals, imp sting (see below)
 - **3rd** neutralize poison, stinking cloud
@@ -54,7 +54,7 @@ You reduce the DC of your flat checks to overcome [persistent poison damage](rul
 
 - **Price**: 4000 gp
 
-You reduce the DC of your flat checks to overcome [persistent poison damage](rules/conditions.md#Persistent%20Damage) from 15 to 5.
+You reduce the DC of your flat checks to overcome [persistent poison damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) from 15 to 5.
 
 - **4th** swarming wasp stings (page 81)
 - **5th** cloudkill

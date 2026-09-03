@@ -6,16 +6,16 @@ tags:
 - trait/automaton
 aliases: ["Core Rejuvenation"]
 ---
-# Core Rejuvenation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 13*  
-[automaton](rules/traits/automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
+# Core Rejuvenation  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 13*  
+[automaton](automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
-- **Trigger** You have the [dying](rules/conditions.md#Dying) condition and are about to attempt a recovery check.
+- **Trigger** You have the [dying](archive/srd/pf2e/rules/conditions.md#Dying) condition and are about to attempt a recovery check.
 - **Activity** Free Action
 
 Your soul taps into your core's power to push against the grasp of death and allow you to recover consciousness.
 
-You're restored to 1 Hit Point, lose the [dying](rules/conditions.md#Dying) and [unconscious](rules/conditions.md#Unconscious) conditions, and can act normally on this turn. You gain or increase the [wounded](rules/conditions.md#Wounded) condition as normal when losing the [dying](rules/conditions.md#Dying) condition in this way.
+You're restored to 1 Hit Point, lose the [dying](archive/srd/pf2e/rules/conditions.md#Dying) and [unconscious](archive/srd/pf2e/rules/conditions.md#Unconscious) conditions, and can act normally on this turn. You gain or increase the [wounded](archive/srd/pf2e/rules/conditions.md#Wounded) condition as normal when losing the [dying](archive/srd/pf2e/rules/conditions.md#Dying) condition in this way.
 
 **Enhancement** Your soul can draw even more power from your core, granting you additional benefits. When you use Core Rejuvenation, you also gain a number of temporary Hit Points equal to three times your level. These Hit Points remain for 1 minute.
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Caustic Dart Trap"]
 ---
 # Caustic Dart Trap *Hazard 11*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert or DC 30 (expert) to notice the three launching mechanisms built into the wall.  
@@ -18,7 +18,7 @@ Three launching mechanisms built into the mudbrick walls expel darts containing 
 
 All three launching mechanisms must be disabled or destroyed to deactivate the trap.
 
-- **Disable** DC 32 [Thievery](compendium/skills.md#Thievery) (master) to sufficiently jam the tubes to make the trap unable to attack creatures in a single 5-foot square in the room, or DC 34 [Crafting](compendium/skills.md#Crafting) (master) to alter one of the three launching mechanisms.  
+- **Disable** DC 32 [Thievery](skills.md#Thievery) (master) to sufficiently jam the tubes to make the trap unable to attack creatures in a single 5-foot square in the room, or DC 34 [Crafting](skills.md#Crafting) (master) to alter one of the three launching mechanisms.  
 
 - **AC** 31, **Fort** +24, **Ref** +15
 - **Hardness** 20, **HP** 80 (BT 40) per launching mechanism

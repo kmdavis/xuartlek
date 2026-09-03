@@ -7,15 +7,15 @@ tags:
 aliases: ["Assured Knowledge"]
 ---
 # Assured Knowledge  *Feat 6*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: enigma muse
 
-You can procure information with confidence. Whenever you [Recall Knowledge](rules/actions/recall-knowledge.md) using any skill (including [Bardic Lore](compendium/skills.md#Lore)), you can forgo rolling your check to instead receive a result of 10 + your proficiency bonus (don't apply any other bonuses, penalties, or modifiers). As long as you are an expert in a skill, you meet the prerequisites for the [Automatic Knowledge](compendium/feats/automatic-knowledge.md) skill feat in that skill, even if you don't have [Assurance](compendium/feats/assurance.md) in that skill.
+You can procure information with confidence. Whenever you [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) using any skill (including [Bardic Lore](skills.md#Lore)), you can forgo rolling your check to instead receive a result of 10 + your proficiency bonus (don't apply any other bonuses, penalties, or modifiers). As long as you are an expert in a skill, you meet the prerequisites for the [Automatic Knowledge](archive/srd/pf2e/compendium/feats/automatic-knowledge.md) skill feat in that skill, even if you don't have [Assurance](archive/srd/pf2e/compendium/feats/assurance.md) in that skill.
 
 ## Assured Knowledge leads to...
 
-[Enigma's Knowledge](compendium/feats/enigmas-knowledge-apg.md)
+[Enigma's Knowledge](enigmas-knowledge-apg.md)
 
 ## Summary
 

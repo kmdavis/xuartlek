@@ -24,12 +24,12 @@ aliases: ["Iomedae", "The Inheritor"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [longsword](compendium/equipment/items/longsword.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [might](compendium/setting/domains.md#Might), [truth](compendium/setting/domains.md#Truth), [zeal](compendium/setting/domains.md#Zeal)
-- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty)
-- **Cleric Spells**: 1st: [true strike](compendium/spells/true-strike.md); 2nd: [enlarge](compendium/spells/enlarge.md); 4th: [fire shield](compendium/spells/fire-shield.md)
+- **Favored Weapon**: [longsword](archive/srd/pf2e/compendium/equipment/items/longsword.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Alternate Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty)
+- **Cleric Spells**: 1st: [true strike](true-strike.md); 2nd: [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md); 4th: [fire shield](archive/srd/pf2e/compendium/spells/fire-shield.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Iomedae
@@ -46,8 +46,8 @@ Iomedae grants her blessings to those who show valor in trying times.
 
 - **Minor Boon** You always present yourself at your best. Your clothing and person are always clean and unrumpled, the metal of your blade and armor shining and unblemished. This doesn't prevent you from being exposed to diseases and other afflictions via filth, but it protects you as well as if you had washed thoroughly right away.
 - **Moderate Boon**: Your heart beats with a determined valor. Once, Iomedae ends all negative effects affecting you, unless they are from an artifact, deity, or similarly powerful source; she also restores all lost Hit Points and replenishes your spells, Focus Points, and other daily resources.
-- **Major Boon**: Iomedae imbues your blade with great power. [Longswords](compendium/equipment/items/longsword.md) you wield gain the [axiomatic](compendium/equipment/items/axiomatic.md), [holy](compendium/equipment/items/holy.md), and major striking runes while you hold them. These property runes count toward the number of runes you can have on your weapon, and if this would cause your weapon to exceed its limit, choose which ones to keep each day when you prepare. You gain a +2 status bonus to attack rolls with [longswords](compendium/equipment/items/longsword.md).
+- **Major Boon**: Iomedae imbues your blade with great power. [Longswords](archive/srd/pf2e/compendium/equipment/items/longsword.md) you wield gain the [axiomatic](axiomatic.md), [holy](archive/srd/pf2e/compendium/equipment/items/holy.md), and major striking runes while you hold them. These property runes count toward the number of runes you can have on your weapon, and if this would cause your weapon to exceed its limit, choose which ones to keep each day when you prepare. You gain a +2 status bonus to attack rolls with [longswords](archive/srd/pf2e/compendium/equipment/items/longsword.md).
 
 - **Minor Curse**: Your blade and armor have dulled like lead. Your weapons, armor, and shields have half their usual Hit Points and Break Threshold.
 - **Moderate Curse** Tactical advantages never seem to work the way you planned. You can't receive a circumstance bonus to your attack rolls, and enemies don't take any circumstance penalties to their AC against your attacks.
-- **Major Curse**: All blades reject your wicked heart. Any weapon you wield automatically becomes broken after you [Strike](rules/actions/strike.md) with it. This curse can't break artifacts or similarly powerful weapons.
+- **Major Curse**: All blades reject your wicked heart. Any weapon you wield automatically becomes broken after you [Strike](archive/srd/pf2e/rules/actions/strike.md) with it. This curse can't break artifacts or similarly powerful weapons.

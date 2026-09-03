@@ -8,14 +8,14 @@ tags:
 aliases: ["Falling Debris"]
 ---
 # Falling Debris *Hazard 1*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 trained  
 
 A pressure-sensitive floorboard connects to a beam holding up debris in the crawlway's ceiling.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 15 (trained) on the floorboard before the debris falls.  
+- **Disable** [Thievery](skills.md#Thievery) DC 15 (trained) on the floorboard before the debris falls.  
 
 - **AC** 16, **Fort** +8, **Ref** +2
 - **Hardness** 5, **HP** 20 (BT 10)

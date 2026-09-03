@@ -6,13 +6,13 @@ tags:
 - trait/archetype
 aliases: ["Shamble"]
 ---
-# Shamble  [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") OR [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")) *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Shamble  [V](chapter-9-playing-the-game.md#Actions "Varies") Varies ([>>](chapter-9-playing-the-game.md#Actions "Two-Action") OR [>>>](chapter-9-playing-the-game.md#Actions "Three-Action")) *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Zombie Dedication](compendium/feats/zombie-dedication-botd.md)
-- **Activity** Varies ([>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") OR [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action"))
+- **Prerequisites**: [Zombie Dedication](zombie-dedication-botd.md)
+- **Activity** Varies ([>>](chapter-9-playing-the-game.md#Actions "Two-Action") OR [>>>](chapter-9-playing-the-game.md#Actions "Three-Action"))
 
-You may be slower than you were in life, but your pace is unfaltering. [Stride](rules/actions/stride.md) twice, or three times if you spent 3 actions to Shamble. During this movement, you ignore difficult terrain and greater difficult terrain.
+You may be slower than you were in life, but your pace is unfaltering. [Stride](archive/srd/pf2e/rules/actions/stride.md) twice, or three times if you spent 3 actions to Shamble. During this movement, you ignore difficult terrain and greater difficult terrain.
 
 You can choose to ignore all circumstance and status penalties to your Speed when you Shamble. If you do, you must succeed at a DC 6 flat check when you finish Shambling or your body deteriorates.
 

@@ -7,11 +7,11 @@ tags:
 aliases: ["Ghostly Grasp"]
 ---
 # Ghostly Grasp  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Ghost Dedication](compendium/feats/ghost-dedication-botd.md)
+- **Prerequisites**: [Ghost Dedication](ghost-dedication-botd.md)
 
-Your control over your ghostly form grows. You gain the advanced undead benefits (page 44) and can interact with physical objects, with limits. You can attempt Strength-based skill checks against physical creatures and objects. You can [Interact](rules/actions/interact.md) with physical objects, but the action has no effect unless you succeed at a DC 20 [Athletics](compendium/skills.md#Athletics) or DC 20 [Thievery](compendium/skills.md#Thievery) check.
+Your control over your ghostly form grows. You gain the advanced undead benefits (page 44) and can interact with physical objects, with limits. You can attempt Strength-based skill checks against physical creatures and objects. You can [Interact](archive/srd/pf2e/rules/actions/interact.md) with physical objects, but the action has no effect unless you succeed at a DC 20 [Athletics](skills.md#Athletics) or DC 20 [Thievery](skills.md#Thievery) check.
 
 *Source: Book of the Dead p. 47*  
 %% #compendium/src/pf2e/botd #trait/archetype %%

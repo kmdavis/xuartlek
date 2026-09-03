@@ -11,12 +11,12 @@ tags:
 aliases: ["Stole Of Civility"]
 ---
 # Stole Of Civility *Item 9*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 700 gp
 - **Bulk** L; **Usage** worn cloak
 
-Woven from swaths of rich brocade silk and embroidered with ancient Azlanti script in golden thread, this stole imparts a noble appearance to even the homeliest of individuals when draped over the shoulders. While wearing a stole of civility, you receive a +2 item bonus to [Diplomacy](compendium/skills.md#Diplomacy) checks to [Make an Impression](rules/actions/make-an-impression.md) with humans or Make a [Request](rules/actions/request.md) of humans, and a +2 item bonus to [Intimidation](compendium/skills.md#Intimidation) checks against humans. The stole also grants you full understanding of the Azlanti language.
+Woven from swaths of rich brocade silk and embroidered with ancient Azlanti script in golden thread, this stole imparts a noble appearance to even the homeliest of individuals when draped over the shoulders. While wearing a stole of civility, you receive a +2 item bonus to [Diplomacy](skills.md#Diplomacy) checks to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md) with humans or Make a [Request](archive/srd/pf2e/rules/actions/request.md) of humans, and a +2 item bonus to [Intimidation](skills.md#Intimidation) checks against humans. The stole also grants you full understanding of the Azlanti language.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

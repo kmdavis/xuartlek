@@ -12,7 +12,7 @@ aliases: ["Concealed Holster"]
 - **Bulk** L
 - **Hands** 1
 
-This leather holster is crafted to better hide small firearms from view. Only firearms designed for use in one hand are small enough to disguise with this holster. You gain a +1 item bonus to [Stealth](compendium/skills.md#Stealth) checks and DCs to hide or conceal a firearm or [hand crossbow](compendium/equipment/items/hand-crossbow.md) in this holster.
+This leather holster is crafted to better hide small firearms from view. Only firearms designed for use in one hand are small enough to disguise with this holster. You gain a +1 item bonus to [Stealth](skills.md#Stealth) checks and DCs to hide or conceal a firearm or [hand crossbow](archive/srd/pf2e/compendium/equipment/items/hand-crossbow.md) in this holster.
 
 
 ---

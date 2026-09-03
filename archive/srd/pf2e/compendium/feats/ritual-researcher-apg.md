@@ -8,9 +8,9 @@ tags:
 aliases: ["Ritual Researcher"]
 ---
 # Ritual Researcher  *Feat 4*  
-[bard](rules/traits/bard.md "Bard Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: enigma muse, expert in [Occultism](compendium/skills.md#Occultism)
+- **Prerequisites**: enigma muse, expert in [Occultism](skills.md#Occultism)
 
 Careful research into the art of rituals has made you better at performing them. You gain a +2 circumstance bonus to all primary and secondary checks you attempt as part of casting a ritual.
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Phistophilus Fiddle"]
 ---
 # Phistophilus Fiddle *Item 3*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [relic](rules/traits/relic-tv.md "Relic Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [relic](relic-tv.md "Relic Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 1
 - **Hands** 2

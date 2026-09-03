@@ -9,17 +9,17 @@ tags:
 aliases: ["Befitting Attire"]
 ---
 # Befitting Attire *Spell 2*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 5 willing creatures
 - **Duration**: 1 hour
 
 You cloak the targets in an illusion, shaping their clothing and worn items into ones suitable for a particular occasion. You visualize the occasion, and the spell creates illusory attire customized to each target. For instance, if you visualized a noble ball, armor would appear to be fine clothing. This doesn't change identifying details of the targets' appearances other than their clothes.
 
-Any creature that touches the attire, uses the [Seek](rules/actions/seek.md) action to examine it, or otherwise interacts with it can attempt to 0.
+Any creature that touches the attire, uses the [Seek](archive/srd/pf2e/rules/actions/seek.md) action to examine it, or otherwise interacts with it can attempt to 0.
 
 **Heightened (4th)** You can target up to 20 creatures.
 

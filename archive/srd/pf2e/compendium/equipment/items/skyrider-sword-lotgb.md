@@ -11,11 +11,11 @@ tags:
 aliases: ["Skyrider Sword"]
 ---
 # Skyrider Sword *Item 14+*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 2 hands
 
-This +2 greater striking shock greatsword has a broad, flat blade that can support the weight of a [Medium](rules/traits/medium-b1.md "Medium Size Trait")-sized or smaller wielder. Magic allows the weapon to soar through the air, carrying its wielder along with it.
+This +2 greater striking shock greatsword has a broad, flat blade that can support the weight of a [Medium](medium-b1.md "Medium Size Trait")-sized or smaller wielder. Magic allows the weapon to soar through the air, carrying its wielder along with it.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

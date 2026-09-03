@@ -12,7 +12,7 @@ aliases: ["Ten-Foot Pole"]
 - **Bulk** 1
 - **Hands** 2
 
-When wielding this long pole, you can use [Seek](rules/actions/seek.md) to search a square up to 10 feet away. The pole is not sturdy enough to use as a weapon.
+When wielding this long pole, you can use [Seek](archive/srd/pf2e/rules/actions/seek.md) to search a square up to 10 feet away. The pole is not sturdy enough to use as a weapon.
 
 
 ---

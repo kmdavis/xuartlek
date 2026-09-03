@@ -7,10 +7,10 @@ tags:
 - trait/metamagic
 aliases: ["Cascade Bearers Flexibility"]
 ---
-# Cascade Bearers Flexibility  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](rules/traits/metamagic.md "Metamagic General Trait")  
+# Cascade Bearers Flexibility  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [metamagic](metamagic.md "Metamagic General Trait")  
 
-- **Prerequisites**: [Magaambyan Attendant Dedication](compendium/feats/magaambyan-attendant-dedication-locg.md), Cascade Bearers affiliation
+- **Prerequisites**: [Magaambyan Attendant Dedication](magaambyan-attendant-dedication-locg.md), Cascade Bearers affiliation
 - **Frequency**: once per day
 - **Requirements**: You haven't yet acted on your turn.
 - **Activity** Free Action

@@ -10,12 +10,12 @@ tags:
 aliases: ["Lifting Belt"]
 ---
 # Lifting Belt *Item 4*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 80 gp
 - **Bulk** L; **Usage** worn belt
 
-This wide leather belt grants you a +1 item bonus to [Athletics](compendium/skills.md#Athletics) checks and increases the amount you can easily carry. You can carry Bulk equal to 6 + your Strength modifier before becoming [encumbered](rules/conditions.md#Encumbered), and you can hold and carry a total Bulk up to 11 + your Strength modifier.
+This wide leather belt grants you a +1 item bonus to [Athletics](skills.md#Athletics) checks and increases the amount you can easily carry. You can carry Bulk equal to 6 + your Strength modifier before becoming [encumbered](archive/srd/pf2e/rules/conditions.md#Encumbered), and you can hold and carry a total Bulk up to 11 + your Strength modifier.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md)

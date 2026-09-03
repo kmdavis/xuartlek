@@ -11,7 +11,7 @@ tags:
 aliases: ["Rowan Rifle"]
 ---
 # Rowan Rifle *Item 16*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 2; **Usage** held in two hands
 
@@ -19,7 +19,7 @@ In a dense forest within Arcadia, djezet fell from the sky millennia ago, even b
 
 One of the legendary star guns, Arcadia's greatest treasures, the Rowan Rifle is a +2 greater fearsome speed greater striking (Advanced Player's Guide 260) advanced firearm with a range of increment of 300 feet. It deals `1d8` fire damage and has the backstabber, concussive, and fatal <d12> traits.
 
-As a star gun, the Rowan Rifle runs on magic, and doesn't use ammunition or black powder. As a weapon forged to protect the fey peoples of Arcadia, the Rowan Rifle's enchantments prevent it from ever causing harm to a creature with the [fey](rules/traits/fey.md "Fey Creature Type Trait") trait; any attempt to shoot a fey with it results in an automatic misfire. This legendary star gun is as much a badge of office as a weapon, as it denotes dominion over all Briarbough. If the Rowan Rifle's wielder is fey, or if they were specifically given the Rowan Rifle by a fey creature who recognized them as a worthy champion, they can use the following activations.
+As a star gun, the Rowan Rifle runs on magic, and doesn't use ammunition or black powder. As a weapon forged to protect the fey peoples of Arcadia, the Rowan Rifle's enchantments prevent it from ever causing harm to a creature with the [fey](archive/srd/pf2e/rules/traits/fey.md "Fey Creature Type Trait") trait; any attempt to shoot a fey with it results in an automatic misfire. This legendary star gun is as much a badge of office as a weapon, as it denotes dominion over all Briarbough. If the Rowan Rifle's wielder is fey, or if they were specifically given the Rowan Rifle by a fey creature who recognized them as a worthy champion, they can use the following activations.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

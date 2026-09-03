@@ -7,18 +7,18 @@ tags:
 - trait/alchemist
 aliases: ["Debilitating Bomb"]
 ---
-# Debilitating Bomb  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[additive <2>](rules/traits/additive-2.md "Additive Feat Trait")  [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
+# Debilitating Bomb  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
+[additive <2>](rules/traits/additive-2.md "Additive Feat Trait")  [alchemist](archive/srd/pf2e/rules/traits/alchemist.md "Alchemist Class Trait")  
 
 - **Frequency**: once per round
-- **Trigger** You use [Quick Alchemy](rules/actions/quick-alchemy.md) to craft an alchemical bomb that is at least 2 levels lower than your advanced alchemy level.
+- **Trigger** You use [Quick Alchemy](archive/srd/pf2e/rules/actions/quick-alchemy.md) to craft an alchemical bomb that is at least 2 levels lower than your advanced alchemy level.
 - **Activity** Free Action
 
-Your bombs impose additional effects on your enemies. You mix a substance into the bomb that causes one of the following: [dazzled](rules/conditions.md#Dazzled), [deafened](rules/conditions.md#Deafened), [flat-footed](rules/conditions.md#Flat-footed), or a –5-foot status penalty to Speeds. If the attack with that bomb hits, the target must succeed at a Fortitude saving throw or suffer that effect until the start of your next turn. Use your class DC for this saving throw (even if someone else throws the bomb).
+Your bombs impose additional effects on your enemies. You mix a substance into the bomb that causes one of the following: [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled), [deafened](archive/srd/pf2e/rules/conditions.md#Deafened), [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed), or a –5-foot status penalty to Speeds. If the attack with that bomb hits, the target must succeed at a Fortitude saving throw or suffer that effect until the start of your next turn. Use your class DC for this saving throw (even if someone else throws the bomb).
 
 ## Debilitating Bomb leads to...
 
-[Greater Debilitating Bomb](compendium/feats/greater-debilitating-bomb.md), [True Debilitating Bomb](compendium/feats/true-debilitating-bomb.md)
+[Greater Debilitating Bomb](archive/srd/pf2e/compendium/feats/greater-debilitating-bomb.md), [True Debilitating Bomb](archive/srd/pf2e/compendium/feats/true-debilitating-bomb.md)
 
 ## Summary
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Sickle-Saber"]
 ---
 # Sickle-Saber *Item 0*  
-[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [forceful](rules/traits/forceful.md "Forceful Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[backswing](archive/srd/pf2e/rules/traits/backswing.md "Backswing Weapon Trait")  [forceful](archive/srd/pf2e/rules/traits/forceful.md "Forceful Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 5 gp
 - **Bulk** 1

@@ -24,12 +24,12 @@ aliases: ["Lamashtu", "Mother of Monsters"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Strength
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [falchion](compendium/equipment/items/falchion.md)
-- **Domains**: [family](compendium/setting/domains.md#Family), [might](compendium/setting/domains.md#Might), [nightmares](compendium/setting/domains.md#Nightmares), [trickery](compendium/setting/domains.md#Trickery)
-- **Alternate Domains**: [change](compendium/setting/domains.md#Change)
-- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 2nd: [animal form](compendium/spells/animal-form.md); 4th: [nightmare](compendium/spells/nightmare.md)
+- **Favored Weapon**: [falchion](archive/srd/pf2e/compendium/equipment/items/falchion.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Alternate Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change)
+- **Cleric Spells**: 1st: [magic fang](magic-fang.md); 2nd: [animal form](archive/srd/pf2e/compendium/spells/animal-form.md); 4th: [nightmare](archive/srd/pf2e/compendium/spells/nightmare.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Lamashtu
@@ -45,10 +45,10 @@ title: [Avatar](compendium/spells/avatar.md) of Lamashtu
 
 Lamashtu rewards kinship with monsters and brutal dominance in combat. Those who offend her serve the brood as prey or unwilling sacrifices.
 
-- **Minor Boon** Lamashtu's touch mutates a part of your body. You gain either an unarmed Strike that deals `1d6` damage or one that deals `1d4` damage and has the [finesse](rules/traits/finesse.md "Finesse Weapon Trait") and [agile](rules/traits/agile.md "Agile Weapon Trait") traits. Whether the attack deals bludgeoning, slashing, or piercing damage depends on the mutation. If the unarmed Strike replaces a limb, you can still use the mutated limb for its original functions. Lamashtu chooses the form and function of your mutation.
-- **Moderate Boon**: You spread Lamashtu's nightmares everywhere you go. You can cast [confusion](compendium/spells/confusion.md) once per day as an [divine](rules/traits/divine.md "Divine Tradition Trait") innate spell.
-- **Major Boon**: Lamashtu uses your body to birth a new monster, regardless of your gender. Once per day, you can spend 1 minute to birth a monster determined by the GM, which rips its way from your belly. The monster's level is up to your level and it does as it pleases, following Lamashtu's will, though it doesn't attack you unless you have lost her favor. You are [drained](rules/conditions.md#Drained) from the ordeal.
+- **Minor Boon** Lamashtu's touch mutates a part of your body. You gain either an unarmed Strike that deals `1d6` damage or one that deals `1d4` damage and has the [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait") and [agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait") traits. Whether the attack deals bludgeoning, slashing, or piercing damage depends on the mutation. If the unarmed Strike replaces a limb, you can still use the mutated limb for its original functions. Lamashtu chooses the form and function of your mutation.
+- **Moderate Boon**: You spread Lamashtu's nightmares everywhere you go. You can cast [confusion](archive/srd/pf2e/compendium/spells/confusion.md) once per day as an [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait") innate spell.
+- **Major Boon**: Lamashtu uses your body to birth a new monster, regardless of your gender. Once per day, you can spend 1 minute to birth a monster determined by the GM, which rips its way from your belly. The monster's level is up to your level and it does as it pleases, following Lamashtu's will, though it doesn't attack you unless you have lost her favor. You are [drained](archive/srd/pf2e/rules/conditions.md#Drained) from the ordeal.
 
-- **Minor Curse**: Horrid visions torment your mind, overlaying reality at inopportune times. You treat everything around you as if it was [concealed](rules/conditions.md#Concealed).
-- **Moderate Curse** Lamashtu marks you as prey. Any creature with imprecise or better [scent](rules/abilities/scent.md) can smell you from 100 × the usual range of their [scent](rules/abilities/scent.md) and can't shake the feeling that you smell like prey, so they might attack you even if they would normally avoid attacking creatures of your ancestry. This smell doesn't magically compel their action, and the [scent](rules/abilities/scent.md) of prey doesn't overcome a deeper bond such as that with an animal companion.
-- **Major Curse**: Your dreams are an unending stream of nightmares. You need 16 hours of rest to try to get enough sleep to recover resources in daily preparation that normally require an 8-hour rest, and even then, you must succeed at a DC 15 flat check to do so, and you are still [fatigued](rules/conditions.md#Fatigued) on a successful check.
+- **Minor Curse**: Horrid visions torment your mind, overlaying reality at inopportune times. You treat everything around you as if it was [concealed](archive/srd/pf2e/rules/conditions.md#Concealed).
+- **Moderate Curse** Lamashtu marks you as prey. Any creature with imprecise or better [scent](archive/srd/pf2e/rules/abilities/scent.md) can smell you from 100 × the usual range of their [scent](archive/srd/pf2e/rules/abilities/scent.md) and can't shake the feeling that you smell like prey, so they might attack you even if they would normally avoid attacking creatures of your ancestry. This smell doesn't magically compel their action, and the [scent](archive/srd/pf2e/rules/abilities/scent.md) of prey doesn't overcome a deeper bond such as that with an animal companion.
+- **Major Curse**: Your dreams are an unending stream of nightmares. You need 16 hours of rest to try to get enough sleep to recover resources in daily preparation that normally require an 8-hour rest, and even then, you must succeed at a DC 15 flat check to do so, and you are still [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) on a successful check.

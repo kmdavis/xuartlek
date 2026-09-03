@@ -15,4 +15,4 @@ You've made a living sorting through the things society throws away. You might h
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and the [Lore](compendium/skills.md#Lore) skill for the settlement you grew up scavenging in. You gain the [Forager](compendium/feats/forager.md) skill feat.
+You're trained in the [Survival](skills.md#Survival) skill and the [Lore](skills.md#Lore) skill for the settlement you grew up scavenging in. You gain the [Forager](archive/srd/pf2e/compendium/feats/forager.md) skill feat.

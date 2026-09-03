@@ -7,13 +7,13 @@ tags:
 aliases: ["Sacred Armaments"]
 ---
 # Sacred Armaments  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Lastwall Sentry Dedication](compendium/feats/lastwall-sentry-dedication-lowg.md)
+- **Prerequisites**: [Lastwall Sentry Dedication](lastwall-sentry-dedication-lowg.md)
 
 Through the power of your faith or the blessing of a priest, your weapons are fully effective against incorporeal creatures.
 
-Weapons you wield have the effects of a [ghost touch](compendium/equipment/items/ghost-touch.md) property rune for as long as you wield them.
+Weapons you wield have the effects of a [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md) property rune for as long as you wield them.
 
 *Source: Lost Omens: Knights of Lastwall p. 79*  
 %% #compendium/src/pf2e/lokl #trait/archetype %%

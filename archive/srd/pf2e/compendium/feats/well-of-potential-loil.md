@@ -6,8 +6,8 @@ tags:
 - trait/kashrishi
 aliases: ["Well of Potential"]
 ---
-# Well of Potential  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
-[kashrishi](rules/traits/kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
+# Well of Potential  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 5*  
+[kashrishi](kashrishi-loil.md "Kashrishi Ancestry & Heritage Trait")  
 
 - **Prerequisites**: focus pool, at least one innate spell from a kashrishi heritage or ancestry feat that shares a tradition with at least one of your focus spells
 - **Frequency**: once per day

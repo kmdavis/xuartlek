@@ -10,12 +10,12 @@ tags:
 aliases: ["Spinning Staff"]
 ---
 # Spinning Staff *Focus 1*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magus](archive/srd/pf2e/rules/traits/magus-som.md "Magus Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Requirements**: You're wielding a staff.
 - 
 
-You spin your staff with a twirling flourish, attacking two foes and transforming the momentum into magical energy to charge for your next [Spellstrike](rules/actions/spellstrike-som.md). Make a melee [Strike](rules/actions/strike.md) with your staff against one foe and then a second melee [Strike](rules/actions/strike.md) with your staff against a different foe. Your multiple attack penalty applies to both of these attacks as normal.
+You spin your staff with a twirling flourish, attacking two foes and transforming the momentum into magical energy to charge for your next [Spellstrike](spellstrike-som.md). Make a melee [Strike](archive/srd/pf2e/rules/actions/strike.md) with your staff against one foe and then a second melee [Strike](archive/srd/pf2e/rules/actions/strike.md) with your staff against a different foe. Your multiple attack penalty applies to both of these attacks as normal.
 
 *Source: Secrets of Magic p. 144*

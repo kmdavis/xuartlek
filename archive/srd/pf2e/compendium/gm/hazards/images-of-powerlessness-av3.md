@@ -8,14 +8,14 @@ tags:
 aliases: ["Images Of Powerlessness"]
 ---
 # Images Of Powerlessness *Hazard 12*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 35 expert to realize the illusory images conceal a magical trap (noticing the images has a DC of 0)  
 
 Psychically-enhanced illusions flood the minds of creatures in the 95-foot-long, 15-foot-wide hallway (the white dotted box on the map) with visions of their failures yet to come.
 
-- **Disable** DC 32 [Occultism](compendium/skills.md#Occultism) (master) or dispel magic (5th level; counteract DC 26) to weaken the images; three successes are required to disable the trap.  
+- **Disable** DC 32 [Occultism](skills.md#Occultism) (master) or dispel magic (5th level; counteract DC 26) to weaken the images; three successes are required to disable the trap.  
 
 ```ad-embed-ability
 title: **Flood of Despair** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([curse](rules/traits/curse.md), [emotion](rules/traits/emotion.md), [enchantment](rules/traits/enchantment.md), [mental](rules/traits/mental.md))

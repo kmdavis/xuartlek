@@ -7,9 +7,9 @@ tags:
 aliases: ["Expert Kinetic Control"]
 ---
 # Expert Kinetic Control  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Kineticist Dedication](compendium/feats/kineticist-dedication-roe.md)
+- **Prerequisites**: [Kineticist Dedication](kineticist-dedication-roe.md)
 
 You become an expert in kineticist class DC and impulse attack rolls.
 

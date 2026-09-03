@@ -7,8 +7,8 @@ tags:
 - trait/sorcerer
 aliases: ["Energy Ward"]
 ---
-# Energy Ward  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [sorcerer](rules/traits/sorcerer.md "Sorcerer Class Trait")  
+# Energy Ward  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 10*  
+[abjuration](abjuration.md "Abjuration School Trait")  [sorcerer](archive/srd/pf2e/rules/traits/sorcerer.md "Sorcerer Class Trait")  
 
 - **Frequency**: once per turn
 - **Requirements**: Your most recent action was to cast a non-cantrip spell that dealt energy damage.

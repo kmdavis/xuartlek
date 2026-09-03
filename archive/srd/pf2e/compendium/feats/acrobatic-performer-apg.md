@@ -8,11 +8,11 @@ tags:
 aliases: ["Acrobatic Performer"]
 ---
 # Acrobatic Performer  *Feat 1*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Acrobatics](compendium/skills.md#Acrobatics)
+- **Prerequisites**: trained in [Acrobatics](skills.md#Acrobatics)
 
-You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. It's almost a performance! You can roll an [Acrobatics](compendium/skills.md#Acrobatics) check instead of a [Performance](compendium/skills.md#Performance) check when using the [Perform](rules/actions/perform.md) action.
+You're an incredible acrobat, evoking wonder and enrapturing audiences with your prowess. It's almost a performance! You can roll an [Acrobatics](skills.md#Acrobatics) check instead of a [Performance](skills.md#Performance) check when using the [Perform](archive/srd/pf2e/rules/actions/perform.md) action.
 
 *Source: Advanced Player's Guide p. 202*  
 %% #compendium/src/pf2e/apg #trait/general #trait/skill %%

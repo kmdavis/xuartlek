@@ -8,7 +8,7 @@ tags:
 aliases: ["Sibling's Coin"]
 ---
 # Sibling's Coin *Item 1*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** Member of a secret society
 - **Price** 10 gp
@@ -18,7 +18,7 @@ Contrary to widespread belief, secret handshakes are not the preferred method of
 
 Suspected compatriots often toy with their coins as a half-recognized fidget, before trying to subtly flash the inscription to their fellow conversationalist.
 
-While it's possible to notice the coin's mechanism if you specifically check the coin (DC 20 [Perception](compendium/skills.md#Perception)), few people individually inspect coins unless they have a reason to be suspicious of them.
+While it's possible to notice the coin's mechanism if you specifically check the coin (DC 20 [Perception](skills.md#Perception)), few people individually inspect coins unless they have a reason to be suspicious of them.
 
 
 ---

@@ -9,17 +9,17 @@ tags:
 aliases: ["Hellknight Dedication"]
 ---
 # Hellknight Dedication  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md), lawful alignment, member of a Hellknight order, passed the Hellknight Test
+- **Prerequisites**: [Hellknight Armiger Dedication](hellknight-armiger-dedication-lowg.md), lawful alignment, member of a Hellknight order, passed the Hellknight Test
 
-You have forged your body to comply with the commands of your mind—orders steeped in the Measure and the Chain. You gain expert proficiency in [Intimidation](compendium/skills.md#Intimidation) (or in another skill in which you're trained of your choice, if you were already an expert in [Intimidation](compendium/skills.md#Intimidation)). You gain the armor specialization effects of Hellknight plate, and your resistance from that armor specialization is 1 higher than normal. In addition, you gain a +1 circumstance bonus to [Intimidation](compendium/skills.md#Intimidation) checks while wearing your Hellknight plate.
+You have forged your body to comply with the commands of your mind—orders steeped in the Measure and the Chain. You gain expert proficiency in [Intimidation](skills.md#Intimidation) (or in another skill in which you're trained of your choice, if you were already an expert in [Intimidation](skills.md#Intimidation)). You gain the armor specialization effects of Hellknight plate, and your resistance from that armor specialization is 1 higher than normal. In addition, you gain a +1 circumstance bonus to [Intimidation](skills.md#Intimidation) checks while wearing your Hellknight plate.
 
 **Special.** You cannot select another dedication feat until you have gained two other feats from the Hellknight or Hellknight armiger archetypes.
 
 ## Hellknight Dedication leads to...
 
-[Advanced Order Training](compendium/feats/advanced-order-training-locg.md), [Blade Of Law](compendium/feats/blade-of-law-locg.md), [Hell's Armaments](compendium/feats/hells-armaments-locg.md), [Hellknight Order Cross-training](compendium/feats/hellknight-order-cross-training-locg.md), [Sense Chaos](compendium/feats/sense-chaos-locg.md)
+[Advanced Order Training](advanced-order-training-locg.md), [Blade Of Law](blade-of-law-locg.md), [Hell's Armaments](hells-armaments-locg.md), [Hellknight Order Cross-training](hellknight-order-cross-training-locg.md), [Sense Chaos](sense-chaos-locg.md)
 
 ## Summary
 

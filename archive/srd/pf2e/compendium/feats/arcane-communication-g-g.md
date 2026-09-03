@@ -7,7 +7,7 @@ tags:
 aliases: ["Arcane Communication"]
 ---
 # Arcane Communication  *Feat 1*  
-[automaton](rules/traits/automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
+[automaton](automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
 
 
 You can deliver silent messages. You gain touch telepathy, allowing you to communicate silently and mentally with any creature you're touching, as long as you share a language.

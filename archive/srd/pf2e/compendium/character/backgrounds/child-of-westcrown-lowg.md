@@ -15,4 +15,4 @@ Whether you come from Westcrown or elsewhere, you hold the values of pre-Thrune 
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Westcrown Lore](compendium/skills.md#Lore) skill. You gain the [Group Impression](compendium/feats/group-impression.md) skill feat.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Westcrown Lore](skills.md#Lore) skill. You gain the [Group Impression](archive/srd/pf2e/compendium/feats/group-impression.md) skill feat.

@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Tempest-sun Shielding"]
 ---
-# Tempest-sun Shielding  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Tempest-sun Shielding  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Tempest-Sun Redirection](compendium/feats/tempest-sun-redirection-locg.md)
+- **Prerequisites**: [Tempest-Sun Redirection](tempest-sun-redirection-locg.md)
 - **Trigger** You or an ally within 30 feet takes damage.
 - **Activity** Reaction
 

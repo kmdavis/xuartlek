@@ -20,8 +20,8 @@ aliases: ["Osiris", "Lord of the Living"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [flail](compendium/equipment/items/flail.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [healing](compendium/setting/domains.md#Healing), [nature](compendium/setting/domains.md#Nature), [soul](compendium/setting/domains.md#Soul)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 2nd: [false life](compendium/spells/false-life.md); 6th: [tangling creepers](compendium/spells/tangling-creepers.md)
+- **Favored Weapon**: [flail](archive/srd/pf2e/compendium/equipment/items/flail.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [soul](archive/srd/pf2e/compendium/setting/domains.md#Soul)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 2nd: [false life](false-life.md); 6th: [tangling creepers](archive/srd/pf2e/compendium/spells/tangling-creepers.md)

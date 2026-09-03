@@ -14,7 +14,7 @@ tags:
 aliases: ["Claw Blade"]
 ---
 # Claw Blade *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [catfolk](rules/traits/catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [disarm](rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [catfolk](catfolk-b1.md "Catfolk Ancestry & Heritage Trait")  [deadly <d8>](rules/traits/deadly-d8.md "Deadly Weapon Trait")  [disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [versatile <p>](rules/traits/versatile-p.md "Versatile Weapon Trait")  
 
 - **Price** 2 gp
 - **Bulk** L

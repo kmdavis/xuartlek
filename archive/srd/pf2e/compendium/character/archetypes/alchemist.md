@@ -16,11 +16,11 @@ You enjoy tinkering with alchemical formulas and substances in your spare time, 
 The free alchemical items from the alchemist archetype are extremely useful to characters of any class. The following are just some of the possible combinations.
 
 - Barbarian alchemists can mix mutagens with their rage to ferocious effect.
-- Champion alchemists can focus on alchemical items that boost defenses and heal others, allowing their champion's reaction and [lay on hands](compendium/spells/lay-on-hands.md) to go further.
+- Champion alchemists can focus on alchemical items that boost defenses and heal others, allowing their champion's reaction and [lay on hands](archive/srd/pf2e/compendium/spells/lay-on-hands.md) to go further.
 - Fighter alchemists can use their alchemy to gain additional options in situations where their usual tactics don't work.
-- Ranger alchemists focus on alchemy and snares, getting extra use out of their [Crafting](compendium/skills.md#Crafting) skill and supplying bombs for the bomb snare.
+- Ranger alchemists focus on alchemy and snares, getting extra use out of their [Crafting](skills.md#Crafting) skill and supplying bombs for the bomb snare.
 - Rogue alchemists can combine a rogue's poison feats with free daily poisons, and bombs present an interesting way to sneak attack with various types of energy damage.
-- Spellcaster alchemists often use their alchemical items to take pressure off their repertoire or prepared spells. For instance, a wizard alchemist who can brew up [darkvision elixirs](compendium/equipment/items/darkvision-elixir.md) to grant [darkvision](rules/abilities/darkvision.md) can prepare another spell instead of [darkvision](compendium/spells/darkvision.md).
+- Spellcaster alchemists often use their alchemical items to take pressure off their repertoire or prepared spells. For instance, a wizard alchemist who can brew up [darkvision elixirs](archive/srd/pf2e/compendium/equipment/items/darkvision-elixir.md) to grant [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) can prepare another spell instead of [darkvision](archive/srd/pf2e/compendium/spells/darkvision.md).
 
 *Source: Core Rulebook p. 220*
 

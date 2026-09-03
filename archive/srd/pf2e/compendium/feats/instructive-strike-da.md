@@ -6,12 +6,12 @@ tags:
 - trait/thaumaturge
 aliases: ["Instructive Strike"]
 ---
-# Instructive Strike  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
-[thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
+# Instructive Strike  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 4*  
+[thaumaturge](archive/srd/pf2e/rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Activity** Single Action
 
-You attack your foe and analyze how it reacts. Make a [Strike](rules/actions/strike.md). On a hit, you can immediately attempt a check to [Recall Knowledge](rules/actions/recall-knowledge.md) about the target. On a critical hit, you gain a +2 circumstance bonus to the check to [Recall Knowledge](rules/actions/recall-knowledge.md).
+You attack your foe and analyze how it reacts. Make a [Strike](archive/srd/pf2e/rules/actions/strike.md). On a hit, you can immediately attempt a check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) about the target. On a critical hit, you gain a +2 circumstance bonus to the check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md).
 
 *Source: Dark Archive p. 44*  
 %% #compendium/src/pf2e/da #trait/thaumaturge %%

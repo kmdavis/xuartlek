@@ -7,10 +7,10 @@ tags:
 aliases: ["Turn Undead"]
 ---
 # Turn Undead  *Feat 2*  
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  
 
 
-Undead harmed by your positive energy might flee, compelled by an innate aversion to the force opposite undeath. When you use a [heal](compendium/spells/heal.md) spell to damage undead, each undead of your level or lower that critically fails its save gains the [fleeing](rules/conditions.md#Fleeing) condition for 1 round.
+Undead harmed by your positive energy might flee, compelled by an innate aversion to the force opposite undeath. When you use a [heal](archive/srd/pf2e/compendium/spells/heal.md) spell to damage undead, each undead of your level or lower that critically fails its save gains the [fleeing](archive/srd/pf2e/rules/conditions.md#Fleeing) condition for 1 round.
 
 *Source: Core Rulebook p. 122*  
 %% #compendium/src/pf2e/crb #trait/cleric %%

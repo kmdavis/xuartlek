@@ -8,9 +8,9 @@ tags:
 aliases: ["Magical Adept"]
 ---
 # Magical Adept  *Feat 8*  
-[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[evolution](evolution-som.md "Evolution Feat Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
-- **Prerequisites**: [Magical Understudy](compendium/feats/magical-understudy-som.md)
+- **Prerequisites**: [Magical Understudy](magical-understudy-som.md)
 
 Your eidolon gains more magic. Choose one 2nd-level spell and one 1st-level spell of your eidolon's tradition.
 
@@ -18,7 +18,7 @@ Your eidolon can cast them each once per day as innate spells. At every even lev
 
 ## Magical Adept leads to...
 
-[Magical Master](compendium/feats/magical-master-som.md)
+[Magical Master](magical-master-som.md)
 
 ## Summary
 

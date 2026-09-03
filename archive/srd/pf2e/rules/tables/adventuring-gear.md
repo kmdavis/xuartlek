@@ -10,7 +10,7 @@ aliases: ["Adventuring Gear"]
 
 | Item                                                                       | Price | Bulk | Hands |
 | -------------------------------------------------------------------------- | ----- | ---- | ----- |
-| [Adventurer's pack](compendium/equipment/items/adventurers-pack.md)<br>Foo | 15 sp | 1    | -     |
+| [Adventurer's pack](archive/srd/pf2e/compendium/equipment/items/adventurers-pack.md)<br>Foo | 15 sp | 1    | -     |
 TODO: reformat as actual table
 
 <table>

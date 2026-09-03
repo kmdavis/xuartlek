@@ -9,7 +9,7 @@ tags:
 aliases: ["Buckle Armor"]
 ---
 # Buckle Armor *Item 0*  
-[adjusted <storage>](rules/traits/adjusted-storage-tv.md "Adjusted Armor Trait")  [noisy](rules/traits/noisy.md "Noisy Armor Trait")  
+[adjusted <storage>](rules/traits/adjusted-storage-tv.md "Adjusted Armor Trait")  [noisy](archive/srd/pf2e/rules/traits/noisy.md "Noisy Armor Trait")  
 
 - **Price** 4 gp
 - **Bulk** 1
@@ -17,7 +17,7 @@ aliases: ["Buckle Armor"]
 - **Strength** 12; **Check Penalty** -1; **Speed Penalty** —
 - **Category** Light; **Group** Leather 
 
-Absalom style once led famous adventurers to wear clothing with an unusual number of buckles, pouches, and straps. This fashion birthed a trend that led to "buckle armor," a colloquial name for chic armor with spacious tool storage. Buckle armor comes with the [storage](compendium/equipment/items/storage-tv.md) armor adjustment.
+Absalom style once led famous adventurers to wear clothing with an unusual number of buckles, pouches, and straps. This fashion birthed a trend that led to "buckle armor," a colloquial name for chic armor with spacious tool storage. Buckle armor comes with the [storage](storage-tv.md) armor adjustment.
 
 
 ---

@@ -11,14 +11,14 @@ tags:
 aliases: ["Mask Of Allure"]
 ---
 # Mask Of Allure *Item 18*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 24000 gp
 - **Bulk** L; **Usage** worn mask
 
 This mask appears to be a pool of mirrored, shifting silver adhered to a thin metal plate.
 
-When you place it against your face, it melds to the shape of your head. The material is breathable and light, and does not obscure vision. You gain a +2 item bonus to [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), and [Performance](compendium/skills.md#Performance) checks while wearing the mask.
+When you place it against your face, it melds to the shape of your head. The material is breathable and light, and does not obscure vision. You gain a +2 item bonus to [Deception](skills.md#Deception), [Diplomacy](skills.md#Diplomacy), [Intimidation](skills.md#Intimidation), and [Performance](skills.md#Performance) checks while wearing the mask.
 
 When you invest the mask, you either increase your Charisma score by 2 or increase it to 18, whichever would give you a higher score.
 

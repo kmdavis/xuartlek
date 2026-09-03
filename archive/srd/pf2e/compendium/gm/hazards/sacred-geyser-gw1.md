@@ -9,14 +9,14 @@ tags:
 aliases: ["Sacred Geyser"]
 ---
 # Sacred Geyser *Hazard 3*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 19 trained  
 
 A geyser of boiling water erupts at any character who attempts to take water from the oasis.
 
-- **Disable** DC 21 [Thievery](compendium/skills.md#Thievery) (trained) to concoct a mechanism for indirectly harvesting the water from a safe distance  
+- **Disable** DC 21 [Thievery](skills.md#Thievery) (trained) to concoct a mechanism for indirectly harvesting the water from a safe distance  
 
 ```ad-embed-ability
 title: **Boiling Geyser** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

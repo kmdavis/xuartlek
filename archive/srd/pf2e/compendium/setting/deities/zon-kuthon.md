@@ -27,12 +27,12 @@ aliases: ["Zon-Kuthon", "Midnight Lord"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [spiked chain](compendium/equipment/items/spiked-chain.md)
-- **Domains**: [ambition](compendium/setting/domains.md#Ambition), [darkness](compendium/setting/domains.md#Darkness), [destruction](compendium/setting/domains.md#Destruction), [pain](compendium/setting/domains.md#Pain)
-- **Alternate Domains**: [void](compendium/setting/domains.md#Void)
-- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 3rd: [wall of thorns](compendium/spells/wall-of-thorns.md); 5th: [shadow walk](compendium/spells/shadow-walk.md)
+- **Favored Weapon**: [spiked chain](archive/srd/pf2e/compendium/equipment/items/spiked-chain.md)
+- **Domains**: [ambition](archive/srd/pf2e/compendium/setting/domains.md#Ambition), [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain)
+- **Alternate Domains**: [void](archive/srd/pf2e/compendium/setting/domains.md#Void)
+- **Cleric Spells**: 1st: [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md); 3rd: [wall of thorns](archive/srd/pf2e/compendium/spells/wall-of-thorns.md); 5th: [shadow walk](shadow-walk.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Zon-Kuthon
@@ -48,10 +48,10 @@ title: [Avatar](compendium/spells/avatar.md) of Zon-Kuthon
 
 Zon-Kuthon rarely intervenes directly in mortal affairs, but when he does take a personal interest in a creature, the effect is as terrible as the god himself.
 
-- **Minor Boon** The Midnight Lord turns your blood and pain into chains of midnight darkness to destroy your foes. Once, for 1 minute, whenever you take slashing, piercing, or bleed damage, chains rip forth from your body, affecting creatures in a line from your position in the direction of the attack (or in the direction of your choice for bleed damage or if you deal the damage yourself) with the effect of a [grim tendrils](compendium/spells/grim-tendrils.md) spell whose level is equal to half your level rounded up, and whose DC is your highest spell DC (or 10 + your level + your Wisdom modifier if you have no spell DC).
+- **Minor Boon** The Midnight Lord turns your blood and pain into chains of midnight darkness to destroy your foes. Once, for 1 minute, whenever you take slashing, piercing, or bleed damage, chains rip forth from your body, affecting creatures in a line from your position in the direction of the attack (or in the direction of your choice for bleed damage or if you deal the damage yourself) with the effect of a [grim tendrils](archive/srd/pf2e/compendium/spells/grim-tendrils.md) spell whose level is equal to half your level rounded up, and whose DC is your highest spell DC (or 10 + your level + your Wisdom modifier if you have no spell DC).
 - **Moderate Boon**: Each morning, during your daily preparations, scars gather into words on your flesh. The scars function as a scroll of a divine spell of Zon-Kuthon's choosing. After you use the scroll or receive magical healing, the boon fades for the day, though some or all of the scars might remain as a reminder.
-- **Major Boon**: Shadows are deeper around you. [Darkvision](rules/abilities/darkvision.md) and [greater darkvision](rules/abilities/darkvision.md) cannot penetrate darkness within 60 feet of you, but you can see through it normally.
+- **Major Boon**: Shadows are deeper around you. [Darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) and [greater darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) cannot penetrate darkness within 60 feet of you, but you can see through it normally.
 
-- **Minor Curse**: You are surrounded by spectral chains that cause you to always be [encumbered](rules/conditions.md#Encumbered) and that have the same effects as armor with the [noisy](rules/traits/noisy.md "Noisy Armor Trait") trait.
-- **Moderate Curse** You share the pain of others, and even minor wounds bring you incredible pain. Whenever you see (or otherwise sense) a creature take damage, you take `1d6` mental damage. Whenever you take damage any other way than from the first part of this curse, you take `1d6` mental damage from increased pain and are [sickened](rules/conditions.md#Sickened). Mental damage from this curse ignores any resistance you have to mental damage.
+- **Minor Curse**: You are surrounded by spectral chains that cause you to always be [encumbered](archive/srd/pf2e/rules/conditions.md#Encumbered) and that have the same effects as armor with the [noisy](archive/srd/pf2e/rules/traits/noisy.md "Noisy Armor Trait") trait.
+- **Moderate Curse** You share the pain of others, and even minor wounds bring you incredible pain. Whenever you see (or otherwise sense) a creature take damage, you take `1d6` mental damage. Whenever you take damage any other way than from the first part of this curse, you take `1d6` mental damage from increased pain and are [sickened](archive/srd/pf2e/rules/conditions.md#Sickened). Mental damage from this curse ignores any resistance you have to mental damage.
 - **Major Curse**: Zon-Kuthon steals away your joy, leaving you with only pain. You lose that which you cherish the most forever, and lose the ability to feel joy. You can't gain benefits from emotion effects based on positive emotions. If Zon-Kuthon feels you are ready to renounce, destroy, mutilate, or torture that which you once cherished most, he might return it to you to allow you to do so.

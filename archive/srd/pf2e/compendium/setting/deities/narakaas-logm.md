@@ -20,8 +20,8 @@ aliases: ["Narakaas", "The Cleansing Sentence"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [greataxe](compendium/equipment/items/greataxe.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [death](compendium/setting/domains.md#Death), [pain](compendium/setting/domains.md#Pain), [sorrow](compendium/setting/domains.md#Sorrow)
-- **Cleric Spells**: 1st: [endure](compendium/spells/endure-logm.md); 2nd: [slough skin](compendium/spells/slough-skin-logm.md); 4th: [modify memory](compendium/spells/modify-memory.md)
+- **Favored Weapon**: [greataxe](archive/srd/pf2e/compendium/equipment/items/greataxe.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow)
+- **Cleric Spells**: 1st: [endure](endure-logm.md); 2nd: [slough skin](slough-skin-logm.md); 4th: [modify memory](modify-memory.md)

@@ -8,14 +8,14 @@ tags:
 aliases: ["Energy Heart"]
 ---
 # Energy Heart  *Feat 1*  
-[evolution](rules/traits/evolution-som.md "Evolution Feat Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
+[evolution](evolution-som.md "Evolution Feat Trait")  [summoner](archive/srd/pf2e/rules/traits/summoner-som.md "Summoner Class Trait")  
 
 
 Your eidolon's heart beats with energy. Choose an energy damage type other than force. One of its unarmed attacks changes its damage type to the chosen type, and it gains resistance to that type equal to half your level (minimum 1).
 
 ## Energy Heart leads to...
 
-[Dual Energy Heart](compendium/feats/dual-energy-heart-som.md), [Energy Resistance](compendium/feats/energy-resistance-som.md)
+[Dual Energy Heart](dual-energy-heart-som.md), [Energy Resistance](energy-resistance-som.md)
 
 ## Summary
 

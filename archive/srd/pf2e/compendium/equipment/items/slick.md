@@ -9,11 +9,11 @@ tags:
 aliases: ["Slick"]
 ---
 # Slick *Item 5+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Usage** etched onto armor
 
-This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +1 item bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks to [Escape](rules/actions/escape.md) and [Squeeze](rules/actions/squeeze.md).
+This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +1 item bonus to [Acrobatics](skills.md#Acrobatics) checks to [Escape](archive/srd/pf2e/rules/actions/escape.md) and [Squeeze](archive/srd/pf2e/rules/actions/squeeze.md).
 
 ---
 

@@ -9,12 +9,12 @@ tags:
 aliases: ["Pontoon"]
 ---
 # Pontoon *Item 9*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 650 gp
 - **Usage** applied to footwear
 
-Footwear with pontoon runes allows you to traverse waterways with ease. While wearing footwear with the rune, you can walk on the surface of water and other liquids without falling through. This offers no protection against damage the liquid deals. You can go under the liquid's surface, but you must [Swim](rules/actions/swim.md) if you do.
+Footwear with pontoon runes allows you to traverse waterways with ease. While wearing footwear with the rune, you can walk on the surface of water and other liquids without falling through. This offers no protection against damage the liquid deals. You can go under the liquid's surface, but you must [Swim](archive/srd/pf2e/rules/actions/swim.md) if you do.
 
 
 ---

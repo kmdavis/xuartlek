@@ -7,9 +7,9 @@ tags:
 aliases: ["Reaper Of Repose"]
 ---
 # Reaper Of Repose  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Knight Reclaimant Dedication](compendium/feats/knight-reclaimant-dedication-locg.md), master proficiency in a weapon
+- **Prerequisites**: [Knight Reclaimant Dedication](knight-reclaimant-dedication-locg.md), master proficiency in a weapon
 
 Your skill and fervor allow you to pierce undead defenses and exploit their weaknesses. When you make an attack using a weapon with which you have master proficiency and hit an undead creature, you ignore 5 points of the creature's resistances, and the undead's weaknesses are 2 higher against your attack.
 

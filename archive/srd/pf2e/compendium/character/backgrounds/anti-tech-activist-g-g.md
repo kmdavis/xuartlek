@@ -15,4 +15,4 @@ You've seen the sorts of things that technology brings—polluted environments, 
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and the [Guild Lore](compendium/skills.md#Lore) skill. You gain the [Group Coercion](compendium/feats/group-coercion.md) skill feat.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and the [Guild Lore](skills.md#Lore) skill. You gain the [Group Coercion](archive/srd/pf2e/compendium/feats/group-coercion.md) skill feat.

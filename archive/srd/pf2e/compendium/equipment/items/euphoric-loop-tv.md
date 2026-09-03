@@ -10,21 +10,21 @@ tags:
 aliases: ["Euphoric Loop"]
 ---
 # Euphoric Loop *Item 5+*  
-[catalyst](rules/traits/catalyst-som.md "Catalyst Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[catalyst](catalyst-som.md "Catalyst Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 5 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)
+- **Activate** [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md)
 
-This catalyst is made from twisted sapling bark harvested under a full moon. When used to cast a [charm](compendium/spells/charm.md) spell, the enchantment creates a blissful experience for one target of your choice.
+This catalyst is made from twisted sapling bark harvested under a full moon. When used to cast a [charm](archive/srd/pf2e/compendium/spells/charm.md) spell, the enchantment creates a blissful experience for one target of your choice.
 
-When the spell ends, even if you [Dismiss](rules/actions/dismiss.md) it, the sudden mental dissonance between the charmed state and reality forces the target to attempt a Will save against your spell DC.
+When the spell ends, even if you [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) it, the sudden mental dissonance between the charmed state and reality forces the target to attempt a Will save against your spell DC.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [stunned](rules/conditions.md#Stunned) or, if the spell ended because of a [hostile](rules/conditions.md#Hostile) action, [confused](rules/conditions.md#Confused) for 1 round.
-> - **Failure** The target is [stunned](rules/conditions.md#Stunned) or, if the spell ended because of a [hostile](rules/conditions.md#Hostile) action, [confused](rules/conditions.md#Confused) for 1 round.
-> - **Critical Failure** The target is [stunned](rules/conditions.md#Stunned) or, if the spell ended because of a [hostile](rules/conditions.md#Hostile) action, [confused](rules/conditions.md#Confused) for 2 rounds.
+> - **Success** The target is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned) or, if the spell ended because of a [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) action, [confused](archive/srd/pf2e/rules/conditions.md#Confused) for 1 round.
+> - **Failure** The target is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned) or, if the spell ended because of a [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) action, [confused](archive/srd/pf2e/rules/conditions.md#Confused) for 1 round.
+> - **Critical Failure** The target is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned) or, if the spell ended because of a [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) action, [confused](archive/srd/pf2e/rules/conditions.md#Confused) for 2 rounds.
 
 ---
 
@@ -38,7 +38,7 @@ When the spell ends, even if you [Dismiss](rules/actions/dismiss.md) it, the sud
 
 - **Price**: 450 gp
 
-The catalyst affects all targets of the [charm](compendium/spells/charm.md) spell, up to 10.
+The catalyst affects all targets of the [charm](archive/srd/pf2e/compendium/spells/charm.md) spell, up to 10.
 
 ---
 *Source: Treasure Vault p. 74*

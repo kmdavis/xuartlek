@@ -6,17 +6,17 @@ tags:
 - trait/leshy
 aliases: ["Leshy Superstition"]
 ---
-# Leshy Superstition  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
-[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  
+# Leshy Superstition  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 1*  
+[leshy](leshy-b1.md "Leshy Ancestry & Heritage Trait")  
 
-- **Trigger** You attempt a saving throw against a spell or [magical](rules/traits/magical.md "Magical Item Trait") effect, but haven't rolled yet.
+- **Trigger** You attempt a saving throw against a spell or [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait") effect, but haven't rolled yet.
 - **Activity** Reaction
 
 You notice spirits that inhabit objects, learning which bring good fortune and which are unlucky. You focus on the power of a lucky object, granting you a +1 circumstance bonus to your saving throw against the triggering effect.
 
 ## Leshy Superstition leads to...
 
-[Lucky Keepsake](compendium/feats/lucky-keepsake-locg.md)
+[Lucky Keepsake](lucky-keepsake-locg.md)
 
 ## Summary
 

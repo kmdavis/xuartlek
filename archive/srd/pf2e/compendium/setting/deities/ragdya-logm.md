@@ -24,12 +24,12 @@ aliases: ["Ragdya", "The Sage on the Mountain"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Acrobatics
-- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
-- **Domains**: [air](compendium/setting/domains.md#Air), [confidence](compendium/setting/domains.md#Confidence), [might](compendium/setting/domains.md#Might), [perfection](compendium/setting/domains.md#Perfection)
-- **Alternate Domains**: [family](compendium/setting/domains.md#Family)
-- **Cleric Spells**: 1st: [shockwave](compendium/spells/shockwave-logm.md); 3rd: mad monkey; 4th: [gaseous form](compendium/spells/gaseous-form.md)
+- **Favored Weapon**: [mace](archive/srd/pf2e/compendium/equipment/items/mace.md)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection)
+- **Alternate Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family)
+- **Cleric Spells**: 1st: [shockwave](shockwave-logm.md); 3rd: mad monkey; 4th: [gaseous form](gaseous-form.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Ragdya

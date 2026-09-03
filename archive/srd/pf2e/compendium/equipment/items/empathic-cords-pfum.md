@@ -12,12 +12,12 @@ tags:
 aliases: ["Empathic Cords"]
 ---
 # Empathic Cords *Item 8*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 450 gp
 - **Usage** worn
 
-These intracately braided lenghts of leather, twince, and ribbon can be worn around the neck. Empathic cords function only with the other cord in their pair and must be crafted together. If one cord becomes [broken](rules/conditions.md#Broken), the other dissolves in to non-magical dust. The Price listed above is for a pair of cords. The creatures wearing a pair of empathic cords can sense each other's feelings and communicate empathically, no matter how far away they are, as long as the creatures are on the same planet.
+These intracately braided lenghts of leather, twince, and ribbon can be worn around the neck. Empathic cords function only with the other cord in their pair and must be crafted together. If one cord becomes [broken](archive/srd/pf2e/rules/conditions.md#Broken), the other dissolves in to non-magical dust. The Price listed above is for a pair of cords. The creatures wearing a pair of empathic cords can sense each other's feelings and communicate empathically, no matter how far away they are, as long as the creatures are on the same planet.
 
 ```ad-embed-ability
 title: **Activate**  command, [Interact](rules/actions/interact.md)

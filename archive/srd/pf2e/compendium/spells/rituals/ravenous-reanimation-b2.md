@@ -10,11 +10,11 @@ tags:
 aliases: ["Ravenous Reanimation"]
 ---
 # Ravenous Reanimation *Ritual 7*  
-[evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[evil](evil.md "Evil Alignment Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** valuable treasures from the target dragon's hoard worth a total value of 50,000 gp
-- **Primary Checks** [Arcana](compendium/skills.md#Arcana) (master), [Occultism](compendium/skills.md#Occultism) (master), or [Religion](compendium/skills.md#Religion) (master)
+- **Primary Checks** [Arcana](skills.md#Arcana) (master), [Occultism](skills.md#Occultism) (master), or [Religion](skills.md#Religion) (master)
 - 
 - **Requirements**: You must be an evil dragon.
 

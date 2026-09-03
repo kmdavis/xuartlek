@@ -9,7 +9,7 @@ tags:
 aliases: ["Clockwork Disguise"]
 ---
 # Clockwork Disguise *Item 6*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 200 gp
 - **Bulk** 2; **Usage** worn armor

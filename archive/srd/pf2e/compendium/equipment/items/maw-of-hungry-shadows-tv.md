@@ -13,7 +13,7 @@ tags:
 aliases: ["Maw of Hungry Shadows"]
 ---
 # Maw of Hungry Shadows *Item 18*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [grimoire](grimoire-som.md "Grimoire Item Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [shadow](archive/srd/pf2e/rules/traits/shadow.md "Shadow General Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  
 
 - **Price** 21000 gp
 - **Bulk** L

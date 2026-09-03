@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Absorb Spell"]
 ---
-# Absorb Spell  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Absorb Spell  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Spellmaster Dedication](compendium/feats/spellmaster-dedication-locg.md), spell repertoire or ability to prepare spells
+- **Prerequisites**: [Spellmaster Dedication](spellmaster-dedication-locg.md), spell repertoire or ability to prepare spells
 - **Frequency**: once per 10 minutes
 - **Trigger** You critically succeed at a saving throw against a foe's spell, and that spell is of a level you can normally cast.
 - **Activity** Reaction
@@ -18,7 +18,7 @@ You absorb a spell and store it in your body. If you are a spontaneous spellcast
 
 ## Absorb Spell leads to...
 
-[Retain Absorbed Spell](compendium/feats/retain-absorbed-spell-lopsg.md)
+[Retain Absorbed Spell](retain-absorbed-spell-lopsg.md)
 
 ## Summary
 

@@ -6,8 +6,8 @@ tags:
 - trait/rogue
 aliases: ["Defensive Roll"]
 ---
-# Defensive Roll  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[rogue](rules/traits/rogue.md "Rogue Class Trait")  
+# Defensive Roll  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
+[rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Frequency**: once per 10 minutes
 - **Trigger** A physical attack would reduce you to 0 Hit Points.

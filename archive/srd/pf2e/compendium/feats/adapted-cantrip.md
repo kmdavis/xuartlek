@@ -7,7 +7,7 @@ tags:
 aliases: ["Adapted Cantrip"]
 ---
 # Adapted Cantrip  *Feat 1*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
 - **Prerequisites**: spellcasting class feature
 
@@ -17,7 +17,7 @@ If you swap or retrain this cantrip later, you can choose its replacement from t
 
 ## Adapted Cantrip leads to...
 
-[Adaptive Adept](compendium/feats/adaptive-adept.md)
+[Adaptive Adept](archive/srd/pf2e/compendium/feats/adaptive-adept.md)
 
 ## Summary
 

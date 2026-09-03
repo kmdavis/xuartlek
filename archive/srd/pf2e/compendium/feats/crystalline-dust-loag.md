@@ -6,17 +6,17 @@ tags:
 - trait/aphorite
 aliases: ["Crystalline Dust"]
 ---
-# Crystalline Dust  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[aphorite](rules/traits/aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
+# Crystalline Dust  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
+[aphorite](aphorite-loag.md "Aphorite Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Activity** Two-Action
 
-You've learned to disperse the crystalline motes coating your body as a haze. You become [concealed](rules/conditions.md#Concealed), though you can't use this concealment to [Hide](rules/actions/hide.md) or [Sneak](rules/actions/sneak.md), as normal for concealment where your position is still obvious. The motes stay within an inch of your skin, move with you, and last for a number of rounds equal to half your level.
+You've learned to disperse the crystalline motes coating your body as a haze. You become [concealed](archive/srd/pf2e/rules/conditions.md#Concealed), though you can't use this concealment to [Hide](archive/srd/pf2e/rules/actions/hide.md) or [Sneak](archive/srd/pf2e/rules/actions/sneak.md), as normal for concealment where your position is still obvious. The motes stay within an inch of your skin, move with you, and last for a number of rounds equal to half your level.
 
 ## Crystalline Dust leads to...
 
-[Ancillary Motes](compendium/feats/ancillary-motes-loag.md), [Crystalline Cloud](compendium/feats/crystalline-cloud-loag.md)
+[Ancillary Motes](ancillary-motes-loag.md), [Crystalline Cloud](crystalline-cloud-loag.md)
 
 ## Summary
 

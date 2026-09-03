@@ -8,9 +8,9 @@ tags:
 aliases: ["Cavalier Dedication"]
 ---
 # Cavalier Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
-- **Prerequisites**: trained in [Nature](compendium/skills.md#Nature) or [Society](compendium/skills.md#Society)
+- **Prerequisites**: trained in [Nature](skills.md#Nature) or [Society](skills.md#Society)
 
 You gain a young animal companion that serves as your mount. You can choose from animal companions with the mount special ability, as well as any additional options from your pledge, as determined by your GM. You must choose an animal companion that's at least one size larger than you, but if the animal usually starts as Small, you can begin with a Medium version of that animal (changing no statistics other than its size).
 
@@ -18,7 +18,7 @@ You gain a young animal companion that serves as your mount. You can choose from
 
 ## Cavalier Dedication leads to...
 
-[Cavalier's Banner](compendium/feats/cavaliers-banner-apg.md), [Stalwart Standard](compendium/feats/stalwart-standard-lokl.md), [Wave the Flag](compendium/feats/wave-the-flag-lokl.md), [Cavalier's Charge](compendium/feats/cavaliers-charge-apg.md), [Defend Mount](compendium/feats/defend-mount-apg.md), [Impressive Mount](compendium/feats/impressive-mount-apg.md), [Incredible Mount](compendium/feats/incredible-mount-apg.md), [Specialized Mount](compendium/feats/specialized-mount-apg.md), [Legendary Rider](compendium/feats/legendary-rider-apg.md), [Mounted Shield](compendium/feats/mounted-shield-apg.md), [Quick Mount](compendium/feats/quick-mount-apg.md), [Trampling Charge](compendium/feats/trampling-charge-apg.md), [Unseat](compendium/feats/unseat-apg.md)
+[Cavalier's Banner](cavaliers-banner-apg.md), [Stalwart Standard](stalwart-standard-lokl.md), [Wave the Flag](wave-the-flag-lokl.md), [Cavalier's Charge](cavaliers-charge-apg.md), [Defend Mount](defend-mount-apg.md), [Impressive Mount](impressive-mount-apg.md), [Incredible Mount](incredible-mount-apg.md), [Specialized Mount](specialized-mount-apg.md), [Legendary Rider](legendary-rider-apg.md), [Mounted Shield](mounted-shield-apg.md), [Quick Mount](quick-mount-apg.md), [Trampling Charge](trampling-charge-apg.md), [Unseat](unseat-apg.md)
 
 ## Summary
 

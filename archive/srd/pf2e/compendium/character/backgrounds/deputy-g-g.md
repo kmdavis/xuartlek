@@ -15,4 +15,4 @@ While your life may have taken some twists and turns in the intervening years, y
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and the [Hunting Lore](compendium/skills.md#Lore) skill. You gain the [Experienced Tracker](compendium/feats/experienced-tracker.md) skill feat.
+You're trained in the [Survival](skills.md#Survival) skill and the [Hunting Lore](skills.md#Lore) skill. You gain the [Experienced Tracker](archive/srd/pf2e/compendium/feats/experienced-tracker.md) skill feat.

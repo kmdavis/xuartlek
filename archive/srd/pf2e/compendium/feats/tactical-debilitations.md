@@ -7,11 +7,11 @@ tags:
 aliases: ["Tactical Debilitations"]
 ---
 # Tactical Debilitations  *Feat 10*  
-[rogue](rules/traits/rogue.md "Rogue Class Trait")  
+[rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
-- **Prerequisites**: Scoundrel racket, [Debilitating Strike](rules/actions/debilitating-strike.md)
+- **Prerequisites**: Scoundrel racket, [Debilitating Strike](archive/srd/pf2e/rules/actions/debilitating-strike.md)
 
-You learn new debilitations that grant you tactical advantages against your foes. Add the following debilitations to the list you can choose from when you use [Debilitating Strike](rules/actions/debilitating-strike.md).
+You learn new debilitations that grant you tactical advantages against your foes. Add the following debilitations to the list you can choose from when you use [Debilitating Strike](archive/srd/pf2e/rules/actions/debilitating-strike.md).
 
 - **Debilitation** The target can't use reactions.
 - **Debilitation** The target can't flank or contribute to allies' flanking.

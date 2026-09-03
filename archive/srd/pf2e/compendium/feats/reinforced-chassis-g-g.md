@@ -7,7 +7,7 @@ tags:
 aliases: ["Reinforced Chassis"]
 ---
 # Reinforced Chassis  *Feat 1*  
-[automaton](rules/traits/automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
+[automaton](automaton-g-g.md "Automaton Ancestry & Heritage Trait")  
 
 - **Trigger** A critical hit deals physical damage to you.
 

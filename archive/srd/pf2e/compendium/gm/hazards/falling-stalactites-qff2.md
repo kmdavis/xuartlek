@@ -7,14 +7,14 @@ tags:
 aliases: ["Falling Stalactites"]
 ---
 # Falling Stalactites *Hazard 3*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
 
 Unstable stalactites fall from the ceiling.
 
-- **Disable** DC 20 [Survival](compendium/skills.md#Survival) (trained) to remove a stalactite without triggering a fall  
+- **Disable** DC 20 [Survival](skills.md#Survival) (trained) to remove a stalactite without triggering a fall  
 
 - **AC** 16, **Fort** +12, **Ref** +12
 - **Hardness** 12, **HP** 42 (BT 21)

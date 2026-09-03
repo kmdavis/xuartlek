@@ -9,10 +9,10 @@ tags:
 aliases: ["Vampiric Maiden"]
 ---
 # Vampiric Maiden *Spell 4*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Fortitude
@@ -22,8 +22,8 @@ A ghostly iron maiden snaps shut on the target and drains its vitality for your 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target takes half damage.
-> - **Failure** The target is briefly trapped within the vampiric maiden. The target takes full damage and is [immobilized](rules/conditions.md#Immobilized) by the iron maiden for 1 round or until it uses an [Interact](rules/actions/interact.md) action to extricate itself, whichever comes first.
-> - **Critical Failure** The target takes double damage and is [immobilized](rules/conditions.md#Immobilized) by the vampiric maiden for 1 round or until it [Escapes](rules/actions/escape.md) (the DC is your spell DC), whichever comes first.
+> - **Failure** The target is briefly trapped within the vampiric maiden. The target takes full damage and is [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) by the iron maiden for 1 round or until it uses an [Interact](archive/srd/pf2e/rules/actions/interact.md) action to extricate itself, whichever comes first.
+> - **Critical Failure** The target takes double damage and is [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) by the vampiric maiden for 1 round or until it [Escapes](archive/srd/pf2e/rules/actions/escape.md) (the DC is your spell DC), whichever comes first.
 
 **Heightened (+ 1)** The piercing and negative damage increase by `1d4` each.
 

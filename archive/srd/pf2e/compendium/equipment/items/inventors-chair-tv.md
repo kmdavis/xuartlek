@@ -11,12 +11,12 @@ tags:
 aliases: ["Inventor's Chair"]
 ---
 # Inventor's Chair *Item 4*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [relic](rules/traits/relic-tv.md "Relic Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [relic](relic-tv.md "Relic Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 3
 - **Category** Wheelchair
 
-Initially crafted by a gifted inventor who no longer had the use of their legs, the inventor's chair is a traveler's chair. It's a marvel of engineering, utilizing clockwork mechanisms to maneuver about. The chair comes equipped with [wheel blades](compendium/equipment/items/wheel-blades-lotgb.md), and portions of its frame contain sterling artisan's tools. The inventor's chair might be a family heirloom or a gift from someone who inherited it. It could instead sit unused in its inventor's abandoned estate, awaiting another user.
+Initially crafted by a gifted inventor who no longer had the use of their legs, the inventor's chair is a traveler's chair. It's a marvel of engineering, utilizing clockwork mechanisms to maneuver about. The chair comes equipped with [wheel blades](wheel-blades-lotgb.md), and portions of its frame contain sterling artisan's tools. The inventor's chair might be a family heirloom or a gift from someone who inherited it. It could instead sit unused in its inventor's abandoned estate, awaiting another user.
 
 
 ---

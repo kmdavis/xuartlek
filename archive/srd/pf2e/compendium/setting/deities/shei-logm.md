@@ -20,8 +20,8 @@ aliases: ["Shei", "The Ibis Matron"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [sickle](compendium/equipment/items/sickle.md)
-- **Domains**: [family](compendium/setting/domains.md#Family), [freedom](compendium/setting/domains.md#Freedom), [healing](compendium/setting/domains.md#Healing), [perfection](compendium/setting/domains.md#Perfection)
-- **Cleric Spells**: 1st: liberating command; 3rd: [hypercognition](compendium/spells/hypercognition.md); 5th: [dreaming potential](compendium/spells/dreaming-potential.md)
+- **Favored Weapon**: [sickle](archive/srd/pf2e/compendium/equipment/items/sickle.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection)
+- **Cleric Spells**: 1st: liberating command; 3rd: [hypercognition](archive/srd/pf2e/compendium/spells/hypercognition.md); 5th: [dreaming potential](archive/srd/pf2e/compendium/spells/dreaming-potential.md)

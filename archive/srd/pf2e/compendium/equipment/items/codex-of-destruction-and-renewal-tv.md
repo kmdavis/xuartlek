@@ -11,12 +11,12 @@ tags:
 aliases: ["Codex of Destruction and Renewal"]
 ---
 # Codex of Destruction and Renewal *Item 20*  
-[grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 70000 gp
 - **Bulk** L
 
-An unsmiling mask, half obsidian and half ivory, is embossed on the cover of this weighty tome, the opposite color forming the background of each half. Each codex of destruction and renewal is said to contain a fragment of the knowledge [Nethys](compendium/setting/deities/nethys.md) gained in his apotheosis and they're sacred to his church.
+An unsmiling mask, half obsidian and half ivory, is embossed on the cover of this weighty tome, the opposite color forming the background of each half. Each codex of destruction and renewal is said to contain a fragment of the knowledge [Nethys](nethys.md) gained in his apotheosis and they're sacred to his church.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision ([metamagic](rules/traits/metamagic.md))

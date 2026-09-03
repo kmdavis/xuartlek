@@ -8,13 +8,13 @@ tags:
 aliases: ["Noqual Armor"]
 ---
 # Noqual Armor *Item 12+*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** varies by armor; **Usage** worn armor
 
 The mere sight of a suit of noqual armor is enough to make some opposing spellcasters withdraw from the battlefield.
 
-While wearing noqual armor, you gain a +1 circumstance bonus to AC against spell attack rolls. If you [Cast a Spell](rules/actions/cast-a-spell.md) while wearing noqual armor, you must succeed at a DC 5 flat check or the spell fails.
+While wearing noqual armor, you gain a +1 circumstance bonus to AC against spell attack rolls. If you [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) while wearing noqual armor, you must succeed at a DC 5 flat check or the spell fails.
 
 ---
 

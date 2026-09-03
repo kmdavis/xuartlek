@@ -6,8 +6,8 @@ tags:
 - trait/inventor
 aliases: ["Negate Damage"]
 ---
-# Negate Damage  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 18*  
-[inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  
+# Negate Damage  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 18*  
+[inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  
 
 - **Prerequisites**: armor innovation
 - **Trigger** You would take damage.

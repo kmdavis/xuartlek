@@ -8,13 +8,13 @@ tags:
 - trait/wizard
 aliases: ["Worldsphere Gravity"]
 ---
-# Worldsphere Gravity  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
-[metamagic](rules/traits/metamagic.md "Metamagic General Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+# Worldsphere Gravity  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 20*  
+[metamagic](metamagic.md "Metamagic General Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
 - **Frequency**: once per hour
 - **Activity** Single Action
 
-Though creating demiplanes usually requires lengthy rituals, you know how to establish minor planar effects in imitation of Syndara's masterpieces. If your next action is to [Cast a Spell](rules/actions/cast-a-spell.md) of at least 5th level from your spell slots that affects an area, you can apply one of the following planar effects to a 20-foot burst centered within the spell's area.
+Though creating demiplanes usually requires lengthy rituals, you know how to establish minor planar effects in imitation of Syndara's masterpieces. If your next action is to [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) of at least 5th level from your spell slots that affects an area, you can apply one of the following planar effects to a 20-foot burst centered within the spell's area.
 
 The effect persists for 1 minute.
 

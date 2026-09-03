@@ -12,7 +12,7 @@ You've learned how to cast spells flexibly, blending the best elements of sponta
 ## Flexible Spell Preparation
 <sup>SoM p. 209</sup>
 
-This class feature alters your spellcasting class feature (such as Arcane Spellcasting|Wizard||1 for the wizard or Divine Spellcasting|Cleric||1 for the cleric). If you choose this class archetype, you must select [Flexible Spellcaster Dedication](compendium/feats/flexible-spellcaster-dedication-som.md) as your 2nd-level class feat.
+This class feature alters your spellcasting class feature (such as Arcane Spellcasting|Wizard||1 for the wizard or Divine Spellcasting|Cleric||1 for the cleric). If you choose this class archetype, you must select [Flexible Spellcaster Dedication](flexible-spellcaster-dedication-som.md) as your 2nd-level class feat.
 
 **Prerequisites:** You must have a class, such as clerics, druids, witches, and wizards, that prepares spells in spell slots using the same number of prepared spells per day.
 
@@ -24,11 +24,11 @@ This class feature alters your spellcasting class feature (such as Arcane Spellc
 - You can cast any of the spells in your collection by using a spell slot of an appropriate level. For instance, if you were level 1 and had feather fall and magic missile in your spell collection, you could cast feather fall twice that day, magic missile twice, or each spell once.
 - Extra spell slots you gain that have additional restrictions, like the wizard's specialist school spells or the cleric's divine font spells, don't change due to this archetype, nor do such spells count toward the number of spells you place in your spell collection. See the Restricted Spell Slots sidebar.
 
-![Flexible Spellcaster Spells per Day](rules/tables/flexible-spellcaster-spells-per-day-som.md)
+![Flexible Spellcaster Spells per Day](flexible-spellcaster-spells-per-day-som.md)
 
 > [!pf2-sidebar] Restricted Spell Slots
 > 
-> When applying this archetype to a class that grants additional spell slots with restrictions, such as the specialist wizard's Arcane School|Wizard||1||specialist school spells or the cleric's divine font|Cleric||1, you still gain those additional slots, but they work as normal for your class, and they don't add more spells to your spell collection. A healing font grants you additional spell slots to cast [heal](compendium/spells/heal.md) spells of the highest level you can cast, but doesn't add [heal](compendium/spells/heal.md) to your spell collection. A harming font does the same for the [harm](compendium/spells/harm.md) spell. As a specialist wizard, you prepare one spell per level from your specialty school, which also aren't added to your spell collection.
+> When applying this archetype to a class that grants additional spell slots with restrictions, such as the specialist wizard's Arcane School|Wizard||1||specialist school spells or the cleric's divine font|Cleric||1, you still gain those additional slots, but they work as normal for your class, and they don't add more spells to your spell collection. A healing font grants you additional spell slots to cast [heal](archive/srd/pf2e/compendium/spells/heal.md) spells of the highest level you can cast, but doesn't add [heal](archive/srd/pf2e/compendium/spells/heal.md) to your spell collection. A harming font does the same for the [harm](archive/srd/pf2e/compendium/spells/harm.md) spell. As a specialist wizard, you prepare one spell per level from your specialty school, which also aren't added to your spell collection.
 
 ### Heightening Spells
 <sup>SoM p. 209</sup>
@@ -38,14 +38,14 @@ Once you gain 2nd-level spells, you can heighten any spell in your spell collect
 ### Adjucidating Class Feats and Features
 <sup>SoM p. 209</sup>
 
-Some of your class feats or features might rely on the fact that you prepare spells in spell slots. While some class feats might no longer work or be necessary with the flexible spellcaster archetype, in many cases you can make a simple replacement and continue using the class feat. The following class feats simply require replacing "a spell you have prepared" or "a prepared spell" for "a spell in your collection" or "a spell slot." For example, in [Counterspell](compendium/feats/counterspell-wizard.md), you'd replace "a spell you have prepared" in the trigger for "a spell in your collection" and "expend a prepared spell" for "expend a spell slot." Similarly, in arcane bond|Wizard||1, you'd replace "cast one spell you prepared today and already cast" with "cast one spell in your collection you've already cast today."
+Some of your class feats or features might rely on the fact that you prepare spells in spell slots. While some class feats might no longer work or be necessary with the flexible spellcaster archetype, in many cases you can make a simple replacement and continue using the class feat. The following class feats simply require replacing "a spell you have prepared" or "a prepared spell" for "a spell in your collection" or "a spell slot." For example, in [Counterspell](counterspell-wizard.md), you'd replace "a spell you have prepared" in the trigger for "a spell in your collection" and "expend a prepared spell" for "expend a spell slot." Similarly, in arcane bond|Wizard||1, you'd replace "cast one spell you prepared today and already cast" with "cast one spell in your collection you've already cast today."
 
-The [Counterspell](compendium/feats/counterspell-wizard.md) and [Leyline Conduit](compendium/feats/leyline-conduit.md) feats in the Core Rulebook need these substitutions, as does [Form Retention](compendium/feats/form-retention-apg.md) from the Advanced Player's Guide. [Spell Mastery](compendium/feats/spell-mastery-apg.md) provides additional restricted spells, like divine font|Cleric||1 or specialist spells; you can take it, but it doesn't add to your collection and works like normal prepared spells.
+The [Counterspell](counterspell-wizard.md) and [Leyline Conduit](leyline-conduit.md) feats in the Core Rulebook need these substitutions, as does [Form Retention](form-retention-apg.md) from the Advanced Player's Guide. [Spell Mastery](spell-mastery-apg.md) provides additional restricted spells, like divine font|Cleric||1 or specialist spells; you can take it, but it doesn't add to your collection and works like normal prepared spells.
 
 ### Disallowed Feats
 <sup>SoM p. 209</sup>
 
-The following feats from the Core Rulebook aren't available for a flexible spellcaster: [Call of the Wild](compendium/feats/call-of-the-wild.md), [Clever Counterspell](compendium/feats/clever-counterspell.md), [Infinite Possibilities](compendium/feats/infinite-possibilities.md), [Reprepare Spell](compendium/feats/reprepare-spell.md), and [Spell Combination](compendium/feats/spell-combination.md). The disallowed feats from the Advanced Player's Guide are as follows: [Elemental Summons](compendium/feats/elemental-summons-apg.md), [Miraculous Possibility](compendium/feats/miraculous-possibility-apg.md), [Rites of Convocation](compendium/feats/rites-of-convocation-apg.md), and [Rites of Transfiguration](compendium/feats/rites-of-transfiguration-apg.md).
+The following feats from the Core Rulebook aren't available for a flexible spellcaster: [Call of the Wild](archive/srd/pf2e/compendium/feats/call-of-the-wild.md), [Clever Counterspell](archive/srd/pf2e/compendium/feats/clever-counterspell.md), [Infinite Possibilities](archive/srd/pf2e/compendium/feats/infinite-possibilities.md), [Reprepare Spell](archive/srd/pf2e/compendium/feats/reprepare-spell.md), and [Spell Combination](archive/srd/pf2e/compendium/feats/spell-combination.md). The disallowed feats from the Advanced Player's Guide are as follows: [Elemental Summons](elemental-summons-apg.md), [Miraculous Possibility](miraculous-possibility-apg.md), [Rites of Convocation](rites-of-convocation-apg.md), and [Rites of Transfiguration](rites-of-transfiguration-apg.md).
 
 *Source: Secrets of Magic p. 209*
 

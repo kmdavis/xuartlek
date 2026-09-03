@@ -12,14 +12,14 @@ tags:
 aliases: ["Vector Screen"]
 ---
 # Vector Screen *Cantrip 3*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 60 foot
 - **Area**: one 5-foot square
 - **Duration**: until the start of your next turn
 
-You set up a transparent, rippling screen of telekinetic energy that seizes small, fast-moving projectiles. Creatures can pass through the screen, but ammunition from physical ranged attacks—such as arrows, bolts, [sling bullets](compendium/equipment/items/sling-bullets.md), and other objects of similar size—is automatically trapped in the screen, clattering to the ground once the spell ends. Attacks with bigger ranged weapons, such as [javelins](compendium/equipment/items/javelin.md), take a –2 circumstance penalty to their attack rolls if their paths pass through the screen. Massive ranged weapons and spell effects that don't create physical objects pass through the screen with no penalty.
+You set up a transparent, rippling screen of telekinetic energy that seizes small, fast-moving projectiles. Creatures can pass through the screen, but ammunition from physical ranged attacks—such as arrows, bolts, [sling bullets](archive/srd/pf2e/compendium/equipment/items/sling-bullets.md), and other objects of similar size—is automatically trapped in the screen, clattering to the ground once the spell ends. Attacks with bigger ranged weapons, such as [javelins](archive/srd/pf2e/compendium/equipment/items/javelin.md), take a –2 circumstance penalty to their attack rolls if their paths pass through the screen. Massive ranged weapons and spell effects that don't create physical objects pass through the screen with no penalty.
 
 **Heightened (5th)** The screen is 10 feet wide.
 
@@ -27,7 +27,7 @@ You set up a transparent, rippling screen of telekinetic energy that seizes smal
 
 ## Amp
 
-Your screen persists for longer, and you can detonate it in an explosive counterattack. The duration of the spell increases to 1 minute. You can [Dismiss](rules/actions/dismiss.md) the spell. If there are any projectiles trapped in the screen, you can cast [telekinetic projectile](compendium/spells/telekinetic-projectile.md) to fire them at one creature as part of Dismissing the spell. Measure the range for the telekinetic projectile from where the vector screen was, instead of from you.
+Your screen persists for longer, and you can detonate it in an explosive counterattack. The duration of the spell increases to 1 minute. You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the spell. If there are any projectiles trapped in the screen, you can cast [telekinetic projectile](archive/srd/pf2e/compendium/spells/telekinetic-projectile.md) to fire them at one creature as part of Dismissing the spell. Measure the range for the telekinetic projectile from where the vector screen was, instead of from you.
 
 ## Summary
 

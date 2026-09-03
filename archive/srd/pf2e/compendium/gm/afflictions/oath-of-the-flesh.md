@@ -12,7 +12,7 @@ aliases: ["Oath of the Flesh"]
 ---
 # Oath of the Flesh
 *Curse 7*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 When you swear an oath, you must obey that oath or suffer terrible consequences.
 

@@ -17,4 +17,4 @@ Adventuring is a way to support yourself while offering hope to those who need i
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and a [Lore](compendium/skills.md#Lore) skill related to the settlement you came from. You gain the [Streetwise](compendium/feats/streetwise.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and a [Lore](skills.md#Lore) skill related to the settlement you came from. You gain the [Streetwise](archive/srd/pf2e/compendium/feats/streetwise.md) skill feat.

@@ -9,7 +9,7 @@ tags:
 aliases: ["Griffon Cane"]
 ---
 # Griffon Cane *Item 0*  
-[backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  
+[backswing](archive/srd/pf2e/rules/traits/backswing.md "Backswing Weapon Trait")  [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait")  
 
 - **Price** 1 gp
 - **Bulk** L
@@ -17,7 +17,7 @@ aliases: ["Griffon Cane"]
 - **Hands** 1
 - **Category** Martial; **Group** Club 
 
-A griffon cane is named for the shape of its base, which features four small pronged supports splayed out in a manner similar to a griffon's talons. A griffon cane's splayed foot enables it to stand upright by itself. A griffon cane deals `1d6` bludgeoning damage, has the [backswing](rules/traits/backswing.md "Backswing Weapon Trait") and [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait") traits, and is a martial melee weapon in the club weapon group.
+A griffon cane is named for the shape of its base, which features four small pronged supports splayed out in a manner similar to a griffon's talons. A griffon cane's splayed foot enables it to stand upright by itself. A griffon cane deals `1d6` bludgeoning damage, has the [backswing](archive/srd/pf2e/rules/traits/backswing.md "Backswing Weapon Trait") and [two-hand <d10>](rules/traits/two-hand-d10.md "Two-Hand Weapon Trait") traits, and is a martial melee weapon in the club weapon group.
 
 
 ---

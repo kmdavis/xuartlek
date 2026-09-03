@@ -11,9 +11,9 @@ tags:
 aliases: ["Personal Blizzard"]
 ---
 # Personal Blizzard *Focus 3*   
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [hex](rules/traits/hex-apg.md "Hex Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](rules/traits/witch-apg.md "Witch Class Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [hex](hex-apg.md "Hex Combat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [witch](archive/srd/pf2e/rules/traits/witch-apg.md "Witch Class Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Fortitude
@@ -24,9 +24,9 @@ You summon an isolated blizzard of obscuring, scouring ice to follow your target
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target takes `1d6` cold damage, and the spell ends.
-> - **Failure** The target takes `1d6` cold damage and `1d6` [persistent cold damage](rules/conditions.md#Persistent%20Damage). (The [persistent damage](rules/conditions.md#Persistent%20Damage) automatically ends when the spell ends.) It is [concealed](rules/conditions.md#Concealed) to other creatures, and other creatures are [concealed](rules/conditions.md#Concealed) to it.
-> - **Critical Failure** As failure, but both the cold damage and the [persistent cold damage](rules/conditions.md#Persistent%20Damage) increase to `2d6`.
+> - **Failure** The target takes `1d6` cold damage and `1d6` [persistent cold damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage). (The [persistent damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) automatically ends when the spell ends.) It is [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) to other creatures, and other creatures are [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) to it.
+> - **Critical Failure** As failure, but both the cold damage and the [persistent cold damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) increase to `2d6`.
 
-**Heightened (+ 1)** The cold damage and [persistent cold damage](rules/conditions.md#Persistent%20Damage) increase by 1 (2 on a critical failure).
+**Heightened (+ 1)** The cold damage and [persistent cold damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) increase by 1 (2 on a critical failure).
 
 *Source: Advanced Player's Guide p. 239*

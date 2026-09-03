@@ -10,7 +10,7 @@ tags:
 aliases: ["Gloaming Shard"]
 ---
 # Gloaming Shard *Item 11*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [shadow](archive/srd/pf2e/rules/traits/shadow.md "Shadow General Trait")  
 
 - **Price** 1400 gp
 - **Bulk** L; **Usage** held in 1 hand

@@ -9,13 +9,13 @@ tags:
 aliases: ["Terminate Bloodline"]
 ---
 # Terminate Bloodline *Ritual 6*  
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Cast** 1 day
 - **Cost** a bodily sample from the target, and valuables belonging to the target worth a total value of 100 gp × the spell level × the target's level
 - **Secondary Casters** 3
-- **Primary Checks** [Occultism](compendium/skills.md#Occultism) (master)
-- **Secondary Checks** [Society](compendium/skills.md#Society)
+- **Primary Checks** [Occultism](skills.md#Occultism) (master)
+- **Secondary Checks** [Society](skills.md#Society)
 - **Range**: 10 miles
 - **Targets**: 1 creature of a level no greater than double the _terminate bloodline_ ritual's level
 

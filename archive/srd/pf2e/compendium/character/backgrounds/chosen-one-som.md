@@ -14,7 +14,7 @@ Your birth has fulfilled a prediction, and people close to you are counting on y
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-Decide with your GM the basics of the prophecy in which you're meant to play a major part. You're trained in one skill related to the prophecy, and the [Fortune-Telling Lore](compendium/skills.md#Lore) skill. You gain the Prophecy's Pawn free action.
+Decide with your GM the basics of the prophecy in which you're meant to play a major part. You're trained in one skill related to the prophecy, and the [Fortune-Telling Lore](skills.md#Lore) skill. You gain the Prophecy's Pawn free action.
 
 ```ad-embed-ability
 title: **Prophecy's Pawn** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([abjuration](rules/traits/abjuration.md), [divine](rules/traits/divine.md), [fortune](rules/traits/fortune.md))

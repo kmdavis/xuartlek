@@ -7,15 +7,15 @@ tags:
 aliases: ["Ornate Tattoo"]
 ---
 # Ornate Tattoo  *Feat 5*  
-[human](rules/traits/human.md "Human Ancestry & Heritage Trait")  
+[human](archive/srd/pf2e/rules/traits/human.md "Human Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Arcane Tattoos](compendium/feats/arcane-tattoos-locg.md)
+- **Prerequisites**: [Arcane Tattoos](arcane-tattoos-locg.md)
 
 You expand your tattoos to encompass greater magic. Choose a 1st-level arcane spell from the same school as your Arcane Tattoos, either a common spell or another to which you have access. You can cast that spell once per day as an innate arcane spell.
 
 ## Ornate Tattoo leads to...
 
-[Virtue-forged Tattoos](compendium/feats/virtue-forged-tattoos-locg.md)
+[Virtue-forged Tattoos](virtue-forged-tattoos-locg.md)
 
 ## Summary
 

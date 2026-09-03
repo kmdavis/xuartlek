@@ -17,6 +17,6 @@ Whether you decided to take a more righteous path, were caught and pledged to ma
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in [Occultism](compendium/skills.md#Occultism) and [Fortune-Telling Lore](compendium/skills.md#Lore).
+You're trained in [Occultism](skills.md#Occultism) and [Fortune-Telling Lore](skills.md#Lore).
 
-You gain the [Deceptive Worship](compendium/feats/deceptive-worship-apg.md) skill feat.
+You gain the [Deceptive Worship](deceptive-worship-apg.md) skill feat.

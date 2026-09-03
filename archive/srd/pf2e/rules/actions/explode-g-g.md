@@ -10,8 +10,8 @@ tags:
 - trait/unstable
 aliases: ["Explode"]
 ---
-# Explode [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
-[fire](rules/traits/fire.md "Fire Energy & Element Trait")  [inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [unstable](rules/traits/unstable-g-g.md "Unstable  Trait")  
+# Explode [>>](chapter-9-playing-the-game.md#Actions "Two-Action")
+[fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [inventor](archive/srd/pf2e/rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [unstable](unstable-g-g.md "Unstable  Trait")  
 *Source: Guns & Gears p. 19*  
 
 **Class** inventor

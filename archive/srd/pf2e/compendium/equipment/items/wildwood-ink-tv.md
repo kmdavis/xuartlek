@@ -11,11 +11,11 @@ tags:
 aliases: ["Wildwood Ink"]
 ---
 # Wildwood Ink *Item 4+*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** —; **Usage** tattooed on the body
 
-These curving, delicate designs resemble leaves, vines, or creepers, most often wrapped around a limb, ear, or throat, or curled around specific muscles. They help you blend in among plants. You gain a +1 item bonus to [Stealth](compendium/skills.md#Stealth) checks, which increases to +2 in forests.
+These curving, delicate designs resemble leaves, vines, or creepers, most often wrapped around a limb, ear, or throat, or curled around specific muscles. They help you blend in among plants. You gain a +1 item bonus to [Stealth](skills.md#Stealth) checks, which increases to +2 in forests.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
@@ -41,13 +41,13 @@ If you've already Activated the tattoo, you can supply a separate casting of tre
 
 - **Price**: 900 gp
 
-The item bonus to [Stealth](compendium/skills.md#Stealth) checks is +2, or +3 in forests. Tree shape lasts up to 1 hour.
+The item bonus to [Stealth](skills.md#Stealth) checks is +2, or +3 in forests. Tree shape lasts up to 1 hour.
 
 #### major wildwood ink *Item 17*
 
 - **Price**: 15000 gp
 
-The item bonus to [Stealth](compendium/skills.md#Stealth) checks is +3, or +4 in forests. Tree shape lasts up to 8 hours.
+The item bonus to [Stealth](skills.md#Stealth) checks is +3, or +4 in forests. Tree shape lasts up to 8 hours.
 
 ---
 *Source: Treasure Vault p. 123*

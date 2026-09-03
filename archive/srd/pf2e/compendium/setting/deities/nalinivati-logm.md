@@ -20,8 +20,8 @@ aliases: ["Nalinivati", "The Serpent's Kiss"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Arcana
 - **Favored Weapon**: jaws or urumi
-- **Domains**: [glyph](compendium/setting/domains.md#Glyph), [magic](compendium/setting/domains.md#Magic), [passion](compendium/setting/domains.md#Passion), [wyrmkin](compendium/setting/domains.md#Wyrmkin)
-- **Cleric Spells**: 1st: [charm](compendium/spells/charm.md); 2nd: [invisibility](compendium/spells/invisibility.md); 3rd: [lightning bolt](compendium/spells/lightning-bolt.md); 4th: [reflective scales](compendium/spells/reflective-scales-logm.md); 5th: [subconscious suggestion](compendium/spells/subconscious-suggestion.md); 6th: [mislead](compendium/spells/mislead.md); 7th: [contingency](compendium/spells/contingency.md); 8th: [scintillating pattern](compendium/spells/scintillating-pattern.md); 9th: [storm of vengeance](compendium/spells/storm-of-vengeance.md)
+- **Domains**: [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion), [wyrmkin](archive/srd/pf2e/compendium/setting/domains.md#Wyrmkin)
+- **Cleric Spells**: 1st: [charm](archive/srd/pf2e/compendium/spells/charm.md); 2nd: [invisibility](archive/srd/pf2e/compendium/spells/invisibility.md); 3rd: [lightning bolt](archive/srd/pf2e/compendium/spells/lightning-bolt.md); 4th: [reflective scales](reflective-scales-logm.md); 5th: [subconscious suggestion](archive/srd/pf2e/compendium/spells/subconscious-suggestion.md); 6th: [mislead](archive/srd/pf2e/compendium/spells/mislead.md); 7th: [contingency](archive/srd/pf2e/compendium/spells/contingency.md); 8th: [scintillating pattern](scintillating-pattern.md); 9th: [storm of vengeance](storm-of-vengeance.md)

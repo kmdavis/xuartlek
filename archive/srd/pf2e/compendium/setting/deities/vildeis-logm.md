@@ -25,11 +25,11 @@ aliases: ["Vildeis", "The Cardinal Martyr"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Medicine
-- **Favored Weapon**: [dagger](compendium/equipment/items/dagger.md)
-- **Domains**: [duty](compendium/setting/domains.md#Duty), [pain](compendium/setting/domains.md#Pain), [sorrow](compendium/setting/domains.md#Sorrow), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 2nd: slough skin; 5th: [synaptic pulse](compendium/spells/synaptic-pulse.md)
+- **Favored Weapon**: [dagger](archive/srd/pf2e/compendium/equipment/items/dagger.md)
+- **Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md); 2nd: slough skin; 5th: [synaptic pulse](archive/srd/pf2e/compendium/spells/synaptic-pulse.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Vildeis

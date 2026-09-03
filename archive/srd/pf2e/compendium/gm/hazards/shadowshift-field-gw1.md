@@ -9,14 +9,14 @@ tags:
 aliases: ["Shadowshift Field"]
 ---
 # Shadowshift Field *Hazard 1*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[complex](complex.md "Complex Hazard Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Complexity** Complex
 - **Stealth** +7 trained to notice the air and plants wavering and shifting  
 
 Cross-planar seepage from the Oaksteward rebels' ritual causes shadowy warping effects to strain and damage living creatures in the forest clearing.
 
-- **Disable** DC 17 [Arcana](compendium/skills.md#Arcana) (trained) to will the Material Plane's hold on the area back into firmness and disable the effect for 1 hour, or dispel magic (1st level; counteract DC 15) to end the effect permanently  
+- **Disable** DC 17 [Arcana](skills.md#Arcana) (trained) to will the Material Plane's hold on the area back into firmness and disable the effect for 1 hour, or dispel magic (1st level; counteract DC 15) to end the effect permanently  
 
 ```ad-embed-ability
 title: **Shadowshift** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([conjuration](rules/traits/conjuration.md), [primal](rules/traits/primal.md))

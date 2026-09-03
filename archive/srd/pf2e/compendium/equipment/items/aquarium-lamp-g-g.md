@@ -10,7 +10,7 @@ tags:
 aliases: ["Aquarium Lamp"]
 ---
 # Aquarium Lamp *Item 8*  
-[electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [light](rules/traits/light.md "Light Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1500 gp
 - **Bulk** 20
@@ -19,7 +19,7 @@ The aquarium lamp is a combination light source and exotic animal aquarium, inte
 
 With the simple pull of a lever attached to either smaller tank, one of the prey animals is released into the eel tank.
 
-Within seconds, the eels converge on the hapless animal, using their electrical charges to stun their victims. When this happens, the salty seawater conducts the electrical energy into transfer coils [hidden](rules/conditions.md#Hidden) within the brass frame, which send the energy to the top-mounted electrical coils. The end result produces enough light to fully illuminate a room as though it were midday.
+Within seconds, the eels converge on the hapless animal, using their electrical charges to stun their victims. When this happens, the salty seawater conducts the electrical energy into transfer coils [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) within the brass frame, which send the energy to the top-mounted electrical coils. The end result produces enough light to fully illuminate a room as though it were midday.
 
 This device is an expression of a recent trend among certain Avistani nobles to blend form and function in their manors' interior decorations. In such circles, ostentatious decorations that serve no functional purpose are derided as "tacky" and "unrefined." If a noble in such company wishes not to be ridiculed, they must be sure that each decoration adds something to the room beyond the aesthetic. The aquarium lamp is the latest tool in this social arms race, and it's already proven popular with its target market.
 

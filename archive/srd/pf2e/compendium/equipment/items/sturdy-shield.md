@@ -9,7 +9,7 @@ tags:
 aliases: ["Sturdy Shield"]
 ---
 # Sturdy Shield *Item 4+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 - **Group** Shield 

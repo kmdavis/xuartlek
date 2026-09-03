@@ -10,7 +10,7 @@ tags:
 aliases: ["Frost Brand"]
 ---
 # Frost Brand *Item 16*  
-[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[cold](archive/srd/pf2e/rules/traits/cold.md "Cold Energy & Element Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 10000 gp
 - **Bulk** 2; **Usage** held in 2 hands

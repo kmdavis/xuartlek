@@ -10,14 +10,14 @@ tags:
 aliases: ["Burning Chandelier Trap"]
 ---
 # Burning Chandelier Trap *Hazard 15*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +26 master or DC 38 (master) to spot the trap's control panel.  
 
 Four large flaming chandeliers swing wildly around the room.
 
-- **Disable** DC 36 [Thievery](compendium/skills.md#Thievery) (master) to disable a chandelier or dispel magic (8th level; counteract DC 33) to permanently drain the magic from a chandelier. Any amount of cold damage that overcomes a chandelier's cold resistance extinguishes its flames and removes its [persistent fire damage](rules/conditions.md#Persistent%20Damage) and flame dart attack. DC 41 [Thievery](compendium/skills.md#Thievery) (legendary) to disable the entire trap from the [hidden](rules/conditions.md#Hidden) control panel in the southeast corner of the room.  
+- **Disable** DC 36 [Thievery](skills.md#Thievery) (master) to disable a chandelier or dispel magic (8th level; counteract DC 33) to permanently drain the magic from a chandelier. Any amount of cold damage that overcomes a chandelier's cold resistance extinguishes its flames and removes its [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) and flame dart attack. DC 41 [Thievery](skills.md#Thievery) (legendary) to disable the entire trap from the [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) control panel in the southeast corner of the room.  
 
 - **AC** 36, **Fort** +27, **Ref** +22
 - **Chandelier Hardness** 30, **Chandelier HP** 120 (BT 60); **Panel Hardness** 18, **Panel HP** 88 (BT 44)

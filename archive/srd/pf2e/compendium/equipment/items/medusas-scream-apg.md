@@ -9,7 +9,7 @@ tags:
 aliases: ["Medusa's Scream"]
 ---
 # Medusa's Scream *Item 13+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 

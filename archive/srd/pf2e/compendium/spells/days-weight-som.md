@@ -8,10 +8,10 @@ tags:
 aliases: ["Day's Weight"]
 ---
 # Day's Weight *Spell 3*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 120 foot
 - **Targets**: 1 living creature
 - **Saving Throw**: Fortitude
@@ -21,9 +21,9 @@ You fast-forward time for a single creature, burdening it with the aches and pai
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [fatigued](rules/conditions.md#Fatigued) and [enfeebled](rules/conditions.md#Enfeebled) for 1 round.
-> - **Failure** The target is [fatigued](rules/conditions.md#Fatigued) and [enfeebled](rules/conditions.md#Enfeebled) for the duration.
-> - **Critical Failure** The target is [fatigued](rules/conditions.md#Fatigued) and [enfeebled](rules/conditions.md#Enfeebled) for the duration. The [fatigued](rules/conditions.md#Fatigued) condition doesn't end when the spell's duration does (but can still be removed with a night's rest or by similar means).
+> - **Success** The target is [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) and [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 round.
+> - **Failure** The target is [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) and [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for the duration.
+> - **Critical Failure** The target is [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) and [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for the duration. The [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued) condition doesn't end when the spell's duration does (but can still be removed with a night's rest or by similar means).
 
 **Heightened (6th)** You can target up to 10 creatures.
 

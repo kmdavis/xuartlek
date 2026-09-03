@@ -11,14 +11,14 @@ tags:
 aliases: ["Spiderfoot Brew"]
 ---
 # Spiderfoot Brew *Item 3+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [morph](rules/traits/morph.md "Morph Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [morph](archive/srd/pf2e/rules/traits/morph.md "Morph Effect Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This sticky fluid is made from the silk glands of giant spiders.
 
-When you drink a spiderfoot brew, tiny hairs grow on your hands and feet, granting you a climb Speed and an item bonus to [Athletics](compendium/skills.md#Athletics) checks made to [Climb](rules/actions/climb.md) for the listed duration.
+When you drink a spiderfoot brew, tiny hairs grow on your hands and feet, granting you a climb Speed and an item bonus to [Athletics](skills.md#Athletics) checks made to [Climb](archive/srd/pf2e/rules/actions/climb.md) for the listed duration.
 
 ---
 

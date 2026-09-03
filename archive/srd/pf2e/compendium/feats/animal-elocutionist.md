@@ -7,11 +7,11 @@ tags:
 aliases: ["Animal Elocutionist"]
 ---
 # Animal Elocutionist  *Feat 5*  
-[gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
+[gnome](archive/srd/pf2e/rules/traits/gnome.md "Gnome Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Burrow Elocutionist](compendium/feats/burrow-elocutionist.md)
+- **Prerequisites**: [Burrow Elocutionist](burrow-elocutionist.md)
 
-You hear animal sounds as conversations instead of unintelligent noise, and can respond in turn. You can speak to all animals, not just animals with a burrow Speed. You gain a +1 circumstance bonus to [Make an Impression](rules/actions/make-an-impression.md) on animals (which usually uses the [Diplomacy](compendium/skills.md#Diplomacy) skill).
+You hear animal sounds as conversations instead of unintelligent noise, and can respond in turn. You can speak to all animals, not just animals with a burrow Speed. You gain a +1 circumstance bonus to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md) on animals (which usually uses the [Diplomacy](skills.md#Diplomacy) skill).
 
 *Source: Core Rulebook p. 45*  
 %% #compendium/src/pf2e/crb #trait/gnome %%

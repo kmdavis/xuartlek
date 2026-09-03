@@ -7,9 +7,9 @@ tags:
 aliases: ["Slinger's Readiness"]
 ---
 # Slinger's Readiness  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Gunslinger Dedication](compendium/feats/gunslinger-dedication-g-g.md)
+- **Prerequisites**: [Gunslinger Dedication](gunslinger-dedication-g-g.md)
 
 You've learned a gunslinger's tricks for staking out your territory in a fight. You gain the initial deed for the way you selected with Gunslinger's Dedication.
 

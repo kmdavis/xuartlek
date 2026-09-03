@@ -8,15 +8,15 @@ tags:
 aliases: ["Sanctuary"]
 ---
 # Sanctuary *Spell 1*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: touch
 - **Targets**: 1 creature
 - **Duration**: 1 minute
 
-You ward a creature with protective energy that deters enemy attacks. Creatures attempting to attack the target must attempt a Will save each time. If the target uses a [hostile](rules/conditions.md#Hostile) action, the spell ends.
+You ward a creature with protective energy that deters enemy attacks. Creatures attempting to attack the target must attempt a Will save each time. If the target uses a [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) action, the spell ends.
 
 > [!success-degree] 
 > - **Critical Success** Sanctuary ends.

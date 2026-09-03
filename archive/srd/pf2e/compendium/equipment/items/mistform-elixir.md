@@ -12,12 +12,12 @@ tags:
 aliases: ["Mistform Elixir"]
 ---
 # Mistform Elixir *Item 4+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-A faint mist emanates from your skin, making you [concealed](rules/conditions.md#Concealed) for the listed duration. As usual being [concealed](rules/conditions.md#Concealed) when your position is still obvious, you can't use this concealment to [Hide](rules/actions/hide.md) or [Sneak](rules/actions/sneak.md).
+A faint mist emanates from your skin, making you [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) for the listed duration. As usual being [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) when your position is still obvious, you can't use this concealment to [Hide](archive/srd/pf2e/rules/actions/hide.md) or [Sneak](archive/srd/pf2e/rules/actions/sneak.md).
 
 ---
 

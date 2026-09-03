@@ -10,13 +10,13 @@ tags:
 aliases: ["Moonlit Chain"]
 ---
 # Moonlit Chain *Item 7*  
-[divination](rules/traits/divination.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[divination](divination.md "Divination School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 360 gp
 - **Craft Requirements** The initial raw materials must include 33 gp of silver.
 - **Bulk** 2; **Usage** worn armor
 
-This +1 silver chain shirt has a collar adorned with stitched images of the phases of the moon. You can see in moonlight as though you had [low-light vision](rules/abilities/low-light-vision.md).
+This +1 silver chain shirt has a collar adorned with stitched images of the phases of the moon. You can see in moonlight as though you had [low-light vision](archive/srd/pf2e/rules/abilities/low-light-vision.md).
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

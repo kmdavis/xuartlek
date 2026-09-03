@@ -7,15 +7,15 @@ tags:
 aliases: ["Inspire Defense"]
 ---
 # Inspire Defense  *Feat 4*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: Maestro muse
 
-You learn the [inspire defense](compendium/spells/inspire-defense.md) composition cantrip, which protects you and allies.
+You learn the [inspire defense](archive/srd/pf2e/compendium/spells/inspire-defense.md) composition cantrip, which protects you and allies.
 
 ## Inspire Defense leads to...
 
-[Defensive Coordination](compendium/feats/defensive-coordination-apg.md)
+[Defensive Coordination](defensive-coordination-apg.md)
 
 ## Summary
 

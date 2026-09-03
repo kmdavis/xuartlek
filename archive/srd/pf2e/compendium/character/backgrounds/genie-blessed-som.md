@@ -16,7 +16,7 @@ Meanwhile, other genies of the same kind recognize you as one blessed by one of 
 
 Choose two ability boosts. One must be to Charisma, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and the [Genie Lore](compendium/skills.md#Lore) skill. You gain the Wish for Luck free action.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and the [Genie Lore](skills.md#Lore) skill. You gain the Wish for Luck free action.
 
 ```ad-embed-ability
 title: **Wish for Luck** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") ([arcane](rules/traits/arcane.md), [auditory](rules/traits/auditory.md), [divination](rules/traits/divination.md), [fortune](rules/traits/fortune.md))

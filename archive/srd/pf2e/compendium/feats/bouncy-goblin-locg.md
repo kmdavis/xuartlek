@@ -7,15 +7,15 @@ tags:
 aliases: ["Bouncy Goblin"]
 ---
 # Bouncy Goblin  *Feat 1*  
-[goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
+[goblin](archive/srd/pf2e/rules/traits/goblin.md "Goblin Ancestry & Heritage Trait")  
 
 - **Prerequisites**: unbreakable goblin heritage
 
-You have a particular elasticity that makes it easy for you to bounce and squish. You gain the trained proficiency rank in [Acrobatics](compendium/skills.md#Acrobatics) (or another skill of your choice, if you were already trained in [Acrobatics](compendium/skills.md#Acrobatics)). You also gain a +2 circumstance bonus to [Acrobatics](compendium/skills.md#Acrobatics) checks to [Tumble Through](rules/actions/tumble-through.md) a foe's space.
+You have a particular elasticity that makes it easy for you to bounce and squish. You gain the trained proficiency rank in [Acrobatics](skills.md#Acrobatics) (or another skill of your choice, if you were already trained in [Acrobatics](skills.md#Acrobatics)). You also gain a +2 circumstance bonus to [Acrobatics](skills.md#Acrobatics) checks to [Tumble Through](archive/srd/pf2e/rules/actions/tumble-through.md) a foe's space.
 
 ## Bouncy Goblin leads to...
 
-[Roll With It](compendium/feats/roll-with-it-locg.md)
+[Roll With It](roll-with-it-locg.md)
 
 ## Summary
 

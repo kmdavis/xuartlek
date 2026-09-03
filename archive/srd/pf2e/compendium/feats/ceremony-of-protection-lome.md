@@ -7,8 +7,8 @@ tags:
 - trait/manipulate
 aliases: ["Ceremony Of Protection"]
 ---
-# Ceremony Of Protection  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
-[conrasu](rules/traits/conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
+# Ceremony Of Protection  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 1*  
+[conrasu](conrasu-loag.md "Conrasu Ancestry & Heritage Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  
 
 - **Activity** Single Action
 
@@ -16,7 +16,7 @@ You manipulate your exoskeleton to overlap itself. You gain a +1 circumstance bo
 
 ## Ceremony Of Protection leads to...
 
-[Ceremony Of Fortification](compendium/feats/ceremony-of-fortification-lome.md)
+[Ceremony Of Fortification](ceremony-of-fortification-lome.md)
 
 ## Summary
 

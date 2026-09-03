@@ -9,9 +9,9 @@ tags:
 aliases: ["Hellknight Order Cross-training"]
 ---
 # Hellknight Order Cross-training  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [hellknight](rules/traits/hellknight-locg.md "Hellknight  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [hellknight](archive/srd/pf2e/rules/traits/hellknight-locg.md "Hellknight  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md); [Hellknight Dedication](compendium/feats/hellknight-dedication-locg.md) or [Hellknight Signifer Dedication](compendium/feats/hellknight-signifer-dedication-locg.md)
+- **Prerequisites**: [Hellknight Armiger Dedication](hellknight-armiger-dedication-lowg.md); [Hellknight Dedication](hellknight-dedication-locg.md) or [Hellknight Signifer Dedication](hellknight-signifer-dedication-locg.md)
 
 You gain the lesser order benefit of a Hellknight order other than the one to which you belong. This represents your time spent training with members of that order to learn their techniques and teachings. If you aren't in good standing with a given order, you can't receive their training.
 

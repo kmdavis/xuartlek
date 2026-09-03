@@ -11,7 +11,7 @@ tags:
 aliases: ["Dueling Pistol"]
 ---
 # Dueling Pistol *Item 1*  
-[concealable](rules/traits/concealable-g-g.md "Concealable Weapon Trait")  [concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concealable](concealable-g-g.md "Concealable Weapon Trait")  [concussive](concussive-g-g.md "Concussive Weapon Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 12 gp

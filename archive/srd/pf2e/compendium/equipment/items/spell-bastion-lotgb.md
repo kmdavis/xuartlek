@@ -10,12 +10,12 @@ tags:
 aliases: ["Spell-bastion"]
 ---
 # Spell-bastion *Item 13*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2700 gp
 - **Usage** applied to shield
 
-A spell-bastion rune creates a reservoir of eldritch energy within the shield. A spellcaster can spend 1 minute to [Cast a Spell](rules/actions/cast-a-spell.md) of 3rd level or lower into the shield. The spell must take 2 actions or fewer to cast and must be able to target a creature other than the caster. The spell has no immediate effect—it's instead stored for later. When you invest a spell-bastion shield, you immediately know the name and level of the stored spell. A spell-bastion shield found as treasure has a 50% chance of having a spell of the GM's choice stored in it.
+A spell-bastion rune creates a reservoir of eldritch energy within the shield. A spellcaster can spend 1 minute to [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) of 3rd level or lower into the shield. The spell must take 2 actions or fewer to cast and must be able to target a creature other than the caster. The spell has no immediate effect—it's instead stored for later. When you invest a spell-bastion shield, you immediately know the name and level of the stored spell. A spell-bastion shield found as treasure has a 50% chance of having a spell of the GM's choice stored in it.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

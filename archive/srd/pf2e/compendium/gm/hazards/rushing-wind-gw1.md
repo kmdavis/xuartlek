@@ -8,14 +8,14 @@ tags:
 aliases: ["Rushing Wind"]
 ---
 # Rushing Wind *Hazard 2*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +7 trained to detect the change in pressure  
 
 A raging wind sucks creatures in the area toward the aiudara.
 
-- **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) or [Arcana](compendium/skills.md#Arcana) (trained) to recognize what's happening and craft a patch to block air from escaping through the portal  
+- **Disable** DC 20 [Thievery](skills.md#Thievery) (trained) or [Arcana](skills.md#Arcana) (trained) to recognize what's happening and craft a patch to block air from escaping through the portal  
 
 ```ad-embed-ability
 title: **Gale** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

@@ -14,6 +14,6 @@ Effects and magic items with this trait are associated with the necromancy schoo
 
 Necromancy spells harness the power of life and death.
 
-They can sap life essence or sustain creatures with life-saving healing. Necromancy spells often have the [curse](rules/traits/curse.md "Curse Effect Trait"), [death](rules/traits/death.md "Death Effect Trait"), [healing](rules/traits/healing.md "Healing Effect Trait"), [negative](rules/traits/negative.md "Negative Energy & Element Trait"), or [positive](rules/traits/positive.md "Positive Energy & Element Trait") traits.
+They can sap life essence or sustain creatures with life-saving healing. Necromancy spells often have the [curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait"), [death](archive/srd/pf2e/rules/traits/death.md "Death Effect Trait"), [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait"), [negative](negative.md "Negative Energy & Element Trait"), or [positive](positive.md "Positive Energy & Element Trait") traits.
 
 - **Categories**: School (Necromancy)

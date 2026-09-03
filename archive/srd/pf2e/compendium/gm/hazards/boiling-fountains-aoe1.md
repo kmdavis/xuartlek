@@ -8,14 +8,14 @@ tags:
 aliases: ["Boiling Fountains"]
 ---
 # Boiling Fountains *Hazard 2*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 trained to spot the pressure plates.  
 
 Four pressure plates beneath the floorboards activate dragon-headed fountains on either side of the room, which spray boiling water across the area between them.
 
-- **Disable** DC 21 [Thievery](compendium/skills.md#Thievery) (trained) to disable each pressure plate, DC 16 to jam each fountain, or DC 18 to deflect a fountain's spray.  
+- **Disable** DC 21 [Thievery](skills.md#Thievery) (trained) to disable each pressure plate, DC 16 to jam each fountain, or DC 18 to deflect a fountain's spray.  
 
 - **AC** 15, **Fort** +8, **Ref** +5
 - **Fountain Hardness** 8, **Fountain HP** 30 (BT 15)

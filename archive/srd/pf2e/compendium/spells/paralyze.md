@@ -10,10 +10,10 @@ tags:
 aliases: ["Paralyze"]
 ---
 # Paralyze *Spell 3*   
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [incapacitation](archive/srd/pf2e/rules/traits/incapacitation.md "Incapacitation Effect Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -23,9 +23,9 @@ You block the target's motor impulses before they can leave its mind, threatenin
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [stunned](rules/conditions.md#Stunned).
-> - **Failure** The target is [paralyzed](rules/conditions.md#Paralyzed) for 1 round.
-> - **Critical Failure** The target is [paralyzed](rules/conditions.md#Paralyzed) for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
+> - **Success** The target is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned).
+> - **Failure** The target is [paralyzed](archive/srd/pf2e/rules/conditions.md#Paralyzed) for 1 round.
+> - **Critical Failure** The target is [paralyzed](archive/srd/pf2e/rules/conditions.md#Paralyzed) for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
 
 **Heightened (7th)** You can target up to 10 creatures.
 

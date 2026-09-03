@@ -13,14 +13,14 @@ tags:
 aliases: ["Dread Blindfold"]
 ---
 # Dread Blindfold *Item 17*  
-[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 15000 gp
 - **Bulk** —; **Usage** worn eyepiece
 
-When tied over your eyes, this ragged strip of black linen gives you a +3 item bonus to [Intimidation](compendium/skills.md#Intimidation) checks and [darkvision](rules/abilities/darkvision.md). You can see through the blindfold, but only using [darkvision](rules/abilities/darkvision.md).
+When tied over your eyes, this ragged strip of black linen gives you a +3 item bonus to [Intimidation](skills.md#Intimidation) checks and [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md). You can see through the blindfold, but only using [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md).
 
-The first time a particular creature sees you in a day, it must succeed at a DC 37 Will save or be [frightened](rules/conditions.md#Frightened). This is an emotion, [fear](rules/traits/fear.md "Fear Effect Trait"), and [mental](rules/traits/mental.md "Mental Effect Trait") effect, and your allies become immune to it after about a week.
+The first time a particular creature sees you in a day, it must succeed at a DC 37 Will save or be [frightened](archive/srd/pf2e/rules/conditions.md#Frightened). This is an emotion, [fear](archive/srd/pf2e/rules/traits/fear.md "Fear Effect Trait"), and [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") effect, and your allies become immune to it after about a week.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") command

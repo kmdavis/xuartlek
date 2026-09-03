@@ -15,4 +15,4 @@ You solved crimes as a police inspector or took jobs for wealthy clients as a pr
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Underworld Lore](compendium/skills.md#Lore) skill. You gain the [Streetwise](compendium/feats/streetwise.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Underworld Lore](skills.md#Lore) skill. You gain the [Streetwise](archive/srd/pf2e/compendium/feats/streetwise.md) skill feat.

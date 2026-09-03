@@ -7,9 +7,9 @@ tags:
 aliases: ["Sixth Pillar Mastery"]
 ---
 # Sixth Pillar Mastery  *Feat 16*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Sixth Pillar Dedication](compendium/feats/sixth-pillar-dedication-frp2.md)
+- **Prerequisites**: [Sixth Pillar Dedication](sixth-pillar-dedication-frp2.md)
 
 Your greater discipline aligns your magical and physical potential. If your proficiency rank in unarmed attacks is at least master, your proficiency rank in spell attacks increases to master. Likewise, if your proficiency rank in spell attacks is at least master, your proficiency rank in unarmed attacks improves to master.
 

@@ -11,7 +11,7 @@ tags:
 aliases: ["Trip Snare"]
 ---
 # Trip Snare *Item 4*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Price** 15 gp
 
@@ -23,9 +23,9 @@ For example, three trip snares in a 15-foot-line can trip a Huge creature coming
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is [flat-footed](rules/conditions.md#Flat-footed) until the start of its next turn.
-> - **Failure** The creature falls [prone](rules/conditions.md#Prone).
-> - **Critical Failure** The creature falls [prone](rules/conditions.md#Prone) and takes `1d6` bludgeoning damage.
+> - **Success** The creature is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until the start of its next turn.
+> - **Failure** The creature falls [prone](archive/srd/pf2e/rules/conditions.md#Prone).
+> - **Critical Failure** The creature falls [prone](archive/srd/pf2e/rules/conditions.md#Prone) and takes `1d6` bludgeoning damage.
 
 
 ---

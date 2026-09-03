@@ -7,11 +7,11 @@ tags:
 aliases: ["Litany Of Righteousness"]
 ---
 # Litany Of Righteousness  *Feat 14*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 - **Prerequisites**: tenets of good
 
-You call upon righteousness to expose an evil foe's weakness. You can cast the [litany of righteousness](compendium/spells/litany-of-righteousness.md) devotion spell. Increase the number of Focus Points in your focus pool by 1.
+You call upon righteousness to expose an evil foe's weakness. You can cast the [litany of righteousness](archive/srd/pf2e/compendium/spells/litany-of-righteousness.md) devotion spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Core Rulebook p. 115*  
 %% #compendium/src/pf2e/crb #trait/champion %%

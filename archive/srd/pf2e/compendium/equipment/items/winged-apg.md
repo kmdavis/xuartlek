@@ -9,7 +9,7 @@ tags:
 aliases: ["Winged"]
 ---
 # Winged *Item 13+*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Usage** etched onto armor
 
@@ -35,7 +35,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Price**: 35000 gp
 
-Once activated, the wings remain tangible indefinitely. You can [Dismiss](rules/actions/dismiss.md) the activation if you choose, and you don't have to wait an hour to activate the rune again.
+Once activated, the wings remain tangible indefinitely. You can [Dismiss](archive/srd/pf2e/rules/actions/dismiss.md) the activation if you choose, and you don't have to wait an hour to activate the rune again.
 
 ---
 *Source: Advanced Player's Guide p. 265*

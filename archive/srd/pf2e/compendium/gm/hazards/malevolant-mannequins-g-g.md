@@ -11,14 +11,14 @@ tags:
 aliases: ["Malevolant Mannequins"]
 ---
 # Malevolant Mannequins *Hazard 14*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +27  
 
 A host of violent spirits possess three clockwork mannequins, and each lashes out at any creatures that dare walk near
 
-- **Disable** DC 37 [Thievery](compendium/skills.md#Thievery) (master) to jam a mannequin's clockwork mechanisms or [Religion](compendium/skills.md#Religion) DC 35 (expert) twice to exorcise a spirit from a mannequin.  
+- **Disable** DC 37 [Thievery](skills.md#Thievery) (master) to jam a mannequin's clockwork mechanisms or [Religion](skills.md#Religion) DC 35 (expert) twice to exorcise a spirit from a mannequin.  
 
 - **AC** 35, **Fort** +26, **Ref** +28
 - **Hardness** 10, **HP** 70 (BT 35) per mannequin

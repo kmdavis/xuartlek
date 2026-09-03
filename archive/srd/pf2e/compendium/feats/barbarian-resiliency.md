@@ -7,9 +7,9 @@ tags:
 aliases: ["Barbarian Resiliency"]
 ---
 # Barbarian Resiliency  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Barbarian Dedication](compendium/feats/barbarian-dedication.md), class granting no more Hit Points per level than 10 + your Constitution modifier
+- **Prerequisites**: [Barbarian Dedication](archive/srd/pf2e/compendium/feats/barbarian-dedication.md), class granting no more Hit Points per level than 10 + your Constitution modifier
 
 You gain 3 additional Hit Points for each barbarian archetype class feat you have. As you continue selecting barbarian archetype class feats, you continue to gain additional Hit Points in this way.
 

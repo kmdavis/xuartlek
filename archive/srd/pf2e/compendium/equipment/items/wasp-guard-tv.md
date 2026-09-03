@@ -10,13 +10,13 @@ tags:
 aliases: ["Wasp Guard"]
 ---
 # Wasp Guard *Item 8*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  
 
 - **Price** 487 gp
 - **Craft Requirements** The initial raw materials must include 1 Bulk of wasp exoskeletons.
 - **Bulk** 1; **Usage** worn armor
 
-Druids and [Calistria](compendium/setting/deities/calistria.md)'s faithful alike value this vindictive armor for its ability to turn away pests and exact revenge on foes in a manner that can easily turn coordinated enemies into a chaotic mass. Wasp guard is +1 studded leather studded with the carapaces of wasps, subtly diverting swarms away and granting a +1 item bonus to Reflex saving throws against Swarming Bites, Swarming Stings, and similar abilities from swarms.
+Druids and [Calistria](calistria.md)'s faithful alike value this vindictive armor for its ability to turn away pests and exact revenge on foes in a manner that can easily turn coordinated enemies into a chaotic mass. Wasp guard is +1 studded leather studded with the carapaces of wasps, subtly diverting swarms away and granting a +1 item bonus to Reflex saving throws against Swarming Bites, Swarming Stings, and similar abilities from swarms.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision

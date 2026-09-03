@@ -12,14 +12,14 @@ tags:
 aliases: ["Storm Discharge"]
 ---
 # Storm Discharge *Hazard 18*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [electricity](archive/srd/pf2e/rules/traits/electricity.md "Electricity Energy & Element Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [evocation](evocation.md "Evocation School Trait")  [kaiju](kaiju-frp2.md "Kaiju  Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 10  
 
 Ebeshra aligns its crystalline form to produce a blast of lightning that charges the surrounding area with electrical energy.
 
-- **Disable** DC 45 [Nature](compendium/skills.md#Nature) (master) to balance the electrical charges in the area or DC 48 [Deception](compendium/skills.md#Deception) (expert) to momentarily divert Ebeshra's attention  
+- **Disable** DC 45 [Nature](skills.md#Nature) (master) to balance the electrical charges in the area or DC 48 [Deception](skills.md#Deception) (expert) to momentarily divert Ebeshra's attention  
 
 ```ad-embed-ability
 title: **Lightning Blast** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

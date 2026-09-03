@@ -11,7 +11,7 @@ The Gray Gardeners are the remorseless executioners of Galt. Prior to the events
 
 The following is suitable for heroes to take after the events of Night of the Gray Death. You might be a member of the old organization who tried to uphold order despite vindictive directives from above, or you might be someone who recently donned a mask to enforce the law in Galt's new age. Either way, as a Gray Gardener you draw power and authority from being masked and have a reputation for dispassionate justice.
 
-Your vigilante identity is that of a Gray Gardener, and you must be wearing a mask to use any of your vigilante feats or you risk exposing your social identity, as described in the [vigilante](compendium/character/archetypes/vigilante-apg.md) archetype.
+Your vigilante identity is that of a Gray Gardener, and you must be wearing a mask to use any of your vigilante feats or you risk exposing your social identity, as described in the [vigilante](archive/srd/pf2e/compendium/character/archetypes/vigilante-apg.md) archetype.
 
 *Source: Night of the Gray Death p. 64*
 

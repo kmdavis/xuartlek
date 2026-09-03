@@ -11,13 +11,13 @@ tags:
 aliases: ["Truesight Potion"]
 ---
 # Truesight Potion *Item 16*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [potion](rules/traits/potion.md "Potion Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [potion](archive/srd/pf2e/rules/traits/potion.md "Potion Item Trait")  
 
 - **Price** 1500 gp
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Upon drinking this clear, refreshing potion, you can see things as they actually are. You gain the benefits of a 7th-level [true seeing](compendium/spells/true-seeing.md) spell that has a counteract modifier of +25.
+Upon drinking this clear, refreshing potion, you can see things as they actually are. You gain the benefits of a 7th-level [true seeing](true-seeing.md) spell that has a counteract modifier of +25.
 
 
 ---

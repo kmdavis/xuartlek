@@ -8,7 +8,7 @@ tags:
 aliases: ["Chakram"]
 ---
 # Chakram *Item 0*  
-[thrown](rules/traits/thrown.md "Thrown Weapon Trait")  
+[thrown](archive/srd/pf2e/rules/traits/thrown.md "Thrown Weapon Trait")  
 
 - **Price** 5 sp
 - **Bulk** L

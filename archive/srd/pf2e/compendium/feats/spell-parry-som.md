@@ -6,8 +6,8 @@ tags:
 - trait/magus
 aliases: ["Spell Parry"]
 ---
-# Spell Parry  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[magus](rules/traits/magus-som.md "Magus Class Trait")  
+# Spell Parry  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
+[magus](archive/srd/pf2e/rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Requirements**: You have one or more hands free.
 - **Activity** Single Action
@@ -16,7 +16,7 @@ You infuse magical power into your body or armaments to parry both physical and 
 
 ## Spell Parry leads to...
 
-[Preternatural Parry](compendium/feats/preternatural-parry-som.md)
+[Preternatural Parry](preternatural-parry-som.md)
 
 ## Summary
 

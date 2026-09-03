@@ -15,4 +15,4 @@ While you once spoke to a small congregation in a ramshackle church, those days 
 
 Choose two ability boosts. One boost must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Religion](compendium/skills.md#Religion) skill and a [Lore](compendium/skills.md#Lore) skill associated with the deity you preach for (such as [Pharasmin Lore](compendium/skills.md#Lore)). You gain the [Pilgrim's Token](compendium/feats/pilgrims-token-apg.md) skill feat.
+You're trained in the [Religion](skills.md#Religion) skill and a [Lore](skills.md#Lore) skill associated with the deity you preach for (such as [Pharasmin Lore](skills.md#Lore)). You gain the [Pilgrim's Token](pilgrims-token-apg.md) skill feat.

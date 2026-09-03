@@ -7,7 +7,7 @@ tags:
 aliases: ["Travel"]
 ---
 # Travel
-[move](rules/traits/move.md "Move Combat Trait")  
+[move](archive/srd/pf2e/rules/traits/move.md "Move Combat Trait")  
 *Source: Gamemastery Guide p. 172*  
 
 **Variant Rule** Hexploration

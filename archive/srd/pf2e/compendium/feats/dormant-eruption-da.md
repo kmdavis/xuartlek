@@ -9,11 +9,11 @@ tags:
 aliases: ["Dormant Eruption"]
 ---
 # Dormant Eruption  *Feat 14*  
-[aftermath](rules/traits/aftermath-da.md "Aftermath Class Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[aftermath](aftermath-da.md "Aftermath Class Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Prerequisites**: You've been brought to 0 Hit Points by an enemy that has the [fire](rules/traits/fire.md "Fire Energy & Element Trait") trait or an enemy's ability that has the [fire](rules/traits/fire.md "Fire Energy & Element Trait") trait.
+- **Prerequisites**: You've been brought to 0 Hit Points by an enemy that has the [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait") trait or an enemy's ability that has the [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait") trait.
 
-A sweltering heat and sparks of flame that take the form of tiny copies of you surround your body. You're hot to the touch, gaining resistance 5 to cold and fire. Whenever an adjacent creature [Strikes](rules/actions/strike.md) you with a melee attack or touches you, it takes `1d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage). You gain the Thermal Eruption action.
+A sweltering heat and sparks of flame that take the form of tiny copies of you surround your body. You're hot to the touch, gaining resistance 5 to cold and fire. Whenever an adjacent creature [Strikes](archive/srd/pf2e/rules/actions/strike.md) you with a melee attack or touches you, it takes `1d6` [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage). You gain the Thermal Eruption action.
 
 ```ad-embed-ability
 title: **Thermal Eruption[two-actions]**  ([evocation](rules/traits/evocation.md), [fire](rules/traits/fire.md), [primal](rules/traits/primal.md))

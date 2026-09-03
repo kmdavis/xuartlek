@@ -19,4 +19,4 @@ You'll prove them wrong, one way or another, and show everyone that you can prot
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [Nature](compendium/skills.md#Nature) skill and your choice of [Hunting Lore](compendium/skills.md#Lore) or [Stabling Lore](compendium/skills.md#Lore). You start out with a riding horse, as well as a suit of shoddy [half plate](compendium/equipment/items/half-plate.md) armor, a shoddy [longsword](compendium/equipment/items/longsword.md), and a shoddy [lance](compendium/equipment/items/lance.md).
+You're trained in the [Nature](skills.md#Nature) skill and your choice of [Hunting Lore](skills.md#Lore) or [Stabling Lore](skills.md#Lore). You start out with a riding horse, as well as a suit of shoddy [half plate](archive/srd/pf2e/compendium/equipment/items/half-plate.md) armor, a shoddy [longsword](archive/srd/pf2e/compendium/equipment/items/longsword.md), and a shoddy [lance](archive/srd/pf2e/compendium/equipment/items/lance.md).

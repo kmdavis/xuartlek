@@ -10,7 +10,7 @@ tags:
 aliases: ["Urn Of Ashes"]
 ---
 # Urn Of Ashes *Item 9*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  
 
 - **Price** 700 gp
 - **Usage** held in 1 hand

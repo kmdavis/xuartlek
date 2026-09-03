@@ -11,14 +11,14 @@ tags:
 aliases: ["Sinew-shock Serum"]
 ---
 # Sinew-shock Serum *Item 2+*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [elixir](archive/srd/pf2e/rules/traits/elixir.md "Elixir Item Trait")  [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This serum jolts the body to help shake off physical debilitations.
 
-When you drink this elixir, it attempts a counteract check with the listed counteract modifier to remove the [clumsy](rules/conditions.md#Clumsy) or [enfeebled](rules/conditions.md#Enfeebled) condition from a single source, using the source of that condition to determine the counteract level and DC.
+When you drink this elixir, it attempts a counteract check with the listed counteract modifier to remove the [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) or [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) condition from a single source, using the source of that condition to determine the counteract level and DC.
 
 ---
 

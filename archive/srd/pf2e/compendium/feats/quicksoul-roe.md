@@ -8,12 +8,12 @@ tags:
 aliases: ["Quicksoul"]
 ---
 # Quicksoul  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  talos  
+[lineage](lineage-apg.md "Lineage  Trait")  talos  
 
 
-The elemental metal in your bloodline literally courses through your veins in the form of liquid metals like mercury, rubidium, gallium, and djezet, giving your actions a languid fluidity. You gain the trained proficiency rank in [Acrobatics](compendium/skills.md#Acrobatics).
+The elemental metal in your bloodline literally courses through your veins in the form of liquid metals like mercury, rubidium, gallium, and djezet, giving your actions a languid fluidity. You gain the trained proficiency rank in [Acrobatics](skills.md#Acrobatics).
 
-If you would automatically become trained in [Acrobatics](compendium/skills.md#Acrobatics) (from your background or class, for example), you instead become trained in a skill of your choice. As these metals are largely toxic to organic life, you also gain the Toxic Touch action.
+If you would automatically become trained in [Acrobatics](skills.md#Acrobatics) (from your background or class, for example), you instead become trained in a skill of your choice. As these metals are largely toxic to organic life, you also gain the Toxic Touch action.
 
 ```ad-embed-ability
 title: **Toxic Touch** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") ([poison](rules/traits/poison.md))

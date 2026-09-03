@@ -7,12 +7,12 @@ tags:
 aliases: ["Tengu Feather Fan"]
 ---
 # Tengu Feather Fan  *Feat 5*  
-[tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
+[tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 
-You've learned to bind some of your feathers together into a fan to focus your ancestral magic. You gain a tengu feather fan: a magic item of light Bulk with a level equal to your level and the [evocation](rules/traits/evocation.md "Evocation School Trait") and [primal](rules/traits/primal.md "Primal Tradition Trait") traits. You (and only you) can use the tengu feather fan to cast tengu magic. If your fan is lost or destroyed, you can create a replacement during your daily preparations; if you do so, your previous fan falls apart into mundane feathers. Further feats might grant you additional activations of your tengu feather fan, but you can never have more than three activations per day, no matter how many such feats you have.
+You've learned to bind some of your feathers together into a fan to focus your ancestral magic. You gain a tengu feather fan: a magic item of light Bulk with a level equal to your level and the [evocation](evocation.md "Evocation School Trait") and [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait") traits. You (and only you) can use the tengu feather fan to cast tengu magic. If your fan is lost or destroyed, you can create a replacement during your daily preparations; if you do so, your previous fan falls apart into mundane feathers. Further feats might grant you additional activations of your tengu feather fan, but you can never have more than three activations per day, no matter how many such feats you have.
 
-The DC for spells you cast with your tengu feather fan is your class DC or spell DC, whichever is higher. You can cast the 1st-level [gust of wind](compendium/spells/gust-of-wind.md) spell by activating your tengu feather fan.
+The DC for spells you cast with your tengu feather fan is your class DC or spell DC, whichever is higher. You can cast the 1st-level [gust of wind](archive/srd/pf2e/compendium/spells/gust-of-wind.md) spell by activating your tengu feather fan.
 
 ```ad-embed-ability
 title: **Activate**  [Interact](rules/actions/interact.md)
@@ -24,7 +24,7 @@ title: **Activate**  [Interact](rules/actions/interact.md)
 
 ## Tengu Feather Fan leads to...
 
-[Wind God's Fan](compendium/feats/wind-gods-fan-loag.md), [Thunder God's Fan](compendium/feats/thunder-gods-fan-loag.md)
+[Wind God's Fan](wind-gods-fan-loag.md), [Thunder God's Fan](thunder-gods-fan-loag.md)
 
 ## Summary
 

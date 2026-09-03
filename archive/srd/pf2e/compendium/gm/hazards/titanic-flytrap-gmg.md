@@ -7,18 +7,18 @@ tags:
 aliases: ["Titanic Flytrap"]
 ---
 # Titanic Flytrap *Hazard 4*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 trained  
 
 On the surface, a titanic flytrap appears to be a patch of the more common flytrap plant, but beneath murky waters it hides a far larger set of jaws, reaching 10 feet across and reinforced with woody branches and lined with paralytic hairs.
 
-- **Disable** DC 22 [Survival](compendium/skills.md#Survival) (trained) to mislead the flytrap's sense of weight and pressure  
+- **Disable** DC 22 [Survival](skills.md#Survival) (trained) to mislead the flytrap's sense of weight and pressure  
 
 - **AC** 21, **Fort** +15, **Ref** +8
 - **HP** 56 (BT 28)
-- **Immunities** [mental](rules/traits/mental.md "Mental Effect Trait")
+- **Immunities** [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")
 - **Resistances** acid 20; fire 10
 
 ```ad-embed-ability

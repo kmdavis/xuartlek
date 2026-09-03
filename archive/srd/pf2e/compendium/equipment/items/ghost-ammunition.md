@@ -9,12 +9,12 @@ tags:
 aliases: ["Ghost Ammunition"]
 ---
 # Ghost Ammunition *Item 14*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 900 gp
 - **Ammunition** any
 
-Ghost ammunition is cool to the touch. This ammunition has the benefits of the [ghost touch](compendium/equipment/items/ghost-touch.md) property rune and can fly through any obstacle except those that can block incorporeal creatures or effects. Though the ammunition penetrates barriers and ignores all cover, the target still benefits from the flat check from being [concealed](rules/conditions.md#Concealed) or [hidden](rules/conditions.md#Hidden). You still can't target an [undetected](rules/conditions.md#Undetected) creature without guessing.
+Ghost ammunition is cool to the touch. This ammunition has the benefits of the [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md) property rune and can fly through any obstacle except those that can block incorporeal creatures or effects. Though the ammunition penetrates barriers and ignores all cover, the target still benefits from the flat check from being [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) or [hidden](archive/srd/pf2e/rules/conditions.md#Hidden). You still can't target an [undetected](archive/srd/pf2e/rules/conditions.md#Undetected) creature without guessing.
 
 After it is launched, the ammunition vanishes into mist.
 

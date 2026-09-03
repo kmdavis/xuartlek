@@ -8,14 +8,14 @@ tags:
 aliases: ["Stink-Sap Trap"]
 ---
 # Stink-Sap Trap *Hazard 3*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 trained  
 
 A nozzle attached to a pressure sensor under the flagstone path sprays thick wads of smelly sap.
 
-- **Disable** DC 15 [Thievery](compendium/skills.md#Thievery) (trained) to clog the nozzle or DC 14  
+- **Disable** DC 15 [Thievery](skills.md#Thievery) (trained) to clog the nozzle or DC 14  
 
 - **AC** 13, **Fort** +8, **Ref** +5
 - **Nozzle Hardness** 10, **Nozzle HP** 30 (BT 15)

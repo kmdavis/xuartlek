@@ -11,7 +11,7 @@ aliases: ["Repair Kit"]
 - **Bulk** 1
 - **Hands** 2
 
-A repair kit allows you to perform simple repairs while traveling. It contains a portable anvil, tongs, woodworking tools, a whetstone, and oils for conditioning leather and wood. You can use a repair kit to [Repair](rules/actions/repair.md) items using the [Crafting](compendium/skills.md#Crafting) skill. You can draw and replace a worn repair kit as part of the action that uses it.
+A repair kit allows you to perform simple repairs while traveling. It contains a portable anvil, tongs, woodworking tools, a whetstone, and oils for conditioning leather and wood. You can use a repair kit to [Repair](archive/srd/pf2e/rules/actions/repair.md) items using the [Crafting](skills.md#Crafting) skill. You can draw and replace a worn repair kit as part of the action that uses it.
 
 ---
 

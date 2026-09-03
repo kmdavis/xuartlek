@@ -13,7 +13,7 @@ tags:
 aliases: ["Rending Snare"]
 ---
 # Rending Snare *Item 14*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [kobold](kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 700 gp
 
@@ -21,9 +21,9 @@ Sharp metal jaws wind tightly into the pressure plate mechanism of this snare. W
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature takes half damage and is [flat-footed](rules/conditions.md#Flat-footed) until the end of its next turn.
-> - **Failure** The creature takes full damage plus `2d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage), and it becomes [clumsy](rules/conditions.md#Clumsy) for 1 round.
-> - **Critical Failure** The creature takes double damage plus `4d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage), and it becomes [clumsy](rules/conditions.md#Clumsy) for 1 minute.
+> - **Success** The creature takes half damage and is [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until the end of its next turn.
+> - **Failure** The creature takes full damage plus `2d6` [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), and it becomes [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) for 1 round.
+> - **Critical Failure** The creature takes double damage plus `4d6` [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), and it becomes [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) for 1 minute.
 
 
 ---

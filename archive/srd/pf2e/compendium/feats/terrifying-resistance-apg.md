@@ -8,11 +8,11 @@ tags:
 aliases: ["Terrifying Resistance"]
 ---
 # Terrifying Resistance  *Feat 2*  
-[general](rules/traits/general.md "General Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: expert in [Intimidation](compendium/skills.md#Intimidation)
+- **Prerequisites**: expert in [Intimidation](skills.md#Intimidation)
 
-The spells of those you have [Demoralized](rules/actions/demoralize.md) are less effective on you. If you succeed in Demoralizing a creature, for the next 24 hours you gain a +1 circumstance bonus to saving throws against that creature's spells.
+The spells of those you have [Demoralized](archive/srd/pf2e/rules/actions/demoralize.md) are less effective on you. If you succeed in Demoralizing a creature, for the next 24 hours you gain a +1 circumstance bonus to saving throws against that creature's spells.
 
 *Source: Advanced Player's Guide p. 209*  
 %% #compendium/src/pf2e/apg #trait/general #trait/skill %%

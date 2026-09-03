@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Rapid Manifestation"]
 ---
-# Rapid Manifestation  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Rapid Manifestation  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Soulforger Dedication](compendium/feats/soulforger-dedication-som.md)
+- **Prerequisites**: [Soulforger Dedication](soulforger-dedication-som.md)
 - **Trigger** You roll initiative or a hazard attacks you.
 - **Activity** Free Action
 

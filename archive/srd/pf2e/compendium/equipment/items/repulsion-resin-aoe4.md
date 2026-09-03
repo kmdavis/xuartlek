@@ -12,16 +12,16 @@ tags:
 aliases: ["Repulsion Resin"]
 ---
 # Repulsion Resin *Item 16*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [ingested](rules/traits/ingested.md "Ingested Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [ingested](archive/srd/pf2e/rules/traits/ingested.md "Ingested Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1650 gp
 - **Craft Requirements** Supply one casting of repulsion.
 - **Bulk** L; **Usage** held in 1 hand
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This clear, tasteless tar causes the victim to emit waves of harmful mental energy that repel other creatures.
 
-Desperate users might consume this poison to keep enemies at bay despite the poison's debilitating effects. While you're [stupefied](rules/conditions.md#Stupefied) from this poison, a creature that starts its turn within 10 feet of you or approaches within 10 feet of you must attempt a DC 35 Will saving throw. On a failure, the creature can't voluntarily move closer to you; this is a [mental](rules/traits/mental.md "Mental Effect Trait") effect. Once the approaching creature has attempted to save, it uses the same result for all saves from that dose of repulsion resin.
+Desperate users might consume this poison to keep enemies at bay despite the poison's debilitating effects. While you're [stupefied](archive/srd/pf2e/rules/conditions.md#Stupefied) from this poison, a creature that starts its turn within 10 feet of you or approaches within 10 feet of you must attempt a DC 35 Will saving throw. On a failure, the creature can't voluntarily move closer to you; this is a [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") effect. Once the approaching creature has attempted to save, it uses the same result for all saves from that dose of repulsion resin.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 38 Fortitude

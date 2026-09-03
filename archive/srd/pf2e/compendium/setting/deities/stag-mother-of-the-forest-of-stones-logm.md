@@ -20,8 +20,8 @@ aliases: ["Stag Mother of the Forest of Stones", "She Who Listens"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Intelligence
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Medicine
-- **Favored Weapon**: [ranseur](compendium/equipment/items/ranseur.md)
-- **Domains**: [family](compendium/setting/domains.md#Family), [healing](compendium/setting/domains.md#Healing), [nature](compendium/setting/domains.md#Nature), [pain](compendium/setting/domains.md#Pain)
-- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 4th: animal form (bull only, appears as stag); 6th: [flesh to stone](compendium/spells/flesh-to-stone.md)
+- **Favored Weapon**: [ranseur](archive/srd/pf2e/compendium/equipment/items/ranseur.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain)
+- **Cleric Spells**: 1st: [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md); 4th: animal form (bull only, appears as stag); 6th: [flesh to stone](flesh-to-stone.md)

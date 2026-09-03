@@ -8,14 +8,14 @@ tags:
 aliases: ["Collapsing Structure"]
 ---
 # Collapsing Structure *Hazard 15*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 master to notice cracks forming in the walls of the structure as Mogaru approaches.  
 
 Mogaru brushes against a structure, severely compromising the building's stability and possibly causing it to collapse.
 
-- **Disable** DC 43 [Athletics](compendium/skills.md#Athletics) (master), [Crafting](compendium/skills.md#Crafting) (master), or Engineering Lore (master) to brace the structure to reduce the risk of collapse until the end of the creature's next turn. The DC of the flat check for this round (see Routine) is increased by 4 on a success, or by 8 on a critical success. Increasing the flat check DC to 21 or higher stabilizes the structure, ending this hazard.  
+- **Disable** DC 43 [Athletics](skills.md#Athletics) (master), [Crafting](skills.md#Crafting) (master), or Engineering Lore (master) to brace the structure to reduce the risk of collapse until the end of the creature's next turn. The DC of the flat check for this round (see Routine) is increased by 4 on a success, or by 8 on a critical success. Increasing the flat check DC to 21 or higher stabilizes the structure, ending this hazard.  
 
 ```ad-embed-ability
 title: **Shake Apart** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

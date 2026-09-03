@@ -6,16 +6,16 @@ tags:
 - trait/rogue
 aliases: ["Quick Draw (Rogue)"]
 ---
-# Quick Draw (Rogue)  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[rogue](rules/traits/rogue.md "Rogue Class Trait")  
+# Quick Draw (Rogue)  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
+[rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
 - **Activity** Single Action
 
-You draw your weapon and attack with the same motion. You [Interact](rules/actions/interact.md) to draw a weapon, then [Strike](rules/actions/strike.md) with that weapon.
+You draw your weapon and attack with the same motion. You [Interact](archive/srd/pf2e/rules/actions/interact.md) to draw a weapon, then [Strike](archive/srd/pf2e/rules/actions/strike.md) with that weapon.
 
 ## Quick Draw (Rogue) leads to...
 
-[Subtle Shank](compendium/feats/subtle-shank-aoe3.md)
+[Subtle Shank](subtle-shank-aoe3.md)
 
 ## Summary
 

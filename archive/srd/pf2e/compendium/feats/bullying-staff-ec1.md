@@ -8,12 +8,12 @@ tags:
 aliases: ["Bullying Staff"]
 ---
 # Bullying Staff  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Staff Acrobat Dedication](compendium/feats/staff-acrobat-dedication-ec1.md)
+- **Prerequisites**: [Staff Acrobat Dedication](staff-acrobat-dedication-ec1.md)
 - **Requirements**: You are wielding your staff.
 
-You can attempt to [Shove](rules/actions/shove.md) or [Trip](rules/actions/trip.md) creatures up to two sizes larger than you. If you have master proficiency with your staff, you can attempt to [Shove](rules/actions/shove.md) or [Trip](rules/actions/trip.md) creatures up to three sizes larger than you.
+You can attempt to [Shove](archive/srd/pf2e/rules/actions/shove.md) or [Trip](archive/srd/pf2e/rules/actions/trip.md) creatures up to two sizes larger than you. If you have master proficiency with your staff, you can attempt to [Shove](archive/srd/pf2e/rules/actions/shove.md) or [Trip](archive/srd/pf2e/rules/actions/trip.md) creatures up to three sizes larger than you.
 
 *Source: Extinction Curse #1: The Show Must Go On p. 75*  
 %% #compendium/src/pf2e/ec1 #trait/archetype #trait/uncommon %%

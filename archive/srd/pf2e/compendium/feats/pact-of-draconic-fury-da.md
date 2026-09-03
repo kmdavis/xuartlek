@@ -10,9 +10,9 @@ tags:
 aliases: ["Pact of Draconic Fury"]
 ---
 # Pact of Draconic Fury  *Feat 6*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: [Pactbinder Dedication](compendium/feats/pactbinder-dedication-da.md)
+- **Prerequisites**: [Pactbinder Dedication](pactbinder-dedication-da.md)
 
 You've sworn a pact with a dragon, giving you the ability to tap into the dragon's immeasurable power in exchange for adding to their hoard. You gain the Dragon Breath activity. In exchange, you promise to search for objects the dragon wants for its hoard upon request. These requests might be extremely specific unique objects, or they might be a broad category of objects. While the dragon agrees to pay you a fair price for the item you retrieve, the pact requires you to give your time and service.
 

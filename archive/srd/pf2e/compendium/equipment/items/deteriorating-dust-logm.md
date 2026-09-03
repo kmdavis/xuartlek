@@ -11,9 +11,9 @@ tags:
 aliases: ["Deteriorating Dust"]
 ---
 # Deteriorating Dust *Item 4+*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Access** follower of [Rovagug](compendium/setting/deities/rovagug.md)
+- **Access** follower of [Rovagug](rovagug.md)
 - **Usage** held in 1 hand
 
 Contained in a specially enchanted small leather or hide sack, deteriorating dust is a potent caustic agent and a prized item among Rovagug's more discreet followers.

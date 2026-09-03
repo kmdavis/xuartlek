@@ -15,6 +15,6 @@ Whether in Katapesh or one of the bustling markets along the Path of Salt, you'v
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [Arcana](compendium/skills.md#Arcana) skill and the [Mercantile Lore](compendium/skills.md#Lore) skill.
+You're trained in the [Arcana](skills.md#Arcana) skill and the [Mercantile Lore](skills.md#Lore) skill.
 
-You gain the [Quick Identification](compendium/feats/quick-identification.md) skill feat.
+You gain the [Quick Identification](archive/srd/pf2e/compendium/feats/quick-identification.md) skill feat.

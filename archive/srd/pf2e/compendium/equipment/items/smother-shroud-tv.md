@@ -11,15 +11,15 @@ tags:
 aliases: ["Smother Shroud"]
 ---
 # Smother Shroud *Item 7*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [injury](archive/srd/pf2e/rules/traits/injury.md "Injury Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 60 gp
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 Smother shroud robs a victim of distinguishing features, making it difficult for anyone to identify the corpse.
 
-Swelling and distention of facial features makes the victim unrecognizable. Increase the DC of any checks made to identify a creature under the effects of smother shroud by twice the stage of the poison. If the victim dies while under the effects of this poison, its corpse retains an inability to take actions with the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait, and if it tries to speak and fails, it counts against responses to the [talking corpse](compendium/spells/talking-corpse.md) spell.
+Swelling and distention of facial features makes the victim unrecognizable. Increase the DC of any checks made to identify a creature under the effects of smother shroud by twice the stage of the poison. If the victim dies while under the effects of this poison, its corpse retains an inability to take actions with the [auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait") trait, and if it tries to speak and fails, it counts against responses to the [talking corpse](archive/srd/pf2e/compendium/spells/talking-corpse.md) spell.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 22 Fortitude

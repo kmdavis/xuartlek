@@ -11,13 +11,13 @@ tags:
 aliases: ["Grim Trophy"]
 ---
 # Grim Trophy *Item 7*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 55 gp
 - **Bulk** —; **Usage** affixed to armor
-- **Activate** envision; **Trigger** You attempt an [Intimidation](compendium/skills.md#Intimidation) check to [Coerce](rules/actions/coerce.md) or [Demoralize](rules/actions/demoralize.md), but you haven't rolled yet; **Requirements** You are an expert in [Intimidation](compendium/skills.md#Intimidation).
+- **Activate** envision; **Trigger** You attempt an [Intimidation](skills.md#Intimidation) check to [Coerce](archive/srd/pf2e/rules/actions/coerce.md) or [Demoralize](archive/srd/pf2e/rules/actions/demoralize.md), but you haven't rolled yet; **Requirements** You are an expert in [Intimidation](skills.md#Intimidation).
 
-This talisman comes in many forms, most often a severed piece of a humanoid creature displayed in some gruesome manner. When you activate the trophy, select two targets and compare your [Intimidation](compendium/skills.md#Intimidation) check result to both of their DCs.
+This talisman comes in many forms, most often a severed piece of a humanoid creature displayed in some gruesome manner. When you activate the trophy, select two targets and compare your [Intimidation](skills.md#Intimidation) check result to both of their DCs.
 
 
 ---

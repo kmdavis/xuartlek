@@ -8,8 +8,8 @@ tags:
 - trait/tengu
 aliases: ["Harbinger's Caw"]
 ---
-# Harbinger's Caw  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  [tengu](rules/traits/tengu-b1.md "Tengu Ancestry & Heritage Trait")  
+# Harbinger's Caw  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 13*  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [misfortune](archive/srd/pf2e/rules/traits/misfortune.md "Misfortune Effect Trait")  [tengu](tengu-b1.md "Tengu Ancestry & Heritage Trait")  
 
 - **Frequency**: once per day
 - **Trigger** A creature within 60 feet is about to attempt an attack roll or skill check.

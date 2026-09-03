@@ -13,12 +13,12 @@ tags:
 aliases: ["Barricade Buster"]
 ---
 # Barricade Buster *Item 1*  
-[kickback](rules/traits/kickback-g-g.md "Kickback Weapon Trait")  [orc](rules/traits/orc.md "Orc Ancestry & Heritage Trait")  [razing](rules/traits/razing-tv.md "Razing Weapon Trait")  [repeating](rules/traits/repeating-g-g.md "Repeating Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [volley <20 ft.>](rules/traits/volley-20-ft.md "Volley Weapon Trait")  
+[kickback](kickback-g-g.md "Kickback Weapon Trait")  [orc](archive/srd/pf2e/rules/traits/orc.md "Orc Ancestry & Heritage Trait")  [razing](razing-tv.md "Razing Weapon Trait")  [repeating](repeating-g-g.md "Repeating Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [volley <20 ft.>](rules/traits/volley-20-ft.md "Volley Weapon Trait")  
 
 - **Price** 9 gp
 - **Bulk** 3
   - **Damage**: `1d10` B
-  - **Ammunution** [8-Round Magazine](compendium/equipment/items/8-round-magazine-tv.md); **Range** 40 ft.; **Reload** 0
+  - **Ammunution** [8-Round Magazine](8-round-magazine-tv.md); **Range** 40 ft.; **Reload** 0
 - **Hands** 2
 - **Category** Advanced; **Group** Firearm 
 

@@ -8,14 +8,14 @@ tags:
 aliases: ["Entrapping Chair"]
 ---
 # Entrapping Chair *Hazard 5*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 26 (0 to notice the chair)  
 
-A chair on [concealed](rules/conditions.md#Concealed) tracks surges forward, knocking a creature into the chair's seat and trapping them in place with clamping armrests.
+A chair on [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) tracks surges forward, knocking a creature into the chair's seat and trapping them in place with clamping armrests.
 
-- **Disable** DC 23 [Thievery](compendium/skills.md#Thievery) (expert) to disrupt the tracks  
+- **Disable** DC 23 [Thievery](skills.md#Thievery) (expert) to disrupt the tracks  
 
 - **AC** 22, **Fort** +15, **Ref** +9
 - **Hardness** 14, **HP** 54 (BT 27)

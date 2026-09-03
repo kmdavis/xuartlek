@@ -6,8 +6,8 @@ tags:
 - trait/gunslinger
 aliases: ["Deflecting Shot"]
 ---
-# Deflecting Shot  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
+# Deflecting Shot  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
+[gunslinger](archive/srd/pf2e/rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 - **Trigger** An ally within the first range increment of your firearm or crossbow is hit by an attack, and you can see the attacker.
 - **Requirements**: You're wielding a loaded firearm or crossbow.

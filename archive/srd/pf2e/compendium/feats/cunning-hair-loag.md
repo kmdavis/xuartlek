@@ -7,10 +7,10 @@ tags:
 aliases: ["Cunning Hair"]
 ---
 # Cunning Hair  *Feat 5*  
-[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  
+[changeling](changeling-b1.md "Changeling Ancestry & Heritage Trait")  
 
 
-Your hair moves under your control. You can perform simple [Interact](rules/actions/interact.md) actions with your hair, such as opening an unlocked door. Your hair can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.
+Your hair moves under your control. You can perform simple [Interact](archive/srd/pf2e/rules/actions/interact.md) actions with your hair, such as opening an unlocked door. Your hair can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.
 
 *Source: Lost Omens: Ancestry Guide p. 23*  
 %% #compendium/src/pf2e/loag #trait/changeling %%

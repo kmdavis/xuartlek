@@ -11,10 +11,10 @@ tags:
 aliases: ["Trickster's Twin"]
 ---
 # Trickster's Twin *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Domains** [trickery](compendium/setting/domains.md#Trickery)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
@@ -24,7 +24,7 @@ You rarely settle for being in just one place. Choose a location within 100 feet
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target believes you're in the designated location and can't see you in your actual location. The target automatically 0 when you use an action that doesn't make sense in the illusion's position, or if the target attacks, touches, Seeks, or otherwise engages with the illusion. If you use a [hostile](rules/conditions.md#Hostile) action against the target, the spell ends.
+> - **Success** The target believes you're in the designated location and can't see you in your actual location. The target automatically 0 when you use an action that doesn't make sense in the illusion's position, or if the target attacks, touches, Seeks, or otherwise engages with the illusion. If you use a [hostile](archive/srd/pf2e/rules/conditions.md#Hostile) action against the target, the spell ends.
 > - **Failure** As success, but the target must succeed at a Will save to 0 when one of the listed events occurs.
 > - **Critical Failure** As success, but the target must critically succeed at a Will save to disbelieve when one of the listed events occurs.
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Sambuca"]
 ---
 # Sambuca *Item 3*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 120 gp
 

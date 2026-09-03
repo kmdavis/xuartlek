@@ -12,14 +12,14 @@ tags:
 aliases: ["Hunger Oil"]
 ---
 # Hunger Oil *Item 11*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [contact](rules/traits/contact.md "Contact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [contact](archive/srd/pf2e/rules/traits/contact.md "Contact Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 235 gp
 - **Craft Requirements** Supply one casting of ghoulish cravings.
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Rendered from the fat of corporeal undead creatures and infused with ghoulish magic, this yellowish oil causes its victims to experience stabbing hunger pangs that only living flesh can abate. If you eat at least a mouthful of humanoid flesh, you ignore the [enfeebled](rules/conditions.md#Enfeebled) condition from hunger oil for 1 minute. While under the effect of hunger oil, you regain only half as many Hit Points from [healing](rules/traits/healing.md "Healing Effect Trait") effects unless you've eaten at least a mouthful of humanoid flesh in the last minute.
+Rendered from the fat of corporeal undead creatures and infused with ghoulish magic, this yellowish oil causes its victims to experience stabbing hunger pangs that only living flesh can abate. If you eat at least a mouthful of humanoid flesh, you ignore the [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) condition from hunger oil for 1 minute. While under the effect of hunger oil, you regain only half as many Hit Points from [healing](archive/srd/pf2e/rules/traits/healing.md "Healing Effect Trait") effects unless you've eaten at least a mouthful of humanoid flesh in the last minute.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 30 Fortitude

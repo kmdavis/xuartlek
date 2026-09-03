@@ -7,11 +7,11 @@ tags:
 aliases: ["Stone Communion"]
 ---
 # Stone Communion  *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Ka Stone Ritual](compendium/feats/ka-stone-ritual-lowg.md)
+- **Prerequisites**: [Ka Stone Ritual](ka-stone-ritual-lowg.md)
 
-You gain a unique communion with the earth and stones. You learn the Terran language and you can [Activate](rules/actions/activate-an-item.md) your ka stone with a 10-minute activation (envision) to cast [stone tell](compendium/spells/stone-tell.md).
+You gain a unique communion with the earth and stones. You learn the Terran language and you can [Activate](activate-an-item.md) your ka stone with a 10-minute activation (envision) to cast [stone tell](stone-tell.md).
 
 *Source: Lost Omens: World Guide p. 59*  
 %% #compendium/src/pf2e/lowg #trait/archetype %%

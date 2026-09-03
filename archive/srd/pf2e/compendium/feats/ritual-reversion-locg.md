@@ -9,8 +9,8 @@ tags:
 - trait/transmutation
 aliases: ["Ritual Reversion"]
 ---
-# Ritual Reversion  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
-[leshy](rules/traits/leshy-b1.md "Leshy Ancestry & Heritage Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+# Ritual Reversion  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 5*  
+[leshy](leshy-b1.md "Leshy Ancestry & Heritage Trait")  [polymorph](archive/srd/pf2e/rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Activity** Two-Action
 

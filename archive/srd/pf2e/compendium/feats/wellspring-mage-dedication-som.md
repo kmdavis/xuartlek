@@ -10,7 +10,7 @@ tags:
 aliases: ["Wellspring Mage Dedication"]
 ---
 # Wellspring Mage Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [class](class-som.md "Class Class Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Prerequisites**: wellspring magic
 
@@ -20,7 +20,7 @@ There's no longer a limit on how many temporary spell slots you can gain per day
 
 ## Wellspring Mage Dedication leads to...
 
-[Interfering Surge](compendium/feats/interfering-surge-som.md), [Urgent Upwelling](compendium/feats/urgent-upwelling-som.md), [Wellspring Control](compendium/feats/wellspring-control-som.md)
+[Interfering Surge](interfering-surge-som.md), [Urgent Upwelling](urgent-upwelling-som.md), [Wellspring Control](wellspring-control-som.md)
 
 ## Summary
 

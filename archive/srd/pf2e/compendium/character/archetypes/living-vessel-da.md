@@ -13,7 +13,7 @@ You might have even become a living vessel through a strange bargain. For instan
 
 Beings of any alignment can inhabit a living vessel. Evil-aligned beings, especially demons, are most likely to be interested in such an arrangement, especially if it involves forcefully taking over and changing the body and mind of a sapient being. Part of being a living vessel is learning more about your entity and finding what assuages them best and what their ultimate plans might be for your body and the world. Few vessels can fully dictate the terms of the arrangement, but the fact that you give the entity a corporeal form does give you some amount of leverage. Use it wisely.
 
-**Additional Feats:** Your GM might determine that you can take a pact feat from the [pactbinder](compendium/character/archetypes/pactbinder-da.md) archetype as an additional feat, as long as the pact is made to the entity within you. For instance, if you're hosting a fey, you could make a pact involving fey. These pact feats are at the same level as for a pactbinder. 
+**Additional Feats:** Your GM might determine that you can take a pact feat from the [pactbinder](pactbinder-da.md) archetype as an additional feat, as long as the pact is made to the entity within you. For instance, if you're hosting a fey, you could make a pact involving fey. These pact feats are at the same level as for a pactbinder. 
 
 *Source: Dark Archive p. 140*
 

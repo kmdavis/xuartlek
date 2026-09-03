@@ -7,10 +7,10 @@ tags:
 aliases: ["Shapechanger's Intuition"]
 ---
 # Shapechanger's Intuition  *Feat 1*  
-[kitsune](rules/traits/kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
+[kitsune](kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  
 
 
-A lifetime of experience helps you see through disguises. When you come within 10 feet of a creature that is transformed into another form or is Impersonating a specific creature, the GM rolls a secret [Perception](compendium/skills.md#Perception) check for you to realize that the creature is transformed, even if you didn't spend an action to [Seek](rules/actions/seek.md) against that creature.
+A lifetime of experience helps you see through disguises. When you come within 10 feet of a creature that is transformed into another form or is Impersonating a specific creature, the GM rolls a secret [Perception](skills.md#Perception) check for you to realize that the creature is transformed, even if you didn't spend an action to [Seek](archive/srd/pf2e/rules/actions/seek.md) against that creature.
 
 *Source: Lost Omens: Ancestry Guide p. 125*  
 %% #compendium/src/pf2e/loag #trait/kitsune %%

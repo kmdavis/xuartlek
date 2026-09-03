@@ -15,4 +15,4 @@ You have always felt a connection to animals, and it was only a small leap to le
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [Nature](compendium/skills.md#Nature) skill and a [Lore](compendium/skills.md#Lore) skill related to one terrain inhabited by animals you like (such as [Plains Lore](compendium/skills.md#Lore) or [Swamp Lore](compendium/skills.md#Lore)). You gain the [Train Animal](compendium/feats/train-animal.md) skill feat.
+You're trained in the [Nature](skills.md#Nature) skill and a [Lore](skills.md#Lore) skill related to one terrain inhabited by animals you like (such as [Plains Lore](skills.md#Lore) or [Swamp Lore](skills.md#Lore)). You gain the [Train Animal](archive/srd/pf2e/compendium/feats/train-animal.md) skill feat.

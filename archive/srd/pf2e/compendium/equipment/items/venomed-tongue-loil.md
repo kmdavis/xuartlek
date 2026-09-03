@@ -11,14 +11,14 @@ tags:
 aliases: ["Venomed Tongue"]
 ---
 # Venomed Tongue *Item 7*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [tattoo](rules/traits/tattoo-lowg.md "Tattoo Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [tattoo](tattoo-lowg.md "Tattoo Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 333 gp
 - **Bulk** —; **Usage** worn
 
 Secrets must be unraveled, no matter how painful.
 
-This tattoo of braided tongues provides a +1 item bonus to [Deception](compendium/skills.md#Deception) checks.
+This tattoo of braided tongues provides a +1 item bonus to [Deception](skills.md#Deception) checks.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

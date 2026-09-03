@@ -11,12 +11,12 @@ tags:
 aliases: ["Spiritsight Crossbow"]
 ---
 # Spiritsight Crossbow *Item 8*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 450 gp
 - **Bulk** 2; **Usage** held in 2 hands
 
-This +1 striking [ghost touch](compendium/equipment/items/ghost-touch.md) crossbow has an array of crystalline lenses and silver fittings along the stock and feels strangely light.
+This +1 striking [ghost touch](archive/srd/pf2e/compendium/equipment/items/ghost-touch.md) crossbow has an array of crystalline lenses and silver fittings along the stock and feels strangely light.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") envision

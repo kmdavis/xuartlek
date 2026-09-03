@@ -12,7 +12,7 @@ aliases: ["Healer's Tools"]
 - **Bulk** 1
 - **Hands** 1 or 2*
 
-This kit of bandages, herbs, and suturing tools is necessary for [Medicine](compendium/skills.md#Medicine) checks to [Administer First Aid](rules/actions/administer-first-aid.md), [Treat Disease](rules/actions/treat-disease.md), [Treat Poison](rules/actions/treat-poison.md), or [Treat Wounds](rules/actions/treat-wounds.md). If you wear your healer's tools, you can draw and replace them as part of the action that uses them.
+This kit of bandages, herbs, and suturing tools is necessary for [Medicine](skills.md#Medicine) checks to [Administer First Aid](archive/srd/pf2e/rules/actions/administer-first-aid.md), [Treat Disease](archive/srd/pf2e/rules/actions/treat-disease.md), [Treat Poison](archive/srd/pf2e/rules/actions/treat-poison.md), or [Treat Wounds](archive/srd/pf2e/rules/actions/treat-wounds.md). If you wear your healer's tools, you can draw and replace them as part of the action that uses them.
 
 > [!pf2-note]
 > You can use the set of tools with one hand if you are wearing it.

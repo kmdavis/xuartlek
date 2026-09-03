@@ -10,13 +10,13 @@ tags:
 aliases: ["Establish Nexus"]
 ---
 # Establish Nexus *Ritual 5*  
-[consecration](rules/traits/consecration.md "Consecration Effect Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consecration](archive/srd/pf2e/rules/traits/consecration.md "Consecration Effect Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Cast** 1 day
 - **Cost** magical foci worth 100 gp × the spell level × the node's level
 - **Secondary Casters** 2
-- **Primary Checks** [Arcana](compendium/skills.md#Arcana), [Nature](compendium/skills.md#Nature), [Occultism](compendium/skills.md#Occultism), or [Religion](compendium/skills.md#Religion) based on the ley line (master)
-- **Secondary Checks** [Ley Line Lore](compendium/skills.md#Lore) or [Occultism](compendium/skills.md#Occultism)
+- **Primary Checks** [Arcana](skills.md#Arcana), [Nature](skills.md#Nature), [Occultism](skills.md#Occultism), or [Religion](skills.md#Religion) based on the ley line (master)
+- **Secondary Checks** [Ley Line Lore](skills.md#Lore) or [Occultism](skills.md#Occultism)
 - **Range**: 10 feet
 - **Targets**: 1 ley line node up to double establish nexus's level
 

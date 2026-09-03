@@ -8,14 +8,14 @@ tags:
 aliases: ["Doom Of Tomorrow"]
 ---
 # Doom Of Tomorrow *Hazard 3*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 20 expert  
 
 The sounds of devastation rise from the diorama, and a beam of shimmering energy lances outward from the tiny model of Gauntlight.
 
-- **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to quickly deactivate the model of Gauntlight before it triggers, or DC 23 [Stealth](compendium/skills.md#Stealth) (trained) to creep by a trap without triggering it.  
+- **Disable** DC 20 [Thievery](skills.md#Thievery) (trained) to quickly deactivate the model of Gauntlight before it triggers, or DC 23 [Stealth](skills.md#Stealth) (trained) to creep by a trap without triggering it.  
 
 - **AC** 21, **Fort** +15, **Ref** +8
 - **Hardness** 8, **HP** 56 (BT 28)

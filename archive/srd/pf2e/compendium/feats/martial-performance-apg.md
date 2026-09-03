@@ -7,7 +7,7 @@ tags:
 aliases: ["Martial Performance"]
 ---
 # Martial Performance  *Feat 1*  
-[bard](rules/traits/bard.md "Bard Class Trait")  
+[bard](archive/srd/pf2e/rules/traits/bard.md "Bard Class Trait")  
 
 - **Prerequisites**: warrior muse
 

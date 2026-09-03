@@ -8,14 +8,14 @@ tags:
 aliases: ["Rigged Cubby"]
 ---
 # Rigged Cubby *Hazard 6*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
 
-A [hidden](rules/conditions.md#Hidden) string connected to precariously stacked bricks causes the cubby to collapse in on itself when the string is pulled.
+A [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) string connected to precariously stacked bricks causes the cubby to collapse in on itself when the string is pulled.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 20 to cut the string without setting off the trap.  
+- **Disable** [Thievery](skills.md#Thievery) DC 20 to cut the string without setting off the trap.  
 
 - **AC** 25, **Fort** +0, **Ref** +0
 - **HP** 1; **default Hardness** 0

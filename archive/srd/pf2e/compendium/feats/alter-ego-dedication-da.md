@@ -9,11 +9,11 @@ tags:
 aliases: ["Alter Ego Dedication"]
 ---
 # Alter Ego Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Prerequisites**: trained in [Deception](compendium/skills.md#Deception) and [Stealth](compendium/skills.md#Stealth)
+- **Prerequisites**: trained in [Deception](skills.md#Deception) and [Stealth](skills.md#Stealth)
 
-You make yourself into a living mirror, becoming a double of someone unremarkable, and you slip into exactly the role that can get you past security or into a sensitive facility. You become an expert in [Deception](compendium/skills.md#Deception). You gain the Assume a Role activity.
+You make yourself into a living mirror, becoming a double of someone unremarkable, and you slip into exactly the role that can get you past security or into a sensitive facility. You become an expert in [Deception](skills.md#Deception). You gain the Assume a Role activity.
 
 ```ad-embed-ability
 title: **Assume a Role**  ([concentrate](rules/traits/concentrate.md))
@@ -34,7 +34,7 @@ You stop assuming the role after 24 hours, if you start studying for a new role,
 
 ## Alter Ego Dedication leads to...
 
-[Change of Face](compendium/feats/change-of-face-da.md), [Fake It Till You Make It](compendium/feats/fake-it-till-you-make-it-da.md), [In Plain Sight](compendium/feats/in-plain-sight-da.md), [Sound Mirror](compendium/feats/sound-mirror-da.md), [Muscle Mimicry](compendium/feats/muscle-mimicry-da.md), [Swap Reflections](compendium/feats/swap-reflections-da.md), [Borrow Memories](compendium/feats/borrow-memories-da.md)
+[Change of Face](change-of-face-da.md), [Fake It Till You Make It](fake-it-till-you-make-it-da.md), [In Plain Sight](in-plain-sight-da.md), [Sound Mirror](sound-mirror-da.md), [Muscle Mimicry](muscle-mimicry-da.md), [Swap Reflections](swap-reflections-da.md), [Borrow Memories](borrow-memories-da.md)
 
 ## Summary
 

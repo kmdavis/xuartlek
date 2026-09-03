@@ -11,17 +11,17 @@ tags:
 aliases: ["Vapor Sphere"]
 ---
 # Vapor Sphere *Item 14*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 900 gp
 - **Usage** affixed to armor
-- **Activate** envision; **Trigger** You trigger a trap's reaction or an enemy that was [undetected](rules/conditions.md#Undetected) by you makes an attack against you
+- **Activate** envision; **Trigger** You trigger a trap's reaction or an enemy that was [undetected](archive/srd/pf2e/rules/conditions.md#Undetected) by you makes an attack against you
 
 You're an expert in the affixed armor and an expert in Reflex saves.
 
 Within this strange glass sphere swirls a cloud of smoke that occasionally appears as if it's trying to escape. You react to a surprise encounter with haste, activating this talisman and causing your body to momentarily become like vapor. Against the trap's reaction or the attack, you gain resistance 25 to physical damage and are immune to precision damage.
 
-This effect also prevents the reaction or attack from physically moving you (such as falling down a pit or being knocked [prone](rules/conditions.md#Prone)), and after the reaction or attack, you can [Fly](rules/actions/fly.md) 5 feet. When you end this flight, you leave your vaporous state and are exposed to any danger still at your location.
+This effect also prevents the reaction or attack from physically moving you (such as falling down a pit or being knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone)), and after the reaction or attack, you can [Fly](archive/srd/pf2e/rules/actions/fly.md) 5 feet. When you end this flight, you leave your vaporous state and are exposed to any danger still at your location.
 
 
 ---

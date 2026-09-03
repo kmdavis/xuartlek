@@ -20,8 +20,8 @@ aliases: ["Dranngvit", "The Debt Minder"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [light pick](compendium/equipment/items/light-pick.md)
-- **Domains**: [knowledge](compendium/setting/domains.md#Knowledge), [might](compendium/setting/domains.md#Might), [travel](compendium/setting/domains.md#Travel), [vigil](compendium/setting/domains.md#Vigil)
-- **Cleric Spells**: 1st: [longstrider](compendium/spells/longstrider.md); 2nd: [knock](compendium/spells/knock.md); 5th: [passwall](compendium/spells/passwall.md)
+- **Favored Weapon**: [light pick](archive/srd/pf2e/compendium/equipment/items/light-pick.md)
+- **Domains**: [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [vigil](archive/srd/pf2e/compendium/setting/domains.md#Vigil)
+- **Cleric Spells**: 1st: [longstrider](longstrider.md); 2nd: [knock](archive/srd/pf2e/compendium/spells/knock.md); 5th: [passwall](passwall.md)

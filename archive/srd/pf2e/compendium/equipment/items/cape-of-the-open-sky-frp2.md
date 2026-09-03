@@ -11,12 +11,12 @@ tags:
 aliases: ["Cape Of The Open Sky"]
 ---
 # Cape Of The Open Sky *Item 18*  
-[invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 22000 gp
 - **Bulk** L; **Usage** worn cloak
 
-This cloth of gold cape was originally gifted to one of Goka's emperors centuries ago. Since then, it has spawned many imitations, which are all alike in that they are dyed with an elaborate seal depicting two drakes flanking Goka's palace and the Seven Dragons Bridge. The beautiful cape grants you a +3 item bonus to checks to [Lie](rules/actions/lie.md) and to [Make an Impression](rules/actions/make-an-impression.md). While you wear the cape, the weather (including wind and fog) doesn't affect your movement or vision.
+This cloth of gold cape was originally gifted to one of Goka's emperors centuries ago. Since then, it has spawned many imitations, which are all alike in that they are dyed with an elaborate seal depicting two drakes flanking Goka's palace and the Seven Dragons Bridge. The beautiful cape grants you a +3 item bonus to checks to [Lie](archive/srd/pf2e/rules/actions/lie.md) and to [Make an Impression](archive/srd/pf2e/rules/actions/make-an-impression.md). While you wear the cape, the weather (including wind and fog) doesn't affect your movement or vision.
 
 Additionally, whenever you fall while wearing the cape of the open sky, the cape automatically casts feather fall on you.
 

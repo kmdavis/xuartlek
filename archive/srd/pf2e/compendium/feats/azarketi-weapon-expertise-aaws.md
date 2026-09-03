@@ -7,9 +7,9 @@ tags:
 aliases: ["Azarketi Weapon Expertise"]
 ---
 # Azarketi Weapon Expertise  *Feat 13*  
-[azarketi](rules/traits/azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
+[azarketi](azarketi-loag.md "Azarketi Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Azarketi Weapon Familiarity](compendium/feats/azarketi-weapon-familiarity-aaws.md)
+- **Prerequisites**: [Azarketi Weapon Familiarity](azarketi-weapon-familiarity-aaws.md)
 
 Your mastery with weapons both above and below water is unmatched. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in crossbows, hand crossbows, longspears, spears, tridents, and all azarketi weapons in which you are trained.
 

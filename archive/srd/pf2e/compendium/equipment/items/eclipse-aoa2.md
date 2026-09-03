@@ -11,14 +11,14 @@ tags:
 aliases: ["Eclipse"]
 ---
 # Eclipse *Item 8*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [light](rules/traits/light.md "Light Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [light](archive/srd/pf2e/rules/traits/light.md "Light Effect Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 450 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-This starknife has an ornate central grip that depicts a silver dragon, the neck, wings, and tail of which wrap over and around the handle in knots to support the weapon's four cold iron blades. While the handle is polished to a mirrorlike shine, the blades of _Eclipse_ are a flat black and entirely unreflective. _Eclipse_ is also the portal key required to activate Dreamgate at [Alseta](compendium/setting/deities/alseta-logm.md)'s Ring.
+This starknife has an ornate central grip that depicts a silver dragon, the neck, wings, and tail of which wrap over and around the handle in knots to support the weapon's four cold iron blades. While the handle is polished to a mirrorlike shine, the blades of _Eclipse_ are a flat black and entirely unreflective. _Eclipse_ is also the portal key required to activate Dreamgate at [Alseta](alseta-logm.md)'s Ring.
 
-Whenever you score a critical hit with _Eclipse_, the target creature's eyes are plunged into darkness; if that creature doesn't have [darkvision](rules/abilities/darkvision.md), it is [blinded](rules/conditions.md#Blinded) for 1 round.
+Whenever you score a critical hit with _Eclipse_, the target creature's eyes are plunged into darkness; if that creature doesn't have [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md), it is [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) for 1 round.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

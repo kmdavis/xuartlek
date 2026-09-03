@@ -20,8 +20,8 @@ aliases: ["Ranginori", "Zephyrous Prince"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Acrobatics
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [air](compendium/setting/domains.md#Air), [freedom](compendium/setting/domains.md#Freedom), [lightning](compendium/setting/domains.md#Lightning), [travel](compendium/setting/domains.md#Travel)
-- **Cleric Spells**: 1st: [liberating command](compendium/spells/liberating-command-logm.md); 4th: [fly](compendium/spells/fly.md); 6th: [chain lightning](compendium/spells/chain-lightning.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [air](archive/srd/pf2e/compendium/setting/domains.md#Air), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [lightning](archive/srd/pf2e/compendium/setting/domains.md#Lightning), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel)
+- **Cleric Spells**: 1st: [liberating command](liberating-command-logm.md); 4th: [fly](archive/srd/pf2e/compendium/spells/fly.md); 6th: [chain lightning](archive/srd/pf2e/compendium/spells/chain-lightning.md)

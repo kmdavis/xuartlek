@@ -11,7 +11,7 @@ tags:
 aliases: ["Clockwork Diving Suit"]
 ---
 # Clockwork Diving Suit *Item 6*  
-[air](rules/traits/air.md "Air Energy & Element Trait")  [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [clockwork](clockwork-g-g.md "Clockwork  Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
 - **Price** 200 gp
 - **Bulk** 4; **Usage** Worn

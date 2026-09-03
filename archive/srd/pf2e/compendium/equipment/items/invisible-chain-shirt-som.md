@@ -9,14 +9,14 @@ tags:
 aliases: ["Invisible Chain Shirt"]
 ---
 # Invisible Chain Shirt *Item 13*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 2750 gp
 - **Usage** worn armor
 
-This +2 resilient invisibility chain shirt is itself [invisible](rules/conditions.md#Invisible). Other creatures can't see it at all, allowing you to wear it surreptitiously. Additionally, the armor's [invisible](rules/conditions.md#Invisible) composition is quieter and more comfortable than a normal chain shirt.
+This +2 resilient invisibility chain shirt is itself [invisible](archive/srd/pf2e/rules/conditions.md#Invisible). Other creatures can't see it at all, allowing you to wear it surreptitiously. Additionally, the armor's [invisible](archive/srd/pf2e/rules/conditions.md#Invisible) composition is quieter and more comfortable than a normal chain shirt.
 
-It loses the [noisy](rules/traits/noisy.md "Noisy Armor Trait") trait and gains the [comfort](rules/traits/comfort.md "Comfort Armor Trait") trait.
+It loses the [noisy](archive/srd/pf2e/rules/traits/noisy.md "Noisy Armor Trait") trait and gains the [comfort](archive/srd/pf2e/rules/traits/comfort.md "Comfort Armor Trait") trait.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") envision

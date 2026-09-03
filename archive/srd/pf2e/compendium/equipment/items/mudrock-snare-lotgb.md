@@ -13,7 +13,7 @@ tags:
 aliases: ["Mudrock Snare"]
 ---
 # Mudrock Snare *Item 10*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [kobold](kobold-b1.md "Kobold Ancestry & Heritage Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 170 gp
 - **Craft Requirements** Supply 75 gp worth of refined blue dragon blood.
@@ -22,9 +22,9 @@ Fired clay covers a pit of thin mud interspersed with fragile vials of blue drag
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature takes a –5-foot circumstance penalty to its Speed for 1 minute or until it [Escapes](rules/actions/escape.md) (DC 27).
-> - **Failure** The creature is [stunned](rules/conditions.md#Stunned), and it takes a –10-foot circumstance penalty to its Speed for 1 minute or until it [Escapes](rules/actions/escape.md) (DC 27).
-> - **Critical Failure** The creature is [stunned](rules/conditions.md#Stunned), and it's [immobilized](rules/conditions.md#Immobilized) for 1 minute or until it [Escapes](rules/actions/escape.md) (DC 27).
+> - **Success** The creature takes a –5-foot circumstance penalty to its Speed for 1 minute or until it [Escapes](archive/srd/pf2e/rules/actions/escape.md) (DC 27).
+> - **Failure** The creature is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned), and it takes a –10-foot circumstance penalty to its Speed for 1 minute or until it [Escapes](archive/srd/pf2e/rules/actions/escape.md) (DC 27).
+> - **Critical Failure** The creature is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned), and it's [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) for 1 minute or until it [Escapes](archive/srd/pf2e/rules/actions/escape.md) (DC 27).
 
 
 ---

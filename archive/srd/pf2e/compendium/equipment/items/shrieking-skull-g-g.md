@@ -12,13 +12,13 @@ tags:
 aliases: ["Shrieking Skull"]
 ---
 # Shrieking Skull *Item 12*  
-[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  
+[auditory](archive/srd/pf2e/rules/traits/auditory.md "Auditory Effect Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  
 
 - **Price** 400 gp
 - **Bulk** –; **Usage** affixed to a firearm or crossbow
-- **Activate** envision; **Requirements** You're an expert in [Intimidation](compendium/skills.md#Intimidation) and the affixed weapon is loaded.
+- **Activate** envision; **Requirements** You're an expert in [Intimidation](skills.md#Intimidation) and the affixed weapon is loaded.
 
-This dried skull of a snake is mounted atop the firearm's barrel or affixed to a crossbow's stock. When activated, the skull crawls onto the ammunition loaded in the affixed weapon. If you [Strike](rules/actions/strike.md) with the weapon before the end of your turn, the skull lets out a bloodcurdling scream as the ammunition approaches its target. Regardless of whether the [Strike](rules/actions/strike.md) is a success, the screaming skull allows you to attempt to [Demoralize](rules/actions/demoralize.md) the target as well as each enemy within 30 feet of the target.
+This dried skull of a snake is mounted atop the firearm's barrel or affixed to a crossbow's stock. When activated, the skull crawls onto the ammunition loaded in the affixed weapon. If you [Strike](archive/srd/pf2e/rules/actions/strike.md) with the weapon before the end of your turn, the skull lets out a bloodcurdling scream as the ammunition approaches its target. Regardless of whether the [Strike](archive/srd/pf2e/rules/actions/strike.md) is a success, the screaming skull allows you to attempt to [Demoralize](archive/srd/pf2e/rules/actions/demoralize.md) the target as well as each enemy within 30 feet of the target.
 
 
 ---

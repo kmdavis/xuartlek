@@ -8,21 +8,21 @@ aliases: ["Downtime Events"]
 # Downtime Events  
 *Source: Gamemastery Guide p. 25*  
 
-| [Craft](rules/actions/craft.md) or [Earn Income](rules/actions/earn-income.md) ([Crafting](compendium/skills.md#Crafting)) |
+| [Craft](archive/srd/pf2e/rules/actions/craft.md) or [Earn Income](archive/srd/pf2e/rules/actions/earn-income.md) ([Crafting](skills.md#Crafting)) |
 |----------------------------------------------------------------------------------------------------------------------------|
 | A shipment of important materials is delayed, and the PC must find out why. |
 | The PC creates a superlative work, which draws the attention of a collector or museum. |
 | The PC discovers a more efficient technique to work a material and must decide to share it or keep it secret. |
 ^downtime-events-1-2-4
 
-| Create a Forgery ([Society](compendium/skills.md#Society)) |
+| Create a Forgery ([Society](skills.md#Society)) |
 |------------------------------------------------------------|
 | The format for paperwork the PC is attempting to mimic gets changed, and they must adjust. |
-| The paperwork is spoiled by a freak accident, such as a leaky roof above the workshop or a [clumsy](rules/conditions.md#Clumsy) assistant knocking over beakers of chemicals. |
+| The paperwork is spoiled by a freak accident, such as a leaky roof above the workshop or a [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) assistant knocking over beakers of chemicals. |
 | A mysterious benefactor provides the PC with special tools or a source document they didn't have, but suggests they'll ask for a favor later to reciprocate. |
 ^downtime-events-1-2-8
 
-| [Earn Income](rules/actions/earn-income.md) (General) |
+| [Earn Income](archive/srd/pf2e/rules/actions/earn-income.md) (General) |
 |-------------------------------------------------------|
 | A fussy client demands multiple rounds of changes throughout the process. |
 | An accident at a work site puts someone in danger. |
@@ -32,7 +32,7 @@ aliases: ["Downtime Events"]
 | The PC returns to their work one day to find someone has tampered with what they've done. |
 ^downtime-events-1-2-15
 
-| [Earn Income](rules/actions/earn-income.md) ([Performance](compendium/skills.md#Performance)) |
+| [Earn Income](archive/srd/pf2e/rules/actions/earn-income.md) ([Performance](skills.md#Performance)) |
 |-----------------------------------------------------------------------------------------------|
 | Due to the performance's success, more shows are added, running the PC ragged. |
 | A competing show across town draws away customers. |
@@ -40,7 +40,7 @@ aliases: ["Downtime Events"]
 | One of the PC's fellow performers doesn't show up, but the show must go on! |
 ^downtime-events-1-2-20
 
-| [Subsist](rules/actions/subsist.md) ([Survival](compendium/skills.md#Survival)) |
+| [Subsist](archive/srd/pf2e/rules/actions/subsist.md) ([Survival](skills.md#Survival)) |
 |---------------------------------------------------------------------------------|
 | Over a long time subsisting in a single area, the PC finds an unknown berry or herb that could be useful for making a new medicine. |
 | The PC finds signs indicating some large creature has been foraging as well—possibly a monster. |

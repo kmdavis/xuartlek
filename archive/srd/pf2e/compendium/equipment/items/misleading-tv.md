@@ -9,12 +9,12 @@ tags:
 aliases: ["Misleading"]
 ---
 # Misleading *Item 16*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 8000 gp
 - **Usage** etched onto light armor
 
-This rune attempts to obfuscate your location through illusory trickery. When you're [concealed](rules/conditions.md#Concealed), the DC of the flat check to target you with an effect is 6 instead of 5.
+This rune attempts to obfuscate your location through illusory trickery. When you're [concealed](archive/srd/pf2e/rules/conditions.md#Concealed), the DC of the flat check to target you with an effect is 6 instead of 5.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, envision

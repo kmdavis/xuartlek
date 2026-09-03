@@ -9,14 +9,14 @@ tags:
 aliases: ["Sterling Dynamo Dedication"]
 ---
 # Sterling Dynamo Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
 You obtain a sterling dynamo prosthetic, which allows you to replace or augment a limb, or even add a simple new non-prehensile limb, such as a tail. While your sterling dynamo prosthetic can replace a missing prehensile limb, such as an arm, choosing to add a new limb can never increases your character's number of hands or prehensile limbs beyond two, even in combination with other abilities or effects.
 
 Your sterling dynamo prosthesis is especially optimized for combat, granting you a dynamo melee unarmed attack that is in the brawling weapon group and is made of silver (which makes it more effective against certain types of creatures, such as devils and werewolves)
 
-You have several options to customize your sterling dynamo. First, choose whether you have a power driver dynamo, which deals `1d6` bludgeoning damage and has the [shove](rules/traits/shove.md "Shove Weapon Trait") trait, or a percussive striker dynamo, which deals `1d4` bludgeoning damage and has the [agile](rules/traits/agile.md "Agile Weapon Trait") and [finesse](rules/traits/finesse.md "Finesse Weapon Trait") traits.
+You have several options to customize your sterling dynamo. First, choose whether you have a power driver dynamo, which deals `1d6` bludgeoning damage and has the [shove](archive/srd/pf2e/rules/traits/shove.md "Shove Weapon Trait") trait, or a percussive striker dynamo, which deals `1d4` bludgeoning damage and has the [agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait") and [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait") traits.
 
 Most dynamos are automated, so they don't require a free hand to use, like other unarmed attacks.
 
@@ -32,7 +32,7 @@ However, enemies can attempt to Disable the dynamo, which has a level equal to y
 
 ## Sterling Dynamo Dedication leads to...
 
-[Golem Dynamo](compendium/feats/golem-dynamo-g-g.md), [Modular Dynamo](compendium/feats/modular-dynamo-g-g.md), [Piston Punch](compendium/feats/piston-punch-g-g.md), [Soaring Dynamo](compendium/feats/soaring-dynamo-g-g.md), [Stasian Smash](compendium/feats/stasian-smash-g-g.md)
+[Golem Dynamo](golem-dynamo-g-g.md), [Modular Dynamo](modular-dynamo-g-g.md), [Piston Punch](piston-punch-g-g.md), [Soaring Dynamo](soaring-dynamo-g-g.md), [Stasian Smash](stasian-smash-g-g.md)
 
 ## Summary
 

@@ -7,9 +7,9 @@ tags:
 aliases: ["Polearm Tricks"]
 ---
 # Polearm Tricks  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Runelord Dedication](compendium/feats/runelord-dedication-som.md)
+- **Prerequisites**: [Runelord Dedication](runelord-dedication-som.md)
 
 Your connection to rune magic has revealed tricks to make polearms deadlier in your hands. You gain the critical specialization effects of polearms.
 

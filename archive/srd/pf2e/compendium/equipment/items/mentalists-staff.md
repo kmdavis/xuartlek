@@ -10,7 +10,7 @@ tags:
 aliases: ["Mentalist's Staff"]
 ---
 # Mentalist's Staff *Item 4+*  
-[divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  
+[divination](divination.md "Divination School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  
 
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.
 - **Bulk** 1; **Usage** held in 1 hand
@@ -32,22 +32,22 @@ You expend a number of charges from the staff to cast a spell from its list.
 
 - **Price**: 90 gp
 
-- **Cantrip** [daze](compendium/spells/daze.md)
-- **1st** [mindlink](compendium/spells/mindlink.md), [phantom pain](compendium/spells/phantom-pain.md)
+- **Cantrip** [daze](archive/srd/pf2e/compendium/spells/daze.md)
+- **1st** [mindlink](archive/srd/pf2e/compendium/spells/mindlink.md), [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md)
 
 #### greater mentalist's staff *Item 8*
 
 - **Price**: 450 gp
 
-- **2nd** [paranoia](compendium/spells/paranoia.md)
-- **3rd** [hypercognition](compendium/spells/hypercognition.md), [phantom pain](compendium/spells/phantom-pain.md)
+- **2nd** [paranoia](archive/srd/pf2e/compendium/spells/paranoia.md)
+- **3rd** [hypercognition](archive/srd/pf2e/compendium/spells/hypercognition.md), [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md)
 
 #### major mentalist's staff *Item 12*
 
 - **Price**: 1800 gp
 
-- **4th** [modify memory](compendium/spells/modify-memory.md), [telepathy](compendium/spells/telepathy.md)
-- **5th** [phantom pain](compendium/spells/phantom-pain.md), [synaptic pulse](compendium/spells/synaptic-pulse.md), [synesthesia](compendium/spells/synesthesia.md)
+- **4th** [modify memory](modify-memory.md), [telepathy](archive/srd/pf2e/compendium/spells/telepathy.md)
+- **5th** [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md), [synaptic pulse](archive/srd/pf2e/compendium/spells/synaptic-pulse.md), [synesthesia](archive/srd/pf2e/compendium/spells/synesthesia.md)
 
 ---
 *Source: Core Rulebook p. 592*

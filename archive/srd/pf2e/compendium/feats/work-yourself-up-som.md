@@ -7,10 +7,10 @@ tags:
 - trait/concentrate
 aliases: ["Work Yourself Up"]
 ---
-# Work Yourself Up  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
+# Work Yourself Up  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 8*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
-- **Prerequisites**: [Cathartic Mage Dedication](compendium/feats/cathartic-mage-dedication-som.md)
+- **Prerequisites**: [Cathartic Mage Dedication](cathartic-mage-dedication-som.md)
 - **Requirements**: You have a reaction available and aren't prevented from using Catharsis.
 - **Activity** Two-Action
 

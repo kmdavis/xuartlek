@@ -9,7 +9,7 @@ tags:
 aliases: ["Unlimited Demesne"]
 ---
 # Unlimited Demesne  *Feat 20*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [thaumaturge](archive/srd/pf2e/rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 
 - **Prerequisites**: Thaumaturge's Demesne
 

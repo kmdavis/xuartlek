@@ -9,14 +9,14 @@ tags:
 aliases: ["Armageddon Orb"]
 ---
 # Armageddon Orb *Hazard 23*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 10 or [detect magic](compendium/spells/detect-magic.md).  
+- **Stealth** DC 10 or [detect magic](archive/srd/pf2e/compendium/spells/detect-magic.md).  
 
 A roiling red orb, forged from a drop of the god Rovagug's blood, rains fire from the sky when a specified condition is met.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 48 (legendary) to imbue thieves' tools with aspects representing Asmodeus and Sarenrae and use them to drain away the orb's power over 10 minutes; the character attempting this check takes 5 fire damage each round until the orb is depleted.  
+- **Disable** [Thievery](skills.md#Thievery) DC 48 (legendary) to imbue thieves' tools with aspects representing Asmodeus and Sarenrae and use them to drain away the orb's power over 10 minutes; the character attempting this check takes 5 fire damage each round until the orb is depleted.  
 
 ```ad-embed-ability
 title: **Burn It All** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([death](rules/traits/death.md), [divine](rules/traits/divine.md), [evocation](rules/traits/evocation.md), [fire](rules/traits/fire.md))

@@ -8,14 +8,14 @@ tags:
 aliases: ["Hallucination Powder Trap"]
 ---
 # Hallucination Powder Trap *Hazard 6*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 24 expert  
 
 A tube of hallucinogenic powder armed with a miniature explosive is connected to a doorknob or similar latch.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 26 (expert) to disable the hammer that strikes the percussion cap.  
+- **Disable** [Thievery](skills.md#Thievery) DC 26 (expert) to disable the hammer that strikes the percussion cap.  
 
 - **AC** 24, **Fort** +0, **Ref** +0
 - **HP** 1; **default Hardness** 0

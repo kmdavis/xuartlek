@@ -12,7 +12,7 @@ tags:
 aliases: ["Tears Of The Last Azlanti"]
 ---
 # Tears Of The Last Azlanti *Item 25*  
-[arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait")  [artifact](artifact-gmg.md "Artifact Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** L; **Usage** worn necklace
 
@@ -20,7 +20,7 @@ This gold necklace sports six bails, each with a different aeon stone. The backs
 
 While a bail is active, you recall pieces of childhood memories, brief stories and lessons spoken to you by Aroden. The knowledge imparted by each bail carries a specific power but also allows you to access the invested and resonant powers of the aeon stone in the active bail's slot as though the stone orbited your head. Each day at dawn, a new bail becomes active; roll `1d6` to determine which bail is active, determined by the table below. Only one bail can be active at any time.
 
-Once per day, you can attempt to exchange the aeon stone in a given bail for another aeon stone with a successful DC 35 [Arcana](compendium/skills.md#Arcana) check.
+Once per day, you can attempt to exchange the aeon stone in a given bail for another aeon stone with a successful DC 35 [Arcana](skills.md#Arcana) check.
 
 <table>
 <tr>

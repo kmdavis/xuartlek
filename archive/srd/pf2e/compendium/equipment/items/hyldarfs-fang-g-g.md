@@ -12,13 +12,13 @@ tags:
 aliases: ["Hyldarf's Fang"]
 ---
 # Hyldarf's Fang *Item 15*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
 This +2 greater striking hand cannon is carved and crafted from a single large fang, worn with age and cracked with red lines. The tip of the fang has been filed down, but still leaks black fluid occasionally. It was fashioned from the tooth of the tor linnorm Hyldarf by a half-Ulfen gunsmith from Tian Xia who sought the title of linnorm king. Though the smith failed to slay the linnorm, he did claim the mighty dragon's tooth and fashion it into a magic firearm that still drips warm venom. Hyldarf survived the encounter with her attacker and slew the gunsmith years later, though by then the smith had already bequeathed the weapon to his chosen heir and it was far out of her grasp. The linnorm still searches for her missing tooth, portending potential doom for the weapon's owner.
 
-The weapon deals an additional `2d6` fire damage on a successful [Strike](rules/actions/strike.md), plus `3d10` [persistent fire damage](rules/conditions.md#Persistent%20Damage) on a critical hit. Fire damage dealt by this weapon (including [persistent fire damage](rules/conditions.md#Persistent%20Damage) and damage from Hyldarf's Venom) ignores the target's fire resistance.
+The weapon deals an additional `2d6` fire damage on a successful [Strike](archive/srd/pf2e/rules/actions/strike.md), plus `3d10` [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) on a critical hit. Fire damage dealt by this weapon (including [persistent fire damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) and damage from Hyldarf's Venom) ignores the target's fire resistance.
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") command, envision

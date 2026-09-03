@@ -12,7 +12,7 @@ aliases: ["Basic Crafter's Book"]
 - **Bulk** L
 - **Hands** 2
 
-This book contains the 0 for [Crafting](rules/actions/craft.md) all 0-level common items in Chapter 6: Equipment of the Core Rulebook.
+This book contains the 0 for [Crafting](archive/srd/pf2e/rules/actions/craft.md) all 0-level common items in Chapter 6: Equipment of the Core Rulebook.
 
 
 ---

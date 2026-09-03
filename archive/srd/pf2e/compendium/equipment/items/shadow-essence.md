@@ -12,13 +12,13 @@ tags:
 aliases: ["Shadow Essence"]
 ---
 # Shadow Essence *Item 10*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [injury](rules/traits/injury.md "Injury Item Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [injury](archive/srd/pf2e/rules/traits/injury.md "Injury Item Trait")  [negative](negative.md "Negative Energy & Element Trait")  [poison](archive/srd/pf2e/rules/traits/poison.md "Poison Effect Trait")  
 
 - **Price** 160 gp
 - **Bulk** L; **Usage** held in 2 hands
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Distilled from the Plane of Shadow, this oily substance imposes tenebrous effects. The [enfeebled](rules/conditions.md#Enfeebled) condition from shadow essence lasts for 24 hours.
+Distilled from the Plane of Shadow, this oily substance imposes tenebrous effects. The [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) condition from shadow essence lasts for 24 hours.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 29 Fortitude

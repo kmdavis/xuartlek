@@ -6,8 +6,8 @@ tags:
 - trait/dwarf
 aliases: ["Stone Bones"]
 ---
-# Stone Bones  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
-[dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
+# Stone Bones  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 9*  
+[dwarf](archive/srd/pf2e/rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Trigger** You are struck by a critical hit that deals physical damage.
 - **Activity** Reaction

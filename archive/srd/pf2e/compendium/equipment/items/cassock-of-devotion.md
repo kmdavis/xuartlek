@@ -11,13 +11,13 @@ tags:
 aliases: ["Cassock of Devotion"]
 ---
 # Cassock of Devotion *Item 11*  
-[divination](rules/traits/divination.md "Divination School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [focused](rules/traits/focused.md "Focused Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  
+[divination](divination.md "Divination School Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [focused](archive/srd/pf2e/rules/traits/focused.md "Focused Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  
 
 - **Price** 1150 gp
 - **Craft Requirements** You are a cleric who worships the deity tied to the cassock.
 - **Bulk** L; **Usage** worn garment
 
-Each cassock of devotion depicts scenes related to the domains of a certain deity. It serves as a religious symbol of that deity, and it doesn't need to be wielded to provide that benefit. You gain a +2 item bonus to [Religion](compendium/skills.md#Religion) checks and a +1 item bonus to the divine skill of the deity to whom the cassock is dedicated (as listed on pages 437–440).
+Each cassock of devotion depicts scenes related to the domains of a certain deity. It serves as a religious symbol of that deity, and it doesn't need to be wielded to provide that benefit. You gain a +2 item bonus to [Religion](skills.md#Religion) checks and a +1 item bonus to the divine skill of the deity to whom the cassock is dedicated (as listed on pages 437–440).
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") envision

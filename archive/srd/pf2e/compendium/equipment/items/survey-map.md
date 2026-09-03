@@ -8,12 +8,12 @@ tags:
 aliases: ["Survey Map"]
 ---
 # Survey Map *Item 3*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L
 - **Hands** 1
 
-Maps are uncommon. Most maps you can find are simple and functional. A survey map details a single location in excellent detail. One of these maps gives you a +1 item bonus to [Survival](compendium/skills.md#Survival) checks and any skill checks to [Recall Knowledge](rules/actions/recall-knowledge.md), provided the checks are related to the location detailed on the map. The GM determines what maps are available in any location.
+Maps are uncommon. Most maps you can find are simple and functional. A survey map details a single location in excellent detail. One of these maps gives you a +1 item bonus to [Survival](skills.md#Survival) checks and any skill checks to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md), provided the checks are related to the location detailed on the map. The GM determines what maps are available in any location.
 
 ---
 

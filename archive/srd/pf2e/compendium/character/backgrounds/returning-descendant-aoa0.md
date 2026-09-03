@@ -17,4 +17,4 @@ You've decided to respond to the Call for Heroes to follow in your ancestor's fo
 
 Choose two ability boosts. One must be Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Thievery](compendium/skills.md#Thievery) skill and the [Engineering Lore](compendium/skills.md#Lore) skill. You gain the [Pickpocket](compendium/feats/pickpocket.md) skill feat.
+You're trained in the [Thievery](skills.md#Thievery) skill and the [Engineering Lore](skills.md#Lore) skill. You gain the [Pickpocket](archive/srd/pf2e/compendium/feats/pickpocket.md) skill feat.

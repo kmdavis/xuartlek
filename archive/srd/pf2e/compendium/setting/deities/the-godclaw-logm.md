@@ -22,9 +22,9 @@ aliases: ["The Godclaw"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [morningstar](compendium/equipment/items/morningstar.md)
-- **Domains**: [perfection](compendium/setting/domains.md#Perfection), [protection](compendium/setting/domains.md#Protection), [tyranny](compendium/setting/domains.md#Tyranny), [zeal](compendium/setting/domains.md#Zeal)
-- **Alternate Domains**: [duty](compendium/setting/domains.md#Duty)
-- **Cleric Spells**: 1st: [phantom pain](compendium/spells/phantom-pain.md); 4th: [fire shield](compendium/spells/fire-shield.md); 6th: [dominate](compendium/spells/dominate.md)
+- **Favored Weapon**: [morningstar](archive/srd/pf2e/compendium/equipment/items/morningstar.md)
+- **Domains**: [perfection](archive/srd/pf2e/compendium/setting/domains.md#Perfection), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection), [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Alternate Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty)
+- **Cleric Spells**: 1st: [phantom pain](archive/srd/pf2e/compendium/spells/phantom-pain.md); 4th: [fire shield](archive/srd/pf2e/compendium/spells/fire-shield.md); 6th: [dominate](archive/srd/pf2e/compendium/spells/dominate.md)

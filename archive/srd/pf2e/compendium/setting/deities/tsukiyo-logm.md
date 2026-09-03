@@ -24,14 +24,14 @@ aliases: ["Tsukiyo", "Prince of the Moon"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Intelligence
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [spear](compendium/equipment/items/spear.md)
-- **Domains**: [delirium](compendium/setting/domains.md#Delirium), [moon](compendium/setting/domains.md#Moon), [repose](compendium/setting/domains.md#Repose), [soul](compendium/setting/domains.md#Soul)
-- **Alternate Domains**: [change](compendium/setting/domains.md#Change)
-- **Cleric Spells**: 1st: [soothe](compendium/spells/soothe.md); 2nd: [mirror image](compendium/spells/mirror-image.md); 5th: [hallucination](compendium/spells/hallucination.md)
+- **Favored Weapon**: [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [delirium](archive/srd/pf2e/compendium/setting/domains.md#Delirium), [moon](archive/srd/pf2e/compendium/setting/domains.md#Moon), [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose), [soul](archive/srd/pf2e/compendium/setting/domains.md#Soul)
+- **Alternate Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change)
+- **Cleric Spells**: 1st: [soothe](archive/srd/pf2e/compendium/spells/soothe.md); 2nd: [mirror image](mirror-image.md); 5th: [hallucination](archive/srd/pf2e/compendium/spells/hallucination.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Tsukiyo gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Tsukiyo gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Tsukiyo
@@ -47,10 +47,10 @@ title: [Avatar](compendium/spells/avatar.md) of Tsukiyo
 
 Ever mercurial, the Prince of the Moon gives his blessings rarely and somewhat spontaneously. An understanding soul, he is as slow to curse as he is to bless.
 
-- **Minor Boon** Tsukiyo's simplest show of gratitude is a gift of clarity. Once, when you roll a failure on a saving throw against a [mental](rules/traits/mental.md "Mental Effect Trait") effect, you get a critical success instead. Tsukiyo typically grants this boon against a particularly consequential [mental](rules/traits/mental.md "Mental Effect Trait") effect.
-- **Moderate Boon**: Tsukiyo watches over you and guards your sleep. You are guaranteed a peaceful night's rest no matter what conditions you are sleeping in. Even [nightmare](compendium/spells/nightmare.md) and similar abilities can't disrupt your sleep unless they come from a deity, [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait"), or similarly powerful source.
+- **Minor Boon** Tsukiyo's simplest show of gratitude is a gift of clarity. Once, when you roll a failure on a saving throw against a [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") effect, you get a critical success instead. Tsukiyo typically grants this boon against a particularly consequential [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") effect.
+- **Moderate Boon**: Tsukiyo watches over you and guards your sleep. You are guaranteed a peaceful night's rest no matter what conditions you are sleeping in. Even [nightmare](archive/srd/pf2e/compendium/spells/nightmare.md) and similar abilities can't disrupt your sleep unless they come from a deity, [artifact](artifact-gmg.md "Artifact Item Trait"), or similarly powerful source.
 - **Major Boon**: Tsukiyo shares some of his own nature and can lead a favored soul back along the same path he has walked. The next time you would die, you are instead instantly restored to full health and lose any negative conditions you have.
 
-- **Minor Curse**: Those who offend Tsukiyo find that light actively shuns them. You lose any [low-light vision](rules/abilities/low-light-vision.md) or [darkvision](rules/abilities/darkvision.md) you have, and you treat all light levels as one step lower.
-- **Moderate Curse** If Tsukiyo is particularly offended by someone, they may find themselves lost in delusions of moonlight. When attempting to navigate or find something at night, if you roll a success or critical success on your [Perception](compendium/skills.md#Perception) check, [Survival](compendium/skills.md#Survival) check, or other check to do so, you get a failure instead.
-- **Major Curse**: When Tsukiyo truly loses patience with someone, he forces them to experience the hardships of others firsthand. Whenever you touch another creature or another creature touches you, you immediately gain any negative curses, diseases, and conditions they are suffering. These effects spread to you even when you [Strike](rules/actions/strike.md) another creature or a creature [Strikes](rules/actions/strike.md) you.
+- **Minor Curse**: Those who offend Tsukiyo find that light actively shuns them. You lose any [low-light vision](archive/srd/pf2e/rules/abilities/low-light-vision.md) or [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md) you have, and you treat all light levels as one step lower.
+- **Moderate Curse** If Tsukiyo is particularly offended by someone, they may find themselves lost in delusions of moonlight. When attempting to navigate or find something at night, if you roll a success or critical success on your [Perception](skills.md#Perception) check, [Survival](skills.md#Survival) check, or other check to do so, you get a failure instead.
+- **Major Curse**: When Tsukiyo truly loses patience with someone, he forces them to experience the hardships of others firsthand. Whenever you touch another creature or another creature touches you, you immediately gain any negative curses, diseases, and conditions they are suffering. These effects spread to you even when you [Strike](archive/srd/pf2e/rules/actions/strike.md) another creature or a creature [Strikes](archive/srd/pf2e/rules/actions/strike.md) you.

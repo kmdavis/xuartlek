@@ -18,21 +18,21 @@ aliases: ["Angazhan", "The Ravenous King"]
 *Source: Lost Omens: Gods & Magic p. 124*  
 
 - **Category**: Demon Lords
-- **Anathema**: cower from fights, allow yourself to be [resurrected](compendium/spells/rituals/resurrect.md) instead of [reincarnated](compendium/spells/rituals/reincarnate-apg.md)
+- **Anathema**: cower from fights, allow yourself to be [resurrected](archive/srd/pf2e/compendium/spells/rituals/resurrect.md) instead of [reincarnated](reincarnate-apg.md)
 - **Areas of Concern**: apes, jungles, tyrants
 - **Follower Alignments**: [CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait")
 
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: fist, [spear](compendium/equipment/items/spear.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [might](compendium/setting/domains.md#Might), [nature](compendium/setting/domains.md#Nature), [tyranny](compendium/setting/domains.md#Tyranny)
-- **Alternate Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 3rd: animal form (ape only); 5th: [moon frenzy](compendium/spells/moon-frenzy.md)
+- **Favored Weapon**: fist, [spear](archive/srd/pf2e/compendium/equipment/items/spear.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny)
+- **Alternate Domains**: [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [magic fang](magic-fang.md); 3rd: animal form (ape only); 5th: [moon frenzy](archive/srd/pf2e/compendium/spells/moon-frenzy.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Angazhan gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Angazhan gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Angazhan

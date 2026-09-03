@@ -11,7 +11,7 @@ tags:
 aliases: ["Wardrobe Stone"]
 ---
 # Wardrobe Stone *Item 3+*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand
 
@@ -40,7 +40,7 @@ You can actively [Dismiss](rules/actions/dismiss.md) the Spell, but the effects 
 
 - **Price**: 1250 gp
 
-You gain a +2 item bonus to a specific [Lore](compendium/skills.md#Lore) skill associated with your outfit, such as [Carpentry Lore](compendium/skills.md#Lore) when wearing a carpenter's outfit or [Cooking Lore](compendium/skills.md#Lore) when wearing a chef's outfit.
+You gain a +2 item bonus to a specific [Lore](skills.md#Lore) skill associated with your outfit, such as [Carpentry Lore](skills.md#Lore) when wearing a carpenter's outfit or [Cooking Lore](skills.md#Lore) when wearing a chef's outfit.
 
 ```ad-embed-ability
 title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 minute ((1 minute)) envision, [Interact](rules/actions/interact.md)
@@ -54,7 +54,7 @@ title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 
 - **Price**: 55000 gp
 
-You gain +3 item bonus to [Perception](compendium/skills.md#Perception) checks involving sight and a +3 item bonus to a specific [Lore](compendium/skills.md#Lore) skill associated with your outfit.
+You gain +3 item bonus to [Perception](skills.md#Perception) checks involving sight and a +3 item bonus to a specific [Lore](skills.md#Lore) skill associated with your outfit.
 
 ```ad-embed-ability
 title: **Activate** [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 1 minute ((1 minute)) envision, [Interact](rules/actions/interact.md)

@@ -10,7 +10,7 @@ tags:
 aliases: ["Door Ram"]
 ---
 # Door Ram *Item 2*  
-[portable](rules/traits/portable-g-g.md "Portable Weapon Trait")  [small](rules/traits/small-b1.md "Small Size Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[portable](portable-g-g.md "Portable Weapon Trait")  [small](small-b1.md "Small Size Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 30 gp
 - **Bulk** 3; **Usage** portable, held in 4 hands

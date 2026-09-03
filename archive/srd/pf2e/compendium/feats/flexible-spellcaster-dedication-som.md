@@ -9,7 +9,7 @@ tags:
 aliases: ["Flexible Spellcaster Dedication"]
 ---
 # Flexible Spellcaster Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [class](rules/traits/class-som.md "Class Class Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [class](class-som.md "Class Class Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
 - **Prerequisites**: flexible spell preparation
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Bestiary Of Metamorphosis"]
 ---
 # Bestiary Of Metamorphosis *Item 6*  
-[grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[grimoire](grimoire-som.md "Grimoire Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 210 gp
 - **Bulk** L

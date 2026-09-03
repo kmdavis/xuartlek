@@ -7,13 +7,13 @@ tags:
 - trait/uncommon
 aliases: ["Plum Deluge"]
 ---
-# Plum Deluge  [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
-[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+# Plum Deluge  [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") *Feat 20*  
+[alchemist](archive/srd/pf2e/rules/traits/alchemist.md "Alchemist Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Requirements**: You have at least three of the same contact poison.
 - **Activity** Three-Action
 
-You have learned to saturate an area with poison in imitation of the techniques of your rival, Blue Viper. As part of this ability, you [Interact](rules/actions/interact.md) to draw three vials of the same contact poison and throw them in the air, where they shatter and spread a poisonous deluge affecting a 20-foot burst within 60 feet.
+You have learned to saturate an area with poison in imitation of the techniques of your rival, Blue Viper. As part of this ability, you [Interact](archive/srd/pf2e/rules/actions/interact.md) to draw three vials of the same contact poison and throw them in the air, where they shatter and spread a poisonous deluge affecting a 20-foot burst within 60 feet.
 
 All creatures in the burst are automatically exposed to the poison, immediately bypassing any onset time, and must attempt a saving throw against that poison. The three vials must be identical, even if the poison can come in multiple types or different levels.
 

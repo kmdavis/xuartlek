@@ -9,8 +9,8 @@ tags:
 - trait/rage
 aliases: ["Elemental Explosion"]
 ---
-# Elemental Explosion  [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
-[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [rage](rules/traits/rage.md "Rage Combat Trait")  
+# Elemental Explosion  [>>](chapter-9-playing-the-game.md#Actions "Two-Action") *Feat 6*  
+[barbarian](archive/srd/pf2e/rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  [rage](archive/srd/pf2e/rules/traits/rage.md "Rage Combat Trait")  
 
 - **Prerequisites**: elemental instinct
 - **Requirements**: You're raging, and you haven't used this ability since you last Raged.

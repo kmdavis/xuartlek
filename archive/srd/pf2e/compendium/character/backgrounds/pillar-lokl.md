@@ -17,4 +17,4 @@ Not every Knight of Lastwall contributes to the crusade through combat. Pillars 
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in one of your choice of the [Medicine](compendium/skills.md#Medicine), [Society](compendium/skills.md#Society), or [Survival](compendium/skills.md#Survival) skills, as well as the [Labor Lore](compendium/skills.md#Lore) skill. You gain the [Additional Lore](compendium/feats/additional-lore.md) skill feat.
+You're trained in one of your choice of the [Medicine](skills.md#Medicine), [Society](skills.md#Society), or [Survival](skills.md#Survival) skills, as well as the [Labor Lore](skills.md#Lore) skill. You gain the [Additional Lore](archive/srd/pf2e/compendium/feats/additional-lore.md) skill feat.

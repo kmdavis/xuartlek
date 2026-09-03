@@ -13,7 +13,7 @@ You coax the magic power in your blood to manifest, accessing magic others don't
 ## Multiclass Sorcerer characters
 <sup>CRB p. 230</sup>
 
-The sorcerer archetype is a method for anyone to pick up commonly useful spells, such as [invisibility](compendium/spells/invisibility.md) and [haste](compendium/spells/haste.md).
+The sorcerer archetype is a method for anyone to pick up commonly useful spells, such as [invisibility](archive/srd/pf2e/compendium/spells/invisibility.md) and [haste](archive/srd/pf2e/compendium/spells/haste.md).
 
 *Source: Core Rulebook p. 230*
 

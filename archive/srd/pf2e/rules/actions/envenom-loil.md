@@ -7,8 +7,8 @@ tags:
 - trait/manipulate
 aliases: ["Envenom"]
 ---
-# Envenom [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
+# Envenom [>](chapter-9-playing-the-game.md#Actions "Single Action")
+[manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Lost Omens: Impossible Lands*  
 
 **Ancestry** Vishkanya

@@ -7,8 +7,8 @@ tags:
 - trait/gunslinger
 aliases: ["Redirecting Shot"]
 ---
-# Redirecting Shot  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
-[fortune](rules/traits/fortune.md "Fortune Effect Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
+# Redirecting Shot  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 10*  
+[fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [gunslinger](archive/srd/pf2e/rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 
 - **Trigger** An ally misses with a ranged attack that uses a thrown weapon or ammunition.
 - **Requirements**: You're wielding a loaded firearm or crossbow.

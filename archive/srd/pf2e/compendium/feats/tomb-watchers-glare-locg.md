@@ -8,11 +8,11 @@ tags:
 aliases: ["Tomb-watcher's Glare"]
 ---
 # Tomb-watcher's Glare  *Feat 5*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [dwarf](archive/srd/pf2e/rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait")  
 
 - **Prerequisites**: death warden dwarf heritage
 
-When you critically hit an undead creature, or an undead creature critically fails a saving throw against one of your abilities, you drive your divine wrath home in your enemy's heart. The undead is [enfeebled](rules/conditions.md#Enfeebled) for 1 round.
+When you critically hit an undead creature, or an undead creature critically fails a saving throw against one of your abilities, you drive your divine wrath home in your enemy's heart. The undead is [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 round.
 
 *Source: Lost Omens: Character Guide p. 21*  
 %% #compendium/src/pf2e/locg #trait/divine #trait/dwarf %%

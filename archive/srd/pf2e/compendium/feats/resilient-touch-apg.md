@@ -7,9 +7,9 @@ tags:
 aliases: ["Resilient Touch"]
 ---
 # Resilient Touch  *Feat 10*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
-- **Prerequisites**: devotion spell ([lay on hands](compendium/spells/lay-on-hands.md))
+- **Prerequisites**: devotion spell ([lay on hands](archive/srd/pf2e/compendium/spells/lay-on-hands.md))
 
 Your healing energies create an aura of protection that defends your allies against more than just blades and arrows.
 

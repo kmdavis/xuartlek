@@ -9,7 +9,7 @@ tags:
 aliases: ["Fiend's Mouth Cannon"]
 ---
 # Fiend's Mouth Cannon *Item 11*  
-[huge](rules/traits/huge-b1.md "Huge Size Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[huge](huge-b1.md "Huge Size Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2800 gp
 - **Usage** mounted (black powder)

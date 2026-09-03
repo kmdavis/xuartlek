@@ -11,12 +11,12 @@ tags:
 aliases: ["Sky-piercing Bow"]
 ---
 # Sky-piercing Bow *Item 19*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[evocation](evocation.md "Evocation School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 40000 gp
 - **Bulk** L; **Usage** held in 2 hands
 
-Large turquoise gems stud the outer edge of this sturdy composite shortbow. Arrows shot from the bow are unimpaired by wind and [air](rules/traits/air.md "Air Energy & Element Trait") effects.
+Large turquoise gems stud the outer edge of this sturdy composite shortbow. Arrows shot from the bow are unimpaired by wind and [air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait") effects.
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") [Interact](rules/actions/interact.md) ([conjuration](rules/traits/conjuration.md), [teleportation](rules/traits/teleportation.md))

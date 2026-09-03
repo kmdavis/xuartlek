@@ -8,10 +8,10 @@ tags:
 aliases: ["Mimic Protections"]
 ---
 # Mimic Protections  *Feat 20*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
-By adopting resonant reflections, you have learned to copy the abilities of other creatures as well. When you use [Hunt Prey](rules/actions/hunt-prey.md) on a foe within 100 feet, you gain resistance 10 to all damage types that target has resistance or immunity to for as long as the foe remains within 100 feet.
+By adopting resonant reflections, you have learned to copy the abilities of other creatures as well. When you use [Hunt Prey](archive/srd/pf2e/rules/actions/hunt-prey.md) on a foe within 100 feet, you gain resistance 10 to all damage types that target has resistance or immunity to for as long as the foe remains within 100 feet.
 
 *Source: Extinction Curse #6: The Apocalypse Prophet p. 72*  
 %% #compendium/src/pf2e/ec6 #trait/ranger #trait/uncommon %%

@@ -11,7 +11,7 @@ tags:
 aliases: ["Amazing Pop-Up Book"]
 ---
 # Amazing Pop-Up Book *Item 11*  
-[grimoire](rules/traits/grimoire-som.md "Grimoire Item Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[grimoire](grimoire-som.md "Grimoire Item Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1250 gp
 - **Bulk** L

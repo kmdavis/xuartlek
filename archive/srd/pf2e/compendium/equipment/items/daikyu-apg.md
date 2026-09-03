@@ -9,12 +9,12 @@ tags:
 aliases: ["Daikyu"]
 ---
 # Daikyu *Item 0*  
-[propulsive](rules/traits/propulsive.md "Propulsive Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[propulsive](archive/srd/pf2e/rules/traits/propulsive.md "Propulsive Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 8 gp
 - **Bulk** 2
   - **Damage**: `1d8` P
-  - **Ammunution** [Arrow](compendium/equipment/items/arrow.md); **Range** 80 ft.; **Reload** 0
+  - **Ammunution** [Arrow](arrow.md); **Range** 80 ft.; **Reload** 0
 - **Hands** 1+
 - **Category** Advanced; **Group** Bow 
 

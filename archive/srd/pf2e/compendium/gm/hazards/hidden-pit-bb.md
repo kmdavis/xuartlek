@@ -8,11 +8,11 @@ aliases: ["Hidden Pit"]
 # Hidden Pit *Hazard 0*  
 
 - **Complexity** Simple
-- **Stealth** DC 18 [Perception](compendium/skills.md#Perception) check (or DC 0 if the trapdoor is disabled or [broken](rules/conditions.md#Broken)).  
+- **Stealth** DC 18 [Perception](skills.md#Perception) check (or DC 0 if the trapdoor is disabled or [broken](archive/srd/pf2e/rules/conditions.md#Broken)).  
 
 A wooden trapdoor covers a 10-foot square pit that's 20 feet deep.
 
-- **Disable** DC 12 [Thievery](compendium/skills.md#Thievery) to remove the trapdoor  
+- **Disable** DC 12 [Thievery](skills.md#Thievery) to remove the trapdoor  
 
 - **AC** 10, **Fort** +1, **Ref** +1
 - **Trapdoor Hardness** 3, **Trapdoor HP** 12 (BT 6)

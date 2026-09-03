@@ -9,14 +9,14 @@ tags:
 aliases: ["Grazing Deer"]
 ---
 # Grazing Deer *Hazard 3*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[complex](complex.md "Complex Hazard Trait")  [environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert  
 
 A herd of deer exits the woods to investigate the delicious-looking leshys.
 
-- **Disable** DC 17 [Diplomacy](compendium/skills.md#Diplomacy) (with wild empathy) to befriend the deer and convince them that leshys aren't for nibbling, or DC 20 [Intimidation](compendium/skills.md#Intimidation) to scare the dear away  
+- **Disable** DC 17 [Diplomacy](skills.md#Diplomacy) (with wild empathy) to befriend the deer and convince them that leshys aren't for nibbling, or DC 20 [Intimidation](skills.md#Intimidation) to scare the dear away  
 
 - **AC** 19, **Fort** +12, **Ref** +14, **Will** +6
 - **HP** 44 (if the grazing deer take this much damage, they aren't killed, but they do flee into the woods and don't return)

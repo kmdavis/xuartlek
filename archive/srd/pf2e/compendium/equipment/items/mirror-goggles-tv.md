@@ -10,11 +10,11 @@ tags:
 aliases: ["Mirror Goggles"]
 ---
 # Mirror Goggles *Item 5+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** —; **Usage** worn eyepiece
 
-These goggles feature highly reflective lenses. While wearing the goggles, you gain a +1 item bonus to visual [Perception](compendium/skills.md#Perception) checks and to saving throws against [visual](rules/traits/visual.md "Visual Effect Trait") effects.
+These goggles feature highly reflective lenses. While wearing the goggles, you gain a +1 item bonus to visual [Perception](skills.md#Perception) checks and to saving throws against [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait") effects.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") [Interact](rules/actions/interact.md)

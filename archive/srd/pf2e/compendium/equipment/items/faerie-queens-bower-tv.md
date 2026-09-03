@@ -13,7 +13,7 @@ tags:
 aliases: ["Faerie Queen's Bower"]
 ---
 # Faerie Queen's Bower *Item 13*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [good](good.md "Good Alignment Trait")  [intelligent](intelligent-gmg.md "Intelligent Item Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Bulk** 1; **Usage** worn armor
 

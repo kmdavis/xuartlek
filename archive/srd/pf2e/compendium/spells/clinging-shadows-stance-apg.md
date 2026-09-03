@@ -12,14 +12,14 @@ tags:
 aliases: ["Clinging Shadows Stance"]
 ---
 # Clinging Shadows Stance *Focus 4*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [shadow](archive/srd/pf2e/rules/traits/shadow.md "Shadow General Trait")  [stance](archive/srd/pf2e/rules/traits/stance.md "Stance Combat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - 
 - **Duration**: until you leave the stance
 
-You adopt the stance of clinging shadows. You can make shadow grasp [Strikes](rules/actions/strike.md). These deal `1d4` negative damage; are in the brawling group; and have the agile, grapple, [reach](rules/traits/reach.md "Reach Weapon Trait"), and [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
+You adopt the stance of clinging shadows. You can make shadow grasp [Strikes](archive/srd/pf2e/rules/actions/strike.md). These deal `1d4` negative damage; are in the brawling group; and have the agile, grapple, [reach](archive/srd/pf2e/rules/traits/reach.md "Reach Weapon Trait"), and [unarmed](archive/srd/pf2e/rules/traits/unarmed.md "Unarmed Weapon Trait") traits.
 
-While in clinging shadows stance, you gain a +2 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks to [Grapple](rules/actions/grapple.md), and to the DC for creatures to [Escape](rules/actions/escape.md) from you.
+While in clinging shadows stance, you gain a +2 circumstance bonus to [Athletics](skills.md#Athletics) checks to [Grapple](archive/srd/pf2e/rules/actions/grapple.md), and to the DC for creatures to [Escape](archive/srd/pf2e/rules/actions/escape.md) from you.
 
 *Source: Advanced Player's Guide p. 229*

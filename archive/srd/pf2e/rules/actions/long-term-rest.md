@@ -8,7 +8,7 @@ tags:
 aliases: ["Long-Term Rest"]
 ---
 # Long-Term Rest (basic)
-[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
+[downtime](archive/srd/pf2e/rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Core Rulebook p. 481*  
 
 

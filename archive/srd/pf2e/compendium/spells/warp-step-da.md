@@ -9,12 +9,12 @@ tags:
 aliases: ["Warp Step"]
 ---
 # Warp Step *Cantrip 1*   
-[cantrip](rules/traits/cantrip.md "Cantrip Spell Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  
+[cantrip](archive/srd/pf2e/rules/traits/cantrip.md "Cantrip Spell Trait")  [conjuration](conjuration.md "Conjuration School Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 
-When you walk, the earth warps beneath your feet—your steps extend, distance contracts, and everything is just a little bit closer. You gain a +5-foot status bonus to your Speed until the end of your turn. You then [Stride](rules/actions/stride.md) twice. You can use warp step to [Burrow](rules/actions/burrow.md), [Climb](rules/actions/climb.md), [Fly](rules/actions/fly.md), or [Swim](rules/actions/swim.md) instead of [Stride](rules/actions/stride.md) if you have the corresponding movement type.
+When you walk, the earth warps beneath your feet—your steps extend, distance contracts, and everything is just a little bit closer. You gain a +5-foot status bonus to your Speed until the end of your turn. You then [Stride](archive/srd/pf2e/rules/actions/stride.md) twice. You can use warp step to [Burrow](archive/srd/pf2e/rules/actions/burrow.md), [Climb](archive/srd/pf2e/rules/actions/climb.md), [Fly](archive/srd/pf2e/rules/actions/fly.md), or [Swim](archive/srd/pf2e/rules/actions/swim.md) instead of [Stride](archive/srd/pf2e/rules/actions/stride.md) if you have the corresponding movement type.
 
 *Source: Dark Archive p. 107*

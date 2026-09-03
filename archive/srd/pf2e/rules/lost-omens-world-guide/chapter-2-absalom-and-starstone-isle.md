@@ -12,7 +12,7 @@ aliases: ["chapter-2-absalom-and-starstone-isle"]
 - **Peoples.** All
 - **Languages.** All
 - **Factions.** Firebrands, Knights of Lastwall, Pathfinder Society
-- **Religions.** [Abadar](compendium/setting/deities/abadar.md), [Cayden Cailean](compendium/setting/deities/cayden-cailean.md), [Iomedae](compendium/setting/deities/iomedae.md), [Irori](compendium/setting/deities/irori.md), [Norgorber](compendium/setting/deities/norgorber.md), [Shelyn](compendium/setting/deities/shelyn.md)
+- **Religions.** [Abadar](abadar.md), [Cayden Cailean](cayden-cailean.md), [Iomedae](iomedae.md), [Irori](irori.md), [Norgorber](norgorber.md), [Shelyn](shelyn.md)
 - **Resources.** Alcohol/Drugs, Armor/Weapons, Books/Lore, Jewelry/Gems, Lumber, Luxury Goods and Art, Magic Items, Ores, Seafood, Ships, Skymetal, Textiles
 
 > [!pf2-sidebar] TIMELINE
@@ -45,7 +45,7 @@ aliases: ["chapter-2-absalom-and-starstone-isle"]
 ### Archaic Wayfinders
 <sup>LOWG p. 17</sup>
 
-- [Archaic Wayfinder](compendium/equipment/items/archaic-wayfinder-lowg.md)
+- [Archaic Wayfinder](archaic-wayfinder-lowg.md)
 
 ### Ivy District
 <sup>LOWG p. 17</sup>
@@ -103,21 +103,21 @@ aliases: ["chapter-2-absalom-and-starstone-isle"]
 
 The following backgrounds are particularly suitable for characters from the Absalom region.
 
-- [Child of the Puddles](compendium/character/backgrounds/child-of-the-puddles-lowg.md)
-- [Diobel Pearl Diver](compendium/character/backgrounds/diobel-pearl-diver-lowg.md)
-- [Freed Slave of Absalom](compendium/character/backgrounds/freed-slave-of-absalom-lowg.md)
-- [Grand Council Bureaucrat](compendium/character/backgrounds/grand-council-bureaucrat-lowg.md)
-- [Inlander](compendium/character/backgrounds/inlander-lowg.md)
-- [Menagerie Dung Sweeper](compendium/character/backgrounds/menagerie-dung-sweeper-lowg.md)
-- [Pathfinder Hopeful](compendium/character/backgrounds/pathfinder-hopeful-lowg.md)
-- [Trade Consortium Underling](compendium/character/backgrounds/trade-consortium-underling-lowg.md)
+- [Child of the Puddles](child-of-the-puddles-lowg.md)
+- [Diobel Pearl Diver](diobel-pearl-diver-lowg.md)
+- [Freed Slave of Absalom](freed-slave-of-absalom-lowg.md)
+- [Grand Council Bureaucrat](grand-council-bureaucrat-lowg.md)
+- [Inlander](inlander-lowg.md)
+- [Menagerie Dung Sweeper](menagerie-dung-sweeper-lowg.md)
+- [Pathfinder Hopeful](pathfinder-hopeful-lowg.md)
+- [Trade Consortium Underling](trade-consortium-underling-lowg.md)
 
 ## Pathfinder Agent
 <sup>LOWG p. 23</sup>
 
 You're a field agent of the globe-trotting Pathfinder Society, sworn to report, explore, and cooperate. You explore the world, gathering artifacts and antiquities, and record your adventures for posterity.
 
-- [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
-- [Careful Explorer](compendium/feats/careful-explorer-lowg.md)
-- [Deft Cooperation](compendium/feats/deft-cooperation-lowg.md)
-- [Wayfinder Resonance Tinkerer](compendium/feats/wayfinder-resonance-tinkerer-lowg.md)
+- [Pathfinder Agent Dedication](pathfinder-agent-dedication-lowg.md)
+- [Careful Explorer](careful-explorer-lowg.md)
+- [Deft Cooperation](deft-cooperation-lowg.md)
+- [Wayfinder Resonance Tinkerer](wayfinder-resonance-tinkerer-lowg.md)

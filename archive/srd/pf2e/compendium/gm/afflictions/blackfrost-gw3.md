@@ -15,9 +15,9 @@ aliases: ["Blackfrost"]
 ---
 # Blackfrost
 *Curse 1*  
-[cold](rules/traits/cold.md "Cold Energy & Element Trait")  [curse](rules/traits/curse.md "Curse Effect Trait")  [disease](rules/traits/disease.md "Disease Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cold](archive/srd/pf2e/rules/traits/cold.md "Cold Energy & Element Trait")  [curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [disease](archive/srd/pf2e/rules/traits/disease.md "Disease Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [remove curse](compendium/spells/remove-curse.md) or a similar effect; the affliction can then be removed as a normal disease. A creature that dies from cold damage while cursed with blackfrost rises as a blackfrost dead after 24 hours.
+This affliction can't be reduced below stage 1, nor the damage from it healed, until successfully treated with [remove curse](remove-curse.md) or a similar effect; the affliction can then be removed as a normal disease. A creature that dies from cold damage while cursed with blackfrost rises as a blackfrost dead after 24 hours.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 27 Fortitude

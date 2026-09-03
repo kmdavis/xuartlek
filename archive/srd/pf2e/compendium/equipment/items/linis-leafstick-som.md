@@ -12,7 +12,7 @@ tags:
 aliases: ["Lini's Leafstick"]
 ---
 # Lini's Leafstick *Item 15*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [plant](rules/traits/plant.md "Plant Creature Type Trait")  [staff](rules/traits/staff.md "Staff Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [plant](archive/srd/pf2e/rules/traits/plant.md "Plant Creature Type Trait")  [staff](archive/srd/pf2e/rules/traits/staff.md "Staff Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 6500 gp
 - **Craft Requirements** Supply one casting of all listed levels of all listed spells.

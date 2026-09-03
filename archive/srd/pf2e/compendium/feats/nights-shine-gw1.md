@@ -9,9 +9,9 @@ tags:
 aliases: ["Night's Shine"]
 ---
 # Night's Shine  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [evocation](evocation.md "Evocation School Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  
 
-- **Prerequisites**: [Oatia Skysage Dedication](compendium/feats/oatia-skysage-dedication-gw1.md), [Night's Glow](compendium/feats/nights-glow-gw1.md)
+- **Prerequisites**: [Oatia Skysage Dedication](oatia-skysage-dedication-gw1.md), [Night's Glow](nights-glow-gw1.md)
 
 Your power from the moon and stars becomes strong enough to illuminate the night sky. You gain your choice of the asterism (Lost Omens Gods & Magic 117) or touch of the moon domain spell. Increase the number of Focus Points in your pool by 1.
 

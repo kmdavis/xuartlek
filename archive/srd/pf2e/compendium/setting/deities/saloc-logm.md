@@ -20,8 +20,8 @@ aliases: ["Saloc", "The Minder of Immortals"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Diplomacy
-- **Favored Weapon**: [guisarme](compendium/equipment/items/guisarme.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [death](compendium/setting/domains.md#Death), [freedom](compendium/setting/domains.md#Freedom), [knowledge](compendium/setting/domains.md#Knowledge)
-- **Cleric Spells**: 1st: share lore; 3rd: [hypercognition](compendium/spells/hypercognition.md); 5th: [dreaming potential](compendium/spells/dreaming-potential.md)
+- **Favored Weapon**: [guisarme](archive/srd/pf2e/compendium/equipment/items/guisarme.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [death](archive/srd/pf2e/compendium/setting/domains.md#Death), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge)
+- **Cleric Spells**: 1st: share lore; 3rd: [hypercognition](archive/srd/pf2e/compendium/spells/hypercognition.md); 5th: [dreaming potential](archive/srd/pf2e/compendium/spells/dreaming-potential.md)

@@ -7,13 +7,13 @@ tags:
 aliases: ["Archon Magic"]
 ---
 # Archon Magic  *Feat 9*  
-[aasimar](rules/traits/aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
+[aasimar](aasimar-apg.md "Aasimar Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Lawbringer](compendium/feats/lawbringer-apg.md)
+- **Prerequisites**: [Lawbringer](lawbringer-apg.md)
 
 You can tap into the heavenly magic that is your birthright.
 
-You can cast [continual flame](compendium/spells/continual-flame.md) and [shield other](compendium/spells/shield-other.md) each once per day as 2nd-level divine innate spells.
+You can cast [continual flame](continual-flame.md) and [shield other](shield-other.md) each once per day as 2nd-level divine innate spells.
 
 *Source: Advanced Player's Guide p. 36*  
 %% #compendium/src/pf2e/apg #trait/aasimar %%

@@ -7,9 +7,9 @@ tags:
 aliases: ["Impervious Vehicle"]
 ---
 # Impervious Vehicle  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Vehicle Mechanic Dedication](compendium/feats/vehicle-mechanic-dedication-g-g.md)
+- **Prerequisites**: [Vehicle Mechanic Dedication](vehicle-mechanic-dedication-g-g.md)
 
 From armor plating and flexible components, to reinforced materials and backup redundant functionality, you have built safeguards to protect your vehicle from the rigors of combat.
 

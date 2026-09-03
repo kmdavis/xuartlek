@@ -14,10 +14,10 @@ tags:
 aliases: ["Captivating Adoration"]
 ---
 # Captivating Adoration *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [emotion](archive/srd/pf2e/rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [visual](archive/srd/pf2e/rules/traits/visual.md "Visual Effect Trait")  
 
-- **Domains** [passion](compendium/setting/domains.md#Passion)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [passion](archive/srd/pf2e/compendium/setting/domains.md#Passion)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot emanation
 - **Saving Throw**: Will
 - **Duration**: 1 minute
@@ -28,9 +28,9 @@ When a creature enters the area for the first time, it must attempt a Will savin
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected and temporarily immune for 1 hour.
-> - **Success** The creature is [fascinated](rules/conditions.md#Fascinated) with you for its next action, then is temporarily immune for 1 hour.
-> - **Failure** The creature is [fascinated](rules/conditions.md#Fascinated) with you.
-> - **Critical Failure** The creature is [fascinated](rules/conditions.md#Fascinated) with you, and its attitude toward you improves by one step.
+> - **Success** The creature is [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) with you for its next action, then is temporarily immune for 1 hour.
+> - **Failure** The creature is [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) with you.
+> - **Critical Failure** The creature is [fascinated](archive/srd/pf2e/rules/conditions.md#Fascinated) with you, and its attitude toward you improves by one step.
 
 **Heightened (+ 1)** Increase the size of the emanation by 15 feet.
 

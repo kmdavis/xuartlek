@@ -15,4 +15,4 @@ An eye for detail, a sense for the wind, and a strong trust in your gut feelings
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Stealth](compendium/skills.md#Stealth) skill and the [Scouting Lore](compendium/skills.md#Lore) skill. You gain the [Terrain Stalker](compendium/feats/terrain-stalker.md) skill feat.
+You're trained in the [Stealth](skills.md#Stealth) skill and the [Scouting Lore](skills.md#Lore) skill. You gain the [Terrain Stalker](archive/srd/pf2e/compendium/feats/terrain-stalker.md) skill feat.

@@ -12,9 +12,9 @@ tags:
 aliases: ["Litany Against Wrath"]
 ---
 # Litany Against Wrath *Focus 3*   
-[champion](rules/traits/champion.md "Champion Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [litany](rules/traits/litany.md "Litany Spell Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  [evocation](evocation.md "Evocation School Trait")  [good](good.md "Good Alignment Trait")  [litany](litany.md "Litany Spell Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") 
+- **Cast** [>](chapter-9-playing-the-game.md#Actions "Single Action") 
 - **Range**: 30 foot
 - **Targets**: 1 evil creature
 - **Saving Throw**: Will
@@ -26,7 +26,7 @@ Your litany rails against the sin of wrath, punishing the target for attacking g
 > - **Critical Success** The target is unaffected.
 > - **Success** The first time the target uses an action that deals damage to at least one good creature, the target takes `3d6` good damage.
 > - **Failure** Each time the target uses an action that deals damage to at least one good creature, the target takes `3d6` good damage.
-> - **Critical Failure** The target is [enfeebled](rules/conditions.md#Enfeebled). Each time it uses an action that deals damage to at least one good creature, the target takes `3d6` good damage.
+> - **Critical Failure** The target is [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled). Each time it uses an action that deals damage to at least one good creature, the target takes `3d6` good damage.
 
 **Heightened (+ 1)** The damage increases by `1d6`.
 

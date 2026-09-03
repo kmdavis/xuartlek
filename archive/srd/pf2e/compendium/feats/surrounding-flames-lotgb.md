@@ -7,11 +7,11 @@ tags:
 aliases: ["Surrounding Flames"]
 ---
 # Surrounding Flames  *Feat 10*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Spell Trickster Dedication](compendium/feats/spell-trickster-dedication-lotgb.md), ability to cast [wall of fire](compendium/spells/wall-of-fire.md)
+- **Prerequisites**: [Spell Trickster Dedication](spell-trickster-dedication-lotgb.md), ability to cast [wall of fire](archive/srd/pf2e/compendium/spells/wall-of-fire.md)
 
-When you cast [wall of fire](compendium/spells/wall-of-fire.md), you can modify its standard effects as follows: Instead of a 5-foot-thick, 10-foot-radius ring of flame, you can form the wall into a 10-foot-radius hemisphere of fire.
+When you cast [wall of fire](archive/srd/pf2e/compendium/spells/wall-of-fire.md), you can modify its standard effects as follows: Instead of a 5-foot-thick, 10-foot-radius ring of flame, you can form the wall into a 10-foot-radius hemisphere of fire.
 
 *Source: Lost Omens: The Grand Bazaar p. 125*  
 %% #compendium/src/pf2e/lotgb #trait/archetype %%

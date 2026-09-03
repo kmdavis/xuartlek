@@ -6,8 +6,8 @@ tags:
 - trait/archetype
 aliases: ["Reset the Past"]
 ---
-# Reset the Past  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Reset the Past  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 14*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
 - **Frequency**: once per day
 - **Activity** Free Action

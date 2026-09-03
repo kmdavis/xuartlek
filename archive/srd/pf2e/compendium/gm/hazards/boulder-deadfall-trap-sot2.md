@@ -9,14 +9,14 @@ tags:
 aliases: ["Boulder Deadfall Trap"]
 ---
 # Boulder Deadfall Trap *Hazard 7*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 trained DC 0 to spot the balanced boulders.  
 
 A weight-sensitive plate buried underneath sand pulls a boulder over a cliff ledge, causing it to fall on targets within the entrance.
 
-- **Disable** DC 27 [Crafting](compendium/skills.md#Crafting) (expert) or DC 25 [Thievery](compendium/skills.md#Thievery) (expert) to find and disconnect the plate from the tipping mechanism.  
+- **Disable** DC 27 [Crafting](skills.md#Crafting) (expert) or DC 25 [Thievery](skills.md#Thievery) (expert) to find and disconnect the plate from the tipping mechanism.  
 
 ```ad-embed-ability
 title: **Deadfall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

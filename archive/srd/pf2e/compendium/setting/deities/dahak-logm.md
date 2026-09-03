@@ -20,8 +20,8 @@ aliases: ["Dahak", "The Endless Destruction"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: jaws or [whip](compendium/equipment/items/whip.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [fire](compendium/setting/domains.md#Fire), [wyrmkin](compendium/setting/domains.md#Wyrmkin), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 3rd: [fireball](compendium/spells/fireball.md); 6th: dragon form (chromatic dragons only)
+- **Favored Weapon**: jaws or [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [wyrmkin](archive/srd/pf2e/compendium/setting/domains.md#Wyrmkin), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [magic fang](magic-fang.md); 3rd: [fireball](archive/srd/pf2e/compendium/spells/fireball.md); 6th: dragon form (chromatic dragons only)

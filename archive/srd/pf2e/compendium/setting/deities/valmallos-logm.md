@@ -20,8 +20,8 @@ aliases: ["Valmallos", "The Answering Rite"]
 ## Devotee benefits
 
 - **Divine Ability**: Intelligence or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md) or [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Arcana
-- **Favored Weapon**: [kukri](compendium/equipment/items/kukri.md)
-- **Domains**: [fate](compendium/setting/domains.md#Fate), [glyph](compendium/setting/domains.md#Glyph), [knowledge](compendium/setting/domains.md#Knowledge), [magic](compendium/setting/domains.md#Magic)
-- **Cleric Spells**: 1st: [mage armor](compendium/spells/mage-armor.md); 6th: [feeblemind](compendium/spells/feeblemind.md); 7th: [contingency](compendium/spells/contingency.md)
+- **Favored Weapon**: [kukri](archive/srd/pf2e/compendium/equipment/items/kukri.md)
+- **Domains**: [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [glyph](archive/srd/pf2e/compendium/setting/domains.md#Glyph), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic)
+- **Cleric Spells**: 1st: [mage armor](mage-armor.md); 6th: [feeblemind](feeblemind.md); 7th: [contingency](archive/srd/pf2e/compendium/spells/contingency.md)

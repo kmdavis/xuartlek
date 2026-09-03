@@ -10,16 +10,16 @@ tags:
 aliases: ["Pillar Of Water"]
 ---
 # Pillar Of Water *Spell 3*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 120 foot
 - **Duration**: 1 minute
 
 You create a large, self-contained cylinder of still fresh water.
 
-The pillar has a maximum radius of 15 feet and a maximum height of 60 feet. Creatures inside the pillar can swim through the water as normal ([Swim](rules/actions/swim.md) DC 10), or, if the spell was cast on solid ground, walk along the bottom (which is difficult terrain)
+The pillar has a maximum radius of 15 feet and a maximum height of 60 feet. Creatures inside the pillar can swim through the water as normal ([Swim](archive/srd/pf2e/rules/actions/swim.md) DC 10), or, if the spell was cast on solid ground, walk along the bottom (which is difficult terrain)
 
 Any creature that exits the pillar falls or lands accordingly.
 

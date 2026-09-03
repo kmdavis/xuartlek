@@ -7,9 +7,9 @@ tags:
 aliases: ["Continuous Assault"]
 ---
 # Continuous Assault  *Feat 13*  
-[suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  
+[suli](suli-b2.md "Suli Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Elemental Assault](compendium/feats/elemental-assault-loag.md)
+- **Prerequisites**: [Elemental Assault](elemental-assault-loag.md)
 
 You can use Elemental Assault once per hour instead of once per day.
 

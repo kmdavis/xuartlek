@@ -10,12 +10,12 @@ tags:
 aliases: ["Deflecting Branch"]
 ---
 # Deflecting Branch *Item 14*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 4500 gp
 - **Bulk** 2; **Usage** held in 2 hands
 
-This massive branch has been cut into a general club shape but still bears several knots and has a number of runes carved along its length. The deflecting branch is a +2 greater striking greatclub. On a critical hit, you knock the target [prone](rules/conditions.md#Prone).
+This massive branch has been cut into a general club shape but still bears several knots and has a number of runes carved along its length. The deflecting branch is a +2 greater striking greatclub. On a critical hit, you knock the target [prone](archive/srd/pf2e/rules/conditions.md#Prone).
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") [Interact](rules/actions/interact.md)

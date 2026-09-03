@@ -11,18 +11,18 @@ tags:
 aliases: ["Floating Flamethrower"]
 ---
 # Floating Flamethrower *Hazard 16*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +23 expert or DC 38 (master) to notice the pattern of the orb's trajectory  
 
 A floating skull of fire swoops around the arena, rotating as it weaves through the ring and releasing huge gouts of flame in random directions.
 
-- **Disable** three DC 40 [Thievery](compendium/skills.md#Thievery) (legendary) checks or castings of [dispel magic](compendium/spells/dispel-magic.md) (7th level; counteract DC 40), one each to pull out or disable the elemental cores [hidden](rules/conditions.md#Hidden) in the floating skull's right eye, left eye, and mouth  
+- **Disable** three DC 40 [Thievery](skills.md#Thievery) (legendary) checks or castings of [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (7th level; counteract DC 40), one each to pull out or disable the elemental cores [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) in the floating skull's right eye, left eye, and mouth  
 
 - **AC** 42, **Fort** +30, **Ref** +33
 - **Hardness** 25, **HP** 100 (BT 50)
-- **Immunities** [fire](rules/traits/fire.md "Fire Energy & Element Trait")
+- **Immunities** [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")
 - **Weaknesses** cold 15
 
 ```ad-embed-ability

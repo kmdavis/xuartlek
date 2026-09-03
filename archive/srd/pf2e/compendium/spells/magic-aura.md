@@ -9,9 +9,9 @@ tags:
 aliases: ["Magic Aura"]
 ---
 # Magic Aura *Spell 1*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [occult](rules/traits/occult.md "Occult Tradition Trait")
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")
 - **Cast** 1 minute 
 - **Range**: touch
 - **Targets**: 1 object of 3 bulk or less
@@ -19,7 +19,7 @@ aliases: ["Magic Aura"]
 
 You alter the appearance of an item's magic aura. You can choose to have the target's aura appear as that of common magic item of twice magic aura's level or lower, or to have it register as being under the effects of a spell of your choice of magic aura's level or lower. If the target is magical, you can instead choose to have it appear as entirely non-magical.
 
-A caster using [detect magic](compendium/spells/detect-magic.md) or [read aura](compendium/spells/read-aura.md) of an equal or higher spell level can attempt to 0 from magic aura. Magic aura doesn't mask the aura of spells that are 9th level or higher or of items that are 19th level or higher.
+A caster using [detect magic](archive/srd/pf2e/compendium/spells/detect-magic.md) or [read aura](archive/srd/pf2e/compendium/spells/read-aura.md) of an equal or higher spell level can attempt to 0 from magic aura. Magic aura doesn't mask the aura of spells that are 9th level or higher or of items that are 19th level or higher.
 
 **Heightened (3rd)** You can target a creature instead of an object. When you do, you can either conceal the auras of all magic items it has or have that creature's aura appear as if it were under the effect of a spell you know.
 

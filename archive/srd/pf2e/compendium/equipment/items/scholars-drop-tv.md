@@ -10,12 +10,12 @@ tags:
 aliases: ["Scholar's Drop"]
 ---
 # Scholar's Drop *Item 6*  
-[alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [lozenge](rules/traits/lozenge-tv.md "Lozenge Item Trait")  
+[alchemical](archive/srd/pf2e/rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [lozenge](lozenge-tv.md "Lozenge Item Trait")  
 
 - **Price** 40 gp
 - **Bulk** —; **Usage** held in 1 hand
 
-University students in Katapesh first used the scholar's drop to gain an edge over their academic rivals, but the candy has since spread across Golarion. The flavor of this hard, sugar-coated candy is highly refreshing and based on lemon and green tea. For 1 hour, you gain a +1 item bonus to saving throws against effects that could render you [fatigued](rules/conditions.md#Fatigued).
+University students in Katapesh first used the scholar's drop to gain an edge over their academic rivals, but the candy has since spread across Golarion. The flavor of this hard, sugar-coated candy is highly refreshing and based on lemon and green tea. For 1 hour, you gain a +1 item bonus to saving throws against effects that could render you [fatigued](archive/srd/pf2e/rules/conditions.md#Fatigued).
 
 ```ad-embed-ability
 title: **Secondary Effect** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")

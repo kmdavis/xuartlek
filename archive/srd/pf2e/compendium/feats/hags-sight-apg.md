@@ -7,10 +7,10 @@ tags:
 aliases: ["Hag's Sight"]
 ---
 # Hag's Sight  *Feat 1*  
-[changeling](rules/traits/changeling-b1.md "Changeling Ancestry & Heritage Trait")  
+[changeling](changeling-b1.md "Changeling Ancestry & Heritage Trait")  
 
 
-You've nurtured the supernatural abilities gifted by your hag mother, particularly your sight. You gain [darkvision](rules/abilities/darkvision.md).
+You've nurtured the supernatural abilities gifted by your hag mother, particularly your sight. You gain [darkvision](archive/srd/pf2e/rules/abilities/darkvision.md).
 
 *Source: Advanced Player's Guide p. 31*  
 %% #compendium/src/pf2e/apg #trait/changeling %%

@@ -8,15 +8,15 @@ tags:
 - trait/rogue
 aliases: ["Reactive Distraction"]
 ---
-# Reactive Distraction  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 20*  
-[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  
+# Reactive Distraction  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 20*  
+[concentrate](archive/srd/pf2e/rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [manipulate](archive/srd/pf2e/rules/traits/manipulate.md "Manipulate General Trait")  [rogue](archive/srd/pf2e/rules/traits/rogue.md "Rogue Class Trait")  
 
-- **Prerequisites**: legendary in [Deception](compendium/skills.md#Deception), [Perfect Distraction](compendium/feats/perfect-distraction.md)
+- **Prerequisites**: legendary in [Deception](skills.md#Deception), [Perfect Distraction](archive/srd/pf2e/compendium/feats/perfect-distraction.md)
 - **Trigger** You would be hit by an attack or targeted by an effect, or you are within an effect's area.
 - **Requirements**: You have Perfect Distraction ready to use.
 - **Activity** Reaction
 
-You reactively switch with your decoy to foil your foe. You use Perfection Distraction, even if you were [observed](rules/conditions.md#Observed), as long as you end the movement of your [Sneak](rules/actions/sneak.md) while [concealed](rules/conditions.md#Concealed) or in a location with cover or greater cover. Your decoy is targeted by the attack or effect instead of you. In the case of an area effect, if your [Sneak](rules/actions/sneak.md) doesn't move you out of the area, both you and the decoy are targeted by the effect.
+You reactively switch with your decoy to foil your foe. You use Perfection Distraction, even if you were [observed](archive/srd/pf2e/rules/conditions.md#Observed), as long as you end the movement of your [Sneak](archive/srd/pf2e/rules/actions/sneak.md) while [concealed](archive/srd/pf2e/rules/conditions.md#Concealed) or in a location with cover or greater cover. Your decoy is targeted by the attack or effect instead of you. In the case of an area effect, if your [Sneak](archive/srd/pf2e/rules/actions/sneak.md) doesn't move you out of the area, both you and the decoy are targeted by the effect.
 
 *Source: Core Rulebook p. 189*  
 %% #compendium/src/pf2e/crb #trait/concentrate #trait/manipulate #trait/rogue %%

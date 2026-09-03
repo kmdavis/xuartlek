@@ -6,19 +6,19 @@ tags:
 - trait/fighter
 aliases: ["Dueling Riposte"]
 ---
-# Dueling Riposte  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
-[fighter](rules/traits/fighter.md "Fighter Class Trait")  
+# Dueling Riposte  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 8*  
+[fighter](archive/srd/pf2e/rules/traits/fighter.md "Fighter Class Trait")  
 
-- **Prerequisites**: [Dueling Parry](compendium/feats/dueling-parry-apg.md)
-- **Trigger** A creature within your reach critically fails a [Strike](rules/actions/strike.md) against you.
+- **Prerequisites**: [Dueling Parry](dueling-parry-apg.md)
+- **Trigger** A creature within your reach critically fails a [Strike](archive/srd/pf2e/rules/actions/strike.md) against you.
 - **Requirements**: You are benefiting from Dueling Parry.
 - **Activity** Reaction
 
-You riposte against your flailing enemy. Make a melee [Strike](rules/actions/strike.md) against or attempt to [Disarm](rules/actions/disarm.md) the triggering creature.
+You riposte against your flailing enemy. Make a melee [Strike](archive/srd/pf2e/rules/actions/strike.md) against or attempt to [Disarm](archive/srd/pf2e/rules/actions/disarm.md) the triggering creature.
 
 ## Dueling Riposte leads to...
 
-[Guiding Riposte](compendium/feats/guiding-riposte.md), [Improved Dueling Riposte](compendium/feats/improved-dueling-riposte.md), [Reflecting Riposte](compendium/feats/reflecting-riposte-ec6.md)
+[Guiding Riposte](archive/srd/pf2e/compendium/feats/guiding-riposte.md), [Improved Dueling Riposte](archive/srd/pf2e/compendium/feats/improved-dueling-riposte.md), [Reflecting Riposte](reflecting-riposte-ec6.md)
 
 ## Summary
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Violet Ray"]
 ---
 # Violet Ray *Item 12*  
-[rare](rules/traits/rare.md "Rare Rarity Trait")  
+[rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 1893 gp
 - **Bulk** 2; **Usage** held in 2 hands
@@ -17,7 +17,7 @@ One of the many wondrous devices brought into the world by Stasian technology is
 
 Physicians claim it anything from headaches to heartburn, or nausea to deafness, all with an easy and painless treatment.
 
-The device is a glass vacuum with an insulated handle connected to a small Stasian coil. When powered, the glass tube fills with purple light and becomes warm to the touch. Pressing the tube to one's body is said to increase blood flow, eliminate toxins, and many other beneficial effects. A violet ray functions as a set of healer's tools and provides a +2 item bonus to [Medicine](compendium/skills.md#Medicine) checks to [Administer First Aid](rules/actions/administer-first-aid.md), [Treat Disease](rules/actions/treat-disease.md), [Treat Poison](rules/actions/treat-poison.md), or [Treat Wounds](rules/actions/treat-wounds.md).
+The device is a glass vacuum with an insulated handle connected to a small Stasian coil. When powered, the glass tube fills with purple light and becomes warm to the touch. Pressing the tube to one's body is said to increase blood flow, eliminate toxins, and many other beneficial effects. A violet ray functions as a set of healer's tools and provides a +2 item bonus to [Medicine](skills.md#Medicine) checks to [Administer First Aid](archive/srd/pf2e/rules/actions/administer-first-aid.md), [Treat Disease](archive/srd/pf2e/rules/actions/treat-disease.md), [Treat Poison](archive/srd/pf2e/rules/actions/treat-poison.md), or [Treat Wounds](archive/srd/pf2e/rules/actions/treat-wounds.md).
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") [Interact](rules/actions/interact.md)

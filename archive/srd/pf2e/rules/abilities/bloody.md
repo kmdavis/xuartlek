@@ -5,4 +5,4 @@ aliases: ["Bloody"]
 ---
 # Bloody
 
-The skeleton is covered in dripping blood and gains [fast healing](rules/abilities/fast-healing.md) equal to its level.
+The skeleton is covered in dripping blood and gains [fast healing](archive/srd/pf2e/rules/abilities/fast-healing.md) equal to its level.

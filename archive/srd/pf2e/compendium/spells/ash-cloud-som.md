@@ -11,10 +11,10 @@ tags:
 aliases: ["Ash Cloud"]
 ---
 # Ash Cloud *Spell 2*   
-[air](rules/traits/air.md "Air Energy & Element Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  
+[air](archive/srd/pf2e/rules/traits/air.md "Air Energy & Element Trait")  [conjuration](conjuration.md "Conjuration School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") 
 - **Range**: 120 foot
 - **Area**: 20-foot burst
 - **Saving Throw**: Fortitude
@@ -25,8 +25,8 @@ You summon a tumultuous cloud of ash and smoke. The cloud is difficult terrain f
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
 > - **Success** The target takes half damage.
-> - **Failure** The target takes full damage and is [dazzled](rules/conditions.md#Dazzled) for 1 round.
-> - **Critical Failure** The target takes double damage and is [blinded](rules/conditions.md#Blinded) for 1 round.
+> - **Failure** The target takes full damage and is [dazzled](archive/srd/pf2e/rules/conditions.md#Dazzled) for 1 round.
+> - **Critical Failure** The target takes double damage and is [blinded](archive/srd/pf2e/rules/conditions.md#Blinded) for 1 round.
 
 **Heightened (+ 1)** The damage increases by `1d4`.
 

@@ -19,4 +19,4 @@ You've taken those skills on the road, using them to assist yourself and your al
 
 Choose two ability boosts. One of these boosts must be to Intelligence or Dexterity, and one is a free ability boost.
 
-You're trained in the [Crafting](compendium/skills.md#Crafting) skill and the [Engineering Lore](compendium/skills.md#Lore) skill. You gain the [Quick Repair](compendium/feats/quick-repair.md) skill feat.
+You're trained in the [Crafting](skills.md#Crafting) skill and the [Engineering Lore](skills.md#Lore) skill. You gain the [Quick Repair](archive/srd/pf2e/compendium/feats/quick-repair.md) skill feat.

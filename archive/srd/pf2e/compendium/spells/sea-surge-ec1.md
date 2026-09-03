@@ -10,10 +10,10 @@ tags:
 aliases: ["Sea Surge"]
 ---
 # Sea Surge *Spell 2*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions** [arcane](rules/traits/arcane.md "Arcane Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [arcane](archive/srd/pf2e/rules/traits/arcane.md "Arcane Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: until the start of your next turn
 
@@ -21,7 +21,7 @@ You slap or stomp on a nearby solid or liquid surface, sending a surge of water 
 
 > [!success-degree] 
 > - **Success** The creature is unaffected.
-> - **Failure** The creature is knocked [prone](rules/conditions.md#Prone). If the creature was Swimming, it gets a critical failure instead.
-> - **Critical Failure** The creature is pushed 20 feet in the wave's direction, is knocked [prone](rules/conditions.md#Prone), and takes `3d6` bludgeoning damage.
+> - **Failure** The creature is knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone). If the creature was Swimming, it gets a critical failure instead.
+> - **Critical Failure** The creature is pushed 20 feet in the wave's direction, is knocked [prone](archive/srd/pf2e/rules/conditions.md#Prone), and takes `3d6` bludgeoning damage.
 
 *Source: Extinction Curse #1: The Show Must Go On p. 78*

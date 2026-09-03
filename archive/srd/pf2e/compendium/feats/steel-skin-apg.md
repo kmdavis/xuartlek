@@ -8,9 +8,9 @@ tags:
 aliases: ["Steel Skin"]
 ---
 # Steel Skin  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Survival](compendium/skills.md#Survival), [Sentinel Dedication](compendium/feats/sentinel-dedication-apg.md)
+- **Prerequisites**: trained in [Survival](skills.md#Survival), [Sentinel Dedication](sentinel-dedication-apg.md)
 
 You wear your armor like a second skin. You can rest normally while wearing medium armor. If you are a master in heavy armor, you can also rest normally while wearing heavy armor.
 

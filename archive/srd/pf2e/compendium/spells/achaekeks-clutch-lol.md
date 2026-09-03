@@ -11,19 +11,19 @@ tags:
 aliases: ["Achaekek's Clutch"]
 ---
 # Achaekek's Clutch *Focus 4*   
-[curse](rules/traits/curse.md "Curse Effect Trait")  [death](rules/traits/death.md "Death Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[curse](archive/srd/pf2e/rules/traits/curse.md "Curse Effect Trait")  [death](archive/srd/pf2e/rules/traits/death.md "Death Effect Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Range**: 30 foot
 - **Targets**: 1 creature
 - **Saving Throw**: Will
 
-You mark the holy symbol of [Achaekek](compendium/setting/deities/achaekek-logm.md) in a visible location on the target's body.
+You mark the holy symbol of [Achaekek](achaekek-logm.md) in a visible location on the target's body.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is marked by Achaekek's symbol. For 1 minute, the first time per round that the target gains [persistent bleed damage](rules/conditions.md#Persistent%20Damage), they immediately take that amount of slashing damage as the mantis claws grow off the symbol and rake them.
+> - **Success** The target is marked by Achaekek's symbol. For 1 minute, the first time per round that the target gains [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage), they immediately take that amount of slashing damage as the mantis claws grow off the symbol and rake them.
 > - **Failure** As success, but the curse has an unlimited duration.
-> - **Critical Failure** As failure, but the DC on the target's flat check to remove [persistent bleed damage](rules/conditions.md#Persistent%20Damage) increases to 20 (15 with particularly effective assistance).
+> - **Critical Failure** As failure, but the DC on the target's flat check to remove [persistent bleed damage](archive/srd/pf2e/rules/conditions.md#Persistent%20Damage) increases to 20 (15 with particularly effective assistance).
 
 *Source: Lost Omens: Legends p. 58*

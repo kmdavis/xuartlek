@@ -6,10 +6,10 @@ tags:
 - trait/archetype
 aliases: ["Urgent Upwelling"]
 ---
-# Urgent Upwelling  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+# Urgent Upwelling  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Wellspring Mage Dedication](compendium/feats/wellspring-mage-dedication-som.md)
+- **Prerequisites**: [Wellspring Mage Dedication](wellspring-mage-dedication-som.md)
 - **Frequency**: once per 10 minutes
 - **Trigger** An enemy reduces you to 0 HP, an enemy critically hits you, or you critically fail a saving throw against an enemy's effect.
 - **Activity** Reaction

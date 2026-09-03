@@ -7,10 +7,10 @@ tags:
 aliases: ["Skittertalk"]
 ---
 # Skittertalk  *Feat 1*  
-[anadi](rules/traits/anadi-lome.md "Anadi Ancestry & Heritage Trait")  
+[anadi](anadi-lome.md "Anadi Ancestry & Heritage Trait")  
 
 
-You can ask questions of, receive answers from, and use the [Diplomacy](compendium/skills.md#Diplomacy) skill with spiders and other arachnids. The GM determines which creatures count for this ability.
+You can ask questions of, receive answers from, and use the [Diplomacy](skills.md#Diplomacy) skill with spiders and other arachnids. The GM determines which creatures count for this ability.
 
 *Source: Lost Omens: The Mwangi Expanse p. 106*  
 %% #compendium/src/pf2e/lome #trait/anadi %%

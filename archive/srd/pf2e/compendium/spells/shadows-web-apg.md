@@ -11,9 +11,9 @@ tags:
 aliases: ["Shadow's Web"]
 ---
 # Shadow's Web *Focus 7*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[evocation](evocation.md "Evocation School Trait")  [monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 30-foot burst
 - **Saving Throw**: Fortitude
 
@@ -21,9 +21,9 @@ Grasping darkness surges from you, dealing `14d4` negative damage. Each creature
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature takes half damage and is [enfeebled](rules/conditions.md#Enfeebled) for 1 round.
-> - **Failure** The creature takes full damage and is [enfeebled](rules/conditions.md#Enfeebled) for 1 round.
-> - **Critical Failure** The creature takes double damage and is [stunned](rules/conditions.md#Stunned), [enfeebled](rules/conditions.md#Enfeebled) for 1 round, and [immobilized](rules/conditions.md#Immobilized) for 1 round or until it [Escapes](rules/actions/escape.md), whichever comes first.
+> - **Success** The creature takes half damage and is [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 round.
+> - **Failure** The creature takes full damage and is [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 round.
+> - **Critical Failure** The creature takes double damage and is [stunned](archive/srd/pf2e/rules/conditions.md#Stunned), [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) for 1 round, and [immobilized](archive/srd/pf2e/rules/conditions.md#Immobilized) for 1 round or until it [Escapes](archive/srd/pf2e/rules/actions/escape.md), whichever comes first.
 
 **Heightened (+ 1)** The negative damage increases by `2d4`.
 

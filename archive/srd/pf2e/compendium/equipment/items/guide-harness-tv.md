@@ -8,7 +8,7 @@ tags:
 aliases: ["Guide Harness"]
 ---
 # Guide Harness *Item 1*  
-[companion](rules/traits/companion.md "Companion Item Trait")  
+[companion](archive/srd/pf2e/rules/traits/companion.md "Companion Item Trait")  
 
 - **Price** 5 gp
 - **Bulk** 1; **Usage** worn

@@ -6,12 +6,12 @@ tags:
 - trait/monk
 aliases: ["Align Ki"]
 ---
-# Align Ki  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[monk](rules/traits/monk.md "Monk Class Trait")  
+# Align Ki  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
 - **Prerequisites**: ki spells
 - **Frequency**: once per hour
-- **Trigger** You [Cast a Spell](rules/actions/cast-a-spell.md) that has the [monk](rules/traits/monk.md "Monk Class Trait") trait.
+- **Trigger** You [Cast a Spell](archive/srd/pf2e/rules/actions/cast-a-spell.md) that has the [monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait") trait.
 - **Activity** Reaction
 
 The power of your ki soothes your wounds and energizes you for battle. You regain Hit Points equal to your level plus your Wisdom modifier.

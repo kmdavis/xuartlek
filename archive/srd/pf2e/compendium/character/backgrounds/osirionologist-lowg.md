@@ -17,4 +17,4 @@ You might be a traveling professor, a member of a society like the Pathfinders o
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Occultism](compendium/skills.md#Occultism) skill and the [Ancient Osirion Lore](compendium/skills.md#Lore) skill. You gain the [Oddity Identification](compendium/feats/oddity-identification.md) skill feat.
+You're trained in the [Occultism](skills.md#Occultism) skill and the [Ancient Osirion Lore](skills.md#Lore) skill. You gain the [Oddity Identification](archive/srd/pf2e/compendium/feats/oddity-identification.md) skill feat.

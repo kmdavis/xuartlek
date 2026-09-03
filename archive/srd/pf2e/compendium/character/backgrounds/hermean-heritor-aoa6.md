@@ -15,4 +15,4 @@ With the restrictions on Hermean citizenship lifted, you may have fled the city 
 
 Choose two ability boosts. One must be in Constitution or Wisdom, and the other is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Legal Lore](compendium/skills.md#Lore) skill. You gain the [Multilingual](compendium/feats/multilingual.md) skill feat or the [Assurance](compendium/feats/assurance.md) skill feat for [Society](compendium/skills.md#Society).
+You're trained in the [Society](skills.md#Society) skill and the [Legal Lore](skills.md#Lore) skill. You gain the [Multilingual](archive/srd/pf2e/compendium/feats/multilingual.md) skill feat or the [Assurance](archive/srd/pf2e/compendium/feats/assurance.md) skill feat for [Society](skills.md#Society).

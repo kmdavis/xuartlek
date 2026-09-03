@@ -26,12 +26,12 @@ aliases: ["Vineshvakhi", "The Pain of Purity"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Intimidation
-- **Favored Weapon**: [longsword](compendium/equipment/items/longsword.md)
-- **Domains**: [duty](compendium/setting/domains.md#Duty), [lightning](compendium/setting/domains.md#Lightning), [pain](compendium/setting/domains.md#Pain), [protection](compendium/setting/domains.md#Protection)
-- **Alternate Domains**: [change](compendium/setting/domains.md#Change), [knowledge](compendium/setting/domains.md#Knowledge), [secrecy](compendium/setting/domains.md#Secrecy)
-- **Cleric Spells**: 1st: [mage armor](compendium/spells/mage-armor.md); 2nd: [enlarge](compendium/spells/enlarge.md); 6th: [chain lightning](compendium/spells/chain-lightning.md)
+- **Favored Weapon**: [longsword](archive/srd/pf2e/compendium/equipment/items/longsword.md)
+- **Domains**: [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [lightning](archive/srd/pf2e/compendium/setting/domains.md#Lightning), [pain](archive/srd/pf2e/compendium/setting/domains.md#Pain), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Alternate Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [knowledge](archive/srd/pf2e/compendium/setting/domains.md#Knowledge), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy)
+- **Cleric Spells**: 1st: [mage armor](mage-armor.md); 2nd: [enlarge](archive/srd/pf2e/compendium/spells/enlarge.md); 6th: [chain lightning](archive/srd/pf2e/compendium/spells/chain-lightning.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Vineshvakhi

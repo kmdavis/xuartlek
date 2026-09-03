@@ -20,8 +20,8 @@ aliases: ["Dagon", "The Shadow in the Sea"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [trident](compendium/equipment/items/trident.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [destruction](compendium/setting/domains.md#Destruction), [water](compendium/setting/domains.md#Water), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [hydraulic push](compendium/spells/hydraulic-push.md); 3rd: [feet to fins](compendium/spells/feet-to-fins.md); 6th: [chain lightning](compendium/spells/chain-lightning.md)
+- **Favored Weapon**: [trident](archive/srd/pf2e/compendium/equipment/items/trident.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [water](archive/srd/pf2e/compendium/setting/domains.md#Water), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [hydraulic push](archive/srd/pf2e/compendium/spells/hydraulic-push.md); 3rd: [feet to fins](archive/srd/pf2e/compendium/spells/feet-to-fins.md); 6th: [chain lightning](archive/srd/pf2e/compendium/spells/chain-lightning.md)

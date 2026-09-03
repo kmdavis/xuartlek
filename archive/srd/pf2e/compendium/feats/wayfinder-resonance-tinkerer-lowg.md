@@ -7,15 +7,15 @@ tags:
 aliases: ["Wayfinder Resonance Tinkerer"]
 ---
 # Wayfinder Resonance Tinkerer  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
+- **Prerequisites**: [Pathfinder Agent Dedication](pathfinder-agent-dedication-lowg.md)
 
-You can use the unusual resonance of your wayfinder to grant it additional effects. Choose one cantrip from the arcane, divine, occult, or primal list. You can activate your wayfinder to cast that cantrip at will. As normal, this cantrip is heightened to a spell level equal to half your level rounded up. Additionally, you can [Activate](rules/actions/activate-an-item.md) your wayfinder with a [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") (envision) activation to transform it into a nondescript pin or brooch to hide your affiliation with the Pathfinder Society. This transformation lasts for 1 hour.
+You can use the unusual resonance of your wayfinder to grant it additional effects. Choose one cantrip from the arcane, divine, occult, or primal list. You can activate your wayfinder to cast that cantrip at will. As normal, this cantrip is heightened to a spell level equal to half your level rounded up. Additionally, you can [Activate](activate-an-item.md) your wayfinder with a [>](chapter-9-playing-the-game.md#Actions "Single Action") (envision) activation to transform it into a nondescript pin or brooch to hide your affiliation with the Pathfinder Society. This transformation lasts for 1 hour.
 
 ## Wayfinder Resonance Tinkerer leads to...
 
-[Wayfinder Resonance Infiltrator](compendium/feats/wayfinder-resonance-infiltrator-lopsg.md)
+[Wayfinder Resonance Infiltrator](wayfinder-resonance-infiltrator-lopsg.md)
 
 ## Summary
 

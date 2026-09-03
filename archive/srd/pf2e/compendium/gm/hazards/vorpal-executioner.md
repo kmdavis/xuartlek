@@ -8,14 +8,14 @@ tags:
 aliases: ["Vorpal Executioner"]
 ---
 # Vorpal Executioner *Hazard 19*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 43 expert  
 
 A wickedly sharp saw blade descends and travels along grooves in a complex path throughout the room, attempting to decapitate everyone within.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 41 (expert) at four different junctions to jam all the saw blade's possible paths, preventing it from traveling through the room.  
+- **Disable** [Thievery](skills.md#Thievery) DC 41 (expert) at four different junctions to jam all the saw blade's possible paths, preventing it from traveling through the room.  
 
 - **AC** 43, **Fort** +32, **Ref** +32
 - **Hardness** 30, **HP** 120 (BT 60) per junction

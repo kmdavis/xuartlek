@@ -9,12 +9,12 @@ tags:
 aliases: ["Infiltrator's Accessory"]
 ---
 # Infiltrator's Accessory *Item 5*  
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 150 gp
 - **Bulk** 1; **Usage** held in 1 hand
 
-This elegant +1 striking sword cane serves equally well as a fashionable accessory and [hidden](rules/conditions.md#Hidden) weapon suitable for highsociety events where weapons aren't typically permitted.
+This elegant +1 striking sword cane serves equally well as a fashionable accessory and [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) weapon suitable for highsociety events where weapons aren't typically permitted.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

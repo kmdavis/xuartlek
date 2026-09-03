@@ -9,14 +9,14 @@ tags:
 aliases: ["Cordon Alarm"]
 ---
 # Cordon Alarm *Hazard 2*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 18 trained  
 
-A hempen rope tied between trees emanates an [invisible](rules/conditions.md#Invisible), cylindrical barrier that sounds an alarm when crossed.
+A hempen rope tied between trees emanates an [invisible](archive/srd/pf2e/rules/conditions.md#Invisible), cylindrical barrier that sounds an alarm when crossed.
 
-- **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) (trained) to move the rope without setting off the alarm, or dispel magic (1st level; counteract DC 16) to disable the rope's magic  
+- **Disable** DC 18 [Thievery](skills.md#Thievery) (trained) to move the rope without setting off the alarm, or dispel magic (1st level; counteract DC 16) to disable the rope's magic  
 
 ```ad-embed-ability
 title: **Alarm** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([abjuration](rules/traits/abjuration.md), [primal](rules/traits/primal.md))

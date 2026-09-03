@@ -12,7 +12,7 @@ tags:
 aliases: ["Poi"]
 ---
 # Poi *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [backswing](rules/traits/backswing.md "Backswing Weapon Trait")  [finesse](rules/traits/finesse.md "Finesse Weapon Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [backswing](archive/srd/pf2e/rules/traits/backswing.md "Backswing Weapon Trait")  [finesse](archive/srd/pf2e/rules/traits/finesse.md "Finesse Weapon Trait")  [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 2 sp
 - **Bulk** L

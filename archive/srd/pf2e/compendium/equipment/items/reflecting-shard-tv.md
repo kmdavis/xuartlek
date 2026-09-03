@@ -12,14 +12,14 @@ tags:
 aliases: ["Reflecting Shard"]
 ---
 # Reflecting Shard *Item 13+*  
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [talisman](rules/traits/talisman.md "Talisman Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [talisman](archive/srd/pf2e/rules/traits/talisman.md "Talisman Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Bulk** —; **Usage** affixed to a shield
 - **Activate** command; **Trigger** You are targeted by a spell of 5th level or lower; **Requirements** You're a master in
 
-[Athletics](compendium/skills.md#Athletics), and you have the affixed shield raised.
+[Athletics](skills.md#Athletics), and you have the affixed shield raised.
 
-This mirrored metal fragment is bolted or welded to the face of the affixed shield. When you Activate it, you attempt to reflect the triggering spell back at its caster with spell turning, using your [Athletics](compendium/skills.md#Athletics) modifier for the counteract check. The talisman's counteract level is 7th.
+This mirrored metal fragment is bolted or welded to the face of the affixed shield. When you Activate it, you attempt to reflect the triggering spell back at its caster with spell turning, using your [Athletics](skills.md#Athletics) modifier for the counteract check. The talisman's counteract level is 7th.
 
 ---
 

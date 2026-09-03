@@ -20,8 +20,8 @@ aliases: ["Lahkgya", "Patron of Monkeys"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Intelligence
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Thievery
-- **Favored Weapon**: jaws or [battle axe](compendium/equipment/items/battle-axe.md)
-- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [nature](compendium/setting/domains.md#Nature), [swarm](compendium/setting/domains.md#Swarm), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 3rd: [mad monkeys](compendium/spells/mad-monkeys-apg.md); 4th: [confusion](compendium/spells/confusion.md)
+- **Favored Weapon**: jaws or [battle axe](archive/srd/pf2e/compendium/equipment/items/battle-axe.md)
+- **Domains**: [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [swarm](archive/srd/pf2e/compendium/setting/domains.md#Swarm), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [fleet step](archive/srd/pf2e/compendium/spells/fleet-step.md); 3rd: [mad monkeys](mad-monkeys-apg.md); 4th: [confusion](archive/srd/pf2e/compendium/spells/confusion.md)

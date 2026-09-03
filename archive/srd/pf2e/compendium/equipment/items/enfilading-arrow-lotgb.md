@@ -11,11 +11,11 @@ tags:
 aliases: ["Enfilading Arrow"]
 ---
 # Enfilading Arrow *Item 9*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 125 gp
-- **Ammunition** [Arrow](compendium/equipment/items/arrow.md)
-- **Activate** [Interact](rules/actions/interact.md)
+- **Ammunition** [Arrow](arrow.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
 This arrow splits at the far end of the shaft into five branching arrowheads, making it impractical for single targets but deadly in combat.
 

@@ -13,10 +13,10 @@ tags:
 aliases: ["Localized Quake"]
 ---
 # Localized Quake *Focus 4*   
-[cleric](rules/traits/cleric.md "Cleric Class Trait")  [earth](rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [earth](archive/srd/pf2e/rules/traits/earth.md "Earth Energy & Element Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [earth](compendium/setting/domains.md#Earth)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot emanation or 15-foot cone
 - **Saving Throw**: Reflex
 
@@ -25,8 +25,8 @@ You shake the earth, toppling nearby creatures. Choose whether the spell's area 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
 > - **Success** The creature takes half damage.
-> - **Failure** The creature takes full damage and falls [prone](rules/conditions.md#Prone).
-> - **Critical Failure** The creature takes double damage and falls [prone](rules/conditions.md#Prone).
+> - **Failure** The creature takes full damage and falls [prone](archive/srd/pf2e/rules/conditions.md#Prone).
+> - **Critical Failure** The creature takes double damage and falls [prone](archive/srd/pf2e/rules/conditions.md#Prone).
 
 **Heightened (+ 1)** Increase the damage by `2d6`.
 

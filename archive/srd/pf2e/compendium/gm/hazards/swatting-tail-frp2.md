@@ -8,14 +8,14 @@ tags:
 aliases: ["Swatting Tail"]
 ---
 # Swatting Tail *Hazard 18*  
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  
+[environmental](archive/srd/pf2e/rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](kaiju-frp2.md "Kaiju  Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 10  
 
 Mogaru's tail sweeps forth, causing an arc of devastation in a 60-foot cone.
 
-- **Disable** DC 45 [Performance](compendium/skills.md#Performance) (legendary) or DC 48 [Deception](compendium/skills.md#Deception) (legendary) to momentarily divert Mogaru's attention.  
+- **Disable** DC 45 [Performance](skills.md#Performance) (legendary) or DC 48 [Deception](skills.md#Deception) (legendary) to momentarily divert Mogaru's attention.  
 
 ```ad-embed-ability
 title: **Tail Swat** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

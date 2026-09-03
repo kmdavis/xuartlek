@@ -11,12 +11,12 @@ tags:
 aliases: ["Troubadour's Cap"]
 ---
 # Troubadour's Cap *Item 17*  
-[apex](rules/traits/apex.md "Apex Item Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[apex](archive/srd/pf2e/rules/traits/apex.md "Apex Item Trait")  [enchantment](enchantment.md "Enchantment School Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 15000 gp
 - **Bulk** —; **Usage** worn cap
 
-This jaunty cap can take the form and color of any type of hat you wish upon investing the item, but it always has a peacock feather jutting out from one side. You gain a +2 item bonus to [Diplomacy](compendium/skills.md#Diplomacy) and [Performance](compendium/skills.md#Performance) checks while wearing the cap.
+This jaunty cap can take the form and color of any type of hat you wish upon investing the item, but it always has a peacock feather jutting out from one side. You gain a +2 item bonus to [Diplomacy](skills.md#Diplomacy) and [Performance](skills.md#Performance) checks while wearing the cap.
 
 When you invest the cap, you either increase your Charisma score by 2 or increase it to 18, whichever is higher.
 

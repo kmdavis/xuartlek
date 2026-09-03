@@ -8,14 +8,14 @@ tags:
 aliases: ["Spike Launcher"]
 ---
 # Spike Launcher *Hazard 0*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 19  
 
-A jagged spike of metal shoots from a [hidden](rules/conditions.md#Hidden) launcher.
+A jagged spike of metal shoots from a [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) launcher.
 
-- **Disable** DC 16 [Thievery](compendium/skills.md#Thievery) to disable one of the four launchers.  
+- **Disable** DC 16 [Thievery](skills.md#Thievery) to disable one of the four launchers.  
 
 ```ad-embed-ability
 title: **or DC** 12 [Acrobatics](compendium/skills.md#Acrobatics) to step over a trip line (this doesn't disarm the trap, but avoids triggering it) AC 16; Fort +9, Ref +3 Hardness 3; HP 16 (BT 8); Immunities critical hits, object immunities, precision damage.

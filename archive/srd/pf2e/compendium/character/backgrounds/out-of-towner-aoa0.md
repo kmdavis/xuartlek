@@ -17,4 +17,4 @@ You're excited to meet new people and cultures, and answering the Call for Heroe
 
 Choose two ability boosts. One must be Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Diplomacy](compendium/skills.md#Diplomacy) skill and one of the following [Lore](compendium/skills.md#Lore) skills thematically associated with the members of the ancestry you grew up with: Dwarf, Elf, Gnome, Goblin, or Halfling. You gain the [Hobnobber](compendium/feats/hobnobber.md) skill feat.
+You're trained in the [Diplomacy](skills.md#Diplomacy) skill and one of the following [Lore](skills.md#Lore) skills thematically associated with the members of the ancestry you grew up with: Dwarf, Elf, Gnome, Goblin, or Halfling. You gain the [Hobnobber](archive/srd/pf2e/compendium/feats/hobnobber.md) skill feat.

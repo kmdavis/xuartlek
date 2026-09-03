@@ -11,7 +11,7 @@ tags:
 aliases: ["Dart Umbrella"]
 ---
 # Dart Umbrella *Item 0*  
-[agile](rules/traits/agile.md "Agile Weapon Trait")  [concealable](rules/traits/concealable-g-g.md "Concealable Weapon Trait")  [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[agile](archive/srd/pf2e/rules/traits/agile.md "Agile Weapon Trait")  [concealable](concealable-g-g.md "Concealable Weapon Trait")  [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1 gp
 - **Bulk** 1

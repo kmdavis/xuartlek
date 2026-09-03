@@ -7,7 +7,7 @@ tags:
 aliases: ["Vishkanya Weapon Arts"]
 ---
 # Vishkanya Weapon Arts  *Feat 5*  
-[vishkanya](rules/traits/vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
+[vishkanya](vishkanya-loil.md "Vishkanya Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Vishkanya Weapon Familiarity
 

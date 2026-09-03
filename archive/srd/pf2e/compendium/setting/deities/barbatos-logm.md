@@ -20,8 +20,8 @@ aliases: ["Barbatos", "The Bearded Lord"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [staff](compendium/equipment/items/staff.md)
-- **Domains**: [magic](compendium/setting/domains.md#Magic), [nature](compendium/setting/domains.md#Nature), [travel](compendium/setting/domains.md#Travel), [tyranny](compendium/setting/domains.md#Tyranny)
-- **Cleric Spells**: 1st: [magic fang](compendium/spells/magic-fang.md); 3rd: [paralyze](compendium/spells/paralyze.md); 4th: [clairvoyance](compendium/spells/clairvoyance.md)
+- **Favored Weapon**: [staff](archive/srd/pf2e/compendium/equipment/items/staff.md)
+- **Domains**: [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [travel](archive/srd/pf2e/compendium/setting/domains.md#Travel), [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny)
+- **Cleric Spells**: 1st: [magic fang](magic-fang.md); 3rd: [paralyze](archive/srd/pf2e/compendium/spells/paralyze.md); 4th: [clairvoyance](archive/srd/pf2e/compendium/spells/clairvoyance.md)

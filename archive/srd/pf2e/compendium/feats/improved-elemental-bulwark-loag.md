@@ -7,9 +7,9 @@ tags:
 aliases: ["Improved Elemental Bulwark"]
 ---
 # Improved Elemental Bulwark  *Feat 13*  
-[suli](rules/traits/suli-b2.md "Suli Ancestry & Heritage Trait")  
+[suli](suli-b2.md "Suli Ancestry & Heritage Trait")  
 
-- **Prerequisites**: [Elemental Bulwark](compendium/feats/elemental-bulwark-loag.md)
+- **Prerequisites**: [Elemental Bulwark](elemental-bulwark-loag.md)
 
 You gain resistance 10 from Elemental Bulwark instead of 5.
 

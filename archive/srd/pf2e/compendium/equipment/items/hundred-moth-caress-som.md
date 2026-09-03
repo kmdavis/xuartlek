@@ -10,12 +10,12 @@ tags:
 aliases: ["Hundred-moth Caress"]
 ---
 # Hundred-moth Caress *Item 8*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [negative](negative.md "Negative Energy & Element Trait")  
 
 - **Price** 475 gp
 - **Bulk** 2; **Usage** held in 2 hands
 
-The handles of this +1 striking scythe are made from a dull, gray wood of bone-like consistency, and when you slice with it, a fluttering gust of hundreds of moths' wingbeats fills the air. If you're a devotee of [Urgathoa](compendium/setting/deities/urgathoa.md), you can use this scythe as a divine focus, and with every [Strike](rules/actions/strike.md), it exudes a pallid cloud of powdery dust.
+The handles of this +1 striking scythe are made from a dull, gray wood of bone-like consistency, and when you slice with it, a fluttering gust of hundreds of moths' wingbeats fills the air. If you're a devotee of [Urgathoa](urgathoa.md), you can use this scythe as a divine focus, and with every [Strike](archive/srd/pf2e/rules/actions/strike.md), it exudes a pallid cloud of powdery dust.
 
 ```ad-embed-ability
 title: **Activate** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") command ([divine](rules/traits/divine.md), [necromancy](rules/traits/necromancy.md), [negative](rules/traits/negative.md))

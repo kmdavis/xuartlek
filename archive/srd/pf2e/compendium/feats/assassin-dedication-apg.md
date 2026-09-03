@@ -8,9 +8,9 @@ tags:
 aliases: ["Assassin Dedication"]
 ---
 # Assassin Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
-- **Prerequisites**: [Alchemical Crafting](compendium/feats/alchemical-crafting.md); trained in [Crafting](compendium/skills.md#Crafting), [Deception](compendium/skills.md#Deception), and [Stealth](compendium/skills.md#Stealth)
+- **Prerequisites**: [Alchemical Crafting](archive/srd/pf2e/compendium/feats/alchemical-crafting.md); trained in [Crafting](skills.md#Crafting), [Deception](skills.md#Deception), and [Stealth](skills.md#Stealth)
 
 You've trained to assassinate your foes, and you do so with tenacity and precision. You gain the Mark for Death activity.
 
@@ -28,7 +28,7 @@ If the weapon or unarmed attack already has the [deadly](rules/traits/deadly.md 
 
 ## Assassin Dedication leads to...
 
-[Angel Of Death](compendium/feats/angel-of-death-apg.md), [Assassinate](compendium/feats/assassinate-apg.md), [Expert Backstabber](compendium/feats/expert-backstabber-apg.md), [Surprise Attack](compendium/feats/surprise-attack-apg.md), [Angel of Vindication](compendium/feats/angel-of-vindication-lokl.md), [Eclipsed Vitality](compendium/feats/eclipsed-vitality-lokl.md)
+[Angel Of Death](angel-of-death-apg.md), [Assassinate](assassinate-apg.md), [Expert Backstabber](expert-backstabber-apg.md), [Surprise Attack](surprise-attack-apg.md), [Angel of Vindication](angel-of-vindication-lokl.md), [Eclipsed Vitality](eclipsed-vitality-lokl.md)
 
 ## Summary
 

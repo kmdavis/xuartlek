@@ -12,12 +12,12 @@ tags:
 aliases: ["Hunter's Brooch"]
 ---
 # Hunter's Brooch *Item 4*  
-[divine](rules/traits/divine.md "Divine Tradition Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [positive](positive.md "Positive Energy & Element Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 80 gp
 - **Bulk** L; **Usage** worn
 
-While wearing this silver religious symbol of [Erastil](compendium/setting/deities/erastil.md), you can cast the [disrupt undead](compendium/spells/disrupt-undead.md) cantrip as an innate divine spell.
+While wearing this silver religious symbol of [Erastil](erastil.md), you can cast the [disrupt undead](disrupt-undead.md) cantrip as an innate divine spell.
 
 ```ad-embed-ability
 title: **Activate** [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") command, [Interact](rules/actions/interact.md)

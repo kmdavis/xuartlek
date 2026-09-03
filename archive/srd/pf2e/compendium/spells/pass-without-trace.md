@@ -8,14 +8,14 @@ tags:
 aliases: ["Pass Without Trace"]
 ---
 # Pass Without Trace *Spell 1*   
-[abjuration](rules/traits/abjuration.md "Abjuration School Trait")  
+[abjuration](abjuration.md "Abjuration School Trait")  
 
-- **Traditions** [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 1 hour
 
-You obscure the tracks you leave behind and make it harder for others to find you. The DC of checks to [Track](rules/actions/track.md) you gains a +4 status bonus or is equal to your spell DC, whichever results in a higher DC. You can benefit from only one [pass without trace](compendium/spells/pass-without-trace.md) spell at a time.
+You obscure the tracks you leave behind and make it harder for others to find you. The DC of checks to [Track](archive/srd/pf2e/rules/actions/track.md) you gains a +4 status bonus or is equal to your spell DC, whichever results in a higher DC. You can benefit from only one [pass without trace](pass-without-trace.md) spell at a time.
 
 **Heightened (2nd)** The duration increases to 8 hours.
 

@@ -15,4 +15,4 @@ You apprenticed under a necromancer—a hard education in a field where a cadave
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [Arcana](compendium/skills.md#Arcana) skill and the [Necromancy Lore](compendium/skills.md#Lore) skill. You gain the [Quick Identification](compendium/feats/quick-identification.md) skill feat.
+You're trained in the [Arcana](skills.md#Arcana) skill and the [Necromancy Lore](skills.md#Lore) skill. You gain the [Quick Identification](archive/srd/pf2e/compendium/feats/quick-identification.md) skill feat.

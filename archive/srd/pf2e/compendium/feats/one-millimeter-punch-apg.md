@@ -7,9 +7,9 @@ tags:
 aliases: ["One-millimeter Punch"]
 ---
 # One-millimeter Punch  *Feat 16*  
-[monk](rules/traits/monk.md "Monk Class Trait")  
+[monk](archive/srd/pf2e/rules/traits/monk.md "Monk Class Trait")  
 
-- **Prerequisites**: [One-Inch Punch](compendium/feats/one-inch-punch-apg.md)
+- **Prerequisites**: [One-Inch Punch](one-inch-punch-apg.md)
 
 Your punches have incredible force and control. When you damage a target using One-Inch Punch, you can focus your ki to send the foe flying. If you do, the target must attempt a Fortitude save against your class DC.
 

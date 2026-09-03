@@ -9,13 +9,13 @@ tags:
 aliases: ["Scizore of the Crab"]
 ---
 # Scizore of the Crab *Item 5*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 150 gp
 - **Craft Requirements** The initial raw materials must include a claw from a giant crab (Bestiary 2 55) or similar creature.
 - **Bulk** 1; **Usage** worn on 1 hand
 
-A scizore of the crab is a +1 scizore (page 25) that has the [grapple](rules/traits/grapple.md "Grapple Weapon Trait") trait in addition to its normal weapon traits.
+A scizore of the crab is a +1 scizore (page 25) that has the [grapple](archive/srd/pf2e/rules/traits/grapple.md "Grapple Weapon Trait") trait in addition to its normal weapon traits.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

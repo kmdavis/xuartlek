@@ -8,10 +8,10 @@ tags:
 aliases: ["Moth's Supper"]
 ---
 # Moth's Supper *Spell 3*   
-[necromancy](rules/traits/necromancy.md "Necromancy School Trait")  
+[necromancy](necromancy.md "Necromancy School Trait")  
 
-- **Traditions** [occult](rules/traits/occult.md "Occult Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Traditions** [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 1 hour
 
@@ -21,6 +21,6 @@ You sigh, and your breath transforms into delicate, black-winged butterflies and
 - The first time during the duration when someone successfully Treats your Wounds, you regain an additional `4d4` Hit Points.
 - You gain an imprecise sense out to 30 feet that senses only freshly spilled blood and rotten flesh.
 
-**Heightened (+ 1)** The amount of Hit Points healed every 10 minutes increases by `1d4` and the amount of Hit Points regained from the first [Treat Wounds](rules/actions/treat-wounds.md) increases by `2d4`.
+**Heightened (+ 1)** The amount of Hit Points healed every 10 minutes increases by `1d4` and the amount of Hit Points regained from the first [Treat Wounds](archive/srd/pf2e/rules/actions/treat-wounds.md) increases by `2d4`.
 
 *Source: Dark Archive p. 106*

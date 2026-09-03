@@ -9,8 +9,8 @@ tags:
 - trait/primal
 aliases: ["Consume Power"]
 ---
-# Consume Power  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
-[impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [metal](rules/traits/metal-roe.md "Metal Energy & Element Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  
+# Consume Power  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 6*  
+[impulse](impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](kineticist-roe.md "Kineticist Class Trait")  [metal](metal-roe.md "Metal Energy & Element Trait")  [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")  
 
 - **Trigger** You would take acid, electricity, fire, or sonic damage.
 - **Activity** Reaction

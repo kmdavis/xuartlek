@@ -7,9 +7,9 @@ tags:
 aliases: ["Mysterious Breadth"]
 ---
 # Mysterious Breadth  *Feat 8*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Oracle Spellcasting](compendium/feats/basic-oracle-spellcasting-apg.md)
+- **Prerequisites**: [Basic Oracle Spellcasting](basic-oracle-spellcasting-apg.md)
 
 Increase the spell slots you gain from oracle archetype feats by 1 for each spell level other than your two highest spell levels.
 

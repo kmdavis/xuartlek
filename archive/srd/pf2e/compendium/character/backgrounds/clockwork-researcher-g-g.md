@@ -15,4 +15,4 @@ New forms of clockwork technology are incredibly interesting to you, and you've 
 
 You might eventually develop a new prototype machine or find a way to make related technologies practical enough for everyone to benefit. Though before you do, you must continue your research! Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [Society](compendium/skills.md#Society) skill and the [Engineering Lore](compendium/skills.md#Lore) skill. You gain the [Eye for Numbers](compendium/feats/eye-for-numbers-apg.md) skill feat.
+You're trained in the [Society](skills.md#Society) skill and the [Engineering Lore](skills.md#Lore) skill. You gain the [Eye for Numbers](eye-for-numbers-apg.md) skill feat.

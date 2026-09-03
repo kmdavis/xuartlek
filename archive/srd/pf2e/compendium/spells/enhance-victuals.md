@@ -8,9 +8,9 @@ tags:
 aliases: ["Enhance Victuals"]
 ---
 # Enhance Victuals *Spell 2*   
-[transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[transmutation](transmutation.md "Transmutation School Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait"), [primal](rules/traits/primal.md "Primal Tradition Trait")
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait"), [primal](archive/srd/pf2e/rules/traits/primal.md "Primal Tradition Trait")
 - **Cast** 1 minute 
 - **Range**: touch
 - **Targets**: up to 1 gallon of non-magical water or up to 5 pounds of food

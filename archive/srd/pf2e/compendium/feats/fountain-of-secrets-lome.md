@@ -6,13 +6,13 @@ tags:
 - trait/shisk
 aliases: ["Fountain Of Secrets"]
 ---
-# Fountain Of Secrets  [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") *Feat 17*  
-[shisk](rules/traits/shisk-lome.md "Shisk Ancestry & Heritage Trait")  
+# Fountain Of Secrets  [F](chapter-9-playing-the-game.md#Actions "Free Action") *Feat 17*  
+[shisk](shisk-lome.md "Shisk Ancestry & Heritage Trait")  
 
 - **Frequency**: once per round
 - **Activity** Free Action
 
-You constantly remember details about the world. You attempt a check to [Recall Knowledge](rules/actions/recall-knowledge.md). If you succeed, you gain additional information or context. If you critically succeed, at the GM's discretion you might gain even more additional information or context than normal.
+You constantly remember details about the world. You attempt a check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md). If you succeed, you gain additional information or context. If you critically succeed, at the GM's discretion you might gain even more additional information or context than normal.
 
 Shisk Enclaves Most shisks can be found in small communities burrowed into the Barrier Wall, existing in caverns and tunnels that riddle the mountains from peak to base. A few scattered enclaves can be found in the Bandu Hills—the dry and arid region well-suited to shisk tastes.
 

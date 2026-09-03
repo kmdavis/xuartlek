@@ -20,8 +20,8 @@ aliases: ["Sun Wukong", "The Monkey King"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Acrobatics
-- **Favored Weapon**: [bo staff](compendium/equipment/items/bo-staff.md)
-- **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [might](compendium/setting/domains.md#Might), [nature](compendium/setting/domains.md#Nature), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [jump](compendium/spells/jump.md); 3rd: [mad monkeys](compendium/spells/mad-monkeys-apg.md); 4th: [creation](compendium/spells/creation.md)
+- **Favored Weapon**: [bo staff](archive/srd/pf2e/compendium/equipment/items/bo-staff.md)
+- **Domains**: [indulgence](archive/srd/pf2e/compendium/setting/domains.md#Indulgence), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery)
+- **Cleric Spells**: 1st: [jump](archive/srd/pf2e/compendium/spells/jump.md); 3rd: [mad monkeys](mad-monkeys-apg.md); 4th: [creation](archive/srd/pf2e/compendium/spells/creation.md)

@@ -7,11 +7,11 @@ tags:
 aliases: ["Steadfast Ally"]
 ---
 # Steadfast Ally  *Feat 13*  
-[shoony](rules/traits/shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
+[shoony](shoony-ec3.md "Shoony Ancestry & Heritage Trait")  
 
 - **Prerequisites**: Loyal Empath
 
-Your presence alone is enough to provide your allies with emotional support. You can use the [Aid](rules/actions/aid.md) reaction to grant a bonus to another creature's Will saving throw even when you haven't prepared to help.
+Your presence alone is enough to provide your allies with emotional support. You can use the [Aid](archive/srd/pf2e/rules/actions/aid.md) reaction to grant a bonus to another creature's Will saving throw even when you haven't prepared to help.
 
 *Source: Extinction Curse #3: Life's Long Shadows p. 73*  
 %% #compendium/src/pf2e/ec3 #trait/shoony %%

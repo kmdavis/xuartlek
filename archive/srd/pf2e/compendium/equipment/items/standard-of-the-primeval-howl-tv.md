@@ -10,12 +10,12 @@ tags:
 aliases: ["Standard of the Primeval Howl"]
 ---
 # Standard of the Primeval Howl *Item 10*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  
 
 - **Price** 900 gp
 - **Bulk** 1; **Usage** held in 1 hand
 
-These standards are always constructed from uncut wood and a leather banner painted with the visage of a snarling beast—a wolf, boar, bear, lion, dragon, or similarly imposing creature. And while it might become lost on a battlefield scattered with gaudier standards, its effect bolsters those around a competent leader. When carrying this banner, you gain a +1 item bonus to [Intimidation](compendium/skills.md#Intimidation) checks and initiative rolls, and creatures in a 20-foot emanation also gain a +1 item bonus to initiative checks.
+These standards are always constructed from uncut wood and a leather banner painted with the visage of a snarling beast—a wolf, boar, bear, lion, dragon, or similarly imposing creature. And while it might become lost on a battlefield scattered with gaudier standards, its effect bolsters those around a competent leader. When carrying this banner, you gain a +1 item bonus to [Intimidation](skills.md#Intimidation) checks and initiative rolls, and creatures in a 20-foot emanation also gain a +1 item bonus to initiative checks.
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") command

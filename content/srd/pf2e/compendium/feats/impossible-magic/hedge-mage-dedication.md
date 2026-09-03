@@ -1,0 +1,31 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e/impossible-magic
+- trait/archetype
+- trait/dedication
+- feat/level/2
+aliases: ["Hedge Mage Dedication"]
+aon_id: "feat-9326"
+source: "Impossible Magic"
+---
+
+# Hedge Mage Dedication  *Feat 2*
+
+`Archetype`  `Dedication`
+
+- **Archetype**: Hedge Mage
+- **Prerequisites**: Intelligence +2 or Wisdom +2
+
+The Universe is your laboratory and altar, and the world your workshop and study. Grounding your theoretical studies in honest labor, you work with the mundane to draw forth their hidden magic. When you take this dedication, choose Arcana, Nature, Occultism, or Religion. You become trained in that skill, or you become expert if you were already trained. You also gain a keepsake that helps your magical studies; this keepsake is something that has perhaps been handed down to you but to which you’ve contributed a few personal touches, though it can be anything appropriate to your personal magical style. Sample keepsakes include a folio or binder of magical observations, a walking stick with mnemonic grooves, a bracelet of assorted charms and baubles, or a planchette carved into shape of a coffin. If it’s destroyed or lost, you can create a new keepsake with 1 day of downtime.
+
+You gain the Cast a Spell activity. You’re trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for hedge mage archetype spells is your choice of Intelligence or Wisdom, and they are hedge mage spells of a tradition associated with the skill chosen for this dedication (arcane for Arcana, primal for Nature, occult for Occultism, and divine for Religion).
+
+Your keepsake holds 4 common cantrips of your choice from your appropriate tradition. You prepare spells each day by meditating with your keepsake. You can prepare two cantrips from your keepsake each day. You can only add cantrips to your keepsake with the Learn a Spell activity or by other similar means.
+
+### Hedge Mage Dedication leads to...
+
+Basic Hedge Mage Spellcasting, Community Needs, Humble Spell, Keepsake of Power, Peer Past the Hedge, Practical Magic, Tender Ministrations
+
+*Source: Impossible Magic p. 94*

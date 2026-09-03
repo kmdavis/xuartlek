@@ -12,11 +12,11 @@ tags:
 aliases: ["Holy Cascade"]
 ---
 # Holy Cascade *Spell 4*   
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [good](rules/traits/good.md "Good Alignment Trait")  [positive](rules/traits/positive.md "Positive Energy & Element Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  
+[evocation](evocation.md "Evocation School Trait")  [good](good.md "Good Alignment Trait")  [positive](positive.md "Positive Energy & Element Trait")  [water](archive/srd/pf2e/rules/traits/water.md "Water Energy & Element Trait")  
 
-- **Traditions** [divine](rules/traits/divine.md "Divine Tradition Trait")
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
-- **Cost**: one vial of [holy water](compendium/equipment/items/holy-water.md)
+- **Traditions** [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cost**: one vial of [holy water](archive/srd/pf2e/compendium/equipment/items/holy-water.md)
 - **Range**: 500 foot
 - **Area**: 20-foot burst
 - **Saving Throw**:  basic Reflex

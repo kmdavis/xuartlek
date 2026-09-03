@@ -20,8 +20,8 @@ aliases: ["Soralyon", "The Mystic Angel"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Intelligence
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Arcana
-- **Favored Weapon**: [pick](compendium/equipment/items/pick.md)
-- **Domains**: [creation](compendium/setting/domains.md#Creation), [earth](compendium/setting/domains.md#Earth), [magic](compendium/setting/domains.md#Magic), [protection](compendium/setting/domains.md#Protection)
-- **Cleric Spells**: 1st: [summon construct](compendium/spells/summon-construct.md); 3rd: [meld into stone](compendium/spells/meld-into-stone.md); 4th: [stoneskin](compendium/spells/stoneskin.md)
+- **Favored Weapon**: [pick](archive/srd/pf2e/compendium/equipment/items/pick.md)
+- **Domains**: [creation](archive/srd/pf2e/compendium/setting/domains.md#Creation), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [summon construct](archive/srd/pf2e/compendium/spells/summon-construct.md); 3rd: [meld into stone](meld-into-stone.md); 4th: [stoneskin](stoneskin.md)

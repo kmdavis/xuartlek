@@ -7,8 +7,8 @@ tags:
 - trait/alchemist
 aliases: ["Mutagenic Flashback"]
 ---
-# Mutagenic Flashback [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  
+# Mutagenic Flashback [F](chapter-9-playing-the-game.md#Actions "Free Action")
+[alchemist](archive/srd/pf2e/rules/traits/alchemist.md "Alchemist Class Trait")  
 *Source: Core Rulebook p. 73*  
 
 **Class** alchemist; **Subclass** Mutagenist

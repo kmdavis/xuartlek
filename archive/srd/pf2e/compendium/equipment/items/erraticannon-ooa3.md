@@ -10,14 +10,14 @@ tags:
 aliases: ["Erraticannon"]
 ---
 # Erraticannon *Item 9*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 700 gp
 - **Bulk** 1; **Usage** held in 1 hand
 
 This +1 striking hand cannon (Guns & Gears 153) is festooned with so many add-ons and modifications it's barely recognizable as a firearm. A large hopper at the top of the gun allows any type of ammunition (including arrows, bolts, stone bullets, and firearm rounds) to be fed into the machine, which converts the ammunition into blasts of raw, destructive energy.
 
-Each time you attack with the weapon, roll `1d8` to determine the damage type of the [Strike](rules/actions/strike.md)—all of the erraticannon's weapon damage is converted to that damage type for the [Strike](rules/actions/strike.md). Additionally, roll another d8, and the erraticannon deals `1d6` additional damage of this second damage type. d8 Damage Type 1 Acid 2 Cold 3 Electricity 4 Fire 5 Sonic 6 Bludgeoning 7 Piercing 8 Slashing
+Each time you attack with the weapon, roll `1d8` to determine the damage type of the [Strike](archive/srd/pf2e/rules/actions/strike.md)—all of the erraticannon's weapon damage is converted to that damage type for the [Strike](archive/srd/pf2e/rules/actions/strike.md). Additionally, roll another d8, and the erraticannon deals `1d6` additional damage of this second damage type. d8 Damage Type 1 Acid 2 Cold 3 Electricity 4 Fire 5 Sonic 6 Bludgeoning 7 Piercing 8 Slashing
 
 ```ad-embed-ability
 title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")

@@ -8,14 +8,14 @@ tags:
 aliases: ["Poisoned Lock"]
 ---
 # Poisoned Lock *Hazard 1*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 17 trained  
 
-A spring-loaded, poisoned spine is [hidden](rules/conditions.md#Hidden) near the keyhole of a lock.
+A spring-loaded, poisoned spine is [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) near the keyhole of a lock.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 17 (trained) on the spring mechanism.  
+- **Disable** [Thievery](skills.md#Thievery) DC 17 (trained) on the spring mechanism.  
 
 - **AC** 15, **Fort** +8, **Ref** +4
 - 

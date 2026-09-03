@@ -16,4 +16,4 @@ You dedicated yourself to intense training and rigorous study to become a great 
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in your choice of the [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics) skill. You gain a skill feat: [Cat Fall](compendium/feats/cat-fall.md) if you chose [Acrobatics](compendium/skills.md#Acrobatics) or [Quick Jump](compendium/feats/quick-jump.md) if you chose [Athletics](compendium/skills.md#Athletics). You're also trained in the [Warfare Lore](compendium/skills.md#Lore) skill.
+You're trained in your choice of the [Acrobatics](skills.md#Acrobatics) or [Athletics](skills.md#Athletics) skill. You gain a skill feat: [Cat Fall](archive/srd/pf2e/compendium/feats/cat-fall.md) if you chose [Acrobatics](skills.md#Acrobatics) or [Quick Jump](archive/srd/pf2e/compendium/feats/quick-jump.md) if you chose [Athletics](skills.md#Athletics). You're also trained in the [Warfare Lore](skills.md#Lore) skill.

@@ -11,7 +11,7 @@ tags:
 aliases: ["Remove Presence"]
 ---
 # Remove Presence  *Feat 8*  
-[amp](rules/traits/amp-da.md "Amp Feat Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
+[amp](amp-da.md "Amp Feat Trait")  [illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  
 
 
 Your spell reaches into the mind of a creature and removes you from it. The amped cantrip must be one that has one or more targets and must either require a spell attack roll or have a saving throw. Use this amp in place of the psi cantrip's normal amp entry.

@@ -8,7 +8,7 @@ tags:
 aliases: ["Sentinel Dedication"]
 ---
 # Sentinel Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  
 
 
 You have trained carefully to maximize the protective qualities of your armor. You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well.
@@ -19,7 +19,7 @@ Whenever you gain a class feature that grants you expert or greater proficiency 
 
 ## Sentinel Dedication leads to...
 
-[Armor Specialist](compendium/feats/armor-specialist-apg.md), [Armored Rebuff](compendium/feats/armored-rebuff-apg.md), [Mighty Bulwark](compendium/feats/mighty-bulwark-apg.md), [Steel Skin](compendium/feats/steel-skin-apg.md)
+[Armor Specialist](armor-specialist-apg.md), [Armored Rebuff](armored-rebuff-apg.md), [Mighty Bulwark](mighty-bulwark-apg.md), [Steel Skin](steel-skin-apg.md)
 
 ## Summary
 

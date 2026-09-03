@@ -17,4 +17,4 @@ You protect your town, watch over those who have placed their trust in you, and 
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [Intimidation](compendium/skills.md#Intimidation) skill and the [Hunting Lore](compendium/skills.md#Lore) skill. You gain the [Group Coercion](compendium/feats/group-coercion.md) skill feat.
+You're trained in the [Intimidation](skills.md#Intimidation) skill and the [Hunting Lore](skills.md#Lore) skill. You gain the [Group Coercion](archive/srd/pf2e/compendium/feats/group-coercion.md) skill feat.

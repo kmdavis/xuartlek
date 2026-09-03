@@ -20,8 +20,8 @@ aliases: ["Imbrex", "The Twins"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Occultism
-- **Favored Weapon**: [war flail](compendium/equipment/items/war-flail.md)
-- **Domains**: [dreams](compendium/setting/domains.md#Dreams), [earth](compendium/setting/domains.md#Earth), [family](compendium/setting/domains.md#Family), [might](compendium/setting/domains.md#Might)
-- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 2nd: [mirror image](compendium/spells/mirror-image.md); 4th: [stoneskin](compendium/spells/stoneskin.md)
+- **Favored Weapon**: [war flail](archive/srd/pf2e/compendium/equipment/items/war-flail.md)
+- **Domains**: [dreams](archive/srd/pf2e/compendium/setting/domains.md#Dreams), [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [might](archive/srd/pf2e/compendium/setting/domains.md#Might)
+- **Cleric Spells**: 1st: [mindlink](archive/srd/pf2e/compendium/spells/mindlink.md); 2nd: [mirror image](mirror-image.md); 4th: [stoneskin](stoneskin.md)

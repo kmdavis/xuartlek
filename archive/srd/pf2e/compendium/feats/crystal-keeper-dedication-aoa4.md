@@ -9,11 +9,11 @@ tags:
 aliases: ["Crystal Keeper Dedication"]
 ---
 # Crystal Keeper Dedication  *Feat 4*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
-- **Prerequisites**: trained in [Elven Lore](compendium/skills.md#Lore) or [Society](compendium/skills.md#Society)
+- **Prerequisites**: trained in [Elven Lore](skills.md#Lore) or [Society](skills.md#Society)
 
-You can use [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism), [Religion](compendium/skills.md#Religion), or [Society](compendium/skills.md#Society) to [Decipher Writing](rules/actions/decipher-writing.md) by meditating before a crystal, regardless of the type of writing. When you [Decipher Writing](rules/actions/decipher-writing.md) and roll a critical failure, you get a failure instead, and when you [Decipher Writing](rules/actions/decipher-writing.md) and roll a success, you get a critical success instead.
+You can use [Arcana](skills.md#Arcana), [Occultism](skills.md#Occultism), [Religion](skills.md#Religion), or [Society](skills.md#Society) to [Decipher Writing](archive/srd/pf2e/rules/actions/decipher-writing.md) by meditating before a crystal, regardless of the type of writing. When you [Decipher Writing](archive/srd/pf2e/rules/actions/decipher-writing.md) and roll a critical failure, you get a failure instead, and when you [Decipher Writing](archive/srd/pf2e/rules/actions/decipher-writing.md) and roll a success, you get a critical success instead.
 
 Additionally, you gain resistance 10 to damage from hazards associated with crystals.
 
@@ -21,7 +21,7 @@ Additionally, you gain resistance 10 to damage from hazards associated with crys
 
 ## Crystal Keeper Dedication leads to...
 
-[Armor Rune Shifter](compendium/feats/armor-rune-shifter-aoa4.md), [Crystal Ward Spells](compendium/feats/crystal-ward-spells-aoa4.md), [Simple Crystal Magic](compendium/feats/simple-crystal-magic-aoa4.md), [Weapon-rune Shifter](compendium/feats/weapon-rune-shifter-aoa4.md)
+[Armor Rune Shifter](armor-rune-shifter-aoa4.md), [Crystal Ward Spells](crystal-ward-spells-aoa4.md), [Simple Crystal Magic](simple-crystal-magic-aoa4.md), [Weapon-rune Shifter](weapon-rune-shifter-aoa4.md)
 
 ## Summary
 

@@ -25,12 +25,12 @@ aliases: ["Sarenrae", "Dawnflower"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Medicine
-- **Favored Weapon**: [scimitar](compendium/equipment/items/scimitar.md)
-- **Domains**: [fire](compendium/setting/domains.md#Fire), [healing](compendium/setting/domains.md#Healing), [sun](compendium/setting/domains.md#Sun), [truth](compendium/setting/domains.md#Truth)
-- **Alternate Domains**: [repose](compendium/setting/domains.md#Repose)
-- **Cleric Spells**: 1st: [burning hands](compendium/spells/burning-hands.md); 3rd: [fireball](compendium/spells/fireball.md); 4th: [wall of fire](compendium/spells/wall-of-fire.md)
+- **Favored Weapon**: [scimitar](archive/srd/pf2e/compendium/equipment/items/scimitar.md)
+- **Domains**: [fire](archive/srd/pf2e/compendium/setting/domains.md#Fire), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing), [sun](archive/srd/pf2e/compendium/setting/domains.md#Sun), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Alternate Domains**: [repose](archive/srd/pf2e/compendium/setting/domains.md#Repose)
+- **Cleric Spells**: 1st: [burning hands](burning-hands.md); 3rd: [fireball](archive/srd/pf2e/compendium/spells/fireball.md); 4th: [wall of fire](archive/srd/pf2e/compendium/spells/wall-of-fire.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Sarenrae
@@ -48,8 +48,8 @@ Sarenrae often bestows boons for making a sacrifice to do better or taking a ris
 
 - **Minor Boon** Your healing hands are blessed with a warm flame. Once, when you heal another creature, instead of healing it for the normal amount, you heal the creature to full Hit Points, no matter how much damage it has taken. Sarenrae typically grants this boon in extremely consequential circumstances.
 - **Moderate Boon**: Your blade burns the irredeemable. Your attacks deal an additional `1d6` fire damage that ignores fire resistance.
-- **Major Boon**: You are a voice of peace and rehabilitation. When you roll a success at a check to [Request](rules/actions/request.md) something, you get a critical success instead. In addition, all creatures other than fiends, undead, and mindless creatures allow you one chance to speak your piece and make requests before entering combat. If you or an ally ever use the time from the request to gain an advantage in an ensuing combat (for example, by casting preparatory spells, positioning for combat, or waiting out your opponent's preparatory spells), Sarenrae immediately revokes this boon, or possibly curses your ally.
+- **Major Boon**: You are a voice of peace and rehabilitation. When you roll a success at a check to [Request](archive/srd/pf2e/rules/actions/request.md) something, you get a critical success instead. In addition, all creatures other than fiends, undead, and mindless creatures allow you one chance to speak your piece and make requests before entering combat. If you or an ally ever use the time from the request to gain an advantage in an ensuing combat (for example, by casting preparatory spells, positioning for combat, or waiting out your opponent's preparatory spells), Sarenrae immediately revokes this boon, or possibly curses your ally.
 
-- **Minor Curse**: The sun burns you for your transgression. You receive a sunburn that causes you to become permanently [clumsy](rules/conditions.md#Clumsy).
+- **Minor Curse**: The sun burns you for your transgression. You receive a sunburn that causes you to become permanently [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy).
 - **Moderate Curse** The sun shines its light on everything you say. You become unable to tell lies, and if you attempt to do so, you instead compulsively blurt out the truth on the matter in question. You are still able to withhold information or lie by omission.
-- **Major Curse**: Sarenrae restricts your ability to harm others. All attacks you make, spells you cast, and other sources of damage you deal are [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") except against fiends and undead, and you can't ever make them lethal. You deal minimum damage except against fiends and undead. All creatures except fiends and undead gain a +4 status bonus to their AC and saving throws against your attacks and other effects.
+- **Major Curse**: Sarenrae restricts your ability to harm others. All attacks you make, spells you cast, and other sources of damage you deal are [nonlethal](archive/srd/pf2e/rules/traits/nonlethal.md "Nonlethal Weapon Trait") except against fiends and undead, and you can't ever make them lethal. You deal minimum damage except against fiends and undead. All creatures except fiends and undead gain a +4 status bonus to their AC and saving throws against your attacks and other effects.

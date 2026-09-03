@@ -23,9 +23,9 @@ aliases: ["Hearth and Harvest"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Crafting
-- **Favored Weapon**: [sickle](compendium/equipment/items/sickle.md)
-- **Domains**: [change](compendium/setting/domains.md#Change), [family](compendium/setting/domains.md#Family), [nature](compendium/setting/domains.md#Nature), [protection](compendium/setting/domains.md#Protection)
-- **Alternate Domains**: [earth](compendium/setting/domains.md#Earth), [healing](compendium/setting/domains.md#Healing)
-- **Cleric Spells**: 1st: [ant haul](compendium/spells/ant-haul.md); 2nd: [shape wood](compendium/spells/shape-wood.md); 4th: [speak with plants](compendium/spells/speak-with-plants.md)
+- **Favored Weapon**: [sickle](archive/srd/pf2e/compendium/equipment/items/sickle.md)
+- **Domains**: [change](archive/srd/pf2e/compendium/setting/domains.md#Change), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Alternate Domains**: [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [healing](archive/srd/pf2e/compendium/setting/domains.md#Healing)
+- **Cleric Spells**: 1st: [ant haul](archive/srd/pf2e/compendium/spells/ant-haul.md); 2nd: [shape wood](archive/srd/pf2e/compendium/spells/shape-wood.md); 4th: [speak with plants](archive/srd/pf2e/compendium/spells/speak-with-plants.md)

@@ -24,14 +24,14 @@ aliases: ["Kazutal", "Mother Jaguar"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Society
 - **Favored Weapon**: machete
-- **Domains**: [family](compendium/setting/domains.md#Family), [freedom](compendium/setting/domains.md#Freedom), [might](compendium/setting/domains.md#Might), [protection](compendium/setting/domains.md#Protection)
-- **Alternate Domains**: [cities](compendium/setting/domains.md#Cities)
-- **Cleric Spells**: 1st: [mage armor](compendium/spells/mage-armor.md); 3rd: [animal form](compendium/spells/animal-form.md); 4th: [stoneskin](compendium/spells/stoneskin.md)
+- **Domains**: [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [freedom](archive/srd/pf2e/compendium/setting/domains.md#Freedom), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Alternate Domains**: [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities)
+- **Cleric Spells**: 1st: [mage armor](mage-armor.md); 3rd: [animal form](archive/srd/pf2e/compendium/spells/animal-form.md); 4th: [stoneskin](stoneskin.md)
 
-When casting the [avatar](compendium/spells/avatar.md) spell, a worshipper of Kazutal gains the following additional abilities.
+When casting the [avatar](archive/srd/pf2e/compendium/spells/avatar.md) spell, a worshipper of Kazutal gains the following additional abilities.
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Kazutal
@@ -48,9 +48,9 @@ title: [Avatar](compendium/spells/avatar.md) of Kazutal
 Mother Jaguar rewards those who uphold a sense of community and bestows punishments upon those who use her name and convictions to admonish or exclude perceived outsiders.
 
 - **Minor Boon** With Kazutal's blessing, food tastes richer. Any meal that you eat tastes delicious and has improved nutritional value. This doesn't protect you from anything dangerous in your food, but it also doesn't prevent you from tasting those dangerous elements of the food.
-- **Moderate Boon**: You always seem to find safe shelter when you most need it. Once per day, you can cast [rope trick](compendium/spells/rope-trick.md) as a [divine](rules/traits/divine.md "Divine Tradition Trait") innate spell.
-- **Major Boon**: Kazutal smiles upon those who seek to offer aid, no matter how meek or helpless they may be. Any time creatures attempt a check to [Aid](rules/actions/aid.md) you, they can choose to automatically succeed. If a creature chooses to roll for the attempt and rolls a success, it gets a critical success instead, granting a +4 circumstance bonus even if it doesn't have legendary proficiency in that skill. You gain the same benefits when you attempt to [Aid](rules/actions/aid.md) others.
+- **Moderate Boon**: You always seem to find safe shelter when you most need it. Once per day, you can cast [rope trick](rope-trick.md) as a [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait") innate spell.
+- **Major Boon**: Kazutal smiles upon those who seek to offer aid, no matter how meek or helpless they may be. Any time creatures attempt a check to [Aid](archive/srd/pf2e/rules/actions/aid.md) you, they can choose to automatically succeed. If a creature chooses to roll for the attempt and rolls a success, it gets a critical success instead, granting a +4 circumstance bonus even if it doesn't have legendary proficiency in that skill. You gain the same benefits when you attempt to [Aid](archive/srd/pf2e/rules/actions/aid.md) others.
 
-- **Minor Curse**: Community opinion turns against you. Humanoids in your community who would normally start as [indifferent](rules/conditions.md#Indifferent) toward you start as [unfriendly](rules/conditions.md#Unfriendly) instead.
-- **Moderate Curse** Your strength betrays you, preventing you from taking more than your fair share. You are [enfeebled](rules/conditions.md#Enfeebled) and can't carry anything beyond the gear you are actively wearing or using.
+- **Minor Curse**: Community opinion turns against you. Humanoids in your community who would normally start as [indifferent](archive/srd/pf2e/rules/conditions.md#Indifferent) toward you start as [unfriendly](archive/srd/pf2e/rules/conditions.md#Unfriendly) instead.
+- **Moderate Curse** Your strength betrays you, preventing you from taking more than your fair share. You are [enfeebled](archive/srd/pf2e/rules/conditions.md#Enfeebled) and can't carry anything beyond the gear you are actively wearing or using.
 - **Major Curse**: You are cursed to depend upon others for your survival. You can't eat anything, drink anything, or use any gear or magic items unless they were willingly given to you by someone who rightfully owns them. Work-arounds like having an ally strip the gear from someone's corpse and then give it to you willingly automatically fail.

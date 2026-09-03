@@ -11,12 +11,12 @@ tags:
 aliases: ["Gearblade"]
 ---
 # Gearblade *Item 17*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [invested](archive/srd/pf2e/rules/traits/invested.md "Invested Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Price** 13000 gp
 - **Bulk** 2; **Usage** held in 1 or 2 hands
 
-Shaped like a blade made from spinning gears, this +2 greater striking weapon can catch enemy weapons and grind up foes. In order to function, the gearblade must be wound for 10 minutes once every 24 hours. During this process, you can reconfigure the weapon to transform into a [bastard sword](compendium/equipment/items/bastard-sword.md), [greatsword](compendium/equipment/items/greatsword.md), [longsword](compendium/equipment/items/longsword.md), or [shortsword](compendium/equipment/items/shortsword.md). It then gains all the features of the chosen weapon except that its Bulk is always 2 and it gains the [disarm](rules/traits/disarm.md "Disarm Weapon Trait") weapon trait and the versatile B weapon trait (which replaces any other [versatile](rules/traits/versatile.md "Versatile Weapon Trait") trait the weapon might have). If you don't wind the gearblade, it becomes inert and has the statistics of a [greatclub](compendium/equipment/items/greatclub.md).
+Shaped like a blade made from spinning gears, this +2 greater striking weapon can catch enemy weapons and grind up foes. In order to function, the gearblade must be wound for 10 minutes once every 24 hours. During this process, you can reconfigure the weapon to transform into a [bastard sword](archive/srd/pf2e/compendium/equipment/items/bastard-sword.md), [greatsword](archive/srd/pf2e/compendium/equipment/items/greatsword.md), [longsword](archive/srd/pf2e/compendium/equipment/items/longsword.md), or [shortsword](archive/srd/pf2e/compendium/equipment/items/shortsword.md). It then gains all the features of the chosen weapon except that its Bulk is always 2 and it gains the [disarm](archive/srd/pf2e/rules/traits/disarm.md "Disarm Weapon Trait") weapon trait and the versatile B weapon trait (which replaces any other [versatile](archive/srd/pf2e/rules/traits/versatile.md "Versatile Weapon Trait") trait the weapon might have). If you don't wind the gearblade, it becomes inert and has the statistics of a [greatclub](archive/srd/pf2e/compendium/equipment/items/greatclub.md).
 
 ```ad-embed-ability
 title: **Activate** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") envision

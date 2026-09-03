@@ -12,10 +12,10 @@ tags:
 aliases: ["Destructive Aura"]
 ---
 # Destructive Aura *Focus 4*   
-[aura](rules/traits/aura.md "Aura Combat Trait")  [cleric](rules/traits/cleric.md "Cleric Class Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[aura](archive/srd/pf2e/rules/traits/aura.md "Aura Combat Trait")  [cleric](archive/srd/pf2e/rules/traits/cleric.md "Cleric Class Trait")  [evocation](evocation.md "Evocation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Domains** [destruction](compendium/setting/domains.md#Destruction)
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Domains** [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction)
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - **Area**: 15-foot emanation
 - **Duration**: 1 minute
 

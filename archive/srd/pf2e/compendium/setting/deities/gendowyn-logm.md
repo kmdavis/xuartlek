@@ -29,11 +29,11 @@ aliases: ["Gendowyn", "Lady of the Fangwood"]
 ## Devotee benefits
 
 - **Divine Ability**: Dexterity or Charisma
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Stealth
-- **Favored Weapon**: [whip](compendium/equipment/items/whip.md)
-- **Domains**: [earth](compendium/setting/domains.md#Earth), [family](compendium/setting/domains.md#Family), [luck](compendium/setting/domains.md#Luck), [nature](compendium/setting/domains.md#Nature)
-- **Cleric Spells**: 1st: [summon fey](compendium/spells/summon-fey.md); 2nd: [barkskin](compendium/spells/barkskin.md); 5th: [tree stride](compendium/spells/tree-stride.md)
+- **Favored Weapon**: [whip](archive/srd/pf2e/compendium/equipment/items/whip.md)
+- **Domains**: [earth](archive/srd/pf2e/compendium/setting/domains.md#Earth), [family](archive/srd/pf2e/compendium/setting/domains.md#Family), [luck](archive/srd/pf2e/compendium/setting/domains.md#Luck), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature)
+- **Cleric Spells**: 1st: [summon fey](archive/srd/pf2e/compendium/spells/summon-fey.md); 2nd: [barkskin](barkskin.md); 5th: [tree stride](tree-stride.md)
 
 ```ad-embed-avatar
 title: [Avatar](compendium/spells/avatar.md) of Gendowyn

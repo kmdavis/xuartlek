@@ -9,14 +9,14 @@ tags:
 aliases: ["Paralyzing Light Trap"]
 ---
 # Paralyzing Light Trap *Hazard 8*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** DC 18 expert  
 
 When any creature other than a devil enters the light, the magic interwoven in the light holds the creature in place and rings an alarm.
 
-- **Disable** DC 26 [Thievery](compendium/skills.md#Thievery) (master) to distort or diffuse the light, keeping the light cone intact but preventing the trap from triggering, or dispel magic (4th level; counteract DC 26) to dispel the light, leaving the room in darkness.  
+- **Disable** DC 26 [Thievery](skills.md#Thievery) (master) to distort or diffuse the light, keeping the light cone intact but preventing the trap from triggering, or dispel magic (4th level; counteract DC 26) to dispel the light, leaving the room in darkness.  
 
 ```ad-embed-ability
 title: **Stasis Field** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([enchantment](rules/traits/enchantment.md), [incapacitation](rules/traits/incapacitation.md), [mental](rules/traits/mental.md), [occult](rules/traits/occult.md))

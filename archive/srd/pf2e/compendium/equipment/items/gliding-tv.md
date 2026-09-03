@@ -9,12 +9,12 @@ tags:
 aliases: ["Gliding"]
 ---
 # Gliding *Item 8*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  
+[magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  
 
 - **Price** 450 gp
 - **Usage** etched onto armor
 
-The armor allows you to make a [controlled](rules/conditions.md#Controlled) descent.
+The armor allows you to make a [controlled](archive/srd/pf2e/rules/conditions.md#Controlled) descent.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") command

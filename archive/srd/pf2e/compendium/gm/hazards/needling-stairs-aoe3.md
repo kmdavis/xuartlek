@@ -9,14 +9,14 @@ tags:
 aliases: ["Needling Stairs"]
 ---
 # Needling Stairs *Hazard 11*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +20 expert  
 
 This staircase has springs in each step, which send poisoned needles shooting up through tiny holes in the wood when stepped on. Each step, 6 in total, takes up one 5-foot square.
 
-- **Disable** DC 33 [Thievery](compendium/skills.md#Thievery) (master) on each stair to disable its spring, or deactivate the switch in area C8 to deactivate the whole trap. Cutting the wire on the topmost stair (DC 35 to the Device) that connects the staircase to the control switch prevents the control switch from turning the trap on or off.  
+- **Disable** DC 33 [Thievery](skills.md#Thievery) (master) on each stair to disable its spring, or deactivate the switch in area C8 to deactivate the whole trap. Cutting the wire on the topmost stair (DC 35 to the Device) that connects the staircase to the control switch prevents the control switch from turning the trap on or off.  
 
 - **AC** 28, **Fort** +22, **Ref** +19
 - **Hardness** 8, **HP** 25 (BT 12) to break the spring under the step and make that step safe to stand on

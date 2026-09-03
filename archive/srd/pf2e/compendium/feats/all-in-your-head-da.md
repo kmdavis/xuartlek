@@ -7,8 +7,8 @@ tags:
 - trait/psychic
 aliases: ["All in Your Head"]
 ---
-# All in Your Head  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 18*  
-[psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
+# All in Your Head  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 18*  
+[psyche](psyche-da.md "Psyche Action & Ability Trait")  [psychic](archive/srd/pf2e/rules/traits/psychic-da.md "Psychic Class Trait")  
 
 - **Trigger** You're about to attempt a Fortitude save or a Reflex save.
 - **Activity** Reaction

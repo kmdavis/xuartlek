@@ -20,8 +20,8 @@ aliases: ["Erecura", "Queen of Dis"]
 ## Devotee benefits
 
 - **Divine Ability**: Wisdom or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Deception
-- **Favored Weapon**: [light mace](compendium/equipment/items/light-mace.md)
-- **Domains**: [fate](compendium/setting/domains.md#Fate), [secrecy](compendium/setting/domains.md#Secrecy), [trickery](compendium/setting/domains.md#Trickery), [truth](compendium/setting/domains.md#Truth)
-- **Cleric Spells**: 1st: [anticipate peril](compendium/spells/anticipate-peril-logm.md); 2nd: [misdirection](compendium/spells/misdirection.md); 3rd: [nondetection](compendium/spells/nondetection.md)
+- **Favored Weapon**: [light mace](archive/srd/pf2e/compendium/equipment/items/light-mace.md)
+- **Domains**: [fate](archive/srd/pf2e/compendium/setting/domains.md#Fate), [secrecy](archive/srd/pf2e/compendium/setting/domains.md#Secrecy), [trickery](archive/srd/pf2e/compendium/setting/domains.md#Trickery), [truth](archive/srd/pf2e/compendium/setting/domains.md#Truth)
+- **Cleric Spells**: 1st: [anticipate peril](anticipate-peril-logm.md); 2nd: [misdirection](misdirection.md); 3rd: [nondetection](nondetection.md)

@@ -6,14 +6,14 @@ tags:
 - trait/druid
 aliases: ["Reactive Transformation"]
 ---
-# Reactive Transformation  [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
-[druid](rules/traits/druid.md "Druid Class Trait")  
+# Reactive Transformation  [R](chapter-9-playing-the-game.md#Actions "Reaction") *Feat 14*  
+[druid](archive/srd/pf2e/rules/traits/druid.md "Druid Class Trait")  
 
-- **Prerequisites**: [Wild Shape](compendium/feats/wild-shape.md); [Dragon Shape](compendium/feats/dragon-shape.md), [Elemental Shape](compendium/feats/elemental-shape.md),
+- **Prerequisites**: [Wild Shape](archive/srd/pf2e/compendium/feats/wild-shape.md); [Dragon Shape](archive/srd/pf2e/compendium/feats/dragon-shape.md), [Elemental Shape](archive/srd/pf2e/compendium/feats/elemental-shape.md),
 - **Trigger** varies
 - **Activity** Reaction
 
-You transform reflexively when in danger. You cast [wild shape](compendium/spells/wild-shape.md) to transform into one form granted by one of the prerequisite feats you have, depending on the trigger.
+You transform reflexively when in danger. You cast [wild shape](archive/srd/pf2e/compendium/spells/wild-shape.md) to transform into one form granted by one of the prerequisite feats you have, depending on the trigger.
 
 Your form's resistances and weaknesses apply against the triggering damage.
 

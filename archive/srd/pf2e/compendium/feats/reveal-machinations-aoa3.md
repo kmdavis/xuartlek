@@ -8,13 +8,13 @@ tags:
 - trait/skill
 aliases: ["Reveal Machinations"]
 ---
-# Reveal Machinations  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 15*  
-[general](rules/traits/general.md "General Feat Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
+# Reveal Machinations  [>](chapter-9-playing-the-game.md#Actions "Single Action") *Feat 15*  
+[general](archive/srd/pf2e/rules/traits/general.md "General Feat Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  [skill](archive/srd/pf2e/rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: legendary in [Deception](compendium/skills.md#Deception)
+- **Prerequisites**: legendary in [Deception](skills.md#Deception)
 - **Activity** Single Action
 
-You reveal that you played a minor but recurring role in another humanoid's life—or at least convince them that's the case. Attempt a [Deception](compendium/skills.md#Deception) check against the target's Will DC. On a success, the revelation makes them [frightened](rules/conditions.md#Frightened), and on a critical success they are [frightened](rules/conditions.md#Frightened). In addition, you gain information about the subject as though you had attempted to [Recall Knowledge](rules/actions/recall-knowledge.md) about them using an appropriate skill and received the same result on your roll. You can't use this ability against the same humanoid again until 1 day has passed and you've also successfully disguised yourself as a different person.
+You reveal that you played a minor but recurring role in another humanoid's life—or at least convince them that's the case. Attempt a [Deception](skills.md#Deception) check against the target's Will DC. On a success, the revelation makes them [frightened](archive/srd/pf2e/rules/conditions.md#Frightened), and on a critical success they are [frightened](archive/srd/pf2e/rules/conditions.md#Frightened). In addition, you gain information about the subject as though you had attempted to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) about them using an appropriate skill and received the same result on your roll. You can't use this ability against the same humanoid again until 1 day has passed and you've also successfully disguised yourself as a different person.
 
 **Special.** At the GM's discretion, this feat can be used against non-humanoids if they have regular contact with humanoids or you are able to disguise yourself as a member of the target's ancestry or type of creature.
 

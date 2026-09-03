@@ -19,8 +19,8 @@ aliases: ["Orcus"]
 
 ## Devotee benefits
 
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Arcana
-- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
-- **Domains**: [magic](compendium/setting/domains.md#Magic), [might](compendium/setting/domains.md#Might), [undeath](compendium/setting/domains.md#Undeath), [zeal](compendium/setting/domains.md#Zeal)
-- **Cleric Spells**: 1st: [grim tendrils](compendium/spells/grim-tendrils.md); 2nd: [feral shades](compendium/spells/feral-shades-som.md); 9th: [power word kill](compendium/spells/power-word-kill.md)
+- **Favored Weapon**: [mace](archive/srd/pf2e/compendium/equipment/items/mace.md)
+- **Domains**: [magic](archive/srd/pf2e/compendium/setting/domains.md#Magic), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [undeath](archive/srd/pf2e/compendium/setting/domains.md#Undeath), [zeal](archive/srd/pf2e/compendium/setting/domains.md#Zeal)
+- **Cleric Spells**: 1st: [grim tendrils](archive/srd/pf2e/compendium/spells/grim-tendrils.md); 2nd: [feral shades](feral-shades-som.md); 9th: [power word kill](power-word-kill.md)

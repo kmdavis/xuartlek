@@ -19,4 +19,4 @@ Not only is it as though you were never a shieldmarshal at all, but you've got a
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [Deception](compendium/skills.md#Deception) skill and the [Underworld Lore](compendium/skills.md#Lore) skill. You gain the [Lie to Me](compendium/feats/lie-to-me.md) skill feat.
+You're trained in the [Deception](skills.md#Deception) skill and the [Underworld Lore](skills.md#Lore) skill. You gain the [Lie to Me](archive/srd/pf2e/compendium/feats/lie-to-me.md) skill feat.

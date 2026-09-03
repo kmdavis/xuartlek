@@ -9,18 +9,18 @@ tags:
 aliases: ["Wrath Of The Destroyer"]
 ---
 # Wrath Of The Destroyer *Hazard 10*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +22 expert to notice subtle vapors of magical energy seething across the doors.  
 
-These heavy doors, carved with an image of [Dahak](compendium/setting/deities/dahak-logm.md), echo with a hatred so powerful that it can kill anyone who comes nearby, manifesting a vision of [Dahak](compendium/setting/deities/dahak-logm.md)'s head emerging from the doors to strike at a foe.
+These heavy doors, carved with an image of [Dahak](dahak-logm.md), echo with a hatred so powerful that it can kill anyone who comes nearby, manifesting a vision of [Dahak](dahak-logm.md)'s head emerging from the doors to strike at a foe.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 29 (expert) to disrupt the divine magic, [Religion](compendium/skills.md#Religion) DC 29 (expert) to placate the wrathful energies, or [dispel magic](compendium/spells/dispel-magic.md) (5th level; counteract DC 26).  
+- **Disable** [Thievery](skills.md#Thievery) DC 29 (expert) to disrupt the divine magic, [Religion](skills.md#Religion) DC 29 (expert) to placate the wrathful energies, or [dispel magic](archive/srd/pf2e/compendium/spells/dispel-magic.md) (5th level; counteract DC 26).  
 
 - **AC** 30, **Fort** +22, **Ref** +14
 - **Door Hardness** 18, **Door HP** 72 (BT 36)
-- **Immunities** critical hits; [fire](rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
+- **Immunities** critical hits; [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait"); object immunities; precision damage
 
 ```ad-embed-ability
 title: **Expunge** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

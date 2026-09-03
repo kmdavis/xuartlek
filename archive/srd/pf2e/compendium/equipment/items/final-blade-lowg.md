@@ -13,11 +13,11 @@ tags:
 aliases: ["Final Blade"]
 ---
 # Final Blade *Item 20*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [death](rules/traits/death.md "Death Effect Trait")  [evil](rules/traits/evil.md "Evil Alignment Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [death](archive/srd/pf2e/rules/traits/death.md "Death Effect Trait")  [evil](evil.md "Evil Alignment Trait")  [necromancy](necromancy.md "Necromancy School Trait")  [occult](archive/srd/pf2e/rules/traits/occult.md "Occult Tradition Trait")  [rare](archive/srd/pf2e/rules/traits/rare.md "Rare Rarity Trait")  
 
 - **Bulk** 40
 
-A [Large](rules/traits/large-b1.md "Large Size Trait") or smaller [restrained](rules/conditions.md#Restrained) or willing creature can be executed by a final blade.
+A [Large](large-b1.md "Large Size Trait") or smaller [restrained](archive/srd/pf2e/rules/conditions.md#Restrained) or willing creature can be executed by a final blade.
 
 As an artifact, a final blade cannot be harmed by any but a very specific means.
 

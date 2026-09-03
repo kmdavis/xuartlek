@@ -20,8 +20,8 @@ aliases: ["Pulura", "The Shimmering Maiden"]
 ## Devotee benefits
 
 - **Divine Ability**: Constitution or Wisdom
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Survival
-- **Favored Weapon**: [sling](compendium/equipment/items/sling.md)
-- **Domains**: [cold](compendium/setting/domains.md#Cold), [darkness](compendium/setting/domains.md#Darkness), [sorrow](compendium/setting/domains.md#Sorrow), [star](compendium/setting/domains.md#Star)
-- **Cleric Spells**: 1st: [color spray](compendium/spells/color-spray.md); 5th: [chromatic wall](compendium/spells/chromatic-wall.md); 6th: [teleport](compendium/spells/teleport.md)
+- **Favored Weapon**: [sling](archive/srd/pf2e/compendium/equipment/items/sling.md)
+- **Domains**: [cold](archive/srd/pf2e/compendium/setting/domains.md#Cold), [darkness](archive/srd/pf2e/compendium/setting/domains.md#Darkness), [sorrow](archive/srd/pf2e/compendium/setting/domains.md#Sorrow), [star](archive/srd/pf2e/compendium/setting/domains.md#Star)
+- **Cleric Spells**: 1st: [color spray](color-spray.md); 5th: [chromatic wall](chromatic-wall.md); 6th: [teleport](archive/srd/pf2e/compendium/spells/teleport.md)

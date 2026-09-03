@@ -7,7 +7,7 @@ tags:
 aliases: ["Divine Reflexes"]
 ---
 # Divine Reflexes  *Feat 14*  
-[champion](rules/traits/champion.md "Champion Class Trait")  
+[champion](archive/srd/pf2e/rules/traits/champion.md "Champion Class Trait")  
 
 
 At the start of each of your turns, you gain an additional reaction that you can use only for your champion's reaction.

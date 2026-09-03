@@ -20,8 +20,8 @@ aliases: ["Treerazer", "Lord of the Blasted Tarn"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md) or [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Nature
-- **Favored Weapon**: [battle axe](compendium/equipment/items/battle-axe.md)
-- **Domains**: [destruction](compendium/setting/domains.md#Destruction), [nature](compendium/setting/domains.md#Nature), [nightmares](compendium/setting/domains.md#Nightmares), [tyranny](compendium/setting/domains.md#Tyranny)
-- **Cleric Spells**: 1st: [grim tendrils](compendium/spells/grim-tendrils.md); 3rd: [wall of thorns](compendium/spells/wall-of-thorns.md); 6th: [tangling creepers](compendium/spells/tangling-creepers.md)
+- **Favored Weapon**: [battle axe](archive/srd/pf2e/compendium/equipment/items/battle-axe.md)
+- **Domains**: [destruction](archive/srd/pf2e/compendium/setting/domains.md#Destruction), [nature](archive/srd/pf2e/compendium/setting/domains.md#Nature), [nightmares](archive/srd/pf2e/compendium/setting/domains.md#Nightmares), [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny)
+- **Cleric Spells**: 1st: [grim tendrils](archive/srd/pf2e/compendium/spells/grim-tendrils.md); 3rd: [wall of thorns](archive/srd/pf2e/compendium/spells/wall-of-thorns.md); 6th: [tangling creepers](archive/srd/pf2e/compendium/spells/tangling-creepers.md)

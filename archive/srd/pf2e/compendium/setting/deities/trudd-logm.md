@@ -20,8 +20,8 @@ aliases: ["Trudd", "The Mighty"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Constitution
-- **Divine Font**: [heal](compendium/spells/heal.md)
+- **Divine Font**: [heal](archive/srd/pf2e/compendium/spells/heal.md)
 - **Divine Skill**: Athletics
-- **Favored Weapon**: [warhammer](compendium/equipment/items/warhammer.md)
-- **Domains**: [confidence](compendium/setting/domains.md#Confidence), [duty](compendium/setting/domains.md#Duty), [might](compendium/setting/domains.md#Might), [protection](compendium/setting/domains.md#Protection)
-- **Cleric Spells**: 1st: [endure](compendium/spells/endure-logm.md); 3rd: [haste](compendium/spells/haste.md); 4th: [stoneskin](compendium/spells/stoneskin.md)
+- **Favored Weapon**: [warhammer](archive/srd/pf2e/compendium/equipment/items/warhammer.md)
+- **Domains**: [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [might](archive/srd/pf2e/compendium/setting/domains.md#Might), [protection](archive/srd/pf2e/compendium/setting/domains.md#Protection)
+- **Cleric Spells**: 1st: [endure](endure-logm.md); 3rd: [haste](archive/srd/pf2e/compendium/spells/haste.md); 4th: [stoneskin](stoneskin.md)

@@ -11,14 +11,14 @@ tags:
 aliases: ["Flaming Star"]
 ---
 # Flaming Star *Item 3+*  
-[evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellheart](rules/traits/spellheart-som.md "Spellheart Equipment Trait")  
+[evocation](evocation.md "Evocation School Trait")  [fire](archive/srd/pf2e/rules/traits/fire.md "Fire Energy & Element Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [spellheart](spellheart-som.md "Spellheart Equipment Trait")  
 
 - **Usage** affixed to armor or a weapon
 
-A sheen of red crosses the surface of this star-shaped goldstone medallion when the light hits it. The affixed armor or weapon is warm to the touch. The spell attack roll of any spell cast by [Activating](rules/actions/activate-an-item.md) this item is +7, and the spell DC is 17.
+A sheen of red crosses the surface of this star-shaped goldstone medallion when the light hits it. The affixed armor or weapon is warm to the touch. The spell attack roll of any spell cast by [Activating](activate-an-item.md) this item is +7, and the spell DC is 17.
 
 - **Armor** You gain resistance 2 to fire.
-- **Weapon** After you cast a fire spell by [Activating](rules/actions/activate-an-item.md) the star, your [Strikes](rules/actions/strike.md) with the weapon deal an additional `1d4` fire damage until the end of your next turn.
+- **Weapon** After you cast a fire spell by [Activating](activate-an-item.md) the star, your [Strikes](archive/srd/pf2e/rules/actions/strike.md) with the weapon deal an additional `1d4` fire damage until the end of your next turn.
 
 ```ad-embed-ability
 title: **Activate**  [Cast a Spell](rules/actions/cast-a-spell.md)

@@ -20,8 +20,8 @@ aliases: ["Dispater", "Iron Lord"]
 ## Devotee benefits
 
 - **Divine Ability**: Strength or Charisma
-- **Divine Font**: [harm](compendium/spells/harm.md)
+- **Divine Font**: [harm](archive/srd/pf2e/compendium/spells/harm.md)
 - **Divine Skill**: Society
-- **Favored Weapon**: [mace](compendium/equipment/items/mace.md)
-- **Domains**: [cities](compendium/setting/domains.md#Cities), [confidence](compendium/setting/domains.md#Confidence), [duty](compendium/setting/domains.md#Duty), [tyranny](compendium/setting/domains.md#Tyranny)
-- **Cleric Spells**: 1st: [tether](compendium/spells/tether-logm.md); 4th: [suggestion](compendium/spells/suggestion.md); 6th: [flesh to stone](compendium/spells/flesh-to-stone.md)
+- **Favored Weapon**: [mace](archive/srd/pf2e/compendium/equipment/items/mace.md)
+- **Domains**: [cities](archive/srd/pf2e/compendium/setting/domains.md#Cities), [confidence](archive/srd/pf2e/compendium/setting/domains.md#Confidence), [duty](archive/srd/pf2e/compendium/setting/domains.md#Duty), [tyranny](archive/srd/pf2e/compendium/setting/domains.md#Tyranny)
+- **Cleric Spells**: 1st: [tether](tether-logm.md); 4th: [suggestion](archive/srd/pf2e/compendium/spells/suggestion.md); 6th: [flesh to stone](flesh-to-stone.md)

@@ -12,7 +12,7 @@ tags:
 aliases: ["Mithral Tree"]
 ---
 # Mithral Tree *Item 0*  
-[concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [parry](rules/traits/parry.md "Parry Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concussive](concussive-g-g.md "Concussive Weapon Trait")  [elf](archive/srd/pf2e/rules/traits/elf.md "Elf Ancestry & Heritage Trait")  [fatal <d10>](rules/traits/fatal-d10.md "Fatal Weapon Trait")  [parry](archive/srd/pf2e/rules/traits/parry.md "Parry Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 9 gp

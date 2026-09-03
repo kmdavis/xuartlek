@@ -8,7 +8,7 @@ tags:
 aliases: ["Smokesoul"]
 ---
 # Smokesoul  *Feat 1*  
-[lineage](rules/traits/lineage-apg.md "Lineage  Trait")  [sylph](rules/traits/sylph-b2.md "Sylph Ancestry & Heritage Trait")  
+[lineage](lineage-apg.md "Lineage  Trait")  [sylph](sylph-b2.md "Sylph Ancestry & Heritage Trait")  
 
 
 You have a connection to smoke and haze. You gain the Smoke Blending reaction.

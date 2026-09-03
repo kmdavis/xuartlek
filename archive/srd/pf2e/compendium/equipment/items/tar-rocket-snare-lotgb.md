@@ -12,7 +12,7 @@ tags:
 aliases: ["Tar Rocket Snare"]
 ---
 # Tar Rocket Snare *Item 4*  
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](rules/traits/snare.md "Snare Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [snare](archive/srd/pf2e/rules/traits/snare.md "Snare Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 15 gp
 
@@ -20,8 +20,8 @@ You coat a small firework with a thick layer of resin and tar, so it sticks firm
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected.
-> - **Success** The creature is dealt a glancing blow by the rocket and becomes [flat-footed](rules/conditions.md#Flat-footed) until the start of its next turn.
-> - **Failure** The rocket's coating of tar and resin sticks to the creature, and it can't be shaken loose. The creature becomes [flat-footed](rules/conditions.md#Flat-footed) for 1 round, and [clumsy](rules/conditions.md#Clumsy) for 1 minute or until it [Escapes](rules/actions/escape.md) (DC 20).
+> - **Success** The creature is dealt a glancing blow by the rocket and becomes [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) until the start of its next turn.
+> - **Failure** The rocket's coating of tar and resin sticks to the creature, and it can't be shaken loose. The creature becomes [flat-footed](archive/srd/pf2e/rules/conditions.md#Flat-footed) for 1 round, and [clumsy](archive/srd/pf2e/rules/conditions.md#Clumsy) for 1 minute or until it [Escapes](archive/srd/pf2e/rules/actions/escape.md) (DC 20).
 > - **Critical Failure** As failure, but the creature takes a direct hit. It takes `2d6` bludgeoning damage and is pushed 10 feet in the direction the rocket faces.
 
 

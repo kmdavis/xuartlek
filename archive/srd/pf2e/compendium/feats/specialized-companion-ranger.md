@@ -7,9 +7,9 @@ tags:
 aliases: ["Specialized Companion (Ranger)"]
 ---
 # Specialized Companion (Ranger)  *Feat 16*  
-[ranger](rules/traits/ranger.md "Ranger Class Trait")  
+[ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  
 
-- **Prerequisites**: [Incredible Companion](compendium/feats/incredible-companion-ranger.md)
+- **Prerequisites**: [Incredible Companion](archive/srd/pf2e/compendium/feats/incredible-companion-ranger.md)
 
 Your animal companion has become cunning enough to become specialized. Your animal companion gains one specialization of your choice.
 

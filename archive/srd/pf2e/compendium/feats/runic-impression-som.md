@@ -7,11 +7,11 @@ tags:
 aliases: ["Runic Impression"]
 ---
 # Runic Impression  *Feat 8*  
-[magus](rules/traits/magus-som.md "Magus Class Trait")  
+[magus](archive/srd/pf2e/rules/traits/magus-som.md "Magus Class Trait")  
 
 - **Prerequisites**: focus pool
 
-You can temporarily replicate the effects of a property rune for your weapon or unarmed attacks. You learn the [runic impression](compendium/spells/runic-impression-som.md) conflux spell. Increase the number of Focus Points in your focus pool by 1.
+You can temporarily replicate the effects of a property rune for your weapon or unarmed attacks. You learn the [runic impression](archive/srd/pf2e/compendium/spells/runic-impression-som.md) conflux spell. Increase the number of Focus Points in your focus pool by 1.
 
 *Source: Secrets of Magic p. 46*  
 %% #compendium/src/pf2e/som #trait/magus %%

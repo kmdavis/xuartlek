@@ -10,12 +10,12 @@ tags:
 aliases: ["Soothing Scents"]
 ---
 # Soothing Scents *Item 3*  
-[catalyst](rules/traits/catalyst-som.md "Catalyst Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[catalyst](catalyst-som.md "Catalyst Item Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  
 
 - **Price** 10 gp
 - **Bulk** L; **Usage** held in 1 hand
 
-Performers popularized these bundles of aromatic herbs to calm the mind and ward off misfortune before a big show, though soldier bards have found them especially useful for clearing fear during particularly tumultuous battles. Adding this catalyst to a [soothe](compendium/spells/soothe.md) spell also causes the spell to reduce the target's [frightened](rules/conditions.md#Frightened) condition value by 1.
+Performers popularized these bundles of aromatic herbs to calm the mind and ward off misfortune before a big show, though soldier bards have found them especially useful for clearing fear during particularly tumultuous battles. Adding this catalyst to a [soothe](archive/srd/pf2e/compendium/spells/soothe.md) spell also causes the spell to reduce the target's [frightened](archive/srd/pf2e/rules/conditions.md#Frightened) condition value by 1.
 
 
 ---

@@ -9,14 +9,14 @@ tags:
 aliases: ["Summoning Rune (Fire Elementals)"]
 ---
 # Summoning Rune (Fire Elementals) *Hazard 5*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +12 trained  
 
 An invisible cloud of magical sensors detects living creatures in the room and summons fire elementals to slay the creatures.
 
-- **Disable** DC 22 [Acrobatics](compendium/skills.md#Acrobatics) (trained) to approach without triggering the trap, followed by DC 22 [Thievery](compendium/skills.md#Thievery) (trained) to erase the rune or dispel magic (3rd level; counteract DC 20) to counteract the rune.  
+- **Disable** DC 22 [Acrobatics](skills.md#Acrobatics) (trained) to approach without triggering the trap, followed by DC 22 [Thievery](skills.md#Thievery) (trained) to erase the rune or dispel magic (3rd level; counteract DC 20) to counteract the rune.  
 
 ```ad-embed-ability
 title: **Summon Elementals** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([arcane](rules/traits/arcane.md), [conjuration](rules/traits/conjuration.md), summon)

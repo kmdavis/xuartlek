@@ -201,6 +201,23 @@ def book_slug(c: dict) -> str:
     return slugify(primary)
 
 
+# PF2e creature types. Every creature carries exactly one as a trait, and it is
+# how a printed bestiary is organised, so it makes a better second axis than
+# creature_family (253 values, 239 creatures with none) or level.
+CREATURE_TYPES = {
+    "aberration", "animal", "astral", "beast", "celestial", "construct", "dragon",
+    "dream", "elemental", "ethereal", "fey", "fiend", "fungus", "giant", "humanoid",
+    "monitor", "ooze", "plant", "shade", "spirit", "time", "undead",
+}
+
+
+def creature_type(c: dict) -> str:
+    for t in c.get("trait", []) or []:
+        if t.lower() in CREATURE_TYPES:
+            return slugify(t)
+    return "other"
+
+
 def convert(c: dict) -> tuple[str, dict]:
     """Return (markdown, diagnostics)."""
     diag: dict = {"name": c.get("name"), "warnings": []}
@@ -436,7 +453,7 @@ def main() -> int:
 
     if args.out is None:
         args.out = (
-            here.parents[1] / "content" / "srd" / "pf2e-remaster" / "bestiary"
+            here.parents[1] / "content" / "srd" / "pf2e" / "bestiary"
             if args.all
             else here / "staging" / "bestiary"
         )
@@ -468,8 +485,8 @@ def main() -> int:
         text, diag = convert(c)
         diag["reason"] = reason
 
-        bslug = book_slug(c)
-        dest = args.out / bslug
+        bslug = f"{book_slug(c)}/{creature_type(c)}"
+        dest = args.out / book_slug(c) / creature_type(c)
         dest.mkdir(parents=True, exist_ok=True)
         path = dest / f"{slugify(c['name'])}.md"
         if path in seen:

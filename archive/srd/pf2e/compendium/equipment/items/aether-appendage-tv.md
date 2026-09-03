@@ -11,7 +11,7 @@ tags:
 aliases: ["Aether Appendage"]
 ---
 # Aether Appendage *Item 5*  
-[incorporeal](rules/traits/incorporeal-b1.md "Incorporeal Creature Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[incorporeal](incorporeal-b1.md "Incorporeal Creature Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [transmutation](transmutation.md "Transmutation School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 160 gp
 - **Bulk** L; **Usage** worn

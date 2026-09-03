@@ -10,7 +10,7 @@ tags:
 aliases: ["Jezail"]
 ---
 # Jezail *Item 1*  
-[concussive](rules/traits/concussive-g-g.md "Concussive Weapon Trait")  [fatal aim <d12>](rules/traits/fatal-aim-d12.md "Fatal Weapon Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[concussive](concussive-g-g.md "Concussive Weapon Trait")  [fatal aim <d12>](rules/traits/fatal-aim-d12.md "Fatal Weapon Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Access** The following regions have access to firearms: Alkenstar, Dongun Hold, Tian Xia, Vudra, Arcadia, Ustalav, the Shackles
 - **Price** 11 gp

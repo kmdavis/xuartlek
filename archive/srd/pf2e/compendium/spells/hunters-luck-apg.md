@@ -11,10 +11,10 @@ tags:
 aliases: ["Hunter's Luck"]
 ---
 # Hunter's Luck *Focus 2*   
-[divination](rules/traits/divination.md "Divination School Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[divination](divination.md "Divination School Trait")  [fortune](archive/srd/pf2e/rules/traits/fortune.md "Fortune Effect Trait")  [ranger](archive/srd/pf2e/rules/traits/ranger.md "Ranger Class Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Cast** [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") 
-- **Trigger**: You attempt a check to [Recall Knowledge](rules/actions/recall-knowledge.md) about a creature, but you haven't rolled yet.
+- **Cast** [F](chapter-9-playing-the-game.md#Actions "Free Action") 
+- **Trigger**: You attempt a check to [Recall Knowledge](archive/srd/pf2e/rules/actions/recall-knowledge.md) about a creature, but you haven't rolled yet.
 - 
 
 You have a preternatural ability to remember details about your foes. Roll the triggering check twice and use the better result.

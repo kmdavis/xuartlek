@@ -7,9 +7,9 @@ tags:
 aliases: ["Scroll Savant"]
 ---
 # Scroll Savant  *Feat 10*  
-[wizard](rules/traits/wizard.md "Wizard Class Trait")  
+[wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
-- **Prerequisites**: expert in [Crafting](compendium/skills.md#Crafting)
+- **Prerequisites**: expert in [Crafting](skills.md#Crafting)
 
 During your daily preparations, you can create two temporary scrolls containing arcane spells from your spellbook. These scrolls follow the normal rules for scrolls (page 564), with some additional restrictions. Each scroll must be of a different spell level, and both spell levels must be 2 or more levels lower than your highest-level spell. Any scrolls you create this way become non-magical the next time you make your daily preparations. A temporary scroll has no value.
 

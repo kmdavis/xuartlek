@@ -9,10 +9,10 @@ tags:
 aliases: ["Demolitionist Dedication"]
 ---
 # Demolitionist Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 
-You know how to set explosives to cause the maximum possible damage to buildings and other structures. You become trained in [Engineering Lore](compendium/skills.md#Lore) or become an expert in it if you were already trained. You gain the Set Explosives action.
+You know how to set explosives to cause the maximum possible damage to buildings and other structures. You become trained in [Engineering Lore](skills.md#Lore) or become an expert in it if you were already trained. You gain the Set Explosives action.
 
 ```ad-embed-ability
 title: **Set Explosives** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([concentrate](rules/traits/concentrate.md))
@@ -29,7 +29,7 @@ title: **Set Explosives** [>>](rules/core-rulebook/chapter-9-playing-the-game.md
 
 ## Demolitionist Dedication leads to...
 
-[Collapse Wall](compendium/feats/collapse-wall-g-g.md), [Controlled Blast](compendium/feats/controlled-blast-g-g.md), [Explosive Entry](compendium/feats/explosive-entry-g-g.md), [Safety Measures](compendium/feats/safety-measures-g-g.md)
+[Collapse Wall](collapse-wall-g-g.md), [Controlled Blast](controlled-blast-g-g.md), [Explosive Entry](explosive-entry-g-g.md), [Safety Measures](safety-measures-g-g.md)
 
 ## Summary
 

@@ -23,4 +23,4 @@ Randomly determine two harrow suits tied to your character, each reflecting a sp
 
 Choose two ability boosts. One must be to your aligned or misaligned score, and one is a free ability boost.
 
-You're trained in your choice of the [Occultism](compendium/skills.md#Occultism), [Performance](compendium/skills.md#Performance), or [Society](compendium/skills.md#Society) skill and the [Harrow Lore](compendium/skills.md#Lore) skill. You gain the [Dubious Knowledge](compendium/feats/dubious-knowledge.md) skill feat.
+You're trained in your choice of the [Occultism](skills.md#Occultism), [Performance](skills.md#Performance), or [Society](skills.md#Society) skill and the [Harrow Lore](skills.md#Lore) skill. You gain the [Dubious Knowledge](archive/srd/pf2e/compendium/feats/dubious-knowledge.md) skill feat.

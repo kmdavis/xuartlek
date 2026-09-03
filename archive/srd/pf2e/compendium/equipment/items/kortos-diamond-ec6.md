@@ -11,7 +11,7 @@ tags:
 aliases: ["Kortos Diamond"]
 ---
 # Kortos Diamond *Item 22*  
-[artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[artifact](artifact-gmg.md "Artifact Item Trait")  [divine](archive/srd/pf2e/rules/traits/divine.md "Divine Tradition Trait")  [evocation](evocation.md "Evocation School Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Bulk** 1; **Usage** held in 1 hand
 
@@ -19,9 +19,9 @@ The hilt of this +3 major striking axiomatic spell-storing longsword is simple a
 
 Whenever the Kortos Diamond is in an area of dim or brighter light, it glows faintly, as if reflecting the light of a setting sun.
 
-While wielding the Kortos Diamond, you gain a +2 item bonus on saving throws against [mental](rules/traits/mental.md "Mental Effect Trait") effects. You can never harm yourself with the Kortos Diamond, even if [confused](rules/conditions.md#Confused).
+While wielding the Kortos Diamond, you gain a +2 item bonus on saving throws against [mental](archive/srd/pf2e/rules/traits/mental.md "Mental Effect Trait") effects. You can never harm yourself with the Kortos Diamond, even if [confused](archive/srd/pf2e/rules/conditions.md#Confused).
 
-If you ever travel farther than 100 miles from the Isle of Kortos while in possession of the Kortos Diamond, the sword becomes impossibly heavy; you are [encumbered](rules/conditions.md#Encumbered) as long as you carry the sword and remain outside of this area. If you relinquish the Kortos Diamond while away from Kortos, the sword gradually makes its way back to the isle over the course of a year.
+If you ever travel farther than 100 miles from the Isle of Kortos while in possession of the Kortos Diamond, the sword becomes impossibly heavy; you are [encumbered](archive/srd/pf2e/rules/conditions.md#Encumbered) as long as you carry the sword and remain outside of this area. If you relinquish the Kortos Diamond while away from Kortos, the sword gradually makes its way back to the isle over the course of a year.
 
 ```ad-embed-ability
 title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") [Interact](rules/actions/interact.md)

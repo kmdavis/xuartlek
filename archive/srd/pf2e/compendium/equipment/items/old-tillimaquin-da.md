@@ -10,12 +10,12 @@ tags:
 aliases: ["Old Tillimaquin"]
 ---
 # Old Tillimaquin *Item 12*  
-[enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  
+[enchantment](enchantment.md "Enchantment School Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [unique](archive/srd/pf2e/rules/traits/unique.md "Unique Rarity Trait")  
 
 - **Price** 2000 gp
 - **Bulk** 3
 
-This beloved tavern mascot is a shabby old stuffed beast mounted on an immense slab of ironwood. The beast is roughly the size and shape of a wolverine but with a broader snout, blue stripes along its upper legs and bristled back, and a club of spiked bone at the end of its long tail. No one can recall where Old Tillimaquin originally came from, how the taxidermic beast came to stand in its tavern, or even whether it's a genuine article. The tradition of rubbing its bronzed claws for good luck has been [observed](rules/conditions.md#Observed) for so long that the front claws are worn to stubs. Local belief holds that as long as Old Tillimaquin stands, neither fire nor flood will claim its town.
+This beloved tavern mascot is a shabby old stuffed beast mounted on an immense slab of ironwood. The beast is roughly the size and shape of a wolverine but with a broader snout, blue stripes along its upper legs and bristled back, and a club of spiked bone at the end of its long tail. No one can recall where Old Tillimaquin originally came from, how the taxidermic beast came to stand in its tavern, or even whether it's a genuine article. The tradition of rubbing its bronzed claws for good luck has been [observed](archive/srd/pf2e/rules/conditions.md#Observed) for so long that the front claws are worn to stubs. Local belief holds that as long as Old Tillimaquin stands, neither fire nor flood will claim its town.
 
 ```ad-embed-ability
 title: **Activate** [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([Interact](rules/actions/interact.md)) ([divination](rules/traits/divination.md), [fortune](rules/traits/fortune.md), [occult](rules/traits/occult.md))

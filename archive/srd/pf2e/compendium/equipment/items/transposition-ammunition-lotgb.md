@@ -12,12 +12,12 @@ tags:
 aliases: ["Transposition Ammunition"]
 ---
 # Transposition Ammunition *Item 9+*  
-[conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[conjuration](conjuration.md "Conjuration School Trait")  [consumable](archive/srd/pf2e/rules/traits/consumable.md "Consumable Item Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [teleportation](archive/srd/pf2e/rules/traits/teleportation.md "Teleportation Effect Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Ammunition** any
-- **Activate** [Interact](rules/actions/interact.md)
+- **Activate** [Interact](archive/srd/pf2e/rules/actions/interact.md)
 
-Transposition ammunition has a milky-white cast and will sometimes shift position subtly of its own accord. When you activate the ammunition, instead of making your [Strike](rules/actions/strike.md) against a foe, you fire transposition ammunition at any unoccupied square you can see within your weapon's first range increment and succeed without making an attack roll. You pull yourself through the Astral Plane, teleporting along with any items you are holding into the square where you shot the ammunition. If this would carry along any other creature (even one in an extradimensional space), the activation fails.
+Transposition ammunition has a milky-white cast and will sometimes shift position subtly of its own accord. When you activate the ammunition, instead of making your [Strike](archive/srd/pf2e/rules/actions/strike.md) against a foe, you fire transposition ammunition at any unoccupied square you can see within your weapon's first range increment and succeed without making an attack roll. You pull yourself through the Astral Plane, teleporting along with any items you are holding into the square where you shot the ammunition. If this would carry along any other creature (even one in an extradimensional space), the activation fails.
 
 ---
 

@@ -8,14 +8,14 @@ tags:
 aliases: ["Formian Sting Trench"]
 ---
 # Formian Sting Trench *Hazard 4*  
-[mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
+[mechanical](archive/srd/pf2e/rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](archive/srd/pf2e/rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 25 trained  
 
 A thin layer of canvas conceals this 10-foot-square pit, the walls of which are studded with dagger-sized formian stingers. Creatures that fall into the trap risk being gouged by the poisonous barbs.
 
-- **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (trained)  
+- **Disable** DC 22 [Thievery](skills.md#Thievery) (trained)  
 
 - **AC** 18, **Fort** +8, **Ref** +8
 - **Canvas HP** 30 (BT 15)
@@ -41,6 +41,6 @@ title: **Formian Trench Poison**  ([poison](rules/traits/poison.md))
 %%
 ```
 
-**Reset** Creatures can still fall into the trap, but the canvas must be reset manually for the trap to become [hidden](rules/conditions.md#Hidden) again.  
+**Reset** Creatures can still fall into the trap, but the canvas must be reset manually for the trap to become [hidden](archive/srd/pf2e/rules/conditions.md#Hidden) again.  
 
 *Source: Gatewalkers #1: The Seventh Arch p. 0*

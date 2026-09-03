@@ -7,9 +7,9 @@ tags:
 aliases: ["Advanced Flair"]
 ---
 # Advanced Flair  *Feat 6*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Basic Flair](compendium/feats/basic-flair-apg.md)
+- **Prerequisites**: [Basic Flair](basic-flair-apg.md)
 
 You gain one swashbuckler feat. For the purpose of meeting its prerequisites, your swashbuckler level is equal to half your character level.
 

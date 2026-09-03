@@ -15,4 +15,4 @@ You called the wilderness home as you found trails and guided travelers. Your wa
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [Survival](compendium/skills.md#Survival) skill and a [Lore](compendium/skills.md#Lore) skill related to one terrain you scouted in (such as [Forest Lore](compendium/skills.md#Lore) or [Cavern Lore](compendium/skills.md#Lore)). You gain the [Forager](compendium/feats/forager.md) skill feat.
+You're trained in the [Survival](skills.md#Survival) skill and a [Lore](skills.md#Lore) skill related to one terrain you scouted in (such as [Forest Lore](skills.md#Lore) or [Cavern Lore](skills.md#Lore)). You gain the [Forager](archive/srd/pf2e/compendium/feats/forager.md) skill feat.

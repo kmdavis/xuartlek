@@ -10,7 +10,7 @@ tags:
 aliases: ["Spider Chair"]
 ---
 # Spider Chair *Item 12*  
-[clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[clockwork](clockwork-g-g.md "Clockwork  Trait")  [magical](archive/srd/pf2e/rules/traits/magical.md "Magical Item Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Price** 1800 gp
 - **Bulk** 3

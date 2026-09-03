@@ -8,14 +8,14 @@ tags:
 aliases: ["Dance of Death"]
 ---
 # Dance of Death *Hazard 16*  
-[complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  
+[complex](complex.md "Complex Hazard Trait")  [haunt](archive/srd/pf2e/rules/traits/haunt.md "Haunt Hazard Trait")  
 
 - **Complexity** Complex
 - **Stealth** +32 master  
 
 An eerie orchestra compels all who hear it to dance until they collapse from exhaustion.
 
-- **Disable** DC 42 [Intimidation](compendium/skills.md#Intimidation) (expert) three times to frighten dancers and spectral musicians alike away from participating in the deadly performance, DC 40 [Performance](compendium/skills.md#Performance) (master) twice to produce a tune discordant enough to disrupt the compulsion, or DC 42 [Religion](compendium/skills.md#Religion) (master) three times to banish the spirits with prayers  
+- **Disable** DC 42 [Intimidation](skills.md#Intimidation) (expert) three times to frighten dancers and spectral musicians alike away from participating in the deadly performance, DC 40 [Performance](skills.md#Performance) (master) twice to produce a tune discordant enough to disrupt the compulsion, or DC 42 [Religion](skills.md#Religion) (master) three times to banish the spirits with prayers  
 
 ```ad-embed-ability
 title: **Prelude** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([auditory](rules/traits/auditory.md), [enchantment](rules/traits/enchantment.md), [incapacitation](rules/traits/incapacitation.md), [occult](rules/traits/occult.md))

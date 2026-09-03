@@ -9,18 +9,18 @@ tags:
 aliases: ["Bright Lion Dedication"]
 ---
 # Bright Lion Dedication  *Feat 2*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  [dedication](rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  [dedication](archive/srd/pf2e/rules/traits/dedication.md "Dedication Feat Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
-- **Access**: [Bright Lion](compendium/character/backgrounds/bright-lion-lowg.md) background
-- **Prerequisites**: member of the Bright Lions, not a worshipper of Walkena, trained in [Stealth](compendium/skills.md#Stealth)
+- **Access**: [Bright Lion](bright-lion-lowg.md) background
+- **Prerequisites**: member of the Bright Lions, not a worshipper of Walkena, trained in [Stealth](skills.md#Stealth)
 
-You become trained in your choice of [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy) and in [Mzali Lore](compendium/skills.md#Lore); if you were already trained, you become an expert instead. You incorporate enough worship of Walkena in your daily life to avoid suspicion. You typically don't need to [Lie](rules/actions/lie.md) or [Impersonate](rules/actions/impersonate.md) to pass yourself off as a worshipper of Walkena. Against careful inspection, you gain a +4 circumstance bonus to [Deception](compendium/skills.md#Deception) checks specifically to pass yourself off as a version of yourself faithful to Walkena.
+You become trained in your choice of [Deception](skills.md#Deception) or [Diplomacy](skills.md#Diplomacy) and in [Mzali Lore](skills.md#Lore); if you were already trained, you become an expert instead. You incorporate enough worship of Walkena in your daily life to avoid suspicion. You typically don't need to [Lie](archive/srd/pf2e/rules/actions/lie.md) or [Impersonate](archive/srd/pf2e/rules/actions/impersonate.md) to pass yourself off as a worshipper of Walkena. Against careful inspection, you gain a +4 circumstance bonus to [Deception](skills.md#Deception) checks specifically to pass yourself off as a version of yourself faithful to Walkena.
 
 **Special.** You can't select another dedication feat until you have gained two other feats from the Bright Lion archetype.
 
 ## Bright Lion Dedication leads to...
 
-[Elude The Divine](compendium/feats/elude-the-divine-lol.md), [Sun's Fury](compendium/feats/suns-fury-lol.md), [Warding Light](compendium/feats/warding-light-lol.md)
+[Elude The Divine](elude-the-divine-lol.md), [Sun's Fury](archive/srd/pf2e/compendium/feats/suns-fury-lol.md), [Warding Light](warding-light-lol.md)
 
 ## Summary
 

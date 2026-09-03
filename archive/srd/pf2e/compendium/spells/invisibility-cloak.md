@@ -10,13 +10,13 @@ tags:
 aliases: ["Invisibility Cloak"]
 ---
 # Invisibility Cloak *Focus 4*   
-[illusion](rules/traits/illusion.md "Illusion School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  
+[illusion](archive/srd/pf2e/rules/traits/illusion.md "Illusion School Trait")  [uncommon](archive/srd/pf2e/rules/traits/uncommon.md "Uncommon Rarity Trait")  [wizard](archive/srd/pf2e/rules/traits/wizard.md "Wizard Class Trait")  
 
-- **Cast** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") 
+- **Cast** [>>](chapter-9-playing-the-game.md#Actions "Two-Action") 
 - 
 - **Duration**: 1 minute
 
-You become [invisible](rules/conditions.md#Invisible), with the same restrictions as the 2nd-level [invisibility](compendium/spells/invisibility.md) spell.
+You become [invisible](archive/srd/pf2e/rules/conditions.md#Invisible), with the same restrictions as the 2nd-level [invisibility](archive/srd/pf2e/compendium/spells/invisibility.md) spell.
 
 **Heightened (6th)** The duration increases to 10 minutes.
 

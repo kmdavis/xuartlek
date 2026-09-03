@@ -7,9 +7,9 @@ tags:
 aliases: ["Swap Investment"]
 ---
 # Swap Investment  *Feat 12*  
-[archetype](rules/traits/archetype.md "Archetype Feat Trait")  
+[archetype](archive/srd/pf2e/rules/traits/archetype.md "Archetype Feat Trait")  
 
-- **Prerequisites**: [Pathfinder Agent Dedication](compendium/feats/pathfinder-agent-dedication-lowg.md)
+- **Prerequisites**: [Pathfinder Agent Dedication](pathfinder-agent-dedication-lowg.md)
 - **Frequency**: once per day
 
 Your time as a Pathfinder has taught you how to improvise, and you've learned to make use of the resources you find in the field. You Invest a magic item and remove a previously invested item. The previous item no longer counts against your limit of 10 invested items.
