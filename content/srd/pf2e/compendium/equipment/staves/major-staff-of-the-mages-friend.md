@@ -30,7 +30,7 @@ When this staff is prepared, the carved wooden animal figurine atop it shifts to
 
 ---
 
-**Cantrip** _protect companion_**1st** _pet cache_
+**Cantrip** _protect companion_**1st** [[srd/pf2e/compendium/spells/rank-1/pet-cache|_pet cache_]]
 
 ### Greater Staff Of The Mage's Friend
 
@@ -38,7 +38,7 @@ When this staff is prepared, the carved wooden animal figurine atop it shifts to
 
 ---
 
-**2nd** _floating harness_**3rd** _familiar's call_, _tiny wings_
+**2nd** [[srd/pf2e/compendium/spells/rank-2/floating-harness|_floating harness_]]**3rd** [[srd/pf2e/compendium/spells/rank-3/familiars-call|_familiar's call_]], [[srd/pf2e/compendium/spells/rank-3/tiny-wings|_tiny wings_]]
 
 ### Major Staff Of The Mage's Friend
 
@@ -46,6 +46,6 @@ When this staff is prepared, the carved wooden animal figurine atop it shifts to
 
 ---
 
-**4th** _defensive prescience_, _overload connection_ **5th** _familiar's call_, _sudden swarm_
+**4th** [[srd/pf2e/compendium/spells/rank-3/defensive-prescience|_defensive prescience_]], [[srd/pf2e/compendium/spells/rank-3/overload-connection|_overload connection_]] **5th** _familiar's call_, [[srd/pf2e/compendium/spells/rank-4/sudden-swarm|_sudden swarm_]]
 
 *Source: Impossible Magic p. 240*

@@ -11,6 +11,6 @@ source: "NPC Core"
 # Elf  *Creature Adjustment*
 
 Elves are long-lived and use their vast wealth of experience to fill many roles in society. Elves tend to be rather private people, often finding it difficult to form close bonds with shorter-lived ancestries. 
-Replace the human trait with the elf trait.Add the Elven language.Optionally change Speed to 30 feet if lower.Add the following abilities. **Low-Light Vision**
+Replace the [[srd/pf2e/compendium/rules-elements/traits/player-core/human|human]] trait with the [[srd/pf2e/compendium/rules-elements/traits/player-core/elf|elf]] trait.Add the [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]] language.Optionally change Speed to 30 feet if lower.Add the following abilities. **Low-Light Vision**
 
 *Source: NPC Core p. 168*

@@ -26,7 +26,7 @@ This massive undead vehicle is created by crafting a piloting and cargo compartm
 
 **Passengers** 30
 
-**Piloting Check** Arcana (DC 42) or Driving Lore (DC 40)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (DC 42) or [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]] (DC 40)
 
 ---
 
@@ -38,15 +38,15 @@ This massive undead vehicle is created by crafting a piloting and cargo compartm
 
 **HP** 300 (BT 150)
 
-**Immunities** object immunities, precision damage
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
 ---
 
-**Speed** 30 feet, burrow 30 feet (clockwork, magical)
+**Speed** 30 feet, burrow 30 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])
 
 **Collision** 14d10 (DC 40)
 
-**Swallow** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (manipulate) Two crew members each perform a 3-action activity on their turn to open the caravan crawler’s mouth and eat a Huge or smaller creature adjacent to the vehicle, who must attempt a DC 40 Fortitude save. A creature can choose to fail. On a failure, the creature is swallowed by the cavern crawler, moved into the passenger bay, and knocked prone. This action fails if the passenger bay is full.
+**Swallow** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) Two crew members each perform a 3-action activity on their turn to open the caravan crawler’s mouth and eat a Huge or smaller creature adjacent to the vehicle, who must attempt a DC 40 Fortitude save. A creature can choose to fail. On a failure, the creature is swallowed by the cavern crawler, moved into the passenger bay, and knocked prone. This action fails if the passenger bay is full.
 **Tunnel** The cavern crawler can burrow through solid stone at a Speed of 15 feet. The pilot can choose to leave a tunnel.
 
 *Source: Battlecry! p. 111*

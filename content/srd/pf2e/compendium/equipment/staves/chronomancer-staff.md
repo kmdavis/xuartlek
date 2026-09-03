@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-Clock faces and gears adorn the twisted iron shaft of a _chronomancer staff_, the hands of the clocks continually ticking or winding backward. Used as a weapon, the staff is a _+2 greater striking quickstrike staff_. While wielding this staff, you also gain a +1 circumstance bonus to initiative rolls.
+Clock faces and gears adorn the twisted iron shaft of a _chronomancer staff_, the hands of the clocks continually ticking or winding backward. Used as a weapon, the staff is a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 greater striking]] [[srd/pf2e/compendium/equipment/runes/quickstrike|quickstrike]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_. While wielding this staff, you also gain a +1 circumstance bonus to initiative rolls.
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list. 
 **Cantrip** _time sense_**1st** _déjà vu_, _synchronize_**2nd** _loose time's arrow_, _synchronize_**3rd** _day's weight_, _haste_, _slow_, _time jump_**4th** _curse of lost time_**5th** _quicken time_, _rewinding step_, _stagnate time_**6th** _cast into time_, _day's weight_**7th** _time beacon_

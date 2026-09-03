@@ -18,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 1,400 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: Boomerang
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/boomerang|Boomerang]]
 
-Though the body of this _+2 striking impactful boomerang_ is riddled with glowing hairline cracks, the weapon feels reassuringly solid in the hand. If you damage a target that has been struck by a _rime foil_ within the last round, you bruise its chilled body, and the target takes a –5-foot penalty to all its Speeds, or a –10-foot penalty on a critical hit.
+Though the body of this _+2 striking impactful [[srd/pf2e/compendium/equipment/weapons/club/boomerang|boomerang]]_ is riddled with glowing hairline cracks, the weapon feels reassuringly solid in the hand. If you damage a target that has been struck by a _[[srd/pf2e/compendium/equipment/weapons/rime-foil|rime foil]]_ within the last round, you bruise its chilled body, and the target takes a –5-foot penalty to all its Speeds, or a –10-foot penalty on a critical hit.
 
  **Special** The _shattered plan_ pairs with the _rime foil_.
 

@@ -17,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Price**: 360 gp
 - **Ammunition**: any
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 _Dimension shot_ is deep blue black, but motes of light play upon it like stars in the night sky. The activated ammunition allows you to teleport to a location near where the ammunition hits. If you hit a creature, you can teleport to an unoccupied space adjacent to that creature. If you fire at a square, you can teleport to a space that contains that square or an unoccupied space adjacent to it. The teleportation fails if no unoccupied space is available to you.
 

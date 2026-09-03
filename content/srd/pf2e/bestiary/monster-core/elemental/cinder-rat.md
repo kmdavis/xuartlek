@@ -31,11 +31,11 @@ perception:
     desc: "Perception +9; darkvision, smoke vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Stealth +10, Survival +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
 abilityMods: [2, 3, 2, -4, 2, 0]
 abilities_top:
   - name: "Smoke Vision"
-    desc: "The cinder rat ignores the concealed condition from smoke."
+    desc: "The cinder rat ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from smoke."
 ac: 18
 armorclass:
   - name: "AC"
@@ -43,14 +43,14 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ bleed, fire, paralyzed, poison, sleep; __Weaknesses__ cold 5, water 5"
+    desc: "45; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] 5"
 abilities_mid:
   - name: "Fetid Fumes"
-    desc: "(aura, fire) 5 feet. A creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude save or become sickened 1. Everything within the aura, including the cinder rat, is concealed by smoke."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) 5 feet. A creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]]. Everything within the aura, including the cinder rat, is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] by smoke."
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +10 (Finesse) __Damage__ 1d8+4 fire plus 1d4 persistent fire"
+    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d8+4 fire plus 1d4 persistent fire"
 sourcebook: "_Monster Core_, page 144."
 ```
 

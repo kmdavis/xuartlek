@@ -19,7 +19,7 @@ source: "Impossible Magic"
 - **Cast**: 1 day
 - **Cost**: a pair of jeweled mirrors worth a total value of 50 gp × the level of the highest-level target
 - **Secondary Casters**: 1
-- **Primary Check**: Occultism (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
 - **Secondary Checks**: Medicine or Occultism
 - **Range**: 10 feet
 - **Target(s)**: 2 creatures of the same ancestry, whose respective levels are no more than twice the rank of the ritual
@@ -29,15 +29,15 @@ To walk in another's shoes is to truly understand someone. This ritual allows tw
 
  If a body dies, the mind and spirit controlling it die instantly. When the effect ends, the minds and souls snap back to their original bodies. At this time, if the original body is dead, the mind and soul attempting to return to that body die as well. 
 
-**Critical Success** Each target's mind and spirit possess the other's body and can control it normally. The mind swap is unusually smooth, and the targets gain a +4 circumstance bonus to Deception checks to Impersonate each other.
+**Critical Success** Each target's mind and spirit possess the other's body and can control it normally. The mind swap is unusually smooth, and the targets gain a +4 circumstance bonus to Deception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] each other.
 
 **Success** Each target's mind and spirit possess the other's body and can control it normally.
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** The ritual is scrambled, sending a welter of confused memories into the target's minds. You and the secondary casters are stupefied 2 for the next week.
+**Critical Failure** The ritual is scrambled, sending a welter of confused memories into the target's minds. You and the secondary casters are [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 for the next week.
 
 ---
-**Heightened (9th)** You can cast the ritual without a duration, leaving no magic to counteract. The effects are reversible only by another mind swap ritual or other powerful magic like a wish ritual. This increases the cost of the ritual to 10,000 gp and likely violates many deity's anathema unless both targets are willing.
+**Heightened (9th)** You can cast the ritual without a duration, leaving no magic to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]]. The effects are reversible only by another mind swap ritual or other powerful magic like a wish ritual. This increases the cost of the ritual to 10,000 gp and likely violates many deity's anathema unless both targets are willing.
 
 *Source: Impossible Magic p. 194*

@@ -21,6 +21,6 @@ source: "Player Core"
 - **Duration**: 1 minute
 
 You change your body to better suit the moment. You gain one of the following abilities of your choice. You can Dismiss this spell. 
-You gain a 20-foot status bonus to your Speed.You gain a climb or swim Speed equal to half your Speed.You gain darkvision.You gain a pair of claws. These are agile finesse unarmed attacks that deal 1d8 slashing damage.You gain scent 60 feet (imprecise).
+You gain a 20-foot status bonus to your Speed.You gain a climb or swim Speed equal to half your Speed.You gain darkvision.You gain a pair of claws. These are [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks that deal 1d8 slashing damage.You gain scent 60 feet (imprecise).
 
 *Source: Player Core p. 388*

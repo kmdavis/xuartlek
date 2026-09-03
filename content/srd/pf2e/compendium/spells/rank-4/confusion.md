@@ -31,7 +31,7 @@ You befuddle your target with strange impulses, causing it to act randomly. The 
 
 **Success** The target babbles incoherently and is stunned 1.
 
-**Failure** The target is confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.
 
 **Critical Failure** The target is confused for 1 minute, with no save to end early.
 

@@ -33,7 +33,7 @@ perception:
     desc: "Perception +7; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +7, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [1, 3, 2, -4, 1, 0]
 ac: 18
 armorclass:
@@ -42,14 +42,14 @@ armorclass:
 hp: 35
 health:
   - name: "HP"
-    desc: "35; __Immunities__ bleed, cold, paralyzed, poison, sleep; __Weaknesses__ fire 5"
+    desc: "35; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
 speed: "25 feet, climb 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +9 (Finesse) __Damage__ 1d6+1 piercing plus 1d6 persistent cold"
+    desc: "⬻ jaws +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+1 piercing plus 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent cold]]"
 abilities_bot:
   - name: "Icicle"
-    desc: "⬻ (Concentrate) Until the next time it acts, the icicle snake appears to be an unassuming icicle. It has an automatic result of 27 on Deception checks and DCs to pass as an icicle."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) Until the next time it acts, the icicle snake appears to be an unassuming icicle. It has an automatic result of 27 on [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks and DCs to pass as an icicle."
 sourcebook: "_Monster Core 2_, page 150."
 ```
 

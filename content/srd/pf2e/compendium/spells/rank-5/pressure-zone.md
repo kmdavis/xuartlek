@@ -26,7 +26,7 @@ Air pressure drops precipitously, causing pain and debilitation in creatures' in
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is deafened and clumsy 1 until the end of its next turn, after which it's temporarily immune for 1 hour.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] and clumsy 1 until the end of its next turn, after which it's temporarily immune for 1 hour.
 
 **Failure** The creature is deafened and clumsy 2. At the end of each of its turns, it can attempt a new save if it's no longer in the pressure zone. On a success, it ends the effects and is temporarily immune for 1 hour.
 

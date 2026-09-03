@@ -18,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Sickened creatures have difficulty swallowing, so you can Activate emetic paste by applying it to your skin or that of a sickened creature within reach, typically on the throat. The paste makes it easy for the sickened creature to purge, granting it an immediate Fortitude save to reduce its sickened condition. The paste grants the target an item bonus to that save and to all saving throws to reduce the sickened condition for 1 hour.
+[[srd/pf2e/compendium/rules-elements/conditions#Sickened|Sickened]] creatures have difficulty swallowing, so you can Activate emetic paste by applying it to your skin or that of a sickened creature within reach, typically on the throat. The paste makes it easy for the sickened creature to purge, granting it an immediate Fortitude save to reduce its sickened condition. The paste grants the target an item bonus to that save and to all saving throws to reduce the sickened condition for 1 hour.
 
 ### Emetic Paste (Lesser)
 

@@ -16,21 +16,21 @@ citation: "NPC Core pg. 217"
 
 <sup>NPC p. 217</sup>
 
-Some NPCs, such as the beast tamer, the orc gamekeeper, and the pack leader, take on and train animal companions to help them with their endeavors. The creatures from *Monster Core* listed below work well in this role. Unlike a PC's animal companion, an NPC's animal companion has the standard number of actions, uses its normal stat block, and counts toward the encounter's XP budget normally.
+Some NPCs, such as the [[srd/pf2e/bestiary/npc-core/humanoid/beast-tamer|beast tamer]], the [[srd/pf2e/bestiary/npc-core/humanoid/orc-gamekeeper|orc gamekeeper]], and the [[srd/pf2e/bestiary/npc-core/humanoid/pack-leader|pack leader]], take on and train animal companions to help them with their endeavors. The creatures from *Monster Core* listed below work well in this role. Unlike a PC's animal companion, an NPC's animal companion has the standard number of actions, uses its normal stat block, and counts toward the encounter's XP budget normally.
 
 Several new creatures suitable for animal companions are presented beginning on page 218. You can use the weak and elite adjustments to scale their level to be appropriate for an encounter's budget.
 
-**Level -1**: compsognathus, eagle, flash beetle, giant centipede, giant rat, guard dog, viper
-**Level 0**: bottlenose dolphin, riding dog
-**Level 1**: electric eel, giant gecko, goblin dog, hippocampus, hunting spider, hyena, python, riding dog, riding horse, velociraptor, war pony, wolf
-**Level 2**: boar, crocodile, deinonychus, giant ant, giant monitor lizard, giant viper, hippogriff, leopard, pteranodon, slurk, war horse
-**Level 3**: ankhrav, dire wolf, giant mantis, giant scorpion, giant wasp, gorilla, grizzly bear, hell hound, hyaenodon, lion, pachycephalosaurus, snapping flytrap
-**Level 4**: daeodon, giant stag beetle, griffon, rhinoceros, tiger
-**Level 5**: giant frilled lizard, giant moray eel
-**Level 6**: cave bear, giant tarantula, smilodon, woolly rhinoceros
-**Level 8**: krooth
-**Level 9**: greater hell hound
-**Level 10**: gezullon
+**Level -1**: [[srd/pf2e/bestiary/monster-core/animal/compsognathus|compsognathus]], [[srd/pf2e/bestiary/monster-core/animal/eagle|eagle]], [[srd/pf2e/bestiary/monster-core/animal/flash-beetle|flash beetle]], [[srd/pf2e/bestiary/monster-core/animal/giant-centipede|giant centipede]], [[srd/pf2e/bestiary/monster-core/animal/giant-rat|giant rat]], [[srd/pf2e/bestiary/monster-core/animal/guard-dog|guard dog]], [[srd/pf2e/bestiary/monster-core/animal/viper|viper]]
+**Level 0**: [[srd/pf2e/bestiary/monster-core/animal/bottlenose-dolphin|bottlenose dolphin]], [[srd/pf2e/bestiary/monster-core/animal/riding-dog|riding dog]]
+**Level 1**: [[srd/pf2e/bestiary/monster-core/animal/electric-eel|electric eel]], [[srd/pf2e/bestiary/monster-core/animal/giant-gecko|giant gecko]], [[srd/pf2e/bestiary/monster-core/animal/goblin-dog|goblin dog]], [[srd/pf2e/bestiary/monster-core/animal/hippocampus|hippocampus]], [[srd/pf2e/bestiary/monster-core/animal/hunting-spider|hunting spider]], [[srd/pf2e/bestiary/monster-core/animal/hyena|hyena]], [[srd/pf2e/bestiary/monster-core/animal/python|python]], [[srd/pf2e/bestiary/monster-core/animal/riding-dog|riding dog]], [[srd/pf2e/bestiary/monster-core/animal/riding-horse|riding horse]], [[srd/pf2e/bestiary/monster-core/animal/velociraptor|velociraptor]], [[srd/pf2e/bestiary/monster-core/animal/war-pony|war pony]], [[srd/pf2e/bestiary/monster-core/animal/wolf|wolf]]
+**Level 2**: [[srd/pf2e/bestiary/monster-core/animal/boar|boar]], [[srd/pf2e/bestiary/monster-core/animal/crocodile|crocodile]], [[srd/pf2e/bestiary/monster-core/animal/deinonychus|deinonychus]], [[srd/pf2e/bestiary/monster-core/animal/giant-ant|giant ant]], [[srd/pf2e/bestiary/monster-core/animal/giant-monitor-lizard|giant monitor lizard]], [[srd/pf2e/bestiary/monster-core/animal/giant-viper|giant viper]], [[srd/pf2e/bestiary/monster-core/animal/hippogriff|hippogriff]], [[srd/pf2e/bestiary/monster-core/animal/leopard|leopard]], [[srd/pf2e/bestiary/monster-core/animal/pteranodon|pteranodon]], [[srd/pf2e/bestiary/monster-core/animal/slurk|slurk]], [[srd/pf2e/bestiary/monster-core/animal/war-horse|war horse]]
+**Level 3**: [[srd/pf2e/bestiary/monster-core/animal/ankhrav|ankhrav]], [[srd/pf2e/bestiary/monster-core/animal/dire-wolf|dire wolf]], [[srd/pf2e/bestiary/monster-core/animal/giant-mantis|giant mantis]], [[srd/pf2e/bestiary/monster-core/animal/giant-scorpion|giant scorpion]], [[srd/pf2e/bestiary/monster-core/animal/giant-wasp|giant wasp]], [[srd/pf2e/bestiary/monster-core/animal/gorilla|gorilla]], [[srd/pf2e/bestiary/monster-core/animal/grizzly-bear|grizzly bear]], [[srd/pf2e/bestiary/monster-core/beast/hell-hound|hell hound]], [[srd/pf2e/bestiary/monster-core/animal/hyaenodon|hyaenodon]], [[srd/pf2e/bestiary/monster-core/animal/lion|lion]], [[srd/pf2e/bestiary/monster-core/animal/pachycephalosaurus|pachycephalosaurus]], [[srd/pf2e/bestiary/monster-core/plant/snapping-flytrap|snapping flytrap]]
+**Level 4**: [[srd/pf2e/bestiary/monster-core/animal/daeodon|daeodon]], [[srd/pf2e/bestiary/monster-core/animal/giant-stag-beetle|giant stag beetle]], [[srd/pf2e/bestiary/monster-core/animal/griffon|griffon]], [[srd/pf2e/bestiary/monster-core/animal/rhinoceros|rhinoceros]], [[srd/pf2e/bestiary/monster-core/animal/tiger|tiger]]
+**Level 5**: [[srd/pf2e/bestiary/monster-core/animal/giant-frilled-lizard|giant frilled lizard]], [[srd/pf2e/bestiary/monster-core/animal/giant-moray-eel|giant moray eel]]
+**Level 6**: [[srd/pf2e/bestiary/monster-core/animal/cave-bear|cave bear]], [[srd/pf2e/bestiary/monster-core/animal/giant-tarantula|giant tarantula]], [[srd/pf2e/bestiary/monster-core/animal/smilodon|smilodon]], [[srd/pf2e/bestiary/monster-core/animal/woolly-rhinoceros|woolly rhinoceros]]
+**Level 8**: [[srd/pf2e/bestiary/monster-core/animal/krooth|krooth]]
+**Level 9**: [[srd/pf2e/bestiary/monster-core/beast/greater-hell-hound|greater hell hound]]
+**Level 10**: [[srd/pf2e/bestiary/monster-core/plant/dezullon|gezullon]]
 
 > [!pf2-sidebar] RIDING ANIMAL COMPANIONS
 >
@@ -42,7 +42,7 @@ Player characters can receive the support of their animal companions in combat u
 
 ## Common Support Abilities
 
-**Ape** The ape threatens the NPC's foes with menacing growls. Until the start of the NPC's next turn, if the NPC hits and deals damage to a creature in the ape's reach, the creature becomes frightened 1.
+**Ape** The ape threatens the NPC's foes with menacing growls. Until the start of the NPC's next turn, if the NPC hits and deals damage to a creature in the ape's reach, the creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]].
 
 **Badger** The badger digs around a foe's position, upending the ground and interfering with its footing. Until the start of the NPC's next turn, if the NPC hits and deals damage to a creature the badger threatens, the target can't use a Step action (unless it can Step through difficult terrain) until it moves from its current position.
 
@@ -50,17 +50,17 @@ Player characters can receive the support of their animal companions in combat u
 
 **Bear** The bear mauls the NPC's enemies when the NPC creates an opening. Until the start of the NPC's next turn, each time they hit a creature in the bear's reach with a Strike, the creature takes 1d8 slashing damage from the bear (or 2d8 if the bear is 8th level or higher).
 
-**Bird** The bird pecks at foes' eyes when the NPC creates an opening. Until the start of the NPC's next turn, the NPC's Strikes that damage a creature that the bird threatens also deal 1d4 persistent bleed damage (or 2d4 if the bird is 8th level or higher), and the target is dazzled until the bleed damage ends.
+**Bird** The bird pecks at foes' eyes when the NPC creates an opening. Until the start of the NPC's next turn, the NPC's Strikes that damage a creature that the bird threatens also deal 1d4 persistent bleed damage (or 2d4 if the bird is 8th level or higher), and the target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the bleed damage ends.
 
 **Boar** The boar gores the NPC's foes. Until the start of the NPC's next turn, the NPC's Strikes that damage a creature in the boar's reach deal an extra 1d6 persistent bleed damage (or 2d6 if the boar is 8th level or higher).
 
-**Cat** The cat throws enemies off-balance when the NPC creates an opening. Until the start of the NPC's next turn, the NPC's Strikes that deal damage to a creature within the cat's reach make the target off-guard until the end of the NPC's next turn.
+**Cat** The cat throws enemies off-balance when the NPC creates an opening. Until the start of the NPC's next turn, the NPC's Strikes that deal damage to a creature within the cat's reach make the target [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of the NPC's next turn.
 
-**Crocodile** The crocodile clamps its jaws on a foe, refusing to let go. Until the start of the NPC's next turn, if the NPC's Strike damages a creature in the crocodile's reach, the crocodile can latch onto the creature. While thus attached, the crocodile can move along with the target whenever the target moves until the end of the NPC's next turn. The crocodile can latch onto only one creature in this way, and it must release the creature to make a jaws Strike. If the target is smaller than the crocodile, it takes a –10-foot circumstance penalty to its Speeds and can't Fly while the crocodile is latched on.
+**Crocodile** The crocodile clamps its jaws on a foe, refusing to let go. Until the start of the NPC's next turn, if the NPC's Strike damages a creature in the crocodile's reach, the crocodile can latch onto the creature. While thus attached, the crocodile can move along with the target whenever the target moves until the end of the NPC's next turn. The crocodile can latch onto only one creature in this way, and it must release the creature to make a jaws Strike. If the target is smaller than the crocodile, it takes a –10-foot circumstance penalty to its Speeds and can't [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] while the crocodile is latched on.
 
 **Dromaesaur** The raptor constantly darts into flanking position. Until the start of the NPC's next turn, it counts as being in its space or an empty space of the NPC's choice within 10 feet of the NPC when determining whether the NPC and the dromaesaur are flanking; the NPC can choose a different space for each of their attacks.
 
-**Horse** Until the start of the NPC's next turn, if the NPC is mounted on the horse and moved 10 feet or more on the action before a melee Strike, the NPC gains a circumstance bonus to the damage roll equal to double the number of weapon damage dice. If the NPC's weapon already has the jousting weapon trait, instead increase the trait's damage bonus by 2 per die.
+**Horse** Until the start of the NPC's next turn, if the NPC is mounted on the horse and moved 10 feet or more on the action before a melee Strike, the NPC gains a circumstance bonus to the damage roll equal to double the number of weapon damage dice. If the NPC's weapon already has the [[srd/pf2e/compendium/rules-elements/traits/player-core/jousting|jousting]] weapon trait, instead increase the trait's damage bonus by 2 per die.
 
 **Scorpion** The scorpion drips poison from its stinger when the NPC creates an opening. Until the start of the NPC's next turn, the NPC's Strikes that damage a creature in the scorpion's reach deal an extra 1d6 persistent poison damage (or 2d6 if the scorpion is 8th level or higher).
 

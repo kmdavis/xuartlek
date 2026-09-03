@@ -18,7 +18,7 @@ source: "Player Core 2"
 
 - **Traditions**: Arcane, Primal
 - **Area**: 30-foot cone
-- **Defense**: basic Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
 You summon a crashing wave that sweeps away from you. You deal 6d6 bludgeoning damage to creatures in the area. The water also extinguishes non-magical fires in the area.
 

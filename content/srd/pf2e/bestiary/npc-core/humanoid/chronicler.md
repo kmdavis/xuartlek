@@ -29,14 +29,14 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Nature +10, Scribing Lore +13, Society +9, Survival +7, Lore +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Scribing Lore]] +13, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7, [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] +10"
 abilityMods: [2, 2, 1, 3, 4, 0]
 abilities_top:
   - name: "Items"
-    desc: "Crossbow (20 bolts), Dagger, journal, Leather Armor, maps, _scroll of acid grip_, _scroll of heal_, Staff"
+    desc: "Crossbow (20 bolts), Dagger, journal, Leather Armor, [[srd/pf2e/compendium/equipment/adventuring-gear/map-weather-map|maps]], [[srd/pf2e/compendium/spells/rank-2/acid-grip|_scroll of acid grip_]], [[srd/pf2e/compendium/spells/rank-1/heal|_scroll of heal_]], Staff"
 ac: 18
 armorclass:
   - name: "AC"
@@ -51,27 +51,27 @@ abilities_mid:
   - name: "Frequency"
     desc: "once per day"
   - name: "Trigger"
-    desc: "The chronicler would gain the dying condition"
+    desc: "The chronicler would gain the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition"
   - name: "Effect"
-    desc: "The chronicler instead falls unconscious for 1d4 hours or until they regain 1 Hit Point."
+    desc: "The chronicler instead falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] for 1d4 hours or until they regain 1 Hit Point."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +8 (Agile, versatile S) __Damage__ 1d4+5 piercing"
+    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+5 piercing"
   - name: "Melee"
-    desc: "⬻ staff +8 (two-hand d8) __Damage__ 1d4+5 bludgeoning"
+    desc: "⬻ staff +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4+5 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +8 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+5 bludgeoning"
+    desc: "⬻ fist +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+5 bludgeoning"
   - name: "Ranged"
     desc: "⬻ crossbow +7 (range increment 120 feet, reload 1) __Damage__ 1d8+3 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +8 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+5 piercing"
+    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+5 piercing"
 abilities_bot:
   - name: "Scroll Mastery"
     desc: "The chronicler can activate any scroll of a 2nd-rank spell or lower, regardless of its magical tradition."
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 20, attack +12 - __Cantrips (2nd)__ Frostbite, Know the Way, Light, Sigil, Tangle Vine - __1st__ Fleet Step, Tailwind, Vanishing Tracks - __2nd__ Entangling Flora, Floating Flame"
+    desc: "DC 20, attack +12 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/know-the-way|Know the Way]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/sigil|Sigil]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/fleet-step|Fleet Step]], [[srd/pf2e/compendium/spells/rank-1/tailwind|Tailwind]], [[srd/pf2e/compendium/spells/rank-1/vanishing-tracks|Vanishing Tracks]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/entangling-flora|Entangling Flora]], [[srd/pf2e/compendium/spells/rank-2/floating-flame|Floating Flame]]"
 sourcebook: "_NPC Core_, page 54."
 ```
 

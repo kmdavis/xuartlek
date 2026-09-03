@@ -31,7 +31,7 @@ perception:
     desc: "Perception +7; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Stealth +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
 abilityMods: [0, 3, 1, -4, 1, 0]
 ac: 18
 armorclass:
@@ -40,14 +40,14 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Immunities__ bleed, electricity, paralyzed, poison, sleep"
+    desc: "20; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 speed: "5 feet, fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ wing +11 (Agile, finesse) __Damage__ 1d4+5 electricity"
+    desc: "⬻ wing +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 1d4+5 electricity"
 abilities_bot:
   - name: "Arc Lightning"
-    desc: "⬻ (Electricity, move, primal) The spark moth transforms into lightning that arcs to a large piece of metal within 100 feet, such as a suit of metal armor or metal weapon. The elemental then returns to its normal form in a space adjacent to the metal. This movement doesn't trigger reactions."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|Electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The spark moth transforms into lightning that arcs to a large piece of metal within 100 feet, such as a suit of metal armor or metal weapon. The elemental then returns to its normal form in a space adjacent to the metal. This movement doesn't trigger reactions."
 sourcebook: "_Monster Core 2_, page 144."
 ```
 

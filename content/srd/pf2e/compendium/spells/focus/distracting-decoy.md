@@ -26,7 +26,7 @@ You conjure a colorful, fast-moving shape, such as a small bird or other animal 
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is off-guard until the start of your next turn.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of your next turn.
 
 **Critical Failure** As failure, but the creature also takes a –2 circumstance penalty to attacks while it’s off-guard.
 

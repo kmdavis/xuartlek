@@ -29,10 +29,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; darkvision"
-languages: "Aklo, Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Deception +14, Intimidation +12, Midwifery Lore +9, Stealth +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +14, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +12, [[srd/pf2e/compendium/rules-elements/skills/lore|Midwifery Lore]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
 abilityMods: [3, 5, 2, 0, 2, 5]
 ac: 22
 armorclass:
@@ -48,16 +48,16 @@ abilities_mid:
 speed: "fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ proboscis tongue +15 (Finesse) __Damage__ 2d6+5 piercing plus penanggalan bile"
+    desc: "⬻ proboscis tongue +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 2d6+5 piercing plus penanggalan bile"
   - name: "Melee"
     desc: "⬻ entrails +13 __Damage__ 2d4+5 bludgeoning plus Grab"
 abilities_bot:
   - name: "Constrict"
     desc: "⬻ 2d4+3 bludgeoning, DC 21"
   - name: "Elongate Tongue"
-    desc: "⬻ The penanggalan's tongue extends, the membrane stretching and becoming translucent. Until the end of the turn, the penanggalan's proboscis tongue Strikes have a 10-foot reach, and any target is off-guard against the Strike unless it has a Perception DC of 22 or higher or the ability to precisely sense invisible things."
+    desc: "⬻ The penanggalan's tongue extends, the membrane stretching and becoming translucent. Until the end of the turn, the penanggalan's proboscis tongue Strikes have a 10-foot reach, and any target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the Strike unless it has a Perception DC of 22 or higher or the ability to precisely sense [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] things."
   - name: "Penanggalan Bile"
-    desc: "(Disease) A victim's drained condition decreases by 1 per month"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]]) A victim's [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] condition decreases by 1 per month"
   - name: "Saving Throw"
     desc: "DC 19 Fortitude"
   - name: "Stage 1"
@@ -69,7 +69,7 @@ abilities_bot:
   - name: "Stage 4"
     desc: "dead"
   - name: "Ride Corpse"
-    desc: "⬽ (Concentrate, Polymorph) The penanggalan inserts their entrails into their humanoid body, allowing them to appear as and move about like a normal human. The body has 10 Hit Points and the same defenses as the penanggalan. When the body is destroyed, the penanggalan is ejected unharmed. The body becomes a corpse, and if it's neither controlled by the penanggalan nor stored in an alchemical vat, it decays as normal. Tanggal Segmentations Like penanggalans, other tanggals feed on flesh and separate from their body in some form. Such creatures also have their own weaknesses. The manananggal splits from the waist rather than from the neck, and the smell of vinegar repels them instead of signaling their presence. The balan-balan also splits from the neck like the penanggalan, but they leave illusion-draped banana trunks in coffins to resemble the corpses they stole."
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]]) The penanggalan inserts their entrails into their humanoid body, allowing them to appear as and move about like a normal human. The body has 10 Hit Points and the same defenses as the penanggalan. When the body is destroyed, the penanggalan is ejected unharmed. The body becomes a corpse, and if it's neither controlled by the penanggalan nor stored in an alchemical vat, it decays as normal. Tanggal Segmentations Like penanggalans, other tanggals feed on flesh and separate from their body in some form. Such creatures also have their own weaknesses. The manananggal splits from the waist rather than from the neck, and the smell of vinegar repels them instead of signaling their presence. The balan-balan also splits from the neck like the penanggalan, but they leave illusion-draped banana trunks in coffins to resemble the corpses they stole."
 sourcebook: "_Monster Core 2_, page 249."
 ```
 

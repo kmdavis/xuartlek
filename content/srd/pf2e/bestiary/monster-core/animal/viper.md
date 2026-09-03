@@ -29,7 +29,7 @@ perception:
     desc: "Perception +5; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Athletics +1, Stealth +5, Survival +3"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +1, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +3"
 abilityMods: [-3, 4, 0, -4, 1, -2]
 ac: 14
 armorclass:
@@ -45,14 +45,14 @@ abilities_mid:
   - name: "Trigger"
     desc: "A creature ends its movement adjacent to the viper or within the viper's space"
   - name: "Effect"
-    desc: "The viper Strides, Climbs, or Swims up to 10 feet (or up to the relevant Speed, if that Speed is less than 10 feet). It must end its movement in a location that isn't within 5 feet of a foe. This movement doesn't trigger reactions."
+    desc: "The viper Strides, [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climbs]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to 10 feet (or up to the relevant Speed, if that Speed is less than 10 feet). It must end its movement in a location that isn't within 5 feet of a foe. This movement doesn't trigger reactions."
 speed: "20 feet, climb 20 feet, swim 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fangs +6 (Agile, Finesse, reach 0 feet) __Damage__ 1d8–3 piercing plus viper venom"
+    desc: "⬻ fangs +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d8–3 piercing plus viper venom"
 abilities_bot:
   - name: "Viper Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 16 Fortitude"
   - name: "Maximum Duration"

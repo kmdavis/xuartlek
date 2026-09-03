@@ -20,6 +20,6 @@ source: "Impossible Magic"
 - **Usage**: held in 1 hand
 - **Activate**: Cast a Spell
 
-Patterns shift subtly on the surface of this torn fingerless leather glove. When used as a catalyst to cast a __thoughtful gift__ spell, you can choose to place the object in the target’s backpack or other container in their possession if they don’t have a free hand. The spell fails if the object can’t fit in the container or if you choose an extradimensional container.
+Patterns shift subtly on the surface of this torn fingerless leather glove. When used as a catalyst to cast a _[[srd/pf2e/compendium/spells/rank-1/thoughtful-gift|_thoughtful gift_]]_ spell, you can choose to place the object in the target’s backpack or other container in their possession if they don’t have a free hand. The spell fails if the object can’t fit in the container or if you choose an extradimensional container.
 
 *Source: Impossible Magic p. 215*

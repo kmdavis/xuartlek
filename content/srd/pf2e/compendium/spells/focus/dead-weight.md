@@ -27,9 +27,9 @@ You command a thrall to hurl itself on another creature, fusing their flesh toge
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is off-guard.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]].
 
-**Failure** The target is slowed 1 and off-guard.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 and off-guard.
 
 **Critical Failure** The target is slowed 2 and off-guard.
 

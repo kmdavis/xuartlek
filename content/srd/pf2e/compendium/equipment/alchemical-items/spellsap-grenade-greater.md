@@ -22,7 +22,7 @@ source: "Rage of Elements"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Strike
 
-The mixture of reagents, liquid djezet, and solid metal shrapnel inside this grenade explodes on contact with air. A spellsap grenade deals the listed slashing damage and splash damage. On a hit against a prepared or spontaneous spellcaster, the target must succeed at a Will saving throw with the listed DC or lose one prepared spell or one spontaneous spell slot. The spell is randomly selected from among the caster's highest three spell ranks (and then from among the spells prepared in that rank, for a prepared spellcaster). The grenade grant an item bonus to attack rolls.
+The mixture of reagents, liquid djezet, and solid metal shrapnel inside this grenade explodes on contact with air. A spellsap grenade deals the listed slashing damage and [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage. On a hit against a prepared or spontaneous spellcaster, the target must succeed at a Will saving throw with the listed DC or lose one prepared spell or one spontaneous spell slot. The spell is randomly selected from among the caster's highest three spell ranks (and then from among the spells prepared in that rank, for a prepared spellcaster). The grenade grant an item bonus to attack rolls.
 
 ### Spellsap Grenade (Moderate)
 

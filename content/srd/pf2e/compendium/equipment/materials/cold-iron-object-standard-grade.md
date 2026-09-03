@@ -22,11 +22,11 @@ Weapons made from cold iron are deadly to demons and fey alike. Cold iron looks 
 
 #### Material Uses
 
-Cold Iron Armor
+[[srd/pf2e/compendium/equipment/armor/cold-iron-armor-high-grade|Cold Iron Armor]]
 
-Cold Iron Shield
+[[srd/pf2e/compendium/equipment/shields/cold-iron-shield-high-grade|Cold Iron Shield]]
 
-Cold Iron Weapon
+[[srd/pf2e/compendium/equipment/weapons/cold-iron-weapon-high-grade|Cold Iron Weapon]]
 
 ### Cold Iron Chunk
 

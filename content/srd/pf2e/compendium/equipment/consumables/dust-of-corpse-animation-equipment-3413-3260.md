@@ -17,10 +17,10 @@ source: "Player Core 2"
 `Consumable`  `Magical`  `Uncommon`
 
 - **Usage**: held in 2 hands
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This black pouch contains what appears to be fine bone dust. Pouring the dust in a special pattern over a corpse turns it into an undead creature. The type of undead created depends on the condition of the corpse, resulting in either a skeleton or a zombie. If the undead's level would be greater than 3, the dust fails to animate it. The body must be of an appropriate size and type for the undead you wish to create—for example, you must sprinkle the dust on a horse's skeleton to animate a skeletal horse. If more than one undead in the level range is appropriate, such as skeletal guard or skeletal champion for a Medium humanoid skeleton, you choose. 
-The animated undead has the minion trait, meaning it can use 2 actions when you Command it. You can issue a Command for the current turn as part of the activation. The undead creature remains animated for 1 minute before collapsing back into its corpse form. You can have a maximum of four minions under your control.
+This black pouch contains what appears to be fine bone dust. Pouring the dust in a special pattern over a corpse turns it into an undead creature. The type of undead created depends on the condition of the corpse, resulting in either a [[srd/pf2e/compendium/gm/creature-families/skeleton|skeleton]] or a [[srd/pf2e/compendium/gm/creature-families/zombie|zombie]]. If the undead's level would be greater than 3, the dust fails to animate it. The body must be of an appropriate size and type for the undead you wish to create—for example, you must sprinkle the dust on a horse's skeleton to animate a skeletal horse. If more than one undead in the level range is appropriate, such as [[srd/pf2e/bestiary/monster-core/undead/skeleton-guard|skeletal guard]] or [[srd/pf2e/bestiary/monster-core/undead/skeletal-champion|skeletal champion]] for a Medium humanoid skeleton, you choose. 
+The animated undead has the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait, meaning it can use 2 actions when you Command it. You can issue a Command for the current turn as part of the activation. The undead creature remains animated for 1 minute before collapsing back into its corpse form. You can have a maximum of four minions under your control.
 
 ### Dust of Corpse Animation
 

@@ -18,9 +18,9 @@ source: "Impossible Magic"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This aromatic potion is brewed from the white flowers and black roots of a rare herb. When you drink this potion, it immediately attempts to counteract all hostile morph and polymorph effects affecting you. For the next hour, you gain an item bonus to saving throws against morph and polymorph effects. If you roll a success on a saving throw against a polymorph effect during that time, you get a critical success instead.
+This aromatic potion is brewed from the white flowers and black roots of a rare herb. When you drink this potion, it immediately attempts to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] all hostile [[srd/pf2e/compendium/rules-elements/traits/player-core/morph|morph]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effects affecting you. For the next hour, you gain an item bonus to saving throws against morph and polymorph effects. If you roll a success on a saving throw against a polymorph effect during that time, you get a critical success instead.
 
 ### Potion Of Stable Form
 

@@ -22,7 +22,7 @@ During the game, your character will face situations where the outcome is uncert
 
 Once a check is rolled, the GM compares the result to a target number called the **difficulty class (DC)** to determine the outcome. If the result of the check is equal to or greater than the DC, the check is successful. If it is less, the check is a failure. Beating the DC by 10 or more is referred to as a **critical success**, which usually grants an especially positive outcome. Similarly, failing the check by 10 or more is a **critical failure** (sometimes called a fumble). This sometimes results in additional negative effects. You also often score a critical success by rolling a 20 on the die when attempting a check (before adding anything). Likewise, rolling a 1 on the die when attempting a check often results in a critical failure. Note that not all checks have a special effect on a critical success or critical failure and such results should be treated just like an ordinary success or failure instead.
 
-For example, in pursuit of the wounded chimera, your character might find the path blocked by a fast-moving river. You decide to swim across, but the GM declares this a dangerous task and asks you to roll an Athletics skill check (since swimming is covered by the Athletics skill). On your character sheet, you see that your character has a +8 modifier for such checks. Rolling the d20, you get an 18, for a total of 26. The GM compares this to the DC (which was 16) and finds that you got a critical success (since the result exceeded the DC by 10). Your character swims quickly across the river and continues the pursuit, drenched but unharmed. Had you gotten a result less than 26 but equal to or greater than 16, your character would have made it halfway across the river. Had your result been less than 16, your character might have been swept downriver or, worse, been pulled under the current and begun to drown!
+For example, in pursuit of the wounded chimera, your character might find the path blocked by a fast-moving river. You decide to swim across, but the GM declares this a dangerous task and asks you to roll an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill check (since swimming is covered by the Athletics skill). On your character sheet, you see that your character has a +8 modifier for such checks. Rolling the d20, you get an 18, for a total of 26. The GM compares this to the DC (which was 16) and finds that you got a critical success (since the result exceeded the DC by 10). Your character swims quickly across the river and continues the pursuit, drenched but unharmed. Had you gotten a result less than 26 but equal to or greater than 16, your character would have made it halfway across the river. Had your result been less than 16, your character might have been swept downriver or, worse, been pulled under the current and begun to drown!
 
 Checks like this are the heart of the game and are rolled all the time, in every mode of play, to determine the outcome of tasks. While the roll of the die is critical, the statistic you add to the roll (called a **modifier**) often makes the difference between success and failure. Every character is made up of many such statistics governing what the character is good at, each consisting of a relevant attribute modifier plus a **proficiency bonus**, and sometimes modified further by other factors, such as bonuses or penalties from gear, spells, feats, magic items, and other special circumstances.
 
@@ -42,13 +42,13 @@ While exploration is handled in a free-form manner, encounters are more structur
 
 **Free actions**, such as dropping an object, don't count toward the three actions you can take on your turn. Finally, each character can use up to one reaction during a round. This special type of action can be used even when it's not your turn, but only in response to certain events, and only if you have an ability that allows it. Rogues, for example, can select a feat that lets them use their reaction to dodge an incoming attack.
 
-Attacking another creature is one of the most common actions in combat, and is done by using the **Strike** action. This requires an attack roll—a kind of check made against the **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Armor Class|Armor Class (AC)]]** of the creature you're attacking. Strikes can be made using weapons, spells, or even parts of a creature's body, like a fist, claw, or tail. You add a modifier to this roll based on your proficiency rank with the type of attack you're using, your attributes, and any other bonuses or penalties based on the situation. The target's AC is calculated using their proficiency rank in the armor they're wearing and their Dexterity modifier. An attack deals damage if it hits, and rolling a critical success results in the attack dealing double damage!
+Attacking another creature is one of the most common actions in combat, and is done by using the **[[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]]** action. This requires an attack roll—a kind of check made against the **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Armor Class|Armor Class (AC)]]** of the creature you're attacking. Strikes can be made using weapons, spells, or even parts of a creature's body, like a fist, claw, or tail. You add a modifier to this roll based on your proficiency rank with the type of attack you're using, your attributes, and any other bonuses or penalties based on the situation. The target's AC is calculated using their proficiency rank in the armor they're wearing and their Dexterity modifier. An attack deals damage if it hits, and rolling a critical success results in the attack dealing double damage!
 
 You can use more than one Strike action on your turn, but each additional attack after the first becomes less accurate. This is reflected by a **[[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Multiple Attack Penalty|multiple attack penalty]]** that starts at –5 on the second attack, but increases to –10 on the third. There are many ways to reduce this penalty, and it resets at the end of your turn.
 
-If your character finds themself the target of a magical lightning bolt or the victim of a venomous snake bite, you will be called on to attempt a saving throw, representing your character's ability to avoid danger or otherwise withstand an assault to their mind or body. A saving throw is a check attempted against the DC of the spell or special ability targeting your character. There are three types of saving throws, and a character's proficiency in each says a great deal about what they can endure. A **Fortitude** saving throw is used when your character's health or vitality is under attack, such as from poison or disease. A Reflex saving throw is called for when your character must dodge away from danger, usually something that affects a large area, such as the scorching blast of a fireball spell. Finally, a Will saving throw is often your defense against spells and effects that target your character's mind, such as a charm or confusion spell. For all saving throws, a success lessens the harmful effect, and scoring a critical success usually means your character escapes unscathed.
+If your character finds themself the target of a magical [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|lightning bolt]] or the victim of a venomous snake bite, you will be called on to attempt a saving throw, representing your character's ability to avoid danger or otherwise withstand an assault to their mind or body. A saving throw is a check attempted against the DC of the spell or special ability targeting your character. There are three types of saving throws, and a character's proficiency in each says a great deal about what they can endure. A **Fortitude** saving throw is used when your character's health or vitality is under attack, such as from poison or disease. A Reflex saving throw is called for when your character must dodge away from danger, usually something that affects a large area, such as the scorching blast of a [[srd/pf2e/compendium/spells/rank-3/fireball|fireball]] spell. Finally, a Will saving throw is often your defense against spells and effects that target your character's mind, such as a [[srd/pf2e/compendium/spells/rank-1/charm|charm]] or [[srd/pf2e/compendium/spells/rank-4/confusion|confusion]] spell. For all saving throws, a success lessens the harmful effect, and scoring a critical success usually means your character escapes unscathed.
 
-Attacks, spells, hazards, and special abilities frequently either deal **damage** to a character or impose one or more **conditions**—and sometimes both. Damage is subtracted from a creature's **Hit Points (HP)**—a measure of health—and when a creature is reduced to 0 HP, it falls unconscious and may die! A combat encounter typically lasts until one side has been defeated, and while this can mean retreat or surrender, it most often happens because one side is dead or dying. Conditions can hinder a creature for a time, limiting the actions they can use and applying penalties to future checks. Some conditions are even permanent, requiring a character to seek out powerful magic to undo their effects.
+Attacks, spells, hazards, and special abilities frequently either deal **damage** to a character or impose one or more **conditions**—and sometimes both. Damage is subtracted from a creature's **Hit Points (HP)**—a measure of health—and when a creature is reduced to 0 HP, it falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] and may die! A combat encounter typically lasts until one side has been defeated, and while this can mean retreat or surrender, it most often happens because one side is dead or dying. Conditions can hinder a creature for a time, limiting the actions they can use and applying penalties to future checks. Some conditions are even permanent, requiring a character to seek out powerful magic to undo their effects.
 
 ## Downtime
 
@@ -64,7 +64,7 @@ During encounters, each creature gets three [[srd/pf2e/books/player-core/chapter
 
 ### Ancestry
 
-An ancestry is the broad family of people that a character belongs to. Ancestry determines a character's starting [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Hit Points|Hit Points]], [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/languages|languages]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Senses|senses]], and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Speed|Speed]], and it grants access to ancestry feats. Ancestries can be found in [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds|Chapter 2]].
+An ancestry is the broad family of people that a character belongs to. Ancestry determines a character's starting [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Hit Points|Hit Points]], [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/languages|languages]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Senses|senses]], and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Speed|Speed]], and it grants access to ancestry feats. Ancestries can be found in [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/index|Chapter 2]].
 
 ### Armor Class (AC)
 
@@ -72,7 +72,7 @@ All creatures in the game have an [[srd/pf2e/books/player-core/chapter-8-playing
 
 ### Attack
 
-When a creature tries to harm another creature, it makes a Strike or uses some other attack action. Most attacks are Strikes made with a weapon, but a character might Strike with their fist, grapple or shove with their hands, or attack with a [[srd/pf2e/books/player-core/chapter-7-spells|spell]].
+When a creature tries to harm another creature, it makes a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] or uses some other attack action. Most attacks are Strikes made with a weapon, but a character might Strike with their [[srd/pf2e/compendium/equipment/weapons/brawling/fist|fist]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|grapple]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|shove]] with their hands, or attack with a [[srd/pf2e/books/player-core/chapter-7-spells/index|spell]].
 
 ### Attribute Modifier
 
@@ -92,11 +92,11 @@ When a character attempts an action where success is uncertain, they may roll a 
 
 ### Class
 
-A class represents the adventuring profession chosen by a character. A character's class determines most of their proficiencies, grants the character Hit Points each time they gain a new level, and gives access to a set of class feats. Classes appear in [[srd/pf2e/books/player-core/chapter-3-classes|Chapter 3]].
+A class represents the adventuring profession chosen by a character. A character's class determines most of their proficiencies, grants the character Hit Points each time they gain a new level, and gives access to a set of class feats. Classes appear in [[srd/pf2e/books/player-core/chapter-3-classes/index|Chapter 3]].
 
 ### Condition
 
-An ongoing effect that changes how a character can act, or that alters some of their statistics, is called a condition. The rules for the basic conditions used in the game can be found in the [[srd/pf2e/books/player-core/conditions-appendix|Conditions Appendix]] at the back of this book.
+An ongoing effect that changes how a character can act, or that alters some of their statistics, is called a condition. The rules for the basic conditions used in the game can be found in the [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]] at the back of this book.
 
 ### Currency
 
@@ -108,7 +108,7 @@ A feat is an ability you can select for your character due to their ancestry, ba
 
 ### Game Master (GM)
 
-The Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players explore. The GM uses the rules found in [[srd/pf2e/books/gm-core/introduction|Pathfinder GM Core]].
+The Game Master is the player who adjudicates the rules and narrates the various elements of the Pathfinder story and world that the other players explore. The GM uses the rules found in [[srd/pf2e/books/gm-core/introduction/index|Pathfinder GM Core]].
 
 ### Golarion
 
@@ -116,7 +116,7 @@ Pathfinder is set on the planet Golarion during the Age of Lost Omens. It is an 
 
 ### Hit Points (HP)
 
-[[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Hit Points|Hit Points]] represent the amount of punishment a creature can take before it falls unconscious and begins dying. Damage decreases Hit Points on a 1-to-1 basis, while healing restores Hit Points at the same rate.
+[[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Hit Points|Hit Points]] represent the amount of punishment a creature can take before it falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] and begins [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]]. Damage decreases Hit Points on a 1-to-1 basis, while healing restores Hit Points at the same rate.
 
 ### Initiative
 
@@ -144,7 +144,7 @@ Proficiency is a system that measures a character's aptitude at a specific task 
 
 ### Rarity
 
-Some elements of the game have a rarity to denote how often they're encountered in the game world. Rarity primarily applies to equipment and magic items, but spells, feats, and other rules elements also have a rarity. If no rarity appears in the traits of an item, spell, or other game element, it's of common rarity. Uncommon options are available only to those who have special training, grew up in a certain culture, or come from a particular part of the world. This can be explained with an “Access” entry, explaining criteria for characters to choose it as a common option. Rare options are almost impossible to find and are usually given out only by the GM, while unique ones are literally one-of-a-kind in the game. The GM might alter the way rarity works or change the rarity of individual items to suit the story they want to tell.
+Some elements of the game have a rarity to denote how often they're encountered in the game world. Rarity primarily applies to equipment and magic items, but spells, feats, and other rules elements also have a rarity. If no rarity appears in the traits of an item, spell, or other game element, it's of common rarity. [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|Uncommon]] options are available only to those who have special training, grew up in a certain culture, or come from a particular part of the world. This can be explained with an “Access” entry, explaining criteria for characters to choose it as a common option. [[srd/pf2e/compendium/rules-elements/traits/player-core/rare|Rare]] options are almost impossible to find and are usually given out only by the GM, while [[srd/pf2e/compendium/rules-elements/traits/player-core/unique|unique]] ones are literally one-of-a-kind in the game. The GM might alter the way rarity works or change the rarity of individual items to suit the story they want to tell.
 
 ### Roleplaying
 
@@ -162,7 +162,7 @@ There are three types of saving throws: Fortitude (to resist diseases, poisons, 
 
 ### Skill
 
-A skill represents a creature's ability to perform certain tasks that require instruction or practice. All characters are trained in certain skills due to their background and class. Skills are fully described in [[srd/pf2e/books/player-core/chapter-4-skills|Chapter 4]]. Each skill includes ways anyone can use that skill even if untrained, as well as uses that require a character to be trained in the skill.
+A skill represents a creature's ability to perform certain tasks that require instruction or practice. All characters are trained in certain skills due to their background and class. Skills are fully described in [[srd/pf2e/books/player-core/chapter-4-skills/index|Chapter 4]]. Each skill includes ways anyone can use that skill even if untrained, as well as uses that require a character to be trained in the skill.
 
 ### Speed
 
@@ -170,7 +170,7 @@ Speed is the distance a character can move using a single action, measured in fe
 
 ### Spell
 
-Spells are magical effects created by performing mystical incantations and gestures known only to those with special training or inborn abilities. Casting a spell is an activity that usually uses 2 actions. Each spell specifies what it targets, the actions needed to cast it, its effects, and how it can be resisted. If a class grants spells, the basics of that ability are provided in the class description in [[srd/pf2e/books/player-core/chapter-3-classes|Chapter 3]], while the spells themselves are detailed in [[srd/pf2e/books/player-core/chapter-7-spells|Chapter 7]].
+Spells are magical effects created by performing mystical incantations and gestures known only to those with special training or inborn abilities. Casting a spell is an activity that usually uses 2 actions. Each spell specifies what it targets, the actions needed to cast it, its effects, and how it can be resisted. If a class grants spells, the basics of that ability are provided in the class description in [[srd/pf2e/books/player-core/chapter-3-classes/index|Chapter 3]], while the spells themselves are detailed in [[srd/pf2e/books/player-core/chapter-7-spells/index|Chapter 7]].
 
 Spells have ranks ranging from 1st to 10th, which measure their power; characters and monsters can usually cast only a certain number of spells of any given rank.
 

@@ -21,7 +21,7 @@ source: "GM Core"
 DC 23 (trained)
 
 **Disable**
-DC 21 Thievery (trained) to disable each blade
+DC 21 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) to disable each blade
 
 **AC** 21, **Fort** +12, **Ref** +8
 
@@ -32,11 +32,11 @@ DC 21 Thievery (trained) to disable each blade
 44 (BT 22)
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
-**Falling Scythes** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** The trip wire is pulled or severed; **Effect** Both blades swing down, each one Striking all creatures under the ceiling grooves. 
+**Falling Scythes** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** The trip wire is pulled or severed; **Effect** Both blades swing down, each one [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Striking]] all creatures under the ceiling grooves. 
 
-**Melee** scythe +17 (deadly d12), **Damage** 2d12+4 slashing; no multiple attack penalty
+**Melee** scythe +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d12]]), **Damage** 2d12+4 slashing; no multiple attack penalty
 
 ---
 **Reset**

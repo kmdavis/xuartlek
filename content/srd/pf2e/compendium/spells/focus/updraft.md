@@ -23,7 +23,7 @@ source: "Rage of Elements"
 - **Target**: 1 creature
 - **Defense**: basic Reflex
 
-A powerful blast of wind erupts from the ground, launching the target into the air and sending it crashing back down. The collision deals 2d6 bludgeoning damage with a basic Reflex save. On a failure, the target is knocked prone.
+A powerful blast of wind erupts from the ground, launching the target into the air and sending it crashing back down. The collision deals 2d6 bludgeoning damage with a basic Reflex save. On a failure, the target is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 ---
 **Heightened (+1)** Increase the damage by 2d6.

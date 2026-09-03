@@ -24,7 +24,7 @@ source: "Player Core"
 - **Area**: 60-foot burst
 - **Defense**: Reflex
 
-A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire damage to all creatures in the area, plus an additional 8d10 vitality damage to undead creatures. Each creature in the area must attempt a Reflex save.
+A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire damage to all creatures in the area, plus an additional 8d10 vitality damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creatures. Each creature in the area must attempt a Reflex save.
 
 **Critical Success** The creature is unaffected.
 
@@ -32,9 +32,9 @@ A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire dam
 
 **Failure** The creature takes full damage.
 
-**Critical Failure** The creature takes full damage and becomes blinded permanently. 
+**Critical Failure** The creature takes full damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] permanently. 
 
-If the globe overlaps with an area of magical darkness, _sunburst_ attempts to counteract the darkness effect.
+If the globe overlaps with an area of magical [[srd/pf2e/compendium/rules-elements/traits/player-core/darkness|darkness]], _sunburst_ attempts to counteract the darkness effect.
 
 ---
 **Heightened (+1)** The fire damage increases by 1d10, and the vitality damage against undead increases by 1d10.

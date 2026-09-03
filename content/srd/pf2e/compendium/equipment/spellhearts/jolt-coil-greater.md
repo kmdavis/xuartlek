@@ -19,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: affixed to armor or a weapon
 
 Contained within this small glass tube is a twisted wire filament crackling with electricity, sending static prickling through the hair of anyone holding it. The spell DC of any spell cast by activating this item is 17. 
-**Armor** You gain resistance 2 to electricity.**Weapon** After you cast an electricity spell by activating the coil, your Strikes with the weapon deal an additional 1d4 electricity damage until the end of your next turn.
+**Armor** You gain resistance 2 to electricity.**Weapon** After you cast an [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] spell by activating the coil, your Strikes with the weapon deal an additional 1d4 electricity damage until the end of your next turn.
 
 **Activate** Cast a Spell; **Effect** You cast _electric arc_.
 

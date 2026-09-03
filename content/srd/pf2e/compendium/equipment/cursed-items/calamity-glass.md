@@ -22,7 +22,7 @@ source: "Dark Archives (Remastered)"
 
 This mirror appears to give warnings about the future, but subtle and malevolent hands designed the silver-framed glass to lure heroes into bringing doom upon those they hope to save. 
 
-**Activate—Mirror, Mirror** 1 minute (concentrate, manipulate) **Frequency** You activate the _calamity glass_ and obtain a vision related to a likely action or event within the next 48 hours. The _calamity glass_ decides what vision to show, though if you think about a specific event, the vision is typically at least tangentially related.
+**Activate—Mirror, Mirror** 1 minute ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** You activate the _calamity glass_ and obtain a vision related to a likely action or event within the next 48 hours. The _calamity glass_ decides what vision to show, though if you think about a specific event, the vision is typically at least tangentially related.
 
  No matter what, the mirror shows only tragedies. The mirror's visions are accurate but misleading, as they depict tragedies that could be averted but in so doing might lead to greater suffering.
 

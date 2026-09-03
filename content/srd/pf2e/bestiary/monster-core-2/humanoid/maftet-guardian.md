@@ -29,14 +29,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; darkvision"
-languages: "Common, Sphinx"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Sphinx"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +13, Arcana +13, Athletics +15, Ruins Lore +15, Stealth +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/lore|Ruins Lore]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13"
 abilityMods: [5, 3, 4, 3, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "Scimitar (2)"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/sword/scimitar|Scimitar]] (2)"
 ac: 23
 armorclass:
   - name: "AC"
@@ -47,31 +47,31 @@ health:
     desc: "90"
 abilities_mid:
   - name: "Runic Resistance"
-    desc: "⬲ (arcane)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]])"
   - name: "Trigger"
     desc: "The maftet takes damage from a Strike or spell effect"
   - name: "Effect"
-    desc: "The maftet's protective runic tattoos glow, granting them resistance 5 to one damage type dealt by the triggering attack. This resistance applies against the triggering effect and lasts for 1 minute or until the maftet uses this ability again, whichever comes first. If the triggering effect deals multiple damage types, the maftet chooses which type to resist."
+    desc: "The maftet's protective runic tattoos glow, granting them [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 5 to one damage type dealt by the triggering attack. This resistance applies against the triggering effect and lasts for 1 minute or until the maftet uses this ability again, whichever comes first. If the triggering effect deals multiple damage types, the maftet chooses which type to resist."
 speed: "30 feet, fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _scimitar_ +17 (Forceful, magical, sweep) __Damage__ 2d6+8 slashing"
+    desc: "⬻ _scimitar_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]]) __Damage__ 2d6+8 slashing"
 abilities_bot:
   - name: "Paired Strike"
     desc: "Requirements__ The maftet is wielding two scimitars__ ⬺"
   - name: "Effect"
     desc: "The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty."
   - name: "Powerful Scimitars"
-    desc: "(Arcane) Any non-magical scimitar becomes a _+1 striking scimitar_ while a maftet wields it."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]]) Any non-magical scimitar becomes a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]]_ while a maftet wields it."
   - name: "Raptor Dive"
     desc: "⬽"
   - name: "Requirements"
     desc: "The maftet is flying at least 10 feet above the target"
   - name: "Effect"
-    desc: "The maftet Flies up to twice their fly Speed and makes a Paired Strike at the end of the movement. If both Strikes hit, the target is also knocked prone. Shared Duties Occasionally, maftets and girtablilus share a home. Since both groups respect locales and their history, they usually form a tacit partnership to guard ruins in tandem, with maftets keeping watch from the skies while girtablilus patrol the ground."
+    desc: "The maftet Flies up to twice their [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly Speed]] and makes a Paired Strike at the end of the movement. If both Strikes hit, the target is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. Shared Duties Occasionally, maftets and [[srd/pf2e/compendium/gm/creature-families/girtablilu|girtablilus]] share a home. Since both groups respect locales and their history, they usually form a tacit partnership to guard ruins in tandem, with maftets keeping watch from the skies while girtablilus patrol the ground."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 23 - __Cantrips (3rd)__ Sigil - __1st__ Sanctuary (×3), Sure Strike"
+    desc: "DC 23 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/sigil|Sigil]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/sanctuary|Sanctuary]] (×3), [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]]"
 sourcebook: "_Monster Core 2_, page 218."
 ```
 

@@ -29,7 +29,7 @@ perception:
     desc: "Perception +8; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +8, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [4, 1, 3, -4, 3, -1]
 ac: 18
 armorclass:
@@ -47,10 +47,10 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +11 __Damage__ 1d8+4 piercing"
   - name: "Melee"
-    desc: "⬻ claw +11 (Agile) __Damage__ 1d6+4 slashing"
+    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+4 slashing"
 abilities_bot:
   - name: "Badger Rage"
-    desc: "⬻ (Concentrate, emotion, mental) The giant badger enters a state of pure rage that lasts for 1 minute, until there are no enemies it can perceive, or until it falls unconscious, whichever comes first. While raging, the giant badger has AC 17, its jaws Strike deals 1d8+8 damage, and its claw Strike deals 1d6+6 damage. While raging, the giant badger also can't use actions that have the concentrate trait except for Seek. After it has stopped raging, a giant badger can't use Badger Rage again for 1 minute. Trained Diggers Kobolds and others who dwell in underground warrens know the value of having a few trained giant badgers in their lair, since they can excavate new tunnels and chambers with ease when their digging habits are directed. Of course, the fact that giant badgers find kobolds and others who dwell underground delicious means that relying on such trained diggers can be a risky endeavor. A giant badger trained for use as a digger or guardian tends to obey the commands of only one master, and even then, they can be prone to unpredictable outbursts for no reason other than pique."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) The giant badger enters a state of pure rage that lasts for 1 minute, until there are no enemies it can perceive, or until it falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], whichever comes first. While raging, the giant badger has AC 17, its jaws Strike deals 1d8+8 damage, and its claw Strike deals 1d6+6 damage. While raging, the giant badger also can't use actions that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait except for [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]]. After it has stopped raging, a giant badger can't use Badger Rage again for 1 minute. Trained Diggers [[srd/pf2e/compendium/gm/creature-families/kobold|Kobolds]] and others who dwell in underground warrens know the value of having a few trained giant badgers in their lair, since they can excavate new tunnels and chambers with ease when their digging habits are directed. Of course, the fact that giant badgers find kobolds and others who dwell underground delicious means that relying on such trained diggers can be a risky endeavor. A giant badger trained for use as a digger or guardian tends to obey the commands of only one master, and even then, they can be prone to unpredictable outbursts for no reason other than pique."
 sourcebook: "_Monster Core 2_, page 54."
 ```
 

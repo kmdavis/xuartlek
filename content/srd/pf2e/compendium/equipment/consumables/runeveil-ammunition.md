@@ -17,7 +17,7 @@ source: "Impossible Magic"
 
 - **Price**: 30 gp
 - **Ammunition**: any
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Pulsing, cracked glyphs scar the surface of _runeveil ammunition_, seeming to flake and crumble when handled roughly. When activated _runeveil ammunition_ hits a target that can Cast Spells, it’s engulfed in a personal cloud of glowing dust. Until the beginning of your next turn, the target takes a –2 status penalty to spell attack rolls and spell DCs.
 

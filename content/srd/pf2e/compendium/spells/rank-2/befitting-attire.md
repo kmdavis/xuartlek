@@ -25,7 +25,7 @@ source: "Impossible Magic"
 
 You cloak the targets in an illusion, shaping their clothing and worn items into ones suitable for a particular occasion. You visualize the occasion, and the spell creates illusory attire customized to each target. For instance, if you visualized a noble ball, armor would appear to be fine clothing. This doesn't change identifying details of the targets' appearances other than their clothes.
 
- Any creature that touches the attire, uses the Seek action to examine it, or otherwise interacts with it can attempt to disbelieve your illusion.
+ Any creature that touches the attire, uses the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to examine it, or otherwise interacts with it can attempt to disbelieve your illusion.
 
 ---
 **Heightened (4th)** You can target up to 20 creatures.

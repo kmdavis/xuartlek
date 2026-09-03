@@ -31,7 +31,7 @@ perception:
     desc: "Perception +11; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Athletics +13, Stealth +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13"
 abilityMods: [6, 2, 3, -4, 2, -1]
 ac: 21
 armorclass:
@@ -47,20 +47,20 @@ abilities_mid:
   - name: "Trigger"
     desc: "A target creature passes within 20 feet of the giant moray eel's hiding place and has not detected the giant moray eel"
   - name: "Effect"
-    desc: "The giant moray eel lunges out of its hiding place, Swims directly toward the triggering creature, and makes a jaws Strike against it. The target creature is off-guard to this attack."
+    desc: "The giant moray eel lunges out of its hiding place, Swims directly toward the triggering creature, and makes a jaws Strike against it. The target creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to this attack."
 speed: "10 feet, swim 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +15 (reach 10 feet) __Damage__ 2d6+8 piercing plus Grab"
+    desc: "⬻ jaws +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+8 piercing plus Grab"
 abilities_bot:
   - name: "Pharyngeal Jaws"
     desc: "⬺"
   - name: "Requirements"
-    desc: "The giant moray eel has a creature grabbed in its jaws"
+    desc: "The giant moray eel has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] in its jaws"
   - name: "Effect"
-    desc: "The giant moray eel uses its second set of jaws to pull the prey into its gullet. The eel deals 1d6+4 piercing damage to the grabbed creature and gains a +2 circumstance bonus to its Swallow Whole attempts and to the DC for the creature to Escape. This effect ends if the target Escapes or the giant moray eel Swallows it Whole."
+    desc: "The giant moray eel uses its second set of jaws to pull the prey into its gullet. The eel deals 1d6+4 piercing damage to the grabbed creature and gains a +2 circumstance bonus to its Swallow Whole attempts and to the DC for the creature to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]. This effect ends if the target Escapes or the giant moray eel Swallows it Whole."
   - name: "Swallow Whole"
-    desc: "⬻ (Attack) Small, 1d6+6 bludgeoning, Rupture 12."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Small, 1d6+6 bludgeoning, Rupture 12."
 sourcebook: "_Monster Core_, page 138."
 ```
 

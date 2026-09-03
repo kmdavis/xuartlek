@@ -19,7 +19,7 @@ source: "Battlecry!"
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 
-Multicolored threads are woven through this magical banner, causing it to appear purple in some light and green in others. The shimmering light offers hope and safety in the face of powerful magic wielders. You and allies within the banner’s aura gain resistance 5 to damage from spells; for spells that apply multiple instances of damage, such as _force barrage_, this applies only to the first instance of damage.
+Multicolored threads are woven through this magical banner, causing it to appear purple in some light and green in others. The shimmering light offers hope and safety in the face of powerful magic wielders. You and allies within the banner’s aura gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|resistance]] 5 to damage from spells; for spells that apply multiple instances of damage, such as [[srd/pf2e/compendium/spells/rank-1/force-barrage|_force barrage_]], this applies only to the first instance of damage.
 
 ### Hexwise Banner
 

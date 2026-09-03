@@ -22,7 +22,7 @@ source: "Impossible Magic"
 - **Target**: 1 undead minion you control
 - **Duration**: 1 minute
 
-You channel void energy through your magical connection to your undead minion to strengthen the creature. The target regains 1d8+4 Hit Points when you Cast the Spell, and it gains a +2 status bonus to saves against vitality effects for the duration.
+You channel void energy through your magical connection to your undead minion to strengthen the creature. The target regains 1d8+4 Hit Points when you Cast the Spell, and it gains a +2 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] effects for the duration.
 
 ---
 **Heightened (+1)** The amount of healing increases by 1d8+4.

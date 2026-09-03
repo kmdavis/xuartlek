@@ -29,7 +29,7 @@ perception:
     desc: "Perception +11; tremorsense 60 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Athletics +13, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [5, 4, 2, -4, 0, -4]
 ac: 20
 armorclass:
@@ -38,7 +38,7 @@ armorclass:
 hp: 70
 health:
   - name: "HP"
-    desc: "70; __Immunities__ petrified"
+    desc: "70; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]]"
 speed: "25 feet, climb 25 feet, swim 25 feet"
 attacks:
   - name: "Melee"
@@ -47,19 +47,19 @@ attacks:
     desc: "⬻ spit +12 (range increment 15 feet) __Damage__ 1d6 poison plus amphisbaena venom and blinding spittle"
 abilities_bot:
   - name: "Amphisbaena Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 18 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison damage and enfeebled 1 (1 round)"
+    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Stage 2"
-    desc: "2d6 poison damage and enfeebled 2 and slowed 1 (1 round)"
+    desc: "2d6 poison damage and enfeebled 2 and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] (1 round)"
   - name: "Stage 3"
-    desc: "3d6 poison damage and paralyzed for 1 round (1 round)"
+    desc: "3d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] for 1 round (1 round)"
   - name: "Blinding Spittle"
-    desc: "A creature critically hit by an amphisbaena's spit Strike is blinded for 1 round."
+    desc: "A creature critically hit by an amphisbaena's spit Strike is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round."
   - name: "Twin Bites"
     desc: "⬻ An amphisbaena makes a fangs Strike with each of its heads, each against a different target. Both Strikes count toward its multiple attack penalty, but the penalty doesn't increase until after it has made both attacks. Amphisbaena Variants While the two-headed snake is by far the most common amphisbaena, the term sometimes describes other creatures with heads on both ends of their bodies. Occasionally, stories circulate of a monstrous amphisbaena with the body of a lizard, clawed feet, or even feathered wings. These stories are typically chalked up to an overactive imagination or an abundance of drink, but they persist regardless."
 sourcebook: "_Monster Core 2_, page 25."

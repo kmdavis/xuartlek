@@ -13,6 +13,6 @@ source: "Player Core"
 
 `Wizard`
 
-This indicates abilities from the wizard class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/wizard|wizard]] class.
 
 *Source: Player Core p. 463*

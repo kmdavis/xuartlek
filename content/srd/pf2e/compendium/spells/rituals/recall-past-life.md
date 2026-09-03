@@ -17,7 +17,7 @@ source: "Dark Archives (Remastered)"
 - **Cast**: 3 days
 - **Cost**: 100 gp in special wine and symbolic herbs
 - **Secondary Casters**: 2
-- **Primary Check**: Occultism (master) or Religion (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master) or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master)
 - **Secondary Checks**: Crafting
 - **Target(s)**: the secondary caster who doesn't perform the Crafting check
 - **Duration**: 1 day
@@ -30,7 +30,7 @@ You and the secondary casters spend 2 days drawing sigils on one another. At the
 
 **Success** As critical success, except there's no lingering knowledge, and the target isn't able to retrain a skill increase.
 
-**Failure** Nothing happens, though the target's unconscious state is disturbing, and they wake up fatigued as well as likely hungry and thirsty.
+**Failure** Nothing happens, though the target's unconscious state is disturbing, and they wake up [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] as well as likely hungry and thirsty.
 
 **Critical Failure** The sigils are drawn improperly, or the wine was tainted. The swaddled baby orchids that grow around the body scream at the moment when the target would've awakened. The target dies and immediately animates as a malevolent zombie that carries the rot with them and seeks to destroy their former allies. Use the statistics for a husk zombie, or another zombie as appropriate for the target's ancestry.
 

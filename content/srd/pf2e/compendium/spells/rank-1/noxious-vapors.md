@@ -19,10 +19,10 @@ source: "Player Core 2"
 - **Traditions**: Arcane, Primal
 - **Deity**: Garhaazh
 - **Area**: 10-foot emanation
-- **Defense**: basic Fortitude
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
 - **Duration**: 1 round
 
-You emit a cloud of toxic smoke that temporarily obscures you from sight. Each creature except you in the area when you Cast the Spell takes 1d6 poison damage (basic Fortitude save). A creature that critically fails the saving throw also becomes sickened 1. All creatures in the area become concealed, and all creatures outside the smoke become concealed to creatures within it. This smoke can be dispersed by a strong wind.
+You emit a cloud of toxic smoke that temporarily obscures you from sight. Each creature except you in the area when you Cast the Spell takes 1d6 poison damage (basic Fortitude save). A creature that critically fails the saving throw also becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]]. All creatures in the area become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and all creatures outside the smoke become concealed to creatures within it. This smoke can be dispersed by a strong wind.
 
 ---
 **Heightened (+1)** The damage increases by 1d6.

@@ -20,7 +20,7 @@ Kholo are tall, hyena-headed humanoids who dwell in savannas, warm grasslands, a
 
 ### Members
 
-Bone Scavenger (Creature 0), Kholo Bonekeeper (Creature 3), Kholo Hunter (Creature 2), Kholo Outrider (Creature 7), Kholo Pragmatist (Creature 1), Kholo Sergeant (Creature 4)
+[[srd/pf2e/bestiary/npc-core/humanoid/bone-scavenger|Bone Scavenger]] (Creature 0), [[srd/pf2e/bestiary/monster-core/humanoid/kholo-bonekeeper|Kholo Bonekeeper]] (Creature 3), [[srd/pf2e/bestiary/monster-core/humanoid/kholo-hunter|Kholo Hunter]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/kholo-outrider|Kholo Outrider]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/kholo-pragmatist|Kholo Pragmatist]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/kholo-sergeant|Kholo Sergeant]] (Creature 4)
 
 ### Kholo Lairs
 

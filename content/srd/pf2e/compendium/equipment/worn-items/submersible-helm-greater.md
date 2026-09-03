@@ -18,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn headwear
 - **Bulk**: L
 
-A _submersible helmet_ is a streamlined sallet with a visor and a flanged rear. While wearing the helmet with the visor down, you can see, hear, and speak clearly underwater. You also have a +1 item bonus to Athletics checks to Swim.
+A _submersible helmet_ is a streamlined sallet with a visor and a flanged rear. While wearing the helmet with the visor down, you can see, hear, and speak clearly underwater. You also have a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]].
 
-**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** You can breathe underwater for 8 hours. During this time, you have a swim Speed equal to your land Speed.
+**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You can breathe underwater for 8 hours. During this time, you have a swim Speed equal to your land Speed.
 
 ### Submersible Helm
 

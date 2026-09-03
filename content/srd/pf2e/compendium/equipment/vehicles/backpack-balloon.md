@@ -24,7 +24,7 @@ What appears to be a simple, if bulky, backpack conceals clockwork devices that 
 
 **Crew** 1 pilot
 
-**Piloting Check** Athletics (DC 24) or Piloting Lore (DC 22)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] (DC 24) or [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] (DC 22)
 
 ---
 
@@ -36,17 +36,17 @@ What appears to be a simple, if bulky, backpack conceals clockwork devices that 
 
 **HP** 80 (BT 40)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
-**Weaknesses** fire 5 until broken
+**Weaknesses** fire 5 until [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]
 
 ---
 
-**Speed** fly 20 feet (alchemical, clockwork, wind)
+**Speed** fly 20 feet ([[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]], [[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]], wind)
 
 **Collision** fly 20 feet (alchemical, clockwork, wind)
 
-**Deploy Balloons** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (manipulate) The pilot engages a lever that activates the clockwork components to launch two large tethered balloons and fill them with lighter-than-air gas. On the outside of the backpack is a small clockwork propeller. This allows the wearer to wind up and pilot the vehicle. This transformation lasts until the pilot disengages the balloons by using this activity again.
+**Deploy Balloons** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) The pilot engages a lever that activates the clockwork components to launch two large tethered balloons and fill them with lighter-than-air gas. On the outside of the backpack is a small clockwork propeller. This allows the wearer to wind up and pilot the vehicle. This transformation lasts until the pilot disengages the balloons by using this activity again.
 **Stowable** By spending 10 minutes repacking, the backpack balloons can be stowed after the pilot has disengaged them. 
 **Wind-Up** 10 minutes of wind-up, 30 minutes of operational time, DC 22, standby
 

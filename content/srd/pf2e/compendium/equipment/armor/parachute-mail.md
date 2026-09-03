@@ -18,10 +18,10 @@ source: "Battlecry!"
 - **Price**: 150 gp
 - **Usage**: worn armor
 - **Bulk**: 2
-- **Base Armor**: Chain Mail
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Chain Mail|Chain Mail]]
 
-Favored by soldiers deployed on airships, this chain mail has a built-in parachute connected to the armor itself, with an additional harness to be worn underneath. It takes 10 minutes and a successful DC 15 Crafting check to successfully repack the parachute.
+Favored by soldiers deployed on airships, this chain mail has a built-in parachute connected to the armor itself, with an additional harness to be worn underneath. It takes 10 minutes and a successful DC 15 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check to successfully repack the parachute.
 
-**Activate—Deploy Parachute** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (manipulate) **Frequency** once until repacked; **Trigger** You are falling; **Effect** Once activated, the parachute will fully deploy within 1 round. If it is deployed at a height greater than 100 feet, the parachute will prevent you from receiving falling damage. If deployed at a height of less than 100 feet, it will reduce the damage taken from falling by half.
+**Activate—Deploy Parachute** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once until repacked; **Trigger** You are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Falling|falling]]; **Effect** Once activated, the parachute will fully deploy within 1 round. If it is deployed at a height greater than 100 feet, the parachute will prevent you from receiving falling damage. If deployed at a height of less than 100 feet, it will reduce the damage taken from falling by half.
 
 *Source: Battlecry! p. 122*

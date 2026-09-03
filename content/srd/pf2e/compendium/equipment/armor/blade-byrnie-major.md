@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 Instead of chain links, this _+1 chain shirt_ is assembled from metal “leaves” that each resemble a small blade.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Effect** You pull a link from the armor, which transforms into a _+1 striking dagger_. The dagger disappears and reappears as a link in the armor after you Strike with it, or at the end of this turn if you don't make a Strike. You can Activate the blade byrnie in place of an Interact action to draw a weapon for abilities such as the Quick Draw feat.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You pull a link from the armor, which transforms into a _+1 striking dagger_. The dagger disappears and reappears as a link in the armor after you Strike with it, or at the end of this turn if you don't make a Strike. You can Activate the blade byrnie in place of an Interact action to draw a weapon for abilities such as the Quick Draw feat.
 
  Upgrading the runes on the _blade byrnie_ makes the daggers pulled from it more powerful. The daggers have a _+2 weapon potency_ rune if the armor has a _+2 armor potency_ rune, or a _+3 weapon potency_ rune if the armor has a _+3 armor potency_ rune.
 

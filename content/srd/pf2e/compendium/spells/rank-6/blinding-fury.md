@@ -30,7 +30,7 @@ You curse the target with your outrage at being attacked. The effect is determin
 
 **Critical Success** The target is unaffected.
 
-**Success** The target can't observe you until the end of its turn, and if you're currently observed by it, you become hidden to it.
+**Success** The target can't [[srd/pf2e/compendium/rules-elements/conditions#Observed|observe]] you until the end of its turn, and if you're currently observed by it, you become [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to it.
 
 **Failure** As success, and for 1 minute, every time the target damages you, it can't observe you until the end of its turn.
 

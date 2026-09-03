@@ -18,7 +18,7 @@ Secret societies are notorious for their rituals and symbolism, and for working 
 
  Unlike other secret messages, coded signals make no effort to direct themselves to a specific individual. Rather, the message is clearly visible, but the actual meaning is decipherable only to members of the secret society.
 
- **Recognizing the Signal:** If one isn't a member of the relevant society, then identifying the presence of a coded signal requires succeeding at a Society check, with a critical success also conveying the general meaning. The DC depends on how secretive and widespread the society is—the Esoteric Order of the Palatine Eye, widespread and famous, might use a simple expert DC of 20, while the paranoid Exarchate of the Infinite Clock might use a simple master DC of 30, and an even more obscure society might use the simple legendary DC of 40.
+ **Recognizing the Signal:** If one isn't a member of the relevant society, then identifying the presence of a coded signal requires succeeding at a [[srd/pf2e/compendium/rules-elements/skills/society|Society]] check, with a critical success also conveying the general meaning. The DC depends on how secretive and widespread the society is—the Esoteric Order of the Palatine Eye, widespread and famous, might use a [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Simple DCs|simple expert DC]] of 20, while the paranoid Exarchate of the Infinite Clock might use a simple master DC of 30, and an even more obscure society might use the simple legendary DC of 40.
 
 ### Coded Signal (Temporary)
 

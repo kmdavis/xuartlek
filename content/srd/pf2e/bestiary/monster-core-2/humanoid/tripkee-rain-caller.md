@@ -29,14 +29,14 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; darkvision"
-languages: "Common, Tripkee"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Tripkee|Tripkee]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Athletics +8, Jungle Lore +10, Nature +12, Stealth +10, Survival +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/lore|Jungle Lore]] +10, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +12"
 abilityMods: [1, 3, 2, 1, 5, 0]
 abilities_top:
   - name: "Items"
-    desc: "Dart (4), Staff"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/dart/dart|Dart]] (4), [[srd/pf2e/compendium/equipment/weapons/club/staff|Staff]]"
 ac: 20
 armorclass:
   - name: "AC"
@@ -48,16 +48,16 @@ health:
 speed: "25 feet, climb 20 feet; jungle passage"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +9 (two-hand d8) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ staff +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dart +12 (Agile, thrown 20 feet) __Damage__ 1d4+4 piercing"
+    desc: "⬻ dart +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d4+4 piercing"
 abilities_bot:
   - name: "Prepared Primal Spells"
-    desc: "DC 21, attack +14 - __Cantrips (2nd)__ Electric Arc, Guidance, Know the Way, Stabilize - __1st__ Gust of Wind, Hydraulic Push, Thunderstrike - __2nd__ Mist, Summon Elemental (water only), Water Walk"
+    desc: "DC 21, attack +14 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/electric-arc|Electric Arc]], [[srd/pf2e/compendium/spells/cantrips/guidance|Guidance]], [[srd/pf2e/compendium/spells/cantrips/know-the-way|Know the Way]], [[srd/pf2e/compendium/spells/cantrips/stabilize|Stabilize]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/gust-of-wind|Gust of Wind]], [[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]], [[srd/pf2e/compendium/spells/rank-1/thunderstrike|Thunderstrike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/mist|Mist]], [[srd/pf2e/compendium/spells/rank-2/summon-elemental|Summon Elemental]] (water only), [[srd/pf2e/compendium/spells/rank-2/water-walk|Water Walk]]"
   - name: "Druid Focus Spell"
-    desc: "DC 21, 1 Focus Point - __2nd__ Tempest Surge"
+    desc: "DC 21, 1 Focus Point - __2nd__ [[srd/pf2e/compendium/spells/focus/tempest-surge|Tempest Surge]]"
   - name: "Jungle Passage"
-    desc: "Tripkees ignore difficult terrain in forests and jungles."
+    desc: "Tripkees [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Ignore Difficult Terrain|ignore difficult terrain]] in forests and jungles."
 sourcebook: "_Monster Core 2_, page 327."
 ```
 

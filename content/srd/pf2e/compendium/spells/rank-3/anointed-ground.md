@@ -22,6 +22,6 @@ source: "Player Core 2"
 - **Area**: 30-foot burst centered on you
 - **Duration**: until the next time you make daily preparations
 
-You sanctify the area, sprinkling it with certain oils and warding it against your foes. Choose aberrations, celestials, dragons, fiends, monitors, or undead. All creatures in the area gain a +1 status bonus to AC, attack rolls, damage rolls, and saving throws against the chosen creatures.
+You sanctify the area, sprinkling it with certain oils and warding it against your foes. Choose [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberrations]], [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestials]], [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragons]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]], [[srd/pf2e/compendium/rules-elements/traits/player-core/monitor|monitors]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. All creatures in the area gain a +1 status bonus to AC, attack rolls, damage rolls, and saving throws against the chosen creatures.
 
 *Source: Player Core 2 p. 240*

@@ -18,7 +18,7 @@ Created through complex rituals performed by a faith's adherents, the constructs
 
 ### Members
 
-Divine Warden Of Pharasma (Creature 6)
+[[srd/pf2e/bestiary/monster-core-2/construct/divine-warden-of-pharasma|Divine Warden Of Pharasma]] (Creature 6)
 
 ### Heroes of the Faith
 
@@ -29,25 +29,25 @@ In the rare instances where a deity personally creates a divine warden, the deit
 You can build a divine warden from the ground up using the standard rules for monster creation (which is how the divine warden on the following page was built), or you can turn an existing construct into a divine warden by taking the following steps. In either case, the specific divine warden abilities listed below work the same.
 
  Select the deity who empowered the divine warden. This deity is the divine warden's patron deity. Increase the creature's level by 1 and change its statistics as follows. 
-It gains the uncommon and divine traits.Increase AC, attack bonuses, DCs, saving throws, and skill modifiers by 1. If the creature didn't have any listed DCs, use the moderate DC for a creature of its level for any new abilities that require a DC.Increase its Hit Points as shown on the table below. 
+It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] traits.Increase AC, attack bonuses, DCs, saving throws, and skill modifiers by 1. If the creature didn't have any listed DCs, use the moderate DC for a creature of its level for any new abilities that require a DC.Increase its Hit Points as shown on the table below. 
 **Starting Level** **HP Increase** 1 or lower10 2–4 15 5–19 20 20+ 30 Divine Warden Abilities A divine warden retains any abilities it had previously, and it gains the abilities listed below. You might need to adjust or remove other abilities that conflict with the construct's new theme as a divine warden.
 
- **Divine Destruction** (divine, spirit) When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-foot emanation, dealing 1d6 spirit damage per level. Each creature in the area must attempt a Will save with the following outcomes.
+ **Divine Destruction** ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]]) When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-foot emanation, dealing 1d6 spirit damage per level. Each creature in the area must attempt a Will save with the following outcomes.
  **Critical Success** The creature takes half damage.
  **Success** The creature takes full damage.
- **Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes enfeebled 1 and stupefied 1 for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.
+ **Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 for 1 day; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]] effect that uses the Will save DC as the [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] DC.
  **Critical Failure** As failure, except the creature becomes enfeebled 2 and stupefied 2.
 
- **Divine Domain Spells** The divine warden selects two of its patron deity's domains. The divine warden can cast the basic domain spell for its chosen domains. The divine warden has a focus pool of 1 Focus Point. It can't Refocus, but its focus pool automatically refills 24 hours after it last used a Focus Point. If the divine warden is at least 10th level, it also gains the advanced domain spells for its chosen domains, and its focus pool increases to 2 Focus Points.
+ **Divine Domain Spells** The divine warden selects two of its patron deity's domains. The divine warden can cast the basic domain spell for its chosen domains. The divine warden has a focus pool of 1 Focus Point. It can't [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]], but its focus pool automatically refills 24 hours after it last used a Focus Point. If the divine warden is at least 10th level, it also gains the advanced domain spells for its chosen domains, and its focus pool increases to 2 Focus Points.
 
- **Divine Innate Spells** A divine warden gains _divine lance_ as an innate cantrip.
+ **Divine Innate Spells** A divine warden gains [[srd/pf2e/compendium/spells/cantrips/divine-lance|_divine lance_]] as an innate cantrip.
 
- **Faith Bound** (divine) A divine warden can't attack a creature that openly wears or displays the religious symbol of the divine warden's patron deity unless that creature uses a hostile action against the divine warden first. If the divine warden is intelligent, it can also attack a creature it believes isn't faithful to its deity or who wears the religious symbol as a ruse (typically after succeeding at a Perception check to Sense Motive).
+ **Faith Bound** ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) A divine warden can't attack a creature that openly wears or displays the religious symbol of the divine warden's patron deity unless that creature uses a hostile action against the divine warden first. If the divine warden is intelligent, it can also attack a creature it believes isn't faithful to its deity or who wears the religious symbol as a ruse (typically after succeeding at a Perception check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]]).
 
- **Faithful Weapon** A divine warden always wields its patron deity's favored weapon. If the weapon is a ranged weapon, the divine warden automatically generates new ammunition with each attack. For a divine warden of 4th level or higher, the deity's favored weapon gains the effects of a _striking_ rune while the divine warden wields it; at 12th level, these effects are of a _greater striking_ rune, and at 19th level, they're instead of a _major striking_ rune.
+ **Faithful Weapon** A divine warden always wields its patron deity's favored weapon. If the weapon is a ranged weapon, the divine warden automatically generates new ammunition with each attack. For a divine warden of 4th level or higher, the deity's favored weapon gains the effects of a [[srd/pf2e/compendium/equipment/runes/striking-major|_striking_]] rune while the divine warden wields it; at 12th level, these effects are of a _greater striking_ rune, and at 19th level, they're instead of a _major striking_ rune.
 
- **Instrument of Faith** The divine warden is a beacon for its deity's faith. A cleric of the divine warden's patron deity can channel a _heal_ spell through a divine warden they can see within 60 feet. The cleric determines any targets or area for the spell as if they were standing in the divine warden's space.
+ **Instrument of Faith** The divine warden is a beacon for its deity's faith. A cleric of the divine warden's patron deity can channel a [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] spell through a divine warden they can see within 60 feet. The cleric determines any targets or area for the spell as if they were standing in the divine warden's space.
 
- **Sanctification** Divine wardens are often sanctified, gaining the holy or unholy traits as preferred by their deity. If the deity doesn't have a preference, the warden isn't sanctified.
+ **Sanctification** Divine wardens are often sanctified, gaining the [[srd/pf2e/compendium/equipment/runes/holy|holy]] or [[srd/pf2e/compendium/equipment/runes/unholy|unholy]] traits as preferred by their deity. If the deity doesn't have a preference, the warden isn't sanctified.
 
 *Source: Monster Core 2 p. 114*

@@ -35,10 +35,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; darkvision"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Dwelling Lore +10, Stealth +12"
+    desc: "Dwelling Lore +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [-5, 3, 0, 0, 2, 2]
 abilities_top:
   - name: "Site Bound"
@@ -50,17 +50,17 @@ armorclass:
 hp: 30
 health:
   - name: "HP"
-    desc: "30 (rejuvenation, void healing); __Immunities__ bleed, death effects, disease, paralyzed, poison, precision, unconscious; __Resistances__ all damage 5 (except force, _ghost touch_, spirit, or vitality; double resistance vs. non-magical)"
+    desc: "30 (rejuvenation, void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision, unconscious; __Resistances__ all damage 5 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]; double resistance vs. non-[[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])"
 abilities_mid:
   - name: "Rejuvenation"
-    desc: "(divine) Setting right the injustice that led to the commoner's death allows it to move on to the afterlife."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) Setting right the injustice that led to the commoner's death allows it to move on to the afterlife."
 speed: "fly 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ ghostly hand +13 (Agile, Finesse, Magical) __Damage__ 2d6+2 void"
+    desc: "⬻ ghostly hand +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d6+2 void"
 abilities_bot:
   - name: "Frightful Moan"
-    desc: "⬻ (Auditory, Divine, Emotion, Fear, Mental) DC 21 The ghost laments its fate, forcing each living creature within 30 feet to attempt a Will save. On a failure, a creature becomes frightened 2 (or frightened 3 on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) DC 21 The ghost laments its fate, forcing each living creature within 30 feet to attempt a Will save. On a failure, a creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 2 (or frightened 3 on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute"
 sourcebook: "_Monster Core_, page 161."
 ```
 

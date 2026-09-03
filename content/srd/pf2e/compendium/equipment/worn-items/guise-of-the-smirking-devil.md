@@ -20,9 +20,9 @@ source: "Player Core 2"
 
 - **Usage**: worn mask
 
-This ice-blue half-mask is adorned with a wicked silver grin that covers only the wearer's mouth. You gain a +2 item bonus to Intimidation checks.
+This ice-blue half-mask is adorned with a wicked silver grin that covers only the wearer's mouth. You gain a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks.
 
-**Activate—Hideous Wail** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** The mask emits a soul-chilling scream that deals 6d10 void damage to each living creature in a 20-foot emanation (DC 25 basic Fortitude save). 
+**Activate—Hideous Wail** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The mask emits a soul-chilling scream that deals 6d10 void damage to each living creature in a 20-foot emanation (DC 25 basic Fortitude save). 
 
 ### Guise of the Smirking Devil
 
@@ -34,6 +34,6 @@ This ice-blue half-mask is adorned with a wicked silver grin that covers only th
 
 ---
 
-The item bonus to Intimidation is +3. Activating a _greater guise of the smirking devil_ casts _wails of the damned_ (DC 41), affecting all living creatures in the area.
+The item bonus to Intimidation is +3. Activating a _greater guise of the smirking devil_ casts [[srd/pf2e/compendium/spells/rank-9/wails-of-the-damned|_wails of the damned_]] (DC 41), affecting all living creatures in the area.
 
 *Source: Player Core 2 p. 310*

@@ -21,21 +21,21 @@ source: "GM Core"
 +18 (expert)
 
 **Disable**
-DC 27 Diplomacy (expert) to temporarily calm the rage of one of the three spirits, or DC 30 Religion (trained) to exorcise one of the spirits; three total successes are required to disable the haunt
+DC 27 [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] (expert) to temporarily calm the rage of one of the three spirits, or DC 30 [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (trained) to exorcise one of the spirits; three total successes are required to disable the haunt
 
-**Searing Agony** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (mental) **Trigger** A living creature approaches within 10 feet of the remains of a victim of the original fire; **Effect** Memories of the pain suffered by the fire’s past victims assault the triggering creature’s mind. The creature must attempt a DC 25 Will save, and the haunt then rolls initiative.
+**Searing Agony** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) **Trigger** A living creature approaches within 10 feet of the remains of a victim of the original fire; **Effect** Memories of the pain suffered by the fire’s past victims assault the triggering creature’s mind. The creature must attempt a DC 25 Will save, and the haunt then rolls initiative.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is sickened 1.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
 
 **Failure** The creature is sickened 2.
 
-**Critical Failure** The creature is sickened 3, and it is off-guard for as long as it remains within the haunt’s area and for 3 rounds thereafter.
+**Critical Failure** The creature is sickened 3, and it is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for as long as it remains within the haunt’s area and for 3 rounds thereafter.
 
 ---
 **Routine**
-(1 action) Phantom flames rage across the haunted area, dealing 4d6 fire damage to each living creature within the area (DC 23 basic Will save). Undead creatures in the area are infused with flames for the following round. They gain the fire trait and immunity to fire, and all their attacks deal an additional 1d6 fire damage. Objects in the area are unaffected.
+(1 action) Phantom flames rage across the haunted area, dealing 4d6 fire damage to each living creature within the area (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Will save). [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|Undead]] creatures in the area are infused with flames for the following round. They gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] trait and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|immunity]] to fire, and all their attacks deal an additional 1d6 fire damage. Objects in the area are unaffected.
 
 ---
 **Reset**

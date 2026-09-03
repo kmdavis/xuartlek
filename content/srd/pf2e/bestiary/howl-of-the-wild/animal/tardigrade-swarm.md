@@ -31,7 +31,7 @@ perception:
     desc: "Perception +21; tremorsense (imprecise) 30 ft"
 skills:
   - name: "Skills"
-    desc: "Athletics +19, Survival +21"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +21"
 abilityMods: [2, 4, 6, -5, 3, 1]
 abilities_top:
   - name: "Eyespots"
@@ -43,14 +43,14 @@ armorclass:
 hp: 140
 health:
   - name: "HP"
-    desc: "140; __Immunities__ precision, swarm mind; __Resistances__ all damage 10 (except area and splash)"
+    desc: "140; __Immunities__ precision, swarm mind; __Resistances__ all damage 10 (except area and [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]])"
 abilities_mid:
   - name: "Tun Marbles"
     desc: "As the tardigrade swarm is damaged, the bodies of those that enter a tun state make the ground treacherous. When the tardigrade swarm drops below 70 Hit Points, the space they occupy is considered difficult terrain."
 speed: "25 feet, climb 25 feet"
 abilities_bot:
   - name: "Stylets"
-    desc: "⬻ Each enemy in the swarm's space takes 4d8 piercing damage (DC 32 basic Reflex save). Creatures that fail their save become drained 1 or increase their drained condition by one, to a maximum of drained 4."
+    desc: "⬻ Each enemy in the swarm's space takes 4d8 piercing damage (DC 32 basic Reflex save). Creatures that fail their save become [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]] or increase their drained condition by one, to a maximum of drained 4."
 sourcebook: "_Howl of the Wild_, page 187."
 ```
 

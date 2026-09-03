@@ -11,42 +11,42 @@ entries: 7
 
 ## Ardande Relations  *Sidebar*
 
-- **Parent page**: Ardande
+- **Parent page**: [[srd/pf2e/compendium/character/ancestries/ardande|Ardande]]
 
-Forest dragons and dryad are common ancestors for ardandes born before the return of the Plane of Wood, or kizidhars who became trapped in the Universe and were forced to make new lives for themselves. Ardandes with wood scamp parents are often short and bushy, like living shrubs, and are often mistaken for leshies and conrasus.
+Forest dragons and dryad are common ancestors for ardandes born before the return of the [[srd/pf2e/compendium/gm/planes#Plane of Wood|Plane of Wood]], or kizidhars who became trapped in the Universe and were forced to make new lives for themselves. Ardandes with [[srd/pf2e/bestiary/rage-of-elements/elemental/wood-scamp|wood scamp]] parents are often short and bushy, like living shrubs, and are often mistaken for leshies and conrasus.
 
 *Source: Rage of Elements p. 46*
 
 ## Ardande Settlements  *Sidebar*
 
-- **Parent page**: Ardande
+- **Parent page**: [[srd/pf2e/compendium/character/ancestries/ardande|Ardande]]
 
-In most parts of Golarion, ardande bloodlines are only just beginning to return. Two families of ardandes in Tian Xia (both descended from the same forest dragon) managed to retain their connection to elemental wood, while across the world in distant Arcadia, ardande families have kept their elemental heritage intact through continued dealings with the fey
+In most parts of Golarion, ardande bloodlines are only just beginning to return. Two families of ardandes in Tian Xia (both descended from the same forest dragon) managed to retain their connection to elemental wood, while across the world in distant Arcadia, ardande families have kept their elemental heritage intact through continued dealings with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]]
 .
 
 *Source: Rage of Elements p. 46*
 
 ## Family Relations  *Sidebar*
 
-- **Parent page**: Talos
+- **Parent page**: [[srd/pf2e/compendium/character/ancestries/talos|Talos]]
 
-Most taloses descend from zuhras, the genies native to the Plane of Metal, but there are other possibilities as well. Gildedsoul taloses may be distantly descended from a sky dragon, lending scaled patterns to their skin and fangs to their mouths. On the other hand, a quicksoul talos may not be descended from any elemental at all, and instead result from their parent's extended exposure to metal-based alchemical fumes during pregnancy.
+Most taloses descend from zuhras, the genies native to the [[srd/pf2e/compendium/gm/planes#Plane of Metal|Plane of Metal]], but there are other possibilities as well. [[srd/pf2e/compendium/feats/rage-of-elements/ancestry/gildedsoul|Gildedsoul]] taloses may be distantly descended from a sky dragon, lending scaled patterns to their skin and fangs to their mouths. On the other hand, a [[srd/pf2e/compendium/feats/rage-of-elements/ancestry/quicksoul|quicksoul]] talos may not be descended from any elemental at all, and instead result from their parent's extended exposure to metal-based alchemical fumes during pregnancy.
 
 *Source: Rage of Elements p. 50*
 
 ## Key Terms  *Sidebar*
 
-- **Parent page**: Kineticist
+- **Parent page**: [[srd/pf2e/compendium/character/classes/kineticist|Kineticist]]
 
 The following new key traits appear in many kineticist class features and feats.
 
- **Composite**: A composite impulse combines multiple elements. You can gain an impulse with the composite trait only if your kinetic elements include all the elements listed in the impulse's traits. 
+ **Composite**: A composite impulse combines multiple elements. You can gain an [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulse]] with the composite trait only if your kinetic elements include all the elements listed in the impulse's traits. 
 
-**Impulse**: The primary magical actions kineticists use are called impulses. You can use an impulse only if your kinetic aura is active and channeling that element, and only if you have a hand free to shape the elemental flow. The impulse trait means the action has the concentrate trait unless another ability changes this. If an impulse allows you to choose an element, you can choose any element you're channeling, and the impulse gains that element's trait.
+**Impulse**: The primary magical actions kineticists use are called impulses. You can use an impulse only if your kinetic aura is active and channeling that element, and only if you have a hand free to shape the elemental flow. The impulse trait means the action has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait unless another ability changes this. If an impulse allows you to choose an element, you can choose any element you're channeling, and the impulse gains that element's trait.
 
  **Infusion**: Actions with the infusion trait tweak your kineticist impulses. You must use an infusion action directly before the impulse action you want to alter. If you use any action (including free actions and reactions) other than an impulse action directly after, you waste the benefits of the infusion action. Any additional effects added by an infusion action are part of the impulse's effect, not of the infusion action itself.
 
- **Overflow**: Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with Channel Elements). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+ **Overflow**: Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
  **Stance**: A stance is a general combat strategy that you enter by using an action with the stance trait and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can't use another one for 1 round. You can enter or be in a stance only in encounter mode.
 
@@ -54,7 +54,7 @@ The following new key traits appear in many kineticist class features and feats.
 
 ## Kinetic Specialists  *Sidebar*
 
-- **Parent page**: Kineticist
+- **Parent page**: [[srd/pf2e/compendium/character/classes/kineticist|Kineticist]]
 
 Kineticists who specialize in a single element are often referred to by a special title. 
 **Air**: Aerokineticist**Earth**: Geokineticist**Fire**: Pyrokineticist**Metal**: Metallokineticist**Water**: Hydrokineticist**Wood**: Phytokineticist
@@ -63,7 +63,7 @@ Kineticists who specialize in a single element are often referred to by a specia
 
 ## Special Rules  *Sidebar*
 
-- **Parent page**: Kineticist
+- **Parent page**: [[srd/pf2e/compendium/character/classes/kineticist|Kineticist]]
 
 Some rules don't come up that often but can be vital to understand when they do.
 
@@ -77,8 +77,8 @@ Some rules don't come up that often but can be vital to understand when they do.
 
 ## Talos Settlements  *Sidebar*
 
-- **Parent page**: Talos
+- **Parent page**: [[srd/pf2e/compendium/character/ancestries/talos|Talos]]
 
-Taloses living on the Plane of Metal most often build their communities on the outskirts of zuhra cities. These neighborhoods tend to be tight-knit communities and are considerably warmer toward other planar denizens than the aloof zuhras. Grand Conduu, a community bordering Argyris, has welcomed an influx of immigrants from the Universe after the Plane of Metal became more accessible, causing some to jokingly nickname it “Little Golarion.”
+Taloses living on the [[srd/pf2e/compendium/gm/planes#Plane of Metal|Plane of Metal]] most often build their communities on the outskirts of zuhra cities. These neighborhoods tend to be tight-knit communities and are considerably warmer toward other planar denizens than the aloof zuhras. Grand Conduu, a community bordering Argyris, has welcomed an influx of immigrants from the Universe after the Plane of Metal became more accessible, causing some to jokingly nickname it “Little Golarion.”
 
 *Source: Rage of Elements p. 50*

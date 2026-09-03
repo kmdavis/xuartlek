@@ -31,7 +31,7 @@ perception:
     desc: "Perception +8; darkvision, magic scent"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Stealth +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
 abilityMods: [6, 2, 5, -4, 0, -2]
 abilities_top:
   - name: "Magic Scent"
@@ -43,10 +43,10 @@ armorclass:
 hp: 65
 health:
   - name: "HP"
-    desc: "65; __Immunities__ critical hits, bleed, paralyzed, poison, precision, sleep; __Resistances__ electricity 5"
+    desc: "65; __Immunities__ critical hits, bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision, [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 5"
 abilities_mid:
   - name: "Biomagical Feedback"
-    desc: "The quickiron plasm's conductive properties are dangerous to those in physical contact with it. When a creature grabbed by a quickiron plasm Casts a Spell, that creature takes 5 force damage per rank of the spell."
+    desc: "The quickiron plasm's conductive properties are dangerous to those in physical contact with it. When a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by a quickiron plasm Casts a Spell, that creature takes 5 force damage per rank of the spell."
   - name: "Consume Magic"
     desc: "⬲"
   - name: "Trigger"
@@ -56,10 +56,10 @@ abilities_mid:
 speed: "15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pseudopod +12 (reach 10 feet) __Damage__ 2d6+6 bludgeoning plus Grab"
+    desc: "⬻ pseudopod +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+6 bludgeoning plus Grab"
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻ 2d6 bludgeoning, DC 22 Djezet Extraction When a quickiron plasm dies, most of the djezet making up its body becomes inert and useless. However, a skilled alchemist can sometimes extract trace amounts of the valuable skymetal from its remains. This is a 10-minute process that requires the Alchemical Crafting feat, a proficiency rank of expert or better in Crafting, and a successful DC 20 Crafting check. A successful attempt produces a single _djezet dose_ that remains potent for 1 hour before breaking down into a foul-smelling goo. The item has no value if sold due to its temporary nature."
+    desc: "⬻ 2d6 bludgeoning, DC 22 Djezet Extraction When a quickiron plasm dies, most of the djezet making up its body becomes inert and useless. However, a skilled alchemist can sometimes extract trace amounts of the valuable skymetal from its remains. This is a 10-minute process that requires the Alchemical Crafting feat, a proficiency rank of expert or better in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], and a successful DC 20 Crafting check. A successful attempt produces a single _djezet dose_ that remains potent for 1 hour before breaking down into a foul-smelling goo. The item has no value if sold due to its temporary nature."
 sourcebook: "_Rage of Elements_, page 154."
 ```
 

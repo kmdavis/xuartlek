@@ -31,14 +31,14 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; darkvision, scent (imprecise) 100 feet"
-languages: "Chthonian, Diabolic, Empyrean, Requian; telepathy 60 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Requian; telepathy 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Deception +10, Intimidation +12, Stealth +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +10, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
 abilityMods: [4, 2, 3, 0, 3, 2]
 abilities_top:
   - name: "Easy to Call"
-    desc: "A sahkil's level is considered 2 lower for the purpose of being conjured by the _binding circle_ ritual (and potentially other rituals, at the GM's discretion), but it's always free to attack or leave instead of negotiate unless the primary caster's check is a critical success."
+    desc: "A sahkil's level is considered 2 lower for the purpose of being conjured by the [[srd/pf2e/compendium/spells/rituals/binding-circle|_binding circle_]] ritual (and potentially other rituals, at the GM's discretion), but it's always free to attack or leave instead of negotiate unless the primary caster's check is a critical success."
 ac: 20
 armorclass:
   - name: "AC"
@@ -46,31 +46,31 @@ armorclass:
 hp: 75
 health:
   - name: "HP"
-    desc: "75; __Immunities__ disease, fear; __Resistances__ poison 5; __Weaknesses__ holy 5"
+    desc: "75; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 5; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tusk +12 (deadly d10, magical, unholy) __Damage__ 2d8+6 piercing plus 1d4 spirit and nervous consumption"
+    desc: "⬻ tusk +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) __Damage__ 2d8+6 piercing plus 1d4 spirit and nervous consumption"
 abilities_bot:
   - name: "Nervous Consumption"
-    desc: "(Disease, divine, emotion, mental)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
   - name: "Saving Throw"
     desc: "DC 21 Fortitude"
   - name: "Onset"
     desc: "1 minute"
   - name: "Stage 1"
-    desc: "sickened 1 and stupefied 1 (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 (1 day)"
   - name: "Stage 2"
-    desc: "clumsy 1 and stupefied 2 (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 and stupefied 2 (1 day)"
   - name: "Stage 3"
     desc: "clumsy 2 and stupefied 3 (1 day)"
   - name: "Skip Between"
-    desc: "⬻ (Divine, teleportation) The sahkil moves from the Universe to the Ethereal Plane or vice-versa. While in the Ethereal Plane, they're unable to affect anything in the Universe, and they cannot be seen by beings or abilities in the Universe, unless these have an ability that can gaze into the Ethereal Plane. While on the Material Plane the inverse is true for anything on the Ethereal Plane. A summoned sahkil can't use Skip Between."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]]) The sahkil moves from [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] to the [[srd/pf2e/compendium/gm/planes#Ethereal Plane|Ethereal Plane]] or vice-versa. While in the Ethereal Plane, they're unable to affect anything in the Universe, and they cannot be seen by beings or abilities in the Universe, unless these have an ability that can gaze into the Ethereal Plane. While on the Material Plane the inverse is true for anything on the Ethereal Plane. A summoned sahkil can't use Skip Between."
   - name: "Spray Pus"
-    desc: "⬻ The nucol flexes one of its infected wounds, releasing a spray of pus in a 15-foot cone or targeting an individual creature within 30 feet. A creature targeted or in the area is exposed to nervous consumption."
+    desc: "⬻ The nucol flexes one of its infected wounds, releasing a spray of pus in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] or targeting an individual creature within 30 feet. A creature targeted or in the area is exposed to nervous consumption."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 20 - __Cantrips (2nd)__ Detect Magic, Telekinetic Hand - __1st__ Grease (×3) - __3rd__ Cleanse Affliction, Fear (at will)"
+    desc: "DC 20 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/grease|Grease]] (×3) - __3rd__ [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|Cleanse Affliction]], [[srd/pf2e/compendium/spells/rank-1/fear|Fear]] (at will)"
 sourcebook: "_Monster Core 2_, page 275."
 ```
 

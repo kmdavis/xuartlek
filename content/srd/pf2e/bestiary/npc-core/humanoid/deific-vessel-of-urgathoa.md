@@ -33,16 +33,16 @@ modifier: 27
 perception:
   - name: "Perception"
     desc: "Perception +27; lifesense 60 feet"
-languages: "Common, Necril; _truespeech_"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +26, Deception +27, Intimidation +29, Religion +31, Undead Lore +33"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +26, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +27, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +29, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +31, [[srd/pf2e/compendium/rules-elements/skills/lore|Undead Lore]] +33"
 abilityMods: [5, 4, 6, 2, 4, 6]
 abilities_top:
   - name: "Mark of Fate"
-    desc: "(curse, divine) A creature that slays the deific vessel must succeed at a DC 35 Will save or be visibly marked as anathema to Urgathoa. It gains weakness 10 to unholy and takes a –2 circumstance penalty to Charisma-based skill checks against followers of Urgathoa. Creatures attempting to Gather Information about or Track the marked creature gain a +2 circumstance bonus to their checks. The mark can't be hidden and can be removed only by participating in an _atone_ ritual led by a worshipper of Urgathoa who is 12th level or higher."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) A creature that slays the deific vessel must succeed at a DC 35 Will save or be visibly marked as anathema to Urgathoa. It gains weakness 10 to [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] and takes a –2 circumstance penalty to Charisma-based skill checks against followers of Urgathoa. Creatures attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] about or [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] the marked creature gain a +2 circumstance bonus to their checks. The mark can't be hidden and can be removed only by participating in an [[srd/pf2e/compendium/spells/rituals/atone|_atone_]] ritual led by a worshipper of Urgathoa who is 12th level or higher."
   - name: "Items"
-    desc: "_+2 resilient explorer's clothing_, Scythe"
+    desc: "_+2 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]]_, Scythe"
 ac: 35
 armorclass:
   - name: "AC"
@@ -50,30 +50,30 @@ armorclass:
 hp: 300
 health:
   - name: "HP"
-    desc: "300; __Immunities__ death effects, disease, paralyzed, unconscious; __Resistances__ void 15; __Weaknesses__ holy 15"
+    desc: "300; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] 15; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 15"
 abilities_mid:
   - name: "Void Tendrils"
-    desc: "(aura, divine, void) 30 feet. When a creature in the aura would be healed by a vitality effect, the healing is reduced by 15 and the deific vessel regains 15 Hit Points."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) 30 feet. When a creature in the aura would be healed by a vitality effect, the healing is reduced by 15 and the deific vessel regains 15 Hit Points."
   - name: "Limited Lifespan"
-    desc: "(divine) The deific vessel takes 25 damage at the end of its turn if it Cast a Spell, used Borrow Time, or made a Strike that turn. This damage ignores resistance."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) The deific vessel takes 25 damage at the end of its turn if it Cast a Spell, used Borrow Time, or made a Strike that turn. This damage ignores resistance."
   - name: "Shattered Vessel"
-    desc: "(divine, unholy) When the deific vessel dies, the divine power barely contained within their form explodes outward, dealing 6d8 spirit damage to each creature in a 30-foot emanation with a DC 33 basic Reflex save."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) When the deific vessel dies, the divine power barely contained within their form explodes outward, dealing 6d8 spirit damage to each creature in a 30-foot emanation with a DC 33 basic Reflex save."
 speed: "25 feet, fly 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _decaying frost scythe_ +28 (deadly d10, Death, Magical, Trip, Unholy) __Damage__ 3d10+11 slashing plus 1d6 cold and 1d4 void"
+    desc: "⬻ _decaying frost scythe_ +28 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|Death]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) __Damage__ 3d10+11 slashing plus 1d6 cold and 1d4 void"
   - name: "Melee"
-    desc: "⬻ _decaying frost fist_ +28 (Agile, Death, Magical, Unarmed, Unholy) __Damage__ 3d4+11 bludgeoning plus 1d6 cold and 1d4 void"
+    desc: "⬻ _decaying frost fist_ +28 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|Death]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) __Damage__ 3d4+11 bludgeoning plus 1d6 cold and 1d4 void"
   - name: "Ranged"
-    desc: "⬻ grave pulse +27 (Cold, Death, ranged 120 feet, Unholy, Void) __Damage__ 3d6 cold plus 2d8 void"
+    desc: "⬻ grave pulse +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/cold|Cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|Death]], ranged 120 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) __Damage__ 3d6 cold plus 2d8 void"
 abilities_bot:
   - name: "Borrow Time"
-    desc: "⬻ (Divine, Void) The vessel chooses two different creatures in their void tendrils aura. Each one must be either undead or the vessel themself. One target loses 25 HP and the other regains that many HP. If a target is unwilling, it can negate the transfer with a successful DC 39 Fortitude save."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) The vessel chooses two different creatures in their void tendrils aura. Each one must be either [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] or the vessel themself. One target loses 25 HP and the other regains that many HP. If a target is unwilling, it can negate the transfer with a successful DC 39 Fortitude save."
   - name: "Grave Chill"
-    desc: "(Divine) The vessel's unarmed attacks and scythe gain the _+2 decaying frost greater striking_ runes when used by the vessel, and their Strikes gain the death trait. Consequences Of Magnitude Directly interceding in the mortal plane opens deities up to direct consequences from other divine entities and the very forces of fate itself. The moment a deific vessel comes into existence, a clock begins ticking down, ready to change the fate of all involved in the creation of this powerful entity. The gods and their heralds, from their unassailable positions, face far fewer consequences than the relatively unprotected vessels themselves."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) The vessel's unarmed attacks and scythe gain the _+2 [[srd/pf2e/compendium/equipment/runes/decaying-greater|decaying]] [[srd/pf2e/compendium/equipment/runes/frost-greater|frost]] [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]]_ runes when used by the vessel, and their Strikes gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] trait. Consequences Of Magnitude Directly interceding in the mortal plane opens deities up to direct consequences from other divine entities and the very forces of fate itself. The moment a deific vessel comes into existence, a clock begins ticking down, ready to change the fate of all involved in the creation of this powerful entity. The gods and their heralds, from their unassailable positions, face far fewer consequences than the relatively unprotected vessels themselves."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 39, attack +31 - __Cantrips (8th)__ Detect Magic, Divine Lance, Message - __4th__ Harm (at will) - __6th__ Truesight, Vampiric Exsanguination, Zealous Conviction - __7th__ Divine Decree, Eclipse Burst, Execute - __8th__ Dominate, Harm (×4), Mask of Terror - __Constant (5th)__ Truespeech"
+    desc: "DC 39, attack +31 - __Cantrips (8th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/divine-lance|Divine Lance]], [[srd/pf2e/compendium/spells/cantrips/message|Message]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (at will) - __6th__ [[srd/pf2e/compendium/spells/rank-6/truesight|Truesight]], [[srd/pf2e/compendium/spells/rank-6/vampiric-exsanguination|Vampiric Exsanguination]], [[srd/pf2e/compendium/spells/rank-6/zealous-conviction|Zealous Conviction]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/divine-decree|Divine Decree]], [[srd/pf2e/compendium/spells/rank-7/eclipse-burst|Eclipse Burst]], [[srd/pf2e/compendium/spells/rank-7/execute|Execute]] - __8th__ [[srd/pf2e/compendium/spells/rank-6/dominate|Dominate]], [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (×4), [[srd/pf2e/compendium/spells/rank-7/mask-of-terror|Mask of Terror]] - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
 sourcebook: "_NPC Core_, page 37."
 ```
 

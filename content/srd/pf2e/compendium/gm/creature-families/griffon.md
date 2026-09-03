@@ -14,6 +14,6 @@ _Nethys Note: This entry did not have a separate description for the family_
 
 ### Members
 
-Ascendant Griffon (Creature 11), Griffon (Creature 4)
+[[srd/pf2e/bestiary/howl-of-the-wild/animal/ascendant-griffon|Ascendant Griffon]] (Creature 11), [[srd/pf2e/bestiary/monster-core/animal/griffon|Griffon]] (Creature 4)
 
 *Source: Monster Core p. 182*

@@ -15,7 +15,7 @@ source: "Player Core"
 - **Hands**: 2
 - **Bulk**: L
 
-When Forcing Open an object that doesn't have an easy grip, a crowbar makes it easier to gain the necessary leverage. Without a crowbar, prying something open takes a –2 item penalty to the Athletics check to Force Open.
+When Forcing Open an object that doesn't have an easy grip, a crowbar makes it easier to gain the necessary leverage. Without a crowbar, prying something open takes a –2 item penalty to the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to Force Open.
 
 ### Crowbar
 

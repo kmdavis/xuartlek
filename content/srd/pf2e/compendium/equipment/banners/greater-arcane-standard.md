@@ -22,7 +22,7 @@ source: "Battlecry!"
 
 This magical banner has glittery, arcane threads crosswoven into the fabric, causing it to reflect light in little sparkles. While holding an _arcane standard_, you can use the following ability.
 
-**Activate—Magical Weakness** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per turn; **Effect** The magic of the banner causes energy to linger, tearing away at its target, leaving them vulnerable to more. One creature within the banner’s aura that has taken acid, cold, electricity, fire, or sonic damage this turn gains weakness 5 to that damage type for 1 round.
+**Activate—Magical Weakness** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per turn; **Effect** The magic of the banner causes energy to linger, tearing away at its target, leaving them vulnerable to more. One creature within the banner’s aura that has taken [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]] damage this turn gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] 5 to that damage type for 1 round.
 
 ### Arcane Standard
 

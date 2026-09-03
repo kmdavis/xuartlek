@@ -18,8 +18,8 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 70 gp
 - **Usage**: etched onto a weapon
 
-_Merciful_ weapons are sheathed in an unmistakable wispy green aura recognized by both gladiators and guards around the world. A merciful weapon has the nonlethal trait and can't be used to make a lethal attack. Any persistent damage the weapon would deal is negated.
+_Merciful_ weapons are sheathed in an unmistakable wispy green aura recognized by both gladiators and guards around the world. A merciful weapon has the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait and can't be used to make a lethal attack. Any [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] the weapon would deal is negated.
 
- On a critical hit, a _merciful_ weapon causes the target to become fascinated with the weapon's wielder for 1 minute, as the target is bombarded with feelings of guilt and remorse. This is a mental effect. If you have access to the weapon's critical specialization effect, you choose whether to use it or the merciful effect.
+ On a critical hit, a _merciful_ weapon causes the target to become [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with the weapon's wielder for 1 minute, as the target is bombarded with feelings of guilt and remorse. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect. If you have access to the weapon's critical specialization effect, you choose whether to use it or the merciful effect.
 
 *Source: Treasure Vault (Remastered) p. 33*

@@ -33,14 +33,14 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; low-light vision, scent (imprecise) 60 feet"
-languages: "Common; deer empathy"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; deer empathy"
 skills:
   - name: "Skills"
-    desc: "Athletics +9, Intimidation +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +8"
 abilityMods: [4, 1, 4, -1, 1, 1]
 abilities_top:
   - name: "Deer Empathy"
-    desc: "(primal) A weremoose can communicate with deer, including moose."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) A weremoose can communicate with deer, including moose."
   - name: "Items"
     desc: "Greataxe, Hatchet (2), Scale Mail"
 ac: 19
@@ -54,22 +54,22 @@ health:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ greataxe +11 (Sweep) __Damage__ 1d12+6 slashing"
+    desc: "⬻ greataxe +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d12+6 slashing"
   - name: "Melee"
     desc: "⬻ antler +11 __Damage__ 1d8+6 piercing plus curse of the weremoose"
   - name: "Melee"
-    desc: "⬻ hatchet +11 (Agile, Sweep) __Damage__ 1d6+6 slashing"
+    desc: "⬻ hatchet +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+6 slashing"
   - name: "Ranged"
-    desc: "⬻ hatchet +8 (Agile, thrown 10 feet) __Damage__ 1d6+6 slashing"
+    desc: "⬻ hatchet +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+6 slashing"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ (Concentrate, Polymorph, Primal) Medium human with fist +11 for 1d4+6 bludgeoning, or Large moose with antler and hoof +11 for 1d8+6 bludgeoning."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) Medium human with fist +11 for 1d4+6 bludgeoning, or Large moose with antler and hoof +11 for 1d8+6 bludgeoning."
   - name: "Curse of the Weremoose"
-    desc: "(Curse, Primal) Saving Throw DC 17 Fortitude"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) Saving Throw DC 17 Fortitude"
   - name: "Moon Frenzy"
-    desc: "(Polymorph, Primal) Increases antler damage instead of jaws."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) Increases antler damage instead of jaws."
   - name: "Thundering Charge"
-    desc: "⬺ The weremoose Strides twice and then makes an antler Strike. A Medium or smaller creature damaged by this attack must succeed at a DC 17 Fortitude save or be stunned 1."
+    desc: "⬺ The weremoose Strides twice and then makes an antler Strike. A Medium or smaller creature damaged by this attack must succeed at a DC 17 Fortitude save or be [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]]."
 sourcebook: "_Howl of the Wild_, page 196."
 ```
 

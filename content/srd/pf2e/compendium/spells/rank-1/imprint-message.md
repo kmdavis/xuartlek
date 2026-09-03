@@ -19,8 +19,8 @@ source: "Player Core 2"
 - **Range**: touch
 - **Target**: 1 object
 
-You project psychic vibrations onto the target object, imprinting it with a short message or emotional theme of your design. This imprinted sensation is revealed to a creature who casts _object reading_ on the target object, replacing any emotional events the item was present for. If the object is in the area of a _retrocognition_ spell, the imprinted messages appear as major events in the timeline, but they don't interfere with any other visions.
+You project psychic vibrations onto the target object, imprinting it with a short message or emotional theme of your design. This imprinted sensation is revealed to a creature who casts _object reading_ on the target object, replacing any emotional events the item was present for. If the object is in the area of a [[srd/pf2e/compendium/spells/rank-7/retrocognition|_retrocognition_]] spell, the imprinted messages appear as major events in the timeline, but they don't interfere with any other visions.
 
- If the object is targeted with _read aura_ of a higher spell rank than _imprint message_, the caster learns that the object has been magically modified. When you Cast this Spell, any prior vibrations placed on an object by previous castings of _imprint message_ fade.
+ If the object is targeted with [[srd/pf2e/compendium/spells/cantrips/read-aura|_read aura_]] of a higher spell rank than _imprint message_, the caster learns that the object has been magically modified. When you Cast this Spell, any prior vibrations placed on an object by previous castings of _imprint message_ fade.
 
 *Source: Player Core 2 p. 247*

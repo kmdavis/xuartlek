@@ -26,7 +26,7 @@ A steam trolley is essentially a much bigger steam cart, with a heavier-duty alc
 
 **Passengers** 6
 
-**Piloting Check** Driving Lore (DC 19) or Crafting (DC 21)
+**Piloting Check** Driving Lore (DC 19) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 21)
 
 ---
 

@@ -14,7 +14,7 @@ Tooth fairies spawn when a child's tooth (or, less commonly, an entire child) is
 
 ### Members
 
-Tooth Fairy (Creature -1), Tooth Fairy Swarm (Creature 3)
+[[srd/pf2e/bestiary/monster-core/fey/tooth-fairy|Tooth Fairy]] (Creature -1), [[srd/pf2e/bestiary/monster-core/fey/tooth-fairy-swarm|Tooth Fairy Swarm]] (Creature 3)
 
 ### Folk Traditions
 

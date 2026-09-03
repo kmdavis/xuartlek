@@ -18,7 +18,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Travel
+- **Domain**: [[srd/pf2e/compendium/character/domains#Travel|Travel]]
 - **Duration**: 5 minutes
 
 You add power to your muscles, allowing you to swim or climb walls with ease. When you Cast this Spell, you gain either a climb Speed or a swim Speed. The Speed is equal to your land Speed.

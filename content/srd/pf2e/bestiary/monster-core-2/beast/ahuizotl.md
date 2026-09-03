@@ -31,14 +31,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; darkvision"
-languages: "Aklo, Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Deception +15, Stealth +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15"
 abilityMods: [5, 3, 5, -1, 3, 3]
 abilities_top:
   - name: "Voice Imitation"
-    desc: "An ahuizotl can mimic the sounds of a person in distress by attempting a Deception check to Lie. The ahuizotl has a +4 circumstance bonus to this check."
+    desc: "An ahuizotl can mimic the sounds of a person in distress by attempting a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]]. The ahuizotl has a +4 circumstance bonus to this check."
 ac: 23
 armorclass:
   - name: "AC"
@@ -52,16 +52,16 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +17 __Damage__ 2d8+8 piercing"
   - name: "Melee"
-    desc: "⬻ claw +17 (Agile) __Damage__ 2d6+8 slashing"
+    desc: "⬻ claw +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d6+8 slashing"
   - name: "Melee"
-    desc: "⬻ tail claw +15 (Agile, reach 10 feet) __Damage__ 2d4+8 slashing plus Improved Grab"
+    desc: "⬻ tail claw +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d4+8 slashing plus Improved Grab"
 abilities_bot:
   - name: "Tail Drag"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The ahuizotl has a Medium or smaller creature grabbed with their tail claw"
+    desc: "The ahuizotl has a Medium or smaller creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] with their tail claw"
   - name: "Effect"
-    desc: "The ahuizotl attempts an Athletics check against the creature's Fortitude DC."
+    desc: "The ahuizotl attempts an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the creature's Fortitude DC."
   - name: "Critical Success"
     desc: "If the creature is 10 feet away from the ahuizotl, it's dragged into a square adjacent to the ahuizotl. The ahuizotl can make a jaws Strike against the creature."
   - name: "Success"

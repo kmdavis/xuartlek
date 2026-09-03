@@ -29,7 +29,7 @@ perception:
     desc: "Perception +22; darkvision, web sense"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +18, Athletics +23, Stealth +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +18, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +22"
 abilityMods: [8, 5, 7, -5, 3, -4]
 abilities_top:
   - name: "Web Sense"
@@ -54,14 +54,14 @@ abilities_mid:
 speed: "45 feet, climb 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fangs +24 (reach 10 feet) __Damage__ 2d12+12 piercing plus goliath spider venom"
+    desc: "⬻ fangs +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+12 piercing plus goliath spider venom"
   - name: "Ranged"
     desc: "⬻ web +22 (range increment 60 feet) __Damage__ web tether"
 abilities_bot:
   - name: "Descend on a Web"
-    desc: "⬻ (Move) The goliath spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage. A creature that successfully Strikes the web (AC 20, Hardness 5, 20 HP) severs it, causing the spider to fall."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The goliath spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count for falling damage. A creature that successfully Strikes the web (AC 20, Hardness 5, 20 HP) severs it, causing the spider to fall."
   - name: "Goliath Spider Venom"
-    desc: "(Incapacitation, Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 30 Fortitude"
   - name: "Maximum Duration"
@@ -71,9 +71,9 @@ abilities_bot:
   - name: "Stage 2"
     desc: "3d8 poison damage and slowed 2 (1 round)"
   - name: "Stage 3"
-    desc: "3d10 poison damage and paralyzed for 2d4 hours"
+    desc: "3d10 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] for 2d4 hours"
   - name: "Web Tether"
-    desc: "A creature hit by the spider's web Strike is restrained and tethered to the spider, preventing it from being moved farther away from the spider. The spider can have one creature tethered at a time. The DC to Escape or Force Open the web is 30. The tether can be severed with a Strike (AC 20, Hardness 5, HP 20), but this doesn't free the restrained creature."
+    desc: "A creature hit by the spider's web Strike is [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] and tethered to the spider, preventing it from being moved farther away from the spider. The spider can have one creature tethered at a time. The DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] the web is 30. The tether can be severed with a Strike (AC 20, Hardness 5, HP 20), but this doesn't free the restrained creature."
 sourcebook: "_Monster Core_, page 321."
 ```
 

@@ -22,7 +22,7 @@ source: "GM Core"
 
 **Passengers** 2
 
-**Piloting Check** Arcana (DC 25), Crafting (DC 25), Engineering Lore (DC 23), Piloting Lore (DC 23)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (DC 25), [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 25), Engineering [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] (DC 23), Piloting Lore (DC 23)
 
 ---
 

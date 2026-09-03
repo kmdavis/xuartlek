@@ -19,7 +19,7 @@ source: "Player Core"
 - **Cast**: 1 day
 - **Cost**: gemstones worth a total value of 75 gp × the target’s level
 - **Secondary Casters**: 2
-- **Primary Check**: Religion (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert)
 - **Secondary Checks**: Medicine , Society
 - **Range**: 10 feet
 - **Target(s)**: 1 dead creature of up to 10th level
@@ -28,7 +28,7 @@ You attempt to call forth the target's soul and return it to its body. This requ
 
 **Critical Success** You resurrect the target. They return to life with full Hit Points and the same spells prepared and points in their pools they had when they died, and still suffering from any long-term debilitations of the old body. The target meets an agent of their deity during the resurrection who inspires them, granting them a +1 status bonus to attack rolls, Perception, saving throws, and skill checks for 1 week. The target is also permanently changed in some way by their time in the afterlife, such as gaining a slight personality shift, a streak of white in the hair, or a strange new birthmark.
 
-**Success** As critical success, except the target returns to life with 1 Hit Point and no spells prepared or points in any pools, and still is affected by any long-term debilitations of the old body. Instead of inspiring them, the character's time in the Boneyard has left them temporarily debilitated. The target is clumsy 1, drained 1, and enfeebled 1 for 1 week; these conditions can't be removed or reduced by any means until the week has passed.
+**Success** As critical success, except the target returns to life with 1 Hit Point and no spells prepared or points in any pools, and still is affected by any long-term debilitations of the old body. Instead of inspiring them, the character's time in the Boneyard has left them temporarily debilitated. The target is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]], and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] for 1 week; these conditions can't be removed or reduced by any means until the week has passed.
 
 **Failure** Your attempt is unsuccessful.
 

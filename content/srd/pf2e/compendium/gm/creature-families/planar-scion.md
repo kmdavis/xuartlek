@@ -14,7 +14,7 @@ Many immortals dwell upon the other planes of the Great Beyond. Some are benevol
 
 ### Members
 
-Duskwalker Ghost Hunter (Creature 4)
+[[srd/pf2e/bestiary/monster-core/humanoid/duskwalker-ghost-hunter|Duskwalker Ghost Hunter]] (Creature 4)
 
 ### 
 

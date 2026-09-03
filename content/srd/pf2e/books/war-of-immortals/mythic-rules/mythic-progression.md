@@ -26,7 +26,7 @@ As the GM of a mythic campaign, you should talk to your players about what mythi
 
 ### Rewrite Fate [free-action]
 
-Uncommon Fortune Mythic
+[[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|Uncommon]] [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|Fortune]] [[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/mythic|Mythic]]
 **Source** War of Immortals pg. 78
 **Trigger** You roll a skill check or saving throw and don’t like the result.
 

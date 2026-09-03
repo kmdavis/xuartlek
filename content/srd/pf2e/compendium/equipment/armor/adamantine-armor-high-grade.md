@@ -16,7 +16,7 @@ source: "GM Core"
 
 - **Usage**: worn armor
 - **Bulk**: varies by armor
-- **Base Material**: Adamantine
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|Adamantine]]
 
 Adamantine armor has a shiny, black appearance and is amazingly durable.
 

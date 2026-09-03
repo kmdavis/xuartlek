@@ -15,13 +15,13 @@ source: "Player Core 2"
 
 You understand the reactions between all manner of reagents and can concoct alchemical items to meet your needs. You can do this using normal reagents and the Craft activity, or you can use specially prepared chemicals that allow you to craft temporary items quickly and at no cost. Over time, you can create more and more alchemical items for free, and since each of them becomes more and more powerful, you advance in power dramatically, leaving behind those who don't understand your strange science.
 
- You gain the Alchemical Crafting feat, and you can automatically identify alchemical items that you have the formula for. 
+ You gain the [[srd/pf2e/compendium/feats/player-core/skill/alchemical-crafting|Alchemical Crafting]] feat, and you can automatically identify alchemical items that you have the formula for. 
 
 #### Formula Book
 
- An alchemist keeps meticulous formulas for every item they can create. You start with a standard formula book for free. The formula book contains the formulas for two common 1st-level alchemical items of your choice, in addition to any formulas you gained from Alchemical Crafting and your research field. 
+ An alchemist keeps meticulous formulas for every item they can create. You start with a standard [[srd/pf2e/compendium/equipment/adventuring-gear/formula-book-blank|formula book]] for free. The formula book contains the formulas for two common 1st-level alchemical items of your choice, in addition to any formulas you gained from Alchemical Crafting and your research field. 
 
-Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to select the Inventor skill feat so you can invent them.
+Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to select the [[srd/pf2e/compendium/feats/player-core/skill/inventor|Inventor]] skill feat so you can invent them.
 
  As normal, having the base formula is sufficient when Crafting upgraded types of the item—you don't need to learn higher-level formulas. For instance, if you have the 1st-level formula for a minor elixir of life, you can create a minor, lesser, moderate, greater, major, or true elixir of life as long as you meet the level and other prerequisites. Items with type entries that have widely varied functions require separate formulas, but most alchemical items have a structure similar to elixir of life. 
 

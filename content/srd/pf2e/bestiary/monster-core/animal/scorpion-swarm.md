@@ -31,7 +31,7 @@ perception:
     desc: "Perception +11; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +6, Stealth +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11"
 abilityMods: [0, 5, 2, -5, 0, -4]
 ac: 21
 armorclass:
@@ -40,11 +40,11 @@ armorclass:
 hp: 55
 health:
   - name: "HP"
-    desc: "55; __Immunities__ grapple, precision, prone, restrained, swarm mind; __Resistances__ bludgeoning 3, piercing 7, slashing 7; __Weaknesses__ area damage 5, splash damage 5"
+    desc: "55; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grapple]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 3, piercing 7, slashing 7; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 speed: "25 feet"
 abilities_bot:
   - name: "Scorpion Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 18 Fortitude"
   - name: "Maximum Duration"
@@ -52,7 +52,7 @@ abilities_bot:
   - name: "Stage 1"
     desc: "1d6 poison damage (1 round)"
   - name: "Stage 2"
-    desc: "1d6 poison damage and enfeebled 1 (1 round)"
+    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Swarming Stings"
     desc: "⬻ Each enemy in the swarm's space takes 2d8 piercing damage (DC 21 basic Reflex save) and is exposed to scorpion venom."
 sourcebook: "_Monster Core_, page 298."

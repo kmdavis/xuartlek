@@ -19,8 +19,8 @@ source: "Player Core 2"
 - **Price**: 25 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This greenish, persistent grease can be applied to armor to make it extremely slippery for 8 hours, granting the wearer a +2 item bonus to Acrobatics checks to Escape or to Squeeze.
+This greenish, persistent grease can be applied to armor to make it extremely slippery for 8 hours, granting the wearer a +2 item bonus to Acrobatics checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] or to [[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]].
 
 *Source: Player Core 2 p. 303*

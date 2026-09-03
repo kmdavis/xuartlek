@@ -22,9 +22,9 @@ source: "Battlecry!"
 - **Target**: 1 creature
 - **Defense**: AC
 
-You send a bubble of viscous liquid that sparks into flame. Make a spell attack roll against the target’s AC, dealing 1d8 fire damage and 1d8 persistent fire damage on a hit. The target is enfeebled 1 until they recover from their persistent fire damage.
+You send a bubble of viscous liquid that sparks into flame. Make a spell attack roll against the target’s AC, dealing 1d8 fire damage and 1d8 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire damage]] on a hit. The target is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 until they recover from their persistent fire damage.
 
 ---
-**Heightened (+2)** The initial and persistent fire damage increase by 1d8.
+**Heightened (+2)** The initial and [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire damage]] increase by 1d8.
 
 *Source: Battlecry! p. 91*

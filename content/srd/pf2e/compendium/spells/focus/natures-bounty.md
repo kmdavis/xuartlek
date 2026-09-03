@@ -20,7 +20,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Plant`  `Uncommon`  `Vitality`  `Positive`
 
-- **Domain**: Nature
+- **Domain**: [[srd/pf2e/compendium/character/domains#Nature|Nature]]
 - **Requirements**: You have a free hand
 
 A palm-sized raw fruit or vegetable of your choice appears in your open hand. A creature can consume the food with an Interact action to regain 3d10+12 Hit Points and be nourished as if it had eaten a meal. If uneaten, the food crumbles to dust after 1 minute.

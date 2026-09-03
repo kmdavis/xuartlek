@@ -36,7 +36,7 @@ The shot is a high-grade adamantine bullet. The awakened adamantine breaks throu
 
 ---
 
-The shot is a high-grade cold iron bullet. The awakened cold iron attempts to disrupt enchantments the target placed on others' minds. You can name a creature you believe to be enchanted by your target or allow the shot to choose an enchanted creature randomly. On a hit, the shot attempts to counteract the enchantment the target is using to manipulate that creature's mind. The counteract level is 9, and the counteract modifier is +27. If you fail (but don't critically fail) the counteract check against a demon or fey, you get a success instead. If you hit a demon or fey with no active enchantment effects on other creatures, the target is stupefied 1 for 1 minute instead.
+The shot is a high-grade cold iron bullet. The awakened cold iron attempts to disrupt enchantments the target placed on others' minds. You can name a creature you believe to be enchanted by your target or allow the shot to choose an enchanted creature randomly. On a hit, the shot attempts to counteract the enchantment the target is using to manipulate that creature's mind. The counteract level is 9, and the counteract modifier is +27. If you fail (but don't critically fail) the counteract check against a demon or [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]], you get a success instead. If you hit a demon or fey with no active enchantment effects on other creatures, the target is stupefied 1 for 1 minute instead.
 
 ### Awakened Metal Shot (Awakened Silver Shot)
 
@@ -44,6 +44,6 @@ The shot is a high-grade cold iron bullet. The awakened cold iron attempts to di
 
 ---
 
-The shot is a high-grade silver bullet. The awakened silver gleams with altered celestial moonlight designed to weaken and expose devils and werecreatures. On a hit, it attempts to counteract any polymorph effect on the target. The counteract level is 9, and the counteract modifier is +27. If you fail (but don't critically fail) the counteract check against a devil or a werecreature, you get a success instead. If you counteracted the Change Shape ability, the creature can't use that ability again for 1 round, or 1 minute on a critical success. If you hit a devil or werecreature not under a polymorph effect, the target is enfeebled 1 for 1 minute instead.
+The shot is a high-grade silver bullet. The awakened silver gleams with altered celestial moonlight designed to weaken and expose devils and werecreatures. On a hit, it attempts to counteract any [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect on the target. The counteract level is 9, and the counteract modifier is +27. If you fail (but don't critically fail) the counteract check against a devil or a werecreature, you get a success instead. If you counteracted the Change Shape ability, the creature can't use that ability again for 1 round, or 1 minute on a critical success. If you hit a devil or werecreature not under a polymorph effect, the target is enfeebled 1 for 1 minute instead.
 
 *Source: Guns & Gears (Remastered) p. 168*

@@ -34,6 +34,6 @@ You need an alchemist's lab to Craft alchemical items during downtime.
 
 ---
 
-An expanded alchemist's lab gives a +1 item bonus to Crafting checks to create alchemical items.
+An expanded alchemist's lab gives a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] checks to create alchemical items.
 
 *Source: Player Core p. 287*

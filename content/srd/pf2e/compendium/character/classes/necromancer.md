@@ -16,17 +16,17 @@ You'll see the following key terms in many necromancer abilities.
 
 **Spellshape**: Actions with the spellshape trait tweak the properties of your spells. You must use a spellshape action directly before casting the spell you want to alter. If you use any action (including free actions and reactions) other than casting a spell directly after, you waste the benefits of the spellshape action. The benefit is also lost if your turn ends before you cast the spell. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
-**Thrall**: The mindless undead you can create as a necromancer are called thralls. Spells or abilities that create thralls have the thrall trait. 
+**Thrall**: The mindless undead you can create as a [[srd/pf2e/compendium/character/classes/necromancer|necromancer]] are called thralls. Spells or abilities that create thralls have the thrall trait. 
 
 ### Thralls
 
- A thrall is a level –1 creature with the mindless and undead traits. It's not a minion, nor does it have the summoned trait. It has 1 Hit Point and is immune to bleed, death effects, disease, mental, and poison. Thralls automatically fail all checks, and any check made against a thrall automatically succeeds. They can take actions only when commanded to by a grave spell or necromancer ability. A thrall is temporary and is destroyed after 1 minute if no other duration is listed.
+ A thrall is a level –1 creature with the mindless and undead traits. It's not a minion, nor does it have the summoned trait. It has 1 Hit Point and is immune to bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]. Thralls automatically fail all checks, and any check made against a thrall automatically succeeds. They can take actions only when commanded to by a grave spell or necromancer ability. A thrall is temporary and is destroyed after 1 minute if no other duration is listed.
 
- You choose whether a thrall is Small or Medium when you create it, and you must create it in an unoccupied space or the spell or ability that created the thrall fails. A thrall can contribute to flanking as though it were able to make melee unarmed Strikes. Thralls can't hold their ground—a creature can move into a thrall's space as though it were unoccupied. The thrall's space is difficult terrain, and the moving creature can automatically push the thrall into an adjacent space that's not in its path.
+ You choose whether a thrall is Small or Medium when you create it, and you must create it in an unoccupied space or the spell or ability that created the thrall fails. A thrall can contribute to flanking as though it were able to make melee unarmed Strikes. Thralls can't hold their ground—a creature can move into a thrall's space as though it were unoccupied. The thrall's space is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]], and the moving creature can automatically push the thrall into an adjacent space that's not in its path.
 
  A thrall has a Speed of 15 feet unless otherwise noted. You can use the Command a Thrall action (see below) as long as you have at least one thrall. When you Command a Thrall to Strike, it makes a melee unarmed Strike using your spell attack modifier for its attack roll. This Strike uses and counts toward your multiple attack penalty. The Strike deals 1d6 bludgeoning, piercing, or slashing damage. At 5th level and every 4 levels thereafter, the damage increases by 1d6.
 
- **Command a Thrall** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, necromancer, thrall) You make one of your thralls Crawl, Drop Prone, Escape, Interact , Stand, Stride, or Strike. A thrall can take only simple Interact actions, not ones that require skill checks or complicated movements. However, they can make checks to Escape using your spell attack modifier. Escaping this way uses and counts toward your multiple attack penalty.
+ **Command a Thrall** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/necromancer|necromancer]], thrall) You make one of your thralls [[srd/pf2e/compendium/rules-elements/actions/player-core#Crawl|Crawl]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Drop Prone|Drop Prone]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] , [[srd/pf2e/compendium/rules-elements/actions/player-core#Stand|Stand]], Stride, or Strike. A thrall can take only simple Interact actions, not ones that require skill checks or complicated movements. However, they can make checks to Escape using your spell attack modifier. Escaping this way uses and counts toward your multiple attack penalty.
 
 ### Roleplaying the Necromancer
 
@@ -62,7 +62,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Expert in Fortitude Trained in Reflex Trained in Will |
-| **Skills** | Trained in Occultism Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
+| **Skills** | Trained in [[srd/pf2e/compendium/rules-elements/skills/occultism\|Occultism]] Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
 | **Attacks** | Trained in simple weapons Trained in unarmed attacks |
 | **Defenses** | Trained in light armor Trained in unarmored defense |
 | **Class DC** | Trained in necromancer class DC |
@@ -114,13 +114,13 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 #### Necromancer Spellcasting
 
-Your studies into the nature of life and death have resulted in the ability to cast occult spells. You are a spellcaster, and you can cast spells of the occult tradition using the Cast a Spell activity. As a necromancer, your chants are generally inspired by laments, requiems, and other rites for the dead, while your gestures evoke the unnatural movement of muscle and cracking of bone.
+Your studies into the nature of life and death have resulted in the ability to cast occult spells. You are a spellcaster, and you can cast spells of the occult tradition using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] activity. As a necromancer, your chants are generally inspired by laments, requiems, and other rites for the dead, while your gestures evoke the unnatural movement of muscle and cracking of bone.
 
  At 1st level, you can prepare one 1st-rank spell and five cantrips each morning from your dirge (see below). Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare each day is called your spell slots.
 
  As you increase in level as a necromancer, the number of spells you can prepare each day increases, as does the highest rank of spell you can cast, as shown in the Necromancer Spells per Day table.
 
- Some of your spells require you to attempt a spell attack to see how effective they are or for your enemies to roll against your spell DC (typically by attempting a saving throw). Since your key attribute is Intelligence, your spell attack modifier and spell DC use your Intelligence modifier. 
+ Some of your spells require you to attempt a spell attack to see how effective they are or for your enemies to roll against your spell DC (typically by attempting a saving throw). Since your key attribute is Intelligence, your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|spell attack modifier]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell DC|spell DC]] use your Intelligence modifier. 
 
 #### Heightening Spells
 
@@ -132,21 +132,21 @@ Some of your spells are cantrips. A cantrip is a special type of spell that does
 
 #### Dirge
 
- Your occult spells become a part of an internal dirge that echoes throughout your body, bones, and even your spirit. Each day, to prepare your spells, you pull forth pieces of your dirge to vocalize. Your dirge contains your choice of eight occult cantrips, the 1st-rank spell harm, and four other 1st-rank occult spells of your choice. You choose these from the common spells on the occult spell list or from other occult spells you gain access to. You can prepare and cast _harm_ as an occult spell.
+ Your occult spells become a part of an internal dirge that echoes throughout your body, bones, and even your spirit. Each day, to prepare your spells, you pull forth pieces of your dirge to vocalize. Your dirge contains your choice of eight occult cantrips, the 1st-rank spell harm, and four other 1st-rank occult spells of your choice. You choose these from the common spells on the occult spell list or from other occult spells you gain access to. You can prepare and cast [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] as an occult spell.
 
- Each time you gain a level, you add two occult spells to your dirge, of any spell rank for which you have spell slots, chosen from common occult spells or others you gain access to and learn via Learn a Spell.
+ Each time you gain a level, you add two occult spells to your dirge, of any spell rank for which you have spell slots, chosen from common occult spells or others you gain access to and learn via [[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]].
 
 #### Grave Spells
 
-Your necromantic prowess allows you to create unique effects called grave spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to speak to the dead, meditate on local supernatural activity, or contemplate anatomical truths. If you have a thrall when you begin Refocusing, you can destroy it to regain 2 Focus Points when you Refocus.
+Your necromantic prowess allows you to create unique effects called grave spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] activity to speak to the dead, meditate on local supernatural activity, or contemplate anatomical truths. If you have a thrall when you begin Refocusing, you can destroy it to regain 2 Focus Points when you Refocus.
 
- Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but can never be more than 3 points. The full rules for focus spells appear here.
+ Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but can never be more than 3 points. The full rules for focus spells appear [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|here]].
 
- You gain the _necrotic bomb_ grave spell and an additional grave spell from your grim fascination at 1st level. Therefore, you start with a focus pool of 2 Focus Points. You can learn additional grave spells through necromancer feats. 
+ You gain the [[srd/pf2e/compendium/spells/focus/necrotic-bomb|_necrotic bomb_]] grave spell and an additional grave spell from your grim fascination at 1st level. Therefore, you start with a focus pool of 2 Focus Points. You can learn additional grave spells through necromancer feats. 
 
 #### Grave Cantrips
 
- Grave cantrips are special grave spells that don't cost Focus Points, so you can use them as often as you like. Grave cantrips are granted in addition to the cantrips you choose with necromancer spellcasting. Unlike other cantrips, you can't swap out grave cantrips gained from necromancer feats at a later level, unless you swap out the specific feat via retraining. You learn the _create thrall_ and _thrall charge_ grave cantrips, which allow you to summon expendable thralls and manipulate them to do your bidding.
+ Grave cantrips are special grave spells that don't cost Focus Points, so you can use them as often as you like. Grave cantrips are granted in addition to the cantrips you choose with necromancer spellcasting. Unlike other cantrips, you can't swap out grave cantrips gained from necromancer feats at a later level, unless you swap out the specific feat via [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Retraining|retraining]]. You learn the [[srd/pf2e/compendium/spells/cantrips/create-thrall|_create thrall_]] and [[srd/pf2e/compendium/spells/cantrips/thrall-charge|_thrall charge_]] grave cantrips, which allow you to summon expendable thralls and manipulate them to do your bidding.
 
 #### Fatal Method
 
@@ -162,11 +162,11 @@ Grim Fascinations can be found here
 
 #### Mastery of Life and Death
 
-You have studied the delicate balance of life and death to such a point that you can dance between them with ease. Whenever you Cast a Spell or use an ability that would deal void or vitality damage, you can choose for the spell to do either void or vitality damage to each target separately. When you Cast a Spell or use an ability that would affect or target only living creatures or only undead creatures, you can affect and target both. This does not apply to the healing effects of spells or abilities. For example, you could have the _harm_ spell deal vitality damage to undead enemies, but it would not be able to heal living allies.
+You have studied the delicate balance of life and death to such a point that you can dance between them with ease. Whenever you Cast a Spell or use an ability that would deal [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] damage, you can choose for the spell to do either void or vitality damage to each target separately. When you Cast a Spell or use an ability that would affect or target only living creatures or only [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creatures, you can affect and target both. This does not apply to the healing effects of spells or abilities. For example, you could have the [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] spell deal vitality damage to undead enemies, but it would not be able to heal living allies.
 
 #### Undead Lore
 
-Your dealings with death have expanded your knowledge of the macabre. You know the dead and what they are capable of. You become trained in Undead Lore, a special lore skill that can be used to Recall Knowledge regarding undead creatures, haunts, and effects caused by undead creatures or other necromancers, but that can't be used to Recall Knowledge of other topics. At 3rd level, you become an expert in Undead Lore; at 7th level, you become a master in Undead Lore; and at 15th level, you become legendary in Undead Lore.
+Your dealings with death have expanded your knowledge of the macabre. You know the dead and what they are capable of. You become trained in [[srd/pf2e/compendium/rules-elements/skills/lore|Undead Lore]], a special lore skill that can be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] regarding [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creatures, [[srd/pf2e/compendium/rules-elements/traits/gm-core/haunt|haunts]], and effects caused by undead creatures or other necromancers, but that can't be used to Recall Knowledge of other topics. At 3rd level, you become an expert in Undead Lore; at 7th level, you become a master in Undead Lore; and at 15th level, you become legendary in Undead Lore.
 
 | | |
 | --- | --- |
@@ -180,7 +180,7 @@ The dead do not rest around you. You gain the Inevitable Return reaction.
 
 #### Mental Wards
 
-You have created wards to protect yourself against the mental effects caused by undead creatures and effects. Your proficiency rank for Will saves increases to expert. When you roll a success at a Will save against a mental or possession effect caused by an undead or haunt, you get a critical success instead.
+You have created wards to protect yourself against the mental effects caused by undead creatures and effects. Your proficiency rank for Will saves increases to expert. When you roll a success at a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/possession|possession]] effect caused by an undead or haunt, you get a critical success instead.
 
 #### Skill Increases
 

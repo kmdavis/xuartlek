@@ -16,11 +16,11 @@ source: "GM Core"
 `Consumable`  `Magical`
 
 - **Price**: 1,300 gp
-- **Ammunition**: sling bullet
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Ammunition**: [[srd/pf2e/compendium/equipment/weapons/sling/sling-bullets|sling bullet]]
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This sling bullet looks like a petrified serpent's eye. A creature hit by an activated stone bullet is subject to the effects of a 6th-rank _petrify_ spell (DC 34).
+This sling bullet looks like a petrified serpent's eye. A creature hit by an activated stone bullet is subject to the effects of a 6th-rank [[srd/pf2e/compendium/spells/rank-6/petrify|_petrify_]] spell (DC 34).
 
-**Craft Requirements** Supply one casting of _petrify_.
+**Craft Requirements** Supply one casting of [[srd/pf2e/compendium/spells/rank-6/petrify|_petrify_]].
 
 *Source: GM Core p. 256*

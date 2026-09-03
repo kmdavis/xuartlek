@@ -21,7 +21,7 @@ source: "Player Core"
 
 `Cleric`  `Emotion`  `Focus`  `Incapacitation`  `Manipulate`  `Mental`  `Subtle`  `Uncommon`
 
-- **Domain**: Passion
+- **Domain**: [[srd/pf2e/compendium/character/domains#Passion|Passion]]
 - **Range**: touch
 - **Target**: 1 creature that could find you attractive
 - **Defense**: Will
@@ -33,7 +33,7 @@ You infuse your target with attraction, causing it to act friendlier toward you.
 
 **Success** The target is unaffected but thinks your spell was something harmless instead of charming touch, unless it identifies the spell (see Identifying Spells on page 303).
 
-**Failure** The target's attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can't use hostile actions against you. If you use a hostile action against the target, the spell ends. You can Dismiss the spell. After the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations. If it doesn't realize you charmed it, you could potentially convince it to continue being your friend via mundane means.
+**Failure** The target's attitude becomes [[srd/pf2e/compendium/rules-elements/conditions#Friendly|friendly]] toward you. If it was friendly, it becomes [[srd/pf2e/compendium/rules-elements/conditions#Helpful|helpful]]. It can't use hostile actions against you. If you use a hostile action against the target, the spell ends. You can Dismiss the spell. After the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations. If it doesn't realize you charmed it, you could potentially convince it to continue being your friend via mundane means.
 
 **Critical Failure** As failure, but the target is helpful.
 

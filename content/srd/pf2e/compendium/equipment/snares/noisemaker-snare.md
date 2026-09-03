@@ -30,7 +30,7 @@ When a creature enters this snare's square, it triggers an extremely loud clockw
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is deafened for 1 round.
+**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 round.
 
 **Critical Failure** The creature takes double damage and is deafened for 1 minute.
 

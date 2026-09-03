@@ -18,12 +18,12 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 8,500 gp
 - **Usage**: worn armor
 - **Bulk**: 5
-- **Base Armor**: Fortress Plate
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Fortress Plate|Fortress Plate]]
 
-The joints of this black _+2 greater resilient fortification fortress plate_ look like swirling vortices of silver. Non-magical ammunition and thrown weapons aimed at you are destroyed after they hit you and deal damage or miss you. You also have resistance 10 to physical damage from ranged attacks.
+The joints of this black _+2 greater resilient fortification [[srd/pf2e/compendium/equipment/armor#Fortress Plate|fortress plate]]_ look like swirling vortices of silver. Non-magical ammunition and thrown weapons aimed at you are destroyed after they hit you and deal damage or miss you. You also have resistance 10 to physical damage from ranged attacks.
 
  When an enemy's ranged attack misses you or hits you and deals no damage, the armor absorbs the projectile. When it has absorbed six projectiles, the armor glows at the joints.
 
-**Activate** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Requirements** The _black hole armor_ has absorbed six or more projectiles; **Effect** All the projectiles absorbed by the armor appear out of thin air, as though transported there, falling in a 10-foot burst within 120 feet of you. Each creature in the burst takes 10d8 piercing damage with a DC 35 Reflex save. The absorbed projectiles are all expended, and the armor's joints stop glowing.
+**Activate** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** The _black hole armor_ has absorbed six or more projectiles; **Effect** All the projectiles absorbed by the armor appear out of thin air, as though transported there, falling in a 10-foot burst within 120 feet of you. Each creature in the burst takes 10d8 piercing damage with a DC 35 Reflex save. The absorbed projectiles are all expended, and the armor's joints stop glowing.
 
 *Source: Treasure Vault (Remastered) p. 14*

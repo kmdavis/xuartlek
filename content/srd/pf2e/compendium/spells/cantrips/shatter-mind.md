@@ -21,13 +21,13 @@ source: "Dark Archives (Remastered)"
 
 - **Area**: 15-foot cone
 
-You telepathically assail the minds of your foes. You deal 3d4 mental damage to all enemies in the area, with a basic Will save.
+You telepathically assail the minds of your foes. You deal 3d4 mental damage to all enemies in the area, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Will save.
 
 ---
 **Heightened (+1)** The damage increases by 1d4.
 
 ---
 
-**Amp** You increase the area of the spell to a 30-foot cone or 60- foot cone, and the damage dice for the spell change to d10s. Creatures that fail are stupefied 1 until the start of your next turn (or stupefied 2 on a critical failure).
+**Amp** You increase the area of the spell to a 30-foot cone or 60- foot cone, and the damage dice for the spell change to d10s. Creatures that fail are [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 until the start of your next turn (or stupefied 2 on a critical failure).
 
 *Source: Dark Archives (Remastered) p. 21*

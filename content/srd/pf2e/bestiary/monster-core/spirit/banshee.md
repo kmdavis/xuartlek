@@ -35,16 +35,16 @@ modifier: 32
 perception:
   - name: "Perception"
     desc: "Perception +32; hears heartbeats (imprecise) 60 feet, darkvision"
-languages: "Common, Elven"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +31, Intimidation +32, Occultism +25"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +31, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +32, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +25"
 abilityMods: [-5, 6, 2, 0, 7, 7]
 abilities_top:
   - name: "Hears Heartbeats"
     desc: "The banshee can hear heartbeats within 60 feet of it as an imprecise sense."
   - name: "Sunlight Powerlessness"
-    desc: "A banshee in sunlight is clumsy 2 and stunned 2."
+    desc: "A banshee in sunlight is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 2]] and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 2]]."
 ac: 39
 armorclass:
   - name: "AC"
@@ -52,10 +52,10 @@ armorclass:
 hp: 250
 health:
   - name: "HP"
-    desc: "250 (void healing); __Immunities__ bleed, death effects, disease, paralyzed, poison, precision, unconscious; __Resistances__ all damage 12 (except force, _ghost touch_, spirit, or vitality; double resistance vs. non-magical)"
+    desc: "250 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ all damage 12 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]; double resistance vs. non-[[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])"
 abilities_mid:
   - name: "Vengeful Spite"
-    desc: "⬲ (occult)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]])"
   - name: "Trigger"
     desc: "A foe critically hits the banshee, or the banshee critically fails their save against a foe's damaging effect"
   - name: "Effect"
@@ -63,14 +63,14 @@ abilities_mid:
 speed: "fly 60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ hand +32 (Finesse, Magical) __Damage__ 4d10+14 void plus terrifying touch"
+    desc: "⬻ hand +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 4d10+14 void plus terrifying touch"
 abilities_bot:
   - name: "Spectral Ripple"
-    desc: "When a banshee Strides at least 10 feet, they're concealed until the start of their next turn."
+    desc: "When a banshee Strides at least 10 feet, they're [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] until the start of their next turn."
   - name: "Terrifying Touch"
-    desc: "(Emotion, Fear, Occult) A creature damaged by the banshee's touch that isn't already frightened must attempt a DC 38 Will save (DC 43 if the attack was a critical hit). If the creature fails its save, it's frightened 2; on a critical failure, the creature also cowers with fear and is stunned 4. If the creature is protected against fear by a spell or magic item, the banshee's touch first attempts to counteract the protection effect, with the effect of a 9th-rank _dispel magic_ spell."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) A creature damaged by the banshee's touch that isn't already [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] must attempt a DC 38 Will save (DC 43 if the attack was a critical hit). If the creature fails its save, it's frightened 2; on a critical failure, the creature also cowers with fear and is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 4]]. If the creature is protected against fear by a spell or magic item, the banshee's touch first attempts to counteract the protection effect, with the effect of a 9th-rank [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] spell."
   - name: "Wail"
-    desc: "⬺ (Auditory, Concentrate, Death, Occult) The banshee unleashes a soul-chilling _wails of the damned_ (DC 38). This Wail overcomes _silence_ and similar effects of 5th rank or lower. The banshee can instead use Wail as a three-action activity to overcome such effects of up to 8th rank. The banshee's Wail resonates for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can't be affected more than once by the same Wail. The banshee can't Wail again for 1d4 rounds. Born from Tragedy The banshee represents one of the most tragic of undead, a soul so wracked with agony and fury over a betrayal in life that, in death, it lingers on as a great evil. That most of those who become banshees were not evil in life only deepens this tragic theme, and many elven adventurers see it as their duty not only to put banshees to rest, but to right the wrong that saw their creation in the first place."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|Death]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The banshee unleashes a soul-chilling [[srd/pf2e/compendium/spells/rank-9/wails-of-the-damned|_wails of the damned_]] (DC 38). This Wail overcomes [[srd/pf2e/compendium/spells/rank-2/silence|_silence_]] and similar effects of 5th rank or lower. The banshee can instead use Wail as a three-action activity to overcome such effects of up to 8th rank. The banshee's Wail resonates for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can't be affected more than once by the same Wail. The banshee can't Wail again for 1d4 rounds. Born from Tragedy The banshee represents one of the most tragic of undead, a soul so wracked with agony and fury over a betrayal in life that, in death, it lingers on as a great evil. That most of those who become banshees were not evil in life only deepens this tragic theme, and many elven adventurers see it as their duty not only to put banshees to rest, but to right the wrong that saw their creation in the first place."
 sourcebook: "_Monster Core_, page 37."
 ```
 

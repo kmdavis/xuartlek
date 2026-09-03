@@ -20,7 +20,7 @@ source: "Guns & Gears (Remastered)"
 - **Ammunition**: any
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") envision
 
-This shimmering, golden-hued ammunition never makes any sound. A creature hit by a silencing shot is subject to the effects of a 4th-rank _silence_ spell unless it succeeds at a DC 25 Will save.
+This shimmering, golden-hued ammunition never makes any sound. A creature hit by a silencing shot is subject to the effects of a 4th-rank [[srd/pf2e/compendium/spells/rank-2/silence|_silence_]] spell unless it succeeds at a DC 25 Will save.
 
 **Craft Requirements** Supply one casting of _silence_ at 4th level.
 

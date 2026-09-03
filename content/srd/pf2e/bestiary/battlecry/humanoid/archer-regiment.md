@@ -31,10 +31,10 @@ modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +25, Stealth +22, Survival +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +25, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +22, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +22"
 abilityMods: [4, 7, 3, 1, 5, 1]
 ac: 32
 armorclass:
@@ -43,22 +43,22 @@ armorclass:
 hp: 210
 health:
   - name: "HP"
-    desc: "210 (4 segments); __Weaknesses__ area damage 10, splash damage 10"
+    desc: "210 (4 segments); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "25 feet; troop movement"
 abilities_bot:
   - name: "Dagger Defense"
-    desc: "The archer regiment draws daggers to attack close-range enemies. Each enemy in a 5-foot emanation must attempt a DC 29 basic Reflex save. The damage depends on the number of actions. The archer regiment gains a +1 circumstance bonus to AC until the beginning of their next turn. ⬻ 2d4+2 piercing damage ⬺ 4d4+12 piercing damage ⬽ 4d4+15 piercing damage"
+    desc: "The archer regiment draws daggers to attack close-range enemies. Each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must attempt a DC 29 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. The archer regiment gains a +1 circumstance bonus to AC until the beginning of their next turn. ⬻ 2d4+2 piercing damage ⬺ 4d4+12 piercing damage ⬽ 4d4+15 piercing damage"
   - name: "Drilled in Formations"
     desc: "⬻"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The archer regiment uses Change Formation. An archer regiment unit typically knows the loose and marching column formations."
+    desc: "The archer regiment uses [[srd/pf2e/compendium/gm/creature-families/military|Change Formation]]. An archer regiment unit typically knows the loose and marching column formations."
   - name: "Rain of Arrows"
-    desc: "⬺ The archer regiment fires their longbows in a coordinated volley. This volley is either a 15-foot burst within 200 feet that deals 4d8 piercing damage or a 10- foot burst within 100 feet that deals 6d8 piercing damage. Either effect has a DC 29 basic Reflex save. When the archer regiment is reduced to 2 segments, both areas are reduced by 5 feet."
+    desc: "⬺ The archer regiment fires their longbows in a coordinated volley. This volley is either a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] within 200 feet that deals 4d8 piercing damage or a 10- foot burst within 100 feet that deals 6d8 piercing damage. Either effect has a DC 29 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. When the archer regiment is reduced to 2 segments, both areas are reduced by 5 feet."
 sourcebook: "_Battlecry!_, page 174."
 ```
 

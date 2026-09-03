@@ -14,6 +14,6 @@ These predators possess lightning-quick forelegs and a bone-breaking bite.
 
 ### Members
 
-Deadly Mantis (Creature 11), Giant Mantis (Creature 3)
+[[srd/pf2e/bestiary/monster-core/animal/deadly-mantis|Deadly Mantis]] (Creature 11), [[srd/pf2e/bestiary/monster-core/animal/giant-mantis|Giant Mantis]] (Creature 3)
 
 *Source: Monster Core p. 229*

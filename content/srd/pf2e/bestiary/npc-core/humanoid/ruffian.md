@@ -29,10 +29,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +7, Intimidation +6, Stealth +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
 abilityMods: [3, 2, 3, -1, 2, 0]
 abilities_top:
   - name: "Items"
@@ -53,22 +53,22 @@ attacks:
   - name: "Melee"
     desc: "⬻ club +9 __Damage__ 1d6+5 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +9 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+5 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+5 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ sling +8 (Propulsive, range increment 50 feet, reload 1) __Damage__ 1d6+5 bludgeoning"
+    desc: "⬻ sling +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+5 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ club +8 (thrown 10 feet) __Damage__ 1d6+5 bludgeoning"
+    desc: "⬻ club +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+5 bludgeoning"
 abilities_bot:
   - name: "Brutal Beating"
-    desc: "The ruffian's brutality shakes foes' confidence. When the ruffian deals damage on a critical hit, the target is frightened 1, and the ruffian can push the target up to 10 feet."
+    desc: "The ruffian's brutality shakes foes' confidence. When the ruffian deals damage on a critical hit, the target is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]], and the ruffian can push the target up to 10 feet."
   - name: "Combat Grab"
     desc: "⬻"
   - name: "Trigger"
     desc: "The ruffian has one hand free"
   - name: "Effect"
-    desc: "The ruffian makes a melee Strike while keeping one hand free. If this Strike hits, the ruffian Grabs the target using their free hand. The creature remains grabbed until the end of the ruffian's next turn or until it Escapes, whichever comes first."
+    desc: "The ruffian makes a melee Strike while keeping one hand free. If this Strike hits, the ruffian Grabs the target using their free hand. The creature remains [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] until the end of the ruffian's next turn or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]], whichever comes first."
   - name: "Sneak Attack"
-    desc: "The ruffian deals an extra 1d6 precision damage to off-guard creatures."
+    desc: "The ruffian deals an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_NPC Core_, page 19."
 ```
 

@@ -27,9 +27,9 @@ You channel the might and cold of a blizzard into a single touch that freezes th
 
 **Success** The target takes half the persistent cold damage.
 
-**Failure** The target takes the full persistent cold damage and is immobilized for 1 minute or until it Escapes. Once per round, if the target uses or is affected by an effect with the fire trait, it can attempt to Escape as a free action or immediately roll a flat check to end the persistent cold damage (this counts as having an appropriate type of help, reducing the DC of the flat check to 10).
+**Failure** The target takes the full persistent cold damage and is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 minute or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]]. Once per round, if the target uses or is affected by an effect with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] trait, it can attempt to Escape as a free action or immediately roll a flat check to end the persistent cold damage (this counts as having an appropriate type of help, reducing the DC of the flat check to 10).
 
-**Critical Failure** As a failure, but double the persistent cold damage, and the creature is off-guard for as long as it's immobilized.
+**Critical Failure** As a failure, but double the persistent cold damage, and the creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for as long as it's immobilized.
 
 ---
 **Heightened (+1)** The persistent damage increases by 1d4.

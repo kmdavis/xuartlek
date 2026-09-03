@@ -19,10 +19,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 160 gp
 - **Usage**: worn armor
 - **Bulk**: 1
-- **Base Armor**: Leaf Weave
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Leaf Weave|Leaf Weave]]
 
-This suit of leaf weave armor is specially modified to metabolize the alchemical accelerants in medicinal compounds. A special receptacle in the armor can hold an elixir of life, which takes 3 Interact actions to install.
+This suit of [[srd/pf2e/compendium/equipment/armor#Leaf Weave|leaf weave]] armor is specially modified to metabolize the alchemical accelerants in medicinal compounds. A special receptacle in the armor can hold an [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|elixir of life]], which takes 3 Interact actions to install.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Requirements** An elixir of life is installed in the armor; **Effect** Slithering vines grow from the armor, granting an item bonus to Athletics checks to Grapple, to your Fortitude DC to resist Grapple, Disarm, or Shove attempts, and to your Reflex DC to resist Trip attempts. The bonus is equal to the elixir’s item bonus, and lasts for 3 rounds. The activation uses up the elixir, and the armor can’t be activated again until a new one is installed.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** An elixir of life is installed in the armor; **Effect** Slithering vines grow from the armor, granting an item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]], to your Fortitude DC to resist Grapple, [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] attempts, and to your Reflex DC to resist Trip attempts. The bonus is equal to the elixir’s item bonus, and lasts for 3 rounds. The activation uses up the elixir, and the armor can’t be activated again until a new one is installed.
 
 *Source: Treasure Vault (Remastered) p. 64*

@@ -13,6 +13,6 @@ source: "Player Core"
 
 `Backstabber`
 
-When you hit an off-guard creature, this weapon deals 1 precision damage in addition to its normal damage. The precision damage increases to 2 if the weapon is a _+3 weapon_.
+When you hit an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature, this weapon deals 1 precision damage in addition to its normal damage. The precision damage increases to 2 if the weapon is a _+3 weapon_.
 
 *Source: Player Core p. 282*

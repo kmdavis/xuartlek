@@ -14,7 +14,7 @@ Wolves roam forests, hills, and other wild lands, where they hunt in packs to be
 
 ### Members
 
-Dire Wolf (Creature 3), Wolf (Creature 1), Wolf Pack (Creature 6)
+[[srd/pf2e/bestiary/monster-core/animal/dire-wolf|Dire Wolf]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/wolf|Wolf]] (Creature 1), [[srd/pf2e/bestiary/battlecry/animal/wolf-pack|Wolf Pack]] (Creature 6)
 
 ### Wolf Territories
 

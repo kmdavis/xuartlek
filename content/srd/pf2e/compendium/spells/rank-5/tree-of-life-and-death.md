@@ -27,9 +27,9 @@ source: "Impossible Magic"
 - **Area**: 2 unoccupied squares
 - **Duration**: 1 minute
 
-The cycle of life includes both life and death, growth and decay. You call forth two mighty trees from the depths of the Boneyard, one emanating with life and one with death, bound to each other as the living are to the dying. The trees must be at least 20 feet apart. Each one occupies its square, and its canopy spreads out in a 10-foot emanation. Each tree has AC 10, Hardness 10, and 50 Hit Points. They’re immune to critical hits and precision damage. When either tree is reduced to 0 Hit Points or the spell ends, both trees disintegrate into a pile of dust.
+The cycle of life includes both life and death, growth and decay. You call forth two mighty trees from the depths of the Boneyard, one emanating with life and one with death, bound to each other as the living are to the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]]. The trees must be at least 20 feet apart. Each one occupies its square, and its canopy spreads out in a 10-foot emanation. Each tree has AC 10, Hardness 10, and 50 Hit Points. They’re immune to critical hits and precision damage. When either tree is reduced to 0 Hit Points or the spell ends, both trees disintegrate into a pile of dust.
 
-- **Tree of Death** Charred branches cover the tree, and the area of its emanation fills with a foul miasma. A living creature that starts its turn within or enters the emanation takes 5d4 void damage, with a basic Fortitude save. A creature can only be damaged this way once per round.
+- **Tree of Death** Charred branches cover the tree, and the area of its emanation fills with a foul miasma. A living creature that starts its turn within or enters the emanation takes 5d4 void damage, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude save. A creature can only be damaged this way once per round.
 - **Tree of Life** Golden leaves cover the tree, and the area of its emanation fills with shining particles. A living creature that starts its turn within or enters the emanation regains 5d4 Hit Points. A creature can only be healed this way once per round.
 
 ---

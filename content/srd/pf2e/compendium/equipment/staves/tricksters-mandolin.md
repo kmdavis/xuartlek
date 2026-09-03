@@ -19,9 +19,9 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 2 hands
 - **Bulk**: L
 
-Sought after by many unscrupulous bards, this instrument is surprisingly light and easy to carry, but also empowered with a number of spells carefully selected to help with fooling others or making a hasty retreat. While playing the mandolin, you gain a +1 item bonus to Deception and Performance checks.
+Sought after by many unscrupulous bards, this instrument is surprisingly light and easy to carry, but also empowered with a number of spells carefully selected to help with fooling others or making a hasty retreat. While playing the mandolin, you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Effect** You change the instrument's color and shape to one you prefer, and you can turn it into a different handheld string instrument that takes two hands to play.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** You change the instrument's color and shape to one you prefer, and you can turn it into a different handheld string instrument that takes two hands to play.
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
@@ -45,7 +45,7 @@ Sought after by many unscrupulous bards, this instrument is surprisingly light a
 
 ---
 
-**2nd** _blur_, _illusory creature_, _illusory disguise_, invisibility**3rd** _illusory disguise_, _phantom prison_, _shared invisibility_
+**2nd** [[srd/pf2e/compendium/spells/rank-2/blur|_blur_]], [[srd/pf2e/compendium/spells/rank-2/illusory-creature|_illusory creature_]], [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]], [[srd/pf2e/compendium/equipment/runes/invisibility-greater|invisibility]]**3rd** _illusory disguise_, _phantom prison_, [[srd/pf2e/compendium/spells/rank-3/shared-invisibility|_shared invisibility_]]
 
 ### Trickster's Mandolin (Major)
 

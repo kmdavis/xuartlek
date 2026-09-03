@@ -14,7 +14,7 @@ While domesticated pigs are a staple of farm life, wild boars are much more dang
 
 ### Members
 
-Boar (Creature 2), Daeodon (Creature 4)
+[[srd/pf2e/bestiary/monster-core/animal/boar|Boar]] (Creature 2), [[srd/pf2e/bestiary/monster-core/animal/daeodon|Daeodon]] (Creature 4)
 
 ### Boar Territory
 

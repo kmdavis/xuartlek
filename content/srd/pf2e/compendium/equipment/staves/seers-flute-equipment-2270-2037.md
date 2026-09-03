@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 2 hands
 - **Bulk**: L
 
-This ivory flute is adorned with many carvings of eyes. Each has jade pupils and a semiprecious stone as its iris. The eyes flutter open and closed when the flute is played, as if it held the eyes of many independent beings. While playing the flute, you gain a +1 item bonus to Perception checks and Performance checks.
+This ivory flute is adorned with many carvings of eyes. Each has jade pupils and a semiprecious stone as its iris. The eyes flutter open and closed when the flute is played, as if it held the eyes of many independent beings. While playing the flute, you gain a +1 item bonus to Perception checks and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks.
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
@@ -34,7 +34,7 @@ This ivory flute is adorned with many carvings of eyes. Each has jade pupils and
 
 ---
 
-**Cantrip** _guidance_, _read aura_**1st** _object reading_
+**Cantrip** _guidance_, _read aura_**1st** [[srd/pf2e/compendium/spells/rank-1/object-reading|_object reading_]]
 
 ### Seer's Flute (Greater)
 
@@ -44,7 +44,7 @@ This ivory flute is adorned with many carvings of eyes. Each has jade pupils and
 
 ---
 
-**2nd** _augury_, _object reading_, _see the unseen_**3rd** _clairaudience_, _hypercognition_, _wanderer's guide_
+**2nd** [[srd/pf2e/compendium/spells/rank-2/augury|_augury_]], _object reading_, [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]**3rd** _clairaudience_, _hypercognition_, _wanderer's guide_
 
 ### Seer's Flute (Major)
 
@@ -55,6 +55,6 @@ This ivory flute is adorned with many carvings of eyes. Each has jade pupils and
 ---
 
 The item bonuses are +2. 
-**4th** _clairvoyance_, _object reading_, _read omens_**5th** _inevitable disaster_, _scouting eye_, _truespeech_
+**4th** _clairvoyance_, [[srd/pf2e/compendium/spells/rank-1/object-reading|_object reading_]], [[srd/pf2e/compendium/spells/rank-4/read-omens|_read omens_]]**5th** _inevitable disaster_, [[srd/pf2e/compendium/spells/rank-5/scouting-eye|_scouting eye_]], [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]
 
 *Source: Treasure Vault (Remastered) p. 137*

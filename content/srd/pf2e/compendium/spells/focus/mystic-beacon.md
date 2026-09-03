@@ -17,7 +17,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Magic
+- **Domain**: [[srd/pf2e/compendium/character/domains#Magic|Magic]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: until the start of your next turn

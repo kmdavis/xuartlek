@@ -19,6 +19,6 @@ source: "Impossible Magic"
 - **Price**: 25 gp
 - **Usage**: affixed over an entrance
 
-This unassuming yellow paper, affixed above a door or gate, flickers in the light. Choose holy or unholy; the fulu gains that trait. When a creature with the opposing trait of the fulu (unholy for a holy fulu, or vice versa) passes through the entrance, it must succeed at a DC 17 Fortitude save or become sickened 2; regardless of whether it succeeds, the creature becomes temporarily immune for 1 day.
+This unassuming yellow paper, affixed above a door or gate, flickers in the light. Choose [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]; the fulu gains that trait. When a creature with the opposing trait of the fulu (unholy for a holy fulu, or vice versa) passes through the entrance, it must succeed at a DC 17 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 2; regardless of whether it succeeds, the creature becomes temporarily immune for 1 day.
 
 *Source: Impossible Magic p. 218*

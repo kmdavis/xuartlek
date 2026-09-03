@@ -18,7 +18,7 @@ source: "GM Core"
 `Uncommon`  `Consumable`  `Magical`  `Talisman`
 
 - **Usage**: affixed to a metal weapon
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 Although solid, this orb of metal swirls with bright silver and dark iron colors, as if made of liquid. When you activate the _alloy orb_, select cold iron or silver. The affixed weapon functions as the chosen material for 1 minute, suppressing its original material. Powerful weapons overwhelm the magic of this talisman, and it works only on weapons of 8th level or lower.
 

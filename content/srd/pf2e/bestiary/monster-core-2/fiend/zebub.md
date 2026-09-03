@@ -31,10 +31,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; greater darkvision"
-languages: "Diabolic, Draconic, Empyrean; telepathy 100 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Arcana +7, Deception +8, Religion +9, Stealth +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +7, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
 abilityMods: [1, 4, 1, 0, 3, 1]
 ac: 18
 armorclass:
@@ -43,33 +43,33 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ fire; __Resistances__ physical 5 (except silver), poison 5­­; __Weaknesses__ holy 5"
+    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Resistances__ physical 5 (except [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]]), [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 5­­; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
 speed: "15 feet, fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ mandibles +12 (Finesse, magical, unholy) __Damage__ 1d10+5 piercing plus Cocytan filth"
+    desc: "⬻ mandibles +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) __Damage__ 1d10+5 piercing plus Cocytan filth"
 abilities_bot:
   - name: "Cocytan Filth"
-    desc: "(Disease, virulent)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]], [[srd/pf2e/compendium/rules-elements/traits/gm-core/virulent|virulent]])"
   - name: "Saving Throw"
     desc: "DC 18 Fortitude"
   - name: "Onset"
     desc: "1d4 days"
   - name: "Stage 1"
-    desc: "enfeebled 1 (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 day)"
   - name: "Stage 2"
     desc: "enfeebled 2 (1 day)"
   - name: "Stage 3"
     desc: "enfeebled 3 (1 day)"
   - name: "Diabolic Eye"
-    desc: "⬽ (Divine) The zebub records everything they see, and though they don't remember all observations, they can pass them along to another creature. The zebub replays 10 minutes of witnessed events to a touched willing creature, which receives the memories in a flash of information. By remaining in contact, the zebub can spend additional 3-action activities to replay more information. After relaying their visions to another, the zebub can't ever recall those events again."
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) The zebub records everything they see, and though they don't remember all observations, they can pass them along to another creature. The zebub replays 10 minutes of witnessed events to a touched willing creature, which receives the memories in a flash of information. By remaining in contact, the zebub can spend additional 3-action activities to replay more information. After relaying their visions to another, the zebub can't ever recall those events again."
   - name: "Sneak Attack"
-    desc: "The zebub's Strikes deal an additional 1d6 precision damage to off-guard creatures."
+    desc: "The zebub's Strikes deal an additional 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17 - __Cantrips (2nd)__ Message - __2nd__ Invisibility (at will; self only), Summon Animal (swarm creatures only) - __4th__ Translocate (at will) - __5th__ Translocate"
+    desc: "DC 17 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/message|Message]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (at will; self only), [[srd/pf2e/compendium/spells/rank-1/summon-animal|Summon Animal]] (swarm creatures only) - __4th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (at will) - __5th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]]"
   - name: "Rituals"
-    desc: "DC 17 - __1st__ Diabolic Pact"
+    desc: "DC 17 - __1st__ [[srd/pf2e/compendium/spells/rituals/diabolic-pact|Diabolic Pact]]"
 sourcebook: "_Monster Core 2_, page 98."
 ```
 

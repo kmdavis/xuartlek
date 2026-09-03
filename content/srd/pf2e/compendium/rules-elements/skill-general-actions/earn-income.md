@@ -12,17 +12,17 @@ source: "Player Core"
 
 You can use a skill to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Because this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won't come up in every campaign.
 
-In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using Religion in a monastery to study old texts—but giving sermons at a church would still fall under Performance instead of Religion. You also might be able to use physical skills to make money, such as using Acrobatics to perform feats in a circus or Thievery to pick pockets. If you're using a skill other than Crafting, Lore, or Performance, the DC tends to be significantly higher. 
+In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] in a monastery to study old texts—but giving sermons at a church would still fall under [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] instead of Religion. You also might be able to use physical skills to make money, such as using [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] to perform feats in a circus or Thievery to pick pockets. If you're using a skill other than [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], or Performance, the DC tends to be significantly higher. 
 
 Earn Income Calculator
 
 ### Skill Uses
 
-[Crafting] Earn Income by crafting goods for the market.
+[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] Earn Income by crafting goods for the market.
 
-[Lore] Earn Income by using your knowledge to practice a trade.
+[[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] Earn Income by using your knowledge to practice a trade.
 
-[Performance] Earn Income by staging a performance.
+[[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] Earn Income by staging a performance.
 
 ### Income Examples
 
@@ -54,17 +54,17 @@ The following examples show the kinds of tasks your character might take on to E
 
  However, you might pause a task due to an adventure or event that wouldn't prevent you from returning to the old job later. The GM might decide that you can pick up where you left off, assuming the task hasn't been completed by others in your absence. Whether you roll a new skill check when you resume is also up to the GM. Generally speaking, if you had a good initial roll and want to keep it, you can, but if you had a bad initial roll, you can't try for a better one by pausing to do something else. If your statistics changed during the break—usually because you leveled up while adventuring—you can attempt a new check.
 
-### Crafting Goods for the Market [Crafting]
+### Crafting Goods for the Market [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
 
-Using Crafting, you can work at producing common items for the market. It's usually easy to find work making basic items whose level is 1 or 2 below your settlement's level.
+Using [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], you can work at producing common items for the market. It's usually easy to find work making basic items whose level is 1 or 2 below your settlement's level.
 
  Higher-level tasks represent special commissions, which might require you to Craft a specific item using the Craft downtime activity and sell it to a buyer at full Price. These opportunities don't occur as often and might have special requirements—or serious consequences if you disappoint a prominent client.
 
-### Practicing a Trade [Lore]
+### Practicing a Trade [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]]
 
-You apply the practical benefits of one of your Lore specialties during downtime by practicing your trade. This is most effective for Lore specialties such as business, law, or sailing, where there's high demand for workers. The GM might increase the DC or determine only low-level tasks are available if you're attempting to use an obscure Lore skill to Earn Income. You might also need specialized tools to accept a job, like mining tools to work in a mine or a merchant's scale to buy and sell valuables in a market.
+You apply the practical benefits of one of your [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] specialties during downtime by practicing your trade. This is most effective for Lore specialties such as business, law, or sailing, where there's high demand for workers. The GM might increase the DC or determine only low-level tasks are available if you're attempting to use an obscure Lore skill to Earn Income. You might also need specialized tools to accept a job, like mining tools to work in a mine or a merchant's scale to buy and sell valuables in a market.
 
-### Staging a Performance [Performance]
+### Staging a Performance [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
 
 You perform for an audience to make money. The available audiences determine the level of your task, since more discerning audiences are harder to impress but provide a bigger payout. The GM determines the task level based on the audiences available. Performing for a typical audience of commoners on the street is a level 0 task, but a performance for a group of artisans with more refined tastes might be a 2nd- or 3rd-level task, and ones for merchants, nobility, and royalty are increasingly higher level.
 

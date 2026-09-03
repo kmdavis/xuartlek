@@ -17,7 +17,7 @@ As a favored agent of your patron, you can invoke their power for a more direct 
 
  Hex spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to commune with your familiar.
 
- Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear here. You learn your choice of the _patron's puppet_ hex or _phase familiar_ hex, which let you command your familiar or defend it from harm, respectively. You learn most other hexes from witch lessons.
+ Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|here]]. You learn your choice of the [[srd/pf2e/compendium/spells/focus/patrons-puppet|_patron's puppet_]] hex or _phase familiar_ hex, which let you command your familiar or defend it from harm, respectively. You learn most other hexes from witch lessons.
 
 ### Hex Cantrips
 

@@ -18,7 +18,7 @@ source: "GM Core"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This potion tastes like salt water, and sandy grit settles at the bottom of its container. When you drink it, you gain a swim Speed equal to your land Speed for 10 minutes.
 

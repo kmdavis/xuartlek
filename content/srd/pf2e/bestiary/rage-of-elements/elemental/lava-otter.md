@@ -31,7 +31,7 @@ perception:
     desc: "Perception +7; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [1, 4, 1, -4, 3, 1]
 abilities_top:
   - name: "Below the Crust"
@@ -46,22 +46,22 @@ health:
     desc: "22; __Immunities__ bleed, fire, paralyzed, poison, sleep; __Weaknesses__ cold 3"
 abilities_mid:
   - name: "Molten Form"
-    desc: "(fire) Any creature that hits the lava otter with an unarmed Strike or otherwise touches it takes 1 fire damage. If a gallon or more of water touches the lava otter, or if it's affected by a water effect, its outer layer of lava hardens to a rocky shell, deactivating its molten form and imposing weakness 5 to bludgeoning damage. Molten form reactivates if the otter swims in lava for 1 minute."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) Any creature that hits the lava otter with an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] Strike or otherwise touches it takes 1 fire damage. If a gallon or more of water touches the lava otter, or if it's affected by a [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] effect, its outer layer of lava hardens to a rocky shell, deactivating its molten form and imposing weakness 5 to bludgeoning damage. Molten form reactivates if the otter swims in lava for 1 minute."
 speed: "25 feet, swim 40 feet (in lava only)"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +9 (Finesse) __Damage__ 1d4+1 piercing plus 1d4 fire"
+    desc: "⬻ jaws +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4+1 piercing plus 1d4 fire"
   - name: "Melee"
-    desc: "⬻ claw +9 (Agile, Finesse) __Damage__ 1d4+1 slashing"
+    desc: "⬻ claw +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4+1 slashing"
 abilities_bot:
   - name: "Scattering Magma"
-    desc: "⬻ (Fire)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]])"
   - name: "Requirements"
     desc: "The otter is in molten form, and its previous action was a successful jaws Strike"
   - name: "Effect"
     desc: "The otter grips with its jaws and rapidly twists, flinging lava. The otter deals 1d4 fire damage to all creatures adjacent to it."
   - name: "Tight-Knit Family"
-    desc: "A lava otter can share the same space as another lava otter, but no more than two lava otters can occupy the same space. Familiar Poaching Many greedy fire wizards wish to domesticate lava otters to act as their familiars, a sentiment loathed by most denizens of the Plane of Fire. While the otters' burning pelts serve as a deterrence for would-be poachers, numerous naari (fire geniekin) still take it upon themselves to patrol lava otter habitats to protect them from poaching"
+    desc: "A lava otter can share the same space as another lava otter, but no more than two lava otters can occupy the same space. Familiar Poaching Many greedy fire wizards wish to domesticate lava otters to act as their familiars, a sentiment loathed by most denizens of the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Plane of Fire]]. While the otters' burning pelts serve as a deterrence for would-be poachers, numerous naari (fire geniekin) still take it upon themselves to patrol lava otter habitats to protect them from poaching"
 sourcebook: "_Rage of Elements_, page 129."
 ```
 

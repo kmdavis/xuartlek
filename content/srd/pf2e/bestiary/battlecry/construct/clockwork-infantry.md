@@ -37,7 +37,7 @@ perception:
     desc: "Perception +21; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +23"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23"
 abilityMods: [7, 3, 5, -5, 5, -5]
 abilities_top:
   - name: "Wind-Up"
@@ -49,14 +49,14 @@ armorclass:
 hp: 195
 health:
   - name: "HP"
-    desc: "195 (4 segments); __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poisoned, sickened, unconscious, vitality, void; __Resistances__ physical 8 (except adamantine or orichalcum); __Weaknesses__ area damage 10, electricity 10, splash damage 10, orichalcum 10"
+    desc: "195 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], nonlethal attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisoned]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Resistances__ physical 8 (except [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]] or orichalcum); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 10, splash damage 10, [[srd/pf2e/compendium/equipment/materials/orichalcum-object-high-grade|orichalcum]] 10"
 abilities_mid:
   - name: "Reactive Sweep"
     desc: "⬲"
   - name: "Trigger"
-    desc: "An enemy within a 10-foot emanation uses a manipulate action or a move action, makes a ranged attack, or leaves a square in the area during a move action it's using"
+    desc: "An enemy within a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, makes a ranged attack, or leaves a square in the area during a move action it's using"
   - name: "Effect"
-    desc: "The clockwork infantry lashes out with their halberds. The triggering enemy takes 2d10+10 damage (DC 27 basic Reflex save). If the enemy critically fails this saving throw and the trigger was a manipulate action, the damage disrupts that action."
+    desc: "The clockwork infantry lashes out with their halberds. The triggering enemy takes 2d10+10 damage (DC 27 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). If the enemy critically fails this saving throw and the trigger was a manipulate action, the damage disrupts that action."
   - name: "Troop Defenses"
     desc: ""
 speed: "25 feet; troop movement"
@@ -66,7 +66,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The clockwork infantry engages in a coordinated melee attack against each enemy in a 10-foot emanation, with a DC 27 basic Reflex save. The damage depends on the number of actions. ⬻ 1d10+2 piercing or slashing damage ⬺ 2d10+10 piercing or slashing damage ⬽ 3d10+12 piercing or slashing damage"
+    desc: "The clockwork infantry engages in a coordinated melee attack against each enemy in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 27 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d10+2 piercing or slashing damage ⬺ 2d10+10 piercing or slashing damage ⬽ 3d10+12 piercing or slashing damage"
   - name: "Raise Defenses"
     desc: "⬻"
   - name: "Frequency"

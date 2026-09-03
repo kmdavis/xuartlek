@@ -27,7 +27,7 @@ You pull blood and other fluid from a thrall before embedding it into another cr
 
 **Critical Success** The creature is unaffected.
 
-**Success** The target loses any immunity to bleed and is considered to be a creature with blood for the purposes of effects and requirements. The creature takes 1 persistent bleed damage.
+**Success** The target loses any immunity to bleed and is considered to be a creature with blood for the purposes of effects and requirements. The creature takes 1 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]].
 
 **Failure** As success, but the persistent bleed damage is 1d6.
 

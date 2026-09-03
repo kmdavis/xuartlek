@@ -29,7 +29,7 @@ perception:
     desc: "Perception +9; darkvision, scent (imprecise) 20 feet, whisker sense 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +10, Stealth +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
 abilityMods: [4, 3, 3, -4, 1, 3]
 abilities_top:
   - name: "Deep Breath"
@@ -54,7 +54,7 @@ abilities_bot:
   - name: "Aquatic Feast"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The harbor seal has a Medium or smaller creature grabbed in its jaws"
+    desc: "The harbor seal has a Medium or smaller creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] in its jaws"
   - name: "Effect"
     desc: "The harbor seal Swims up to 10 feet, carrying its grabbed creature along with it dealing 1d8 slashing damage (DC 18 basic Fortitude save)."
 sourcebook: "_Howl of the Wild_, page 178."

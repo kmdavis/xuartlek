@@ -20,6 +20,6 @@ source: "Howl of the Wild"
 - **Price**: 10 gp
 - **Usage**: implanted
 
-A line of glands embedded in your skin secretes a chemical that glows when it interacts with the air. As a single action, you can activate your bioluminescent stripes to glow with a bright light in a 20-foot radius and dim light for the next 20 feet. While you are glowing, you can’t be undetected and you take a –4 item penalty to Stealth checks to Hide and Sneak. You can Dismiss the glow as a free action.
+A line of glands embedded in your skin secretes a chemical that glows when it interacts with the air. As a single action, you can activate your bioluminescent stripes to glow with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]] in a 20-foot radius and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]] for the next 20 feet. While you are glowing, you can’t be [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] and you take a –4 item penalty to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]]. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] the glow as a free action.
 
 *Source: Howl of the Wild p. 97*

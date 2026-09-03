@@ -17,7 +17,7 @@ source: "GM Core"
 `Consumable`  `Fire`  `Magical`
 
 - **Usage**: held in 1 hand
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This blueberry-sized bead appears to be a sphere of glass with a flickering light at its core. In truth, the “glass” is a bubble of solidified time magic, containing suspended lava at the exact point before a volcanic eruption. When activated, it becomes a tiny beacon of bright light before unleashing its power. After you Activate _frozen lava_, it quickly heats up. If you or anyone else hurls it (an Interact action), it detonates as a fireball where it lands. Your toss can place the center of the fireball anywhere within 70 feet, though at the GM's discretion, you might need to make an attack roll if the throw is unusually challenging. If no one hurls the bead by the start of your next turn, it pops like an ostentatious but harmless firework.
  _Frozen lava_ comes in many varieties, made of lava taken from notable volcanoes on Golarion and across the planes.

@@ -29,10 +29,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; darkvision, locate aeon"
-languages: "Common, Diabolic, Empyrean, Utopian"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Utopian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Axis Lore +5, Diplomacy +6, Stealth +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, Axis Lore +5, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
 abilityMods: [1, 4, 2, 0, 2, 1]
 abilities_top:
   - name: "Locate Aeon"
@@ -46,17 +46,17 @@ armorclass:
 hp: 22
 health:
   - name: "HP"
-    desc: "22; __Immunities__ death effects, disease, emotion, poison, unconscious; __Resistances__ electricity 3"
+    desc: "22; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 3"
 speed: "20 feet, fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +7 (Agile, Finesse, Magical, reach 0 feet, versatile S) __Damage__ 1d6+1 piercing"
+    desc: "⬻ shortsword +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+1 piercing"
 abilities_bot:
   - name: "Electrical Burst"
-    desc: "⬺ (Divine, Electricity) The arbiter releases an electrical burst from its body that deals 3d6 electricity damage to all creatures in a 10-foot emanation, with a DC 17 basic Reflex save. The arbiter is then stunned for 24 hours."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|Electricity]]) The arbiter releases an electrical burst from its body that deals 3d6 electricity damage to all creatures in a 10-foot emanation, with a DC 17 basic Reflex save. The arbiter is then [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] for 24 hours."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17 - __1st__ Command, Mending (×3), Sanctuary - __4th__ Read Omens"
+    desc: "DC 17 - __1st__ [[srd/pf2e/compendium/spells/rank-1/command|Command]], [[srd/pf2e/compendium/spells/rank-1/mending|Mending]] (×3), [[srd/pf2e/compendium/spells/rank-1/sanctuary|Sanctuary]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/read-omens|Read Omens]]"
 sourcebook: "_Monster Core_, page 8."
 ```
 

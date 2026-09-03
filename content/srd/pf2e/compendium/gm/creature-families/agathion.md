@@ -10,7 +10,7 @@ source: "Monster Core 2"
 
 # Agathion  *Creature Family*
 
-These celestial beings hail from Nirvana, the plane of pure holiness. Agathions are born from the souls of mortals who attained the enlightenment they sought in life, sometimes even after death. Because they all start out as mortals who were rewarded for their determination, self-awareness, and purity of heart, agathions are more likely than other celestials to intervene nonviolently against the spread of cruelty on the Universe. Agathions have served as moderators between the azatas and archons, so they know how vital communication with mortals can be to bridge differences and ensure that unholy forces don’t win out.
+These celestial beings hail from [[srd/pf2e/compendium/gm/planes#Nirvana|Nirvana]], the plane of pure holiness. Agathions are born from the souls of mortals who attained the enlightenment they sought in life, sometimes even after death. Because they all start out as mortals who were rewarded for their determination, self-awareness, and purity of heart, agathions are more likely than other celestials to intervene nonviolently against the spread of cruelty on [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]]. Agathions have served as moderators between the azatas and archons, so they know how vital communication with mortals can be to bridge differences and ensure that unholy forces don’t win out.
 
 All agathions possess animal-like aspects. Some appear more anthropomorphic, while others spend most of their time in forms nearly indistinguishable from true animals. Still others prefer to shapeshift as they see fit or present as humanoid when in the company of humanoid mortals. 
 
@@ -18,6 +18,6 @@ Each type of agathion serves a specific role in Nirvana. Their duties and forms 
 
 ### Members
 
-Draconal (Creature 20), Procyal (Creature 8), Silvanshee (Creature 1), Vulpinal (Creature 6)
+[[srd/pf2e/bestiary/monster-core-2/celestial/draconal|Draconal]] (Creature 20), [[srd/pf2e/bestiary/monster-core-2/celestial/procyal|Procyal]] (Creature 8), [[srd/pf2e/bestiary/monster-core-2/celestial/silvanshee|Silvanshee]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/celestial/vulpinal|Vulpinal]] (Creature 6)
 
 *Source: Monster Core 2 p. 16*

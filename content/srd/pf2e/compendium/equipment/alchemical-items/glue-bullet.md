@@ -20,6 +20,6 @@ source: "Guns & Gears (Remastered)"
 - **Ammunition**: round
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Interact
 
-These cartridges are filled with sticky clear glue. When a glue bullet hits, a syrupy webbing coats the target and sticks to the ground or a nearby surface, hindering their movement. The target takes a –10-foot circumstance penalty to its Speeds for 2d4 rounds, or until it Escape against a DC of 18. On a critical hit, the target is also immobilized until it Escapes.
+These cartridges are filled with sticky clear glue. When a glue bullet hits, a syrupy webbing coats the target and sticks to the ground or a nearby surface, hindering their movement. The target takes a –10-foot circumstance penalty to its Speeds for 2d4 rounds, or until it Escape against a DC of 18. On a critical hit, the target is also [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] until it Escapes.
 
 *Source: Guns & Gears (Remastered) p. 170*

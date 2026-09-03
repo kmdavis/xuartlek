@@ -20,10 +20,10 @@ source: "Howl of the Wild"
 - **Price**: 6 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Brave alchemists take great care to capture a tatzlwyrm's poisonous vapor in small vials, typically through a system of compressors that can concentrate their exhalations.
 
-**Saving Throw** DC 15 Fortitude; **Maximum Duration** 3 rounds; **Stage 1** sickened 1 (1 round); **Stage 2** 2d6 poison damage and enfeebled 1 (1 round); **Stage 3** 4d6 poison damage and enfeebled 1 (1 round)
+**Saving Throw** DC 15 Fortitude; **Maximum Duration** 3 rounds; **Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] (1 round); **Stage 2** 2d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round); **Stage 3** 4d6 poison damage and enfeebled 1 (1 round)
 
 *Source: Howl of the Wild p. 111*

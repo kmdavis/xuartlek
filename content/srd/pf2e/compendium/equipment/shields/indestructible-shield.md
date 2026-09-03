@@ -18,9 +18,9 @@ source: "GM Core"
 - **Price**: 24,000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Steel Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
 
-An indestructible shield is a _high-grade greater reinforcing adamantine shield_ (Hardness 17, HP 136) that can withstand just about any damage. It can be damaged only by a disintegrate spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction.
+An indestructible shield is a _high-grade greater reinforcing adamantine shield_ (Hardness 17, HP 136) that can withstand just about any damage. It can be damaged only by a [[srd/pf2e/compendium/spells/rank-6/disintegrate|disintegrate]] spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction.
 
 **Craft Requirements** The raw materials must include at least 4,400 gp of adamantine.
 

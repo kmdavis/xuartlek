@@ -31,7 +31,7 @@ perception:
     desc: "Perception +5; tremorsense 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +8, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [4, 1, 3, -5, 1, -5]
 ac: 17
 armorclass:
@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Blood Drain"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The giant leech has a living creature grabbed or restrained; Effect The giant leech drains blood from the creature it has grabbed or restrained. This deals 2d4 piercing damage (DC 18 basic Fortitude save). A creature that takes any damage from having its blood drained by a giant leech is drained 1 until it receives any kind or amount of healing."
+    desc: "The giant leech has a living creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]; Effect The giant leech drains blood from the creature it has grabbed or restrained. This deals 2d4 piercing damage (DC 18 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude save). A creature that takes any damage from having its blood drained by a giant leech is [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 until it receives any kind or amount of healing."
 sourcebook: "_Monster Core 2_, page 212."
 ```
 

@@ -13,6 +13,6 @@ source: "Guns & Gears (Remastered)"
 
 `Gadget`
 
-Gadgets are consumable technological inventions with innovative uses.
+Gadgets are [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|consumable]] technological inventions with innovative uses.
 
 *Source: Guns & Gears (Remastered) p. 233*

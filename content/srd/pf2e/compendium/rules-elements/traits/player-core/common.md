@@ -10,6 +10,6 @@ source: "Player Core"
 
 # Common  *Trait*
 
-Anything that doesn't list another rarity trait (uncommon, rare, or unique) automatically has the common trait. This rarity indicates that an ability, item, or spell is available to all players who meet the prerequisites for it. A creature of this rarity is generally known and can be summoned with the appropriate _summon_ spell.
+Anything that doesn't list another rarity trait ([[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]], [[srd/pf2e/compendium/rules-elements/traits/player-core/rare|rare]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/unique|unique]]) automatically has the common trait. This rarity indicates that an ability, item, or spell is available to all players who meet the prerequisites for it. A creature of this rarity is generally known and can be summoned with the appropriate _summon_ spell.
 
 *Source: Player Core p. 11*

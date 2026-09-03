@@ -13,11 +13,11 @@ entries: 2
 
 You are a cleric of the cloth, focusing on divine magic and your connection to your deity’s domains.
 
-- **First Doctrine (1st)** You gain the Domain Initiate cleric feat.
+- **First Doctrine (1st)** You gain the [[srd/pf2e/compendium/feats/player-core/archetype/domain-initiate|Domain Initiate]] cleric feat.
 - **Second Doctrine (3rd)** Your proficiency rank for Fortitude saves increases to expert.
 - **Third Doctrine (7th)** Your proficiency ranks for the spell
 attack modifier and spell DC statistics increase to expert.
-- **Fourth Doctrine (11th)** You gain expert proficiency with your deity's favored weapon, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's critical specialization effect; use your spell DC in place of your class DC.
+- **Fourth Doctrine (11th)** You gain expert proficiency with your deity's favored weapon, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Specialization|critical specialization]] effect; use your spell DC in place of your class DC.
 - **Fifth Doctrine (15th)** Your proficiency ranks for the spell attack modifier and spell DC statistics increase to master.
 - **Final Doctrine (19th)** Your proficiency ranks for the spell attack modifier and spell DC statistics increase to legendary.
 
@@ -27,9 +27,9 @@ attack modifier and spell DC statistics increase to expert.
 
 You have trained in the more militant doctrine of your church, focusing on both spells and battle.
 
-- **First Doctrine (1st)** You’re trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the Shield Block general feat, a reaction to reduce damage with a shield. If your deity’s weapon is a simple weapon or an unarmed attack, you gain the Deadly Simplicity cleric feat. At 13th level, if you gain the divine defense class feature, you also gain expert proficiency in light and medium armor.
+- **First Doctrine (1st)** You’re trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] general feat, a reaction to reduce damage with a shield. If your deity’s weapon is a simple weapon or an unarmed attack, you gain the [[srd/pf2e/compendium/feats/player-core/class/deadly-simplicity|Deadly Simplicity]] cleric feat. At 13th level, if you gain the divine defense class feature, you also gain expert proficiency in light and medium armor.
 - **Second Doctrine (3rd)** You’re trained in martial weapons.
-- **Third Doctrine (7th)** You gain expert proficiency with your deity's favored weapon, martial weapons, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's critical specialization effect; You can use your spell DC in place of your class DC.
+- **Third Doctrine (7th)** You gain expert proficiency with your deity's favored weapon, martial weapons, simple weapons, and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Specialization|critical specialization]] effect; You can use your spell DC in place of your class DC.
 - **Fourth Doctrine (11th)** Your proficiency ranks for the spell attack modifier and spell DC statistics increase to expert.
 - **Fifth Doctrine (15th)** Your proficiency rank for Fortitude saves increases to master. When you roll a success at a Fortitude save, you get a critical success instead.
 - **Final Doctrine (19th)** You gain master proficiency with your deity's favored weapon, spell attack modifier, and spell DC.

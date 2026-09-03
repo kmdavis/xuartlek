@@ -1,0 +1,21 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e/player-core-2
+- trait/champion
+- feat/level/2
+aliases: ["Divine Health"]
+aon_id: "feat-5893"
+source: "Player Core 2"
+---
+
+# Divine Health  *Feat 2*
+
+`Champion`
+
+Your faith makes you resistant to disease, protecting you as you offer succor to the ill. You gain a +2 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|diseases]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]] and to flat checks to recover from persistent poison damage. Allies in your champion's aura get this benefit, but their bonus is +1.
+
+ In addition, if you roll a success on a save against a disease or poison, you get a critical success instead. (Your allies don't share this benefit.) If you have the sacred body class feature, when you roll a critical failure on a save against a disease or poison, you get a failure instead.
+
+*Source: Player Core 2 p. 94*

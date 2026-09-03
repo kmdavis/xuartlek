@@ -19,8 +19,8 @@ source: "Battlecry!"
 - **Usage**: worn cloak
 - **Bulk**: 1
 
-This hooded cloak is lined with rough foliage, vines, and bark that never wilts or rots away. When wearing this cloak, you gain a +1 item bonus to Stealth checks when in heavily forested areas.
+This hooded cloak is lined with rough foliage, vines, and bark that never wilts or rots away. When wearing this cloak, you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks when in heavily forested areas.
 
-**Activate—One with the Woods** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Frequency** once per day; **Effect** For the next minute, you ignore any difficult terrain caused by plants and fungi, such as bushes, vines, and undergrowth.
+**Activate—One with the Woods** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** For the next minute, you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Ignore Difficult Terrain|ignore any difficult terrain]] caused by plants and fungi, such as bushes, vines, and undergrowth.
 
 *Source: Battlecry! p. 153*

@@ -21,6 +21,6 @@ source: "Battlecry!"
 
 Perhaps you had no other choice than to steal the boots off a fallen soldier. Yours may have been worn out, full of holes, or even coming apart. Did you take them from a fallen ally or adversary? Everyone looks the same after war has its way. Nevertheless, the guilt you feel weighs you down. You gain a +1 item bonus to saving throws and DCs against forced movement.
 
-**Activate—One of You** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per hour; **Effect** You shuffle your boots, which still stink of the dead, causing one undead creature of your choice to think that you too are undead. The target is off-guard against the next melee attack you attempt against it before the end of your current turn.
+**Activate—One of You** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** You shuffle your boots, which still stink of the dead, causing one [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creature of your choice to think that you too are undead. The target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the next melee attack you attempt against it before the end of your current turn.
 
 *Source: Battlecry! p. 149*

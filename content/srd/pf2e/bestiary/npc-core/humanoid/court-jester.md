@@ -29,14 +29,14 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21"
-languages: "Common; up to 4 others"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; up to 4 others"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +22, Deception +19, Diplomacy +19, Performance +22, Society +19, Stealth +19"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +22, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +19, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +19, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +22, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +19, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +19"
 abilityMods: [2, 4, 1, 2, 1, 5]
 abilities_top:
   - name: "Items"
-    desc: "_+1 striking dagger_ (3), face paints"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_ (3), face paints"
 ac: 29
 armorclass:
   - name: "AC"
@@ -44,29 +44,29 @@ armorclass:
 hp: 170
 health:
   - name: "HP"
-    desc: "170; __Resistances__ poison 10"
+    desc: "170; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 10"
 abilities_mid:
   - name: "Pointed Joke"
-    desc: "The court jester can use Performance instead of Intimidation to Demoralize."
+    desc: "The court jester can use [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] instead of [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]]."
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _dagger_ +22 (Agile, Finesse, Magical, versatile S) __Damage__ 2d4+8 piercing plus 4d4 persistent poison"
+    desc: "⬻ _dagger_ +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 2d4+8 piercing plus 4d4 persistent poison"
   - name: "Melee"
-    desc: "⬻ fist +21 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+8 bludgeoning"
+    desc: "⬻ fist +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ _dagger_ +22 (Agile, Magical, thrown 10 feet, versatile S) __Damage__ 2d4+8 piercing plus 4d4 persistent poison"
+    desc: "⬻ _dagger_ +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 2d4+8 piercing plus 4d4 persistent poison"
 abilities_bot:
   - name: "Poisoned Blade"
     desc: "The jester coats their dagger in poison. These daggers inflict an additional 4d4 persistent poison damage. The poison expires 1 hour after leaving the jester's possession. __No Peeking!__ ⬻ The jester blows chalk or face powder in an adjacent enemy's face. The target must make a DC 29 Fortitude saving throw."
   - name: "Critical Success"
     desc: "The target is unaffected."
   - name: "Success"
-    desc: "The target is dazzled for 1 round."
+    desc: "The target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round."
   - name: "Failure"
-    desc: "target is dazzled and off-guard for 1 round."
+    desc: "target is dazzled and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round."
   - name: "Critical Failure"
-    desc: "The target is blinded for 1 round."
+    desc: "The target is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round."
 sourcebook: "_NPC Core_, page 129."
 ```
 

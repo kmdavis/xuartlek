@@ -23,11 +23,11 @@ Mined from rocks that fell from the heavens, adamantine is one of the hardest me
 
 #### Material Uses
 
-Adamantine Armor
+[[srd/pf2e/compendium/equipment/armor/adamantine-armor-high-grade|Adamantine Armor]]
 
-Adamantine Shield
+[[srd/pf2e/compendium/equipment/shields/adamantine-shield-high-grade|Adamantine Shield]]
 
-Adamantine Weapon
+[[srd/pf2e/compendium/equipment/weapons/adamantine-weapon-high-grade|Adamantine Weapon]]
 
 ### Adamantine Chunk
 

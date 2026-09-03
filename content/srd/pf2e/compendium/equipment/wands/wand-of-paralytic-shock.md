@@ -22,7 +22,7 @@ source: "Treasure Vault (Remastered)"
 
 A two-pronged metal rod, this wand has a handle coated in thick rubber. Each prong ends in a copper coil. When Activated, the wand produces a loud zapping sound.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _paralyze_, electrocuting the target into immobility. Each target takes electricity damage at the start of its turns while it remains stunned or paralyzed due to the spell. The amount of damage depends on the wand's type.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _paralyze_, electrocuting the target into immobility. Each target takes electricity damage at the start of its turns while it remains [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] or [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] due to the spell. The amount of damage depends on the wand's type.
 
 **Craft Requirements** Supply a casting of _paralyze_ of the appropriate rank.
 

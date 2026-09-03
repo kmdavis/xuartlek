@@ -20,7 +20,7 @@ source: "GM Core"
 
 This terrifying mask is crafted in the visage of a leering demon and grants a +1 item bonus to Intimidation checks. 
 
-**Activate—Leering Mask** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Frequency** once per day; **Effect** The mask casts a _fear_ spell with a DC of 20.
+**Activate—Leering Mask** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The mask casts a _fear_ spell with a DC of 20.
 
 ### Demon Mask
 

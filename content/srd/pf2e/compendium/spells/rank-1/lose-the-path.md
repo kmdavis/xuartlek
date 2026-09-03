@@ -28,7 +28,7 @@ You surround a moving creature with lifelike illusions, shifting their perceptio
 
 **Success** The creature is unaffected.
 
-**Failure** The creature treats all squares as difficult terrain for its Stride.
+**Failure** The creature treats all squares as [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for its Stride.
 
 **Critical Failure** As failure, except that you determine where the target moves during the Stride, though you can’t move it into hazardous terrain or to a place it can’t stand.
 

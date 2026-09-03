@@ -19,10 +19,10 @@ source: "Treasure Vault (Remastered)"
 
 - **Price**: 400 gp
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
-This ornamental pin, consisting of a single preserved dragon scale from a dragon mounted in a setting of precious metal, is typically affixed between the shoulder blades. When you Activate the pin, a pair of draconic wings matching the color of the scale unfurl from your shoulders, granting you a fly Speed of 50 feet for 5 minutes.
+This ornamental pin, consisting of a single preserved dragon scale from a dragon mounted in a setting of precious metal, is typically affixed between the shoulder blades. When you Activate the pin, a pair of draconic wings matching the color of the scale unfurl from your shoulders, granting you a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly Speed]] of 50 feet for 5 minutes.
 
-**Craft Requirements** Supply one scale from an adult or older dragon.
+**Craft Requirements** Supply one scale from an adult or older [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragon]].
 
 *Source: Treasure Vault (Remastered) p. 93*

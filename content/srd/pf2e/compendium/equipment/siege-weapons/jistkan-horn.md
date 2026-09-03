@@ -16,7 +16,7 @@ source: "Battlecry!"
 `Mounted`  `Uncommon`
 
 - **Price**: 6,000 gp
-- **Ammunition**: moderate blasting stone (10 gp, L Bulk)
+- **Ammunition**: [[srd/pf2e/compendium/equipment/alchemical-items/blasting-stone-major|moderate blasting stone]] (10 gp, L Bulk)
 
 **Usage** mounted
 
@@ -48,7 +48,7 @@ source: "Battlecry!"
 
 Crafted by the Jistka Imperium in the height of their power, the Jistkan horn resembles a metal cornucopia attached to a wheeled wooden frame. A large circular gong hangs from a series of wires inside the horn. Behind the gong is a small reservoir that holds the blasting stone, loaded via a tube connected to the top of the casing. Once loaded, the blasting stone is activated by a ramming rod, and its effects are amplified by the gong and surrounding metal. A shock wave emanates from the horn’s mouth, an attack that was particularly effective in the sands of northern Garund’s deserts.
 **Aim** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") rotate 45° 
-**Load** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) 1 time 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate) 5d8 bludgeoning and 6d8 sonic, 60-foot cone, DC 30 Reflex, on a critical failure the creature is deafened for 1 minute
+**Load** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 1 time 
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], manipulate) 5d8 bludgeoning and 6d8 sonic, 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]], DC 30 Reflex, on a critical failure the creature is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 minute
 
 *Source: Battlecry! p. 103*

@@ -19,6 +19,6 @@ source: "Howl of the Wild"
 - **Price**: 80 gp
 - **Usage**: implanted
 
-Your skin is studded with pieces of iridescent chitin that ripple like oil on water. When you move your body in a distracting way, your allies can take advantage to move stealthily. When you Aid an ally who is trying to Create a Diversion, instead of the usual effects of Aid, you can roll an Acrobatics or Performance check and use that result to determine the outcome of the diversion, instead of attempting a Deception check.
+Your skin is studded with pieces of iridescent chitin that ripple like oil on water. When you move your body in a distracting way, your allies can take advantage to move stealthily. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]] an ally who is trying to [[srd/pf2e/compendium/rules-elements/actions/player-core#Create a Diversion|Create a Diversion]], instead of the usual effects of Aid, you can roll an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check and use that result to determine the outcome of the diversion, instead of attempting a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check.
 
 *Source: Howl of the Wild p. 98*

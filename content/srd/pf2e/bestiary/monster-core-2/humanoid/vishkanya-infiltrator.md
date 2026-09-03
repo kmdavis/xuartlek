@@ -31,18 +31,18 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; low-light vision"
-languages: "Common, Vishkanyan"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Vishkanyan"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Athletics +7, Deception +11, Diplomacy +9, Society +7, Stealth +11, Thievery +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +11, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +9, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +9"
 abilityMods: [2, 4, 1, 0, 1, 2]
 abilities_top:
   - name: "Items"
-    desc: "Disguise Kit, Kukri, Leather Armor, Shuriken (10), Thieves' Toolkit"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit-elite-cosmetics|Disguise Kit]], [[srd/pf2e/compendium/equipment/weapons/knife/kukri|Kukri]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/dart/shuriken|Shuriken]] (10), [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
 ac: 19
 armorclass:
   - name: "AC"
-    desc: "19; __Fort__: +6 (+8 vs. poisons); __Ref__: +11; __Will__: +8"
+    desc: "19; __Fort__: +6 (+8 vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]]); __Ref__: +11; __Will__: +8"
 hp: 45
 health:
   - name: "HP"
@@ -50,9 +50,9 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ kukri +11 (Agile, finesse, trip) __Damage__ 1d6+4 slashing"
+    desc: "⬻ kukri +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]]) __Damage__ 1d6+4 slashing"
   - name: "Ranged"
-    desc: "⬻ shuriken +11 (Agile, thrown 20 feet) __Damage__ 1d4+4 piercing"
+    desc: "⬻ shuriken +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d4+4 piercing"
 abilities_bot:
   - name: "Envenom"
     desc: "⬻"
@@ -61,11 +61,11 @@ abilities_bot:
   - name: "Effect"
     desc: "Using either saliva or blood, the vishkanya applies vishkanyan venom to one weapon they're holding. To use their blood, they must be injured, or they can deal themself 1 slashing damage as part of the action."
   - name: "Flexible"
-    desc: "The vishkanya is adept at dealing with tight situations. They have a +1 circumstance bonus to checks to Escape."
+    desc: "The vishkanya is adept at dealing with tight situations. They have a +1 circumstance bonus to checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]."
   - name: "Proficient Poisoner"
-    desc: "The vishkanya doesn't lose the poison on a weapon due to a critically failed Strike."
+    desc: "The vishkanya doesn't lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] on a weapon due to a critically failed Strike."
   - name: "Sneak Attack"
-    desc: "The vishkanya's Strikes deal an additional 1d6 precision damage to off-guard creatures."
+    desc: "The vishkanya's Strikes deal an additional 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_Monster Core 2_, page 3."
 ```
 

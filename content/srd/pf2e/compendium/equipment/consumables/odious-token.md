@@ -21,6 +21,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell (add 1 action)
 
-This small, silver disc is engraved with a leering, disgusting face on one side and an image of one thing the observer finds repellent on the other; the latter changes with every viewer. When the token is used as a catalyst to cast a __repulsion__ spell, you hurl it to an ally within 30 feet. The spell then treats the ally as you for the purpose of the spell. Additionally, you’re immune to the spell and able to approach the ally with ease.
+This small, silver disc is engraved with a leering, disgusting face on one side and an image of one thing the observer finds repellent on the other; the latter changes with every viewer. When the token is used as a catalyst to cast a _[[srd/pf2e/compendium/spells/rank-6/repulsion|_repulsion_]]_ spell, you hurl it to an ally within 30 feet. The spell then treats the ally as you for the purpose of the spell. Additionally, you’re immune to the spell and able to approach the ally with ease.
 
 *Source: Impossible Magic p. 216*

@@ -31,7 +31,7 @@ perception:
     desc: "Perception +19; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +15, Athletics +24"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +24"
 abilityMods: [8, 1, 5, -4, 3, 0]
 ac: 29
 armorclass:
@@ -44,9 +44,9 @@ health:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ ; jaws +22 (deadly d12, reach 20 feet) __Damage__ 2d12+12 piercing plus Grab"
+    desc: "⬻ ; jaws +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d12]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d12+12 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ foot +22 (reach 15 feet) __Damage__ 2d10+12 bludgeoning"
+    desc: "⬻ foot +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d10+12 bludgeoning"
 abilities_bot:
   - name: "Fling"
     desc: "⬻"
@@ -59,7 +59,7 @@ abilities_bot:
   - name: "Trigger"
     desc: "The tyrannosaurus critically hits a Large or smaller foe with its foot"
   - name: "Effect"
-    desc: "The creature struck by the foot is knocked prone and held in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is grabbed. A tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner but can only Swallow Whole if that creature is grabbed with its jaws."
+    desc: "The creature struck by the foot is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and held in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]. A tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner but can only Swallow Whole if that creature is grabbed with its jaws."
   - name: "Swallow Whole"
     desc: "⬻ (attack) Medium, 3d6+8 bludgeoning, Rupture 26"
   - name: "Trample"

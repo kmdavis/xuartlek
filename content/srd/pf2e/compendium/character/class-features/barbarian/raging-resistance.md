@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 - **Class**: Barbarian
 
-Repeated exposure and toughened skin allow you to fend off harm. While raging, you gain resistance equal to 3 + your Constitution modifier to damage types based on your instinct.
+Repeated exposure and toughened skin allow you to fend off harm. While [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]], you gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] equal to 3 + your Constitution modifier to damage types based on your instinct.
 
 *Source: Player Core 2 p. 70*

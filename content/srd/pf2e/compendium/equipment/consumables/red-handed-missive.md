@@ -19,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Price**: 60 gp
 - **Usage**: held in 1 hand
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Composed to look like an important document, a _red-handed missive_ is a trap used by those who suspect someone has been going through their correspondence. If activated, the missive dissolves into red dye that coats anything touching the missive. Magic in the dye prevents it from washing off for 1 week.
 

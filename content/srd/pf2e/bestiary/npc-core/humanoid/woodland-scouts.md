@@ -31,10 +31,10 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; low-light vision"
-languages: "Common, Elven, Fey"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +16, Athletics +15, Forest Lore +17, Medicine +14, Nature +16, Stealth +18, Survival +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/lore|Forest Lore]] +17, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +14, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +16"
 abilityMods: [3, 4, 0, 1, 4, 2]
 ac: 27
 armorclass:
@@ -54,11 +54,11 @@ abilities_bot:
   - name: "Requirements"
     desc: "Every square the woodland scouts occupy is in forest terrain"
   - name: "Effect"
-    desc: "The woodland scouts disperse among the trees. They Take Cover and then use that cover to Hide, attempting a Stealth check."
+    desc: "The woodland scouts disperse among the trees. They [[srd/pf2e/compendium/rules-elements/actions/player-core#Take Cover|Take Cover]] and then use that cover to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]], attempting a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check."
   - name: "Forest Passage"
     desc: "Woodland scouts ignore any difficult terrain caused by plants and fungi, such as bushes, vines, and undergrowth."
   - name: "Longbow Barrage"
-    desc: "⬺ The scouts draw or reload their longbows, then send forth a flurry of arrows. This barrage is a 10-foot burst within 100 feet that deals 3d8 piercing damage with a DC 24 basic Reflex save. If the scouts are hidden or undetected, this deals an additional 2d6 precision damage. When the troop is reduced to 2 or fewer segments, this area decreases to a 5-foot burst."
+    desc: "⬺ The scouts draw or reload their longbows, then send forth a flurry of arrows. This barrage is a 10-foot burst within 100 feet that deals 3d8 piercing damage with a DC 24 basic Reflex save. If the scouts are [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]], this deals an additional 2d6 precision damage. When the troop is reduced to 2 or fewer segments, this area decreases to a 5-foot burst."
   - name: "Thicket of Blades"
     desc: ""
   - name: "Frequency"
@@ -66,7 +66,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The scouts engage in a coordinated melee attack against each enemy in a 5-foot emanation, with a DC 24 basic Reflex save. The damage depends on the number of actions. ⬻ 1d8+3 slashing damage ⬺ 2d8+6 slashing damage ⬽ 3d8+9 slashing damage"
   - name: "Stealthy Formation"
-    desc: "If the scouts become hidden or undetected, they remain so until they take a hostile action."
+    desc: "If the scouts become [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]], they remain so until they take a hostile action."
 sourcebook: "_NPC Core_, page 179."
 ```
 

@@ -17,10 +17,10 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Uncommon`
 
-- **Domain**: Death
+- **Domain**: [[srd/pf2e/compendium/character/domains#Death|Death]]
 - **Trigger**: A living creature within 20 feet of you dies, or an undead creature within 20 feet of you is destroyed
 - **Duration**: 1 minute
 
-Seeing another pass from this world invigorates you. You gain temporary Hit Points equal to the triggering creature's level plus your spellcasting attribute modifier. If the triggering creature was undead, double the number of temporary Hit Points you gain. These last for the duration of the spell, and the spell ends if all the temporary Hit Points are depleted earlier.
+Seeing another pass from this world invigorates you. You gain temporary Hit Points equal to the triggering creature's level plus your spellcasting attribute modifier. If the triggering creature was [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]], double the number of temporary Hit Points you gain. These last for the duration of the spell, and the spell ends if all the temporary Hit Points are depleted earlier.
 
 *Source: Player Core p. 373*

@@ -20,6 +20,6 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 4,000 gp
 - **Usage**: worn
 
-Granted by Katapesh’s Pactmasters to influential merchants, exceptional Zephyr Guards, and favorite retainers, these blue crystal–studded platinum rings sharpen their wearers’ urban instincts. You gain a +3 item bonus to Mercantile Lore checks while wearing the ring, and you can attempt checks that require a proficiency rank of master in Society. While invested, the ring grants a +2 item bonus to saving throws while you are in an urban setting, and this increases to a +3 item bonus if you have legendary proficiency in Guild Lore, Katapesh Lore, Mercantile Lore, or Society.
+Granted by Katapesh’s Pactmasters to influential merchants, exceptional Zephyr Guards, and favorite retainers, these blue crystal–studded platinum rings sharpen their wearers’ urban instincts. You gain a +3 item bonus to Mercantile [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] checks while wearing the ring, and you can attempt checks that require a proficiency rank of master in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]. While invested, the ring grants a +2 item bonus to saving throws while you are in an urban setting, and this increases to a +3 item bonus if you have legendary proficiency in Guild Lore, Katapesh Lore, Mercantile Lore, or Society.
 
 *Source: Treasure Vault (Remastered) p. 153*

@@ -18,7 +18,7 @@ source: "Rage of Elements"
 
 - **Usage**: etched onto a melee weapon
 
-Small roots grow along the surface of the weapon, clinging tightly to its contours. On a critical hit with the weapon, roots grow from the target. It's immobilized for 1 round (Escape DC 23) and clumsy 1 for as long as the immobilization lasts.
+Small roots grow along the surface of the weapon, clinging tightly to its contours. On a critical hit with the weapon, roots grow from the target. It's [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round (Escape DC 23) and clumsy 1 for as long as the immobilization lasts.
 
 ### Rooting
 

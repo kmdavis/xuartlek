@@ -19,7 +19,7 @@ source: "Player Core 2"
 - **Deity**: Aerekostes
 - **Range**: 120 Feet
 - **Area**: 10-foot burst
-- **Defense**: basic Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 - **Duration**: sustained up to 1 minute
 
 You use your mind to manipulate unattended objects in the area, temporarily animating them to attack. The objects hover in the air, then hurl themselves at nearby creatures in a chaotic flurry of debris. This assault deals 2d10 bludgeoning damage (basic Reflex save) to each creature in the area. On subsequent rounds, the first time each round you Sustain this spell, it deals 1d10 bludgeoning damage (basic Reflex save) to each creature in the area.

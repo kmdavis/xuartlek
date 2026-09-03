@@ -14,7 +14,7 @@ In the underbelly of society, the lawless reign supreme.
 
 ### Members
 
-Assassin (Creature 8), Bandit (Creature 2), Bandit Gang (Creature 7), Burglar (Creature 4), Charlatan (Creature 3), Crime Kingpin (Creature 12), Fence (Creature 5), Flamboyant Thief (Creature 15), Grave Robber (Creature 1), Legbreaker (Creature 6), Loan Shark (Creature 2), Master Of Disguise (Creature 7), Ruffian (Creature 2)
+[[srd/pf2e/bestiary/npc-core/humanoid/assassin|Assassin]] (Creature 8), [[srd/pf2e/bestiary/npc-core/humanoid/bandit|Bandit]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/bandit-gang|Bandit Gang]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/burglar|Burglar]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/charlatan|Charlatan]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/crime-kingpin|Crime Kingpin]] (Creature 12), [[srd/pf2e/bestiary/npc-core/humanoid/fence|Fence]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/flamboyant-thief|Flamboyant Thief]] (Creature 15), [[srd/pf2e/bestiary/npc-core/humanoid/grave-robber|Grave Robber]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/legbreaker|Legbreaker]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/loan-shark|Loan Shark]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/master-of-disguise|Master Of Disguise]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/ruffian|Ruffian]] (Creature 2)
 
 ### Corruption For Hire
 
@@ -26,7 +26,7 @@ Common criminal scams include fake collectors for nonexistent charities for the 
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: Gnome daredevil (level 2), halfling smuggler (level 6), leaping thief (level 3)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/gnome-daredevil|Gnome daredevil]] (level 2), [[srd/pf2e/bestiary/npc-core/humanoid/halfling-smuggler|halfling smuggler]] (level 6), [[srd/pf2e/bestiary/npc-core/humanoid/leaping-thief|leaping thief]] (level 3)
 
 ### Fantasy Crimes
 

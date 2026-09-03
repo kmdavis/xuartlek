@@ -21,7 +21,7 @@ source: "Player Core 2"
 - **Mystery**: Flames
 - **Range**: 30 feet
 - **Area**: up to two 5-foot bursts that don’t overlap
-- **Defense**: basic Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
 You call forth a storm of whirling flames, engulfing all creatures in that area and dealing 5d6 fire damage with a basic Reflex save.
 

@@ -17,7 +17,7 @@ source: "GM Core"
 - **Price**: 700 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: Shortsword
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|Shortsword]]
 
 As black as coal, this blade grows more potent in darkness. While in bright light, it functions as a _+1 shortsword_ and doesn't appear to radiate a _magic aura_ to _detect magic_ or similar spells unless the spells are 4th rank or higher.
  In dim light or darkness, the gloom blade becomes a +2 striking shortsword. Whenever you use the gloom blade to attack a creature you're undetected by, you deal 1d6 additional precision damage.

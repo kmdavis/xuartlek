@@ -29,10 +29,10 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; darkvision"
-languages: "Common, Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Crafting +2, Stealth +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +2, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
 abilityMods: [1, 3, -1, 0, 1, 1]
 abilities_top:
   - name: "Items"
@@ -50,9 +50,9 @@ attacks:
   - name: "Melee"
     desc: "⬻ spear +3 __Damage__ 1d6+1 piercing"
   - name: "Ranged"
-    desc: "⬻ sling +5 (Propulsive, range increment 50 feet, reload 1) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ sling +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ spear +5 (thrown 20 feet) __Damage__ 1d6+1 piercing"
+    desc: "⬻ spear +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+1 piercing"
 abilities_bot:
   - name: "Scamper"
     desc: "⬻"
@@ -61,7 +61,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The kobold warrior Strides up to their Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. They must end this movement in a space that's not adjacent to any enemy."
   - name: "Sneak Attack"
-    desc: "The kobold warrior deals an extra 1d4 precision damage to off-guard creatures."
+    desc: "The kobold warrior deals an extra 1d4 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_Monster Core_, page 210."
 ```
 

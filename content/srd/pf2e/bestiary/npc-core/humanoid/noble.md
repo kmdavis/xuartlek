@@ -29,16 +29,16 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Deception +10, Diplomacy +10, Games Lore +8, Intimidation +9, Society +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +10, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Games Lore]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +10"
 abilityMods: [2, 3, 1, 1, 2, 4]
 abilities_top:
   - name: "Lip Reader"
-    desc: "After years of sticking their nose where it doesn't belong, the noble has learned to read lips from afar. If they're trying to read lips in an encounter or attempting a difficult feat of lip reading, they are fascinated and off-guard, and might need to succeed at a Society check with a DC determined by the GM."
+    desc: "After years of sticking their nose where it doesn't belong, the noble has learned to read lips from afar. If they're trying to read lips in an encounter or attempting a difficult feat of lip reading, they are [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], and might need to succeed at a [[srd/pf2e/compendium/rules-elements/skills/society|Society]] check with a DC determined by the GM."
   - name: "Items"
-    desc: "fashionable fine clothes, Loaded Dice, Rapier, silver flask, signet ring"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fashionable fine clothes]], [[srd/pf2e/compendium/equipment/adventuring-gear/loaded-dice|Loaded Dice]], Rapier, silver flask, signet ring"
 ac: 18
 armorclass:
   - name: "AC"
@@ -50,18 +50,18 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ rapier +10 (deadly d8, Disarm, Finesse) __Damage__ 1d6+6 piercing"
+    desc: "⬻ rapier +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+6 piercing"
   - name: "Melee"
-    desc: "⬻ fist +10 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+6 bludgeoning"
+    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+6 bludgeoning"
 abilities_bot:
   - name: "Noble's Ruse"
     desc: "⬻"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The noble FeintS. On a success, the noble Strikes the target."
+    desc: "The noble [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|FeintS]]. On a success, the noble Strikes the target."
   - name: "Sneak Attack"
-    desc: "The noble deals 1d6 extra precision damage to off-guard creatures."
+    desc: "The noble deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_NPC Core_, page 13."
 ```
 

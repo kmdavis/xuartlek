@@ -18,9 +18,9 @@ source: "Battlecry!"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This jagged bit of metal is pitted and worn but wickedly sharp. The DC of the flat check to end persistent bleed damage dealt by a weapon under the effects of a _toothy knife_ is 17 (or 12 with appropriate assistance). This bleeding still typically ends on its own after 1 minute, as normal.
+This jagged bit of metal is pitted and worn but wickedly sharp. The DC of the flat check to end [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] dealt by a weapon under the effects of a _toothy knife_ is 17 (or 12 with appropriate assistance). This bleeding still typically ends on its own after 1 minute, as normal.
 
 ### Toothy Knife
 

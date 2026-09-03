@@ -28,7 +28,7 @@ You launch a cone of glass shards, which embed in creatures to turn them partial
 
 **Success** The target takes half damage and gains weakness 3 to sonic and bludgeoning damage for 1 round.
 
-**Failure** The target takes full damage, is slowed 1, and gains weakness to sonic and bludgeoning damage. The weakness is equal to 3 × the slowed value it has from this spell. The target must attempt a Fortitude save at the end of each of its turns; this ongoing save has the incapacitation trait. On a failed save, the creature's slowed value increases by 1 (or by 2 on a critical failure), to a maximum of slowed 3. A successful save reduces the creature's slowed value by 1 (or by 2 on a critical success). If the creature ends its turn with a slowed value of 0, the effect ends.
+**Failure** The target takes full damage, is slowed 1, and gains weakness to sonic and bludgeoning damage. The weakness is equal to 3 × the slowed value it has from this spell. The target must attempt a Fortitude save at the end of each of its turns; this ongoing save has the [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] trait. On a failed save, the creature's slowed value increases by 1 (or by 2 on a critical failure), to a maximum of slowed 3. A successful save reduces the creature's slowed value by 1 (or by 2 on a critical success). If the creature ends its turn with a slowed value of 0, the effect ends.
 
 **Critical Failure** As failure, but the target is initially slowed 2.
 

@@ -17,10 +17,10 @@ source: "Impossible Magic"
 - **Price**: 1,800 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 4
-- **Base Shield**: Tower Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Tower Shield|Tower Shield]]
 
-The edges of this large tower shield (Hardness 12, HP 96, BT 48) are dented and worn, bearing the scuffs and marks of decades of battle. 
+The edges of this large [[srd/pf2e/compendium/equipment/shields#Tower Shield|tower shield]] ([[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]] 12, HP 96, BT 48) are dented and worn, bearing the scuffs and marks of decades of battle. 
 
-**Activate—Stand Firm** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per hour; **Trigger** You have the _resolute shield_ raised, and you would take physical damage from a critically successful attack; **Effect** The _resolute shield_ prevents you from taking an amount of damage up to twice the shield’s Hardness. You and the shield each take any remaining damage.
+**Activate—Stand Firm** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Trigger** You have the _resolute shield_ raised, and you would take physical damage from a critically successful attack; **Effect** The _resolute shield_ prevents you from taking an amount of damage up to twice the shield’s Hardness. You and the shield each take any remaining damage.
 
 *Source: Impossible Magic p. 206*

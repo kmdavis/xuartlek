@@ -16,5 +16,5 @@ citation: "Dark Archives (Remastered) pg. 65"
 
 <sup>DA p. 65</sup>
 
-**Rarity**: Uncommon
+**Rarity**: [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|Uncommon]]
 Cryptid animal companions look a touch peculiar, often with uncanny features or ones that seem to come from a different animal. If you take a feat that would normally allow you to choose to have your companion become a savage or nimble animal companion, you can choose to make it an unseen animal companion instead.

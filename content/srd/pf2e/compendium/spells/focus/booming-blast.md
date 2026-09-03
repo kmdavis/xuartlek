@@ -22,6 +22,6 @@ source: "Impossible Magic"
 
 - **Requirements**: You’re wielding a loaded firearm.
 
-You amplify the already intense cracking noise of your gunshot to spread terror through the ranks of your foes. Make a ranged firearm Strike. Regardless of the result, each enemy in a 20-foot emanation around you must succeed at a Will save against your spell DC or be frightened 1 (or frightened 2 on a critical failure).
+You amplify the already intense cracking noise of your gunshot to spread terror through the ranks of your foes. Make a ranged firearm [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]]. Regardless of the result, each enemy in a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] around you must succeed at a Will save against your spell DC or be [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (or frightened 2 on a critical failure).
 
 *Source: Impossible Magic p. 179*

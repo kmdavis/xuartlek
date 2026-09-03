@@ -23,7 +23,7 @@ source: "Battlecry!"
 
 - **Traditions**: Arcane, Occult
 - **Range**: 100 feet
-- **Area**: 50-foot burst
+- **Area**: 50-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
 - **Defense**: Will
 - **Duration**: 1 round
 
@@ -31,9 +31,9 @@ You create the illusion of cannons exploding, bullets and arrows flying, and mag
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is frightened 1.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
 
-**Failure** The enemy is frightened 2 and stunned 1.
+**Failure** The enemy is frightened 2 and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
 
 **Critical Failure** The enemy is frightened 3 and stunned 2.
 

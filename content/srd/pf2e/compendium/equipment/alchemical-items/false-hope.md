@@ -21,10 +21,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 2,600 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This poison is an insidious distillation of the venom of the boomslang snake. It acts slowly and cyclically, giving its victim a false sense that the poison has failed to take hold or its effects have ended. The GM makes the target's saving throws in secret during any stage that has no effect.
 
- **Saving Throw** DC 37 Fortitude (secret); **Maximum Duration** 10 rounds; **Stage 1** no effect (1 round); **Stage 2** 10d8 poison damage (1 round); **Stage 3** no effect; **Stage 4** 12d8 poison damage (1 round)
+ **Saving Throw** DC 37 Fortitude ([[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]]); **Maximum Duration** 10 rounds; **Stage 1** no effect (1 round); **Stage 2** 10d8 poison damage (1 round); **Stage 3** no effect; **Stage 4** 12d8 poison damage (1 round)
 
 *Source: Treasure Vault (Remastered) p. 68*

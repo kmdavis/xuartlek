@@ -29,7 +29,7 @@ perception:
     desc: "Perception +8; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Athletics +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7"
 abilityMods: [3, 4, 1, -4, 2, -1]
 ac: 16
 armorclass:
@@ -45,7 +45,7 @@ attacks:
     desc: "⬻ beak +10 __Damage__ 1d10+3 piercing"
 abilities_bot:
   - name: "Swoop"
-    desc: "⬺ The pteranodon Flies up to its Speed and makes one beak Strike at any point during that movement."
+    desc: "⬺ The pteranodon [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to its Speed and makes one beak Strike at any point during that movement."
 sourcebook: "_Monster Core_, page 278."
 ```
 

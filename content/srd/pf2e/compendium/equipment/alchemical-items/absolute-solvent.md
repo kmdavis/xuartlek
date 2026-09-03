@@ -17,9 +17,9 @@ source: "Player Core 2"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Originally formulated as a means of dissolving everlasting adhesive, this powerful solvent can break almost any adhesive's grip. As absolute solvent is particularly effective against everlasting adhesive, it automatically dissolves everlasting adhesive. It attempts to counteract any other adhesives, such as glue bombs, with a counteract modifier depending on the type.
+Originally formulated as a means of dissolving everlasting adhesive, this powerful solvent can break almost any adhesive's grip. As absolute solvent is particularly effective against everlasting adhesive, it automatically dissolves everlasting adhesive. It attempts to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] any other adhesives, such as glue bombs, with a counteract modifier depending on the type.
 
 ### Absolute Solvent (Lesser)
 

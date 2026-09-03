@@ -30,11 +30,11 @@ trait_03: "Unique"
 modifier: 42
 perception:
   - name: "Perception"
-    desc: "Perception +42; darkvision, _truesight_"
-languages: "Aklo, Common, Orcish"
+    desc: "Perception +42; darkvision, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +45, Intimidation +45"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +45, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +45"
 abilityMods: [12, 9, 11, 7, 7, 4]
 ac: 51
 armorclass:
@@ -43,10 +43,10 @@ armorclass:
 hp: 550
 health:
   - name: "HP"
-    desc: "550 , regeneration 30 (deactivated by sloughstone weapons); __Immunities__ acid, death effects, disease, mental, mythic immunity, poison; __Resistances__ cold 25, fire 25, physical 20 (except sloughstone and holy); __Weaknesses__ holy 20"
+    desc: "550 , regeneration 30 (deactivated by sloughstone weapons); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], mythic immunity, [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 25, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 25, physical 20 (except [[srd/pf2e/compendium/equipment/materials/sloughstone-object-high-grade|sloughstone]] and holy); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 20"
 abilities_mid:
   - name: "Frightful Presence"
-    desc: "(aura, emotion, fear, mental) 150 feet, DC 45"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 150 feet, DC 45"
   - name: "Mythic Immunity"
     desc: "Verex-That-Was is immune to harmful spells cast by non-mythic creatures, Strikes made with non-mythic weapons, and unarmed Strikes from non-mythic characters."
   - name: "Mythic Resilience"
@@ -60,13 +60,13 @@ abilities_mid:
 speed: "50 feet, burrow 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +44 (Magical, Unholy, reach 15 feet) __Damage__ 5d10+22 slashing plus bloodboils"
+    desc: "⬻ claw +44 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 5d10+22 slashing plus bloodboils"
   - name: "Melee"
-    desc: "⬻ jaws +44 (Magical, Unholy, reach 10 feet) __Damage__ 4d12+22 piercing plus bloodboils and Improved Grab"
+    desc: "⬻ jaws +44 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 4d12+22 piercing plus bloodboils and Improved Grab"
   - name: "Melee"
-    desc: "⬻ tail +44 (Agile, Magical, Unholy, reach 20 feet) __Damage__ 3d8+22 bludgeoning plus bloodboils"
+    desc: "⬻ tail +44 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 3d8+22 bludgeoning plus bloodboils"
   - name: "Ranged"
-    desc: "⬻ teeth +42 (Magical, Unholy, range increment 60 feet) __Damage__ 5d6+16 piercing"
+    desc: "⬻ teeth +42 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]], range increment 60 feet) __Damage__ 5d6+16 piercing"
 abilities_bot:
   - name: "Mythic Power"
     desc: "3 Mythic Points"
@@ -77,19 +77,19 @@ abilities_bot:
   - name: "Trigger"
     desc: "Verex-That-Was would die and has at least 1 Mythic Point; Effect Verex remains standing and conscious, and recovers 50% of his maximum Hit Points."
   - name: "Battlefield Eruption"
-    desc: "⬽ (Mythic, Teleportation)"
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/war-of-immortals/mythic|Mythic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|Teleportation]])"
   - name: "Cost"
     desc: "1 Mythic Point"
   - name: "Effect"
     desc: "Verex-That-Was burrows into the ground, reemerging anywhere on the same plane where either he or his worshippers have previously killed at least 10 sapient creatures in battle. A fountain of gore and shattered bone erupts from the ground when Verex arrives, dealing 16d10 piercing damage in a 30-foot emanation (DC 48 basic Reflex save)."
   - name: "Bloodboils"
-    desc: "(Disease) Wounds caused by direct contact with Verex-That-Was erupt into painful, blood-filled boils. A creature struck by Verex-That-Was's jaws or tail must succeed at a DC 45 Fortitude or gain weakness 10 to physical damage for 1 day as the boils explode messily each time the creature sustains another wound. The bloodboils can be counteracted with a 3rd-rank (or higher) _cleanse affliction_ spell, but the disease also ends if the victim receives magical healing that brings them to their Hit Point maximum."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]]) Wounds caused by direct contact with Verex-That-Was erupt into painful, blood-filled boils. A creature struck by Verex-That-Was's jaws or tail must succeed at a DC 45 Fortitude or gain weakness 10 to physical damage for 1 day as the boils explode messily each time the creature sustains another wound. The bloodboils can be counteracted with a 3rd-rank (or higher) [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]] spell, but the disease also ends if the victim receives magical healing that brings them to their Hit Point maximum."
   - name: "Leap into the Fray"
-    desc: "⬽ Verex-That-Was Leaps up to 20 feet horizontally and up to 10 feet vertically and then makes one claw Strike, one jaws Strike, and one tail Strike in any order. If Verex-That-Was spends 1 Mythic Point as part of this action, he doubles the distances he can Leap and each creature he lands adjacent to is off-guard until the end of his turn."
+    desc: "⬽ Verex-That-Was [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] up to 20 feet horizontally and up to 10 feet vertically and then makes one claw Strike, one jaws Strike, and one tail Strike in any order. If Verex-That-Was spends 1 Mythic Point as part of this action, he doubles the distances he can Leap and each creature he lands adjacent to is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of his turn."
   - name: "Swallow Whole"
     desc: "⬻ Huge, 4d10+10 bludgeoning, Rupture 50"
   - name: "War Cry of Destruction"
-    desc: "⬺ (Sonic, Unholy, Void) Verex-That-Was unleashes a terrible howl in a 60-foot-cone, dealing 12d6 sonic damage and 12d6 void damage to all creatures (DC 45 basic Fortitude save). The damage bypasses up to 25 Hardness of materials other than sloughstone. Creatures in the area with the orc trait can use a reaction to roar in defiance of their corrupted god, granting themselves a +2 circumstance bonus on the saving throw but extending the area of the war cry to also include a 30-foot emanation centered on themself; orc creatures also automatically howl in their death throes if they are reduced to 0 Hit Points by this ability. This area can extend as long as orc creatures remain within the area and choose to roar, but creatures within multiple overlapping areas of effect must attempt only one save. Verex-That-Was cannot loose another War Cry of Destruction for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|Sonic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) Verex-That-Was unleashes a terrible howl in a 60-foot-cone, dealing 12d6 sonic damage and 12d6 void damage to all creatures (DC 45 basic Fortitude save). The damage bypasses up to 25 Hardness of materials other than [[srd/pf2e/compendium/equipment/materials/sloughstone-object-high-grade|sloughstone]]. Creatures in the area with the [[srd/pf2e/compendium/rules-elements/traits/player-core/orc|orc]] trait can use a reaction to roar in defiance of their corrupted god, granting themselves a +2 circumstance bonus on the saving throw but extending the area of the war cry to also include a 30-foot emanation centered on themself; orc creatures also automatically howl in their death throes if they are reduced to 0 Hit Points by this ability. This area can extend as long as orc creatures remain within the area and choose to roar, but creatures within multiple overlapping areas of effect must attempt only one save. Verex-That-Was cannot loose another War Cry of Destruction for 1d4 rounds."
 sourcebook: "_War of Immortals_, page 207."
 ```
 

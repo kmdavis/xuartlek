@@ -20,7 +20,7 @@ source: "GM Core"
 
 If you worship a deity, this golden amulet transforms into your deity's religious symbol when you invest it. You gain a +1 item bonus to Religion. The symbol casts dim light in a 20-foot emanation. 
 
-**Activate—Spiritual Light** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, light, revelation) **Frequency** once per day; **Effect** The light cast by the symbol becomes bright light for 10 minutes and shines through bodies to reveal hints of the spirits within. Creatures in the light receive a –1 status penalty to Deception and Stealth checks. You can Dismiss this activation.
+**Activate—Spiritual Light** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/revelation|revelation]]) **Frequency** once per day; **Effect** The light cast by the symbol becomes bright light for 10 minutes and shines through bodies to reveal hints of the spirits within. Creatures in the light receive a –1 status penalty to Deception and Stealth checks. You can Dismiss this activation.
 
 ### Shining Symbol
 

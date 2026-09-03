@@ -16,6 +16,8 @@ source: "Impossible Magic"
 
 - **PFS Note**: Corruption mechanics are not appropriate for PFS play._ Your devotion to a cause grants you the power to summon and wield a soulforged armament tethered to the very essence of your spirit. You’re driven to fulfill your destiny. The unification of your soul with your weaponry ensures you remain dangerous at all times, even when seemingly unarmed. At any moment, you can unleash your wrath upon those who oppose your will, smiting your enemies with the manifested power of conviction. Soulforged armaments can be summoned only in the service of a higher purpose or calling, such as a blade called forth to avenge the wrongful death of a loved one. Even full suits of armor can manifest from the sheer power of a warrior’s dedication to a cause. Weaponry, shields, or armor created in this way often bear a visual resemblance to the purpose they’re summoned to fulfill.
 
+]]
+
 ## Essence Powers
 
 Your soulforged armament has an essence power you choose when you first bind it. It
@@ -37,13 +39,13 @@ Melee weapon only. The weapon gains the thrown 30 feet trait and has the _return
 
 ### Deep-Seeded Fear
 
-You gain a +2 status bonus to your Intimidation checks and don't take any penalties for not sharing a language when Demoralizing foes who can perceive your armament's essence form. When you manifest the essence form, you can attempt to Demoralize an enemy who can perceive the manifestation.
+You gain a +2 status bonus to your [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks and don't take any penalties for not sharing a language when Demoralizing foes who can perceive your armament's essence form. When you manifest the essence form, you can attempt to Demoralize an enemy who can perceive the manifestation.
 
 **Corruption Flaw** If you attempt to Demoralize an enemy, your Demoralize also targets the ally closest to you.
 
 ### Determined Toughness
 
-Any status penalties you take from the following conditions are 1 less than their condition's value: clumsy, drained, enfeebled, frightened, sickened, stupefied. This doesn't change the actual condition value, or any other effects of the condition (such as stupefied's disruption and its DC).
+Any status penalties you take from the following conditions are 1 less than their condition's value: [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]]. This doesn't change the actual condition value, or any other effects of the condition (such as stupefied's disruption and its DC).
 
 **Corruption Flaw** Whenever you take a status penalty from the listed conditions, you also take a –1 penalty to the same statistics.
 
@@ -85,7 +87,7 @@ Weapon only. When you manifest the essence form, choose one damage type: acid, c
 
 ### Pull of Stasis
 
-Weapon only. Any time you hit with the soulforged weapon, the target takes a –10-foot penalty to its Speeds for 1 round. On a critical hit, the creature is immobilized for 1 round instead.
+Weapon only. Any time you hit with the soulforged weapon, the target takes a –10-foot penalty to its Speeds for 1 round. On a critical hit, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round instead.
 
 **Corruption Flaw** You take a –10-foot penalty to all your Speeds.
 

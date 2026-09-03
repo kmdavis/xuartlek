@@ -21,6 +21,6 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-A _ghostcracker_ pops and smokes when consumed. When you throw the _ghostcracker_ down in your space as part of casting an _illusory creature_ spell, the appearance of the creature twists nightmarishly. When an enemy’s attack or spell ends the _illusory creature_ spell, the creature “dies” in a disturbing fashion, rendering the enemy frightened 1. From this effect, the _ghostcracker_ adds the emotion, fear, and mental traits to the spell.
+A _ghostcracker_ pops and smokes when consumed. When you throw the _ghostcracker_ down in your space as part of casting an [[srd/pf2e/compendium/spells/rank-2/illusory-creature|_illusory creature_]] spell, the appearance of the creature twists nightmarishly. When an enemy’s attack or spell ends the _illusory creature_ spell, the creature “dies” in a disturbing fashion, rendering the enemy [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1. From this effect, the _ghostcracker_ adds the [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] traits to the spell.
 
 *Source: Treasure Vault (Remastered) p. 74*

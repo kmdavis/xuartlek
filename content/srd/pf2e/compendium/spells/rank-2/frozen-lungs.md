@@ -27,7 +27,7 @@ Pulling at the molecules of water that help create life, you rearrange them to h
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage. For the spell's duration, the target takes 1 cold damage whenever it performs an auditory action or Casts a Spell.
+**Success** The target takes half damage. For the spell's duration, the target takes 1 cold damage whenever it performs an [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] action or Casts a Spell.
 
 **Failure** The target takes full damage. For the spell's duration, the target takes 1d8 cold damage whenever it performs an auditory action or Casts a Spell.
 

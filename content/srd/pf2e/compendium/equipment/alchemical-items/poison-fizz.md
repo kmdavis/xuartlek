@@ -17,11 +17,11 @@ source: "Treasure Vault (Remastered)"
 `Alchemical`  `Consumable`  `Lozenge`
 
 - **Usage**: held in 1 hand
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Made from a special mixture of honey and alchemical reagents, poison fizz is a zesty, sweet rock candy that pops and crackles in your mouth. For 1 hour, you have an item bonus to saving throws against poison and being petrified.
+Made from a special mixture of honey and alchemical reagents, poison fizz is a zesty, sweet rock candy that pops and crackles in your mouth. For 1 hour, you have an item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] and being [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]].
 
- **Secondary Effect** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (poison) **Effect** You bite the poison fizz to release its poisonous liquid center and spray green mist in a 15-foot cone. This deals poison damage with a basic Reflex save. A creature that critically fails is also blinded until the end of your next turn and is then temporarily immune to being blinded by poison fizz for 1 hour.
+ **Secondary Effect** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) **Effect** You bite the poison fizz to release its poisonous liquid center and spray green mist in a 15-foot cone. This deals poison damage with a basic Reflex save. A creature that critically fails is also [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until the end of your next turn and is then temporarily immune to being blinded by poison fizz for 1 hour.
 
 ### Poison Fizz (Lesser)
 

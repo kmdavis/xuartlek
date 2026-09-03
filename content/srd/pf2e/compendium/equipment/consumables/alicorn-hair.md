@@ -18,8 +18,8 @@ source: "Howl of the Wild"
 
 - **Price**: 4 gp
 - **Usage**: held in 1 hand
-- **Activate**: Cast a Spell (add 1 action)
+- **Activate**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] (add 1 action)
 
-Hair shed from an alicorn's mane glows when it comes into contact with a living creature. A _stabilize_ spell empowered with an _alicorn hair_ allows you to target 1 additional creature.
+Hair shed from an [[srd/pf2e/bestiary/howl-of-the-wild/beast/alicorn|alicorn's]] mane glows when it comes into contact with a living creature. A [[srd/pf2e/compendium/spells/cantrips/stabilize|_stabilize_]] spell empowered with an _alicorn hair_ allows you to target 1 additional creature.
 
 *Source: Howl of the Wild p. 118*

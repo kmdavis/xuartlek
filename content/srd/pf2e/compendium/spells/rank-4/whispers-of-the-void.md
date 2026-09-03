@@ -29,9 +29,9 @@ You whisper baleful secrets that transcend language and carry magically to the e
 
 **Success** The creature takes 2d8 persistent void damage.
 
-**Failure** The creature takes 4d8 persistent void damage and becomes drained 1.
+**Failure** The creature takes 4d8 persistent void damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]].
 
-**Critical Failure** The creature takes 4d8 persistent void damage and becomes drained 2 and doomed 1.
+**Critical Failure** The creature takes 4d8 persistent void damage and becomes drained 2 and [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed 1]].
 
 ---
 **Heightened (+2)** The persistent void damage increases by 1d8 on a success, or by 2d8 on a failure or critical failure.

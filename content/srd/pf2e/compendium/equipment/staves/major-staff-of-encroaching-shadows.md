@@ -19,7 +19,7 @@ source: "Impossible Magic"
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-This obsidian staff is as black as ink, and tendrils of shadow writhe around it. While wielding this staff, you gain a +2 circumstance bonus to Stealth checks while in dim light or darkness. 
+This obsidian staff is as black as ink, and tendrils of shadow writhe around it. While wielding this staff, you gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks while in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]] or [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkness|darkness]]. 
 
 **Activate** Cast a Spell **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
@@ -31,7 +31,7 @@ This obsidian staff is as black as ink, and tendrils of shadow writhe around it.
 
 ---
 
-**1st** _grim tendrils_**2nd** _darkness_, _darkvision_, _feral shades_
+**1st** [[srd/pf2e/compendium/spells/rank-1/grim-tendrils|_grim tendrils_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/darkness|_darkness_]], [[srd/pf2e/compendium/spells/rank-2/darkvision|_darkvision_]], [[srd/pf2e/compendium/spells/rank-2/feral-shades|_feral shades_]]
 
 ### Greater Staff Of Encroaching Shadows
 
@@ -39,7 +39,7 @@ This obsidian staff is as black as ink, and tendrils of shadow writhe around it.
 
 ---
 
-**3rd** _blindness_, _shadow projectile_**4th** _darkness_, _darkvision_, _incarnate shadow minuet_
+**3rd** [[srd/pf2e/compendium/spells/rank-3/blindness|_blindness_]], [[srd/pf2e/compendium/spells/rank-3/shadow-projectile|_shadow projectile_]]**4th** _darkness_, _darkvision_, [[srd/pf2e/compendium/spells/rank-4/incarnate-shadow-minuet|_incarnate shadow minuet_]]
 
 ### Major Staff Of Encroaching Shadows
 
@@ -47,6 +47,6 @@ This obsidian staff is as black as ink, and tendrils of shadow writhe around it.
 
 ---
 
-**5th** _shadow projectile_, _slither_, _umbral journey_**6th** _shadow blast_**7th** _incarnate shadow minuet_, _shadow raid_
+**5th** _shadow projectile_, [[srd/pf2e/compendium/spells/rank-5/slither|_slither_]], [[srd/pf2e/compendium/spells/rank-5/umbral-journey|_umbral journey_]]**6th** [[srd/pf2e/compendium/spells/rank-5/shadow-blast|_shadow blast_]]**7th** _incarnate shadow minuet_, [[srd/pf2e/compendium/spells/rank-7/shadow-raid|_shadow raid_]]
 
 *Source: Impossible Magic p. 239*

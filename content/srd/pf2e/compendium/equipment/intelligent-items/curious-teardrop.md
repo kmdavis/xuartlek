@@ -22,9 +22,9 @@ source: "Rage of Elements"
 
 **Perception** +26; precise vision 60 feet, imprecise hearing 30 feet
 
-**Communication** telepathy (Common, Talican)
+**Communication** telepathy ([[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]])
 
-**Skills** Diplomacy +24, Alchemy Lore +26, Metal Lore +26, Society +24
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +24, Alchemy [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] +26, Metal Lore +26, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +24
 
 **Int** +6, **Wis** +2, **Cha** +4
 
@@ -36,8 +36,8 @@ A _curious teardrop_, despite being a sphere of liquid metal, hangs like an earr
 
  The tear prefers not to talk about its past, though it claims to be an actual tear separated from its “parent.” Clerics of Laudinmio maintain that the elemental lord is the only being capable of shedding a perfect, sapient tear of metal.
 
-**Activate—Request a Spell** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** You ask for the _curious teardrop's_ assistance. It casts _curse of lost time_, _ferrous form_, or 7th-rank _elemental form_ (metal elemental only), depending on your request.
+**Activate—Request a Spell** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You ask for the _curious teardrop's_ assistance. It casts _curse of lost time_, [[srd/pf2e/compendium/spells/rank-8/ferrous-form|_ferrous form_]], or 7th-rank _elemental form_ (metal elemental only), depending on your request.
 
-**Activate—Reflect Emotions** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Trigger** You're targeted by an emotion or metal effect; **Effect** You receive a +4 status bonus to your saving throw against the triggering effect. Whether or not your save is successful, the teardrop attempts a counteract check at +36 to immediately reflect a copy of the effect back at the originator, targeting it using the creature's own relevant statistics but controlling the effect as if the teardrop had cast it.
+**Activate—Reflect Emotions** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You're targeted by an [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]] effect; **Effect** You receive a +4 status bonus to your saving throw against the triggering effect. Whether or not your save is successful, the teardrop attempts a counteract check at +36 to immediately reflect a copy of the effect back at the originator, targeting it using the creature's own relevant statistics but controlling the effect as if the teardrop had cast it.
 
 *Source: Rage of Elements p. 146*

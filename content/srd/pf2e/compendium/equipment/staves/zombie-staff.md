@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-A _zombie staff_ is etched with the rotting visage of an undead humanoid grimacing in terror and dismay carved atop it. The staff’s _summon undead_ spells can summon only undead that have flesh and an Intelligence modifier of –4 or lower.
+A _zombie staff_ is etched with the rotting visage of an [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]] grimacing in terror and dismay carved atop it. The staff’s [[srd/pf2e/compendium/spells/rank-1/summon-undead|_summon undead_]] spells can summon only undead that have flesh and an Intelligence modifier of –4 or lower.
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list. If you cast _summon undead_, you can also cast _protect companion_ on the resulting minion as a free action.
 
@@ -32,7 +32,7 @@ A _zombie staff_ is etched with the rotting visage of an undead humanoid grimaci
 
 ---
 
-**Cantrip** _protect companion_**1st** _necromancer’s generosity_, _summon undead_**2nd** _final sacrifice_, _summon undead_
+**Cantrip** _protect companion_**1st** _necromancer’s generosity_, _summon undead_**2nd** [[srd/pf2e/compendium/spells/rank-2/final-sacrifice|_final sacrifice_]], _summon undead_
 
 ### Zombie Staff (Greater)
 
@@ -42,7 +42,7 @@ A _zombie staff_ is etched with the rotting visage of an undead humanoid grimaci
 
 ---
 
-**3rd** _bind undead_, _necromancer’s generosity_, _summon undead_**4th** _final sacrifice_, _summon undead_, _talking corpse_
+**3rd** [[srd/pf2e/compendium/spells/rank-3/bind-undead|_bind undead_]], _necromancer’s generosity_, _summon undead_**4th** _final sacrifice_, _summon undead_, [[srd/pf2e/compendium/spells/rank-4/talking-corpse|_talking corpse_]]
 
 ### Zombie Staff (Major)
 

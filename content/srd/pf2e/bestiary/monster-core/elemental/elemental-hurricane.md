@@ -29,10 +29,10 @@ modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; darkvision"
-languages: "Sussuran"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +24, Athletics +21, Stealth +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +24, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +22"
 abilityMods: [6, 7, 4, 0, 3, 0]
 ac: 32
 armorclass:
@@ -41,12 +41,12 @@ armorclass:
 hp: 140
 health:
   - name: "HP"
-    desc: "140; __Immunities__ bleed, paralyzed, poison, sleep"
+    desc: "140; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 abilities_mid:
   - name: "High Winds"
-    desc: "(air, aura) 40 feet. Air within the emanation is difficult terrain for Flying creatures that don't have the air trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]]) 40 feet. Air within the emanation is difficult terrain for [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flying]] creatures that don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]] trait."
   - name: "Disperse"
-    desc: "⬲ (air)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]])"
   - name: "Trigger"
     desc: "The elemental hurricane takes damage from a hostile action"
   - name: "Effect"
@@ -54,12 +54,12 @@ abilities_mid:
 speed: "fly 100 feet; swiftness"
 attacks:
   - name: "Melee"
-    desc: "⬻ gust +24 (Finesse, reach 20 feet) __Damage__ 2d10+12 bludgeoning plus Push 10 feet"
+    desc: "⬻ gust +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d10+12 bludgeoning plus Push 10 feet"
   - name: "Ranged"
     desc: "⬻ lightning lash +24 (range increment 75 feet) __Damage__ 2d12+6 electricity"
 abilities_bot:
   - name: "Gale Breath"
-    desc: "⬺ (Air) The elemental exhales a 30-foot cone of air. Creatures in the cone must succeed at a DC 29 Fortitude save or be knocked away from the elemental. A creature knocked into a solid object stops moving and takes 10d6 bludgeoning damage (roll the damage once for all creatures). The elemental hurricane can't use Gale Breath again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|Air]]) The elemental exhales a 30-foot cone of air. Creatures in the cone must succeed at a DC 29 Fortitude save or be knocked away from the elemental. A creature knocked into a solid object stops moving and takes 10d6 bludgeoning damage (roll the damage once for all creatures). The elemental hurricane can't use Gale Breath again for 1d4 rounds."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
@@ -67,7 +67,7 @@ abilities_bot:
   - name: "Failure"
     desc: "The creature is pushed 40 feet."
   - name: "Critical Failure"
-    desc: "The creature is pushed 40 feet and knocked prone."
+    desc: "The creature is pushed 40 feet and knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
   - name: "Swiftness"
     desc: "The elemental's movement doesn't trigger reactions."
 sourcebook: "_Monster Core_, page 141."

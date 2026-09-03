@@ -18,7 +18,7 @@ source: "Guns & Gears (Remastered)"
 - **PFS Note**: All Pathfinder Society agents have access to all uncommon clockwork items and gadgets from Chapters 1 and 2 of this book
 - **Usage**: attached to a thrown weapon
 
-These delicate clockwork wings enable thrown weapons to soar through the air at high speeds, performing turns and other aerial maneuvers midflight. Wind-up wings also have different types of special effects depending on the type. Wind-up wings must be attached to a thrown weapon and wound to function. A thrown weapon with an attached set of wind-up wings can't have anything else attached to it, or the wings cease to function.
+These delicate clockwork wings enable thrown weapons to soar through the air at high speeds, performing turns and other aerial maneuvers midflight. Wind-up wings also have different types of special effects depending on the type. Wind-up wings must be attached to a [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapon and wound to function. A thrown weapon with an attached set of wind-up wings can't have anything else attached to it, or the wings cease to function.
 
  Attaching or detaching a pair of wind-up wings to a thrown weapon requires a repair kit, and the process takes 10 minutes. Winding an attached pair of wind-up wings takes three Interact actions. There are a variety of wind-up wings, with different effects.
 
@@ -36,6 +36,6 @@ When you make a thrown Strike with the weapon to which a pair of flutterback win
 
 ---
 
-When you make a thrown Strike with the weapon to which a pair of homing wind-up wings are attached, and the wings are wound, the wings seek out your target, flying through cover and avoiding obstacles. You ignore the target's concealed condition and reduce the target's cover by one step (lesser cover to no cover, standard cover to lesser cover, or greater cover to standard cover). After the Strike is complete, the wings are wound down; they don't function again until wound.
+When you make a thrown Strike with the weapon to which a pair of homing wind-up wings are attached, and the wings are wound, the wings seek out your target, flying through cover and avoiding obstacles. You ignore the target's [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition and reduce the target's cover by one step (lesser cover to no cover, standard cover to lesser cover, or greater cover to standard cover). After the Strike is complete, the wings are wound down; they don't function again until wound.
 
 *Source: Guns & Gears (Remastered) p. 65*

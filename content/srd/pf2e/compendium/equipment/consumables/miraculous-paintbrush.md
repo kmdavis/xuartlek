@@ -19,9 +19,9 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 325 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: 10 minutes (concentrate, manipulate)
+- **Activate**: 10 minutes ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-The bristles on a _miraculous paintbrush_ shift in a rainbow of colors, and can magically create an object painted with them. The paint flows as you Activate the _miraculous paintbrush_ and changes color at your whim as you paint. The paint can cover a 10-foot-square, two-dimensional surface. When you’re done painting, attempt a DC 30 Crafting check.
+The bristles on a _miraculous paintbrush_ shift in a rainbow of colors, and can magically create an object painted with them. The paint flows as you Activate the _miraculous paintbrush_ and changes color at your whim as you paint. The paint can cover a 10-foot-square, two-dimensional surface. When you’re done painting, attempt a DC 30 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check.
 
 **Critical Success** The object you painted emerges from the surface as a real, permanent object no larger than 10 feet in any dimension. It's non-magical and inanimate and has no value except to certain art collectors. If you paint a creature, machine, or form of energy (such as a campfire), these depictions appear only as inanimate sculptures. The created object has a painterly appearance that clearly marks its unusual origin, but is as real as any other.
 

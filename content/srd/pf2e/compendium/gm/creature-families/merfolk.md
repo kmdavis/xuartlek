@@ -14,7 +14,7 @@ Elegant, mysterious, and graceful; all this and more can be said of merfolk. The
 
 ### Members
 
-Merfolk Storm Singer (Creature 7), Merfolk Warrior (Creature 1), Merfolk Wavecaller (Creature 2)
+Merfolk Storm Singer (Creature 7), [[srd/pf2e/bestiary/monster-core/humanoid/merfolk-warrior|Merfolk Warrior]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/merfolk-wavecaller|Merfolk Wavecaller]] (Creature 2)
 
 ### Fish out of Water
 

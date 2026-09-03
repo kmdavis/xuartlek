@@ -22,7 +22,7 @@ source: "Player Core"
 - **Target**: 1 willing creature
 - **Duration**: until your next daily preparations
 
-You shield the target against dangerous temperatures. Choose severe cold or heat. The target is protected from the temperature you chose (but not extreme cold or heat).
+You shield the target against dangerous temperatures. Choose [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|severe cold or heat]]. The target is protected from the temperature you chose (but not extreme cold or heat).
 
 ---
 **Heightened (3rd)** The target is protected from severe cold and severe heat.

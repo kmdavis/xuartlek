@@ -30,7 +30,7 @@ A glass orb atop this metal staff contains fine sand. While wielding the staff, 
 
 ---
 
- **1st** _pest form_ **2nd** _animal form_, _enlarge_, _shrink_ 
+ **1st** [[srd/pf2e/compendium/spells/rank-1/pest-form|_pest form_]] **2nd** [[srd/pf2e/compendium/spells/rank-2/animal-form|_animal form_]], [[srd/pf2e/compendium/spells/rank-2/enlarge|_enlarge_]], [[srd/pf2e/compendium/spells/rank-2/shrink|_shrink_]] 
 
 ### Fluid Form Staff (Greater)
 
@@ -38,7 +38,7 @@ A glass orb atop this metal staff contains fine sand. While wielding the staff, 
 
 ---
 
- **3rd** _feet to fins_, _insect form_ **4th** _aerial form_, animal form, _dinosaur form_ 
+ **3rd** [[srd/pf2e/compendium/spells/rank-3/feet-to-fins|_feet to fins_]], [[srd/pf2e/compendium/spells/rank-3/insect-form|_insect form_]] **4th** [[srd/pf2e/compendium/spells/rank-4/aerial-form|_aerial form_]], animal form, [[srd/pf2e/compendium/spells/rank-4/dinosaur-form|_dinosaur form_]] 
 
 ### Fluid Form Staff (Major)
 
@@ -46,6 +46,6 @@ A glass orb atop this metal staff contains fine sand. While wielding the staff, 
 
 ---
 
- **5th** animal form, insect form **6th** _cursed metamorphosis_, _dragon form_, _plant form_
+ **5th** animal form, insect form **6th** [[srd/pf2e/compendium/spells/rank-6/cursed-metamorphosis|_cursed metamorphosis_]], [[srd/pf2e/compendium/spells/rank-6/dragon-form|_dragon form_]], [[srd/pf2e/compendium/spells/rank-5/plant-form|_plant form_]]
 
 *Source: GM Core p. 278*

@@ -14,9 +14,9 @@ source: "Player Core"
 
 You'll see the following key terms in many bard class features.
 
-**Composition:** To cast a composition cantrip or focus spell, you use a type of Performance. If the spell requires an auditory performance, you might recite a poem, sing a song, or perform a dramatic monologue. If the spell requires a visual performance, you might dance or pantomime. You can cast only one composition spell each turn, and you can have only one active at a time. If you cast a new composition spell, any ongoing effects from your previous composition spell end immediately.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/composition|Composition]]:** To cast a composition cantrip or focus spell, you use a type of [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]. If the spell requires an auditory performance, you might recite a poem, sing a song, or perform a dramatic monologue. If the spell requires a visual performance, you might dance or pantomime. You can cast only one composition spell each turn, and you can have only one active at a time. If you cast a new composition spell, any ongoing effects from your previous composition spell end immediately.
 
-**Spellshape:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 ### Roleplaying the Bard
 
@@ -49,7 +49,15 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Expert in Perception |
 | **Saving Throws** | Trained in Fortitude Trained in Reflex Expert in Will |
-| **Skills** | Trained in Occultism Trained in Performance Trained in a number of additional skills equal to 4 plus your Intelligence modifier |
+
+#### Skills
+
+Trained in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
+ Trained in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+ Trained in a number of additional skills equal to 4 plus your Intelligence modifier
+
+| | |
+| --- | --- |
 | **Attacks** | Trained in simple weapons Trained in martial weapons Trained in unarmed attacks |
 | **Defenses** | Trained in light armor Trained in unarmored defense |
 | **Class DC** | Trained in bard class DC |
@@ -125,7 +133,7 @@ The collection of spells you can cast is called your spell repertoire. At 1st le
 
 #### Swapping Spells In Your Repertoire
 
- As you gain new spells in your repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip. You can also swap out spells by retraining during downtime.
+ As you gain new spells in your repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip. You can also swap out spells by retraining during [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Retraining|downtime]].
 
 #### Composition Spells
 
@@ -133,13 +141,13 @@ You can infuse your performances with magic to create unique effects called comp
 
  Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. The full rules for focus spells appear here.
 
- You learn the _counter performance_ composition spell, protecting against auditory and visual effects. 
+ You learn the _counter performance_ composition spell, protecting against [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] effects. 
 
 ### Composition Cantrips
 
- Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose with bard spellcasting. Unlike other cantrips, you can't swap out composition cantrips gained from bard feats at a later level, unless you swap out the specific feat via retraining.
+ Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose with bard spellcasting. Unlike other cantrips, you can't swap out composition cantrips gained from bard feats at a later level, unless you swap out the specific feat via [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Retraining|retraining]].
 
- You learn the _courageous anthem_ composition cantrip, which boosts your allies' attacks, damage, and defense against fear.
+ You learn the _courageous anthem_ composition cantrip, which boosts your allies' attacks, damage, and defense against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]].
 
 #### Muses
 

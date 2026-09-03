@@ -23,7 +23,7 @@ source: "Battlecry!"
 - **Defense**: Will
 - **Duration**: varies
 
-You soften the target’s blows, ensuring they avoid vital areas and cause no lasting harm. All physical damage dealt by the target to living creatures becomes nonlethal and all persistent bleed damage dealt by the target is reduced to 0. This effect doesn’t incur the typical –2 circumstance penalty for nonlethal attacks with a lethal weapon or attack. An unwilling target must attempt a Will save. A willing target can choose to critically fail their saving throw.
+You soften the target’s blows, ensuring they avoid vital areas and cause no lasting harm. All physical damage dealt by the target to living creatures becomes [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] and all [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] dealt by the target is reduced to 0. This effect doesn’t incur the typical –2 circumstance penalty for nonlethal attacks with a lethal weapon or attack. An unwilling target must attempt a Will save. A willing target can choose to critically fail their saving throw.
 
 **Critical Success** The creature is unaffected.
 

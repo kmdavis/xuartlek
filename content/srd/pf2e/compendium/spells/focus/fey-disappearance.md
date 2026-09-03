@@ -20,7 +20,7 @@ source: "Player Core 2"
 - **Bloodline**: Fey
 - **Duration**: until the end of your next turn
 
-You become invisible and ignore natural difficult terrain (such as underbrush). Any hostile action you use ends this invisibility, but you still ignore natural difficult terrain.
+You become [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] and ignore natural difficult terrain (such as underbrush). Any hostile action you use ends this invisibility, but you still ignore natural difficult terrain.
 
 ---
 **Heightened (5th)** If you use a hostile action, the invisibility doesn't end.

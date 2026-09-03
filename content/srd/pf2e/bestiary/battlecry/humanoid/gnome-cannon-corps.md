@@ -31,10 +31,10 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; low-light vision"
-languages: "Common, Fey, Gnomish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +13, Arcana +17, Crafting +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +17, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +15"
 abilityMods: [0, 4, 2, 6, 2, 1]
 ac: 24
 armorclass:
@@ -43,22 +43,22 @@ armorclass:
 hp: 120
 health:
   - name: "HP"
-    desc: "120 (4 segments); __Weaknesses__ area damage 8, splash damage 8"
+    desc: "120 (4 segments); __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 8"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "25 feet; troop movement"
 abilities_bot:
   - name: "Arcane Explosion"
-    desc: "⬽ (Arcane, Force) Aiming the gnome cannons toward the enemy, loading them, and firing them requires the troop's full attention. The cannons fire a 15- foot burst of bright magic within 200 feet that deals 2d12+2 force damage (DC 22 basic Reflex save). A creature that fails their save is also dazzled for 1 round; this is a light and visual effect. The area of the explosion seems to twist and ripple for 1 minute afterward. A creature that attempts to move through the space must succeed at a DC 22 Will save or treat the area as difficult terrain; this is an illusion and visual effect."
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/force|Force]]) Aiming the gnome cannons toward the enemy, loading them, and firing them requires the troop's full attention. The cannons fire a 15- foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] of bright magic within 200 feet that deals 2d12+2 force damage (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). A creature that fails their save is also [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] effect. The area of the explosion seems to twist and ripple for 1 minute afterward. A creature that attempts to move through the space must succeed at a DC 22 Will save or treat the area as [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]]; this is an [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] and visual effect."
   - name: "Cannon Vent"
     desc: ""
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The gnome engineers vent the cannons' energy in a blast that hits all creatures in a 5-foot emanation (DC 22 basic Reflex save). The damage depends on the number of actions. ⬻ 1d6+2 fire damage ⬺ 2d6+8 fire damage ⬽ 3d6+10 fire damage"
+    desc: "The gnome engineers vent the cannons' energy in a blast that hits all creatures in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The damage depends on the number of actions. ⬻ 1d6+2 fire damage ⬺ 2d6+8 fire damage ⬽ 3d6+10 fire damage"
   - name: "Direct Hit"
-    desc: "⬺ The gnomes fire a more mundane round from one of their cannons at a single target within 60 feet, who takes 3d10+6 bludgeoning damage (DC 22 basic Reflex save). On a failed save, the creature is also pushed 5 feet away from the troop."
+    desc: "⬺ The gnomes fire a more mundane round from one of their cannons at a single target within 60 feet, who takes 3d10+6 bludgeoning damage (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). On a failed save, the creature is also pushed 5 feet away from the troop."
 sourcebook: "_Battlecry!_, page 182."
 ```
 

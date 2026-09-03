@@ -22,10 +22,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 115 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 With an incredibly deep black hue, sightless tincture is usually concealed in wine, blood pudding, or other darkly colored foods. The oil at first faintly dims its victim’s sight, then blacks it out entirely.
 
-**Saving Throw** DC 28 Fortitude; **Onset** 10 minutes; **Maximum Duration** 14 hours; **Stage 1** dazzled and a –2 status penalty to visual Perception checks (1 hour); **Stage 2** dazzled and a –4 status penalty to visual Perception checks (1 hour); **Stage 3** blinded (2d6 hours); stage 3 is an incapacitation effect, and if the victim is still blinded from the poison when the poison has run its course, the blindness lasts for an additional 24 hours afterward
+**Saving Throw** DC 28 Fortitude; **Onset** 10 minutes; **Maximum Duration** 14 hours; **Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] and a –2 status penalty to visual [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Perception|Perception]] checks (1 hour); **Stage 2** dazzled and a –4 status penalty to visual Perception checks (1 hour); **Stage 3** blinded (2d6 hours); stage 3 is an [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] effect, and if the victim is still blinded from the poison when the poison has run its course, the blindness lasts for an additional 24 hours afterward
 
 *Source: Treasure Vault (Remastered) p. 70*

@@ -21,10 +21,10 @@ source: "Player Core 2"
 - **Price**: 1,700 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: Dogslicer
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/sword/dogslicer|Dogslicer]]
 
-This _+2 striking dogslicer_ is obviously the work of a brilliant but scrappy artisan who valued versatility over safety. Four toothy gems line the blade's cutting edge, three of which glow—one with fiery red light, one with a chill blue, and one that gives off sparks—while the last is a glistening black. Each of these gems embodies a weapon property rune, but only one rune can be active at a time.
+This _+2 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/dogslicer|dogslicer]]_ is obviously the work of a brilliant but scrappy artisan who valued versatility over safety. Four toothy gems line the blade's cutting edge, three of which glow—one with fiery red light, one with a chill blue, and one that gives off sparks—while the last is a glistening black. Each of these gems embodies a weapon property rune, but only one rune can be active at a time.
 
-**Activate—Gem Twist** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Effect** You twist the gem along the blade corresponding with the desired weapon property rune: red for flaming, blue for frost, or yellow for shock. You take 1d6 damage of the type the chosen rune deals. You can instead twist the black gem to disable the active property rune, taking no damage.
+**Activate—Gem Twist** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You twist the gem along the blade corresponding with the desired weapon property rune: red for [[srd/pf2e/compendium/equipment/runes/flaming-greater|flaming]], blue for [[srd/pf2e/compendium/equipment/runes/frost-greater|frost]], or yellow for [[srd/pf2e/compendium/equipment/runes/shock-greater|shock]]. You take 1d6 damage of the type the chosen rune deals. You can instead twist the black gem to disable the active property rune, taking no damage.
 
 *Source: Player Core 2 p. 280*

@@ -29,11 +29,11 @@ perception:
     desc: "Perception +4; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +7, Survival +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
 abilityMods: [4, 3, 4, -4, 1, -1]
 abilities_top:
   - name: "Desert-Adapted"
-    desc: "A camel is well-adapted to heat and deserts. If allowed to drink and eat its fill (roughly 40 gallons), it can Subsist for 2 weeks without needing to attempt Survival checks, and it treats environmental heat effects as if they were one step less severe."
+    desc: "A camel is well-adapted to heat and deserts. If allowed to drink and eat its fill (roughly 40 gallons), it can [[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]] for 2 weeks without needing to attempt [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks, and it treats environmental [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|heat effects]] as if they were one step less severe."
 ac: 15
 armorclass:
   - name: "AC"
@@ -50,9 +50,9 @@ attacks:
     desc: "⬻ spit +6 __Damage__ camel spit"
 abilities_bot:
   - name: "Camel Spit"
-    desc: "To drive away enemies, the camel spits the partially digested contents of its stomach at a creature within 10 feet. On a hit, the target is dazzled for 1 round and must succeed at a DC 17 Fortitude save or become sickened 1. The camel can't use its camel spit Strike again for 1d4 rounds."
+    desc: "To drive away enemies, the camel spits the partially digested contents of its stomach at a creature within 10 feet. On a hit, the target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round and must succeed at a DC 17 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1. The camel can't use its camel spit Strike again for 1d4 rounds."
   - name: "Sand Stride"
-    desc: "⬺ The camel Strides twice. It has a +5-foot circumstance bonus to its Speed during these Strides, ignoring difficult terrain caused by rubble, sand, and uneven ground made of earth and stone. Camel Cousins Rumors in the high desert tell of an ancient species related to both camels and llamas that still lives in sheltered mountain valleys and along hidden rivers: the camelops. Larger and stronger than domesticated camels, camelops remain wild creatures. No living examples exist in captivity, though fables of their luxurious coats and indomitable endurance lead some riders to seek them out regardless."
+    desc: "⬺ The camel [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] twice. It has a +5-foot circumstance bonus to its Speed during these Strides, ignoring difficult terrain caused by rubble, sand, and uneven ground made of earth and stone. Camel Cousins Rumors in the high desert tell of an ancient species related to both camels and llamas that still lives in sheltered mountain valleys and along hidden rivers: the camelops. Larger and stronger than domesticated camels, camelops remain wild creatures. No living examples exist in captivity, though fables of their luxurious coats and indomitable endurance lead some riders to seek them out regardless."
 sourcebook: "_Monster Core 2_, page 67."
 ```
 

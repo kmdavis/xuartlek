@@ -19,7 +19,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Sonic`  `Uncommon`
 
-- **Domain**: Destruction
+- **Domain**: [[srd/pf2e/compendium/character/domains#Destruction|Destruction]]
 - **Area**: 15-foot cone
 - **Defense**: basic Fortitude
 

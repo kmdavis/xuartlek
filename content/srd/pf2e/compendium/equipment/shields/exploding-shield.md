@@ -17,10 +17,10 @@ source: "Player Core 2"
 - **Price**: 25 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Wooden Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Wooden Shield|Wooden Shield]]
 
-The magic within this wooden shield lashes out at your foes as the shield is destroyed. 
+The magic within this [[srd/pf2e/compendium/equipment/shields#Wooden Shield|wooden shield]] lashes out at your foes as the shield is destroyed. 
 
-**Activate—Splintering Boom** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (manipulate) **Trigger** The exploding shield is destroyed; **Effect** The shield explodes outward, dealing 4d6 piercing damage to each creature in a 15-foot cone (DC 19 basic Reflex save).
+**Activate—Splintering Boom** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Trigger** The exploding shield is destroyed; **Effect** The shield explodes outward, dealing 4d6 piercing damage to each creature in a 15-foot cone (DC 19 basic Reflex save).
 
 *Source: Player Core 2 p. 279*

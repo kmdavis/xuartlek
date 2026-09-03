@@ -22,7 +22,7 @@ source: "Treasure Vault (Remastered)"
 
 This colorfully painted wand has a few jingling bells tied to the pommel.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _uncontrollable dance_. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes fatigued.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _uncontrollable dance_. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]].
 
 **Craft Requirements** Supply a casting of _uncontrollable dance_.
 

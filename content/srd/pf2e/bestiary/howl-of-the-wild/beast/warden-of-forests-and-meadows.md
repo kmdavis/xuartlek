@@ -34,7 +34,7 @@ perception:
 languages: "voice of nature"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +40, Deception +44, Diplomacy +40, Intimidation +42, Nature +36, Society +39, Stealth +42, Survival +36, Thievery +40"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +40, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +44, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +40, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +42, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +36, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +39, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +42, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +36, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +40"
 abilityMods: [7, 10, 8, 11, 8, 12]
 abilities_top:
   - name: "Voice of Nature"
@@ -44,48 +44,48 @@ abilities_top:
 ac: 48
 armorclass:
   - name: "AC"
-    desc: "48; __Fort__: +34; __Ref__: +42; __Will__: +36 +1 to all saves vs. primal"
+    desc: "48; __Fort__: +34; __Ref__: +42; __Will__: +36 +1 to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]"
 hp: 435
 health:
   - name: "HP"
     desc: "435"
 abilities_mid:
   - name: "Wild Trickery"
-    desc: "⬲ (mental, primal)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]])"
   - name: "Trigger"
-    desc: "An enemy within 60 feet targets the warden with an attack, spell, or other ability"
+    desc: "An enemy within 60 feet targets the warden with an [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], spell, or other ability"
   - name: "Effect"
     desc: "The triggering creature must attempt a DC 45 Will save. If it fails, the warden redirects the ability to target a different creature in range with a burst of mental laughter; this has no effect if there are no other eligible targets. The triggering creature is then temporarily immune for 24 hours unless it critically failed."
 speed: "60 feet, climb 30 feet; forest passage"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +38 (Finesse, Magical, reach 15 feet) __Damage__ 4d10+15 piercing"
+    desc: "⬻ jaws +38 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 4d10+15 piercing"
   - name: "Melee"
-    desc: "⬻ horned crown +40 (Finesse, Magical, reach 10 feet) __Damage__ 4d8+15 piercing plus 2d6 persistent poison"
+    desc: "⬻ horned crown +40 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 4d8+15 piercing plus 2d6 persistent poison"
   - name: "Melee"
-    desc: "⬻ claw +40 (Agile, Finesse, Magical, reach 15 feet) __Damage__ 4d6+15 slashing"
+    desc: "⬻ claw +40 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 4d6+15 slashing"
   - name: "Ranged"
-    desc: "⬻ fox's laughter +40 (Magical, range 120 feet) __Damage__ 4d10 sonic plus 3d6 mental"
+    desc: "⬻ fox's laughter +40 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range 120 feet) __Damage__ 4d10 sonic plus 3d6 mental"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ (Concentrate, Polymorph, Primal) The warden transforms his size to Tiny, Small, Medium, or Huge (changing his reach to 0 feet for Tiny, 5 feet for Medium or Large, and 10 feet for Huge). The warden retains his shape but can change his color to any seasonal array."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The warden transforms his size to Tiny, Small, Medium, or Huge (changing his reach to 0 feet for Tiny, 5 feet for Medium or Large, and 10 feet for Huge). The warden retains his shape but can change his color to any seasonal array."
   - name: "Forest Passage"
     desc: "The Warden of Forests and Meadows ignores difficult terrain and greater difficult terrain from non-magical foliage."
   - name: "Fox's Wager"
-    desc: "⬻ (Concentrate, Mental, Primal) The warden grants a boon to a willing creature he can see other than himself, requesting that the creature promise to use the granted power to destroy or undermine the creations of civilization. The target gains a +1 status bonus to attack rolls and a +5 status bonus to damage against constructs, objects, and structures constructed by humanoids. It also gains a +2 status bonus to Stealth checks against humanoids. The warden can have only one wager granted at a time. The wager ends if the target is captured or dies."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The warden grants a boon to a willing creature he can see other than himself, requesting that the creature promise to use the granted power to destroy or undermine the creations of civilization. The target gains a +1 status bonus to attack rolls and a +5 status bonus to damage against [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|constructs]], objects, and structures constructed by humanoids. It also gains a +2 status bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks against [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoids]]. The warden can have only one wager granted at a time. The wager ends if the target is captured or dies."
   - name: "Idyllic Panorama"
-    desc: "⬻ (Concentrate, Primal)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]])"
   - name: "Frequency"
     desc: "once per hour"
   - name: "Effect"
-    desc: "The warden creates an area of peaceful calm. This is identical to a 5th-rank _mirage_ depicting a peaceful meadow or forest, except the area is a 200-foot burst. While within the area of an Idyllic Panorama, the warden has significant control over the senses of creatures within the area and can cast _mislead_ and 2nd-rank _silence_ at will."
+    desc: "The warden creates an area of peaceful calm. This is identical to a 5th-rank [[srd/pf2e/compendium/spells/rank-4/mirage|_mirage_]] depicting a peaceful meadow or forest, except the area is a 200-foot burst. While within the area of an Idyllic Panorama, the warden has significant control over the senses of creatures within the area and can cast [[srd/pf2e/compendium/spells/rank-6/mislead|_mislead_]] and 2nd-rank [[srd/pf2e/compendium/spells/rank-2/silence|_silence_]] at will."
   - name: "Magical Pounce"
-    desc: "⬻ The warden Strides up to his Speed, Leaps up to his Speed, or casts _translocate_; at the end of that movement, the warden Strikes. If the warden began this action hidden, he remains hidden until after this ability's Strike."
+    desc: "⬻ The warden Strides up to his Speed, [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] up to his Speed, or casts [[srd/pf2e/compendium/spells/rank-4/translocate|_translocate_]]; at the end of that movement, the warden Strikes. If the warden began this action [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], he remains hidden until after this ability's Strike."
   - name: "Sneak Attack"
-    desc: "The warden deals an additional 3d6 precision damage to off-guard creatures."
+    desc: "The warden deals an additional 3d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 45, attack +41 - __Cantrips (10th)__ Figment, Light - __4th__ Translocate (at will) - __10th__ Manifestation, Petal Storm - __Constant (7th)__ Truespeech, Veil of Privacy"
+    desc: "DC 45, attack +41 - __Cantrips (10th)__ [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/light|Light]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (at will) - __10th__ [[srd/pf2e/compendium/spells/rank-10/manifestation|Manifestation]], Petal Storm - __Constant (7th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]], [[srd/pf2e/compendium/spells/rank-3/veil-of-privacy|Veil of Privacy]]"
 sourcebook: "_Howl of the Wild_, page 205."
 ```
 

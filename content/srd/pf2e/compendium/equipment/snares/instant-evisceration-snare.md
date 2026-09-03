@@ -19,6 +19,6 @@ source: "Player Core 2"
 
 - **Price**: 10,000 gp
 
-When a creature enters the snare's square, the snare releases an unbelievable arsenal of blades at the creature, dealing 18d8 piercing damage (DC 42 basic Reflex save).
+When a creature enters the snare's square, the snare releases an unbelievable arsenal of blades at the creature, dealing 18d8 piercing damage (DC 42 [[srd/pf2e/compendium/rules-elements/actions/howl-of-the-wild|basic]] Reflex save).
 
 *Source: Player Core 2 p. 299*

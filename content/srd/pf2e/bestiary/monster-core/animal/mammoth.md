@@ -29,12 +29,12 @@ perception:
     desc: "Perception +18; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +22, Survival +19"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +22, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +19"
 abilityMods: [8, 1, 5, -4, 1, -2]
 ac: 29
 armorclass:
   - name: "AC"
-    desc: "29; __Fort__: +21; __Ref__: +15; __Will__: +18 +2 status to all saves vs. cold"
+    desc: "29; __Fort__: +21; __Ref__: +15; __Will__: +18 +2 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]]"
 hp: 190
 health:
   - name: "HP"
@@ -45,16 +45,16 @@ abilities_mid:
 speed: "45 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tusk +22 (reach 15 feet) __Damage__ 3d8+12 piercing"
+    desc: "⬻ tusk +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 3d8+12 piercing"
   - name: "Melee"
-    desc: "⬻ trunk +22 (reach 15 feet) __Damage__ grabbing trunk"
+    desc: "⬻ trunk +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ grabbing trunk"
   - name: "Melee"
-    desc: "⬻ foot +22 (reach 10 feet) __Damage__ 2d10+12 bludgeoning"
+    desc: "⬻ foot +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+12 bludgeoning"
 abilities_bot:
   - name: "Dual Tusks"
     desc: "⬻ The mammoth makes two tusk Strikes, each against a different creature. This counts as one attack for the mammoth's multiple attack penalty, and the penalty doesn't increase until after both attacks."
   - name: "Grabbing Trunk"
-    desc: "A Medium or smaller creature hit by the mammoth's trunk is grabbed. If the mammoth moves, it can bring the grabbed creature along with it."
+    desc: "A Medium or smaller creature hit by the mammoth's trunk is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]. If the mammoth moves, it can bring the grabbed creature along with it."
   - name: "Trample"
     desc: "⬽ Large or smaller, foot, DC 28"
 sourcebook: "_Monster Core_, page 150."

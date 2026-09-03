@@ -17,9 +17,9 @@ source: "Impossible Magic"
 `Cold`  `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Area**: 120-foot line
+- **Area**: 120-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]]
 - **Duration**: 1 minute
 
-You create a path of ice that begins beneath your feet and extends up to 120 feet in a straight line, starting from you. When you end your turn on the path, you gain the quickened condition until the end of your next turn and can use the extra action only to Stride. Other creatures treat the path as difficult terrain.
+You create a path of ice that begins beneath your feet and extends up to 120 feet in a straight line, starting from you. When you end your turn on the path, you gain the [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] condition until the end of your next turn and can use the extra action only to Stride. Other creatures treat the path as difficult terrain.
 
 *Source: Impossible Magic p. 141*

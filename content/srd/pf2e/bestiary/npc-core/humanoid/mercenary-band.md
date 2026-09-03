@@ -31,10 +31,10 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +19, Intimidation +18, Military Lore +14, Society +14, Survival +15, Thievery +19"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/lore|Military Lore]] +14, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +14, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +19"
 abilityMods: [4, 2, 3, -1, 2, 1]
 ac: 26
 armorclass:
@@ -43,7 +43,7 @@ armorclass:
 hp: 180
 health:
   - name: "HP"
-    desc: "180; __Weaknesses__ area damage 10, splash damage 10"
+    desc: "180; __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
@@ -58,7 +58,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The band's last action was Let 'em Have It and at least one creature failed its save"
   - name: "Effect"
-    desc: "The mercenary band attempts to Steal one object from each enemy that failed its save, even if the enemy is in combat or on guard."
+    desc: "The mercenary band attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Steal|Steal]] one object from each enemy that failed its save, even if the enemy is in combat or on guard."
 sourcebook: "_NPC Core_, page 84."
 ```
 

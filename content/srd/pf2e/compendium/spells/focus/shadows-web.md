@@ -18,7 +18,7 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Manipulate`  `Monk`  `Uncommon`
 
-- **Requirements**: You are in _clinging shadows stance_.
+- **Requirements**: You are in [[srd/pf2e/compendium/spells/focus/clinging-shadows-stance|_clinging shadows stance_]].
 - **Range**: 30-foot emanation
 - **Defense**: Fortitude
 
@@ -26,11 +26,11 @@ Grasping darkness surges from you, dealing 14d4 void damage. Each creature in th
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is enfeebled 1 for 1 round.
+**Success** The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] for 1 round.
 
 **Failure** The creature takes full damage and is enfeebled 2 for 1 round.
 
-**Critical Failure** The creature takes double damage, is stunned 1, and enfeebled 2 for 1 round, and immobilized for 1 round or until it Escapes, whichever comes first.
+**Critical Failure** The creature takes double damage, is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]], and enfeebled 2 for 1 round, and [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]], whichever comes first.
 
 ---
 **Heightened (+1)** The void damage increases by 2d4.

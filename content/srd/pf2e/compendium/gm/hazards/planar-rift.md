@@ -21,8 +21,8 @@ source: "GM Core"
 DC 35 (trained)
 
 **Disable**
-DC 33 Thievery (master) to assemble a rift seal using objects strongly grounded to your plane, or _dispel magic_ (7th rank; counteract DC 31) to counteract the rift
+DC 33 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (master) to assemble a rift seal using objects strongly grounded to your plane, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (7th rank; [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] DC 31) to counteract the rift
 
-**Into the Great Beyond** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (occult, teleportation) **Trigger** A creature moves within 10 feet of the rift; **Effect** The triggering creature and all creatures within 30 feet of the rift are drawn into another plane. Each creature can attempt a DC 33 Reflex save to avoid this fate.
+**Into the Great Beyond** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]]) **Trigger** A creature moves within 10 feet of the rift; **Effect** The triggering creature and all creatures within 30 feet of the rift are drawn into another plane. Each creature can attempt a DC 33 Reflex save to avoid this fate.
 
 *Source: GM Core p. 103*

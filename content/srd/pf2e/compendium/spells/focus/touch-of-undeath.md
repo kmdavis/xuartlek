@@ -19,7 +19,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`  `Void`  `Negative`
 
-- **Domain**: Undeath
+- **Domain**: [[srd/pf2e/compendium/character/domains#Undeath|Undeath]]
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: Fortitude
@@ -31,7 +31,7 @@ You attack the target's life force with undeath, dealing 1d6 void damage. The ta
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage, and vitality effects heal it only half as much as normal for 1 round.
+**Failure** The target takes full damage, and [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] effects heal it only half as much as normal for 1 round.
 
 **Critical Failure** The target takes double damage, and vitality effects heal it only half as much as normal for 1 minute.
 

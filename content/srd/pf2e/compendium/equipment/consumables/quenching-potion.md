@@ -19,8 +19,8 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 85 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-_Quenching potion_ is a clear liquid that tastes like fresh, cool spring water. Drinking this potion or pouring it over yourself completely hydrates you and cleanses your system. Immediately attempt a flat check to end any persistent acid, fire, poison, or void damage affecting you, and attempt a new saving throw against any poison affecting you. Poison can’t progress to a worse stage due to this saving throw. The potion counts as a particularly appropriate type of help against persistent acid, fire, poison, and void damage.
+_Quenching potion_ is a clear liquid that tastes like fresh, cool spring water. Drinking this potion or pouring it over yourself completely hydrates you and cleanses your system. Immediately attempt a flat check to end any [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent acid, fire, poison, or void damage]] affecting you, and attempt a new saving throw against any [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] affecting you. Poison can’t progress to a worse stage due to this saving throw. The potion counts as a particularly appropriate type of help against persistent acid, fire, poison, and void damage.
 
 *Source: Treasure Vault (Remastered) p. 90*

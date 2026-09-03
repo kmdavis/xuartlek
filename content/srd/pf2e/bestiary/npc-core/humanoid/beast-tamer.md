@@ -29,16 +29,16 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12"
-languages: "Common, Wildsong"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Wildsong|Wildsong]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +8, Circus Lore +6, Diplomacy +8, Intimidation +8, Nature +12, Performance +8, Survival +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/lore|Circus Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +8, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +12, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
 abilityMods: [2, 1, 2, 0, 4, 2]
 abilities_top:
   - name: "Wild Empathy"
-    desc: "The beast tamer can use Diplomacy to Make an Impression on animals and to make very simple Requests of them."
+    desc: "The beast tamer can use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] on [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] and to make very simple [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Requests]] of them."
   - name: "Items"
-    desc: "animal claw necklace (primal symbol), Leather Armor, Rope (50 feet), Whip"
+    desc: "animal claw necklace ([[srd/pf2e/compendium/equipment/adventuring-gear/primal-symbol|primal symbol]]), Leather Armor, Rope (50 feet), Whip"
 ac: 20
 armorclass:
   - name: "AC"
@@ -50,15 +50,15 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +12 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+6 bludgeoning"
+    desc: "⬻ fist +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+6 bludgeoning"
   - name: "Melee"
-    desc: "⬻ whip +12 (Disarm, Nonlethal, Reach, Trip) __Damage__ 1d4+6 slashing"
+    desc: "⬻ whip +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+6 slashing"
 abilities_bot:
   - name: "Animal Trick"
-    desc: "⬻ The beast tamer gains the support benefit appropriate to its trainedanimal companion. Unlike for an animal companion, this doesn't require the animal to use any of its actions. The benefit for a tiger is as follows: Until the start of the beast tamer's next turn, their Strikes that deal damage to a creature within the tiger's reach make the target off-guard until the end of the beast tamer's next turn. Ethical Taming Throughout the history of Golarion many entertainers thought very little about the conditions of the animals they kept. However, this is very rarely the case today. In fact, it is not uncommon that show animals are treated better than some of the performers. They are trained with positive reinforcement learning, and once safety can be assured, they live outside of a cage with the trainer themselves."
+    desc: "⬻ The beast tamer gains the support benefit appropriate to its trainedanimal companion. Unlike for an animal companion, this doesn't require the animal to use any of its actions. The benefit for a tiger is as follows: Until the start of the beast tamer's next turn, their Strikes that deal damage to a creature within the tiger's reach make the target [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of the beast tamer's next turn. Ethical Taming Throughout the history of Golarion many entertainers thought very little about the conditions of the animals they kept. However, this is very rarely the case today. In fact, it is not uncommon that show animals are treated better than some of the performers. They are trained with positive reinforcement learning, and once safety can be assured, they live outside of a cage with the trainer themselves."
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 22, attack +13 - __Cantrips (2nd)__ Light, Guidance, Ignition, Stabilize, Tangle Vine - __1st__ Grease, Jump, Runic Body - __2nd__ Animal Form, Animal Messenger, Speak with Animals __Druid Order Spells 1 Focus Point,__ DC 22 - __1st__ Heal Animal"
+    desc: "DC 22, attack +13 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/guidance|Guidance]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/stabilize|Stabilize]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/grease|Grease]], [[srd/pf2e/compendium/spells/rank-1/jump|Jump]], [[srd/pf2e/compendium/spells/rank-1/runic-body|Runic Body]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/animal-form|Animal Form]], [[srd/pf2e/compendium/spells/rank-2/animal-messenger|Animal Messenger]], [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]] __Druid Order Spells 1 Focus Point,__ DC 22 - __1st__ [[srd/pf2e/compendium/spells/focus/heal-animal|Heal Animal]]"
 sourcebook: "_NPC Core_, page 128."
 ```
 

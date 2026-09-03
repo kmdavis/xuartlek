@@ -19,8 +19,8 @@ source: "Impossible Magic"
 - **Price**: 3,000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (manipulate)
+- **Activate**: [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Slathering this reddish-gold balm over a suit of armor creates a swirling pattern of flame-like licks and curls. The balm remains on the armor for 1 hour, and the first time during that time that the wearer takes fire damage, the balm bursts into flame and the wearer gains the effects of the __fiery body__ spell for 1 minute.
+Slathering this reddish-gold balm over a suit of armor creates a swirling pattern of flame-like licks and curls. The balm remains on the armor for 1 hour, and the first time during that time that the wearer takes fire damage, the balm bursts into flame and the wearer gains the effects of the _[[srd/pf2e/compendium/spells/rank-7/fiery-body|_fiery body_]]_ spell for 1 minute.
 
 *Source: Impossible Magic p. 222*

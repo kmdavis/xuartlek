@@ -29,7 +29,7 @@ perception:
     desc: "Perception +12; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +13, Stealth +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13"
 abilityMods: [5, 3, 3, -4, 2, -2]
 ac: 21
 armorclass:
@@ -44,14 +44,14 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +13 __Damage__ 1d10+7 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ claw +13 (Agile) __Damage__ 1d8+7 slashing"
+    desc: "⬻ claw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d8+7 slashing"
 abilities_bot:
   - name: "Pounce"
-    desc: "⬻ The tiger Strides and makes a Strike at the end of that movement. If the tiger began this action hidden, it remains hidden until after this ability's Strike."
+    desc: "⬻ The tiger Strides and makes a Strike at the end of that movement. If the tiger began this action [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], it remains hidden until after this ability's Strike."
   - name: "Sneak Attack"
-    desc: "The tiger deals 1d6 extra precision damage to off-guard creatures."
+    desc: "The tiger deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
   - name: "Wrestle"
-    desc: "⬻ The tiger makes a claw Strike against a creature it is grabbing. If the attack hits, that creature is knocked prone."
+    desc: "⬻ The tiger makes a claw Strike against a creature it is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbing]]. If the attack hits, that creature is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
 sourcebook: "_Monster Core_, page 51."
 ```
 

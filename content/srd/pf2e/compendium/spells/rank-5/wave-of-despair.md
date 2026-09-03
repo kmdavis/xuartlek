@@ -19,7 +19,7 @@ source: "Player Core"
 
 - **Traditions**: Arcane, Occult
 - **Bloodline**: Diabolic
-- **Deities**: Ahriman, Chamiaholom, Charon, Gaasham, Groetus, Haborym, Mrtyu, Nyarlathotep (The Faceless Sphinx), Ozranvial, Sifkesh, The Lost Prince
+- **Deities**: [[srd/pf2e/compendium/character/deities#Ahriman|Ahriman]], Chamiaholom, Charon, Gaasham, Groetus, Haborym, Mrtyu, Nyarlathotep (The Faceless Sphinx), Ozranvial, Sifkesh, The Lost Prince
 - **Area**: 30-foot cone
 - **Defense**: Will
 - **Duration**: 1 or more rounds

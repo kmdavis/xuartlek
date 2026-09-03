@@ -14,7 +14,7 @@ Villains pursue selfish and cruel goals, trampling over anyone in their way.
 
 ### Members
 
-Champion of Rovagug (Creature 5), Conspiracist (Creature 0), Deluded Mob (Creature 4), Despot (Creature 5), Fiend Caller (Creature 3), Fleshwarper (Creature 7), Gang Leader (Creature 7), Hero Hunter (Creature 13), Interrogator (Creature 6), Mastermind (Creature 4), Propagandist (Creature 3), Reckless Scientist (Creature 6), Saboteur (Creature 2), Toady (Creature 0), Warmonger (Creature 10), Wealthy Vigilante (Creature 8), World Ender (Creature 16)
+[[srd/pf2e/bestiary/npc-core/humanoid/champion-of-rovagug|Champion of Rovagug]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/conspiracist|Conspiracist]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/deluded-mob|Deluded Mob]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/despot|Despot]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/fiend-caller|Fiend Caller]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/fleshwarper|Fleshwarper]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/gang-leader|Gang Leader]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/hero-hunter|Hero Hunter]] (Creature 13), [[srd/pf2e/bestiary/npc-core/humanoid/interrogator|Interrogator]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/mastermind|Mastermind]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/propagandist|Propagandist]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/reckless-scientist|Reckless Scientist]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/saboteur|Saboteur]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/toady|Toady]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/warmonger|Warmonger]] (Creature 10), [[srd/pf2e/bestiary/npc-core/humanoid/wealthy-vigilante|Wealthy Vigilante]] (Creature 8), [[srd/pf2e/bestiary/npc-core/humanoid/world-ender|World Ender]] (Creature 16)
 
 ### Golarion's Most Wanted
 
@@ -30,10 +30,10 @@ Villains who use the power of ideas— like the conspiracist and propagandist fo
 
 ### Recurring Villains
 
-Villains are just as devoted to their evil schemes as heroes are to justice or freedom. Villains make excellent recurring NPCs. The section on NPC advancement is especially useful for villains. To tell more varied stories, a GM can have the villains join up with new groups of followers or be under the employ of new benefactors, using their villainous skills for a new cause.
+Villains are just as devoted to their evil schemes as heroes are to justice or freedom. Villains make excellent recurring NPCs. The section on [[srd/pf2e/books/npc-core/relationships-and-advancement/npc-advancement|NPC advancement]] is especially useful for villains. To tell more varied stories, a GM can have the villains join up with new groups of followers or be under the employ of new benefactors, using their villainous skills for a new cause.
 
 ### Relative Villainy
 
-These characters are clearly set out as villains within the structure of a Pathfinder adventure's story, but that doesn't mean the people in the world see them as such universally. Villains often work best when otherwise well-meaning civilians are unable to see their malice, or when the villain is so charismatic or powerful they can bring others under their sway. You can use an influence encounter to play out the player characters trying to sway a powerful person away from the villain's influence, or even have both the PCs and the villain racing to influence the same person.
+These characters are clearly set out as villains within the structure of a Pathfinder adventure's story, but that doesn't mean the people in the world see them as such universally. Villains often work best when otherwise well-meaning civilians are unable to see their malice, or when the villain is so charismatic or powerful they can bring others under their sway. You can use an [[srd/pf2e/books/gm-core/chapter-4-subsystems/influence|influence encounter]] to play out the player characters trying to sway a powerful person away from the villain's influence, or even have both the PCs and the villain racing to influence the same person.
 
 *Source: NPC Core p. 152*

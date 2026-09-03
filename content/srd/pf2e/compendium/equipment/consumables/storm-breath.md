@@ -22,6 +22,6 @@ source: "Rage of Elements"
 - **Usage**: held in 1 hand
 - **Bulk**: L
 
-_Storm breaths_ are bottles of temperamental lightning captured during storms on the Plane of Air, releasing small charges of static energy any time they're touched. The first _storm breaths_ were created by Ranginori's faithful following the Elemental Lord's return from a long imprisonment, but the recipe has since been duplicated across the multiverse. After inhaling _storm breath_, you gain resistance 5 to both electricity and sonic. You can exhale the storm breath as a bolt of lightning, dealing 4d12 electricity damage to all creatures in a 30-foot line, with a DC 25 basic Reflex save.
+_Storm breaths_ are bottles of temperamental lightning captured during storms on the [[srd/pf2e/compendium/gm/planes#Plane of Air|Plane of Air]], releasing small charges of static energy any time they're touched. The first _storm breaths_ were created by Ranginori's faithful following the Elemental Lord's return from a long imprisonment, but the recipe has since been duplicated across the multiverse. After inhaling _storm breath_, you gain resistance 5 to both electricity and sonic. You can exhale the storm breath as a bolt of lightning, dealing 4d12 electricity damage to all creatures in a 30-foot line, with a DC 25 basic Reflex save.
 
 *Source: Rage of Elements p. 76*

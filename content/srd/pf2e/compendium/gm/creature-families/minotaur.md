@@ -18,6 +18,6 @@ A minotaur is a large humanoid with bovine features such as horns, hooves, and a
 
 ### Members
 
-Firehoof Minotaur (Creature 7), Minotaur Hunter (Creature 4)
+Firehoof Minotaur (Creature 7), [[srd/pf2e/bestiary/monster-core/beast/minotaur-hunter|Minotaur Hunter]] (Creature 4)
 
 *Source: Monster Core p. 232*

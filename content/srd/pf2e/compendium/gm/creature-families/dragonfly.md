@@ -14,7 +14,7 @@ Dragonflies hunt with a combination of agile power and deadly speed. In early li
 
 ### Members
 
-Giant Dragonfly (Creature 4), Giant Dragonfly Nymph (Creature 3)
+[[srd/pf2e/bestiary/monster-core-2/animal/giant-dragonfly|Giant Dragonfly]] (Creature 4), [[srd/pf2e/bestiary/monster-core-2/animal/giant-dragonfly-nymph|Giant Dragonfly Nymph]] (Creature 3)
 
 ### Dragonfly Species
 

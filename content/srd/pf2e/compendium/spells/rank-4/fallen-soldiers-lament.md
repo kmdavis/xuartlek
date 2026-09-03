@@ -25,7 +25,7 @@ source: "Battlecry!"
 - **Defense**: Will
 - **Duration**: sustained up to 1 minute
 
-You raise an illusion in the space of a fallen foe, crafting it to resemble a ghost of your target before parading it across the battlefield. Whenever you Cast this Spell or Sustain this spell, you move the illusion up to 30 feet and cause each enemy in a 30-foot emanation of the spirit to attempt a Will save against your spell DC. Enemies who fail become frightened 1 (or frightened 2 on a critical failure).
+You raise an illusion in the space of a fallen foe, crafting it to resemble a ghost of your target before parading it across the battlefield. Whenever you [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/activating-items#Cast a Spell|Cast this Spell]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain an Effect|Sustain]] this spell, you move the illusion up to 30 feet and cause each enemy in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] of the spirit to attempt a Will save against your spell DC. Enemies who fail become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (or frightened 2 on a critical failure).
 
 ---
 **Heightened (6th)** You can target a corpse of any size that has died within the past 8 hours.

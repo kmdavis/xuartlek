@@ -20,12 +20,12 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: worn
 
-Blessed by Nivi Rhombodazzle, this striking silver necklace is adorned with sparkling sapphires that draw the eye of any who see it. Over the years, this necklace has appeared in many paintings and illustrations, usually around the neck of a carefree and daring adventurer or a stylish rake gambling vast sums of coin. Finding this relic is always seen as a sign of great fortune to come, but when that luck runs out, the necklace is lost just as quickly. Wearing the relic, you quickly realize how distracting it can be, granting you a +1 item bonus on Deception checks made to Feint and on Games Lore checks made to gamble or determine the outcome of a game of chance.
+Blessed by Nivi Rhombodazzle, this striking silver necklace is adorned with sparkling sapphires that draw the eye of any who see it. Over the years, this necklace has appeared in many paintings and illustrations, usually around the neck of a carefree and daring adventurer or a stylish rake gambling vast sums of coin. Finding this relic is always seen as a sign of great fortune to come, but when that luck runs out, the necklace is lost just as quickly. Wearing the relic, you quickly realize how distracting it can be, granting you a +1 item bonus on [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks made to Feint and on Games Lore checks made to gamble or determine the outcome of a game of chance.
 
 ---
 
-**Minor Gifts**: beginner's luck, whammy
- **Major Gifts**: clean luck, perception filter
- **Grand Gift**: against all odds
+**Minor Gifts**: [[srd/pf2e/compendium/equipment/relics#Beginner's Luck|beginner's luck]], [[srd/pf2e/compendium/equipment/relics#Whammy|whammy]]
+ **Major Gifts**: [[srd/pf2e/compendium/equipment/relics#Clean Luck|clean luck]], perception filter
+ **Grand Gift**: [[srd/pf2e/compendium/equipment/relics#Against All Odds|against all odds]]
 
 *Source: Treasure Vault (Remastered) p. 204*

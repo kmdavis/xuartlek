@@ -22,7 +22,7 @@ Much like coins, gems and art objects are valuable currency worth their full Pri
 
 ## Gems
 
-Gems are naturally occurring minerals, typically in a crystalline form, or, in a few cases, organic material such as amber, coral, and pearls. All but the largest gems weigh about half as much as a coin, so about 2,000 gems is 1 Bulk. Unworked gems are worth half the Price of a finished gem and can serve as the minimum raw materials necessary to Craft the finished gem. Lesser semiprecious stones are level 0 items, moderate and greater semiprecious stones are 1st-level items, lesser and moderate precious stones are 4th-level items that require expert proficiency to Craft, and greater precious stones are 7th-level items that require master proficiency to Craft.
+Gems are naturally occurring minerals, typically in a crystalline form, or, in a few cases, organic material such as amber, coral, and pearls. All but the largest gems weigh about half as much as a coin, so about 2,000 gems is 1 Bulk. Unworked gems are worth half the Price of a finished gem and can serve as the minimum raw materials necessary to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] the finished gem. Lesser semiprecious stones are level 0 items, moderate and greater semiprecious stones are 1st-level items, lesser and moderate precious stones are 4th-level items that require expert proficiency to Craft, and greater precious stones are 7th-level items that require master proficiency to Craft.
 
 ## Table 2-23: Gems
 
@@ -88,7 +88,7 @@ Gems are naturally occurring minerals, typically in a crystalline form, or, in a
 
 These pieces of artwork have listed Prices, but might be more valuable to a collector or someone with a personal connection. Consider whether the PCs could discover this information and secure a greater reward. For instance, a dwarven crown might be worth 1,000 gp for its exquisite crafting, but even more to the dwarves who lost the crown of their first queen long ago.
 
-On the other hand, the materials used to make an art object, such as the paint and the canvas of a painting, are worth far less than the finished object. Some art objects on the following tables include uncommon or rare [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/materials#Precious Materials|precious materials]], though usually not in large enough amounts for other crafting purposes. If you're rolling randomly and don't want to give out an uncommon or rare material, roll again or modify the description (for instance, you might change a dawnsilver crown to a gold crown).
+On the other hand, the materials used to make an art object, such as the paint and the canvas of a painting, are worth far less than the finished object. Some art objects on the following tables include [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/rare|rare]] [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/materials#Precious Materials|precious materials]], though usually not in large enough amounts for other crafting purposes. If you're rolling randomly and don't want to give out an uncommon or rare material, roll again or modify the description (for instance, you might change a [[srd/pf2e/compendium/equipment/materials/dawnsilver-object-high-grade|dawnsilver]] crown to a gold crown).
 
 ## Table 2-24: Sample Art Objects
 

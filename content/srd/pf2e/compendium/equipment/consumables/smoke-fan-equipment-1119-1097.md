@@ -22,7 +22,7 @@ source: "Guns & Gears (Remastered)"
 - **Access**: Due to the use of technology, all gadgets are uncommon or rare, though inventors and regions with access to inventors have access to uncommon gadgets.
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Interact
 
-When you Activate a smoke fan, it creates a cloud of colored smoke. The smoke fills a 5-foot radius. The creator chooses the smoke's color when creating the smoke fan. Creatures within the smoke's area are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
+When you Activate a smoke fan, it creates a cloud of colored smoke. The smoke fills a 5-foot radius. The creator chooses the smoke's color when creating the smoke fan. Creatures within the smoke's area are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
 
 ### Smoke Fan
 

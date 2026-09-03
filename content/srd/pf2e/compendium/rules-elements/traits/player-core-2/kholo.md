@@ -14,6 +14,6 @@ source: "Player Core 2"
 
 `Kholo`  `Gnoll`
 
-A creature with this trait is a member of the kholo ancestry —humanoids that resemble hyenas. An ability with this trait can be used or selected only by kholos. An item with this trait is created and used by kholos.
+A creature with this trait is a member of the [[srd/pf2e/compendium/character/ancestries/kholo|kholo]] ancestry —humanoids that resemble [[srd/pf2e/compendium/gm/creature-families/hyena|hyenas]]. An ability with this trait can be used or selected only by kholos. An item with this trait is created and used by kholos.
 
 *Source: Player Core 2 p. 317*

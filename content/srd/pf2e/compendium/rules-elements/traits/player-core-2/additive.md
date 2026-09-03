@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Additive`
 
-Feats with the additive trait allow you to add special substances to alchemical consumables you create when you use Quick Alchemy to create a consumable (you can't use additives with quick vials). You can add only one additive to a single alchemical item, you can add an additive only once per round, and most additive abilities specify a subset of alchemical consumables you can add them to.
+Feats with the additive trait allow you to add special substances to alchemical consumables you create when you use [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Quick Alchemy|Quick Alchemy]] to create a consumable (you can't use additives with quick vials). You can add only one additive to a single alchemical item, you can add an additive only once per round, and most additive abilities specify a subset of alchemical consumables you can add them to.
 
 *Source: Player Core 2 p. 61*

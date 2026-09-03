@@ -31,10 +31,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; darkvision"
-languages: "Common, Kholo"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +13, Intimidation +9, Stealth +11, Survival +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
 abilityMods: [4, 2, 2, 0, 1, 0]
 abilities_top:
   - name: "Items"
@@ -53,18 +53,18 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ scimitar +14 (Forceful, Sweep) __Damage__ 1d6+7 slashing"
+    desc: "⬻ scimitar +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+7 slashing"
   - name: "Melee"
-    desc: "⬻ jaws +14 (Agile) __Damage__ 1d6+7 piercing"
+    desc: "⬻ jaws +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+7 piercing"
   - name: "Ranged"
-    desc: "⬻ composite shortbow +12 (deadly d10, Propulsive, range increment 60 feet, reload 0) __Damage__ 1d6+4 piercing"
+    desc: "⬻ composite shortbow +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 60 feet, reload 0) __Damage__ 1d6+4 piercing"
 abilities_bot:
   - name: "Bark Orders"
-    desc: "⬻ (Auditory, Linguistic) The kholo sergeant commands their allies to reposition. Any allies who hear and understand this order can use a reaction to Step."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]]) The kholo sergeant commands their allies to reposition. Any allies who hear and understand this order can use a reaction to [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]]."
   - name: "Pack Attack"
     desc: "A kholo sergeant deals 1d4 extra damage to any creature that's within reach of at least two of the kholo sergeant's allies."
   - name: "Rugged Travel"
-    desc: "A kholo ignores the first square of difficult terrain they move into each time they Step or Stride."
+    desc: "A kholo ignores the first square of difficult terrain they move into each time they [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]]."
 sourcebook: "_Monster Core_, page 209."
 ```
 

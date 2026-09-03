@@ -21,7 +21,7 @@ Category
 Consumable
 Note
 
-Glamorous Buckler
+[[srd/pf2e/compendium/equipment/shields/glamorous-buckler|Glamorous Buckler]]
 +1
 2
 Specific Shields
@@ -55,7 +55,7 @@ Other Worn Items
 No
 against undead
 
-Suit Of False Impression
+[[srd/pf2e/compendium/equipment/armor/suit-of-false-impression|Suit Of False Impression]]
 +1
 6
 Specific Magic Armor
@@ -76,13 +76,13 @@ Other Worn Items
 No
 to Create a Diversion
 
-Silvertongue Mutagen (Lesser)
+[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen-major|Silvertongue Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
 Yes
 
-Taleteller's Ring
+[[srd/pf2e/compendium/equipment/cursed-items/taletellers-ring|Taleteller's Ring]]
 +2
 9
 Cursed Items
@@ -103,21 +103,21 @@ Held Items
 No
 item bonus to Deception checks against intelligent undead
 
-Entertainer's Cincture
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture]]
 +2
 10
 Worn Items
 No
 Item bonus to Deception if selected
 
-Semaphore of Slanders
+[[srd/pf2e/compendium/equipment/held-items/semaphore-of-slanders|Semaphore of Slanders]]
 +2
 11
 Held Items
 No
 Item bonus to Deception checks to send false signals to enemy forces
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -131,7 +131,7 @@ Specific Magic Weapons
 No
 Create a Diversion
 
-Mask Of Allure
+[[srd/pf2e/compendium/equipment/apex-items/mask-of-allure|Mask Of Allure]]
 +2
 18
 Apex Items
@@ -145,7 +145,7 @@ Adventuring Gear
 Yes
 When faking an injury
 
-Silvertongue Mutagen (Moderate)
+[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen-major|Silvertongue Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
@@ -158,27 +158,27 @@ Other Worn Items
 No
 Item bonus to Deception checks to Impersonate
 
-Entertainer's Cincture (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture (Greater)]]
 +3
 17
 Worn Items
 No
 Item bonus to Deception if selected
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Silvertongue Mutagen (Greater)
+[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen-major|Silvertongue Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
 Yes
 
-Silvertongue Mutagen (Major)
+[[srd/pf2e/compendium/equipment/alchemical-items/silvertongue-mutagen-major|Silvertongue Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

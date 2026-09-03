@@ -14,7 +14,7 @@ You know about the natural world, and you command and train animals and magical 
 
 ### Nature Untrained General Actions
 
-- Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, and the Elemental Planes.
+- Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beasts]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plants]]), the [[srd/pf2e/compendium/gm/planes#First World|First World]], and the Elemental Planes.
 
 ### Nature Trained General Actions
 
@@ -45,34 +45,34 @@ Other
 No
 Item Bonus
 
-Staff Of Nature's Cunning
+[[srd/pf2e/compendium/equipment/staves/major-staff-of-natures-cunning|Staff Of Nature's Cunning]]
 +2
 7
 Staves
 No
 Item bonus to Nature checks to Recall Knowledge.
 
-Fulu Compendium
+[[srd/pf2e/compendium/equipment/held-items/fulu-compendium|Fulu Compendium]]
 +2
 9
 Held Items
 No
 Item bonus to determine a fulu's function or authenticity.
 
-Living Mantle
+[[srd/pf2e/compendium/equipment/worn-items/living-mantle-greater|Living Mantle]]
 +2
 10
 Worn Items
 No
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Greater Staff Of Nature's Cunning
+[[srd/pf2e/compendium/equipment/staves/major-staff-of-natures-cunning|Greater Staff Of Nature's Cunning]]
 +2
 11
 Staves
@@ -93,14 +93,14 @@ Other
 No
 Item Bonus
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Living Mantle (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/living-mantle-greater|Living Mantle (Greater)]]
 +3
 18
 Worn Items

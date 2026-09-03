@@ -19,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 2 hands
 - **Bulk**: 1
 
-This handheld snare drum is adorned with garish scenes of battle and triumph. When played, no matter what rhythm, it always gives the impression of a marching beat, invoking armies on the move. While playing the drums, you gain a +1 item bonus to Performance checks and a +5-foot status bonus to your Speed.
+This handheld snare drum is adorned with garish scenes of battle and triumph. When played, no matter what rhythm, it always gives the impression of a marching beat, invoking armies on the move. While playing the drums, you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks and a +5-foot status bonus to your Speed.
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
@@ -33,7 +33,7 @@ This handheld snare drum is adorned with garish scenes of battle and triumph. Wh
 
 ---
 
-**Cantrip** _shield_**1st** _force barrage_, _mystic armor_, _sure strike_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/shield|_shield_]]**1st** [[srd/pf2e/compendium/spells/rank-1/force-barrage|_force barrage_]], [[srd/pf2e/compendium/spells/rank-1/mystic-armor|_mystic armor_]], [[srd/pf2e/compendium/spells/rank-1/sure-strike|_sure strike_]]
 
 ### Drums of War (Greater)
 
@@ -43,7 +43,7 @@ This handheld snare drum is adorned with garish scenes of battle and triumph. Wh
 
 ---
 
-**2nd** _false vitality_, _noise blast_, _spiritual armament_**3rd** _haste_, _heroism_
+**2nd** [[srd/pf2e/compendium/spells/rank-2/false-vitality|_false vitality_]], [[srd/pf2e/compendium/spells/rank-2/noise-blast|_noise blast_]], [[srd/pf2e/compendium/spells/rank-2/spiritual-armament|_spiritual armament_]]**3rd** [[srd/pf2e/compendium/spells/rank-3/haste|_haste_]], [[srd/pf2e/compendium/spells/rank-3/heroism|_heroism_]]
 
 ### Drums of War (Major)
 
@@ -54,6 +54,6 @@ This handheld snare drum is adorned with garish scenes of battle and triumph. Wh
 ---
 
 The item bonus to Performance checks is +2. 
-**4th** _dispelling globe_, _tortoise and the hare_**5th** _dispelling globe_, _quicken time_, _synaptic pulse_
+**4th** [[srd/pf2e/compendium/spells/rank-4/dispelling-globe|_dispelling globe_]], _tortoise and the hare_**5th** _dispelling globe_, _quicken time_, [[srd/pf2e/compendium/spells/rank-5/synaptic-pulse|_synaptic pulse_]]
 
 *Source: Treasure Vault (Remastered) p. 136*

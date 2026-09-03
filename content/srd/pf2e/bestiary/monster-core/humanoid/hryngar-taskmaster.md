@@ -33,14 +33,14 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision"
-languages: "Common, Dwarven, Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +7, Deception +7, Intimidation +7, Occultism +5, Religion +6, Survival +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +5, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +6, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
 abilityMods: [2, 0, 2, 0, 2, 3]
 abilities_top:
   - name: "Items"
-    desc: "Chain Mail, Pick, religious symbol"
+    desc: "Chain Mail, Pick, [[srd/pf2e/compendium/equipment/armor#Gi|religious symbol]]"
 ac: 18
 armorclass:
   - name: "AC"
@@ -51,18 +51,18 @@ health:
     desc: "30"
 abilities_mid:
   - name: "Iron Mind"
-    desc: "Hryngar taskmasters automatically disbelieve all illusions of 1st rank or lower."
+    desc: "Hryngar taskmasters automatically disbelieve all [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusions]] of 1st rank or lower."
   - name: "Light Blindness"
     desc: ""
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pick +8 (fatal d10) __Damage__ 1d6+6 piercing"
+    desc: "⬻ pick +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]]) __Damage__ 1d6+6 piercing"
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 18 - __Cantrips (1st)__ Shield, Detect Magic - __1st__ Fear, Harm, Runic Weapon"
+    desc: "DC 18 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/fear|Fear]], [[srd/pf2e/compendium/spells/rank-1/harm|Harm]], [[srd/pf2e/compendium/spells/rank-1/runic-weapon|Runic Weapon]]"
   - name: "Occult Innate Spells"
-    desc: "DC 18 - __Cantrips (1st)__ Sigil - __2nd__ Blood Vendetta, Paranoia __Take Them Down!__ ⬻ The hryngar taskmaster smashes their maul into the ground and invokes Droskar'sname to rally their allies to action. All allied hryngars of equal or lower level that are within 20 feet of the hryngar taskmaster gain a +1 status bonus to attack rolls and damage rolls until the end of the hryngar taskmaster's next turn."
+    desc: "DC 18 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/sigil|Sigil]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/blood-vendetta|Blood Vendetta]], [[srd/pf2e/compendium/spells/rank-2/paranoia|Paranoia]] __Take Them Down!__ ⬻ The hryngar taskmaster smashes their maul into the ground and invokes Droskar'sname to rally their allies to action. All allied hryngars of equal or lower level that are within 20 feet of the hryngar taskmaster gain a +1 status bonus to attack rolls and damage rolls until the end of the hryngar taskmaster's next turn."
 sourcebook: "_Monster Core_, page 203."
 ```
 

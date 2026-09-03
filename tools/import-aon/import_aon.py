@@ -34,6 +34,7 @@ import requests
 from bs4 import BeautifulSoup, NavigableString, Tag
 
 from books import ALL_BOOKS, REMASTER_RULEBOOKS
+from linkmap import LinkMap
 
 BASE = "https://2e.aonprd.com"
 INDEX_URL = f"{BASE}/Rules.aspx"
@@ -253,6 +254,7 @@ class Converter:
         current: Path,
         vault_root: Path,
         external_links: bool,
+        links=None,
     ):
         self.link_map = link_map
         self.anchor_map = anchor_map
@@ -262,15 +264,16 @@ class Converter:
         self.external_links = external_links
         self.source: str | None = None
         self.unresolved = 0
+        self.resolved_external = 0
+        self.links = links
         self.skipped_children: list[int] = []
 
     # -- links -----------------------------------------------------------
 
     def _wikilink_target(self, path: Path, anchor: str | None) -> str:
         rel = path.relative_to(self.vault_root).with_suffix("")
+        # Keep "/index": Quartz resolves either form, Obsidian needs the file.
         target = str(rel)
-        if target.endswith("/index"):
-            target = target[: -len("/index")]
         return f"{target}#{anchor}" if anchor else target
 
     def resolve_link(self, href: str, text: str) -> str:
@@ -294,8 +297,16 @@ class Converter:
                 target = self._wikilink_target(path, anchor)
                 return f"[[{target}|{text}]]"
 
-        # Every other AoN database (Spells, Equipment, Conditions, ...) has no
-        # local page yet.
+        # Other AoN databases (Spells, Equipment, Conditions, ...) resolve
+        # through the shared map once the compendium and bestiary exist.
+        if self.links is not None:
+            m2 = re.search(r"/?(\w+)\.aspx\?ID=(\d+)", href)
+            if m2:
+                target = self.links.lookup(m2.group(1), int(m2.group(2)))
+                if target:
+                    self.resolved_external += 1
+                    return f"[[{target}|{text}]]"
+
         self.unresolved += 1
         if self.external_links:
             url = href if href.startswith("http") else f"{BASE}/{href.lstrip('/')}"
@@ -515,6 +526,13 @@ def main() -> int:
     vault_root = args.out.parents[2]  # .../content
     fetcher = Fetcher(args.cache, args.delay, args.refresh)
 
+    links = LinkMap(vault_root)
+    if links.load(args.cache.parent / ".snapshot" / "linkmap.json"):
+        print(f"Loaded {len(links)} link targets")
+    else:
+        links = None
+        print("No linkmap.json -- run build_linkmap.py first", file=sys.stderr)
+
     # --- Pass 1: index -------------------------------------------------
     print("Fetching rules index...")
     index_html = fetcher.get(INDEX_URL, "index")
@@ -565,6 +583,7 @@ def main() -> int:
     print(f"\nConverting to {args.out}...")
     written = 0
     unresolved_total = 0
+    resolved_external_total = 0
     for e in entries:
         page = pages.get(e.aon_id)
         if not page:
@@ -580,6 +599,7 @@ def main() -> int:
             current=e.path,
             vault_root=vault_root,
             external_links=args.external_links,
+            links=links,
         )
         # Skip the section's own <h1 class="title">; it becomes the page title.
         body_parts = []
@@ -589,6 +609,7 @@ def main() -> int:
             body_parts.append(conv.convert(child, 0))
         body = clean_text("".join(body_parts))
         unresolved_total += conv.unresolved
+        resolved_external_total += conv.resolved_external
 
         contents = None
         if e.is_chapter:
@@ -614,7 +635,8 @@ def main() -> int:
         (args.out / "_manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
 
     print(f"\nDone. {written} files{' (dry run)' if args.dry_run else ''}, {fetcher.network_calls} network fetches.")
-    print(f"Links to non-Rules AoN databases left as plain text: {unresolved_total}")
+    print(f"Cross-links into compendium/bestiary: {resolved_external_total} resolved")
+    print(f"Links left as plain text: {unresolved_total}")
     if not args.external_links and unresolved_total:
         print("  (re-run with --external-links to keep them as clickable AoN URLs)")
     return 0

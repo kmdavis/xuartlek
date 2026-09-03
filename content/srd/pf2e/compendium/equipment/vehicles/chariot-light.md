@@ -17,7 +17,7 @@ source: "GM Core"
 
 **Crew** 1 pilot
 
-**Piloting Check** Driving Lore (DC 14) or Nature (DC 16 to DC 24, depending on pulling creature)
+**Piloting Check** Driving Lore (DC 14) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 16 to DC 24, depending on pulling creature)
 
 ---
 

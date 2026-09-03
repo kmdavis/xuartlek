@@ -29,14 +29,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; darkvision"
-languages: "Gnomish, Petran, Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Crafting +9, Diplomacy +11, Nature +14, Stealth +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +9, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
 abilityMods: [1, 2, 3, 0, 5, 2]
 abilities_top:
   - name: "Items"
-    desc: "Hide Armor, Pick, Primal Symbol, _scroll of veil of privacy_, Sling (10 bullets)"
+    desc: "Hide Armor, Pick, [[srd/pf2e/compendium/equipment/adventuring-gear/primal-symbol|Primal Symbol]], [[srd/pf2e/compendium/spells/rank-3/veil-of-privacy|_scroll of veil of privacy_]], Sling (10 bullets)"
 ac: 22
 armorclass:
   - name: "AC"
@@ -48,14 +48,14 @@ health:
 speed: "15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pick +10 (fatal d10) __Damage__ 1d6 piercing"
+    desc: "⬻ pick +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]]) __Damage__ 1d6 piercing"
   - name: "Ranged"
-    desc: "⬻ sling +11 (Propulsive, range increment 50 feet) __Damage__ 1d6 bludgeoning"
+    desc: "⬻ sling +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet) __Damage__ 1d6 bludgeoning"
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 24, attack +14 - __Cantrips (3rd)__ Caustic Blast, Detect Magic, Ignition, Prestidigitation, Read Aura - __1st__ Ant Haul, Thunderstrike, Ventriloquism - __2nd__ Acid Grip, Deafness, Gecko Grip - __3rd__ Blindness, One with Stone"
+    desc: "DC 24, attack +14 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/caustic-blast|Caustic Blast]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/ant-haul|Ant Haul]], [[srd/pf2e/compendium/spells/rank-1/thunderstrike|Thunderstrike]], [[srd/pf2e/compendium/spells/rank-1/ventriloquism|Ventriloquism]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/acid-grip|Acid Grip]], [[srd/pf2e/compendium/spells/rank-2/deafness|Deafness]], [[srd/pf2e/compendium/spells/rank-2/gecko-grip|Gecko Grip]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/blindness|Blindness]], [[srd/pf2e/compendium/spells/rank-3/one-with-stone|One with Stone]]"
   - name: "Primal Innate Spells"
-    desc: "DC 21 - __1st__ Illusory Disguise"
+    desc: "DC 21 - __1st__ [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]]"
 sourcebook: "_Monster Core_, page 173."
 ```
 

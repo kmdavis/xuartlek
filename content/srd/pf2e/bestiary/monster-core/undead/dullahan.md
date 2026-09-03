@@ -31,14 +31,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; lifesense 60 feet"
-languages: "Common, Necril"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Intimidation +17, Stealth +13, Survival +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15"
 abilityMods: [6, 2, 2, 2, 3, 4]
 abilities_top:
   - name: "Items"
-    desc: "Full Plate, _+1 hatchet_, _+1 longsword_"
+    desc: "Full Plate, _+1 [[srd/pf2e/compendium/equipment/weapons/axe/hatchet|hatchet]]_, _+1 [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_"
 ac: 28
 armorclass:
   - name: "AC"
@@ -46,29 +46,29 @@ armorclass:
 hp: 95
 health:
   - name: "HP"
-    desc: "95 (fast healing 5); __Immunities__ bleed, fear, death effects, disease, poison, paralyzed, unconscious; __Weaknesses__ holy 5"
+    desc: "95 (fast healing 5); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
 abilities_mid:
   - name: "Frightful Presence"
-    desc: "(aura, emotion, fear, mental) 30 feet, DC 23"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 30 feet, DC 23"
   - name: "Reactive Strike"
     desc: "⬲"
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _keen longsword_ +18 (Magical, versatile P) __Damage__ 1d8+10 slashing"
+    desc: "⬻ _keen longsword_ +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d8+10 slashing"
   - name: "Melee"
-    desc: "⬻ _keen returning hatchet_ +17 (Agile, Sweep) __Damage__ 1d6+10 slashing"
+    desc: "⬻ _keen returning hatchet_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+10 slashing"
   - name: "Melee"
-    desc: "⬻ fist +18 (Agile, Nonlethal) __Damage__ 1d4+10 bludgeoning"
+    desc: "⬻ fist +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d4+10 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ _keen returning hatchet_ +14 (Agile, thrown 10 feet) __Damage__ 2d8+10 slashing"
+    desc: "⬻ _keen returning hatchet_ +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 2d8+10 slashing"
 abilities_bot:
   - name: "Head Hunter"
-    desc: "Any slashing weapon gains the _keen_ rune while a dullahan wields it, and any hatchet they wield gains the _returning_ rune as well. If the dullahan kills a creature with a critical hit using a slashing weapon, the target is decapitated as though the dullahan had used Reap on the target."
+    desc: "Any slashing weapon gains the [[srd/pf2e/compendium/equipment/runes/keen|_keen_]] rune while a dullahan wields it, and any [[srd/pf2e/compendium/equipment/weapons/axe/hatchet|hatchet]] they wield gains the [[srd/pf2e/compendium/equipment/runes/returning|_returning_]] rune as well. If the dullahan kills a creature with a critical hit using a slashing weapon, the target is decapitated as though the dullahan had used Reap on the target."
   - name: "Reap"
     desc: "⬺ The dullahan removes the head of a dead creature within reach. Each creature within the area of the dullahan's frightful presence must attempt a new save, even if it is temporarily immune."
   - name: "Summon Steed"
-    desc: "⬺ (Occult) The dullahan summons a war horse with elite adjustments and the fiend and unholy traits. This steed remains until it is slain, the dullahan Dismisses this effect, or the dullahan Summons a Steed again. Dullahan Legends In Ustalav, residents recite legends of a cadre of dullahans who drive the “Coach of the Silent,” a macabre funeral carriage pulled by a team of spectral horses. To the west, among the Lands of the Linnorm Kings, Ulfen warriors whisper of dullahans who hunt down their victims using packs of hellish ebony hounds. And along the western coasts of Garund, pirates and merchants alike insist on the existence of a black-sailed ship crewed entirely by headless undead sailors."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The dullahan summons a war horse with elite adjustments and the [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] traits. This steed remains until it is slain, the dullahan Dismisses this effect, or the dullahan Summons a Steed again. Dullahan Legends In Ustalav, residents recite legends of a cadre of dullahans who drive the “Coach of the Silent,” a macabre funeral carriage pulled by a team of spectral horses. To the west, among the Lands of the Linnorm Kings, Ulfen warriors whisper of dullahans who hunt down their victims using packs of hellish ebony hounds. And along the western coasts of Garund, pirates and merchants alike insist on the existence of a black-sailed ship crewed entirely by headless undead sailors."
 sourcebook: "_Monster Core_, page 134."
 ```
 

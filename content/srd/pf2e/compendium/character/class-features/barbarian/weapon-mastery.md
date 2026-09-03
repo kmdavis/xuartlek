@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 - **Class**: Barbarian
 
-Your rage makes you even more effective with the weapons you wield. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master.
+Your rage makes you even more effective with the weapons you wield. Your proficiency ranks for simple weapons, martial weapons, and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks increase to master.
 
 *Source: Player Core 2 p. 70*

@@ -13,7 +13,7 @@ source: "Guns & Gears (Remastered)"
 
 - **Class**: Inventor
 
-Your innovation is a creation barely held together by your own engineering, always on the edge of completely falling apart. Though this adds risk, it also means you can coax it to perform far beyond its design specifications using special unstable actions. 
+Your innovation is a creation barely held together by your own engineering, always on the edge of completely falling apart. Though this adds risk, it also means you can coax it to perform far beyond its design specifications using special [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/unstable|unstable]] actions. 
 
 While inventors can learn various unstable actions over their career, all at least know how to make their innovation Explode.
 

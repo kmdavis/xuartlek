@@ -23,6 +23,6 @@ source: "Treasure Vault (Remastered)"
 
 This porcelain or alabaster mask portrays an angelic visage of kindness and mercy.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") envision (fortune) **Frequency** once per day; **Trigger** You are about to roll a variable number of Hit Points you restore from an action with the healing trait; **Effect** Roll twice to determine the number of Hit Points you restore and take the higher result.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") envision ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]]) **Frequency** once per day; **Trigger** You are about to roll a variable number of Hit Points you restore from an action with the [[srd/pf2e/compendium/character/domains#Healing|healing]] trait; **Effect** Roll twice to determine the number of Hit Points you restore and take the higher result.
 
 *Source: Treasure Vault (Remastered) p. 154*

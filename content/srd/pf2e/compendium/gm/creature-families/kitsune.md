@@ -20,7 +20,7 @@ Kitsune are shapeshifting, fox-like humanoids who have been blessed by the spiri
 
 ### Members
 
-Kitsune Trickster (Creature 2)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/kitsune-trickster|Kitsune Trickster]] (Creature 2)
 
 ### The Lady of Foxes
 

@@ -31,7 +31,7 @@ perception:
     desc: "Perception +18; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +20, Survival +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +20, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +17"
 abilityMods: [7, 1, 6, -4, 3, 0]
 ac: 27
 armorclass:
@@ -44,10 +44,10 @@ health:
 speed: "35 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +21 (reach 20 feet) __Damage__ 2d12+7 slashing plus winnowing claws"
+    desc: "⬻ claw +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d12+7 slashing plus winnowing claws"
 abilities_bot:
   - name: "Stomp Pests"
-    desc: "⬺ The therizinosaurus stomps about, dealing 5d8 bludgeoning damage (DC 28 basic Reflex save) to each adjacent creature. Large or smaller creatures who fail their save are also knocked prone."
+    desc: "⬺ The therizinosaurus stomps about, dealing 5d8 bludgeoning damage (DC 28 basic Reflex save) to each adjacent creature. Large or smaller creatures who fail their save are also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
   - name: "Swiping Claws"
     desc: "⬺ The therizinosaurus makes two claw Strikes against different targets. Both attacks count toward its multiple attack penalty, but do not increase the penalty until it has made both attacks."
   - name: "Winnowing Claws"

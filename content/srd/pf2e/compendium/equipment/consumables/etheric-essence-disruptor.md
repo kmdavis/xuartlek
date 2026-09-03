@@ -22,7 +22,7 @@ source: "Guns & Gears (Remastered)"
 - **Access**: Due to the use of technology, all gadgets are uncommon or rare, though inventors and regions with access to inventors have access to uncommon gadgets.
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") Interact
 
-An etheric essence disruptor emits bursts of discordant ethereal energy through a process based upon Stasian etheric-spirit singers, though without the need for a Stasian coil. Etheric essence disruptors attempt to break down the workings of a spell that manipulates spiritual essence. Upon activation, attempt to counteract an active divine or occult spell within the listed range, with the listed counteract modifier and counteract level.
+An etheric essence disruptor emits bursts of discordant ethereal energy through a process based upon Stasian etheric-spirit singers, though without the need for a Stasian coil. Etheric essence disruptors attempt to break down the workings of a spell that manipulates spiritual essence. Upon activation, attempt to counteract an active [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]] spell within the listed range, with the listed counteract modifier and counteract level.
 
 ### Etheric Essence Disruptor (Lesser)
 

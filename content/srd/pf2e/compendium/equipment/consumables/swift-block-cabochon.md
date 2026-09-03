@@ -19,7 +19,7 @@ source: "GM Core"
 
 - **Price**: 70 gp
 - **Usage**: affixed to a shield
-- **Activate**: [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate)
+- **Activate**: [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You take damage from a physical attack while you don't have the affixed shield raised
 
 This clear quartz cabochon attaches to the center of your shield. When you activate the cabochon, use the Shield Block reaction even if you don't have the shield raised and even if you don't normally have that reaction. Increase the shield's Hardness by 5 against the triggering attack. The shield remains raised after the block.

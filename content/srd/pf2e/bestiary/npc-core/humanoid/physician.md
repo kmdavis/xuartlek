@@ -29,20 +29,20 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; (8 to notice ailments)"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Diplomacy +6, Medicine +12, Society +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +5"
 abilityMods: [-1, 1, 1, 4, 2, 2]
 abilities_top:
   - name: "Medical Specialist"
     desc: "For medical matters, the physician is a 4th-level challenge."
   - name: "Bedside Manner"
-    desc: "A physician has a +4 circumstance bonus to Diplomacy checks to Make an Impression on or make a Request of a diseased, poisoned, or wounded creature."
+    desc: "A physician has a +4 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] on or make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]] of a [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|diseased]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisoned]], or wounded creature."
   - name: "Doctor's Hand"
-    desc: "When the physician rolls a critical failure on a check to Treat Disease, Treat Poison, or Treat Wounds, they get a failure instead."
+    desc: "When the physician rolls a critical failure on a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat Disease]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Poison|Treat Poison]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]], they get a failure instead."
   - name: "Items"
-    desc: "minor elixir of life (2), Healer's Toolkit, medical textbook"
+    desc: "minor elixir of life (2), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], medical textbook"
 ac: 13
 armorclass:
   - name: "AC"
@@ -54,9 +54,9 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +5 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4–1 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4–1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ medical textbook +5 (Nonlethal, thrown 10 feet) __Damage__ 1d4–1 bludgeoning"
+    desc: "⬻ medical textbook +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d4–1 bludgeoning"
 sourcebook: "_NPC Core_, page 60."
 ```
 

@@ -31,7 +31,7 @@ perception:
     desc: "Perception +11; echolocation (precise) 30 ft"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Stealth +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11"
 abilityMods: [2, 4, 2, -3, 2, 1]
 abilities_top:
   - name: "Echolocation"
@@ -43,24 +43,24 @@ armorclass:
 hp: 48
 health:
   - name: "HP"
-    desc: "48; __Immunities__ petrification"
+    desc: "48; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrification]]"
 speed: "15 feet, fly 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +11 (Finesse) __Damage__ 2d8+2 piercing plus stone feast"
+    desc: "⬻ jaws +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 2d8+2 piercing plus stone feast"
 abilities_bot:
   - name: "Petrify Vapor"
-    desc: "⬺ (Earth, Primal) The stony bat breathes petrifying gas in a 15-foot cone, too thin to harm creatures in the area. However, it petrifies ambient moisture, raining down a cascade of tiny stones onto any creatures in the space directly below the cone. The falling rocks deal 4d6 bludgeoning damage (DC 20 basic Reflex save). The stony bat can't use Petrify Vapor again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The stony bat breathes petrifying gas in a 15-foot cone, too thin to harm creatures in the area. However, it petrifies ambient moisture, raining down a cascade of tiny stones onto any creatures in the space directly below the cone. The falling rocks deal 4d6 bludgeoning damage (DC 20 basic Reflex save). The stony bat can't use Petrify Vapor again for 1d4 rounds."
   - name: "Petrify Body Part"
-    desc: "⬺ (Earth, Primal) The stony bat breathes a puff of petrifying gas onto an adjacent creature, targeting a specific body part. The target must succeed at a DC 20 Fortitude save or be partially petrified for 1 minute, with an effect varying with the body part targeted."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The stony bat breathes a puff of petrifying gas onto an adjacent creature, targeting a specific body part. The target must succeed at a DC 20 Fortitude save or be partially petrified for 1 minute, with an effect varying with the body part targeted."
   - name: "Face"
-    desc: "The creature's face stiffens and a film of stone partially blocks its vision. It is dazzled."
+    desc: "The creature's face stiffens and a film of stone partially blocks its vision. It is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]]."
   - name: "Hand"
-    desc: "One of the creature's hands is petrified. It cannot Release items from that hand or use the hand for fine manipulation. Attack rolls with weapons held in that hand take a –2 status penalty."
+    desc: "One of the creature's hands is petrified. It cannot [[srd/pf2e/compendium/rules-elements/actions/player-core#Release|Release]] items from that hand or use the hand for fine manipulation. Attack rolls with weapons held in that hand take a –2 status penalty."
   - name: "Leg"
-    desc: "A patch of the creature's leg becomes inflexible and heavy. It takes a –10 status penalty to its Speed. If all of the creature's legs become petrified in this way, the creature's Speed is reduced down to 5 feet. At the GM's discretion, a creature with movement that doesn't rely on legs, such as creatures that Fly with wings, don't take a penalty to these other Speeds."
+    desc: "A patch of the creature's leg becomes inflexible and heavy. It takes a –10 status penalty to its Speed. If all of the creature's legs become petrified in this way, the creature's Speed is reduced down to 5 feet. At the GM's discretion, a creature with movement that doesn't rely on legs, such as creatures that [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] with wings, don't take a penalty to these other Speeds."
   - name: "Stone Feast"
-    desc: "The stony bat specifically targets petrified body parts, which it can consume, unlike flesh. The stony bat's jaws deal an extra 1d6 damage against a creature that has been petrified, either partially or completely, and ignore the Hardness of petrified creatures."
+    desc: "The stony bat specifically targets petrified body parts, which it can consume, unlike flesh. The stony bat's jaws deal an extra 1d6 damage against a creature that has been [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]], either partially or completely, and ignore the Hardness of petrified creatures."
 sourcebook: "_Howl of the Wild_, page 154."
 ```
 

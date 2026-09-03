@@ -24,7 +24,7 @@ You position particularly foul substances to splash over a creature. The first c
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature becomes sickened 1.
+**Success** The creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
 
 **Failure** The creature becomes sickened 2.
 

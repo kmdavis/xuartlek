@@ -35,7 +35,7 @@ perception:
     desc: "Perception +17; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +19"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19"
 abilityMods: [7, 0, 5, -5, 2, 0]
 ac: 27
 armorclass:
@@ -44,16 +44,16 @@ armorclass:
 hp: 140
 health:
   - name: "HP"
-    desc: "140 (void healing); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Resistances__ cold 10, electricity 10, fire 10, piercing 10, slashing 10"
+    desc: "140 (void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10, piercing 10, slashing 10"
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +20 (deadly d12, reach 20 feet) __Damage__ 2d12+9 piercing plus Grab"
+    desc: "⬻ jaws +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d12]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d12+9 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ foot +20 (reach 15 feet) __Damage__ 2d10+9 bludgeoning"
+    desc: "⬻ foot +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d10+9 bludgeoning"
 abilities_bot:
   - name: "Rib Skewer"
-    desc: "⬻ The tyrannosaurus skeleton bends down, attempting to skewer one adjacent creature on one of its massive ribs. The creature takes 2d10+9 piercing damage (DC 28 basic Reflex save). If the creature fails its save and is Medium or smaller, it's also impaled and stuck to the rib. It is immobilized but moves with the skeleton and takes 2d6 persistent bleed damage until it either Escapes or someone uses Force Open to break the rib (either is DC 28)."
+    desc: "⬻ The tyrannosaurus skeleton bends down, attempting to skewer one adjacent creature on one of its massive ribs. The creature takes 2d10+9 piercing damage (DC 28 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). If the creature fails its save and is Medium or smaller, it's also impaled and stuck to the rib. It is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] but moves with the skeleton and takes 2d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] until it either [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] or someone uses [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] to break the rib (either is DC 28)."
   - name: "Trample"
     desc: "⬽ Huge or smaller, foot, DC 28"
 sourcebook: "_Monster Core 2_, page 290."

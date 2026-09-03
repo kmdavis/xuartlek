@@ -16,7 +16,7 @@ source: "GM Core"
 
 - **Usage**: etched onto a weapon
 
-A _vitalizing_ weapon pulses with vital energy, dealing an extra 1d6 persistent vitality damage to undead. On a critical hit, the undead is also enfeebled 1 until the end of your next turn.
+A _vitalizing_ weapon pulses with vital energy, dealing an extra 1d6 persistent vitality damage to undead. On a critical hit, the undead is also [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 until the end of your next turn.
 
 ### Vitalizing
 
@@ -28,6 +28,6 @@ A _vitalizing_ weapon pulses with vital energy, dealing an extra 1d6 persistent 
 
 ---
 
-Increase the persistent vitality damage to 2d6. On a critical hit, the undead creature is enfeebled 1 and stupefied 1 as long as it has the persistent damage from this rune.
+Increase the persistent vitality damage to 2d6. On a critical hit, the undead creature is enfeebled 1 and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 as long as it has the persistent damage from this rune.
 
 *Source: GM Core p. 239*

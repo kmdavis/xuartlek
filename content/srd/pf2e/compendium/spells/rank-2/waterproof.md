@@ -21,7 +21,7 @@ source: "Rage of Elements"
 - **Target**: 1 object up to 10 Bulk
 - **Duration**: 1 hour
 
-You prevent the target item from taking on water or becoming wet for the duration of the spell. The hydrophobic properties of the spell also grant resistance 10 to acid and a +2 bonus to saves and DCs against damaging effects with the water or acid traits.
+You prevent the target item from taking on water or becoming wet for the duration of the spell. The hydrophobic properties of the spell also grant resistance 10 to acid and a +2 bonus to saves and DCs against damaging effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] traits.
 
 ---
 **Heightened (4th)** The duration is 1 day.

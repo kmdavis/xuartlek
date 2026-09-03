@@ -17,9 +17,9 @@ source: "Treasure Vault (Remastered)"
 `Alchemical`  `Consumable`  `Poison`
 
 - **Ammunition**: any
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Monster hunters favor bane ammunition that contains a capsule of reagents tailored to a particular type of creature— aberration, animal, beast, dragon, fey, giant, ooze, or both fungus and plant. Each type requires a different formula. When activated bane ammunition hits a target that has a trait matching the selected type, it takes persistent poison damage in addition to the damage the attack normally deals.
+Monster hunters favor bane ammunition that contains a capsule of reagents tailored to a particular type of creature— [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberration]], [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragon]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/giant|giant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/ooze|ooze]], or both [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungus]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]]. Each type requires a different formula. When activated bane ammunition hits a target that has a trait matching the selected type, it takes persistent poison damage in addition to the damage the attack normally deals.
 
 ### Bane Ammunition (Lesser)
 

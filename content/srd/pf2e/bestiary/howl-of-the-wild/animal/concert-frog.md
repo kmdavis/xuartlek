@@ -29,7 +29,7 @@ perception:
     desc: "Perception +16; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +16, Athletics +16, Performance +19, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +19, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [5, 3, 6, -4, 2, 4]
 ac: 27
 armorclass:
@@ -47,10 +47,10 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +18 __Damage__ 2d11+11 piercing"
   - name: "Ranged"
-    desc: "⬻ croak +17 (Sonic, range 30 feet) __Damage__ 2d8+9 sonic"
+    desc: "⬻ croak +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|Sonic]], range 30 feet) __Damage__ 2d8+9 sonic"
 abilities_bot:
   - name: "Conduct"
-    desc: "⬻ (Auditory, Mental, Primal) One of the froglets begins to sing, granting one of three effects to the concert frog and all allies within 60 feet until the beginning of the concert frog's next turn."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) One of the froglets begins to sing, granting one of three effects to the concert frog and all allies within 60 feet until the beginning of the concert frog's next turn."
   - name: "Red"
     desc: "Grants a +10-foot status bonus to their Speeds."
   - name: "Blue"

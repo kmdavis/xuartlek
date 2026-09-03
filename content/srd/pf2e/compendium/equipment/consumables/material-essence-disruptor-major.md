@@ -22,7 +22,7 @@ source: "Guns & Gears (Remastered)"
 - **Access**: Due to the use of technology, all gadgets are uncommon or rare, though inventors and regions with access to inventors have access to uncommon gadgets.
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") Interact
 
-A material essence disruptor emits bursts of disordered energy to break down the structure of a spell that manipulates material essence. Attempt to counteract an active arcane or primal spell within the listed range, with the listed counteract modifier and counteract level.
+A material essence disruptor emits bursts of disordered energy to break down the structure of a spell that manipulates material essence. Attempt to counteract an active [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]] spell within the listed range, with the listed counteract modifier and counteract level.
 
 ### Material Essence Disruptor (Lesser)
 

@@ -29,9 +29,9 @@ You channel the fury of divinity against your foes. You deal 4d10 spirit damage 
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is sickened 1.
+**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
 
-**Critical Failure** The creature takes full damage and is sickened 2; while it's sickened, it's also slowed 1.
+**Critical Failure** The creature takes full damage and is sickened 2; while it's sickened, it's also [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1.
 
 ---
 **Heightened (+1)** The damage increases by 1d10.

@@ -124,11 +124,11 @@ All gunslingers have a particular way they follow, a combination of philosophy a
 
 #### Slinger's Precision
 
-You have steady precision with guns and crossbows and can use weapons that incorporate them effectively. You deal an extra +2 precision damage with Strikes made using crossbows that don't have the repeating trait, and deal an extra 1d4 precision damage on Strikes with firearms that don't have the repeating trait.
+You have steady precision with guns and crossbows and can use weapons that incorporate them effectively. You deal an extra +2 precision damage with Strikes made using crossbows that don't have the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/repeating|repeating]] trait, and deal an extra 1d4 precision damage on Strikes with firearms that don't have the repeating trait.
 
  If you have gunslinging legend, you instead deal +3 additional precision damage with Strikes using crossbows that aren't repeating, and you deal an additional 1d6 precision damage with non-repeating firearm Strikes.
 
- If you are using a combination weapon whose ranged form is a firearm or crossbow, you use your proficiency with firearms and crossbows for attacks made with the melee portion of that weapon.
+ If you are using a [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/combination|combination]] weapon whose ranged form is a firearm or crossbow, you use your proficiency with firearms and crossbows for attacks made with the melee portion of that weapon.
 
 | | |
 | --- | --- |
@@ -143,7 +143,7 @@ At 3rd level and every 2 levels thereafter, you gain a skill increase. You can u
 
 #### Stubborn
 
-You don't like being told what to do, and you don't give up. Your proficiency rank for Will saves increases to expert. When you fail, but don't critically fail, a Will save against an effect that would give you the controlled condition, you can attempt a second save against the effect at the start of your next turn. On a successful second save, the controlled condition ends, though any other effects remain. As normal, failing this second save doesn't allow you to attempt a third save on the subsequent turn.
+You don't like being told what to do, and you don't give up. Your proficiency rank for Will saves increases to expert. When you fail, but don't critically fail, a Will save against an effect that would give you the [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] condition, you can attempt a second save against the effect at the start of your next turn. On a successful second save, the controlled condition ends, though any other effects remain. As normal, failing this second save doesn't allow you to attempt a third save on the subsequent turn.
 
 | | |
 | --- | --- |

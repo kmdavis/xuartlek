@@ -19,6 +19,6 @@ source: "Impossible Magic"
 - **Usage**: worn cloak
 - **Bulk**: L
 
-This black velvet cloak is featureless and very soft to the touch. Upon wearing it for the first time, you’re momentarily overwhelmed with a sense of comfort and coziness. While wearing this cloak you can comfortably rest in any space, so long as it’s not wet or particularly hazardous. While sleeping in this cloak, you take only a –2 status penalty to auditory Perception checks, rather than a –4 status penalty.
+This black velvet cloak is featureless and very soft to the touch. Upon wearing it for the first time, you’re momentarily overwhelmed with a sense of comfort and coziness. While wearing this cloak you can comfortably rest in any space, so long as it’s not wet or particularly hazardous. While sleeping in this cloak, you take only a –2 status penalty to [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] checks, rather than a –4 status penalty.
 
 *Source: Impossible Magic p. 244*

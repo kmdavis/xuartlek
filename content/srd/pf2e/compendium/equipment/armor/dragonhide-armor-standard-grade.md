@@ -16,7 +16,7 @@ source: "Player Core 2"
 
 - **Usage**: worn armor
 - **Bulk**: L varies by armor
-- **Base Material**: Dragonhide
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dragonhide-object-high-grade|Dragonhide]]
 
 Dragonhide armor is immune to one damage type based on the type of dragon it's made from. Wearing armor made from dragonhide also grants you a +1 circumstance bonus to your AC and saving throws against attacks and spells that deal the corresponding damage type. 
 

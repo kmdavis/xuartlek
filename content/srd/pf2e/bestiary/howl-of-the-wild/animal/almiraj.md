@@ -31,7 +31,7 @@ perception:
     desc: "Perception +14; tremorsense (imprecise) 40 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +13, Stealth +10, Survival +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
 abilityMods: [5, 3, 4, -4, 0, 3]
 ac: 20
 armorclass:
@@ -43,9 +43,9 @@ health:
     desc: "63"
 abilities_mid:
   - name: "Frightful Presence"
-    desc: "(aura, emotion, fear, mental) 5 feet, DC 22. Creatures that critically fail are also fleeing for 1 round."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 5 feet, DC 22. Creatures that critically fail are also [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] for 1 round."
   - name: "Reactive Strike"
-    desc: "⬲ Horn only. Fleeing creatures take an additional 1d6 persistent bleed damage. On a critical hit, the target is knocked prone."
+    desc: "⬲ Horn only. [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|Fleeing]] creatures take an additional 1d6 persistent bleed damage. On a critical hit, the target is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
 speed: "35 feet, burrow 25 feet"
 attacks:
   - name: "Melee"
@@ -53,22 +53,22 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +13 __Damage__ 2d6+7 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ claw +13 (Agile) __Damage__ 2d4+7 slashing"
+    desc: "⬻ claw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d4+7 slashing"
 abilities_bot:
   - name: "Final Shake"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The almiraj has a creature grabbed"
+    desc: "The almiraj has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]"
   - name: "Effect"
-    desc: "The almiraj clamps its jaws down on the creature and shakes it vigorously, attempting to finish it off. The creature takes 2d6 bludgeoning damage and must succeed at a DC 20 Fortitude save or become enfeebled 1. Small or smaller creatures take a –2 circumstance penalty to their save."
+    desc: "The almiraj clamps its jaws down on the creature and shakes it vigorously, attempting to finish it off. The creature takes 2d6 bludgeoning damage and must succeed at a DC 20 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]]. Small or smaller creatures take a –2 circumstance penalty to their save."
   - name: "Goring Charge"
     desc: "⬺ The almiraj lowers its head and moves with ferocity toward its selected prey. The almiraj Strides twice. If it ends its movement within melee reach of at least one enemy, it makes a horn Strike against that enemy. This Strike deals an additional 1d6 persistent bleed damage."
   - name: "Into the Earth"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The almiraj has a Medium or smaller creature grabbed"
+    desc: "The almiraj has a Medium or smaller creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]"
   - name: "Effect"
-    desc: "The almiraj attempts to flee with its meal, burrowing into the ground. The grabbed creature must succeed at a DC 20 Reflex save or be dragged beneath the ground as the almiraj Burrows up to its Speed. If the target succeeds at its save, it Escapes and the almiraj continues burrowing as normal; if it fails, the grabbed creature must hold its breath or begin suffocating under the dirt."
+    desc: "The almiraj attempts to flee with its meal, burrowing into the ground. The grabbed creature must succeed at a DC 20 Reflex save or be dragged beneath the ground as the almiraj [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrows]] up to its Speed. If the target succeeds at its save, it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] and the almiraj continues burrowing as normal; if it fails, the grabbed creature must hold its breath or begin [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Mounted Defenses|suffocating]] under the dirt."
 sourcebook: "_Howl of the Wild_, page 124."
 ```
 

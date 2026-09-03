@@ -35,11 +35,11 @@ perception:
     desc: "Perception +8; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18"
 abilityMods: [7, -1, 4, -5, 0, -2]
 abilities_top:
   - name: "Slow"
-    desc: "A zombie is permanently slowed 1 and can't use reactions."
+    desc: "A zombie is permanently [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] and can't use reactions."
 ac: 21
 armorclass:
   - name: "AC"
@@ -47,16 +47,16 @@ armorclass:
 hp: 160
 health:
   - name: "HP"
-    desc: "160 (void healing); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Weaknesses__ slashing 10, vitality 10"
+    desc: "160 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Weaknesses__ slashing 10, vitality 10"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ hunk of meat +17 (reach 15 feet) __Damage__ 2d10+9 bludgeoning"
+    desc: "⬻ hunk of meat +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d10+9 bludgeoning"
   - name: "Ranged"
     desc: "⬻ corpse +17 (Brutal, range increment 30 feet) __Damage__ 2d6+9 bludgeoning"
 abilities_bot:
   - name: "Corpse Throwing"
-    desc: "A zombie hulk can throw Medium or smaller corpses at foes. They can also throw Medium or smaller zombies for this purpose, who take just as much damage as the target they hit. A zombie that survives being thrown falls prone."
+    desc: "A zombie hulk can throw Medium or smaller corpses at foes. They can also throw Medium or smaller zombies for this purpose, who take just as much damage as the target they hit. A zombie that survives being thrown falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
   - name: "Wide Swing"
     desc: "⬻ The zombie hulk makes two hunk of meat Strikes against different targets within its reach."
 sourcebook: "_Monster Core_, page 357."

@@ -11,7 +11,7 @@ entries: 3
 
 ## Consent, Safety, and In-Game Relationships  *Sidebar*
 
-- **Parent page**: Connection Subsystem
+- **Parent page**: [[srd/pf2e/books/npc-core/relationships-and-advancement/connection-subsystem|Connection Subsystem]]
 
 Games that focus heavily on relationships come with additional considerations around consent and player safety. In particular, games that focus on roleplaying dating and flirting can blur the line between acting out a scene and using a scene to flirt in real life. Your group should consider the feelings of all players and any bystanders to the game, not just those engaging in romantic arcs or roleplaying. 
 
@@ -21,7 +21,7 @@ Games that focus heavily on relationships come with additional considerations ar
 
 ### Check-Ins And Calibrations
 
- Participants—Game Masters and players—should never be forced into roleplaying a romantic relationship without their consent. When it seems like romantic relationships may come up in the game, all participants should discuss their boundaries. This should include both the type of relationship they're interested in exploring in the game and the amount of detail involved. For example, a player may want to have an NPC as a background relationship that rarely comes into the spotlight, while another player may want to be more detailed. When considering these boundaries, consider the relationship between the players and the level of trust. Specific safety tools can be helpful in defining these boundaries and providing a safety net during play.
+ Participants—Game Masters and players—should never be forced into roleplaying a romantic relationship without their consent. When it seems like romantic relationships may come up in the game, all participants should discuss their boundaries. This should include both the type of relationship they're interested in exploring in the game and the amount of detail involved. For example, a player may want to have an NPC as a background relationship that rarely comes into the spotlight, while another player may want to be more detailed. When considering these boundaries, consider the relationship between the players and the level of trust. [[srd/pf2e/books/gm-core/chapter-1-running-the-game/a-welcoming-environment#The Pathfinder Baseline|Specific safety tools]] can be helpful in defining these boundaries and providing a safety net during play.
 
  Out-of-character check-ins and calibrations are useful after big moments between two characters (such as a rejection of an advance or a pivotal moment that makes a relationship more intense). However, they should also occur any time events in a game seem to affect the relationship between players. Check-ins can occur mid-scene, particularly if a participant is reacting negatively to the way the game is playing out. Since the excitement of playing can influence emotions, it's also good practice to do occasional check-ins outside of gaming sessions.
 
@@ -31,7 +31,7 @@ Games that focus heavily on relationships come with additional considerations ar
 
 ## Riding Animal Companions  *Sidebar*
 
-- **Parent page**: Animal Companions
+- **Parent page**: [[srd/pf2e/books/npc-core/creature-companions/animal-companions|Animal Companions]]
 
 An NPC can ride a creature that works alongside them as long as the creature is at least one size larger than the rider. Generally, a creature that is carrying a rider can use only its land Speed and can't grant its support benefit. However, certain creatures that have been trained to be ridden, such as horses and riding drakes, ignores those restrictions.
 
@@ -39,7 +39,7 @@ An NPC can ride a creature that works alongside them as long as the creature is 
 
 ## Specialist Levels  *Sidebar*
 
-- **Parent page**: Combat Power
+- **Parent page**: [[srd/pf2e/books/npc-core/introduction/adjusting-creatures#Combat Power|Combat Power]]
 
 The level on an NPC's stat block is their level for a combat encounter. But many of these NPCs are primarily noncombatants much more skilled in their occupation than in combat. Specialist NPCs' stat blocks include an entry noting that they have a higher level when the PCs have to compete against them in their area of expertise.
 

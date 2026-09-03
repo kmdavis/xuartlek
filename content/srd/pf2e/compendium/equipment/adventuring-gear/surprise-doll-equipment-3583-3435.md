@@ -30,6 +30,6 @@ This doll contains a hidden compartment or pouch capable of holding a single obj
 
 ---
 
-Hiding an object inside this beautifully crafted surprise doll grants you a +1 item bonus to Stealth checks made to Conceal an Item, as the compartment is particularly well-hidden and weighted to ensure the doll doesn't feel off-balance with an item inside.
+Hiding an object inside this beautifully crafted surprise doll grants you a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks made to [[srd/pf2e/compendium/rules-elements/actions/player-core#Conceal an Object|Conceal an Item]], as the compartment is particularly well-hidden and weighted to ensure the doll doesn't feel off-balance with an item inside.
 
 *Source: NPC Core p. 26*

@@ -19,7 +19,7 @@ source: "Battlecry!"
 - **Price**: 300 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 A _blade phantom’s guide_ is a metal rectangle, often on a chain, etched with an image of a warrior in a fighting stance. When you apply a _blade phantom’s guide_ to a weapon, it summons a spiritual fragment of a warrior who was adept with that weapon. For 1 minute, you treat your proficiency with that weapon as equal to your highest weapon proficiency. This effect cannot affect a weapon whose level is higher than the _blade phantom’s guide_ (11th).
 

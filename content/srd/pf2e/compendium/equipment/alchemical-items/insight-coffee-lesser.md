@@ -18,10 +18,10 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 A popular choice for investigators studying alchemy, insight coffee is infused with alchemical flavoring during percolation. For 1 hour after you drink an insight coffee, you use d8s instead of d6s for your extra damage from the strategic strike class feature, if you have it. You also gain an item bonus to checks to Recall Knowledge with a skill determined by the blend chosen when the item is crafted. 
-**Double Coffee** Religion**Hazelnut** Nature**Mocha** Arcana**Vanilla** Society**Pumpkin Spice** Occultism**Toffee** Medicine
+**Double Coffee** [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]**Hazelnut** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]**Mocha** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]**Vanilla** [[srd/pf2e/compendium/rules-elements/skills/society|Society]]**Pumpkin Spice** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]**Toffee** [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]]
 
 ### Insight Coffee (Lesser)
 

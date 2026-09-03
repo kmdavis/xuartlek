@@ -29,14 +29,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; darkvision"
-languages: "Common, Goblin"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "Crafting +12, Society +8, Stealth +11, Survival +10, Thievery +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +9"
 abilityMods: [1, 3, 2, 2, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "Big Boom Gun (10 rounds), bundle of fireworks, dogslicer, Leather Armor"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/firearm/big-boom-gun|Big Boom Gun]] (10 rounds), bundle of fireworks, dogslicer, Leather Armor"
 ac: 21
 armorclass:
   - name: "AC"
@@ -57,14 +57,14 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dogslicer +12 (Agile, Backstabber, Finesse) __Damage__ 2d6+3 slashing"
+    desc: "⬻ dogslicer +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 2d6+3 slashing"
   - name: "Melee"
-    desc: "⬻ jaws +12 (Unarmed) __Damage__ 1d8+3 piercing"
+    desc: "⬻ jaws +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d8+3 piercing"
   - name: "Ranged"
-    desc: "⬻ big boom gun +14 (cobbled; fatal d12; modular B, or S; range 20 feet; reload 1) __Damage__ 2d6+2 modular"
+    desc: "⬻ big boom gun +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|cobbled; fatal d12; modular B]], or S; range 20 feet; reload 1) __Damage__ 2d6+2 modular"
 abilities_bot:
   - name: "Fireworks Barrage"
-    desc: "⬺ (Manipulate)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"
   - name: "Requirement"
     desc: "The goblin scavenger has a free hand"
   - name: "Effect"
@@ -74,11 +74,11 @@ abilities_bot:
   - name: "Success"
     desc: "The creature takes half damage."
   - name: "Failure"
-    desc: "The creature takes full damage and is dazzled and deafened for 1 round."
+    desc: "The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] and [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 round."
   - name: "Critical Failure"
-    desc: "As failure, except the creature is also stunned 1."
+    desc: "As failure, except the creature is also [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]]."
   - name: "One Person's Junk"
-    desc: "The goblin scavenger intuitively knows how to make use of junk. When they use a weapon with the goblin trait or an improvised weapon, they do an additional die of damage (already included in the Strikes above)."
+    desc: "The goblin scavenger intuitively knows how to make use of junk. When they use a weapon with the [[srd/pf2e/compendium/rules-elements/traits/player-core/goblin|goblin]] trait or an improvised weapon, they do an additional die of damage (already included in the Strikes above)."
 sourcebook: "_NPC Core_, page 186."
 ```
 

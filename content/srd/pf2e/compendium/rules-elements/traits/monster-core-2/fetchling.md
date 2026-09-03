@@ -13,6 +13,6 @@ source: "Monster Core 2"
 
 `Fetchling`
 
-A creature with this trait is a member of the fetchling ancestry. Fetchlings were once human, but generations of life in the Netherworld have transformed them.
+A creature with this trait is a member of the fetchling ancestry. Fetchlings were once [[srd/pf2e/compendium/character/ancestries/human|human]], but generations of life in [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]] have transformed them.
 
 *Source: Monster Core 2 p. 364*

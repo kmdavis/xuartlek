@@ -19,9 +19,9 @@ source: "Rage of Elements"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-On the Elemental Plane of Air, small clouds of differing colors can sometimes float separately from other cloud formations. Clever people can spin these clouds into small handfuls, creating a magical bundle of elemental power. Unlike most bottled breath, spun clouds don't have any effect on you while you hold them in your lungs, but you can exhale the cloud as a single action. When exhaled, the cloud flows out and expands into a 20-foot burst within 60 feet of you. The cloud dissipates after 1 minute.
+On the Elemental [[srd/pf2e/compendium/gm/planes#Plane of Air|Plane of Air]], small clouds of differing colors can sometimes float separately from other cloud formations. Clever people can spin these clouds into small handfuls, creating a magical bundle of elemental power. Unlike most bottled breath, spun clouds don't have any effect on you while you hold them in your lungs, but you can exhale the cloud as a single action. When exhaled, the cloud flows out and expands into a 20-foot burst within 60 feet of you. The cloud dissipates after 1 minute.
 
 ### Spun Cloud (Black)
 
@@ -31,7 +31,7 @@ On the Elemental Plane of Air, small clouds of differing colors can sometimes fl
 
 ---
 
-A dark storm cloud conceals creatures within it. Creatures outside the cloud are concealed to creatures within it.
+A dark storm cloud conceals creatures within it. Creatures outside the cloud are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to creatures within it.
 
 ### Spun Cloud (Blue)
 
@@ -51,7 +51,7 @@ A blue cloud protects against lightning. Creatures gain resistance 5 to electric
 
 ---
 
-A green cloud smells terrible, making those inside ill. Any creature that ends its turn in the cloud must succeed at a DC 25 Fortitude save or be sickened 1 (or sickened 2 on a critical failure). Regardless of the result of its save, the creature becomes temporarily immune for 24 hours. This is an olfactory poison effect.
+A green cloud smells terrible, making those inside ill. Any creature that ends its turn in the cloud must succeed at a DC 25 Fortitude save or be sickened 1 (or sickened 2 on a critical failure). Regardless of the result of its save, the creature becomes temporarily immune for 24 hours. This is an [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]] [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] effect.
 
 ### Spun Cloud (Red)
 
@@ -61,7 +61,7 @@ A green cloud smells terrible, making those inside ill. Any creature that ends i
 
 ---
 
-A red cloud terrifies those it surrounds. Any creature in the cloud, or that later enters the cloud, must succeed at a DC 24 Will save or become frightened 2 (or frightened 3 on a critical failure). Regardless of the result of its save, the creature becomes temporarily immune for 24 hours. This is an emotion, fear, and mental effect.
+A red cloud terrifies those it surrounds. Any creature in the cloud, or that later enters the cloud, must succeed at a DC 24 Will save or become frightened 2 (or frightened 3 on a critical failure). Regardless of the result of its save, the creature becomes temporarily immune for 24 hours. This is an [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect.
 
 ### Spun Cloud (White)
 

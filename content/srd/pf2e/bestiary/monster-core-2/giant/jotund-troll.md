@@ -37,10 +37,10 @@ modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; darkvision"
-languages: "Jotun"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +29, Intimidation +27"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +29, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +27"
 abilityMods: [8, 4, 8, -1, 6, 4]
 ac: 35
 armorclass:
@@ -49,7 +49,7 @@ armorclass:
 hp: 360
 health:
   - name: "HP"
-    desc: "360 , regeneration 40 (deactivated by electricity or fire); __Weaknesses__ electricity 15, fire 15"
+    desc: "360 , regeneration 40 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]); __Weaknesses__ electricity 15, fire 15"
 abilities_mid:
   - name: "Head Regrowth"
     desc: "A jotund troll's regeneration can regrow severed heads. After regaining Hit Points from regeneration, the jotund troll attempts a DC 8 flat check. On a success, one missing head is fully restored; on a critical success, two missing heads are fully restored. If a jotund troll loses their last remaining head, they die immediately."
@@ -58,28 +58,28 @@ abilities_mid:
   - name: "Furious Roar"
     desc: "⬲"
   - name: "Trigger"
-    desc: "The jotund troll takes electricity or fire damage"
+    desc: "The jotund troll takes [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] damage"
   - name: "Effect"
-    desc: "The jotund troll uses their Cacophonous Roar and, if they're aware of the damage's source, can Stride toward it. If the jotund troll has persistent fire damage, they attempt a DC 15 flat check to remove it."
+    desc: "The jotund troll uses their Cacophonous Roar and, if they're aware of the damage's source, can [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] toward it. If the jotund troll has [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire damage]], they attempt a DC 15 flat check to remove it."
   - name: "Reactive Strike"
     desc: "⬲"
 speed: "30 feet, climb 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +29 (reach 15 feet) __Damage__ 3d12+14 piercing plus Grab"
+    desc: "⬻ jaws +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 3d12+14 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ claw +29 (Agile, reach 15 feet) __Damage__ 3d10+14 slashing"
+    desc: "⬻ claw +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 3d10+14 slashing"
 abilities_bot:
   - name: "Cacophonous Roar"
-    desc: "⬻ (Auditory, emotion, incapacitation, mental, occult) The jotund troll roars from all their heads mystically distorting the listener's mind. Each nontroll creature in a 100-foot emanation must attempt a DC 34 Will save."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) The jotund troll roars from all their heads mystically distorting the listener's mind. Each nontroll creature in a 100-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must attempt a DC 34 Will save."
   - name: "Critical Success"
     desc: "The creature is unaffected and is temporarily immune for 24 hours."
   - name: "Success"
-    desc: "The creature is stupefied 1 for 1 round."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 for 1 round."
   - name: "Failure"
     desc: "The creature is stupefied 2 for 1 round."
   - name: "Critical Failure"
-    desc: "The creature is confused for 1 round."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round."
   - name: "Fast Swallow"
     desc: "⬲"
   - name: "Trigger"

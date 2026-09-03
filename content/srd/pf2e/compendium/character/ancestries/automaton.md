@@ -41,7 +41,7 @@ Due to the disparate fates of automatons, many of them lead solitary lives. Ther
 
 ### Alignment and Religion
 
-The people of the Jistka Imperium saw the aeons of Axis as ideal beings whose behavior was worthy of emulation. Since many automatons contain Jistkan souls, many automatons maintain a philosophy of order and attempt to avoid disrupting societies around them. Few automatons act particularly benevolent or maliciously, though the independence and isolation common among automatons occasionally leads to kind or cruel individuals. Automatons tend to worship gods of technology or magic like Brigh and Nethys, or various monitor demigods. Worship of Irori and Pharasma are somewhat common among automatons as well. Pharasmin automatons likely learn how to release their souls from their cores, and often choose to do so. Though they are ancient beings from long before the time of Casandalee, a small number of automatons have recognized the new artificial goddess as a kindred spirit.
+The people of the Jistka Imperium saw the aeons of [[srd/pf2e/compendium/gm/planes#Axis|Axis]] as ideal beings whose behavior was worthy of emulation. Since many automatons contain Jistkan souls, many automatons maintain a philosophy of order and attempt to avoid disrupting societies around them. Few automatons act particularly benevolent or maliciously, though the independence and isolation common among automatons occasionally leads to kind or cruel individuals. Automatons tend to worship gods of technology or magic like Brigh and Nethys, or various monitor demigods. Worship of Irori and Pharasma are somewhat common among automatons as well. Pharasmin automatons likely learn how to release their souls from their cores, and often choose to do so. Though they are ancient beings from long before the time of Casandalee, a small number of automatons have recognized the new artificial goddess as a kindred spirit.
 
 **Popular Edicts** dedicate yourself to your body’s purpose, help other automatons find release from their bodies when asked, minimize others’ sightings of you, travel to other planes 
 
@@ -63,7 +63,7 @@ An automaton typically keeps the name they had before their transformation into 
 
 #### Enhancements
 
- Automatons are built to receive enhancements and modifications to their bodies. Many automaton ancestry feats have an “Enhancement” line that represents a possible augmentation you can acquire. You don't gain the benefits of the enhancement unless you take a feat that grants you those benefits, such as Lesser Augmentation. You can only gain the enhancements of a given feat once.
+ Automatons are built to receive enhancements and modifications to their bodies. Many automaton ancestry feats have an “Enhancement” line that represents a possible augmentation you can acquire. You don't gain the benefits of the enhancement unless you take a feat that grants you those benefits, such as [[srd/pf2e/compendium/feats/guns-gears-remastered/ancestry/lesser-augmentation|Lesser Augmentation]]. You can only gain the enhancements of a given feat once.
 
 #### Automaton Origins
 
@@ -73,7 +73,7 @@ An automaton typically keeps the name they had before their transformation into 
 
 #### Versatile Heritages
 
- Since automatons have artificial bodies, they don’t manifest the features of versatile heritages, even if the soul within their core did so in life. As a result, most automatons don’t have a versatile heritage. However, players who are interested in taking a versatile heritage are encouraged to speak with their GM to best determine an explanation for the versatile heritage. Since an automaton core draws on planar energy, there is a chance that said energy manifests in a versatile heritage, such as a nephilim automaton with an overabundance of energy from the Outer Planes. Alternatively, a powerful soul might still be able to manifest the features of their heritage they had prior to transfer to an automaton body. An automaton with a versatile heritage will have minimal physical changes if any, though the color of energy that courses through their core and the rest of their body might change to properly represent the versatile heritage.
+ Since automatons have artificial bodies, they don’t manifest the features of versatile heritages, even if the soul within their core did so in life. As a result, most automatons don’t have a versatile heritage. However, players who are interested in taking a versatile heritage are encouraged to speak with their GM to best determine an explanation for the versatile heritage. Since an automaton core draws on planar energy, there is a chance that said energy manifests in a versatile heritage, such as a [[srd/pf2e/compendium/character/ancestries/nephilim|nephilim]] automaton with an overabundance of energy from the [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Outer Sphere Planes|Outer Planes]]. Alternatively, a powerful soul might still be able to manifest the features of their heritage they had prior to transfer to an automaton body. An automaton with a versatile heritage will have minimal physical changes if any, though the color of energy that courses through their core and the rest of their body might change to properly represent the versatile heritage.
 
 ### Automaton Mechanics
 
@@ -86,22 +86,22 @@ An automaton typically keeps the name they had before their transformation into 
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
 Utopian
 
-Additional languages equal to your Intelligence modifier (if it’s positive). Choose from Chthonian, Diabolic, Dwarven, Elven, Empyreal, Petran, Pyric, Thalassic, Sussuran, and any other languages to which you have access (such as the languages prevalent in your region). At the GM’s discretion, if you still have memories from your time in Jistka, you might speak Jistka instead of Common.
+Additional languages equal to your Intelligence modifier (if it’s positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyreal]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]], [[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]], and any other languages to which you have access (such as the languages prevalent in your region). At the GM’s discretion, if you still have memories from your time in Jistka, you might speak [[srd/pf2e/compendium/rules-elements/languages#Jistka|Jistka]] instead of Common.
 
 #### Automaton Core
 
-Your body contains an automaton core infused with planar quintessence that grants you power to perform various tasks and houses your soul and life energy. This life energy flows through you much like the blood of humanoids. As a result, you are a living creature. You don’t have the typical construct immunities, can be affected by effects that target a living creature, and can recover Hit Points normally via vitality energy. Additionally, you are not destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you active even in dire straits; you are knocked out and begin dying when reduced to 0 Hit Points.
+Your body contains an automaton core infused with planar quintessence that grants you power to perform various tasks and houses your soul and life energy. This life energy flows through you much like the blood of humanoids. As a result, you are a living creature. You don’t have the typical [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|construct]] immunities, can be affected by effects that target a living creature, and can recover Hit Points normally via [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] energy. Additionally, you are not destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you active even in dire straits; you are knocked out and begin [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] when reduced to 0 Hit Points.
 
 #### Constructed Body
 
-Your physiological needs are different than those of living creatures. You don't need to eat or drink. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being unconscious. Much like with sleeping, if you go too long without entering your standby state, you become fatigued and can't recover until you enter standby for 2 hours.
+Your physiological needs are different than those of living creatures. You don't need to eat or drink. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]. Much like with sleeping, if you go too long without entering your standby state, you become [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] and can't recover until you enter standby for 2 hours.
 
-| | |
-| --- | --- |
-| **Low-Light Vision** | You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light. |
+#### Low-Light Vision
+
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Guns & Gears (Remastered) p. 36*

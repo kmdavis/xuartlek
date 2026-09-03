@@ -27,14 +27,14 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; low-light vision"
-languages: "Common, Elven, Fey, Gnomish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Crafting +5, Deception +6, Stealth +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
 abilityMods: [-2, 4, 1, 2, 4, 3]
 abilities_top:
   - name: "Items"
-    desc: "Shortsword"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/sword/shortsword|Shortsword]]"
 ac: 16
 armorclass:
   - name: "AC"
@@ -42,25 +42,25 @@ armorclass:
 hp: 21
 health:
   - name: "HP"
-    desc: "21; __Weaknesses__ cold iron 3"
+    desc: "21; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 3"
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +7 (Agile, finesse, versatile S) __Damage__ 1d6 piercing"
+    desc: "⬻ shortsword +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6 piercing"
 abilities_bot:
   - name: "Baffling Bluff"
-    desc: "⬺ (Emotion, mental, primal) The brownie's antics can confuse and disorient a creature. The brownie targets a single creature within 30 feet; that creature must attempt a DC 17 Will save. The target is temporarily immune to Baffling Bluff for 1 minute."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The brownie's antics can confuse and disorient a creature. The brownie targets a single creature within 30 feet; that creature must attempt a DC 17 Will save. The target is temporarily immune to Baffling Bluff for 1 minute."
   - name: "Critical Success"
     desc: "The target is unaffected."
   - name: "Success"
-    desc: "The target is fooled momentarily and is off-guard against the next melee Strike the brownie makes against it before the end of the brownie's next turn."
+    desc: "The target is fooled momentarily and is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the next melee Strike the brownie makes against it before the end of the brownie's next turn."
   - name: "Failure"
-    desc: "The target is confused for 1 round."
+    desc: "The target is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round."
   - name: "Critical Failure"
-    desc: "The target is confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confused condition. Brownie Bargains As they're not a monolithic group of fey and often have their own proclivities, it's sometimes hard to predict what might attract a brownie or ensure their aid. One of the more commonplace gifts is a saucer of milk or cream, though brownies seem to enjoy other edible treats. Some farmers have reported success in leaving shiny but inconsequential knickknacks like buttons, painted stones, smoothed glass, thimbles, or silver flatware. The whims of brownies shift, so someone who wants to retain the services of one should vary the gifts they leave for these elusive fey creatures."
+    desc: "The target is confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confused condition. Brownie Bargains As they're not a monolithic group of [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]] and often have their own proclivities, it's sometimes hard to predict what might attract a brownie or ensure their aid. One of the more commonplace gifts is a saucer of milk or cream, though brownies seem to enjoy other edible treats. Some farmers have reported success in leaving shiny but inconsequential knickknacks like buttons, painted stones, smoothed glass, thimbles, or silver flatware. The whims of brownies shift, so someone who wants to retain the services of one should vary the gifts they leave for these elusive fey creatures."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17 - __Cantrips (4th)__ Light, Prestidigitation - __1st__ Ventriloquism - __3rd__ Mending - __4th__ Translocate"
+    desc: "DC 17 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/ventriloquism|Ventriloquism]] - __3rd__ [[srd/pf2e/compendium/spells/rank-1/mending|Mending]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]]"
 sourcebook: "_Monster Core 2_, page 63."
 ```
 

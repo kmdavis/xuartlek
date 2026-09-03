@@ -20,7 +20,7 @@ source: "GM Core"
 DC 16 (trained)
 
 **Disable**
-DC 19 Survival (trained) to safely dislodge the snow, or deal any amount of fire damage to destroy the hazard without triggering it
+DC 19 [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] (trained) to safely dislodge the snow, or deal any amount of [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] damage to destroy the hazard without triggering it
 
 **AC** 18, **Fort** +11, **Ref** +3
 
@@ -28,8 +28,8 @@ DC 19 Survival (trained) to safely dislodge the snow, or deal any amount of fire
 8
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
-**Snowfall** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature moves beneath where the snowfall is resting; **Effect** Ice and snow fall on the triggering creature, dealing 2d6+3 bludgeoning damage (DC 18 basic Reflex save) and soaking their clothing. Until they change into fresh clothing or spend at least an hour in an area of normal or higher temperature, they treat cold environments as one step colder (for example, mild cold as severe cold).
+**Snowfall** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature moves beneath where the snowfall is resting; **Effect** Ice and snow fall on the triggering creature, dealing 2d6+3 bludgeoning damage (DC 18 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save) and soaking their clothing. Until they change into fresh clothing or spend at least an hour in an area of normal or higher temperature, they treat [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|cold environments]] as one step colder (for example, mild cold as severe cold).
 
 *Source: GM Core p. 104*

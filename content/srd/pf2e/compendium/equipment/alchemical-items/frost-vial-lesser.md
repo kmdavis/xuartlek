@@ -22,7 +22,7 @@ source: "Player Core 2"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Strike
 
-The bright blue liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.
+The bright blue liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.
 
 ### Frost Vial (Lesser)
 

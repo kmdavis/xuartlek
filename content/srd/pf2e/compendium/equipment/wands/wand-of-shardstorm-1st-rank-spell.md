@@ -21,9 +21,9 @@ source: "GM Core"
 
 This wand features a carved dragon’s head at its top and a polished metal sphere set in its midsection.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _force barrage_ of the indicated level. After you cast the spell, an additional missile or missiles are released from the wand at the start of each of your turns, as though you cast the 1-action version of _force barrage_. Choose targets each time. This lasts for 1 minute, until you’re no longer wielding the wand, or until you try to activate the wand again.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-1/force-barrage|_force barrage_]] of the indicated level. After you cast the spell, an additional missile or missiles are released from the wand at the start of each of your turns, as though you cast the 1-action version of _force barrage_. Choose targets each time. This lasts for 1 minute, until you’re no longer wielding the wand, or until you try to activate the wand again.
 
-**Craft Requirements** Supply a casting of _force barrage_ of the appropriate rank.
+**Craft Requirements** Supply a casting of [[srd/pf2e/compendium/spells/rank-1/force-barrage|_force barrage_]] of the appropriate rank.
 
 ### Wand of Shardstorm (1st-rank Spell)
 

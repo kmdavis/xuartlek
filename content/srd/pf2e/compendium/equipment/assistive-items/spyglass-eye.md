@@ -18,8 +18,8 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn
 - **Bulk**: L
 
-Polished to a perfect surface and incredibly clear, this special _magical prosthetic eye_ allows you to clearly see small details as well as things a great distance away.
+Polished to a perfect surface and incredibly clear, this special [[srd/pf2e/compendium/equipment/assistive-items/magical-prosthetic-eye|_magical prosthetic eye_]] allows you to clearly see small details as well as things a great distance away.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per hour; **Effect** A magical lens of hardened air comes into being in front of the eye, allowing you to see as though you were looking through a fine spyglass for 1 minute.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** A magical lens of hardened air comes into being in front of the eye, allowing you to see as though you were looking through a fine spyglass for 1 minute.
 
 *Source: Treasure Vault (Remastered) p. 108*

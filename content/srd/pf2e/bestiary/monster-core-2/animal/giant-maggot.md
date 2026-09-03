@@ -29,7 +29,7 @@ perception:
     desc: "Perception +3; no vision, tremorsense 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6"
 abilityMods: [2, -1, 3, -5, 1, -5]
 ac: 13
 armorclass:
@@ -38,14 +38,14 @@ armorclass:
 hp: 15
 health:
   - name: "HP"
-    desc: "15; __Immunities__ visual"
+    desc: "15; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
 abilities_mid:
   - name: "Regurgitation"
     desc: "⬲"
   - name: "Trigger"
     desc: "The giant maggot takes damage"
   - name: "Effect"
-    desc: "The giant maggot regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a DC 16 Fortitude save or become sickened 1 (or sickened 2 on a critical failure). The giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse."
+    desc: "The giant maggot regurgitates its rancid, foul meal. All creatures in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must succeed at a DC 16 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (or sickened 2 on a critical failure). The giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse."
 speed: "10 feet"
 attacks:
   - name: "Melee"
@@ -54,9 +54,9 @@ abilities_bot:
   - name: "Gnaw Flesh"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The giant maggot has grabbed a creature"
+    desc: "The giant maggot has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] a creature"
   - name: "Effect"
-    desc: "The giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the creature's flesh (DC 16 basic Reflex save)."
+    desc: "The giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the creature's flesh (DC 16 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save)."
 sourcebook: "_Monster Core 2_, page 157."
 ```
 

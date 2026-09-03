@@ -23,11 +23,11 @@ Duskwood is a very lightweight wood found primarily in old-growth forests in sou
 
 #### Material Uses
 
-Duskwood Armor
+[[srd/pf2e/compendium/equipment/armor/duskwood-armor-high-grade|Duskwood Armor]]
 
-Duskwood Shield
+[[srd/pf2e/compendium/equipment/shields/duskwood-tower-shield-high-grade|Duskwood Shield]]
 
-Duskwood Weapon
+[[srd/pf2e/compendium/equipment/weapons/duskwood-weapon-high-grade|Duskwood Weapon]]
 
 ### Duskwood Branch
 

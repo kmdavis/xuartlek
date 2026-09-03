@@ -22,6 +22,6 @@ source: "Player Core"
 - **Target**: 4 creatures
 - **Duration**: until the start of your next turn
 
-You delve into the possible futures of the next few seconds to understand all the ways your foe might avoid harm, then cast out that vision to those around you. Designate a creature. The first time each target makes an attack roll against that creature during _true target's_ duration, the attacker rolls twice and uses the better result. The attacker also ignores circumstance penalties to the attack roll and any flat check required due to the designated creature being concealed or hidden.
+You delve into the possible futures of the next few seconds to understand all the ways your foe might avoid harm, then cast out that vision to those around you. Designate a creature. The first time each target makes an attack roll against that creature during _true target's_ duration, the attacker rolls twice and uses the better result. The attacker also ignores circumstance penalties to the attack roll and any flat check required due to the designated creature being [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]].
 
 *Source: Player Core p. 364*

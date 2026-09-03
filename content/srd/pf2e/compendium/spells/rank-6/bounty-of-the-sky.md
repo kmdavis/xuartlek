@@ -19,11 +19,11 @@ source: "War of Immortals"
 `Concentrate`  `Healing`  `Manipulate`  `Mythic`  `Rare`
 
 - **Traditions**: Divine, Primal
-- **Area**: 30-foot emanation
+- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
 - **Duration**: 1 minute
 
 You call forth a flock of geese that drop restorative fruits and breads from the sky as they fly overhead. You or an ally in the area can Interact to collect one of these gifts, and can then either consume it as part of the same action or do so with a separate Interact action later in the spell's duration. Enemies who attempt to pick up one of these gifts find that it turns to ash in their hands. Each time a character consumes one of these gifts, they can select one of the following benefits. 
-The character regains 4d6 Hit Points.The character reduces the stage of one poison or disease they suffer from by one stage. This can't reduce the stage below 1 or cure the affliction.The character reduces the value of their clumsy, drained, enfeebled, or stupefied condition by 2, or reduces two of the listed conditions by 1 each.
+The character regains 4d6 Hit Points.The character reduces the stage of one [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] they suffer from by one stage. This can't reduce the stage below 1 or cure the affliction.The character reduces the value of their [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], or [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] condition by 2, or reduces two of the listed conditions by 1 each.
 
 ---
 **Heightened (+2)** The amount of Hit Points a character regains from consuming a gift increases by 2d6.

@@ -21,7 +21,7 @@ source: "Impossible Magic"
 - **Range**: 30 feet
 - **Target**: 1 of your thralls
 
-You urge a thrall to move and attack. You command the target thrall to Stride and then make a Strike that deals an additional 1d6 damage. You can destroy the thrall as part of this Strike to add a status bonus to the Strike’s damage equal to this spell’s rank.
+You urge a thrall to move and attack. You command the target thrall to [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] and then make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] that deals an additional 1d6 damage. You can destroy the thrall as part of this Strike to add a status bonus to the Strike’s damage equal to this spell’s rank.
 
 ---
 **Heightened (2nd)** The additional damage increases to 2d6.

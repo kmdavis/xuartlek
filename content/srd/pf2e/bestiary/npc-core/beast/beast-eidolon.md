@@ -29,10 +29,10 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; darkvision, low-light vision, scent (imprecise) 30 feet"
-languages: "Fey"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +16, Athletics +21, Intimidation +22, Nature +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +22, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +15"
 abilityMods: [5, 2, 4, -1, 3, 2]
 ac: 29
 armorclass:
@@ -41,18 +41,18 @@ armorclass:
 hp: 180
 health:
   - name: "HP"
-    desc: "180; __Resistances__ cold 10"
+    desc: "180; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10"
 speed: "25 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ horn +22 __Damage__ 2d8+11 piercing plus 1d6 persistent bleed plus Grab"
   - name: "Melee"
-    desc: "⬻ hoof +22 (Agile) __Damage__ 2d6+11 bludgeoning"
+    desc: "⬻ hoof +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d6+11 bludgeoning"
 abilities_bot:
   - name: "Furious Charge"
     desc: "⬺ The eidolon Strides twice and then makes a Strike. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to the attack roll."
   - name: "Primal Roar"
-    desc: "⬺ (Auditory) The eidolon attempts to Demoralize each enemy within 30 feet; these Demoralize attempts don't take any penalty for not sharing a language."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]]) The eidolon attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy within 30 feet; these Demoralize attempts don't take any penalty for not sharing a language."
   - name: "Rend"
     desc: "⬻ claw"
   - name: "Scent of Blood"
@@ -60,7 +60,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "A creature within the eidolon's scent range is taking bleed damage"
   - name: "Effect"
-    desc: "The eidolon flies into a frenzy, gaining 10 temporary HP for 1 minute and a +4 status bonus to damage rolls with its unarmed attacks, but becomes off-guard. It can't voluntarily end the frenzy or start another frenzy while in the frenzy. The frenzy lasts for 1 minute, after which the eidolon is fatigued for 1 minute."
+    desc: "The eidolon flies into a frenzy, gaining 10 temporary HP for 1 minute and a +4 status bonus to damage rolls with its [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks, but becomes [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]]. It can't voluntarily end the frenzy or start another frenzy while in the frenzy. The frenzy lasts for 1 minute, after which the eidolon is [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] for 1 minute."
 sourcebook: "_NPC Core_, page 219."
 ```
 

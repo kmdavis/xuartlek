@@ -31,7 +31,7 @@ perception:
     desc: "Perception +19; scent (precise) 100 feet, tremorsense (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +16, Stealth +15, Survival +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +18"
 abilityMods: [6, 3, 6, -5, 4, -2]
 ac: 26
 armorclass:
@@ -40,7 +40,7 @@ armorclass:
 hp: 100
 health:
   - name: "HP"
-    desc: "25 (limb), regrowth; __Immunities__ mental"
+    desc: "25 (limb), regrowth; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]"
 abilities_mid:
   - name: "Limb Regrowth"
     desc: "A healthy mammoth land star typically has five limbs. A creature can sever a limb by targeting it and dealing damage equal to the limb's Hit Points. The mammoth land star can regrow a missing limb over the course of 24 hours."
@@ -49,12 +49,12 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ feet +20 (Agile, reach 10 feet) __Damage__ 1d4+6 bludgeoning plus Grab"
+    desc: "⬻ feet +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d4+6 bludgeoning plus Grab"
   - name: "Melee"
-    desc: "⬻ limb spines +20 (reach 10 feet) __Damage__ 2d8+6 piercing plus spiny venom"
+    desc: "⬻ limb spines +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+6 piercing plus spiny venom"
 abilities_bot:
   - name: "Detach"
-    desc: "⬺ (Move)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]])"
   - name: "Requirements"
     desc: "The mammoth land star falls below half its total Hit Points"
   - name: "Effect"
@@ -62,29 +62,29 @@ abilities_bot:
   - name: "Digest"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The mammoth land star has a target grabbed"
+    desc: "The mammoth land star has a target [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]"
   - name: "Effect"
-    desc: "The mammoth land star extrudes its stomach onto its prey and digests it alive. The target takes 2d12+6 acid damage and is drained 1."
+    desc: "The mammoth land star extrudes its stomach onto its prey and digests it alive. The target takes 2d12+6 acid damage and is [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]]."
   - name: "Glide"
-    desc: "⬺ (Move) The land star blows air through its feet to hover 1 foot in the air and Strides twice with a +5-foot circumstance bonus to Speed, ignoring uneven ground and difficult terrain below it."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The land star blows air through its feet to hover 1 foot in the air and Strides twice with a +5-foot circumstance bonus to Speed, ignoring uneven ground and difficult terrain below it."
   - name: "Pry"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The mammoth land star has a target grabbed that is wearing armor"
+    desc: "The mammoth land star has a target [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] that is wearing armor"
   - name: "Effect"
-    desc: "The mammoth land star makes a feet Strike against a creature it has grabbed. If that Strike hits and the creature is wearing armor with Hardness 12 or lower, the armor is broken. This Strike doesn't further damage armor that's already broken."
+    desc: "The mammoth land star makes a feet Strike against a creature it has grabbed. If that Strike hits and the creature is wearing armor with Hardness 12 or lower, the armor is [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]. This Strike doesn't further damage armor that's already broken."
   - name: "Spiny Venom"
-    desc: "(Incapacitation, Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 26 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison and slowed 1"
+    desc: "1d6 poison and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]]"
   - name: "Stage 2"
     desc: "2d6 poison and slowed 2"
   - name: "Stage 3"
-    desc: "2d8 poison and paralyzed"
+    desc: "2d8 poison and [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]]"
 sourcebook: "_Howl of the Wild_, page 169."
 ```
 

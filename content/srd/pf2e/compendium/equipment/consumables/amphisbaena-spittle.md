@@ -19,8 +19,8 @@ source: "Howl of the Wild"
 - **Price**: 21 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: Cast a Spell
+- **Activate**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]]
 
-Hardened clumps of _amphisbaena spittle_ can be harvested from the dual-headed snake's hunting grounds. When a casting of _web of eyes_ is empowered with this catalyst, you can place an additional scrying sensor on the back of each target's head, in the shape of a closed snake's eye. When a target shares their vision with the others affected by the spell, the eye blinks open, preventing the target from being flanked until the start of its next turn.
+Hardened clumps of _amphisbaena spittle_ can be harvested from the dual-headed snake's hunting grounds. When a casting of _web of eyes_ is empowered with this catalyst, you can place an additional scrying sensor on the back of each target's head, in the shape of a closed snake's eye. When a target shares their vision with the others affected by the spell, the eye blinks open, preventing the target from being [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanked]] until the start of its next turn.
 
 *Source: Howl of the Wild p. 118*

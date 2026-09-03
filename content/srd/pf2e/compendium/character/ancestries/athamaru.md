@@ -52,7 +52,7 @@ Due to their community-minded nature, athamarus tend to favor beliefs and philos
 
 ### Adventurers
 
-Athamarus are strongly motivated by community, and most who choose to leave their community to adventure have a good reason why. Many begin adventuring to protect their community or solve a particular problem, while others are thrust out into the wider world after a tragedy. The animal whisperer, emissary, and sailor backgrounds complement athamarus well. Eel-mounted champions or rangers often serve as athamaru community protectors, and those who want to connect with others train as bards. Though athamaru spellcasters are typically rare, some use their strong relationship to the natural world to become druids.
+Athamarus are strongly motivated by community, and most who choose to leave their community to adventure have a good reason why. Many begin adventuring to protect their community or solve a particular problem, while others are thrust out into the wider world after a tragedy. The [[srd/pf2e/compendium/character/backgrounds#Animal Whisperer|animal whisperer]], [[srd/pf2e/compendium/character/backgrounds#Emissary|emissary]], and [[srd/pf2e/compendium/character/backgrounds#Sailor|sailor]] backgrounds complement athamarus well. Eel-mounted champions or rangers often serve as athamaru community protectors, and those who want to connect with others train as bards. Though athamaru spellcasters are typically rare, some use their strong relationship to the natural world to become druids.
 
 ### Names
 
@@ -80,14 +80,14 @@ Athamaru names typically consist of three syllables. The first syllable is share
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
-Thalassic
+[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]
 
-Additional languages equal to your Intelligence modifier (if positive). Choose from Alghollthu, Azlanti, Fey, Tien, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if positive). Choose from Alghollthu, Azlanti, [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Tien|Tien]], and any other languages to which you have access (such as the languages prevalent in your region).
 
-| | |
-| --- | --- |
-| **Low-Light Vision** | You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light. |
+#### Low-Light Vision
+
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
 
 *Source: Howl of the Wild p. 16*

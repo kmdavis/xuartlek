@@ -29,7 +29,7 @@ perception:
     desc: "Perception +15; low-light vision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Stealth +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15"
 abilityMods: [7, 2, 4, -4, 2, -2]
 ac: 24
 armorclass:
@@ -42,22 +42,22 @@ health:
 speed: "25 feet, swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +18 (reach 10 feet) __Damage__ 2d10+9 piercing plus Grab and megalania venom"
+    desc: "⬻ jaws +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+9 piercing plus Grab and megalania venom"
 abilities_bot:
   - name: "Megalania Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 25 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison damage and clumsy 1 (1 round)"
+    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 (1 round)"
   - name: "Stage 2"
-    desc: "2d6 poison damage, clumsy 2, and off-guard (1 round)"
+    desc: "2d6 poison damage, clumsy 2, and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] (1 round)"
   - name: "Stage 3"
     desc: "2d6 poison damage, clumsy 3, and off.guard (1 round)"
   - name: "Swallow Whole"
-    desc: "⬻ (Attack) Large, 2d10+7 bludgeoning"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Large, 2d10+7 bludgeoning"
 sourcebook: "_Monster Core 2_, page 216."
 ```
 

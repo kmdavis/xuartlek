@@ -25,7 +25,7 @@ You fast-forward time for a single creature, burdening it with the aches and pai
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is fatigued and enfeebled 1 for 1 round.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] for 1 round.
 
 **Failure** The target is fatigued and enfeebled 1 for the duration.
 

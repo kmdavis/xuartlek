@@ -31,15 +31,15 @@ perception:
     desc: "Perception +5"
 skills:
   - name: "Skills"
-    desc: "Athletics +7, Crafting +16, Engineering Lore +16, Thievery +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +16, [[srd/pf2e/compendium/rules-elements/skills/lore|Engineering Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +6"
 abilityMods: [4, 1, 1, 3, 0, 0]
 abilities_top:
   - name: "Mechanical Repair"
-    desc: "The mechanic is trained in Crafting, but a master in Crafting for mechanical devices, siege weapons, and vehicles. They can Repair in 1 minute instead of 10 minutes, or in 3 actions for a mechanical device, siege weapon, or vehicle."
+    desc: "The mechanic is trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], but a master in Crafting for mechanical devices, siege weapons, and vehicles. They can [[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repair]] in 1 minute instead of 10 minutes, or in 3 actions for a mechanical device, siege weapon, or vehicle."
   - name: "Mechanical Specialist"
     desc: "For encounters involving mechanical repair, the mechanic is an 8th-level challenge."
   - name: "Items"
-    desc: "Arbalest (20 bolts), heavy wrench, Repair Toolkit"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|Arbalest]] (20 bolts), heavy wrench, [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|Repair Toolkit]]"
 ac: 14
 armorclass:
   - name: "AC"
@@ -51,14 +51,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ heavy wrench +7 (Shove) __Damage__ 1d6+4 bludgeoning"
+    desc: "⬻ heavy wrench +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 1d6+4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +7 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ arbalest +8 (Backstabber, range increment 110 feet, reload 1) __Damage__ 1d10 piercing"
+    desc: "⬻ arbalest +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], range increment 110 feet, reload 1) __Damage__ 1d10 piercing"
 abilities_bot:
   - name: "Risky Upgrade"
-    desc: "⬺ (Concentrate, Manipulate) The mechanic pushes a mechanical device, siege weapon, or vehicle pasts its regular limits with a temporary upgrade chosen from the list below. An item can have only one risky upgrade at a time. If an item has an upgrade at the start of the mechanic's turn, the mechanic must attempt a DC 5 flat check. (These flat checks continue even if the mechanic is dead or otherwise can't take turns.) On a failure, the item explodes, dealing damage equal to the item's level to all adjacent creatures and ending the upgrade."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The mechanic pushes a mechanical device, siege weapon, or vehicle pasts its regular limits with a temporary upgrade chosen from the list below. An item can have only one risky upgrade at a time. If an item has an upgrade at the start of the mechanic's turn, the mechanic must attempt a DC 5 flat check. (These flat checks continue even if the mechanic is dead or otherwise can't take turns.) On a failure, the item explodes, dealing damage equal to the item's level to all adjacent creatures and ending the upgrade."
   - name: "Overheat Weapons"
     desc: "If the item would deal damage, it deals an additional 1d6 fire damage. This increases to 2d6 if the item is 8th level or higher."
   - name: "Pressured Plating"

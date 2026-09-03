@@ -29,14 +29,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +17, Arcana +13, Athletics +16, Stealth +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +17, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18"
 abilityMods: [4, 5, 2, 1, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "daggers (4), _+1 striking rapier_, Studded Leather Armor"
+    desc: "daggers (4), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_, Studded Leather Armor"
 ac: 25
 armorclass:
   - name: "AC"
@@ -44,7 +44,7 @@ armorclass:
 hp: 145
 health:
   - name: "HP"
-    desc: "145; __Resistances__ cold 10"
+    desc: "145; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10"
 abilities_mid:
   - name: "Spell Dodge"
     desc: "⬲"
@@ -57,22 +57,22 @@ abilities_mid:
   - name: "Trigger"
     desc: "A creature within 10 feet of the mage killer Casts a Spell"
   - name: "Effect"
-    desc: "The mage killer makes a melee Strike or thrown dagger Strike against the triggering creature. If it hits, the spell is disrupted."
+    desc: "The mage killer makes a melee Strike or thrown dagger Strike against the triggering creature. If it hits, the spell is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Disrupting Actions|disrupted]]."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _rapier_ +20 (deadly d8, Disarm, Finesse, Magical) __Damage__ 2d6+10 piercing plus magical static"
+    desc: "⬻ _rapier_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d6+10 piercing plus magical static"
   - name: "Melee"
-    desc: "⬻ dagger +19 (Agile, Finesse, thrown 10 feet, versatile S) __Damage__ 1d4+10 piercing plus magical static"
+    desc: "⬻ dagger +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+10 piercing plus magical static"
   - name: "Melee"
-    desc: "⬻ fist +19 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+10 bludgeoning plus magical static"
+    desc: "⬻ fist +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+10 bludgeoning plus magical static"
   - name: "Ranged"
-    desc: "⬻ dagger +19 (Agile, Finesse, thrown 10 feet, versatile S) __Damage__ 1d4+10 piercing plus magical static"
+    desc: "⬻ dagger +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+10 piercing plus magical static"
 abilities_bot:
   - name: "Magical Static"
-    desc: "(Arcane, Mental) The mage killer's Strikes deal an additional 1d8 mental damage to a creature that has Cast (or attempted to Cast) a Spell within the last round, and on a critical hit, the creature is stupefied 1 for 1 minute."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The mage killer's Strikes deal an additional 1d8 mental damage to a creature that has Cast (or attempted to Cast) a Spell within the last round, and on a critical hit, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] for 1 minute."
   - name: "Shift Energy Runes"
-    desc: "⬻ (Arcane, Concentrate)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]])"
   - name: "Frequency"
     desc: "once per hour"
   - name: "Effect"

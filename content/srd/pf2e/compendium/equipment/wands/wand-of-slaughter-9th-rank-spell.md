@@ -22,9 +22,9 @@ source: "Player Core 2"
 
 This polished black wand has a green gem at the tip, and anyone who looks into it sees a reflection of a grinning skull.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _execute_ at the indicated rank. If the spell slays a living target, the corpse releases grim energy in a 20-foot emanation, dealing void damage equal to double the spell's rank.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-7/execute|_execute_]] at the indicated rank. If the spell slays a living target, the corpse releases grim energy in a 20-foot emanation, dealing void damage equal to double the spell's rank.
 
-**Craft Requirements** Supply a casting of _execute_ of the appropriate rank.
+**Craft Requirements** Supply a casting of [[srd/pf2e/compendium/spells/rank-7/execute|_execute_]] of the appropriate rank.
 
 ### Wand of Slaughter (7th-Rank Spell)
 

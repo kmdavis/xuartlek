@@ -21,14 +21,14 @@ You're a spellcaster who specializes in harnessing the elements. Though you migh
 
  **Elementalist Adjustments**: Replace your spell list with the elemental spell list. Your actual magical tradition is unchanged, but you choose your spells from the elemental list instead. You must choose an elemental philosophy (detailed below), which determines which spells and other elemental magic you can use.
 
- **Druid Elementalist Adjustments**: If you're a druid of the storm order and air is in your elemental philosophy, you can choose to replace your starting order spell, _tempest surge_, with _updraft_.
+ **Druid Elementalist Adjustments**: If you're a [[srd/pf2e/compendium/character/classes/druid|druid]] of the storm order and air is in your elemental philosophy, you can choose to replace your starting order spell, _tempest surge_, with _updraft_.
 
- **Elemental Sorcerer Adjustments**: If you're a sorcerer with the elemental bloodline, you can replace your initial bloodline spell with an initial elemental focus spell, and your advanced bloodline spell with an advanced elemental focus spell. The initial and advanced elemental focus spells you select must have the same trait as your elemental bloodline.
+ **Elemental Sorcerer Adjustments**: If you're a [[srd/pf2e/compendium/character/classes/sorcerer|sorcerer]] with the elemental bloodline, you can replace your initial bloodline spell with an initial elemental focus spell, and your advanced bloodline spell with an advanced elemental focus spell. The initial and advanced elemental focus spells you select must have the same trait as your elemental bloodline.
 
  **Wizard Elementalist Adjustments**: If you're a wizard, you can either choose to be a universalist or to follow an arcane school dedicated to one element from your elemental philosophy. If you choose an elemental school, your curriculum spells can be any spells that you have access to and that have your chosen element's trait. Your school spells are the elemental focus spells of your chosen element, with the 1st-rank spell as your initial school spell and the 3rd-rank spell as the advanced school spell.
 
 **Elemental Focus Spells** 
- **Air** initial: _updraft_; advanced: _powerful inhalation_ **Earth** initial: _crushing ground_; advanced: _stone lance_ **Fire** initial: _wildfire_; advanced: _combustion_ **Metal** initial: _serrate_; advanced: _repel metal_ **Water** initial: _rising surf_; advanced: _pulverizing cascade_ **Wood** initial: _arms of nature_; advanced: _wood walk_
+ **Air** initial: [[srd/pf2e/compendium/spells/focus/updraft|_updraft_]]; advanced: [[srd/pf2e/compendium/spells/focus/powerful-inhalation|_powerful inhalation_]] **Earth** initial: [[srd/pf2e/compendium/spells/focus/crushing-ground|_crushing ground_]]; advanced: [[srd/pf2e/compendium/spells/focus/stone-lance|_stone lance_]] **Fire** initial: [[srd/pf2e/compendium/spells/focus/wildfire|_wildfire_]]; advanced: [[srd/pf2e/compendium/spells/focus/combustion|_combustion_]] **Metal** initial: _serrate_; advanced: _repel metal_ **Water** initial: [[srd/pf2e/compendium/spells/focus/rising-surf|_rising surf_]]; advanced: [[srd/pf2e/compendium/spells/focus/pulverizing-cascade|_pulverizing cascade_]] **Wood** initial: _arms of nature_; advanced: _wood walk_
 
 #### Elemental Philosophy
 
@@ -37,7 +37,7 @@ Choose an elemental philosophy, which determines which elements you can use. The
 
 As _Rage of Elements_ is the first book to include the wood and metal traits, your GM might allow you to add more spells from other books that fit the metal or wood element but first appeared without the trait, adding the relevant trait to the spell.
 
-You can't take elementalist feats or use elementalist abilities for an element you're unable to attune to. For example, an Inner Sea elementalist couldn't select the Reverberating Spell feat, use Redirect Elements against a metal or wood spell, or choose a metal or wood ability for their Elemental Familiar.
+You can't take elementalist feats or use elementalist abilities for an element you're unable to attune to. For example, an Inner Sea elementalist couldn't select the [[srd/pf2e/compendium/feats/rage-of-elements/archetype/reverberating-spell|Reverberating Spell]] feat, use Redirect Elements against a metal or wood spell, or choose a metal or wood ability for their Elemental Familiar.
 
 #### Additional Feats
 

@@ -25,10 +25,10 @@ Fired clay covers a shallow pit of thin mud interspersed with fragile vials of a
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes a –5-foot circumstance penalty to its Speed for 1 minute or until it Escapes (DC 27).
+**Success** The creature takes a –5-foot circumstance penalty to its Speed for 1 minute or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 27).
 
-**Failure** The creature is stunned 2, and it takes a –10-foot circumstance penalty to its Speed for 1 minute or until it Escapes (DC 27).
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 2, and it takes a –10-foot circumstance penalty to its Speed for 1 minute or until it Escapes (DC 27).
 
-**Critical Failure** The creature is stunned 3, and it's immobilized for 1 minute or until it Escapes (DC 27).
+**Critical Failure** The creature is stunned 3, and it's [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 minute or until it Escapes (DC 27).
 
 *Source: Player Core 2 p. 299*

@@ -26,7 +26,7 @@ Designed to traverse frozen climates, armored sleighs are constructed from heavy
 
 **Passengers** 20
 
-**Piloting Check** Driving Lore (DC 36) or Nature (DC 38 to DC 46, depending on pulling creatures)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]] (DC 36) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 38 to DC 46, depending on pulling creatures)
 
 ---
 
@@ -38,7 +38,7 @@ Designed to traverse frozen climates, armored sleighs are constructed from heavy
 
 **HP** 280 (BT 140)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
 ---
 
@@ -47,7 +47,7 @@ Designed to traverse frozen climates, armored sleighs are constructed from heavy
 **Collision** 12d10 (DC 36)
 
 **Ice Traverser** The armored sleigh ignores difficult terrain caused by ice or snow.
-**Insulated Protections** from the icy landscape are built into the front of this vehicle, providing sanctuary from the cold. The pilot and crew are protected from severe and extreme cold. The pilot also gains resistance 10 to all cold damage. 
+**Insulated Protections** from the icy landscape are built into the front of this vehicle, providing sanctuary from the cold. The pilot and crew are protected from [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|severe and extreme cold]]. The pilot also gains resistance 10 to all cold damage. 
 **Sluggish** This vehicle must move twice its length for each 90-degree turn it makes.
 
 *Source: Battlecry! p. 110*

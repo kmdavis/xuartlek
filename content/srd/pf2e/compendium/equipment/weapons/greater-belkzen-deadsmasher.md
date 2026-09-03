@@ -17,11 +17,11 @@ source: "Battlecry!"
 
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: Morningstar
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/morningstar|Morningstar]]
 
-The head of this imposing steel _+2 greater striking vitalizing morningstar_ is shaped to resemble a cluster of snarling orc faces, their sharpened tusks serving as the spikes. Forged deep in the Hold of Belkzen and wielded by elite warriors tasked with protecting their lands from the servants of the Whispering Tyrant, this brutal weapon grants void resistance 5 to any living creature who wields it.
+The head of this imposing steel _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 greater striking]] [[srd/pf2e/compendium/equipment/runes/vitalizing-greater|vitalizing]] [[srd/pf2e/compendium/equipment/weapons/club/morningstar|morningstar]]_ is shaped to resemble a cluster of snarling orc faces, their sharpened tusks serving as the spikes. Forged deep in the Hold of Belkzen and wielded by elite warriors tasked with protecting their lands from the servants of the Whispering Tyrant, this brutal weapon grants void [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|resistance]] 5 to any living creature who wields it.
 
-**Activate—Untouchable Spirit** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (fortune) **Frequency** once per day; **Trigger** You fail or critically fail a saving throw against an effect originating from an undead creature that would inflict void damage; **Effect** Reroll the saving throw and take the better result.
+**Activate—Untouchable Spirit** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]]) **Frequency** once per day; **Trigger** You fail or critically fail a saving throw against an effect originating from an [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creature that would inflict void damage; **Effect** Reroll the saving throw and take the better result.
 
 ### Belkzen Deadsmasher
 
@@ -33,6 +33,6 @@ The head of this imposing steel _+2 greater striking vitalizing morningstar_ is 
 
 ---
 
-This _+3 greater striking ghost touch greater vitalizing morningstar_ grants its wielder void resistance 10.
+This _+3 greater striking [[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]] greater vitalizing morningstar_ grants its wielder void resistance 10.
 
 *Source: Battlecry! p. 126*

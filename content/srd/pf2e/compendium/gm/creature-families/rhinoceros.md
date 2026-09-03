@@ -14,7 +14,7 @@ This hefty animal is easily recognizable by the distinctive upward-thrusting hor
 
 ### Members
 
-Rhinoceros (Creature 4), Woolly Rhinoceros (Creature 6)
+[[srd/pf2e/bestiary/monster-core/animal/rhinoceros|Rhinoceros]] (Creature 4), [[srd/pf2e/bestiary/monster-core/animal/woolly-rhinoceros|Woolly Rhinoceros]] (Creature 6)
 
 ### Rhinoceros Horns
 

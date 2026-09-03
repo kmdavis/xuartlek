@@ -20,9 +20,9 @@ source: "GM Core"
 - **Price**: 3 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This toxin is a compound of arsenic and other substances. You can't reduce your sickened condition while affected.
- Saving Throw DC 18 Fortitude; **Onset** 10 minutes; **Maximum Duration** 5 minutes; **Stage 1** 1d4 poison damage and sickened 1 (1 minute); **Stage 2** 1d6 poison damage and sickened 2 (1 minute); **Stage 3** 1d8 poison damage and sickened 3 (1 minute)
+ Saving Throw DC 18 Fortitude; **Onset** 10 minutes; **Maximum Duration** 5 minutes; **Stage 1** 1d4 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (1 minute); **Stage 2** 1d6 poison damage and sickened 2 (1 minute); **Stage 3** 1d8 poison damage and sickened 3 (1 minute)
 
 *Source: GM Core p. 248*

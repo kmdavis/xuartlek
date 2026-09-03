@@ -29,10 +29,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; darkvision"
-languages: "Aklo, Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +11, Intimidation +7, Medicine +6, Stealth +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
 abilityMods: [4, 3, 3, 0, -1, 2]
 abilities_top:
   - name: "Items"
@@ -44,32 +44,32 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ confused"
+    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]]"
 abilities_mid:
   - name: "Ill Glow"
-    desc: "(disease, light) A non-dero living creature that starts its turn grabbed or restrained by the strangler is exposed to the sickly blue light from the strangler's cytillesh toolkit. It must succeed at a DC 19 Fortitude save or become sickened 1. This has no effect if the strangler isn't wearing the toolkit. Vulnerable to Sunlight A dero strangler takes 8 damage for every hour they're exposed to sunlight."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]]) A non-[[srd/pf2e/compendium/rules-elements/traits/monster-core/dero|dero]] living creature that starts its turn [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the strangler is exposed to the sickly blue light from the strangler's cytillesh toolkit. It must succeed at a DC 19 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]]. This has no effect if the strangler isn't wearing the toolkit. Vulnerable to Sunlight A dero strangler takes 8 damage for every hour they're exposed to sunlight."
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ spiked chain +11 (Disarm, Trip) __Damage__ 1d8+6 bludgeoning"
+    desc: "⬻ spiked chain +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d8+6 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ hand crossbow +10 (range increment 60 feet, reload 1) __Damage__ 1d6+2 piercing plus lethargy poison"
+    desc: "⬻ hand crossbow +10 (range increment 60 feet, reload 1) __Damage__ 1d6+2 piercing plus [[srd/pf2e/compendium/equipment/alchemical-items/lethargy-poison|lethargy poison]]"
 abilities_bot:
   - name: "Dero Medicine"
-    desc: "⬻ (Healing, Manipulate)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|Healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"
   - name: "Requirements"
     desc: "The dero is wearing a cytillesh toolkit and has a hand free"
   - name: "Effect"
     desc: "The dero excises damaged flesh and crudely stitches wounds shut, healing themself or an ally in reach for 2d8 Hit Points. For 1 hour, the target has slashing weakness 2 and is immune to Dero Medicine."
   - name: "Strangle"
-    desc: "⬻ (Attack, Nonlethal)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]])"
   - name: "Requirements"
     desc: "The dero must have two free hands or be wielding a spiked chain"
   - name: "Effect"
-    desc: "The dero attempts an Athletics check to Grapple with a +2 circumstance bonus. On a success, the target also takes 1d6+6 bludgeoning damage and can't speak (including to Cast a Spell) as long as they're grabbed or restrained."
+    desc: "The dero attempts an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] with a +2 circumstance bonus. On a success, the target also takes 1d6+6 bludgeoning damage and can't speak (including to Cast a Spell) as long as they're [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 19 - __Cantrips (2nd)__ Daze, Light, Read Aura - __2nd__ Darkness, Revealing Light"
+    desc: "DC 19 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/darkness|Darkness]], [[srd/pf2e/compendium/spells/rank-2/revealing-light|Revealing Light]]"
 sourcebook: "_Monster Core_, page 84."
 ```
 

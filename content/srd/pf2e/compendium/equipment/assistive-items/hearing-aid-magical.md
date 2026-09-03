@@ -23,6 +23,6 @@ A hearing aid is worn in the ear and is made from carved wood, shaped metal, or 
 
 ---
 
-A magical hearing aid has the magical trait. With its curved shape, it hooks over the top and sits behind your ear, with a receiver that fits into the ear opening. The external part of the device detects sound waves and, using magic, transfers them down the receiver and into your ear. You can wear one or two depending on your hearing loss, and you can turn your hearing aids on or off using an Interact action.
+A magical hearing aid has the [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] trait. With its curved shape, it hooks over the top and sits behind your ear, with a receiver that fits into the ear opening. The external part of the device detects sound waves and, using magic, transfers them down the receiver and into your ear. You can wear one or two depending on your hearing loss, and you can turn your hearing aids on or off using an Interact action.
 
 *Source: Player Core p. 293*

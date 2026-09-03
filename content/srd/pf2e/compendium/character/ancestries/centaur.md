@@ -57,7 +57,7 @@ The beliefs of a centaur often depend on where and how they were raised. Many ce
 
 ### Adventurers
 
-Centaurs enjoy traveling and excitement, and are drawn to a life of adventure, though few enjoy leaving their band. Centaurs commonly adventure to protect their lands and people from outsiders or great evils, to explore new territories, or to act as ambassadors. Many have the field medic, herbalist, hunter, nomad, scout, or soldier background. Centaurs who favor combat most often become fighters or rangers, while Faithspeakers and Greenspeakers are more likely to be clerics, druids, oracles, or witches. While some centaur healers are alchemists, it's more likely a centaur adopts the herbalist or medic archetype.
+Centaurs enjoy traveling and excitement, and are drawn to a life of adventure, though few enjoy leaving their band. Centaurs commonly adventure to protect their lands and people from outsiders or great evils, to explore new territories, or to act as ambassadors. Many have the [[srd/pf2e/compendium/character/backgrounds#Field Medic|field medic]], [[srd/pf2e/compendium/character/backgrounds#Herbalist|herbalist]], [[srd/pf2e/compendium/character/backgrounds#Hunter|hunter]], [[srd/pf2e/compendium/character/backgrounds#Nomad|nomad]], [[srd/pf2e/compendium/character/backgrounds#Scout|scout]], or soldier background. Centaurs who favor combat most often become fighters or rangers, while Faithspeakers and Greenspeakers are more likely to be clerics, druids, oracles, or witches. While some centaur healers are alchemists, it's more likely a centaur adopts the [[srd/pf2e/compendium/character/archetypes/herbalist|herbalist]] or [[srd/pf2e/compendium/character/archetypes/medic|medic]] archetype.
 
 ### Names
 
@@ -79,11 +79,11 @@ Centaurs have a single name and sometimes earn an appellation through their deed
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
-Fey
+[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]
 
-Additional languages equal to your Intelligence modifier (if positive). Choose from Arboreal, Cyclops, Dwarven, Elven, Gnomish, Halfling, Jotun and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if positive). Choose from Arboreal, Cyclops, [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]] and any other languages to which you have access (such as the languages prevalent in your region).
 
 | | |
 | --- | --- |

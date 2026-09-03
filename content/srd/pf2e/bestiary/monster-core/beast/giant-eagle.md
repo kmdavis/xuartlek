@@ -27,10 +27,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; low-light vision"
-languages: "Fey, Sussuran; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8"
 abilityMods: [3, 4, 1, 0, 2, 2]
 ac: 17
 armorclass:
@@ -48,12 +48,12 @@ attacks:
   - name: "Melee"
     desc: "⬻ beak +12 __Damage__ 2d8+5 piercing"
   - name: "Melee"
-    desc: "⬻ talon +12 (Agile) __Damage__ 1d10+5 slashing plus Grab"
+    desc: "⬻ talon +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d10+5 slashing plus Grab"
 abilities_bot:
   - name: "Carry"
-    desc: "A giant eagle can Fly at half Speed while it has a creature grabbed or restrained in its talons, carrying that creature along with it."
+    desc: "A giant eagle can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] at half Speed while it has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in its talons, carrying that creature along with it."
   - name: "Eagle Dive"
-    desc: "⬺ The giant eagle Flies up to double its fly Speed in a straight line, descending at least 10 feet, and then makes a talon Strike. Allies in the Skies Aeries of giant eagles can make potent allies to those who respect their territories and approach without malice in their hearts. Giant eagles are just as likely to swoop in and provide unsolicited aid to those in the lowlands of their realm against obvious dangers, but if not offered respect in turn, the eagles may abandon an unpleasant victim to its fate rather than suffer more insults."
+    desc: "⬺ The giant eagle [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to double its fly Speed in a straight line, descending at least 10 feet, and then makes a talon Strike. Allies in the Skies Aeries of giant eagles can make potent allies to those who respect their territories and approach without malice in their hearts. Giant eagles are just as likely to swoop in and provide unsolicited aid to those in the lowlands of their realm against obvious dangers, but if not offered respect in turn, the eagles may abandon an unpleasant victim to its fate rather than suffer more insults."
 sourcebook: "_Monster Core_, page 137."
 ```
 

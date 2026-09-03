@@ -31,10 +31,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; darkvision"
-languages: "Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +18, Stealth +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18"
 abilityMods: [5, 3, 5, 2, 2, 0]
 ac: 27
 armorclass:
@@ -43,7 +43,7 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135; __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ fire 10"
+    desc: "135; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10"
 abilities_mid:
   - name: "Shallow Waters"
     desc: "The coldmire pond can occupy the same space as other creatures. Creatures who move through the coldmire pond treat it as difficult terrain. Two creatures both occupying the coldmire pond's space are flanking it, regardless of their actual positions within the coldmire pond."
@@ -57,11 +57,11 @@ abilities_bot:
   - name: "Drag Below"
     desc: "⬺"
   - name: "Requirements"
-    desc: "The coldmire pond occupies the same space as a target it has grabbed"
+    desc: "The coldmire pond occupies the same space as a target it has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]"
   - name: "Effect"
-    desc: "The coldmire pond pulls the target below the surface. The target must succeed at a DC 26 Reflex save or fall prone and begin drowning."
+    desc: "The coldmire pond pulls the target below the surface. The target must succeed at a DC 26 Reflex save or fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and begin drowning."
   - name: "Flash Flood"
-    desc: "⬺ (Primal, Water) Water surges out of the coldmire pond in a 20-foot emanation and crashes into nearby creatures, knocking them off their feet. Creatures in the area, as well as any creatures currently sharing the coldmire pond's space, take 4d8 bludgeoning damage and are knocked prone (DC 26 basic Reflex save). Creatures standing inside the coldmire pond treat their result as one step worse."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|Water]]) Water surges out of the coldmire pond in a 20-foot emanation and crashes into nearby creatures, knocking them off their feet. Creatures in the area, as well as any creatures currently sharing the coldmire pond's space, take 4d8 bludgeoning damage and are knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] (DC 26 basic Reflex save). Creatures standing inside the coldmire pond treat their result as one step worse."
 sourcebook: "_Rage of Elements_, page 180."
 ```
 

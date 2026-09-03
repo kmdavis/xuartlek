@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-Beloved by the church of the Seventh Veil, a _seventh prism_ is a crystal that disperses its internal light, casting an aurora of color. If you use a _seventh prism_ to cast _dizzying colors_, targets are dazzled for twice as long as their saving throw indicates. On a critical failure, the target is dazzled for 1 minute after its blinded condition ends. Motes of shifting rainbow hues cloud the eyes, making it difficult to see details.
+Beloved by the church of the Seventh Veil, a _seventh prism_ is a crystal that disperses its internal light, casting an aurora of color. If you use a _seventh prism_ to cast [[srd/pf2e/compendium/spells/rank-1/dizzying-colors|_dizzying colors_]], targets are [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for twice as long as their saving throw indicates. On a critical failure, the target is dazzled for 1 minute after its [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] condition ends. Motes of shifting rainbow hues cloud the eyes, making it difficult to see details.
 
 ### Seventh Prism (Triangular)
 

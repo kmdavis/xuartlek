@@ -14,6 +14,6 @@ The burrowing badger is plentiful in most temperate forests. Badgers are natural
 
 ### Members
 
-Badger (Creature 0), Giant Badger (Creature 2)
+[[srd/pf2e/bestiary/monster-core-2/animal/badger|Badger]] (Creature 0), [[srd/pf2e/bestiary/monster-core-2/animal/giant-badger|Giant Badger]] (Creature 2)
 
 *Source: Monster Core 2 p. 54*

@@ -29,7 +29,7 @@ perception:
     desc: "Perception +6; darkvision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Stealth +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
 abilityMods: [1, 3, 1, -5, 1, -1]
 ac: 16
 armorclass:
@@ -45,11 +45,11 @@ abilities_mid:
   - name: "Trigger"
     desc: "The giant cockroach is targeted by a melee attack"
   - name: "Effect"
-    desc: "The giant cockroach gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the cockroach Strides, Climbs, or Flies up to 10 feet."
+    desc: "The giant cockroach gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the cockroach [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climbs]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to 10 feet."
 speed: "25 feet, climb 25 feet, fly 15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ mandibles +8 (Agile, finesse) __Damage__ 1d6+1 piercing Cockroach Species Beyond the common giant cockroach, other flesh-eating cockroaches exist throughout the world. These variations include the giant hissing cockroach, the noxious venomroach, the huge spitting cockroach (which can incapacitate enemies from a distance), the aggressive sawback cockroach, and the mysterious and rare dragonroach."
+    desc: "⬻ mandibles +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 1d6+1 piercing Cockroach Species Beyond the common giant cockroach, other flesh-eating cockroaches exist throughout the world. These variations include the giant hissing cockroach, the noxious venomroach, the huge spitting cockroach (which can incapacitate enemies from a distance), the aggressive sawback cockroach, and the mysterious and rare dragonroach."
 sourcebook: "_Monster Core 2_, page 76."
 ```
 

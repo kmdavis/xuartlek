@@ -20,9 +20,9 @@ source: "Impossible Magic"
 
 - **Range**: 30 feet
 - **Target**: 1 of your thralls
-- **Defense**: basic Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
-You shatter the skeleton of a thrall, creating a volley of teeth, vertebrae, and phalanges. Destroy the target thrall, and each creature in a 30-foot cone originating from the thrall’s former space takes 2d10 piercing damage with a basic Reflex save. You can destroy a second thrall in the cone’s area to cover you and any allies in the area in bone armor. If you do, you and affected allies take no damage from this spell and gain a +1 status bonus to AC until the start of your next turn.
+You shatter the skeleton of a thrall, creating a volley of teeth, vertebrae, and phalanges. Destroy the target thrall, and each creature in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] originating from the thrall’s former space takes 2d10 piercing damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. You can destroy a second thrall in the cone’s area to cover you and any allies in the area in bone armor. If you do, you and affected allies take no damage from this spell and gain a +1 status bonus to AC until the start of your next turn.
 
 ---
 **Heightened (+1)** The damage increases by 1d10.

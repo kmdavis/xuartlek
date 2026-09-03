@@ -19,9 +19,9 @@ source: "Player Core 2"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Involuntary jolts and surges of energy move through the drinker's body as it restores normal muscle control. When you drink this elixir, it attempts to counteract each effect that's inflicting the clumsy or enfeebled condition on you, using the listed counteract rank and modifier.
+Involuntary jolts and surges of energy move through the drinker's body as it restores normal muscle control. When you drink this elixir, it attempts to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] each effect that's inflicting the [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] or [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] condition on you, using the listed counteract rank and modifier.
 
 ### Surging Serum (Minor)
 

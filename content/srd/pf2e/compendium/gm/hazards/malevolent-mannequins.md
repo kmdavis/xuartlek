@@ -24,7 +24,7 @@ source: "Guns & Gears (Remastered)"
 +27
 
 **Disable**
-DC 37 Thievery (master) to jam a mannequin's clockwork mechanisms or Religion DC 35 (expert) twice to exorcise a spirit from a mannequin.
+DC 37 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (master) to jam a mannequin's clockwork mechanisms or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] DC 35 (expert) twice to exorcise a spirit from a mannequin.
 
 **AC** 35, **Fort** +26, **Ref** +28
 
@@ -38,7 +38,7 @@ DC 37 Thievery (master) to jam a mannequin's clockwork mechanisms or Religion DC
 critical hits, object immunities, precision damage
 
 **Weaknesses**
-electricity 20
+[[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 20
 
 **Awaken** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") clockwork fist +29, **Damage** 2d10+18 bludgeoning
 

@@ -31,7 +31,7 @@ perception:
     desc: "Perception +2; motion sense 30 feet, no vision"
 skills:
   - name: "Skills"
-    desc: "Athletics +5, Stealth +2"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +2"
 abilityMods: [0, 3, 4, -5, 0, -5]
 abilities_top:
   - name: "Motion Sense"
@@ -43,18 +43,18 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Immunities__ acid, bleed, critical hits, mental, precision, unconscious, visual"
+    desc: "20; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Critical Hits|critical hits]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
 abilities_mid:
   - name: "Slip Up"
     desc: "⬲"
   - name: "Trigger"
     desc: "An adjacent creature damages the gutter ooze with a melee Strike"
   - name: "Effect"
-    desc: "Some of the gutter ooze's watery protoplasm gushes out beneath the triggering creature's feet. They must succeed at a DC 15 Reflex save or fall prone."
+    desc: "Some of the gutter ooze's watery protoplasm gushes out beneath the triggering creature's feet. They must succeed at a DC 15 Reflex save or fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
 speed: "10 feet, swim 10 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pseudopod +8 (Agile, finesse, reach 5 feet) __Damage__ 1d4 bludgeoning, slashing, or piercing plus 1 acid; see detritus"
+    desc: "⬻ pseudopod +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 5 feet]]) __Damage__ 1d4 bludgeoning, slashing, or piercing plus 1 acid; see detritus"
 abilities_bot:
   - name: "Detritus"
     desc: "Due to all the random trash that collects in a city's gutters, whenever a gutter ooze makes a pseudopod Strike, the type of damage is chosen randomly between bludgeoning, slashing, and piercing."

@@ -29,10 +29,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision, scent (imprecise) 30 feet"
-languages: "Common, Goblin"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Athletics +9, Intimidation +7, Stealth +8, Thievery +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +8"
 abilityMods: [4, 3, 2, -1, 1, 0]
 abilities_top:
   - name: "Items"
@@ -48,16 +48,16 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +11 (Agile, versatile S) __Damage__ 1d4+6 piercing"
+    desc: "⬻ dagger +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+6 piercing"
   - name: "Melee"
-    desc: "⬻ sickle +11 (Agile, Trip) __Damage__ 1d4+6 slashing"
+    desc: "⬻ sickle +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+6 slashing"
   - name: "Ranged"
-    desc: "⬻ dagger +10 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+6 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+6 piercing"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "The bugbear tormentor deals 1d6 extra precision damage to off-guard creatures."
+    desc: "The bugbear tormentor deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
   - name: "Twin Feint"
-    desc: "⬺ The bugbear tormentor makes a dazzling series of attacks with two weapons, using the first attack to throw their foe off-guard against a second attack at a different angle. They make one Strike with each of their two melee weapons, both against the same target. The target is automatically off-guard against the second attack. The bugbear tormentor applies their multiple attack penalty to these Strikes normally."
+    desc: "⬺ The bugbear tormentor makes a dazzling series of attacks with two weapons, using the first attack to throw their foe off-guard against a second attack at a different angle. They make one Strike with each of their two melee weapons, both against the same target. The target is automatically [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the second attack. The bugbear tormentor applies their multiple attack penalty to these Strikes normally."
 sourcebook: "_Monster Core_, page 47."
 ```
 

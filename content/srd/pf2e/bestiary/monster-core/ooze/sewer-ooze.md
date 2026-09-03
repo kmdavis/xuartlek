@@ -31,7 +31,7 @@ perception:
     desc: "Perception +3; motion sense (precise) 60 feet, no vision"
 skills:
   - name: "Skills"
-    desc: "Stealth +1"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +1"
 abilityMods: [2, -5, 4, -5, 0, -5]
 abilities_top:
   - name: "Motion Sense"
@@ -43,7 +43,7 @@ armorclass:
 hp: 40
 health:
   - name: "HP"
-    desc: "40; __Immunities__ acid, bleed, critical hits, mental, precision, unconscious, visual"
+    desc: "40; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], bleed, critical hits, [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
 speed: "10 feet"
 attacks:
   - name: "Melee"
@@ -54,7 +54,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per minute"
   - name: "Effect"
-    desc: "The sewer ooze unleashes a wave of filth, covering all creatures in a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex save or take 1d4 acid damage and take a –10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls prone). A creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
+    desc: "The sewer ooze unleashes a wave of filth, covering all creatures in a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex save or take 1d4 acid damage and take a –10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]). A creature can spend an Interact action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
 sourcebook: "_Monster Core_, page 256."
 ```
 

@@ -22,9 +22,9 @@ source: "Dark Archives (Remastered)"
 DC 33
 
 **Disable**
-DC 30 Thievery (expert) twice to scratch out the runes, or _dispel magic_ (5th level; counteract DC 30) to counteract the planar runes; DC 32 Athletics to shut the door if it's open (using Athletics only stops the trap, it doesn't fully disable it)
+DC 30 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (expert) twice to scratch out the runes, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (5th level; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] DC 30) to counteract the planar runes; DC 32 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] to shut the door if it's open (using Athletics only stops the trap, it doesn't fully disable it)
 
-**Gust** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (air) **Trigger** A creature opens the door; **Effect** The hall Constrictingis buffeted by powerful winds for as long as the door remains open. A creature must succeed at a DC 32 Athletics check to move toward the door. A creature who fails at this check is pushed back 5 feet and falls prone. Additionally, the triggering creature is blasted by a powerful gust of wind and must attempt a DC 32 Fortitude save. The trap then rolls initiative.
+**Gust** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]]) **Trigger** A creature opens the door; **Effect** The hall Constrictingis buffeted by powerful winds for as long as the door remains open. A creature must succeed at a DC 32 Athletics check to move toward the door. A creature who fails at this check is pushed back 5 feet and falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. Additionally, the triggering creature is blasted by a powerful gust of wind and must attempt a DC 32 Fortitude save. The trap then rolls initiative.
 
  **Critical Success** The creature is unaffected.
  **Success** The creature is pushed back 5 feet.

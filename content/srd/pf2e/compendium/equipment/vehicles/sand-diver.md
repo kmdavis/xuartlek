@@ -26,7 +26,7 @@ A sand diver is a vaguely scorpion-shaped vehicle that uses alchemical reactions
 
 **Passengers** 2
 
-**Piloting Check** Driving Lore (DC 18) or Crafting (DC 20)
+**Piloting Check** Driving Lore (DC 18) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 20)
 
 ---
 

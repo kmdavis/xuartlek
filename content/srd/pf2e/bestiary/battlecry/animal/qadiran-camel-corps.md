@@ -33,10 +33,10 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14"
-languages: "Common, Kelish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Kelish|Kelish]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Diplomacy +11, Nature +13, Survival +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +13, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +13"
 abilityMods: [5, 3, 2, 0, 1, 2]
 abilities_top:
   - name: "Desert-Adapted Troop"
@@ -48,7 +48,7 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90 (4 segments); __Weaknesses__ area damage 5, splash damage 5"
+    desc: "90 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
@@ -59,17 +59,17 @@ abilities_bot:
   - name: "Requirements"
     desc: "The camel corps is in a desert or similar region"
   - name: "Effect"
-    desc: "The camel corps Steps, whipping up sand into a short-lived storm that obscures the surrounding region. Until the end of their next turn, the camel corps is concealed from all creatures more than 15 feet away, and all creatures more than 15 feet away are concealed to the camel corps."
+    desc: "The camel corps [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Steps]], whipping up sand into a short-lived storm that obscures the surrounding region. Until the end of their next turn, the camel corps is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from all creatures more than 15 feet away, and all creatures more than 15 feet away are concealed to the camel corps."
   - name: "Mounted Troop"
     desc: "Effects that target only animals or only humanoids may not work on the camel corps, subject to the GM's discretion."
   - name: "Reflective Arrows"
-    desc: "⬺ Adjusting to the angle of the sun, the camel riders draw their shortbows, then launch a ranged attack in the form of an arcing volley. This volley is a 10-foot burst within 60 feet that deals 3d6 piercing damage (DC 21 basic Reflex save). In areas of bright light, such as outside during the day, the targets take a –1 circumstance penalty to the save. When the camel corps is reduced to 2 segments, this area decreases to a 5-foot burst."
+    desc: "⬺ Adjusting to the angle of the sun, the camel riders draw their shortbows, then launch a ranged attack in the form of an arcing volley. This volley is a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] within 60 feet that deals 3d6 piercing damage (DC 21 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). In areas of bright light, such as outside during the day, the targets take a –1 circumstance penalty to the save. When the camel corps is reduced to 2 segments, this area decreases to a 5-foot burst."
   - name: "Scimitar Assault"
     desc: ""
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The camel corps engages in a coordinated melee attack against each enemy in a 5-foot emanation (DC 21 basic Reflex save). The damage depends on the number of actions. ⬻ 1d6+1 slashing damage ⬺ 2d6+7 slashing damage ⬽ 2d6+11 slashing damage"
+    desc: "The camel corps engages in a coordinated melee attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 21 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The damage depends on the number of actions. ⬻ 1d6+1 slashing damage ⬺ 2d6+7 slashing damage ⬽ 2d6+11 slashing damage"
   - name: "Trailblazing Stride"
     desc: "While moving on land, the Qadiran camel corps ignores the effects of non-magical difficult terrain."
 sourcebook: "_Battlecry!_, page 189."

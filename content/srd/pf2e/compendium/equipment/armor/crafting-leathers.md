@@ -19,10 +19,10 @@ source: "Battlecry!"
 - **Price**: 150 gp
 - **Usage**: worn armor
 - **Bulk**: 1
-- **Base Armor**: Leather Armor
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]]
 
 This simple leather armor is adorned with a series of pockets and pouches, all within easy reach. Designed for a busy crafter, each pocket or pouch contains a specific tool required for specialized crafting.
 
-**Activate—Find Tool** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, manipulate) **Frequency** once per hour; **Effect** You reach into a pouch or pocket and find the specific short or long tool you’re looking for. The armor manifests the tool into existence for 1 hour.
+**Activate—Find Tool** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** You reach into a pouch or pocket and find the specific short or long tool you’re looking for. The armor manifests the tool into existence for 1 hour.
 
 *Source: Battlecry! p. 121*

@@ -22,7 +22,7 @@ source: "Rage of Elements"
 - **Area**: 30-foot burst
 - **Defense**: basic Reflex
 
-You conjure an immense wooden bow that launches a salvo of massive arrows at all nearby enemies. All creatures in the affected area take 8d10 piercing damage, with a basic Reflex save. On a critical failure, the target is knocked prone from the force of the impact.
+You conjure an immense wooden bow that launches a salvo of massive arrows at all nearby enemies. All creatures in the affected area take 8d10 piercing damage, with a basic Reflex save. On a critical failure, the target is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] from the force of the impact.
 
 ---
 **Heightened (+1)** Increase the damage by 1d10.

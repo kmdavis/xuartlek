@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 A _librarian staff_ is a slender pole composed of thousands of coiled and compressed book pages swirling into one another, with a mishmash of letters tumbling across its surface. The sound of rustling pages can be heard when the staff moves.
 
-**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (concentrate, manipulate) **Effect** You store one portable text of 1 Bulk or less—typically a book or scroll—in an extradimensional space in the staff. You can also use this activation to retrieve one text stored in the staff. The staff can store up to 50 texts.
+**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You store one portable text of 1 Bulk or less—typically a book or scroll—in an extradimensional space in the staff. You can also use this activation to retrieve one text stored in the staff. The staff can store up to 50 texts.
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
@@ -35,7 +35,7 @@ A _librarian staff_ is a slender pole composed of thousands of coiled and compre
 
 ---
 
-**Cantrip** _approximate_, _read aura_**1st** _pocket library_, _quick sort_, _share lore_**2nd** _timely tutor_, _translate_
+**Cantrip** _approximate_, _read aura_**1st** _pocket library_, _quick sort_, _share lore_**2nd** _timely tutor_, [[srd/pf2e/compendium/spells/rank-2/translate|_translate_]]
 
 ### Librarian Staff (Greater)
 

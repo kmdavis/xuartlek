@@ -19,8 +19,8 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 9 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: 10 minutes (manipulate)
+- **Activate**: 10 minutes ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-A common sight at political gatherings, a diplomat's charcuterie has fine meats, cheeses, nuts, fruits, and other finger foods mixed with reagents to engender friendly feelings between those consuming them. Contents of the plate vary by chef and the intended palates, from the hearty sausages and hard cheese of charcuterie from the Lands of the Linnorm Kings to the hot-pepper cheese curds and smoked almonds of Thuvian platters. After Activating the charcuterie by eating it, you gain a +1 item bonus to Diplomacy checks to Make an Impression and Perception checks to Sense Motive. These bonuses last 24 hours or until you make your next daily preparations, whichever comes first.
+A common sight at political gatherings, a diplomat's charcuterie has fine meats, cheeses, nuts, fruits, and other finger foods mixed with reagents to engender friendly feelings between those consuming them. Contents of the plate vary by chef and the intended palates, from the hearty sausages and hard cheese of charcuterie from the Lands of the Linnorm Kings to the hot-pepper cheese curds and smoked almonds of Thuvian platters. After Activating the charcuterie by eating it, you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks to Make an Impression and Perception checks to Sense Motive. These bonuses last 24 hours or until you make your next daily preparations, whichever comes first.
 
 *Source: Treasure Vault (Remastered) p. 47*

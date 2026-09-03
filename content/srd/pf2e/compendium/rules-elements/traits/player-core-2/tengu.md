@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Tengu`
 
-A creature with this trait is a member of the tengu ancestry. Tengu are humanoids who resemble crows. An ability with this trait can be used or selected only by tengu. An item with this trait is created and used by tengu.
+A creature with this trait is a member of the [[srd/pf2e/compendium/character/ancestries/tengu|tengu]] ancestry. Tengu are humanoids who resemble crows. An ability with this trait can be used or selected only by tengu. An item with this trait is created and used by tengu.
 
 *Source: Player Core 2 p. 318*

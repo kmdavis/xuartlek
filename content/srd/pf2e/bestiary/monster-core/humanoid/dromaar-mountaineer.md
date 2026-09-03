@@ -35,14 +35,14 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; darkvision"
-languages: "Common, Orcish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +7, Acrobatics +7, Survival +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
 abilityMods: [3, 3, 1, 0, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "Pick, Hide Armor, Rope (50 feet), Bola (6)"
+    desc: "Pick, Hide Armor, Rope (50 feet), [[srd/pf2e/compendium/equipment/weapons/sling/bola|Bola]] (6)"
 ac: 19
 armorclass:
   - name: "AC"
@@ -57,14 +57,14 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pick +9 (fatal d10) __Damage__ 1d6+3 piercing"
+    desc: "⬻ pick +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]]) __Damage__ 1d6+3 piercing"
   - name: "Melee"
-    desc: "⬻ fist +9 (Agile, Shove) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ bola +9 (Nonlethal, Ranged Trip, thrown 20 feet) __Damage__ 1d6+3 bludgeoning"
+    desc: "⬻ bola +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/ranged-trip|Ranged Trip]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+3 bludgeoning"
 abilities_bot:
   - name: "Tangle Prey"
-    desc: "⬻ The dromaar draws a bola and Strikes a target within 20 feet. On a success, the dromaar immediately rolls an Athletics check against the target's Fortitude DC to Trip them."
+    desc: "⬻ The dromaar draws a bola and Strikes a target within 20 feet. On a success, the dromaar immediately rolls an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the target's Fortitude DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] them."
 sourcebook: "_Monster Core_, page 259."
 ```
 

@@ -19,7 +19,7 @@ source: "GM Core"
 - **Price**: 12,800 gp
 - **Usage**: worn armor
 - **Bulk**: 3
-- **Base Armor**: Scale Mail
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Scale Mail|Scale Mail]]
 
 Made of overlapping, lustrous black scales of standard-grade adamantine, this _+2 greater resilient fortification adamantine scale mail_ seems to momentarily thicken at the point of impact when hit. Whenever the armor’s fortification rune successfully turns a significant foe’s critical hit into a normal hit, one of the scales on the armor turns violet. You gain resistance to physical damage equal to the number of violet scales, to a maximum of 8.
 

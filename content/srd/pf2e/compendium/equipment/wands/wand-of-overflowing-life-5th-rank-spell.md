@@ -23,9 +23,9 @@ source: "Player Core 2"
 
 This alabaster wand has a clear crystal at the tip.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _heal_ at the indicated rank. After you cast the spell, at the start of your next turn, excess healing magic wells up from the wand and heals you, as though you cast the 1-action version of _heal_ on yourself at the same spell rank. You gain this benefit only once per turn, even if you cast multiple _heal_ spells from wands of _overflowing life_ in the same turn.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] at the indicated rank. After you cast the spell, at the start of your next turn, excess healing magic wells up from the wand and heals you, as though you cast the 1-action version of _heal_ on yourself at the same spell rank. You gain this benefit only once per turn, even if you cast multiple _heal_ spells from wands of _overflowing life_ in the same turn.
 
-**Craft Requirements** Supply a casting of _heal_ of the appropriate rank.
+**Craft Requirements** Supply a casting of [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] of the appropriate rank.
 
 ### Wand of Overflowing Life (3rd-Rank Spell)
 

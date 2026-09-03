@@ -31,10 +31,10 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; darkvision"
-languages: "Common, Orcish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +17, Intimidation +15, Stealth +16, Survival +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +16, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +13"
 abilityMods: [4, 3, 4, 0, 2, 0]
 ac: 24
 armorclass:
@@ -43,14 +43,14 @@ armorclass:
 hp: 120
 health:
   - name: "HP"
-    desc: "120 (4 segments); __Resistances__ void 8; __Weaknesses__ area damage 8, splash damage 8"
+    desc: "120 (4 segments); __Resistances__ void 8; __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 8"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "25 feet; troop movement"
 abilities_bot:
   - name: "Chant of Dominance"
-    desc: "⬻ (Divine, Holy, Spirit)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]])"
   - name: "Effect"
     desc: "Orc war drummers lead the other skullcrushers in a holy chant extolling their superiority in battle. Any creature damaged by the skullcrushers this turn also takes 1d6 persistent spirit damage."
   - name: "Crush Skulls"
@@ -60,7 +60,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The skullcrushers smash their mauls and clubs against each enemy in a 5-foot emanation, with a DC 22 basic Reflex save. The damage depends on the number of actions. ⬻ 1d12 bludgeoning damage ⬺ 1d12+8 bludgeoning damage ⬽ 2d12+8 bludgeoning damage"
   - name: "Sacred Salvo"
-    desc: "⬺ (Divine, Vitality) The skullcrushers fling a fusillade of sling bullets enchanted with life energy intended to destroy undead. This barrage is a 10-foot burst within 50 feet that deals 3d6 bludgeoning damage plus 1d6 vitality damage to undead, with a DC 22 basic Reflex save. When the troop is reduced to 2 or fewer segments, this area decreases to a 5-foot burst."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|Vitality]]) The skullcrushers fling a fusillade of sling bullets enchanted with life energy intended to destroy undead. This barrage is a 10-foot burst within 50 feet that deals 3d6 bludgeoning damage plus 1d6 vitality damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]], with a DC 22 basic Reflex save. When the troop is reduced to 2 or fewer segments, this area decreases to a 5-foot burst."
 sourcebook: "_NPC Core_, page 207."
 ```
 

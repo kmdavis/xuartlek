@@ -18,7 +18,7 @@ source: "Dark Archives (Remastered)"
 - **Cast**: 1 day
 - **Cost**: incense worth a total value of 150 gp
 - **Secondary Casters**: 2
-- **Primary Check**: Occultism (master) or Religion (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master) or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master)
 - **Secondary Checks**: Deception , Society
 - **Range**: 30 feet
 - **Target(s)**: 1 creature

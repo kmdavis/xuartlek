@@ -19,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 2 hands
 - **Bulk**: L
 
-This lustrous lute has a polished body that changes to show whatever decorations or carvings you find most appealing, or which best reinforce the story of the song you're currently playing (as a free action). Its frets are inlaid with mother of pearl. With its mix of enchantment and illusion magic, it's favored by many traveling minstrels. While playing the lute, you gain a +1 item bonus to Diplomacy and Performance checks.
+This lustrous lute has a polished body that changes to show whatever decorations or carvings you find most appealing, or which best reinforce the story of the song you're currently playing (as a free action). Its frets are inlaid with mother of pearl. With its mix of enchantment and illusion magic, it's favored by many traveling minstrels. While playing the lute, you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks.
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
@@ -43,7 +43,7 @@ This lustrous lute has a polished body that changes to show whatever decorations
 
 ---
 
-**2nd** _calm_, _phantasmal treasure_**3rd** _enthrall_, _heroism_, _illusory creature_
+**2nd** [[srd/pf2e/compendium/spells/rank-2/calm|_calm_]], [[srd/pf2e/compendium/spells/rank-2/phantasmal-treasure|_phantasmal treasure_]]**3rd** [[srd/pf2e/compendium/spells/rank-3/enthrall|_enthrall_]], [[srd/pf2e/compendium/spells/rank-3/heroism|_heroism_]], [[srd/pf2e/compendium/spells/rank-2/illusory-creature|_illusory creature_]]
 
 ### Entertainer's Lute (Major)
 
@@ -54,6 +54,6 @@ This lustrous lute has a polished body that changes to show whatever decorations
 ---
 
 The item bonuses are +2. 
-**4th** _honeyed words_, _infectious melody_**5th** _hallucination_, _illusory creature_, _illusory scene_, _suggestion_
+**4th** [[srd/pf2e/compendium/spells/rank-4/honeyed-words|_honeyed words_]], _infectious melody_**5th** [[srd/pf2e/compendium/spells/rank-5/hallucination|_hallucination_]], [[srd/pf2e/compendium/spells/rank-2/illusory-creature|_illusory creature_]], [[srd/pf2e/compendium/spells/rank-5/illusory-scene|_illusory scene_]], [[srd/pf2e/compendium/spells/rank-4/suggestion|_suggestion_]]
 
 *Source: Treasure Vault (Remastered) p. 136*

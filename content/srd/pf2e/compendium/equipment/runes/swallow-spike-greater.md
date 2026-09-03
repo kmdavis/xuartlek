@@ -19,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 
 Your armor responds to your desire to break free of a creature grabbing you by growing spikes.
 
-**Activate** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, concentrate) **Requirements** You're being held immobilized as described in the rune's other activation; **Effect** Your armor attacks the creature immobilizing you. The armor makes a melee attack against the creature, as described in the rune's other activation.
+**Activate** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Requirements** You're being held immobilized as described in the rune's other activation; **Effect** Your armor attacks the creature immobilizing you. The armor makes a melee attack against the creature, as described in the rune's other activation.
 
 ### Swallow-Spike
 

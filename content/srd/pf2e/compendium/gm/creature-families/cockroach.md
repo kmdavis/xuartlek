@@ -16,6 +16,6 @@ Generally seen more as a nuisance than a personal danger, cockroaches inhabit mo
 
 ### Members
 
-Cockroach Swarm (Creature 2), Giant Cockroach (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/animal/cockroach-swarm|Cockroach Swarm]] (Creature 2), [[srd/pf2e/bestiary/monster-core-2/animal/giant-cockroach|Giant Cockroach]] (Creature 1)
 
 *Source: Monster Core 2 p. 76*

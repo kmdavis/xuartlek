@@ -14,7 +14,7 @@ Lumbering, amphibious, and deathless humanoids known as deep ones inhabit coasta
 
 ### Members
 
-Deep One (Creature 1), Deep One Elder (Creature 14), Deep One Hybrid (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/deep-one|Deep One]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/humanoid/deep-one-elder|Deep One Elder]] (Creature 14), [[srd/pf2e/bestiary/monster-core-2/humanoid/deep-one-hybrid|Deep One Hybrid]] (Creature 1)
 
 ### Coastal Communes
 

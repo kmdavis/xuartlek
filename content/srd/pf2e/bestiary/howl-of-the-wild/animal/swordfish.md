@@ -31,7 +31,7 @@ perception:
     desc: "Perception +11; low-light vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Athletics +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12"
 abilityMods: [5, 3, 1, -4, 2, 0]
 ac: 18
 armorclass:
@@ -49,11 +49,11 @@ abilities_mid:
   - name: "Trigger"
     desc: "The swordfish rolls initiative"
   - name: "Effect"
-    desc: "The swordfish Seeks or Swims."
+    desc: "The swordfish [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeks]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]]."
 speed: "swim 60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ bill +12 (Sweep) __Damage__ 1d10+5 slashing"
+    desc: "⬻ bill +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d10+5 slashing"
 abilities_bot:
   - name: "Fast Sweep"
     desc: "⬻"

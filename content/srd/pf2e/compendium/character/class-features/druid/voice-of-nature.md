@@ -13,6 +13,6 @@ source: "Player Core"
 
 - **Class**: Druid
 
-You gain your choice of the Animal Empathy or Plant Empathy druid feat.
+You gain your choice of the [[srd/pf2e/compendium/feats/player-core/archetype/animal-empathy-druid|Animal Empathy]] or [[srd/pf2e/compendium/feats/player-core/class/plant-empathy|Plant Empathy]] druid feat.
 
 *Source: Player Core p. 122*

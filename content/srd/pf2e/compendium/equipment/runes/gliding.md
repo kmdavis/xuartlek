@@ -19,6 +19,6 @@ source: "Treasure Vault (Remastered)"
 
 The armor allows you to make a controlled descent.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Effect** You glide slowly toward the ground, 5 feet down and up to 25 feet forward through the air. Provided you spend at least 1 action gliding on your turn and haven't yet reached the ground, you remain in the air at the end of your turn. Otherwise, you fall.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** You glide slowly toward the ground, 5 feet down and up to 25 feet forward through the air. Provided you spend at least 1 action gliding on your turn and haven't yet reached the ground, you remain in the air at the end of your turn. Otherwise, you fall.
 
 *Source: Treasure Vault (Remastered) p. 12*

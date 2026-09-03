@@ -31,10 +31,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision"
-languages: "Common, Draconic, Fey; telepathy 100 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Deception +8, Diplomacy +8, Nature +4, Stealth +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
 abilityMods: [-2, 4, 0, 2, 0, 2]
 ac: 18
 armorclass:
@@ -43,19 +43,19 @@ armorclass:
 hp: 30
 health:
   - name: "HP"
-    desc: "30; __Immunities__ paralyzed, sleep"
+    desc: "30; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 speed: "15 feet, fly 40 feet, swim 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +8 (Magical, Finesse, reach 0 feet) __Damage__ 1d8 piercing"
+    desc: "⬻ jaws +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d8 piercing"
 abilities_bot:
   - name: "Euphoric Breath"
-    desc: "⬺ (Arcane, Poison) The dragonet breathes euphoric gas in a 15- foot cone. Each creature in the area must succeed at a DC 18 Fortitude save or become stupefied 2 and slowed 1 for 1d4 rounds; on a critical failure, the duration is 1 minute. The fey dragonet can't use Euphoric Breath again for 1d4 rounds. Fey Dragonet Lairs Fey dragonets live in old forests or places where the veil between the First World and the Universe is thinnest. They often decorate their lairs with sparkly trinkets or groom the surrounding foliage into pleasing shapes. Fey Dragonet Treasure The dragons collect small treasures, including magical amulets or rings. Fey dragonet hide can also be made into armor for a Small creature."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) The dragonet breathes euphoric gas in a 15- foot cone. Each creature in the area must succeed at a DC 18 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 2]] and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] for 1d4 rounds; on a critical failure, the duration is 1 minute. The fey dragonet can't use Euphoric Breath again for 1d4 rounds. Fey Dragonet Lairs Fey dragonets live in old forests or places where the veil between the [[srd/pf2e/compendium/gm/planes#First World|First World]] and [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] is thinnest. They often decorate their lairs with sparkly trinkets or groom the surrounding foliage into pleasing shapes. Fey Dragonet Treasure The dragons collect small treasures, including magical amulets or rings. Fey dragonet hide can also be made into armor for a Small creature."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 21 - __4th__ Invisibility (self only)"
+    desc: "DC 21 - __4th__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (self only)"
   - name: "Arcane Spontaneous Spells"
-    desc: "DC 18, attack +10 - __Cantrips (1st)__ Figment, Light, Prestidigitation, Tangle Vine, Telekinetic Projectile - __1st__ Grease, Illusory Object, Sleep (4 slots)"
+    desc: "DC 18, attack +10 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/grease|Grease]], [[srd/pf2e/compendium/spells/rank-1/illusory-object|Illusory Object]], [[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]] (4 slots)"
 sourcebook: "_Monster Core_, page 127."
 ```
 

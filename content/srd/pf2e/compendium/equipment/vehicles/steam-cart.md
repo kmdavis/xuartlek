@@ -26,7 +26,7 @@ A steam cart looks like a cart with an alchemical cauldron that produces steam t
 
 **Passengers** 1
 
-**Piloting Check** Driving Lore (DC 16) or Crafting (DC 18)
+**Piloting Check** Driving Lore (DC 16) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 18)
 
 ---
 
@@ -46,6 +46,6 @@ A steam cart looks like a cart with an alchemical cauldron that produces steam t
 
 **Collision** 2d8 (DC 16)
 
-**Steam Cloud** Whenever the steam cart takes collision damage, its engine expels a dense cloud of steam in a 5-foot emanation. The steam cart and all creatures in the steam become concealed, and creatures outside the steam become concealed to creatures within it. The steam dissipates in 1 round.
+**Steam Cloud** Whenever the steam cart takes collision damage, its engine expels a dense cloud of steam in a 5-foot emanation. The steam cart and all creatures in the steam become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and creatures outside the steam become concealed to creatures within it. The steam dissipates in 1 round.
 
 *Source: Guns & Gears (Remastered) p. 94*

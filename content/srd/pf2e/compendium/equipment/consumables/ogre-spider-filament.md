@@ -19,8 +19,8 @@ source: "Howl of the Wild"
 - **Price**: 4 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: Cast a Spell
+- **Activate**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]]
 
-This delicate strand of spiderweb sticks to the target of a _spider sting_ spell, hampering their movement. Using this catalyst causes a creature afflicted with spider venom to become clumsy instead of enfeebled.
+This delicate strand of spiderweb sticks to the target of a [[srd/pf2e/compendium/spells/rank-1/spider-sting|_spider sting_]] spell, hampering their movement. Using this catalyst causes a creature afflicted with spider venom to become [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] instead of [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]].
 
 *Source: Howl of the Wild p. 119*

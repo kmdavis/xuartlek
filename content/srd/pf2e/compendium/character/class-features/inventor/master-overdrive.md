@@ -13,6 +13,6 @@ source: "Guns & Gears (Remastered)"
 
 - **Class**: Inventor
 
-Your mastery of invention and crafting enhances your Overdrive even further. You become a master in Crafting, and on a successful Overdrive, you increase the additional damage by a total of 2, replacing the increase from expert overdrive.
+Your mastery of invention and crafting enhances your Overdrive even further. You become a master in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], and on a successful Overdrive, you increase the additional damage by a total of 2, replacing the increase from expert overdrive.
 
 *Source: Guns & Gears (Remastered) p. 15*

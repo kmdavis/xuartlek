@@ -19,6 +19,6 @@ source: "Player Core 2"
 
 - **Price**: 75 gp
 
-You affix a trip line or other trigger to a group of either stones or wooden stakes to strike a creature that enters the snare's square. The creature must attempt a DC 26 basic Reflex saving throw. If you choose stones when you Craft the snare, it deals 9d8 bludgeoning damage; if you choose spikes, it deals 9d8 piercing damage.
+You affix a trip line or other trigger to a group of either stones or wooden stakes to strike a creature that enters the snare's square. The creature must attempt a DC 26 [[srd/pf2e/compendium/rules-elements/actions/howl-of-the-wild|basic]] Reflex saving throw. If you choose stones when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] the snare, it deals 9d8 bludgeoning damage; if you choose spikes, it deals 9d8 piercing damage.
 
 *Source: Player Core 2 p. 300*

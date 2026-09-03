@@ -21,10 +21,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 6 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (manipulate)
+- **Activate**: [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 The poison known as looter's lethargy ensures no thieves are strong enough to walk off with pilfered treasures. Commonly smeared on locks, chests, and even valuable items themselves, the poison slowly saps the strength of those who touch it. Nearby guardians can then simply follow the resulting trail of discarded valuables to find the weakened trespasser.
 
- **Saving Throw** DC 19 Fortitude; **Onset** 1 minute; **Maximum Duration** 1 hour; **Stage 1** reduce Bulk limit by 3 (1 minute); **Stage 2** off-guard, reduce Bulk limit by 4 (10 minutes); **Stage 3** off-guard, reduce Bulk limit by 5 (10 minutes)
+ **Saving Throw** DC 19 Fortitude; **Onset** 1 minute; **Maximum Duration** 1 hour; **Stage 1** reduce Bulk limit by 3 (1 minute); **Stage 2** [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], reduce [[srd/pf2e/books/player-core/chapter-6-equipment/bulk#Bulk Limits|Bulk limit]] by 4 (10 minutes); **Stage 3** off-guard, reduce Bulk limit by 5 (10 minutes)
 
 *Source: Treasure Vault (Remastered) p. 69*

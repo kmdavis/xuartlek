@@ -19,9 +19,9 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: affixed to armor or a weapon
 
 Appearing as vibrant as the day they were picked, this cluster of flowers is arranged in a small spray, tied with a red satin ribbon. The spell DC of any spell cast by activating this item is 24. 
-**Armor** You gain the ability to speak with flowers, as _speak with plants_.**Weapon** (disease) After you cast a plant spell by activating the posy, pollen coats your weapon. Your next Strike causes the target to be sickened 1 on a hit (sickened 2 on a critical hit). If the creature attempts to recover, it sneezes rather than retching (rolling against the spellheart's spell DC). If you don't make a Strike by the end of your next turn, the pollen becomes inert. Plant creatures are immune.
+**Armor** You gain the ability to speak with flowers, as _speak with plants_.**Weapon** ([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]) After you cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] spell by activating the posy, pollen coats your weapon. Your next Strike causes the target to be sickened 1 on a hit (sickened 2 on a critical hit). If the creature attempts to recover, it sneezes rather than retching (rolling against the spellheart's spell DC). If you don't make a Strike by the end of your next turn, the pollen becomes inert. Plant creatures are immune.
 
-**Activate** Cast a Spell; **Effect** _tangle vine_
+**Activate** Cast a Spell; **Effect** [[srd/pf2e/compendium/spells/cantrips/tangle-vine|_tangle vine_]]
 
 ### Brightbloom Posy
 

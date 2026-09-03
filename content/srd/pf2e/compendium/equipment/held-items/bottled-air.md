@@ -21,6 +21,6 @@ source: "GM Core"
 
 Appearing to be an ordinary corked glass bottle, this item contains a limitless supply of fresh air. You must uncork the bottle with an Interact action before you can activate it. 
 
-**Activate—Breath In** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Effect** You draw a breath of air from the bottle. This allows you to breathe even in an airless or toxic environment. Air doesn't escape the mouth of the bottle, so leaving the open bottle in an airless environment doesn't change the environment.
+**Activate—Breath In** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You draw a breath of air from the bottle. This allows you to breathe even in an airless or toxic environment. Air doesn't escape the mouth of the bottle, so leaving the open bottle in an airless environment doesn't change the environment.
 
 *Source: GM Core p. 273*

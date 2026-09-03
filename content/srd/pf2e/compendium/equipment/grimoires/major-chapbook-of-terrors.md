@@ -17,9 +17,9 @@ source: "Impossible Magic"
 
 - **Bulk**: L
 
-This lurid pamphlet contains spooky tales about ghosts, monsters, and murderers, all illustrated in gruesome detail. The stories, fortunately, are only fictions… or are they? 
+This lurid pamphlet contains spooky tales about [[srd/pf2e/compendium/rules-elements/traits/monster-core/ghost|ghosts]], monsters, and murderers, all illustrated in gruesome detail. The stories, fortunately, are only fictions… or are they? 
 
-**Activate—Horrify** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, mental, spellshape) **Frequency** once per day; **Effect** If your next action is to Cast a prepared Spell with the fear trait, creatures frightened by the spell also take 1d6 persistent mental damage as they dwell on your terrifying tale.
+**Activate—Horrify** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]]) **Frequency** once per day; **Effect** If your next action is to Cast a prepared Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] trait, creatures [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] by the spell also take 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent mental damage]] as they dwell on your terrifying tale.
 
 ### Chapbook Of Terrors
 
@@ -31,7 +31,7 @@ This lurid pamphlet contains spooky tales about ghosts, monsters, and murderers,
 
 ---
 
-The persistent mental damage is 2d6.
+The [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent mental damage]] is 2d6.
 
 ### Major Chapbook Of Terrors
 
@@ -39,6 +39,6 @@ The persistent mental damage is 2d6.
 
 ---
 
-The persistent mental damage is 4d6.
+The [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent mental damage]] is 4d6.
 
 *Source: Impossible Magic p. 229*

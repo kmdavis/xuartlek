@@ -28,7 +28,7 @@ Pleasant Thought The target is soothed by a pleasant memory, gaining 5 temporary
 
 **Critical Success** The target is unaffected and is temporarily immune for 1 minute.
 
-**Success** The target is frightened 1 and is then temporarily immune for 1 minute.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 and is then temporarily immune for 1 minute.
 
 **Failure** The target becomes frightened 2.
 

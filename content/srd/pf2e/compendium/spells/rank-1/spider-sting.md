@@ -30,6 +30,6 @@ You magically duplicate a spider's venomous sting. You deal 1d4 piercing damage 
 
 **Failure** The target is afflicted with spider venom at stage 1.
 
-**Critical Failure** The target is afflicted with spider venom at stage 2. **Spider Venom** (poison) Level 1; **Maximum Duration** 4 rounds; **Stage 1** 1d4 poison damage and enfeebled 1 (1 round); **Stage 2** 1d4 poison damage and enfeebled 2 (1 round)
+**Critical Failure** The target is afflicted with spider venom at stage 2. **Spider Venom** ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) Level 1; **Maximum Duration** 4 rounds; **Stage 1** 1d4 poison damage and enfeebled 1 (1 round); **Stage 2** 1d4 poison damage and enfeebled 2 (1 round)
 
 *Source: Player Core p. 358*

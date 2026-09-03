@@ -21,6 +21,6 @@ source: "Player Core"
 - **Range**: 60 feet
 - **Duration**: sustained
 
-You summon a phantasmal minion. The minion is roughly the shape of a humanoid. You can choose to have it be invisible or have an ephemeral appearance, but it's obviously a magical effect, not a real creature.
+You summon a [[srd/pf2e/bestiary/player-core/other/phantasmal-minion|phantasmal minion]]. The minion is roughly the shape of a humanoid. You can choose to have it be [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] or have an ephemeral appearance, but it's obviously a magical effect, not a real creature.
 
 *Source: Player Core p. 349*

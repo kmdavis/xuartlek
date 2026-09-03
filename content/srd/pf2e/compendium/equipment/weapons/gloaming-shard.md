@@ -18,10 +18,10 @@ source: "Impossible Magic"
 - **Price**: 1,400 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: Dagger
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/knife/dagger|Dagger]]
 
-The blade of this _+2 striking returning dagger_ shines the color of twilight, with a triangular lattice design on the hilt. A thin string of darkness connects your shadow to that of the blade, even once it leaves your hand. 
+The blade of this _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+2 striking]] [[srd/pf2e/compendium/equipment/runes/returning|returning]] [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]_ shines the color of twilight, with a triangular lattice design on the hilt. A thin string of darkness connects your shadow to that of the blade, even once it leaves your hand. 
 
-**Activate—Umbral Jaunt** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate, shadow, teleportation) **Frequency** once per hour; **Effect** You make a thrown Strike with the _gloaming shard_ at a target within 60 feet. Whether you hit or miss, rather than returning to you, the blade pulls you down into your own shadow and along the connecting thread. You instantly teleport to a space adjacent to the target of your Strike, as _translocate_, and then catch the dagger in your hand.
+**Activate—Umbral Jaunt** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], shadow, teleportation) **Frequency** once per hour; **Effect** You make a thrown Strike with the _gloaming shard_ at a target within 60 feet. Whether you hit or miss, rather than returning to you, the blade pulls you down into your own shadow and along the connecting thread. You instantly teleport to a space adjacent to the target of your Strike, as _translocate_, and then catch the dagger in your hand.
 
 *Source: Impossible Magic p. 209*

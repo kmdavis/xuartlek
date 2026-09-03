@@ -30,8 +30,8 @@ A long tentacle like that belonging to an octopus, anemone, or man-of-war, dripp
 
 **Success** The target takes a –2 penalty to Perception checks involving vision until the end of its turn.
 
-**Failure** The target is dazzled until the end of its turn.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the end of its turn.
 
-**Critical Failure** The target is blinded until the end of its turn.
+**Critical Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until the end of its turn.
 
 *Source: Howl of the Wild p. 61*

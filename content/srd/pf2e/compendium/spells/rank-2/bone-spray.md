@@ -16,8 +16,8 @@ source: "Impossible Magic"
 `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Divine, Occult
-- **Area**: 15-foot cone
-- **Defense**: basic Reflex
+- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
 You fire a torrent of jagged bone shards from your hands that rips through the fleshy bodies of your enemies. The spray deals 2d10 piercing damage and 1 persistent bleed damage to all creatures in the area, with a basic Reflex save.
 

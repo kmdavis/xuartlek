@@ -22,9 +22,9 @@ source: "Treasure Vault (Remastered)"
 
 **Perception** +17; precise vision 30 feet, imprecise hearing 30 feet
 
-**Communication** speech (Common and one other common or regional language)
+**Communication** speech ([[srd/pf2e/compendium/rules-elements/languages#Common|Common]] and one other common or regional language)
 
-**Skills** Intimidation +19, Sports Lore +17
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +19, Sports Lore +17
 
 **Int** +2, **Wis** +4, **Cha** +4
 
@@ -34,6 +34,6 @@ source: "Treasure Vault (Remastered)"
 
 _Wrestler's armbands_ are a set of _armbands of athleticism_ that have gained their own boisterous sapience. Often, such items aren't created intentionally but rather are the result of a truly charismatic champion whose heart and body are unusually strong wearing the _armbands of athleticism_ on many adventures as their most important item. Eventually, the essence of their earnest and adventurous spirit has so thoroughly inundated the item it gains a matching spirit and will of its own. Such armbands view themselves as a tough, but fair, trainer for whomever inherits them next, inspiring you to new heights of athleticism. They also spoil for contests, telepathically calling out competitors on your behalf; typically the armbands won't challenge a foe you're unprepared to face, but particularly eager wrestler's armbands might have an unfortunate habit of overestimating your abilities and pushing you into a conflict that's beyond your proven capacity. These armbands have the following activation.
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per minute; **Trigger** You succeed or critically succeed at an Athletics check; **Effect** The armbands taunt a creature you're competing with, boasting of your prowess and attempting an Intimidation check to Demoralize that creature.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per minute; **Trigger** You succeed or critically succeed at an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check; **Effect** The armbands taunt a creature you're competing with, boasting of your prowess and attempting an Intimidation check to Demoralize that creature.
 
 *Source: Treasure Vault (Remastered) p. 197*

@@ -17,7 +17,7 @@ source: "GM Core"
 `Consumable`  `Magical`  `Talisman`
 
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Requirement**: You are trained in Athletics
 
 This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor. When you activate it, make a Leap, traveling up to 40 feet horizontally and up to 10 feet vertically. If you don't end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground.

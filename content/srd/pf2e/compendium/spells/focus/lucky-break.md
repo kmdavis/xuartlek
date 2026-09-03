@@ -18,7 +18,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Fortune`  `Uncommon`
 
-- **Domain**: Luck
+- **Domain**: [[srd/pf2e/compendium/character/domains#Luck|Luck]]
 - **Trigger**: You fail, but don’t critically fail, a saving throw
 
 Reroll the saving throw and use the better result. You then become temporarily immune for 10 minutes.

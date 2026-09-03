@@ -17,7 +17,7 @@ source: "Impossible Magic"
 - **Cast**: 1 day
 - **Cost**: rare oils worth 10 gp × the primary caster’s level
 - **Secondary Casters**: 1
-- **Primary Check**: Occultism or Religion
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
 - **Secondary Checks**: Athletics , Diplomacy , or Society
 - **Duration**: 1 week
 

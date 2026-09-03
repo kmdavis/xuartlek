@@ -27,10 +27,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision, scent (imprecise) 30 feet"
-languages: "Common, Goblin, Orcish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +8, Deception +6, Intimidation +6, Stealth +7, Survival +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +6, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
 abilityMods: [4, 3, 3, -1, 2, 2]
 ac: 17
 armorclass:
@@ -55,7 +55,7 @@ abilities_bot:
   - name: "Pack Attack"
     desc: "The warg's Strikes deal 1d4 extra damage to creatures within the reach of at least two of the warg's allies."
   - name: "Swallow Whole"
-    desc: "⬻ (Attack) Small, 1d6+2 bludgeoning, Rupture 9"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Small, 1d6+2 bludgeoning, Rupture 9"
 sourcebook: "_Monster Core_, page 341."
 ```
 

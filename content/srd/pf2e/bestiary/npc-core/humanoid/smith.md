@@ -29,16 +29,16 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +8, Crafting +15, Diplomacy +5, Smithy Lore +15, Society +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +15, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Smithy Lore]] +15, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +8"
 abilityMods: [3, 1, 2, 3, 0, 0]
 abilities_top:
   - name: "Smithing Specialist"
     desc: "For encounters involving smithing or other crafting tasks, the smith is a 6th-level challenge."
   - name: "Items"
-    desc: "Artisan's Toolkit, leather apron (functions as padded armor), light hammer"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]]), light hammer"
 ac: 17
 armorclass:
   - name: "AC"
@@ -50,11 +50,11 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ light hammer +10 (Agile) __Damage__ 1d6+3 bludgeoning plus smith's fury"
+    desc: "⬻ light hammer +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+3 bludgeoning plus smith's fury"
   - name: "Melee"
-    desc: "⬻ fist +10 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ light hammer +8 (Agile, thrown 20 feet) __Damage__ 1d6+3 bludgeoning plus smith's fury"
+    desc: "⬻ light hammer +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+3 bludgeoning plus smith's fury"
 abilities_bot:
   - name: "Smith's Fury"
     desc: "The smith deals an additional 1d6 damage when they hit with a weapon they created."

@@ -29,7 +29,7 @@ perception:
     desc: "Perception +17; low-light vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +12, Athletics +15, Stealth +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +16"
 abilityMods: [5, 4, 3, -3, 3, 1]
 ac: 24
 armorclass:
@@ -45,22 +45,22 @@ abilities_mid:
   - name: "Trigger"
     desc: "The skull peeler is using Perfect Camouflage, and a creature moves into a space within 15 feet of it"
   - name: "Effect"
-    desc: "The skull peeler Leaps toward the triggering creature and Strikes with its tongue. If this Strike is successful, the skull peeler automatically Grabs (page 361) the target with its tongue."
+    desc: "The skull peeler [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] toward the triggering creature and Strikes with its tongue. If this Strike is successful, the skull peeler automatically Grabs (page 361) the target with its tongue."
 speed: "20 feet, climb 15 feet, fly 10 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tongue +17 (Agile, fatal d12, reach 10 feet) __Damage__ 2d4+8 slashing plus 1d8 persistent bleed"
+    desc: "⬻ tongue +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d12]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d4+8 slashing plus 1d8 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed]]"
   - name: "Melee"
     desc: "⬻ claw +17 __Damage__ 2d10+8 slashing"
 abilities_bot:
   - name: "Anticoagulant"
-    desc: "The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close. The DC of the flat check to end the persistent bleed damage from a skull peeler's tongue Strike is 16, or 11 with appropriate assistance."
+    desc: "The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close. The DC of the flat check to end the [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] from a skull peeler's tongue Strike is 16, or 11 with appropriate assistance."
   - name: "Perfect Camouflage"
-    desc: "⬻ (Concentrate)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]])"
   - name: "Requirements"
     desc: "The skull peeler is in a treetop or standing on a tree limb"
   - name: "Effect"
-    desc: "Until the next time it acts, the skull peeler hangs perfectly still, blending into the treetop surroundings. It has an automatic result of 36 on Stealth checks and DCs to Hide from any creature more than 10 feet away from it. A Grim Nature While explorers and adventurers who encounter skull peelers in the wild often assume the small beasts resulted from some ill-advised magical experiment by a foolish wizard, they're actually a naturally occurring species. Though their unusual assembly of characteristics might carry some minor First World influence, skull peelers evolved from other tree-dwelling mammals over thousands of years. In their current form, they're successful predators in their environment, mostly feeding on long-necked dinosaurs—prey that other, much larger carnivores still struggle to bring down!"
+    desc: "Until the next time it acts, the skull peeler hangs perfectly still, blending into the treetop surroundings. It has an automatic result of 36 on [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks and DCs to Hide from any creature more than 10 feet away from it. A Grim Nature While explorers and adventurers who encounter skull peelers in the wild often assume the small beasts resulted from some ill-advised magical experiment by a foolish [[srd/pf2e/compendium/character/classes/wizard|wizard]], they're actually a naturally occurring species. Though their unusual assembly of characteristics might carry some minor [[srd/pf2e/compendium/gm/planes#First World|First World]] influence, skull peelers evolved from other tree-dwelling mammals over thousands of years. In their current form, they're successful predators in their environment, mostly feeding on long-necked dinosaurs—prey that other, much larger carnivores still struggle to bring down!"
 sourcebook: "_Monster Core 2_, page 292."
 ```
 

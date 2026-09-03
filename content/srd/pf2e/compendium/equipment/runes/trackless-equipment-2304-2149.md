@@ -16,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: applied to footwear
 
-_Trackless runes_ are common among hunters and trappers, as well as thieves and anyone fleeing pursuit. While wearing trackless footwear, you are continuously affected by the _vanishing tracks_ spell.
+_Trackless runes_ are common among hunters and trappers, as well as thieves and anyone fleeing pursuit. While wearing trackless footwear, you are continuously affected by the [[srd/pf2e/compendium/spells/rank-1/vanishing-tracks|_vanishing tracks_]] spell.
 
 ### Trackless
 
@@ -30,6 +30,6 @@ _Trackless runes_ are common among hunters and trappers, as well as thieves and 
 
 The rune has an activation.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** You extend the effect of your rune out to a 20-foot emanation. The emanation remains for 8 hours, affecting up to 10 creatures of your choice within the area. You can Dismiss this effect.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You extend the effect of your rune out to a 20-foot emanation. The emanation remains for 8 hours, affecting up to 10 creatures of your choice within the area. You can Dismiss this effect.
 
 *Source: Treasure Vault (Remastered) p. 145*

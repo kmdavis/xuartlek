@@ -14,7 +14,7 @@ While the common wasp poses little threat to a hardy adventurer aside from an un
 
 ### Members
 
-Giant Wasp (Creature 3), Wasp Swarm (Creature 4)
+[[srd/pf2e/bestiary/monster-core/animal/giant-wasp|Giant Wasp]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/wasp-swarm|Wasp Swarm]] (Creature 4)
 
 ### Paralytic Poison
 

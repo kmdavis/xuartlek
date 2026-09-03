@@ -23,7 +23,7 @@ source: "Player Core 2"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Strike
 
-These spring-loaded metal canisters contain a mixture of chemicals and salts that drain and disintegrate nearby undead creatures. A ghost charge deals the listed vitality damage and splash damage, though as usual for vitality damage, this damage harms only undead and creatures with void healing. Ghost charges are designed to explode even on contact with a spiritual substance, making them ideal for damaging incorporeal undead. A primary target that takes damage from a ghost charge becomes enfeebled until the start of your next turn. Many types grant an item bonus to attack rolls.
+These spring-loaded metal canisters contain a mixture of chemicals and salts that drain and disintegrate nearby undead creatures. A ghost charge deals the listed vitality damage and splash damage, though as usual for [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] damage, this damage harms only undead and creatures with void healing. Ghost charges are designed to explode even on contact with a spiritual substance, making them ideal for damaging [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] undead. A primary target that takes damage from a ghost charge becomes [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] until the start of your next turn. Many types grant an item bonus to attack rolls.
 
 ### Ghost Charge (Lesser)
 

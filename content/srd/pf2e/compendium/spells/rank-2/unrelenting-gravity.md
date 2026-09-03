@@ -25,9 +25,9 @@ Even the fundamental forces of the universe can bend to your magic and submit to
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is encumbered for 1 round.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] for 1 round.
 
-**Failure** The target falls prone and is encumbered for 1 round. Additionally, if this spell causes the target to fall, the DC to Arrest a Fall is your spell DC.
+**Failure** The target falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and is encumbered for 1 round. Additionally, if this spell causes the target to fall, the DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Arrest a Fall|Arrest a Fall]] is your spell DC.
 
 **Critical Failure** The target falls prone and is encumbered for 1 round. Additionally, if this spell causes the target to fall, the target can’t Arrest a Fall, and falling damage is doubled.
 

@@ -16,7 +16,7 @@ source: "GM Core"
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: Adamantine
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|Adamantine]]
 
 Adamantine weapons have a shiny black appearance and cut through lesser items with ease. They treat any object they hit as if it had half as much Hardness as usual, unless the object's Hardness is greater than that of the adamantine weapon.
 

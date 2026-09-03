@@ -18,8 +18,8 @@ source: "Battlecry!"
 - **Price**: 25 gp
 - **Usage**: worn
 
-Many soldiers wear this metal pendant engraved with their name and critical details. Sadly, they also ascertain the identity of fallen soldiers. Many soldiers find that the pendant helps them stay grounded. When you wear your name pendant, you gain a +1 bonus to saving throws against spells and magical effects with the mental trait.
+Many soldiers wear this metal pendant engraved with their name and critical details. Sadly, they also ascertain the identity of fallen soldiers. Many soldiers find that the pendant helps them stay grounded. When you wear your name pendant, you gain a +1 bonus to saving throws against spells and [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] trait.
 
-**Activate—Alert Superior Officer** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ; **Frequency** once per day; **Trigger** You gain the dying condition; **Effect** The pendent alerts all other allies within 500 feet who are also wearing a _name pendant_.
+**Activate—Alert Superior Officer** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ; **Frequency** once per day; **Trigger** You gain the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition; **Effect** The pendent alerts all other allies within 500 feet who are also wearing a _name pendant_.
 
 *Source: Battlecry! p. 152*

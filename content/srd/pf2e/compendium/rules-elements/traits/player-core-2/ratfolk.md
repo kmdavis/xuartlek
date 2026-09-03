@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Ratfolk`
 
-A creature with this trait is a member of the ratfolk ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.
+A creature with this trait is a member of the [[srd/pf2e/compendium/character/ancestries/ratfolk|ratfolk]] ancestry. Ratfolk are humanoids who resemble rats. An ability with this trait can be used or selected only by ratfolk.
 
 *Source: Player Core 2 p. 317*

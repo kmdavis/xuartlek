@@ -29,11 +29,11 @@ perception:
     desc: "Perception +19; arcanosense (precise) 120 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +16, Arcana +18, Stealth +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +18, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
 abilityMods: [3, 6, 3, -4, 1, 2]
 abilities_top:
   - name: "Arcanosense"
-    desc: "A hexmoth can sense sources of magic at the listed range as though it has a 4th-rank _detect magic_ constant innate spell."
+    desc: "A hexmoth can sense sources of magic at the listed range as though it has a 4th-rank [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]] constant innate spell."
 ac: 27
 armorclass:
   - name: "AC"
@@ -61,7 +61,7 @@ abilities_bot:
   - name: "Trigger"
     desc: "The hexmoth's turn begins"
   - name: "Effect"
-    desc: "The hexmoth Strides or Flies up to its Speed toward the nearest source of magic it can detect."
+    desc: "The hexmoth Strides or [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to its Speed toward the nearest source of magic it can detect."
   - name: "Hexdust Wind"
     desc: "⬺ With a few fierce wingbeats, the hexmoth expels magical scale dust in a 30-foot cone. This deals 10d6 damage of the type to which the hexmoth is immune (DC 23 basic Fortitude save). It can't use Hexdust Wind again for 1d4 rounds."
 sourcebook: "_Howl of the Wild_, page 159."

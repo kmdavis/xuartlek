@@ -17,8 +17,8 @@ source: "Impossible Magic"
 
 - **Price**: 50 gp
 - **Ammunition**: sling bullet
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-The metals used to forge this lead ball were taken from a variety of continents and barely stay together. When an activated _dispersing bullet_ hits a target, the bullet scatters into a sphere of metal shards as the metals try to return to their places of origin. All creatures in a 10-foot emanation around the target of the attack (not including the target) must succeed at a DC 21 Fortitude save or be pushed 10 feet from the target (15 feet on a critical failure).
+The metals used to forge this lead ball were taken from a variety of continents and barely stay together. When an activated _dispersing bullet_ hits a target, the bullet scatters into a sphere of metal shards as the metals try to return to their places of origin. All creatures in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] around the target of the attack (not including the target) must succeed at a DC 21 Fortitude save or be pushed 10 feet from the target (15 feet on a critical failure).
 
 *Source: Impossible Magic p. 212*

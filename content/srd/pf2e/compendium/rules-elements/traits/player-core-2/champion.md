@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Champion`
 
-This indicates abilities from the champion class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/champion|champion]] class.
 
 *Source: Player Core 2 p. 315*

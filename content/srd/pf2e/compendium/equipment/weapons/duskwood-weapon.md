@@ -16,7 +16,7 @@ source: "GM Core"
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: Duskwood
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/duskwood-object-high-grade|Duskwood]]
 
 Duskwood weapons are as dark as ebony, with a slight purple tint. A duskwood weapon's Bulk is reduced by 1 (or to light Bulk if its normal Bulk is 1, with no effect on a weapon that normally has light Bulk).
 

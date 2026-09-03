@@ -21,9 +21,9 @@ source: "Player Core 2"
 - **Price**: 4,000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The drained condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts. 
+King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts. 
 
 **Saving Throw** DC 41 Fortitude; **Onset 1** day; **Stage 1** drained 1 (1 day); **Stage 2** drained 1 (1 day); **Stage 3** drained 2 (1 day)
 

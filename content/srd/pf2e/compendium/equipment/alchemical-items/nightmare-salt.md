@@ -21,10 +21,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 14,000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This potent poison consists of crystals whose flavor and appearance mimics edible salt but whose effects are deadly; victims experience periods of waking nightmares that overload the senses and eventually result in death through a combination of shock and exhaustion.
 
-**Saving Throw** DC 43 Fortitude; **Onset** 1 hour; **Maximum Duration** 5 days; **Stage 1** frightened 2 once every 1d4 hours, plus fatigued (1 day); **Stage 2** confused for 1 minute once every 1d4 hours, plus frightened 3 and fatigued (1 day); **Stage 3** frightened 3, plus confused for 1d4 minutes, once every hour, plus fatigued (1 day); **Stage 4** death
+**Saving Throw** DC 43 Fortitude; **Onset** 1 hour; **Maximum Duration** 5 days; **Stage 1** frightened 2 once every 1d4 hours, plus [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] (1 day); **Stage 2** [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 minute once every 1d4 hours, plus frightened 3 and fatigued (1 day); **Stage 3** frightened 3, plus confused for 1d4 minutes, once every hour, plus fatigued (1 day); **Stage 4** death
 
 *Source: Treasure Vault (Remastered) p. 70*

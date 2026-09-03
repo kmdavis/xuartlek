@@ -17,9 +17,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Camouflage dye uses a variety of alchemically treated paints and crushed crystals to make the user particularly hard to distinguish from their surroundings. When you Activate the dye by sprinkling it on yourself or a creature within reach, the target and its clothing change colors, blending into their surroundings until the target makes a sudden movement. The target can Hide or Sneak without cover or concealment for 10 minutes. If the target uses a hostile action or moves at more than half its Speed, after that action is completed, the effects of camouflage powder end and the creature ceases to be hidden or undetected.
+Camouflage dye uses a variety of alchemically treated paints and crushed crystals to make the user particularly hard to distinguish from their surroundings. When you Activate the dye by sprinkling it on yourself or a creature within reach, the target and its clothing change colors, blending into their surroundings until the target makes a sudden movement. The target can Hide or Sneak without cover or concealment for 10 minutes. If the target uses a hostile action or moves at more than half its Speed, after that action is completed, the effects of camouflage powder end and the creature ceases to be [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]].
 
 ### Camouflage Dye (Lesser)
 

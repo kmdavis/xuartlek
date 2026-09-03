@@ -21,7 +21,7 @@ source: "GM Core"
 DC 24 (expert)
 
 **Disable**
-DC 26 Thievery (expert) to disable the hammer that strikes the percussion cap
+DC 26 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (expert) to disable the hammer that strikes the percussion cap
 
 **AC** 24, **Fort** +0, **Ref** +0
 
@@ -32,8 +32,8 @@ DC 26 Thievery (expert) to disable the hammer that strikes the percussion cap
 1
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
-**Powder Burst** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (mental, poison) **Trigger** The latch is opened or the tube is broken; **Effect** The tube explodes, spraying hallucinogenic powder in a 30-foot cone. Any creature in the cone must succeed at a DC 24 Will save or be confused for 1 round and take a –2 status penalty to Perception checks and saves against mental effects for 1d4 hours. On a critical failure, the penalty is instead –4.
+**Powder Burst** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) **Trigger** The latch is opened or the tube is broken; **Effect** The tube explodes, spraying hallucinogenic powder in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]]. Any creature in the cone must succeed at a DC 24 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round and take a –2 status penalty to [[srd/pf2e/books/player-core/chapter-1-introduction/playing-the-game#Perception|Perception]] checks and saves against mental effects for 1d4 hours. On a critical failure, the penalty is instead –4.
 
 *Source: GM Core p. 102*

@@ -31,14 +31,14 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; low-light vision"
-languages: "Common, Strix"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Strix"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Nature +7, Survival +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
 abilityMods: [2, 4, 0, 0, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "Leather Armor, Shortbow (20 arrows), Shortsword"
+    desc: "[[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/bow/shortbow|Shortbow]] (20 arrows), [[srd/pf2e/compendium/equipment/weapons/sword/shortsword|Shortsword]]"
 ac: 18
 armorclass:
   - name: "AC"
@@ -50,16 +50,16 @@ health:
 speed: "25 feet, fly 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +10 (Agile, finesse, versatile S) __Damage__ 1d6+4 piercing"
+    desc: "⬻ shortsword +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+4 piercing"
   - name: "Melee"
-    desc: "⬻ talon +10 (Agile, finesse) __Damage__ 1d6+4 slashing"
+    desc: "⬻ talon +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 1d6+4 slashing"
   - name: "Ranged"
-    desc: "⬻ shortbow +10 (deadly d10, range increment 60 feet) __Damage__ 1d6+2 piercing"
+    desc: "⬻ shortbow +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], range increment 60 feet) __Damage__ 1d6+2 piercing"
 abilities_bot:
   - name: "Strix Camaraderie"
-    desc: "Strix kinmates are tightly bonded to one another, adept at teamwork and supporting each other's attacks. If an enemy is within reach of both the kinmate and one other strix, that enemy is off-guard to all strix."
+    desc: "Strix kinmates are tightly bonded to one another, adept at teamwork and supporting each other's attacks. If an enemy is within reach of both the kinmate and one other strix, that enemy is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to all strix."
   - name: "Strix Vengeance"
-    desc: "⭓ (Emotion, mental)"
+    desc: "⭓ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
   - name: "Frequency"
     desc: "once per 10 minutes"
   - name: "Trigger"

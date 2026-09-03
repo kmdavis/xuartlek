@@ -18,7 +18,7 @@ source: "Impossible Magic"
 `Concentrate`  `Earth`  `Fire`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Area**: 120-foot line
+- **Area**: 120-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]]
 - **Defense**: Reflex
 
 A thin crack rips through the earth, erupting with magma, then swiftly seals up. Each creature along the line and on solid ground takes 4d6 bludgeoning damage and 6d6 fire damage with a Reflex save.
@@ -27,7 +27,7 @@ A thin crack rips through the earth, erupting with magma, then swiftly seals up.
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage, and it falls prone.
+**Failure** The creature takes full damage, and it falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 **Critical Failure** The creature takes double damage, and it falls prone.
 

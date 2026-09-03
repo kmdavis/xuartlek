@@ -31,7 +31,7 @@ perception:
     desc: "Perception +33; low-light vision, flawless hearing"
 skills:
   - name: "Skills"
-    desc: "Athletics +35"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +35"
 abilityMods: [9, 4, 8, -4, 6, 3]
 abilities_top:
   - name: "Flawless Hearing"
@@ -43,31 +43,31 @@ armorclass:
 hp: 255
 health:
   - name: "HP"
-    desc: "255; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, nonlethal attacks, paralyzed, poison, sickened, sonic, spirit, unconscious, vitality, void; __Resistances__ physical 15 (except adamantine)"
+    desc: "255; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Resistances__ physical 15 (except adamantine)"
 speed: "50 feet, fly , water walk"
 attacks:
   - name: "Melee"
-    desc: "⬻ trunk +35 (Magical, reach 20 feet, Sweep, Trip) __Damage__ 5d10+17 bludgeoning plus Grab"
+    desc: "⬻ trunk +35 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 5d10+17 bludgeoning plus Grab"
   - name: "Melee"
-    desc: "⬻ foot +33 (Magical, reach 10 feet) __Damage__ 5d8+15 bludgeoning"
+    desc: "⬻ foot +33 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 5d8+15 bludgeoning"
 abilities_bot:
   - name: "Roll"
     desc: "⬻ The aolaz tucks its head down and rolls up into an armored sphere. While Rolling, an aolaz has AC 44, Fort +37, Ref +29, Will +33, and Speed 100 feet, but it can't use its trunk Strikes or its Ultrasonic Blast. It can make foot Strikes while rolling, but only as part of a Trample. The aolaz can use this action again to unroll and resume its standing form."
   - name: "Trample"
     desc: "⬺ Huge or smaller, foot, DC 40"
   - name: "Ultrasonic Blast"
-    desc: "⬻ (Arcane, Sonic) The aolaz releases a tremendous blast of sonic energy from its trunk in a 150-foot line, dealing 12d10 sonic damage. The frequency of this sound is such that it is completely imperceptible to humanoids, but the damage it wreaks is all too evident. Each creature in the area must attempt a DC 40 Fortitude save. The aolaz can't use Ultrasonic Blast again for 1d4 rounds."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|Sonic]]) The aolaz releases a tremendous blast of sonic energy from its trunk in a 150-foot line, dealing 12d10 sonic damage. The frequency of this sound is such that it is completely imperceptible to humanoids, but the damage it wreaks is all too evident. Each creature in the area must attempt a DC 40 Fortitude save. The aolaz can't use Ultrasonic Blast again for 1d4 rounds."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
-    desc: "The creature takes half damage and is stunned 1."
+    desc: "The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]]."
   - name: "Failure"
     desc: "The creature takes full damage and is stunned 2."
   - name: "Critical Failure"
-    desc: "The creature takes double damage and is stunned 3. Jistkan Behemoths Thousands of years ago, the Jistka Imperium mastered the art of construct creation, and the aolaz represents the height of its craft. The Jistkans used primal magic to imbue their constructs with spirits of nature. However, when Jistkan creators turned to the outer planes, and to fiends in particular, as a source to power even greater constructs, they unknowingly orchestrated their own doom."
+    desc: "The creature takes double damage and is stunned 3. Jistkan Behemoths Thousands of years ago, the Jistka Imperium mastered the art of construct creation, and the aolaz represents the height of its craft. The Jistkans used primal magic to imbue their constructs with spirits of nature. However, when Jistkan creators turned to the outer planes, and to [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]] in particular, as a source to power even greater constructs, they unknowingly orchestrated their own doom."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 40 - __Constant (9th)__ Fly, Water Walk"
+    desc: "DC 40 - __Constant (9th)__ [[srd/pf2e/compendium/spells/rank-4/fly|Fly]], [[srd/pf2e/compendium/spells/rank-2/water-walk|Water Walk]]"
 sourcebook: "_Monster Core_, page 22."
 ```
 

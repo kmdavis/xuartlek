@@ -31,19 +31,19 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21"
-languages: "Common, Skald"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Skald|Skald]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +23, Intimidation +21"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +21"
 abilityMods: [7, 3, 5, 1, 1, 1]
 ac: 30
 armorclass:
   - name: "AC"
-    desc: "30; __Fort__: +24; __Ref__: +21; __Will__: +18 +2 status to all saves vs. fear"
+    desc: "30; __Fort__: +24; __Ref__: +21; __Will__: +18 +2 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]"
 hp: 195
 health:
   - name: "HP"
-    desc: "195 (4 segments); __Weaknesses__ area damage 10, splash damage 10"
+    desc: "195 (4 segments); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
 abilities_mid:
   - name: "Sacrifice"
     desc: "⬲"
@@ -62,9 +62,9 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "Battle axes in hand, the viking guard engages in a coordinated melee attack against enemies in a 5-foot emanation, with a DC 27 basic Reflex save. The damage depends on the number of actions. ⬻ 1d8+3 slashing damage ⬺ 2d8+12 slashing damage ⬽ 3d8+15 slashing damage"
+    desc: "Battle axes in hand, the viking guard engages in a coordinated melee attack against enemies in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 27 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d8+3 slashing damage ⬺ 2d8+12 slashing damage ⬽ 3d8+15 slashing damage"
   - name: "Guard Charge"
-    desc: "⬻ The viking guard designates an ally it can see to be its charge. The charge gains a +2 circumstance bonus to their AC, Reflex saves, and saves against fear when they are adjacent to the viking guard. Further, this allows the viking guard to use its Sacrifice and Shield Wall actions. A viking guard can have only one charge at a time, and if it designates a new charge, the old one loses all benefits. If the viking guard's charge is reduced to 0 Hit Points, the viking guard must succeed at a DC 30 Will save or become frightened 2; this is an emotion, fear, and mental effect."
+    desc: "⬻ The viking guard designates an ally it can see to be its charge. The charge gains a +2 circumstance bonus to their AC, Reflex saves, and saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] when they are adjacent to the viking guard. Further, this allows the viking guard to use its Sacrifice and Shield Wall actions. A viking guard can have only one charge at a time, and if it designates a new charge, the old one loses all benefits. If the viking guard's charge is reduced to 0 Hit Points, the viking guard must succeed at a DC 30 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 2; this is an [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], fear, and [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect."
   - name: "Shield Wall"
     desc: "⬺"
   - name: "Requirements"

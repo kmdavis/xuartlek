@@ -29,10 +29,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Crafting +5, Medicine +10, Nature +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +5, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +10, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +8"
 abilityMods: [0, 1, 1, 3, 3, 1]
 abilities_top:
   - name: "Medical Specialist"
@@ -40,23 +40,23 @@ abilities_top:
   - name: "Medical Wisdom"
     desc: "The apothecary can identify the effect of any alchemical composition or medical ingredient using only their senses. This typically takes 1 minute."
   - name: "Items"
-    desc: "lesser acid flask (2), Dagger, minor elixir of life (2), Healer's Toolkit, leather apron (functions as padded armor), mortar and pestle"
+    desc: "lesser acid flask (2), Dagger, minor elixir of life (2), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]]), mortar and pestle"
 ac: 14
 armorclass:
   - name: "AC"
-    desc: "14; __Fort__: +8; __Ref__: +3; __Will__: +5 +1 circumstance to all saves vs. poisons"
+    desc: "14; __Fort__: +8; __Ref__: +3; __Will__: +5 +1 circumstance to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]]"
 hp: 8
 health:
   - name: "HP"
-    desc: "8; __Resistances__ poison 2"
+    desc: "8; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 2"
 speed: "25 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ stone pestle +4 __Damage__ 1d6 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +5 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ acid flask +5 (range increment 20 feet, Splash) __Damage__ 1 acid plus 1d6 persistent acid and 1 splash acid"
+    desc: "⬻ acid flask +5 (range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]]) __Damage__ 1 acid plus 1d6 persistent acid and 1 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] acid"
 sourcebook: "_NPC Core_, page 60."
 ```
 

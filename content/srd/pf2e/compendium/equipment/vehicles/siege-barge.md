@@ -23,7 +23,7 @@ These special barges were designed to siege river and oceanside fortresses and e
 
 **Passengers** 20
 
-**Piloting Check** Nature (DC 41 to 46 depending on the pulling creatures) or Sailing Lore (DC 39)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 41 to 46 depending on the pulling creatures) or [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] (DC 39)
 
 ---
 
@@ -35,7 +35,7 @@ These special barges were designed to siege river and oceanside fortresses and e
 
 **HP** 300 (BT 150)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
 ---
 
@@ -44,6 +44,6 @@ These special barges were designed to siege river and oceanside fortresses and e
 **Collision** 13d10 (DC 39)
 
 **Sluggish** This vehicle must move twice its length for each 90-degree turn it makes.
-**Weapon Mounts** This vehicle has two weapon mounts. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 39 Crafting check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
+**Weapon Mounts** This vehicle has two weapon mounts. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 39 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
 
 *Source: Battlecry! p. 115*

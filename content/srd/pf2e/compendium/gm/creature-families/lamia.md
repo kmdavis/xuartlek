@@ -14,7 +14,7 @@ Lamias are bloodthirsty victims of an ancient curse for which they blame the god
 
 ### Members
 
-Lamia (Creature 6), Lamia Matriarch (Creature 8)
+[[srd/pf2e/bestiary/monster-core/beast/lamia|Lamia]] (Creature 6), [[srd/pf2e/bestiary/monster-core/beast/lamia-matriarch|Lamia Matriarch]] (Creature 8)
 
 ### Lamia Locations
 

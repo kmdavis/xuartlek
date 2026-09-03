@@ -10,13 +10,13 @@ source: "Player Core"
 
 # Subsist  *General Skill Action*
 
-If you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses Society if you're in a settlement or Survival if you're in the wild.
+If you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses [[srd/pf2e/compendium/rules-elements/skills/society|Society]] if you're in a settlement or [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] if you're in the wild.
 
 ### Skill Uses
 
-[Society] Subsist in a settlement by finding shelter, scrounging, or begging for food.
+[[srd/pf2e/compendium/rules-elements/skills/society|Society]] Subsist in a settlement by finding shelter, scrounging, or begging for food.
 
-[Survival] Subsist in the wild by foraging for food and building shelter.
+[[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] Subsist in the wild by foraging for food and building shelter.
 
 ### Item Bonuses for Subsist
 

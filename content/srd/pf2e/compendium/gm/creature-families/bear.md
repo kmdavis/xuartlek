@@ -14,6 +14,6 @@ Bears are ferocious predators typically found in cold or temperate woodlands and
 
 ### Members
 
-Cave Bear (Creature 6), Grizzly Bear (Creature 3)
+[[srd/pf2e/bestiary/monster-core/animal/cave-bear|Cave Bear]] (Creature 6), [[srd/pf2e/bestiary/monster-core/animal/grizzly-bear|Grizzly Bear]] (Creature 3)
 
 *Source: Monster Core p. 41*

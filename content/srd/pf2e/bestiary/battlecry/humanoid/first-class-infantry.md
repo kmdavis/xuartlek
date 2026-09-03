@@ -31,10 +31,10 @@ modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +27, Warfare Lore +24"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +27, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +24"
 abilityMods: [8, 4, 5, 0, 2, 0]
 ac: 33
 armorclass:
@@ -43,30 +43,30 @@ armorclass:
 hp: 240
 health:
   - name: "HP"
-    desc: "240 (4 segments); __Weaknesses__ area damage 12, splash damage 12"
+    desc: "240 (4 segments); __Weaknesses__ area damage 12, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 12"
 abilities_mid:
   - name: "No Retreat"
-    desc: "These soldiers have been extensively trained to hold their ground no matter the situation. If any effect would force the first-class infantry to move, reduce the distance by 10 feet. Any time they would be affected by the fleeing condition, the first-class infantry is instead slowed 2 for the same duration."
+    desc: "These soldiers have been extensively trained to hold their ground no matter the situation. If any effect would force the first-class infantry to move, reduce the distance by 10 feet. Any time they would be affected by the fleeing condition, the first-class infantry is instead [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 2 for the same duration."
   - name: "Troop Defenses"
     desc: ""
 speed: "20 feet; troop movement"
 abilities_bot:
   - name: "Bolt Salvo"
-    desc: "⬽ The first-class infantry draws, loads, and shoots a salvo from their crossbows. The salvo is a 10-foot burst within 120 feet that deals 4d8 piercing damage (DC 30 basic Reflex save). When the first-class infantry is reduced to 2 segments, this area decreases to a 5-foot burst."
+    desc: "⬽ The first-class infantry draws, loads, and shoots a salvo from their crossbows. The salvo is a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] within 120 feet that deals 4d8 piercing damage (DC 30 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). When the first-class infantry is reduced to 2 segments, this area decreases to a 5-foot burst."
   - name: "Clash of Steel"
     desc: ""
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The first-class infantry attacks each enemy in a 5-foot emanation, with a DC 29 basic Reflex save. The damage depends on the number of actions. ⬻ 2d6+1 slashing damage ⬺ 4d6+10 slashing damage ⬽ 4d6+18 slashing damage"
+    desc: "The first-class infantry attacks each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 29 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 2d6+1 slashing damage ⬺ 4d6+10 slashing damage ⬽ 4d6+18 slashing damage"
   - name: "Drilled in Formations"
     desc: "⬻"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The first-class infantry uses Change Formation. An first-class infantry unit typically knows the marching column and wedge formations."
+    desc: "The first-class infantry uses [[srd/pf2e/compendium/gm/creature-families/military|Change Formation]]. An first-class infantry unit typically knows the marching column and wedge formations."
   - name: "First-class Charge"
-    desc: "⬺ The first-class infantry rushes forward with a hunger for battle. They Stride up to twice their Speed. At the end of their movement, each enemy within a 5-foot emanation takes 2d6+5 slashing damage, with a DC 30 basic Reflex save."
+    desc: "⬺ The first-class infantry rushes forward with a hunger for battle. They [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] up to twice their Speed. At the end of their movement, each enemy within a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] takes 2d6+5 slashing damage, with a DC 30 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save."
 sourcebook: "_Battlecry!_, page 180."
 ```
 

@@ -14,6 +14,6 @@ source: "War of Immortals"
 - **Chogyel**: (diligent nonbinary human nephilim priest) has begun to notice strange signs of supernatural activity in Tamdrin Vale. Their faith will soon be tested, putting them on the path toward becoming an ascended celestial. As many generations of the nation of Holomog have been exposed to celestial energy, the population of nephilim is larger than average.
 - **Ghunda Gutrim**: (boisterous male ganzi musician) patrols the border of the Field of Maidens to rescue and lift the spirits of those who accidentally wandered into the haunted area. You count yourself among these heroes with the potential to become ascended celestials. Whether you battle wickedness with righteous might, inspire your community to perform worthy acts of charity, or act in secret against a rising tide of darkness, your actions result in making the world a better place. You are likely humble about these accomplishments, performing them not out of a desire for glory, but from a place of compassion and empathy. You may not even be aware that you’ve garnered the metaphysical attention of the celestial realms. Others, though, can see the holy light that radiates from your person, if not physically, then spiritually. Until your eventual ascension, you continue to work for the great greater good, no matter who or what stands in your way.
 
-
+]]
 
 *Source: War of Immortals p. 114*

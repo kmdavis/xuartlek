@@ -22,7 +22,7 @@ source: "Impossible Magic"
 `Concentrate`  `Disease`  `Focus`  `Manipulate`  `Necromancer`  `Uncommon`  `Void`  `Negative`
 
 - **Range**: 120 feet
-- **Area**: 60-foot burst
+- **Area**: 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
 - **Defense**: Fortitude
 - **Duration**: 1 minute
 
@@ -30,11 +30,11 @@ You release a plague of terrible undead mosquitoes over a massive area that expo
 
 **Critical Success** The creature is unaffected.
 
-**Success** The target is afflicted with necrotic blood at stage 1. It automatically recovers from the disease after 1 round, except that any sickened condition it has remains.
+**Success** The target is afflicted with necrotic blood at stage 1. It automatically recovers from the disease after 1 round, except that any [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] condition it has remains.
 
 **Failure** The target is afflicted with necrotic blood at stage 1.
 
 **Critical Failure** The target is afflicted with necrotic blood at stage 2.
-**Necrotic Blood** (disease, thrall) **Level** 18; If an afflicted creature dies, you create a thrall in its space of the same size as the creature; **Maximum Duration** 6 rounds; **Stage 1** 3d10 void damage, sickened 1, and the creature gains weakness 5 to bleed damage (1 round); **Stage 2** 4d10 void damage, sickened 2, and the creature gains weakness 10 to bleed damage; **Stage 3** 5d10 void damage, sickened 3, and the creature gains weakness 20 to bleed damage (1 round)
+**Necrotic Blood** ([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], thrall) **Level** 18; If an afflicted creature dies, you create a thrall in its space of the same size as the creature; **Maximum Duration** 6 rounds; **Stage 1** 3d10 void damage, [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1, and the creature gains weakness 5 to bleed damage (1 round); **Stage 2** 4d10 void damage, sickened 2, and the creature gains weakness 10 to bleed damage; **Stage 3** 5d10 void damage, sickened 3, and the creature gains weakness 20 to bleed damage (1 round)
 
 *Source: Impossible Magic p. 182*

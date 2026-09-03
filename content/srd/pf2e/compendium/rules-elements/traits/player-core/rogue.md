@@ -13,6 +13,6 @@ source: "Player Core"
 
 `Rogue`
 
-This indicates abilities from the rogue class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/rogue|rogue]] class.
 
 *Source: Player Core p. 460*

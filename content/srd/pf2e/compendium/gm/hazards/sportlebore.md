@@ -17,9 +17,9 @@ source: "Monster Core 2"
 DC 26 (expert)
 
 **Disable**
-A creature that notices the sportlebore can remove it from the food it’s hidden within automatically as an Interact action.
+A creature that notices the sportlebore can remove it from the food it’s [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] within automatically as an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action.
 
-**Mimic Food** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature eats food the sportlebore is hidden within; **Effect** The sportlebore rapidly multiplies in the host’s stomach, exposing the host to sportlebore infestation.
-**Sportlebore Infestation** (disease) **Saving Throw** DC 22 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** enfeebled 1 (1 hour); **Stage 3** enfeebled 2 (1 hour); **Stage 4** 4d6 bludgeoning damage (DC 25 basic Fortitude save) as the host painfully vomits out a sportlebore swarm and returns to stage 1
+**Mimic Food** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature eats food the sportlebore is [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] within; **Effect** The sportlebore rapidly multiplies in the host’s stomach, exposing the host to sportlebore infestation.
+**Sportlebore Infestation** ([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]) **Saving Throw** DC 22 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 hour); **Stage 3** enfeebled 2 (1 hour); **Stage 4** 4d6 bludgeoning damage (DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude save) as the host painfully vomits out a sportlebore swarm and returns to stage 1
 
 *Source: Monster Core 2 p. 306*

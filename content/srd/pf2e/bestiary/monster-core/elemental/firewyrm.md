@@ -29,14 +29,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; darkvision, smoke vision"
-languages: "Pyric"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +20"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +20"
 abilityMods: [5, 5, 4, -1, 3, 0]
 abilities_top:
   - name: "Smoke Vision"
-    desc: "The firewyrm ignores the concealed condition from smoke."
+    desc: "The firewyrm ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from smoke."
 ac: 28
 armorclass:
   - name: "AC"
@@ -44,19 +44,19 @@ armorclass:
 hp: 165
 health:
   - name: "HP"
-    desc: "165 (explosion); __Immunities__ bleed, fire, paralyzed, poison, sleep; __Weaknesses__ cold 10, water 10"
+    desc: "165 (explosion); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] 10"
 abilities_mid:
   - name: "Explosion"
-    desc: "(fire) When the firewyrm dies, it explodes, dealing 6d6 fire damage to each creature in a 10-foot emanation (DC 28 basic Reflex save). Intense Heat(aura, fire) 10 feet, 4d6 fire, DC 25 basic Reflex"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) When the firewyrm dies, it explodes, dealing 6d6 fire damage to each creature in a 10-foot emanation (DC 28 basic Reflex save). Intense Heat(aura, fire) 10 feet, 4d6 fire, DC 25 basic Reflex"
 speed: "60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tail +20 (reach 15 feet) __Damage__ 2d8+11 fire plus 2d8 persistent fire"
+    desc: "⬻ tail +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+11 fire plus 2d8 persistent fire"
   - name: "Ranged"
     desc: "⬻ fire mote +20 (range increment 60 feet) __Damage__ 2d8+6 fire"
 abilities_bot:
   - name: "Breathe Fire"
-    desc: "⬺ (Fire, Primal) The firewyrm breathes a 30-foot cone of fire dealing 7d6 fire and 2d8 persistent fire damage to every creature within the cone (DC 28 basic Reflex save). The firewyrm can't Breathe Fire again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The firewyrm breathes a 30-foot cone of fire dealing 7d6 fire and 2d8 persistent fire damage to every creature within the cone (DC 28 basic Reflex save). The firewyrm can't Breathe Fire again for 1d4 rounds."
 sourcebook: "_Monster Core_, page 144."
 ```
 

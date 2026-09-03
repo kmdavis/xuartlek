@@ -19,6 +19,6 @@ source: "Impossible Magic"
 
 - **Duration**: 1 minute
 
-You call upon your magic to speed up your attacks. You gain the quickened condition and can use the extra action each round for only Stride and Strike actions. As normal, you don’t gain an action on the turn you cast this spell, but you do when you regain actions at the start of your next turn.
+You call upon your magic to speed up your attacks. You gain the [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] condition and can use the extra action each round for only Stride and Strike actions. As normal, you don’t gain an action on the turn you cast this spell, but you do when you regain actions at the start of your next turn.
 
 *Source: Impossible Magic p. 179*

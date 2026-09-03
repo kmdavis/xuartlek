@@ -13,6 +13,6 @@ source: "Impossible Magic"
 
 - **Class**: Runesmith
 
-You gain the Shield Block general feat, a reaction that lets you reduce damage with your shield.
+You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
 
 *Source: Impossible Magic p. 43*

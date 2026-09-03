@@ -31,7 +31,7 @@ perception:
     desc: "Perception +5; motion sense (precise) 60 feet, no vision"
 skills:
   - name: "Skills"
-    desc: "Athletics +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11"
 abilityMods: [4, -5, 5, -5, 0, -5]
 abilities_top:
   - name: "Motion Sense"
@@ -43,7 +43,7 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90; __Immunities__ acid, bleed, critical hits, mental, precision, slashing, unconscious, visual"
+    desc: "90; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], bleed, critical hits, [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], precision, slashing, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
 abilities_mid:
   - name: "Split"
     desc: "Whenever a string slime would take slashing damage (if it weren't immune) and has at least 10 HP, it splits into two identical slimes with half the original's HP. One string slime is in the same space as the original, and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, move smaller creatures and objects out of the way to make a space or the split is canceled at the GM's discretion."
@@ -57,7 +57,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "another string slime is within 30 feet"
   - name: "Effect"
-    desc: "The slime arcs protoplasm to the other string slime. Creatures in that line take 3d6 acid damage with a DC 16 basic Reflex save. A creature that fails its save is also knocked prone."
+    desc: "The slime arcs protoplasm to the other string slime. Creatures in that line take 3d6 acid damage with a DC 16 basic Reflex save. A creature that fails its save is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
   - name: "Weak Acid"
     desc: "A string slime's acid damages only organic material—not metal, stone, or other inorganic substances."
 sourcebook: "_Monster Core_, page 256."

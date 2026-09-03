@@ -28,11 +28,11 @@ trait_02: "Tengu"
 modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +12; (14 to Sense Motive) low-light vision"
-languages: "Common, Tengu; plus three others"
+    desc: "Perception +12; (14 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]]) low-light vision"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Tengu; plus three others"
 skills:
   - name: "Skills"
-    desc: "Deception +11, Diplomacy +11, Games Lore +16, Society +9, Thievery +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +11, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/lore|Games Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +9"
 abilityMods: [0, 3, 0, 2, 1, 4]
 abilities_top:
   - name: "Social Specialist"
@@ -49,22 +49,22 @@ health:
     desc: "46"
 abilities_mid:
   - name: "Gamer's Guidance"
-    desc: "(fortune) When the gambling companion successfully Aids a skill check related to games or gambling, the ally rolls twice and takes the higher result instead of gaining the usual bonus."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]]) When the gambling companion successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aids]] a skill check related to games or gambling, the ally rolls twice and takes the higher result instead of gaining the usual bonus."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ beak +10 (Finesse) __Damage__ 1d6+2 piercing"
+    desc: "⬻ beak +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+2 piercing"
   - name: "Melee"
-    desc: "⬻ dagger +10 (Agile, Finesse, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +10 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
 abilities_bot:
   - name: "Distracting Trick"
     desc: "⬺"
   - name: "Requirements"
     desc: "The gambling companion is wielding cards or dice"
   - name: "Effect"
-    desc: "The gambling companion performs a quick trick with the cards or dice to Feint, then makes a beak Strike against the same target. If the Feint succeeds, the Strike deals an additional 1d6 precision damage."
+    desc: "The gambling companion performs a quick trick with the cards or dice to [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]], then makes a beak Strike against the same target. If the Feint succeeds, the Strike deals an additional 1d6 precision damage."
 sourcebook: "_NPC Core_, page 212."
 ```
 

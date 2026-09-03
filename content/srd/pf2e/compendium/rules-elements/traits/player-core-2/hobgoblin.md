@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Hobgoblin`
 
-A creature with this trait is a tall, militaristic goblinoid. Hobgoblins tend to have darkvision. An ability with this trait can be used or selected only by hobgoblins. An item with this trait is created and used by hobgoblins.
+A creature with this trait is a tall, militaristic goblinoid. [[srd/pf2e/compendium/character/ancestries/hobgoblin|Hobgoblins]] tend to have [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkvision and Greater Darkvision|darkvision]]. An ability with this trait can be used or selected only by hobgoblins. An item with this trait is created and used by hobgoblins.
 
 *Source: Player Core 2 p. 316*

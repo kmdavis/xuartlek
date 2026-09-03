@@ -29,7 +29,7 @@ perception:
     desc: "Perception +7; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +6, Stealth +7, Survival +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
 abilityMods: [2, 4, 1, -4, 2, -2]
 ac: 15
 armorclass:

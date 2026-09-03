@@ -26,7 +26,7 @@ You cultivate four wooden bulbs, each filled with toxic pollen and sensitive to 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and becomes dazzled for 1 round.
+**Success** The creature takes half damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
 
 **Failure** The creature takes full damage, becomes dazzled for 1 round, and becomes stupefied 1 for 1 minute.
 

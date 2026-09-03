@@ -22,9 +22,9 @@ source: "Dark Archives (Remastered)"
 DC 15
 
 **Disable**
-DC 18 Thievery to open the door while viewing the reflection
+DC 18 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] to open the door while viewing the reflection
 
-**Appear** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (arcane, illusion) **Trigger** A creature views the wall through a mirror's reflection; **Effect** A door appears in the mirror's reflection of the wall. The triggering creature can open and manipulate this door only as long as they view it through the mirror and only by succeeding at a DC 18 Thievery check to disable the trap.
+**Appear** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]]) **Trigger** A creature views the wall through a mirror's reflection; **Effect** A door appears in the mirror's reflection of the wall. The triggering creature can open and manipulate this door only as long as they view it through the mirror and only by succeeding at a DC 18 Thievery check to disable the trap.
 
 ---
 **Reset**

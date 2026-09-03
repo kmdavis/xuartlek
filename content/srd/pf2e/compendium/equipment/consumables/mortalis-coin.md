@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Price**: 20 gp
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You are reduced to 0 Hit Points by damage but not immediately killed
 - **Requirement**: You are an expert in Fortitude saves.
 

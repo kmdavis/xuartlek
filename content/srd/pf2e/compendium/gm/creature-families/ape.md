@@ -14,6 +14,6 @@ While many apes exhibit peaceful or reclusive behavior, gorillas can be territor
 
 ### Members
 
-Gorilla (Creature 3), Megaprimatus (Creature 8)
+[[srd/pf2e/bestiary/monster-core/animal/gorilla|Gorilla]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/megaprimatus|Megaprimatus]] (Creature 8)
 
 *Source: Monster Core p. 23*

@@ -29,7 +29,7 @@ perception:
     desc: "Perception +6; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +6, Stealth +6, Survival +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"
 abilityMods: [3, 3, 3, -4, 1, -2]
 ac: 15
 armorclass:
@@ -43,7 +43,7 @@ abilities_mid:
   - name: "Tighten Coils"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature grabbed or restrained by the python attempts to Escape"
+    desc: "A creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the python attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]"
   - name: "Effect"
     desc: "The DC of the Escape check is increased by 2."
 speed: "20 feet, climb 20 feet, swim 20 feet"
@@ -56,7 +56,7 @@ abilities_bot:
   - name: "Wrap in Coils"
     desc: "⬻"
   - name: "Requirements"
-    desc: "A Medium or smaller creature is grabbed or restrained in the python's jaws"
+    desc: "A Medium or smaller creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in the python's jaws"
   - name: "Effect"
     desc: "The python moves the creature into its coils, freeing its jaws to make attacks, then uses Constrict against the creature. The python's coils can hold one creature."
 sourcebook: "_Monster Core_, page 316."

@@ -31,7 +31,7 @@ perception:
     desc: "Perception +15; wavesense (precise) 120 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +21, Stealth +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18"
 abilityMods: [6, 4, 5, -4, 2, 0]
 ac: 16
 armorclass:
@@ -40,19 +40,19 @@ armorclass:
 hp: 300
 health:
   - name: "HP"
-    desc: "300; __Immunities__ critical hits, mental, precision, unconscious; __Resistances__ cold 10; __Weaknesses__ slashing 10"
+    desc: "300; __Immunities__ critical hits, [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10; __Weaknesses__ slashing 10"
 abilities_mid:
   - name: "Mirage Spores"
-    desc: "(aura, incapacitation, mental) 300 feet. The doldrums heap constantly produces a field of hallucinogenic spores that causes those affected to see the monster as whatever they desire most. Each creature within the emanation must succeed a DC 27 Will save or become fascinated with the doldrums heap and compelled to move toward it on the creature's turn. Creatures fascinated this way are also off-guard. If the doldrums heap attacks, the fascinated condition ends only for the creature that is attacked. On a successful save, a creature is temporarily immune to mirage spores for 24 hours."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 300 feet. The doldrums heap constantly produces a field of hallucinogenic spores that causes those affected to see the monster as whatever they desire most. Each creature within the emanation must succeed a DC 27 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with the doldrums heap and compelled to move toward it on the creature's turn. Creatures fascinated this way are also [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]]. If the doldrums heap attacks, the fascinated condition ends only for the creature that is attacked. On a successful save, a creature is temporarily immune to mirage spores for 24 hours."
 speed: "20 feet, climb 20 feet, swim 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tendril +21 (reach 15 feet) __Damage__ 2d12+10 bludgeoning plus Grab"
+    desc: "⬻ tendril +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d12+10 bludgeoning plus Grab"
 abilities_bot:
   - name: "Constrict"
     desc: "⬻ 1d12+10 bludgeoning, DC 28"
   - name: "Draw In"
-    desc: "⬺ The doldrums heap attempts to Reposition up to three creatures it has grabbed or restrained. These attempts neither apply nor count toward the heap's multiple attack penalty. It can move them into its own space, dealing 1d12+10 bludgeoning damage."
+    desc: "⬺ The doldrums heap attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] up to three creatures it has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]. These attempts neither apply nor count toward the heap's multiple attack penalty. It can move them into its own space, dealing 1d12+10 bludgeoning damage."
 sourcebook: "_Monster Core_, page 295."
 ```
 

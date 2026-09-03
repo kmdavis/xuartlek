@@ -55,6 +55,6 @@ Explorer’s clothing is sturdy enough that it can be reinforced to protect you,
 
 ---
 
-Desert clothing is made up of loose-fitting, light, breathable clothes that protect your head and body from the sun and allow you to cool off easily. They allow you to negate the damage from severe environmental heat and reduce the damage from extreme heat to that of severe heat. This effect is negated if the clothing is worn with any armor, except armor that is especially cooling at the GM’s discretion.
+Desert clothing is made up of loose-fitting, light, breathable clothes that protect your head and body from the sun and allow you to cool off easily. They allow you to negate the damage from [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|severe environmental heat]] and reduce the damage from extreme heat to that of severe heat. This effect is negated if the clothing is worn with any armor, except armor that is especially cooling at the GM’s discretion.
 
 *Source: Player Core p. 287*

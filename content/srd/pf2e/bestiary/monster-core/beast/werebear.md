@@ -35,10 +35,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; low-light vision, scent (imprecise) 30 feet"
-languages: "Common; bear empathy"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; bear empathy"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Medicine +9, Nature +11, Stealth +11, Survival +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +9, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +11"
 abilityMods: [5, 2, 4, 1, 3, -1]
 abilities_top:
   - name: "Bear Empathy"
@@ -56,28 +56,28 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +13 (Agile, reach 10 feet) __Damage__ 1d10+7 slashing plus Grab"
+    desc: "⬻ claw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d10+7 slashing plus Grab"
   - name: "Melee"
-    desc: "⬻ greataxe +13 (reach 10 feet, Sweep) __Damage__ 1d12+7 slashing"
+    desc: "⬻ greataxe +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d12+7 slashing"
   - name: "Melee"
-    desc: "⬻ hatchet +13 (Agile, Sweep) __Damage__ 1d6+7 slashing"
+    desc: "⬻ hatchet +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+7 slashing"
   - name: "Melee"
-    desc: "⬻ jaws +13 (reach 10 feet) __Damage__ 1d12+7 piercing plus curse of the werebear"
+    desc: "⬻ jaws +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d12+7 piercing plus curse of the werebear"
   - name: "Ranged"
-    desc: "⬻ hatchet +10 (Agile, Sweep, thrown 10 feet) __Damage__ 1d6+7 slashing"
+    desc: "⬻ hatchet +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+7 slashing"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ (Concentrate, Polymorph, Primal) Medium human with fist +13 for 1d4+7 bludgeoning, or grizzly bear with Speed 35 feet."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) Medium human with fist +13 for 1d4+7 bludgeoning, or grizzly bear with Speed 35 feet."
   - name: "Curse of the Werebear"
-    desc: "(Curse, Primal)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]])"
   - name: "Saving Throw"
     desc: "DC 18 Fortitude"
   - name: "Hunt Prey"
-    desc: "⬻ (Concentrate) The werebear designates a single creature they can see and hear, or one they're Tracking, as their prey. The werebear gains a +2 circumstance bonus to Perception checks when they Seek their prey and to Survival checks when they Track their prey. The first time the werebear hits the designated prey in a round, they deal an additional 1d8 precision damage. These effects last until the werebear uses Hunt Prey again."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) The werebear designates a single creature they can see and hear, or one they're [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Tracking]], as their prey. The werebear gains a +2 circumstance bonus to Perception checks when they [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] their prey and to [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks when they Track their prey. The first time the werebear hits the designated prey in a round, they deal an additional 1d8 precision damage. These effects last until the werebear uses Hunt Prey again."
   - name: "Mauler"
-    desc: "The werebear gains a +2 circumstance bonus to damage rolls against creatures it has grabbed."
+    desc: "The werebear gains a +2 circumstance bonus to damage rolls against creatures it has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]."
   - name: "Moon Frenzy"
-    desc: "(Polymorph, Primal)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]])"
 sourcebook: "_Monster Core_, page 346."
 ```
 

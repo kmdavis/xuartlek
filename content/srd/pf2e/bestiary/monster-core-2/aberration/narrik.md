@@ -27,14 +27,14 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; darkvision, scent (imprecise) 120 feet, taste fear, vestigial eyes"
-languages: "Aklo"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +17, Intimidation +17, Stealth +15, Survival +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15"
 abilityMods: [6, 4, 2, -1, 4, 2]
 abilities_top:
   - name: "Taste Fear"
-    desc: "A narrik viscerally tastes fear. They can use scent as a precise sense when detecting frightened creatures."
+    desc: "A narrik viscerally tastes fear. They can use scent as a precise sense when detecting [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] creatures."
   - name: "Vestigial Eyes"
     desc: "A narrik's vision is limited. It's only a precise sense within 30 feet, and an imprecise sense beyond that."
 ac: 24
@@ -47,24 +47,24 @@ health:
     desc: "130; __Immunities__ precision"
 abilities_mid:
   - name: "Quick Congeal"
-    desc: "A narrik's strange body chemistry causes their blood to congeal almost instantly. They automatically succeeds at flat checks to recover from persistent bleed damage."
+    desc: "A narrik's strange body chemistry causes their blood to congeal almost instantly. They automatically succeeds at flat checks to recover from [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]."
   - name: "Catalyzing Demise"
     desc: "⭓"
   - name: "Trigger"
     desc: "The narrik is reduced to 0 Hit Points"
   - name: "Effect"
-    desc: "When a narrik is slain, their internal chemistry undergoes a violent chain reaction. They explode, and all creatures in a 5-foot emanation must succeed at a DC 25 Reflex save or be immobilized by tanglespit and exposed to psychotropic saliva."
+    desc: "When a narrik is slain, their internal chemistry undergoes a violent chain reaction. They explode, and all creatures in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must succeed at a DC 25 Reflex save or be [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] by tanglespit and exposed to psychotropic saliva."
 speed: "25 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ jaws +18 __Damage__ 2d6+8 piercing plus psychotropic saliva"
   - name: "Melee"
-    desc: "⬻ claws +18 (Agile) __Damage__ 2d4+8 slashing"
+    desc: "⬻ claws +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d4+8 slashing"
   - name: "Ranged"
     desc: "⬻ spit +16 (range increment 30 feet) __Damage__ tanglespit plus psychotropic saliva"
 abilities_bot:
   - name: "Psychotropic Saliva"
-    desc: "(Poison) The target's frightened value doesn't automatically decrease at the end of its turn while affected by this poison"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) The target's [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] value doesn't automatically decrease at the end of its turn while affected by this poison"
   - name: "Saving Throw"
     desc: "DC 22 Fortitude; Maximum Duration 6 rounds"
   - name: "Stage 1"
@@ -74,7 +74,7 @@ abilities_bot:
   - name: "Stage 3"
     desc: "1d10 poison damage and frightened 3 (1 round)"
   - name: "Tanglespit"
-    desc: "A creature hit by the narrik's tanglespit is immobilized as the viscous glob quickly solidifies. The DC to Escape or Force Open the tanglespit is 25. The glob becomes fragile and brittle after 1 minute, automatically freeing the creature. Alchemical Furnaces Most intelligent creatures avoid narriks, but some particularly brave— or foolhardy—deros and adventurers hunt them to harvest psychotropic saliva, tangle spit, and other alchemical additives. Because narriks' bodies explode upon death, hunters must capture living subjects to garner such materials."
+    desc: "A creature hit by the narrik's tanglespit is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] as the viscous glob quickly solidifies. The DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] the tanglespit is 25. The glob becomes fragile and brittle after 1 minute, automatically freeing the creature. Alchemical Furnaces Most intelligent creatures avoid narriks, but some particularly brave— or foolhardy—deros and adventurers hunt them to harvest psychotropic saliva, tangle spit, and other alchemical additives. Because narriks' bodies explode upon death, hunters must capture living subjects to garner such materials."
 sourcebook: "_Monster Core 2_, page 233."
 ```
 

@@ -16,7 +16,7 @@ citation: "Player Core pg. 298"
 
 <sup>PC1 p. 298</sup>
 
-Certain spells are natural to your character, typically coming from your ancestry or a magic item. They're called innate spells. Innate spells don't let you qualify for abilities that require you to be a spellcaster—those require you to have spell slots. The ability that gives you an innate spell tells you how often you can cast it—usually once per day—and its magical tradition. Innate spells are refreshed during your daily preparations. Innate cantrips are cast at will and automatically heightened as normal for cantrip unless otherwise specified.
+Certain spells are natural to your character, typically coming from your ancestry or a magic item. They're called innate spells. Innate spells don't let you qualify for abilities that require you to be a spellcaster—those require you to have spell slots. The ability that gives you an innate spell tells you how often you can cast it—usually once per day—and its magical tradition. Innate spells are refreshed during your daily preparations. Innate cantrips are cast at will and automatically heightened as normal for [[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] unless otherwise specified.
 
 When you gain an innate spell, you become trained in the spell attack modifier and spell DC statistics. At 12th level, these proficiencies increase to expert. Unless noted otherwise, Charisma is your spellcasting attribute modifier for innate spells.
 

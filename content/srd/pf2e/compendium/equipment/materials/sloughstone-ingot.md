@@ -15,7 +15,7 @@ source: "War of Immortals"
 
 `Precious`  `Rare`
 
-Weapons made from sloughstone exploit Verex-That-Was's hatred of his unwilling transformation, turning his own flesh against him. Processing sloughstone is difficult and unpleasant, increasing the DC to craft an item with the material by 4. Structures can't be made out of sloughstone.
+Weapons made from sloughstone exploit [[srd/pf2e/bestiary/war-of-immortals/aberration/verex-that-was|Verex-That-Was's]] hatred of his unwilling transformation, turning his own flesh against him. Processing sloughstone is difficult and unpleasant, increasing the DC to craft an item with the material by 4. Structures can't be made out of sloughstone.
 
 ## Sloughstone
 

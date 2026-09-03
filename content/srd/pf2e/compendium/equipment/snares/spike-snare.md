@@ -19,6 +19,6 @@ source: "Player Core 2"
 
 - **Price**: 3 gp
 
-This basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing 2d8 piercing damage. The creature must attempt a DC 17 basic Reflex saving throw.
+This basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing 2d8 piercing damage. The creature must attempt a DC 17 [[srd/pf2e/compendium/rules-elements/actions/howl-of-the-wild|basic]] Reflex saving throw.
 
 *Source: Player Core 2 p. 300*

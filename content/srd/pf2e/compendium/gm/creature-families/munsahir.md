@@ -14,7 +14,7 @@ Munsahirs build militaristic, traditional societies.
 
 ### Members
 
-Munsahir (Creature 2), Munsahir Gatecrasher (Creature 4), Munsahir Trooper (Creature 5)
+[[srd/pf2e/bestiary/monster-core-2/elemental/munsahir|Munsahir]] (Creature 2), [[srd/pf2e/bestiary/rage-of-elements/elemental/munsahir-gatecrasher|Munsahir Gatecrasher]] (Creature 4), [[srd/pf2e/bestiary/rage-of-elements/elemental/munsahir-trooper|Munsahir Trooper]] (Creature 5)
 
 ### Munsahir Hierarchy
 

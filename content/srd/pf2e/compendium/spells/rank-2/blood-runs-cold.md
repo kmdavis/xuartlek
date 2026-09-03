@@ -28,7 +28,7 @@ You chill the blood in the target's veins. The target takes 1d6 persistent cold 
 
 **Success** The target takes half the persistent cold damage.
 
-**Failure** The target takes the full persistent cold damage and is slowed 1 for 1 round.
+**Failure** The target takes the full persistent cold damage and is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] for 1 round.
 
 **Critical Failure** The target takes double the persistent cold damage and is slowed 1 until the persistent cold damage ends.
 

@@ -14,13 +14,13 @@ source: "Player Core 2"
 
 You'll see these terms in many swashbuckler abilities.
 
- **Bravado:** Actions with this trait can grant panache, depending on the result of the check involved. If you succeed at the check on a bravado action, you gain panache, and if you fail (but not critically fail) the check, you gain panache but only until the end of your next turn. These effects can be applied even if the action had no other effect due to a failure or a creature's immunity.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core-2/bravado|Bravado]]:** Actions with this trait can grant panache, depending on the result of the check involved. If you succeed at the check on a bravado action, you gain panache, and if you fail (but not critically fail) the check, you gain panache but only until the end of your next turn. These effects can be applied even if the action had no other effect due to a failure or a creature's immunity.
 
- **Finisher:** Finishers are spectacular finishing moves that use your panache. Finishers can be used only with weapons that deal additional damage with precise strike (agile or finesse melee weapons or unarmed attacks, for most swashbucklers). You can use a finisher only if you have panache, and you lose your panache immediately after performing a finisher. Once you use a finisher, you can't use actions that have the attack trait for the rest of your turn. Some finisher actions also grant an effect on a failure. Effects added on a failure don't apply on a critical failure. If your finisher action succeeds, you can still choose to apply the failure effect instead. For example, you might do this when an attack deals no damage due to resistance.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core-2/finisher|Finisher]]:** Finishers are spectacular finishing moves that use your panache. Finishers can be used only with weapons that deal additional damage with precise strike (agile or finesse melee weapons or unarmed attacks, for most swashbucklers). You can use a finisher only if you have panache, and you lose your panache immediately after performing a finisher. Once you use a finisher, you can't use actions that have the attack trait for the rest of your turn. Some finisher actions also grant an effect on a failure. Effects added on a failure don't apply on a critical failure. If your finisher action succeeds, you can still choose to apply the failure effect instead. For example, you might do this when an attack deals no damage due to resistance.
 
- **Flourish:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core/flourish|Flourish]]:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
- **Stance:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core/stance|Stance]]:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
 
 ### Roleplaying the Swashbuckler
 
@@ -59,7 +59,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in Acrobatics
+Trained in [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
  Trained in one skill determined by your swashbuckler's style
  Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
@@ -115,7 +115,7 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 You care as much about the way you accomplish something as whether you actually accomplish it in the first place. When you perform an action with particular style, you can leverage this moment of verve to perform spectacular, deadly maneuvers. This heightened state of flair is called panache.
 
- You gain panache by performing actions that have the bravado trait. Tumble Through and additional actions determined by your swashbuckler's style (see below) gain the bravado trait when you use them. The GM might determine that a check to perform a particularly daring action, such as swinging on a chandelier or sliding down a drapery, can gain the bravado trait. These checks typically involve at least a single action and a non-trivial DC. Normally, you gain and use panache only in combat encounters; when an encounter ends, you lose panache.
+ You gain panache by performing actions that have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/bravado|bravado]] trait. [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] and additional actions determined by your swashbuckler's style (see below) gain the bravado trait when you use them. The GM might determine that a check to perform a particularly daring action, such as swinging on a chandelier or sliding down a drapery, can gain the bravado trait. These checks typically involve at least a single action and a non-trivial DC. Normally, you gain and use panache only in combat encounters; when an encounter ends, you lose panache.
 
  Powerful finisher actions, including Confident Finisher, can be used only while you have panache and cause you to lose your panache.
 
@@ -228,7 +228,7 @@ You’ve steeled your mind with resolve. Your proficiency rank for Will saves in
 
 As a swashbuckler at the peak of your skill, you swell with confidence in every attack. Your proficiency rank for your swashbuckler class DC increases to master.
 
- When you Strike as part of a finisher or Opportune Riposte, you can give the Strike the failure effect from the Confident Finisher action, including the increase from Precise Finisher if you have that feat. You can do so only if the Strike uses a weapon or unarmed attack that you could use for Confident Finisher.
+ When you Strike as part of a finisher or Opportune Riposte, you can give the Strike the failure effect from the Confident Finisher action, including the increase from [[srd/pf2e/compendium/feats/player-core-2/class/precise-finisher|Precise Finisher]] if you have that feat. You can do so only if the Strike uses a weapon or unarmed attack that you could use for Confident Finisher.
 
 | | |
 | --- | --- |

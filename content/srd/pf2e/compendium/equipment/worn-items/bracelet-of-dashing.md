@@ -21,6 +21,6 @@ source: "GM Core"
 
 This jangling, silvery bracelet makes you lighter on your feet, giving you a +1 item bonus to Acrobatics checks. 
 
-**Activate—Jangling Dash** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Effect** You gain a +10-foot status bonus to Speed for 1 minute.
+**Activate—Jangling Dash** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You gain a +10-foot status bonus to Speed for 1 minute.
 
 *Source: GM Core p. 286*

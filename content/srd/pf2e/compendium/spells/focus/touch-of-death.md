@@ -22,11 +22,11 @@ source: "Player Core 2"
 - **Defense**: Fortitude
 - **Duration**: 1 month
 
-Make a melee unarmed Strike. If you hit and the target is alive, anytime during the duration, you can spend a single action, which has the auditory and concentrate traits, to speak a word of death that could instantly slay it. The target must attempt a Fortitude save. 
+Make a melee unarmed Strike. If you hit and the target is alive, anytime during the duration, you can spend a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] traits, to speak a word of death that could instantly slay it. The target must attempt a Fortitude save. 
 
 **Critical Success** The target survives, the spell ends, and the target is then temporarily immune for 24 hours.
 
-**Success** The target is stunned 1 and takes 40 damage, the spell ends, and the target is then temporarily immune for 24 hours.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]] and takes 40 damage, the spell ends, and the target is then temporarily immune for 24 hours.
 
 **Failure** The target is stunned 3 and takes 80 damage. The spell's duration continues, but the target is then temporarily immune for 24 hours against being killed by _touch of death_.
 

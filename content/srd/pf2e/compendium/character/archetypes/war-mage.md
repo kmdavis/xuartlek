@@ -16,13 +16,13 @@ source: "Battlecry!"
 
 #### War Magic
 
-Your studies have focused on using magic on the battlefield along with the basics of warfare. With a sturdy breastplate to turn aside errant arrows, you confidently use your spells to turn the tide of battle. If you choose this class archetype, you must select War Mage Dedication as your 2nd-level class feat. 
+Your studies have focused on using magic on the battlefield along with the basics of warfare. With a sturdy breastplate to turn aside errant arrows, you confidently use your spells to turn the tide of battle. If you choose this class archetype, you must select [[srd/pf2e/compendium/feats/battlecry/archetype/war-mage-dedication|War Mage Dedication]] as your 2nd-level class feat. 
 
-**Prerequisites:** You must be a wizard. 
+**Prerequisites:** You must be a [[srd/pf2e/compendium/character/classes/wizard|wizard]]. 
 
 **War Mage Adjustments:** You become trained in light and medium armor. At 11th level, you gain expert proficiency with light and medium armor, as well as unarmored defense. 
 
-You gain the Shield Block general feat at 1st level. 
+You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] general feat at 1st level. 
 
 You gain the war magic class feature at 1st level. 
 

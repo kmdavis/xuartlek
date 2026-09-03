@@ -21,7 +21,7 @@ source: "Player Core"
 
 - **Duration**: 1 minute
 
-Powerful winds carry you through the air, giving you a fly Speed equal to your Speed. When this spell's duration would end, if you're still flying, you float to the ground, as _gentle landing_.
+Powerful winds carry you through the air, giving you a fly Speed equal to your Speed. When this spell's duration would end, if you're still flying, you float to the ground, as [[srd/pf2e/compendium/spells/rank-1/gentle-landing|_gentle landing_]].
 
 ---
 **Heightened (6th)** When you fly using _stormwind flight_, you ignore difficult terrain from wind.

@@ -29,7 +29,7 @@ perception:
     desc: "Perception +6; darkvision, web sense"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Athletics +2, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +2, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [0, 3, 1, -5, 0, -4]
 abilities_top:
   - name: "Web Sense"
@@ -45,22 +45,22 @@ health:
 speed: "25 feet, climb 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ bite +7 (Finesse) __Damage__ 1d6 piercing plus dream spider venom"
+    desc: "⬻ bite +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6 piercing plus dream spider venom"
   - name: "Ranged"
     desc: "⬻ web +7 (range increment 10 feet) __Damage__ web trap plus dream spider venom"
 abilities_bot:
   - name: "Dream Spider Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 16 Fortitude"
   - name: "Maximum Duration"
     desc: "4 rounds"
   - name: "Stage 1"
-    desc: "stupefied 1 (1 round)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 (1 round)"
   - name: "Stage 2"
-    desc: "1d6 poison damage plus stupefied 1 (1 round)"
+    desc: "1d6 poison damage plus [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 (1 round)"
   - name: "Web Trap"
-    desc: "A creature hit by the dream spider's web attack is immobilized and stuck to the nearest surface until it Escapes (DC 16). Venom Addicts Talented alchemists process dream spider venom into an addictive drug. Those who become addicted can be driven in desperation to seek out dream spiders and allow the creatures to bite their flesh to get their fix—an arrangement that backfires horribly as the spiders feed."
+    desc: "A creature hit by the dream spider's web attack is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and stuck to the nearest surface until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 16). Venom Addicts Talented alchemists process dream spider venom into an addictive drug. Those who become addicted can be driven in desperation to seek out dream spiders and allow the creatures to bite their flesh to get their fix—an arrangement that backfires horribly as the spiders feed."
 sourcebook: "_Monster Core 2_, page 302."
 ```
 

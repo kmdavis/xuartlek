@@ -22,15 +22,15 @@ If an item is used up when activated, as is the case for consumable items, its A
 
 ## Activating Invested Items
 
-You can Activate an Item with the invested trait only if it’s invested by you.
+You can Activate an Item with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/invested|invested]] trait only if it’s invested by you.
 
 ## Manipulate Activations
 
-If an activation has the manipulate trait, you can activate it only if you’re wielding the item (if it’s a held item) or touching it with a free hand (if it’s another type of item).
+If an activation has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait, you can activate it only if you’re wielding the item (if it’s a held item) or touching it with a free hand (if it’s another type of item).
 
 ## Long Activation Times
 
-Some items take minutes or hours to activate. You can’t use other actions or reactions while activating such an item, though at the GM’s discretion, you might be able to speak a few sentences. As with other activities that take a long time, these activations have the exploration trait, and you can’t activate them in an encounter. If combat breaks out while you’re activating one, your activation is disrupted (see the Disrupting Activations sidebar).
+Some items take minutes or hours to activate. You can’t use other actions or reactions while activating such an item, though at the GM’s discretion, you might be able to speak a few sentences. As with other activities that take a long time, these activations have the [[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|exploration]] trait, and you can’t activate them in an encounter. If combat breaks out while you’re activating one, your activation is disrupted (see the Disrupting Activations sidebar).
 
 > [!pf2-sidebar] DISRUPTING ACTIVATIONS
 >
@@ -46,8 +46,8 @@ If an item lists “Cast a Spell” after “Activate,” you have to use the sa
 
 ## Sustaining Activations
 
-Some items, once activated, have effects that can be sustained if you concentrate on them. Sustaining an effect requires using the Sustain action. If an item’s description states that you can sustain the effect, that effect lasts until the end of your turn in the round after you Activated the Item. You can use a Sustain action on that turn to extend the duration.
+Some items, once activated, have effects that can be sustained if you concentrate on them. Sustaining an effect requires using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] action. If an item’s description states that you can sustain the effect, that effect lasts until the end of your turn in the round after you Activated the Item. You can use a Sustain action on that turn to extend the duration.
 
 ## Dismissing Activations
 
-Some item effects can be dismissed, ending the duration early due to you or the target taking action. Dismissing an activation requires using the Dismiss action.
+Some item effects can be dismissed, ending the duration early due to you or the target taking action. Dismissing an activation requires using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] action.

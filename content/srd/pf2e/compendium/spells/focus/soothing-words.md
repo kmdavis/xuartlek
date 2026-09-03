@@ -19,12 +19,12 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Emotion`  `Focus`  `Mental`  `Uncommon`
 
-- **Domain**: Family
+- **Domain**: [[srd/pf2e/compendium/character/domains#Family|Family]]
 - **Range**: 30 feet
 - **Target**: 1 ally
 - **Duration**: 1 minute
 
-You attempt to calm the target by uttering soothing words in a calm and even tone. The target gains a +1 status bonus to Will saving throws. This bonus increases to +2 against emotion effects.
+You attempt to calm the target by uttering soothing words in a calm and even tone. The target gains a +1 status bonus to Will saving throws. This bonus increases to +2 against [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects.
 
  In addition, when you Cast this Spell, you can attempt to counteract one emotion effect on the target.
 

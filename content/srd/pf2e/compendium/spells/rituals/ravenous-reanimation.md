@@ -17,8 +17,8 @@ source: "Monster Core 2"
 
 - **Cast**: 1 day
 - **Cost**: valuable treasures from the target dragon’s hoard worth a total value of 50,000 gp
-- **Primary Check**: Arcana (master), Occultism (master), or Religion (master)
-- **Requirements**: You must be a dragon
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (master), [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master), or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master)
+- **Requirements**: You must be a [[srd/pf2e/compendium/gm/creature-families/dragon|dragon]]
 
 You destroy the gathered treasures with a natural magical effect or spell, then invoke necromantic energies before you feed upon the charred and melted remains. As you do so, void energy courses through your flesh, automatically killing you. Each individual ravener’s ravenous reanimation requires three to five unique additional components. Whether or not you return as a ravener depends on the success of the ritual.
 

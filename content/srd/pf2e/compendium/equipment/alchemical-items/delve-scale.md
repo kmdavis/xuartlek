@@ -17,8 +17,8 @@ source: "Treasure Vault (Remastered)"
 
 - **Price**: 155 gp
 - **Usage**: held in 1 hand
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-If fried, cast-off scales of a benthic worm render into crunchy snacks. Alchemists add reagents to the frying oil to enhance the scales’ properties and flavor. For 1 minute after eating a delve scale, you gain a burrow Speed of 15 feet and a +2 item bonus to Athletics checks to High Jump or Long Jump.
+If fried, cast-off scales of a [[srd/pf2e/bestiary/monster-core/animal/benthic-worm|benthic worm]] render into crunchy snacks. [[srd/pf2e/compendium/character/classes/alchemist|Alchemists]] add reagents to the frying oil to enhance the scales’ properties and flavor. For 1 minute after eating a delve scale, you gain a burrow Speed of 15 feet and a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to High Jump or Long Jump.
 
 *Source: Treasure Vault (Remastered) p. 47*

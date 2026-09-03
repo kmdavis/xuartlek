@@ -32,8 +32,8 @@ You choose a location within range that you can see and haphazardly catapult you
 **Success** You and a piece of the target are transported to the chosen location, fused together. The target becomes enfeebled 1, and you gain 20 temporary Hit Points until the end of your next turn.
 
 **Failure** You and the target creature vanish from your current locations and reappear in the chosen space fused together until the end of your next turn. While fused together, you also gain the following effects. 
-You gain 40 temporary Hit Points that last for the duration of the spell.You gain all Speeds possessed by the target, unless you already have a higher Speed of that kind.You gain all special senses possessed by the target.Your reach increases by 5 feet.While fused, the target creature doesn't occupy space, is unable to act, and can't be targeted or affected by attacks or other effects. The target does remain aware of its environment and everything transpiring around it. At the end of your next turn, the target separates from you in an adjacent space. Both you and the target return to your original forms.
+You gain 40 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] that last for the duration of the spell.You gain all Speeds possessed by the target, unless you already have a higher Speed of that kind.You gain all special senses possessed by the target.Your reach increases by 5 feet.While fused, the target creature doesn't occupy space, is unable to act, and can't be targeted or affected by attacks or other effects. The target does remain aware of its environment and everything transpiring around it. At the end of your next turn, the target separates from you in an adjacent space. Both you and the target return to your original forms.
 
-**Critical Failure** As failure, except the target also becomes sickened 1.
+**Critical Failure** As failure, except the target also becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
 
 *Source: Impossible Magic p. 122*

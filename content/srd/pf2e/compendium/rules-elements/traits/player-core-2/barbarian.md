@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Barbarian`
 
-This indicates abilities from the barbarian class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/barbarian|barbarian]] class.
 
 *Source: Player Core 2 p. 315*

@@ -13,6 +13,8 @@ source: "Battlecry!"
 
 `Whetstone`
 
-Whetstones are magically enhanced items designed to increase a weapon’s effectiveness, sometimes taking the form of literal stones, but often instead constructed of materials with a metaphorical link to the whetstone’s effect. They’re similar to talismans, though unlike talismans, they don’t need to be Affixed ahead of time. Whetstones have the whetstone trait.
+Whetstones are magically enhanced items designed to increase a weapon’s effectiveness, sometimes taking the form of literal stones, but often instead constructed of materials with a metaphorical link to the whetstone’s effect. They’re similar to talismans, though unlike talismans, they don’t need to be Affixed ahead of time. Whetstones have the [[srd/pf2e/compendium/rules-elements/traits/battlecry/whetstone|whetstone]] trait. 
+
+]]
 
 *Source: Battlecry! p. 222*

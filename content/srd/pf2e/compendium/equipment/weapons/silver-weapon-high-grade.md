@@ -13,7 +13,7 @@ source: "GM Core"
 
 - **Usage**: varies by weapon
 - **Bulk**: varies by weapon
-- **Base Material**: Silver
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|Silver]]
 
 Silver weapons deal additional damage to creatures with weakness to silver, like werewolves, and ignore the resistances of some other creatures, like devils.
 

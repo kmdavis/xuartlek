@@ -25,6 +25,6 @@ Assume you enjoy and excel at fighting but aren't inclined toward magical or int
 
 ### Dromaar Heritage Mechanics
 
-Orcish strength emboldens your bloodline. You have a green tinge to your skin and other indicators of orc heritage. You gain the orc trait, the dromaar trait, and low-light vision. When you gain an ancestry feat, you can choose from dromaar and orc feats in addition to those from your ancestry.
+Orcish strength emboldens your bloodline. You have a green tinge to your skin and other indicators of orc heritage. You gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/orc|orc]] trait, the [[srd/pf2e/compendium/rules-elements/traits/player-core/dromaar|dromaar]] trait, and low-light vision. When you gain an ancestry feat, you can choose from dromaar and orc feats in addition to those from your ancestry.
 
 *Source: Player Core p. 83*

@@ -19,7 +19,7 @@ source: "GM Core"
 
 **Passengers** 4
 
-**Piloting Check** Athletics (DC 14) or Sailing Lore (DC 12)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] (DC 14) or Sailing [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] (DC 12)
 
 ---
 
@@ -39,6 +39,6 @@ source: "GM Core"
 
 **Collision** 1d4 (DC 14)
 
-**Portaged** The raft can be carried overland by 2 Medium creatures or 1 Large creature. Those creatures are encumbered when doing so.
+**Portaged** The raft can be carried overland by 2 Medium creatures or 1 Large creature. Those creatures are [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] when doing so.
 
 *Source: GM Core p. 217*

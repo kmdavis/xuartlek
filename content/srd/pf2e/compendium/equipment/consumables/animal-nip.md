@@ -19,9 +19,9 @@ source: "Rage of Elements"
 `Alchemical`  `Consumable`  `Olfactory`  `Plant`  `Wood`
 
 - **Usage**: held in 1 hand
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Animal nip contains a mix of herbaceous, fragrant plants, ground into a coarse powder with a strong scent that attracts a broad spectrum of animals. You activate animal nip by sprinkling it on the ground or a target of your choice. For the next minute, all creatures within 30 feet that have the animal trait must attempt a Will save or become fascinated by the smell of the animal nip for 1 round. On a critical failure, they also fall prone and roll about on the ground. If the target is subject to a hostile act, the fascination ends immediately. Regardless of the result of the creature's save, it's then immune to animal nip for 1 hour.
+Animal nip contains a mix of herbaceous, fragrant plants, ground into a coarse powder with a strong scent that attracts a broad spectrum of animals. You activate animal nip by sprinkling it on the ground or a target of your choice. For the next minute, all creatures within 30 feet that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait must attempt a Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] by the smell of the animal nip for 1 round. On a critical failure, they also fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and roll about on the ground. If the target is subject to a hostile act, the fascination ends immediately. Regardless of the result of the creature's save, it's then immune to animal nip for 1 hour.
 
 ### Animal Nip (Lesser)
 

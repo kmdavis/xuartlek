@@ -13,6 +13,6 @@ source: "Monster Core 2"
 
 `Darvakka`
 
-Entropic undead creatures twisted by the Netherworld and the Void.
+Entropic undead creatures twisted by [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]] and [[srd/pf2e/compendium/gm/planes#The Void|the Void]].
 
 *Source: Monster Core 2 p. 364*

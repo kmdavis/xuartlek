@@ -21,7 +21,7 @@ Category
 Consumable
 Note
 
-Feather of the Unfounded Bravado
+[[srd/pf2e/compendium/equipment/held-items/feather-of-the-unfounded-bravado|Feather of the Unfounded Bravado]]
 +1
 2
 Held Items
@@ -41,7 +41,7 @@ Tattoos
 No
 item bonus to Diplomacy checks made against orcs who honor the Flood Truce.
 
-Marshal's Baton
+[[srd/pf2e/compendium/equipment/held-items/marshals-baton|Marshal's Baton]]
 +1
 3
 Held Items
@@ -55,7 +55,7 @@ Held Items
 No
 Temporary item bonus to Diplomacy
 
-Glasses Of Sociability
+[[srd/pf2e/compendium/equipment/worn-items/glasses-of-sociability|Glasses Of Sociability]]
 +1
 3
 Worn Items
@@ -75,7 +75,7 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-Medic’s Armband
+[[srd/pf2e/compendium/equipment/worn-items/greater-medics-armband|Medic’s Armband]]
 +1
 4
 Worn Items
@@ -96,7 +96,7 @@ Clan Dagger Filigrees
 No
 Item bonus to Diplomacy checks to Request
 
-Convincing
+[[srd/pf2e/compendium/equipment/runes/major-convincing|Convincing]]
 +1
 5
 Armor Property Runes
@@ -166,7 +166,7 @@ Other Consumables
 Yes
 Make and Impression or Request
 
-Warleader's Bulwark
+[[srd/pf2e/compendium/equipment/armor/warleaders-bulwark-greater|Warleader's Bulwark]]
 +2
 0
 Armor
@@ -179,7 +179,7 @@ Other Worn Items
 No
 item bonus to Diplomacy checks to Make an Impression
 
-Greater Convincing
+[[srd/pf2e/compendium/equipment/runes/major-convincing|Greater Convincing]]
 +2
 8
 Armor Property Runes
@@ -193,7 +193,7 @@ Held Items
 No
 item bonus to Diplomacy checks against intelligent undead
 
-Entertainer's Cincture
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture]]
 +2
 10
 Worn Items
@@ -214,7 +214,7 @@ Clan Dagger Filigrees
 No
 Item bonus to Diplomacy checks to Request
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -235,28 +235,28 @@ Staves
 No
 Item bonus to adjust a psychopomp's or spirit's attitude
 
-Holy Chain
+[[srd/pf2e/compendium/equipment/armor/holy-chain|Holy Chain]]
 +2
 13
 Armor
 No
 Diplomacy checks against all creatures except fiends.
 
-Mask Of Allure
+[[srd/pf2e/compendium/equipment/apex-items/mask-of-allure|Mask Of Allure]]
 +2
 18
 Apex Items
 No
 Item bonus while wearing the mask.
 
-Conrasu Coin (Arbiter)
+[[srd/pf2e/compendium/equipment/consumables/conrasu-coin-bythos|Conrasu Coin (Arbiter)]]
 +2
 3
 Talismans
 Yes
 increases to a +3 circumstance bonus to Make an Impression on a creature with the aeon trait.
 
-Major Convincing
+[[srd/pf2e/compendium/equipment/runes/major-convincing|Major Convincing]]
 +3
 16
 Armor Property Runes
@@ -270,21 +270,21 @@ Apex Items
 No
 Item bonus to Diplomacy checks
 
-Entertainer's Cincture (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture (Greater)]]
 +3
 17
 Worn Items
 No
 Item bonus to Diplomacy if selected
 
-Robe Of Beneficence
+[[srd/pf2e/compendium/equipment/armor/robe-of-beneficence|Robe Of Beneficence]]
 +3
 17
 Specific Magic Armor
 No
 Item bonus to Make an Impression and to Make Requests of creatures who are within your aura.
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

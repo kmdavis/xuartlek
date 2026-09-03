@@ -21,7 +21,7 @@ source: "Dark Archives (Remastered)"
 DC 43
 
 **Disable**
-DC 43 Thievery (master) to steal the cloth before the spirit manifests, or DC 47 Athletics to pull the cloth off the spirit after it manifests
+DC 43 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (master) to steal the cloth before the spirit manifests, or DC 47 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] to pull the cloth off the spirit after it manifests
 
 **AC** 40, **Fort** +26, **Ref** +32, **Will** +35
 
@@ -29,7 +29,7 @@ DC 43 Thievery (master) to steal the cloth before the spirit manifests, or DC 47
 230
 
 **Resistances**
-all damage 20 (except force, _ghost touch_, or positive; double resistance to non-magical)
+all damage 20 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], _ghost touch_, or positive; double resistance to non-[[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])
 
 **Don Shroud** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") shrouded touch +33, **Damage** 3d12+19 force
 

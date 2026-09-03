@@ -22,7 +22,7 @@ You can blend your weapon mastery with skillful targeting to make a series of pr
 
 ## Outwit  *Ranger Hunter's Edge*
 
-You are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to Deception checks, Intimidation checks, Stealth checks, and any checks to Recall Knowledge about the prey, and a +1 circumstance bonus to AC against your prey's attacks.
+You are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks, and any checks to Recall Knowledge about the prey, and a +1 circumstance bonus to AC against your prey's attacks.
 
 ### Masterful Hunter
 
@@ -42,11 +42,11 @@ Your weapon mastery allows you to hit your prey’s vital areas multiple times. 
 
 ## Vindication  *Ranger Hunter's Edge*
 
-This Hunter's Edge can be taken by Vindicators.
+This Hunter's Edge can be taken by [[srd/pf2e/compendium/character/archetypes/vindicator|Vindicators]].
 
 Your specialized training gives you a unique edge that allows you to more effectively bring the tools of your faith to bear against the monsters that lurk in the night or hide among the faithful.
 
-You gain a +1 status bonus to your spell attack rolls against your hunted prey, and they take a –1 status penalty to their saving throws against divine spells you cast. You gain the _vindicator’s mark_ warden spell.
+You gain a +1 status bonus to your spell attack rolls against your [[srd/pf2e/compendium/rules-elements/actions/player-core#Hunt Prey|hunted prey]], and they take a –1 status penalty to their saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] spells you cast. You gain the [[srd/pf2e/compendium/spells/focus/vindicators-mark|_vindicator’s mark_]] warden spell.
 
 ### Masterful Hunter
 

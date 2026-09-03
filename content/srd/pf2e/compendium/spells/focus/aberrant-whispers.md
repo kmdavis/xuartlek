@@ -29,9 +29,9 @@ You utter phrases in an unknown tongue, assaulting the minds of those nearby. Ea
 
 **Success** The target is unaffected.
 
-**Failure** The target is stupefied 2.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 2]].
 
-**Critical Failure** The target is confused.
+**Critical Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]].
 
 ---
 **Heightened (+3)** The initial radius increases by 5 feet.

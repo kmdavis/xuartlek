@@ -22,6 +22,6 @@ source: "Rage of Elements"
 
 This large magical parasol shields you from the heat in hot environments, no matter whether the heat comes from above, like the beating sun, or below, like roiling lava. While holding the _sparkshade parasol_, you gain resistance 10 to fire and are protected from mild, severe, and extreme environmental heat.
 
-**Activate—Parasol's Protection** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Requirements** Flames are dancing on the sparkshade parasol due to you using Parasol's Protection; **Effect** You release captured flames out from your parasol, shooting fire in a 30-foot line. Each creature in the line takes 10d6 fire damage (DC 28 basic Reflex save). This activation loses its charge.
+**Activate—Parasol's Protection** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** Flames are dancing on the sparkshade parasol due to you using Parasol's Protection; **Effect** You release captured flames out from your parasol, shooting fire in a 30-foot line. Each creature in the line takes 10d6 fire damage (DC 28 basic Reflex save). This activation loses its charge.
 
 *Source: Rage of Elements p. 124*

@@ -11,7 +11,7 @@ entries: 42
 
 ## Blinded  *Condition*
 
-You can't see. All normal terrain is difficult terrain to you. You can't detect anything using vision. You automatically critically fail Perception checks that require you to be able to see, and if vision is your only precise sense, you take a –4 status penalty to Perception checks. You are immune to visual effects. Blinded overrides dazzled.
+You can't see. All normal terrain is difficult terrain to you. You can't detect anything using vision. You automatically critically fail Perception checks that require you to be able to see, and if vision is your only precise sense, you take a –4 status penalty to Perception checks. You are immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] effects. Blinded overrides [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]].
 
 *Source: Player Core p. 442*
 
@@ -25,19 +25,19 @@ Broken is a condition that affects only objects. An object is broken when damage
 
 ## Clumsy  *Condition*
 
-Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based rolls and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using Acrobatics, Stealth, and Thievery.
+Your movements become clumsy and inexact. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based rolls and DCs, including AC, Reflex saves, ranged attack rolls, and skill checks using [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], and [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]].
 
 *Source: Player Core p. 442*
 
 ## Concealed  *Condition*
 
-You are difficult for one or more creatures to see due to thick fog or some other obscuring feature. You can be concealed to some creatures but not others. While concealed, you can still be observed, but you're tougher to target. A creature that you're concealed from must succeed at a DC 5 flat check when targeting you with an attack, spell, or other effect. If the check fails, you aren't affected. Area effects aren't subject to this flat check.
+You are difficult for one or more creatures to see due to thick fog or some other obscuring feature. You can be concealed to some creatures but not others. While concealed, you can still be [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]], but you're tougher to target. A creature that you're concealed from must succeed at a DC 5 flat check when targeting you with an attack, spell, or other effect. If the check fails, you aren't affected. Area effects aren't subject to this flat check.
 
 *Source: Player Core p. 442*
 
 ## Confused  *Condition*
 
-You don't have your wits about you, and you attack wildly. You are off-guard, you don't treat anyone as your ally (though they might still treat you as theirs), and you can't Delay, Ready, or use reactions.
+You don't have your wits about you, and you attack wildly. You are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], you don't treat anyone as your ally (though they might still treat you as theirs), and you can't Delay, Ready, or use reactions.
 
  You use all your actions to Strike or cast offensive cantrips, though the GM can have you use other actions to facilitate attack, such as draw a weapon, move so target is in reach, and so forth. Your targets are determined randomly by the GM. If you have no other viable targets, you target yourself, automatically hitting but not scoring a critical hit. If it's impossible for you to attack or cast spells, you babble incoherently, wasting your actions.
 
@@ -53,19 +53,19 @@ You have been commanded, magically dominated, or otherwise had your will subvert
 
 ## Dazzled  *Condition*
 
-Your eyes are overstimulated or your vision is swimming. If vision is your only precise sense, all creatures and objects are concealed from you.
+Your eyes are overstimulated or your vision is swimming. If vision is your only precise sense, all creatures and objects are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from you.
 
 *Source: Player Core p. 442*
 
 ## Deafened  *Condition*
 
-You can't hear. You automatically critically fail Perception checks that require you to be able to hear. You take a –2 status penalty to Perception checks for initiative and checks that involve sound but also rely on other senses. If you perform an action that has the auditory trait, you must succeed at a DC 5 flat check or the action is lost; attempt the check after spending the action but before any effects are applied. You are immune to auditory effects while deafened.
+You can't hear. You automatically critically fail Perception checks that require you to be able to hear. You take a –2 status penalty to Perception checks for initiative and checks that involve sound but also rely on other senses. If you perform an action that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait, you must succeed at a DC 5 flat check or the action is lost; attempt the check after spending the action but before any effects are applied. You are immune to auditory effects while deafened.
 
 *Source: Player Core p. 443*
 
 ## Doomed  *Condition*
 
-Your soul has been gripped by a powerful force that calls you closer to death. Doomed always includes a value. The dying value at which you die is reduced by your doomed value. If your maximum dying value is reduced to 0, you instantly die. When you die, you're no longer doomed.
+Your soul has been gripped by a powerful force that calls you closer to death. Doomed always includes a value. The [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] value at which you die is reduced by your doomed value. If your maximum dying value is reduced to 0, you instantly die. When you die, you're no longer doomed.
 
  Your doomed value decreases by 1 each time you get a full night's rest.
 
@@ -81,7 +81,7 @@ Your health and vitality have been depleted as you've lost blood, life force, or
 
 ## Dying  *Condition*
 
-You are bleeding out or otherwise at death's door. While you have this condition, you are unconscious. Dying always includes a value, and if it ever reaches dying 4, you die. When you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.
+You are bleeding out or otherwise at death's door. While you have this condition, you are [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]. Dying always includes a value, and if it ever reaches dying 4, you die. When you're dying, you must attempt a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Recovery Checks|recovery check]] at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.
 
  If you lose the dying condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Any time you lose the dying condition, you gain the wounded 1 condition, or increase your wounded condition value by 1 if you already have that condition.
 
@@ -95,19 +95,19 @@ You are carrying more weight than you can manage. While you're encumbered, you'r
 
 ## Enfeebled  *Condition*
 
-You're physically weakened. Enfeebled always includes a value. When you are enfeebled, you take a status penalty equal to the condition value to Strength-based rolls and DCs, including Strength-based melee attack rolls, Strength-based damage rolls, and Athletics checks.
+You're physically weakened. Enfeebled always includes a value. When you are enfeebled, you take a status penalty equal to the condition value to Strength-based rolls and DCs, including Strength-based melee attack rolls, Strength-based damage rolls, and [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks.
 
 *Source: Player Core p. 443*
 
 ## Fascinated  *Condition*
 
-You're compelled to focus your attention on something, distracting you from whatever else is going on around you. You take a –2 status penalty to Perception and skill checks, and you can't use concentrate actions unless they (or their intended consequences) are related to the subject of your fascination, as determined by the GM. For instance, you might be able to Seek and Recall Knowledge about the subject, but you likely couldn't cast a spell targeting a different creature. This condition ends if a creature uses hostile actions against you or any of your allies.
+You're compelled to focus your attention on something, distracting you from whatever else is going on around you. You take a –2 status penalty to Perception and skill checks, and you can't use [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] actions unless they (or their intended consequences) are related to the subject of your fascination, as determined by the GM. For instance, you might be able to Seek and Recall Knowledge about the subject, but you likely couldn't cast a spell targeting a different creature. This condition ends if a creature uses hostile actions against you or any of your allies.
 
 *Source: Player Core p. 443*
 
 ## Fatigued  *Condition*
 
-You're tired and can't summon much energy. You take a –1 status penalty to AC and saving throws. You can't use exploration activities performed while traveling, such as those on pages 438–439.
+You're tired and can't summon much energy. You take a –1 status penalty to AC and saving throws. You can't use [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Exploration Activities|exploration activities]] performed while traveling, such as those on pages 438–439.
 
  You recover from fatigue after a full night's rest.
 
@@ -133,7 +133,7 @@ You're gripped by fear and struggle to control your nerves. The frightened condi
 
 ## Grabbed  *Condition*
 
-You're held in place by another creature, giving you the off-guard and immobilized conditions. If you attempt a manipulate action while grabbed, you must succeed at a DC 5 flat check or it is lost; roll the check after spending the action, but before any effects are applied.
+You're held in place by another creature, giving you the [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] conditions. If you attempt a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action while grabbed, you must succeed at a DC 5 flat check or it is lost; roll the check after spending the action, but before any effects are applied.
 
 *Source: Player Core p. 444*
 
@@ -145,7 +145,7 @@ This condition reflects a creature's disposition toward a particular character, 
 
 ## Hidden  *Condition*
 
-While you're hidden from a creature, that creature knows the space you're in but can't tell precisely where you are. You typically become hidden by using Stealth to Hide. When Seeking a creature using only imprecise senses, it remains hidden, rather than observed. A creature you're hidden from is off-guard to you, and it must succeed at a DC 11 flat check when targeting you with an attack, spell, or other effect or it fails to affect you. Area effects aren't subject to this flat check.
+While you're hidden from a creature, that creature knows the space you're in but can't tell precisely where you are. You typically become hidden by using [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] to Hide. When Seeking a creature using only imprecise senses, it remains hidden, rather than [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]]. A creature you're hidden from is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you, and it must succeed at a DC 11 flat check when targeting you with an attack, spell, or other effect or it fails to affect you. Area effects aren't subject to this flat check.
 
  A creature might be able to use the Seek action to try to observe you.
 
@@ -159,7 +159,7 @@ This condition reflects a creature's disposition toward a particular character, 
 
 ## Immobilized  *Condition*
 
-You are incapable of movement. You can't use any actions that have the move trait. If you're immobilized by something holding you in place and an external force would move you out of your space, the force must succeed at a check against either the DC of the effect holding you in place or the relevant defense (usually Fortitude DC) of the monster holding you in place.
+You are incapable of movement. You can't use any actions that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] trait. If you're immobilized by something holding you in place and an external force would move you out of your space, the force must succeed at a check against either the DC of the effect holding you in place or the relevant defense (usually Fortitude DC) of the monster holding you in place.
 
 *Source: Player Core p. 444*
 
@@ -171,13 +171,13 @@ This condition reflects a creature's disposition toward a particular character, 
 
 ## Invisible  *Condition*
 
-You can't be seen. You're undetected to everyone. Creatures can Seek to detect you; if a creature succeeds at its Perception check against your Stealth DC, you become hidden to that creature until you Sneak to become undetected again. If you become invisible while someone can already see you, you start out hidden to them (instead of undetected) until you successfully Sneak. You can't become observed while invisible except via special abilities or magic.
+You can't be seen. You're [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] to everyone. Creatures can Seek to detect you; if a creature succeeds at its Perception check against your [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] DC, you become [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to that creature until you Sneak to become undetected again. If you become invisible while someone can already see you, you start out hidden to them (instead of undetected) until you successfully Sneak. You can't become [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]] while invisible except via special abilities or magic.
 
 *Source: Player Core p. 444*
 
 ## Observed  *Condition*
 
-Anything in plain view is observed by you. If a creature takes measures to avoid detection, such as by using Stealth to Hide, it can become hidden or undetected instead of observed. If you have another precise sense besides sight, you might be able to observe a creature or object using that sense instead. You can observe a creature with only your precise senses. When Seeking a creature using only imprecise senses, it remains hidden, rather than observed.
+Anything in plain view is observed by you. If a creature takes measures to avoid detection, such as by using [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] to Hide, it can become [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] instead of observed. If you have another precise sense besides sight, you might be able to observe a creature or object using that sense instead. You can observe a creature with only your precise senses. When Seeking a creature using only imprecise senses, it remains hidden, rather than observed.
 
 *Source: Player Core p. 444*
 
@@ -189,7 +189,7 @@ You're distracted or otherwise unable to focus your full attention on defense. Y
 
 ## Paralyzed  *Condition*
 
-You're frozen in place. You have the off-guard condition and can't act except to Recall Knowledge and use actions that require only your mind (as determined by the GM). Your senses still function, but only in the areas you can perceive without moving, so you can't Seek.
+You're frozen in place. You have the [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] condition and can't act except to Recall Knowledge and use actions that require only your mind (as determined by the GM). Your senses still function, but only in the areas you can perceive without moving, so you can't Seek.
 
 *Source: Player Core p. 445*
 
@@ -229,9 +229,9 @@ You have been turned to stone. You can't act, nor can you sense anything. You be
 
 ## Prone  *Condition*
 
-You're lying on the ground. You are off-guard and take a –2 circumstance penalty to attack rolls. The only move actions you can use while you're prone are Crawl and Stand. Standing up ends the prone condition. You can Take Cover while prone to hunker down and gain greater cover against ranged attacks, even if you don't have an object to get behind, which grants you a +4 circumstance bonus to AC against ranged attacks (but you remain off-guard).
+You're lying on the ground. You are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and take a –2 circumstance penalty to attack rolls. The only [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] actions you can use while you're prone are Crawl and Stand. Standing up ends the prone condition. You can Take Cover while prone to hunker down and gain greater cover against ranged attacks, even if you don't have an object to get behind, which grants you a +4 circumstance bonus to AC against ranged attacks (but you remain off-guard).
 
- If you would be knocked prone while you're Climbing or Flying, you fall. You can't be knocked prone when Swimming.
+ If you would be knocked prone while you're Climbing or Flying, you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Falling|fall]]. You can't be knocked prone when Swimming.
 
 *Source: Player Core p. 445*
 
@@ -243,7 +243,7 @@ You're able to act more quickly. You gain 1 additional action at the start of yo
 
 ## Restrained  *Condition*
 
-You're tied up and can barely move, or a creature has you pinned. You have the off-guard and immobilized conditions, and you can't use any attack or manipulate actions except to attempt to Escape or Force Open your bonds. Restrained overrides grabbed.
+You're tied up and can barely move, or a creature has you pinned. You have the [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] conditions, and you can't use any [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] actions except to attempt to Escape or Force Open your bonds. Restrained overrides [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]].
 
 *Source: Player Core p. 446*
 
@@ -265,7 +265,7 @@ You have fewer actions. Slowed always includes a value. When you regain your act
 
 You've become senseless. You can't act. Stunned usually includes a value, which indicates how many total actions you lose, possibly over multiple turns, from being stunned. Each time you regain actions, reduce the number you regain by your stunned value, then reduce your stunned value by the number of actions you lost. For example, if you were stunned 4, you would lose all 3 of your actions on your turn, reducing you to stunned 1; on your next turn, you would lose 1 more action, and then be able to use your remaining 2 actions normally. Stunned might also have a duration instead, such as “stunned for 1 minute,” causing you to lose all your actions for the duration.
 
- Stunned overrides slowed. If the duration of your stunned condition ends while you are slowed, you count the actions lost to the stunned condition toward those lost to being slowed. So, if you were stunned 1 and slowed 2 at the beginning of your turn, you would lose 1 action from stunned, and then lose only 1 additional action by being slowed, so you would still have 1 action remaining to use that turn.
+ Stunned overrides [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]]. If the duration of your stunned condition ends while you are slowed, you count the actions lost to the stunned condition toward those lost to being slowed. So, if you were stunned 1 and slowed 2 at the beginning of your turn, you would lose 1 action from stunned, and then lose only 1 additional action by being slowed, so you would still have 1 action remaining to use that turn.
 
 *Source: Player Core p. 446*
 
@@ -277,22 +277,22 @@ Your thoughts and instincts are clouded. Stupefied always includes a value. You 
 
 ## Unconscious  *Condition*
 
-You're sleeping or have been knocked out. You can't act. You take a –4 status penalty to AC, Perception, and Reflex saves, and you have the blinded and off-guard conditions. When you gain this condition, you fall prone and drop items you're holding unless the effect states otherwise or the GM determines you're positioned so you wouldn't.
+You're sleeping or have been knocked out. You can't act. You take a –4 status penalty to AC, Perception, and Reflex saves, and you have the [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] conditions. When you gain this condition, you fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and drop items you're holding unless the effect states otherwise or the GM determines you're positioned so you wouldn't.
 
- If you're unconscious because you're dying, you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more, you lose the dying and unconscious conditions and can act normally on your next turn.
+ If you're unconscious because you're [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]], you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more, you lose the dying and unconscious conditions and can act normally on your next turn.
 
  If you are unconscious and at 0 Hit Points, but not dying, you return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you are healed, you lose the unconscious condition and can act normally on your next turn.
 
  If you're unconscious and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways. 
-You take damage, though if the damage reduces you to 0 Hit Points, you remain unconscious and gain the dying condition as normal.You receive healing, other than the natural healing you get from resting.Someone shakes you awake with an Interact action.Loud noise around you might wake you. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. If creatures are attempting to stay quiet around you, this Perception check uses their Stealth DCs. Some effects make you sleep so deeply that they don't allow you this Perception check.If you are simply asleep, the GM decides you wake up either because you have had a restful night's sleep or something disrupted that rest.
+You take damage, though if the damage reduces you to 0 Hit Points, you remain unconscious and gain the dying condition as normal.You receive healing, other than the natural healing you get from resting.Someone shakes you awake with an Interact action.Loud noise around you might wake you. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. If creatures are attempting to stay quiet around you, this Perception check uses their [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] DCs. Some effects make you sleep so deeply that they don't allow you this Perception check.If you are simply asleep, the GM decides you wake up either because you have had a restful night's sleep or something disrupted that rest.
 
 *Source: Player Core p. 446*
 
 ## Undetected  *Condition*
 
-When you are undetected by a creature, that creature can't see you at all, has no idea what space you occupy, and can't target you, though you still can be affected by abilities that target an area. When you're undetected by a creature, that creature is off-guard to you.
+When you are undetected by a creature, that creature can't see you at all, has no idea what space you occupy, and can't target you, though you still can be affected by abilities that target an area. When you're undetected by a creature, that creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you.
 
- A creature you're undetected by can guess which square you're in to try targeting you. It must pick a square and attempt an attack. This works like targeting a hidden creature (requiring a DC 11 flat check, as described under Detecting Creatures), but the flat check and attack roll are rolled in secret by the GM, who doesn't reveal whether the attack missed due to failing the flat check, failing the attack roll, or choosing the wrong square. They can Seek to try to find you.
+ A creature you're undetected by can guess which square you're in to try targeting you. It must pick a square and attempt an attack. This works like targeting a [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] creature (requiring a DC 11 flat check, as described under [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Detecting Creatures|Detecting Creatures]]), but the flat check and attack roll are rolled in [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] by the GM, who doesn't reveal whether the attack missed due to failing the flat check, failing the attack roll, or choosing the wrong square. They can Seek to try to find you.
 
 *Source: Player Core p. 447*
 
@@ -304,13 +304,13 @@ This condition reflects a creature's disposition toward a particular character, 
 
 ## Unnoticed  *Condition*
 
-If you're unnoticed by a creature, that creature has no idea you're present. When you're unnoticed, you're also undetected. This matters for abilities that can be used only against targets totally unaware of your presence.
+If you're unnoticed by a creature, that creature has no idea you're present. When you're unnoticed, you're also [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]]. This matters for abilities that can be used only against targets totally unaware of your presence.
 
 *Source: Player Core p. 447*
 
 ## Wounded  *Condition*
 
-You have been seriously injured. If you lose the dying condition and do not already have the wounded condition, you become wounded 1. If you already have the wounded condition when you lose the dying condition, your wounded condition value increases by 1. If you gain the dying condition while wounded, increase your dying condition value by your wounded value.
+You have been seriously injured. If you lose the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition and do not already have the wounded condition, you become wounded 1. If you already have the wounded condition when you lose the dying condition, your wounded condition value increases by 1. If you gain the dying condition while wounded, increase your dying condition value by your wounded value.
 
  The wounded condition ends if someone successfully restores Hit Points to you using Treat Wounds, or if you are restored to full Hit Points by any means and rest for 10 minutes.
 

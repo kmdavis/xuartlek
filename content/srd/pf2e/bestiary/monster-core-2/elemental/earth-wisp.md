@@ -29,10 +29,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; darkvision, tremorsense (imprecise) 30 feet"
-languages: "Petran"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +6, Dungeon Lore +4, Plane of Earth Lore +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/lore|Dungeon Lore]] +4, [[srd/pf2e/compendium/rules-elements/skills/lore|Plane of Earth Lore]] +4"
 abilityMods: [2, 1, 3, 0, 2, 0]
 ac: 15
 armorclass:
@@ -41,23 +41,23 @@ armorclass:
 hp: 15
 health:
   - name: "HP"
-    desc: "15; __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ bludgeoning 2"
+    desc: "15; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ bludgeoning 2"
 abilities_mid:
   - name: "Resonance"
-    desc: "(aura, earth) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. Creatures in the area gain a +1 status bonus to attack and damage rolls for effects that have the earth trait; a creature with the elemental and earth traits gains this bonus to all attack and damage rolls."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]]) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. Creatures in the area gain a +1 status bonus to attack and damage rolls for effects that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]] trait; a creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] and earth traits gains this bonus to all attack and damage rolls."
   - name: "Accord Essence"
-    desc: "⬲ (earth)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]])"
   - name: "Trigger"
     desc: "An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack"
   - name: "Effect"
-    desc: "The wisp detonates themself in an elemental explosion. This grants temporary Hit Points equal to half the wisp's current Hit Points to allies within 30 feet who have benefited from the wisp's resonance in the last hour. These temporary Hit Points last 1 hour. A wisp that uses this reaction is permanently destroyed, and they can be restored by only a _wish_ ritual or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect."
+    desc: "The wisp detonates themself in an elemental explosion. This grants [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] equal to half the wisp's current Hit Points to allies within 30 feet who have benefited from the wisp's resonance in the last hour. These temporary Hit Points last 1 hour. A wisp that uses this reaction is permanently destroyed, and they can be restored by only a [[srd/pf2e/compendium/spells/rituals/wish|_wish_]] ritual or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|dismissed]]), Accord Essence has no effect."
 speed: "20 feet, burrow 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tendril +6 (reach 10 feet) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ tendril +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d4+2 bludgeoning"
 abilities_bot:
   - name: "In Concert"
-    desc: "When an earth wisp rolls a critical failure on a check to Aid, they get a failure instead, and when they roll a success, they get a critical success instead."
+    desc: "When an earth wisp rolls a critical failure on a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]], they get a failure instead, and when they roll a success, they get a critical success instead."
 sourcebook: "_Monster Core 2_, page 152."
 ```
 

@@ -16,7 +16,7 @@ source: "GM Core"
 
 - **Usage**: worn armor
 - **Bulk**: varies by armor
-- **Base Material**: Orichalcum
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/orichalcum-object-high-grade|Orichalcum]]
 
 Orichalcum armor can be etched with four magic property runes instead of three due to the magical empowerment of orichalcum. If you’re wearing armor made of orichalcum, the armor grants you insights into the future, granting you a +1 circumstance bonus to initiative rolls.
 

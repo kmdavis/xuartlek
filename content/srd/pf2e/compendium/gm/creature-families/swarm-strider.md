@@ -16,7 +16,7 @@ All living creatures eventually become worm food. Yet if a creature perishes whi
 
 ### Swarm Strider Abilities
 
- A swarm strider gains the aberration and swarm traits. They lose any traits that represent their former life, such as human and humanoid, though they usually remain the same size, keep the same items, and use the same weapons as they did before their rebirth. Swarm striders typically have the following abilities.
+ A swarm strider gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberration]] and [[srd/pf2e/compendium/rules-elements/traits/gm-core/swarm|swarm]] traits. They lose any traits that represent their former life, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/human|human]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]], though they usually remain the same size, keep the same items, and use the same weapons as they did before their rebirth. Swarm striders typically have the following abilities.
 
  **Darkvision**
 
@@ -29,19 +29,19 @@ All living creatures eventually become worm food. Yet if a creature perishes whi
  **Discorporate** When the swarm strider is reduced to 0 HP, their constituent creatures collapse, scattering on the ground under their space and each adjacent square. If even one of the creatures gets away, the swarm strider can eventually re-form over 1d10 days (potentially longer in areas where there are few invertebrates).
  The scattered invertebrates must be destroyed within 1 round to destroy the swarm strider permanently. The invertebrates have a collective pool of HP, typically equal to 1/4 of the swarm strider's maximum HP, and the same AC, saves, immunities, resistances, and weaknesses as the swarm strider. The invertebrates can't take actions but they escape automatically once the round elapses. At the GM's discretion, clever means of trapping or eliminating the creatures might be sufficient to destroy the swarm strider.
 
- **Immunities** precision, swarm mind **Resistances** resistance 2 to physical and poison, increasing to 5 at 5th level, 10 at 10th level, 15 at 15th level, and 20 at 20th level.
+ **Immunities** precision, swarm mind **Resistances** resistance 2 to physical and [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], increasing to 5 at 5th level, 10 at 10th level, 15 at 15th level, and 20 at 20th level.
 
- **Weaknesses** weakness 2 to area damage and splash damage, increasing to 5 at 5th level, 10 at 10th level, 15 at 15th level, and 20 at 20th level
+ **Weaknesses** weakness 2 to area damage and [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage, increasing to 5 at 5th level, 10 at 10th level, 15 at 15th level, and 20 at 20th level
 
- **Draw Bugs** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (healing) The swarm strider draws more arthropods from the environment around them to reconstitute some of their damaged body. They regain the listed number of HP, which is typically 5 HP, increasing to 10 at 5th level, 15 at 10th level, and 20 at 15th level. At the GM's discretion, the swarm strider doesn't recover HP in areas where there aren't enough arthropods to call to themselves.
+ **Draw Bugs** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]]) The swarm strider draws more arthropods from the environment around them to reconstitute some of their damaged body. They regain the listed number of HP, which is typically 5 HP, increasing to 10 at 5th level, 15 at 10th level, and 20 at 15th level. At the GM's discretion, the swarm strider doesn't recover HP in areas where there aren't enough arthropods to call to themselves.
 
- **Squirming Embrace** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") The swarm strider Strides. If they end their movement sharing a space with a creature, they deal 1d6 piercing damage to the creature, with a basic Reflex save. The save DC is the high spell DC for the swarm strider's level. The damage increases by 1d6 at 4th level and every 3 levels thereafter. The swarm strider can Burrow, Climb, Fly, or Swim instead of Striding if they have the corresponding movement type.
+ **Squirming Embrace** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") The swarm strider Strides. If they end their movement sharing a space with a creature, they deal 1d6 piercing damage to the creature, with a basic Reflex save. The save DC is the high spell DC for the [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Level-Based DCs|swarm strider's level]]. The damage increases by 1d6 at 4th level and every 3 levels thereafter. The swarm strider can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] instead of Striding if they have the corresponding movement type.
 
- **Swarm Shape** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) The swarm strider collapses into a shapeless swarm of their constituent creatures. They drops all items in their possession. In this form, the swarm strider can't use attack actions and can't cast spells, but they can move through areas small enough for their constituent creatures to fit without having to Squeeze. They can use the same action to coalesce from their swarm shape back into their normal form.
+ **Swarm Shape** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The swarm strider collapses into a shapeless swarm of their constituent creatures. They drops all items in their possession. In this form, the swarm strider can't use [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] actions and can't cast spells, but they can move through areas small enough for their constituent creatures to fit without having to [[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]]. They can use the same action to coalesce from their swarm shape back into their normal form.
 
 ### Members
 
-Skittering Slayer (Creature 8), Thousand Thieves (Creature 16), Worm Prophet (Creature 12)
+[[srd/pf2e/bestiary/monster-core-2/aberration/skittering-slayer|Skittering Slayer]] (Creature 8), [[srd/pf2e/bestiary/monster-core-2/aberration/thousand-thieves|Thousand Thieves]] (Creature 16), [[srd/pf2e/bestiary/monster-core-2/aberration/worm-prophet|Worm Prophet]] (Creature 12)
 
 ### A Swarm's Hoard
 
@@ -49,7 +49,7 @@ A swarm strider often cradles an assortment of trinkets and talismans within the
 
 ### Fantastical Feasts
 
-Otherworldly beings and magical environments can spawn truly fantastical swarm striders. The Sarkoris Scar’s soil imparts fiendish features and malevolent impulses, especially to swarm striders that feast on demon flesh. Beings comprised entirely of blood-drinking moths aren’t unheard of in Gebbite society. There are even swarm striders of chameleonic birds said to live near First World rifts.
+Otherworldly beings and magical environments can spawn truly fantastical swarm striders. The Sarkoris Scar’s soil imparts fiendish features and malevolent impulses, especially to swarm striders that feast on demon flesh. Beings comprised entirely of blood-drinking moths aren’t unheard of in Gebbite society. There are even swarm striders of chameleonic birds said to live near [[srd/pf2e/compendium/gm/planes#First World|First World]] rifts.
 
 ### Split Personality
 
@@ -61,11 +61,11 @@ In the right environments—particularly where other invertebrates are most comm
 
 **Bookworm:** Born students trapped in labyrinthine libraries, these swarm striders voraciously consume knowledge—including the spellbooks and scrolls of those damaged by their Squirming Embrace! 
 
-**Cicada:** These noisome swarm striders often hibernate for years at a time, and their screeching is known to counteract auditory effects. 
+**Cicada:** These noisome swarm striders often hibernate for years at a time, and their screeching is known to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] effects. 
 
-**Lamprey:** A kraken’s corpse or awakened whalefall can seep intelligence into the lampreys that feast on their flesh, creating aquatic swarm striders with prodigious size and reach. 
+**Lamprey:** A [[srd/pf2e/bestiary/monster-core/beast/kraken|kraken’s]] corpse or awakened whalefall can seep intelligence into the lampreys that feast on their flesh, creating aquatic swarm striders with prodigious size and reach. 
 
-**Leech:** This bloodsucking swarm strider usually forms from a fresh corpse exsanguinated in a leechinfested swamp, gaining both the ability to swim and to deal persistent bleed damage instead of piercing damage.
+**Leech:** This bloodsucking swarm strider usually forms from a fresh corpse exsanguinated in a leechinfested swamp, gaining both the ability to swim and to deal [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] instead of piercing damage.
 
 **Wasp:** Stinging and buzzing, a wasp strider flies, moving much faster in the air than on the ground.
 

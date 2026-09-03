@@ -13,6 +13,6 @@ source: "Guns & Gears (Remastered)"
 
 `Modification`
 
-A feat with this trait alters the construction of your innovation. If you have the reconfigure class feature, you can retrain such a feat more easily
+A feat with this trait alters the construction of your innovation. If you have the [[srd/pf2e/compendium/character/classes/inventor|reconfigure class feature]], you can retrain such a feat more easily
 
 *Source: Guns & Gears (Remastered) p. 234*

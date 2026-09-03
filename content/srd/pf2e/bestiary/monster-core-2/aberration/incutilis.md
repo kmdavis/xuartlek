@@ -31,10 +31,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; darkvision"
-languages: "Aklo, Thalassic; telepathy 30 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]; telepathy 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +8, Deception +5, Stealth +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
 abilityMods: [4, 3, 1, 1, 3, -1]
 ac: 17
 armorclass:
@@ -50,13 +50,13 @@ attacks:
     desc: "⬻ tentacle +8 __Damage__ 1d4+4 bludgeoning plus Grab"
 abilities_bot:
   - name: "Abandon Puppet"
-    desc: "⬻ (Manipulate)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"
   - name: "Requirements"
     desc: "The incutilis is attached to a puppet"
   - name: "Effect"
-    desc: "The incutilis abandons its puppet, detaching and separating from its nervous system. If the puppet is still alive, it's unconscious and temporarily immune to that incutilis's Puppetmaster ability for 24 hours."
+    desc: "The incutilis abandons its puppet, detaching and separating from its nervous system. If the puppet is still alive, it's [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] and temporarily immune to that incutilis's Puppetmaster ability for 24 hours."
   - name: "Puppetmaster"
-    desc: "⬽ (Manipulate) An incutilis drives tendrils into a Small or Medium living creature that's unconscious or restrained by the incutilis. They attach and inject the unfortunate host with enzymes to take over control of the creature's nervous system, turning the host into a puppet controlled by the incutilis. The puppet becomes controlled by the incutilis, and gains dying 2. This doesn't change the puppet's HP, and the puppet can have this dying condition even if it has more than 0 HP. If the puppet dies, its body remains under the control of the incutilis until it's destroyed or the incutilis Abandons the Puppet. If the puppet recovers from the dying condition, the incutilis immediately Abandons the Puppet. While controlling a puppet, the incutilis is attached to the puppet's head (or elsewhere, if its brain is in an unconventional location) and moves along with it. The puppet uses its own AC, Hit Points, Fortitude and Reflex saves, and physical Strikes, but it uses the incutilis's Will save. The puppet can perform only basic actions and untrained uses of the Athletics and Stealth skills while controlled. Any attack that deals damage to the puppet also deals 1 mental damage to the incutilis. Area effects are applied to both the incutilis and puppet. The incutilis always has lesser cover while in control of a puppet. Whalers' Tales The crews of whaling ships are among those most likely to encounter an incutilis. Whale brains aren't an incutilis's preferred food, but they can bore their tendrils into one for a long time. When such an unfortunate whale is brought alongside the whaling ship, an incutilis has an opportunity to climb aboard unseen and prey upon any member of the crew unlucky enough to be caught sleeping."
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) An incutilis drives tendrils into a Small or Medium living creature that's [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the incutilis. They attach and inject the unfortunate host with enzymes to take over control of the creature's nervous system, turning the host into a puppet controlled by the incutilis. The puppet becomes [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] by the incutilis, and gains [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] 2. This doesn't change the puppet's HP, and the puppet can have this dying condition even if it has more than 0 HP. If the puppet dies, its body remains under the control of the incutilis until it's destroyed or the incutilis Abandons the Puppet. If the puppet recovers from the dying condition, the incutilis immediately Abandons the Puppet. While controlling a puppet, the incutilis is attached to the puppet's head (or elsewhere, if its brain is in an unconventional location) and moves along with it. The puppet uses its own AC, Hit Points, Fortitude and Reflex saves, and physical Strikes, but it uses the incutilis's Will save. The puppet can perform only basic actions and untrained uses of the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] skills while controlled. Any attack that deals damage to the puppet also deals 1 mental damage to the incutilis. Area effects are applied to both the incutilis and puppet. The incutilis always has lesser cover while in control of a puppet. Whalers' Tales The crews of whaling ships are among those most likely to encounter an incutilis. Whale brains aren't an incutilis's preferred food, but they can bore their tendrils into one for a long time. When such an unfortunate whale is brought alongside the whaling ship, an incutilis has an opportunity to climb aboard unseen and prey upon any member of the crew unlucky enough to be caught sleeping."
 sourcebook: "_Monster Core 2_, page 198."
 ```
 

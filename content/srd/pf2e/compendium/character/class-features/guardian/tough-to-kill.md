@@ -13,6 +13,6 @@ source: "Battlecry!"
 
 - **Class**: Guardian
 
-The protectiveness of your armor ensures that even if you fall, you take longer to die. You gain the Diehard general feat. If you already have the Diehard feat, you can retrain it when you get tough to kill. Additionally, the first time each day you’d be reduced to dying 3 or higher, you stay at dying 2 instead.
+The protectiveness of your armor ensures that even if you fall, you take longer to die. You gain the [[srd/pf2e/compendium/feats/player-core/general/diehard|Diehard]] general feat. If you already have the Diehard feat, you can retrain it when you get tough to kill. Additionally, the first time each day you’d be reduced to [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] 3 or higher, you stay at dying 2 instead.
 
 *Source: Battlecry! p. 37*

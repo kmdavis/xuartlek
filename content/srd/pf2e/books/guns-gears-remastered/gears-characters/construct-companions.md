@@ -16,7 +16,7 @@ citation: "Guns & Gears (Remastered) pg. 32"
 
 <sup>G&G p. 32</sup>
 
-A construct companion is a loyal, semi-sentient construct who follows your orders obediently and is roughly as intelligent as an animal. Your construct companion has the minion trait, and you gain the Command a Construct action.
+A construct companion is a loyal, semi-sentient construct who follows your orders obediently and is roughly as intelligent as an animal. Your construct companion has the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait, and you gain the Command a Construct action.
 
 ### Command a Construct [one-action]
 
@@ -24,7 +24,7 @@ A construct companion is a loyal, semi-sentient construct who follows your order
 
 ---
 
-(auditory, concentrate) You instruct your construct companion to act as you instruct it, and according to its programming. Your construct companion gains 2 actions during this turn.If your companion is destroyed, you can spend 1 day of downtime and attempt a Crafting check with a high DC for your level. On a success, you rebuild your companion. You can have only one construct companion at a time, and you can have either a construct companion or an animal companion, but not both.
+([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) You instruct your construct companion to act as you instruct it, and according to its programming. Your construct companion gains 2 actions during this turn.If your companion is destroyed, you can spend 1 day of downtime and attempt a Crafting check with a high DC for your level. On a success, you rebuild your companion. You can have only one construct companion at a time, and you can have either a construct companion or an animal companion, but not both.
 
 ## Riding Construct Companions
 
@@ -62,7 +62,7 @@ While constructs are usually immediately destroyed at 0 Hit Points, your constru
 
 ### Immunities
 
-Because it’s a construct, your construct companion is immune to bleed, death effects, disease, doomed, drained, fatigued, healing, nonlethal attacks, paralyzed, poison, sickened, unconscious, vitality, and void. It does not need to eat or breathe. Because the construct isn’t a living creature, effects that heal living creatures can’t help it recover Hit Points. Restoring Hit Points to it requires using the Repair action or other means that can restore Hit Points to objects and nonliving creatures.
+Because it’s a construct, your construct companion is immune to bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, paralyzed, [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]. It does not need to eat or breathe. Because the construct isn’t a living creature, effects that heal living creatures can’t help it recover Hit Points. Restoring Hit Points to it requires using the Repair action or other means that can restore Hit Points to objects and nonliving creatures.
 
 ### Senses
 

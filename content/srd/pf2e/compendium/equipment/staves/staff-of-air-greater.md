@@ -52,6 +52,6 @@ Carved from white ash wood, a staff of air crackles with electrical sparks, and 
 
 ---
 
-**4th** _ash cloud_, _fly_**5th** _blazing dive_, _lightning storm_
+**4th** _ash cloud_, [[srd/pf2e/compendium/spells/rank-4/fly|_fly_]]**5th** _blazing dive_, [[srd/pf2e/compendium/spells/rank-5/lightning-storm|_lightning storm_]]
 
 *Source: Treasure Vault (Remastered) p. 134*

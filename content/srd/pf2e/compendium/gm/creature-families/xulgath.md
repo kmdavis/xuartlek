@@ -14,15 +14,15 @@ Reptilian humanoids who live in the uppermost reaches of the Darklands, xulgaths
 
  Although today the xulgaths are brutal and scattered, they were one of the first intelligent humanoids to rise in the primeval world, once ruling over a mighty empire that stretched throughout the Darklands. Today, all that remains of this era are ruins of massive stone ziggurats and crumbling cities found within some of the larger caverns. Some groups of xulgaths continue to live among these ruins, venerating their ancestors' accomplishments, while others consider these areas taboo and leave them to become infested with Darklands vermin. Sages don't agree on why the ancient xulgath civilization fell. Some suspect it was the result of losing several wars waged against serpentfolk, while others suggest that the corruptive influence of demon worship rotted their culture from within.
 
- Certainly, many xulgath settlements continue to worship demons to this day, paying homage and offering live sacrifices to demons or other terrible creatures from the Outer Rifts. Occasionally, a xulgath mystic can call forth and bind a lesser demon to help serve the group, but one who delves too deep into occultism might summon a more powerful fiend that either tears the xulgaths to pieces or seizes control of the settlement.
+ Certainly, many xulgath settlements continue to worship demons to this day, paying homage and offering live sacrifices to demons or other terrible creatures from the [[srd/pf2e/compendium/gm/planes#Outer Rifts|Outer Rifts]]. Occasionally, a xulgath mystic can call forth and bind a lesser demon to help serve the group, but one who delves too deep into occultism might summon a more powerful fiend that either tears the xulgaths to pieces or seizes control of the settlement.
 
 ### Members
 
-Xulgath Army (Creature 6), Xulgath Dinosaur Cavalry (Creature 13), Xulgath Leader (Creature 3), Xulgath Skulker (Creature 2), Xulgath Warrior (Creature 1)
+[[srd/pf2e/bestiary/battlecry/humanoid/xulgath-army|Xulgath Army]] (Creature 6), [[srd/pf2e/bestiary/battlecry/animal/xulgath-dinosaur-cavalry|Xulgath Dinosaur Cavalry]] (Creature 13), [[srd/pf2e/bestiary/monster-core/humanoid/xulgath-leader|Xulgath Leader]] (Creature 3), [[srd/pf2e/bestiary/monster-core/humanoid/xulgath-skulker|Xulgath Skulker]] (Creature 2), [[srd/pf2e/bestiary/monster-core/humanoid/xulgath-warrior|Xulgath Warrior]] (Creature 1)
 
 ### Rudimentary Gear
 
-Xulgath society has sharply declined under demon rule. They mostly rely on stone tools and weapons scavenged from the surface, which can replicate most simple and a few martial melee weapons, as well as simple thrown ranged weapons. An advanced clutch of xulgaths might be able to craft low-level magical talismans, such as a _potency crystal_ or a _savior spike_.
+Xulgath society has sharply declined under [[srd/pf2e/compendium/gm/creature-families/demon|demon]] rule. They mostly rely on stone tools and weapons scavenged from the surface, which can replicate most simple and a few martial melee weapons, as well as simple thrown ranged weapons. An advanced clutch of xulgaths might be able to craft low-level magical talismans, such as a [[srd/pf2e/compendium/equipment/consumables/potency-crystal-major|_potency crystal_]] or a [[srd/pf2e/compendium/equipment/consumables/savior-spike|_savior spike_]].
 
 ### Xulgath Society
 

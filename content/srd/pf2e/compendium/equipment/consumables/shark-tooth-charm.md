@@ -18,7 +18,7 @@ source: "GM Core"
 
 - **Price**: 23 gp
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 This dried-seaweed bracelet is lined with charms shaped like small shark teeth. When you activate the bracelet, attempt to Escape using Acrobatics with a +1 item bonus to the check. If you roll a success, you get a critical success instead (if you roll a critical failure, you get a failure instead). If you fail the Acrobatics check against a grabbing creature, the creature must either release you as a free action or take 2d8 piercing damage as shark's teeth momentarily emerge from your skin.
 

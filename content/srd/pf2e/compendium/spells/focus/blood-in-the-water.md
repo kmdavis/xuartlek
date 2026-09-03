@@ -27,7 +27,7 @@ source: "Howl of the Wild"
 - **Defense**: basic Reflex
 - **Duration**: sustained up to 1 minute
 
-Predators are drawn to the scent of blood, and blood can disperse shockingly far in the water. You summon the spirits of aquatic predators to appear as a spectral swarm around the target. When you Cast or Sustain this Spell, the target takes 2d6 spirit damage (basic Reflex save). If the target takes any damage from the spell, it treats all water as difficult terrain for 1 round as the predators try to drag them down. The spectral predators don’t take up space, grant flanking, or have any other attributes a creature would.
+Predators are drawn to the scent of blood, and blood can disperse shockingly far in the water. You summon the spirits of aquatic predators to appear as a spectral swarm around the target. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] this Spell, the target takes 2d6 spirit damage (basic Reflex save). If the target takes any damage from the spell, it treats all water as [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for 1 round as the predators try to drag them down. The spectral predators don’t take up space, grant [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanking]], or have any other attributes a creature would.
 
 If you deal slashing damage to the target while the spell is active, you automatically Sustain this Spell. If you cast _blood in the water_ while a previous casting of this hex is still in effect, the previous effect ends.
 

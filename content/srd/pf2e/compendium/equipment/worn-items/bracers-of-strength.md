@@ -21,6 +21,6 @@ source: "GM Core"
 
 Etchings of powerful bears decorate these brass bracers. You gain a +3 item bonus to Athletics checks and a +2 circumstance bonus to Athletics checks to lift a heavy object, Escape, and Force Open. When you invest the bracers, you either increase your Strength modifier by 1 or increase it to +4, whichever would give you a higher value. 
 
-**Activate—Bear Hug** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Effect** Attempt to Grapple a creature. If you succeed, you crush the creature in your grasp, dealing bludgeoning damage to it equal to your Strength modifier. If you critically succeeded, the damage is equal to double your Strength modifier and the creature suffocates as long as it remains grabbed or restrained by you.
+**Activate—Bear Hug** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Attempt to Grapple a creature. If you succeed, you crush the creature in your grasp, dealing bludgeoning damage to it equal to your Strength modifier. If you critically succeeded, the damage is equal to double your Strength modifier and the creature [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Drowning and Suffocating|suffocates]] as long as it remains grabbed or restrained by you.
 
 *Source: GM Core p. 270*

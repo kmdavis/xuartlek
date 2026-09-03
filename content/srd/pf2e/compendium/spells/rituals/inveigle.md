@@ -17,12 +17,12 @@ source: "Player Core 2"
 
 - **Cast**: 1 day
 - **Cost**: rare oils worth a total value of 10 gp × the target’s level
-- **Primary Check**: Arcana (expert), Occultism (expert), or Religion (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (expert), [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert), or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert)
 - **Range**: 10 feet
 - **Target(s)**: 1 creature of a level no greater than double the inveigle ritual’s rank
 - **Duration**: 1 year or until dismissed
 
-You win over the target’s mind, causing it to see you as a close and trusted friend and look upon your every suggestion as reasonable. The target is helpful toward you, so it will go out of its way to help you. As with any other helpful creature, there are limits to what you can ask of it. If you ever ask the target to do something completely against its nature or needlessly harmful to the target or its interests, not only does it refuse, but it also can attempt a Will save to end the effect early. Because of the casting time and range, it’s generally difficult to cast this ritual unless the target is willing (perhaps convinced the ritual will have some other effect) or restrained. If the creature is unwilling to accept the ritual, it can attempt a Will save to negate the effect.
+You win over the target’s mind, causing it to see you as a close and trusted friend and look upon your every suggestion as reasonable. The target is [[srd/pf2e/compendium/rules-elements/conditions#Helpful|helpful]] toward you, so it will go out of its way to help you. As with any other helpful creature, there are limits to what you can ask of it. If you ever ask the target to do something completely against its nature or needlessly harmful to the target or its interests, not only does it refuse, but it also can attempt a Will save to end the effect early. Because of the casting time and range, it’s generally difficult to cast this ritual unless the target is willing (perhaps convinced the ritual will have some other effect) or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]. If the creature is unwilling to accept the ritual, it can attempt a Will save to negate the effect.
 
 **Critical Success** The ritual succeeds and the target takes a –4 status penalty to Will saves to end the effect.
 
@@ -30,7 +30,7 @@ You win over the target’s mind, causing it to see you as a close and trusted f
 
 **Failure** The ritual fails.
 
-**Critical Failure** The ritual fails and the target instead hates you, becoming hostile to you for the duration.
+**Critical Failure** The ritual fails and the target instead hates you, becoming [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]] to you for the duration.
 
 ---
 **Heightened (6th)** You can use _inveigle_ on a creature up to 1 mile away throughout the casting, as long as you have a piece of the creature’s body, which you mix into the oils used in the cost. The base cost is 100 gp. The duration is shorter, and based on how large a piece of the creature’s body you use: 1 week for blood, hair, scales, and the like, or 1 month for a hand or similarly substantial body part.

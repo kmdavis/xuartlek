@@ -31,7 +31,7 @@ perception:
     desc: "Perception +16; tremorsense (imprecise) 30 ft"
 skills:
   - name: "Skills"
-    desc: "Athletics +19, Stealth +14, Survival +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +18"
 abilityMods: [4, 3, 6, -5, 3, 1]
 abilities_top:
   - name: "Eyespots"
@@ -48,24 +48,24 @@ abilities_mid:
   - name: "Tun State"
     desc: "⭓"
   - name: "Trigger"
-    desc: "The tardigrade would be reduced to 0 Hit Points or would die due to starvation, suffocation, or similar environmental causes"
+    desc: "The tardigrade would be reduced to 0 Hit Points or would die due to [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Starvation and Thirst|starvation]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Mounted Defenses|suffocation]], or similar environmental causes"
   - name: "Frequency"
     desc: "once per week"
   - name: "Requirements"
     desc: "The tardigrade isn't already in tun state"
   - name: "Effect"
-    desc: "The giant tardigrade doesn't die but instead remains at 1 Hit Point and curls into a dry ball, called a tun. While in this tun state, the giant tardigrade is unconscious, doesn't need to eat, drink, or breathe, and doubles its resistance to 20. It remains in tun state indefinitely until covered in significant amounts of water, at which point it begins to rehydrate, gaining regeneration 5. The regeneration persists until it reaches maximum Hit Points. The giant tardigrade then exits its tun state."
+    desc: "The giant tardigrade doesn't die but instead remains at 1 Hit Point and curls into a dry ball, called a tun. While in this tun state, the giant tardigrade is [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], doesn't need to eat, drink, or breathe, and doubles its resistance to 20. It remains in tun state indefinitely until covered in significant amounts of water, at which point it begins to rehydrate, gaining regeneration 5. The regeneration persists until it reaches maximum Hit Points. The giant tardigrade then exits its tun state."
 speed: "25 feet, climb 25 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ stylet +19 __Damage__ 3d8+6 piercing plus 1d8 persistent bleed"
   - name: "Melee"
-    desc: "⬻ claws +19 (Agile, reach 10 feet) __Damage__ 3d6+6 slashing plus Grab"
+    desc: "⬻ claws +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 3d6+6 slashing plus Grab"
 abilities_bot:
   - name: "Vacuum Mouth"
     desc: "⬺"
   - name: "Requirements"
-    desc: "The giant tardigrade doesn't have a target grabbed"
+    desc: "The giant tardigrade doesn't have a target [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]"
   - name: "Effect"
     desc: "The giant tardigrade draws in air with its mouth. All creatures in a 20-foot cone must succeed at a DC 25 Reflex save or be pulled adjacent to the giant tardigrade. The tardigrade chooses one creature that failed its save, Grabbing the target in its claws and making a stylet Strike."
 sourcebook: "_Howl of the Wild_, page 187."

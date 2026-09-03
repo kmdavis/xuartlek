@@ -31,7 +31,7 @@ You fill the targets' minds with endless images, like countless dreams and lives
 
 **Success** The target takes half damage and can't use reactions until the start of your next turn.
 
-**Failure** The target takes full damage and is confused until the start of your next turn.
+**Failure** The target takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] until the start of your next turn.
 
 **Critical Failure** The target takes double damage and is confused for 1 minute.
 

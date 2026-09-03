@@ -23,7 +23,7 @@ source: "Dark Archives (Remastered)"
 - **Area**: one 5-foot cube
 - **Defense**: Reflex
 
-You fling a mass of furious thoughts into the air, where they expand into numerous blades or other shapes that rain down. Any creature that's in the area or enters the area before the start of your next turn takes 4d4 bludgeoning or piercing damage (your choice), with a basic Reflex saving throw.
+You fling a mass of furious thoughts into the air, where they expand into numerous blades or other shapes that rain down. Any creature that's in the area or enters the area before the start of your next turn takes 4d4 bludgeoning or piercing damage (your choice), with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex saving throw.
 
 ---
 **Heightened (+1)** The damage increases by 1d4.

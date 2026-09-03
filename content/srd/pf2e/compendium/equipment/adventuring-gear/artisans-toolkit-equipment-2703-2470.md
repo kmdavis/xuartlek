@@ -17,7 +17,7 @@ source: "Player Core"
 
 You need this toolkit to create items from raw materials with the Craft skill. Different sets are needed for different work, as determined by the GM; for example, a blacksmith's toolkit differs from a woodworker's toolkit. If you wear your artisan's toolkit, you can draw and replace it as part of the action that uses it.
 
-You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. See here for details. 
+You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Wearing Toolkits|See here for details]]. 
 
 ### Artisan's Toolkit
 

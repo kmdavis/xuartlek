@@ -33,16 +33,16 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; darkvision"
-languages: "Common, Jotun"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +20, Intimidation +16, Stealth +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +20, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11"
 abilityMods: [7, 0, 4, 0, 1, 1]
 abilities_top:
   - name: "Titanic Might"
     desc: ""
   - name: "Items"
-    desc: "Breastplate, Javelin (6), _+1 ogre hook_"
+    desc: "Breastplate, Javelin (6), _+1 [[srd/pf2e/compendium/equipment/weapons/pick/ogre-hook|ogre hook]]_"
 ac: 25
 armorclass:
   - name: "AC"
@@ -50,7 +50,7 @@ armorclass:
 hp: 130
 health:
   - name: "HP"
-    desc: "130; __Resistances__ mythic resistance 7"
+    desc: "130; __Resistances__ [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-monster-templates#Basic Mythic Abilities|mythic resistance]] 7"
 abilities_mid:
   - name: "Mythic Ferocity"
     desc: "⬲"
@@ -61,20 +61,20 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ ; _ogre hook_ +19 (deadly d10, reach 10 feet, Trip) __Damage__ 1d10+11 piercing"
+    desc: "⬻ ; _ogre hook_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d10+11 piercing"
   - name: "Ranged"
-    desc: "⬻ javelin +12 (thrown 30 feet) __Damage__ 1d6+11 piercing"
+    desc: "⬻ javelin +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 1d6+11 piercing"
 abilities_bot:
   - name: "Mythic Power"
     desc: "3 Mythic Points _Mythic Skill_ ⭓"
   - name: "Cost"
-    desc: "1 Mythic Point; Athletics"
+    desc: "1 Mythic Point; [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]"
   - name: "Bellowing Command"
-    desc: "⬻ (Auditory, Emotion, Fear, Linguistic, Mental) The ogre boss issues a command to hasten their fellows. Each ogre ally who hears and understands this command becomes quickened until the end of that ally's next turn, but can use the extra action only to Step or Stride."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The ogre boss issues a command to hasten their fellows. Each ogre ally who hears and understands this command becomes [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] until the end of that ally's next turn, but can use the extra action only to Step or Stride."
   - name: "Sweeping Hook"
     desc: "⬲"
   - name: "Trigger"
-    desc: "The ogre boss successfully Trips a creature using an ogre hook"
+    desc: "The ogre boss successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trips]] a creature using an ogre hook"
   - name: "Effect"
     desc: "The ogre boss makes an ogre hook Strike against the creature they tripped."
 sourcebook: "_War of Immortals_, page 171."

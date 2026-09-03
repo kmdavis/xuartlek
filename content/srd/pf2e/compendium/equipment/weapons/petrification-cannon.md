@@ -19,9 +19,9 @@ source: "Guns & Gears (Remastered)"
 - **Usage**: held in 2 hands
 - **Bulk**: 2
 
-Built from the taxidermic body of a basilisk, a petrification cannon functions as a _+2 greater striking double-barreled musket_. A _petrification cannon_ can be activated to fire a beam of energy that transforms flesh into stone.
+Built from the taxidermic body of a basilisk, a petrification cannon functions as a _+2 greater striking [[srd/pf2e/compendium/equipment/weapons/firearm/double-barreled-musket|double-barreled musket]]_. A _petrification cannon_ can be activated to fire a beam of energy that transforms flesh into stone.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate, visual) **Frequency** once per hour; **Effect** A beam of coiling energy leaps from the _petrification cannon_ at a target within 60 feet. The target must attempt a Fortitude save against DC 34 with the effects of _flesh to stone_.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) **Frequency** once per hour; **Effect** A beam of coiling energy leaps from the _petrification cannon_ at a target within 60 feet. The target must attempt a Fortitude save against DC 34 with the effects of _flesh to stone_.
 
 **Craft Requirements** The initial raw materials must include the body of a basilisk.
 

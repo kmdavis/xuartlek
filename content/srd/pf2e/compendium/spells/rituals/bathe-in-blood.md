@@ -17,7 +17,7 @@ source: "Impossible Magic"
 - **Cast**: 1 day
 - **Cost**: alchemical herbs and components worth a total of 1,000 gp × the target’s level
 - **Secondary Casters**: 2
-- **Primary Check**: Occultism (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
 - **Secondary Checks**: Religion , Society
 - **Range**: 20 feet
 - **Target(s)**: 1 living creature of a level no greater than double the bathe in blood ritual's rank
@@ -26,12 +26,12 @@ This old ritual is illegal in nearly every corner of Golarion and requires that 
 
  Each time you enact this ritual, regardless of its success or failure, you take a penalty to the primary check for all subsequent castings. This penalty starts at –1 and increases by –1 during each casting (so if you were casting this ritual on yourself for the fifth time, you would take a –4 penalty on your Occultism check).
 
-**Critical Success** You emerge rejuvenated and revived. You become up to 40 years younger, returning to the prime of youth and life. If you're already at your desired age, your aging instead stops for the next 40 years. While remaining recognizably yourself, you also become preternaturally charismatic, gaining a +1 circumstance bonus to Make an Impression.
+**Critical Success** You emerge rejuvenated and revived. You become up to 40 years younger, returning to the prime of youth and life. If you're already at your desired age, your aging instead stops for the next 40 years. While remaining recognizably yourself, you also become preternaturally charismatic, gaining a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]].
 
 **Success** You become 20 years younger or pause your aging for 20 years.
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** You die. Casters killed this way frequently return as undead, often as ghosts or vampires.
+**Critical Failure** You die. Casters killed this way frequently return as undead, often as [[srd/pf2e/compendium/gm/creature-families/ghost|ghosts]] or [[srd/pf2e/compendium/gm/creature-families/vampire|vampires]].
 
 *Source: Impossible Magic p. 189*

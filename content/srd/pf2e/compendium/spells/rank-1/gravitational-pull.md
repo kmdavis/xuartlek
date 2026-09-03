@@ -23,7 +23,7 @@ source: "Impossible Magic"
 By suddenly altering gravity, you pull the target toward you. The target is pulled 10 feet closer to you unless it succeeds at a Fortitude save. On a critical failure, it's also knocked prone. The effects of this spell change depending on the number of actions you spend when you Cast this Spell.
 
  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") The spell targets one creature.
- [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) The spell targets one creature and pulls the target 20 feet instead of 10.
- [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (concentrate) The spell targets up to five creatures.
+ [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The spell targets one creature and pulls the target 20 feet instead of 10.
+ [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The spell targets up to five creatures.
 
 *Source: Impossible Magic p. 142*

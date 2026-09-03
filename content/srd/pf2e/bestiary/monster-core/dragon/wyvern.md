@@ -27,10 +27,10 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; darkvision, scent (imprecise) 30 feet"
-languages: "Draconic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +14, Athletics +15, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [5, 2, 4, -2, 3, 0]
 ac: 24
 armorclass:
@@ -39,14 +39,14 @@ armorclass:
 hp: 95
 health:
   - name: "HP"
-    desc: "95; __Immunities__ paralyzed, sleep"
+    desc: "95; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 abilities_mid:
   - name: "Reactive Strike"
     desc: "⬲"
   - name: "Savage"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature grabbed or restrained by the wyvern critically fails a skill check to Escape"
+    desc: "A creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the wyvern critically fails a skill check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]"
   - name: "Effect"
     desc: "The wyvern makes a stinger Strike against the triggering creature."
 speed: "20 feet, fly 60 feet"
@@ -56,18 +56,18 @@ attacks:
   - name: "Melee"
     desc: "⬻ claw +17 __Damage__ 2d8+5 slashing plus Grab"
   - name: "Melee"
-    desc: "⬻ stinger +15 (Agile, reach 10 feet) __Damage__ 2d6+5 piercing plus wyvern venom"
+    desc: "⬻ stinger +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+5 piercing plus wyvern venom"
 abilities_bot:
   - name: "Powerful Dive"
-    desc: "⬺ (Move) The wyvern Flies up to their fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If they end the movement within melee reach of at least one enemy their size or smaller, they can make a claw Strike against that enemy. If the claw hits, as a free action, the wyvern can either automatically Grab the target or knock it prone."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The wyvern Flies up to their fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If they end the movement within melee reach of at least one enemy their size or smaller, they can make a claw Strike against that enemy. If the claw hits, as a free action, the wyvern can either automatically Grab the target or knock it [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
   - name: "Punishing Momentum"
     desc: "⬻"
   - name: "Requirements"
     desc: "The wyvern grabbed a creature this turn using Powerful Dive"
   - name: "Effect"
-    desc: "The wyvern can Fly at half Speed while holding the creature in their claws, carrying that creature along with them and dropping it at the end of their movement. Alternatively, the wyvern can Strike the creature with their stinger with a +2 circumstance bonus."
+    desc: "The wyvern can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] at half Speed while holding the creature in their claws, carrying that creature along with them and dropping it at the end of their movement. Alternatively, the wyvern can Strike the creature with their stinger with a +2 circumstance bonus."
   - name: "Wyvern Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 22 Fortitude"
   - name: "Maximum Duration"

@@ -21,6 +21,6 @@ source: "Player Core"
 - **Area**: 20-foot burst
 - **Duration**: 1 minute
 
-You call forth a cloud of mist. All creatures within the mist become concealed, and all creatures outside the mist become concealed to creatures within it. You can Dismiss the cloud.
+You call forth a cloud of mist. All creatures within the mist become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and all creatures outside the mist become concealed to creatures within it. You can Dismiss the cloud.
 
 *Source: Player Core p. 344*

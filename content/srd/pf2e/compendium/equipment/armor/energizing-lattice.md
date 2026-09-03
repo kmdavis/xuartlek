@@ -19,10 +19,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 3,000 gp
 - **Usage**: worn armor
 - **Bulk**: 2
-- **Base Armor**: Lattice Armor
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Lattice Armor|Lattice Armor]]
 
-This suit of _+2 resilient fortification lattice armor_ has latticework of fine golden wire. After negating a critical hit with its _fortification_ rune, the latticework glows for 1 minute, shedding bright light in a 20-foot radius (and dim light for the next 20 feet). You can Dismiss this light.
+This suit of _+2 resilient fortification [[srd/pf2e/compendium/equipment/armor#Lattice Armor|lattice armor]]_ has latticework of fine golden wire. After negating a critical hit with its _fortification_ rune, the latticework glows for 1 minute, shedding bright light in a 20-foot radius (and dim light for the next 20 feet). You can Dismiss this light.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, force) **Requirements** The _energizing lattice_ is glowing because it negated an enemy's critical hit; **Effect** You release the lattice's energy and make a weapon or unarmed attack Strike that deals 6d6 additional force damage. If your Strike fails, but doesn't critically fail, the target still takes half the force damage. The latticework ceases glowing after the Strike.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]]) **Requirements** The _energizing lattice_ is glowing because it negated an enemy's critical hit; **Effect** You release the lattice's energy and make a weapon or unarmed attack Strike that deals 6d6 additional force damage. If your Strike fails, but doesn't critically fail, the target still takes half the force damage. The latticework ceases glowing after the Strike.
 
 *Source: Treasure Vault (Remastered) p. 15*

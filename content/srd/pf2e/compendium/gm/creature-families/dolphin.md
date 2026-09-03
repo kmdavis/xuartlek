@@ -14,7 +14,7 @@ Dolphins encompass a wide range of aquatic mammals, all of which are social, int
 
 ### Members
 
-Bottlenose Dolphin (Creature 0), Orca (Creature 5)
+[[srd/pf2e/bestiary/monster-core/animal/bottlenose-dolphin|Bottlenose Dolphin]] (Creature 0), [[srd/pf2e/bestiary/monster-core/animal/orca|Orca]] (Creature 5)
 
 ### Dolphins to the Rescue
 

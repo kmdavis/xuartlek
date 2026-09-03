@@ -33,6 +33,6 @@ The target is overtaken with uncontrollable laughter. It must attempt a Will sav
 
 **Failure** The target is slowed 1 and can't use reactions.
 
-**Critical Failure** The target falls prone and can't use actions or reactions for 1 round. It then takes the effects of a failure.
+**Critical Failure** The target falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and can't use actions or reactions for 1 round. It then takes the effects of a failure.
 
 *Source: Player Core p. 340*

@@ -33,7 +33,7 @@ perception:
     desc: "Perception +21"
 skills:
   - name: "Skills"
-    desc: "Athletics +18, Intimidation +23, Nature +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +23, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +18"
 abilityMods: [7, 3, 5, 2, 1, 4]
 ac: 27
 armorclass:
@@ -42,7 +42,7 @@ armorclass:
 hp: 175
 health:
   - name: "HP"
-    desc: "175 , regeneration 10 (deactivated by fire); __Immunities__ bleed, paralyzed, poison, sleep; __Weaknesses__ axes 10, fire 10"
+    desc: "175 , regeneration 10 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ axes 10, fire 10"
 speed: "45 feet, climb 60 feet"
 attacks:
   - name: "Melee"
@@ -51,13 +51,13 @@ attacks:
     desc: "⬻ hooves +20 __Damage__ 2d10+7 bludgeoning"
 abilities_bot:
   - name: "Mauler"
-    desc: "A painted stag gains a +5 circumstance bonus to damage rolls against creatures it has grabbed."
+    desc: "A painted stag gains a +5 circumstance bonus to damage rolls against creatures it has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]."
   - name: "Painted Dance"
-    desc: "⬺ (Auditory, Mental, Plant, Primal, Visual) The stag shakes the wooden plating along its body in a cacophonous clatter that sets its painted patterns dancing. All creatures within 60 feet of the painted stag who can see or hear it must attempt a DC 28 Will save; a creature grabbed by the stag takes a –4 circumstance penalty to its save. Regardless of the result of its save, each creature is temporarily immune for 1 hour."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|Plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]]) The stag shakes the wooden plating along its body in a cacophonous clatter that sets its painted patterns dancing. All creatures within 60 feet of the painted stag who can see or hear it must attempt a DC 28 Will save; a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the stag takes a –4 circumstance penalty to its save. Regardless of the result of its save, each creature is temporarily immune for 1 hour."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
-    desc: "The creature is fascinated by the painted stag for 1 round."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] by the painted stag for 1 round."
   - name: "Failure"
     desc: "The creature is stunned 2 and fascinated by the painted stag for as long as it's stunned."
   - name: "Critical Failure"

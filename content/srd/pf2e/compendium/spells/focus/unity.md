@@ -18,7 +18,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Fortune`  `Uncommon`
 
-- **Domain**: Family
+- **Domain**: [[srd/pf2e/compendium/character/domains#Family|Family]]
 - **Trigger**: You and 1 or more allies within range are targeted by a spell or ability that allows a saving throw
 - **Range**: 30 feet
 - **Target**: each ally targeted by the triggering spell

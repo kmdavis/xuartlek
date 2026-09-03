@@ -37,18 +37,18 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; darkvision"
-languages: "Jotun"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +18, Intimidation +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +17"
 abilityMods: [6, 1, 6, -2, 4, 3]
 abilities_top:
   - name: "Easily Misled"
-    desc: "The two-headed troll takes a –4 circumstance penalty to their Perception DC against Deception checks."
+    desc: "The two-headed troll takes a –4 circumstance penalty to their Perception DC against [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks."
   - name: "Independent Brains"
-    desc: "Each of a two-headed troll’s heads rolls their own initiative and has their own turn. Neither head can Delay. At the start of a head’s turn, that head gets 2 actions and 1 reaction. Each brain controls one arm, but both can move the legs. Any ability or item that would sever a two-headed troll’s head (such as a _vorpal_ weapon) doesn’t cause the two-headed troll to die if they still have their other head, but does cause them to lose the turns, actions, and reactions of the severed head. Mental effects that target a single creature affect only one of the troll’s heads."
+    desc: "Each of a two-headed troll’s heads rolls their own initiative and has their own turn. Neither head can [[srd/pf2e/compendium/rules-elements/actions/player-core#Delay|Delay]]. At the start of a head’s turn, that head gets 2 actions and 1 reaction. Each brain controls one arm, but both can move the legs. Any ability or item that would sever a two-headed troll’s head (such as a [[srd/pf2e/compendium/equipment/runes/vorpal|_vorpal_]] weapon) doesn’t cause the two-headed troll to die if they still have their other head, but does cause them to lose the turns, actions, and reactions of the severed head. [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]] effects that target a single creature affect only one of the troll’s heads."
   - name: "Items"
-    desc: "Club"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/club/club|Club]]"
 ac: 24
 armorclass:
   - name: "AC"
@@ -56,7 +56,7 @@ armorclass:
 hp: 190
 health:
   - name: "HP"
-    desc: "190 , regeneration 20 (deactivated by electricity or fire); __Weaknesses__ electricity 10, fire 10"
+    desc: "190 , regeneration 20 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]); __Weaknesses__ electricity 10, fire 10"
 abilities_mid:
   - name: "Head Regrowth"
     desc: "A two-headed troll's regeneration can regrow a severed head. After regaining Hit Points from regeneration, the two-headed troll attempts a DC 10 flat check. On a success, a missing head is fully restored. If a two-headed troll loses their last remaining head, they die immediately."
@@ -65,13 +65,13 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +18 (reach 10 feet) __Damage__ 2d12+8 piercing"
+    desc: "⬻ jaws +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+8 piercing"
   - name: "Melee"
-    desc: "⬻ claw +18 (Agile, reach 10 feet) __Damage__ 2d8+8 slashing"
+    desc: "⬻ claw +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+8 slashing"
   - name: "Melee"
-    desc: "⬻ club +18 (reach 10 feet) __Damage__ 2d6+8 bludgeoning"
+    desc: "⬻ club +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+8 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ club +13 (thrown 10 feet) __Damage__ 2d6+8 bludgeoning"
+    desc: "⬻ club +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 2d6+8 bludgeoning"
 abilities_bot:
   - name: "Collaborative Chomp"
     desc: "⬺ The troll makes a claw Strike and Grabs a single target. If both are successful, the other head can use their reaction to make a jaws Strike against that creature. Severed Spiral Although most two-headed trolls have difficulty seeing past their confusion and rage, some have founded a nuanced faith emulating the dualistic gods Gozreh, Nethys, and Pharasma. The obscure philosophy seeks enlightenment at menhirs of black and white stones, most notably the Severed Spiral in Mendev."

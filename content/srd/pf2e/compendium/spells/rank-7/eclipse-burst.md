@@ -26,7 +26,7 @@ source: "Player Core"
 
 A globe of freezing darkness explodes in the area, dealing 8d10 cold damage to creatures in the area, plus an additional 8d4 void damage to living creatures. Each creature in the area must attempt a Reflex save.
 
- If the globe overlaps with an area of magical light or affects a creature affected by magical light, _eclipse burst_ attempts to counteract the light effect.
+ If the globe overlaps with an area of magical [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]] or affects a creature affected by magical light, _eclipse burst_ attempts to counteract the light effect.
 
 **Critical Success** The creature is unaffected.
 
@@ -34,7 +34,7 @@ A globe of freezing darkness explodes in the area, dealing 8d10 cold damage to c
 
 **Failure** The creature takes full damage.
 
-**Critical Failure** The creature takes double damage and becomes blinded by the darkness for an unlimited duration.
+**Critical Failure** The creature takes double damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] by the darkness for an unlimited duration.
 
 ---
 **Heightened (+1)** The cold damage increases by 1d10 and the void damage against the living increases by 1d4.

@@ -29,46 +29,46 @@ perception:
     desc: "Perception +11; darkvision, tremorsense (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +12, Athletics +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12"
 abilityMods: [3, 5, 4, -4, 2, 0]
 ac: 21
 armorclass:
   - name: "AC"
-    desc: "21; __Fort__: +13; __Ref__: +12; __Will__: +8 +1 status to all saves vs. mental"
+    desc: "21; __Fort__: +13; __Ref__: +12; __Will__: +8 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]"
 hp: 70
 health:
   - name: "HP"
-    desc: "70; __Resistances__ poison 6; __Weaknesses__ fire 6"
+    desc: "70; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 6; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 6"
 abilities_mid:
   - name: "Pyrophobia"
-    desc: "If the shriezyx takes fire damage or starts its turn within 30 feet of a fire at least the size of a torch, it becomes frightened 1."
+    desc: "If the shriezyx takes fire damage or starts its turn within 30 feet of a fire at least the size of a [[srd/pf2e/compendium/equipment/adventuring-gear/torch|torch]], it becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1."
 speed: "35 feet; climb 15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fangs +13 (Finesse) __Damage__ 2d6+5 piercing damage plus numbing toxin"
+    desc: "⬻ fangs +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 2d6+5 piercing damage plus numbing toxin"
   - name: "Melee"
-    desc: "⬻ claw +13 (Agile, finesse) __Damage__ 2d4+5 slashing damage"
+    desc: "⬻ claw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 2d4+5 slashing damage"
 abilities_bot:
   - name: "Clicking Scurry"
     desc: "⬻"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The shriezyx Strides or Climbs, and then makes a claw Strike"
+    desc: "The shriezyx [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climbs]], and then makes a claw Strike"
   - name: "Flesh Web"
-    desc: "⬺ The shriezyx's shoots a fleshy web at a target within 30 feet. The target must succeed at a DC 20 Reflex save or become immobilized and exposed to numbing toxin. Due to the grotesque nature of the webbing, the target becomes sickened 1 and can't reduce its sickened condition until it Escapes (DC 20)."
+    desc: "⬺ The shriezyx's shoots a fleshy web at a target within 30 feet. The target must succeed at a DC 20 Reflex save or become [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] and exposed to numbing toxin. Due to the grotesque nature of the webbing, the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 and can't reduce its sickened condition until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 20)."
   - name: "Numbing Toxin"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 20 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d4 poison damage and clumsy 1 (1 round)"
+    desc: "1d4 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 (1 round)"
   - name: "Stage 2"
     desc: "1d6 poison damage and clumsy 2 (1 round)"
   - name: "Stage 3"
-    desc: "1d8 poison damage, clumsy 2, and slowed 1 (1 round) Infestation Problems Shriezyx are resilient, and even if trapped in collapses, they can survive for an extraordinary length of time with little to eat. When a public works project in Magnimar revealed a cavern in the Irespan, swarms of shriezyx were let loose in the city. Since then, it's common practice to use specialized tools to listen for the telltale sounds of a shriezyx's clicking claws before demolishing any old, hollowed structures or bunkers."
+    desc: "1d8 poison damage, clumsy 2, and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 (1 round) Infestation Problems Shriezyx are resilient, and even if trapped in collapses, they can survive for an extraordinary length of time with little to eat. When a public works project in Magnimar revealed a cavern in the Irespan, swarms of shriezyx were let loose in the city. Since then, it's common practice to use specialized tools to listen for the telltale sounds of a shriezyx's clicking claws before demolishing any old, hollowed structures or bunkers."
 sourcebook: "_Monster Core 2_, page 286."
 ```
 

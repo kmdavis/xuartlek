@@ -31,16 +31,16 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; darkvision"
-languages: "Common, Necril; plus one regional language"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]; plus one regional language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +13, Athletics +13, Deception +14, Diplomacy +14, Intimidation +16, Society +14, Stealth +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +14, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +14, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13"
 abilityMods: [5, 3, 2, 2, 4, 4]
 abilities_top:
   - name: "Children of the Night"
-    desc: "(divine, mental)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
   - name: "Items"
-    desc: "Leather Armor, _+1 rapier_"
+    desc: "Leather Armor, _+1 [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
 ac: 24
 armorclass:
   - name: "AC"
@@ -48,7 +48,7 @@ armorclass:
 hp: 65
 health:
   - name: "HP"
-    desc: "65 (coffin restoration, fast healing 7, void healing); __Immunities__ death effects, disease, paralyzed, poison, sleep; __Resistances__ physical 7 (except magical silver)"
+    desc: "65 (coffin restoration, fast healing 7, void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ physical 7 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]])"
 abilities_mid:
   - name: "Vampire Vulnerabilities"
     desc: ""
@@ -57,20 +57,20 @@ abilities_mid:
 speed: "25 feet, climb 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _rapier_ +17 (deadly d8, disarm +1) __Damage__ 1d6+11 piercing"
+    desc: "⬻ _rapier_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|disarm +1]]) __Damage__ 1d6+11 piercing"
   - name: "Melee"
-    desc: "⬻ claw +17 (Agile) __Damage__ 1d8+8 slashing plus Grab"
+    desc: "⬻ claw +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d8+8 slashing plus Grab"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ (Concentrate, Divine, Polymorph) Giant bat with fangs +15 for 1d8+9 piercing (page 358)."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]]) Giant bat with fangs +15 for 1d8+9 piercing (page 358)."
   - name: "Create Servitor"
-    desc: "(Divine, Downtime)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/downtime|Downtime]])"
   - name: "Dominate"
-    desc: "⬺ (Divine, Incapacitation, Mental, Visual) DC 22"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]]) DC 22"
   - name: "Drink Blood"
-    desc: "⬻ (Divine) When Drinking Blood, the vampire count regains 10 HP."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) When Drinking Blood, the vampire count regains 10 HP."
   - name: "Turn to Mist"
-    desc: "⬻ (Air, Concentrate, Divine, Polymorph)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|Air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]])"
 sourcebook: "_Monster Core_, page 336."
 ```
 

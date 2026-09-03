@@ -26,7 +26,7 @@ Slow but steady, an armored carriage combines clockwork with a protective hull f
 
 **Passengers** 3
 
-**Piloting Check** Driving Lore (DC 20) or Crafting (DC 22)
+**Piloting Check** Driving Lore (DC 20) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 22)
 
 ---
 

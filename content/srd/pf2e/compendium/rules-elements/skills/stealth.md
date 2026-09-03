@@ -15,7 +15,7 @@ You are skilled at avoiding detection, allowing you to slip past foes, hide, or 
 #### Being Stealthy
 
  If you want to sneak around when there are creatures that can see you, you can use a combination of Hide and Sneak to do so. 
-First, **Hide** behind something (either by taking advantage of cover or having the concealed condition due to fog, a spell, or a similar effect). A successful Stealth check makes you hidden, though the creatures still know roughly where you are.Second, now that you're hidden, you can **Sneak**. That means you can move at half your Speed and attempt another Stealth check. If it's successful, you're now undetected. That means the creatures don't know which square you're in anymore. If you were approaching creatures that didn't know you were there, you could begin Sneaking right away, since they didn't know your location to start with. Some actions can cause you to become observed again, but they're mostly what you'd expect: standing out in the open, attacking someone, making a bunch of noise, and so forth. Unobtrusive actions, such as Recalling Knowledge or reloading a weapon, allow you to remain hidden or undetected. If you Strike someone after successfully Hiding or Sneaking, though, they're off-guard to that Strike.
+First, **Hide** behind something (either by taking advantage of cover or having the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to fog, a spell, or a similar effect). A successful Stealth check makes you [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], though the creatures still know roughly where you are.Second, now that you're hidden, you can **Sneak**. That means you can move at half your Speed and attempt another Stealth check. If it's successful, you're now [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]]. That means the creatures don't know which square you're in anymore. If you were approaching creatures that didn't know you were there, you could begin Sneaking right away, since they didn't know your location to start with. Some actions can cause you to become [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]] again, but they're mostly what you'd expect: standing out in the open, attacking someone, making a bunch of noise, and so forth. Unobtrusive actions, such as Recalling Knowledge or reloading a weapon, allow you to remain hidden or undetected. If you Strike someone after successfully Hiding or Sneaking, though, they're [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to that Strike.
 
  Creatures can try to find you using the Seek action.
 
@@ -23,7 +23,7 @@ First, **Hide** behind something (either by taking advantage of cover or having 
 
 #### Unobservable Stealth
 
- In some cases, it can be impossible for a creature to fully observe you. Typically this happens if you're invisible, the observer is blinded, or you're in darkness and the creature can't see in darkness. In such cases, any critical failure you roll on a check to Sneak is a failure instead. You also continue to be undetected if you lose cover or greater cover against or are no longer concealed from such a creature.
+ In some cases, it can be impossible for a creature to fully observe you. Typically this happens if you're [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]], the observer is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]], or you're in darkness and the creature can't see in darkness. In such cases, any critical failure you roll on a check to Sneak is a failure instead. You also continue to be [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] if you lose cover or greater cover against or are no longer [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from such a creature.
 
 ### Item Bonuses for Stealth
 
@@ -41,7 +41,7 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-Underbrush Cloak
+[[srd/pf2e/compendium/equipment/worn-items/underbrush-cloak|Underbrush Cloak]]
 +1
 5
 Other Worn Items
@@ -62,7 +62,7 @@ Artifacts
 No
 Item bonus to Stealth
 
-Quicksilver Mutagen
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
 +1
 0
 Alchemical Elixirs
@@ -75,7 +75,7 @@ Fulu
 Yes
 Item bonus to Stealth checks
 
-Onyx Panther
+[[srd/pf2e/compendium/equipment/consumables/onyx-panther|Onyx Panther]]
 +1
 2
 Talismans
@@ -89,27 +89,27 @@ Fulu
 Yes
 Item bonus to Stealth checks
 
-Humbug Pocket
+[[srd/pf2e/compendium/equipment/worn-items/humbug-pocket-greater|Humbug Pocket]]
 +2
 9
 Worn Items
 No
 
-Eagle Wing
+[[srd/pf2e/compendium/equipment/armor/eagle-wing|Eagle Wing]]
 +2
 10
 Specific Magic Armor
 No
 Item bonus to Stealth checks you attempt while in the air.
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Quicksilver Mutagen
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
 +2
 0
 Alchemical Elixirs
@@ -129,21 +129,21 @@ Fulu
 Yes
 Item bonus to Stealth checks
 
-Humbug Pocket (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/humbug-pocket-greater|Humbug Pocket (Greater)]]
 +3
 17
 Worn Items
 No
-Checks to Conceal an Object
+Checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Conceal an Object|Conceal an Object]]
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Mercurial Mantle
+[[srd/pf2e/compendium/equipment/apex-items/mercurial-mantle|Mercurial Mantle]]
 +3
 18
 Apex Items
@@ -157,13 +157,13 @@ Apex Items
 No
 item bonus to stealth checks
 
-Quicksilver Mutagen
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
 +3
 0
 Alchemical Elixirs
 Yes
 
-Quicksilver Mutagen
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
 +4
 0
 Alchemical Elixirs

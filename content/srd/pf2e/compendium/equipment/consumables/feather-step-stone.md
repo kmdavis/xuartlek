@@ -18,7 +18,7 @@ source: "GM Core"
 
 - **Price**: 8 gp
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You Stride or Step
 - **Requirement**: You are trained in Acrobatics
 

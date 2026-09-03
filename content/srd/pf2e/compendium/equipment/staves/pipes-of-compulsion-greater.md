@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 2 hands
 - **Bulk**: L
 
-These panpipes are made of what seems to be beat-up tin bound by frayed leather and look like they shouldn't function at all, but in skilled hands they emit a beautiful sound that beguiles the senses. While playing the pipes, you gain a +1 item bonus to Diplomacy and Performance checks.
+These panpipes are made of what seems to be beat-up tin bound by frayed leather and look like they shouldn't function at all, but in skilled hands they emit a beautiful sound that beguiles the senses. While playing the pipes, you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks.
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from this instrument to cast a spell from its list.
 
@@ -44,7 +44,7 @@ These panpipes are made of what seems to be beat-up tin bound by frayed leather 
 
 ---
 
-**2nd** _laughing fit_, _stupefy_**3rd** _charm_, _hypnotize_, _mind reading_, _ring of truth_
+**2nd** [[srd/pf2e/compendium/spells/rank-2/laughing-fit|_laughing fit_]], [[srd/pf2e/compendium/spells/rank-2/stupefy|_stupefy_]]**3rd** _charm_, [[srd/pf2e/compendium/spells/rank-3/hypnotize|_hypnotize_]], [[srd/pf2e/compendium/spells/rank-3/mind-reading|_mind reading_]], [[srd/pf2e/compendium/spells/rank-3/ring-of-truth|_ring of truth_]]
 
 ### Pipes of Compulsion (Major)
 

@@ -13,6 +13,6 @@ source: "Player Core"
 
 `Ranger`
 
-This indicates abilities from the ranger class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/ranger|ranger]] class.
 
 *Source: Player Core p. 460*

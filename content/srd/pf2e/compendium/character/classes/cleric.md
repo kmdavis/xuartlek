@@ -14,11 +14,11 @@ source: "Player Core"
 
 You'll see the following term in many cleric class features.
 
-**Holy and Unholy:** These traits mark something, like your character or a spell, that belongs to one side of the battle between celestials and fiends. Generally, fiends and undead are susceptible to holy abilities and celestials to unholy ones.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]:** These traits mark something, like your character or a spell, that belongs to one side of the battle between [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestials]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]]. Generally, fiends and [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] are susceptible to holy abilities and celestials to unholy ones.
 
-**Sanctified:** If you are holy or unholy, your sanctified actions and spells gain the same trait.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|Sanctified]]:** If you are holy or unholy, your sanctified actions and spells gain the same trait.
 
-**Spellshape:** These actions tweak your spells. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Effects added by a spellshape action are part of the spell's effect, not of the spellshape action.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** These actions tweak your spells. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Effects added by a spellshape action are part of the spell's effect, not of the spellshape action.
 
 ### Roleplaying the Cleric
 
@@ -54,7 +54,12 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Trained in Fortitude Trained in Reflex Expert in Will |
-| **Skills** | Trained in Religion Trained in one skill determined by your choice of deity Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
+
+#### Skills
+
+Trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+ Trained in one skill determined by your choice of deity
+ Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
 #### Attacks
 
@@ -119,13 +124,13 @@ As a cleric, you are a mortal servitor of a deity you revere above all others. T
 
 ### Sanctification
 
- Depending on your deity, their sanctification can make you holy or unholy. This gives you the holy or unholy trait, which commits you to one side of a struggle over the souls of the planes and may be referenced in other abilities. If you “can be” holy or unholy according to your deity, you make that choice, and if you “must be” holy or unholy you gain the trait automatically. If you gain the opposing trait in some way, you lose the previous trait until you complete an _atone_ ritual. 
+ Depending on your deity, their sanctification can make you holy or unholy. This gives you the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait, which commits you to one side of a struggle over the souls of the planes and may be referenced in other abilities. If you “can be” holy or unholy according to your deity, you make that choice, and if you “must be” holy or unholy you gain the trait automatically. If you gain the opposing trait in some way, you lose the previous trait until you complete an _atone_ ritual. 
 
 ### Anathema
 
  Acts fundamentally opposed to your deity's ideals are anathema to your faith. Learning or casting spells, committing acts, and using items that are anathema to your deity remove you from your deity's good graces.
 
- Casting spells with the unholy trait is almost always anathema to deities who don't allow unholy sanctification, and casting holy spells is likewise anathema to those who don't allow holy sanctification. Similarly, casting spells that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, casting a spell to create undead would be anathema to Pharasma, the goddess of death. Many actions that are anathema don't appear in any deity's formal list. For borderline cases, you and your GM determine which acts are anathema.
+ Casting spells with the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait is almost always anathema to deities who don't allow unholy sanctification, and casting [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] spells is likewise anathema to those who don't allow holy sanctification. Similarly, casting spells that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, casting a spell to create [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] would be anathema to Pharasma, the goddess of death. Many actions that are anathema don't appear in any deity's formal list. For borderline cases, you and your GM determine which acts are anathema.
 
  If you perform enough acts that are anathema to your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your divine font and all cleric spellcasting. These abilities can be regained only if you repent by conducting an _atone_ ritual.
 
@@ -151,9 +156,9 @@ As you increase in level as a cleric, the number of spells you can prepare each 
 
 Through your deity's blessing, you gain additional spells that channel either the life force called vitality or its counterforce, the void. When you prepare your spells each day, you can prepare additional _heal_ or _harm_ spells, depending on your deity. The divine font spell your deity provides is listed in the Divine Font entry for your deity; if both are listed, you can choose between heal or harm. Once you choose, you can't change your choice short of divine intervention.
 
- **Healing Font**: You gain 4 additional spell slots each day at your highest rank of cleric spell slots. You can prepare only _heal_ spells in these slots. At 5th level, the number of additional slots increases to 5, and at 15th level, the total number of additional slots increases to 6.
+ **Healing Font**: You gain 4 additional spell slots each day at your highest rank of cleric spell slots. You can prepare only [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] spells in these slots. At 5th level, the number of additional slots increases to 5, and at 15th level, the total number of additional slots increases to 6.
 
- **Harmful Font**: You gain 4 additional spell slots each day at your highest rank of cleric spell slots. You can prepare only _harm_ spells in these slots. At 5th level, the number of additional slots increases to 5, and at 15th level, the total number of additional slots increases to 6.
+ **Harmful Font**: You gain 4 additional spell slots each day at your highest rank of cleric spell slots. You can prepare only [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] spells in these slots. At 5th level, the number of additional slots increases to 5, and at 15th level, the total number of additional slots increases to 6.
 
 #### Doctrine
 

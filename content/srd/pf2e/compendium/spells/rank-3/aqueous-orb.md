@@ -29,7 +29,7 @@ A sphere of water 10 feet in diameter forms in an unoccupied space in range, eit
 **Success** The creature can either let the orb pass (remaining in its space or moving out of the orb's path into a space of the creature's choice) or allow itself to be pushed in front of the orb to the end of the orb's movement.
 
 **Failure** The creature is engulfed in the orb. It moves along with the orb and must hold its breath or begin suffocating (unless it can breathe in water). An engulfed Medium or smaller creature and anyone trying to affect that creature follow the normal rules for aquatic battles. An engulfed Large creature is usually big enough that parts of it stick out from the water, and it can reach out of the water.
- The creature can get free either by Swimming with a successful DC 10 Athletics check or by Escaping against your spell DC. A freed creature exits the orb's space and can immediately breathe.
+ The creature can get free either by Swimming with a successful DC 10 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check or by Escaping against your spell DC. A freed creature exits the orb's space and can immediately breathe.
 
 **Critical Failure** As failure, but the creature can't Swim to get free.
 

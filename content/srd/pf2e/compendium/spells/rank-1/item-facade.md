@@ -22,7 +22,7 @@ source: "Player Core"
 - **Target**: 1 object no more than 10 feet by 10 feet by 10 feet
 - **Duration**: 1 hour
 
-You make the target object look and feel as though it were in much better or worse physical condition. When you Cast this Spell, decide whether you want to make the object look decrepit or perfect. An item made to look decrepit appears broken and shoddy. An intact item made to look better appears as though it's brand new and highly polished or well maintained. A broken item appears to be intact and functional. Destroyed items can't be affected by this spell. A creature that Interacts with the item can attempt to disbelieve the illusion.
+You make the target object look and feel as though it were in much better or worse physical condition. When you Cast this Spell, decide whether you want to make the object look decrepit or perfect. An item made to look decrepit appears broken and shoddy. An intact item made to look better appears as though it's brand new and highly polished or well maintained. A [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]] item appears to be intact and functional. Destroyed items can't be affected by this spell. A creature that Interacts with the item can attempt to disbelieve the illusion.
 
 ---
 **Heightened (2nd)** The duration is 24 hours.

@@ -30,6 +30,6 @@ Multi-hued flames break through cracks in the ground, reaching high into the sky
 
 ## 
 
- **1d8****Color****Damage****Added Effect** 1Red50 fire plus 2d6 persistent fire— 2Orange50 fireKnocked prone 3Yellow30 fire plus 20 bludgeoningPushed 10 feet 4Green20 fire plus 20 acidSickened 2 5Blue30 fireParalyzed for 1 round 6Indigo30 fireConfused for 1 minute 7Violet30 fireSlowed 1 for 1 minute 8AllChoose the color for each affected creature and use that color's damage and added effect; if a creature is affected again, you can choose a different color.—
+ **1d8****Color****Damage****Added Effect** 1Red50 fire plus 2d6 persistent fire— 2Orange50 fireKnocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] 3Yellow30 fire plus 20 bludgeoningPushed 10 feet 4Green20 fire plus 20 acidSickened 2 5Blue30 fire[[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|Paralyzed]] for 1 round 6Indigo30 fire[[srd/pf2e/compendium/rules-elements/conditions#Confused|Confused]] for 1 minute 7Violet30 fireSlowed 1 for 1 minute 8AllChoose the color for each affected creature and use that color's damage and added effect; if a creature is affected again, you can choose a different color.—
 
 *Source: Rage of Elements p. 121*

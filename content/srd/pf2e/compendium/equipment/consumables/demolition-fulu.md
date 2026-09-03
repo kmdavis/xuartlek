@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: affixed to an object or structure
 
-A _demolition fulu_ allows a saboteur or excavator to be far away from the scene when demolition happens. The fulu crumbles to ash over 5 minutes to 8 hours, as you determine when you place the fulu. Once the duration ends, the fulu lowers the Hardness of the object it's affixed to by an amount equal to the fulu's level and then deals the listed damage to the object. A _demolition fulu_ serves as a hazard with a Stealth DC to detect it and Thievery DC to disable it according to its type.
+A _demolition fulu_ allows a saboteur or excavator to be far away from the scene when demolition happens. The fulu crumbles to ash over 5 minutes to 8 hours, as you determine when you place the fulu. Once the duration ends, the fulu lowers the Hardness of the object it's affixed to by an amount equal to the fulu's level and then deals the listed damage to the object. A _demolition fulu_ serves as a hazard with a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] DC to detect it and [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] DC to disable it according to its type.
 
 ### Demolition Fulu (Lesser)
 

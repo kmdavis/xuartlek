@@ -38,6 +38,10 @@ ACTION_GLYPH = {
 }
 
 from books import REMASTER_RULEBOOKS
+from linkmap import LinkMap
+
+LINKS: LinkMap | None = None
+STATS = {"resolved": 0, "dropped": 0}
 
 BOOK_ABBR = {b.lower(): c for b, c in REMASTER_RULEBOOKS.items()}
 
@@ -57,6 +61,17 @@ SPELL_BLOCK = re.compile(r"^(.*(?:Innate|Spontaneous|Prepared|Focus) Spells|Ritu
 
 # The label may itself contain brackets: AoN embeds literal action tokens
 # such as "[free-action]" inside link labels.
+
+# A link whose label is bold -- "[**Troop Defenses**](/url)" or its mirror
+# "**[Troop Defenses](/url)**" -- has to lose the link before field labels are
+# parsed, or the "**" markers get split across the link and strand its tail.
+BOLD_LINK = re.compile(r"\*\*\[([^\]]+)\]\([^)]*\)\*\*|\[\*\*([^\]]+?)\*\*\]\([^)]*\)")
+
+
+def flatten_bold_links(text: str) -> str:
+    return BOLD_LINK.sub(lambda m: f"**{m.group(1) or m.group(2)}**", text)
+
+
 LINK = re.compile(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\([^)]*\)")
 
 
@@ -113,6 +128,11 @@ def parse_labels(block: str) -> list[tuple[str, str]]:
     head of the value, or hides the label so its text is swallowed by the
     preceding field.
     """
+    block = flatten_bold_links(block)
+    if LINKS is not None:
+        block, res, drop = LINKS.rewrite(block)
+        STATS["resolved"] += res
+        STATS["dropped"] += drop
     block = unlink(block)
     positions = [(m.start(), m.end(), m.group(1))
                  for m in re.finditer(r"\*\*([A-Z][A-Za-z0-9 /'-]{0,40})\*\*", block)]
@@ -458,6 +478,16 @@ def main() -> int:
             else here / "staging" / "bestiary"
         )
 
+    global LINKS
+    lmpath = here / ".snapshot" / "linkmap.json"
+    LINKS = LinkMap(here.parents[1] / "content")
+    if LINKS.load(lmpath):
+        print(f"Loaded {len(LINKS)} link targets")
+    else:
+        LINKS = None
+        print("No linkmap.json -- run build_linkmap.py first; links stay plain text",
+              file=sys.stderr)
+
     creatures = json.loads(args.snapshot.read_text())
     print(f"Loaded {len(creatures)} creatures")
 
@@ -516,6 +546,11 @@ def main() -> int:
                 kinds[key] = kinds.get(key, 0) + 1
         for k, n in sorted(kinds.items(), key=lambda x: -x[1]):
             print(f"  {n:5d}  {k}")
+    if LINKS is not None:
+        tot = STATS["resolved"] + STATS["dropped"]
+        pct = 100 * STATS["resolved"] / tot if tot else 0
+        print(f"Cross-links: {STATS['resolved']} resolved, "
+              f"{STATS['dropped']} left as plain text ({pct:.0f}% linked)")
     return 0
 
 

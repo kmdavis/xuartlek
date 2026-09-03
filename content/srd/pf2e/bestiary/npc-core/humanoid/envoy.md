@@ -28,17 +28,17 @@ trait_02: "Humanoid"
 modifier: 7
 perception:
   - name: "Perception"
-    desc: "Perception +7; (13 to Sense Motive)"
-languages: "Common; plus two additional languages"
+    desc: "Perception +7; (13 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]])"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; plus two additional languages"
 skills:
   - name: "Skills"
-    desc: "Deception +13, Diplomacy +15, Intimidation +7, Society +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +13, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +15, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +15"
 abilityMods: [0, 1, 0, 4, 3, 3]
 abilities_top:
   - name: "Diplomatic Specialist"
     desc: "When dealing with matters of statecraft and negotiation, the envoy is a 6th-level challenge."
   - name: "Items"
-    desc: "Dagger, fine clothing, letter of diplomatic status, signet ring"
+    desc: "Dagger, [[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fine clothing]], letter of diplomatic status, signet ring"
 ac: 13
 armorclass:
   - name: "AC"
@@ -50,14 +50,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +5 (Agile, Finesse, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
   - name: "Melee"
-    desc: "⬻ fist +5 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +5 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
 abilities_bot:
   - name: "Diplomatic Immunity"
-    desc: "⬻ (Auditory, Concentrate, Emotion, Linguistic, Mental) The envoy invokes their diplomatic status. Until the end of the envoy's next turn, any creature that attempts to attack them must succeed at a DC 15 Will save or have their attack disrupted. The attacker gains weakness 2 to all damage from the envoy's allies while Diplomatic Immunity lasts, whether their attack was disrupted or not. The envoy can Sustain this ability. If the envoy takes a hostile action, Diplomatic Immunity ends and can't be used again for 1 hour."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The envoy invokes their diplomatic status. Until the end of the envoy's next turn, any creature that attempts to attack them must succeed at a DC 15 Will save or have their attack [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Disrupting Actions|disrupted]]. The attacker gains weakness 2 to all damage from the envoy's allies while Diplomatic Immunity lasts, whether their attack was disrupted or not. The envoy can Sustain this ability. If the envoy takes a hostile action, Diplomatic Immunity ends and can't be used again for 1 hour."
 sourcebook: "_NPC Core_, page 12."
 ```
 

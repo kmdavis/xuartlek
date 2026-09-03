@@ -17,11 +17,11 @@ source: "Impossible Magic"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: Light Mace
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/light-mace|Light Mace]]
 
-This _+1 striking thundering light mace_ has twin tips, perfectly spaced to resonate when striking foes. 
+This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/runes/thundering-greater|thundering]] [[srd/pf2e/compendium/equipment/weapons/club/light-mace|light mace]]_ has twin tips, perfectly spaced to resonate when striking foes. 
 
-**Activate—Cacophony** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** You tap the _sonic tuning mace_ against a nearby surface to cast a 4th-rank _noise blast_ with a DC of 25.
+**Activate—Cacophony** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You tap the _sonic tuning mace_ against a nearby surface to cast a 4th-rank _noise blast_ with a DC of 25.
 
 ### Sonic Tuning Mace
 

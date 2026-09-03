@@ -21,7 +21,7 @@ source: "Battlecry!"
 - **Bloodline**: Aesir
 - **Duration**: 3 rounds
 
-Powerful feathered wings—usually vibrant white or jet black— emerge from your back, granting you a fly Speed equal to your Speed. You can use these wings to attempt to Shove a creature; you don’t need a free hand to do so, and you can roll using your spell attack modifier instead of your Athletics skill for the check. When this spell’s duration ends, if you’re still flying, you float to the ground, as _gentle landing_.
+Powerful feathered wings—usually vibrant white or jet black— emerge from your back, granting you a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly Speed]] equal to your Speed. You can use these wings to attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] a creature; you don’t need a free hand to do so, and you can roll using your spell attack modifier instead of your [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill for the check. When this spell’s duration ends, if you’re still flying, you float to the ground, as [[srd/pf2e/compendium/spells/rank-1/gentle-landing|_gentle landing_]].
 
 ---
 **Heightened (5th)** The duration increases to 1 minute.

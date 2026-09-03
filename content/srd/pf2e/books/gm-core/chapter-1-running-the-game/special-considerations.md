@@ -233,13 +233,13 @@ A player might want to create a character with a disability, or their character 
 
 ### Blindness or Impaired Vision
 
-A blind character can't detect anything using vision, critically fails Perception checks requiring sight, is immune to visual effects, and can't be blinded or dazzled. You might give this character the Blind-Fight feat for free.
+A blind character can't detect anything using vision, critically fails Perception checks requiring sight, is immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] effects, and can't be [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] or [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]]. You might give this character the [[srd/pf2e/compendium/feats/player-core/archetype/blind-fight|Blind-Fight]] feat for free.
 
 A character with impaired vision might take a –2 to –4 penalty to vision-based Perception checks. Spectacles or other corrective devices might reduce or remove this, which can typically be found in most major settlements.
 
 ### Deafness or Being Hard of Hearing
 
-A deaf character can't detect anything using hearing, critically fails Perception checks that require hearing, and is immune to auditory effects. These disabilities typically don't restrict their ability cast spells or use magic items, but if they perform an action they're not accustomed to that involves auditory elements, they must succeed at a DC 5 flat check or the action is lost. It's best to give them the Sign Language feat for free, and you might give them Read Lips as well. You might give one or more other characters in the group Sign Language for free as well.
+A deaf character can't detect anything using hearing, critically fails Perception checks that require hearing, and is immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] effects. These disabilities typically don't restrict their ability cast spells or use magic items, but if they perform an action they're not accustomed to that involves auditory elements, they must succeed at a DC 5 flat check or the action is lost. It's best to give them the [[srd/pf2e/compendium/feats/player-core/skill/sign-language|Sign Language]] feat for free, and you might give them [[srd/pf2e/compendium/feats/player-core/skill/read-lips|Read Lips]] as well. You might give one or more other characters in the group Sign Language for free as well.
 
 A hard-of-hearing character might take a –2 to –4 penalty to Perception checks that are hearing-based. Like spectacles, corrective devices for hearing can be found in most places that adventurers find themselves trading.
 
@@ -247,7 +247,7 @@ A hard-of-hearing character might take a –2 to –4 penalty to Perception chec
 
 Some magic items require certain limbs or other body parts. It's fine to allow an alternative form of the item, turning boots into bracers for a character without legs, for example.
 
-A character with a missing hand or arm might need to spend 2 actions to Interact with an item that requires two hands, or otherwise compensate. Using a two-handed weapon is not possible. Someone missing a foot or leg might take a small penalty to Speed, and if they have no legs or are unable to walk, they might use a wheelchair, a trained mount, or flight magic. Characters can typically acquire prosthetics in most cities or settlements, which, through advanced crafting, magic, or clockwork, can provide various levels of assistive function. Many assistive devices appear here.
+A character with a missing hand or arm might need to spend 2 actions to [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] with an item that requires two hands, or otherwise compensate. Using a two-handed weapon is not possible. Someone missing a foot or leg might take a small penalty to Speed, and if they have no legs or are unable to walk, they might use a [[srd/pf2e/compendium/equipment/assistive-items/wheelchair-land-delvers-chair|wheelchair]], a trained mount, or flight magic. Characters can typically acquire prosthetics in most cities or settlements, which, through advanced crafting, magic, or clockwork, can provide various levels of assistive function. Many assistive devices appear here.
 
 ## Rarity
 

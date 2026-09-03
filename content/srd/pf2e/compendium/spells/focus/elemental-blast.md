@@ -21,7 +21,7 @@ source: "Player Core 2"
 - **Bloodline**: Elemental
 - **Range**: 30 feet (burst only)
 - **Area**: 10-foot-radius burst, 30-foot cone, or 60-foot line
-- **Defense**: basic Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
 You gather elemental energy and blast your foes in one of the various listed shapes of your choosing, dealing 8d6 damage. This spell deals damage according to your elemental influence (for instance, slashing for air or fire for fire) and has your element's trait.
 

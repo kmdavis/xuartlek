@@ -18,7 +18,7 @@ source: "GM Core"
 
 - **Price**: 6 gp
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 This small brass pin is shaped like a monkey climbing a tree. When you activate this talisman, use a Climb action with a +1 item bonus on the check. On this check and until the end of your turn, if you succeed on an Athletics check to Climb, you move your full Speed during the Climb. If you roll a critical failure, you get a failure instead.
 

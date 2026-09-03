@@ -24,6 +24,6 @@ Assume you're a necromancer or have some other strange interest in death or the 
 
 ### Duskwalker Heritage Mechanics
 
-Thanks to an ancient bargain, your soul has been reborn as a duskwalker, a planar scion with a connection to psychopomps and the Boneyard. You gain the duskwalker trait. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. Neither your body nor your spirit can ever become undead. You can select from duskwalker feats and feats from your ancestry whenever you gain an ancestry feat.
+Thanks to an ancient bargain, your soul has been reborn as a duskwalker, a planar scion with a connection to [[srd/pf2e/compendium/gm/creature-families/psychopomp|psychopomps]] and the [[srd/pf2e/compendium/gm/planes#Boneyard|Boneyard]]. You gain the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/duskwalker|duskwalker]] trait. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision. Neither your body nor your spirit can ever become [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. You can select from duskwalker feats and feats from your ancestry whenever you gain an ancestry feat.
 
 *Source: Player Core 2 p. 48*

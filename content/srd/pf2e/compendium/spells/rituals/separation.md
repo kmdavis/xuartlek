@@ -20,7 +20,7 @@ source: "Impossible Magic"
 - **Cast**: 1 week
 - **Cost**: protective emblems worth a total value of 5,000 gp
 - **Secondary Casters**: 3
-- **Primary Check**: Religion (master) or Occultism (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master)
 - **Secondary Checks**: Society
 - **Target(s)**: 2 creatures who you know
 - **Duration**: varies

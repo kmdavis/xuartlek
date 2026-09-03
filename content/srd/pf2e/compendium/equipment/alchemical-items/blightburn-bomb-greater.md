@@ -24,7 +24,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Strike
 
-Blightburn bombs have radioactive materials sealed inside flasks treated with lead. The bomb grants an item bonus to attack rolls and deals poison damage, persistent poison damage, and poison splash damage, according to the bomb's type. A creature that takes the persistent poison damage deals the splash damage again from its current position as the radiation continues to harm nearby creatures. The persistent damage can last up to 1 minute. Blightburn bombs also expose the primary target to blightburn sickness at the listed Fortitude DC.
+Blightburn bombs have radioactive materials sealed inside flasks treated with lead. The bomb grants an item bonus to attack rolls and deals poison damage, persistent poison damage, and poison [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage, according to the bomb's type. A creature that takes the persistent poison damage deals the splash damage again from its current position as the radiation continues to harm nearby creatures. The persistent damage can last up to 1 minute. Blightburn bombs also expose the primary target to [[srd/pf2e/compendium/gm/diseases#Blightburn Sickness|blightburn sickness]] at the listed Fortitude DC.
 
 ### Blightburn Bomb
 

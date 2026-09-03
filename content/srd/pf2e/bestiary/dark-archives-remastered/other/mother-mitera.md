@@ -29,14 +29,14 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Deception +20, Diplomacy +18, Ludovica Lore +16, Nature +18, Religion +18, Society +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +20, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +18, [[srd/pf2e/compendium/rules-elements/skills/lore|Ludovica Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +18, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +18, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +16"
 abilityMods: [1, 3, 0, 2, 4, 4]
 abilities_top:
   - name: "Items"
-    desc: "ceremonial robes, crystal flower crown, +1 striking dagger"
+    desc: "ceremonial robes, crystal flower crown, [[srd/pf2e/compendium/equipment/weapons/knife/dagger|+1 striking dagger]]"
 ac: 25
 armorclass:
   - name: "AC"
@@ -51,19 +51,19 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +18 (Agile, finesse, magical, versatile S) __Damage__ 2d4+7 piercing plus 1d6 mental and 1d6 persistent bleed"
+    desc: "⬻ dagger +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 2d4+7 piercing plus 1d6 mental and 1d6 persistent bleed"
   - name: "Ranged"
-    desc: "⬻ dagger +18 (Agile, magical, thrown 10 feet, versatile S) __Damage__ 2d4+7 piercing plus 1d6 mental and 1d6 persistent bleed"
+    desc: "⬻ dagger +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 2d4+7 piercing plus 1d6 mental and 1d6 persistent bleed"
 abilities_bot:
   - name: "Ascension is Near"
-    desc: "⬻ (Auditory, concentrate, emotion, incapacitation, mental)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
   - name: "Frequency"
     desc: "once per ascension ritual"
   - name: "Effect"
-    desc: "Mitera activates the moonflower link with her followers. Any followers within 30 feet who failed their saving throw against the moonflower tea become sickened 1. Anyone who critically failed and did not receive an antidote explodes (this is about half of Mitera's congregation if the PCs didn't successfully administer the antidote). If anyone's body explodes, Mitera gains 30 temporary HP and is quickened for 3 rounds; she can use this additional action each round only for Strike and Stride actions."
+    desc: "Mitera activates the moonflower link with her followers. Any followers within 30 feet who failed their saving throw against the moonflower tea become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1. Anyone who critically failed and did not receive an antidote explodes (this is about half of Mitera's congregation if the PCs didn't successfully administer the antidote). If anyone's body explodes, Mitera gains 30 temporary HP and is [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] for 3 rounds; she can use this additional action each round only for Strike and Stride actions."
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 26, attack +18 - __Cantrips (4th)__ Frostbite, Guidance, Light, Message, Tangle Vine - __2nd__ Entangling Flora, One with Plants, Revealing Light - __3rd__ Heal, Lightning Bolt, Tempest Cloak - __4th__ Grasping Earth, Life-Draining Roots, Unfettered Movement"
+    desc: "DC 26, attack +18 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/guidance|Guidance]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/entangling-flora|Entangling Flora]], [[srd/pf2e/compendium/spells/rank-2/one-with-plants|One with Plants]], [[srd/pf2e/compendium/spells/rank-2/revealing-light|Revealing Light]] - __3rd__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|Lightning Bolt]], [[srd/pf2e/compendium/spells/rank-3/tempest-cloak|Tempest Cloak]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/grasping-earth|Grasping Earth]], [[srd/pf2e/compendium/spells/rank-4/life-draining-roots|Life-Draining Roots]], [[srd/pf2e/compendium/spells/rank-4/unfettered-movement|Unfettered Movement]]"
 sourcebook: "_Dark Archives (Remastered)_, page 152."
 ```
 

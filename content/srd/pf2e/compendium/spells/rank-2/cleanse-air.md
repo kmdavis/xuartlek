@@ -21,7 +21,7 @@ source: "Rage of Elements"
 - **Area**: 30-foot burst
 - **Duration**: 1 minute
 
-You purify the air in the area, making it clean and breathable. The spell immediately removes inhaled poisons, pollution, and similar contaminants from the air. For the remaining duration, the spell prevents any further contamination from altering air in the area, including keeping toxic air bordering the area from coming inside. (This doesn't prevent contaminants from coming in after the spell ends.) This spell doesn't create air, so casting it underwater wouldn't create breathable air, nor would it affect any toxins within air suspended in the water.
+You purify the air in the area, making it clean and breathable. The spell immediately removes [[srd/pf2e/compendium/rules-elements/traits/gm-core/inhaled|inhaled]] [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]], pollution, and similar contaminants from the air. For the remaining duration, the spell prevents any further contamination from altering air in the area, including keeping toxic air bordering the area from coming inside. (This doesn't prevent contaminants from coming in after the spell ends.) This spell doesn't create air, so casting it underwater wouldn't create breathable air, nor would it affect any toxins within air suspended in the water.
 
 ---
 **Heightened (3rd)** The area increases to 60 feet.

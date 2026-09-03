@@ -31,14 +31,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; darkvision"
-languages: "Chthonian, Diabolic, Empyrean, Requian; telepathy 100 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Requian; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +13, Deception +15, Intimidation +15, Stealth +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +15, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15"
 abilityMods: [4, 5, 4, 1, 2, 3]
 abilities_top:
   - name: "Easy to Call"
-    desc: "A sahkil's level is considered 2 lower for the purpose of being conjured by the _binding circle_ ritual (and potentially other rituals, at the GM's discretion), but it's always free to attack or leave instead of negotiate unless the primary caster's check is a critical success."
+    desc: "A sahkil's level is considered 2 lower for the purpose of being conjured by the [[srd/pf2e/compendium/spells/rituals/binding-circle|_binding circle_]] ritual (and potentially other rituals, at the GM's discretion), but it's always free to attack or leave instead of negotiate unless the primary caster's check is a critical success."
 ac: 24
 armorclass:
   - name: "AC"
@@ -46,30 +46,30 @@ armorclass:
 hp: 105
 health:
   - name: "HP"
-    desc: "105; __Immunities__ fear; __Weaknesses__ holy 5"
+    desc: "105; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5"
 abilities_mid:
   - name: "Swarmwalker"
     desc: "Swarms of animals and other unintelligent creatures instinctively leave a wihsaak alone. A wihsaak is immune to the damage from and effects of swarms with an Intelligence of –5."
 speed: "30 feet, fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +17 (Finesse, magical, unholy) __Damage__ 2d10+7 slashing plus 1d4 spirit"
+    desc: "⬻ claw +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]) __Damage__ 2d10+7 slashing plus 1d4 spirit"
 abilities_bot:
   - name: "Droning Distraction"
-    desc: "⬻ (Auditory, divine, incapacitation, mental)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
   - name: "Effect"
     desc: "The wihsaak beats its wings rapidly, creating a buzzing drone that numbs creatures' minds. Each creature within 100 feet must attempt a DC 23 Will save. They are then temporarily immune for 1 minute."
   - name: "Success"
     desc: "The creature is unaffected."
   - name: "Failure"
-    desc: "The creature is confused and stupefied 1 for 1 round."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 for 1 round."
   - name: "Critical Failure"
     desc: "The creature is confused for 1 round and stupefied 2 for 1 minute."
   - name: "Skip Between"
-    desc: "⬻ (Divine, teleportation) The sahkil moves from the Universe to the Ethereal Plane or vice-versa. While in the Ethereal Plane, they're unable to affect anything in the Universe, and they cannot be seen by beings or abilities in the Universe, unless these have an ability that can gaze into the Ethereal Plane. While on the Material Plane the inverse is true for anything on the Ethereal Plane. A summoned sahkil can't use Skip Between."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]]) The sahkil moves from [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] to the [[srd/pf2e/compendium/gm/planes#Ethereal Plane|Ethereal Plane]] or vice-versa. While in the Ethereal Plane, they're unable to affect anything in the Universe, and they cannot be seen by beings or abilities in the Universe, unless these have an ability that can gaze into the Ethereal Plane. While on the Material Plane the inverse is true for anything on the Ethereal Plane. A summoned sahkil can't use Skip Between."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 23 - __Cantrips (3rd)__ Detect Magic - __2nd__ Blur, See the Unseen - __3rd__ Fear, Vomit Swarm - __4th__ Suggestion"
+    desc: "DC 23 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/blur|Blur]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]] - __3rd__ [[srd/pf2e/compendium/spells/rank-1/fear|Fear]], [[srd/pf2e/compendium/spells/rank-2/vomit-swarm|Vomit Swarm]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]]"
 sourcebook: "_Monster Core 2_, page 275."
 ```
 

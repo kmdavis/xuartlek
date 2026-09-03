@@ -19,10 +19,10 @@ source: "Player Core 2"
 
 - **Price**: 10 gp
 - **Ammunition**: arrow
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Sleep arrows often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated _sleep arrow_ deals no damage, but a living creature hit by it grows lethargic and must attempt a DC 17 Will saving throw. On a failure, it takes a –5-foot status penalty to its Speeds for 1 round, and is also slowed 1 for 1 round on a critical failure.
+Sleep arrows often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated _sleep arrow_ deals no damage, but a living creature hit by it grows lethargic and must attempt a DC 17 Will saving throw. On a failure, it takes a –5-foot status penalty to its Speeds for 1 round, and is also [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 for 1 round on a critical failure.
 
-**Craft Requirements** Supply one casting of _sleep_.
+**Craft Requirements** Supply one casting of [[srd/pf2e/compendium/spells/rank-1/sleep|_sleep_]].
 
 *Source: Player Core 2 p. 301*

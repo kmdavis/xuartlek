@@ -18,11 +18,11 @@ source: "Player Core 2"
 
 - **Usage**: worn mask
 
-This gauzy purple veil is embroidered with symbols of divinatory significance. As your curse worsens, the veil ripples in an ever-increasing unseen wind. You gain a +2 item bonus to Religion checks.
+This gauzy purple veil is embroidered with symbols of divinatory significance. As your curse worsens, the veil ripples in an ever-increasing unseen wind. You gain a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] checks.
 
-**Activate—Remember the Future** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can spend only to cast a revelation spell. If you don't spend this Focus Point by the end of this turn, it's lost.
+**Activate—Remember the Future** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can spend only to cast a revelation spell. If you don't spend this Focus Point by the end of this turn, it's lost.
 
-**Activate—Twist the Skeins of Fate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** oncer per day; **Trigger** An ally within 30 feet is about to attempt a saving throw; **Requirements** You have the cursebound condition; **Effect** The ally gains a status bonus to the saving throw equal to the value of your cursebound condition. 
+**Activate—Twist the Skeins of Fate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** oncer per day; **Trigger** An ally within 30 feet is about to attempt a saving throw; **Requirements** You have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/cursebound|cursebound]] condition; **Effect** The ally gains a status bonus to the saving throw equal to the value of your cursebound condition. 
 
 **Craft Requirements** You're an oracle.
 

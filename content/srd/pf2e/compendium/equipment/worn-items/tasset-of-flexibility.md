@@ -19,8 +19,8 @@ source: "Battlecry!"
 - **Usage**: worn
 - **Bulk**: L
 
-You can attach these light-brown leather flaps adorned with gold stitching to a breastplate or even clothing to protect your upper legs in battle. They give you the freedom to move your body to its limit without worrying about exposing yourself to a hit. While wearing the _tasset of flexibility_, you gain a +1 item bonus to Acrobatics checks.
+You can attach these light-brown leather flaps adorned with gold stitching to a breastplate or even clothing to protect your upper legs in battle. They give you the freedom to move your body to its limit without worrying about exposing yourself to a hit. While wearing the _tasset of flexibility_, you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] checks.
 
-**Activate—Lunging Attack** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Effect** The tasset helps you stretch farther than you normally could. Make a Strike with a melee weapon, increasing your reach by 5 feet for that Strike.
+**Activate—Lunging Attack** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** The tasset helps you stretch farther than you normally could. Make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with a melee weapon, increasing your [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] by 5 feet for that Strike.
 
 *Source: Battlecry! p. 153*

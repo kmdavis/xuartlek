@@ -29,7 +29,7 @@ perception:
     desc: "Perception +6; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +6, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [3, 2, 2, -4, 1, -1]
 ac: 15
 armorclass:
@@ -41,7 +41,7 @@ health:
     desc: "17"
 abilities_mid:
   - name: "Irritating Dander"
-    desc: "A creature that hits a goblin dog with an unarmed attack, tries to Grapple it, or otherwise touches it is exposed to goblin pox."
+    desc: "A creature that hits a goblin dog with an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack, tries to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] it, or otherwise touches it is exposed to goblin pox."
   - name: "Buck"
     desc: "⬲ DC 17"
   - name: "Juke"
@@ -58,17 +58,17 @@ attacks:
     desc: "⬻ jaws +9 __Damage__ 1d6+3 piercing plus goblin pox"
 abilities_bot:
   - name: "Goblin Pox"
-    desc: "(Disease) Goblins and goblin dogs are immune to goblin pox"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]]) [[srd/pf2e/compendium/rules-elements/traits/player-core/goblin|Goblins]] and goblin dogs are immune to goblin pox"
   - name: "Saving Throw"
     desc: "DC 17 Fortitude"
   - name: "Stage 1"
     desc: "sickened 1 (1 round)"
   - name: "Stage 2"
-    desc: "sickened 1 and slowed 1 (1 round)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] (1 round)"
   - name: "Stage 3"
     desc: "sickened 2 and can't reduce its sickened value below 1 (1 day)"
   - name: "Scratch"
-    desc: "⬺ (Manipulate) The goblin dog vigorously scratches itself, exposing all adjacent creatures to goblin pox. Goblin Dog Stories Goblins adore goblin dogs, and crafting stories of their pets' antics is a time-honored tradition among many goblin tribes. Goblins often seek to outdo prior yarns by increasing the audacity, ridiculousness, and surreality of their adventures. Examples include goblin dogs holding fancy dinners in high society among unwitting humans, goblin dogs tainting dwarven ale in unmentionable ways, and goblins who actually transform into something else as a result of a goblin dog bite. This last tale in particular has some truth to it, as credible accounts confirm the existence of goblin dog werecreatures in certain tribes."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The goblin dog vigorously scratches itself, exposing all adjacent creatures to goblin pox. Goblin Dog Stories Goblins adore goblin dogs, and crafting stories of their pets' antics is a time-honored tradition among many goblin tribes. Goblins often seek to outdo prior yarns by increasing the audacity, ridiculousness, and surreality of their adventures. Examples include goblin dogs holding fancy dinners in high society among unwitting humans, goblin dogs tainting dwarven ale in unmentionable ways, and goblins who actually transform into something else as a result of a goblin dog bite. This last tale in particular has some truth to it, as credible accounts confirm the existence of goblin dog werecreatures in certain tribes."
 sourcebook: "_Monster Core_, page 176."
 ```
 

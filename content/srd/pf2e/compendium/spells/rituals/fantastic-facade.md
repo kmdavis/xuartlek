@@ -18,7 +18,7 @@ source: "Player Core 2"
 - **Cast**: 1 week
 - **Cost**: mystical paint, elaborate veils, and powdered minerals worth 20,000 gp total
 - **Secondary Casters**: 3
-- **Primary Check**: Arcana or Occultism (legendary)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (legendary)
 - **Secondary Checks**: Deception ; Society or Survival ; Stealth
 - **Area**: up to 1 mile radius circle centered on you
 - **Target(s)**: 1 settlement and its residents
@@ -26,7 +26,7 @@ source: "Player Core 2"
 
 You draw a permanent series of complex illusions over the target settlement, choosing the look, sound, feel, and smell of the structures, terrain, and creatures within at the time the ritual is cast. You can alter the appearance of existing structures and creatures, and you can add illusory structures or creatures. For example, you could cause everything and everyone in the target area to appear green, create an illusory forest with a thick canopy that obscures the settlement from outside view, or make empty ruins seem inhabited and pristine. When you create the facade, you determine which illusory elements remain static (limited to basic natural movement, such as flags blowing in the breeze) and which follow a basic program (for example, a daily parade in the town square, complete with marching band). You’re unable to alter the programs after you create the facade.
 
-You can disguise creatures as you please, with the same effects as a 3rd-rank _illusory disguise_. If a creature affected by the facade leaves the area, any illusions affecting it fade after 1 day. You decide when casting the ritual whether newcomers are disguised by the illusions, and whether the disguise appears immediately or after a set period, up to 1 week.
+You can disguise creatures as you please, with the same effects as a 3rd-rank [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]]. If a creature affected by the facade leaves the area, any illusions affecting it fade after 1 day. You decide when casting the ritual whether newcomers are disguised by the illusions, and whether the disguise appears immediately or after a set period, up to 1 week.
 
 A creature that interacts with the target settlement in a way that would suggest or reveal the illusory nature of the facade, such as by trying to paint a building affected by the facade or climbing an illusory structure, can attempt to disbelieve the illusion. The illusions created by the spell are harmless, so an illusory river of lava wouldn’t cause damage, nor could thorns on an illusory rose bush prick someone.
 

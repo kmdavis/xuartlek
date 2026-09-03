@@ -10,7 +10,7 @@ source: "Monster Core"
 
 # Dhampir  *Creature Family*
 
-As the mortal offspring of a vampire and a living parent, dhampirs occupy an unusual place among the living. Their vampiric parentage lends them elongated incisors, an unearthly beauty and physical grace, ghostly pallor, and a piercing gaze. Perhaps their most distinctive feature, however, is their connection to energy from the Void, which heals them, leaving them as vulnerable to life energy as any undead creature. Though they don't suffer the full range of a vampire's vulnerabilities, they do share certain characteristics with their vampire parent, leading to several distinct dhampir heritages across Golarion. By far the most common dhampirs are svetochers, the children of the more common moroi vampires.
+As the mortal offspring of a vampire and a living parent, dhampirs occupy an unusual place among the living. Their vampiric parentage lends them elongated incisors, an unearthly beauty and physical grace, ghostly pallor, and a piercing gaze. Perhaps their most distinctive feature, however, is their connection to energy from [[srd/pf2e/compendium/gm/planes#The Void|the Void]], which heals them, leaving them as vulnerable to life energy as any [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creature. Though they don't suffer the full range of a vampire's vulnerabilities, they do share certain characteristics with their vampire parent, leading to several distinct dhampir heritages across Golarion. By far the most common dhampirs are svetochers, the children of the more common moroi vampires.
 
  Many dhampirs grow up as orphans because their mortal parent perished as a result of a difficult childbirth, or else they believed their child to be cursed and abandoned them. Often outcast, some dhampirs leverage their charisma and personal magnetism to manipulate those around them, while others struggle to form even basic relationships. Mistrust of a dhampir's ancestry presents further challenges when dhampirs attempt to integrate into mortal society. Those who seek out their vampiric parent often find themselves judged as inferior, rejected as they were by mortals but for different reasons. But in regions like Nidal, Geb, and Ustalav, where vampires are viewed with some degree of respect, dhampirs can find their heritage empowering.
 
@@ -18,6 +18,6 @@ As the mortal offspring of a vampire and a living parent, dhampirs occupy an unu
 
 ### Members
 
-Dhampir Wizard (Creature 2)
+[[srd/pf2e/bestiary/monster-core/humanoid/dhampir-wizard|Dhampir Wizard]] (Creature 2)
 
 *Source: Monster Core p. 95*

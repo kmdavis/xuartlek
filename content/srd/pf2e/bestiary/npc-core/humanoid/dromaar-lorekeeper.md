@@ -35,16 +35,16 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; low-light vision"
-languages: "Common, Orcish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]"
 skills:
   - name: "Skills"
-    desc: "Diplomacy +12, Occultism +11, Orc Lore +15, Performance +12, Society +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +12, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +11, [[srd/pf2e/compendium/rules-elements/skills/lore|Orc Lore]] +15, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +13"
 abilityMods: [1, 3, 0, 2, 2, 3]
 abilities_top:
   - name: "Spotlight Ready"
-    desc: "When performing for crowds of 10 or more, the dromaar lorekeeper gains a +2 circumstance bonus to their Performance checks."
+    desc: "When performing for crowds of 10 or more, the dromaar lorekeeper gains a +2 circumstance bonus to their [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks."
   - name: "Items"
-    desc: "Dagger, lute"
+    desc: "Dagger, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|lute]]"
 ac: 21
 armorclass:
   - name: "AC"
@@ -55,18 +55,18 @@ health:
     desc: "70"
 abilities_mid:
   - name: "Final Tale"
-    desc: "(auditory, mental, occult) When the lorekeeper dies, they utter a brief but poignant final story that shakes those nearby to their core. Each creature in a 10-foot emanation must succeed at a DC 20 Will save or be paralyzed for 1 round."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) When the lorekeeper dies, they utter a brief but poignant final story that shakes those nearby to their core. Each creature in a 10-foot emanation must succeed at a DC 20 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] for 1 round."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +14 (Agile, Finesse, versatile S) __Damage__ 1d4+4 piercing plus 1d10 sonic"
+    desc: "⬻ dagger +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing plus 1d10 sonic"
   - name: "Melee"
-    desc: "⬻ fist +14 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+4 piercing plus 1d10 sonic"
+    desc: "⬻ fist +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+4 piercing plus 1d10 sonic"
   - name: "Ranged"
-    desc: "⬻ dagger +14 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+4 piercing plus 1d10 sonic"
+    desc: "⬻ dagger +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing plus 1d10 sonic"
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 22, attack +14 - __Cantrips (3rd)__ Daze, Figment, Message, Summon Instrument, Telekinetic Projectile - __1st__ Bless, Phantasmal Minion, Ventriloquism (3 slots) - __2nd__ Laughing Fit, Noise Blast, Translate (3 slots) - __3rd__ Enthrall, Heroism (2 slots) __a__"
+    desc: "DC 22, attack +14 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/summon-instrument|Summon Instrument]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/bless|Bless]], [[srd/pf2e/compendium/spells/rank-1/phantasmal-minion|Phantasmal Minion]], [[srd/pf2e/compendium/spells/rank-1/ventriloquism|Ventriloquism]] (3 slots) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/laughing-fit|Laughing Fit]], [[srd/pf2e/compendium/spells/rank-2/noise-blast|Noise Blast]], [[srd/pf2e/compendium/spells/rank-2/translate|Translate]] (3 slots) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/enthrall|Enthrall]], [[srd/pf2e/compendium/spells/rank-3/heroism|Heroism]] (2 slots) __a__"
 sourcebook: "_NPC Core_, page 207."
 ```
 

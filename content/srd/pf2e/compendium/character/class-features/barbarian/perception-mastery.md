@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 - **Class**: Barbarian
 
-Your instinct heightens each of your senses further. Your proficiency rank for Perception increases to master.
+Your instinct heightens each of your senses further. Your proficiency rank for [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] increases to master.
 
 *Source: Player Core 2 p. 70*

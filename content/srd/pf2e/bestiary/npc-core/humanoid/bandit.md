@@ -29,16 +29,16 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +6, Deception +5, Forest Lore +4, Intimidation +6, Stealth +8, Survival +6, Thievery +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Forest Lore]] +4, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +8"
 abilityMods: [3, 3, 1, 0, 2, 1]
 abilities_top:
   - name: "Bandit's Ambush"
-    desc: "When the bandit rolls initiative using Deception or Stealth, they can attempt to Demoralize one creature as a free action."
+    desc: "When the bandit rolls initiative using [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], they can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] one creature as a free action."
   - name: "Items"
-    desc: "Dagger, Machete, Sling (10 bullets), studded leather"
+    desc: "Dagger, [[srd/pf2e/compendium/equipment/weapons/sword/machete|Machete]], Sling (10 bullets), studded leather"
 ac: 19
 armorclass:
   - name: "AC"
@@ -50,18 +50,18 @@ health:
 speed: "25 feet; forest passage"
 attacks:
   - name: "Melee"
-    desc: "⬻ machete +9 (deadly d8, Sweep) __Damage__ 1d6+5 slashing"
+    desc: "⬻ machete +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+5 slashing"
   - name: "Melee"
-    desc: "⬻ dagger +9 (Agile, versatile S) __Damage__ 1d4+5 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+5 piercing"
   - name: "Melee"
-    desc: "⬻ fist +9 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+5 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+5 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ sling +9 (Propulsive, range increment 50 feet, reload 1) __Damage__ 1d6+3 bludgeoning"
+    desc: "⬻ sling +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +9 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+5 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+5 piercing"
 abilities_bot:
   - name: "Dread Striker"
-    desc: "Frightened creatures are off-guard to the bandit."
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Frightened|Frightened]] creatures are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the bandit."
   - name: "Forest Passage"
     desc: "The bandit ignores any difficult terrain caused by plants, such as bushes, vines, and undergrowth."
 sourcebook: "_NPC Core_, page 18."

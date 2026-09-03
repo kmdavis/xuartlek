@@ -19,7 +19,7 @@ source: "Impossible Magic"
 - **Target**: 1 creature
 - **Defense**: Fortitude
 
-With but a touch, a mystical force sends a foe rocketing backward. The target creature must attempt a Fortitude save. If the creature's movement causes it to hit a firm surface, such as a wall, it takes 5 bludgeoning damage. A creature knocked off a ledge or the like can Grab an Edge to avoid falling.
+With but a touch, a mystical force sends a foe rocketing backward. The target creature must attempt a Fortitude save. If the creature's movement causes it to hit a firm surface, such as a wall, it takes 5 bludgeoning damage. A creature knocked off a ledge or the like can [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]] to avoid falling.
 
 **Critical Success** The creature is unaffected.
 

@@ -31,7 +31,7 @@ perception:
     desc: "Perception +15; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +20"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +20"
 abilityMods: [7, 2, 4, -4, 2, 0]
 ac: 23
 armorclass:
@@ -51,9 +51,9 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tail +18 (Sweep, reach 15 feet) __Damage__ 2d8+9 piercing"
+    desc: "⬻ tail +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+9 piercing"
   - name: "Melee"
-    desc: "⬻ foot +18 (reach 10 feet) __Damage__ 2d6+9 bludgeoning"
+    desc: "⬻ foot +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+9 bludgeoning"
 abilities_bot:
   - name: "Trample"
     desc: "⬽ Large or smaller, foot, DC 25"

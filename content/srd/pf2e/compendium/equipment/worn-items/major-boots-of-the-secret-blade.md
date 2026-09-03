@@ -20,7 +20,7 @@ source: "Battlecry!"
 
 You pride yourself on being well prepared with weaponry for any situation. Your dark-gray boots might appear mundane, but you know that they can conjure a blade at any moment. Even the most thorough of searches can’t find a knife that doesn’t exist yet.
 
-**Activate—Draw Secret Blade** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per hour; **Effect** You reach down to your boot, draw a dagger from it, and make a ranged or melee Strike with it. This dagger is created magically and does not exist before being drawn. The dagger remains a physical object until the next time you use Draw Secret Blade, and it disappears as a new blade is created.
+**Activate—Draw Secret Blade** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** You reach down to your boot, draw a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]] from it, and make a ranged or melee Strike with it. This dagger is created magically and does not exist before being drawn. The dagger remains a physical object until the next time you use Draw Secret Blade, and it disappears as a new blade is created.
 
 ### Boots of the Secret Blade
 
@@ -32,7 +32,7 @@ You pride yourself on being well prepared with weaponry for any situation. Your 
 
 ---
 
-When you Draw Secret Blade, you draw a _+1 striking dagger_.
+When you Draw Secret Blade, you draw a _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] dagger_.
 
 ### Major Boots of the Secret Blade
 

@@ -31,14 +31,14 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; low-light vision"
-languages: "Chthonian, Common, Kholo"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]]"
 skills:
   - name: "Skills"
-    desc: "Intimidation +7, Medicine +7, Religion +10, Stealth +7, Survival +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +7, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
 abilityMods: [2, 2, 0, 0, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "Falchion, Hide Armor, wooden religious symbol"
+    desc: "Falchion, Hide Armor, [[srd/pf2e/compendium/equipment/armor#Gi|wooden religious symbol]]"
 ac: 19
 armorclass:
   - name: "AC"
@@ -50,9 +50,9 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ falchion +10 (Forceful, Sweep) __Damage__ 1d10+3 slashing"
+    desc: "⬻ falchion +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d10+3 slashing"
   - name: "Melee"
-    desc: "⬻ jaws +10 (Agile) __Damage__ 1d6+3 piercing"
+    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+3 piercing"
 abilities_bot:
   - name: "Pack Attack"
     desc: "A kholo bonekeeper deals 1d4 extra damage to any creature that's within reach of at least two of the kholo bonekeeper's allies."
@@ -60,7 +60,7 @@ abilities_bot:
     desc: "A kholo ignores the first square of difficult terrain they move into each time they Step or Stride."
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 20, attack +12 - __Cantrips (2nd)__ Daze, Detect Magic, Light, Read Aura, Sigil - __1st__ Command, Fear, Runic Weapon - __2nd__ Darkness, Harm (×4), Spiritual Armament"
+    desc: "DC 20, attack +12 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/sigil|Sigil]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/command|Command]], [[srd/pf2e/compendium/spells/rank-1/fear|Fear]], [[srd/pf2e/compendium/spells/rank-1/runic-weapon|Runic Weapon]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/darkness|Darkness]], [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (×4), [[srd/pf2e/compendium/spells/rank-2/spiritual-armament|Spiritual Armament]]"
 sourcebook: "_Monster Core_, page 209."
 ```
 

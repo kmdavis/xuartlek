@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 90 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Warpwobble poison causes hallucinations of space bending and stretching, leading to vertigo and an inability to discern a stable place to move.
 

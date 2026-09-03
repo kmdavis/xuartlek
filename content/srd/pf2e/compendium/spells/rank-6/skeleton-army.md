@@ -20,10 +20,10 @@ source: "Battlecry!"
 - **Range**: 100 feet
 - **Duration**: until the end of your next turn
 
-With a fistful of compressed bones, you summon a legion of skeletal hulks to fight in your war, refusing to let them rest until they’ve given up their last inches of usefulness to your cause. The undead army occupies the space of a Huge creature and has a Speed of 40 feet.
+With a fistful of compressed bones, you summon a legion of [[srd/pf2e/bestiary/monster-core/undead/skeletal-hulk|skeletal hulks]] to fight in your war, refusing to let them rest until they’ve given up their last inches of usefulness to your cause. The undead army occupies the space of a Huge creature and has a Speed of 40 feet.
 
-**Arrive** _Bone March_ The skeletal hulks rise from the dirt, slashing through your enemies and attacking with their dirt-encrusted, bony hands. Enemies within a 20-foot emanation take 4d8 slashing damage (basic Reflex save). On a critical failure, a creature also take 2d8 persistent bleed damage. 
+**Arrive** _Bone March_ The skeletal hulks rise from the dirt, slashing through your enemies and attacking with their dirt-encrusted, bony hands. Enemies within a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] take 4d8 slashing damage ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). On a critical failure, a creature also take 2d8 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]. 
 
-**Depart** _Tossed Heads_ Before crumpling into a pile of bones, the skeleton army removes their skulls and throws them at the enemy lines, chattering and howling, dealing 6d6 piercing damage to enemies in a 20-foot burst (basic Reflex save) within 30 feet. On a critical failure, a creature is also frightened 2.
+**Depart** _Tossed Heads_ Before crumpling into a pile of bones, the skeleton army removes their skulls and throws them at the enemy lines, chattering and howling, dealing 6d6 piercing damage to enemies in a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] (basic Reflex save) within 30 feet. On a critical failure, a creature is also [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 2.
 
 *Source: Battlecry! p. 90*

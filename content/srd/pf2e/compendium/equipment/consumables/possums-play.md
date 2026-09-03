@@ -19,10 +19,10 @@ source: "Impossible Magic"
 `Consumable`  `Illusion`  `Magical`  `Talisman`  `Visual`
 
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You would take damage from an attack or magical effect.
 
-This innocuous little charm looks like nothing so much as a patch of coarse white or dark gray fur, usually made to resemble a lucky rabbit’s foot or something else. When you activate the talisman, the triggering attack gains the nonlethal trait, and you fall prone, feigning death. An illusion surrounds you, causing you to appear dead for up to 1 minute. Any creature that touches the illusion or uses the Seek action to examine you can attempt to disbelieve the illusion. The DC to disbelieve the illusion is 18. Any action requiring you to move or make noise immediately ends the illusion.
+This innocuous little charm looks like nothing so much as a patch of coarse white or dark gray fur, usually made to resemble a lucky rabbit’s foot or something else. When you activate the talisman, the triggering attack gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait, and you fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], feigning death. An [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] surrounds you, causing you to appear dead for up to 1 minute. Any creature that touches the illusion or uses the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to examine you can attempt to disbelieve the illusion. The DC to disbelieve the illusion is 18. Any action requiring you to move or make noise immediately ends the illusion.
 
 ### Possum's Play
 

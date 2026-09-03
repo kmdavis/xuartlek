@@ -20,7 +20,7 @@ source: "GM Core"
 DC 26 (expert)
 
 **Disable**
-DC 23 Religion (trained) to exorcise the spirit, or DC 23 Thievery (trained) to quickly cover the mirror
+DC 23 [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (trained) to exorcise the spirit, or DC 23 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) to quickly cover the mirror
 
 **AC** 19, **Fort** +15, **Ref** +10
 
@@ -31,13 +31,13 @@ DC 23 Religion (trained) to exorcise the spirit, or DC 23 Thievery (trained) to 
 50 (BT 25)
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
-**Spectral Impale** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A living creature approaches within 15 feet of the mirror, and the mirror is lit with dim or brighter light; **Effect** Shadowy barbs impale the body of the reflected creature as the haunt makes a shadow barbs Strike. 
+**Spectral Impale** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A living creature approaches within 15 feet of the mirror, and the mirror is lit with [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim]] or brighter [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Light|light]]; **Effect** Shadowy barbs impale the body of the reflected creature as the haunt makes a shadow barbs [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]]. 
 
-**Melee** shadow barbs +19, **Damage** 4d8+9 void plus sap vitality 
+**Melee** shadow barbs +19, **Damage** 4d8+9 [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] plus sap vitality 
 
-**Sap Vitality** A creature hit by the reflection’s shadow barbs must attempt a DC 22 Fortitude save as the haunt tries to draw a portion of its vital essence into the mirror. The target is drained 1 on a failed saving throw, or drained 2 on a critical failure.
+**Sap Vitality** A creature hit by the reflection’s shadow barbs must attempt a DC 22 Fortitude save as the haunt tries to draw a portion of its vital essence into the mirror. The target is [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]] on a failed saving throw, or drained 2 on a critical failure.
 
 ---
 **Reset**

@@ -18,7 +18,7 @@ source: "GM Core"
 
 A grinning skull tops the bow of this macabre key. This key can be used in place of a thieves' toolkit when attempting to Pick a Lock, and it grants a +1 item bonus to the Thievery check. If the skeleton key becomes broken due to a critical failure on the check, it works as a normal thieves' toolkit and loses its benefits until repaired. 
 
-**Activate—Loosen Lock** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (manipulate) **Frequency** once per day; **Effect** The key casts _knock_ on the lock you're trying to pick.
+**Activate—Loosen Lock** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The key casts _knock_ on the lock you're trying to pick.
 
 ### Skeleton Key
 

@@ -14,9 +14,9 @@ source: "Player Core"
 
 You'll see these key terms in many witch class features.
 
-**Hex:** A hex is a spell caused by your patron's direct attention and intervention. Your patron does not take well to being disturbed repeatedly, so you can cast only one spell that has the hex trait each turn; attempts to use a second automatically fail and usually cause your familiar to hiss in displeasure as your patron rejects your call.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/hex|Hex]]:** A hex is a spell caused by your patron's direct attention and intervention. Your patron does not take well to being disturbed repeatedly, so you can cast only one spell that has the hex trait each turn; attempts to use a second automatically fail and usually cause your familiar to hiss in displeasure as your patron rejects your call.
 
-**Spellshape:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 ### Roleplaying the Witch
 
@@ -130,7 +130,7 @@ Using your familiar as a conduit, your patron provides you the power to cast spe
 
 #### Familiar
 
-Your patron has sent you a familiar, a mystical creature that teaches you magic and facilitates your spells. This familiar follows the familiar rules, though as it's a direct conduit between you and your patron, it's more powerful than typical familiars. Your familiar gains two additional familiar abilities: one of these is a unique ability based on your patron and is always selected, and the other is an additional familiar ability that can be selected daily as normal. Your familiar gains another extra ability at 6th, 12th, and 18th levels.
+Your patron has sent you a familiar, a mystical creature that teaches you magic and facilitates your spells. This familiar follows the [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiars|familiar rules]], though as it's a direct conduit between you and your patron, it's more powerful than typical familiars. Your familiar gains two additional familiar abilities: one of these is a unique ability based on your patron and is always selected, and the other is an additional familiar ability that can be selected daily as normal. Your familiar gains another extra ability at 6th, 12th, and 18th levels.
 
  **Spells**: Your familiar is the source and repository of the spells your patron has bestowed upon you, and you must commune with your familiar to prepare your spells each day using your witch spellcasting. Your familiar starts off knowing 10 cantrips, five 1st-rank spells, and one additional spell determined by your patron's initial lesson. You choose these spells from the common spells of the tradition determined by your patron or from other spells of that tradition you gain access to.
 
@@ -146,7 +146,7 @@ As a favored agent of your patron, you can invoke their power for a more direct 
 
  Hex spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to commune with your familiar.
 
- Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear here. You learn your choice of the _patron's puppet_ hex or _phase familiar_ hex, which let you command your familiar or defend it from harm, respectively. You learn most other hexes from witch lessons.
+ Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|here]]. You learn your choice of the [[srd/pf2e/compendium/spells/focus/patrons-puppet|_patron's puppet_]] hex or _phase familiar_ hex, which let you command your familiar or defend it from harm, respectively. You learn most other hexes from witch lessons.
 
 ### Hex Cantrips
 

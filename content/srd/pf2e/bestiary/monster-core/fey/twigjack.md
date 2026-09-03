@@ -31,10 +31,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; darkvision"
-languages: "Common, Fey"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +9, Nature +7, Stealth +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11"
 abilityMods: [2, 4, 2, 0, 2, 1]
 ac: 19
 armorclass:
@@ -43,16 +43,16 @@ armorclass:
 hp: 50
 health:
   - name: "HP"
-    desc: "50; __Weaknesses__ axes 5, fire 5"
+    desc: "50; __Weaknesses__ axes 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +11 (Agile, Finesse, reach 0 feet) __Damage__ 1d10+4 slashing"
+    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d10+4 slashing"
   - name: "Ranged"
-    desc: "⬻ splinter +11 (deadly 1d6, range increment 30 feet) __Damage__ 1d6+4 piercing"
+    desc: "⬻ splinter +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly 1d6]], range increment 30 feet) __Damage__ 1d6+4 piercing"
 abilities_bot:
   - name: "Bramble Jump"
-    desc: "⬽ (Plant, Primal, Teleportation, Wood)"
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/plant|Plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|Teleportation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|Wood]])"
   - name: "Requirements"
     desc: "The twigjack is in undergrowth"
   - name: "Effect"

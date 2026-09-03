@@ -31,10 +31,10 @@ modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; low-light vision, scent (imprecise) 60 feet"
-languages: "Common; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +22, Athletics +25, Intimidation +25, Stealth +22, Survival +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +22, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +25, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +22, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +22"
 abilityMods: [7, 5, 7, -3, 4, -2]
 ac: 32
 armorclass:
@@ -43,16 +43,16 @@ armorclass:
 hp: 215
 health:
   - name: "HP"
-    desc: "215; __Immunities__ disease; __Resistances__ fire 10, physical 10 (except bludgeoning)"
+    desc: "215; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10, physical 10 (except bludgeoning)"
 speed: "35 feet, climb 20 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ jaws +26 __Damage__ 3d10+14 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ claw +26 (Agile) __Damage__ 3d8+12 slashing"
+    desc: "⬻ claw +26 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 3d8+12 slashing"
 abilities_bot:
   - name: "Blinding Mane"
-    desc: "⬺ (Incapacitation, light, primal, Visual)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
@@ -60,7 +60,7 @@ abilities_bot:
   - name: "Critical Success"
     desc: "The target is unaffected."
   - name: "Success"
-    desc: "The target is blinded until its next turn begins."
+    desc: "The target is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until its next turn begins."
   - name: "Failure"
     desc: "The target is blinded for 1 minute."
   - name: "Critical Failure"
@@ -74,7 +74,7 @@ abilities_bot:
   - name: "Trigger"
     desc: "The grisantian lion uses Rend"
   - name: "Effect"
-    desc: "The target's armor takes damage equal to the damage from Rend. The target can attempt a DC 29 basic Reflex save to reduce this damage. The Legend Of The Grogrisant Early tales of the founding of Taldor speak of the Grogrisant, an enormous six-eyed lion with a mane that glowed the like the sun. The lion destroyed the city-states of the region, feeding on their livestock and plundering their wealth to line its den. The great hero Taldaris finally slew the terrible beast and went on to become the First Emperor of Taldor. Terrifying six-eyed lions reminiscent of the original make repeated appearances throughout Taldor’s history only to meet their demise at the hands of heroes. While the original Grogrisant of legend is honored with a capitalized name, the remaining grogrisants of history bear the less formal name for the sake of classification."
+    desc: "The target's armor takes damage equal to the damage from Rend. The target can attempt a DC 29 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save to reduce this damage. The Legend Of The Grogrisant Early tales of the founding of Taldor speak of the Grogrisant, an enormous six-eyed lion with a mane that glowed the like the sun. The lion destroyed the city-states of the region, feeding on their livestock and plundering their wealth to line its den. The great hero Taldaris finally slew the terrible beast and went on to become the First Emperor of Taldor. Terrifying six-eyed lions reminiscent of the original make repeated appearances throughout Taldor’s history only to meet their demise at the hands of heroes. While the original Grogrisant of legend is honored with a capitalized name, the remaining grogrisants of history bear the less formal name for the sake of classification."
 sourcebook: "_Monster Core 2_, page 180."
 ```
 

@@ -14,7 +14,7 @@ The cyclopes are violent giants with a tragic past. Although they possess only o
 
 ### Members
 
-Cyclops (Creature 5), Cyclops Seeker (Creature 10), Great Cyclops (Creature 12)
+[[srd/pf2e/bestiary/monster-core/giant/cyclops|Cyclops]] (Creature 5), Cyclops Seeker (Creature 10), [[srd/pf2e/bestiary/monster-core/giant/great-cyclops|Great Cyclops]] (Creature 12)
 
 ### Lost Civilizations
 

@@ -14,7 +14,7 @@ Terror birds aren't one species, but rather a family of deadly, flightless avian
 
 ### Members
 
-Terror Bird (Creature 2), Terror Shrike (Creature 4)
+[[srd/pf2e/bestiary/monster-core-2/animal/terror-bird|Terror Bird]] (Creature 2), [[srd/pf2e/bestiary/monster-core-2/animal/terror-shrike|Terror Shrike]] (Creature 4)
 
 ### Diatryma
 

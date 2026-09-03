@@ -29,14 +29,14 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; darkvision, rust vision"
-languages: "Talican"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +17, Athletics +25"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +17, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +25"
 abilityMods: [8, 2, 7, -1, 3, 3]
 abilities_top:
   - name: "Rust Vision"
-    desc: "An oregorger ignores the concealed condition from rust clouds."
+    desc: "An oregorger ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from rust clouds."
 ac: 30
 armorclass:
   - name: "AC"
@@ -44,21 +44,21 @@ armorclass:
 hp: 245
 health:
   - name: "HP"
-    desc: "245; __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ acid 10, electricity 10"
+    desc: "245; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 10"
 abilities_mid:
   - name: "Caustic Rust"
-    desc: "(acid, aura) 5 feet. The oregorger continually leaks tiny fragments of partially digested rust into the air around it. Any creature that ends its turn in the aura takes 2d6 acid damage with a DC 27 basic Reflex save. A creature that critically fails is also sickened 1."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]]) 5 feet. The oregorger continually leaks tiny fragments of partially digested rust into the air around it. Any creature that ends its turn in the aura takes 2d6 acid damage with a DC 27 basic Reflex save. A creature that critically fails is also sickened 1."
 speed: "30 feet, burrow 20 feet, fly 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ adamantine bite +23 (reach 10 feet) __Damage__ 2d12+12 piercing plus devour metal"
+    desc: "⬻ adamantine bite +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+12 piercing plus devour metal"
   - name: "Melee"
-    desc: "⬻ claw +23 (Agile) __Damage__ 2d6+12 slashing"
+    desc: "⬻ claw +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d6+12 slashing"
 abilities_bot:
   - name: "Devour Metal"
-    desc: "Any time the oregorger scores a critical hit with an adamantine bite attack, it deals the same amount of damage to any metal armor worn by the target, automatically bypassing any Hardness lower than 10. If a creature uses the Shield Block reaction with a metal shield against an oregorger's adamantine bite, the shield is automatically broken, but no other item takes damage from that attack. Unattended metal items automatically take full damage from an oregorger's adamantine bite attack, ignoring their Hardness if it's lower than 10."
+    desc: "Any time the oregorger scores a critical hit with an adamantine bite attack, it deals the same amount of damage to any metal armor worn by the target, automatically bypassing any Hardness lower than 10. If a creature uses the Shield Block reaction with a metal shield against an oregorger's adamantine bite, the shield is automatically [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]], but no other item takes damage from that attack. Unattended metal items automatically take full damage from an oregorger's adamantine bite attack, ignoring their Hardness if it's lower than 10."
   - name: "Searing Spew"
-    desc: "⬺ (Acid) The oregorger belches forth a cloud of caustic, rusted debris from its maw, filling a cube adjacent to itself that's 10 feet on each side. Any creature in this area takes 6d6 acid damage and 6d6 slashing damage (DC 30 basic Reflex). The ground under the cloud is difficult terrain for 1 hour, after which the shrapnel crumbles to dust. The oregorger can't use Searing Spew again for 1d4 rounds, but the ability recharges if the oregorger damages an item with devour metal."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]]) The oregorger belches forth a cloud of caustic, rusted debris from its maw, filling a cube adjacent to itself that's 10 feet on each side. Any creature in this area takes 6d6 acid damage and 6d6 slashing damage (DC 30 basic Reflex). The ground under the cloud is difficult terrain for 1 hour, after which the shrapnel crumbles to dust. The oregorger can't use Searing Spew again for 1d4 rounds, but the ability recharges if the oregorger damages an item with devour metal."
 sourcebook: "_Rage of Elements_, page 158."
 ```
 

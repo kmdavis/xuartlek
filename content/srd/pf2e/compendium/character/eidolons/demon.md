@@ -17,7 +17,7 @@ source: "Impossible Magic"
 `Demon`  `Eidolon`  `Fiend`  `Unholy`
 
 - **Tradition**: Divine
-- **Home Plane**: The Outer Rifts
+- **Home Plane**: [[srd/pf2e/compendium/gm/planes#Outer Rifts|The Outer Rifts]]
 
 **Size** Medium or Small
 
@@ -31,11 +31,11 @@ source: "Impossible Magic"
 - Cha 1
 - AC ( Dex cap)
 
-**Skills** Intimidation, Religion
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
 
 **Senses** darkvision
 
-**Language** Chthonian
+**Language** [[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]]
 
 **Speed** 25 feet
 
@@ -49,7 +49,7 @@ source: "Impossible Magic"
 
 ### Demonic Strikes
 
-Your eidolon's attacks are corrupted by the Outer Rifts and imbued with pure malice and shifting chaos. Your eidolon's unarmed Strikes gain the unholy trait and deal an additional 1 spirit damage to holy creatures and creatures with weakness to unholy. Additionally, choose one of your eidolon's unarmed attacks that deals physical damage; it gains your choice of versatile B, versatile P, or versatile S.
+Your eidolon's attacks are corrupted by the Outer Rifts and imbued with pure malice and shifting chaos. Your eidolon's unarmed Strikes gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait and deal an additional 1 spirit damage to holy creatures and creatures with weakness to unholy. Additionally, choose one of your eidolon's unarmed attacks that deals physical damage; it gains your choice of [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile]] B, versatile P, or versatile S.
 
 ### Visions of Sin [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
@@ -59,12 +59,12 @@ Your eidolon's attacks are corrupted by the Outer Rifts and imbued with pure mal
 
 **Success** The target can't use reactions.
 
-**Failure** The target is slowed 1 and can't use reactions.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 and can't use reactions.
 
-**Critical Failure** As failure, and the target is also confused for 1 round. The confusion can't be extended, but the other effects can.
+**Critical Failure** As failure, and the target is also [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round. The confusion can't be extended, but the other effects can.
 
 ### Blasphemous Decree
 
-Your demon utters indescribable words writhing with their associated sin. They can cast _divine decree_ once per day as a 9th-rank spell. You are unaffected by this decree. At 19th level, this becomes a 10th-rank _divine decree_ instead.
+Your demon utters indescribable words writhing with their associated sin. They can cast [[srd/pf2e/compendium/spells/rank-7/divine-decree|_divine decree_]] once per day as a 9th-rank spell. You are unaffected by this decree. At 19th level, this becomes a 10th-rank _divine decree_ instead.
 
 *Source: Impossible Magic p. 74*

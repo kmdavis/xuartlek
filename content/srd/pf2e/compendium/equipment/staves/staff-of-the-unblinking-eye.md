@@ -32,7 +32,7 @@ The stone head piece of this smooth wooden staff is carved to look like a lidles
 
 ---
 
-**Cantrip** _detect magic_**1st** _sure strike_**2nd** _darkvision_, _see the unseen_, _translate_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]]**1st** [[srd/pf2e/compendium/spells/rank-1/sure-strike|_sure strike_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/darkvision|_darkvision_]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]], [[srd/pf2e/compendium/spells/rank-2/translate|_translate_]]
 
 ### Staff of the Unblinking Eye (Greater)
 
@@ -40,7 +40,7 @@ The stone head piece of this smooth wooden staff is carved to look like a lidles
 
 ---
 
-**3rd** darkvision, _mind reading_**4th** _clairvoyance_, _detect scrying_, _telepathy_
+**3rd** darkvision, [[srd/pf2e/compendium/spells/rank-3/mind-reading|_mind reading_]]**4th** [[srd/pf2e/compendium/spells/rank-4/clairvoyance|_clairvoyance_]], [[srd/pf2e/compendium/spells/rank-4/detect-scrying|_detect scrying_]], [[srd/pf2e/compendium/spells/rank-4/telepathy|_telepathy_]]
 
 ### Staff of the Unblinking Eye (Major)
 
@@ -48,6 +48,6 @@ The stone head piece of this smooth wooden staff is carved to look like a lidles
 
 ---
 
-**5th** _mind probe_, _scouting eye_**6th** telepathy, _truesight_
+**5th** [[srd/pf2e/compendium/spells/rank-5/mind-probe|_mind probe_]], [[srd/pf2e/compendium/spells/rank-5/scouting-eye|_scouting eye_]]**6th** telepathy, [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]]
 
 *Source: GM Core p. 281*

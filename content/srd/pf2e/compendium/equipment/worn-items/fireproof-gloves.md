@@ -18,9 +18,9 @@ source: "Battlecry!"
 - **Usage**: worn gloves
 - **Bulk**: L
 
-First developed by blacksmiths to move burning hot workpieces around, _fireproof gloves_ then became popular with soldiers responsible for disabling bombs and magical traps. The thick tan gloves come up over the arm. When wearing these gloves, you gain fire resistance 5.
+First developed by blacksmiths to move burning hot workpieces around, _fireproof gloves_ then became popular with soldiers responsible for disabling bombs and magical traps. The thick tan gloves come up over the arm. When wearing these gloves, you gain fire [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|resistance]] 5.
 
-**Activate—Release Heat** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, fire) **Frequency** once per day; **Requirements** You have a free hand; **Effect** You take the heat that’s built up in your gloves and discharge it onto an enemy. You deal 6d8 fire damage to one creature within reach (DC 26 basic Reflex save).
+**Activate—Release Heat** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) **Frequency** once per day; **Requirements** You have a free hand; **Effect** You take the heat that’s built up in your gloves and discharge it onto an enemy. You deal 6d8 fire damage to one creature within reach (DC 26 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save).
 
 ### Fireproof Gloves
 

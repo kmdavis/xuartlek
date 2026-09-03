@@ -18,7 +18,7 @@ source: "GM Core"
 
 - **Price**: 7 gp
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 This pendant is forged from grainy steel and depicts a snorting bull's face. The pendant must be attached to the chest area or on a shoulder guard. When you activate the pendant, attempt an Athletics check to Shove with a +1 item bonus to check. Increase the distance you Shove your target to 10 feet on a success or 20 feet on a critical success.
 

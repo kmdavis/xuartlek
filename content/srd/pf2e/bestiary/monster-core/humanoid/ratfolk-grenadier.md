@@ -29,16 +29,16 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; darkvision"
-languages: "Common, Ysoki"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Ysoki|Ysoki]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Crafting +12, Deception +7, Society +10, Stealth +12, Thievery +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +12, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +9"
 abilityMods: [0, 4, 2, 4, 2, 1]
 abilities_top:
   - name: "Alchemical Grenades"
-    desc: "The grenadier carries 6 alchemical grenades that deal either acid, cold, or fire damage plus 2 persistent damage and 2 splash damage of the same type (typically two of each). The grenadier replenishes these each day using scavenged materials."
+    desc: "The grenadier carries 6 alchemical grenades that deal either acid, cold, or fire damage plus 2 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] and 2 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage of the same type (typically two of each). The grenadier replenishes these each day using scavenged materials."
   - name: "Items"
-    desc: "Alchemist's Toolkit, Hand Crossbow (20 bolts), Studded Leather Armor"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], Hand Crossbow (20 bolts), Studded Leather Armor"
 ac: 21
 armorclass:
   - name: "AC"
@@ -50,11 +50,11 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fangs +12 (Agile, Finesse) __Damage__ 1d4 piercing"
+    desc: "⬻ fangs +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4 piercing"
   - name: "Ranged"
     desc: "⬻ hand crossbow +12 (range increment 60 feet, reload 1) __Damage__ 1d6 piercing"
   - name: "Ranged"
-    desc: "⬻ alchemical grenade +13 (range increment 20 feet, Splash) __Damage__ 2d6 acid, cold, or fire plus 2 persistent damage and 2 splash damage of the same type"
+    desc: "⬻ alchemical grenade +13 (range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]]) __Damage__ 2d6 acid, cold, or fire plus 2 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] and 2 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage of the same type"
 abilities_bot:
   - name: "Cheek Pouches"
     desc: "A ratfolk grenadier has stretchy cheek pouches that can store up to 1 cubic foot of objects (though no more than 4 light items). The ratfolk can remove or store an item using the Interact action. As long as the ratfolk has at least one object in their cheek pouches, their speech is noticeably difficult to understand."

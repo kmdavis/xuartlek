@@ -17,7 +17,7 @@ The mind's truths come not in learned words or mathematical formulas but in deep
 
 **Key Attribute** Your key attribute is Charisma.
 
-**Psyche Action** Restore the Mind
+**Psyche Action** [[srd/pf2e/compendium/rules-elements/actions/dark-archives-remastered#Restore the Mind|Restore the Mind]]
 
 *Source: Dark Archives (Remastered) p. 15*
 
@@ -29,7 +29,7 @@ Many psychics are self-taught, frantically improvising how to best control their
 
 **Key Attribute** Your key attribute is Intelligence.
 
-**Psyche Action** Recall the Teachings
+**Psyche Action** [[srd/pf2e/compendium/rules-elements/actions/dark-archives-remastered#Recall the Teachings|Recall the Teachings]]
 
 *Source: Dark Archives (Remastered) p. 15*
 
@@ -41,7 +41,7 @@ Determine intended outcome. Align thoughts. Identify and resolve distractions. M
 
 **Key Attribute** Your key attribute is Intelligence.
 
-**Psyche Action** Calculate Threats
+**Psyche Action** [[srd/pf2e/compendium/rules-elements/actions/dark-archives-remastered#Calculate Threats|Calculate Threats]]
 
 *Source: Dark Archives (Remastered) p. 16*
 
@@ -53,6 +53,6 @@ The subconscious is by definition buried below the surface. Thus, only by stripp
 
 **Key Attribute** Your key attribute is Charisma.
 
-**Psyche Action** Fade into Daydreams
+**Psyche Action** [[srd/pf2e/compendium/rules-elements/actions/dark-archives-remastered#Fade into Daydreams|Fade into Daydreams]]
 
 *Source: Dark Archives (Remastered) p. 16*

@@ -31,10 +31,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; darkvision"
-languages: "Common, Goblin"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Intimidation +13, Performance +13, Stealth +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
 abilityMods: [3, 2, 3, 0, -1, 4]
 ac: 21
 armorclass:
@@ -43,7 +43,7 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90 (4 segments); __Weaknesses__ area damage 5, splash damage 5 __Goblins Chant and Goblins Sing!__ (auditory, aura) 30 feet. The goblin get gang's disharmonious chorus of disturbing lyrics makes it difficult to concentrate. Any creature performing a concentrate action in the area must succeed at a DC 19 Will save or the action is lost. On a critical success, the creature is temporarily immune for 1 minute."
+    desc: "90 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5 __Goblins Chant and Goblins Sing!__ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]]) 30 feet. The goblin get gang's disharmonious chorus of disturbing lyrics makes it difficult to concentrate. Any creature performing a [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] action in the area must succeed at a DC 19 Will save or the action is lost. On a critical success, the creature is temporarily immune for 1 minute."
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""

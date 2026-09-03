@@ -20,10 +20,10 @@ source: "Rage of Elements"
 - **Price**: 750 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Exuviae powder comes from cast-off shells of cicada-like insects native to the Plane of Earth, crushed to dust. You sprinkle this powder over your body, leaving an iridescent layer reminiscent of insect chitin. After you do so, for 8 hours, you double the time you can hold your breath. During this time, you also have access to the shed chitin activation.
+Exuviae powder comes from cast-off shells of cicada-like insects native to the [[srd/pf2e/compendium/gm/planes#Plane of Earth|Plane of Earth]], crushed to dust. You sprinkle this powder over your body, leaving an iridescent layer reminiscent of insect chitin. After you do so, for 8 hours, you double the time you can hold your breath. During this time, you also have access to the shed chitin activation.
 
-**Activate—Shed Chitin** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Trigger** You would be petrified; **Effect** The powder petrifies like a shell around you instead, and its other effects end. The powder causes you to become quickened for 1 minute as well as doomed 1 and restrained (Escape DC 25). You can use the extra action each round only for Escape and Stride actions.
+**Activate—Shed Chitin** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You would be [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]]; **Effect** The powder petrifies like a shell around you instead, and its other effects end. The powder causes you to become [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] for 1 minute as well as doomed 1 and [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] (Escape DC 25). You can use the extra action each round only for Escape and Stride actions.
 
 *Source: Rage of Elements p. 98*

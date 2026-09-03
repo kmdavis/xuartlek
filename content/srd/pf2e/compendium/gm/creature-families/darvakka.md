@@ -10,7 +10,7 @@ source: "Monster Core 2"
 
 # Darvakka  *Creature Family*
 
-Darvakkas, also called nightshades, are a ravenous evil made up of equal parts darkness and malice. They form from creatures of the Outer Planes who travel to the convergence of the Netherworld and the Void, where the power of nothingness obliterates them. These undead abominations are the physical embodiment of entropy and burn with an intense hatred for all life, working to bring a final, dark night to the Universe where nothing but ash and ice remains.
+Darvakkas, also called nightshades, are a ravenous evil made up of equal parts darkness and malice. They form from creatures of the Outer Planes who travel to the convergence of [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]] and [[srd/pf2e/compendium/gm/planes#The Void|the Void]], where the power of nothingness obliterates them. These undead abominations are the physical embodiment of entropy and burn with an intense hatred for all life, working to bring a final, dark night to [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] where nothing but ash and ice remains.
 
  As creatures twisted by darkness and shadow, darvakkas have a great aversion to sunlight and all sources of life energy. When traveling in the Universe, they spend the hours of daylight hidden below ground, amid ruins, or submerged deep in the ocean's darkest chasms beyond the reach of the sun's rays, emerging whenever darkness shelters them overhead.
 
@@ -18,11 +18,11 @@ Darvakkas, also called nightshades, are a ravenous evil made up of equal parts d
 
 ### Members
 
-Nasurgeth (Creature 20), Sykever (Creature 15), Urveth (Creature 18), Vanyver (Creature 13)
+[[srd/pf2e/bestiary/monster-core-2/undead/nasurgeth|Nasurgeth]] (Creature 20), [[srd/pf2e/bestiary/monster-core-2/undead/sykever|Sykever]] (Creature 15), [[srd/pf2e/bestiary/monster-core-2/undead/urveth|Urveth]] (Creature 18), [[srd/pf2e/bestiary/monster-core-2/undead/vanyver|Vanyver]] (Creature 13)
 
 ### Creating Nothing
 
-Darvakkas are made from the quintessence, spiritual essence made manifest in physical form, of fiends cast into the void at reality’s end. The death of their immortal soul causes the creature to be consumed, catalyzing a change that scrambles them into an entirely new being that retains nothing of their previous self.
+Darvakkas are made from the quintessence, spiritual essence made manifest in physical form, of [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]] cast into the void at reality’s end. The death of their immortal soul causes the creature to be consumed, catalyzing a change that scrambles them into an entirely new being that retains nothing of their previous self.
 
 ### Other Darvakkas
 
@@ -30,6 +30,6 @@ The darvakkas presented on these pages aren’t the only ones of their kind. Oth
 
 ### The End of Reality
 
-In the deepest reaches of darkness, where the Netherworld and the Void meet, is a single fixed point where reality comes to an end. This planar juncture, a chasm of solid entropy formed into crystals by the weight of the infinite compressing eternally upon itself, is where darvakkas form.
+In the deepest reaches of darkness, where [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]] and [[srd/pf2e/compendium/gm/planes#The Void|the Void]] meet, is a single fixed point where reality comes to an end. This planar juncture, a chasm of solid entropy formed into crystals by the weight of the infinite compressing eternally upon itself, is where darvakkas form.
 
 *Source: Monster Core 2 p. 84*

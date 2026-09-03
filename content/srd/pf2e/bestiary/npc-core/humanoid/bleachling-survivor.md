@@ -31,14 +31,14 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; low-light vision"
-languages: "Common, Fey, Gnomish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]]"
 skills:
   - name: "Skills"
-    desc: "Intimidation +7, Medicine +8, Occultism +7, Survival +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +8, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
 abilityMods: [1, 1, 3, 1, 3, 1]
 abilities_top:
   - name: "Unflappable"
-    desc: "When the bleachling survivor rolls a critical failure on a check with the emotion trait, they get a failure instead."
+    desc: "When the bleachling survivor rolls a critical failure on a check with the [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] trait, they get a failure instead."
   - name: "Items"
     desc: "Dagger, Longbow (20 arrows)"
 ac: 17
@@ -59,16 +59,16 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +9 (Agile, Finesse, versatile S) __Damage__ 1d4+1 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+1 piercing"
   - name: "Melee"
-    desc: "⬻ fist +9 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ longbow +9 (deadly d10, range increment 100 feet, volley 30 feet, reload 0) __Damage__ 1d8 piercing"
+    desc: "⬻ longbow +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], range increment 100 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/volley|volley 30 feet]], reload 0) __Damage__ 1d8 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +9 (Agile, Finesse, thrown 10 feet, versatile S) __Damage__ 1d4+1 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+1 piercing"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "The bleachling survivor deals an extra 1d6 precision damage to off-guard creatures."
+    desc: "The bleachling survivor deals an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_NPC Core_, page 182."
 ```
 

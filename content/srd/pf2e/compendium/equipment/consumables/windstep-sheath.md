@@ -19,8 +19,8 @@ source: "Battlecry!"
 - **Price**: 101 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Carved of ash wood and decorated with images of clouds and gusting winds, a _windstep sheath_ is a small icon shaped like a weapon sheath or quiver. This whetstone is favored by duelists who like to take their foe by surprise. When you use the Quick Draw feat with a weapon under the effect of a _windstep sheath_, you can also Step as part of that action, either immediately before or after your Strike.
+Carved of ash wood and decorated with images of clouds and gusting winds, a _windstep sheath_ is a small icon shaped like a weapon sheath or quiver. This whetstone is favored by duelists who like to take their foe by surprise. When you use the [[srd/pf2e/compendium/feats/player-core/archetype/quick-draw|Quick Draw]] feat with a weapon under the effect of a _windstep sheath_, you can also [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] as part of that action, either immediately before or after your Strike.
 
 *Source: Battlecry! p. 137*

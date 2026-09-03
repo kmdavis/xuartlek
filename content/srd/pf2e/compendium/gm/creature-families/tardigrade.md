@@ -14,6 +14,6 @@ Tardigrades grow no larger than the width of a hair, but when their riverside en
 
 ### Members
 
-Giant Tardigrade (Creature 9), Tardigrade Swarm (Creature 12)
+[[srd/pf2e/bestiary/howl-of-the-wild/animal/giant-tardigrade|Giant Tardigrade]] (Creature 9), [[srd/pf2e/bestiary/howl-of-the-wild/animal/tardigrade-swarm|Tardigrade Swarm]] (Creature 12)
 
 *Source: Howl of the Wild p. 187*

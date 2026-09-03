@@ -29,10 +29,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +7, Sailing Lore +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] +6"
 abilityMods: [3, 4, 1, 0, 1, 0]
 abilities_top:
   - name: "Items"
@@ -48,20 +48,20 @@ health:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +9 (Agile, Finesse, versatile S) __Damage__ 1d4+3 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+3 piercing"
   - name: "Melee"
-    desc: "⬻ fist +9 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +9 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+3 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+3 piercing"
 abilities_bot:
   - name: "Death from Above"
     desc: "The rigger deals an additional 1d4 precision damage to any creature at a lower elevation than themself."
   - name: "Practiced Climber"
-    desc: "The rigger requires only one hand free to Climb and is not off-guard when Climbing."
+    desc: "The rigger requires only one hand free to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]] and is not [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] when Climbing."
   - name: "Rope Tension Spring"
-    desc: "⬺ (Manipulate, Move)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]])"
   - name: "Requirements"
-    desc: "The rigger is adjacent to a vertical rope on board a ship and is wielding a dagger"
+    desc: "The rigger is adjacent to a vertical rope on board a ship and is wielding a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]]"
   - name: "Effect"
     desc: "The rigger loops the rope around one arm and severs the rope with their dagger. Counterweight and tension pull the rigger 20 feet straight up."
 sourcebook: "_NPC Core_, page 146."

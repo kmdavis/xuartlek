@@ -29,11 +29,11 @@ perception:
     desc: "Perception +7; low-light vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Athletics +5, Stealth +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
 abilityMods: [2, 3, 1, -4, 2, -2]
 abilities_top:
   - name: "Uncanny Climber"
-    desc: "A giant gecko's feet allow it to climb virtually any surface, no matter how slick or sheer. If a giant gecko attempts an Athletics check to Climb and critically fails, it gets a failure instead."
+    desc: "A giant gecko's feet allow it to climb virtually any surface, no matter how slick or sheer. If a giant gecko attempts an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]] and critically fails, it gets a failure instead."
 ac: 16
 armorclass:
   - name: "AC"

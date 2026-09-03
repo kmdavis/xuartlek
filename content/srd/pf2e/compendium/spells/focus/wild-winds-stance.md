@@ -21,7 +21,7 @@ source: "Player Core 2"
 
 - **Duration**: until you leave the stance
 
-You take on the stance of the flowing winds, sending out waves of energy at a distance. You can make wind crash unarmed Strikes as ranged Strikes against targets within 30 feet. These deal 1d6 bludgeoning damage; are in the brawling group; and have the agile, nonlethal, propulsive, and unarmed traits. Wind crash Strikes ignore concealment and all cover.
+You take on the stance of the flowing winds, sending out waves of energy at a distance. You can make wind crash unarmed Strikes as ranged Strikes against targets within 30 feet. These deal 1d6 bludgeoning damage; are in the brawling group; and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|propulsive]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits. Wind crash Strikes ignore [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealment]] and all cover.
 
  While in wild winds stance, you gain a +2 circumstance bonus to AC against ranged attacks.
 

@@ -72,22 +72,22 @@ When deciding what heritages and feats to take that represent your animal, start
 
 #### Animal Attacks
 
- Your heritage gives you a special unarmed attack instead of the fist unarmed attack humanoids typically gain. This attack is in the brawling weapon group. Work with your GM to determine which one you have, using the type of animal you are and suggestions in your heritage for guidance. For example, you might choose a beak, talon, or wing for an eagle, a fist or tail for a monkey, or a tongue or jaws for a toad.
+ Your heritage gives you a special [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack instead of the [[srd/pf2e/compendium/equipment/weapons/brawling/fist|fist]] unarmed attack humanoids typically gain. This attack is in the brawling weapon group. Work with your GM to determine which one you have, using the type of animal you are and suggestions in your heritage for guidance. For example, you might choose a beak, talon, or wing for an eagle, a fist or tail for a monkey, or a tongue or jaws for a toad.
 
 ## 
 
 Unarmed AttackDamageTraits
-Antler1d6 PFinesse, unarmed
-Beak1d6 PFinesse, unarmed
-Claw1d4 SAgile, finesse, unarmed
-Fangs1d6 PFinesse, unarmed
-Fist1d4 BAgile, finesse, nonlethal, unarmed
-Horn1d6 PFinesse, unarmed
-Jaws1d6 PFinesse, unarmed
-Tail1d6 BFinesse, trip, unarmed
-Talon1d4 PAgile, finesse, unarmed
-Tongue1d6 BFinesse, unarmed
-Wing1d4 BAgile, finesse, unarmed
+Antler1d6 P[[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
+Beak1d6 P[[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
+Claw1d4 S[[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
+Fangs1d6 P[[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
+Fist1d4 B[[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
+Horn1d6 P[[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
+Jaws1d6 P[[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
+Tail1d6 B[[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
+Talon1d4 P[[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
+Tongue1d6 B[[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
+Wing1d4 B[[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]
 
 ### Awakened Animal Mechanics
 
@@ -106,7 +106,7 @@ Wing1d4 BAgile, finesse, unarmed
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
 Additional languages equal to your Intelligence modifier (if it's positive). Choose from the list of common languages and any other languages to which you have access (such as the languages prevalent in your region).
 
@@ -116,6 +116,6 @@ Awakening altered your form, enabling you to speak verbally and stand on two leg
 
 #### Awakened Mind
 
-Awakening altered your mind. You are no longer an animal, but you can still ask questions of, receive answers from, and use the Diplomacy skill with animals of your kind. By remembering your instincts, you can allow yourself to be affected by spells and other effects as though you were an animal.
+Awakening altered your mind. You are no longer an animal, but you can still ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with animals of your kind. By remembering your instincts, you can allow yourself to be affected by spells and other effects as though you were an [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]].
 
 *Source: Howl of the Wild p. 22*

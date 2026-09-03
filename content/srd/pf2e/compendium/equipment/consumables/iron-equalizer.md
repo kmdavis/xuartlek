@@ -18,9 +18,9 @@ source: "Player Core 2"
 
 - **Price**: 400 gp
 - **Usage**: affixed to a melee weapon
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This small iron band has a shifting weight that helps equalize the affixed weapon's balance. When you activate it, you use Certain Strike, as the fighter feat. You must meet the normal requirements, including those of the press trait. 
+This small iron band has a shifting weight that helps equalize the affixed weapon's balance. When you activate it, you use [[srd/pf2e/compendium/feats/player-core/class/certain-strike|Certain Strike]], as the fighter feat. You must meet the normal requirements, including those of the [[srd/pf2e/compendium/rules-elements/traits/player-core/press|press]] trait. 
 
 If you have the Certain Strike feat, the failure effect increases to deal the weapon's normal damage.
 

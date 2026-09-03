@@ -27,19 +27,19 @@ Champions care deeply about the edicts and anathema they take from their deity, 
 
  Similarly, using items, spells, or actions that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, assisting with a ritual that raises undead would be anathema to Pharasma, the goddess of death. Many actions that are anathema don't appear in any deity's formal list. For borderline cases, you and your GM determine which acts are anathema.
 
- If you perform enough acts that are anathema to your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your holy or unholy trait, your focus pool, and your blessing of the devoted. These abilities can be regained only if you repent by conducting an _atone_ ritual. If your deity doesn't require the specific sanctification you had, your GM might let you retrain your sanctification and cause while still following the same deity. 
+ If you perform enough acts that are anathema to your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your holy or unholy trait, your focus pool, and your blessing of the devoted. These abilities can be regained only if you repent by conducting an [[srd/pf2e/compendium/spells/rituals/atone|_atone_]] ritual. If your deity doesn't require the specific sanctification you had, your GM might let you retrain your sanctification and cause while still following the same deity. 
 
 #### Sanctification
 
- Depending on your deity, their sanctification can make you holy or unholy. This commits you to one side of a struggle over souls. Whether you become holy, unholy, or neither will limit your choice of causes, devotion spells, and feats.
+ Depending on your deity, their sanctification can make you [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]. This commits you to one side of a struggle over souls. Whether you become holy, unholy, or neither will limit your choice of causes, devotion spells, and feats.
 
  If you “can be” holy or unholy according to your deity's sanctification entry, you make that choice, and if you “must be” holy or unholy, you gain the trait automatically. If the deity lists “none,” you can choose only options that don't require the holy or unholy trait. If you are holy or unholy and gain the opposing trait in some way, you lose the previous trait until you _atone_.
 
  Unholy sanctification for a champion can be extremely disruptive to a typical game and should be a player character option only in appropriate adventures or campaigns where the group collectively decides to embrace them. Unholy sanctification and causes are uncommon options. 
 
-**Holy:** You gain the holy trait and add that trait to any Strikes you make. You gain the edict, “Do not knowingly harm innocents or fail to prevent harm to an innocent if your direct intervention could save them” and the anathema “Commit murder.” Even if your game includes behavior outside the Pathfinder baseline, the acts listed there are anathema to you. 
+**Holy:** You gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait and add that trait to any Strikes you make. You gain the edict, “Do not knowingly harm innocents or fail to prevent harm to an innocent if your direct intervention could save them” and the anathema “Commit murder.” Even if your game includes behavior outside the Pathfinder [[srd/pf2e/books/player-core/chapter-8-playing-the-game/the-pathfinder-baseline|baseline]], the acts listed there are anathema to you. 
 
-**Unholy:** You gain the unholy trait and add that trait to any Strikes you make. You gain the edict, “Do not put another's needs before your own or those of your deity” and the anathema “Commit an entirely altruistic act, such as giving something away in charity” and “Put anyone's needs before those of your deity.” None of these prevents you from performing acts others might consider helpful, but these acts must be done with the expectation that they ultimately further your own goals or those of your deity. 
+**Unholy:** You gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait and add that trait to any Strikes you make. You gain the edict, “Do not put another's needs before your own or those of your deity” and the anathema “Commit an entirely altruistic act, such as giving something away in charity” and “Put anyone's needs before those of your deity.” None of these prevents you from performing acts others might consider helpful, but these acts must be done with the expectation that they ultimately further your own goals or those of your deity. 
 
 #### Deific Weapon
 
@@ -47,6 +47,6 @@ Champions care deeply about the edicts and anathema they take from their deity, 
 
 #### Champion's Aura
 
- You're surrounded by an aura in a 15-foot emanation. It has the aura and divine traits. Any follower of your deity within the aura immediately knows you're a champion of your deity. This aura is used as the range for your champion's reaction and for various other effects. You can suppress or resume the aura as a single action, which has the concentrate trait, and it ends if you fall unconscious.
+ You're surrounded by an aura in a 15-foot emanation. It has the [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] traits. Any follower of your deity within the aura immediately knows you're a champion of your deity. This aura is used as the range for your champion's reaction and for various other effects. You can suppress or resume the aura as a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, and it ends if you fall unconscious.
 
 *Source: Player Core 2 p. 86*

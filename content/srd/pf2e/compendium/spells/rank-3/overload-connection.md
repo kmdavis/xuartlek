@@ -19,9 +19,9 @@ source: "Impossible Magic"
 - **Traditions**: Arcane, Occult
 - **Range**: 60 feet
 - **Target**: your familiar
-- **Duration**: sustained up to 1 minute
+- **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
-Typically, the connection between a familiar and its master carries subtle mental magic only felt between the two. Some casters learn to empower this magic, blasting scrambled lines of their mental conversations to any target between them. When you Cast this Spell and the first time you Sustain this spell on subsequent turns, this magical connection flares in a line between you and your familiar, dealing 3d8 mental damage to all creatures in the line, with a basic Reflex save.
+Typically, the connection between a familiar and its master carries subtle mental magic only felt between the two. Some casters learn to empower this magic, blasting scrambled lines of their mental conversations to any target between them. When you Cast this Spell and the first time you Sustain this spell on subsequent turns, this magical connection flares in a line between you and your familiar, dealing 3d8 mental damage to all creatures in the line, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save.
 
 ---
 **Heightened (+1)** The damage increases by 1d8.

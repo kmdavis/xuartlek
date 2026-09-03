@@ -21,7 +21,7 @@ source: "Impossible Magic"
 - **Target**: 1 creature
 - **Defense**: Reflex
 
-You mark a creature with a temporary rune that calls a devastating meteor to spawn and seek them out. The meteor collides with the target, dealing 8d12 bludgeoning damage with a basic Reflex save. The number of actions you spend when Casting this Spell determines other parameters. 
+You mark a creature with a temporary rune that calls a devastating meteor to spawn and seek them out. The meteor collides with the target, dealing 8d12 bludgeoning damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The number of actions you spend when Casting this Spell determines other parameters. 
 
 [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") The rune appears on 1 creature in range, and the meteor targets that creature. The rune fades away after the meteor falls. 
 [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") Runes appear on up to 3 different creatures within range, and a meteor targets each of these creatures. The rune fades away after the meteor falls.

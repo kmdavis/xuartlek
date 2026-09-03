@@ -18,12 +18,12 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Mental`  `Uncommon`
 
-- **Domain**: Freedom
+- **Domain**: [[srd/pf2e/compendium/character/domains#Freedom|Freedom]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Duration**: 1 round
 
-You utter a liberating word of power that frees a creature. You suppress one of the following conditions of your choice: confused, frightened, grabbed, paralyzed, or restrained. The target isn't affected by the chosen condition, and if you suppress the grabbed or restrained condition, the target automatically breaks free from the grab or restraint when you Cast the Spell.
+You utter a liberating word of power that frees a creature. You suppress one of the following conditions of your choice: [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]. The target isn't affected by the chosen condition, and if you suppress the grabbed or restrained condition, the target automatically breaks free from the grab or restraint when you Cast the Spell.
 
  If you don't remove the effect that provided the condition, the condition returns after the spell ends. For example, if a spell was making the target confused for 1 minute, _word of freedom_ would let the target act normally for a round, but the confused condition would return afterward.
 

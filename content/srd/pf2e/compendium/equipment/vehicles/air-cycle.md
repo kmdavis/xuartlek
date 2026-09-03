@@ -26,7 +26,7 @@ This clockwork vehicle consists of a small wheeled platform under a pair of wing
 
 **Passengers** 1
 
-**Piloting Check** Athletics (DC 21) or Piloting Lore (DC 19)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] (DC 21) or [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] (DC 19)
 
 ---
 
@@ -38,11 +38,11 @@ This clockwork vehicle consists of a small wheeled platform under a pair of wing
 
 **HP** 50 (BT 25)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
 ---
 
-**Speed** fly 25 feet (clockwork, wind)
+**Speed** fly 25 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]], wind)
 
 **Collision** 2d10 (DC 19)
 

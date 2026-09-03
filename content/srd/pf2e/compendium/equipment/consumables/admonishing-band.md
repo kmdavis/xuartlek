@@ -18,9 +18,9 @@ source: "Guns & Gears (Remastered)"
 
 - **Price**: 20 gp
 - **Usage**: affixed to a firearm
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") concentrate
-- **Requirement**: You're trained in Intimidation.
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]
+- **Requirement**: You're trained in [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]].
 
-This wide strip of treated lizard hide is wrapped around the grip or stock of the affixed weapon, augmenting the unease that your gunshot creates. When you activate it, you fire your gun into the air with the effects of Warning Shot. If you already have the Warning Shot feat, the target doesn't become temporarily immune to your Demoralize, potentially allowing you to Demoralize them again.
+This wide strip of treated lizard hide is wrapped around the grip or stock of the affixed weapon, augmenting the unease that your gunshot creates. When you activate it, you fire your gun into the air with the effects of [[srd/pf2e/compendium/feats/guns-gears-remastered/class/warning-shot|Warning Shot]]. If you already have the Warning Shot feat, the target doesn't become temporarily immune to your Demoralize, potentially allowing you to Demoralize them again.
 
 *Source: Guns & Gears (Remastered) p. 184*

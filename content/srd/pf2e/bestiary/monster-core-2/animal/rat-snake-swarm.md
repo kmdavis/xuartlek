@@ -31,7 +31,7 @@ perception:
     desc: "Perception +8; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Stealth +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
 abilityMods: [0, 4, 2, -4, 2, -3]
 ac: 16
 armorclass:
@@ -40,18 +40,18 @@ armorclass:
 hp: 25
 health:
   - name: "HP"
-    desc: "25; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 3, piercing 5, slashing 5; __Weaknesses__ area damage 3, splash damage 3"
+    desc: "25; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 3, piercing 5, slashing 5; __Weaknesses__ area damage 3, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 3"
 abilities_mid:
   - name: "Mass Wriggle"
     desc: "⬲"
   - name: "Trigger"
     desc: "The rat snake swarm takes damage from a melee Strike"
   - name: "Effect"
-    desc: "Snakes slither up and around the creature's weapon and limbs. The target must succeed at a DC 15 Will save or become frightened 1."
+    desc: "Snakes slither up and around the creature's weapon and limbs. The target must succeed at a DC 15 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1."
 speed: "20 feet, climb 20 feet, swim 20 feet"
 abilities_bot:
   - name: "Swarming Strikes"
-    desc: "⬻ Each enemy in the swarm's space takes 1d8 piercing damage (DC 17 basic Reflex save). Slithering Packs Despite their solitary natures, snakes come together in swarms for purposes of hibernation or mating. However, a few species have learned to stick together and coordinate their hunting efforts, leading to slithering packs of predatory snakes."
+    desc: "⬻ Each enemy in the swarm's space takes 1d8 piercing damage (DC 17 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). Slithering Packs Despite their solitary natures, snakes come together in swarms for purposes of hibernation or mating. However, a few species have learned to stick together and coordinate their hunting efforts, leading to slithering packs of predatory snakes."
 sourcebook: "_Monster Core 2_, page 294."
 ```
 

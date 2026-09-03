@@ -19,8 +19,8 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn headwear
 - **Bulk**: L
 
-A small, feathered wing is attached to either side of this ornate brass helmet. A visor on the front lowers to cover your face. While wearing the _cassisian helmet_, you gain a +1 status bonus to AC and saves against unholy creatures and effects.
+A small, feathered wing is attached to either side of this ornate brass helmet. A visor on the front lowers to cover your face. While wearing the _cassisian helmet_, you gain a +1 status bonus to AC and saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] creatures and effects.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per hour; **Effect** Lowering the visor, you send out eye beams that deal your choice of 2d6 cold or fire damage (DC 20 basic Reflex save) to all creatures in a 15-foot line.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** Lowering the visor, you send out eye beams that deal your choice of 2d6 cold or fire damage (DC 20 basic Reflex save) to all creatures in a 15-foot line.
 
 *Source: Treasure Vault (Remastered) p. 151*

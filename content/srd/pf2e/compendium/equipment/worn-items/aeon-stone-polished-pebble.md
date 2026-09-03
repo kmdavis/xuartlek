@@ -168,7 +168,7 @@ This _aeon stone_ must be activated to provide a benefit.
 
 **Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") envision, Interact; **Effect** You activate the aeon stone to gain the effects of a 1st-level _illusory disguise_.
 
- The resonant power allows you to render all of your _aeon stones_ and your _wayfinder_ invisible whenever you use the activation to gain the effects of _illusory disguise_.
+ The resonant power allows you to render all of your _aeon stones_ and your _wayfinder_ [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] whenever you use the activation to gain the effects of _illusory disguise_.
 
 ### Aeon Stone (Clear Quartz Octagon)
 
@@ -178,7 +178,7 @@ This _aeon stone_ must be activated to provide a benefit.
 
 ---
 
-This clear quartz stone appears to have been smashed and then repaired by pouring molten copper into the cracks and fitting the shards back together using the copper as a sort of mortar. When a non-magical item in your possession with a value of 90 gp or less and a Bulk of 1 Bulk or less would become broken, this _aeon stone_ automatically activates, preventing the item from breaking by restoring the item's current Hit Points to the item's maximum Hit Points. The stone then turns permanently into a _dull gray aeon stone_.
+This clear quartz stone appears to have been smashed and then repaired by pouring molten copper into the cracks and fitting the shards back together using the copper as a sort of mortar. When a non-magical item in your possession with a value of 90 gp or less and a Bulk of 1 Bulk or less would become [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]], this _aeon stone_ automatically activates, preventing the item from breaking by restoring the item's current Hit Points to the item's maximum Hit Points. The stone then turns permanently into a _dull gray aeon stone_.
 
  The stone's resonant power allows you to cast 1st-level _mending_ as a divine innate spell once per day.
 
@@ -188,7 +188,7 @@ This clear quartz stone appears to have been smashed and then repaired by pourin
 
 ---
 
-If you are undead, your body regains much of the appearance it had in life, and you gain a +2 item bonus to Deception to Impersonate yourself as a living creature. If you're alive, your appearance is the healthiest version of yourself, and you gain a +2 item bonus to Make an Impression or Request that involves your strength or vigor.
+If you are [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]], your body regains much of the appearance it had in life, and you gain a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] to Impersonate yourself as a living creature. If you're alive, your appearance is the healthiest version of yourself, and you gain a +2 item bonus to Make an Impression or Request that involves your strength or vigor.
 
  The resonant power of the _amber sphere_ grants you a special activation to improve your salubrious appearance to a lurid extreme.
 
@@ -210,7 +210,7 @@ This _aeon stone_ slowly infuses negative energy into your body. The stone deals
 
 ---
 
-This _aeon stone_ alters your life force. You gain negative healing, which means you are damaged by positive energy and not healed by positive healing effects. You don't take negative damage, and you are healed by negative effects that heal undead.
+This _aeon stone_ alters your life force. You gain negative healing, which means you are damaged by positive energy and not healed by positive [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] effects. You don't take negative damage, and you are healed by negative effects that heal [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]].
 
  The resonant power allows you to cast 7th-level _false life_ once per day.
 
@@ -224,7 +224,7 @@ While this _aeon stone_ orbits your head, the flat part of its base tumbles to b
 
 **Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") envision; **Effect** The _aeon stone_ captures the image of a creature of your size that you can see within 30 feet. It can have up to 3 images captured at a time; if you capture a fourth, you decide which image it replaces.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") envision; **Frequency** three times per day; **Requirements** The prism is storing at least one image of a creature of your size; **Effect** The _aeon stone_ casts a 3rd-level _illusory disguise_ on you, which must be of one of the creatures it has currently captured. While you are under the effects of this spell, the _aeon stone_ is invisible.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") envision; **Frequency** three times per day; **Requirements** The prism is storing at least one image of a creature of your size; **Effect** The _aeon stone_ casts a 3rd-level _illusory disguise_ on you, which must be of one of the creatures it has currently captured. While you are under the effects of this spell, the _aeon stone_ is [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]].
 The resonant power allows the stone to capture up to 5 images. If removed from the _wayfinder_, you must decide which images to lose.
 
 ### Aeon Stone (Cymophane Cabochon)
@@ -245,9 +245,9 @@ Jabalis use the _cymophane cabochon aeon stone_ to keep an eye on their belongin
 
 ---
 
-An _olivine pendeloque aeon stone_ imparts the calmness of still earth and a solidity of thought, granting you a +3 item bonus to saving throws against effects that cause the confused, frightened, or stupefied conditions.
+An _olivine pendeloque aeon stone_ imparts the calmness of still earth and a solidity of thought, granting you a +3 item bonus to saving throws against effects that cause the [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], or [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] conditions.
 
-**Activate—Still Earth** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per hour; **Trigger** You become confused, frightened, or stupefied; **Effect** The stone suppresses the triggering effect for 1 minute, but the calming urges impose a –1 status penalty to your attack rolls.
+**Activate—Still Earth** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Trigger** You become confused, frightened, or stupefied; **Effect** The stone suppresses the triggering effect for 1 minute, but the calming urges impose a –1 status penalty to your attack rolls.
 
 ### Aeon Stone (Polished Pebble)
 

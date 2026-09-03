@@ -14,6 +14,6 @@ _Nethys Note: This entry did not have a separate description for the family_
 
 ### Members
 
-Chaos Falcon (Creature 10), Phoenix (Creature 15), Thunderbird (Creature 11), Tidehawk (Creature 12)
+[[srd/pf2e/bestiary/howl-of-the-wild/beast/chaos-falcon|Chaos Falcon]] (Creature 10), [[srd/pf2e/bestiary/monster-core/beast/phoenix|Phoenix]] (Creature 15), Thunderbird (Creature 11), Tidehawk (Creature 12)
 
 *Source: Howl of the Wild p. 143*

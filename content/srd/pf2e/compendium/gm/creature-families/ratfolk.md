@@ -18,7 +18,7 @@ True to their name, ratfolk are rodent-like humanoids well suited to living on t
 
 ### Members
 
-Bone Mother (Creature 6), Ratfolk Grenadier (Creature 4), Ratfolk Shank Squad (Creature 7), Swarm Voice (Creature 3), Tunnel Viper (Creature 1)
+[[srd/pf2e/bestiary/npc-core/humanoid/bone-mother|Bone Mother]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/ratfolk-grenadier|Ratfolk Grenadier]] (Creature 4), [[srd/pf2e/bestiary/battlecry/humanoid/ratfolk-shank-squad|Ratfolk Shank Squad]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/swarm-voice|Swarm Voice]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/tunnel-viper|Tunnel Viper]] (Creature 1)
 
 ### Vast Warrens and Hidden Homes
 
@@ -26,6 +26,6 @@ On Golarion, ysoki are most numerous in the Darklands below the continent of Tia
 
 ### Ysoki Snares
 
-Although not so fond of them as kobolds, it's common for ratfolk to use snares and traps to defend their warrens. The placement and triggers for permanent traps are carefully considered to avoid wandering ysoki, especially children. Snares or even simple caltrops are often preferred as an alternative, deployed when the warren is threatened.
+Although not so fond of them as [[srd/pf2e/compendium/gm/creature-families/kobold|kobolds]], it's common for ratfolk to use snares and traps to defend their warrens. The placement and triggers for permanent traps are carefully considered to avoid wandering ysoki, especially children. [[srd/pf2e/compendium/rules-elements/traits/player-core-2/snare|Snares]] or even simple [[srd/pf2e/compendium/equipment/adventuring-gear/caltrops|caltrops]] are often preferred as an alternative, deployed when the warren is threatened.
 
 *Source: Monster Core p. 289*

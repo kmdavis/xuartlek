@@ -10,7 +10,7 @@ source: "Monster Core 2"
 
 # Owb  *Creature Family*
 
-These ancient denizens of the Netherworld appear as grayish humanoid torsos covered in translucent funereal veils of shadow. Silent and mysterious, they float about, absent of legs to hold them aloft. Never speaking a word aloud, they instead reach into the minds of nearby creatures to whisper curses, threats, and strange bits of forlorn augury.
+These ancient denizens of [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]] appear as grayish humanoid torsos covered in translucent funereal veils of shadow. Silent and mysterious, they float about, absent of legs to hold them aloft. Never speaking a word aloud, they instead reach into the minds of nearby creatures to whisper curses, threats, and strange bits of forlorn augury.
 
  These haunting creatures are revered by calignis as proxies of the Forsaken—a strange array of ancestor-like demigods whom many calignis worship. Some even believe owbs are the Forsaken manifested, and that they are able to subtly manipulate creatures on the Netherworld without leaving behind any indication.
 
@@ -18,6 +18,6 @@ These ancient denizens of the Netherworld appear as grayish humanoid torsos cove
 
 ### Members
 
-Owb (Creature 6), Owb Prophet (Creature 13)
+[[srd/pf2e/bestiary/monster-core-2/other/owb|Owb]] (Creature 6), [[srd/pf2e/bestiary/monster-core-2/other/owb-prophet|Owb Prophet]] (Creature 13)
 
 *Source: Monster Core 2 p. 246*

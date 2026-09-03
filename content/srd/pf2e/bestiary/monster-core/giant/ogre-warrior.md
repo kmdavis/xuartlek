@@ -29,10 +29,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; darkvision"
-languages: "Jotun"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Intimidation +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9"
 abilityMods: [5, -1, 4, -2, 0, -2]
 abilities_top:
   - name: "Items"
@@ -48,9 +48,9 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ ogre hook +12 (deadly d10, reach 10 feet, Trip) __Damage__ 1d10+7 piercing"
+    desc: "⬻ ogre hook +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d10+7 piercing"
   - name: "Ranged"
-    desc: "⬻ javelin +6 (thrown 30 feet) __Damage__ 1d6+7 piercing"
+    desc: "⬻ javelin +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 1d6+7 piercing"
 sourcebook: "_Monster Core_, page 250."
 ```
 

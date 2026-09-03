@@ -57,11 +57,11 @@ Agna, Bodill, Edrukk, Grunyar, Ingra, Kotri, Morgrym, Rogar, Torra, Yangrit
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
-Dwarven
+[[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Gnomish, Goblin, Jotun, Orcish, Petran, Sakvroth, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 | | |
 | --- | --- |

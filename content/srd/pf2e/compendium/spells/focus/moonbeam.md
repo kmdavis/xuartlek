@@ -21,14 +21,14 @@ source: "Player Core"
 
 `Attack`  `Cleric`  `Concentrate`  `Fire`  `Focus`  `Light`  `Manipulate`  `Uncommon`
 
-- **Domain**: Moon
+- **Domain**: [[srd/pf2e/compendium/character/domains#Moon|Moon]]
 - **Range**: 120 feet
 - **Target**: 1 creature
 - **Defense**: AC
 
 You shine a ray of moonlight. Make a spell attack roll. The beam of light deals 2d6 fire damage. This is silver damage for the purposes of weaknesses, resistances, and the like.
 
-**Critical Success** The beam deals double damage, and the target is dazzled for 1 minute.
+**Critical Success** The beam deals double damage, and the target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 minute.
 
 **Success** The beam deals full damage, and the target is dazzled for 1 round.
 

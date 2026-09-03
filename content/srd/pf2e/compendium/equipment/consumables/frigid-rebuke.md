@@ -21,6 +21,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-Rust and frost eat away at the surface of this broken dagger. When you add it to a __blistering invective__ spell, you instead deliver icy words of disinterest or scorn. This causes the spell to deal cold damage instead of fire.
+Rust and frost eat away at the surface of this broken dagger. When you add it to a _[[srd/pf2e/compendium/spells/rank-2/blistering-invective|_blistering invective_]]_ spell, you instead deliver icy words of disinterest or scorn. This causes the spell to deal cold damage instead of fire.
 
 *Source: Impossible Magic p. 215*

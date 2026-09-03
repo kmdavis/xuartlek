@@ -16,7 +16,7 @@ citation: "Player Core pg. 397"
 
 <sup>PC1 p. 397</sup>
 
-At this point, you have a character and are ready to play Pathfinder! Or maybe you're the GM and you're getting ready to run your first adventure. Either way, this chapter provides the full details for the rules outlined in [[srd/pf2e/books/player-core/chapter-1-introduction|Chapter 1]]. This chapter begins by describing the general rules and conventions of how the game is played and then presents more in-depth explanations of the rules for each mode of play.
+At this point, you have a character and are ready to play Pathfinder! Or maybe you're the GM and you're getting ready to run your first adventure. Either way, this chapter provides the full details for the rules outlined in [[srd/pf2e/books/player-core/chapter-1-introduction/index|Chapter 1]]. This chapter begins by describing the general rules and conventions of how the game is played and then presents more in-depth explanations of the rules for each mode of play.
 
 Before diving into how to play Pathfinder, it's important to understand the game's three modes of play, which determine the pace of your adventure and the specific rules you'll use at a given time. Each mode provides a different pace and presents a different level of risk to your characters. The Game Master (GM) determines which mode works best for the story and controls the transition between them. You'll likely talk about the modes less formally during your play session, simply transitioning between exploration and encounters during the adventure, before heading to a settlement to achieve something during downtime.
 

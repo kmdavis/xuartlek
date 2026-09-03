@@ -13,13 +13,13 @@ source: "Impossible Magic"
 
 - **Class**: Necromancer
 
-Your studies into the nature of life and death have resulted in the ability to cast occult spells. You are a spellcaster, and you can cast spells of the occult tradition using the Cast a Spell activity. As a necromancer, your chants are generally inspired by laments, requiems, and other rites for the dead, while your gestures evoke the unnatural movement of muscle and cracking of bone.
+Your studies into the nature of life and death have resulted in the ability to cast occult spells. You are a spellcaster, and you can cast spells of the occult tradition using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] activity. As a necromancer, your chants are generally inspired by laments, requiems, and other rites for the dead, while your gestures evoke the unnatural movement of muscle and cracking of bone.
 
  At 1st level, you can prepare one 1st-rank spell and five cantrips each morning from your dirge (see below). Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare each day is called your spell slots.
 
  As you increase in level as a necromancer, the number of spells you can prepare each day increases, as does the highest rank of spell you can cast, as shown in the Necromancer Spells per Day table.
 
- Some of your spells require you to attempt a spell attack to see how effective they are or for your enemies to roll against your spell DC (typically by attempting a saving throw). Since your key attribute is Intelligence, your spell attack modifier and spell DC use your Intelligence modifier. 
+ Some of your spells require you to attempt a spell attack to see how effective they are or for your enemies to roll against your spell DC (typically by attempting a saving throw). Since your key attribute is Intelligence, your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|spell attack modifier]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell DC|spell DC]] use your Intelligence modifier. 
 
 #### Heightening Spells
 
@@ -31,8 +31,8 @@ Some of your spells are cantrips. A cantrip is a special type of spell that does
 
 #### Dirge
 
- Your occult spells become a part of an internal dirge that echoes throughout your body, bones, and even your spirit. Each day, to prepare your spells, you pull forth pieces of your dirge to vocalize. Your dirge contains your choice of eight occult cantrips, the 1st-rank spell harm, and four other 1st-rank occult spells of your choice. You choose these from the common spells on the occult spell list or from other occult spells you gain access to. You can prepare and cast _harm_ as an occult spell.
+ Your occult spells become a part of an internal dirge that echoes throughout your body, bones, and even your spirit. Each day, to prepare your spells, you pull forth pieces of your dirge to vocalize. Your dirge contains your choice of eight occult cantrips, the 1st-rank spell harm, and four other 1st-rank occult spells of your choice. You choose these from the common spells on the occult spell list or from other occult spells you gain access to. You can prepare and cast [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] as an occult spell.
 
- Each time you gain a level, you add two occult spells to your dirge, of any spell rank for which you have spell slots, chosen from common occult spells or others you gain access to and learn via Learn a Spell.
+ Each time you gain a level, you add two occult spells to your dirge, of any spell rank for which you have spell slots, chosen from common occult spells or others you gain access to and learn via [[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]].
 
 *Source: Impossible Magic p. 27*

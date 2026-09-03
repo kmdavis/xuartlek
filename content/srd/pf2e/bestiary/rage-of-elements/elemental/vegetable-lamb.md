@@ -33,11 +33,11 @@ perception:
     desc: "Perception +4"
 skills:
   - name: "Skills"
-    desc: "Athletics +5, Nature +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +6"
 abilityMods: [3, 1, 2, -4, 0, 3]
 abilities_top:
   - name: "Nature's Bounty"
-    desc: "(healing, plant, primal, vitality) Each day, a vegetable lamb grows 1d4 edible flowers (such as artichoke, broccoli, or dandelion) among the green cotton covering its body. These vegetables can be picked without hurting the lamb. A living creature can eat the vegetable with an Interact action to regain 1d6+4 Hit Points."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) Each day, a vegetable lamb grows 1d4 edible flowers (such as artichoke, broccoli, or dandelion) among the green cotton covering its body. These vegetables can be picked without hurting the lamb. A living creature can eat the vegetable with an Interact action to regain 1d6+4 Hit Points."
 ac: 14
 armorclass:
   - name: "AC"
@@ -45,7 +45,7 @@ armorclass:
 hp: 28
 health:
   - name: "HP"
-    desc: "28; __Immunities__ bleed, paralyzed, poison, sleep; __Weaknesses__ fire 3, slashing 2"
+    desc: "28; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 3, slashing 2"
 speed: "20 feet"
 attacks:
   - name: "Melee"

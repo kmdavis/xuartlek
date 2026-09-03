@@ -29,16 +29,16 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Accounting Lore +5, Alcohol Lore +7, Cooking Lore +5, Deception +6, Diplomacy +6, Society +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/lore|Accounting Lore]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Alcohol Lore]] +7, [[srd/pf2e/compendium/rules-elements/skills/lore|Cooking Lore]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +6, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +7"
 abilityMods: [2, 0, 0, 2, 2, 3]
 abilities_top:
   - name: "Font of Gossip"
-    desc: "The innkeeper's business gives them insight into the neighborhood's happenings. A person can Gather Information from an innkeeper in 30 minutes rather than canvassing an entire neighborhood. Each person can learn gossip from an innkeeper only once per day, and only if the innkeeper is friendly or helpful to that individual. Whatever information the innkeeper knows about a given topic doesn't change if someone else asks the innkeeper about that topic, unless the innkeeper has since learned more."
+    desc: "The innkeeper's business gives them insight into the neighborhood's happenings. A person can [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]] from an innkeeper in 30 minutes rather than canvassing an entire neighborhood. Each person can learn gossip from an innkeeper only once per day, and only if the innkeeper is [[srd/pf2e/compendium/rules-elements/conditions#Friendly|friendly]] or [[srd/pf2e/compendium/rules-elements/conditions#Helpful|helpful]] to that individual. Whatever information the innkeeper knows about a given topic doesn't change if someone else asks the innkeeper about that topic, unless the innkeeper has since learned more."
   - name: "Items"
-    desc: "broom (functions as a staff), innkeeper's apron (functions as leather armor), ledger, pewter mug"
+    desc: "broom (functions as a [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]), innkeeper's apron (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), ledger, pewter mug"
 ac: 14
 armorclass:
   - name: "AC"
@@ -50,16 +50,16 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ broom +7 (two-hand d8) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ broom +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +7 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ pewter mug +5 (thrown 10 feet) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ pewter mug +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d4+2 bludgeoning"
 abilities_bot:
   - name: "Home Base Brawler"
-    desc: "The innkeeper knows how to settle fights that break out. When the innkeeper is fighting in their establishment, their Strikes gain a +1 circumstance bonus to the attack roll, deal an additional 1d4 damage, and gain the nonlethal trait if they don't already have it. The innkeeper can choose not to gain this benefit."
+    desc: "The innkeeper knows how to settle fights that break out. When the innkeeper is fighting in their establishment, their Strikes gain a +1 circumstance bonus to the attack roll, deal an additional 1d4 damage, and gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait if they don't already have it. The innkeeper can choose not to gain this benefit."
   - name: "Innkeeper's Advice"
-    desc: "⬽ (Auditory, Fortune, Linguistic, Mental)"
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|Fortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"

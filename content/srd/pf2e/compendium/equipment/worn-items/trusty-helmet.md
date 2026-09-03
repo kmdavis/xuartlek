@@ -21,6 +21,6 @@ source: "Battlecry!"
 
 You keep yourself protected from incoming projectiles with this sturdy steel helmet, painted brown.
 
-**Activate—Block Manipulation** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Effect** You hunker down, protecting your head using your helmet. You gain a +1 circumstance bonus to your AC against ranged attacks.
+**Activate—Block Manipulation** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You hunker down, protecting your head using your helmet. You gain a +1 circumstance bonus to your AC against ranged attacks.
 
 *Source: Battlecry! p. 153*

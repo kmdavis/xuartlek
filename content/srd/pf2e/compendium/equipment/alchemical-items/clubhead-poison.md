@@ -20,10 +20,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 340 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This poison is named for the strain of fungi from which it's distilled. Hallucinations assail the victim's mind, causing them to see imaginary foes.
 
- **Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 3d8 poison damage, off-guard, and can’t take reactions (1 round); **Stage 2** 4d8 poison damage, off-guard, can’t take reactions, stunned 1 (1 round); **Stage 3** 5d8 poison damage, off-guard, can’t take reactions, and stunned 1 (1 round)
+ **Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 3d8 poison damage, [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], and can’t take reactions (1 round); **Stage 2** 4d8 poison damage, off-guard, can’t take reactions, [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1 (1 round); **Stage 3** 5d8 poison damage, off-guard, can’t take reactions, and stunned 1 (1 round)
 
 *Source: Treasure Vault (Remastered) p. 68*

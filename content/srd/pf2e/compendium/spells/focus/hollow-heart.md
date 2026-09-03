@@ -34,6 +34,6 @@ You stoke the target's ambition beyond reason, until it believes no one is capab
 
 **Failure** The target treats no other creature as an ally for 3 rounds.
 
-**Critical Failure** As failure, and the target is frightened 1 as it realizes it can't rely on anyone but itself.
+**Critical Failure** As failure, and the target is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 as it realizes it can't rely on anyone but itself.
 
 *Source: Dark Archives (Remastered) p. 142*

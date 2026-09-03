@@ -14,6 +14,6 @@ Ants are industrious insects that aid the natural processes of decay and renewal
 
 ### Members
 
-Army Ant Swarm (Creature 5), Giant Ant (Creature 2), Giant Ant Army (Creature 7)
+[[srd/pf2e/bestiary/monster-core/animal/army-ant-swarm|Army Ant Swarm]] (Creature 5), [[srd/pf2e/bestiary/monster-core/animal/giant-ant|Giant Ant]] (Creature 2), [[srd/pf2e/bestiary/battlecry/animal/giant-ant-army|Giant Ant Army]] (Creature 7)
 
 *Source: Monster Core p. 21*

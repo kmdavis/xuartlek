@@ -18,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: 10 minutes (manipulate)
+- **Activate**: 10 minutes ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Animal repellent is a noxious alchemical substance that makes you repulsive to a certain kind of animal. You can, for example, make ape repellent, bear repellent, or snake repellent, but not a repellent that affects all animals. The repellent doesn't work on creatures that are similar to the kind of animal, but not actually animals—for example, bear repellent wouldn't work on werebears. Animal repellent is ineffective against animals with an Intelligence modifier of –3 or higher, such as awakened animals. When you initially learn the formula for animal repellent, you learn the formulas for all common animals. If no animals of a kind are common, such as sea serpents, you must learn the formula for that kind separately, and it has the same rarity as the least-rare creature of that kind.
+Animal repellent is a noxious alchemical substance that makes you repulsive to a certain kind of [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]]. You can, for example, make ape repellent, bear repellent, or snake repellent, but not a repellent that affects all animals. The repellent doesn't work on creatures that are similar to the kind of animal, but not actually animals—for example, bear repellent wouldn't work on werebears. Animal repellent is ineffective against animals with an Intelligence modifier of –3 or higher, such as awakened animals. When you initially learn the formula for animal repellent, you learn the formulas for all common animals. If no animals of a kind are common, such as sea serpents, you must learn the formula for that kind separately, and it has the same rarity as the least-rare creature of that kind.
 
  You Activate animal repellent by sprinkling it on yourself or a creature within reach, or by spreading it on a surface in an area up to 10 feet square. The repellent lasts for 24 hours or until scrubbed clean with 1 minute of work (consisting of multiple Interact actions). The designated kind of animal can smell the repellent from three times as far away as normal.
 

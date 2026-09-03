@@ -25,8 +25,8 @@ A _mask of the cursed eye_ is decorated with at least one wide, staring eye. The
 
 **Success** The creature is unaffected, but you know you’ve been targeted with a spell that has one of these traits.
 
-**Failure** The creature is sickened 1 and dazzled for 1 minute. You know you’ve been targeted with a spell that has one of these traits.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 and [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 minute. You know you’ve been targeted with a spell that has one of these traits.
 
-**Critical Failure** The creature is sickened 2 and dazzled for 10 minutes, and the spell is disrupted. You gain a brief mental glimpse of the triggering creature and learn its approximate distance and direction.
+**Critical Failure** The creature is sickened 2 and dazzled for 10 minutes, and the spell is [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells#Disrupted and Lost Spells|disrupted]]. You gain a brief mental glimpse of the triggering creature and learn its approximate distance and direction.
 
 *Source: Treasure Vault (Remastered) p. 155*

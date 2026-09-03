@@ -22,7 +22,7 @@ source: "Player Core 2"
 - **Mystery**: Flames
 - **Duration**: 1 minute
 
-You call upon an endless barrage of flames, a series of explosions bursting around you like miniature suns. You cast _ignition_ as part of casting _flaming fusillade_. For the duration of _flaming fusillade_, _ignition's_ casting time is reduced from 2 actions to 1.
+You call upon an endless barrage of flames, a series of explosions bursting around you like miniature suns. You cast [[srd/pf2e/compendium/spells/cantrips/ignition|_ignition_]] as part of casting _flaming fusillade_. For the duration of _flaming fusillade_, _ignition's_ casting time is reduced from 2 actions to 1.
 
 ---
 **Heightened (9th)** For the duration, you also gain a status bonus to damage dealt by _ignition_ equal to _flaming fusillade's_ spell rank.

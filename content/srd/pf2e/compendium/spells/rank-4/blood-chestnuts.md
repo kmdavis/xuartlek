@@ -33,6 +33,6 @@ With a wave of your arm, you launch a handful of sharp crimson seeds that bury t
 
 **Critical Failure** The target takes double the piercing damage and becomes afflicted with draining growth at stage 2. 
 
-**Draining Growth** (disease) The target can't reduce their drained condition while afflicted by draining growth; **Stage 1** drained 1 (1 round); **Stage 2** drained 2 (1 round), **Stage 3** drained 2 and 1d8 persistent bleed damage as a single chestnut tree begins to grow out of the creature's body. The target can't end this bleed damage until the tree is destroyed. The tree has AC 10 and 40 Hit Points, and it's immune to critical hits and precision damage. Once the tree is destroyed, return to stage 2.
+**Draining Growth** ([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]) The target can't reduce their [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] condition while afflicted by draining growth; **Stage 1** drained 1 (1 round); **Stage 2** drained 2 (1 round), **Stage 3** drained 2 and 1d8 persistent bleed damage as a single chestnut tree begins to grow out of the creature's body. The target can't end this bleed damage until the tree is destroyed. The tree has AC 10 and 40 Hit Points, and it's immune to critical hits and precision damage. Once the tree is destroyed, return to stage 2.
 
 *Source: Impossible Magic p. 125*

@@ -20,11 +20,11 @@ source: "Impossible Magic"
 - **Target**: 1 creature
 - **Defense**: Fortitude
 
-You force a creature to experience an instantaneous burst of severely multiplied gravity, wreaking havoc on their eyes and internal organs. The target takes 2d12 bludgeoning damage and 1d12 persistent bleed damage with a Fortitude save.
+You force a creature to experience an instantaneous burst of severely multiplied gravity, wreaking havoc on their eyes and internal organs. The target takes 2d12 bludgeoning damage and 1d12 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] with a Fortitude save.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage, is dazzled for 1 round, and is stunned 1.
+**Success** The target takes half damage, is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round, and is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
 
 **Failure** The target takes full damage, is dazzled for 1 minute, and is stunned 2.
 

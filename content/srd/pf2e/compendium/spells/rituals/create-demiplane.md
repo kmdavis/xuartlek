@@ -19,19 +19,19 @@ source: "War of Immortals"
 - **Cast**: 9 days
 - **Cost**: precious materials worth a total value of 800 gp
 - **Secondary Casters**: 3
-- **Primary Check**: Arcana (mythic), Nature (mythic), Occultism (mythic), or Religion (mythic)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (mythic), [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (mythic), [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (mythic), or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (mythic)
 - **Secondary Checks**: Arcana, Nature, Occultism, Religion (whichever three aren’t used for the primary check)
 
-Few incantations are as renowned as the power to create worlds. To cast this ritual, you must be on the Astral Plane, the Ethereal Plane, or a plane that connects to one of the two. A demiplane created with this ritual exists on the Astral or Ethereal Plane. It can have the appearance of any mundane environment or structure, such as a glorious cathedral, a forest clearing, a comfortably furnished cavern, or anything else imaginable. All demiplanes have finite, unbreachable boundaries, which might resemble stone, wood, or something more unnatural, such as a wall of mist or unceasing void. 
+Few incantations are as renowned as the power to create worlds. To cast this ritual, you must be on the [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]], the [[srd/pf2e/compendium/gm/planes#Ethereal Plane|Ethereal Plane]], or a plane that connects to one of the two. A demiplane created with this ritual exists on the Astral or Ethereal Plane. It can have the appearance of any mundane [[srd/pf2e/books/gm-core/chapter-2-building-games/building-worlds#Environment|environment]] or structure, such as a glorious cathedral, a forest clearing, a comfortably furnished cavern, or anything else imaginable. All demiplanes have finite, unbreachable boundaries, which might resemble stone, wood, or something more unnatural, such as a wall of mist or unceasing void. 
 
 Demiplanes have environmental conditions appropriate for the Universe, though the primary caster can dictate a general climate or light level as well as whether the demiplane experiences seasons or a day-night cycle. The demiplane has no native plants or animals, but they can be introduced, and plants will grow in a demiplane's light. 
 
-When you first cast _create demiplane_, the casters are teleported to the demiplane. The demiplane has no direct access to other worlds, so _interplanar teleport_ or similar abilities are necessary to access it. As part of casting the ritual to create a new demiplane, you create a planar key to the demiplane that serves as an interplanar teleport locus for that demiplane. Most resemble ornate keys, but some take the form of maps, compasses, or dowsing rods. 
+When you first cast _create demiplane_, the casters are teleported to the demiplane. The demiplane has no direct access to other worlds, so [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|_interplanar teleport_]] or similar abilities are necessary to access it. As part of casting the ritual to create a new demiplane, you create a planar key to the demiplane that serves as an interplanar teleport locus for that demiplane. Most resemble ornate keys, but some take the form of maps, compasses, or dowsing rods. 
 
-If you have the original planar key to an existing demiplane and are also on that demiplane, you can cast this ritual again. Each time, you can either expand the demiplane's size or add one special trait or feature described below. See pages here for more information about these planar features.
+If you have the original planar key to an existing demiplane and are also on that demiplane, you can cast this ritual again. Each time, you can either expand the demiplane's size or add one special trait or feature described below. See pages [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes|here]] for more information about these planar features.
 **Bounteous** The demiplane has a functional ecosystem with plants and animals appropriate to the environment. This ecosystem doesn't require any additional effort on your part to maintain. 
-**Elemental** The demiplane gains the air, earth, fire, metal, water, or wood planar essence trait. 
-**Gravity** The demiplane gains a gravity trait of your choice. 
+**Elemental** The demiplane gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]] planar essence trait. 
+**Gravity** The demiplane gains a [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-planes#Gravity Traits|gravity]] trait of your choice. 
 **Key** You create an additional planar key that can be used to access the demiplane with _interplanar teleport_ and improve it with _create demiplane_. 
 **Portal** You create a permanent gateway between the demiplane and a single other location. You must spend the ritual's casting time constructing the gateway on the external side, which typically resembles an arch or doorway of some sort. The gate is always active, but it can be secured as you would any door. 
 **Scope** The demiplane can be unbounded instead of finite, though still with the same size.
@@ -42,7 +42,7 @@ If you have the original planar key to an existing demiplane and are also on tha
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** Something goes horribly wrong, and all casters are teleported to an unknown but hostile plane.
+**Critical Failure** Something goes horribly wrong, and all casters are teleported to an unknown but [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]] plane.
 
 ---
 **Heightened (10th)** The ritual creates a square area 2,000 feet on a side, with a ceiling 60 feet high (or two contiguous areas of this size on a critical success). The cost of the ritual increases to 20,000 gp.

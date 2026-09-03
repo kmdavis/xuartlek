@@ -18,9 +18,9 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Mental`  `Uncommon`
 
-- **Domain**: Confidence
+- **Domain**: [[srd/pf2e/compendium/character/domains#Confidence|Confidence]]
 - **Duration**: 1 minute
 
-You surround yourself in confidence. You reduce your current frightened condition by 1, and whenever you would become frightened during the duration, reduce the amount by 1. If you critically fail a save against a fear effect, _veil of confidence_ reduces your frightened value from that effect, and then ends.
+You surround yourself in confidence. You reduce your current [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition by 1, and whenever you would become frightened during the duration, reduce the amount by 1. If you critically fail a save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effect, _veil of confidence_ reduces your frightened value from that effect, and then ends.
 
 *Source: Player Core p. 373*

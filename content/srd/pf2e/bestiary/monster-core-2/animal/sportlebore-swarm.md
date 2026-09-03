@@ -31,7 +31,7 @@ perception:
     desc: "Perception +13; low-light vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +17, Stealth +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17"
 abilityMods: [2, 6, 4, -4, 2, 4]
 ac: 25
 armorclass:
@@ -40,7 +40,7 @@ armorclass:
 hp: 85
 health:
   - name: "HP"
-    desc: "85; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 3, piercing 7, slashing 7; __Weaknesses__ area damage 7, splash damage 7"
+    desc: "85; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 3, piercing 7, slashing 7; __Weaknesses__ area damage 7, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 7"
 abilities_mid:
   - name: "Pour Down Throat"
     desc: "⬲"
@@ -59,19 +59,19 @@ abilities_mid:
 speed: "35 feet, fly 35 feet"
 abilities_bot:
   - name: "Swarming Bites"
-    desc: "⬻ Each creature in the sportlebore swarm's area takes 3d6 piercing damage (DC 25 basic Reflex save)."
+    desc: "⬻ Each creature in the sportlebore swarm's area takes 3d6 piercing damage (DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save)."
   - name: "Sportlebore Infestation"
-    desc: "(Disease)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]])"
   - name: "Saving Throw"
     desc: "DC 22 Fortitude"
   - name: "Stage 1"
     desc: "carrier with no ill effect (1 day)"
   - name: "Stage 2"
-    desc: "enfeebled 1 (1 hour)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 hour)"
   - name: "Stage 3"
     desc: "enfeebled 2 (1 hour)"
   - name: "Stage 4"
-    desc: "4d6 bludgeoning damage (DC 25 basic Fortitude save) as the host painfully vomits out a sportlebore swarm and returns to stage 1"
+    desc: "4d6 bludgeoning damage (DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude save) as the host painfully vomits out a sportlebore swarm and returns to stage 1"
 sourcebook: "_Monster Core 2_, page 306."
 ```
 

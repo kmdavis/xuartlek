@@ -21,15 +21,15 @@ source: "War of Immortals"
 - **Saving Throw**: Fortitude
 - **Duration**: 1 minute
 
-You pronounce a terrible judgment upon your quarry that causes all of your attacks and divine spells to strike with deadly efficacy. The target takes extra damage from your attacks, depending on the result of its Fortitude save. The spell ends immediately if the target is no longer your hunted prey.
+You pronounce a terrible judgment upon your quarry that causes all of your attacks and [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] spells to strike with deadly efficacy. The target takes extra damage from your attacks, depending on the result of its Fortitude save. The spell ends immediately if the target is no longer your hunted prey.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target has weakness 5 to the next Strike you make against it or damaging divine spell you cast that includes it as a target before the end of your next turn.
+**Success** The target has [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] 5 to the next Strike you make against it or damaging divine spell you cast that includes it as a target before the end of your next turn.
 
 **Failure** The target has weakness 5 to all Strikes you make against it or damaging divine spells you cast that includes it as a target for the duration of the spell.
 
-**Critical Failure** As failure, but the target is off-guard against the first Strike or divine spell attack you make against it each round for the duration of the spell.
+**Critical Failure** As failure, but the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the first Strike or divine spell attack you make against it each round for the duration of the spell.
 
 ---
 **Heightened (7th)** The weakness is 10.

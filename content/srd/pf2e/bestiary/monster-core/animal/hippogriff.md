@@ -29,7 +29,7 @@ perception:
     desc: "Perception +8; darkvision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +7, Survival +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
 abilityMods: [3, 3, 2, -4, 2, 0]
 ac: 18
 armorclass:
@@ -47,12 +47,12 @@ attacks:
   - name: "Melee"
     desc: "⬻ beak +9 __Damage__ 1d10+3 piercing"
   - name: "Melee"
-    desc: "⬻ talon +9 (Agile) __Damage__ 1d6+3 slashing"
+    desc: "⬻ talon +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+3 slashing"
   - name: "Melee"
-    desc: "⬻ wing +9 (reach 10 feet) __Damage__ 1d6+3 bludgeoning"
+    desc: "⬻ wing +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d6+3 bludgeoning"
 abilities_bot:
   - name: "Flying Strafe"
-    desc: "⬺ The hippogriff Fliesup to its fly speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty."
+    desc: "⬺ The hippogriff [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]]up to its fly speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. The attacks take the normal multiple attack penalty."
 sourcebook: "_Monster Core_, page 197."
 ```
 

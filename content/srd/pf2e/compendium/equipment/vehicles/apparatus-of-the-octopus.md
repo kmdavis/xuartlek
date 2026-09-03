@@ -26,7 +26,7 @@ This apparatus, which is shaped like an octopus (or more rarely, a squid or othe
 
 **Passengers** 1 (the passenger can optionally act as crew but more crew isn't necessary)
 
-**Piloting Check** Driving Lore (DC 28) or Crafting (DC 30)
+**Piloting Check** Driving Lore (DC 28) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 30)
 
 ---
 

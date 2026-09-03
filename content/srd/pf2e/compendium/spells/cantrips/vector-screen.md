@@ -30,6 +30,6 @@ You set up a transparent, rippling screen of telekinetic energy that seizes smal
 
 ---
 
-**Amp** Your screen persists for longer, and you can detonate it in an explosive counterattack. The duration of the spell increases to 1 minute. You can Dismiss the spell. If there are any projectiles trapped in the screen, you can cast _telekinetic projectile_ to fire them at one creature as part of Dismissing the spell. Measure the range for the telekinetic projectile from where the vector screen was, instead of from you.
+**Amp** Your screen persists for longer, and you can detonate it in an explosive counterattack. The duration of the spell increases to 1 minute. You can Dismiss the spell. If there are any projectiles trapped in the screen, you can cast [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|_telekinetic projectile_]] to fire them at one creature as part of Dismissing the spell. Measure the range for the telekinetic projectile from where the vector screen was, instead of from you.
 
 *Source: Dark Archives (Remastered) p. 17*

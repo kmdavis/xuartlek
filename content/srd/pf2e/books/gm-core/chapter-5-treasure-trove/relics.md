@@ -42,7 +42,7 @@ A campaign relic is drawn from the ongoing story of the campaign. You decide the
 
 #### Relic Aspects
 
-Each relic is associated with aspects—typically two—that speak to its overall concept and purpose. The individual gifts each have an associated aspect. You should almost always select gifts that have an aspect matching one of those found on the relic. For example, a brass dagger recovered from the Medina Mudii'a might have the fire and mind aspects, which means that it could have the flare bolt gift (which has the fire aspect), but not the rolling geode gift (which has the earth aspect).
+Each relic is associated with aspects—typically two—that speak to its overall concept and purpose. The individual gifts each have an associated aspect. You should almost always select gifts that have an aspect matching one of those found on the relic. For example, a brass dagger recovered from the [[srd/pf2e/compendium/gm/planes#Plane of Fire|Medina Mudii'a]] might have the fire and mind aspects, which means that it could have the [[srd/pf2e/compendium/equipment/relics#Flare Bolt|flare bolt]] gift (which has the fire aspect), but not the [[srd/pf2e/compendium/equipment/relics#Rolling Geode|rolling geode]] gift (which has the earth aspect).
 
 Usually, you can determine at least one aspect of a relic easily by looking at the history of the item or personality of the character. For example, if a player decides that their background relic is a rusty mace wielded by the character's great grandmother in battle against rising undead hordes, the mace might have the life aspect, as it was used to slay countless undead creatures. There's no harm in letting the player choose an aspect for a background relic; through play, the item will reveal another aspect associated with it. In the previous example, the mace might reveal itself to have powers against demons as well, in which case its aspects might be celestial and life.
 
@@ -96,43 +96,43 @@ The more gifts there are of one aspect, the more the relic reflects that aspect,
 >
 > ### Air
 >
-> **Armor** (Major) energy-resistant or greater energy resistant (cold or electricity), invisibility; **Armor** (Grand) winged
-> **Weapon** (Minor) returning; **Weapon** (Major) animated, shock, thundering; **Weapon** (Grand) greater shock, greater thundering
+> **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/energy-resistant-greater|energy-resistant]] or greater energy resistant (cold or electricity), [[srd/pf2e/compendium/equipment/runes/invisibility-greater|invisibility]]; **Armor** (Grand) [[srd/pf2e/compendium/equipment/runes/winged-greater|winged]]
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/returning|returning]]; **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/animated|animated]], [[srd/pf2e/compendium/equipment/runes/shock-greater|shock]], [[srd/pf2e/compendium/equipment/runes/thundering-greater|thundering]]; **Weapon** (Grand) greater shock, greater thundering
 >
 > ### Beast
 >
-> **Weapon** (Minor) fearsome, wounding; **Weapon** (Major) greater fearsome, quickstrike
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/fearsome-greater|fearsome]], [[srd/pf2e/compendium/equipment/runes/wounding|wounding]]; **Weapon** (Major) greater fearsome, [[srd/pf2e/compendium/equipment/runes/quickstrike|quickstrike]]
 >
 > ### Celestial
 >
-> **Weapon** (Major) holy
+> **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/holy|holy]]
 >
 > ### Death
 >
-> **Weapon** (Minor) ghost touch, wounding
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]], [[srd/pf2e/compendium/equipment/runes/wounding|wounding]]
 >
 > ### Earth
 >
-> **Armor** (Minor) energy-resistant or greater energy resistant (acid); **Armor** (Major) fortification; **Armor** (Grand) greater fortification
-> **Weapon** (Minor) shifting
+> **Armor** (Minor) energy-resistant or greater energy resistant (acid); **Armor** (Major) [[srd/pf2e/compendium/equipment/runes/fortification-greater|fortification]]; **Armor** (Grand) greater fortification
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/shifting|shifting]]
 >
 > ### Fiend
 >
 > **Armor** (Minor) energy-resistant or greater energy resistant (acid, cold, or fire)
-> **Weapon** (Major) unholy
+> **Weapon** (Major) [[srd/pf2e/compendium/equipment/runes/unholy|unholy]]
 >
 > ### Fire
 >
 > **Armor** (Minor) energy-resistant or greater energy resistant (fire)
-> **Weapon** (Minor) flaming; **Weapon** (Major) greater flaming
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/flaming-greater|flaming]]; **Weapon** (Major) greater flaming
 >
 > ### Life
 >
-> **Weapon** (Minor) vitalizing; **Weapon** (Major) greater vitalizing
+> **Weapon** (Minor) [[srd/pf2e/compendium/equipment/runes/vitalizing-greater|vitalizing]]; **Weapon** (Major) greater vitalizing
 >
 > ### Mind
 >
-> **Armor** (Minor) raiment; **Armor** (Major) invisibility
+> **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/raiment|raiment]]; **Armor** (Major) invisibility
 >
 > ### Plant
 >
@@ -140,12 +140,12 @@ The more gifts there are of one aspect, the more the relic reflects that aspect,
 >
 > ### Shadow
 >
-> **Armor** (Minor) shadow; **Armor** (Major) greater shadow;
+> **Armor** (Minor) [[srd/pf2e/compendium/equipment/runes/shadow-major|shadow]]; **Armor** (Major) greater shadow;
 > **Armor** (Grand) major shadow
 >
 > ### Water
 >
-> **Armor** (Minor) energy-resistant or greater energy resistant (cold or fire), slick; **Armor** (Major) greater or major slick
+> **Armor** (Minor) energy-resistant or greater energy resistant (cold or fire), [[srd/pf2e/compendium/equipment/runes/slick-major|slick]]; **Armor** (Major) greater or major slick
 > **Weapon** (Minor) shifting
 
 ###### Gift Saves and Spell Attack Modifiers

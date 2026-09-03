@@ -18,7 +18,7 @@ A unique connection to the cycle of life and death defines the mortal lives of s
 
 ### Members
 
-Samsaran Anchorite (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/samsaran-anchorite|Samsaran Anchorite]] (Creature 1)
 
 ### The Eternal Cycle
 

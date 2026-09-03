@@ -31,10 +31,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; low-light vision"
-languages: "Common, Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +5, Medicine +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +4"
 abilityMods: [2, 4, 1, 1, 1, 0]
 abilities_top:
   - name: "Items"
@@ -52,10 +52,10 @@ attacks:
   - name: "Melee"
     desc: "⬻ trident +7 __Damage__ 1d8+2 piercing"
   - name: "Ranged"
-    desc: "⬻ trident +9 (thrown 20 feet) __Damage__ 1d8+2 piercing"
+    desc: "⬻ trident +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d8+2 piercing"
 abilities_bot:
   - name: "Aquatic Dash"
-    desc: "⬺ The merfolk warrior swims and attacks in one of two patterns. They either Swim twice and Strike at the end of their movement, or Swim once and Strike at any point during their movement."
+    desc: "⬺ The merfolk warrior swims and attacks in one of two patterns. They either [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] twice and Strike at the end of their movement, or Swim once and Strike at any point during their movement."
 sourcebook: "_Monster Core_, page 231."
 ```
 

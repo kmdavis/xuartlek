@@ -28,9 +28,9 @@ You give an unsettling, warbling cry that causes nearby creatures to lash out wi
 
 **Critical Success** The target is unaffected and immune to this spell for 1 minute.
 
-**Success** The target is stunned 1.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
 
-**Failure** The target is confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.
 
 **Critical Failure** As failure, and the creature immediately attacks itself. This Strike doesn’t give the creature a flat check to recover from the confusion.
 

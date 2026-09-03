@@ -18,7 +18,7 @@ Many orcs are forged in the fires of violence and conflict, often from the momen
 
 ### Members
 
-Dromaar Lorekeeper (Creature 5), Dromaar Mountaineer (Creature 2), Orc Agriculturalist (Creature 1), Orc Commander (Creature 2), Orc Doomsayer (Creature 5), Orc Gamekeeper (Creature 4), Orc Raiding Party (Creature 5), Orc Rampager (Creature 4), Orc Scrapper (Creature 0), Orc Skullcrushers (Creature 7), Orc Vagabond (Creature 3), Orc Veteran (Creature 1), Orc Veteran Master (Creature 10)
+[[srd/pf2e/bestiary/npc-core/humanoid/dromaar-lorekeeper|Dromaar Lorekeeper]] (Creature 5), [[srd/pf2e/bestiary/monster-core/humanoid/dromaar-mountaineer|Dromaar Mountaineer]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/orc-agriculturalist|Orc Agriculturalist]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/orc-commander|Orc Commander]] (Creature 2), Orc Doomsayer (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/orc-gamekeeper|Orc Gamekeeper]] (Creature 4), [[srd/pf2e/bestiary/battlecry/humanoid/orc-raiding-party|Orc Raiding Party]] (Creature 5), Orc Rampager (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/orc-scrapper|Orc Scrapper]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/orc-skullcrushers|Orc Skullcrushers]] (Creature 7), Orc Vagabond (Creature 3), [[srd/pf2e/bestiary/monster-core/humanoid/orc-veteran|Orc Veteran]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/orc-veteran-master|Orc Veteran Master]] (Creature 10)
 
 ### Beyond The Holds
 
@@ -26,7 +26,7 @@ Orcs are dynamic instruments of change. Through their travels, they learn about 
 
 ### Dromaars
 
-The offspring of humans and orcs, dromaars' physiology can vary from looking like a human with tusks to an orc with curly, blonde hair. Their orc parent usually teaches them how to wield a weapon and speak Orcish, but they aren't expected to become soldiers or use their combat skills to make a living. Dromaars are free to explore their interests and live as they choose, inside or outside of a hold. Orcs are accepting of their dromaar relatives and welcome them into their communities.
+The offspring of humans and orcs, dromaars' physiology can vary from looking like a human with tusks to an orc with curly, blonde hair. Their orc parent usually teaches them how to wield a weapon and speak [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]], but they aren't expected to become soldiers or use their combat skills to make a living. Dromaars are free to explore their interests and live as they choose, inside or outside of a hold. Orcs are accepting of their dromaar relatives and welcome them into their communities.
 
 ### Gods Of War
 
@@ -34,7 +34,7 @@ While there are orc deities, their worship is surprisingly uncommon. Orcs believ
 
 ### Megafauna Mounts
 
-Orcs are known for riding strange and fearsome beasts, particularly megafauna like dire wolves and smilodons. Given the opportunity, orcs also enlist drakes, manticores, and anything else big and frightening enough to suit their needs.
+Orcs are known for riding strange and fearsome beasts, particularly megafauna like dire wolves and [[srd/pf2e/bestiary/monster-core/animal/smilodon|smilodons]]. Given the opportunity, orcs also enlist [[srd/pf2e/compendium/gm/creature-families/drake|drakes]], [[srd/pf2e/bestiary/monster-core/beast/manticore|manticores]], and anything else big and frightening enough to suit their needs.
 
 ### Orc Faith
 

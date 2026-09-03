@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 
 _Clarity goggles_ feature faceted lenses that filter your surroundings from several slightly different angles at once, giving you a sharper picture of them. While wearing the goggles, you gain a +1 item bonus to visual Perception checks.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** You focus on your environment and the creatures around you to see them as they really are. The GM rolls a secret counteract check using your Perception bonus against any illusion effect created by a 3rd-rank or lower spell or a creature of 8th level or lower. You must be able to see the illusion, and it must be within 60 feet. If the check succeeds, you see through the illusion for 10 minutes.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You focus on your environment and the creatures around you to see them as they really are. The GM rolls a [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] counteract check using your Perception bonus against any [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] effect created by a 3rd-rank or lower spell or a creature of 8th level or lower. You must be able to see the illusion, and it must be within 60 feet. If the check succeeds, you see through the illusion for 10 minutes.
 
 ### Clarity Goggles (Lesser)
 

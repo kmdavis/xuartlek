@@ -23,7 +23,7 @@ source: "Howl of the Wild"
 - **Target**: 1 creature
 - **Defense**: AC
 
-You temporarily shape your lower limbs into the tail of a hippocampus in order to swim away from a nearby foe after dealing a parting blow. Attempt a melee spell attack roll against the target’s AC, dealing 2d6 bludgeoning damage on a hit (or double damage on a critical hit). Then, Swim up to 30 feet; if you already have a swim Speed, you can Swim up to your Speed with a +10-foot circumstance bonus. You gain a +2 circumstance bonus to your AC against reactions triggered by this movement. At the end of the movement, your lower limbs return to normal.
+You temporarily shape your lower limbs into the tail of a hippocampus in order to swim away from a nearby foe after dealing a parting blow. Attempt a melee spell attack roll against the target’s AC, dealing 2d6 bludgeoning damage on a hit (or double damage on a critical hit). Then, [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] up to 30 feet; if you already have a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Swim Speed|swim Speed]], you can Swim up to your Speed with a +10-foot circumstance bonus. You gain a +2 circumstance bonus to your AC against reactions triggered by this movement. At the end of the movement, your lower limbs return to normal.
 
 ---
 **Heightened (+1)** The damage increases by 1d6.

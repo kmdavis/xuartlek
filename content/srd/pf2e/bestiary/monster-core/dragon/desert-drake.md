@@ -29,14 +29,14 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; darkvision, sandstorm sight, scent (imprecise) 30 feet"
-languages: "Draconic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +17, Athletics +18, Intimidation +13, Stealth +15, Survival +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +17, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15"
 abilityMods: [6, 3, 5, -1, 3, 1]
 abilities_top:
   - name: "Sandstorm Sight"
-    desc: "Sandstorms don't impair a desert drake's vision; they ignore concealmentfrom sandstorms. They also are immune to being dazzled or blinded by sand or other grit."
+    desc: "Sandstorms don't impair a desert drake's vision; they ignore [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealment]]from sandstorms. They also are immune to being [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] or [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] by sand or other grit."
 ac: 27
 armorclass:
   - name: "AC"
@@ -44,7 +44,7 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135; __Immunities__ paralyzed, sleep; __Resistances__ cold 10, fire 10 **Wing Deflection ⬲"
+    desc: "135; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10 **Wing Deflection ⬲"
 abilities_mid:
   - name: "Trigger"
     desc: "The desert drake is targeted with an attack**"
@@ -55,20 +55,20 @@ attacks:
   - name: "Melee"
     desc: "⬻ fangs +19 __Damage__ 2d12+10 piercing"
   - name: "Melee"
-    desc: "⬻ tail +19 (reach 10 feet) __Damage__ 2d8+10 bludgeoning plus Push 5 feet"
+    desc: "⬻ tail +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+10 bludgeoning plus Push 5 feet"
 abilities_bot:
   - name: "Draconic Frenzy"
     desc: "⬺ The desert drake makes two fangs Strikes and one tail Strike in any order."
   - name: "Sandstorm Breath"
-    desc: "⬺ (Earth, Primal) The desert drake spits a ball of abrasive sand with a range of 60 feet that explodes into a cloud with a 15-foot-radius burst. Creatures in the area take 9d6 slashing damage (DC 27 basic Reflex save). The desert drake can't use Sandstorm Breath again for 1d6 rounds, during which the sandstorm lingers in the area. This lingering sandstorm grants concealmentto everything within it and conceals everything outside from them."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The desert drake spits a ball of abrasive sand with a range of 60 feet that explodes into a cloud with a 15-foot-radius burst. Creatures in the area take 9d6 slashing damage (DC 27 basic Reflex save). The desert drake can't use Sandstorm Breath again for 1d6 rounds, during which the sandstorm lingers in the area. This lingering sandstorm grants [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealment]]to everything within it and conceals everything outside from them."
   - name: "Speed Surge"
-    desc: "⬻ (Move)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]])"
   - name: "Frequency"
     desc: "three times per day"
   - name: "Effect"
     desc: "The desert drake Strides or Flies twice."
   - name: "Surprise Attacker"
-    desc: "On the first round of combat, creatures that haven't acted yet are off-guard to the desert drake."
+    desc: "On the first round of combat, creatures that haven't acted yet are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the desert drake."
 sourcebook: "_Monster Core_, page 133."
 ```
 

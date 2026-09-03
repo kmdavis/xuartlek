@@ -47,8 +47,8 @@ A large quantity of enchanted seedpods are packed into a seedpod shooter’s fun
 
 **Aim** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") 100 feet, minimum distance 50 feet 
 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 2 times 
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times 
 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, auditory, manipulate, range increment 300 feet) 8d12 slashing, 30-foot burst, DC 27 Reflex. A creature that fails their Reflex save becomes sickened 2.
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range increment 300 feet]]) 8d12 slashing, 30-foot burst, DC 27 Reflex. A creature that fails their Reflex save becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 2.
 
 *Source: Howl of the Wild p. 117*

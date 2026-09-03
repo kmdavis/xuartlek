@@ -18,7 +18,7 @@ source: "GM Core"
 
 - **Price**: 7 gp
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 This silver-bound opal pendant is afire with iridescence. When you activate it, attempt a Deception check to Feint. If the outcome is a success, you get a critical success instead. If the outcome is a critical failure, you get a failure instead.
 

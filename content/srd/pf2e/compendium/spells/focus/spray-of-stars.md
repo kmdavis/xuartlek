@@ -28,7 +28,7 @@ You fling a spray of tiny shooting stars, dealing 2d4 fire damage. Each creature
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is dazzled for 1 round.
+**Success** The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
 
 **Failure** The creature takes full damage and is dazzled for 3 rounds.
 

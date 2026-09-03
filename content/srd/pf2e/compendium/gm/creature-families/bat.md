@@ -14,7 +14,7 @@ A wide range of bats dwell throughout the world. Most of these nocturnal animals
 
 ### Members
 
-Giant Bat (Creature 2), Vampire Bat Swarm (Creature 1)
+[[srd/pf2e/bestiary/monster-core/animal/giant-bat|Giant Bat]] (Creature 2), [[srd/pf2e/bestiary/monster-core/animal/vampire-bat-swarm|Vampire Bat Swarm]] (Creature 1)
 
 ### Bat Roosts
 

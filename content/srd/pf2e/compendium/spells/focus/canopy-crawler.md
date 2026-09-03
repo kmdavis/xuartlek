@@ -23,7 +23,7 @@ source: "Howl of the Wild"
 - **Target**: yourself or your animal companion
 - **Duration**: 10 minutes
 
-The target grows a prehensile tail, or gains prehensile qualities in their existing tail, to help them climb with ease. For the duration of the spell, they gain a climb Speed equal to their highest Speed. The target can Climb with a hand occupied (or two hands occupied if they have the Combat Climber feat).
+The target grows a prehensile tail, or gains prehensile qualities in their existing tail, to help them climb with ease. For the duration of the spell, they gain a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Climb Speed|climb Speed]] equal to their highest Speed. The target can [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]] with a hand occupied (or two hands occupied if they have the [[srd/pf2e/compendium/feats/player-core/skill/combat-climber|Combat Climber]] feat).
 
 ---
 **Heightened (5th)** The spell’s duration increases to 1 hour, and you can target both yourself and your animal companion with a single casting.

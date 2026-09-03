@@ -40,6 +40,6 @@ Fleeting notes of a strange and unnatural song fill the air, overtaking the mind
 
 ## Unfathomable Song
 
- **Result****Effect** 1The target is frightened 2. 2The target is confused for 1 round. 3The target is stupefied 4 for 1 round. 4The target is blinded for 1 round. 5The target is stunned for 1 round and stupefied 1 for an unlimited duration.
+ **Result****Effect** 1The target is frightened 2. 2The target is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round. 3The target is stupefied 4 for 1 round. 4The target is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round. 5The target is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] for 1 round and stupefied 1 for an unlimited duration.
 
 *Source: Player Core p. 364*

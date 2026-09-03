@@ -29,7 +29,7 @@ perception:
     desc: "Perception +10; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +11, Survival +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
 abilityMods: [4, 1, 5, -4, 1, -2]
 ac: 17
 armorclass:
@@ -44,12 +44,12 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +11 __Damage__ 2d8+4 piercing"
   - name: "Melee"
-    desc: "⬻ claw +11 (Agile) __Damage__ 1d10+4 slashing plus Grab"
+    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d10+4 slashing plus Grab"
 abilities_bot:
   - name: "Mauler"
-    desc: "The grizzly bear gains a +2 circumstance bonus to damage rolls against creatures it has grabbed."
+    desc: "The grizzly bear gains a +2 circumstance bonus to damage rolls against creatures it has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]."
   - name: "Rush"
-    desc: "⬺ The grizzly bear Strides and makes a Strike at the end of that movement. During the Stride, the grizzly bear gains a +10-foot circumstance bonus to its Speed. Loaded for Bear A bear den can contain valuable treasures, such as the remains of less fortunate adventurers who stumbled onto a hungry bear's path. Bear furs themselves are valued as rugs, while their claws and fangs make for impressive jewelry or adornments for armor. Bear hide is an excellent resource for hide armor."
+    desc: "⬺ The grizzly bear Strides and makes a Strike at the end of that movement. During the Stride, the grizzly bear gains a +10-foot circumstance bonus to its Speed. Loaded for Bear A bear den can contain valuable treasures, such as the remains of less fortunate adventurers who stumbled onto a hungry bear's path. Bear furs themselves are valued as rugs, while their claws and fangs make for impressive jewelry or adornments for armor. Bear hide is an excellent resource for [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]."
 sourcebook: "_Monster Core_, page 41."
 ```
 

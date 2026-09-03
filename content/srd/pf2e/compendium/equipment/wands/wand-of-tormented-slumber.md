@@ -23,7 +23,7 @@ source: "Treasure Vault (Remastered)"
 
 The carved talon of an unidentifiable beast comprises this wand. Blood-stained cloth wraps the thicker part of the talon, which acts as a handle.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast 4th-rank _sleep_, but the slumbering creatures have terrifying nightmares. A creature knocked unconscious by this spell takes 1d6 persistent mental damage. This damage wakes the creature from unconsciousness only if it deals 4 or more damage on a single roll. If the creature awakens from its unconsciousness due to damage (whether it was the persistent mental damage or not), it's frightened 1. If it awakens from damage on its own turn, the creature doesn't reduce its frightened condition automatically on that turn.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast 4th-rank _sleep_, but the slumbering creatures have terrifying nightmares. A creature knocked [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] by this spell takes 1d6 persistent mental damage. This damage wakes the creature from unconsciousness only if it deals 4 or more damage on a single roll. If the creature awakens from its unconsciousness due to damage (whether it was the persistent mental damage or not), it's frightened 1. If it awakens from damage on its own turn, the creature doesn't reduce its frightened condition automatically on that turn.
 
 **Craft Requirements** Supply a casting of 4th-rank _sleep_.
 

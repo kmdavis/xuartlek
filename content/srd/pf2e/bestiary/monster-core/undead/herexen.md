@@ -31,14 +31,14 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision"
-languages: "Common, Necril"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +6, Deception +7, Religion +10, Stealth +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
 abilityMods: [2, 2, 1, 0, 4, 3]
 abilities_top:
   - name: "Items"
-    desc: "Dagger, defiled religious symbol of Pharasma"
+    desc: "Dagger, defiled [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Pharasma"
 ac: 17
 armorclass:
   - name: "AC"
@@ -46,20 +46,20 @@ armorclass:
 hp: 30
 health:
   - name: "HP"
-    desc: "30 (void healing (page 360)); __Immunities__ bleed, death effects, disease, paralyzed, poison, unconscious"
+    desc: "30 (void healing (page 360)); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]"
 abilities_mid:
   - name: "Final Blasphemy"
-    desc: "(divine, void) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action _harm_ spell (DC 18). The herexen is destroyed, so it doesn't gain any Hit Points from this use of harm, and it doesn't need to have any harm spells remaining to use this ability."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) When the herexen is destroyed, it explodes in a wave of void energy with the effects of a 3-action [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] spell (DC 18). The herexen is destroyed, so it doesn't gain any Hit Points from this use of harm, and it doesn't need to have any harm spells remaining to use this ability."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +10 (Agile, versatile S) __Damage__ 1d6+4 piercing plus heretic's smite"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+4 piercing plus heretic's smite"
 abilities_bot:
   - name: "Heretic's Smite"
-    desc: "(Divine, Unholy) While wielding the favored weapon of its former deity (such as a dagger for an ex-Pharasmin herexen), the herexen's Strikes deal an additional 1d6 spirit damage to creatures with the holy trait. Herexen Lairs Most herexens settle down in a particular town or region to corrupt the local populace. Powerful herexens may boldly lair in a defiled temple, creating a vile parody of the building's former glory. However, most herexens hide in decrepit places such as ruins, forgotten basements, or tombs."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) While wielding the favored weapon of its former deity (such as a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]] for an ex-Pharasmin herexen), the herexen's Strikes deal an additional 1d6 spirit damage to creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait. Herexen Lairs Most herexens settle down in a particular town or region to corrupt the local populace. Powerful herexens may boldly lair in a defiled temple, creating a vile parody of the building's former glory. However, most herexens hide in decrepit places such as ruins, forgotten basements, or tombs."
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 18 - __1st__ Harm (×4) __Cleric Domain Spells 1 Focus Point,__ DC 18 - __1st__ Death's Call"
+    desc: "DC 18 - __1st__ [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (×4) __Cleric Domain Spells 1 Focus Point,__ DC 18 - __1st__ [[srd/pf2e/compendium/spells/focus/deaths-call|Death's Call]]"
 sourcebook: "_Monster Core_, page 195."
 ```
 

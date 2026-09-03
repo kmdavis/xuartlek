@@ -19,6 +19,6 @@ source: "Treasure Vault (Remastered)"
 
 A complex pattern of protective symbols gives protection against various forms of energy, but only part of the runic structure can be active at a given time.
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per hour; **Trigger** You take acid, cold, electricity, or fire damage; **Effect** You gain resistance 5 to the triggering damage type. This doesn't apply to the triggering damage. This resistance lasts until you Activate this rune again or the armor is no longer invested by you.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Trigger** You take acid, cold, electricity, or fire damage; **Effect** You gain resistance 5 to the triggering damage type. This doesn't apply to the triggering damage. This resistance lasts until you Activate this rune again or the armor is no longer invested by you.
 
 *Source: Treasure Vault (Remastered) p. 12*

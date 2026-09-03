@@ -38,7 +38,7 @@ Depending on how the GM tracks movement, you move in feet or miles based on your
 | 50 feet | 500 | 5 | 40 |
 | 60 feet | 600 | 6 | 48 |
 
-The rates in the table assume traveling over flat and clear terrain at a determined pace, but one that’s not exhausting. Moving through [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] halves the listed movement rate. Greater difficult terrain reduces the distance traveled to one-third the listed amount. If the travel requires a skill check to accomplish, such as mountain climbing or swimming, the GM might call for a check once per hour using the result and the table above to determine your progress.
+The rates in the table assume traveling over flat and clear terrain at a determined pace, but one that’s not exhausting. Moving through [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] halves the listed movement rate. Greater difficult terrain reduces the distance traveled to one-third the listed amount. If the travel requires a skill check to accomplish, such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|mountain climbing]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|swimming]], the GM might call for a check once per hour using the result and the table above to determine your progress.
 
 ## Exploration Activities
 
@@ -50,7 +50,7 @@ These are most common exploration activities.
 
 ### Avoid Notice
 
-Exploration
+[[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]]
 **Source** Player Core pg. 438
 
 ---
@@ -59,7 +59,7 @@ You attempt a Stealth check to avoid notice while traveling at half speed. If yo
 
 ### Defend
 
-Exploration
+[[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]]
 **Source** Player Core pg. 438
 
 ---
@@ -68,7 +68,7 @@ You move at half your travel speed with your shield raised. If combat breaks out
 
 ### Detect Magic
 
-Concentrate Exploration
+Concentrate [[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]]
 **Source** Player Core pg. 438
 
 ---
@@ -77,7 +77,7 @@ You cast detect magic at regular intervals. You move at half your travel speed o
 
 ### Follow the Expert
 
-Auditory Concentrate Exploration Visual
+Auditory Concentrate [[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]] Visual
 **Source** Player Core pg. 438
 
 ---
@@ -88,7 +88,7 @@ Thanks to your ally's assistance, you can add your level as a proficiency bonus 
 
 ### Hustle
 
-Exploration Move
+[[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]] Move
 **Source** Player Core pg. 438
 
 ---
@@ -97,7 +97,7 @@ You strain yourself to move at double your travel speed. You can Hustle only for
 
 ### Investigate
 
-Concentrate Exploration
+Concentrate [[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]]
 **Source** Player Core pg. 439
 
 ---
@@ -106,16 +106,16 @@ You seek out information about your surroundings while traveling at half speed. 
 
 ### Repeat a Spell
 
-Concentrate Exploration
+Concentrate [[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]]
 **Source** Player Core pg. 439
 
 ---
 
-You repeatedly cast the same spell while moving at half speed. Typically, this spell is a cantrip that you want to have in effect in the event a combat breaks out, and it must be one you can cast in 2 actions or fewer. Repeating a spell that requires making complex decisions, such as figment, can make you fatigued, as determined by the GM.
+You repeatedly cast the same spell while moving at half speed. Typically, this spell is a cantrip that you want to have in effect in the event a combat breaks out, and it must be one you can cast in 2 actions or fewer. Repeating a spell that requires making complex decisions, such as [[srd/pf2e/compendium/spells/cantrips/figment|figment]], can make you fatigued, as determined by the GM.
 
 ### Scout
 
-Concentrate Exploration
+Concentrate [[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]]
 **Source** Player Core pg. 439
 
 ---
@@ -124,7 +124,7 @@ You scout ahead and behind the group to watch danger, moving at half speed. At t
 
 ### Search
 
-Concentrate Exploration
+Concentrate [[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]]
 **Source** Player Core pg. 439
 
 ---
@@ -133,31 +133,31 @@ You Seek meticulously for hidden doors, concealed hazards, and so on. You can us
 
 > [!pf2-sidebar] SKILL EXPLORATION ACTIVITIES
 >
-> [[srd/pf2e/books/player-core/chapter-4-skills|Chapter 4: Skills]] includes additional exploration activities.
+> [[srd/pf2e/books/player-core/chapter-4-skills/index|Chapter 4: Skills]] includes additional exploration activities.
 >
-> **Borrow an Arcane Spell:** You use Arcana to prepare a spell from someone else's spellbook.
-> **Coerce:** You use Intimidation to threaten a creature so it does what you want.
-> **Cover Tracks:** You use Survival to obscure your passing.
-> **Decipher Writing:** You use a suitable skill to understand archaic, esoteric, or obscure texts.
-> **Gather Information:** You use Diplomacy to canvass the area to learn about a specific individual or topic.
-> **Identify Alchemy:** You use Craft and alchemist's tools to identify an alchemical item.
-> **Identify Magic:** Using a variety of skills, you can learn about a magic item, location, or ongoing effect.
-> **Impersonate:** You use Deception and usually a disguise kit to create a disguise.
-> **Learn a Spell:** You use the skill corresponding to the spell's tradition to gain access to a new spell.
-> **Make an Impression:** You use Diplomacy to make a good impression on someone (page 239).
-> **Repair:** With a repair kit and the Crafting skill, you fix a damaged item.
-> **Sense Direction:** You use Survival to get a sense of where you are or determine cardinal directions.
-> **Squeeze:** Using Acrobatics, you squeeze though very tight spaces.
-> **Track:** You use Survival to follow tracks.
-> **Treat Wounds:** You use Medicine to treat a living creature's wounds.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Borrow an Arcane Spell|Borrow an Arcane Spell]]:** You use [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] to prepare a spell from someone else's spellbook.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]]:** You use [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] to threaten a creature so it does what you want.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Cover Tracks|Cover Tracks]]:** You use [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] to obscure your passing.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Decipher Writing|Decipher Writing]]:** You use a suitable skill to understand archaic, esoteric, or obscure texts.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]]:** You use [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] to canvass the area to learn about a specific individual or topic.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Alchemy|Identify Alchemy]]:** You use [[srd/pf2e/compendium/rules-elements/skills/crafting|Craft]] and [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist's tools]] to identify an [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] item.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]]:** Using a variety of skills, you can learn about a magic item, location, or ongoing effect.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]]:** You use [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and usually a [[srd/pf2e/compendium/equipment/adventuring-gear/disguise-kit-elite-cosmetics|disguise kit]] to create a disguise.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]]:** You use the skill corresponding to the spell's tradition to gain access to a new spell.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]]:** You use Diplomacy to make a good impression on someone (page 239).
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repair]]:** With a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|repair kit]] and the Crafting skill, you fix a damaged item.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]]:** You use Survival to get a sense of where you are or determine cardinal directions.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]]:** Using [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]], you squeeze though very tight spaces.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]]:** You use Survival to follow tracks.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]]:** You use [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] to treat a living creature's wounds.
 
 ## Rest and Daily Preparations
 
-You're at your best when you take time to rest and prepare. Once every 24 hours, you can take a period of rest (typically 8 hours), during which you heal naturally, regaining Hit Points equal to your Constitution modifier (minimum 1) times your level, and you might recover from or improve certain conditions. Sleeping in armor results in poor rest that leaves you fatigued. If you go more than 16 hours without resting, you become fatigued (you can't recover from this fatigue until you rest at least 8 continuous hours).
+You're at your best when you take time to rest and prepare. Once every 24 hours, you can take a period of rest (typically 8 hours), during which you heal naturally, regaining Hit Points equal to your Constitution modifier (minimum 1) times your level, and you might recover from or improve certain conditions. Sleeping in armor results in poor rest that leaves you [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]]. If you go more than 16 hours without resting, you become fatigued (you can't recover from this fatigue until you rest at least 8 continuous hours).
 
 After you rest, you make your [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Daily Preparations|daily preparations]], which takes around 1 hour. You can prepare only if you've rested, and only once per day. During preparations:
 
 - Spellcasters regain spell slots, and prepared spellcasters choose spells to have available that day.
 - Focus Points, abilities that refresh during preparations, and abilities that can be used only a certain number of times per day, including magic item uses, are reset.
 - You don armor and equip weapons and other gear.
-- You invest up to 10 worn magic items to gain their benefits for the day.
+- You [[srd/pf2e/compendium/rules-elements/actions/gm-core-co-tak#Invest an Item|invest]] up to 10 worn magic items to gain their benefits for the day.

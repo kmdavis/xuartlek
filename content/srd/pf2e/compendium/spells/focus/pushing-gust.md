@@ -19,7 +19,7 @@ source: "Player Core"
 
 `Air`  `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Air
+- **Domain**: [[srd/pf2e/compendium/character/domains#Air|Air]]
 - **Range**: 500 feet
 - **Target**: 1 creature
 - **Defense**: Fortitude
@@ -32,6 +32,6 @@ Giving the air a push, you buffet the target with a powerful gust of wind; it mu
 
 **Failure** The target is pushed 10 feet away from you.
 
-**Critical Failure** The target is pushed 10 feet away from you and knocked prone.
+**Critical Failure** The target is pushed 10 feet away from you and knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Player Core p. 372*

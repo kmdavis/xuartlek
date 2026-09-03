@@ -26,7 +26,7 @@ This clockwork vehicle can travel just below the surface of the water for short 
 
 **Passengers** 1
 
-**Piloting Check** Crafting (DC 18) or Sailing Lore (DC 16)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 18) or [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] (DC 16)
 
 ---
 
@@ -38,11 +38,11 @@ This clockwork vehicle can travel just below the surface of the water for short 
 
 **HP** 30 (BT 15)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
 ---
 
-**Speed** swim 20 feet (clockwork)
+**Speed** swim 20 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]])
 
 **Collision** 2d8 (DC 16)
 

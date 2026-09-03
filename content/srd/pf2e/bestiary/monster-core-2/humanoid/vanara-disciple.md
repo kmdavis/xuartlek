@@ -31,16 +31,16 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; low-light vision"
-languages: "Common, Fey, Vanara"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], Vanara"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +4, Religion +4, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [1, 4, 0, 1, 3, 0]
 abilities_top:
   - name: "Prehensile Tail"
-    desc: "The vanara can use their long, flexible tail to perform Interact actions requiring a free hand, even if both hands are otherwise occupied. Their tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and they can't use it to hold items."
+    desc: "The vanara can use their long, flexible tail to perform [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] actions requiring a free hand, even if both hands are otherwise occupied. Their tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and they can't use it to hold items."
   - name: "Items"
-    desc: "Bo Staff, javelins (3)"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/club/bo-staff|Bo Staff]], [[srd/pf2e/compendium/equipment/weapons/dart/javelin|javelins]] (3)"
 ac: 19
 armorclass:
   - name: "AC"
@@ -52,11 +52,11 @@ health:
 speed: "25 feet, climb 15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +7 (Agile, finesse, nonlethal, unarmed) __Damage__ 1d6+1 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]]) __Damage__ 1d6+1 bludgeoning"
   - name: "Melee"
-    desc: "⬻ bo staff +4 (Parry, reach 10 feet, trip) __Damage__ 1d8+1 bludgeoning"
+    desc: "⬻ bo staff +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/parry|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]]) __Damage__ 1d8+1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ javelin +7 (thrown 30 feet) __Damage__ 1d6+1 piercing"
+    desc: "⬻ javelin +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 1d6+1 piercing"
 abilities_bot:
   - name: "Flurry of Blows"
     desc: "⬻"
@@ -67,12 +67,12 @@ abilities_bot:
   - name: "Spring Up"
     desc: "⬺"
   - name: "Requirements"
-    desc: "The vanara disciple is prone"
+    desc: "The vanara disciple is [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]"
   - name: "Effect"
-    desc: "The vanara Stands, then can immediately Step twice. The Stand action doesn't trigger reactions."
+    desc: "The vanara [[srd/pf2e/compendium/rules-elements/actions/player-core#Stand|Stands]], then can immediately [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] twice. The Stand action doesn't trigger reactions."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 13 - __1st__ Pest Form (monkey only)"
+    desc: "DC 13 - __1st__ [[srd/pf2e/compendium/spells/rank-1/pest-form|Pest Form]] (monkey only)"
 sourcebook: "_Monster Core 2_, page 342."
 ```
 

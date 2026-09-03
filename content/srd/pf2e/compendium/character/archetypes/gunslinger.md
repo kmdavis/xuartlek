@@ -18,6 +18,6 @@ source: "Guns & Gears (Remastered)"
 
 #### Multiclass Gunslinger Characters
 
-Gunslinger is a great fit for dexterous characters who want a weapon that hits hard from a distance, especially rangers and rogues. Spellcasters with _sure strike_, especially witches and bards with their one-action cantrips, might favor firearms with the fatal property and gunslinger abilities that improve options for supporting their allies.
+Gunslinger is a great fit for dexterous characters who want a weapon that hits hard from a distance, especially [[srd/pf2e/compendium/character/classes/ranger|rangers]] and [[srd/pf2e/compendium/character/classes/rogue|rogues]]. Spellcasters with [[srd/pf2e/compendium/spells/rank-1/sure-strike|_sure strike_]], especially [[srd/pf2e/compendium/character/classes/witch|witches]] and [[srd/pf2e/compendium/character/classes/bard|bards]] with their one-action cantrips, might favor firearms with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal]] property and gunslinger abilities that improve options for supporting their allies.
 
 *Source: Guns & Gears (Remastered) p. 127*

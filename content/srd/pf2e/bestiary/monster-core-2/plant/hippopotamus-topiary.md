@@ -27,10 +27,10 @@ modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; branchlocation (precise) 30 feet, low-light vision, scent (imprecise) 60 feet"
-languages: "Muan; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics +23, Nature +21, Stealth +23"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +21, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +23"
 abilityMods: [7, 4, 4, -2, 0, 3]
 abilities_top:
   - name: "Branchlocation"
@@ -42,7 +42,7 @@ armorclass:
 hp: 220
 health:
   - name: "HP"
-    desc: "220; __Immunities__ bleed; __Weaknesses__ fire 14"
+    desc: "220; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 14"
 speed: "25 feet, swim 30 feet; walk through plants"
 attacks:
   - name: "Melee"
@@ -51,27 +51,27 @@ attacks:
     desc: "⬻ hoof +22 __Damage__ 2d8+15 bludgeoning"
 abilities_bot:
   - name: "Absorb Water"
-    desc: "When in water or exposed to a water effect, the hippopotamus loses its weakness to fire until the start of its next turn."
+    desc: "When in water or exposed to a [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] effect, the hippopotamus loses its weakness to [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] until the start of its next turn."
   - name: "Jaw Crush"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The hippopotamus topiary has a creature grabbed"
+    desc: "The hippopotamus topiary has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]"
   - name: "Effect"
-    desc: "It forcefully bites down on whatever is in its mouth, dealing 6d8 piercing damage with a DC 27 basic Reflex save. On a critical failure, creatures take 1d8 persistent bleed damage."
+    desc: "It forcefully bites down on whatever is in its mouth, dealing 6d8 piercing damage with a DC 27 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. On a critical failure, creatures take 1d8 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]."
   - name: "Pruning"
-    desc: "⬻ (Concentrate, manipulate, polymorph) The hippopotamus topiary twists and contorts its shape, shedding branches and leaves as needed to change into a topiary of a Huge or smaller animal. Until the next time it acts, the topiary has an automatic result of 42 for Deception checks and DCs to appear as a mundane topiary."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]]) The hippopotamus topiary twists and contorts its shape, shedding branches and leaves as needed to change into a topiary of a Huge or smaller animal. Until the next time it acts, the topiary has an automatic result of 42 for [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks and DCs to appear as a mundane topiary."
   - name: "Swamp Fever"
-    desc: "(Disease)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]])"
   - name: "Saving Throw"
     desc: "DC 26 Fortitude; Onset 1 day"
   - name: "Stage 1"
-    desc: "sickened 1 (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (1 day)"
   - name: "Stage 2"
     desc: "sickened 2 (1 day)"
   - name: "Stage 3"
-    desc: "sickened 2 and 1d8 persistent bleed damage (1 day)"
+    desc: "sickened 2 and 1d8 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] (1 day)"
   - name: "Stage 4"
-    desc: "sickened 2, drained 1, and 2d8 persistent bleed damage (1 day)"
+    desc: "sickened 2, [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1, and 2d8 persistent bleed damage (1 day)"
   - name: "Stage 5"
     desc: "dead"
 sourcebook: "_Monster Core 2_, page 215."

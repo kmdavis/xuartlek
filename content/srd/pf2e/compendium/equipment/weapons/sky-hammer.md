@@ -18,10 +18,10 @@ source: "GM Core"
 - **Price**: 70,000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: Warhammer
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|Warhammer]]
 
 The sturdy head of this _+3 major striking flaming shock orichalcum warhammer_ is shaped like a blazing comet. 
 
-**Activate—Comet Fall** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Trigger** Your attack roll with the _sky hammer_ is a critical success; **Effect** A 6th-rank arcane fireball spell explodes, centered on the sky hammer. The spell DC is 45. You are immune to the fireball's effect, though your allies are not.
+**Activate—Comet Fall** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** Your attack roll with the _sky hammer_ is a critical success; **Effect** A 6th-rank arcane [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fireball]] spell explodes, centered on the sky hammer. The spell DC is 45. You are immune to the fireball's effect, though your allies are not.
 
 *Source: GM Core p. 242*

@@ -31,10 +31,10 @@ modifier: 34
 perception:
   - name: "Perception"
     desc: "Perception +34; darkvision, scent (imprecise) 60 feet, tremorsense (imprecise) 60 feet"
-languages: "Aklo"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +36, Intimidation +29"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +36, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +29"
 abilityMods: [10, 6, 9, -3, 6, 1]
 ac: 39
 armorclass:
@@ -43,14 +43,14 @@ armorclass:
 hp: 275
 health:
   - name: "HP"
-    desc: "275 (fast healing 20); __Immunities__ bleed, blinded, controlled, critical hits, deafened, precision, sleep; __Resistances__ acid 20, cold 20, sonic 20"
+    desc: "275 (fast healing 20); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]], [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Critical Hits|critical hits]], [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]], precision, [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] 20, [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 20, [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]] 20"
 abilities_mid:
   - name: "Maddening Cacophony"
-    desc: "(auditory, aura, incapacitation, mental) 60 feet. A shoggoth constantly voices syllables and mutterings that mortals weren't meant to hear. A creature entering the aura or starting its turn in the aura must succeed at a DC 38 Will save or become confused for 1 round (2d4 rounds on a critical failure). A creature that succeeds at its save is temporarily immune for 24 hours."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 60 feet. A shoggoth constantly voices syllables and mutterings that mortals weren't meant to hear. A creature entering the aura or starting its turn in the aura must succeed at a DC 38 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round (2d4 rounds on a critical failure). A creature that succeeds at its save is temporarily immune for 24 hours."
 speed: "40 feet, climb 25 feet, swim 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pseudopod +33 (Magical, reach 30 feet) __Damage__ 4d10+18 bludgeoning plus Grab"
+    desc: "⬻ pseudopod +33 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 30 feet]]) __Damage__ 4d10+18 bludgeoning plus Grab"
 abilities_bot:
   - name: "Constrict"
     desc: "⬻ 2d10+15 bludgeoning, DC 40"

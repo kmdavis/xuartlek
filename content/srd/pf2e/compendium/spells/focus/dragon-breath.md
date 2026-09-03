@@ -20,7 +20,7 @@ source: "Player Core 2"
 
 - **Bloodline**: Draconic
 - **Area**: 30-foot cone
-- **Defense**: basic Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
 You spew energy from your mouth, dealing 5d6 damage with a basic Reflex save. The damage type depends on the magical tradition related to the dragon that influenced your bloodline: **arcane** force, **divine** spirit, **occult** mental, or **primal** fire, or your specfic Draconic Exemplar
 

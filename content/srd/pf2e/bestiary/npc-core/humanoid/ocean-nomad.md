@@ -29,14 +29,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16"
-languages: "Common, Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Nature +10, Sailing Lore +18, Survival +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] +18, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +13"
 abilityMods: [4, 4, 2, 0, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "Leather Armor, Net, _+1 trident_"
+    desc: "Leather Armor, Net, _+1 [[srd/pf2e/compendium/equipment/weapons/spear/trident|trident]]_"
 ac: 24
 armorclass:
   - name: "AC"
@@ -47,9 +47,9 @@ health:
     desc: "100"
 abilities_mid:
   - name: "Tidal Pressure"
-    desc: "⬲ (water)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]])"
   - name: "Trigger"
-    desc: "An adjacent creature attempts an Athletics check to Swim"
+    desc: "An adjacent creature attempts an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]]"
   - name: "Effect"
     desc: "The ocean nomad chooses to either prop the swimmer up or yanks them down into the depths. Increase or decrease the result of the Athletics check by one step. If the ocean nomad chooses to decrease the result, the creature can attempt a DC 24 Fortitude save to negate the effect."
 speed: "25 feet, swim 25 feet"
@@ -57,9 +57,9 @@ attacks:
   - name: "Melee"
     desc: "⬻ _trident_ +17 __Damage__ 1d8+10 piercing"
   - name: "Ranged"
-    desc: "⬻ _trident_ +17 (thrown 20 feet) __Damage__ 1d8+10 piercing"
+    desc: "⬻ _trident_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d8+10 piercing"
   - name: "Melee"
-    desc: "⬻ fist +16 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+10 bludgeoning"
+    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+10 bludgeoning"
 abilities_bot:
   - name: "Stab and Twist"
     desc: "⬻"

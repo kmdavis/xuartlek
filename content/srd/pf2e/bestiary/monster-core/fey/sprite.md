@@ -29,14 +29,14 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; low-light vision"
-languages: "Common, Fey"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Stealth +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
 abilityMods: [-3, 4, 0, -2, 0, 2]
 abilities_top:
   - name: "Luminous Fire"
-    desc: "(light, primal) A sprite naturally sheds light like a torch. The sprite can extinguish, rekindle, or change the color of this light by using an action with the concentrate trait. While this light is extinguished, the sprite's Strikes don't deal fire damage, and they can't use their luminous spark Strike."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) A sprite naturally sheds light like a [[srd/pf2e/compendium/equipment/adventuring-gear/torch|torch]]. The sprite can extinguish, rekindle, or change the color of this light by using an action with the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. While this light is extinguished, the sprite's Strikes don't deal fire damage, and they can't use their luminous spark Strike."
   - name: "Items"
     desc: "Rapier"
 ac: 15
@@ -50,12 +50,12 @@ health:
 speed: "10 feet, fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ rapier +8 (deadly d8, Disarm, Finesse, Fire, Magical, reach 0 feet) __Damage__ 1d6–3 piercing plus 1 fire"
+    desc: "⬻ rapier +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d6–3 piercing plus 1 fire"
   - name: "Ranged"
-    desc: "⬻ luminous spark +8 (Fire, Light, range 20 feet) __Damage__ 1d4 fire"
+    desc: "⬻ luminous spark +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|Light]], range 20 feet) __Damage__ 1d4 fire"
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 16 - __Cantrips (1st)__ Daze, Detect Magic, Light - __1st__ Dizzying Colors"
+    desc: "DC 16 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/light|Light]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/dizzying-colors|Dizzying Colors]]"
 sourcebook: "_Monster Core_, page 322."
 ```
 

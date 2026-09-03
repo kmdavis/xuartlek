@@ -23,6 +23,6 @@ source: "Impossible Magic"
 - **Target**: your companion
 - **Duration**: 1 minute
 
-The shadow of your companion joins in the fight. The first time your companion Strikes each round, their shadow can also make an unarmed Strike against a different creature within range using the same multiple attack penalty as the original attack. The shadow's Strike deals void damage instead of any other damage type the Strike would normally do. Both attacks contribute to your companion's multiple attack penalty as normal.
+The shadow of your companion joins in the fight. The first time your companion [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strikes]] each round, their shadow can also make an unarmed Strike against a different creature within range using the same multiple attack penalty as the original attack. The shadow's Strike deals void damage instead of any other damage type the Strike would normally do. Both attacks contribute to your companion's multiple attack penalty as normal.
 
 *Source: Impossible Magic p. 129*

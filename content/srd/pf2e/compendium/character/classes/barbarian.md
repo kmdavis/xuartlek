@@ -14,9 +14,9 @@ source: "Player Core 2"
 
 You'll see the following key terms in many barbarian class features.
 
- **Flourish:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core/flourish|Flourish]]:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
- **Rage:** You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core-2/rage|Rage]]:** You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.
 
 ### Roleplaying the Barbarian
 
@@ -52,7 +52,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Expert in Perception |
 | **Saving Throws** | Expert in Fortitude Trained in Reflex Expert in Will |
-| **Skills** | Trained in Athletics Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
+| **Skills** | Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics\|Athletics]] Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
 | **Attacks** | Trained in simple weapons Trained in martial weapons Trained in unarmed attacks |
 | **Defenses** | Trained in light armor Trained in medium armor Trained in unarmored defense |
 | **Class DC** | Trained in barbarian class DC |
@@ -121,9 +121,12 @@ Instincts can be found here.
 
 At 2nd level and every 2 levels thereafter, you gain a skill feat. Skill feats have the skill trait. You must be trained or better in the corresponding skill to select a skill feat.
 
+#### Furious Footfalls
+
+The urge to fight drives you ever forward. You gain a +5-foot status bonus to your Speed. This bonus increases to +10 feet while you’re [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]].
+
 | | |
 | --- | --- |
-| **Furious Footfalls** | The urge to fight drives you ever forward. You gain a +5-foot status bonus to your Speed. This bonus increases to +10 feet while you’re raging. |
 | **General Feats** | At 3rd level and every 4 levels thereafter, you gain a general feat. |
 
 #### Skill Increases
@@ -138,7 +141,7 @@ At 3rd level and every 2 levels thereafter, you gain a skill increase. You can u
 
 #### Brutality
 
-Your fury makes your weapons lethal. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert. While raging, you have the critical specialization benefits for melee weapons and unarmed attacks.
+Your fury makes your weapons lethal. Your proficiency ranks for simple weapons, martial weapons, and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks increase to expert. While [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]], you have the critical specialization benefits for melee weapons and unarmed attacks.
 
 #### Juggernaut
 
@@ -150,7 +153,7 @@ Your rage helps you hit harder. You deal an additional 2 damage with weapons and
 
 #### Raging Resistance
 
-Repeated exposure and toughened skin allow you to fend off harm. While raging, you gain resistance equal to 3 + your Constitution modifier to damage types based on your instinct.
+Repeated exposure and toughened skin allow you to fend off harm. While [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]], you gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] equal to 3 + your Constitution modifier to damage types based on your instinct.
 
 | | |
 | --- | --- |
@@ -158,7 +161,7 @@ Repeated exposure and toughened skin allow you to fend off harm. While raging, y
 
 #### Mighty Rage
 
-Your rage intensifies and lets you hit harder at the start of a fight. Your proficiency rank for your barbarian class DC increases to expert. In addition, when you use Quick-Tempered, the first Strike you make during your first turn deals additional damage equal to your Rage damage.
+Your rage intensifies and lets you hit harder at the start of a fight. Your proficiency rank for your barbarian class DC increases to expert. In addition, when you use [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Quick-Tempered|Quick-Tempered]], the first Strike you make during your first turn deals additional damage equal to your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]] damage.
 
 #### Greater Juggernaut
 
@@ -170,7 +173,7 @@ You have a stalwart physiology. Your proficiency rank for Fortitude saves increa
 
 #### Weapon Mastery
 
-Your rage makes you even more effective with the weapons you wield. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to master.
+Your rage makes you even more effective with the weapons you wield. Your proficiency ranks for simple weapons, martial weapons, and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks increase to master.
 
 #### Greater Weapon Specialization
 
@@ -180,13 +183,13 @@ The weapons you’ve mastered become truly fearsome in your hands. Your damage f
 
 Your rage makes it difficult to control you. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
 
-| | |
-| --- | --- |
-| **Perception Mastery** | Your instinct heightens each of your senses further. Your proficiency rank for Perception increases to master. |
+#### Perception Mastery
+
+Your instinct heightens each of your senses further. Your proficiency rank for [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] increases to master.
 
 #### Revitalizing Rage
 
-Your rage sustains you more frequently, leaving you ready to jump into battle anew. Instead of needing to wait 1 minute before you can gain temporary Hit Points from Rage again, you need only to spend at least one full turn not in a Rage.
+Your rage sustains you more frequently, leaving you ready to jump into battle anew. Instead of needing to wait 1 minute before you can gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] from [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]] again, you need only to spend at least one full turn not in a Rage.
 
 | | |
 | --- | --- |
@@ -194,6 +197,6 @@ Your rage sustains you more frequently, leaving you ready to jump into battle an
 
 #### Devastator
 
-Your Strikes are so devastating that you hardly care about resistance, and your barbarian abilities are unparalleled. Your proficiency rank for your barbarian class DC increases to master. Your melee Strikes ignore up to 10 resistance to the physical damage they deal.
+Your Strikes are so devastating that you hardly care about resistance, and your barbarian abilities are unparalleled. Your proficiency rank for your barbarian class DC increases to master. Your melee Strikes ignore up to 10 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] to the physical damage they deal.
 
 *Source: Player Core 2 p. 70*

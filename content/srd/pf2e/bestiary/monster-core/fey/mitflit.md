@@ -29,14 +29,14 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; darkvision, scent (imprecise) 30 feet"
-languages: "Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Diplomacy +1, Nature +3, Stealth +5, Thievery +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +1, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +3, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +5"
 abilityMods: [-1, 3, 0, -1, 1, -1]
 abilities_top:
   - name: "Self-Loathing"
-    desc: "(emotion, mental) A mitflit's self-loathing makes it easy to influence. It takes a –4 penalty to its Will DC against checks to Coerce, Demoralize, Make an Impression, and Request."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) A mitflit's self-loathing makes it easy to influence. It takes a –4 penalty to its Will DC against checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]], and [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]]."
   - name: "Items"
     desc: "Dart (10), Shortsword"
 ac: 14
@@ -50,15 +50,15 @@ health:
 speed: "20 feet, climb 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +8 (Agile, Finesse, versatile S) __Damage__ 1d6–1 piercing"
+    desc: "⬻ shortsword +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6–1 piercing"
   - name: "Ranged"
-    desc: "⬻ dart +8 (Agile, range increment 20 feet, Thrown) __Damage__ 1d4–1 piercing"
+    desc: "⬻ dart +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|Thrown]]) __Damage__ 1d4–1 piercing"
 abilities_bot:
   - name: "Vengeful Anger"
-    desc: "(Emotion, Mental) As long as it isn't frightened, a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) As long as it isn't [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], a mitflit gains a +2 status bonus to damage rolls against a creature that has previously damaged or tormented it."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 16 - __Cantrips (1st)__ Prestidigitation - __1st__ Bane - __2nd__ Speak with Animals (arthropods only; at will)"
+    desc: "DC 16 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/bane|Bane]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]] (arthropods only; at will)"
 sourcebook: "_Monster Core_, page 180."
 ```
 

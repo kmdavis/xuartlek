@@ -17,9 +17,9 @@ source: "Treasure Vault (Remastered)"
 `Consumable`  `Magical`  `Talisman`
 
 - **Usage**: affixed to a shield
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You use the affixed shield to Shield Block a melee attack
-- **Requirement**: You're a master in Athletics, and you have the affixed shield raised.
+- **Requirement**: You're a master in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]], and you have the affixed shield raised.
 
 This heavy metal emblem is mounted on the face of the affixed shield and has a dull gray gemstone embedded at its center. When you Activate the talisman, the gem shatters, releasing a powerful shockwave in a 15-foot cone that must include the enemy who struck the triggering blow, if possible. Each creature in the cone takes 2d6 sonic damage with a DC 28 basic Fortitude save. Any creature that fails its save is pushed 5 feet away from you (or 10 feet on a critical failure).
 

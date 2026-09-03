@@ -17,7 +17,7 @@ source: "Battlecry!"
 
 - **Price**: 85 gp
 - **Ammunition**: arrow, bolt
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 The tip of this arrow is carved into the shape of a lidless eye. When an activated scouting arrow strikes a surface within the second range increment of the weapon it was fired from, the wielder of that weapon can Seek as though they were at the point of impact of the arrow using their normal senses. After this glimpse, the ammunition crumbles to ash.
 

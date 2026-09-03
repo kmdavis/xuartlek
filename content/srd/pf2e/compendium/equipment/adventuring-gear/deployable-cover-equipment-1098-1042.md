@@ -18,7 +18,7 @@ source: "Guns & Gears (Remastered)"
 - **Usage**: held in 2 hands
 - **Bulk**: 1
 
-This thick mat of canvas, foliage, and wood is mounted on a tripod of flexible metal struts, folded into a baton- like shape, and clamped shut. You can rapidly deploy it on the ground with an Interact action to create cover. Deployable cover completely blocks one edge of the chosen square, allowing you (and others) to gain standard cover when you use the Take Cover action. Before it can be used again, deployable cover must be carefully folded and clamped shut, which takes 1 minute.
+This thick mat of canvas, foliage, and wood is mounted on a tripod of flexible metal struts, folded into a baton- like shape, and clamped shut. You can rapidly deploy it on the ground with an Interact action to create cover. Deployable cover completely blocks one edge of the chosen square, allowing you (and others) to gain standard cover when you use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Take Cover|Take Cover]] action. Before it can be used again, deployable cover must be carefully folded and clamped shut, which takes 1 minute.
 
 ### Deployable Cover
 
@@ -34,6 +34,6 @@ This thick mat of canvas, foliage, and wood is mounted on a tripod of flexible m
 
 ---
 
-Specially crafted to protect against bullet fire, a ballistic cover also works against other physical projectiles, such as arrows, bolts, and thrown weapons. While a creature has cover from Taking Cover behind a ballistic cover, it gains resistance 2 to piercing damage from ranged weapons and ranged unarmed attacks.
+Specially crafted to protect against bullet fire, a ballistic cover also works against other physical projectiles, such as arrows, bolts, and [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapons. While a creature has cover from Taking Cover behind a ballistic cover, it gains resistance 2 to piercing damage from ranged weapons and ranged [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks.
 
 *Source: Guns & Gears (Remastered) p. 64*

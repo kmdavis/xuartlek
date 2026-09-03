@@ -18,12 +18,12 @@ source: "Battlecry!"
 - **Price**: 430 gp
 - **Usage**: worn armor
 - **Bulk**: 2
-- **Base Armor**: Chain Mail
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Chain Mail|Chain Mail]]
 
-This _+1 chain mail_ is most commonly worn by mid-level leaders in charge of squads or platoons of soldiers and was designed to enable them to relay and receive tactical information from their commanders.
+This _[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|+1]] [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]]_ is most commonly worn by mid-level leaders in charge of squads or platoons of soldiers and was designed to enable them to relay and receive tactical information from their commanders.
 
-**Activate—Mail Delivery** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, manipulate, occult) **Frequency** once per hour; **Effect** You cast _message_ as a 3rd-rank spell.
+**Activate—Mail Delivery** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) **Frequency** once per hour; **Effect** You cast [[srd/pf2e/compendium/spells/cantrips/message|_message_]] as a 3rd-rank spell.
 
-**Craft Requirements** Supply a casting of _message_ (3rd rank).
+**Craft Requirements** Supply a casting of [[srd/pf2e/compendium/spells/cantrips/message|_message_]] (3rd rank).
 
 *Source: Battlecry! p. 122*

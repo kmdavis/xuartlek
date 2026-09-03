@@ -17,6 +17,6 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 4 sp
 - **Bulk**: 1
 
-This harness fits around the torso of an animal companion and connects via struts to a number of wheels to assist the companion’s movement. Companion chairs can be fitted for animal companions of any shape or size and have two- and four-wheel configurations. Like the basic chair, a companion chair is ideal for everyday use but not more strenuous activity, making it more common among non-adventurers.
+This harness fits around the torso of an [[srd/pf2e/compendium/feats/player-core/class/animal-companion|animal companion]] and connects via struts to a number of wheels to assist the companion’s movement. Companion chairs can be fitted for animal companions of any shape or size and have two- and four-wheel configurations. Like the basic chair, a companion chair is ideal for everyday use but not more strenuous activity, making it more common among non-adventurers.
 
 *Source: Treasure Vault (Remastered) p. 105*

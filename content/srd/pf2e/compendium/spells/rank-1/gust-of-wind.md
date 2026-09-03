@@ -29,7 +29,7 @@ A violent wind issues forth from your palm, blowing from the point where you are
 
 **Success** The creature can't move against the wind.
 
-**Failure** The creature is knocked prone. If it was flying, it takes the effects of critical failure instead.
+**Failure** The creature is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. If it was flying, it takes the effects of critical failure instead.
 
 **Critical Failure** The creature is pushed 30 feet in the wind's direction, knocked prone, and takes 2d6 bludgeoning damage.
 

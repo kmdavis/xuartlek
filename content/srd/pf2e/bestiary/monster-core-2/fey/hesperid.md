@@ -31,10 +31,10 @@ modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; low-light vision"
-languages: "Common, Fey, Utopian"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], Utopian"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +19, Athletics +11, Deception +19, Diplomacy +21, Intimidation +19, Nature +19, Performance +21, Society +17, Stealth +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +19, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +19, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +21, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +19, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +19, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +21, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17"
 abilityMods: [0, 6, 4, 4, 4, 6]
 ac: 27
 armorclass:
@@ -43,22 +43,22 @@ armorclass:
 hp: 175
 health:
   - name: "HP"
-    desc: "175; __Weaknesses__ cold iron 10"
+    desc: "175; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10"
 abilities_mid:
   - name: "Sunset Dependent"
-    desc: "A hesperid is mystically bonded to a single remote location with a good view of the sunset—usually an island, coastal cliff, or valley. If they aren't at that location and able to see the sky at sunset on any given day, they become drained 1, increasing the value by 1 for each missed sunset and reducing by 1 only when they see a sunset. A hesperid can perform a 24-hour ritual to bond to a new location."
+    desc: "A hesperid is mystically bonded to a single remote location with a good view of the sunset—usually an island, coastal cliff, or valley. If they aren't at that location and able to see the sky at sunset on any given day, they become [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1, increasing the value by 1 for each missed sunset and reducing by 1 only when they see a sunset. A hesperid can perform a 24-hour ritual to bond to a new location."
 speed: "30 feet, fly 60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ sunset ribbon +21 (Agile, finesse) __Damage__ 2d10+6 slashing plus 1d6 fire and 1d6 vitality"
+    desc: "⬻ sunset ribbon +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 2d10+6 slashing plus 1d6 fire and 1d6 vitality"
   - name: "Ranged"
-    desc: "⬻ sunset ray +21 (Magical, range increment 60 feet) __Damage__ 2d12+6 fire plus 1d6 vitality"
+    desc: "⬻ sunset ray +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 60 feet) __Damage__ 2d12+6 fire plus 1d6 vitality"
 abilities_bot:
   - name: "Create Golden Apple"
-    desc: "⬺ (Primal) While the hesperid is within their bonded location, they can spin golden light around an object they're holding or touching of up to 20 cubic feet in volume and up to 80 Bulk. Doing so condenses the object into a magic apple made of golden light with light Bulk. The golden apple reverts back to its original shape after a full day away from the hesperid's bonded location or when the hesperid Dismisses the effect."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) While the hesperid is within their bonded location, they can spin golden light around an object they're holding or touching of up to 20 cubic feet in volume and up to 80 Bulk. Doing so condenses the object into a magic apple made of golden light with light Bulk. The golden apple reverts back to its original shape after a full day away from the hesperid's bonded location or when the hesperid [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismisses]] the effect."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 28, attack +20 - __Cantrips (5th)__ Light - __2nd__ Revealing Light - __5th__ Heal, Holy Light"
+    desc: "DC 28, attack +20 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/revealing-light|Revealing Light]] - __5th__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-3/holy-light|Holy Light]]"
 sourcebook: "_Monster Core 2_, page 236."
 ```
 

@@ -16,7 +16,7 @@ These small humanoids typically have green or gray skin and large heads with wid
 
 ### Members
 
-Big Boss Goblin (Creature 6), Goblin Chef (Creature 1), Goblin Commando (Creature 1), Goblin Get Gang (Creature 5), Goblin Pyro (Creature 1), Goblin Rabble (Creature 4), Goblin Scavenger (Creature 4), Goblin War Chanter (Creature 1), Goblin Warrior (Creature -1)
+[[srd/pf2e/bestiary/npc-core/humanoid/big-boss-goblin|Big Boss Goblin]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/goblin-chef|Goblin Chef]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/goblin-commando|Goblin Commando]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/goblin-get-gang|Goblin Get Gang]] (Creature 5), [[srd/pf2e/bestiary/monster-core/humanoid/goblin-pyro|Goblin Pyro]] (Creature 1), [[srd/pf2e/bestiary/battlecry/humanoid/goblin-rabble|Goblin Rabble]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/goblin-scavenger|Goblin Scavenger]] (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/goblin-war-chanter|Goblin War Chanter]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/goblin-warrior|Goblin Warrior]] (Creature -1)
 
 ### Goblin Leadership
 
@@ -32,7 +32,7 @@ Goblins construct ramshackle warrens in forests and coastal regions, usually nea
 
 ### Goblins Around The World
 
-Simple adjustments to goblins let you reflect different heritages if you wish. To represent a charhide or snow goblin NPC, give it cold or fire resistance equal to its level, then reduce its maximum Hit Points by its level. Give a razortooth goblin a jaws attack with the same attack and damage bonuses as its primary melee attack, but with a base damage of 1d6 piercing damage.
+Simple adjustments to goblins let you reflect different heritages if you wish. To represent a charhide or snow goblin NPC, give it [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] resistance equal to its level, then reduce its maximum Hit Points by its level. Give a razortooth goblin a jaws attack with the same attack and damage bonuses as its primary melee attack, but with a base damage of 1d6 piercing damage.
 
 ### New Outlooks
 

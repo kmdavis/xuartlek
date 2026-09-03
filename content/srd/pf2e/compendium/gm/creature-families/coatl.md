@@ -14,7 +14,7 @@ These sacred feathered serpents tirelessly serve the powers of knowledge and jus
 
 ### Members
 
-Mix Coatl (Creature 8), Quetz Coatl (Creature 10), Xiuh Coatl (Creature 12)
+[[srd/pf2e/bestiary/monster-core-2/beast/mix-coatl|Mix Coatl]] (Creature 8), [[srd/pf2e/bestiary/monster-core/beast/quetz-coatl|Quetz Coatl]] (Creature 10), [[srd/pf2e/bestiary/monster-core-2/beast/xiuh-coatl|Xiuh Coatl]] (Creature 12)
 
 ### Coatl Deities
 
@@ -22,7 +22,7 @@ Most good gods make use of coatls as their agents. There are three coatl deities
 
 ### Coatls and Sahkils
 
-Legends in Arcadia say that coatls and sahkils rose to prominence as the first mortals walked on Golarion. Each saw unique potential in the mortals; coatls saw hope and the capacity to rise to achieve great feats, while sahkils saw the potential to foster fear. Fearful mortals would never accomplish anything, becoming useless piles of flesh whose souls would languish. These withered souls would be unable to properly travel the River of Souls, disrupting the delicate balance of the afterlife. To this day, coatls work to inspire mortals and push them toward greater achievements all while striving to keep the sahkils’ terror at bay.
+Legends in Arcadia say that [[srd/pf2e/compendium/gm/creature-families/coatl|coatls]] and sahkils rose to prominence as the first mortals walked on Golarion. Each saw unique potential in the mortals; coatls saw hope and the capacity to rise to achieve great feats, while sahkils saw the potential to foster fear. Fearful mortals would never accomplish anything, becoming useless piles of flesh whose souls would languish. These withered souls would be unable to properly travel the River of Souls, disrupting the delicate balance of the afterlife. To this day, coatls work to inspire mortals and push them toward greater achievements all while striving to keep the sahkils’ terror at bay.
 
 ### Other Coatls
 

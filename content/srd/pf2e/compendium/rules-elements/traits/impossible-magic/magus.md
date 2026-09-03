@@ -13,6 +13,6 @@ source: "Impossible Magic"
 
 `Magus`
 
-This indicates abilities from the magus class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/magus|magus class.]]
 
 *Source: Impossible Magic p. 252*

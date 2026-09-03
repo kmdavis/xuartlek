@@ -13,6 +13,6 @@ source: "Impossible Magic"
 
 `Necromancer`
 
-This indicates abilities from the necromancer class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/necromancer|necromancer]] class.
 
 *Source: Impossible Magic p. 252*

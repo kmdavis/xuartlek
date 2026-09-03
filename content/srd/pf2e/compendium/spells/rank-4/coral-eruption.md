@@ -17,8 +17,8 @@ source: "Impossible Magic"
 
 - **Traditions**: Arcane, Primal
 - **Range**: 120 feet
-- **Area**: two 10-foot bursts that don’t overlap
-- **Defense**: basic Reflex
+- **Area**: two 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|bursts]] that don’t overlap
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 - **Duration**: 1 minute
 
 Razor sharp coral erupts from the ground, transforming the landscape into a dangerous coral reef. You can create a third nonoverlapping burst if the centers of all three bursts are underwater. Creatures in the area when the spell is cast take 6d6 piercing damage and must attempt a basic Reflex save. A creature that critically fails its saving throw also takes 1d6 persistent bleed damage. The area becomes difficult terrain and hazardous terrain. A creature that moves through the area takes 3 piercing damage for every square of that area it moves into.

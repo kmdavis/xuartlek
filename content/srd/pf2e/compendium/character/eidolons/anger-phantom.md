@@ -16,7 +16,7 @@ source: "Impossible Magic"
 `Eidolon`  `Ethereal`  `Phantom`
 
 - **Tradition**: Occult
-- **Home Plane**: Ethereal Plane
+- **Home Plane**: [[srd/pf2e/compendium/gm/planes#Ethereal Plane|Ethereal Plane]]
 
 **Size** Medium or Small
 
@@ -30,7 +30,7 @@ source: "Impossible Magic"
 - Cha 1
 - AC ( Dex cap)
 
-**Skills** Intimidation, Occultism
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
 
 **Senses** darkvision
 
@@ -52,12 +52,12 @@ Your eidolon makes a melee Strike. This counts as two attacks when calculating y
 
 ### Seething Frenzy [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
-Your eidolon's fury boils over into a reckless, out-of-control frenzy. While frenzied, your eidolon is affected by _boost eidolon_ and gains temporary Hit Points equal to your level, but takes a –1 penalty to AC. Your eidolon can't voluntarily end the frenzy or start another frenzy while in the frenzy. The frenzy and the accompanying temporary Hit Points last for 1 minute or until your eidolon is no longer manifested, whichever comes first, after which they can't start another frenzy for 1 minute.
+Your eidolon's fury boils over into a reckless, out-of-control frenzy. While frenzied, your eidolon is affected by [[srd/pf2e/compendium/spells/cantrips/boost-eidolon|_boost eidolon_]] and gains temporary Hit Points equal to your level, but takes a –1 penalty to AC. Your eidolon can't voluntarily end the frenzy or start another frenzy while in the frenzy. The frenzy and the accompanying temporary Hit Points last for 1 minute or until your eidolon is no longer manifested, whichever comes first, after which they can't start another frenzy for 1 minute.
 
  When your eidolon makes a Furious Strike while in a Seething Frenzy, the status bonus from _boost eidolon_ is 3 per damage die. The extra damage die from Furious Strike still doesn't count toward _boost eidolon's_ bonus, as normal for weapon dice added by abilities.
 
 ### Anger Aura
 
-Your eidolon exudes wrath in an aura, rousing the ire of nearby creatures and causing their defenses to crack as they seethe with rage. Your eidolon gains an anger aura in a 20-foot emanation. The resistances of any creature in the aura, including you, your allies, your enemies, and your eidolon, are reduced by 10. Your eidolon can hold in their rage by spending a single action, which has the concentrate trait. This reduces the aura's effect to affect only your eidolon. They can take this action again to reinstate the full effect of their aura. Creatures in a barbarian Rage, Seething Frenzy, or similar ability that allows them to channel their anger (such as Blood Frenzy) aren't affected by the anger aura.
+Your eidolon exudes wrath in an aura, rousing the ire of nearby creatures and causing their defenses to crack as they seethe with rage. Your eidolon gains an anger aura in a 20-foot emanation. The resistances of any creature in the aura, including you, your allies, your enemies, and your eidolon, are reduced by 10. Your eidolon can hold in their rage by spending a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. This reduces the aura's effect to affect only your eidolon. They can take this action again to reinstate the full effect of their aura. Creatures in a barbarian Rage, Seething Frenzy, or similar ability that allows them to channel their anger (such as Blood Frenzy) aren't affected by the anger aura.
 
 *Source: Impossible Magic p. 71*

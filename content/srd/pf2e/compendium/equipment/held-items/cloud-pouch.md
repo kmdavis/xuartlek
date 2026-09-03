@@ -21,6 +21,6 @@ source: "GM Core"
 
 This small bag is filled with a fine, silvery powder that feels silky to the touch. 
 
-**Activate—Disperse** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Frequency** once per hour; **Effect** You scatter the dust into the air around you, causing it to condense into a cloud in a 20-foot burst within 10 feet, as the _mist_ spell. You can Sustain the activation to make the cloud Fly 20 feet. The cloud lasts 1 minute, and you can Dismiss it.
+**Activate—Disperse** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** You scatter the dust into the air around you, causing it to condense into a cloud in a 20-foot burst within 10 feet, as the [[srd/pf2e/compendium/spells/rank-2/mist|_mist_]] spell. You can Sustain the activation to make the cloud Fly 20 feet. The cloud lasts 1 minute, and you can Dismiss it.
 
 *Source: GM Core p. 273*

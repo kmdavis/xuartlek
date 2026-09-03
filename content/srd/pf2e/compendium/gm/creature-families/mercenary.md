@@ -14,11 +14,11 @@ Whether they're hired to wage war, protect a caravan, or infiltrate an impenetra
 
 ### Members
 
-Bodyguard (Creature 1), Bounty Hunter (Creature 4), Exiled Revolutionary (Creature 10), Mage For Hire (Creature 3), Mage Killer (Creature 8), Mercenary Band (Creature 9), Monster Hunter (Creature 6), Siegebreaker (Creature 14)
+[[srd/pf2e/bestiary/npc-core/humanoid/bodyguard|Bodyguard]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/bounty-hunter|Bounty Hunter]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/exiled-revolutionary|Exiled Revolutionary]] (Creature 10), [[srd/pf2e/bestiary/npc-core/humanoid/mage-for-hire|Mage For Hire]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/mage-killer|Mage Killer]] (Creature 8), [[srd/pf2e/bestiary/npc-core/humanoid/mercenary-band|Mercenary Band]] (Creature 9), [[srd/pf2e/bestiary/npc-core/humanoid/monster-hunter|Monster Hunter]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/siegebreaker|Siegebreaker]] (Creature 14)
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: Bone scavenger (level 0), kholo outrider (level 7), kholo pragmatist (level 1), lucky courser (level 8), tunnel viper (level 1)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/bone-scavenger|Bone scavenger]] (level 0), [[srd/pf2e/bestiary/npc-core/humanoid/kholo-outrider|kholo outrider]] (level 7), [[srd/pf2e/bestiary/npc-core/humanoid/kholo-pragmatist|kholo pragmatist]] (level 1), [[srd/pf2e/bestiary/npc-core/humanoid/lucky-courser|lucky courser]] (level 8), [[srd/pf2e/bestiary/npc-core/humanoid/tunnel-viper|tunnel viper]] (level 1)
 
 ### Group Decisions
 

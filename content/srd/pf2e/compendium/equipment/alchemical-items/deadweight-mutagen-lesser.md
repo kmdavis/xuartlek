@@ -20,13 +20,13 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Your joints loosen and bones thicken, making your body incredibly weighty and difficult to maneuver around. 
 
-**Benefit** You gain an item bonus to Athletics checks to Shove and Trip, to your Fortitude and Reflex DCs against attempts to Shove or Trip you, and to saving throws against effects that attempt to force you to move or knock you prone. 
+**Benefit** You gain an item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to Shove and Trip, to your Fortitude and Reflex DCs against attempts to Shove or Trip you, and to saving throws against effects that attempt to force you to move or knock you [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. 
 
-**Drawback** You gain the encumbered condition and can't remove it while under the effects of the mutagen.
+**Drawback** You gain the [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] condition and can't remove it while under the effects of the mutagen.
 
 ### Deadweight Mutagen (Lesser)
 

@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Numbing tonic makes it easier to push through the pain of battle and shrug off otherwise debilitating blows. You gain the listed temporary Hit Points when you drink the elixir, and again at the start of each of your turns for 1 minute.
 

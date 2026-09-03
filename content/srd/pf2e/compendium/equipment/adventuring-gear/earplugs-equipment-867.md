@@ -13,6 +13,6 @@ source: "Guns & Gears (Remastered)"
 
 - **Price**: 1 cp
 
-Made of waxed cotton or cork, earplugs give you a +1 item bonus to saves against effects with the auditory trait. The earplugs make it difficult to hear, however, imposing a –2 item penalty on Perception checks involving sound. Inserting or removing the earplugs requires an Interact action.
+Made of waxed cotton or cork, earplugs give you a +1 item bonus to saves against effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait. The earplugs make it difficult to hear, however, imposing a –2 item penalty on Perception checks involving sound. Inserting or removing the earplugs requires an Interact action.
 
 *Source: Guns & Gears (Remastered) p. 179*

@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 When you move this delicately carved poplar wand, it looks indistinct, leaving a trail of afterimages in its wake.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _fleet step_. For the duration of the spell, you're also concealed while you Stride.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _fleet step_. For the duration of the spell, you're also [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] while you Stride.
 
 **Craft Requirements** Supply a casting of _fleet step_.
 

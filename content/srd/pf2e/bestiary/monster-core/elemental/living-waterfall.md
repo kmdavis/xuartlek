@@ -31,14 +31,14 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; darkvision"
-languages: "Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +13, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [4, 3, 3, -2, 1, 0]
 abilities_top:
   - name: "Waterbound"
-    desc: "When not touching water, the living waterfall is slowed 1 and can't use reactions."
+    desc: "When not touching water, the living waterfall is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] and can't use reactions."
 ac: 20
 armorclass:
   - name: "AC"
@@ -46,17 +46,17 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90; __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ fire 5"
+    desc: "90; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
 abilities_mid:
   - name: "Vortex"
-    desc: "(aura, water) 30 feet. Water in the area that is in the same body of water as the living waterfall is difficult terrain for Swimming creatures that don't have the water trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) 30 feet. Water in the area that is in the same body of water as the living waterfall is difficult terrain for [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swimming]] creatures that don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait."
 speed: "20 feet, swim 60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ wave +15 (reach 10 feet) __Damage__ 2d8+7 bludgeoning plus Push or Pull 5 feet"
+    desc: "⬻ wave +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+7 bludgeoning plus Push or Pull 5 feet"
 abilities_bot:
   - name: "Drench"
-    desc: "⬻ (Primal, Water) The elemental puts out all fires in a 5-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+14 counteract modifier)."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|Water]]) The elemental puts out all fires in a 5-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+14 counteract modifier)."
 sourcebook: "_Monster Core_, page 148."
 ```
 

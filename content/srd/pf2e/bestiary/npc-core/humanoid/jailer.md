@@ -29,10 +29,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; (10 to find concealed objects)"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +11, Diplomacy +5, Intimidation +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +5, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7"
 abilityMods: [4, 3, 1, 0, 2, 0]
 abilities_top:
   - name: "Items"
@@ -53,22 +53,22 @@ attacks:
   - name: "Melee"
     desc: "⬻ club +11 __Damage__ 1d6+8 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +11 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+8 bludgeoning"
+    desc: "⬻ fist +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
   - name: "Ranged"
     desc: "⬻ crossbow +10 (range increment 120 feet, reload 1) __Damage__ 1d8+4 piercing"
   - name: "Ranged"
-    desc: "⬻ club +10 (thrown 10 feet) __Damage__ 1d6+8 bludgeoning"
+    desc: "⬻ club +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+8 bludgeoning"
 abilities_bot:
   - name: "Efficient Capture"
-    desc: "⬽ (Attack, Manipulate)"
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"
   - name: "Requirements"
-    desc: "The jailer has manacles in hand and is adjacent to a creature"
+    desc: "The jailer has [[srd/pf2e/compendium/equipment/adventuring-gear/manacles-superior|manacles]] in hand and is adjacent to a creature"
   - name: "Effect"
     desc: "The jailer attempts to bind the creature's wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +9 modifier against the target's AC, they apply the manacles."
   - name: "Intimidating Strike"
-    desc: "⬺ (Emotion, Fear, Mental) The jailer makes a melee Strike. If it hits and deals damage, the target is frightened 1, or frightened 2 on a critical hit."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The jailer makes a melee Strike. If it hits and deals damage, the target is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]], or frightened 2 on a critical hit."
   - name: "Subdue Prisoners"
-    desc: "The jailer doesn't take the normal penalty for making a nonlethal attack when attacking with their club."
+    desc: "The jailer doesn't take the normal penalty for making a [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attack when attacking with their club."
 sourcebook: "_NPC Core_, page 112."
 ```
 

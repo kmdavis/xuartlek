@@ -24,6 +24,6 @@ source: "Player Core"
 You can communicate telepathically with creatures within 30 feet. Once you establish a connection by communicating with a creature, the communication is two-way. You can communicate with only creatures that share a language with you.
 
 ---
-**Heightened (6th)** You can communicate telepathically with creatures using shared mental imagery even if you don't share a language; _telepathy_ loses the linguistic trait.
+**Heightened (6th)** You can communicate telepathically with creatures using shared mental imagery even if you don't share a language; _telepathy_ loses the [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]] trait.
 
 *Source: Player Core p. 363*

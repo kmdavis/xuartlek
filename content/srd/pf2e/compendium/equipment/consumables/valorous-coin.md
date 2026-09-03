@@ -19,8 +19,8 @@ source: "Battlecry!"
 - **Price**: 90 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-_Valorous coins_ are metal disks emblazoned with two crossed swords, with inscriptions exhorting bravery and optimism. The effects of a _valorous coin_ last for 1 hour. During that time, if you’re reduced below a quarter of your Hit Points while wielding the affected weapon, it empowers you with determination and resolve to finish the fight. You gain temporary Hit Points equal to your level that last for 1 minute, and you gain a +1 circumstance bonus to Strikes and damage rolls with the affected weapon for 1 minute. Once this minute ends, so do all effects and the remaining duration of the _valorous coin_, and you’re fatigued until you’re healed to your maximum Hit Points.
+_Valorous coins_ are metal disks emblazoned with two crossed swords, with inscriptions exhorting bravery and optimism. The effects of a _valorous coin_ last for 1 hour. During that time, if you’re reduced below a quarter of your Hit Points while wielding the affected weapon, it empowers you with determination and resolve to finish the fight. You gain temporary Hit Points equal to your level that last for 1 minute, and you gain a +1 circumstance bonus to Strikes and damage rolls with the affected weapon for 1 minute. Once this minute ends, so do all effects and the remaining duration of the _valorous coin_, and you’re [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] until you’re healed to your maximum Hit Points.
 
 *Source: Battlecry! p. 137*

@@ -30,7 +30,7 @@ This twisted and grim-looking staff is adorned with hideous skull and bone motif
 
 ---
 
-**Cantrip** _void warp_**1st** _grim tendrils_, _summon undead_**2nd** _peaceful rest_, summon undead
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/void-warp|_void warp_]]**1st** [[srd/pf2e/compendium/spells/rank-1/grim-tendrils|_grim tendrils_]], [[srd/pf2e/compendium/spells/rank-1/summon-undead|_summon undead_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/peaceful-rest|_peaceful rest_]], summon undead
 
 ### Staff of the Dead (Greater)
 
@@ -38,7 +38,7 @@ This twisted and grim-looking staff is adorned with hideous skull and bone motif
 
 ---
 
-**3rd** summon undead, _vampiric feast_**4th** summon undead, _vision of death_
+**3rd** summon undead, [[srd/pf2e/compendium/spells/rank-3/vampiric-feast|_vampiric feast_]]**4th** summon undead, [[srd/pf2e/compendium/spells/rank-4/vision-of-death|_vision of death_]]
 
 ### Staff of the Dead (Major)
 
@@ -46,6 +46,6 @@ This twisted and grim-looking staff is adorned with hideous skull and bone motif
 
 ---
 
-**5th** _invoke spirits_, peaceful rest, summon undead**6th** summon undead, _vampiric exsanguination_
+**5th** [[srd/pf2e/compendium/spells/rank-5/invoke-spirits|_invoke spirits_]], peaceful rest, summon undead**6th** summon undead, [[srd/pf2e/compendium/spells/rank-6/vampiric-exsanguination|_vampiric exsanguination_]]
 
 *Source: GM Core p. 281*

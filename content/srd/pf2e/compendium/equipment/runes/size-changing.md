@@ -19,6 +19,6 @@ source: "GM Core"
 
 This armor can make itself and its wearer quickly change size. 
 
-**Activate—Change Size** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Effect** The armor casts your choice of _enlarge_ or _shrink_ on you.
+**Activate—Change Size** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** The armor casts your choice of _enlarge_ or _shrink_ on you.
 
 *Source: GM Core p. 227*

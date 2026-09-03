@@ -19,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 28 gp
 - **Usage**: held in 1 hand
 
-This chewy ginger candy aids digestion and soothes unsettled stomachs. A ginger chew lasts for 1 hour and grants you a +1 item bonus to Fortitude saves against being sickened.
+This chewy ginger candy aids digestion and soothes unsettled stomachs. A ginger chew lasts for 1 hour and grants you a +1 item bonus to Fortitude saves against being [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]].
 
  **Secondary Effect** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") **Effect** Reduce your sickened value by 1, if any. The chew becomes inert.
 

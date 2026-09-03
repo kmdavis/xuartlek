@@ -27,10 +27,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; darkvision, goldsense (imprecise) 60 feet"
-languages: "Common, Fey"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +12, Athletics +10, Deception +13, Thievery +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +13, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +12"
 abilityMods: [4, 4, 2, -2, 2, 5]
 abilities_top:
   - name: "Goldsense"
@@ -49,11 +49,11 @@ abilities_mid:
   - name: "Trigger"
     desc: "The marp takes damage from a melee Strike"
   - name: "Effect"
-    desc: "The marp drops any items held in their hands, then ClimbS or Strides up to 15 feet."
+    desc: "The marp drops any items held in their hands, then [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|ClimbS]] or Strides up to 15 feet."
 speed: "25 feet, climb 15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +12 __Damage__ 2d6+6 piercing __Gold?__ ⬻ (Auditory, Emotion, Linguistic, Mental) The marp asks for gold from all creatures in a 30-foot emanation. Each target must attempt a DC 22 Will save or retrieve and drop gold valuables as a free action."
+    desc: "⬻ jaws +12 __Damage__ 2d6+6 piercing __Gold?__ ⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The marp asks for gold from all creatures in a 30-foot emanation. Each target must attempt a DC 22 Will save or retrieve and drop gold valuables as a free action."
 abilities_bot:
   - name: "Critical Success"
     desc: "The target can refuse the request, though they can also choose to willingly hand over any amount of gold. If they do so, they gain a +1 status bonus to the next saving throw they attempt within 1 minute, and they're temporarily immune to Scampering Theft for 1 minute."
@@ -64,7 +64,7 @@ abilities_bot:
   - name: "Critical Failure"
     desc: "As failure, but 40 gp"
   - name: "Scampering Theft"
-    desc: "⬺ (Manipulate, Move) The marp runs and attempts to snatch a purse, pendant, or other such object. The marp Strides up to their Speed, and they can move through enemy spaces during this movement. They then attempt to steal valuables from the target, who must attempt a DC 22 Reflex save."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The marp runs and attempts to snatch a purse, pendant, or other such object. The marp Strides up to their Speed, and they can move through enemy spaces during this movement. They then attempt to steal valuables from the target, who must attempt a DC 22 Reflex save."
   - name: "Success"
     desc: "The marp fails to steal anything from the target."
   - name: "Failure"

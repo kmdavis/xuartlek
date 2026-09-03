@@ -16,12 +16,12 @@ You'll see these key terms in many ranger class features.
 
  **Flourish**: Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
-**Press**: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the Ready activity.
+**Press**: Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/ready-greater|Ready]] activity.
  Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.)
 
-**Warden Spells:** Your relationship with the world around you extends from the physical to the magical. Certain feats grant you warden spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell. When you gain your first warden spell, you also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to commune with nature.
+**Warden Spells:** Your relationship with the world around you extends from the physical to the magical. Certain feats grant you warden spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell. When you gain your first warden spell, you also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] activity to commune with nature.
  Your warden spells are primal spells. When you first gain a warden spell, you become trained in spell attacks and spell DCs. Your spellcasting attribute is Wisdom.
- Focus spells are automatically heightened to half your level rounded up. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear here.
+ Focus spells are automatically heightened to half your level rounded up. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|here]].
 
 ### Roleplaying the Ranger
 
@@ -54,7 +54,15 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Expert in Perception |
 | **Saving Throws** | Expert in Fortitude Expert in Reflex Trained in Will |
-| **Skills** | Trained in Nature Trained in Survival Trained in a number of additional skills equal to 4 plus your Intelligence modifier |
+
+#### Skills
+
+Trained in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+ Trained in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
+ Trained in a number of additional skills equal to 4 plus your Intelligence modifier
+
+| | |
+| --- | --- |
 | **Attacks** | Trained in simple weapons Trained in martial weapons Trained in unarmed attacks |
 | **Defenses** | Trained in light armor Trained in medium armor Trained in unarmored defense |
 | **Class DC** | Trained in ranger class DC |
@@ -147,9 +155,9 @@ You've honed your reflexes dodging falling trees and pounding hail. Your profici
 
 You inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you're an expert. This damage increases to 3 if you're a master, and 4 if you're legendary.
 
-| | |
-| --- | --- |
-| **Nature's Edge** | You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are off-guard to you if they're in difficult terrain. |
+#### Nature's Edge
+
+You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you if they're in difficult terrain.
 
 #### Ranger Expertise
 
@@ -187,7 +195,7 @@ Your damage from weapon specialization increases to 4 with weapons and unarmed a
 
 You have honed your abilities as a hunter to incredible levels. Your proficiency rank for your ranger class DC increases to master. If you have warden spells, your proficiency rank for spell attacks and spell DCs increases to master. When using a ranged weapon that you have master proficiency in, you can ignore the penalty if attacking your hunted prey within the weapon's second and third range increments.
 
-If you have master proficiency in Perception, you gain a +4 circumstance bonus to Perception checks when you Seek your prey, and if you have master proficiency in Survival, you gain a +4 circumstance bonus to Survival checks when you Track your prey.
+If you have master proficiency in Perception, you gain a +4 circumstance bonus to Perception checks when you Seek your prey, and if you have master proficiency in [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]], you gain a +4 circumstance bonus to Survival checks when you Track your prey.
 
  You also gain an additional benefit depending on your hunter's edge. 
 

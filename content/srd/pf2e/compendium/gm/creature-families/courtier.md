@@ -14,11 +14,11 @@ The denizens of a noble court are the most powerful people in a civilization, pr
 
 ### Members
 
-Advisor (Creature 5), Court Historian (Creature -1), Courtesan (Creature 2), Envoy (Creature 0), Knight (Creature 7), Noble (Creature 3), Palace Guard (Creature 4), Spy (Creature 6), Veteran Noble (Creature 6)
+[[srd/pf2e/bestiary/npc-core/humanoid/advisor|Advisor]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/court-historian|Court Historian]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/courtesan|Courtesan]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/envoy|Envoy]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/knight|Knight]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/noble|Noble]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/palace-guard|Palace Guard]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/spy|Spy]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/veteran-noble|Veteran Noble]] (Creature 6)
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: Aiuvarin translator (level 0)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/aiuvarin-translator|Aiuvarin translator]] (level 0)
 
 ### Intriguing Plots
 

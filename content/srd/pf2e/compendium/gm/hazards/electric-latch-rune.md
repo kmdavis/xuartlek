@@ -22,8 +22,8 @@ source: "GM Core"
 DC 20 (trained)
 
 **Disable**
-DC 20 Thievery (expert) to scratch out the rune without allowing electricity to flow, or _dispel magic_ (2nd rank; counteract DC 18) to counteract the rune
+DC 20 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (expert) to scratch out the rune without allowing electricity to flow, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (2nd rank; [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] DC 18) to counteract the rune
 
-**Electrocution** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (arcane, electricity) **Trigger** A creature grasps the door latch directly or with a tool; **Effect** The trap deals 3d12 electricity damage to the triggering creature (DC 22 basic Reflex save).
+**Electrocution** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]]) **Trigger** A creature grasps the door latch directly or with a tool; **Effect** The trap deals 3d12 electricity damage to the triggering creature (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save).
 
 *Source: GM Core p. 101*

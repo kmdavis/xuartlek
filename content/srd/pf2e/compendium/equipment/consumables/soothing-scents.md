@@ -21,6 +21,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell (add 1 action)
 
-Performers popularized these bundles of aromatic herbs to calm the mind and ward off misfortune before a big show, though soldier bards have found them especially useful for clearing fear during particularly tumultuous battles. Adding this catalyst to a __soothe__ spell also causes the spell to reduce the target’s frightened condition value by 1.
+Performers popularized these bundles of aromatic herbs to calm the mind and ward off misfortune before a big show, though soldier bards have found them especially useful for clearing fear during particularly tumultuous battles. Adding this catalyst to a _[[srd/pf2e/compendium/spells/rank-1/soothe|_soothe_]]_ spell also causes the spell to reduce the target’s [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition value by 1.
 
 *Source: Impossible Magic p. 216*

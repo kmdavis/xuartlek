@@ -25,13 +25,13 @@ source: "Impossible Magic"
 - **Target**: 1 of your thralls
 - **Defense**: Will
 
-Your thrall lets forth a spectral scream that pierces the mind. While the sound is loud, only those closest can feel the true sting of death in it. Each creature within a 5-foot emanation of the target thrall takes 1d4 mental damage depending on its Will save.
+Your thrall lets forth a spectral scream that pierces the mind. While the sound is loud, only those closest can feel the true sting of death in it. Each creature within a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] of the target thrall takes 1d4 mental damage depending on its Will save.
 
 **Critical Success** The target is unaffected.
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage and is frightened 1.
+**Failure** The target takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
 
 **Critical Failure** The target takes double damage and is frightened 2.
 

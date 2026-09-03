@@ -32,21 +32,21 @@ Because skirmish encounters require more from the players and GM, they need to b
 
 Given the large number of creatures involved in a skirmish encounter, it’s best to avoid just playing out a fight until everybody is at 0 HP. A skirmish encounter should have a specific objective! You can set up any objective that makes sense, which is usually relevant to the PCs but can sometimes be a shared objective both sides are competing to attain. Once the objective is attained or becomes impossible to complete, the encounter ends. It’s vitally important to make the objective clear to the players at the start of the encounter, usually while they’re making preparations. The more details you can give them, the better they can plan for the encounter and measure their success.
 
-Some of the basic types of objectives you might choose from while designing your skirmish encounters are defined in the Military section of NPC Core. They are: defend, eliminate, and seize.
+Some of the basic types of objectives you might choose from while designing your skirmish encounters are defined in the [[srd/pf2e/compendium/gm/creature-families/military|Military]] section of NPC Core. They are: defend, eliminate, and seize.
 
 ### Defend
 
 The PCs must defend a place, people, or valuable asset against enemy forces. To keep a skirmish that features a defend objective from being a battle that carries on until an entire side is defeated, you can use a timer—the PCs need to defend for 3 rounds, for example. It’s also wise to define what counts as failing to defend the objective. Some examples could entail:
 
 - The PCs must protect a refugee caravan. They meet their objective if they defend the caravan for 3 rounds but lose it if the raiders destroy three or more wagons.
-- Fiends are attacking a holy site, and the PCs must keep them from desecrating it. Allied clerics can seal one of four doorways each round, and the PCs can choose the order in which they do it. If all four doors are sealed, the site is safe and the objective met!
-- Enemy troops are trying to reach a teleportation portal to join a siege of a major city. The PCs must block a narrow mountain pass to delay them until the portal has closed. Blocking any of the enemy troops is a partial success toward the objective, but the more they stop, the safer the city will be.
+- [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|Fiends]] are attacking a holy site, and the PCs must keep them from desecrating it. Allied [[srd/pf2e/compendium/character/classes/cleric|clerics]] can seal one of four doorways each round, and the PCs can choose the order in which they do it. If all four doors are sealed, the site is safe and the objective met!
+- Enemy [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|troops]] are trying to reach a teleportation portal to join a siege of a major city. The PCs must block a narrow mountain pass to delay them until the portal has closed. Blocking any of the enemy troops is a partial success toward the objective, but the more they stop, the safer the city will be.
 
 ### Eliminate
 
 Destroying a target could swing the tide of battle. PCs might look for all sorts of ways to achieve this objective, taking a more proactive approach than they would if they were defending. These encounters usually work best if the PCs can clearly find and identify the target they need to destroy—uncertainty can be especially annoying in a skirmish encounter. If you do want to make finding the target part of the encounter, such as by finding a cowardly enemy spellcaster and incapacitating them to end a ritual, give the PCs a limited number of clear places to search. Examples of eliminate objectives include:
 
-- Troops are stationed at the estate of a powerful political figurehead. Get past the guards and assassinate this leader.
+- [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|Troops]] are stationed at the estate of a powerful political figurehead. Get past the guards and assassinate this leader.
 - Multiple shipments of weapons have been transported to an isolated but centrally located fort before being sent out to arm several battalions. Destroy the stockpile!
 - Siege engines are laying waste to allied forces and keeping them holed up in a crumbling castle. Disable or destroy the siege engines to give your allies the chance to rush forward and take the fight to the enemy.
 
@@ -94,13 +94,13 @@ A skirmish encounter is large enough that some variety between troops is essenti
 
 ### Leaders
 
-A variety in leaders can be just as important as a variety of troops. Even two of the same troop can play differently if they have two different leaders or one has a leader and the other doesn’t. Usually, you’ll want to choose leaders out of the base XP budget before adjusting for troops. If you want to focus the narrative on one significant leader, spend much of your budget on one NPC who’s 2 levels higher than the PCs. If you want a more even battle, choose leaders of the PCs’ level or 1 lower.
+A variety in leaders can be just as important as a variety of troops. Even two of the same [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|troop]] can play differently if they have two different leaders or one has a leader and the other doesn’t. Usually, you’ll want to choose leaders out of the base XP budget before adjusting for troops. If you want to focus the narrative on one significant leader, spend much of your budget on one NPC who’s 2 levels higher than the PCs. If you want a more even battle, choose leaders of the PCs’ level or 1 lower.
 
 Including troops with no leaders lets you bring the full set of skirmish rules into play. Troops who can be routed can simplify the battlefield quickly and make the PCs feel powerful. Usually, you’ll want at least one or two leaderless troops in a skirmish encounter.
 
 ### Wild Cards
 
-Despite all the focus on troops versus troops, non-troop monsters still work in skirmish encounters, so you might throw in a manticore, dragon, or other creature for more variety. They can add surprise tactics and shake up the expected style of the encounter, and they don’t have the same weaknesses to troops’ offensive abilities that other troops do. Creatures that can Fly, Burrow, or use other movement modes are especially useful. Individual humanoids, especially Medium or smaller creatures, are usually a poor addition to the encounter unless they’re leading a troop.
+Despite all the focus on [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|troops]] versus troops, non-troop monsters still work in skirmish encounters, so you might throw in a [[srd/pf2e/bestiary/monster-core/beast/manticore|manticore]], [[srd/pf2e/compendium/gm/creature-families/dragon|dragon]], or other creature for more variety. They can add surprise tactics and shake up the expected style of the encounter, and they don’t have the same weaknesses to troops’ offensive abilities that other troops do. Creatures that can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]], or use other movement modes are especially useful. Individual humanoids, especially Medium or smaller creatures, are usually a poor addition to the encounter unless they’re leading a troop.
 
 ## Special Considerations
 

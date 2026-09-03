@@ -29,10 +29,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; darkvision"
-languages: "Common, Orcish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +5, Intimidation +2"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +2"
 abilityMods: [3, 2, 2, 0, 1, 0]
 abilities_top:
   - name: "Items"
@@ -51,11 +51,11 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ orc knuckle dagger +7 (Agile, Disarm) __Damage__ 1d6+3 piercing"
+    desc: "⬻ orc knuckle dagger +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]]) __Damage__ 1d6+3 piercing"
   - name: "Melee"
-    desc: "⬻ fist +7 (Agile, Nonlethal) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ javelin +4 (thrown 30 feet) __Damage__ 1d6+3 piercing"
+    desc: "⬻ javelin +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 1d6+3 piercing"
 sourcebook: "_Monster Core_, page 258."
 ```
 

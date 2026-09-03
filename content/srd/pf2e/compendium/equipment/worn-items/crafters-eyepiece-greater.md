@@ -31,6 +31,6 @@ This rugged metal eyepiece etched with square patterns is designed to be worn ov
 
 The eyepiece grants a +2 item bonus and can be activated. 
 
-**Activate—Prototype** 1 minute (manipulate) **Frequency** once per day; **Effect** You calibrate the eyepiece to have it cast a 5th-rank _creation_ spell over the course of 1 minute to construct a temporary item.
+**Activate—Prototype** 1 minute ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You calibrate the eyepiece to have it cast a 5th-rank [[srd/pf2e/compendium/spells/rank-4/creation|_creation_]] spell over the course of 1 minute to construct a temporary item.
 
 *Source: GM Core p. 288*

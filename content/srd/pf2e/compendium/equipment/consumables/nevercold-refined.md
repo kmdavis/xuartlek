@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Activate**: Cast a Spell (add 1 action)
 
-_Nevercold_, sometimes mistakenly referred to as nevercoal, is the charcoal left after wildfires in the First World. True to its name, _nevercold_ remains warm to the touch. If you use _nevercold_ to cast _fire shield_, the spell's duration increases by 5 minutes, the cold resistance you gain from it lasts 1 hour, and you're protected from the effects of severe cold for 8 hours.
+_Nevercold_, sometimes mistakenly referred to as nevercoal, is the charcoal left after wildfires in the [[srd/pf2e/compendium/gm/planes#First World|First World]]. True to its name, _nevercold_ remains warm to the touch. If you use _nevercold_ to cast _fire shield_, the spell's duration increases by 5 minutes, the cold resistance you gain from it lasts 1 hour, and you're protected from the effects of severe cold for 8 hours.
 
 ### Nevercold
 

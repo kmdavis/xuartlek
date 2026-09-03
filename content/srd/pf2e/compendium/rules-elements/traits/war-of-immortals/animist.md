@@ -13,6 +13,6 @@ source: "War of Immortals"
 
 `Animist`
 
-This indicates abilities from the animist class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/animist|animist]] class.
 
 *Source: War of Immortals p. 216*

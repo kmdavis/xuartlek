@@ -13,6 +13,6 @@ source: "Impossible Magic"
 
 - **Class**: Runesmith
 
-You're so used to tracing and etching runes in the field that when given the peace and quiet of a proper workshop, it's hard for things to go too astray. When you roll a check to Craft a magic item in downtime and that item is a permanent rune, you get the outcome one degree of success better than the result of your Crafting check.
+You're so used to tracing and etching runes in the field that when given the peace and quiet of a proper workshop, it's hard for things to go too astray. When you roll a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] a magic item in downtime and that item is a permanent rune, you get the outcome one degree of success better than the result of your [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check.
 
 *Source: Impossible Magic p. 43*

@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 75 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 When you consume firefoot popcorn, for 1 minute, you can Leap double the normal distance. You can also attempt to High Jump or Long Jump as a single action. If you do, you don't perform the initial Stride (nor do you fall if you don't Stride 10 feet).
 

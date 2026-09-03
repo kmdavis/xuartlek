@@ -21,7 +21,7 @@ source: "Impossible Magic"
 - **Cast**: 2 days
 - **Cost**: candles, specialty salts, and rare herbs worth 80 gp total
 - **Secondary Casters**: 1
-- **Primary Check**: Arcana or Occultism (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
 - **Secondary Checks**: Deception
 - **Area**: 1 square mile
 - **Duration**: 1 year
@@ -32,7 +32,7 @@ In some places, it feels as if the very land doesn't want you there. Hostile cre
 
  After you complete your ritual, anyone who enters the area receives a status penalty to saving throws against fear effects within the _dread ambience_.
 
-**Critical Success** The sense of dread is particularly powerful. Every creature in an area takes a –2 status penalty to saving throws against fear effects.
+**Critical Success** The sense of dread is particularly powerful. Every creature in an area takes a –2 status penalty to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effects.
 
 **Success** The ritual succeeds. Every creature in the area takes a –1 status penalty to saving throws against fear effects.
 

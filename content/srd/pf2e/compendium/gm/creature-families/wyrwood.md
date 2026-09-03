@@ -20,7 +20,7 @@ A wyrwood’s soul is tied to the magical stone that serves as their heart, whic
 
 ### Members
 
-Wyrwood Sneak (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/construct/wyrwood-sneak|Wyrwood Sneak]] (Creature 1)
 
 ### Secrets of Creation
 

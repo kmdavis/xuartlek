@@ -21,6 +21,6 @@ source: "Treasure Vault (Remastered)"
 - **Duration**: 1 hour
 - **Usage**: affixed to a creature
 
-Incorporating green in its writing, a _discord fulu_ is a popular but unethical tool often deployed on romantic rivals to foil their advances. While the fulu is affixed to it, a creature treats its attitude toward other creatures as one step worse than it is. The creature also takes a –1 status penalty to Diplomacy checks. The first failure the creature rolls on a Diplomacy check becomes a critical failure instead, and the fulu turns to ash, ending its effect.
+Incorporating green in its writing, a _discord fulu_ is a popular but unethical tool often deployed on romantic rivals to foil their advances. While the fulu is affixed to it, a creature treats its attitude toward other creatures as one step worse than it is. The creature also takes a –1 status penalty to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks. The first failure the creature rolls on a Diplomacy check becomes a critical failure instead, and the fulu turns to ash, ending its effect.
 
 *Source: Treasure Vault (Remastered) p. 77*

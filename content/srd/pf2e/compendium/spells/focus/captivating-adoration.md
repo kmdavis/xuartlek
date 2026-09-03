@@ -22,7 +22,7 @@ source: "Player Core"
 
 `Aura`  `Cleric`  `Concentrate`  `Emotion`  `Focus`  `Manipulate`  `Mental`  `Uncommon`  `Visual`
 
-- **Domain**: Passion
+- **Domain**: [[srd/pf2e/compendium/character/domains#Passion|Passion]]
 - **Area**: 15-foot emanation
 - **Defense**: Will
 - **Duration**: 1 minute
@@ -31,7 +31,7 @@ You become intensely entrancing, and creatures are distracted by you as long as 
 
 **Critical Success** The creature is unaffected and temporarily immune for 1 hour.
 
-**Success** The creature is fascinated with you for its next action, then is temporarily immune for 1 hour.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with you for its next action, then is temporarily immune for 1 hour.
 
 **Failure** The creature is fascinated with you.
 

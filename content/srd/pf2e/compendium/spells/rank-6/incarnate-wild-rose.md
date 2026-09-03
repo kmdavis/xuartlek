@@ -29,15 +29,15 @@ You call up the giant wild rose, a flower famous for both its beauty and its tho
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is grabbed by a vine for the duration of the spell or until they Escape.
+**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by a vine for the duration of the spell or until they [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]].
 
-**Critical Failure** The creature takes double damage and is restrained by a vine for the duration of the spell or until they Escape.
+**Critical Failure** The creature takes double damage and is [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by a vine for the duration of the spell or until they Escape.
 
-**Depart** (poison) _Blood Pollen_ All creatures still grabbed or restrained by vines take 2d6 persistent poison damage. The wild rose then expels a cloud of toxic pollen in a 20-foot burst up to 60 feet away. All living creatures in the burst must attempt a Fortitude save. 
+**Depart** ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) _Blood Pollen_ All creatures still [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by vines take 2d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent poison damage]]. The wild rose then expels a cloud of toxic pollen in a 20-foot burst up to 60 feet away. All living creatures in the burst must attempt a Fortitude save. 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is enfeebled 2 for 1 round.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 2]] for 1 round.
 
 **Failure** The creature is enfeebled 2 for 1 minute.
 

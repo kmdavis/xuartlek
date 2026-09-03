@@ -31,10 +31,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5"
-languages: "Common, Petran, Pyric, Sussuran, Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]], [[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Deception +6, Diplomacy +7, Occultism +4, Performance +7, Society +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +6, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +7, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +4, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +7, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +4"
 abilityMods: [2, 2, 0, 1, 0, 4]
 abilities_top:
   - name: "Items"
@@ -51,18 +51,18 @@ abilities_mid:
   - name: "Elemental Bulwark"
     desc: "⬲"
   - name: "Trigger"
-    desc: "An enemy is about to damage the dune dancer with cold, electricity, or fire, or with a spell that has the air, earth, fire, or water trait"
+    desc: "An enemy is about to damage the dune dancer with cold, electricity, or fire, or with a spell that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait"
   - name: "Effect"
     desc: "The dune dancer gain resistance 2 against the triggering damage."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ scimitar +7 (Forceful, Sweep) __Damage__ 1d6+2 slashing"
+    desc: "⬻ scimitar +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+2 slashing"
 abilities_bot:
   - name: "Distracting Dance"
-    desc: "⬻ (Mental, Visual) With a twirl of their body or with elaborate hand movements, the suli dune dancer attempts to distract a creature within 30 feet. The dune dance attempts a Performance check against the target's Perception DC."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]]) With a twirl of their body or with elaborate hand movements, the suli dune dancer attempts to distract a creature within 30 feet. The dune dance attempts a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check against the target's Perception DC."
   - name: "Critical Success"
-    desc: "The target is off-guard and takes a –2 circumstance bonus to Perception checks until the end of the dune dancer's next turn."
+    desc: "The target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and takes a –2 circumstance bonus to Perception checks until the end of the dune dancer's next turn."
   - name: "Success"
     desc: "The target is off-guard until the end of the dune dancer's current turn."
   - name: "Critical Failure"
@@ -83,7 +83,7 @@ abilities_bot:
     desc: "vitality"
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 17, attack +9 - __Cantrips (1st)__ Detect Magic, Guidance, Shield, Telekinetic Hand, Telekinetic Projectile - __1st__ Dizzying Colors, Soothe, Sure Strike (2 slots)"
+    desc: "DC 17, attack +9 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/guidance|Guidance]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/dizzying-colors|Dizzying Colors]], [[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]], [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] (2 slots)"
 sourcebook: "_Monster Core 2_, page 251."
 ```
 

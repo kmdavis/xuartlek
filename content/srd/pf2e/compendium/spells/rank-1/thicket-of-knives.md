@@ -20,6 +20,6 @@ source: "Impossible Magic"
 - **Traditions**: Arcane, Occult
 - **Duration**: 1 minute
 
-You create numerous phantom copies of your weapon arm, hiding your true movements and rendering your attacks unpredictable. You gain a +2 status bonus to Deception checks. If you’re untrained in Deception, you can use the Feint action anyway as well as add your level as your proficiency bonus despite being untrained.
+You create numerous phantom copies of your weapon arm, hiding your true movements and rendering your attacks unpredictable. You gain a +2 status bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks. If you’re untrained in Deception, you can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] action anyway as well as add your level as your proficiency bonus despite being untrained.
 
 *Source: Impossible Magic p. 167*

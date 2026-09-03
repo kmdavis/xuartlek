@@ -20,8 +20,8 @@ source: "Battlecry!"
 
 This soft cotton bag has a drawstring of sinew and a jagged embroidery pattern around the mouth. Inside are a seemingly endless number of needle-sharp teeth.
 
-**Activate—Sow a Tooth** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate, occult) **Frequency** once per hour; **Effect** You cast forth a tooth from the bag, and where it lands, a skeleton springs up from the ground. This has the effect of _phantasmal minion_, except the minion appears as a visible skeleton.
+**Activate—Sow a Tooth** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) **Frequency** once per hour; **Effect** You cast forth a tooth from the bag, and where it lands, a skeleton springs up from the ground. This has the effect of [[srd/pf2e/compendium/spells/rank-1/phantasmal-minion|_phantasmal minion_]], except the minion appears as a visible skeleton.
 
-**Activate—Fist Full of Fangs** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate, occult) **Frequency** once per day; **Effect** You draw a whole handful of teeth and cast them to the ground, casting _rouse skeletons_ as a 5th-rank spell (DC 30).
+**Activate—Fist Full of Fangs** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) **Frequency** once per day; **Effect** You draw a whole handful of teeth and cast them to the ground, casting [[srd/pf2e/compendium/spells/rank-3/rouse-skeletons|_rouse skeletons_]] as a 5th-rank spell (DC 30).
 
 *Source: Battlecry! p. 146*

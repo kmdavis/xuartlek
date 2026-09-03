@@ -18,7 +18,7 @@ source: "Impossible Magic"
 
 - **Traditions**: Arcane, Occult
 - **Range**: touch
-- **Duration**: sustained up to 10 minutes
+- **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 10 minutes
 
 You conjure a magical floating quill to assist in copying the text from one non-magical piece of literature to a blank page or empty book in your possession. You first press your finger to the page you want copied, then to the blank page, and the quill sets to work, magically conjuring ink as it writes. It can’t translate languages, codes, or idioms, but it transcribes the text exactly as-is from one page to the other. The quill can copy roughly one average book page per minute and disappears when the spell is finished.
 

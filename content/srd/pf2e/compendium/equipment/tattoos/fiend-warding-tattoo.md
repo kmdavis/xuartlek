@@ -19,9 +19,9 @@ source: "Impossible Magic"
 
 - **Usage**: tattooed on the body
 
-Many cultures of Golarion have a tattoo that is believed to turn away harm. As such, _warding tattoos_ often resemble whichever dangers are most common to the culture, such as a wild beast in the forests of Kyonin, a whirlpool in the high seas of the Shackles, or the stylized face of a demon in the Sarkoris Scar. 
+Many cultures of Golarion have a tattoo that is believed to turn away harm. As such, _warding tattoos_ often resemble whichever dangers are most common to the culture, such as a wild beast in the forests of Kyonin, a whirlpool in the high seas of the Shackles, or the stylized face of a [[srd/pf2e/compendium/gm/creature-families/demon|demon]] in the Sarkoris Scar. 
 
-**Activate—Inked Safeguard** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per day; **Trigger** An enemy, hazard, or the environment makes an attack against your AC, requires you to attempt a saving throw, or causes you to take damage automatically; **Effect** Until the end of the current turn, against the triggering effect, you gain a +1 status bonus to AC and saving throws and gain resistance 2 to the triggering damage.
+**Activate—Inked Safeguard** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** An enemy, hazard, or the environment makes an attack against your AC, requires you to attempt a saving throw, or causes you to take damage automatically; **Effect** Until the end of the current turn, against the triggering effect, you gain a +1 status bonus to AC and saving throws and gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 2 to the triggering damage.
 
 ### Warding Tattoo
 

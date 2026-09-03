@@ -20,9 +20,9 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 6,000 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Pale fade is a white ointment with a sharp, earthy scent. The poison rapidly desiccates flesh, which then crumbles and forms a cloud of pallid dust. If the victim is concealed by this poison, then the cloud of dust also conceals other creatures from the victim.
+Pale fade is a white ointment with a sharp, earthy scent. The poison rapidly desiccates flesh, which then crumbles and forms a cloud of pallid dust. If the victim is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] by this poison, then the cloud of dust also conceals other creatures from the victim.
 
  **Saving Throw** DC 42 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 10d6 poison damage and drained 1 (1 round); Stage 2 12d6 poison damage, drained 1, and concealed (1 round); **Stage 3** 15d6 poison damage, drained 1, and concealed (1 round)
 

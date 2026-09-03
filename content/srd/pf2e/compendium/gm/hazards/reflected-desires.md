@@ -24,7 +24,7 @@ source: "Dark Archives (Remastered)"
 DC 17 (0 to notice the mirror)
 
 **Disable**
-DC 18 Thievery (trained) to shroud the mirror without looking at it, or DC 17 Occultism (trained) to erect mental barriers
+DC 18 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) to shroud the mirror without looking at it, or DC 17 [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (trained) to erect mental barriers
 
 **AC** 13, **Fort** +10, **Ref** +4
 
@@ -37,7 +37,7 @@ DC 18 Thievery (trained) to shroud the mirror without looking at it, or DC 17 Oc
 **Immunities**
 object immunities
 
-**Tempt** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (mental, occult, visual) **Trigger** A creature looks into the mirror; **Effect** The triggering creature sees themselves enjoying their deepest desires in the mirror's reflection, becoming fascinated (Will DC 20 negates). This fascination ends automatically when the mirror is broken or covered up.
+**Tempt** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) **Trigger** A creature looks into the mirror; **Effect** The triggering creature sees themselves enjoying their deepest desires in the mirror's reflection, becoming [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] (Will DC 20 negates). This fascination ends automatically when the mirror is broken or covered up.
 
 ---
 **Reset**

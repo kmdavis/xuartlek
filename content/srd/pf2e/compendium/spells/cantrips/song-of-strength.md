@@ -23,6 +23,6 @@ source: "Player Core"
 - **Area**: 60-foot emanation
 - **Duration**: 1 round
 
-You bolster your allies' physical strength with a hearty exhortation. You and your allies gain a +1 status bonus to Athletics checks and to their DCs against Athletics skill actions such as Disarm, Reposition, Shove, and Trip.
+You bolster your allies' physical strength with a hearty exhortation. You and your allies gain a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks and to their DCs against Athletics skill actions such as Disarm, Reposition, Shove, and Trip.
 
 *Source: Player Core p. 371*

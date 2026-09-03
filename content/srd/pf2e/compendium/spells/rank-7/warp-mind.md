@@ -29,7 +29,7 @@ You scramble a creature's mental faculties and sensory input. The target must at
 
 **Critical Success** The target is unaffected.
 
-**Success** The target spends the first action on its next turn with the confused condition.
+**Success** The target spends the first action on its next turn with the [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] condition.
 
 **Failure** The target is confused for 1 minute.
 

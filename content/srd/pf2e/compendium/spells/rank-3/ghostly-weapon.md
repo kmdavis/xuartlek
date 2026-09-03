@@ -21,6 +21,6 @@ source: "Player Core"
 - **Target**: 1 weapon that is either unattended or wielded by you or a willing ally
 - **Duration**: 5 minutes
 
-The target weapon becomes translucent and ghostly, and it can affect material and incorporeal creatures and objects. It gains the effects of the _ghost touch_ property rune, meaning it is magical if it wasn't already, is especially effective against incorporeal creatures, and can be wielded by a corporeal or incorporeal creature.
+The target weapon becomes translucent and ghostly, and it can affect material and [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] creatures and objects. It gains the effects of the _ghost touch_ property rune, meaning it is [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] if it wasn't already, is especially effective against incorporeal creatures, and can be wielded by a corporeal or incorporeal creature.
 
 *Source: Player Core p. 333*

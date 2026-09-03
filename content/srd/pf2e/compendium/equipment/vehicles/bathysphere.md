@@ -22,7 +22,7 @@ source: "GM Core"
 
 **Passengers** 4
 
-**Piloting Check** Crafting (DC 22), Engineering Lore (DC 20), or Piloting Lore (DC 20)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 22), Engineering [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] (DC 20), or Piloting Lore (DC 20)
 
 ---
 

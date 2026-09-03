@@ -18,10 +18,10 @@ source: "GM Core"
 - **Complexity**: Simple A wooden trapdoor covers a pit that’s 10 feet square and 20 feet deep.
 
 **Stealth**
-DC 18 (or 0 if the trapdoor is disabled or broken)
+DC 18 (or 0 if the trapdoor is disabled or [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]])
 
 **Disable**
-DC 12 Thievery to remove the trapdoor
+DC 12 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] to remove the trapdoor
 
 **AC** 10, **Fort** +1, **Ref** +1
 
@@ -32,9 +32,9 @@ DC 12 Thievery to remove the trapdoor
 12 (BT 6)
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
-**Pitfall** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature walks onto the trapdoor; **Effect** The triggering creature falls in and takes falling damage (typically 10 bludgeoning damage). That creature can use the Grab an Edge reaction to avoid falling.
+**Pitfall** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature walks onto the trapdoor; **Effect** The triggering creature falls in and takes falling damage (typically 10 bludgeoning damage). That creature can use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]] reaction to avoid falling.
 
 ---
 **Reset**

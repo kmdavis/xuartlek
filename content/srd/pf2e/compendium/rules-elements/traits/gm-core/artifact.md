@@ -13,6 +13,6 @@ source: "GM Core"
 
 `Artifact`
 
-Items with this trait are artifacts. These magic items can't be crafted by normal means, and they can't be damaged by normal means. Artifacts are always rare or unique.
+Items with this trait are artifacts. These magic items can't be crafted by normal means, and they can't be damaged by normal means. Artifacts are always [[srd/pf2e/compendium/rules-elements/traits/player-core/rare|rare]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unique|unique]].
 
 *Source: GM Core p. 300*

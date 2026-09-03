@@ -18,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: 1 minute (manipulate)
+- **Activate**: 1 minute ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-A sparkling candy coating covers a sprite apple. For 10 minutes after consuming a sprite apple, you shed bright light in a 20-foot emanation (and dim light for the next 20 feet). While shedding this light, you can't be concealed if you're visible, and if you're invisible, you're concealed instead rather than being undetected. The light matches the vibrant color of the apple's candy coating. Creatures in the bright light are subject to another effect, depending on the type of apple.
+A sparkling candy coating covers a sprite apple. For 10 minutes after consuming a sprite apple, you shed bright light in a 20-foot emanation (and dim light for the next 20 feet). While shedding this light, you can't be [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] if you're visible, and if you're [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]], you're concealed instead rather than being [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]]. The light matches the vibrant color of the apple's candy coating. Creatures in the bright light are subject to another effect, depending on the type of apple.
 
 ### Sprite Apple (Chartreuse)
 
@@ -30,7 +30,7 @@ A sparkling candy coating covers a sprite apple. For 10 minutes after consuming 
 
 ---
 
-Creatures in the bright light feel more in tune with nature, gaining a +1 item bonus to Nature checks and to Diplomacy checks attempted against animals or plants (if they have the Animal Empathy feat, Plant Empathy feat, or some other ability to make such checks).
+Creatures in the bright light feel more in tune with nature, gaining a +1 item bonus to Nature checks and to Diplomacy checks attempted against animals or plants (if they have the [[srd/pf2e/compendium/feats/player-core/archetype/animal-empathy-druid|Animal Empathy]] feat, [[srd/pf2e/compendium/feats/player-core/class/plant-empathy|Plant Empathy]] feat, or some other ability to make such checks).
 
 ### Sprite Apple (Golden)
 
@@ -40,7 +40,7 @@ Creatures in the bright light feel more in tune with nature, gaining a +1 item b
 
 ---
 
-Creatures in the bright light feel kind and inviting, taking a –1 item penalty to their Will DC against Diplomacy checks.
+Creatures in the bright light feel kind and inviting, taking a –1 item penalty to their Will DC against [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks.
 
 ### Sprite Apple (Pink)
 
@@ -50,7 +50,7 @@ Creatures in the bright light feel kind and inviting, taking a –1 item penalty
 
 ---
 
-Creatures in the bright light feel a burst of creativity, gaining a +1 item bonus to Performance checks.
+Creatures in the bright light feel a burst of creativity, gaining a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks.
 
 ### Sprite Apple (Teal)
 
@@ -60,6 +60,6 @@ Creatures in the bright light feel a burst of creativity, gaining a +1 item bonu
 
 ---
 
-Creatures in the bright light feel a sense of calm, gaining a +1 item bonus to saving throws against fear effects.
+Creatures in the bright light feel a sense of calm, gaining a +1 item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effects.
 
 *Source: Treasure Vault (Remastered) p. 51*

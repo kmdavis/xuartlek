@@ -14,7 +14,7 @@ Crabs are scavenging crustaceans known for their hard shells and iconic sideways
 
 ### Members
 
-Giant Crab (Creature 2), Hermit Crab Swarm (Creature 4)
+[[srd/pf2e/bestiary/monster-core-2/animal/giant-crab|Giant Crab]] (Creature 2), [[srd/pf2e/bestiary/monster-core-2/animal/hermit-crab-swarm|Hermit Crab Swarm]] (Creature 4)
 
 ### Crab Species
 

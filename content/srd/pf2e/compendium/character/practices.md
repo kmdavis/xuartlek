@@ -15,11 +15,11 @@ You draw forth your apparitions through the power of song and dance, connecting 
 
 ### Song of Invocation
 
-You can sing out to the spirits to have them spin and twirl around you. You gain the Circle of Spirits feat.
+You can sing out to the spirits to have them spin and twirl around you. You gain the [[srd/pf2e/compendium/feats/war-of-immortals/class/circle-of-spirits|Circle of Spirits]] feat.
 
 ### Dancing Invocation
 
-The movement of your body grants power to your magic. When you Leap, Step, or Tumble Through, you also Sustain an apparition spell or vessel spell.
+The movement of your body grants power to your magic. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], Step, or [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]], you also Sustain an apparition spell or vessel spell.
 
 ### Invocation of Praise
 
@@ -33,11 +33,11 @@ You are particularly good at acting as a conduit for spiritual energy and tend t
 
 ### Invocation of Unity
 
-The lines between your body and your apparition are blurry. You gain the Relinquish Control feat.
+The lines between your body and your apparition are blurry. You gain the [[srd/pf2e/compendium/feats/war-of-immortals/class/relinquish-control|Relinquish Control]] feat.
 
 ### Dual Invocation
 
-You can build powerful bonds with multiple apparitions. You can select two of your attuned apparitions to be your primary apparitions. If you have the supreme incarnation class feature, you choose which apparition's avatar form you manifest each time you cast the _avatar_ spell. The number of Focus Points in your focus pool is equal to the number of focus spells you have or the number of primary apparitions you are attuned to, whichever is higher (maximum 3).
+You can build powerful bonds with multiple apparitions. You can select two of your attuned apparitions to be your primary apparitions. If you have the supreme incarnation class feature, you choose which apparition's avatar form you manifest each time you cast the [[srd/pf2e/compendium/spells/rank-10/avatar|_avatar_]] spell. The number of Focus Points in your focus pool is equal to the number of focus spells you have or the number of primary apparitions you are attuned to, whichever is higher (maximum 3).
 
 ### Invocation of Synchronization
 
@@ -48,11 +48,11 @@ Once per round, you can attempt a Recall Knowledge check as a free action.All St
 
 ## Seer  *Animistic Practice*
 
-You are particularly sensitive to the presence and influence of spirits and undead. You can detect lingering spirits, offering you some defense against them.
+You are particularly sensitive to the presence and influence of [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirits]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. You can detect lingering spirits, offering you some defense against them.
 
 ### Invocation of Sight
 
-You shift your eyes easily to the spirit world, intuiting the needs of apparitions and other spiritual entities based on how they appear to you. You gain the Apparition Sense feat. You also gain a +1 status bonus to saving throws and AC against the effects of haunts and the abilities of spirits and incorporeal undead.
+You shift your eyes easily to the spirit world, intuiting the needs of apparitions and other spiritual entities based on how they appear to you. You gain the [[srd/pf2e/compendium/feats/war-of-immortals/class/apparition-sense|Apparition Sense]] feat. You also gain a +1 status bonus to saving throws and AC against the effects of [[srd/pf2e/compendium/rules-elements/traits/gm-core/haunt|haunts]] and the abilities of spirits and [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] undead.
 
 ### Invocation of Protection
 
@@ -70,14 +70,14 @@ You form close bonds with your apparitions that allow you to invest them with th
 
 ### Invocation of Embodiment
 
-You allow your apparition to inhabit a physical form. You gain the Spirit Familiar feat. At 2nd level, you gain the Enhanced Familiar feat.
+You allow your apparition to inhabit a physical form. You gain the [[srd/pf2e/compendium/feats/war-of-immortals/class/spirit-familiar-animist|Spirit Familiar]] feat. At 2nd level, you gain the [[srd/pf2e/compendium/feats/player-core/archetype/enhanced-familiar|Enhanced Familiar]] feat.
 
 ### Invocation of Growth
 
-Your bond with the physical form of your chosen apparition grows stronger. You gain the Incredible Familiar feat.
+Your bond with the physical form of your chosen apparition grows stronger. You gain the [[srd/pf2e/compendium/feats/player-core/archetype/incredible-familiar|Incredible Familiar]] feat.
 
 ### Invocation of Otherworldliness
 
-Your apparition familiar becomes ever more powerful, straddling the line between physical and spiritual. Your spirit familiar can take a single action that has the concentrate trait to become incorporeal for 1 minute. It gains the incorporeal trait, meaning it can move through physical creatures and such creatures can move through it. It can't attempt Strength-based checks (such as Grapple) against corporeal creatures, and corporeal creatures can't attempt such checks against it. It gains immunity to precision damage and resistance to physical damage (except damage from Strikes with the _ghost touch_ property rune) equal to half your level (double against non-magical damage) but weakness to force damage equal to half your level. However, when incorporeal, your spirit familiar can travel no more than 60 feet from you and must maintain line of effect to you; this typically prevents it from moving through walls. Your spirit familiar can Dismiss this effect.
+Your apparition familiar becomes ever more powerful, straddling the line between physical and spiritual. Your spirit familiar can take a single action that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait to become incorporeal for 1 minute. It gains the [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] trait, meaning it can move through physical creatures and such creatures can move through it. It can't attempt Strength-based checks (such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]]) against corporeal creatures, and corporeal creatures can't attempt such checks against it. It gains immunity to precision damage and resistance to physical damage (except damage from Strikes with the [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]] property rune) equal to half your level (double against non-magical damage) but weakness to force damage equal to half your level. However, when incorporeal, your spirit familiar can travel no more than 60 feet from you and must maintain line of effect to you; this typically prevents it from moving through walls. Your spirit familiar can Dismiss this effect.
 
 *Source: War of Immortals p. 16*

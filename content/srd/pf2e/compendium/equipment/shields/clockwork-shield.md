@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 
 This brass-coated, steel shield (Hardness 12, HP 90, BT 45) has _+2 striking shield spikes_ made of bronze gears.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per day; **Effect** The shield's gears begin to spin, subtly adjusting the shield's position as you fight. You gain an extra reaction this turn and at the start of each of your turns for the next minute that you can use only to Shield Block.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The shield's gears begin to spin, subtly adjusting the shield's position as you fight. You gain an extra reaction this turn and at the start of each of your turns for the next minute that you can use only to Shield Block.
 
 ### Clockwork Shield
 

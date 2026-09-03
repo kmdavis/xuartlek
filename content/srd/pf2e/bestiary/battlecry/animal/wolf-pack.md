@@ -31,7 +31,7 @@ perception:
     desc: "Perception +17; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +15, Athletics +15, Stealth +13, Survival +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15"
 abilityMods: [2, 4, 3, -4, 4, -2]
 ac: 23
 armorclass:
@@ -40,16 +40,16 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90 (4 segments); __Weaknesses__ area damage 5, splash damage 5"
+    desc: "90 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "35 feet; troop movement"
 abilities_bot:
   - name: "Harry Prey"
-    desc: "⬺ The wolf pack focuses all their efforts on biting a single adjacent foe, who takes 4d6+8 piercing damage (DC 21 basic Reflex save). If the creature fails this saving throw, the wolf pack can immediately attempt an Athletics check to Trip the creature."
+    desc: "⬺ The wolf pack focuses all their efforts on biting a single adjacent foe, who takes 4d6+8 piercing damage (DC 21 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). If the creature fails this saving throw, the wolf pack can immediately attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] the creature."
   - name: "Pack Hunt"
-    desc: "The wolves work together to fell their opponents. Each enemy within a 5-foot emanation attempts a DC 21 basic Reflex save. A creature who is prone is clumsy 2 for this attack. The damage depends on the number of actions. ⬻ 1d6+1 piercing damage ⬺ 2d6+7 piercing damage ⬽ 2d6+11 piercing damage"
+    desc: "The wolves work together to fell their opponents. Each enemy within a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] attempts a DC 21 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. A creature who is [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2 for this attack. The damage depends on the number of actions. ⬻ 1d6+1 piercing damage ⬺ 2d6+7 piercing damage ⬽ 2d6+11 piercing damage"
 sourcebook: "_Battlecry!_, page 194."
 ```
 

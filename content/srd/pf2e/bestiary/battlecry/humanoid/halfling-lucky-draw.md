@@ -31,10 +31,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16"
-languages: "Common, Halfling"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]]"
 skills:
   - name: "Skills"
-    desc: "Deception +18, Diplomacy +16, Occultism +16, Performance +18, Stealth +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +18, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +16, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +16, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +18, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +16"
 abilityMods: [0, 4, 1, 3, 1, 6]
 ac: 26
 armorclass:
@@ -43,25 +43,25 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135 (4 segments); __Weaknesses__ area damage 10, splash damage 10"
+    desc: "135 (4 segments); __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "25 feet; troop movement"
 abilities_bot:
   - name: "Bad Deal"
-    desc: "⬺ (Auditory, Linguistic, Emotion, Mental, Misfortune, Occult) The halflings mock and taunt their enemies with quick Harrow readings that predict doom. The troop chooses a number of creatures equal to the number of its remaining segments within 60 feet. Each target must attempt a DC 23 Will save. On a failure, the target must roll their next attack roll, saving throw, or skill check twice and use the worse result."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|Misfortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The halflings mock and taunt their enemies with quick Harrow readings that predict doom. The troop chooses a number of creatures equal to the number of its remaining segments within 60 feet. Each target must attempt a DC 23 Will save. On a failure, the target must roll their next attack roll, saving throw, or skill check twice and use the worse result."
   - name: "False Cuts"
     desc: ""
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The halflings feint with their cards and then lash out with their daggers in a coordinated melee attack against enemies in a 5-foot emanation, with a DC 23 basic Reflex save. The damage depends on the number of actions. ⬻ 1d4 piercing or slashing damage and 1d4 precision damage ⬺ 2d4+7 piercing or slashing damage and 2d4 precision damage ⬽ 3d4+10 piercing or slashing damage and 2d4 precision damage"
+    desc: "The halflings feint with their cards and then lash out with their daggers in a coordinated melee attack against enemies in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d4 piercing or slashing damage and 1d4 precision damage ⬺ 2d4+7 piercing or slashing damage and 2d4 precision damage ⬽ 3d4+10 piercing or slashing damage and 2d4 precision damage"
   - name: "Troop Harrowing"
-    desc: "(Mental, Occult) When the halfling lucky draw Casts a Spell that targets a single creature, some of the constituent members can perform a focused Harrow reading on the target as part of Casting the Spell. The lucky draw attempts an Occultism skill check against the target's Will DC. On a success, the target takes a –1 status penalty to their saving throw or AC against the spell (–2 on a critical success). If the lucky draw critically fails this check, their reading portends bad news for the halflings and they become frightened 2."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) When the halfling lucky draw Casts a Spell that targets a single creature, some of the constituent members can perform a focused Harrow reading on the target as part of Casting the Spell. The lucky draw attempts an [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] skill check against the target's Will DC. On a success, the target takes a –1 status penalty to their saving throw or AC against the spell (–2 on a critical success). If the lucky draw critically fails this check, their reading portends bad news for the halflings and they become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 2."
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 23, attack +20 - __Cantrips (4th)__ Daze, Figment, Telekinetic Projectile - __3rd__ Force Barrage, Paralyze, Slow (3 slots) - __4th__ Confusion, Force Barrage (2 slots)"
+    desc: "DC 23, attack +20 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]] - __3rd__ [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-3/paralyze|Paralyze]], [[srd/pf2e/compendium/spells/rank-3/slow|Slow]] (3 slots) - __4th__ [[srd/pf2e/compendium/spells/rank-4/confusion|Confusion]], [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]] (2 slots)"
 sourcebook: "_Battlecry!_, page 182."
 ```
 

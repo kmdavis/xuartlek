@@ -13,6 +13,6 @@ source: "Treasure Vault (Remastered)"
 
 `Missive`
 
-A missive is a piece of magical stationery that must be crafted and composed before it can be activated. All missives have the missive and consumable traits. Missives are often constructed of paper, parchment, or vellum, but any other thin, portable material that can hold writing or embossing upon it can be crafted into missives. After being crafted, the missive is a blank sheet until a message is composed upon it, completing its magic.
+A missive is a piece of magical stationery that must be crafted and composed before it can be activated. All missives have the missive and [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|consumable]] traits. Missives are often constructed of paper, parchment, or vellum, but any other thin, portable material that can hold writing or embossing upon it can be crafted into missives. After being crafted, the missive is a blank sheet until a message is composed upon it, completing its magic.
 
 *Source: Treasure Vault (Remastered) p. 220*

@@ -29,10 +29,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; low-light vision"
-languages: "Common, Fey, Gnomish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Deception +7, Diplomacy +5, Intimidation +7, Performance +7, Stealth +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +7, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +5, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
 abilityMods: [1, 3, 1, 1, 2, 4]
 abilities_top:
   - name: "Items"
@@ -47,7 +47,7 @@ health:
     desc: "16"
 abilities_mid:
   - name: "Gnomish Shift"
-    desc: "⬲ (primal, teleportation)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]])"
   - name: "Trigger"
     desc: "The gnome bard would take damage"
   - name: "Effect"
@@ -55,12 +55,12 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +8 (Agile, Finesse, thrown 10 feet, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
   - name: "Ranged"
-    desc: "⬻ sling +8 (Propulsive, range increment 50 feet, reload 1) __Damage__ 1d6+1 bludgeoning"
+    desc: "⬻ sling +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+1 bludgeoning"
 abilities_bot:
   - name: "Do a Jig"
-    desc: "⬻ (Auditory, Incapacitation, Occult, Mental) the gnome bard plays a ditty that inspires dance. One creature within 30 feet must make a Will saving throw DC 19."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) the gnome bard plays a ditty that inspires dance. One creature within 30 feet must make a Will saving throw DC 19."
   - name: "Success"
     desc: "the target is unaffected."
   - name: "Failure"
@@ -69,7 +69,7 @@ abilities_bot:
     desc: "The target must waste 2 actions on its next turn dancing."
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 19, attack +11 - __Cantrips (1st)__ Courageous Anthem, Daze, Figment, Message, Prestidigitation, Summon Instrument - __1st__ Charm, Command (4 slots)"
+    desc: "DC 19, attack +11 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/courageous-anthem|Courageous Anthem]], [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/summon-instrument|Summon Instrument]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]], [[srd/pf2e/compendium/spells/rank-1/command|Command]] (4 slots)"
 sourcebook: "_Monster Core_, page 172."
 ```
 

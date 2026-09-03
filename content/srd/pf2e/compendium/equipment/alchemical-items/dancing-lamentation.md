@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 240 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This toxin erratically stimulates the limbs, forcing unexpected shifts in momentum. The result resembles a gangly, lurching dance. At the start of each turn, the victim takes one or more Steps in a random direction if able. This movement is forced and doesn't count against the victim's actions for the round. 
 

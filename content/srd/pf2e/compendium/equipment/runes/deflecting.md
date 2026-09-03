@@ -19,6 +19,6 @@ source: "Impossible Magic"
 
 When using a weapon etched with this rune to parry, you have the potential to reduce the damage you take. 
 
-**Activate—Deflecting Parry** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ; **Frequency** once per day; **Trigger** You’re critically hit with a Strike that deals physical damage; **Requirements** You’re benefiting from the bonus to AC from the weapon’s parry trait; **Effect** You gain resistance 5 to physical damage against the triggering Strike.
+**Activate—Deflecting Parry** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ; **Frequency** once per day; **Trigger** You’re critically hit with a Strike that deals physical damage; **Requirements** You’re benefiting from the bonus to AC from the weapon’s parry trait; **Effect** You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 5 to physical damage against the triggering Strike.
 
 *Source: Impossible Magic p. 204*

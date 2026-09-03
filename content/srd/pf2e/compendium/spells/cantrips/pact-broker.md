@@ -26,7 +26,7 @@ source: "Dark Archives (Remastered)"
 - **Defense**: Will
 - **Duration**: sustained up to 1 minute
 
-You offer to broker a pact of peace. If the target accepts and doesn't take hostile actions against you and your allies, you take a –1 status penalty to Deception checks to Lie to them. If they refuse and take a hostile action against you or an ally, they must first attempt a Will save. If they accepted the offer and then take a hostile action against you or an ally during the hex's duration, they must first attempt a Will save and treat the result as one category worse. Regardless of the outcome, the target is then temporarily immune for 1 minute.
+You offer to broker a pact of peace. If the target accepts and doesn't take hostile actions against you and your allies, you take a –1 status penalty to Deception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]] to them. If they refuse and take a [[srd/pf2e/books/player-core/chapter-7-spells/hostile-actions|hostile action]] against you or an ally, they must first attempt a Will save. If they accepted the offer and then take a hostile action against you or an ally during the hex's duration, they must first attempt a Will save and treat the result as one category worse. Regardless of the outcome, the target is then temporarily immune for 1 minute.
 
 **Success** The target is unaffected.
 

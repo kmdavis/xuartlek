@@ -21,9 +21,9 @@ source: "Player Core 2"
 
 This blackened, heavily burned stick smells faintly of saltpeter.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _fireball_ at the indicated rank. Each creature that fails its save takes persistent fire damage.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]] at the indicated rank. Each creature that fails its save takes persistent fire damage.
 
-**Craft Requirements** Supply a casting of _fireball_ of the appropriate rank.
+**Craft Requirements** Supply a casting of [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]] of the appropriate rank.
 
 ### Wand of Smoldering Fireballs (3rd-Rank Spell)
 

@@ -14,7 +14,7 @@ True power comes from knowledge—the power to shape the growth of kingdoms by m
 
 ### Members
 
-Astronomer (Creature 2), Avuncular Professor (Creature 5), Departmental Chair (Creature 7), Eldritch Emeritus (Creature 17), Exuberant Apprentice (Creature 4), Globetrotting Scholar (Creature 13), Librarian (Creature -1), Obsessive Researcher (Creature -1), Sage (Creature 6), Teacher (Creature -1)
+[[srd/pf2e/bestiary/npc-core/humanoid/astronomer|Astronomer]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/avuncular-professor|Avuncular Professor]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/departmental-chair|Departmental Chair]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/eldritch-emeritus|Eldritch Emeritus]] (Creature 17), [[srd/pf2e/bestiary/npc-core/humanoid/exuberant-apprentice|Exuberant Apprentice]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/globetrotting-scholar|Globetrotting Scholar]] (Creature 13), [[srd/pf2e/bestiary/npc-core/humanoid/librarian|Librarian]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/obsessive-researcher|Obsessive Researcher]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/sage|Sage]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/teacher|Teacher]] (Creature -1)
 
 ### Academic Pranks
 
@@ -30,7 +30,7 @@ It is a fond tradition at most universities in the Inner Sea for young scholars 
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: Catfolk name collector (level 6), dromaar lorekeeper (level 5), gnome philomath (level –1)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/catfolk-name-collector|Catfolk name collector]] (level 6), [[srd/pf2e/bestiary/npc-core/humanoid/dromaar-lorekeeper|dromaar lorekeeper]] (level 5), [[srd/pf2e/bestiary/npc-core/humanoid/gnome-philomath|gnome philomath]] (level –1)
 
 ### Fashionable Familiars
 

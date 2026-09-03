@@ -26,9 +26,9 @@ Military leaders or heads of state award these special medals to commend exempla
 
 ---
 
-This steel medal resembles the head and upper body of a gorilla. It’s typically given in recognition of physical prowess, and it grants you a +1 item bonus to Athletics checks to Climb, Force Open, High Jump, and Long Jump.
+This steel medal resembles the head and upper body of a [[srd/pf2e/bestiary/monster-core/animal/gorilla|gorilla]]. It’s typically given in recognition of physical prowess, and it grants you a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]], [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]], and [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]].
 
-**Activate—Gorila's Second Leap** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate, fortune) **Frequency** once per day; **Trigger** You would fail but not critically fail an Athletics check to High Jump or Long Jump; **Effect** The gorilla on the medal beats its chest, giving you another chance. You reroll the failed check.
+**Activate—Gorila's Second Leap** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]]) **Frequency** once per day; **Trigger** You would fail but not critically fail an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]]; **Effect** The gorilla on the medal beats its chest, giving you another chance. You reroll the failed check.
 
 ### Medal of Griffon’s Heart
 
@@ -36,7 +36,7 @@ This steel medal resembles the head and upper body of a gorilla. It’s typicall
 
 ---
 
-This copper medal features a griffon’s face, wings, and talons in profile. It is given in recognition of remarkable bravery, and it grants you a +1 item bonus to saving throws against fear and mental effects. While wearing this pendant, you can also cast _forbidding ward_ as an innate cantrip.
+This copper medal features a [[srd/pf2e/bestiary/monster-core/animal/griffon|griffon’s]] face, wings, and talons in profile. It is given in recognition of remarkable bravery, and it grants you a +1 item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects. While wearing this pendant, you can also cast [[srd/pf2e/compendium/spells/cantrips/forbidding-ward|_forbidding ward_]] as an [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Innate Spells|innate]] cantrip.
 
 ### Medal of the Wolf Pack
 
@@ -44,7 +44,7 @@ This copper medal features a griffon’s face, wings, and talons in profile. It 
 
 ---
 
-There are three wolf’s heads engraved on this pewter medal, typically awarded to squads who demonstrate exceptional teamwork. While wearing the _medal of the wolf pack_, you gain a +2 circumstance bonus to damage rolls against enemies you are flanking.
+There are three [[srd/pf2e/bestiary/monster-core/animal/wolf|wolf’s]] heads engraved on this pewter medal, typically awarded to squads who demonstrate exceptional teamwork. While wearing the _medal of the wolf pack_, you gain a +2 circumstance bonus to damage rolls against enemies you are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanking]].
 
 ### Medal of Unicorn’s Purity
 
@@ -52,9 +52,9 @@ There are three wolf’s heads engraved on this pewter medal, typically awarded 
 
 ---
 
-The profile of the unicorn on this silver medal has a horn that extends slightly beyond the circular border. This medal is awarded in recognition of true righteousness and exemplary service to a cause.
+The profile of the [[srd/pf2e/compendium/gm/creature-families/unicorn|unicorn]] on this silver medal has a horn that extends slightly beyond the circular border. This medal is awarded in recognition of true righteousness and exemplary service to a cause.
 
-**Activate—Unicorn’s Grace** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate, healing, vitality) **Frequency** once per day; **Trigger** You would regain Hit Points from a magical effect; **Effect** You regain an additional 4d6 Hit Points.
+**Activate—Unicorn’s Grace** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) **Frequency** once per day; **Trigger** You would regain Hit Points from a [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] effect; **Effect** You regain an additional 4d6 Hit Points.
 
 ### Medal of Phoenix’s Fire
 
@@ -62,8 +62,8 @@ The profile of the unicorn on this silver medal has a horn that extends slightly
 
 ---
 
-The phoenix on this gold medal is proud and fierce, and the medal features a border shaped like a flame. This medal is considered the highest honor in many countries and is awarded to those soldiers who have truly exemplified the ethics of their country through unbelievable service.
+The [[srd/pf2e/bestiary/monster-core/beast/phoenix|phoenix]] on this gold medal is proud and fierce, and the medal features a border shaped like a flame. This medal is considered the highest honor in many countries and is awarded to those soldiers who have truly exemplified the ethics of their country through unbelievable service.
 
-**Activate—Phoenix’s Sacrifice** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (vitality) **Frequency** once per day; **Trigger** Your dying condition increases; **Effect** The phoenix bursts into flames. You lose the dying condition and regain 1 Hit Point. Your wounded value does not increase. You can use this action while unconscious.
+**Activate—Phoenix’s Sacrifice** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) **Frequency** once per day; **Trigger** Your [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition increases; **Effect** The phoenix bursts into flames. You lose the dying condition and regain 1 Hit Point. Your [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] value does not increase. You can use this action while [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]].
 
 *Source: Battlecry! p. 151*

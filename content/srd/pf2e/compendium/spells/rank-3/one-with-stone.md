@@ -21,6 +21,6 @@ source: "Player Core"
 - **Deities**: Granduncle Taproot, Onos, Rhan-Tegoth, Soralyon, Yuelral
 - **Duration**: 10 minutes or 8 hours
 
-You can either transform into a stone or merge with stone. This spell has the same effects as _one with plants_, but lets you merge with or turn into stone. A stone you turn into has AC 23. You can Dismiss this spell.
+You can either transform into a stone or merge with stone. This spell has the same effects as [[srd/pf2e/compendium/spells/rank-2/one-with-plants|_one with plants_]], but lets you merge with or turn into stone. A stone you turn into has AC 23. You can Dismiss this spell.
 
 *Source: Player Core p. 347*

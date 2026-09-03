@@ -24,7 +24,7 @@ source: "Player Core"
 - **Target**: 1 creature
 - **Duration**: sustained
 
-You transport the target into an extraplanar puzzle room of mysterious origin, locking them there. Once each turn as a single action, the target can attempt an Occultism check, Perception check, or Thievery check against your spell DC to solve the puzzle. Teleportation effects can't carry the target outside the puzzle room unless they can also traverse the planes, such as _interplanar teleport_. When the spell ends, the target returns to the space it occupied when it was banished, or to the nearest space if the original is now filled.
+You transport the target into an extraplanar puzzle room of mysterious origin, locking them there. Once each turn as a single action, the target can attempt an [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] check, Perception check, or [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check against your spell DC to solve the puzzle. [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|Teleportation]] effects can't carry the target outside the puzzle room unless they can also traverse the planes, such as [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|_interplanar teleport_]]. When the spell ends, the target returns to the space it occupied when it was banished, or to the nearest space if the original is now filled.
 
 **Critical Success** The target solves the puzzle and escapes.
 

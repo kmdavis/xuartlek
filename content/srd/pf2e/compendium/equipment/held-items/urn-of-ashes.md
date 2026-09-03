@@ -21,6 +21,6 @@ source: "Player Core 2"
 
 This pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.
 
-**Activate—Doom the Urn** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, concentrate, manipulate) **Frequency** once per round; **Effect** The urn shoots a bolt of void energy at a foe within 30 feet. Attempt a spell attack roll against the target's AC, using a modifier of +15 or your own spell attack modifier, whichever is higher. On a success, the bolt deals 4d4 void damage (doubled on a critical success).
+**Activate—Doom the Urn** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per round; **Effect** The urn shoots a bolt of void energy at a foe within 30 feet. Attempt a spell attack roll against the target's AC, using a modifier of +15 or your own spell attack modifier, whichever is higher. On a success, the bolt deals 4d4 void damage (doubled on a critical success).
 
 *Source: Player Core 2 p. 307*

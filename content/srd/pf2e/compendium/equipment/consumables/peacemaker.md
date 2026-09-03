@@ -18,7 +18,7 @@ source: "Guns & Gears (Remastered)"
 
 - **Price**: 35 gp
 - **Usage**: affixed to a weapon
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 - **Requirement**: Your last action was an Interact action to stow the affixed firearm or crossbow.
 
 This ragged piece of white cloth is wrapped around the grip, stock, or haft of the affixed weapon. When you activate the talisman, you gain the effects of a _sanctuary_ spell (DC 20) lasting for 1 minute. If you draw the affixed firearm, the effect ends immediately and the talisman crumbles.

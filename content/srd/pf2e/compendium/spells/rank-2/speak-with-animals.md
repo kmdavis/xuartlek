@@ -19,6 +19,6 @@ source: "Player Core"
 - **Deities**: Etaris, Green Faith, Rowdrosh
 - **Duration**: 1 hour
 
-You can ask questions of, receive answers from, and use the Diplomacy skill with animals. The spell doesn't make them more friendly than normal. Cunning animals are likely to be terse and evasive, while less intelligent ones often make inane comments.
+You can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with animals. The spell doesn't make them more friendly than normal. Cunning animals are likely to be terse and evasive, while less intelligent ones often make inane comments.
 
 *Source: Player Core p. 358*

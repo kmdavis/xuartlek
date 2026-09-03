@@ -19,10 +19,10 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn headwear
 - **Bulk**: L
 
-Repurposing and enchanting a helmet worn by a battlefield commander can create a _tactician’s helm_, imparting knowledge of battlefield tactics that feeds off your minor victories. The helm grants you a +1 item bonus to Warfare Lore checks. Also, a jewel adorns the brow of the helmet. This jewel becomes charged each time you hit a creature with a Reactive Strike. A _tactician’s helm_ can hold up to 2 charges, and its charges reset to 0 when you invest it.
+Repurposing and enchanting a helmet worn by a battlefield commander can create a _tactician’s helm_, imparting knowledge of battlefield tactics that feeds off your minor victories. The helm grants you a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] checks. Also, a jewel adorns the brow of the helmet. This jewel becomes charged each time you hit a creature with a [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]]. A _tactician’s helm_ can hold up to 2 charges, and its charges reset to 0 when you invest it.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)**Cost** 1 charge from the helm; **Frequency** once per hour; **Effect** You choose one of the following effects. 
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])**Cost** 1 charge from the helm; **Frequency** once per hour; **Effect** You choose one of the following effects. 
 
-**Charge!** Stride twice.**Move It!** You gain a +2 status bonus to Acrobatics and Athletics checks until the end of this turn.**Protect!** If you're wielding a shield, Stride to a space adjacent to an ally, then Raise your Shield.**Re-Arm!** Interact up to three times. Each of these actions must be used to do something listed under Interact.
+**Charge!** Stride twice.**Move It!** You gain a +2 status bonus to Acrobatics and Athletics checks until the end of this turn.**Protect!** If you're wielding a shield, Stride to a space adjacent to an ally, then Raise your Shield.**Re-Arm!** Interact up to three times. Each of these actions must be used to do something listed under [[srd/pf2e/books/player-core/chapter-6-equipment/carrying-items#Interact|Interact]].
 
 *Source: Treasure Vault (Remastered) p. 152*

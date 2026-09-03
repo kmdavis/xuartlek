@@ -17,11 +17,11 @@ source: "Battlecry!"
 
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: Pick
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/pick/pick|Pick]]
 
-The head of this _+1 striking pick_ is adorned with a detailed etching of an eagle with outstretched wings. When you use it to Strike an unattended object whose intended purpose is to restrain or confine, such as a pair of manacles or the bars of a prison cell, you ignore the first 5 points of the object’s Hardness.
+The head of this _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/pick/pick|pick]]_ is adorned with a detailed etching of an eagle with outstretched wings. When you use it to Strike an unattended object whose intended purpose is to restrain or confine, such as a pair of manacles or the bars of a prison cell, you ignore the first 5 points of the object’s [[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]].
 
-**Activate—Liberating Strike** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ; **Frequency** once per day; **Effect** You Strike a creature with the chainbreaker. If you hit and deal damage, one grabbed or restrained ally within 60 feet of the target can use a reaction to attempt to Escape.
+**Activate—Liberating Strike** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ; **Frequency** once per day; **Effect** You [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] a creature with the chainbreaker. If you hit and deal damage, one [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] ally within 60 feet of the target can use a reaction to attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]].
 
 ### Chainbreaker
 

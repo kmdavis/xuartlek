@@ -31,10 +31,10 @@ modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; darkvision"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +32, Stealth +28"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +32, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +28"
 abilityMods: [7, 5, 6, 0, 2, 0]
 abilities_top:
   - name: "Refuse Pile"
@@ -46,7 +46,7 @@ armorclass:
 hp: 270
 health:
   - name: "HP"
-    desc: "270 (4 segments, filth wallow); __Immunities__ disease, poison; __Weaknesses__ area damage 15, splash damage 15"
+    desc: "270 (4 segments, filth wallow); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]; __Weaknesses__ area damage 15, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 15"
 abilities_mid:
   - name: "Filth Wallow"
     desc: "A trash stampede gains fast healing 10 when in an area with a high concentration of debris or excrement, such as a refuse heap or sewer."
@@ -57,21 +57,21 @@ abilities_mid:
 speed: "30 feet; troop movement"
 abilities_bot:
   - name: "Offal Rain"
-    desc: "⬺ The ofalth stampede hurls a tremendous amount of rotting trash, which rains down in a 10-foot burst within 60 feet. All creatures in the area take 4d10 bludgeoning damage (DC 33 basic Reflex save). Creatures that fail the saving throw are also exposed to wretched weeps. When the troop is reduced to 2 segments, the area decreases to a 5-foot burst."
+    desc: "⬺ The ofalth stampede hurls a tremendous amount of rotting trash, which rains down in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] within 60 feet. All creatures in the area take 4d10 bludgeoning damage (DC 33 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). Creatures that fail the saving throw are also exposed to wretched weeps. When the troop is reduced to 2 segments, the area decreases to a 5-foot burst."
   - name: "Putrid Pummeling"
     desc: ""
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The ofalths pummel all enemies in a 10-foot emanation, with a DC 33 basic Reflex save. The damage depends on the number of actions. Creatures that fail the saving throw are exposed to wretched weeps. ⬻ 1d12+3 bludgeoning damage ⬺ 3d12+7 bludgeoning damage ⬽ 4d12+10 bludgeoning damage"
+    desc: "The ofalths pummel all enemies in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 33 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. Creatures that fail the saving throw are exposed to wretched weeps. ⬻ 1d12+3 bludgeoning damage ⬺ 3d12+7 bludgeoning damage ⬽ 4d12+10 bludgeoning damage"
   - name: "Wretched Weeps"
-    desc: "(Disease)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]])"
   - name: "Saving Throw"
     desc: "DC 36 Fortitude"
   - name: "Stage 1"
     desc: "carrier with no ill effect (1 day)"
   - name: "Stage 2"
-    desc: "2d4 persistent bleed every hour and enfeebled 1 (1 day)"
+    desc: "2d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed]] every hour and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 day)"
   - name: "Stage 3"
     desc: "2d6 persistent bleed every hour and enfeebled 2 (1 day)"
 sourcebook: "_Battlecry!_, page 186."

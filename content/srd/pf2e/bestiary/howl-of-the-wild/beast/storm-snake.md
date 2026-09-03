@@ -33,7 +33,7 @@ perception:
     desc: "Perception +12; low-light vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Stealth +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
 abilityMods: [3, 5, 2, -1, 3, 0]
 ac: 21
 armorclass:
@@ -42,23 +42,23 @@ armorclass:
 hp: 70
 health:
   - name: "HP"
-    desc: "70; __Resistances__ electricity 8"
+    desc: "70; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 8"
 abilities_mid:
   - name: "Static Shock"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature touches the storm snake or damages it with an unarmed melee attack or non-reach melee weapon"
+    desc: "A creature touches the storm snake or damages it with an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] melee attack or non-[[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] melee weapon"
   - name: "Effect"
-    desc: "The triggering enemy is shocked for 2d8 electricity damage (DC 19 basic Fortitude save). On a failed save, the target is stunned 1."
+    desc: "The triggering enemy is shocked for 2d8 electricity damage (DC 19 basic Fortitude save). On a failed save, the target is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]]."
 speed: "30 feet, fly 30 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ tail +12 __Damage__ 2d4+5 slashing plus 1d4 electricity"
 abilities_bot:
   - name: "Lightning Strike"
-    desc: "⬻ The storm snake redirects the lightning it has absorbed from storms, dealing 2d10 electricity damage to a single target within 20 feet (DC 19 basic Reflex save). On a failure, the target is dazzled until the end of its next turn."
+    desc: "⬻ The storm snake redirects the lightning it has absorbed from storms, dealing 2d10 electricity damage to a single target within 20 feet (DC 19 basic Reflex save). On a failure, the target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the end of its next turn."
   - name: "Static Field"
-    desc: "⬺ The storm snake gathers all static electricity in the area before releasing it in a 30-foot emanation that deals 3d12 electricity damage to all non-plant creatures (DC 19 Reflex save) and grants plant creatures 5 temporary Hit Points that last for 1 minute. Plant life in the area begins to grow significantly faster than the average for plants of their genus; in forests, fields, or otherwise floral locations, this immediately transforms the area into nonmagical difficult terrain. The storm snake can't use Static field again for 1d4 rounds."
+    desc: "⬺ The storm snake gathers all static electricity in the area before releasing it in a 30-foot emanation that deals 3d12 electricity damage to all non-[[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] creatures (DC 19 Reflex save) and grants plant creatures 5 temporary Hit Points that last for 1 minute. Plant life in the area begins to grow significantly faster than the average for plants of their genus; in forests, fields, or otherwise floral locations, this immediately transforms the area into nonmagical difficult terrain. The storm snake can't use Static field again for 1d4 rounds."
 sourcebook: "_Howl of the Wild_, page 185."
 ```
 

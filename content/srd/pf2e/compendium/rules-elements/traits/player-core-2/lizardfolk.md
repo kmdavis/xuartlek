@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Lizardfolk`
 
-A creature with this trait is a member of the lizardfolk ancestry, a family of reptilian humanoids. An ability with this trait can be used or selected only by lizardfolk.
+A creature with this trait is a member of the [[srd/pf2e/compendium/character/ancestries/lizardfolk|lizardfolk]] ancestry, a family of reptilian humanoids. An ability with this trait can be used or selected only by lizardfolk.
 
 *Source: Player Core 2 p. 317*

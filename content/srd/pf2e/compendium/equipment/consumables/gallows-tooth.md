@@ -18,8 +18,8 @@ source: "GM Core"
 
 - **Price**: 100 gp
 - **Usage**: affixed to a weapon
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This grisly molar hangs from a cord threaded through a hole just above its dried, exposed root. When you activate this talisman, make a melee Strike against an adjacent creature. That creature is off-guard against the Strike and until the end of your turn.
+This grisly molar hangs from a cord threaded through a hole just above its dried, exposed root. When you activate this talisman, make a melee Strike against an adjacent creature. That creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the Strike and until the end of your turn.
 
 *Source: GM Core p. 265*

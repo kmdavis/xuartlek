@@ -19,9 +19,9 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 60 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Using ingredients collected from pure elemental sources, a warding element draught instills enough of the essence of the element in the imbiber to partially protect them against it. Each draught includes one of the following ingredients, chosen when the elixir is distilled, and grants a +1 item bonus to AC and saving throws against alchemical effects, spells, and magic effects with the listed elemental trait for 10 minutes.
-**Blood** Metal**Effervescent Gas** Air**Grains** Earth**Hot Peppers** Fire**Spring Water** Water**Wormwood** Wood
+**Blood** [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|Metal]]**Effervescent Gas** [[srd/pf2e/compendium/rules-elements/traits/player-core/air|Air]]**Grains** [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]]**Hot Peppers** [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]]**Spring Water** [[srd/pf2e/compendium/rules-elements/traits/player-core/water|Water]]**Wormwood** [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|Wood]]
 
 *Source: Treasure Vault (Remastered) p. 51*

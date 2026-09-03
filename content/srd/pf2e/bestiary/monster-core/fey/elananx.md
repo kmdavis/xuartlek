@@ -29,10 +29,10 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; darkvision"
-languages: "Fey; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +14, Athletics +14, Survival +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +14"
 abilityMods: [4, 4, 2, -3, 2, -2]
 ac: 24
 armorclass:
@@ -41,27 +41,27 @@ armorclass:
 hp: 95
 health:
   - name: "HP"
-    desc: "95; __Immunities__ fire; __Weaknesses__ cold iron 5"
+    desc: "95; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Weaknesses__ cold iron 5"
 abilities_mid:
   - name: "Cinder Dispersal"
-    desc: "⬲ (fire, primal)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Trigger"
     desc: "The elananx takes damage from a hostile source"
   - name: "Effect"
-    desc: "The elananx disperses into a cloud of smoke and cinders, filling its space and a 20-foot emanation. While in this form, the elananx can't be attacked or targeted, and it doesn't take up space. Anything inside this cloud is concealed, and any creature ending its turn there takes 2d6 fire damage. At the start of its turn, the elananx returns to its normal form in any square the cloud covered. If the elananx Strikes a creature using its first action after returning to its normal form, the target is off-guard and the Strike deals an extra 1d6 fire damage."
+    desc: "The elananx disperses into a cloud of smoke and cinders, filling its space and a 20-foot emanation. While in this form, the elananx can't be attacked or targeted, and it doesn't take up space. Anything inside this cloud is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and any creature ending its turn there takes 2d6 fire damage. At the start of its turn, the elananx returns to its normal form in any square the cloud covered. If the elananx Strikes a creature using its first action after returning to its normal form, the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and the Strike deals an extra 1d6 fire damage."
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +16 (Magical) __Damage__ 2d6+8 piercing and 1d6 fire"
+    desc: "⬻ jaws +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d6+8 piercing and 1d6 fire"
   - name: "Melee"
-    desc: "⬻ claw +16 (Agile) __Damage__ 2d6+8 slashing"
+    desc: "⬻ claw +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d6+8 slashing"
 abilities_bot:
   - name: "Pack Attack"
     desc: "The elananx's Strikes deal an extra 1d6 damage to creatures within the reach of at least two of its allies."
   - name: "Pounce"
-    desc: "⬻ The elananx Strides and makes a Strike at the end of that movement. If the elananx began this action hidden, it remains hidden until after the attack. Hunting Grounds Although many elananxes dwell in the strange realm of the First World, some are also natives of the Universe. Elananxes prefer to dwell in regions where there are ample intelligent creatures to chase, hunt, and eat, and they favor woodlands and hills as their primary hunting grounds."
+    desc: "⬻ The elananx Strides and makes a Strike at the end of that movement. If the elananx began this action [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], it remains hidden until after the attack. Hunting Grounds Although many elananxes dwell in the strange realm of the [[srd/pf2e/compendium/gm/planes#First World|First World]], some are also natives of [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]]. Elananxes prefer to dwell in regions where there are ample intelligent creatures to chase, hunt, and eat, and they favor woodlands and hills as their primary hunting grounds."
 sourcebook: "_Monster Core_, page 139."
 ```
 

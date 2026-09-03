@@ -12,7 +12,7 @@ source: "Impossible Magic"
 
 ### Arcane Cascade Damage
 
-Feats like Burning Cascade, Devastating Spellstrike, and Distracting Spellstrike have values dependent on your Arcane Cascade damage. Note that abilities that can increase the extra damage, such as the laughing shadow and twofold tine hybrid studies, apply only to the Strikes that meet their criteria, not to other abilities. This means feats like the listed ones use the base damage value, not the boosted one!
+Feats like [[srd/pf2e/compendium/feats/impossible-magic/class/burning-cascade|Burning Cascade]], [[srd/pf2e/compendium/feats/impossible-magic/class/devastating-spellstrike|Devastating Spellstrike]], and [[srd/pf2e/compendium/feats/impossible-magic/class/distracting-spellstrike|Distracting Spellstrike]] have values dependent on your Arcane Cascade damage. Note that abilities that can increase the extra damage, such as the laughing shadow and twofold tine hybrid studies, apply only to the Strikes that meet their criteria, not to other abilities. This means feats like the listed ones use the base damage value, not the boosted one!
 
 ### Combining your Abilities
 
@@ -64,7 +64,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Expert in Fortitude Trained in Reflex Expert in Will |
-| **Skills** | Trained in Arcana Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
+| **Skills** | Trained in [[srd/pf2e/compendium/rules-elements/skills/arcana\|Arcana]] Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
 | **Attacks** | Trained in simple weapons Trained in martial weapons Trained in unarmed attacks |
 | **Defenses** | Trained in light armor Trained in medium armor Trained in unarmored defense |
 | **Class DC** | Trained in magus class DC |
@@ -122,7 +122,7 @@ You study spells so you can combine them with your attacks or solve problems tha
 
  As you increase in level as a magus, the number of spells you can prepare each day increases, as does the highest rank of spell you can cast, as shown in the Magus Spells per Day table.
 
- Some of your spells require you to attempt a spell attack to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Your spell attack modifier and spell DC are calculated using your Intelligence modifier. 
+ Some of your spells require you to attempt a spell attack to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|spell attack modifier]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell DC|spell DC]] are calculated using your Intelligence modifier. 
 
 #### Heightening Spells
 
@@ -134,13 +134,13 @@ You study spells so you can combine them with your attacks or solve problems tha
 
 #### Spellbook
 
- Every arcane spell has a written version, which you record in your personalized book of spells. You start with a spellbook worth 10 sp or less, which you receive for free and must study each day to prepare your spells. Your spellbook's form and name are up to you. It might be anything from a sturdy book with a secure latch entitled _Theses on the Stratagems of Supernatural Warfare_ to a tattered collection of training pamphlets with your name scrawled on the cover.
+ Every arcane spell has a written version, which you record in your personalized book of spells. You start with a [[srd/pf2e/compendium/equipment/adventuring-gear/spellbook-blank|spellbook]] worth 10 sp or less, which you receive for free and must study each day to prepare your spells. Your spellbook's form and name are up to you. It might be anything from a sturdy book with a secure latch entitled _Theses on the Stratagems of Supernatural Warfare_ to a tattered collection of training pamphlets with your name scrawled on the cover.
 
  The spellbook contains your choice of eight arcane cantrips and five 1st-rank arcane spells. You choose these from the common spells on the arcane spell list or from other arcane spells you gain access to.
 
- Each time you gain a level, you add two arcane spells to your spellbook, of any spell rank for which you have spell slots, chosen from common spells of your tradition or others you gain access to. You can also add spells to your spellbook with the Learn a Spell activity.
+ Each time you gain a level, you add two arcane spells to your spellbook, of any spell rank for which you have spell slots, chosen from common spells of your tradition or others you gain access to. You can also add spells to your spellbook with the [[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]] activity.
 
- If you have a spellbook from multiple sources (such as being a magus with the Wizard Dedication feat, you can use the same spellbook for all your spells.
+ If you have a spellbook from multiple sources (such as being a magus with the [[srd/pf2e/compendium/feats/player-core/archetype/wizard-dedication|Wizard Dedication]] feat, you can use the same spellbook for all your spells.
 
 #### Spellstrike
 
@@ -152,11 +152,11 @@ You’ve learned the fundamental magus technique that lets you combine magical a
 
  Though the base Spellstrike rules cover most spells, various modifications apply to more complicated spells when loaded into your fist, blade, or other attack.
 
- **One Target:** The spell targets only the target of your Strike, even if it normally allows more targets. This includes area spells, against which only the target attempts a saving throw. Any ongoing effects of the area, such as the difficult terrain from _scatter scree_, affect only the target's space. Some feats let you affect more creatures.
+ **One Target:** The spell targets only the target of your Strike, even if it normally allows more targets. This includes area spells, against which only the target attempts a saving throw. Any ongoing effects of the area, such as the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] from [[srd/pf2e/compendium/spells/cantrips/scatter-scree|_scatter scree_]], affect only the target's space. Some feats let you affect more creatures.
 
- **Reach:** The coupled spell affects the target using the reach of the weapon or unarmed attack you use for your Spellstrike. For instance, _gouging claw_ would affect a creature beyond the reach of your hand if you used a weapon with reach, and _frostbite_ would affect only a creature in your weapon's reach, even though the spell's range is longer.
+ **Reach:** The coupled spell affects the target using the reach of the weapon or unarmed attack you use for your Spellstrike. For instance, [[srd/pf2e/compendium/spells/cantrips/gouging-claw|_gouging claw_]] would affect a creature beyond the reach of your hand if you used a weapon with reach, and [[srd/pf2e/compendium/spells/cantrips/frostbite|_frostbite_]] would affect only a creature in your weapon's reach, even though the spell's range is longer.
 
- **Ancillary Effects:** Your spell still has any non-targeted effects that might affect creatures other than the target, as well as any ongoing effects starting from the moment you hit with the Strike. For example, _scatter scree_ would still create difficult terrain in the target's space (as mentioned above), and _tangle vine's_ circumstance penalty would last for its normal duration. The spell takes effect after the Strike deals damage; if the Strike has other special effects, the GM determines whether they happen before or after the spell.
+ **Ancillary Effects:** Your spell still has any non-targeted effects that might affect creatures other than the target, as well as any ongoing effects starting from the moment you hit with the Strike. For example, _scatter scree_ would still create difficult terrain in the target's space (as mentioned above), and [[srd/pf2e/compendium/spells/cantrips/tangle-vine|_tangle vine's_]] circumstance penalty would last for its normal duration. The spell takes effect after the Strike deals damage; if the Strike has other special effects, the GM determines whether they happen before or after the spell.
 
  **Invalid or Immune Target:** If the target you hit wouldn't be a valid target for the spell, the spell is still expended but doesn't affect the target. If the target is immune to your attack but not the spell, it can still be affected by the spell.
 
@@ -176,7 +176,7 @@ Your extensive physical training and carefully chosen magic combine to form a un
 
 You learn a conflux spell from your hybrid study, and you can cast additional conflux spells by selecting certain feats. Conflux spells are magus-specific spells created for combat and are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to both study your spellbook and perform a physical regimen.
 
-Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear here.
+Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but it can never be more than 3 points. The full rules for focus spells appear [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|here]].
 
 | | |
 | --- | --- |
@@ -201,11 +201,11 @@ You’ve dedicated yourself to learning the intricacies of your weapons. Your pr
 
 #### Studious Spell
 
-You've deeply studied certain beneficial spells to speedily enter Arcane Cascade when you cast them. When you cast a studious spell, you can use Arcane Cascade as a free action as your next action this turn. Add any studious spell you gain to your spellbook if you don't know it already. Your studious spells are _gecko grip_ and an additional spell depending on your hybrid study, listed in the hybrid study's entry.
+You've deeply studied certain beneficial spells to speedily enter Arcane Cascade when you cast them. When you cast a studious spell, you can use Arcane Cascade as a free action as your next action this turn. Add any studious spell you gain to your spellbook if you don't know it already. Your studious spells are [[srd/pf2e/compendium/spells/rank-2/gecko-grip|_gecko grip_]] and an additional spell depending on your hybrid study, listed in the hybrid study's entry.
 
- At 11th level, add _haste_ and an additional spell depending on your hybrid study to your studious spells.
+ At 11th level, add [[srd/pf2e/compendium/spells/rank-3/haste|_haste_]] and an additional spell depending on your hybrid study to your studious spells.
 
- At 13th level, add _fly_ and an additional spell depending on your hybrid study to your studious spells.
+ At 13th level, add [[srd/pf2e/compendium/spells/rank-4/fly|_fly_]] and an additional spell depending on your hybrid study to your studious spells.
 
 #### Weapon Specialization
 

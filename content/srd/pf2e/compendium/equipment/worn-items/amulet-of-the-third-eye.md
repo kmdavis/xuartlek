@@ -20,8 +20,8 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn
 - **Bulk**: L
 
-This large brass medallion hangs low on the torso. It’s shaped in the form of an unblinking eye, with a ring of turquoise as the iris and an orb of jet serving as the pupil. The amulet grants you a +2 item bonus to Perception checks. When you invest the amulet, you either increase your Wisdom modifier by 1 or increase it to +4, whichever would give you a higher value.
+This large brass medallion hangs low on the torso. It’s shaped in the form of an unblinking eye, with a ring of turquoise as the iris and an orb of jet serving as the pupil. The amulet grants you a +2 item bonus to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] checks. When you invest the amulet, you either increase your Wisdom modifier by 1 or increase it to +4, whichever would give you a higher value.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** You cast _truesight_.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]].
 
 *Source: Treasure Vault (Remastered) p. 102*

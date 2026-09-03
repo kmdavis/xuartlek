@@ -47,13 +47,13 @@ source: "Howl of the Wild"
 
 ---
 
-Pheromone sprayers are used to fire mass amounts of alchemical animal pheromones in a more weaponized form to allow researchers an easy way to influence otherwise dangerous creatures. Like animal pheromones, the ammunition for this siege weapon must be crafted for a specific kind of animal. A pheromone sprayer consists of two large tanks mounted atop a narrow, cannon-like barrel. One of the tanks contains concentrated alchemical pheromones, while the other tank is loaded with water, which is used to dilute the pheromones to produce different effects upon launch. 
+Pheromone sprayers are used to fire mass amounts of alchemical [[srd/pf2e/compendium/equipment/alchemical-items/animal-pheromones-greater|animal pheromones]] in a more weaponized form to allow researchers an easy way to influence otherwise dangerous creatures. Like animal pheromones, the ammunition for this siege weapon must be crafted for a specific kind of animal. A pheromone sprayer consists of two large tanks mounted atop a narrow, cannon-like barrel. One of the tanks contains concentrated alchemical pheromones, while the other tank is loaded with water, which is used to dilute the pheromones to produce different effects upon launch. 
 
 **Aim** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") rotate 45° 
 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 2 times 
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times 
 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate, olfactory) 80-foot line or 40-foot cone, DC 20 Will. Switching between the line or cone mode takes an Interact action, which any of the crew can perform. Designated kinds of animals that fail their save experience the following effects, depending on dilution.
-**Low Dilution** Affected creatures are stunned 2.**Medium Dilution** Affected creatures are fascinated by the scent of the pheromones and off-guard until the end of their next turn.**High Dilution** Affected creatures are slowed 1 for 1 minute.
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]]) 80-foot line or 40-foot cone, DC 20 Will. Switching between the line or cone mode takes an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action, which any of the crew can perform. Designated kinds of animals that fail their save experience the following effects, depending on dilution.
+**Low Dilution** Affected creatures are [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 2.**Medium Dilution** Affected creatures are [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] by the scent of the pheromones and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of their next turn.**High Dilution** Affected creatures are [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 for 1 minute.
 
 *Source: Howl of the Wild p. 116*

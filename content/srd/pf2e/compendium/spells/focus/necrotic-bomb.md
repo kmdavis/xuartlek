@@ -22,9 +22,9 @@ source: "Impossible Magic"
 
 - **Range**: 30 feet
 - **Target**: 1 of your thralls
-- **Defense**: basic Fortitude
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
 
-You overload one of your thralls with void energy, causing it to explode. Each creature within a 10-foot emanation of the thrall takes 1d12 void damage with a basic Fortitude save. This destroys the thrall.
+You overload one of your thralls with void energy, causing it to explode. Each creature within a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] of the thrall takes 1d12 void damage with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude save. This destroys the thrall.
 
 ---
 **Heightened (+1)** The damage increases by 1d12.

@@ -28,15 +28,15 @@ trait_02: "Humanoid"
 modifier: 22
 perception:
   - name: "Perception"
-    desc: "Perception +22; (26 for Sense Motive)"
-languages: "Common"
+    desc: "Perception +22; (26 for [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]])"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Deception +24, Games Lore +26, Intimidation +22, Society +21, Thievery +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +24, [[srd/pf2e/compendium/rules-elements/skills/lore|Games Lore]] +26, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +22, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +21, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +22"
 abilityMods: [1, 5, 0, 2, 3, 5]
 abilities_top:
   - name: "Items"
-    desc: "Playing Cards (54-card deck), _predictable silver piece_, _+1 striking rapier_"
+    desc: "Playing Cards (54-card deck), [[srd/pf2e/compendium/equipment/held-items/predictable-silver-piece|_predictable silver piece_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/rapier|rapier]]_"
 ac: 30
 armorclass:
   - name: "AC"
@@ -47,7 +47,7 @@ health:
     desc: "150"
 abilities_mid:
   - name: "Tip the Scales"
-    desc: "⬲ (divine, fortune)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]])"
   - name: "Trigger"
     desc: "A creature the high roller is observing critically fails a check"
   - name: "Effect"
@@ -55,13 +55,13 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _rapier_ +23 (deadly d8, Disarm, Finesse, Magical) __Damage__ 2d6+11 piercing"
+    desc: "⬻ _rapier_ +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d6+11 piercing"
   - name: "Melee"
-    desc: "⬻ fist +22 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+11 bludgeoning"
+    desc: "⬻ fist +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+11 bludgeoning"
   - name: "Melee"
-    desc: "⬻ card +23 (Agile, Finesse) __Damage__ 2d4+11 slashing"
+    desc: "⬻ card +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 2d4+11 slashing"
   - name: "Ranged"
-    desc: "⬻ card +23 (Agile, thrown 20 feet) __Damage__ 2d4+11 slashing"
+    desc: "⬻ card +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 2d4+11 slashing"
 abilities_bot:
   - name: "Lucky Momentum"
     desc: "⬻"

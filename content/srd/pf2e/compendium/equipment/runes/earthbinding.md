@@ -19,6 +19,6 @@ source: "Treasure Vault (Remastered)"
 
 A weapon with this rune hums when touched to the ground.
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per hour; **Requirements** You critically hit a flying creature with the etched weapon; **Effect** The rune casts a DC 20 _earthbind_ spell on the flying creature.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Requirements** You critically hit a flying creature with the etched weapon; **Effect** The rune casts a DC 20 _earthbind_ spell on the flying creature.
 
 *Source: Treasure Vault (Remastered) p. 33*

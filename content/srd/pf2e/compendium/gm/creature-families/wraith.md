@@ -14,6 +14,6 @@ These menacing spiritual remnants of wicked warlords or bloodthirsty generals ar
 
 ### Members
 
-War Wraith (Creature 9)
+[[srd/pf2e/bestiary/monster-core-2/undead/war-wraith|War Wraith]] (Creature 9)
 
 *Source: Monster Core 2 p. 356*

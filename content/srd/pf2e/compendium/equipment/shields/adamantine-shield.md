@@ -15,7 +15,7 @@ source: "GM Core"
 `Uncommon`
 
 - **Usage**: varies by shield
-- **Base Material**: Adamantine
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|Adamantine]]
 
 Adamantine shields are particularly sturdy, and when used for a shield bash, they're adamantine weapons.
 

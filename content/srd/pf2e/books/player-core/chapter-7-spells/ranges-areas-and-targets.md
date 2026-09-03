@@ -20,7 +20,7 @@ Spells with a range can affect targets, create areas, or make things appear only
 
 > [!pf2-sidebar] SUBTLE SPELLS
 >
-> A spell with the subtle trait can be cast without incantations and doesn't have obvious manifestations. Most of these spells enhance your subterfuge or stealth, such as invisibility. Some abilities, like the Conceal Spell feat, allow you to make spells subtle even if they wouldn't normally be.
+> A spell with the subtle trait can be cast without incantations and doesn't have obvious manifestations. Most of these spells enhance your subterfuge or stealth, such as invisibility. Some abilities, like the [[srd/pf2e/compendium/feats/player-core/class/conceal-spell|Conceal Spell]] feat, allow you to make spells subtle even if they wouldn't normally be.
 
 > [!pf2-sidebar] SPELLSHAPE
 >

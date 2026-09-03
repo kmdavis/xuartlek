@@ -16,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 `Consumable`  `Magical`
 
 - **Ammunition**: any
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 Shiny gray metal that slightly thrums when touched makes up the metal parts of a _magnetic shot_. When activated, the shot is more effective against a target wearing metal armor or made of metal. The activated ammunition grants a circumstance bonus to attack rolls against such targets, according to its type. Due to magnetic acceleration, the ammunition deals more damage and has deadlier critical hits, also according to its type.
 

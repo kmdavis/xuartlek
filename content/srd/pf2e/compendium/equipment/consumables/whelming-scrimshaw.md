@@ -19,9 +19,9 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 500 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-An etching of some aquatic beast dragging a figure beneath the waves adorns the ivory of a _whelming scrimshaw_. When you Activate this item, you break it and choose one creature within 30 feet. The target must attempt a DC 30 Fortitude save; amphibious and aquatic creatures are immune.
+An etching of some aquatic beast dragging a figure beneath the waves adorns the ivory of a _whelming scrimshaw_. When you Activate this item, you break it and choose one creature within 30 feet. The target must attempt a DC 30 Fortitude save; [[srd/pf2e/compendium/rules-elements/traits/player-core/amphibious|amphibious]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/aquatic|aquatic]] creatures are immune.
 
 **Critical Success** The creature is unaffected.
 

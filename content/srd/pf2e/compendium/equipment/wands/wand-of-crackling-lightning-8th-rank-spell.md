@@ -21,9 +21,9 @@ source: "Player Core 2"
 
 This wand is made of two copper plates and a ceramic center. 
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _lightning bolt_, but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are off-guard for 1 round.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|_lightning bolt_]], but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round.
 
-**Craft Requirements** Supply a casting of _lightning bolt_ of the appropriate rank.
+**Craft Requirements** Supply a casting of [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|_lightning bolt_]] of the appropriate rank.
 
 ### Wand of Crackling Lightning (3rd-Rank Spell)
 

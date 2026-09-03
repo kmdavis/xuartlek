@@ -20,13 +20,13 @@ source: "GM Core"
 DC 31 (trained)
 
 **Disable**
-DC 29 Religion (master) to exorcise the spirit or DC 31 Diplomacy (expert) to talk it down
+DC 29 [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master) to exorcise the spirit or DC 31 [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] (expert) to talk it down
 
-**Quietus** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (death, emotion, fear, illusion, mental, occult) **Trigger** A creature moves within 10 feet of the haunted object; **Effect** The haunt takes control of the triggering creature, forcing it to attack itself. The creature must attempt a DC 29 Will save.
+**Quietus** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) **Trigger** A creature moves within 10 feet of the haunted object; **Effect** The haunt takes control of the triggering creature, forcing it to attack itself. The creature must attempt a DC 29 Will save.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target makes a Strike against itself and automatically hits; the target also becomes frightened 1.
+**Success** The target makes a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against itself and automatically hits; the target also becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
 
 **Failure** The target makes a Strike against itself and automatically scores a critical hit; the target also becomes frightened 2.
 

@@ -20,12 +20,12 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`  `Void`  `Negative`
 
-- **Domain**: Undeath
+- **Domain**: [[srd/pf2e/compendium/character/domains#Undeath|Undeath]]
 - **Range**: touch
 - **Target**: 1 willing undead creature
 - **Duration**: 1 minute
 
-You embed a seed of void energy in an undead creature, restoring its unnatural vigor over time. The target gains fast healing 7.
+You embed a seed of void energy in an [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creature, restoring its unnatural vigor over time. The target gains fast healing 7.
 
 ---
 **Heightened (+1)** The fast healing increases by 2.

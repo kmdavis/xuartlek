@@ -20,7 +20,7 @@ source: "Battlecry!"
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 
-The warm, caring light of the sun glows from the center of this magical banner, mirroring the dawn. This magical banner exudes bright light in the banner’s aura (and dim light in an area equal to twice the banner’s aura). This effect is suppressed when you aren’t holding the banner or wielding the weapon it is affixed to.
+The warm, caring light of the sun glows from the center of this magical banner, mirroring the dawn. This magical banner exudes [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]] in the banner’s aura (and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]] in an area equal to twice the banner’s aura). This effect is suppressed when you aren’t holding the banner or wielding the weapon it is affixed to.
 
 ### Dawnfire Beacon
 
@@ -32,6 +32,6 @@ The warm, caring light of the sun glows from the center of this magical banner, 
 
 ---
 
-This magical banner also grants a +1 status bonus to saving throws against unholy effects to all creatures within the banner’s aura.
+This magical banner also grants a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] effects to all creatures within the banner’s aura.
 
 *Source: Battlecry! p. 140*

@@ -27,10 +27,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; darkvision, sin scent (imprecise) 30 feet"
-languages: "Aklo"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Athletics +8, Stealth +9, Survival +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
 abilityMods: [4, 3, 4, 0, 2, 1]
 abilities_top:
   - name: "Sin"
@@ -42,27 +42,27 @@ abilities_top:
 ac: 16
 armorclass:
   - name: "AC"
-    desc: "16; __Fort__: +10; __Ref__: +9; __Will__: +6 +1 status to saves vs. magic, +4 status to saves vs. mental"
+    desc: "16; __Fort__: +10; __Ref__: +9; __Will__: +6 +1 status to saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magic]], +4 status to saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]"
 hp: 30
 health:
   - name: "HP"
-    desc: "30; __Immunities__ controlled; __Resistances__ mental 5"
+    desc: "30; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] 5"
 abilities_mid:
   - name: "Reactive Strike"
     desc: "⬲"
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +10 (Agile) __Damage__ 1d8+4 piercing plus sinful bite"
+    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d8+4 piercing plus sinful bite"
   - name: "Melee"
     desc: "⬻ claw +10 __Damage__ 1d6+4 slashing"
 abilities_bot:
   - name: "Sinful Bite"
-    desc: "(Arcane, Emotion, Mental) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will save as it is assailed by sinful thoughts."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) A creature hit by the jaws of a sinspawn must attempt a DC 18 Will save as it is assailed by sinful thoughts."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
-    desc: "The creature is sickened 1."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]]."
   - name: "Failure"
     desc: "The creature is sickened 2."
   - name: "Critical Failure"

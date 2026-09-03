@@ -26,7 +26,7 @@ This amphibious clockwork boat moves through the water using clockwork waterwhee
 
 **Passengers** 1
 
-**Piloting Check** Driving Lore (DC 16), Sailing Lore (DC 16), or Crafting (DC 18)
+**Piloting Check** Driving Lore (DC 16), Sailing Lore (DC 16), or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 18)
 
 ---
 

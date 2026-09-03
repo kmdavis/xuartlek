@@ -18,7 +18,7 @@ source: "GM Core"
 
 An extending rune allows you to extend your weapon to impossible lengths. 
 
-**Activate—Extend** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Effect** You extend your weapon, giving you an impossible reach. You Strike with the weapon, and you have reach 60 feet for the Strike.
+**Activate—Extend** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You extend your weapon, giving you an impossible reach. You Strike with the weapon, and you have reach 60 feet for the Strike.
 
 ### Extending
 

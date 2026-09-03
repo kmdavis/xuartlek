@@ -24,7 +24,7 @@ source: "Rage of Elements"
 
 You veil the signs of the fires of vitality, altering the target's apparent body temperature. This illusion applies to all senses, and a creature that touches the target can attempt to disbelieve the illusion. You can Dismiss the spell. Choose an illusory body temperature when you cast the spell.
 
-- **Moderate** The target's body temperature appears the same as the surrounding environment, giving the target a +2 circumstance bonus to Deception checks to Impersonate an undead, a cold-blooded creature, or an inanimate object (such as a corpse). The target is also invisible to _heatvision_ and other abilities that sense heat similarly.
+- **Moderate** The target's body temperature appears the same as the surrounding environment, giving the target a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks to Impersonate an [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]], a cold-blooded creature, or an inanimate object (such as a corpse). The target is also invisible to [[srd/pf2e/compendium/spells/rank-3/heatvision|_heatvision_]] and other abilities that sense heat similarly.
 - **Warm** The target appears to emit substantial body heat, gaining a +2 circumstance bonus to Deception checks to Impersonate a warm-blooded creature.
 
 ---

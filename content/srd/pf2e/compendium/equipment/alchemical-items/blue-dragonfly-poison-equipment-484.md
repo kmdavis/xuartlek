@@ -25,6 +25,6 @@ source: "Treasure Vault (Remastered)"
 
 Boggards brew a potent toxin made from blue dragonflies. Swampseers consume this mixture to awaken their divine powers, but the poison inspires crippling hallucinations in most other creatures.
 
-**Saving Throw** DC 17 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** dazzled (10 minutes); **Stage 2** dazzled and frightened 1 (10 minutes); **Stage 3** frightened 1 and confused 1 (1 minute)
+**Saving Throw** DC 17 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] (10 minutes); **Stage 2** [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] and frightened 1 (10 minutes); **Stage 3** frightened 1 and confused 1 (1 minute)
 
 *Source: Treasure Vault (Remastered) p. 67*

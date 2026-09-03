@@ -25,7 +25,7 @@ source: "Player Core"
 - **Defense**: Will
 - **Duration**: until the end of the target's next turn
 
-You shout a command that's hard to ignore. You can command the target to approach you, run away (as if it had the fleeing condition), release what it's holding, drop prone, or stand in place. It can't Delay or take any reactions until it has obeyed your command. The effects depend on the target's Will save.
+You shout a command that's hard to ignore. You can command the target to approach you, run away (as if it had the [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] condition), release what it's holding, drop [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], or stand in place. It can't Delay or take any reactions until it has obeyed your command. The effects depend on the target's Will save.
 
 **Success** The creature is unaffected.
 

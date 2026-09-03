@@ -29,10 +29,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; darkvision"
-languages: "Sussuran"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +16, Nature +15, Stealth +18, Survival +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15"
 abilityMods: [3, 6, 3, 2, 2, 0]
 ac: 26
 armorclass:
@@ -41,19 +41,19 @@ armorclass:
 hp: 70
 health:
   - name: "HP"
-    desc: "70; __Immunities__ bleed, paralyzed, poison, sleep"
+    desc: "70; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 abilities_mid:
   - name: "Naturally Invisible"
-    desc: "The phade is invisible at all times, though when it takes a hostile action of any kind, it is hidden instead of undetected until the start of its next turn, as the vague outline of its humanoid form is faintly visible for a short period of time."
+    desc: "The phade is [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] at all times, though when it takes a hostile action of any kind, it is [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] instead of [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] until the start of its next turn, as the vague outline of its humanoid form is faintly visible for a short period of time."
 speed: "25 feet, fly 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +18 (Agile, Finesse) __Damage__ 1d10+5 bludgeoning"
+    desc: "⬻ fist +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d10+5 bludgeoning"
 abilities_bot:
   - name: "Hush"
-    desc: "⬻ (Air, Primal) The phade calms the air in a 30-foot emanation until the beginning of its next turn, reducing sounds in it to a whisper that can't be heard outside the emanation. This doesn't prevent casting spells, but a phade attempts to counteract any auditory or sonic effect originating in the area with a +17 counteract modifier. If the counteract attempt fails, Hush ends early."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|Air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The phade calms the air in a 30-foot emanation until the beginning of its next turn, reducing sounds in it to a whisper that can't be heard outside the emanation. This doesn't prevent casting spells, but a phade attempts to counteract any [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]] effect originating in the area with a +17 counteract modifier. If the counteract attempt fails, Hush ends early."
   - name: "Sneak Attack"
-    desc: "The phade deals 2d6 extra precision damage to off-guard creatures."
+    desc: "The phade deals 2d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_Monster Core_, page 140."
 ```
 

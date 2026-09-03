@@ -29,10 +29,10 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; darkvision"
-languages: "Talican"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +7, Stealth +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
 abilityMods: [2, 0, 2, -2, 0, 0]
 ac: 15
 armorclass:
@@ -41,14 +41,14 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20 (fast healing 2 (while touching metal)); __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ electricity 3"
+    desc: "20 (fast healing 2 (while touching metal)); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 3"
 speed: "25 feet, fly 25 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ claw +9 __Damage__ 1d6+2 slashing"
 abilities_bot:
   - name: "Breathe Shrapnel"
-    desc: "⬺ (Arcane, Metal) The metal scamp breathes a 15-foot cone of jagged metal flakes that deals 2d4 slashing damage and 1d4 persistent bleed damage to each creature within the area (DC 17 basic Reflex save). The metal scamp can't Breathe Shrapnel again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|Metal]]) The metal scamp breathes a 15-foot cone of jagged metal flakes that deals 2d4 slashing damage and 1d4 persistent bleed damage to each creature within the area (DC 17 basic Reflex save). The metal scamp can't Breathe Shrapnel again for 1d4 rounds."
 spellcasting:
   - name: "Arcane Innate Spells"
     desc: "DC 17, attack +9 - __2nd__ Magnetic Attraction"

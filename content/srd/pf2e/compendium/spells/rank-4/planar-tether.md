@@ -21,7 +21,7 @@ source: "Player Core"
 - **Defense**: Will
 - **Duration**: varies
 
-You stitch the target to its current plane. While the target is affected by _planar tether_, the spell attempts to counteract any teleportation effect that would move the target, or any effect that would transport it to a different plane. _Planar tether's_ duration is determined by the target's Will save.
+You stitch the target to its current plane. While the target is affected by _planar tether_, the spell attempts to counteract any [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] effect that would move the target, or any effect that would transport it to a different plane. _Planar tether's_ duration is determined by the target's Will save.
 
 **Critical Success** The target is unaffected.
 

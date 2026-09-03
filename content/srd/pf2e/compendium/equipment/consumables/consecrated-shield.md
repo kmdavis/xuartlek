@@ -20,6 +20,6 @@ source: "Impossible Magic"
 - **Usage**: held in 1 hand
 - **Activate**: Cast a Spell (add 1 action)
 
-Metals blessed in song by the blacksmith are crafted into this pendant-sized brass shield. When used as a catalyst to cast a __heroism__ spell, the status bonus granted by the spell applies to the target’s AC but not to their attack rolls.
+Metals blessed in song by the blacksmith are crafted into this pendant-sized brass shield. When used as a catalyst to cast a _[[srd/pf2e/compendium/spells/rank-3/heroism|_heroism_]]_ spell, the status bonus granted by the spell applies to the target’s AC but not to their attack rolls.
 
 *Source: Impossible Magic p. 214*

@@ -29,10 +29,10 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; darkvision"
-languages: "Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +6, Stealth +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
 abilityMods: [1, 3, 1, -2, 0, 0]
 ac: 16
 armorclass:
@@ -41,19 +41,19 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20 (fast healing 2 (while underwater)); __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ acid 3, fire 3"
+    desc: "20 (fast healing 2 (while underwater)); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] 3, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 3"
 speed: "20 feet, fly 25 feet, swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +8 (Agile, Finesse) __Damage__ 1d6+1 slashing"
+    desc: "⬻ claw +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+1 slashing"
 abilities_bot:
   - name: "Acid Breath"
-    desc: "⬺ (Acid, Arcane) The water scamp breathes acid in a 15-foot cone that deals 2d6 acid damage to each creature within the area (DC 17 basic Reflex save). The water scamp can't use Acid Breath again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]]) The water scamp breathes acid in a 15-foot cone that deals 2d6 acid damage to each creature within the area (DC 17 basic Reflex save). The water scamp can't use Acid Breath again for 1d4 rounds."
   - name: "Drench"
-    desc: "⬻ (Arcane, Water) The water scamp shakes out a seemingly endless supply of water from its fur to put out all fires in a 5-foot emanation. The scamp extinguishes all non-magical fires automatically and attempts to counteract magical fires (+7 counteract modifier)."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|Water]]) The water scamp shakes out a seemingly endless supply of water from its fur to put out all fires in a 5-foot emanation. The scamp extinguishes all non-magical fires automatically and attempts to counteract magical fires (+7 counteract modifier)."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 17, attack +9 - __1st__ Create Water - __2nd__ Acid Grip"
+    desc: "DC 17, attack +9 - __1st__ [[srd/pf2e/compendium/spells/rank-1/create-water|Create Water]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/acid-grip|Acid Grip]]"
 sourcebook: "_Monster Core_, page 147."
 ```
 

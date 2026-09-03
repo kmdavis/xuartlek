@@ -22,6 +22,6 @@ source: "Player Core"
 - **Target**: 1 creature
 - **Duration**: until your next daily preparations
 
-Powerful wards hide a creature from magic that would spy on it or affect its mind. The target gains a +4 status bonus to saves against mental effects. Hidden mind attempts to counteract any detection, revelation, and scrying effects as if its spell rank were 1 higher than its actual rank. On a success, the effect functions normally except that it detects nothing about the target and its possessions. For instance, _detect magic_ would still detect other magic in the area, but not any magic on the target.
+Powerful wards hide a creature from magic that would spy on it or affect its mind. The target gains a +4 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects. Hidden mind attempts to counteract any [[srd/pf2e/compendium/rules-elements/traits/player-core/detection|detection]], [[srd/pf2e/compendium/rules-elements/traits/player-core/revelation|revelation]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/scrying|scrying]] effects as if its spell rank were 1 higher than its actual rank. On a success, the effect functions normally except that it detects nothing about the target and its possessions. For instance, _detect magic_ would still detect other magic in the area, but not any magic on the target.
 
 *Source: Player Core p. 335*

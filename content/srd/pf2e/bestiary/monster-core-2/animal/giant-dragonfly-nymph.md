@@ -31,7 +31,7 @@ perception:
     desc: "Perception +8; low-light vision, wavesense(imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +10, Stealth +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
 abilityMods: [3, 2, 4, -5, 1, -5]
 ac: 19
 armorclass:
@@ -44,10 +44,10 @@ health:
 speed: "10 feet, swim 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ mandibles +12 (Agile) __Damage__ 1d10+6 piercing"
+    desc: "⬻ mandibles +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d10+6 piercing"
 abilities_bot:
   - name: "Extend Mandibles"
-    desc: "⬻ The giant dragonfly nymph extends its jaws to a surprising distance. The dragonfly nymph makes a mandibles Strike with a reach of 10 feet, but the mandibles lose the agile trait for this Strike."
+    desc: "⬻ The giant dragonfly nymph extends its jaws to a surprising distance. The dragonfly nymph makes a mandibles Strike with a [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] of 10 feet, but the mandibles lose the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] trait for this Strike."
 sourcebook: "_Monster Core 2_, page 138."
 ```
 

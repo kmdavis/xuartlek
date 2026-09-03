@@ -20,8 +20,8 @@ source: "Impossible Magic"
 - **Traditions**: Arcane, Occult, Primal
 - **Range**: 30 feet
 - **Target**: 1 metal object
-- **Defense**: basic Fortitude
-- **Duration**: sustained for up to 1 minute
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
+- **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] for up to 1 minute
 
 You conjure a metal tuning fork and strike it, the vibration creating a soft ping that rattles the foundations of the target. Whenever you Cast this Spell and the first time you sustain it on subsequent turns, the target object produces the same note in an ear-piercing frequency that deals 1d12 sonic damage to all creatures in its space and all adjacent spaces (basic Fortitude save).
 

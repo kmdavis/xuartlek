@@ -19,7 +19,7 @@ source: "GM Core"
 
 - **Usage**: etched onto a weapon
 
-When you critically hit with this weapon, the target becomes frightened 1.
+When you critically hit with this weapon, the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
 
 ### Fearsome
 

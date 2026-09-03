@@ -26,7 +26,7 @@ Using a thrall as a siphon, you attempt to drain the life essence of a creature 
 
 **Critical Success** The target is unaffected.
 
-**Success** The creature is drained 1 but recovers after 1 minute. You or an ally of your choice within 30 feet of the thrall regains Hit Points equal to double the amount the creature lost. A creature can be healed by this spell only once every 10 minutes.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 but recovers after 1 minute. You or an ally of your choice within 30 feet of the thrall regains Hit Points equal to double the amount the creature lost. A creature can be healed by this spell only once every 10 minutes.
 
 **Failure** As success, but drained 2.
 

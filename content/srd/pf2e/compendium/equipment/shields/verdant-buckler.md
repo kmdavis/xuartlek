@@ -17,10 +17,10 @@ source: "Impossible Magic"
 - **Price**: 450 gp
 - **Usage**: strapped to 1 hand
 - **Bulk**: L
-- **Base Shield**: Buckler
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Buckler|Buckler]]
 
-This large wooden buckler (Hardness 6, HP 24, BT 12) is alive with creeping vines and mossy growths that shift in the air almost imperceptibly. 
+This large wooden [[srd/pf2e/compendium/equipment/shields#Buckler|buckler]] (Hardness 6, HP 24, BT 12) is alive with creeping vines and mossy growths that shift in the air almost imperceptibly. 
 
-**Activate—Grasping Vines** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate, plant) **Frequency** once per day; **Trigger** You use the _verdant buckler_ to Shield Block a melee Strike; **Requirements** ; **Effect** The attacking creature must succeed at a DC 24 Reflex save or be grabbed by the shield’s animated vines (restrained on a critical failure). The affected creature is grappled or restrained for 1 round, until it Escapes (DC 24), or you move, whichever comes first.
+**Activate—Grasping Vines** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], plant) **Frequency** once per day; **Trigger** You use the _verdant buckler_ to Shield Block a melee Strike; **Requirements** ; **Effect** The attacking creature must succeed at a DC 24 Reflex save or be [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the shield’s animated vines ([[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] on a critical failure). The affected creature is grappled or restrained for 1 round, until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 24), or you move, whichever comes first.
 
 *Source: Impossible Magic p. 207*

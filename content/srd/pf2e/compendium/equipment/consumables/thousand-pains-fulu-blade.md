@@ -19,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: affixed to a creature
 
-Created by a chirurgeon who threw away morality in search of endless life, a thousand-pains fulu blocks the natural flow of elements in the body. A creature to which the fulu is affixed must attempt a basic Fortitude save against damage determined by the fulu's type. Failure or critical failure primes the target for persistent damage triggered by a specific condition that must be met within the fulu's duration.
+Created by a chirurgeon who threw away morality in search of endless life, a thousand-pains fulu blocks the natural flow of elements in the body. A creature to which the fulu is affixed must attempt a basic Fortitude save against damage determined by the fulu's type. Failure or critical failure primes the target for [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] triggered by a specific condition that must be met within the fulu's duration.
 
 ### Thousand-Pains Fulu (Burl)
 
@@ -27,7 +27,7 @@ Created by a chirurgeon who threw away morality in search of endless life, a tho
 
 ---
 
-Though this green fulu looks inviting, it has a foreboding aura. The DC is 35, and the fulu deals 10d8 poison damage, causing the target's body to respond adversely to their qi. On a failure or critical failure, if the target takes fire damage, it takes 2d8 persistent poison damage as well. These effects have the poison trait.
+Though this green fulu looks inviting, it has a foreboding aura. The DC is 35, and the fulu deals 10d8 poison damage, causing the target's body to respond adversely to their qi. On a failure or critical failure, if the target takes fire damage, it takes 2d8 persistent poison damage as well. These effects have the [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] trait.
 
 ### Thousand-Pains Fulu (Blade)
 
@@ -35,7 +35,7 @@ Though this green fulu looks inviting, it has a foreboding aura. The DC is 35, a
 
 ---
 
-This red fulu feels rigid, its edges sharp, and looking at it makes you feel feverish. The DC is 23, and the fulu deals 5d6 slashing damage as meridians burst and cut through flesh. On a failure or critical failure, if the target fails to take an action with the manipulate or move trait on each of its turns, it takes 1d6 persistent slashing damage.
+This red fulu feels rigid, its edges sharp, and looking at it makes you feel feverish. The DC is 23, and the fulu deals 5d6 slashing damage as meridians burst and cut through flesh. On a failure or critical failure, if the target fails to take an action with the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] trait on each of its turns, it takes 1d6 persistent slashing damage.
 
 ### Thousand-Pains Fulu (Icicle)
 
@@ -43,7 +43,7 @@ This red fulu feels rigid, its edges sharp, and looking at it makes you feel fev
 
 ---
 
-Looking at this black fulu leaves you queasy and cold. The DC is 30, and the fulu deals 10d6 cold damage as the target's qi warps and drains. On a failure or critical failure, if the target takes damage from a poison or disease effect or becomes sickened, it takes 2d6 persistent cold damage. These effects have the cold trait.
+Looking at this black fulu leaves you queasy and cold. The DC is 30, and the fulu deals 10d6 cold damage as the target's qi warps and drains. On a failure or critical failure, if the target takes damage from a [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] effect or becomes sickened, it takes 2d6 persistent cold damage. These effects have the [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] trait.
 
 ### Thousand-Pains Fulu (Needle)
 
@@ -51,7 +51,7 @@ Looking at this black fulu leaves you queasy and cold. The DC is 30, and the ful
 
 ---
 
-Picking up this white fulu feels like you've stabbed your hand with a pin. The DC is 27, and the fulu deals 7d6 piercing damage as hair, nails, and connective tissues stab inward. On a failure or critical failure, if the target then takes an action with the move trait, it takes 2d6 persistent piercing damage.
+Picking up this white fulu feels like you've stabbed your hand with a pin. The DC is 27, and the fulu deals 7d6 piercing damage as hair, nails, and connective tissues stab inward. On a failure or critical failure, if the target then takes an action with the [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] trait, it takes 2d6 persistent piercing damage.
 
 ### Thousand-Pains Fulu (Stone)
 

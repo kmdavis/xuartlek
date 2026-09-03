@@ -29,10 +29,10 @@ modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; darkvision"
-languages: "Sussuran"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +26, Stealth +24"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +26, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +24"
 abilityMods: [4, 8, 5, 4, 4, 4]
 ac: 35
 armorclass:
@@ -41,10 +41,10 @@ armorclass:
 hp: 175
 health:
   - name: "HP"
-    desc: "175; __Immunities__ bleed, paralyzed, poison, sleep"
+    desc: "175; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 abilities_mid:
   - name: "High Winds"
-    desc: "(air, aura) 60 feet. Air within the emanation is difficult terrain for Flying creatures that don't have the air trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]]) 60 feet. Air within the emanation is difficult terrain for Flying creatures that don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]] trait."
   - name: "Disperse"
     desc: "⬲"
   - name: "Trigger"
@@ -54,7 +54,7 @@ abilities_mid:
 speed: "fly 100 feet; swiftness"
 attacks:
   - name: "Melee"
-    desc: "⬻ gust +26 (Finesse, reach 20 feet) __Damage__ 3d10+10 bludgeoning plus Push 15 feet"
+    desc: "⬻ gust +26 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 3d10+10 bludgeoning plus Push 15 feet"
   - name: "Ranged"
     desc: "⬻ lightning lash +26 (range increment 100 feet) __Damage__ 3d12 electricity"
 abilities_bot:
@@ -73,9 +73,9 @@ abilities_bot:
   - name: "Failure"
     desc: "The creature is pushed 40 feet."
   - name: "Critical Failure"
-    desc: "The creature is pushed 40 feet and knocked prone."
+    desc: "The creature is pushed 40 feet and knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
   - name: "Feather Storm"
-    desc: "⬺ (Move)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]])"
   - name: "Requirements"
     desc: "The picture-in-clouds is in eagle shape"
   - name: "Effect"

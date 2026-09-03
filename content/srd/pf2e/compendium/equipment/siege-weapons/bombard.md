@@ -48,7 +48,7 @@ source: "Guns & Gears (Remastered)"
 
 Bombards are some of the oldest and simplest of black powder siege weapons, devised based on many of the same principles as a hand cannon, but deploying them on a larger scale and scope. A bombard's body is usually made of brass or iron, which causes the bombard to resemble the shape of a large bell. While they are capable of moving very slowly, their clumsy and weighty design means bombards usually remain stationary. This in turn means they're often used more defensively than offensively 
 **Aim** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") 30 feet, minimum distance 30 feet 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 2 times, requires a successful DC 20 Athletics check 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate, range increment 150 feet) 4d10 bludgeoning, 10-foot burst, DC 19 Reflex
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times, requires a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check 
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], range increment 150 feet) 4d10 bludgeoning, 10-foot burst, DC 19 Reflex
 
 *Source: Guns & Gears (Remastered) p. 173*

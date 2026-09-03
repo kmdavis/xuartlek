@@ -15,7 +15,7 @@ source: "GM Core"
 `Uncommon`
 
 - **Usage**: varies by shield
-- **Base Material**: Dawnsilver
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dawnsilver-object-high-grade|Dawnsilver]]
 
 Dawnsilver shields are 1 Bulk lighter than normal (or light Bulk if their normal Bulk is 1, with no effect on a shield that normally has light Bulk). When used for a shield bash, they're treated as silver weapons.
 

@@ -35,6 +35,6 @@ This satchel includes 50 feet of rope, pulleys, a dozen pitons, a hammer, a grap
 
 ---
 
-You gain a +1 item bonus to Athletics checks to Climb while using an extreme climbing kit.
+You gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to Climb while using an extreme climbing kit.
 
 *Source: Player Core p. 287*

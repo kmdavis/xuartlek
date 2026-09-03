@@ -18,9 +18,9 @@ source: "Battlecry!"
 - **Usage**: held in 2 hands
 - **Bulk**: L
 
-This ash recorder is highly polished, with a spiral, serpentine pattern etched along its length. The recorder grants you a +1 item bonus to Performance checks while playing music with the instrument.
+This ash recorder is highly polished, with a spiral, serpentine pattern etched along its length. The recorder grants you a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks while playing music with the instrument.
 
-**Activate—Sooth Serpents** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (auditory, concentrate, manipulate) **Frequency** once per day; **Effect** You play a swift composition that fascinates all snakes, pythons, vipers, and serpents that hear it. At the GM’s discretion, creatures with major serpentine features, such as serpentfolk, are also subjected to this effect. All such creatures within a 30-foot emanation must attempt a DC 20 Will save.
+**Activate—Sooth Serpents** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You play a swift composition that fascinates all snakes, pythons, vipers, and serpents that hear it. At the GM’s discretion, creatures with major serpentine features, such as [[srd/pf2e/compendium/gm/creature-families/serpentfolk|serpentfolk]], are also subjected to this effect. All such creatures within a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must attempt a DC 20 Will save.
 
 **Critical Success** The target’s attitude toward you decreases by one step.
 

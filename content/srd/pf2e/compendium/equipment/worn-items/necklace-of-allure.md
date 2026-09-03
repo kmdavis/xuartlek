@@ -21,6 +21,6 @@ source: "GM Core"
 
 Several sapphires are set along the length of this brilliant silver necklace. The necklace features an intricately carved pendant in the shape of a wolf's head. You gain a +2 item bonus to Deception and Diplomacy checks. When you invest the necklace, you either increase your Charisma modifier by 1 or increase it to +4, whichever would give you a higher value. 
 
-**Activate—Win Them Over** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per hour; **Effect** You cast a 4th-rank _charm_ spell (DC 38).
+**Activate—Win Them Over** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** You cast a 4th-rank _charm_ spell (DC 38).
 
 *Source: GM Core p. 271*

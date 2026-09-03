@@ -13,6 +13,6 @@ source: "Rage of Elements"
 
 `Ardande`
 
-Ardandes are planar scions descended from kizidhar and other beings of elemental wood.
+Ardandes are planar scions descended from [[srd/pf2e/bestiary/rage-of-elements/elemental/kizidhar|kizidhar]] and other beings of elemental wood.
 
 *Source: Rage of Elements p. 235*

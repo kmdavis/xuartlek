@@ -22,7 +22,7 @@ source: "Rage of Elements"
 - **Defense**: Fortitude (see text)
 - **Duration**: 1 minute
 
-You stir the inner fire of all things within the area, driving out moisture. All creatures in the area take 1d6 persistent fire damage with a basic Fortitude save; creatures with the water or plant traits get a result one degree of success worse than they rolled. The spell ends for a creature when its persistent damage ends.
+You stir the inner fire of all things within the area, driving out moisture. All creatures in the area take 1d6 persistent fire damage with a basic Fortitude save; creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] traits get a result one degree of success worse than they rolled. The spell ends for a creature when its persistent damage ends.
 
  A creature affected by _dehydrate_ attempts an additional Fortitude save at the end of each of its turns, before rolling to recover from the persistent damage. It can forgo this additional save if it consumed water or a similar hydrating liquid within the last round (drinking typically requires a single action).
 

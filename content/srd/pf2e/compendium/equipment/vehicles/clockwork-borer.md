@@ -26,7 +26,7 @@ A clockwork borer is essentially a huge adamantine drill attached to a large whe
 
 **Passengers** 5
 
-**Piloting Check** Driving Lore (DC 26) or Crafting (DC 28)
+**Piloting Check** Driving Lore (DC 26) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 28)
 
 ---
 

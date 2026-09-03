@@ -31,6 +31,6 @@ Sometimes, just disguising one's face just isn't convincing enough. Clockwork di
 
  **AC Bonus** +2; **Dex Cap** +3; **Check Penalty** –1; **Strength** 12; **Group** plate
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") manipulate **Effect** Transform the clockwork disguise into any one current preset configuration of the user's choice.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] **Effect** Transform the clockwork disguise into any one current preset configuration of the user's choice.
 
 *Source: Guns & Gears (Remastered) p. 85*

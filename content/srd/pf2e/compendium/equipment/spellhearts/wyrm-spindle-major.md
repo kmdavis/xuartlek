@@ -17,8 +17,8 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: affixed to armor or a weapon
 
-The broken tips of four dragon claws—one of each magical tradition—are set into a silver fitting. They protrude in the shape of a star or compass. 
-**Armor** After you cast a non-cantrip spell by activating the spindle, you gain resistance 5 to fire, force, mental, and spirit for 1 minute.**Weapon** After you cast a non-cantrip spell by activating the spindle, you gain a Dragon Breath activity that takes 2 actions and deals 6d6 damage to all creatures in a 30-foot cone with a DC 28 basic Reflex save. Choose the type of damage when you use Dragon Breath: fire, force, mental, or spirit. You can use this activity once before the end of your next turn.
+The broken tips of four [[srd/pf2e/compendium/gm/creature-families/dragon|dragon]] claws—one of each magical tradition—are set into a silver fitting. They protrude in the shape of a star or compass. 
+**Armor** After you cast a non-cantrip spell by activating the spindle, you gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 5 to [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] for 1 minute.**Weapon** After you cast a non-cantrip spell by activating the spindle, you gain a Dragon Breath activity that takes 2 actions and deals 6d6 damage to all creatures in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] with a DC 28 basic Reflex save. Choose the type of damage when you use Dragon Breath: fire, force, mental, or spirit. You can use this activity once before the end of your next turn.
 
 **Activate** Cast a Spell; **Effect** You cast _gouging claw_.
 

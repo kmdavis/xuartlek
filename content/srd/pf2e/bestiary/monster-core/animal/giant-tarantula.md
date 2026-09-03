@@ -29,7 +29,7 @@ perception:
     desc: "Perception +14; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Athletics +16, Stealth +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11"
 abilityMods: [6, 1, 5, -5, 2, -4]
 ac: 21
 armorclass:
@@ -44,10 +44,10 @@ attacks:
   - name: "Melee"
     desc: "⬻ fangs +17 __Damage__ 2d8+8 piercing plus giant tarantula venom"
   - name: "Melee"
-    desc: "⬻ leg +17 (reach 10 feet) __Damage__ 1d12+8 bludgeoning plus Knockdown"
+    desc: "⬻ leg +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d12+8 bludgeoning plus Knockdown"
 abilities_bot:
   - name: "Giant Tarantula Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 23 Fortitude"
   - name: "Maximum Duration"
@@ -55,11 +55,11 @@ abilities_bot:
   - name: "Stage 1"
     desc: "1d10 poison damage (1 round)"
   - name: "Stage 2"
-    desc: "1d12 poison damage, clumsy 1, and off-guard (1 round)"
+    desc: "1d12 poison damage, [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]], and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] (1 round)"
   - name: "Stage 3"
     desc: "2d6 poison damage, clumsy 2, and off-guard (1 round)"
   - name: "Stage 4"
-    desc: "2d6 poison damage and paralyzed (1 round)"
+    desc: "2d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] (1 round)"
   - name: "Hair Barrage"
     desc: "⬺ The tarantula flicks its legs, flinging spiky hairs in a 15-foot cone. This deals 4d6 piercing damage with a DC 25 basic Reflex save."
 sourcebook: "_Monster Core_, page 321."

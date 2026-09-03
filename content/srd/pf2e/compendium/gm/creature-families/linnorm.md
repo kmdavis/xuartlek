@@ -14,7 +14,7 @@ Immense, primeval dragons of the northern reaches of the world, linnorms hate th
 
 ### Members
 
-Crag Linnorm (Creature 14), Ice Linnorm (Creature 17), Tarn Linnorm (Creature 20), Tor Linnorm (Creature 21)
+[[srd/pf2e/bestiary/monster-core/dragon/crag-linnorm|Crag Linnorm]] (Creature 14), [[srd/pf2e/bestiary/monster-core/dragon/ice-linnorm|Ice Linnorm]] (Creature 17), [[srd/pf2e/bestiary/monster-core/dragon/tarn-linnorm|Tarn Linnorm]] (Creature 20), [[srd/pf2e/bestiary/monster-core/dragon/tor-linnorm|Tor Linnorm]] (Creature 21)
 
 ### Death Curses
 
@@ -30,6 +30,6 @@ In the storied Lands of the Linnorm Kings, the slaying of a linnorm is tradition
 
 ### Other Linnorms
 
-Linnorms exist in a variety of forms beyond the four detailed here. The gaunt cairn linnorm, the spiny taiga linnorm, and the aquatic fjord linnorm each terrorize their own specific regions of the Universe.
+Linnorms exist in a variety of forms beyond the four detailed here. The gaunt cairn linnorm, the spiny taiga linnorm, and the aquatic fjord linnorm each terrorize their own specific regions of [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]].
 
 *Source: Monster Core p. 220*

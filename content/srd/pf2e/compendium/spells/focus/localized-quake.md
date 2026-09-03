@@ -19,11 +19,11 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Earth`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Earth
+- **Domain**: [[srd/pf2e/compendium/character/domains#Earth|Earth]]
 - **Area**: 15-foot emanation or 15-foot cone
 - **Defense**: basic Reflex
 
-You shake the earth, toppling nearby creatures. Choose whether the spell's area is a 15-foot emanation or a 15-foot cone when you cast it. Each creature in the area standing on solid ground takes 4d6 bludgeoning damage with a basic Reflex saving throw. A creature that fails its save also falls prone.
+You shake the earth, toppling nearby creatures. Choose whether the spell's area is a 15-foot emanation or a 15-foot cone when you cast it. Each creature in the area standing on solid ground takes 4d6 bludgeoning damage with a basic Reflex saving throw. A creature that fails its save also falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 ---
 **Heightened (+1)** Increase the damage by 2d6.

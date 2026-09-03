@@ -19,7 +19,7 @@ source: "Rage of Elements"
 
 A phrase of luck is carved into the handle of this wooden teaspoon. While a variety of other cutlery with similar properties exists, a spoon is often the most convenient and inconspicuous to carry.
 
-**Activate—Purify** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Frequency** once per day; **Effect** You stir the spoon in food or drink, casting _cleanse cuisine_ on the substance as you stir. This small spoon can purify up to 1 gallon of food or drink.
+**Activate—Purify** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You stir the spoon in food or drink, casting _cleanse cuisine_ on the substance as you stir. This small spoon can purify up to 1 gallon of food or drink.
 
 ### Purifying Spoon (Teaspoon)
 

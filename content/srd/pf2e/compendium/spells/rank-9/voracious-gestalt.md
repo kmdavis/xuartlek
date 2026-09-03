@@ -21,9 +21,9 @@ source: "Impossible Magic"
 `Aura`  `Concentrate`  `Death`  `Manipulate`  `Unholy`  `Void`  `Negative`
 
 - **Traditions**: Divine, Occult
-- **Area**: 30-foot emanation
-- **Defense**: basic Fortitude
-- **Duration**: sustained up to 1 minute
+- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
+- **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
 You create a powerful and hungry spirit entity that grows and builds strength by consuming the spirits of foes you both slay. When you Cast the Spell, the gestalt deals 14d6 void damage to all living creatures of your choice in the area, with a basic Fortitude save. Creatures you choose that end their turns in the area take 6d6 void damage, with a basic Fortitude save.
 

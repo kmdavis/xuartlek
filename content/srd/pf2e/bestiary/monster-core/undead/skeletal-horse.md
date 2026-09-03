@@ -35,7 +35,7 @@ perception:
     desc: "Perception +8; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9"
 abilityMods: [5, 3, 2, -5, 2, 0]
 ac: 16
 armorclass:
@@ -44,7 +44,7 @@ armorclass:
 hp: 33
 health:
   - name: "HP"
-    desc: "33 (void healing); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
+    desc: "33 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5, piercing 5, slashing 5"
 speed: "40 feet"
 attacks:
   - name: "Melee"
@@ -53,7 +53,7 @@ abilities_bot:
   - name: "Gallop"
     desc: "⬺ The horse Strides twice, with its Speed increased by 10 feet."
   - name: "Undead Steed"
-    desc: "Undead and creatures allied with them can Commanda skeletal horse without needing to attempt a skill check."
+    desc: "Undead and creatures allied with them can [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command]]a skeletal horse without needing to attempt a skill check."
 sourcebook: "_Monster Core_, page 313."
 ```
 

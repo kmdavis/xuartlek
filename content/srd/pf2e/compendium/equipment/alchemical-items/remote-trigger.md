@@ -20,6 +20,6 @@ source: "Treasure Vault (Remastered)"
 
 This trigger array uses percussive alchemical caps and crystals to remotely detonate alchemical bombs through harmonic vibrations. You can Interact to flip up a switch on the trigger, causing it to emit infrasonic pulses that attune it to one alchemical bomb over the course of 10 minutes. The trigger can be attuned to up to three bombs at a time.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Effect** The trigger detonates any number of attuned bombs within 60 feet of it. You choose which ones to detonate. A bomb detonated by remote trigger deals its splash damage to any creature in its square.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** The trigger detonates any number of attuned bombs within 60 feet of it. You choose which ones to detonate. A bomb detonated by remote trigger deals its [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage to any creature in its square.
 
 *Source: Treasure Vault (Remastered) p. 65*

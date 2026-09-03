@@ -33,7 +33,7 @@ perception:
     desc: "Perception +8"
 skills:
   - name: "Skills"
-    desc: "Nature +7, Survival +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
 abilityMods: [3, 0, 4, -4, 2, 1]
 ac: 18
 armorclass:
@@ -42,7 +42,7 @@ armorclass:
 hp: 40
 health:
   - name: "HP"
-    desc: "40 , regeneration 5 (deactivated by fire); __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ bludgeoning 5; __Weaknesses__ fire 4, slashing 3"
+    desc: "40 , regeneration 5 (deactivated by [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]); __Immunities__ bleed, paralyzed, [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ bludgeoning 5; __Weaknesses__ fire 4, slashing 3"
 abilities_mid:
   - name: "Insect Swarm"
     desc: "The first time each day that the moss sloth takes damage from a bludgeoning melee attack, a patch of moss collapses inward, releasing insects that swarm the attacking creature and deal 2d4 piercing damage (DC 15 basic Reflex save)."

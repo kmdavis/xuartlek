@@ -16,7 +16,7 @@ citation: "Battlecry! pg. 134"
 
 <sup>BC p. 134</sup>
 
-Whetstones are magically enhanced items designed to increase a weapon’s effectiveness, sometimes taking the form of literal stones, but often instead constructed of materials with a metaphorical link to the whetstone’s effect. They’re similar to [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/talismans|talismans]], though unlike talismans, they don’t need to be Affixed ahead of time. Whetstones have the whetstone trait.
+Whetstones are magically enhanced items designed to increase a weapon’s effectiveness, sometimes taking the form of literal stones, but often instead constructed of materials with a metaphorical link to the whetstone’s effect. They’re similar to [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/talismans|talismans]], though unlike talismans, they don’t need to be Affixed ahead of time. Whetstones have the [[srd/pf2e/compendium/rules-elements/traits/battlecry/whetstone|whetstone]] trait.
 
 While you need only one hand to hold a whetstone, you must be holding the weapon to which you’re applying the whetstone in another hand. Applying a whetstone to that weapon takes a single action, typically involving dragging or rubbing the whetstone across the weapon’s edge or striking surface, after which the whetstone crumbles to dust as its magic is expended. If the weapon is a two-handed weapon, you will need to spend an action to regrip the weapon after applying the whetstone. Once applied, a whetstone’s effect lasts for 1 minute unless otherwise noted. A weapon can be under the effect of only one whetstone at a time.
 

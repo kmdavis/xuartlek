@@ -19,11 +19,11 @@ source: "Howl of the Wild"
 - **Price**: 6,250 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 2
-- **Base Weapon**: Mace
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/mace|Mace]]
 
-The massive stinger of a black scorpion adds significant weight to this _+2 greater striking fearsome mace_. On a critical hit, the target is exposed to black scorpion venom.
+The massive stinger of a black scorpion adds significant weight to this _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+2]] [[srd/pf2e/compendium/equipment/runes/striking-major|greater striking]] [[srd/pf2e/compendium/equipment/runes/fearsome-greater|fearsome]] [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]_. On a critical hit, the target is exposed to black scorpion venom.
 
-**Black Scorpion Venom** (poison) Saving Throw DC 36 Fortitude; Maximum Duration 6 rounds; Stage 1 2d12 poison damage and clumsy 2 (1 round); Stage 2 3d12 poison damage, clumsy 2, and slowed 1 (1 round); Stage 3 4d12 poison damage, clumsy 4, and slowed 2 (1 round).
+**Black Scorpion Venom** ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) Saving Throw DC 36 Fortitude; Maximum Duration 6 rounds; Stage 1 2d12 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2 (1 round); Stage 2 3d12 poison damage, clumsy 2, and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 (1 round); Stage 3 4d12 poison damage, clumsy 4, and slowed 2 (1 round).
 
 **Craft Requirements** The initial raw materials must include the intact stinger of a black scorpion.
 

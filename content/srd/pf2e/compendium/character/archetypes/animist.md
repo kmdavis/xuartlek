@@ -13,6 +13,6 @@ source: "War of Immortals"
 
 #### Multiclass Animist Characters
 
-The animist archetype is a great way to create a character of another class who has a bond to a spiritual entity that they can draw powers from. The apparitions available to animists can open up opportunities to gain a variety of Lore skills and unique divine spells.
+The animist archetype is a great way to create a character of another class who has a bond to a spiritual entity that they can draw powers from. The apparitions available to animists can open up opportunities to gain a variety of [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skills and unique [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] spells.
 
 *Source: War of Immortals p. 56*

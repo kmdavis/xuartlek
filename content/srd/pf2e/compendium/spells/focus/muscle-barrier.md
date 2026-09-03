@@ -22,7 +22,7 @@ source: "Impossible Magic"
 - **Target**: 1 of your thralls
 - **Duration**: 1 minute
 
-You transform a thrall into layers of thick muscle that wrap around you or an ally, providing both protection and a boost to strength. The thrall is split into pieces and flung toward a willing creature within 15 feet of it, destroying the thrall and granting that creature 10 temporary Hit Points that last for 1 minute. The creature gains a +1 status bonus to Athletics checks until the spell ends. The spell ends when all the temporary Hit Points are gone.
+You transform a thrall into layers of thick muscle that wrap around you or an ally, providing both protection and a boost to strength. The thrall is split into pieces and flung toward a willing creature within 15 feet of it, destroying the thrall and granting that creature 10 temporary Hit Points that last for 1 minute. The creature gains a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks until the spell ends. The spell ends when all the temporary Hit Points are gone.
 
 ---
 **Heightened (+1)** The temporary Hit Points increase by 10.

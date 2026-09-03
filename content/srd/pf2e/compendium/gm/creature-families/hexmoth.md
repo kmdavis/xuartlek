@@ -14,6 +14,6 @@ At first glance, hexworms appear to be nondescript grubs, but their ability to s
 
 ### Members
 
-Hexmoth (Creature 8), Hexworm (Creature 4)
+[[srd/pf2e/bestiary/howl-of-the-wild/animal/hexmoth|Hexmoth]] (Creature 8), [[srd/pf2e/bestiary/howl-of-the-wild/animal/hexworm|Hexworm]] (Creature 4)
 
 *Source: Howl of the Wild p. 159*

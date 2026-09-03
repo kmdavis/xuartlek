@@ -10,15 +10,15 @@ source: "Monster Core 2"
 
 # Geniekin  *Creature Family*
 
-Geniekin are mortals whose ancestry has become entangled with the blood of genies or other elemental creatures, causing them to exhibit elemental powers drawn from the Elemental Planes. Though the geniekin found here are all of human descent, geniekin and other planar scions can descend from other ancestries.
+Geniekin are mortals whose ancestry has become entangled with the blood of [[srd/pf2e/compendium/gm/creature-families/genie|genies]] or other elemental creatures, causing them to exhibit elemental powers drawn from the Elemental Planes. Though the geniekin found here are all of [[srd/pf2e/compendium/character/ancestries/human|human]] descent, geniekin and other planar scions can descend from other ancestries.
 
 ### Members
 
-Naari Pyrochemist (Creature 1), Oread Guard (Creature 1), Suli Dune Dancer (Creature 1), Sylph Sneak (Creature 1), Undine Hydromancer (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/naari-pyrochemist|Naari Pyrochemist]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/humanoid/oread-guard|Oread Guard]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/humanoid/suli-dune-dancer|Suli Dune Dancer]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/humanoid/sylph-sneak|Sylph Sneak]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/humanoid/undine-hydromancer|Undine Hydromancer]] (Creature 1)
 
 ### Group Families
 
-Geniekin, Geniekin, Nephilim
+Geniekin, [[srd/pf2e/compendium/gm/creature-families/geniekin|Geniekin]], [[srd/pf2e/compendium/gm/creature-families/nephilim|Nephilim]]
 
 ### Extraplanar Humanoids
 
@@ -35,6 +35,6 @@ Planar scions descended from residents of the Outer Sphere are known as nephilim
 ### Planar Scion
 
 **Related Families**
-Geniekin, Nephilim
+Geniekin, [[srd/pf2e/compendium/gm/creature-families/nephilim|Nephilim]]
 
 *Source: Monster Core 2 p. 250*

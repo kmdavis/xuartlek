@@ -44,7 +44,7 @@ This staff is made of a dense wood and strikes the ground with an imposing boom.
 
 ---
 
-**2nd** _gentle breeze_**3rd** _gravity well_, _tempest cloak_
+**2nd** [[srd/pf2e/compendium/spells/rank-2/gentle-breeze|_gentle breeze_]]**3rd** _gravity well_, [[srd/pf2e/compendium/spells/rank-3/tempest-cloak|_tempest cloak_]]
 
 ### Atmospheric Staff (Greater)
 
@@ -64,6 +64,6 @@ This staff is made of a dense wood and strikes the ground with an imposing boom.
 
 ---
 
-**6th** _zero gravity_**7th** _elemental form_ (air only), _vacuum_
+**6th** _zero gravity_**7th** _elemental form_ (air only), [[srd/pf2e/compendium/spells/rank-7/vacuum|_vacuum_]]
 
 *Source: Rage of Elements p. 74*

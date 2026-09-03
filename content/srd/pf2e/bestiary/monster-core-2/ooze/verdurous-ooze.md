@@ -31,7 +31,7 @@ perception:
     desc: "Perception +8; motion sense 60 feet, no vision"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Stealth +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +4"
 abilityMods: [5, -4, 5, -5, 0, -5]
 abilities_top:
   - name: "Motion Sense"
@@ -43,12 +43,12 @@ armorclass:
 hp: 157
 health:
   - name: "HP"
-    desc: "157; __Immunities__ acid, bleed, critical hits, mental, piercing, precision, slashing, unconscious, visual"
+    desc: "157; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Critical Hits|critical hits]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], piercing, precision, slashing, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
 abilities_mid:
   - name: "Corrosive Surface"
     desc: "A creature that hits a verdurous ooze with a metal weapon or unarmed attack must attempt a DC 21 Reflex save. On a failure, the weapon or creature takes 2d4 acid damage (after dealing damage to the ooze as normal). Thrown weapons take this damage automatically with no save."
   - name: "Enliven Foliage"
-    desc: "(aura, primal) 20 feet. The verdurous ooze constantly emits supernatural vapors that cause nearby plants to grow rapidly and writhe and grasp at anything and everything within the emanation. This area becomes difficult terrain for non–verdurous ooze creatures. When a creature starts its turn in this aura, it must succeed at a DC 21 Reflex save or take a –10-foot circumstance penalty to its Speeds until it leaves the emanation."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) 20 feet. The verdurous ooze constantly emits supernatural vapors that cause nearby plants to grow rapidly and writhe and grasp at anything and everything within the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]. This area becomes [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for non–verdurous ooze creatures. When a creature starts its turn in this aura, it must succeed at a DC 21 Reflex save or take a –10-foot circumstance penalty to its Speeds until it leaves the emanation."
   - name: "Split"
     desc: "When a verdurous ooze that has 10 or more HP is hit by an attack that would deal piercing or slashing damage, it splits into two identical oozes, each with half the original's HP. One ooze is in the same space as the original, and the other is in an adjacent, unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or heavy to push)."
 speed: "15 feet"
@@ -59,13 +59,13 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻ 2d6 bludgeoning plus 1d6 acid, DC 24"
   - name: "Sleep Gas"
-    desc: "⬺ (Incapacitation, mental, poison, Sleep) The verdurous ooze adjusts its aura of supernatural vapors to affect living creatures within a 20-foot emanation forcing them to attempt a DC 24 Will save."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|Sleep]]) The verdurous ooze adjusts its aura of supernatural vapors to affect living creatures within a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] forcing them to attempt a DC 24 Will save."
   - name: "Critical Success"
     desc: "The creature is unaffected and becomes temporarily immune to Sleep Gas for 24 hours."
   - name: "Success"
-    desc: "The creature is stupefied 1 for 1 round."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 for 1 round."
   - name: "Failure"
-    desc: "The creature falls unconscious. If it's still unconscious after 1 minute, it wakes up automatically."
+    desc: "The creature falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]. If it's still unconscious after 1 minute, it wakes up automatically."
   - name: "Critical Failure"
     desc: "The creature falls unconscious. If it's still unconscious after 1 hour, it wakes up automatically."
   - name: "Verdurous Ooze Acid"

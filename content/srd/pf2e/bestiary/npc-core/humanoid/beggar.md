@@ -29,10 +29,10 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +3, Deception +3, Diplomacy +3, Stealth +5, Underworld Lore +2"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +3, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +3, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +3, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Underworld Lore]] +2"
 abilityMods: [1, 3, 2, 0, 1, 1]
 ac: 14
 armorclass:
@@ -45,9 +45,9 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +5 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ rock +5 (thrown 10 feet) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ rock +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d4+1 bludgeoning"
 abilities_bot:
   - name: "Beat a Retreat"
     desc: "⬺ The beggar Strides three times and gains a +2 circumstance bonus to AC during those actions."

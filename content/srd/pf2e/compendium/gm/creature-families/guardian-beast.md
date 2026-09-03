@@ -18,7 +18,7 @@ Stone statues of beasts can often be found paired and standing guard on either s
 
 ### Members
 
-Stone Lion (Creature 4), Stone Lion Cub (Creature 2), Stone Spider (Creature 5)
+[[srd/pf2e/bestiary/monster-core-2/celestial/stone-lion|Stone Lion]] (Creature 4), [[srd/pf2e/bestiary/monster-core-2/celestial/stone-lion-cub|Stone Lion Cub]] (Creature 2), Stone Spider (Creature 5)
 
 ### Animal Varieties
 

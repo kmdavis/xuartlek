@@ -31,7 +31,7 @@ perception:
     desc: "Perception +5; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11"
 abilityMods: [4, -2, 4, -5, 0, -3]
 ac: 17
 armorclass:
@@ -40,19 +40,19 @@ armorclass:
 hp: 50
 health:
   - name: "HP"
-    desc: "50; __Immunities__ acid, mental"
+    desc: "50; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]"
 abilities_mid:
   - name: "Disgusting Demise"
-    desc: "(acid, poison) When the grothlut is reduced to 0 Hit Points, its digestive organs rupture, unleashing alchemical acid and poison upon all creatures in a 30-foot emanation. Each creature in the area must succeed at a DC 19 Fortitude save or take 2d6 acid damage and become sickened 1 (double damage and sickened 2 on a critical failure)."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) When the grothlut is reduced to 0 Hit Points, its digestive organs rupture, unleashing alchemical acid and poison upon all creatures in a 30-foot emanation. Each creature in the area must succeed at a DC 19 Fortitude save or take 2d6 acid damage and become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] (double damage and sickened 2 on a critical failure)."
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +11 (Agile) __Damage__ 1d10+8 slashing"
+    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d10+8 slashing"
   - name: "Ranged"
-    desc: "⬻ digestive spew +7 (Acid, range increment 15 feet, Splash) __Damage__ 2d6 acid damage plus 1d6 acid splash damage"
+    desc: "⬻ digestive spew +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]], range increment 15 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]]) __Damage__ 2d6 acid damage plus 1d6 acid splash damage"
 abilities_bot:
   - name: "Piteous Moan"
-    desc: "⬻ (Auditory, Aura, Concentrate, Emotion, Mental, Occult) 60 feet. Each non-grothlut creature that enters or starts its turn within the area must succeed at a DC 17 Will saving throw or become sickened 1 (sickened 2 on a critical failure). The creature then becomes temporarily immune for 1 minute. The grothlut can Dismiss this aura. A grothlut usually does not begin moaning until it senses the presence of a non-grothlut creature, and it usually stops once it doesn't sense any more such creatures."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|Aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) 60 feet. Each non-grothlut creature that enters or starts its turn within the area must succeed at a DC 17 Will saving throw or become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] (sickened 2 on a critical failure). The creature then becomes temporarily immune for 1 minute. The grothlut can Dismiss this aura. A grothlut usually does not begin moaning until it senses the presence of a non-grothlut creature, and it usually stops once it doesn't sense any more such creatures."
 sourcebook: "_Monster Core_, page 152."
 ```
 

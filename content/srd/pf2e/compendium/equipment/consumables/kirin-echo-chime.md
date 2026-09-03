@@ -19,8 +19,8 @@ source: "Howl of the Wild"
 - **Price**: 5 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: Cast a Spell (add 1 action)
+- **Activate**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] (add 1 action)
 
-The echo of kirin's song can be captured within this small glass chime, which shatters and calls up a meandering breeze of its own when rung. Adding this catalyst to a _gust of wind_ spell causes any flying creatures that would be pushed by the spell's effects to be pushed 30 feet in a direction of your choice, rather than 30 feet in the direction of the spell.
+The echo of kirin's song can be captured within this small glass chime, which shatters and calls up a meandering breeze of its own when rung. Adding this catalyst to a [[srd/pf2e/compendium/spells/rank-1/gust-of-wind|_gust of wind_]] spell causes any flying creatures that would be pushed by the spell's effects to be pushed 30 feet in a direction of your choice, rather than 30 feet in the direction of the spell.
 
 *Source: Howl of the Wild p. 118*

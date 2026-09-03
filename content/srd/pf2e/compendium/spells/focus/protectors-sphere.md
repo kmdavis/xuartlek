@@ -19,7 +19,7 @@ source: "Player Core"
 
 `Aura`  `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Protection
+- **Domain**: [[srd/pf2e/compendium/character/domains#Protection|Protection]]
 - **Area**: 15-foot emanation
 - **Duration**: sustained up to 1 minute
 

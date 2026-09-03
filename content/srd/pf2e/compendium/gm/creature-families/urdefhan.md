@@ -10,7 +10,7 @@ source: "Monster Core 2"
 
 # Urdefhan  *Creature Family*
 
-The violent warmongers, occultists, and poisoners known as urdefhans dwell within the Darklands. They were created in eons past by the mysterious First Apocalypse Riders to serve as agents of the end times of the Universe. Urdefhans continue to honor their creators by worshipping the wretched beings who rule over the plane of Abaddon, and like their fiendish lieges, urdefhans exist for one reason and one reason alone: to kill. While urdefhans are humanoid and dwell together in large groups, this is where their similarities to other ancestries end. Their visages are horrific, with transparent skin and musculature displaying their glistening entrails, gleaming bones, and perhaps worst of all, their baleful red eyes. This appearance, combined with their gaping maws full of sharp fangs, works to create the false impression that urdefhan are some sort of vampiric undead, not creatures of living flesh and blood. When an urdefhan's life comes to an end, their flesh quickly curdles and then bursts in a wave of awful corruption that spreads to the flesh of other creatures in the area. The typical urdefhan views their eventual demise as a disappointment, for once they're dead, their chances to kill will finally come to an end.
+The violent warmongers, occultists, and poisoners known as urdefhans dwell within the Darklands. They were created in eons past by the mysterious First Apocalypse Riders to serve as agents of the end times of [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]]. Urdefhans continue to honor their creators by worshipping the wretched beings who rule over the plane of [[srd/pf2e/compendium/gm/planes#Abaddon|Abaddon]], and like their fiendish lieges, urdefhans exist for one reason and one reason alone: to kill. While urdefhans are humanoid and dwell together in large groups, this is where their similarities to other ancestries end. Their visages are horrific, with transparent skin and musculature displaying their glistening entrails, gleaming bones, and perhaps worst of all, their baleful red eyes. This appearance, combined with their gaping maws full of sharp fangs, works to create the false impression that urdefhan are some sort of [[srd/pf2e/compendium/gm/creature-families/vampire|vampiric]] undead, not creatures of living flesh and blood. When an urdefhan's life comes to an end, their flesh quickly curdles and then bursts in a wave of awful corruption that spreads to the flesh of other creatures in the area. The typical urdefhan views their eventual demise as a disappointment, for once they're dead, their chances to kill will finally come to an end.
 
  An urdefhan's translucent body allows onlookers to see the various organs and fluids within, while their blue blood often signals their mood and telegraphs possible dangers. The blood of an excited urdefhan ready to attack grows more vibrant and even glows with a faint light. When an urdefhan is prepared to meet their death and imminent soul detonation, their blood grows dark, almost black as pitch.
 
@@ -18,7 +18,7 @@ The violent warmongers, occultists, and poisoners known as urdefhans dwell withi
 
 ### Members
 
-Urdefhan Tormentor (Creature 5), Urdefhan Warrior (Creature 3)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/urdefhan-tormentor|Urdefhan Tormentor]] (Creature 5), [[srd/pf2e/bestiary/monster-core-2/humanoid/urdefhan-warrior|Urdefhan Warrior]] (Creature 3)
 
 ### Minos-Pashat
 
@@ -26,6 +26,6 @@ The first urdefhans were unleashed into the depths of Golarion’s Darklands in 
 
 ### Rhoka Swords
 
-The rhoka sword is the preferred weapon among urdefhans, and all of their kind know how to wield these instruments of war.
+The [[srd/pf2e/compendium/equipment/weapons/sword/rhoka-sword-weapon-543|rhoka sword]] is the preferred weapon among urdefhans, and all of their kind know how to wield these instruments of war.
 
 *Source: Monster Core 2 p. 336*

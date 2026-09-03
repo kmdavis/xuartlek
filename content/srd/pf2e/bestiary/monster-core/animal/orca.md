@@ -29,7 +29,7 @@ perception:
     desc: "Perception +12; aquatic echolocation 120 feet, low-light vision"
 skills:
   - name: "Skills"
-    desc: "Athletics +14, Stealth +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13"
 abilityMods: [7, 2, 5, -4, 3, 0]
 abilities_top:
   - name: "Aquatic Echolocation"
@@ -50,9 +50,9 @@ attacks:
     desc: "⬻ jaws +13 __Damage__ 2d8+9 piercing plus Grab"
 abilities_bot:
   - name: "Aquatic Ambush"
-    desc: "⬻ 30 feet. An orca can travel no further than 5 feet onto land as part of an Aquatic Ambush. After it does so, it's prone until it Crawls to return to the water."
+    desc: "⬻ 30 feet. An orca can travel no further than 5 feet onto land as part of an Aquatic Ambush. After it does so, it's [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Crawl|Crawls]] to return to the water."
   - name: "Breach"
-    desc: "⬺ The orca Swims up to its swim Speed, then Leaps vertically out of the water up to 25 feet in the air, making a Strike against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water's surface). After the Strike, the orca splashes back down into the water."
+    desc: "⬺ The orca Swims up to its swim Speed, then [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] vertically out of the water up to 25 feet in the air, making a Strike against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water's surface). After the Strike, the orca splashes back down into the water."
 sourcebook: "_Monster Core_, page 103."
 ```
 

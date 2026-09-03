@@ -19,6 +19,6 @@ source: "GM Core"
 - **Usage**: held in 1 hand
 - **Bulk**: L
 
-An _everlight crystal_ is one of the most common applications of permanent magic. This stone or gem sheds magical bright light constantly in a 20-foot radius (and dim light for the next 20 feet). The light requires no oxygen, generates no heat, and can’t be extinguished, though the crystal can be covered.
+An _everlight crystal_ is one of the most common applications of permanent magic. This stone or gem sheds magical [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]] constantly in a 20-foot radius (and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]] for the next 20 feet). The light requires no oxygen, generates no heat, and can’t be extinguished, though the crystal can be covered.
 
 *Source: GM Core p. 273*

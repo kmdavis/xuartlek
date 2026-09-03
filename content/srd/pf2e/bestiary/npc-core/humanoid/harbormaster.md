@@ -29,14 +29,14 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6"
-languages: "Common; up to 2 additional languages"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; up to 2 additional languages"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Athletics +9, Diplomacy +5, Fishing Lore +8, Intimidation +5, Sailing Lore +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Fishing Lore]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] +10"
 abilityMods: [4, 2, 2, 2, 1, 0]
 abilities_top:
   - name: "Steady Balance"
-    desc: "Whenever the harbormaster rolls a success on a check to Balance, they get a critical success instead. They're not off-guard while Balancing on narrow surfaces and uneven ground."
+    desc: "Whenever the harbormaster rolls a success on a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]], they get a critical success instead. They're not [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] while Balancing on narrow surfaces and uneven ground."
   - name: "Items"
     desc: "Fishing Tackle, Hatchet (2), ledger, Manacles, Spyglass"
 ac: 18
@@ -50,14 +50,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ hatchet +12 (Agile, Sweep) __Damage__ 1d6+7 slashing"
+    desc: "⬻ hatchet +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+7 slashing"
   - name: "Melee"
-    desc: "⬻ fist +12 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+7 bludgeoning"
+    desc: "⬻ fist +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+7 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ hatchet +10 (Agile, Sweep, thrown 10 feet) __Damage__ 1d6+7 slashing"
+    desc: "⬻ hatchet +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+7 slashing"
 abilities_bot:
   - name: "Experienced Hand"
-    desc: "The harbormaster has endured their share of adverse conditions at sea. Any creature that's in adverse weather or aboard a vessel on rough water is off-guard to the harbormaster."
+    desc: "The harbormaster has endured their share of adverse conditions at sea. Any creature that's in adverse weather or aboard a vessel on rough water is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the harbormaster."
 sourcebook: "_NPC Core_, page 111."
 ```
 

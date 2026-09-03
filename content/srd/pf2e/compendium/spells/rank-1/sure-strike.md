@@ -20,6 +20,6 @@ source: "Player Core"
 - **Patron Theme**: Spinner of Threads
 - **Duration**: until the end of your turn
 
-The next time you make an attack roll before the end of your turn, roll it twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being concealed or hidden. You are then temporarily immune to sure strike for 10 minutes.
+The next time you make an attack roll before the end of your turn, roll it twice and use the better result. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]]. You are then temporarily immune to sure strike for 10 minutes.
 
 *Source: Player Core p. 361*

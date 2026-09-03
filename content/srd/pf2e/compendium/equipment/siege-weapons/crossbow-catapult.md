@@ -48,7 +48,7 @@ source: "Battlecry!"
 
 A less explosive version of black-powder weapons such as the ribauldequin and hwacha, the crossbow catapult consists of 16 crossbows arrayed in a square on a wooden frame with two large wheels. Aiming is done from behind, sighting through the center and wheeling the face back and forth. All the crossbow triggers are connected in sequence, firing a volley of bolts with a single pull of a wire.
 **Aim** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") 40 feet, minimum distance 30 feet 
-**Load** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (manipulate) 4 times 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate, range increment 80 feet) 3d6 piercing, 10-foot burst, DC 17 Reflex
+**Load** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 4 times 
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], manipulate, range increment 80 feet) 3d6 piercing, 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]], DC 17 Reflex
 
 *Source: Battlecry! p. 102*

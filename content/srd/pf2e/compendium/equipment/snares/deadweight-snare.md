@@ -25,7 +25,7 @@ This snare is made of magnetized weights and heavy ropes rigged to a trip wire o
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes a -1 status penalty to attack rolls for 1 round or until it Escapes (DC 18).
+**Success** The creature takes a -1 status penalty to attack rolls for 1 round or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 18).
 
 **Failure** The creature takes a –2 status penalty to attack rolls for 1 minute or until it Escapes (DC 18).
 

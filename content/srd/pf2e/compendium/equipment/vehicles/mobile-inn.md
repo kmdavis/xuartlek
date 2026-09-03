@@ -26,7 +26,7 @@ A mobile inn is the next step up from an armored carriage, bringing the limited 
 
 **Passengers** 3 (can hold up to 5 by stripping accommodations)
 
-**Piloting Check** Driving Lore (DC 24) or Crafting (DC 26)
+**Piloting Check** Driving Lore (DC 24) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 26)
 
 ---
 

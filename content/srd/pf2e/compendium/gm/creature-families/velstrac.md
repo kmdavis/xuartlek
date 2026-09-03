@@ -12,11 +12,11 @@ source: "Monster Core 2"
 
 The shadow-dwelling fiends known as velstracs all share a horrifying preoccupation with the search for ultimate sensation through self-mutilation. Velstracs transcend their stoic detachment only when inflicting pain and terror upon their victims, practicing new forms of torture, or turning their agonizing practices back on themselves. They consider themselves enlightened beings, transcending such limitations as morality or mortal taboos, but their victims know them as emotionless tormentors who inflict sadistic suffering. These fiends claim to seek perfection in thought, form, and action, although they don’t recognize any refinement that doesn’t require the painful excision of the flesh or spirit.
 
-Velstracs manifest from the souls of the most extreme masochistic or sadistic mortals who are judged and sent on to the Netherworld. They take on forms that suit their vile predilections, ranging from the low-ranking augurs to the maestros of suffering and mutilation, the eremites. The process of transformation warps the soul step by step, with other velstracs conveying their new members through untold chambers of pain among the dark reaches of the Netherworld.
+Velstracs manifest from the souls of the most extreme masochistic or sadistic mortals who are judged and sent on to the Netherworld. They take on forms that suit their vile predilections, ranging from the low-ranking augurs to the maestros of suffering and mutilation, the eremites. The process of transformation warps the soul step by step, with other velstracs conveying their new members through untold chambers of pain among the dark reaches of [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]].
 
 ### Members
 
-Augur (Creature 1), Conductor (Creature 9), Eremite (Creature 20), Evangelist (Creature 6), Interlocutor (Creature 12), Ostiarius (Creature 5), Sacristan (Creature 10)
+[[srd/pf2e/bestiary/monster-core-2/fiend/augur|Augur]] (Creature 1), Conductor (Creature 9), [[srd/pf2e/bestiary/monster-core-2/fiend/eremite|Eremite]] (Creature 20), [[srd/pf2e/bestiary/monster-core-2/fiend/evangelist|Evangelist]] (Creature 6), [[srd/pf2e/bestiary/monster-core-2/fiend/interlocutor|Interlocutor]] (Creature 12), [[srd/pf2e/bestiary/monster-core-2/fiend/ostiarius|Ostiarius]] (Creature 5), [[srd/pf2e/bestiary/monster-core-2/fiend/sacristan|Sacristan]] (Creature 10)
 
 ### Check With Players
 
@@ -24,7 +24,7 @@ Velstracs are creatures of pain and mutilation. Encounters with velstracs often 
 
 ### Despicable Origins
 
-Velstracs originated with the first debased thoughts of mortals, which divine beings found so deplorable that they locked all velstracs away in Hell. It wasn’t long, however, before the newly formed beings escaped their infernal prison to the Netherworld.
+Velstracs originated with the first debased thoughts of mortals, which divine beings found so deplorable that they locked all velstracs away in [[srd/pf2e/compendium/gm/planes#Hell|Hell]]. It wasn’t long, however, before the newly formed beings escaped their infernal prison to [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]].
 
 ### Other Velstracs
 

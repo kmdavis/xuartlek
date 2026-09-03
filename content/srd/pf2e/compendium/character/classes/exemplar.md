@@ -23,9 +23,9 @@ The following new key terms appear in many exemplar class features and feats.
 
  **Ikon**: An item with the ikon trait is a special item provided or created by your divinity that is so tied to you it can serve as a sacred vessel for your exemplar might. You gain three ikons at 1st level from the list on page 43. Each ikon has a passive immanence ability and an activated transcendence ability. A feat with the ikon trait imbues one of your ikons with further capabilities. Whenever you gain a feat with the ikon trait, choose which of your ikons gains that ability; if you have multiple ikons that meet the feat's usage requirements, you can take the feat multiple times to apply its effects to another one of your ikons. These feats list what ikon they can be imbued into, and any number of them can be imbued into a single ikon.
 
- **Immanence**: At any given time, your divine spark can rest within one of your ikons, empowering it with beyond-mortal abilities. As long as your divine spark is empowering one of your ikons, that ikon gains the divine trait and grants you the benefits described in its immanence entry (which is also a divine effect). If your ikon has multiple immanence abilities, you gain all of them whenever the ikon is empowered. If an immanence ability occurs on a critical Strike with a weapon, it replaces any critical specialization effect that weapon might otherwise have.
+ **Immanence**: At any given time, your divine spark can rest within one of your ikons, empowering it with beyond-mortal abilities. As long as your divine spark is empowering one of your ikons, that ikon gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] trait and grants you the benefits described in its immanence entry (which is also a divine effect). If your ikon has multiple immanence abilities, you gain all of them whenever the ikon is empowered. If an immanence ability occurs on a critical Strike with a weapon, it replaces any critical specialization effect that weapon might otherwise have.
 
- **Transcendence**: Transcendence channels the might of your divine spark through one of your ikons to surpass the mortal and enact a miraculous deed. Each ikon has an action with the transcendence trait, and using it is called Sparking Transcendence. To use the action, your divine spark must be empowering that ikon and you must have the ikon ready to use (typically holding a weapon ikon or wearing a worn ikon). Immediately after you Spark Transcendence, your divine spark is forcefully ejected from that ikon, coming to rest in another ikon of your choice. You can Spark Transcendence only once each round. As it comes from your divine spark, a transcendence action has the divine trait.
+ **Transcendence**: Transcendence channels the might of your divine spark through one of your ikons to surpass the mortal and enact a miraculous deed. Each ikon has an action with the transcendence trait, and using it is called Sparking Transcendence. To use the action, your divine spark must be empowering that ikon and you must have the ikon ready to use (typically holding a weapon ikon or wearing a worn ikon). Immediately after you Spark Transcendence, your divine spark is forcefully ejected from that ikon, coming to rest in another ikon of your choice. You can Spark Transcendence only once each round. As it comes from your divine spark, a transcendence action has the [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] trait.
 
 ### Roleplaying the Exemplar
 
@@ -61,7 +61,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Expert in Fortitude Trained in Reflex Expert in Will |
-| **Skills** | Trained in Religion Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
+| **Skills** | Trained in [[srd/pf2e/compendium/rules-elements/skills/religion\|Religion]] Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
 | **Attacks** | Trained in simple weapons Trained in martial weapons Trained in unarmed attacks |
 | **Defenses** | Trained in light armor Trained in medium armor Trained in unarmored defense |
 | **Class DC** | Trained in exemplar class DC |
@@ -128,7 +128,7 @@ Within your soul is a tiny spark of divine power that belongs not to a deity, bu
 | --- | --- |
 | **Exemplar Feats** | At 1st level and every even-numbered level thereafter, you gain an exemplar class feat. |
 | **Humble Strikes** | Even the most unassuming weapons can accomplish great deeds. When you are wielding a simple weapon, increase the damage die size of that weapon by one step. |
-| **Shield Block** | You gain the Shield Block general feat, a reaction that lets you reduce damage with your shield. |
+| **Shield Block** | You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block\|Shield Block]] general feat, a reaction that lets you reduce damage with your shield. |
 | **Skill Feats** | At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat. |
 | **General Feats** | At 3rd level and every 4 levels thereafter, you gain a general feat. |
 

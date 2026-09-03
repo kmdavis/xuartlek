@@ -18,9 +18,9 @@ source: "Battlecry!"
 - **Usage**: worn belt
 - **Bulk**: L
 
-Small blood-red rubies decorate this black leather belt, which is a fashion accessory for only the most bloodthirsty soldiers. When you wear this belt, you gain a +1 item bonus to Intimidation checks.
+Small blood-red rubies decorate this black leather belt, which is a fashion accessory for only the most bloodthirsty soldiers. When you wear this belt, you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks.
 
-**Activate—Bleeding Rubies** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per day; **Requirements** You have a free hand and your last action was to deal damage to an enemy with a Strike or spell attack roll; **Effect** You pull a ruby off your belt and crush it into dust. As this dust reaches the enemy you just harmed, it embeds into the skin, causing them to bleed. The target takes 1d6 persistent bleed damage. The ruby reappears on the belt after 24 hours.
+**Activate—Bleeding Rubies** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Requirements** You have a free hand and your last action was to deal damage to an enemy with a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] or spell attack roll; **Effect** You pull a ruby off your belt and crush it into dust. As this dust reaches the enemy you just harmed, it embeds into the skin, causing them to bleed. The target takes 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]. The ruby reappears on the belt after 24 hours.
 
 ### Killer’s Belt
 

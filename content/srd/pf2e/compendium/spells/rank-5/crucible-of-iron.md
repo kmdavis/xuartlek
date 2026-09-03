@@ -27,11 +27,11 @@ You call forth a crucible of molten iron that pours over the target, burning the
 
 **Critical Success** The target is unaffected.
 
-**Success** The target's head is encased in iron, causing them to be dazzled for 1 round and take 1d10 persistent fire damage.
+**Success** The target's head is encased in iron, causing them to be [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round and take 1d10 persistent fire damage.
 
-**Failure** The target's head, arms, and chest are all encased. The target is dazzled and enfeebled 1 for 1 minute or until they Escape. They also take 1d10 persistent fire damage.
+**Failure** The target's head, arms, and chest are all encased. The target is dazzled and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] for 1 minute or until they [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]. They also take 1d10 persistent fire damage.
 
-**Critical Failure** The target's legs and feet are also encased. The target is dazzled, enfeebled 2, and immobilized for 1 minute or until they Escape. They also take 1d10 persistent fire damage.
+**Critical Failure** The target's legs and feet are also encased. The target is dazzled, enfeebled 2, and [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 minute or until they Escape. They also take 1d10 persistent fire damage.
 
 ---
 **Heightened (+2)** The persistent fire damage increases by 1d10.

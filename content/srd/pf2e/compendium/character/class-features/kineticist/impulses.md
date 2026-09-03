@@ -13,7 +13,7 @@ source: "Rage of Elements"
 
 - **Class**: Kineticist
 
-An impulse is a special type of magical action available to kineticists, allowing them to wield or shape their element into diverse and powerful forms. To wield an element, you must have your kinetic aura active and have a free hand, as described in the impulse trait. You automatically gain the Elemental Blast and Base Kinesis impulses, and your kinetic gate selection gives you additional impulse feats. You can select more impulse feats with kineticist class feats, and at higher levels, you'll automatically get more with the gate's threshold class feature. You can select an impulse feat only if it matches one of your kinetic elements.
+An impulse is a special type of magical action available to kineticists, allowing them to wield or shape their element into diverse and powerful forms. To wield an element, you must have your kinetic aura active and have a free hand, as described in the [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulse]] trait. You automatically gain the Elemental Blast and Base Kinesis impulses, and your kinetic gate selection gives you additional impulse feats. You can select more impulse feats with kineticist class feats, and at higher levels, you'll automatically get more with the gate's threshold class feature. You can select an impulse feat only if it matches one of your kinetic elements.
 
  Impulses are magical, and though they aren't spells, some things that affect spells also affect impulses. Abilities that restrict you from casting spells (such as being polymorphed into a battle form) or protect against spells (such as a spell that protects against other spells or a creature's bonus to saves against spells) also apply to impulses. 
 
@@ -25,7 +25,7 @@ An impulse is a special type of magical action available to kineticists, allowin
 
 #### Impulse Attacks And DCs
 
- An impulse that requires a saving throw uses your kineticist class DC. Some of your impulses require you to attempt an **impulse attack roll** to see how effective they are. Your impulse attack roll uses the same proficiency and attribute modifier as your kineticist class DC. Like a spell attack modifier, your impulse attack modifier uses the following formula: d20 roll + attribute modifier + proficiency bonus + other bonuses + penalties. This means your impulse attack roll is typically 10 lower than your class DC. The drained condition can reduce your impulse attack rolls and class DCs. You can acquire a gate attenuator to gain a bonus to your impulse attack modifier. 
+ An impulse that requires a saving throw uses your kineticist class DC. Some of your impulses require you to attempt an **impulse attack roll** to see how effective they are. Your impulse attack roll uses the same proficiency and attribute modifier as your kineticist class DC. Like a spell attack modifier, your impulse attack modifier uses the following formula: d20 roll + attribute modifier + proficiency bonus + other bonuses + penalties. This means your impulse attack roll is typically 10 lower than your class DC. The drained condition can reduce your impulse attack rolls and class DCs. You can acquire a [[srd/pf2e/compendium/equipment/worn-items/gate-attenuator-major|gate attenuator]] to gain a bonus to your impulse attack modifier. 
 
 #### Elemental Blast
 

@@ -20,7 +20,7 @@ source: "Impossible Magic"
 - **Target**: 1 held object of 2 Bulk or less
 - **Duration**: 1 minute
 
-You manipulate the fundamental forces of gravity to lock an item in place. The object remains in the exact spot where you released it, even floating in the air, until the spell ends or the item is broken. A creature can Interact with the object to move it up to 10 feet by succeeding at an Athletics check equal to your spell DC (up to 20 feet on a critical success). After the item is moved, the spell’s effects resume. You can Dismiss this spell.
+You manipulate the fundamental forces of gravity to lock an item in place. The object remains in the exact spot where you released it, even floating in the air, until the spell ends or the item is broken. A creature can Interact with the object to move it up to 10 feet by succeeding at an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check equal to your spell DC (up to 20 feet on a critical success). After the item is moved, the spell’s effects resume. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] this spell.
 
 ---
 **Heightened (5th)** The duration increases to 8 hours.

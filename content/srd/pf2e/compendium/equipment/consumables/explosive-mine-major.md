@@ -22,7 +22,7 @@ source: "Guns & Gears (Remastered)"
 - **Access**: Due to the use of technology, all gadgets are uncommon or rare, though inventors and regions with access to inventors have access to uncommon gadgets.
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") Interact
 
-When you Activate an explosive mine, you place it on the ground in a square within your reach, priming it to explode when a creature steps on that square. If you have time in advance to prepare, you can place the mine on the ground before activating it, and you or an ally can try to use Stealth to Conceal an Object before you Activate the mine. If you don't Conceal the mine, its position is obvious at a glance. 
+When you Activate an explosive mine, you place it on the ground in a square within your reach, priming it to explode when a creature steps on that square. If you have time in advance to prepare, you can place the mine on the ground before activating it, and you or an ally can try to use [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] to Conceal an Object before you Activate the mine. If you don't Conceal the mine, its position is obvious at a glance. 
 
 Once activated, the mine is primed to explode when enough pressure is placed on the square where it's located. Typically, this occurs when a Small or larger creature moves onto the square, though it could happen if a creature intentionally places pressure on the square from a distance to safely trigger the mine. Once triggered, the mine explodes, dealing the listed fire damage to any creatures in a 5-foot emanation with a basic Reflex save.
 

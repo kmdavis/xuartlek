@@ -21,19 +21,19 @@ source: "Treasure Vault (Remastered)"
 
 Carved from a scale of the kaiju Igroon, this jagged shield refracts light around it in a shimmering haze. A _scale of Igroon_ (Hardness 20, HP 160, BT 80) recovers 4 Hit Points at the start of its wielder's turn. When you Raise a Shield, you can use the Shield Block reaction with the scale of Igroon to block an attack or effect that deals acid, cold, electricity, fire, force, or sonic damage as well as physical damage.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Requirements** You're in an area of bright or dim light; **Effect** You angle the shield to refract light. Until the start of your next turn, you gain a +4 item bonus to Stealth checks to Hide and Sneak and can do so while observed. This bonus ends if you Activate another ability or use the Shield Block reaction.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** You're in an area of bright or dim light; **Effect** You angle the shield to refract light. Until the start of your next turn, you gain a +4 item bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks to Hide and Sneak and can do so while [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]]. This bonus ends if you Activate another ability or use the Shield Block reaction.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Requirements** You're in an area of bright light; **Effect** You angle the shield at a target within 60 feet, reflecting light into its eyes. It must attempt a DC 42 Fortitude save.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** You're in an area of bright light; **Effect** You angle the shield at a target within 60 feet, reflecting light into its eyes. It must attempt a DC 42 Fortitude save.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is blinded until its next turn begins.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until its next turn begins.
 
 **Failure** The target is blinded for 1 minute.
 
 **Critical Failure** The target is blinded for 2d4 hours.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (manipulate) **Trigger** You use Shield Block and prevent yourself from taking energy damage from a line, ray, or a direct attack, including a _force barrage_ spell; **Effect** You reflect the energy along a trajectory you choose. The effect travels only up to its remaining range, using its original parameters if it strikes other targets.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Trigger** You use Shield Block and prevent yourself from taking energy damage from a line, ray, or a direct attack, including a [[srd/pf2e/compendium/spells/rank-1/force-barrage|_force barrage_]] spell; **Effect** You reflect the energy along a trajectory you choose. The effect travels only up to its remaining range, using its original parameters if it strikes other targets.
 
 **Destruction** If a deity, kaiju, spawn of a deity, titan, or being of similar power stomps on a _scale of Igroon_ while in absolute darkness, the shield is destroyed permanently.
 

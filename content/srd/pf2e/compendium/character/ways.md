@@ -13,7 +13,7 @@ entries: 5
 
 You're a wanderer traveling from land to land with your gun and a melee weapon as company. Maybe you learned to fight with blade and pistol as a Shackles pirate, mastered the hand cannon and katana in Minkai, or practiced with a hatchet and clan pistol in Dongun Hold. You win battles by relying on mobility and flexible use of your weapons.
 
-**Way Skill** Acrobatics
+**Way Skill** [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
 
 ### Slinger's Reload
 
@@ -29,8 +29,8 @@ You're a wanderer traveling from land to land with your gun and a melee weapon a
 
 Whether you're a professional duelist or a pistol-twirling entertainer, you have quick feet and quicker hands that never seem to let you down, and an equally sharp wit and tongue that jab your foes. You might leave a hand free or cultivate the ambidexterity for twin weapons. Either way, you stay close enough to your enemies to leverage your superior reflexes while leaving enough space to safely fire.
 
-**Way Skill** Deception
- or Intimidation
+**Way Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
+ or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
 
 ### Slinger's Reload
 
@@ -46,7 +46,7 @@ Whether you're a professional duelist or a pistol-twirling entertainer, you have
 
 You practice a style of shooting that relies on unerring accuracy and perfect placement of your first shot. You keep hidden or at a distance, staying out of the fray and bringing unseen death to your foes.
 
-**Way Skill** Stealth
+**Way Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 ### Slinger's Reload
 
@@ -60,13 +60,13 @@ You practice a style of shooting that relies on unerring accuracy and perfect pl
 
 ## Way of the Spellshot  *Gunslinger Way*
 
-Prerequisites: Must be a gunslinger.
+Prerequisites: Must be a [[srd/pf2e/compendium/character/classes/gunslinger|gunslinger]].
 
 You've learned the intricacies of magic and technology, blending the two together with deadly results. You combine a knowledge of arcane theories with a strong connection to your chosen weapon that allows you to manifest unique effects, though your knowledge doesn't extend as far as actual spellcasting. You can imbue energy into your weapon and conjure bullets from thin air. As you progress, you eventually learn to phase bullets through walls or even to teleport yourself along the path of your bullets.
 
-You must select Spellshot Dedication from the Spellshot archetype as your 2nd-level class feat.
+You must select [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/spellshot-dedication|Spellshot Dedication]] from the [[srd/pf2e/compendium/character/archetypes/spellshot|Spellshot]] archetype as your 2nd-level class feat.
 
-**Way Skill** Arcana
+**Way Skill** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
 
 ### Slinger's Reload
 
@@ -82,7 +82,7 @@ You must select Spellshot Dedication from the Spellshot archetype as your 2nd-le
 
 You practice a unique combat style originated by dwarven siege engineers, using heavy weapons with wide attack areas to blast holes through enemy lines, clear an opening for your allies, and defend the conquered territory.
 
-**Way Skill** Athletics
+**Way Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
 
 ### Slinger's Reload
 

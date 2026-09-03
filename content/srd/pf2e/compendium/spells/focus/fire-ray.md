@@ -20,7 +20,7 @@ source: "Player Core"
 
 `Attack`  `Cleric`  `Concentrate`  `Fire`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Fire
+- **Domain**: [[srd/pf2e/compendium/character/domains#Fire|Fire]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: AC

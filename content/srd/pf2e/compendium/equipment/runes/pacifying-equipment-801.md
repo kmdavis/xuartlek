@@ -21,6 +21,6 @@ source: "Treasure Vault (Remastered)"
 
 This rune turns weapons into instruments of peacemaking.
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") command (mental); **Trigger** You damage a creature with a _pacifying_ weapon; **Effect** The damaged creature must succeed at a DC 20 Will save or be pacified. A pacified creature takes a –2 penalty to attack rolls on any attacks that aren't nonlethal for 1 minute, and the creature also experiences a clear psychic warning that they should stop dealing lethal damage.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") command (mental); **Trigger** You damage a creature with a _pacifying_ weapon; **Effect** The damaged creature must succeed at a DC 20 Will save or be pacified. A pacified creature takes a –2 penalty to attack rolls on any attacks that aren't [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] for 1 minute, and the creature also experiences a clear psychic warning that they should stop dealing lethal damage.
 
 *Source: Treasure Vault (Remastered) p. 33*

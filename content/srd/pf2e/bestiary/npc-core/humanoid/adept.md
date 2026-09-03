@@ -29,10 +29,10 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Arcana +5, Diplomacy +3, Occultism +5, Scribing Lore +5, Society +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +5, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +3, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Scribing Lore]] +5, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +5"
 abilityMods: [0, 2, 0, 3, 2, 1]
 abilities_top:
   - name: "Items"
@@ -48,14 +48,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +6 (Agile, Nonlethal) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ journal +6 (Nonlethal, thrown 10 feet) __Damage__ 1d6 bludgeoning"
+    desc: "⬻ journal +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6 bludgeoning"
 abilities_bot:
   - name: "Occult Spells Known"
-    desc: "DC 15 - __Cantrips (1st)__ Daze, Detect Magic, Telekinetic Hand"
+    desc: "DC 15 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]]"
   - name: "Focused Thinker"
-    desc: "⬻ (Concentrate) The adept concentrates to muster knowledge and wisdom. While focusing, they gain a +2 status bonus to checks to Recall Knowledge, but take a –2 penalty to Perception. They can Dismiss this focused state."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) The adept concentrates to muster knowledge and wisdom. While focusing, they gain a +2 status bonus to checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]], but take a –2 penalty to Perception. They can Dismiss this focused state."
 sourcebook: "_NPC Core_, page 96."
 ```
 

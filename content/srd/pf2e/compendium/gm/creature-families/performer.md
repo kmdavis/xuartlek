@@ -14,11 +14,11 @@ Performances come in a wide variety of forms, from musical methods like singing 
 
 ### Members
 
-Acrobat (Creature 2), Beast Tamer (Creature 4), Court Jester (Creature 10), Dancer (Creature 1), Druid Initiate (Creature 1), Juggler (Creature 2), Maestro (Creature 11), Mime (Creature 3), Puppeteer (Creature 6), Street Musician (Creature 2), Traveling Actor (Creature 3), Troubadour (Creature 3)
+[[srd/pf2e/bestiary/npc-core/humanoid/acrobat|Acrobat]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/beast-tamer|Beast Tamer]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/court-jester|Court Jester]] (Creature 10), [[srd/pf2e/bestiary/npc-core/humanoid/dancer|Dancer]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/druid-initiate|Druid Initiate]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/juggler|Juggler]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/maestro|Maestro]] (Creature 11), [[srd/pf2e/bestiary/npc-core/humanoid/mime|Mime]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/puppeteer|Puppeteer]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/street-musician|Street Musician]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/traveling-actor|Traveling Actor]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/troubadour|Troubadour]] (Creature 3)
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: Halfling yarnspinner (level 7), iruxi masked mummer (level 9), razzle dazzler (level 5)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/halfling-yarnspinner|Halfling yarnspinner]] (level 7), [[srd/pf2e/bestiary/npc-core/humanoid/iruxi-masked-mummer|iruxi masked mummer]] (level 9), [[srd/pf2e/bestiary/npc-core/humanoid/razzle-dazzler|razzle dazzler]] (level 5)
 
 ### Handheld Instruments
 

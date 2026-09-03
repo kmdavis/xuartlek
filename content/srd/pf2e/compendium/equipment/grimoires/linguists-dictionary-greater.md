@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 
 This thick book has several colorful bookmarks and page dividers. Its title and text shift between numerous languages.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per day; **Requirements** Your last action was to cast a spell prepared from this grimoire that allows understanding of another language, such as _translate_ or _truespeech_; **Effect** The grimoire absorbs knowledge of one language translated this way (caster’s choice if more than one), allowing its bearer to communicate on a rudimentary level in that language even after the spell’s duration has elapsed. The _linguist’s dictionary_ can hold one language at a time.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Requirements** Your last action was to cast a spell prepared from this grimoire that allows understanding of another language, such as [[srd/pf2e/compendium/spells/rank-2/translate|_translate_]] or [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]; **Effect** The grimoire absorbs knowledge of one language translated this way (caster’s choice if more than one), allowing its bearer to communicate on a rudimentary level in that language even after the spell’s duration has elapsed. The _linguist’s dictionary_ can hold one language at a time.
 
 ### Linguist's Dictionary
 

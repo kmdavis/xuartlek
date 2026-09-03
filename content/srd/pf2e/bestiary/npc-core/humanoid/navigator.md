@@ -29,14 +29,14 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Nature +11, Sailing Lore +14, Society +8, Survival +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] +14, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
 abilityMods: [0, 2, 1, 4, 3, 0]
 abilities_top:
   - name: "Chart a Course"
-    desc: "(concentrate) By spending 10 minutes of work and succeeding at a DC 22 Sailing Lore check, the navigator plots an optimal course. The severity of environmental conditions during the journey is reduced by one step for 24 hours (two steps on a critical success). This changes moderate damage to minor damage, winds that create greater difficult terrain cause only difficult terrain, and so on."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) By spending 10 minutes of work and succeeding at a DC 22 [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] check, the navigator plots an optimal course. The severity of [[srd/pf2e/books/gm-core/chapter-2-building-games/environment|environmental conditions]] during the journey is reduced by one step for 24 hours (two steps on a critical success). This changes moderate damage to minor damage, winds that create greater difficult terrain cause only difficult terrain, and so on."
   - name: "Sailing Specialist"
     desc: "For encounters involving navigation or sailing, the navigator is a 4th-level challenge."
   - name: "Items"
@@ -52,11 +52,11 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +9 (Agile, Finesse, versatile S) __Damage__ 1d4+4 piercing plus navigator's edge"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing plus navigator's edge"
   - name: "Melee"
-    desc: "⬻ fist +9 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +9 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+4 piercing plus navigator's edge"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing plus navigator's edge"
 abilities_bot:
   - name: "Navigator's Edge"
     desc: "The navigator's Strikes deal an additional 1d6 damage when on a ship."

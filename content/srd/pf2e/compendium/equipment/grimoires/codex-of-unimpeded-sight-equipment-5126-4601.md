@@ -19,7 +19,7 @@ source: "Impossible Magic"
 
 A female figure peers through her blindfold from the cover of this stately tome. 
 
-**Activate—Reveal Truth** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per day; **Requirements** Your last action was to Cast a prepared prediction or scrying spell; **Effect** The grimoire offers you a glimpse into the truth of things. Seek or Recall Knowledge.
+**Activate—Reveal Truth** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Requirements** Your last action was to Cast a prepared prediction or scrying spell; **Effect** The grimoire offers you a glimpse into the truth of things. [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]].
 
 ### Codex Of Unimpeded Sight
 
@@ -31,6 +31,6 @@ A female figure peers through her blindfold from the cover of this stately tome.
 
 ---
 
-The frequency of the activation is once per hour instead of once per day. When you use it, you gain a +1 item bonus on your Perception check to Seek or skill check to Recall Knowledge.
+The frequency of the activation is once per hour instead of once per day. When you use it, you gain a +1 item bonus on your Perception check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] or skill check to Recall Knowledge.
 
 *Source: Impossible Magic p. 229*

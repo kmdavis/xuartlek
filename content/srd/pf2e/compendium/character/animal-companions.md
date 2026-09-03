@@ -26,7 +26,7 @@ Your companion is an air elemental, such as a zephyr hawk.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-gust (Finesse),
+gust ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d6 bludgeoning
 
 **Str** +1
@@ -43,7 +43,7 @@ gust (Finesse),
 
 **Hit Points** 4
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** darkvision
 
@@ -51,7 +51,7 @@ gust (Finesse),
 
  
 
-**Support Benefit** Your air elemental swirls around you with concealing gusts, making it harder for your foes to hit you and possibly giving you a moment to hide. Until the start of your next turn, if you hit with a Strike and deal damage to a creature in your air elemental's reach, you are concealed to that creature until the start of your next turn.
+**Support Benefit** Your air elemental swirls around you with concealing gusts, making it harder for your foes to hit you and possibly giving you a moment to hide. Until the start of your next turn, if you hit with a Strike and deal damage to a creature in your air elemental's reach, you are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to that creature until the start of your next turn.
 
 **Advanced Maneuver** Circling Flyby
 
@@ -69,12 +69,12 @@ Your companion is an antelope or other similar animal, such as a dik-dik, gazell
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-horns (finesse),
+horns ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]),
 **Damage** 1d6 piercing
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-hoof (agile, finesse),
+hoof ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]),
 **Damage** 1d4 bludgeoning
 
 **Str** +2
@@ -91,15 +91,15 @@ hoof (agile, finesse),
 
 **Hit Points** 6
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** low-light vision
 
 **Speed** 40 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
-**Support Benefit** The antelope impales your distracted foes. Until the start of your next turn, while riding your antelope, your Strikes that damage a creature in your antelope’s reach also deal 1d6 persistent bleed damage. If your antelope is nimble or savage, the persistent bleed damage increases to 2d6.
+**Support Benefit** The antelope impales your distracted foes. Until the start of your next turn, while riding your antelope, your Strikes that damage a creature in your antelope’s reach also deal 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]. If your antelope is nimble or savage, the persistent bleed damage increases to 2d6.
 
 **Advanced Maneuver** Bounding Retreat
 
@@ -134,7 +134,7 @@ fist,
 
 **Hit Points** 8
 
-**Skill** Intimidation
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
 
 **Senses** low-light vision
 
@@ -177,7 +177,7 @@ branch,
 
 **Hit Points** 8
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** low-light vision
 
@@ -208,7 +208,7 @@ jaws,
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-claw (Agile),
+claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]),
 **Damage** 1d6 slashing
 
 **Str** +2
@@ -225,7 +225,7 @@ claw (Agile),
 
 **Hit Points** 8
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** low-light vision, scent (imprecise, 30 feet)
 
@@ -251,12 +251,12 @@ Your companion is a particularly large bat, such as a giant bat.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-jaws (Finesse),
+jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d6 piercing
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-wing (Agile, Finesse),
+wing ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d4 slashing
 
 **Str** +2
@@ -273,7 +273,7 @@ wing (Agile, Finesse),
 
 **Hit Points** 6
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** echolocation 20 feet (the bat can use hearing as a precise sense within this range), low-light vision
 
@@ -304,7 +304,7 @@ jaws,
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-claw (Agile),
+claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]),
 **Damage** 1d6 slashing
 
 **Str** +3
@@ -321,9 +321,9 @@ claw (Agile),
 
 **Hit Points** 8
 
-**Skill** Intimidation
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
 
-**Senses** low-light vision, scent (imprecise, 30 feet)
+**Senses** low-light vision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]], 30 feet)
 
 **Speed** 35 feet
 
@@ -347,12 +347,12 @@ Your companion is a bird of prey, such as an eagle, hawk, or owl.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-jaws (Finesse),
+jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d6 piercing
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-talon (Agile, Finesse),
+talon ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d4 slashing
 
 **Str** +2
@@ -369,7 +369,7 @@ talon (Agile, Finesse),
 
 **Hit Points** 4
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** low-light vision
 
@@ -377,7 +377,7 @@ talon (Agile, Finesse),
 
  
 
-**Support Benefit** The bird pecks at your foes' eyes when you create an opening. Until the start of your next turn, your Strikes that damage a creature that your bird threatens also deal 1d4 persistent bleed damage, and the target is dazzled until it removes the bleed damage. If your bird is nimble or savage, the persistent bleed damage increases to 2d4.
+**Support Benefit** The bird pecks at your foes' eyes when you create an opening. Until the start of your next turn, your Strikes that damage a creature that your bird threatens also deal 1d4 persistent bleed damage, and the target is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until it removes the bleed damage. If your bird is nimble or savage, the persistent bleed damage increases to 2d4.
 
 **Advanced Maneuver** Flyby Attack
 
@@ -412,7 +412,7 @@ tusk,
 
 **Hit Points** 8
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** low-light vision, scent (imprecise, 30 feet)
 
@@ -438,12 +438,12 @@ Your companion is a big cat, such as a leopard or tiger.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-jaws (Finesse),
+jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d6 piercing
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-claw (Agile, Finesse),
+claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d4 slashing
 
 **Str** +2
@@ -460,15 +460,15 @@ claw (Agile, Finesse),
 
 **Hit Points** 4
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** low-light vision, scent (imprecise, 30 feet)
 
 **Speed** 35 feet
 
-**Special** Your cat deals 1d4 extra precision damage against off-guard targets.
+**Special** Your cat deals 1d4 extra precision damage against [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] targets.
 
-**Support Benefit** Your cat throws your enemies off-balance when you create an opening. Until the start of your next turn, your Strikes that deal damage to a creature within your cat's reach make the target off-guard until the end of your next turn.
+**Support Benefit** Your cat throws your enemies off-balance when you create an opening. Until the start of your next turn, your Strikes that deal damage to a creature within your cat's reach make the target [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of your next turn.
 
 **Advanced Maneuver** Cat Pounce
 
@@ -491,7 +491,7 @@ jaws,
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-tail (Finesse),
+tail ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d6 bludgeoning
 
 **Str** +3
@@ -508,7 +508,7 @@ tail (Finesse),
 
 **Hit Points** 6
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** low-light vision
 
@@ -534,12 +534,12 @@ Your companion is a dromaeosaur (also called a raptor), such as a velociraptor o
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-jaws (Finesse),
+jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d8 piercing
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-talon (Agile, Finesse),
+talon ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d6 slashing
 
 **Str** +2
@@ -556,7 +556,7 @@ talon (Agile, Finesse),
 
 **Hit Points** 6
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** low-light vision, scent (imprecise, 30 feet)
 
@@ -601,7 +601,7 @@ fist,
 
 **Hit Points** 10
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** darkvision
 
@@ -632,7 +632,7 @@ antlers,
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-hoof (agile),
+hoof ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 **Damage** 1d6 bludgeoning
 
 **Str** +3
@@ -649,15 +649,15 @@ hoof (agile),
 
 **Hit Points** 8
 
-**Skill** Intimidation
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
 
 **Senses** low-light vision
 
 **Speed** 30 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
-**Support Benefit** Your elk makes a threatening display by waving its antlers. Until the start of your next turn, if you hit and deal damage to a creature within your elk’s reach, the creature is frightened 1.
+**Support Benefit** Your elk makes a threatening display by waving its antlers. Until the start of your next turn, if you hit and deal damage to a creature within your elk’s reach, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
 
 **Advanced Maneuver** Antler Catapult
 
@@ -669,7 +669,7 @@ hoof (agile),
 
 _**PFS Note** Druids of the specifically listed orders may also take the other elementals (e.g. a wave order druid may take a water elemental companion)._
 
-Your companion is a fire elemental, such as a cinder rat or lava otter.
+Your companion is a fire elemental, such as a cinder rat or [[srd/pf2e/bestiary/rage-of-elements/elemental/lava-otter|lava otter]].
 
 **Access** You are a member of the flame order.
 
@@ -677,7 +677,7 @@ Your companion is a fire elemental, such as a cinder rat or lava otter.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-tendril (Agile, Finesse),
+tendril ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d6 fire
 
 **Str** +2
@@ -694,7 +694,7 @@ tendril (Agile, Finesse),
 
 **Hit Points** 4
 
-**Skill** Intimidation
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
 
 **Senses** darkvision
 
@@ -720,12 +720,12 @@ Your companion is a giant flying squirrel or sugar glider.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-jaws (finesse),
+jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]),
 **Damage** 1d6 piercing
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-claw (agile, finesse),
+claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]),
 **Damage** 1d4 slashing
 
 **Str** +2
@@ -742,9 +742,9 @@ claw (agile, finesse),
 
 **Hit Points** 6
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
-**Senses** low-light vision, scent (imprecise) 30 feet
+**Senses** low-light vision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]]) 30 feet
 
 **Speed** 25 feet, climb 25 feet
 
@@ -785,15 +785,15 @@ jaws,
 
 **Hit Points** 4
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
-**Senses** low-light vision, scent (imprecise) 30 feet
+**Senses** low-light vision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]]) 30 feet
 
 **Speed** 10 feet, swim 40 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
-**Support Benefit** Your giant eel swims in confounding bursts. Until the start of your next turn, it counts as being in its space or an empty space of your choice within 10 feet when determining whether you and your companion are flanking; you can choose a different space for each of your attacks.
+**Support Benefit** Your giant eel swims in confounding bursts. Until the start of your next turn, it counts as being in its space or an empty space of your choice within 10 feet when determining whether you and your companion are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanking]]; you can choose a different space for each of your attacks.
 
 **Advanced Maneuver** Swimming Snap
 
@@ -816,7 +816,7 @@ jaws,
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-tongue (reach 15 feet),
+tongue ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] 15 feet),
 **Damage** 1d4 bludgeoning
 
 **Str** +2
@@ -833,13 +833,13 @@ tongue (reach 15 feet),
 
 **Hit Points** 6
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** low-light vision
 
 **Speed** 20 feet, climb 20 feet, swim 25 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
 **Support Benefit** Your giant frog’s tongue darts into openings you create and sticks to opponents to disrupt their movements. Until the start of your next turn, whenever you successfully Strike a creature your giant frog threatens, that creature can’t use reactions triggered by your actions unless its level is higher than yours.
 
@@ -859,7 +859,7 @@ Your companion is a large wasp, hornet, or other stinging hymenopteran.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-stinger (finesse),
+stinger ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]),
 **Damage** 1d6 piercing plus poison
 
 **Str** +2
@@ -876,15 +876,15 @@ stinger (finesse),
 
 **Hit Points** 4
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** darkvision
 
 **Speed** 20 feet, fly 40 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
-**Support Benefit** Your wasp drones its wings, unnerving your enemies. Until the start of your next turn, if you hit and deal damage to a creature in your giant wasp’s reach, the creature becomes frightened 1.
+**Support Benefit** Your wasp drones its wings, unnerving your enemies. Until the start of your next turn, if you hit and deal damage to a creature in your giant wasp’s reach, the creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
 
 **Advanced Maneuver** Darting Stab
 
@@ -902,12 +902,12 @@ Your companion is a giraffe.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-hoof (agile),
+hoof ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 **Damage** 1d6 bludgeoning
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-neck (nonlethal, reach 10 feet),
+neck ([[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] 10 feet),
 **Damage** 1d4 bludgeoning
 
 **Str** +3
@@ -924,15 +924,15 @@ neck (nonlethal, reach 10 feet),
 
 **Hit Points** 8
 
-**Skill** Intimidation
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
 
-**Senses** low-light vision, scent (imprecise) 30 feet
+**Senses** low-light vision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]]) 30 feet
 
 **Speed** 35 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
-**Support Benefit** Your giraffe pushes against opponents with its long neck. While riding on your giraffe this turn, you do not need a hand free to Shove and any foe you successfully Shove moves 10 feet (15 feet on a critical success).
+**Support Benefit** Your giraffe pushes against opponents with its long neck. While riding on your giraffe this turn, you do not need a hand free to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]] and any foe you successfully Shove moves 10 feet (15 feet on a critical success).
 
 **Advanced Maneuver** Long Stomp
 
@@ -955,7 +955,7 @@ beak,
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-talon (agile),
+talon ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 **Damage** 1d6 slashing
 
 **Str** +3
@@ -972,15 +972,15 @@ talon (agile),
 
 **Hit Points** 8
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
-**Senses** darkvision, scent (imprecise) 30 feet
+**Senses** darkvision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]]) 30 feet
 
 **Speed** 25 feet, fly 60 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
-**Support Benefit** Your griffon adopts a noble pose, inspiring you to defy the horrors before you. Until the start of your next turn, you and your griffon gain a +2 circumstance bonus to saves against emotion effects.
+**Support Benefit** Your griffon adopts a noble pose, inspiring you to defy the horrors before you. Until the start of your next turn, you and your griffon gain a +2 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects.
 
 **Advanced Maneuver** Flying Strafe
 
@@ -1015,15 +1015,15 @@ tail,
 
 **Hit Points** 6
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
-**Senses** darkvision, scent (imprecise) 30 feet
+**Senses** darkvision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]]) 30 feet
 
 **Speed** 5 feet, swim 40 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
-**Support Benefit** Until the start of your next turn, if you’re mounted on your hippocampus and moved 10 feet or more on the action before a melee Strike, add a circumstance bonus to damage for that Strike equal to twice the number of weapon damage dice. If your weapon already has the jousting weapon trait, increase the trait’s damage bonus by 2 per die instead.
+**Support Benefit** Until the start of your next turn, if you’re mounted on your hippocampus and moved 10 feet or more on the action before a melee Strike, add a circumstance bonus to damage for that Strike equal to twice the number of weapon damage dice. If your weapon already has the [[srd/pf2e/compendium/rules-elements/traits/player-core/jousting|jousting]] weapon trait, increase the trait’s damage bonus by 2 per die instead.
 
 **Advanced Maneuver** Sudden Retreat
 
@@ -1046,7 +1046,7 @@ beak,
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-talon (agile),
+talon ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 **Damage** 1d4 slashing
 
 **Str** +2
@@ -1063,15 +1063,15 @@ talon (agile),
 
 **Hit Points** 8
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
-**Senses** darkvision, scent (imprecise) 30 feet
+**Senses** darkvision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]]) 30 feet
 
 **Speed** 30 feet, fly 60 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
-**Support Benefit** Until the start of your next turn, if you’re mounted on your hippogriff and moved 10 feet or more on the action before a melee Strike, add a circumstance bonus to damage for that Strike equal to twice the number of weapon damage dice. If your weapon already has the jousting weapon trait, increase the trait’s damage bonus by 2 per die instead.
+**Support Benefit** Until the start of your next turn, if you’re mounted on your hippogriff and moved 10 feet or more on the action before a melee Strike, add a circumstance bonus to damage for that Strike equal to twice the number of weapon damage dice. If your weapon already has the [[srd/pf2e/compendium/rules-elements/traits/player-core/jousting|jousting]] weapon trait, increase the trait’s damage bonus by 2 per die instead.
 
 **Advanced Maneuver** Aerial Retreat
 
@@ -1089,7 +1089,7 @@ Your companion is a horse, pony, or similar equine.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-hoof (Agile),
+hoof ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]),
 **Damage** 1d6 bludgeoning
 
 **Str** +3
@@ -1106,15 +1106,15 @@ hoof (Agile),
 
 **Hit Points** 8
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** low-light vision, scent (imprecise, 30 feet)
 
 **Speed** 40 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
-**Support Benefit** Until the start of your next turn, if you're mounted on your horse and moved 10 feet or more on the action before a melee Strike, add a circumstance bonus to damage for that Strike equal to twice the number of weapon damage dice. If your weapon already has the jousting weapon trait, increase the trait's damage bonus by 2 per die instead.
+**Support Benefit** Until the start of your next turn, if you're mounted on your horse and moved 10 feet or more on the action before a melee Strike, add a circumstance bonus to damage for that Strike equal to twice the number of weapon damage dice. If your weapon already has the [[srd/pf2e/compendium/rules-elements/traits/player-core/jousting|jousting]] weapon trait, increase the trait's damage bonus by 2 per die instead.
 
 **Advanced Maneuver** Gallop
 
@@ -1132,7 +1132,7 @@ Your companion is a kangaroo or wallaby.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-foot (agile),
+foot ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 **Damage** 1d6 bludgeoning
 
 **Str** +3
@@ -1149,15 +1149,15 @@ foot (agile),
 
 **Hit Points** 6
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** low-light vision
 
 **Speed** 30 feet
 
-**Special** When the kangaroo Leaps horizontally, it travels up to 25 feet.
+**Special** When the kangaroo [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] horizontally, it travels up to 25 feet.
 
-**Support Benefit** Your kangaroo bounces and shifts back and forth. Until the start of your next turn, it counts as being in its space or an empty space of your choice within 5 feet when determining whether you and your companion are flanking; you can choose a different space for each of your attacks.
+**Support Benefit** Your kangaroo bounces and shifts back and forth. Until the start of your next turn, it counts as being in its space or an empty space of your choice within 5 feet when determining whether you and your companion are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanking]]; you can choose a different space for each of your attacks.
 
 **Advanced Maneuver** Spring Kick
 
@@ -1194,7 +1194,7 @@ spike,
 
 **Hit Points** 8
 
-**Skill** Intimidation
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
 
 **Senses** darkvision
 
@@ -1225,7 +1225,7 @@ jaws,
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-claw (agile),
+claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 **Damage** 1d6 slashing
 
 **Str** +3
@@ -1242,15 +1242,15 @@ claw (agile),
 
 **Hit Points** 8
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
-**Senses** low-light vision, scent (imprecise) 30 feet
+**Senses** low-light vision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]]) 30 feet
 
 **Speed** 25 feet, burrow 20 feet
 
  
 
-**Support Benefit** Your mole leaps into the ground and burrows beneath your foes, disturbing their footing. Until the end of your next turn, if you hit and damage a creature adjacent to your mole, that creature is clumsy 1 until it moves from its current position.
+**Support Benefit** Your mole leaps into the ground and burrows beneath your foes, disturbing their footing. Until the end of your next turn, if you hit and damage a creature adjacent to your mole, that creature is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 until it moves from its current position.
 
 **Advanced Maneuver** Burrowing Ambush
 
@@ -1268,12 +1268,12 @@ Your companion is a mongoose or meerkat.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-jaws (finesse),
+jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]),
 **Damage** 1d6 piercing
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-claw (agile, finesse),
+claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]),
 **Damage** 1d4 slashing
 
 **Str** +2
@@ -1290,15 +1290,15 @@ claw (agile, finesse),
 
 **Hit Points** 4
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
-**Senses** low-light vision, scent (imprecise) 30 feet
+**Senses** low-light vision, scent ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise]]) 30 feet
 
 **Speed** 25 feet, burrow 10 feet
 
  
 
-**Support Benefit** The mongoose bounds to your side, alert and at the ready. Until the end of your next turn, creatures adjacent to the mongoose cannot flank you.
+**Support Benefit** The mongoose bounds to your side, alert and at the ready. Until the end of your next turn, creatures adjacent to the mongoose cannot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flank]] you.
 
 **Advanced Maneuver** Liberating Bite
 
@@ -1316,7 +1316,7 @@ Your companion is an alchemical ooze that extends pseudopods to move around.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-pseudopod (Agile),
+pseudopod ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]),
 **Damage** 1d6 bludgeoning
 
 **Str** +3
@@ -1333,7 +1333,7 @@ pseudopod (Agile),
 
 **Hit Points** 6
 
-**Skill** Athletics
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
 
 **Senses** **Motion Sense** Your oozeform chair can sense nearby creatures through vibration in the air. This is an imprecise sense with a range of 30 feet.
 
@@ -1376,15 +1376,15 @@ jaws,
 
 **Hit Points** 8
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
-**Senses** echolocation 30 feet (the orca can use hearing as a precise sense within this range while underwater)
+**Senses** echolocation 30 feet (the orca can use hearing as a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Precise Senses|precise sense]] within this range while underwater)
 
 **Speed** 5 feet, swim 40 feet
 
-**Special** mount; the orca can hold its breath for 20 minutes.
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]; the orca can hold its breath for 20 minutes.
 
-**Support Benefit** Your orca attempts to drag down unwary swimmers. Until the start of your next turn, each time you hit a swimming creature in the orca’s reach, the target is pulled 5 feet down into the water. This is forced movement.
+**Support Benefit** Your orca attempts to drag down unwary swimmers. Until the start of your next turn, each time you hit a swimming creature in the orca’s reach, the target is pulled 5 feet down into the water. This is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Forced Movement|forced movement]].
 
 **Advanced Maneuver** Breach
 
@@ -1394,7 +1394,7 @@ jaws,
 
 `Dragon`  `Minion`  `Uncommon`
 
-Your companion is a swift, flightless drake with limited intelligence, less vicious than most drakes but fiercely loyal to you. A riding drake has the dragon trait instead of the animal trait, but it otherwise functions normally as an animal companion.
+Your companion is a swift, flightless drake with limited intelligence, less vicious than most drakes but fiercely loyal to you. A riding drake has the [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragon]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait, but it otherwise functions normally as an animal companion.
 
  
 
@@ -1424,13 +1424,13 @@ tail,
 
 **Hit Points** 8
 
-**Skill** Intimidation
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
 
 **Senses** darkvision
 
 **Speed** 45 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
 **Support Benefit** Your drake snorts fire in your foes' faces. Until the start of your next turn, each time you Strike while riding the drake and hit a creature in the drake's reach, the creature takes 1d4 fire damage from the drake. If your drake is nimble or savage, the fire damage increases to 2d4.
 
@@ -1450,12 +1450,12 @@ Your companion is a massive hairy spider.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-fangs (finesse),
+fangs ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]),
 **Damage** 1d6 piercing plus poison
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-leg (agile, finesse),
+leg ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]),
 **Damage** 1d4 piercing
 
 **Str** +2
@@ -1472,15 +1472,15 @@ leg (agile, finesse),
 
 **Hit Points** 4
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** darkvision
 
 **Speed** 30 feet, climb 30 feet
 
-**Special** mount at 8th level; your riding tarantula’s fangs attack deals an additional 1d4 poison damage or 2d4 poison damage if the riding tarantula is a specialized companion
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]] at 8th level; your riding tarantula’s fangs attack deals an additional 1d4 poison damage or 2d4 poison damage if the riding tarantula is a specialized companion
 
-**Support Benefit** Your riding tarantula flicks urticating hairs at your foe, disrupting their focus. Until the start of your next turn, if you hit and deal damage to a creature your riding tarantula threatens, the target must succeed at a DC 5 flat check whenever it takes a concentrate action or that action is lost.
+**Support Benefit** Your riding tarantula flicks urticating hairs at your foe, disrupting their focus. Until the start of your next turn, if you hit and deal damage to a creature your riding tarantula threatens, the target must succeed at a DC 5 flat check whenever it takes a [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] action or that action is lost.
 
 **Advanced Maneuver** Hair Barrage
 
@@ -1503,7 +1503,7 @@ beak,
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-talon (agile),
+talon ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 **Damage** 1d8 slashing plus Grab
 
 **Str** +3
@@ -1520,13 +1520,13 @@ talon (agile),
 
 **Hit Points** 8
 
-**Skill** Intimidation
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]]
 
 **Senses** low-light vision
 
 **Speed** 15 feet, fly 60 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
 **Support Benefit** Your roc beats its wings, creating a powerful downdraft. Until the start of your next turn, your Strikes that damage a creature that your roc threatens push the target 5 feet away from your roc.
 
@@ -1563,7 +1563,7 @@ vine (reach 10 feet),
 
 **Hit Points** 8
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** low-light vision
 
@@ -1611,7 +1611,7 @@ jaws,
 
 **Hit Points** 6
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** darkvision
 
@@ -1642,7 +1642,7 @@ stinger,
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-pincer (Agile),
+pincer ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]),
 **Damage** 1d6 slashing
 
 **Str** +3
@@ -1659,7 +1659,7 @@ pincer (Agile),
 
 **Hit Points** 6
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** darkvision
 
@@ -1702,13 +1702,13 @@ jaws,
 
 **Hit Points** 6
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** blood scent, scent (imprecise, 60 feet)
 
 **Speed** swim 40 feet
 
-**Special** The shark has the aquatic trait. Its blood scent enables it to smell blood in the water from up to 1 mile away.
+**Special** The shark has the [[srd/pf2e/compendium/rules-elements/traits/player-core/aquatic|aquatic]] trait. Its blood scent enables it to smell blood in the water from up to 1 mile away.
 
 **Support Benefit** When your shark senses blood, it tears into your enemies. Until the start of your next turn, each time you hit a creature in the shark's reach with a Strike and deal slashing or piercing damage, the creature takes 1d8 slashing damage from the shark. If your shark is nimble or savage, the slashing damage increases to 2d8.
 
@@ -1720,9 +1720,9 @@ jaws,
 
 `Beast`  `Minion`  `Uncommon`
 
-Your companion is a shotalashu, a telepathic creature originally from the planet of Castrovel but now introduced in small numbers to Golarion. Acquiring a shotalashu typically requires that the prospective rider bond with it first by spending a week of time with it and succeeding on a DC 21 Occultism check to establish a telepathic link. A rider who fails the check can attempt it again after another week with the shotalashu for each attempt. Any creature with telepathic capabilities, such as telepathy, touch telepathy, empathic sense, or the ability to cast spells such as _telepathy_, gains a +4 circumstance bonus to this check. The GM is the final arbiter of whether a given ability counts as telepathy for the purposes of forming a link. This link remains, and neither can form a new link until one member dies. The shock of a bonded partner dying leaves the survivor stupefied 2 for 24 hours and prevents them from forming a new link for at least a month.
+Your companion is a [[srd/pf2e/bestiary/howl-of-the-wild/beast/shotalashu|shotalashu]], a telepathic creature originally from the planet of Castrovel but now introduced in small numbers to Golarion. Acquiring a shotalashu typically requires that the prospective rider bond with it first by spending a week of time with it and succeeding on a DC 21 [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] check to establish a telepathic link. A rider who fails the check can attempt it again after another week with the shotalashu for each attempt. Any creature with telepathic capabilities, such as telepathy, touch telepathy, empathic sense, or the ability to cast spells such as [[srd/pf2e/compendium/spells/rank-4/telepathy|_telepathy_]], gains a +4 circumstance bonus to this check. The GM is the final arbiter of whether a given ability counts as telepathy for the purposes of forming a link. This link remains, and neither can form a new link until one member dies. The shock of a bonded partner dying leaves the survivor [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 for 24 hours and prevents them from forming a new link for at least a month.
 
-A shotalashu has the beast trait instead of the animal trait but otherwise functions normally as an animal companion.
+A shotalashu has the [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait but otherwise functions normally as an animal companion.
 
  
 
@@ -1730,7 +1730,7 @@ A shotalashu has the beast trait instead of the animal trait but otherwise funct
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-claw (agile),
+claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]),
 **Damage** 1d6 slashing
 
 **Str** +2
@@ -1747,13 +1747,13 @@ claw (agile),
 
 **Hit Points** 8
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** darkvision
 
 **Speed** 40 feet
 
-**Special** mount
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]
 
 **Support Benefit** The shotalashu telepathically assails your enemies when you create an opening. Until the start of your next turn, each time you hit a creature in the shotalashu's reach with a Strike, the creature takes 1d6 mental damage from the shotalashu. If your shotalashu is nimble or savage, the mental damage increases to 2d6.
 
@@ -1773,7 +1773,7 @@ Your companion is a constrictor snake, such as a boa or python.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-jaws (Finesse),
+jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d8 piercing
 
 **Str** +3
@@ -1790,7 +1790,7 @@ jaws (Finesse),
 
 **Hit Points** 6
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** low-light vision, scent (imprecise, 30 feet)
 
@@ -1808,7 +1808,7 @@ jaws (Finesse),
 
 `Fungus`  `Minion`  `Uncommon`
 
-Your companion is a wide-capped mushroom capable of floating on air currents. A loop at the base of the stem acts as a stirrup for riding. An umbrella mushroom has the fungus trait instead of the animal trait, but it otherwise functions normally as an animal companion.
+Your companion is a wide-capped mushroom capable of floating on air currents. A loop at the base of the stem acts as a stirrup for riding. An umbrella mushroom has the [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungus]] trait instead of the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait, but it otherwise functions normally as an animal companion.
 
  
 
@@ -1833,15 +1833,15 @@ stalk,
 
 **Hit Points** 6
 
-**Skill** Stealth
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
 
 **Senses** low-light vision
 
 **Speed** 15 feet, fly 30 feet
 
-**Special** mount; when you use Command an Animal to command your umbrella mushroom, it gains a reaction it can only use for its Float advanced maneuver
+**Special** [[srd/pf2e/books/player-core/chapter-3-classes/companions#Riding Animal Companions|mount]]; when you use [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] to command your umbrella mushroom, it gains a reaction it can only use for its Float advanced maneuver
 
-**Support Benefit** Your umbrella mushroom exudes sense dulling spores when you create an opening. Until the start of your next turn, your Strikes that damage a creature within your umbrella mushroom's reach becomes stupefied 1 for 1 round. This effect has the poison trait.
+**Support Benefit** Your umbrella mushroom exudes sense dulling spores when you create an opening. Until the start of your next turn, your Strikes that damage a creature within your umbrella mushroom's reach becomes [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 for 1 round. This effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] trait.
 
 **Advanced Maneuver** Float
 
@@ -1878,7 +1878,7 @@ wave,
 
 **Hit Points** 6
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** darkvision
 
@@ -1904,7 +1904,7 @@ Your companion is a wolf, dog, or other canine.
 
 **Melee**
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
-jaws (Finesse),
+jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]),
 **Damage** 1d8 piercing
 
 **Str** +2
@@ -1921,7 +1921,7 @@ jaws (Finesse),
 
 **Hit Points** 6
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** low-light vision, scent (imprecise, 30 feet)
 
@@ -1941,7 +1941,7 @@ jaws (Finesse),
 
 _**PFS Note** Druids of the specifically listed orders may also take the other elementals (e.g. a wave order druid may take a water elemental companion)._
 
-Your companion is a wood elemental, such as a moss sloth.
+Your companion is a wood elemental, such as a [[srd/pf2e/bestiary/rage-of-elements/elemental/moss-sloth|moss sloth]].
 
 **Access** You are a member of the leaf order.
 
@@ -1966,7 +1966,7 @@ branch,
 
 **Hit Points** 8
 
-**Skill** Survival
+**Skill** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** darkvision
 

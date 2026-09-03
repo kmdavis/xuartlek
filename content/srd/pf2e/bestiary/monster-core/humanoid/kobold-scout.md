@@ -29,10 +29,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision"
-languages: "Common, Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Crafting +3, Nature +6, Stealth +7, Survival +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +3, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
 abilityMods: [0, 4, 1, 0, 3, 1]
 abilities_top:
   - name: "Items"
@@ -40,7 +40,7 @@ abilities_top:
 ac: 16
 armorclass:
   - name: "AC"
-    desc: "16; __Fort__: +5; __Ref__: +9; __Will__: +6 +1 circumstance to all defenses vs. traps"
+    desc: "16; __Fort__: +5; __Ref__: +9; __Will__: +6 +1 circumstance to all defenses vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/trap|traps]]"
 hp: 16
 health:
   - name: "HP"
@@ -48,12 +48,12 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +9 (Agile, Finesse, versatile S) __Damage__ 1d6 piercing"
+    desc: "⬻ shortsword +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6 piercing"
   - name: "Ranged"
     desc: "⬻ crossbow +9 (range increment 120 feet, reload 1) __Damage__ 1d8 piercing"
 abilities_bot:
   - name: "Construct Trap"
-    desc: "⬽ (Manipulate) The kobold scout creates a rudimentary trap on any square adjacent to it. This must be on a surface, such as a floor, wall, or ceiling. The trap activates the next time a creature moves adjacent to it. The creature takes 1d6 piercing damage and 1 persistent bleed damage with a DC 16 basic Reflex save. The trap is destroyed when activated or after 1 hour, whichever comes first. The scout typically carries enough raw materials to make one trap."
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The kobold scout creates a rudimentary trap on any square adjacent to it. This must be on a surface, such as a floor, wall, or ceiling. The trap activates the next time a creature moves adjacent to it. The creature takes 1d6 piercing damage and 1 persistent bleed damage with a DC 16 basic Reflex save. The trap is destroyed when activated or after 1 hour, whichever comes first. The scout typically carries enough raw materials to make one trap."
   - name: "Scamper"
     desc: "⬻"
   - name: "Requirements"
@@ -61,7 +61,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The kobold scout Strides up to their Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. They must end this movement in a space that's not adjacent to any enemy."
   - name: "Sneak Attack"
-    desc: "The kobold scout deals an extra 1d6 precision damage to off-guard creatures."
+    desc: "The kobold scout deals an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_Monster Core_, page 210."
 ```
 

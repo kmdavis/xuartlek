@@ -18,8 +18,8 @@ source: "Impossible Magic"
 
 - **Price**: 400 gp
 - **Ammunition**: any
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Malevolent arcane energy leaks from within _escalation ammunition_, sizzling with barely restrained contempt. When activated _escalation ammunition_ hits a target, the target must attempt a DC 30 Fortitude save. On a failure, the target rolls the next saving throw it attempts within the next minute against a spell or magical effect twice and takes the worse result.
+Malevolent arcane energy leaks from within _escalation ammunition_, sizzling with barely [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] contempt. When activated _escalation ammunition_ hits a target, the target must attempt a DC 30 Fortitude save. On a failure, the target rolls the next saving throw it attempts within the next minute against a spell or [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] effect twice and takes the worse result.
 
 *Source: Impossible Magic p. 212*

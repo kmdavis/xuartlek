@@ -20,6 +20,6 @@ source: "Impossible Magic"
 - **Price**: 700 gp
 - **Usage**: affixed to a shield
 
-This talisman takes the form of an oddly textured piece of parchment, depicting a spiraling labyrinth around a central point. When you activate the labyrinth, part of the weapon or arrow striking you seems to vanish into the paper and reemerge at an unexpected angle or impossible distance. Increase the shield’s Hardness by 10 for the Shield Block. The amount of damage your shield blocks is reflected onto a target you choose within 15 feet with a DC 32 basic Reflex save.
+This talisman takes the form of an oddly textured piece of parchment, depicting a spiraling labyrinth around a central point. When you activate the labyrinth, part of the weapon or arrow striking you seems to vanish into the paper and reemerge at an unexpected angle or impossible distance. Increase the shield’s [[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]] by 10 for the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]]. The amount of damage your shield blocks is reflected onto a target you choose within 15 feet with a DC 32 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save.
 
 *Source: Impossible Magic p. 225*

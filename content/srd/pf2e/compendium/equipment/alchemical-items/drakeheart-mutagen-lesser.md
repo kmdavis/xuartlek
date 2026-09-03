@@ -20,7 +20,7 @@ source: "Player Core 2"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Your skin grows scales like a drake, and your eyesight become sharp and your pupils slitted, but your mind and reflexes slow. 
 
@@ -28,7 +28,7 @@ Your skin grows scales like a drake, and your eyesight become sharp and your pup
 
 **Activate—Final Surge** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ; **Effect** You Stride twice. The drakeheart mutagen's duration ends. 
 
-**Drawback** You take a –1 penalty to Will saves, Reflex saves, and all skill checks to Recall Knowledge.
+**Drawback** You take a –1 penalty to Will saves, Reflex saves, and all skill checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]].
 
 ### Drakeheart Mutagen (Lesser)
 

@@ -33,25 +33,25 @@ perception:
     desc: "Perception +17; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +26"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +26"
 abilityMods: [7, -1, 4, -5, 0, -5]
 abilities_top:
   - name: "Serpentstone Breath"
-    desc: "⬺ (earth, incapacitation, primal) The bulwark breathes a 60- foot cone of green gas. Each creature in the area must attempt a DC 34 Fortitude save. The bulwark can't use Serpentstone Breath again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The bulwark breathes a 60- foot cone of green gas. Each creature in the area must attempt a DC 34 Fortitude save. The bulwark can't use Serpentstone Breath again for 1d4 rounds."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
-    desc: "The creature's body hardens, causing it to become slowed 1 for 1 round."
+    desc: "The creature's body hardens, causing it to become [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] for 1 round."
   - name: "Failure"
-    desc: "The creature becomes petrified for 1 minute. It can attempt a new save at the end of each of its turns."
+    desc: "The creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]] for 1 minute. It can attempt a new save at the end of each of its turns."
   - name: "Critical Failure"
     desc: "The creature becomes petrified permanently."
   - name: "Recall Knowledge - Construct"
-    desc: "(Arcana, Crafting): DC 30"
+    desc: "([[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]): DC 30"
   - name: "Unspecific Lore"
     desc: ": DC 28"
   - name: "Specific Lore"
-    desc: ": DC 25 Stone Bulwark Uncommon Large Construct Mindless"
+    desc: ": DC 25 [[srd/pf2e/bestiary/monster-core/construct/stone-bulwark|Stone Bulwark]] Uncommon Large Construct Mindless"
 ac: 30
 armorclass:
   - name: "AC"
@@ -59,19 +59,19 @@ armorclass:
 hp: 175
 health:
   - name: "HP"
-    desc: "175; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; __Resistances__ physical 10 (except adamantine), spells 10 (except cold, earth, or water)"
+    desc: "175; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Resistances__ physical 10 (except adamantine), spells 10 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]])"
 abilities_mid:
   - name: "Statuary Aura"
-    desc: "(arcane, aura, earth) 20 feet. Rocks of marble magically arise from the ground in the aura. They protect the bulwark's allies, giving each of them standard cover. These stones can be used for Throw Rock. This aura automatically activates at the start of the stone bulwark's first turn in combat and deactivates at the end of combat."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]]) 20 feet. Rocks of marble magically arise from the ground in the aura. They protect the bulwark's allies, giving each of them standard cover. These stones can be used for Throw Rock. This aura automatically activates at the start of the stone bulwark's first turn in combat and deactivates at the end of combat."
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +24 (Magical, reach 10 feet) __Damage__ 2d10+13 bludgeoning and binding stone"
+    desc: "⬻ fist +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+13 bludgeoning and binding stone"
   - name: "Ranged"
-    desc: "⬻ rock +22 (Brutal, Magical, range increment 120 feet) __Damage__ 2d6+11 bludgeoning and binding stone"
+    desc: "⬻ rock +22 (Brutal, [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 120 feet) __Damage__ 2d6+11 bludgeoning and binding stone"
 abilities_bot:
   - name: "Binding Stone"
-    desc: "(Arcane, Earth) Any creature hit by the stone bulwark's fist or rock Strike is affected by a DC 30 _earthbind_ spell."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]]) Any creature hit by the stone bulwark's fist or rock Strike is affected by a DC 30 [[srd/pf2e/compendium/spells/rank-3/earthbind|_earthbind_]] spell."
   - name: "Inexorable March"
     desc: "⬻ The stone bulwark Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 34 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise it is damaged as if hit by the construct's fist."
   - name: "Throw Rock"

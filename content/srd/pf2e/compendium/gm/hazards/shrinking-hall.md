@@ -21,7 +21,7 @@ source: "Dark Archives (Remastered)"
 DC 18
 
 **Disable**
-DC 21 Thievery (trained) to jam the scales built into the floor
+DC 21 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) to jam the scales built into the floor
 
 **Shrink** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** 100 pounds of weight or more is placed on the hallway's floor; **Effect** The hall's last 40 feet of walls angle inward, causing the hall to shrink and contract down, reaching 6 inches in height and width at the hall's far end and completely blocking access to the hall's exit door for anything but a Tiny creature Squeezing.
 

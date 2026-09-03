@@ -18,7 +18,7 @@ source: "Howl of the Wild"
 
 - **Usage**: implanted
 
-A beast's horn or horns have been grafted onto your skull. You gain a horn unarmed attack that deals 1d8 piercing damage. This horn is in the brawling group.
+A beast's horn or horns have been grafted onto your skull. You gain a horn [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d8 piercing damage. This horn is in the brawling group.
 
 ### Piercing Horn
 
@@ -30,6 +30,6 @@ A beast's horn or horns have been grafted onto your skull. You gain a horn unarm
 
 ---
 
-Your horn unarmed attack gains the forceful and shove traits.
+Your horn unarmed attack gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|forceful]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]] traits.
 
 *Source: Howl of the Wild p. 98*

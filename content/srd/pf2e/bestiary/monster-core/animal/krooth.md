@@ -31,7 +31,7 @@ perception:
     desc: "Perception +16; low-light vision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +18, Stealth +18, Survival +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +17"
 abilityMods: [6, 3, 6, -4, 2, 0]
 ac: 26
 armorclass:
@@ -49,20 +49,20 @@ abilities_mid:
 speed: "40 feet, swim 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +20 (deadly d10, Poison, reach 10 feet) __Damage__ 2d12+9 piercing plus Poison Tooth"
+    desc: "⬻ jaws +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+9 piercing plus Poison Tooth"
   - name: "Melee"
-    desc: "⬻ claw +20 (Agile) __Damage__ 2d8+9 slashing"
+    desc: "⬻ claw +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d8+9 slashing"
   - name: "Melee"
-    desc: "⬻ tail +20 (reach 15 feet) __Damage__ 2d8+9 piercing"
+    desc: "⬻ tail +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+9 piercing"
 abilities_bot:
   - name: "Aquatic Ambush"
     desc: "⬻"
   - name: "Poison Tooth"
-    desc: "⬻ (Poison)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Requirements"
     desc: "The krooth damaged a creature with its jaws on its most recent action this turn"
   - name: "Effect"
-    desc: "The krooth snaps off one of its teeth in the creature it hit. The creature takes 1d6 persistent bleed damage and is drained 1. Neither can be healed while the tooth remains. Removing the tooth safely requires a successful DC 26 check to Administer First Aid. Instead of ending bleeding or stabilizing, this removes the tooth and the drained condition, but it doesn't automatically end the bleed damage. Krooth Guts In addition to naturalists, the strange enzymes and other chemicals found in the internal organs of male krooths, particularly the liver, pancreas, and kidneys, are of great value to alchemists who seek to concoct elixirs and potions with transmutation effects. A single male krooth's organs, properly harvested and preserved, can be sold to an interested alchemist or naturalist for as much as 80 gp."
+    desc: "The krooth snaps off one of its teeth in the creature it hit. The creature takes 1d6 persistent bleed damage and is [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]]. Neither can be healed while the tooth remains. Removing the tooth safely requires a successful DC 26 check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Administer First Aid|Administer First Aid]]. Instead of ending bleeding or stabilizing, this removes the tooth and the drained condition, but it doesn't automatically end the bleed damage. Krooth Guts In addition to naturalists, the strange enzymes and other chemicals found in the internal organs of male krooths, particularly the liver, pancreas, and kidneys, are of great value to alchemists who seek to concoct elixirs and potions with transmutation effects. A single male krooth's organs, properly harvested and preserved, can be sold to an interested alchemist or naturalist for as much as 80 gp."
 sourcebook: "_Monster Core_, page 213."
 ```
 

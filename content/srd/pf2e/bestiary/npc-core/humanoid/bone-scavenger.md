@@ -31,10 +31,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; low-light vision"
-languages: "Common, Kholo"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Athletics +2, Deception +4, Stealth +6, Survival +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +2, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"
 abilityMods: [2, 3, 1, -1, 1, 0]
 abilities_top:
   - name: "Items"
@@ -57,11 +57,11 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +6 (Agile, Finesse, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
   - name: "Melee"
     desc: "⬻ jaws +5 __Damage__ 1d6+2 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +6 (Agile, Finesse, thrown 10 feet, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
 abilities_bot:
   - name: "Rugged Travel"
     desc: "A kholo ignores the first square of difficult terrain they move into each time they Step or Stride. Ant Kholos The bone scavenger belongs to the ant kholo heritage, smaller and with larger ears than other kholos. You can change this NPC to a different kholo heritage by making it Medium, and you can conversely change a different kholo NPC to an ant kholo by making their size Small."

@@ -13,6 +13,6 @@ source: "Dark Archives (Remastered)"
 
 `Psychic`
 
-This indicates abilities from the psychic class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/psychic|psychic]] class.
 
 *Source: Dark Archives (Remastered) p. 221*

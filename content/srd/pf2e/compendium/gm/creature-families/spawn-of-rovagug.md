@@ -20,13 +20,13 @@ Though the destroyer god Rovagug lies trapped in the core of the planet like a f
 
  Spawn of Rovagug are diverse in shape and destructive capabilities, but all have the following abilities.
 
- **Absolute Regeneration** This functions as regeneration, though it requires very specific actions to be deactivated. A Spawn of Rovagug's regeneration is powerful enough to revive it even if slain by a death effect. If the Spawn fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 Hit Point. A Spawn can still be banished, imprisoned, or transported away as a means to save a region or kept in a state of dying by an effect that deals constant damage.
+ **Absolute Regeneration** This functions as regeneration, though it requires very specific actions to be deactivated. A Spawn of Rovagug's regeneration is powerful enough to revive it even if slain by a [[srd/pf2e/compendium/character/domains#Death|death]] effect. If the Spawn fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 Hit Point. A Spawn can still be banished, imprisoned, or transported away as a means to save a region or kept in a state of dying by an effect that deals constant damage.
 
- **Slumbering Armageddon** Spawn of Rovagug can sleep for centuries in a regenerative hibernation. While slumbering, a Spawn doesn't need to eat, drink, or even breathe, and its resistances double in value. It can't be located by detection, revelation, or scrying effects, and for any saving throw, it uses the outcome one degree of success better than the result. With no outlet while the Spawn slumbers, its massive destructive energies turn outward and infect its surroundings, causing natural disasters of a type matching the Spawn to occur more frequently and with greater severity in a 1-mile emanation from the Spawn's resting place, increasing in radius by roughly a mile every decade the Spawn slumbers.
+ **Slumbering Armageddon** Spawn of Rovagug can sleep for centuries in a regenerative hibernation. While slumbering, a Spawn doesn't need to eat, drink, or even breathe, and its resistances double in value. It can't be located by [[srd/pf2e/compendium/rules-elements/traits/player-core/detection|detection]], [[srd/pf2e/compendium/rules-elements/traits/player-core/revelation|revelation]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/scrying|scrying]] effects, and for any saving throw, it uses the outcome one degree of success better than the result. With no outlet while the Spawn slumbers, its massive destructive energies turn outward and infect its surroundings, causing natural disasters of a type matching the Spawn to occur more frequently and with greater severity in a 1-mile emanation from the Spawn's resting place, increasing in radius by roughly a mile every decade the Spawn slumbers.
 
 ### Members
 
-Sorvuth-Ka (Creature 24), Verex-That-Was (Creature 24), Volnagur (Creature 22)
+[[srd/pf2e/bestiary/monster-core-2/beast/sorvuth-ka|Sorvuth-Ka]] (Creature 24), [[srd/pf2e/bestiary/war-of-immortals/aberration/verex-that-was|Verex-That-Was]] (Creature 24), [[srd/pf2e/bestiary/monster-core-2/beast/volnagur|Volnagur]] (Creature 22)
 
 ### Lesser Spawn of Rovagug
 
@@ -42,6 +42,6 @@ Defeating (or even just surviving) a Spawn of Rovagug should be an important eve
 
 ### Verex-That-Was
 
-Not even gods are immune to Rovagug’s fell influence. While searching for means of greater power, the orc god Verex the Despoiler was caught by the Dead Vault’s corrupting energies and was nearly destroyed in his escape. However, when a drop of Gorum’s blood fell on his broken body, he was transformed into a horrible, twisted Spawn of Rovagug. Read more about this mythic threat in _Pathfinder War of Immortals_.
+Not even gods are immune to Rovagug’s fell influence. While searching for means of greater power, the orc god [[srd/pf2e/bestiary/war-of-immortals/aberration/verex-that-was|Verex]] the Despoiler was caught by the Dead Vault’s corrupting energies and was nearly destroyed in his escape. However, when a drop of Gorum’s blood fell on his broken body, he was transformed into a horrible, twisted Spawn of Rovagug. Read more about this mythic threat in _Pathfinder War of Immortals_.
 
 *Source: Monster Core 2 p. 298*

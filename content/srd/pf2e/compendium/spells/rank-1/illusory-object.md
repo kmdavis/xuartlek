@@ -28,7 +28,7 @@ You create an illusory visual image of a stationary object. The entire image mus
  Any creature that touches the image or uses the Seek action to examine it can attempt to disbelieve your illusion.
 
 ---
-**Heightened (2nd)** Your image makes appropriate sounds, generates normal smells, and feels right to the touch. The spell gains the auditory and olfactory traits. The duration increases to 1 hour.
+**Heightened (2nd)** Your image makes appropriate sounds, generates normal smells, and feels right to the touch. The spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]] traits. The duration increases to 1 hour.
 
 **Heightened (5th)** As the 2nd-rank version, but the duration is unlimited.
 

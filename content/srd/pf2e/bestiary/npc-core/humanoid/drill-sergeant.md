@@ -29,14 +29,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +18, Intimidation +20, Warfare Lore +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +20, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +18"
 abilityMods: [4, 3, 2, 2, 2, 4]
 abilities_top:
   - name: "Items"
-    desc: "Chain Shirt, Javelin (6), _+1 striking longsword_"
+    desc: "Chain Shirt, Javelin (6), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_"
 ac: 25
 armorclass:
   - name: "AC"
@@ -47,26 +47,26 @@ health:
     desc: "120"
 abilities_mid:
   - name: "Commanding Aura"
-    desc: "(aura, emotion, mental, visual) 60 feet. An ally that starts its turn in the aura gains 8 temporary Hit Points. These last until the start of the creature's next turn. __You Don't Have My Permission to Die!__ ⬲ (auditory, emotion, fear, linguistic, mental)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) 60 feet. An ally that starts its turn in the aura gains 8 temporary Hit Points. These last until the start of the creature's next turn. __You Don't Have My Permission to Die!__ ⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
   - name: "Trigger"
     desc: "An allied creature within 30 feet would be reduced to 0 Hit Points"
   - name: "Effect"
-    desc: "With a stern rebuke, the drill sergeant berates the target for their failure. The creature avoids being knocked out and remains at 1 HP. The creature is then temporarily immune for 24 hours."
+    desc: "With a stern rebuke, the drill sergeant berates the target for their failure. The creature avoids being [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|knocked out]] and remains at 1 HP. The creature is then temporarily immune for 24 hours."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _longsword_ +21 (Magical, versatile P) __Damage__ 2d8+12 slashing"
+    desc: "⬻ _longsword_ +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 2d8+12 slashing"
   - name: "Melee"
-    desc: "⬻ fist +20 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+12 bludgeoning"
+    desc: "⬻ fist +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+12 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ javelin +19 (thrown 30 feet) __Damage__ 1d6+12 piercing"
+    desc: "⬻ javelin +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 1d6+12 piercing"
 abilities_bot:
   - name: "Chastising Enforcement"
-    desc: "⬻ (Auditory, Emotion, Linguistic, Mental) The drill sergeant exhorts a faltering comrade with a stern word and attempts an Intimidation check against the Will DC of one ally within 30 feet. On a success, the target's frightened condition is reduced by 2 and the drill sergeant can attempt to counteract one mental effect that ally is suffering from with a +18 counteract modifier. On a critical success, the drill sergeant also reduces the frightened condition of each other ally in a 10-foot emanation around the target by 1. __Keep Up With Me!__ ⬻ (Auditory, Emotion, Linguistic, Mental)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The drill sergeant exhorts a faltering comrade with a stern word and attempts an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against the Will DC of one ally within 30 feet. On a success, the target's [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition is reduced by 2 and the drill sergeant can attempt to counteract one [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect that ally is suffering from with a +18 counteract modifier. On a critical success, the drill sergeant also reduces the frightened condition of each other ally in a 10-foot emanation around the target by 1. __Keep Up With Me!__ ⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]])"
   - name: "Requirements"
     desc: "The drill sergeant's last action was a Strike that hit"
   - name: "Effect"
-    desc: "The drill sergeant shouts that one ally within 30 feet can't keep up with them. That ally gains a +3 status bonus to their attack roll on the next Strike they make before the start of the drill sergeant's next turn. If the ally is a troop, this bonus instead applies to the DC of their next offensive activity (such as Join the Fray for heavy cavalry)."
+    desc: "The drill sergeant shouts that one ally within 30 feet can't keep up with them. That ally gains a +3 status bonus to their attack roll on the next Strike they make before the start of the drill sergeant's next turn. If the ally is a [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|troop]], this bonus instead applies to the DC of their next offensive activity (such as Join the Fray for [[srd/pf2e/bestiary/npc-core/animal/heavy-cavalry|heavy cavalry]])."
 sourcebook: "_NPC Core_, page 93."
 ```
 

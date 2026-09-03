@@ -18,10 +18,10 @@ source: "Impossible Magic"
 - **Usage**: affixed to armor or a weapon
 
 This sealed glass vial has no stopper and is filled with pure white light. The spell attack modifier of any spell cast by Activating this item is +13.
-**• Armor** After you cast an electricity spell by Activating the _energizing vial_, you can Step as a free action once per round until the end of your next turn.
-**• Weapon** After you cast an electricity spell by Activating the _energizing vial_, your Strikes with the weapon deal 1d4 persistent electricity damage until the end of your next turn. 
+**• Armor** After you cast an [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] spell by Activating the _energizing vial_, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] as a free action once per round until the end of your next turn.
+**• Weapon** After you cast an electricity spell by Activating the _energizing vial_, your Strikes with the weapon deal 1d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent electricity damage]] until the end of your next turn. 
 
-**Activate** Cast a Spell **Effect** You cast __live wire_._
+**Activate** Cast a Spell **Effect** You cast _[[srd/pf2e/compendium/spells/cantrips/live-wire|_live wire_]]._
 
 ### Energizing Vial
 
@@ -33,9 +33,9 @@ This sealed glass vial has no stopper and is filled with pure white light. The s
 
 ---
 
-The persistent electricity damage when affixed to a weapon is 1d6, and the spell attack modifier is +21. The spell DC of any spell cast by Activating this item is 31. 
+The [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent electricity damage]] when affixed to a weapon is 1d6, and the spell attack modifier is +21. The spell DC of any spell cast by Activating this item is 31. 
 
-**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast 5th-rank __lightning lasso_._
+**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast 5th-rank _[[srd/pf2e/compendium/spells/rank-3/lightning-lasso|_lightning lasso_]]._
 
 ### Major Energizing Vial
 
@@ -43,7 +43,7 @@ The persistent electricity damage when affixed to a weapon is 1d6, and the spell
 
 ---
 
-The persistent electricity damage when affixed to a weapon is 1d8, the spell attack modifier is +28, and the spell DC is 38. 
+The [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent electricity damage]] when affixed to a weapon is 1d8, the spell attack modifier is +28, and the spell DC is 38. 
 
 **Activate** Cast a Spell **Frequency** once per day; **Effect** You cast 8th-rank _lighting lasso._ 
 

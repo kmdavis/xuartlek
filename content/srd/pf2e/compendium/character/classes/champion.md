@@ -14,9 +14,9 @@ source: "Player Core 2"
 
 You'll see these terms in many champion class features.
 
- **Flourish:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core/flourish|Flourish]]:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
- **Sanctified:** If you are holy or unholy, your sanctified actions and spells gain the same trait.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|Sanctified]]:** If you are holy or unholy, your sanctified actions and spells gain the same trait.
 
 ### Roleplaying the Champion
 
@@ -49,7 +49,15 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Expert in Fortitude Trained in Reflex Expert in Will |
-| **Skills** | Trained in Religion Trained in one skill determined by your choice of deity Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
+
+#### Skills
+
+Trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
+ Trained in one skill determined by your choice of deity
+ Trained in a number of additional skills equal to 2 plus your Intelligence modifier
+
+| | |
+| --- | --- |
 | **Attacks** | Trained in simple weapons Trained in martial weapons Trained in unarmed attacks |
 | **Defenses** | Trained in all armor Trained in unarmored defense |
 | **Class DC** | Trained in champion class DC |
@@ -113,19 +121,19 @@ Champions care deeply about the edicts and anathema they take from their deity, 
 
  Similarly, using items, spells, or actions that are anathema to the tenets or goals of your faith could interfere with your connection to your deity. For example, assisting with a ritual that raises undead would be anathema to Pharasma, the goddess of death. Many actions that are anathema don't appear in any deity's formal list. For borderline cases, you and your GM determine which acts are anathema.
 
- If you perform enough acts that are anathema to your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your holy or unholy trait, your focus pool, and your blessing of the devoted. These abilities can be regained only if you repent by conducting an _atone_ ritual. If your deity doesn't require the specific sanctification you had, your GM might let you retrain your sanctification and cause while still following the same deity. 
+ If you perform enough acts that are anathema to your deity, you lose the magical abilities that come from your connection to your deity. The class features that you lose are determined by the GM, but they likely include your holy or unholy trait, your focus pool, and your blessing of the devoted. These abilities can be regained only if you repent by conducting an [[srd/pf2e/compendium/spells/rituals/atone|_atone_]] ritual. If your deity doesn't require the specific sanctification you had, your GM might let you retrain your sanctification and cause while still following the same deity. 
 
 #### Sanctification
 
- Depending on your deity, their sanctification can make you holy or unholy. This commits you to one side of a struggle over souls. Whether you become holy, unholy, or neither will limit your choice of causes, devotion spells, and feats.
+ Depending on your deity, their sanctification can make you [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]. This commits you to one side of a struggle over souls. Whether you become holy, unholy, or neither will limit your choice of causes, devotion spells, and feats.
 
  If you “can be” holy or unholy according to your deity's sanctification entry, you make that choice, and if you “must be” holy or unholy, you gain the trait automatically. If the deity lists “none,” you can choose only options that don't require the holy or unholy trait. If you are holy or unholy and gain the opposing trait in some way, you lose the previous trait until you _atone_.
 
  Unholy sanctification for a champion can be extremely disruptive to a typical game and should be a player character option only in appropriate adventures or campaigns where the group collectively decides to embrace them. Unholy sanctification and causes are uncommon options. 
 
-**Holy:** You gain the holy trait and add that trait to any Strikes you make. You gain the edict, “Do not knowingly harm innocents or fail to prevent harm to an innocent if your direct intervention could save them” and the anathema “Commit murder.” Even if your game includes behavior outside the Pathfinder baseline, the acts listed there are anathema to you. 
+**Holy:** You gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait and add that trait to any Strikes you make. You gain the edict, “Do not knowingly harm innocents or fail to prevent harm to an innocent if your direct intervention could save them” and the anathema “Commit murder.” Even if your game includes behavior outside the Pathfinder [[srd/pf2e/books/player-core/chapter-8-playing-the-game/the-pathfinder-baseline|baseline]], the acts listed there are anathema to you. 
 
-**Unholy:** You gain the unholy trait and add that trait to any Strikes you make. You gain the edict, “Do not put another's needs before your own or those of your deity” and the anathema “Commit an entirely altruistic act, such as giving something away in charity” and “Put anyone's needs before those of your deity.” None of these prevents you from performing acts others might consider helpful, but these acts must be done with the expectation that they ultimately further your own goals or those of your deity. 
+**Unholy:** You gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait and add that trait to any Strikes you make. You gain the edict, “Do not put another's needs before your own or those of your deity” and the anathema “Commit an entirely altruistic act, such as giving something away in charity” and “Put anyone's needs before those of your deity.” None of these prevents you from performing acts others might consider helpful, but these acts must be done with the expectation that they ultimately further your own goals or those of your deity. 
 
 #### Deific Weapon
 
@@ -133,7 +141,7 @@ Champions care deeply about the edicts and anathema they take from their deity, 
 
 #### Champion's Aura
 
- You're surrounded by an aura in a 15-foot emanation. It has the aura and divine traits. Any follower of your deity within the aura immediately knows you're a champion of your deity. This aura is used as the range for your champion's reaction and for various other effects. You can suppress or resume the aura as a single action, which has the concentrate trait, and it ends if you fall unconscious.
+ You're surrounded by an aura in a 15-foot emanation. It has the [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] traits. Any follower of your deity within the aura immediately knows you're a champion of your deity. This aura is used as the range for your champion's reaction and for various other effects. You can suppress or resume the aura as a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, and it ends if you fall unconscious.
 
 #### Cause
 
@@ -143,27 +151,27 @@ Causes can be found here.
 
 #### Devotion Spells
 
-Your deity's power grants you special divine spells called devotion spells, which are a type of focus spell. Choose either _shields of the spirit_ or a spell based on your deity's divine font (_lay on hands_ if your deity allows heal, _touch of the void_ if your deity allows harm).
+Your deity's power grants you special divine spells called devotion spells, which are a type of focus spell. Choose either [[srd/pf2e/compendium/spells/focus/shields-of-the-spirit|_shields of the spirit_]] or a spell based on your deity's divine font ([[srd/pf2e/compendium/spells/focus/lay-on-hands|_lay on hands_]] if your deity allows heal, [[srd/pf2e/compendium/spells/focus/touch-of-the-void|_touch of the void_]] if your deity allows harm).
 
- It costs 1 Focus Point to cast a focus spell. When you gain your first devotion spell, you also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the Refocus activity to pray to your deity or do service toward their causes.
+ It costs 1 Focus Point to cast a focus spell. When you gain your first devotion spell, you also gain a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you regain 1 Focus Point by spending 10 minutes using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Refocus|Refocus]] activity to pray to your deity or do service toward their causes.
 
  Your devotion spells are divine spells. Your spellcasting attribute is Charisma.
 
- Focus spells are automatically heightened to half your level rounded up. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but can never be more than 3 points.
+ [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|Focus spells]] are automatically heightened to half your level rounded up. Certain feats give you more focus spells. The maximum Focus Points your focus pool can hold is equal to the number of focus spells you have, but can never be more than 3 points.
 
 | | |
 | --- | --- |
 | **Champion Feats** | At 1st level and every even-numbered level thereafter, you gain a champion class feat. |
-| **Shield Block** | You gain the Shield Block general feat, a reaction that lets you reduce damage with your shield. |
+| **Shield Block** | You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block\|Shield Block]] general feat, a reaction that lets you reduce damage with your shield. |
 | **Skill Feats** | At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat. |
 
 #### Blessing of the Devoted
 
 Your deity blesses your service with a boon. This might come in the form of a spirit that visits you and inhabits your items or body, a mysterious divine tattoo upon your body, or the like. Choose one of the following blessings, or any other to which you have access.
 
- **Blessed Armament:** Select one weapon or handwraps of mighty blows. You gain that armament's critical specialization effect, and you grant the armament a property rune of your choice from the following list: fearsome, ghost touch, returning, shifting, or vitalizing. During your daily preparations, you can change the spirit to inhabit a different armament, grant a different rune, or both.
+ **Blessed Armament:** Select one weapon or [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|handwraps of mighty blows]]. You gain that armament's critical specialization effect, and you grant the armament a property rune of your choice from the following list: [[srd/pf2e/compendium/equipment/runes/fearsome-greater|fearsome]], [[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]], [[srd/pf2e/compendium/equipment/runes/returning|returning]], [[srd/pf2e/compendium/equipment/runes/shifting|shifting]], or [[srd/pf2e/compendium/equipment/runes/vitalizing-greater|vitalizing]]. During your daily preparations, you can change the spirit to inhabit a different armament, grant a different rune, or both.
 
- **Blessed Shield:** In your hands, a shield gains the minor _reinforcing_ rune. As you go up in level, the shield gains the _reinforcing_ rune of your level (lesser at 7th level, moderate at 10th level, greater at 13th level, major at 16th level, and supreme at 19th level). If your shield already has the appropriate _reinforcing_ rune for your level, or if it's a sturdy shield of the same level as the appropriate _reinforcing_ rune, the shield's Hardness instead increases by 1.
+ **Blessed Shield:** In your hands, a shield gains the minor [[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|_reinforcing_]] rune. As you go up in level, the shield gains the _reinforcing_ rune of your level (lesser at 7th level, moderate at 10th level, greater at 13th level, major at 16th level, and supreme at 19th level). If your shield already has the appropriate _reinforcing_ rune for your level, or if it's a [[srd/pf2e/compendium/equipment/shields/sturdy-shield-supreme|sturdy shield]] of the same level as the appropriate _reinforcing_ rune, the shield's Hardness instead increases by 1.
 
  **Blessed Swiftness:** You gain a +5-foot status bonus to Speed. If you're mounted, your mount gains the bonus instead. In addition, when the movement of one of your allies triggers an enemy's reaction while the ally is in your champion's aura, the ally gains a +2 status bonus to all defenses against that reaction.
 
@@ -240,6 +248,6 @@ You shield yourself with steel as easily as with faith. Your proficiency ranks f
 
 | | |
 | --- | --- |
-| **Hero's Defiance** | You can continue fighting as long as you have divine energy. You gain the _hero’s defiance_ devotion spell |
+| **Hero's Defiance** | You can continue fighting as long as you have divine energy. You gain the [[srd/pf2e/compendium/spells/focus/heros-defiance\|_hero’s defiance_]] devotion spell |
 
 *Source: Player Core 2 p. 86*

@@ -19,7 +19,7 @@ source: "Player Core 2"
 - **Tradition**: Primal
 - **Range**: 120 feet
 - **Area**: 20-foot burst
-- **Defense**: basic Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 - **Duration**: sustained up to 1 minute
 
 You create a black, rumbling storm cloud and call down one lightning bolt within the spell's area. The bolt is a vertical line from the top of the storm cloud to the ground below, dealing 4d12 electricity damage to creatures in the line (basic Reflex save). On subsequent rounds, the first time you Sustain the spell each round, you can call another lightning bolt within the area. If you Cast this Spell outdoors, you can create two nonoverlapping clouds instead of one, though you can still call down only one bolt per turn.

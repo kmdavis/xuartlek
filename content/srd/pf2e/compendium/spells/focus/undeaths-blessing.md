@@ -25,7 +25,7 @@ source: "Player Core 2"
 - **Defense**: Will
 - **Duration**: 1 minute
 
-You instill within a creature the touch of the grave. For the duration, _harm_ and _heal_ spells treat the creature as undead. In addition, _harm_ spells gain a +2 status bonus to the Hit Points restored to the target. An unwilling target can attempt a Will save to reduce the effects.
+You instill within a creature the touch of the grave. For the duration, [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] and [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] spells treat the creature as [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. In addition, _harm_ spells gain a +2 status bonus to the Hit Points restored to the target. An unwilling target can attempt a Will save to reduce the effects.
 
 **Critical Success** The target is unaffected.
 

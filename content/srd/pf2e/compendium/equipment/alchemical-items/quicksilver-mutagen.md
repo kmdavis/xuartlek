@@ -20,11 +20,11 @@ source: "Player Core 2"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 You become swifter and nimbler but also fragile. 
 
-**Benefit** You gain an item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain the listed status bonus to your Speed. 
+**Benefit** You gain an item bonus to [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] checks, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] checks, Reflex saves, and Dexterity-based attack rolls, and you gain the listed status bonus to your Speed. 
 
 **Drawback** You take damage equal to twice your level; you can't recover Hit Points lost in this way by any means while the mutagen lasts. You take a –2 penalty to Fortitude saves.
 

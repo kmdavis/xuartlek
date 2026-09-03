@@ -29,10 +29,10 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Deception +4, Society +3, Stealth +5, Survival +3, Thievery +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +4, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +3, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +3, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +7"
 abilityMods: [-1, 3, 0, 1, 1, 2]
 abilities_top:
   - name: "Items"
@@ -48,16 +48,16 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shiv +5 (Agile) __Damage__ 1d4–1 piercing"
+    desc: "⬻ shiv +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d4–1 piercing"
   - name: "Melee"
-    desc: "⬻ fist +5 (Agile, Nonlethal, Unarmed) __Damage__ 1d4–1 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4–1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ rock +5 (thrown 10 feet) __Damage__ 1d4–1 bludgeoning"
+    desc: "⬻ rock +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d4–1 bludgeoning"
 abilities_bot:
   - name: "Collaborative Thievery"
-    desc: "The urchin gains a +1 circumstance bonus to Steal or Palm an Object while within 10 feet of an ally who has the pickpocket ability."
+    desc: "The urchin gains a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Steal|Steal]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Palm an Object|Palm an Object]] while within 10 feet of an ally who has the pickpocket ability."
   - name: "Pickpocket"
-    desc: "For an urchin, the DC to Steal or Palm an Object isn't increased by 5 for an item that's closely guarded. They can Steal objects that would be extremely noticeable or time-consuming to remove (like worn shoes, armor, or actively wielded objects)."
+    desc: "For an urchin, the DC to [[srd/pf2e/compendium/rules-elements/actions/player-core#Steal|Steal]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Palm an Object|Palm an Object]] isn't increased by 5 for an item that's closely guarded. They can Steal objects that would be extremely noticeable or time-consuming to remove (like worn shoes, armor, or actively wielded objects)."
 sourcebook: "_NPC Core_, page 40."
 ```
 

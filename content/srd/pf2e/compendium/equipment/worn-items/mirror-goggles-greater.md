@@ -17,9 +17,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: worn eyepiece
 
-These goggles feature highly reflective lenses. While wearing the goggles, you gain a +1 item bonus to visual Perception checks and to saving throws against visual effects.
+These goggles feature highly reflective lenses. While wearing the goggles, you gain a +1 item bonus to visual Perception checks and to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] effects.
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (manipulate) **Trigger** A creature within 60 feet targets you with a visual effect; **Effect** You turn your head to reflect aspects of the triggering effect back at its creator. The creature must attempt a DC 20 Fortitude save as it becomes disoriented by this reflection. On a failure, the creature is sickened 1 (sickened 2 on a critical failure). The creature is temporarily immune for 1 hour.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Trigger** A creature within 60 feet targets you with a visual effect; **Effect** You turn your head to reflect aspects of the triggering effect back at its creator. The creature must attempt a DC 20 Fortitude save as it becomes disoriented by this reflection. On a failure, the creature is sickened 1 (sickened 2 on a critical failure). The creature is temporarily immune for 1 hour.
 
 ### Mirror Goggles (Lesser)
 

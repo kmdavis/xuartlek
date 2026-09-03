@@ -14,6 +14,6 @@ Not all beetles are harmless creatures that can be easily crushed underfoot. Ove
 
 ### Members
 
-Flash Beetle (Creature -1), Giant Stag Beetle (Creature 4), Swamp Beetle (Creature -1)
+[[srd/pf2e/bestiary/monster-core/animal/flash-beetle|Flash Beetle]] (Creature -1), [[srd/pf2e/bestiary/monster-core/animal/giant-stag-beetle|Giant Stag Beetle]] (Creature 4), Swamp Beetle (Creature -1)
 
 *Source: Monster Core p. 42*

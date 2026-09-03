@@ -22,7 +22,7 @@ source: "Player Core"
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the elemental trait and whose level is 1 or lower to fight for you.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] trait and whose level is 1 or lower to fight for you.
 
 ---
 **Heightened (3rd)** Level 2.

@@ -26,7 +26,7 @@ This massive steam-powered vehicle resembles a giant insect with six articulated
 
 **Passengers** 10
 
-**Piloting Check** Crafting (DC 40) or Driving Lore (DC 38)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 40) or [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]] (DC 38)
 
 ---
 
@@ -38,15 +38,15 @@ This massive steam-powered vehicle resembles a giant insect with six articulated
 
 **HP** 280 (BT 140)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
 ---
 
-**Speed** 30 feet (alchemical, clockwork), ignores difficult terrain
+**Speed** 30 feet ([[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]], [[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]]), [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Ignore Difficult Terrain|ignores difficult terrain]]
 
 **Collision** 12d10 (DC 38)
 
 **Long Stride** A war strider can bridge a gap as wide as 30 feet during a move action as long as it has sufficient movement remaining.
-**Weapon Mount** This vehicle has two forward-mounted weapon mounts. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 37 Crafting check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
+**Weapon Mount** This vehicle has two forward-mounted weapon mounts. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 37 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
 
 *Source: Battlecry! p. 112*

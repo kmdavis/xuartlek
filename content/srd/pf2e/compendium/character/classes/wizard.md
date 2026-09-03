@@ -14,7 +14,7 @@ source: "Player Core"
 
 You'll see the following key term in many wizard abilities.
 
-**Spellshape:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 ### Roleplaying the Wizard
 
@@ -50,7 +50,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Trained in Fortitude Trained in Reflex Expert in Will |
-| **Skills** | Trained in Arcana Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
+| **Skills** | Trained in [[srd/pf2e/compendium/rules-elements/skills/arcana\|Arcana]] Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
 | **Attacks** | Trained in simple weapons Trained in unarmed attacks |
 | **Defenses** | Untrained in all armor Trained in unarmored defense |
 | **Class DC** | Trained in wizard class DC |
@@ -124,7 +124,7 @@ Through dedicated study and practice, you can construct spells with academic rig
 
  The spellbook contains your choice of 10 arcane cantrips and five 1st-rank arcane spells. You choose these from the common spells on the arcane spell list or from other arcane spells you gain access to. You also add two 1st-rank spells from the curriculum of your arcane school (except in the case of the school of unified magical theory, as described in that school).
 
- Each time you gain a level, you add two arcane spells to your spellbook, of any spell rank for which you have spell slots, chosen from common spells of your tradition or others you gain access to. You can also add spells to your spellbook with the Learn a Spell activity. When you gain spell slots of a new rank, you also add an additional spell from your school's curriculum (unless it's the school of unified magical theory).
+ Each time you gain a level, you add two arcane spells to your spellbook, of any spell rank for which you have spell slots, chosen from common spells of your tradition or others you gain access to. You can also add spells to your spellbook with the [[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]] activity. When you gain spell slots of a new rank, you also add an additional spell from your school's curriculum (unless it's the school of unified magical theory).
 
 #### Arcane Thesis
 

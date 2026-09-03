@@ -29,14 +29,14 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; low-light vision"
-languages: "Common, Tengu; plus two others"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Tengu; plus two others"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +13, Athletics +9, Deception +12, Intimidation +12, Occultism +10, Sailing Lore +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +12, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] +12"
 abilityMods: [2, 4, 1, 1, 1, 2]
 abilities_top:
   - name: "Items"
-    desc: "bottle, Leather Armor, Tengu Gale Blade"
+    desc: "bottle, Leather Armor, [[srd/pf2e/compendium/equipment/weapons/sword/tengu-gale-blade|Tengu Gale Blade]]"
 ac: 21
 armorclass:
   - name: "AC"
@@ -47,24 +47,24 @@ health:
     desc: "65"
 abilities_mid:
   - name: "Eat Fortune"
-    desc: "⬲ (concentrate, divine)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Trigger"
-    desc: "A creature within 60 feet uses a fortune or misfortune effect"
+    desc: "A creature within 60 feet uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect"
   - name: "Effect"
-    desc: "The tengu negates the attempt to manipulate fate and fortune. Eat Fortune gains the opposing trait, and the triggering effect is disrupted."
+    desc: "The tengu negates the attempt to manipulate fate and fortune. Eat Fortune gains the opposing trait, and the triggering effect is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Disrupting Actions|disrupted]]."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tengu gale blade +13 (Agile, Disarm, Finesse) __Damage__ 1d6+4 slashing"
+    desc: "⬻ tengu gale blade +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+4 slashing"
   - name: "Melee"
-    desc: "⬻ beak +13 (Finesse) __Damage__ 1d6+4 piercing"
+    desc: "⬻ beak +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+4 piercing"
 abilities_bot:
   - name: "Jinxed Call"
-    desc: "⬺ (Auditory, Occult) The jinx eater gives an eerie croak. Each non-tengu in a 30-foot emanation must succeed at a DC 21 Will save or be clumsy 1 for 1 round (or 1 minute on a critical failure). Regardless of the results, each creature is then temporarily immune to Jinxed Call for 1 minute."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The jinx eater gives an eerie croak. Each non-[[srd/pf2e/compendium/rules-elements/traits/player-core-2/tengu|tengu]] in a 30-foot emanation must succeed at a DC 21 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] for 1 round (or 1 minute on a critical failure). Regardless of the results, each creature is then temporarily immune to Jinxed Call for 1 minute."
   - name: "Sneak Attack"
-    desc: "The jinx eater deals 1d6 extra precision damage to off-guard creatures."
+    desc: "The jinx eater deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_NPC Core_, page 212."
 ```
 

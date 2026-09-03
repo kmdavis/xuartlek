@@ -31,14 +31,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; darkvision"
-languages: "Diabolic, Draconic, Empyrean; _truespeech_"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +14, Athletics +17, Deception +16, Diplomacy +18, Nature +14, Performance +20, Religion +14, Survival +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +16, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +18, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +14, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +20, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +14, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +12"
 abilityMods: [4, 3, 5, 2, 3, 5]
 abilities_top:
   - name: "Items"
-    desc: "_+1 longsword_, virtuoso harp"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|virtuoso harp]]"
 ac: 25
 armorclass:
   - name: "AC"
@@ -46,22 +46,22 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135; __Weaknesses__ cold iron 10, unholy 10"
+    desc: "135; __Weaknesses__ cold iron 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] 10"
 abilities_mid:
   - name: "Free Expression"
-    desc: "A kanya's auditory and sonic effects attempt to counteract any effect that would directly control, manipulate, or prevent them from expressing themself freely, such as silence. They can also spend an action, which has concentrate trait, to speak forcefully and counteract such effects. The counteract modifier is +16 in either case."
+    desc: "A kanya's [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]] effects attempt to counteract any effect that would directly control, manipulate, or prevent them from expressing themself freely, such as silence. They can also spend an action, which has [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, to speak forcefully and counteract such effects. The counteract modifier is +16 in either case."
 speed: "25 feet, fly 45 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _longsword_ +18 (Holy, Magical, versatile P) __Damage__ 1d8+10 slashing plus 1d6 sonic"
+    desc: "⬻ _longsword_ +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d8+10 slashing plus 1d6 sonic"
   - name: "Melee"
-    desc: "⬻ tail +17 (Agile, Holy, Magical, reach 10 feet) __Damage__ 2d6+10 bludgeoning plus Grab"
+    desc: "⬻ tail +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+10 bludgeoning plus Grab"
 abilities_bot:
   - name: "Muse's Courage"
-    desc: "Any _courageous anthem_ the kanya casts grants a +2 status bonus instead of +1."
+    desc: "Any [[srd/pf2e/compendium/spells/cantrips/courageous-anthem|_courageous anthem_]] the kanya casts grants a +2 status bonus instead of +1."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26 - __Cantrips (4th)__ Courageous Anthem, Daze, Detect Magic, Figment, Light, Summon Instrument, Uplifting Overture - __2nd__ Invisibility - __4th__ Charm, Clear Mind, Counter Performance, Noise Blast, Soothe, Suggestion - __Constant (5th)__ Truespeech"
+    desc: "DC 26 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/courageous-anthem|Courageous Anthem]], [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/summon-instrument|Summon Instrument]], [[srd/pf2e/compendium/spells/cantrips/uplifting-overture|Uplifting Overture]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]], [[srd/pf2e/compendium/spells/rank-2/clear-mind|Clear Mind]], [[srd/pf2e/compendium/spells/focus/counter-performance|Counter Performance]], [[srd/pf2e/compendium/spells/rank-2/noise-blast|Noise Blast]], [[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]], [[srd/pf2e/compendium/spells/rank-4/suggestion|Suggestion]] - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
 sourcebook: "_Monster Core_, page 34."
 ```
 

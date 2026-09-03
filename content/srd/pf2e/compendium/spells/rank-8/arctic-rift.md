@@ -28,7 +28,7 @@ A jagged crack opens in the air, dealing 12d8 cold damage as it draws away warmt
 
 **Failure** The creature takes full damage and is slowed 1 until the start of your next turn.
 
-**Critical Failure** The creature takes double damage, is immobilized by a layer of ice, and is slowed 1 as long as its immobilized. The ice is an object with 60 Hit Points, Hardness 5, immunity to cold damage, and vulnerability 10 to fire. It has object immunities (page 269) and is destroyed if the target Escapes.
+**Critical Failure** The creature takes double damage, is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] by a layer of ice, and is slowed 1 as long as its immobilized. The ice is an object with 60 Hit Points, Hardness 5, immunity to cold damage, and vulnerability 10 to fire. It has object immunities (page 269) and is destroyed if the target Escapes.
 
 ---
 **Heightened (+1)** The damage increases by 1d8 and the ice's Hit Points increase by 5.

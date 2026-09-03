@@ -16,11 +16,11 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Klar
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Klar|Klar]]
 
-This _+1 striking wounding klar_ (Hardness 8, HP 64, BT 32) is built with spikes made of beasts' fangs.
+This _+1 striking wounding [[srd/pf2e/compendium/equipment/shields#Klar|klar]]_ (Hardness 8, HP 64, BT 32) is built with spikes made of beasts' fangs.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per round; **Trigger** You or a creature within 5 feet of you suffers bleed damage; **Effect** The _sanguine klar_ regains a number of Hit Points equal to the bleed damage, up to an amount equal to its Hardness.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per round; **Trigger** You or a creature within 5 feet of you suffers bleed damage; **Effect** The _sanguine klar_ regains a number of Hit Points equal to the bleed damage, up to an amount equal to its Hardness.
 
 ### Sanguine Klar
 

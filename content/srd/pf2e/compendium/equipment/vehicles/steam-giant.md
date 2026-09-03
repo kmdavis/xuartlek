@@ -22,7 +22,7 @@ source: "GM Core"
 
 **Passengers** 4
 
-**Piloting Check** Driving Lore (DC 32) or Crafting (DC 34)
+**Piloting Check** Driving Lore (DC 32) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 34)
 
 ---
 
@@ -42,6 +42,6 @@ source: "GM Core"
 
 **Collision** 10d10 (DC 29)
 
-**Flame Jet** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")(fire) Two crew members each perform a 3-action activity on their turn to produce a gout of flames that erupts at the end of the second character’s turn from any corner of any space the steam giant occupies. The flames deal 6d8 fire damage to each creature in a 30-foot cone (DC 32 basic Reflex save). The flame jet stops working if the steam giant is broken.
+**Flame Jet** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action")([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) Two crew members each perform a 3-action activity on their turn to produce a gout of flames that erupts at the end of the second character’s turn from any corner of any space the steam giant occupies. The flames deal 6d8 fire damage to each creature in a 30-foot cone (DC 32 basic Reflex save). The flame jet stops working if the steam giant is broken.
 
 *Source: GM Core p. 216*

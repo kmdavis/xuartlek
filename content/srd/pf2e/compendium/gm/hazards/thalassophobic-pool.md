@@ -22,13 +22,13 @@ source: "Dark Archives (Remastered)"
 DC 25 (trained)
 
 **Disable**
-DC 32 (master) Diplomacy or Deception to quell the fear and calm the pool or DC 35 Intimidation to give the pool something worse to fear; three successes required.
+DC 32 (master) [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] or [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] to quell the fear and calm the pool or DC 35 [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] to give the pool something worse to fear; three successes required.
 
-**Downpour** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature falls into the pool; **Effect** More water pours forth from the chalice. Creatures in the pool become clumsy 1, and they can't decrease their clumsy condition so long as they remain in the pool. The trap then rolls initiative.
+**Downpour** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature falls into the pool; **Effect** More water pours forth from the chalice. Creatures in the pool become [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1, and they can't decrease their clumsy condition so long as they remain in the pool. The trap then rolls initiative.
 
 ---
 **Routine**
-(3 actions) Water from the chalice increases the depth of the water by 10 feet for each action. Each time this happens, creatures in the pool are pushed 10 feet down and take 1d6 bludgeoning damage. As the pool has no bottom, creatures in it can fall down indefinitely; they must Swim up to avoid drowning, but the water is especially choppy, so the Athletics DC is 25. The pool never overflows. Each successful check to Disable reduces the pool's actions by 1, and once the pool is completely Disabled, the water becomes still and the Athletics DC to Swim becomes 10.
+(3 actions) Water from the chalice increases the depth of the water by 10 feet for each action. Each time this happens, creatures in the pool are pushed 10 feet down and take 1d6 bludgeoning damage. As the pool has no bottom, creatures in it can fall down indefinitely; they must [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] up to avoid drowning, but the water is especially choppy, so the Athletics DC is 25. The pool never overflows. Each successful check to Disable reduces the pool's actions by 1, and once the pool is completely Disabled, the water becomes still and the Athletics DC to Swim becomes 10.
 
 ---
 **Reset**

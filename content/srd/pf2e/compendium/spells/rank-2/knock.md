@@ -21,7 +21,7 @@ source: "Player Core"
 - **Target**: 1 door, lock, or container
 - **Duration**: 1 minute
 
-You make the target easier to open. _Knock_ grants a +4 status bonus to any creature that tries to open the target door, lock, or container with an Athletics or a Thievery check. You can attempt a Thievery check to open the target as part of casting _knock_, and you add your level even if you're untrained.
+You make the target easier to open. _Knock_ grants a +4 status bonus to any creature that tries to open the target door, lock, or container with an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] or a [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check. You can attempt a Thievery check to open the target as part of casting _knock_, and you add your level even if you're untrained.
 
  _Knock_ counteracts _lock_.
 

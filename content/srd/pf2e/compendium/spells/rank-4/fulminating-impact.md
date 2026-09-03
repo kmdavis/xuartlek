@@ -19,7 +19,7 @@ source: "Impossible Magic"
 - **Traditions**: Arcane, Primal
 - **Duration**: 1 minute
 
-Your blow punches through the Universe, compressing primordial forces and inchoate matter into a mass of tempestuous energy within the palm of your hand. This electromagnetic energy also hypercharges your attacks for a time. Make a melee Strike. If the Strike hits, you deal an additional 1d6 electricity damage and 1d6 sonic damage. After the attack, regardless of the result, your melee Strikes deal an additional 1 electricity damage and 1 sonic damage for the duration of the spell.
+Your blow punches through [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], compressing primordial forces and inchoate matter into a mass of tempestuous energy within the palm of your hand. This electromagnetic energy also hypercharges your attacks for a time. Make a melee Strike. If the Strike hits, you deal an additional 1d6 electricity damage and 1d6 sonic damage. After the attack, regardless of the result, your melee Strikes deal an additional 1 electricity damage and 1 sonic damage for the duration of the spell.
 
 ---
 **Heightened (8th)** The initial Strike instead deals an additional 1d12 electricity damage and 1d12 sonic damage, and the additional damage on further Strikes increases to 1d4 electricity damage and 1d4 sonic damage.

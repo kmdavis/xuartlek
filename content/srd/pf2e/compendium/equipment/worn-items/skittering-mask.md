@@ -20,6 +20,6 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn mask
 - **Bulk**: 1
 
-This carved wooden full-head mask sports several holes along each side of the face. The first time each day that you begin your turn unconscious and within 25 feet of an enemy, metallic insect legs emerge from the holes in the mask and Step 5 feet away from the nearest enemy, dragging your body along with the mask. If more than one enemy is equidistant, the mask Steps away from one of them at random. The mask possesses no special senses and does not react to hidden or undetected enemies, nor can it distinguish that a creature not acting openly hostile is an enemy.
+This carved wooden full-head mask sports several holes along each side of the face. The first time each day that you begin your turn [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] and within 25 feet of an enemy, metallic insect legs emerge from the holes in the mask and Step 5 feet away from the nearest enemy, dragging your body along with the mask. If more than one enemy is equidistant, the mask Steps away from one of them at random. The mask possesses no special senses and does not react to [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] enemies, nor can it distinguish that a creature not acting openly hostile is an enemy.
 
 *Source: Treasure Vault (Remastered) p. 155*

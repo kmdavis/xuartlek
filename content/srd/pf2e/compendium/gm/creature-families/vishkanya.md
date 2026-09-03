@@ -18,7 +18,7 @@ From a distance, vishkanyas share more than a passing resemblance to humans. How
 
 ### Members
 
-Vishkanya Infiltrator (Creature 3)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/vishkanya-infiltrator|Vishkanya Infiltrator]] (Creature 3)
 
 ### Toxicity
 

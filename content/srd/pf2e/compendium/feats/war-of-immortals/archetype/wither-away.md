@@ -1,0 +1,39 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e/war-of-immortals
+- trait/concentrate
+- trait/manipulate
+- trait/mythic
+- trait/void
+- trait/negative
+- feat/level/16
+aliases: ["Wither Away"]
+aon_id: "feat-7314"
+source: "War of Immortals"
+---
+
+# Wither Away  *Feat 16*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
+
+`Concentrate`  `Manipulate`  `Mythic`  `Void`  `Negative`
+
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/apocalypse-rider|Apocalypse Rider]]
+- **Frequency**: once per 10 minutes
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/apocalypse-rider-dedication|Apocalypse Rider Dedication]]; Battle Harbinger Dedication
+
+You hasten the passage of time for a living creature, prematurely aging them into decrepitude. A living creature within 60 feet takes 14d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] damage and a part of its body you chose withers, taking the following penalties depending on the result of their a Fortitude saving throw against your class DC or spell DC, whichever is higher. 
+**Arms** The target’s arms grow weak. The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1. 
+**Head** The target has trouble thinking straight. The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1. 
+**Legs** The target’s legs buckle with every movement. The target takes a –10-foot status penalty to its Speeds. 
+**Torso** The target’s skin becomes thin and papery. The target gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Weakness|weakness]] 10 to slashing damage.
+
+**Critical Success** The target is unaffected.
+
+**Success** The target takes half damage and the withering penalty lasts until the end of your next turn.
+
+**Failure** The creature takes full damage and the withering penalty lasts for 1 minute.
+
+**Critical Failure** The creature takes double damage, and you can choose a second part of the body to wither. Both penalties last for 1 minute.
+
+*Source: War of Immortals p. 108*

@@ -18,7 +18,7 @@ source: "Impossible Magic"
 - **Usage**: worn cloak
 - **Bulk**: 1
 
-This vivid red cloak of sturdy fabric is favored by aggressive battle alchemists and mages, as well as those cautious warriors who need to advance into the fray ahead of the blast-happy back line. The mantle interposes to protect you from your own and allies’ magic, granting you a circumstance bonus to Reflex saves against your own spells, as well as those of your allies. You also gain resistance to splash damage from your own alchemical items and those of your allies.
+This vivid red cloak of sturdy fabric is favored by aggressive battle alchemists and mages, as well as those cautious warriors who need to advance into the fray ahead of the blast-happy back line. The mantle interposes to protect you from your own and allies’ magic, granting you a circumstance bonus to Reflex saves against your own spells, as well as those of your allies. You also gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] to [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage from your own [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] items and those of your allies.
 
 ### Backfire Mantle
 

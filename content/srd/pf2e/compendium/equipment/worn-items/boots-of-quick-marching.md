@@ -19,8 +19,8 @@ source: "Battlecry!"
 - **Usage**: worn shoes
 - **Bulk**: L
 
-These brown leather shoes have surprisingly thick soles, as though a cobbler had recently repaired them. The tan laces always pull to exactly the right tautness for your feet and ankles to feel supported. You can perform the Hustle exploration mode activity for twice as many minutes as normal, equal to your Constitution modifier × 20 (minimum 20).
+These brown leather shoes have surprisingly thick soles, as though a cobbler had recently repaired them. The tan laces always pull to exactly the right tautness for your feet and ankles to feel supported. You can perform the [[srd/pf2e/compendium/rules-elements/actions/player-core#Hustle|Hustle]] exploration mode activity for twice as many minutes as normal, equal to your Constitution modifier × 20 (minimum 20).
 
-**Activate—Big Step** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Effect** The soles on your boots grow even thicker for a moment, proving a bounce to your step. You Step twice.
+**Activate—Big Step** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** The soles on your boots grow even thicker for a moment, proving a bounce to your step. You [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]] twice.
 
 *Source: Battlecry! p. 148*

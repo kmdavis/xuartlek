@@ -18,11 +18,11 @@ source: "Battlecry!"
 - **Price**: 145 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Wooden Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Wooden Shield|Wooden Shield]]
 
-This _minor reinforcing wooden shield_ (Hardness 6, HP 56, BT 28) is made with a sturdy but flexible wood found in Tian Xia. It’s painted with bold, bright colors in the style of a fiendish tiger head. In combat, the eyes of the tiger seem to follow the opponent.
+This _[[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|minor reinforcing]] [[srd/pf2e/compendium/equipment/shields#Wooden Shield|wooden shield]]_ (Hardness 6, HP 56, BT 28) is made with a sturdy but flexible wood found in Tian Xia. It’s painted with bold, bright colors in the style of a [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiendish]] tiger head. In combat, the eyes of the tiger seem to follow the opponent.
 
-**Activate—Tiger's Eyes** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per day; **Requirements** Your shield is raised; **Effect** The tiger’s eyes glow and animate. The shield casts _ill omen_ (DC 20) on a target within your melee range.
+**Activate—Tiger's Eyes** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Requirements** Your shield is raised; **Effect** The tiger’s eyes glow and animate. The shield casts [[srd/pf2e/compendium/spells/rank-1/ill-omen|_ill omen_]] (DC 20) on a target within your melee range.
 
 **Craft Requirements** Supply one casting of _ill omen_.
 

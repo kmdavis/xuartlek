@@ -17,6 +17,6 @@ source: "Player Core 2"
 
 `Concentrate`  `Focus`  `Monk`  `Uncommon`
 
-Accelerated by your qi, you move with such speed you become a blur. Move two times: two Strides, two Steps, or one Stride and one Step (in either order). You gain the concealed condition during this movement and until the start of your next turn.
+Accelerated by your qi, you move with such speed you become a blur. Move two times: two Strides, two Steps, or one Stride and one Step (in either order). You gain the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition during this movement and until the start of your next turn.
 
 *Source: Player Core 2 p. 256*

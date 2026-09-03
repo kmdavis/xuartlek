@@ -28,7 +28,7 @@ You partially transform a foe's feet into unwieldy slabs of metal, slowing their
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is encumbered and has weakness 2 to electricity until the end of your next turn. The spell can't be sustained.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] and has weakness 2 to electricity until the end of your next turn. The spell can't be sustained.
 
 **Failure** The target is encumbered and has weakness 2 to electricity.
 

@@ -31,16 +31,16 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +16, Deception +14, Intimidation +16, Stealth +17, Survival +11, Thievery +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +14, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +11, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +16"
 abilityMods: [3, 5, 2, 1, 2, 3]
 abilities_top:
   - name: "Lie in Wait"
-    desc: "(exploration) The troop can spend 10 minutes preparing the ground before combat to gain a +2 circumstance bonus to their initiative roll."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|exploration]]) The troop can spend 10 minutes preparing the ground before combat to gain a +2 circumstance bonus to their initiative roll."
   - name: "Sudden Ambush"
-    desc: "When the troop rolls initiative using Deception or Stealth, they can use Stand and Deliver! as a free action."
+    desc: "When the troop rolls initiative using [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], they can use Stand and Deliver! as a free action."
 ac: 24
 armorclass:
   - name: "AC"
@@ -59,7 +59,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The bandits make a coordinated attack with their axes against each enemy in a 5-foot emanation with a DC 22 basic Reflex save. The damage depends on the number of actions. ⬻ 1d6+3 slashing damage ⬺ 2d6+9 slashing damage ⬽ 3d6+9 slashing damage"
   - name: "Forest Passage"
-    desc: "The bandit ignores any difficult terrain caused by plants, such as bushes, vines, and undergrowth. __Launch Slings!__ ⬺ The bandits draw or reload their slings, then launch a volley of sling bullets. This is a 10-foot burst within 50 feet that deals 2d6+4 bludgeoning damage with a DC 22 basic Reflex save. When the troop is reduced to 2 or fewer segments, this area decreases to a 5-foot burst. __Stand and Deliver!__ ⬻ The troop attempts to Demoralize up to 4 creatures."
+    desc: "The bandit ignores any difficult terrain caused by plants, such as bushes, vines, and undergrowth. __Launch Slings!__ ⬺ The bandits draw or reload their slings, then launch a volley of sling bullets. This is a 10-foot burst within 50 feet that deals 2d6+4 bludgeoning damage with a DC 22 basic Reflex save. When the troop is reduced to 2 or fewer segments, this area decreases to a 5-foot burst. __Stand and Deliver!__ ⬻ The troop attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] up to 4 creatures."
 sourcebook: "_NPC Core_, page 22."
 ```
 

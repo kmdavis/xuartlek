@@ -17,7 +17,7 @@ source: "GM Core"
 
 - **Usage**: etched onto a weapon
 
-This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful Strike. On a critical hit, the target is also slowed 1 until the end of your next turn unless it succeeds at a DC 24 Fortitude save.
+This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful Strike. On a critical hit, the target is also [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 until the end of your next turn unless it succeeds at a DC 24 Fortitude save.
 
 ### Frost
 

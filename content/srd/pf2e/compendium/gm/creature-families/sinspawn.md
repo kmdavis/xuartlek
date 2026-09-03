@@ -21,38 +21,38 @@ Sinspawn were created by one of seven ancient wizards known collectively as rune
  At a sinspawn's creation, it becomes associated with one of the seven primary sins as defined by the ancient empire of Thassilon: envy, gluttony, greed, lust, pride, sloth, or wrath. A sinspawn's sin is determined by the runewell that spawned it or by its creator's preferred sin, and cannot be changed. Each sin grants the sinspawn associated with it additional benefits and abilities beyond those described by the sinspawn stat block, as detailed below. 
 
 ### Envyspawn
- An envyspawn has Deception +7 and typically carries a halberd. They tend to be shorter and thinner than other sinspawn.
- **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") halberd +10 (reach 10 feet, versatile S), **Damage** 1d10+4 piercing 
-**Sinful Bite** Creatures that critically fail their saves against an envyspawn's sinful bite are enfeebled 2 for 1 minute. 
+ An envyspawn has [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +7 and typically carries a [[srd/pf2e/compendium/equipment/weapons/polearm/halberd|halberd]]. They tend to be shorter and thinner than other sinspawn.
+ **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") halberd +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]), **Damage** 1d10+4 piercing 
+**Sinful Bite** Creatures that critically fail their saves against an envyspawn's sinful bite are [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 2]] for 1 minute. 
 
 ### Gluttonyspawn
- A gluttonyspawn has Survival +10 and usually carries a scythe. They are corpulent, hardy, and strong. **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") scythe +10 (deadly d10, trip), **Damage** 1d10+4 slashing 
-**Sinful Bite** Creatures that critically fail their saves against a gluttonyspawn's sinful bite are drained 1. 
+ A gluttonyspawn has [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10 and usually carries a [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]]. They are corpulent, hardy, and strong. **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") scythe +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|trip]]), **Damage** 1d10+4 slashing 
+**Sinful Bite** Creatures that critically fail their saves against a gluttonyspawn's sinful bite are [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]]. 
 
 ### Greedspawn
- A greedspawn has Thievery +9 and typically wields a glaive. They are the tallest of sinspawn, often 7 feet in height, and with gold-tinged veins. **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") glaive +10 (deadly d8, forceful, reach 10 feet), **Damage** 1d8+4 slashing 
-**Sinful Bite** Creatures that critically fail their saves against a greedspawn's sinful bite are clumsy 2 for 1 minute. 
+ A greedspawn has [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +9 and typically wields a [[srd/pf2e/compendium/equipment/weapons/polearm/glaive|glaive]]. They are the tallest of sinspawn, often 7 feet in height, and with gold-tinged veins. **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") glaive +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]), **Damage** 1d8+4 slashing 
+**Sinful Bite** Creatures that critically fail their saves against a greedspawn's sinful bite are [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 2]] for 1 minute. 
 
 ### Lustspawn
- A lustspawn has Diplomacy +7 and usually carries a guisarme. They move gracefully, but have hideous faces. **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") guisarme +10 (reach 10 feet, trip), **Damage** 1d10+4 slashing 
-**Sinful Bite** Creatures that critically fail their saves against a lustspawn's sinful bite are stupefied 2 for 1 minute. 
+ A lustspawn has [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +7 and usually carries a [[srd/pf2e/compendium/equipment/weapons/polearm/guisarme|guisarme]]. They move gracefully, but have hideous faces. **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") guisarme +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|trip]]), **Damage** 1d10+4 slashing 
+**Sinful Bite** Creatures that critically fail their saves against a lustspawn's sinful bite are [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 2]] for 1 minute. 
 
 ### Pridespawn
- A pridespawn has Intimidation +7 and often wields a maul. They are nearly skeletal in their gauntness, and often seek out fine clothes or jewelry to wear, taking pleasure in appearing elegant and regal. **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") maul +10 (shove), **Damage** 1d12+4 bludgeoning 
-**Sinful Bite** Creatures that critically fail their saves against a pridespawn's sinful bite are clumsy 1 and enfeebled 1 for 1 minute. 
+ A pridespawn has [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7 and often wields a [[srd/pf2e/compendium/equipment/weapons/hammer/maul|maul]]. They are nearly skeletal in their gauntness, and often seek out fine clothes or jewelry to wear, taking pleasure in appearing elegant and regal. **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") maul +10 ([[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|shove]]), **Damage** 1d12+4 bludgeoning 
+**Sinful Bite** Creatures that critically fail their saves against a pridespawn's sinful bite are [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] for 1 minute. 
 
 ### Slothspawn
- A slothspawn has Society +6 and usually carries a longspear. Thick rolls of excess skin drape the slothspawn's hunched frame. **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") longspear +10 (reach 10 feet), **Damage** 1d8+4 piercing 
+ A slothspawn has [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +6 and usually carries a [[srd/pf2e/compendium/equipment/weapons/spear/longspear|longspear]]. Thick rolls of excess skin drape the slothspawn's hunched frame. **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") longspear +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]), **Damage** 1d8+4 piercing 
 **Sinful Bite** Creatures that critically fail their saves against a slothspawn's sinful bite take a –10-foot status penalty to their Speeds for 1 minute. 
 
 ### Wrathspawn
- The most commonly encountered of the sinspawn, a wrathspawn has Athletics +12 and typically wields a ranseur. These sinspawn are the most muscular of their kind.
- **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ranseur +10 (disarm, reach 10 feet), **Damage** 1d10+4 piercing 
-**Sinful Bite** Creatures that critically fail their saves against a wrathspawn's sinful bite are drained 1 as well as enfeebled 1 for 1 minute. 
+ The most commonly encountered of the sinspawn, a wrathspawn has [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12 and typically wields a [[srd/pf2e/compendium/equipment/weapons/polearm/ranseur|ranseur]]. These sinspawn are the most muscular of their kind.
+ **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ranseur +10 (disarm, [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]), **Damage** 1d10+4 piercing 
+**Sinful Bite** Creatures that critically fail their saves against a wrathspawn's sinful bite are [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]] as well as [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] for 1 minute. 
 
 ### Members
 
-Sinspawn (Creature 2), Sinswarm (Creature 9)
+[[srd/pf2e/bestiary/monster-core/aberration/sinspawn|Sinspawn]] (Creature 2), [[srd/pf2e/bestiary/battlecry/aberration/sinswarm|Sinswarm]] (Creature 9)
 
 ### Born of Sin
 

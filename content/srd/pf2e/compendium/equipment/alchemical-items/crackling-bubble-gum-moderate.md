@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 
 This tangy gum cracks and pops in your mouth as you chew it. While you're chewing crackling bubble gum, for up to 10 minutes, you have an item bonus to saving throws against auditory and sonic effects.
 
- **Secondary Effect** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (sonic) **Effect** You blow a bubble with the gum until it pops, after which it becomes inert. The pop deals sonic damage to all creatures in a 15-foot cone with a basic Fortitude save. A creature that fails its save is also bound with sticky gum, taking a –10-foot item penalty to its Speed for 1 minute. The creature can remove the gum with a total of 3 Interact actions. These actions don't have to be consecutive, and other creatures can provide the actions as well.
+ **Secondary Effect** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]]) **Effect** You blow a bubble with the gum until it pops, after which it becomes inert. The pop deals sonic damage to all creatures in a 15-foot cone with a basic Fortitude save. A creature that fails its save is also bound with sticky gum, taking a –10-foot item penalty to its Speed for 1 minute. The creature can remove the gum with a total of 3 Interact actions. These actions don't have to be consecutive, and other creatures can provide the actions as well.
 
 ### Crackling Bubble Gum (Lesser)
 

@@ -33,10 +33,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8"
-languages: "Chthonian, Common, Daemonic, Diabolic, Requian"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Daemonic, [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], Requian"
 skills:
   - name: "Skills"
-    desc: "Deception +10, Diplomacy +15, Fiend Lore +18, Intimidation +10, Legal Lore +18, Occultism +16, Religion +13, Society +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +10, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +15, [[srd/pf2e/compendium/rules-elements/skills/lore|Fiend Lore]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +18, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +16, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +13, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +12"
 abilityMods: [2, 2, 0, 4, 1, 3]
 abilities_top:
   - name: "Legal Specialist"
@@ -54,29 +54,29 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +9 (Agile, Finesse, versatile S) __Damage__ 1d4+6 piercing plus 1d4 persistent bleed"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+6 piercing plus 1d4 persistent bleed"
   - name: "Melee"
-    desc: "⬻ fist +9 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+6 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+6 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +9 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+6 piercing plus 1d4 persistent bleed"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+6 piercing plus 1d4 persistent bleed"
 abilities_bot:
   - name: "Fiendish Contract"
-    desc: "(Downtime, Occult) The fiend caller spends 1 day of downtime setting up a bargain between a mortal creature and a fiend the fiend caller knows well. The fiend caller attempts a Legal Lore check against the higher of the fiend's Will DC or Diplomacy DC."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/downtime|Downtime]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The fiend caller spends 1 day of downtime setting up a bargain between a mortal creature and a [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]] the fiend caller knows well. The fiend caller attempts a [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] check against the higher of the fiend's Will DC or [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] DC."
   - name: "Success"
     desc: "The mortal party receives one favor from the fiend, or the fiend becomes the mortal's minion for 1d4 days if they're on the same plane. Alternatively, if the GM allows the option, the mortal can receive a bargained contract of the fiend's level or lower."
   - name: "Failure"
     desc: "The fiend caller fails to strike the bargain."
   - name: "Critical Failure"
-    desc: "The process fails, and the magical backlash makes the fiend caller drained 2."
+    desc: "The process fails, and the magical backlash makes the fiend caller [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 2]]."
   - name: "Fiendish Ritualist"
-    desc: "A fiend caller can cast _binding circle_ and _commune_ to contact fiends even though the rituals are beyond the normal rank the fiend caller could cast. Furthermore, they can use Legal Lore for the primary check when they do so instead of the listed skill."
+    desc: "A fiend caller can cast [[srd/pf2e/compendium/spells/rituals/binding-circle|_binding circle_]] and [[srd/pf2e/compendium/spells/rituals/commune|_commune_]] to contact [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]] even though the rituals are beyond the normal rank the fiend caller could cast. Furthermore, they can use [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] for the primary check when they do so instead of the listed skill."
   - name: "Planar Communique"
-    desc: "A fiend caller can cast _sending_ at will as an occult innate spell, but only to target a fiend they know well. The fiend can be on any plane. Keeping Enemies Close Heroes may have an easier time dealing with a fiend caller peacefully than they would another villain. Fiend callers are willing to work with just about anyone as long as they receive adequate compensation and may even be helpful in stopping more dangerous fiends. But they are opportunistic above all else. Once the transaction is over, they aren't likely to stick around as a friend, and if a better deal comes along, they might void a prior contract."
+    desc: "A fiend caller can cast [[srd/pf2e/compendium/spells/rank-5/sending|_sending_]] at will as an occult innate spell, but only to target a [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]] they know well. The fiend can be on any plane. Keeping Enemies Close Heroes may have an easier time dealing with a fiend caller peacefully than they would another villain. Fiend callers are willing to work with just about anyone as long as they receive adequate compensation and may even be helpful in stopping more dangerous fiends. But they are opportunistic above all else. Once the transaction is over, they aren't likely to stick around as a friend, and if a better deal comes along, they might void a prior contract."
 spellcasting:
   - name: "Occult Prepared Spells"
-    desc: "DC 20, attack +12 - __Cantrips (2nd)__ Detect Magic, Message, Sigil, Telekinetic Hand, Void Warp - __1st__ Command, Fear, Force Barrage, Grim Tendrils - __2nd__ Calm, Paranoia, Spiritual Armament"
+    desc: "DC 20, attack +12 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/sigil|Sigil]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/void-warp|Void Warp]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/command|Command]], [[srd/pf2e/compendium/spells/rank-1/fear|Fear]], [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/calm|Calm]], [[srd/pf2e/compendium/spells/rank-2/paranoia|Paranoia]], [[srd/pf2e/compendium/spells/rank-2/spiritual-armament|Spiritual Armament]]"
   - name: "Rituals"
-    desc: "DC 20 - __6th__ Binding Circle, Commune"
+    desc: "DC 20 - __6th__ [[srd/pf2e/compendium/spells/rituals/binding-circle|Binding Circle]], Commune"
 sourcebook: "_NPC Core_, page 153."
 ```
 

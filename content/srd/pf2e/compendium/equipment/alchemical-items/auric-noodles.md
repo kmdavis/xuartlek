@@ -19,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 10 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: 10 minutes (manipulate)
+- **Activate**: 10 minutes ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Auric noodles are boiled, then pan-fried and tossed with sliced vegetables and a sticky, savory sauce incorporating alchemical reagents. After you eat the noodles, they boost your ability to sense magic for 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to checks to Identify Magic, and you can move at full speed while using the Detect Magic exploration activity.
 

@@ -23,8 +23,8 @@ source: "Guns & Gears (Remastered)"
 
 This clockwork traveler's chair has spinnerets and spider legs that allow it to roll up walls, fire web lines to pull you to a location, and obstruct foes with webs. While using the chair, you gain a climb Speed equal to your Speed.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") manipulate **Frequency** once per minute; **Effect** The chair shoots a web line at a solid wall, floor, or ceiling up to 60 feet away and then pulls itself and you to that location.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] **Frequency** once per minute; **Effect** The chair shoots a web line at a solid wall, floor, or ceiling up to 60 feet away and then pulls itself and you to that location.
 
-**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") manipulate **Frequency** once per hour; **Effect** You cause the chair to launch an enormous web to hinder your foes, with the effects of a 4th-level _web_ spell.
+**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] **Frequency** once per hour; **Effect** You cause the chair to launch an enormous web to hinder your foes, with the effects of a 4th-level _web_ spell.
 
 *Source: Guns & Gears (Remastered) p. 91*

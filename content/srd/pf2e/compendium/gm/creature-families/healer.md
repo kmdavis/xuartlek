@@ -14,11 +14,11 @@ The world is a dangerous place. Thankfully, there are those who devote their liv
 
 ### Members
 
-Apothecary (Creature -1), Humanitarian Hermit (Creature 9), Local Herbalist (Creature 1), Peerless Healer (Creature 15), Physician (Creature -1), Plague Doctor (Creature 5), Surgeon (Creature 2), Therapeutic Healer (Creature 7), Tonic Merchant (Creature 3)
+[[srd/pf2e/bestiary/npc-core/humanoid/apothecary|Apothecary]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/humanitarian-hermit|Humanitarian Hermit]] (Creature 9), [[srd/pf2e/bestiary/npc-core/humanoid/local-herbalist|Local Herbalist]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/peerless-healer|Peerless Healer]] (Creature 15), [[srd/pf2e/bestiary/npc-core/humanoid/physician|Physician]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/plague-doctor|Plague Doctor]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/surgeon|Surgeon]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/therapeutic-healer|Therapeutic Healer]] (Creature 7), [[srd/pf2e/bestiary/npc-core/humanoid/tonic-merchant|Tonic Merchant]] (Creature 3)
 
 ### Ailments
 
-Common diseases can be found here. These can be treated by most healers, though they may have longer-term physiological impacts. For unusual conditions, like bogwid fever or zombie rot, you might impose penalties on a normal healer attempting to remedy them.
+Common diseases can be found here. These can be treated by most healers, though they may have longer-term physiological impacts. For unusual conditions, like [[srd/pf2e/bestiary/monster-core/aberration/bogwid|bogwid fever]] or [[srd/pf2e/bestiary/monster-core/undead/plague-zombie|zombie rot]], you might impose penalties on a normal healer attempting to remedy them.
 
 ### Alchemical Reputation
 
@@ -34,6 +34,6 @@ The physician and surgeon are masters of Medicine; the apothecary and plague doc
  **Identify Affliction**: 1 sp
  **Treat Wounds**: 2 sp
  **Treat Disease**: 1 gp
- **First Aid or Treating a Poison**: 1 sp
+ **[[srd/pf2e/compendium/rules-elements/actions/player-core#Administer First Aid|First Aid]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Poison|Treating a Poison]]**: 1 sp
 
 *Source: NPC Core p. 60*

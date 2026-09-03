@@ -18,7 +18,7 @@ source: "GM Core"
 - **Usage**: worn gloves
 - **Bulk**: L
 
-Tiny silver hooks decorate these fine silk gloves. They grant a +1 item bonus to Thievery and allow you to cast _telekinetic hand_ as an innate occult spell. 
+Tiny silver hooks decorate these fine silk gloves. They grant a +1 item bonus to Thievery and allow you to cast [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|_telekinetic hand_]] as an innate occult spell. 
 
 ### Charlatan's Gloves
 
@@ -30,6 +30,6 @@ Tiny silver hooks decorate these fine silk gloves. They grant a +1 item bonus to
 
 ---
 
-The gloves' bonus increases to +2. If you are also wearing a _charlatan's cape_, whenever you would move an object using _telekinetic hand_, you may instead have it disappear in a puff of smoke and reappear hovering in a space adjacent to yours. This is a teleportation effect. The item hovers until the end of your turn or until retrieved with an Interact action.
+The gloves' bonus increases to +2. If you are also wearing a _[[srd/pf2e/compendium/equipment/worn-items/charlatans-cape|charlatan's cape]]_, whenever you would move an object using [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|_telekinetic hand_]], you may instead have it disappear in a puff of smoke and reappear hovering in a space adjacent to yours. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] effect. The item hovers until the end of your turn or until retrieved with an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action.
 
 *Source: GM Core p. 286*

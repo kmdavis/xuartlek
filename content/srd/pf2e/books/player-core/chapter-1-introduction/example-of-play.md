@@ -16,19 +16,19 @@ citation: "Player Core pg. 12"
 
 <sup>PC1 p. 12</sup>
 
-The following example is presented to give you a better idea of how the game of Pathfinder is played. In this adventure, Erik is the GM. Luis is playing Valeros, a daring human fighter; Shay is playing Merisiel, a deadly elven rogue, and Jessica is taking on the role of Kyra, Merisiel's wife and a compassionate human cleric of Sarenrae. The group has chosen to investigate disappearances in a local mine.
+The following example is presented to give you a better idea of how the game of Pathfinder is played. In this adventure, Erik is the GM. Luis is playing Valeros, a daring [[srd/pf2e/compendium/character/ancestries/human|human]] [[srd/pf2e/compendium/character/classes/fighter|fighter]]; Shay is playing Merisiel, a deadly [[srd/pf2e/compendium/character/ancestries/elf|elven]] [[srd/pf2e/compendium/character/classes/rogue|rogue]], and Jessica is taking on the role of Kyra, Merisiel's wife and a compassionate human [[srd/pf2e/compendium/character/classes/cleric|cleric]] of Sarenrae. The group has chosen to investigate disappearances in a local mine.
 
 Erik: The entrance to the mine is a simple iron ladder leading down into the darkness of a reinforced shaft. The sound of creaking metal echoes from below.
 
 Merisiel (Shay): The miners would need to have lights on when working. If it's dark, something must have gone wrong.
 
-**Kyra (Jessica):** I call upon the sacred light of Sarenrae and cast a golden light spell ahead of us.
+**Kyra (Jessica):** I call upon the sacred light of Sarenrae and cast a golden [[srd/pf2e/compendium/spells/cantrips/light|light]] spell ahead of us.
 **Erik:** Radiance spills forth, illuminating further down the ladder. It descends about 20 feet before ending in a tunnel. There's nothing but packed earth and wooden reinforcement beams directly below you, and you can't see any further.
 **Merisiel (Shay):** I have [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Low-Light Vision|low-light vision]], so I should go first to make sure it's safe. I put away my daggers so I can stealthily climb down the ladder, looking for traps as I go.
-**Erik:** Roll your Stealth check, but looking for traps is a secret check, so I'll roll for that. What's your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] modifier?
+**Erik:** Roll your [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check, but [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|looking for traps]] is a [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] check, so I'll roll for that. What's your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] modifier?
 **Merisiel (Shay):** I have a +6 to Perception, and I rolled an 18 on Stealth.
 
-Erik rolls a d20 behind his GM screen, hidden from the players' view, and gets a 17 on the die for a total of 23. There are no traps in the area that Merisiel is looking, but the result is more than enough to see a frightened kobold hiding behind a mine cart. Due to Merisiel's Stealth check, the kobold does not see her descend the ladder.
+Erik rolls a d20 behind his GM screen, hidden from the players' view, and gets a 17 on the die for a total of 23. There are no traps in the area that Merisiel is looking, but the result is more than enough to see a frightened [[srd/pf2e/compendium/character/ancestries/kobold|kobold]] hiding behind a mine cart. Due to Merisiel's Stealth check, the kobold does not see her descend the ladder.
 
 **Erik:** You descend into a 30-foot-wide mining tunnel, with wooden beams reinforcing the walls and ceilings. You don't see any traps, but a reptilian face with large eyes peeks out from behind a mine cart. At a closer look, it's a kobold in a leather miner jacket.
 **Valeros (Luis):** I'll follow Merisiel down the ladder.
@@ -36,7 +36,7 @@ Erik rolls a d20 behind his GM screen, hidden from the players' view, and gets a
 **Erik:** As the sound of your footsteps on the iron ladder echoes through the mine, the kobold jumps out in panic! She takes a few steps further into the mine, then stops, as if she's more frightened of whatever is deeper in than of you.
 **Kyra (Jessica):** Oh no! Poor kobold!
 **Merisiel (Shay):** Can someone calm her down? I'm terrible with people!
-**Valeros (Luis):** I have a +3 Diplomacy. I'll call out to her.
+**Valeros (Luis):** I have a +3 [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]]. I'll call out to her.
 **Erik:** What do you say?
 **Valeros (Luis):** "Hello friend! Don't be scared, we're here to help!" I rolled a 15 on my Diplomacy check.
 **Erik:** Okay! The kobold seems startled, but then runs to you for safety. "Oh! Thank Torag you're here!"
@@ -56,7 +56,7 @@ Everyone rolls for their initiative. Luis gets a total of 13. Jessica rolls bett
 
 **Erik:** Looks like Merisiel gets to act first. Whatever that thing is, you're pretty sure it doesn't know you are there.
 **Merisiel (Shay):** Just the way I like it! For my first action, I want to move closer.
-**Erik:** You can get to within 15 feet of it with one Stride action.
+**Erik:** You can get to within 15 feet of it with one [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] action.
 **Merisiel (Shay):** Excellent. For my next action, I'm going to throw my dagger at it, and then use my final action to draw another dagger.
 
 Shay rolls a 13 and adds 8, due to Merisiel's skill at thrown daggers, for a total of 21, but the [[srd/pf2e/books/player-core/chapter-8-playing-the-game/effects#Range and Reach|range]] means the attack takes a –2 penalty for a result of 19. Erik consults his notes to learn that the monster has an AC of 15.
@@ -67,21 +67,21 @@ Shay rolls a 13 and adds 8, due to Merisiel's skill at thrown daggers, for a tot
 Rogues have the ability to deal extra damage to foes that haven't acted yet in an encounter. This extra damage also applies to attacks against enemies that are distracted. Shay rolls 1d4 for the dagger and 1d6 for the sneak attack. Because Merisiel is attacking with a thrown weapon, Shay adds Merisiel's +1 Strength to damage, getting a total of 9.
 
 **Erik:** It hisses as the blade sinks into its shoulder. As it does, its flesh pops open, pus oozing in rivulets down its arm. Next up is Kyra!
-**Kyra (Jessica):** Gross! Okay, this creature looks undead, do I know anything about that?
-**Erik:** You can think back to your cleric training to Recall Knowledge, spending one action. It's a secret check, so what's your Religion modifier?
+**Kyra (Jessica):** Gross! Okay, this creature looks [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]], do I know anything about that?
+**Erik:** You can think back to your cleric training to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]], spending one action. It's a secret check, so what's your [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] modifier?
 **Kyra (Jessica):** It's +7.
 
 Erik rolls a 12, adding Kyra's +7 with Religion to get a total of 19 against the DC of 16.
 
-**Erik:** Your initial suspicion was correct. This is a zombie. This one appears to be larger because it was enhanced by magic. Because you already had a hunch this was a zombie, why don't you ask another question?
+**Erik:** Your initial suspicion was correct. This is a [[srd/pf2e/compendium/gm/creature-families/zombie|zombie]]. This one appears to be larger because it was enhanced by magic. Because you already had a hunch this was a zombie, why don't you ask another question?
 **Kyra (Jessica):** Does it have any notable weaknesses?
 **Erik:** Yes, it's vulnerable to both healing magic and slashing weapons.
 **Merisiel (Shay):** Augh! If I'd known, I would have slashed with my dagger!
 
-Merisiel's daggers have a trait called versatile (slashing), which allow her to deal slashing damage instead of piercing if she chooses. Unfortunately, she didn't know that doing so would be more effective when she acted!
+Merisiel's daggers have a trait called [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile]] (slashing), which allow her to deal slashing damage instead of piercing if she chooses. Unfortunately, she didn't know that doing so would be more effective when she acted!
 
-**Kyra (Jessica):** I am going to spend my last two actions to cast runic weapon on Valeros's sword. It gives him a +1 bonus to attack rolls and another die of damage. "Valeros, get that thing!"
-**Valeros (Luis):** I do what she says and get it! I spend one action to raise my shield and use my final two actions to make a Sudden Charge!
+**Kyra (Jessica):** I am going to spend my last two actions to cast [[srd/pf2e/compendium/spells/rank-1/runic-weapon|runic weapon]] on Valeros's sword. It gives him a +1 bonus to attack rolls and another die of damage. "Valeros, get that thing!"
+**Valeros (Luis):** I do what she says and get it! I spend one action to [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|raise my shield]] and use my final two actions to make a [[srd/pf2e/compendium/feats/player-core/class/sudden-charge|Sudden Charge]]!
 
 Sudden Charge is a fighter feat that lets Valeros move twice and attack at the end of his movement, all for only two actions. He rolls to attack and the die result is a 20.
 
@@ -91,10 +91,10 @@ Sudden Charge is a fighter feat that lets Valeros move twice and attack at the e
 Luis gets to roll 2d8 because of Kyra's spell. He rolls a 9 total on those, then adds 4 because of Valeros's Strength modifier. Because it's a critical success, he then doubles the damage. Erik adds an extra 10 damage from the zombie's slashing weakness, for a total of 36 of its 70 Hit Points.
 
 **Valeros (Luis):** Aw, beans. Natural 1 on the save.
-**Erik:** And that's a critical failure, go figure. You are sickened 1, which gives you a –1 penalty to d20 rolls and AC.
+**Erik:** And that's a critical failure, go figure. You are [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1, which gives you a –1 penalty to d20 rolls and AC.
 **Valeros (Luis):** I agree with Kyra, super gross. Did my strike kill it?
 **Erik:** I'm afraid not. It lunges at you, indifferent to its grievous wounds, trying to bludgeon you with its fists!
 
-Erik rolls an attack roll for the zombie brute, getting a 7 on the die and adding 11 from its statistics for a total of 18. Valeros normally has an AC of 18. The attack would hit even if Valeros weren't sickened, but it misses because he Raised his Shield during his turn, increasing his AC by 2.
+Erik rolls an attack roll for the [[srd/pf2e/bestiary/monster-core/undead/zombie-brute|zombie brute]], getting a 7 on the die and adding 11 from its statistics for a total of 18. Valeros normally has an AC of 18. The attack would hit even if Valeros weren't sickened, but it misses because he Raised his Shield during his turn, increasing his AC by 2.
 
 That is the end of the first round of combat. The second round begins immediately after this, using the same initiative order as before. The fight is far from over...

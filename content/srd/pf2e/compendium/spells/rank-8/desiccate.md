@@ -23,7 +23,7 @@ source: "Player Core"
 - **Target**: any number of living creatures
 - **Defense**: basic Fortitude
 
-You pull the moisture from the targets' bodies, dealing 10d10 void damage. Creatures made of water (such as water elementals) and plant creatures use the outcome for one degree of success worse than the result of their saving throw. Creatures whose bodies contain no significant moisture (such as earth elementals) are immune to _desiccate_.
+You pull the moisture from the targets' bodies, dealing 10d10 void damage. Creatures made of water (such as water elementals) and [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] creatures use the outcome for one degree of success worse than the result of their saving throw. Creatures whose bodies contain no significant moisture (such as earth elementals) are immune to _desiccate_.
 
 ---
 **Heightened (+1)** The damage increases by 1d10.

@@ -21,7 +21,7 @@ source: "GM Core"
 DC 21 (trained)
 
 **Disable**
-DC 18 Survival (trained) to safely remove the mold
+DC 18 [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] (trained) to safely remove the mold
 
 **AC** 18, **Fort** +11, **Ref** +5
 
@@ -29,16 +29,16 @@ DC 18 Survival (trained) to safely remove the mold
 30 (BT 15)
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
 **Weaknesses**
-fire 10
+[[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10
 
 **Feed on Decay** The mold expands when fed by blood or decay. If at any point a creature takes bleed damage while adjacent to the mold or a dying or dead body is adjacent to the mold, the mold grows to expand into every square adjacent to its current space. This can happen only once per day.
-**Spore Burst** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (poison) **Frequency** once per day; **Trigger** A creature touches the mold, hits it, or damages it; **Effect** The mold explodes in a burst of spores and mold clusters, dealing 2d6+6 poison damage to creatures within 10 feet of it, with a DC 18 basic Fortitude save. 
+**Spore Burst** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) **Frequency** once per day; **Trigger** A creature touches the mold, hits it, or damages it; **Effect** The mold explodes in a burst of spores and mold clusters, dealing 2d6+6 poison damage to creatures within 10 feet of it, with a DC 18 [[srd/pf2e/books/player-core/chapter-7-spells/defenses#Basic Saving Throws|basic]] Fortitude save. 
 
 ---
 **Reset**
-Unless entirely eradicated (typically with acid or fire), the mold regrows over the course of 2 weeks.
+Unless entirely eradicated (typically with [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] or fire), the mold regrows over the course of 2 weeks.
 
 *Source: GM Core p. 103*

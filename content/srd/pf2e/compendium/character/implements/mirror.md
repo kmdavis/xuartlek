@@ -22,10 +22,10 @@ Your mirror self shatters into punishing shards when damaged. When an enemy adja
 
 ### Intensify Benefit
 
-Reinforcing your mirror lets it play tricks on your enemy's senses as it bends light this way or that. You become concealed to the target of your Exploit Vulnerability as your mirror warps its perceptions. As normal for concealment where your overall location is still obvious, you can't use this concealment to Hide or Sneak.
+Reinforcing your mirror lets it play tricks on your enemy's senses as it bends light this way or that. You become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to the target of your Exploit Vulnerability as your mirror warps its perceptions. As normal for concealment where your overall location is still obvious, you can't use this concealment to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]].
 
 ### Paragon Benefit
 
-You've become so skilled at reflecting yourself that you can combine making a reflection with your other movements to act right away. When you use Mirror's Reflection, you can have one of your selves immediately Interact, Seek, or Strike.
+You've become so skilled at reflecting yourself that you can combine making a reflection with your other movements to act right away. When you use Mirror's Reflection, you can have one of your selves immediately Interact, [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]], or Strike.
 
 *Source: Dark Archives (Remastered) p. 38*

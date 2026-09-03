@@ -48,7 +48,7 @@ source: "Battlecry!"
 
 The arm of this modified catapult ends in three baskets, the aim of which can be adjusted to fling its payload over a wider spread. A shatterpult is usually loaded with specially made “shatterstones,” which are constructed to explode into hundreds of sharp shards upon impact. The jagged pieces of a burst of shatterstones make the ground difficult to cross, similar to a handful of caltrops.
 **Aim** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") 50 feet, minimum distance 50 feet 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 2 times, requires a successful DC 20 Athletics check 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate, range increment 150 feet) 4d8 piercing, three different 10-foot bursts that can’t overlap and no two can be farther than 50 feet from another, DC 25 Reflex; the affected areas become difficult terrain for 1 hour
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times, requires a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check 
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], manipulate, range increment 150 feet) 4d8 piercing, three different 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|bursts]] that can’t overlap and no two can be farther than 50 feet from another, DC 25 Reflex; the affected areas become [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for 1 hour
 
 *Source: Battlecry! p. 105*

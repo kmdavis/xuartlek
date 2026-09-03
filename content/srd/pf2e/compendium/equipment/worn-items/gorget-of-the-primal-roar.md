@@ -21,9 +21,9 @@ source: "GM Core"
 
 This engraved duskwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks. 
 
-**Activate—Primal Roar** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (auditory, concentrate, emotion, _fear_, mental) **Frequency** once during the duration of each polymorph effect; **Requirements** You're in a non-humanoid form via a polymorph effect; **Effect** You unleash a bestial roar, attempting a single Intimidation check compared to the Will DCs of all enemies within 30 feet to impose the effects below.
+**Activate—Primal Roar** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], _fear_, [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) **Frequency** once during the duration of each polymorph effect; **Requirements** You're in a non-humanoid form via a polymorph effect; **Effect** You unleash a bestial roar, attempting a single Intimidation check compared to the Will DCs of all enemies within 30 feet to impose the effects below.
 
-**Critical Success** The creature is frightened 2
+**Critical Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 2
 
 **Success** The creature is frightened 1
 

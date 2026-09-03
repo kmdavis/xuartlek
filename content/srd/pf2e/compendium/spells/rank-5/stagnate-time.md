@@ -25,7 +25,7 @@ You examine the time stream in a particular area, then proceed to stick a few me
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is slowed 1 this turn.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 this turn.
 
 **Critical Failure** The creature is slowed 2 this turn.
 

@@ -18,7 +18,7 @@ Vanaras are monkey-like humanoids who dwell in treetop villages high in the cano
 
 ### Members
 
-Vanara Disciple (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/vanara-disciple|Vanara Disciple]] (Creature 1)
 
 ### The Hero and The King
 

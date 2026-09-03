@@ -27,7 +27,7 @@ With a cruel grasp, you reach into your opponent and squeeze at their heart. The
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage and is sickened 1.
+**Success** The target takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
 
 **Failure** The target takes full damage and is sickened 2.
 

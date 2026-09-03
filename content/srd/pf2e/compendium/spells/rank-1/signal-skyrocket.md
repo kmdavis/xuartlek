@@ -31,9 +31,9 @@ With a pinch of metallic powder and gunpowder, you call forth blistering red ene
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is dazzled for 1 round.
+**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
 
-**Critical Failure** The creature takes double damage and is blinded for 1 round.
+**Critical Failure** The creature takes double damage and is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round.
 
 ---
 **Heightened (+1)** The sonic damage increases by 1d10.

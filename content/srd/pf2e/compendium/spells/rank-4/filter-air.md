@@ -18,7 +18,7 @@ source: "Battlecry!"
 `Air`  `Concentrate`  `Manipulate`  `Subtle`
 
 - **Traditions**: Arcane, Divine, Primal
-- **Trigger**: You’re exposed to a poison or disease that has the inhaled trait, and you’re aware of the exposure
+- **Trigger**: You’re exposed to a [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] that has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/inhaled|inhaled]] trait, and you’re aware of the exposure
 - **Requirements**: You breathe air.
 - **Duration**: 1 minute
 

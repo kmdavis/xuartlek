@@ -31,7 +31,7 @@ perception:
     desc: "Perception +6; darkvision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +4, Athletics +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +4, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7"
 abilityMods: [4, 1, 4, -4, 3, 1]
 ac: 15
 armorclass:
@@ -47,7 +47,7 @@ abilities_mid:
 speed: "5 feet, swim 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tail +7 (reach 10 feet) __Damage__ 1d6+4 bludgeoning"
+    desc: "⬻ tail +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d6+4 bludgeoning"
 abilities_bot:
   - name: "Sudden Retreat"
     desc: "⬺ The hippocampus makes a tail Strike, then Swims with a +10-foot circumstance bonus to its swim Speed. It gains a +2 circumstance bonus to AC against reactions triggered by this movement. Aquatic Cavalry Protecting the harbor of Absalom and the shores of Starstone Isle, the elite Wave Riders use combat-trained hippocampi as mounts. The Wave Riders harass enemy ships, defend against aquatic foes, and intercept smugglers."

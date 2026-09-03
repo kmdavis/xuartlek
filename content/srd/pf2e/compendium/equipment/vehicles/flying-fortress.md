@@ -26,7 +26,7 @@ The ultimate battlefield command center, this massive skyborne castle serves as 
 
 **Passengers** 100
 
-**Piloting Check** Arcana (DC 42) or Piloting Lore (DC 40)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (DC 42) or [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] (DC 40)
 
 ---
 
@@ -38,15 +38,15 @@ The ultimate battlefield command center, this massive skyborne castle serves as 
 
 **HP** 330 (BT 165)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
 ---
 
-**Speed** Speed fly 30 feet (clockwork, magical, wind)
+**Speed** Speed fly 30 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], wind)
 
 **Collision** 15d10 (DC 40)
 
 **Sluggish** This vehicle must move twice its length for each 90-degree turn it makes.
-**Weapon Mounts** This vehicle has eight weapon mounts, with two on each side of the fortress. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 40 Crafting check, and an appropriate weapon. These weapon mounts can be equipped with Huge or smaller ranged siege weapons.
+**Weapon Mounts** This vehicle has eight weapon mounts, with two on each side of the fortress. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 40 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, and an appropriate weapon. These weapon mounts can be equipped with Huge or smaller ranged siege weapons.
 
 *Source: Battlecry! p. 109*

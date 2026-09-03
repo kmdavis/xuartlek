@@ -18,7 +18,7 @@ source: "GM Core"
 
 - **Price**: 3 gp
 - **Usage**: affixed to a weapon
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You critically succeed at an attack roll with the affixed weapon.
 
 This claw set in an iron clasp and chain is usually that of a large predator. When you activate the claw, the triggering attack gains the weapon's critical specialization effect.

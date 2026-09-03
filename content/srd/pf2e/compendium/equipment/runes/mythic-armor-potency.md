@@ -19,10 +19,10 @@ source: "War of Immortals"
 - **Price**: 70,000 gp
 - **Usage**: etched onto armor
 
-This armor is etched with a mythical ward providing unparalleled defense. Increase the armor’s item bonus to AC by 4, and the armor can be etched with four property runes.
+This armor is etched with a mythical ward providing unparalleled defense. Increase the armor’s item bonus to AC by 4, and the armor can be etched with four [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#Property Runes|property runes]].
 
-**Activate—Survive Devastation** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Trigger** An enemy critically succeeds against you with a weapon or unarmed Strike; **Effect** Spend a Mythic Point; if the triggering Strike was made by a mythic creature, it’s a normal success instead. If it was made by a non-mythic creature, it’s a failure.
+**Activate—Survive Devastation** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** An enemy critically succeeds against you with a weapon or unarmed [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]]; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; if the triggering Strike was made by a mythic creature, it’s a normal success instead. If it was made by a non-mythic creature, it’s a failure.
 
-**Craft Requirements** Mythic armor potency runes can only be crafted, etched, or transferred by a mythic character capable of making a Crafting check at mythic proficiency (such as by having the Artisan’s Calling).
+**Craft Requirements** Mythic armor potency runes can only be crafted, etched, or transferred by a mythic character capable of making a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check at mythic proficiency (such as by having the Artisan’s Calling).
 
 *Source: War of Immortals p. 148*

@@ -60,14 +60,14 @@ Like goblins, hobgoblin names tend to be simple, though hobgoblin names usually 
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
-Goblin
+[[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Draconic, Dwarven, Jotun, Halfling, Kholo, Orcish, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]], and any other languages to which you have access (such as the languages prevalent in your region).
 
-| | |
-| --- | --- |
-| **Darkvision** | You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white. |
+#### [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkvision and Greater Darkvision|Darkvision]]
+
+You can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkness|darkness]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Dim Light|dim light]] just as well as you can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]], though your vision in darkness is in black and white.
 
 *Source: Player Core 2 p. 12*

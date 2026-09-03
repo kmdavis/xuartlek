@@ -23,7 +23,7 @@ source: "Impossible Magic"
 - **Target**: 1 of your thralls
 - **Duration**: 1 minute
 
-You turn one of your thralls into a conduit to bind the spirit of a hero into your body. Destroy the target thrall and gain a +1 status bonus to attack rolls and saving throws. Additionally, whenever you critically hit a creature with a Strike, you can create a thrall in a space adjacent to the target of the Strike, as your heroic attack inspires other spirits to join you on the battlefield.
+You turn one of your thralls into a conduit to bind the spirit of a hero into your body. Destroy the target thrall and gain a +1 status bonus to attack rolls and saving throws. Additionally, whenever you critically hit a creature with a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], you can create a thrall in a space adjacent to the target of the Strike, as your heroic attack inspires other spirits to join you on the battlefield.
 
 ---
 **Heightened (6th)** The status bonus increases to +2.

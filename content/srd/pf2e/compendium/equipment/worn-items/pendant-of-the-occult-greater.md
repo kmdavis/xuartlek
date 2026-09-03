@@ -31,6 +31,6 @@ This amulet is hollow and shaped in the form of an unblinking eye. Its cavity ty
 
 The pendant grants a +2 item bonus and can be activated. 
 
-**Activate—Dream Message** (concentrate, manipulate) **Frequency** once per day; **Effect** You cast a 4th-rank _dream message_ spell.
+**Activate—Dream Message** ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You cast a 4th-rank _dream message_ spell.
 
 *Source: GM Core p. 293*

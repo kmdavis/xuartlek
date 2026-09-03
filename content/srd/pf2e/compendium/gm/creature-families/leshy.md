@@ -10,11 +10,11 @@ source: "Monster Core"
 
 # Leshy  *Creature Family*
 
-Leshies are intelligent plant creatures who guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic—typically a druid— combines a nature spirit with a body carefully grown and crafted from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal's grove, a druidic circle, a fairy ring, or a great natural wonder.
+Leshies are intelligent plant creatures who guard areas of primeval wilderness or earthly power. Originally created by powerful fey, they manifest when a skilled practitioner of primal magic—typically a [[srd/pf2e/compendium/character/classes/druid|druid]]— combines a nature spirit with a body carefully grown and crafted from local vegetation. The rites and materials required to create a leshy vary depending on the type of leshy. They are typically given life in an area of great natural significance, such as an arboreal's grove, a druidic circle, a fairy ring, or a great natural wonder.
 
 ### Members
 
-Corn Leshy Throng (Creature 4), Fungus Leshy (Creature 2), Gourd Leshy (Creature 1), Gourd Leshy Witch (Creature 6), Leaf Leshy (Creature 0), Leather Cap (Creature 2), Leshy Mob (Creature 11), Redwood Leshy (Creature 10), Root Leshy Groundskeeper (Creature -1), Tumbleweed Leshy Courier (Creature 3)
+[[srd/pf2e/bestiary/npc-core/plant/corn-leshy-throng|Corn Leshy Throng]] (Creature 4), [[srd/pf2e/bestiary/monster-core/fungus/fungus-leshy|Fungus Leshy]] (Creature 2), [[srd/pf2e/bestiary/monster-core/plant/gourd-leshy|Gourd Leshy]] (Creature 1), [[srd/pf2e/bestiary/npc-core/plant/gourd-leshy-witch|Gourd Leshy Witch]] (Creature 6), [[srd/pf2e/bestiary/monster-core/plant/leaf-leshy|Leaf Leshy]] (Creature 0), Leather Cap (Creature 2), Leshy Mob (Creature 11), Redwood Leshy (Creature 10), [[srd/pf2e/bestiary/npc-core/plant/root-leshy-groundskeeper|Root Leshy Groundskeeper]] (Creature -1), [[srd/pf2e/bestiary/npc-core/plant/tumbleweed-leshy-courier|Tumbleweed Leshy Courier]] (Creature 3)
 
 ### Appeasing Leshy Guardians
 
@@ -26,15 +26,15 @@ When a leshy dies, their body explodes in a wave of vegetation as their spirit r
 
 ### Friends in the Forest
 
-Because of their relative frailty, leaf leshies frequently act as liaisons and call upon more powerful forest guardians when their domains are threatened. Nymphs, sprites, and other goodly fey may respond to the call of a leaf leshy, as may arboreals and other plant creatures.
+Because of their relative frailty, leaf leshies frequently act as liaisons and call upon more powerful forest guardians when their domains are threatened. [[srd/pf2e/compendium/gm/creature-families/nymph|Nymphs]], sprites, and other goodly [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]] may respond to the call of a leaf leshy, as may [[srd/pf2e/compendium/gm/creature-families/arboreal|arboreals]] and other plant creatures.
 
 ### Phytoremediation
 
-Leshies and other plants can cleanse the environment of pollution, such as pesticides, oil, and even radiation. They can heal the land simply by building a leshy settlement and dwelling there over time. More ambitious leshies battle against corruption in whatever way they are best suited for. For example, a leshy might join the Sarkorian Reclaimers to liberate the land from demonic influences, or they might worship Sarenrae and fight against the Whispering Tyrant's legion of undead.
+Leshies and other plants can cleanse the environment of pollution, such as pesticides, oil, and even radiation. They can heal the land simply by building a leshy settlement and dwelling there over time. More ambitious leshies battle against corruption in whatever way they are best suited for. For example, a leshy might join the Sarkorian Reclaimers to liberate the land from [[srd/pf2e/compendium/gm/creature-families/demon|demonic]] influences, or they might worship Sarenrae and fight against the Whispering Tyrant's legion of [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]].
 
 ### Plant Allies
 
-Some leshies align themselves (or are even called forth by) other sentient plant creatures, many of which also take vaguely humanoid forms. Though mighty arboreals tend not to associate with those who don't live as long as they do, they share many a leshy's desire to protect the forests in which they live. Dryads feel similarly, as they are bonded to a specific tree that might need guarding. More mischievous or cruel leshies, though, might find kindred spirits in sprigjacks and twigjacks, who look to drive off interlopers in the natural world.
+Some leshies align themselves (or are even called forth by) other sentient plant creatures, many of which also take vaguely humanoid forms. Though mighty [[srd/pf2e/compendium/gm/creature-families/arboreal|arboreals]] tend not to associate with those who don't live as long as they do, they share many a leshy's desire to protect the forests in which they live. [[srd/pf2e/bestiary/monster-core/fey/dryad|Dryads]] feel similarly, as they are bonded to a specific tree that might need guarding. More mischievous or cruel leshies, though, might find kindred spirits in [[srd/pf2e/bestiary/monster-core/fey/sprigjack|sprigjacks]] and [[srd/pf2e/bestiary/monster-core/fey/twigjack|twigjacks]], who look to drive off interlopers in the natural world.
 
 ### Terrors of Arenway
 

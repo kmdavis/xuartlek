@@ -16,7 +16,7 @@ Deep beneath the surface, the dour dwarves known as hryngars stubbornly toil, cl
 
 ### Members
 
-Hryngar Bombardier (Creature 1), Hryngar Sharpshooter (Creature 0), Hryngar Taskmaster (Creature 2)
+[[srd/pf2e/bestiary/monster-core/humanoid/hryngar-bombardier|Hryngar Bombardier]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/hryngar-sharpshooter|Hryngar Sharpshooter]] (Creature 0), [[srd/pf2e/bestiary/monster-core/humanoid/hryngar-taskmaster|Hryngar Taskmaster]] (Creature 2)
 
 ### Hryngar Communities
 

@@ -26,7 +26,7 @@ This heavy gunboat features solid hardwood timbers covered with thick iron plate
 
 **Passengers** 30
 
-**Piloting Check** Arcana (DC 42) or Sailing Lore (DC 40)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (DC 42) or [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] (DC 40)
 
 ---
 
@@ -38,15 +38,15 @@ This heavy gunboat features solid hardwood timbers covered with thick iron plate
 
 **HP** 320 (BT 160)
 
-**Immunities** object immunities, precision damage
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
 ---
 
-**Speed** swim 40 feet (magical)
+**Speed** swim 40 feet ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])
 
 **Collision** 14d10 (DC 40)
 
 **Sluggish** This vehicle must move twice its length for each 90-degree turn it makes.
-**Weapon Mounts** This vehicle has four weapon mounts, two on each side of the vehicle. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 40 Crafting check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
+**Weapon Mounts** This vehicle has four weapon mounts, two on each side of the vehicle. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 40 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
 
 *Source: Battlecry! p. 114*

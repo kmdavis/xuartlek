@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 3 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Carefully harvested from the skin of the poisonous spear frog, this toxin causes a burning rash and weakness in the limbs. Each frog yields enough toxin to Craft one dose of spear frog poison.
 

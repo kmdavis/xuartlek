@@ -18,13 +18,13 @@ source: "War of Immortals"
 
 `Complex`  `Kaiju`  `Mythic`  `Primal`  `Rare`
 
-- **Complexity**: Complex Electricity suffuses an area where Agyra has used her lightning breath multiple times.
+- **Complexity**: Complex Electricity suffuses an area where [[srd/pf2e/bestiary/war-of-immortals/beast/agyra|Agyra]] has used her lightning breath multiple times.
 
 **Stealth**
 +20 (expert) or DC 33 (master) to notice sparks dancing around normally non-conductive surfaces
 
 **Disable**
-DC 35 Crafting (master) to fashion a makeshift lightning rod, DC 33 Nature (expert) to dissipate the electrical charge harmlessly into the air
+DC 35 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (master) to fashion a makeshift lightning rod, DC 33 [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert) to dissipate the electrical charge harmlessly into the air
 
 **Static Shock** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") lightning bolt +24 (range increment 120 feet), **Damage** 2d12+15 electricity
 

@@ -62,7 +62,7 @@ Sometimes you’ll want a creature that’s weaker than normal so you can use a 
 
 ## Languages
 
-The languages listed in a creature’s entry represent the languages a typical creature of that type knows. However, you might want to vary these based on the specific creature. For instance, if a creature is interested in speaking with or understanding the people in its region, it would most likely know the language those people speak. This language is most often Common, but you can give it a more appropriate language depending on where the creature lives (such as Sakvroth for [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/beyond-the-inner-sea#The Darklands|the Darklands]]).
+The languages listed in a creature’s entry represent the languages a typical creature of that type knows. However, you might want to vary these based on the specific creature. For instance, if a creature is interested in speaking with or understanding the people in its region, it would most likely know the language those people speak. This language is most often [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], but you can give it a more appropriate language depending on where the creature lives (such as [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]] for [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/beyond-the-inner-sea#The Darklands|the Darklands]]).
 
 Beings from other planes are unlikely to know any languages from [[srd/pf2e/books/gm-core/chapter-2-building-games/building-worlds#The Universe|the Universe]] unless they frequently travel there. If such a creature knows a mortal language, then that creature likely is interested in communicating with mortals. This language is most often Common, though keep in mind that such a creature should speak Common only if it specifically travels to or studies your campaign’s world and region above others.
 
@@ -72,33 +72,33 @@ The languages are listed on [[srd/pf2e/books/player-core/chapter-2-ancestries-ba
 
 | Language | Speakers |
 | --- | --- |
-| Alghollthu | Alghollthu, thralls, and enemies |
+| Alghollthu | [[srd/pf2e/compendium/gm/creature-families/alghollthu\|Alghollthu]], thralls, and enemies |
 | Amurrun | Catfolk |
-| Arboreal | Arboreals and other plant creatures |
-| Boggard | Boggards |
-| Caligni | Calignis and associated creatures |
-| Cyclops | Cyclopes |
-| Daemonic | Daemons and those who buy souls |
-| Kholo | Kholos and pugwampis |
-| Iruxi | Lizardfolk |
-| Muan | Wood elemental creatures |
-| Protean | Proteans and related creatures |
-| Requian | Psychopomps and related creatures |
+| Arboreal | [[srd/pf2e/compendium/gm/creature-families/arboreal\|Arboreals]] and other [[srd/pf2e/compendium/rules-elements/traits/player-core/plant\|plant]] creatures |
+| Boggard | [[srd/pf2e/compendium/gm/creature-families/boggard\|Boggards]] |
+| Caligni | [[srd/pf2e/compendium/gm/creature-families/caligni\|Calignis]] and associated creatures |
+| Cyclops | [[srd/pf2e/compendium/gm/creature-families/cyclops\|Cyclopes]] |
+| Daemonic | [[srd/pf2e/compendium/gm/creature-families/daemon\|Daemons]] and those who buy souls |
+| [[srd/pf2e/compendium/rules-elements/languages#Kholo\|Kholo]] | [[srd/pf2e/compendium/gm/creature-families/kholo\|Kholos]] and [[srd/pf2e/bestiary/monster-core/fey/pugwampi\|pugwampis]] |
+| Iruxi | [[srd/pf2e/compendium/gm/creature-families/lizardfolk\|Lizardfolk]] |
+| [[srd/pf2e/compendium/rules-elements/languages#Muan\|Muan]] | [[srd/pf2e/compendium/gm/creature-families/elemental-wood\|Wood elemental]] creatures |
+| Protean | [[srd/pf2e/compendium/gm/creature-families/protean\|Proteans]] and related creatures |
+| Requian | [[srd/pf2e/compendium/gm/creature-families/psychopomp\|Psychopomps]] and related creatures |
 | Sphinx | Sphinxes |
-| Talican | Metal elemental creatures |
-| Tengu | Tengus |
-| Utopian | Aeons, archons, coatls, and allies |
+| [[srd/pf2e/compendium/rules-elements/languages#Talican\|Talican]] | [[srd/pf2e/compendium/gm/creature-families/elemental-metal\|Metal elemental]] creatures |
+| Tengu | [[srd/pf2e/compendium/gm/creature-families/tengu\|Tengus]] |
+| Utopian | [[srd/pf2e/compendium/gm/creature-families/aeon\|Aeons]], [[srd/pf2e/compendium/gm/creature-families/archon\|archons]], [[srd/pf2e/compendium/gm/creature-families/coatl\|coatls]], and allies |
 
 ## Gear
 
-Some creatures rely on gear, like armor and weapons. You might need statistics for such a creature that has lost its gear. For example, a creature could be Disarmed, it might be ambushed while it’s out of its armor, or one of its worn magic items could be disabled with dispel magic. In most cases, you can simply improvise, but if you want to be more exacting, use these guidelines for weapons and armor.
+Some creatures rely on gear, like armor and weapons. You might need statistics for such a creature that has lost its gear. For example, a creature could be [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarmed]], it might be ambushed while it’s out of its armor, or one of its worn magic items could be disabled with [[srd/pf2e/compendium/spells/rank-2/dispel-magic|dispel magic]]. In most cases, you can simply improvise, but if you want to be more exacting, use these guidelines for weapons and armor.
 
-If a creature loses its weapon, it might draw another weapon or use an unarmed attack. If it uses a Strike it doesn’t have listed in its stat block, find a Strike entry for the creature that most closely matches the substitute, reduce the attack modifier by 2, and use the damage dice for the new Strike. If the creature needs to make an unarmed attack and doesn’t have one listed in its stat block, it uses the statistics for a fist. If the creature loses a weapon with a weapon potency rune, you usually should reduce the attack modifier by 2 plus the bonus granted by the weapon’s *potency* rune for the new weapon. For example, if the creature is Disarmed of its *+1 mace*, then you would reduce the attack modifier by 3 instead of 2 for the new Strike.
+If a creature loses its weapon, it might draw another weapon or use an unarmed attack. If it uses a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] it doesn’t have listed in its stat block, find a Strike entry for the creature that most closely matches the substitute, reduce the attack modifier by 2, and use the damage dice for the new Strike. If the creature needs to make an unarmed attack and doesn’t have one listed in its stat block, it uses the statistics for a [[srd/pf2e/compendium/equipment/weapons/brawling/fist|fist]]. If the creature loses a weapon with a [[srd/pf2e/compendium/equipment/runes/weapon-potency-3|weapon potency]] rune, you usually should reduce the attack modifier by 2 plus the bonus granted by the weapon’s *potency* rune for the new weapon. For example, if the creature is Disarmed of its *+1 [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]*, then you would reduce the attack modifier by 3 instead of 2 for the new Strike.
 
-If a creature doesn’t have its armor, find the armor in its Items entry, and reduce the creature’s AC by that armor’s item bonus. If the armor has an armor potency rune, increase the reduction as appropriate; for example, if the creature has a suit of +2 chain mail in its statistics, and the characters catch the creature without its armor, you would reduce the creature’s AC by 6 instead of 4. If the armor has a resilient rune, reduce the creature’s saves based on the rune’s type (1 for *resilient*, 2 for *greater resilient*, or 3 for *major resilient*).
+If a creature doesn’t have its armor, find the armor in its Items entry, and reduce the creature’s AC by that armor’s item bonus. If the armor has an [[srd/pf2e/compendium/equipment/runes/armor-potency-3|armor potency]] rune, increase the reduction as appropriate; for example, if the creature has a suit of +2 [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]] in its statistics, and the characters catch the creature without its armor, you would reduce the creature’s AC by 6 instead of 4. If the armor has a [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] rune, reduce the creature’s saves based on the rune’s type (1 for *resilient*, 2 for *greater resilient*, or 3 for *major resilient*).
 
 ## Skills, Perception, and Proficiency
 
-In some situations, such as when a creature is trying to Disable a PC’s snare, you need to know the creature’s proficiency rank. Creatures are trained in the skills listed in their stat blocks and untrained in skills that aren’t listed. A creature usually has expert proficiency in its listed skills around 5th level, master proficiency around 9th level, and legendary proficiency around 17th level. A creature might need a certain proficiency rank in Perception to detect certain things. Many creatures have expert proficiency in Perception and improve to master proficiency around 7th level and legendary proficiency around 13th level.
+In some situations, such as when a creature is trying to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disable a Device|Disable]] a PC’s snare, you need to know the creature’s proficiency rank. Creatures are trained in the skills listed in their stat blocks and untrained in skills that aren’t listed. A creature usually has expert proficiency in its listed skills around 5th level, master proficiency around 9th level, and legendary proficiency around 17th level. A creature might need a certain proficiency rank in Perception to detect certain things. Many creatures have expert proficiency in Perception and improve to master proficiency around 7th level and legendary proficiency around 13th level.
 
-At your discretion, creatures with world-class aptitude for a particular skill or in Perception, such as a shadow with Stealth, might have a higher proficiency rank in that skill or Perception.
+At your discretion, creatures with world-class aptitude for a particular skill or in Perception, such as a shadow with [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], might have a higher proficiency rank in that skill or Perception.

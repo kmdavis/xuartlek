@@ -29,16 +29,16 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; darkvision"
-languages: "Common, Goblin"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +12, Athletics +15, Intimidation +14, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [4, 3, 2, 0, 1, 2]
 abilities_top:
   - name: "General's Cry"
-    desc: "When a hobgoblin general rolls initiative, as long as they can perceive at least one foe, they can yell a mighty battle cry. The hobgoblin general attempts an Intimidation check to Demoralize a single foe within 60 feet as a free action. If successful, any ally can, as its first action on its first turn of the combat, Stride up to double its speed as a single action."
+    desc: "When a hobgoblin general rolls initiative, as long as they can perceive at least one foe, they can yell a mighty battle cry. The hobgoblin general attempts an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] a single foe within 60 feet as a free action. If successful, any ally can, as its first action on its first turn of the combat, Stride up to double its speed as a single action."
   - name: "Items"
-    desc: "Composite Shortbow (20 arrows), _+1 glaive_, Half Plate"
+    desc: "Composite Shortbow (20 arrows), _+1 [[srd/pf2e/compendium/equipment/weapons/polearm/glaive|glaive]]_, Half Plate"
 ac: 25
 armorclass:
   - name: "AC"
@@ -53,9 +53,9 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _glaive_ +17 (deadly d8, Forceful, Reach) __Damage__ 1d8+10 slashing"
+    desc: "⬻ _glaive_ +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]]) __Damage__ 1d8+10 slashing"
   - name: "Ranged"
-    desc: "⬻ composite shortbow +15 (Brutal, deadly d10, Propulsive, range increment 60 feet, reload 0) __Damage__ 1d6+8 piercing"
+    desc: "⬻ composite shortbow +15 (Brutal, [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 60 feet, reload 0) __Damage__ 1d6+8 piercing"
 abilities_bot:
   - name: "Polearm Critical Specialization"
     desc: "On a critical hit, the target of the critical hit is moved 5 feet in a direction of the hobgoblin general's choice."

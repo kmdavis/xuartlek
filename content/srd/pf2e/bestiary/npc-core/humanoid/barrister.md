@@ -29,18 +29,18 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Deception +10, Diplomacy +12, Legal Lore +13, Performance +10, Society +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +10, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +12, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +13, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +10, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9"
 abilityMods: [0, 1, 1, 3, 2, 4]
 abilities_top:
   - name: "Legal Specialist"
     desc: "In a court case or other legal proceeding, the barrister is a 4thlevel challenge."
   - name: "Sway the Judge and Jury"
-    desc: "A barrister gains a +2 circumstance bonus to Diplomacy checks to Make an Impression or Request something of the deciding members within a courtroom. If the barrister successfully Performs against a DC of 20 during the 20 minutes prior to the check, they increase the circumstance bonus to +4."
+    desc: "A barrister gains a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]] something of the deciding members within a courtroom. If the barrister successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Perform|Performs]] against a DC of 20 during the 20 minutes prior to the check, they increase the circumstance bonus to +4."
   - name: "Items"
-    desc: "court garb (functions as fine clothing), law book (functions as scholarly journal), Writing Set"
+    desc: "court garb (functions as [[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fine clothing]]), law book (functions as [[srd/pf2e/compendium/equipment/adventuring-gear/scholarly-journal-compendium|scholarly journal]]), Writing Set"
 ac: 13
 armorclass:
   - name: "AC"
@@ -52,10 +52,10 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +4 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ fist +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
 abilities_bot:
   - name: "Cite Precedent"
-    desc: "⬻ (Auditory, Linguistic) The barrister uses existing case law to undermine their opposition. If they succeed at a DC 20 Legal Lore check, they impose a –2 circumstance penalty on the next Diplomacy check an opponent attempts in a legal argument. Any further attempts to Cite Precedent fail until a new topic with different precedents is being argued."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]]) The barrister uses existing case law to undermine their opposition. If they succeed at a DC 20 [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] check, they impose a –2 circumstance penalty on the next [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check an opponent attempts in a legal argument. Any further attempts to Cite Precedent fail until a new topic with different precedents is being argued."
 sourcebook: "_NPC Core_, page 108."
 ```
 

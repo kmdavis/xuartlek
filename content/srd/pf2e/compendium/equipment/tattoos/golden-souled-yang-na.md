@@ -21,7 +21,7 @@ source: "Impossible Magic"
 
 The traditions of these large tattoos, often stretching over the back or shoulders, have been passed from Tang Mai’s tree-keeping priests to their students across Tian Xia. 
 
-**Activate—Soul Blessing** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per day; **Trigger** You take an action with the rage, stance, or tandem trait; **Effect** The tattoo purifies your mind and body, reducing your clumsy, enfeebled, frightened, or stupefied condition by 1.
-**Special** While you are under the effect of Rage, the Soul Blessing action gains the rage trait.
+**Activate—Soul Blessing** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** You take an action with the rage, stance, or tandem trait; **Effect** The tattoo purifies your mind and body, reducing your [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]], [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], or [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] condition by 1.
+**Special** While you are under the effect of [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]], the Soul Blessing action gains the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/rage|rage]] trait.
 
 *Source: Impossible Magic p. 243*

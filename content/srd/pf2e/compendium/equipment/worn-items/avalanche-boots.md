@@ -20,8 +20,8 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn shoes
 - **Bulk**: 1
 
-While the insides of these boots are comfortable, fur-lined leather, the outsides are a jumble of slate plates, giving the impression of a rockslide. You gain a +3 item bonus to Athletics checks and a +2 circumstance bonus to Force Open and Shove. When you invest the boots, you either increase your Strength modifier by 1 or increase it to +4, whichever would give you a higher value.
+While the insides of these boots are comfortable, fur-lined leather, the outsides are a jumble of slate plates, giving the impression of a rockslide. You gain a +3 item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks and a +2 circumstance bonus to Force Open and Shove. When you invest the boots, you either increase your Strength modifier by 1 or increase it to +4, whichever would give you a higher value.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per hour; **Trigger** You succeed or critically succeed with a Shove; **Effect** If the Shove was a success, you push your opponent up to 10 feet instead of 5 feet. If the Shove was a critical success, you push your opponent up to 20 feet, and you can then choose to knock them prone.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Trigger** You succeed or critically succeed with a Shove; **Effect** If the Shove was a success, you push your opponent up to 10 feet instead of 5 feet. If the Shove was a critical success, you push your opponent up to 20 feet, and you can then choose to knock them [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Treasure Vault (Remastered) p. 102*

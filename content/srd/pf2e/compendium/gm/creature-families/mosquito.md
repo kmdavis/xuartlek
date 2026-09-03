@@ -14,10 +14,10 @@ While the common mosquito is a pest capable of spreading deadly diseases, their 
 
 ### Members
 
-Giant Mosquito (Creature 6)
+[[srd/pf2e/bestiary/monster-core-2/animal/giant-mosquito|Giant Mosquito]] (Creature 6)
 
 ### Malaria Strains
 
-The most common version of malaria—a pernicious disease often associated with mosquitoes—is presented within GM Core, and while the variants inflicted by mosquito swarms and giant mosquitoes are deadlier, they don’t have the chance to recur after 1d4 months. Pyrexic malaria also causes weakness and fevers, while septic malaria causes painful and infected lesions to form on the body. Regardless of the strain you contract, you can’t reduce your sickened condition while you’re affected with malaria.
+The most common version of [[srd/pf2e/compendium/gm/diseases#Malaria|malaria]]—a pernicious disease often associated with mosquitoes—is presented within GM Core, and while the variants inflicted by mosquito swarms and giant mosquitoes are deadlier, they don’t have the chance to recur after 1d4 months. Pyrexic malaria also causes weakness and fevers, while septic malaria causes painful and infected lesions to form on the body. Regardless of the strain you contract, you can’t reduce your sickened condition while you’re affected with malaria.
 
 *Source: Monster Core 2 p. 228*

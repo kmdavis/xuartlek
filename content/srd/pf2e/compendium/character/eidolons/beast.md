@@ -15,7 +15,7 @@ source: "Impossible Magic"
 `Beast`  `Eidolon`
 
 - **Tradition**: Primal
-- **Home Plane**: The Universe
+- **Home Plane**: [[srd/pf2e/compendium/gm/planes#The Universe|The Universe]]
 
 **Size** Medium
 
@@ -29,11 +29,11 @@ source: "Impossible Magic"
 - Cha 0
 - AC ( Dex cap)
 
-**Skills** Intimidation, Nature
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
 
 **Senses** low-light vision
 
-**Language** Fey
+**Language** [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]
 
 **Speed** 25 feet
 
@@ -51,7 +51,7 @@ Your eidolon rushes forward, using their momentum to increase the power of their
 
 ### Primal Roar [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
-Your eidolon unleashes a primal roar or other terrifying noise that fits your eidolon's form. Your eidolon attempts to Demoralize each enemy that can hear the roar, comparing the result of a single Intimidation check to the Will DC of each target; this check doesn't take any penalty for not sharing a language.
+Your eidolon unleashes a primal roar or other terrifying noise that fits your eidolon's form. Your eidolon attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] each enemy that can hear the roar, comparing the result of a single Intimidation check to the Will DC of each target; this check doesn't take any penalty for not sharing a language.
 
 ### Whirlwind Maul [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 

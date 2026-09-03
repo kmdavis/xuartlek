@@ -17,7 +17,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Magic
+- **Domain**: [[srd/pf2e/compendium/character/domains#Magic|Magic]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: sustained up to 1 minute

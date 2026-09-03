@@ -21,9 +21,9 @@ source: "Treasure Vault (Remastered)"
 
 **Perception** +17; precise vision 30 feet, imprecise hearing 30 feet, imprecise sense of heat 30 feet
 
-**Communication** telepathy (Common, Pyric, and two other common languages)
+**Communication** telepathy ([[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]], and two other common languages)
 
-**Skills** Arcana +21, Fire Lore +23, Nature +17
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +21, Fire Lore +23, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +17
 
 **Int** +4, **Wis** +0, **Cha** +5
 
@@ -31,8 +31,8 @@ source: "Treasure Vault (Remastered)"
 
 --- 
 
-A _kindled tome_ is a _book of lingering blazes_ awakened to sapience and imbued with an enthusiasm for fire. It encourages you to learn new fire spells to inscribe within its pages. When you attempt a skill check to Learn a Spell to add a spell with the fire trait to the _kindled tome_, you treat your result as one step better than you rolled. The tome can be disparaging about other spells as “a waste of good page space,” especially if those spells have the cold or water traits. In addition to the activation of a _book of lingering blazes_, a _kindled tome_ has the following activations.
+A _kindled tome_ is a _book of lingering blazes_ awakened to sapience and imbued with an enthusiasm for fire. It encourages you to learn new [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] spells to inscribe within its pages. When you attempt a skill check to Learn a Spell to add a spell with the fire trait to the _kindled tome_, you treat your result as one step better than you rolled. The tome can be disparaging about other spells as “a waste of good page space,” especially if those spells have the [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] traits. In addition to the activation of a _book of lingering blazes_, a _kindled tome_ has the following activations.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** The tome casts _fireball_ at 5th level to your specifications.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The tome casts _fireball_ at 5th level to your specifications.
 
 *Source: Treasure Vault (Remastered) p. 195*

@@ -14,7 +14,7 @@ entries: 6
 `Consumable`  `Magical`  `Talisman`  `Uncommon`
 
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 These wooden discs sometimes form spontaneously at the Wood Pile, a secret conrasu location suffused with extraplanar energy. A _conrasu coin_ can be activated to call upon the power of a specific type of aeon.
 
@@ -24,9 +24,9 @@ These wooden discs sometimes form spontaneously at the Wood Pile, a secret conra
 
 ---
 
-**Trigger** You attempt a Diplomacy check to Make an Impression.
+**Trigger** You attempt a Diplomacy check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]].
 
- This coin has small wings like an arbiter, the messenger and diplomat aeon. When you activate the coin, you gain a +2 circumstance bonus on the Diplomacy check, which increases to a +3 circumstance bonus to Make an Impression on a creature with the aeon trait.
+ This coin has small wings like an arbiter, the messenger and diplomat aeon. When you activate the coin, you gain a +2 circumstance bonus on the Diplomacy check, which increases to a +3 circumstance bonus to Make an Impression on a creature with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/aeon|aeon]] trait.
 
 ### Conrasu Coin (Bythos)
 
@@ -36,7 +36,7 @@ These wooden discs sometimes form spontaneously at the Wood Pile, a secret conra
 
 **Trigger** You're targeted with an attack but the opponent hasn't rolled yet.
 
- This cog-like coin bears an hourglass on one side and the four-armed silhouette of a bythos—aeons that steward over time—on the other. When activated, you catch a glimpse of your body moving on one of its potential timelines in response to danger and you follow those movements to dodge. You gain a +2 circumstance bonus to AC against the attack, and after resolving the attack, you can Stride up to 10 feet without triggering reactions. If you have the Nimble Roll feat and the attack misses, you can Stride up to 20 feet instead.
+ This cog-like coin bears an hourglass on one side and the four-armed silhouette of a bythos—aeons that steward over time—on the other. When activated, you catch a glimpse of your body moving on one of its potential timelines in response to danger and you follow those movements to dodge. You gain a +2 circumstance bonus to AC against the attack, and after resolving the attack, you can Stride up to 10 feet without triggering reactions. If you have the [[srd/pf2e/compendium/feats/player-core/class/nimble-roll|Nimble Roll]] feat and the attack misses, you can Stride up to 20 feet instead.
 
 *Source: Dark Archives (Remastered) p. 155*
 
@@ -48,7 +48,7 @@ These wooden discs sometimes form spontaneously at the Wood Pile, a secret conra
 - **Usage**: held in 2 hands
 - **Bulk**: 1
 
-This wooden box unfolds into a stack of hinged trays holding calipers, magnifying lenses, acids and reagents, comparison sketches of species commonly mistaken for one another, and glass slides for specimen testing. When you use this kit to study accounts of a creature or what it left behind (such as spoor, tracks, or fur samples), you gain a +1 item bonus to Recall Knowledge about the creature or to Track the creature. In addition, if you fail to Recall Knowledge about the creature (but don't critically fail), you're able to eliminate at least one possibility of a common type of animal. For instance, you might be able to verify the creature isn't an ankhrav, even if you get no further information.
+This wooden box unfolds into a stack of hinged trays holding calipers, magnifying lenses, acids and reagents, comparison sketches of species commonly mistaken for one another, and glass slides for specimen testing. When you use this kit to study accounts of a creature or what it left behind (such as spoor, tracks, or fur samples), you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] about the creature or to [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] the creature. In addition, if you fail to Recall Knowledge about the creature (but don't critically fail), you're able to eliminate at least one possibility of a common type of animal. For instance, you might be able to verify the creature isn't an [[srd/pf2e/compendium/gm/creature-families/ankhrav|ankhrav]], even if you get no further information.
 
 *Source: Dark Archives (Remastered) p. 63*
 
@@ -60,7 +60,7 @@ This wooden box unfolds into a stack of hinged trays holding calipers, magnifyin
 - **Usage**: held in 2 hands
 - **Bulk**: 1
 
-This wooden box unfolds into a stack of hinged trays holding calipers, magnifying lenses, acids and reagents, comparison sketches of species commonly mistaken for one another, and glass slides for specimen testing. When you use this kit to study accounts of a creature or what it left behind (such as spoor, tracks, or fur samples), you gain a +1 item bonus to Recall Knowledge about the creature or to Track the creature. In addition, if you fail to Recall Knowledge about the creature (but don't critically fail), you're able to eliminate at least one possibility of a common type of animal. For instance, you might be able to verify the creature isn't an ankhrav, even if you get no further information.
+This wooden box unfolds into a stack of hinged trays holding calipers, magnifying lenses, acids and reagents, comparison sketches of species commonly mistaken for one another, and glass slides for specimen testing. When you use this kit to study accounts of a creature or what it left behind (such as spoor, tracks, or fur samples), you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] about the creature or to [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] the creature. In addition, if you fail to Recall Knowledge about the creature (but don't critically fail), you're able to eliminate at least one possibility of a common type of animal. For instance, you might be able to verify the creature isn't an [[srd/pf2e/compendium/gm/creature-families/ankhrav|ankhrav]], even if you get no further information.
 
 *Source: Dark Archives (Remastered) p. 63*
 
@@ -68,11 +68,11 @@ This wooden box unfolds into a stack of hinged trays holding calipers, magnifyin
 
 `Contract`  `Invested`  `Magical`  `Rare`
 
-You never perform to an empty crowd after promising any profits to a phantom in a playhouse, sealed by holes that appear in your pockets. By meeting with the attendees at your events, you can use Performance instead of Diplomacy to Gather Information. When you would use Performance to Earn Income, you don't earn any gold pieces, as the money disappears before you can even count it.
+You never perform to an empty crowd after promising any profits to a phantom in a playhouse, sealed by holes that appear in your pockets. By meeting with the attendees at your events, you can use Performance instead of Diplomacy to [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gather Information]]. When you would use Performance to [[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Earn Income]], you don't earn any gold pieces, as the money disappears before you can even count it.
 
  The entity that holds your _bargained contract_ can influence your reception any time you perform for a crowd or Activate the pocket. If they influence your performance favorably, you gain a +2 item bonus to your Performance check. If they influence your performance unfavorably, you take a -2 item penalty to your Performance check. If you've failed to earn the entity money in quite a while, it often influences your performance unfavorably. 
 
-**Activate—Beguiling Presence** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** You exercise all of your charm on a creature, turning a chance meeting into an impromptu performance that commands attention. Attempt a single Performance check against the Perception DC of the creature. On a success, the creature is affected as though by a successful Deception check to Create a Diversion. The entity that holds your contract can influence this performance as well.
+**Activate—Beguiling Presence** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You exercise all of your charm on a creature, turning a chance meeting into an impromptu performance that commands attention. Attempt a single [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check against the Perception DC of the creature. On a success, the creature is affected as though by a successful Deception check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Create a Diversion|Create a Diversion]]. The entity that holds your contract can influence this performance as well.
 
 *Source: Dark Archives (Remastered) p. 165*
 
@@ -82,7 +82,7 @@ You never perform to an empty crowd after promising any profits to a phantom in 
 
 - **Usage**: worn
 
-Smiling faces are inscribed about this silver band. You become a fluent weaver of fictions, gaining a +2 item bonus to Deception checks to Lie, Deception DCs against Sense Motive, and Performance checks for storytelling. Whenever you're under suspicion or being questioned by an authority figure, you find yourself compulsively spinning absurd, tall tales that are so unconvincing that they make you look guilty even when you're innocent. The ring's bonuses vanish, and any listener can quickly determine you're lying. Nevertheless, you're completely unable to be honest in such situations.
+Smiling faces are inscribed about this silver band. You become a fluent weaver of fictions, gaining a +2 item bonus to Deception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]], Deception DCs against [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]], and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks for storytelling. Whenever you're under suspicion or being questioned by an authority figure, you find yourself compulsively spinning absurd, tall tales that are so unconvincing that they make you look guilty even when you're innocent. The ring's bonuses vanish, and any listener can quickly determine you're lying. Nevertheless, you're completely unable to be honest in such situations.
 
 *Source: Dark Archives (Remastered) p. 161*
 
@@ -92,6 +92,6 @@ Smiling faces are inscribed about this silver band. You become a fluent weaver o
 
 - **Usage**: worn
 
-Smiling faces are inscribed about this silver band. You become a fluent weaver of fictions, gaining a +2 item bonus to Deception checks to Lie, Deception DCs against Sense Motive, and Performance checks for storytelling. Whenever you're under suspicion or being questioned by an authority figure, you find yourself compulsively spinning absurd, tall tales that are so unconvincing that they make you look guilty even when you're innocent. The ring's bonuses vanish, and any listener can quickly determine you're lying. Nevertheless, you're completely unable to be honest in such situations.
+Smiling faces are inscribed about this silver band. You become a fluent weaver of fictions, gaining a +2 item bonus to Deception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]], Deception DCs against [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]], and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks for storytelling. Whenever you're under suspicion or being questioned by an authority figure, you find yourself compulsively spinning absurd, tall tales that are so unconvincing that they make you look guilty even when you're innocent. The ring's bonuses vanish, and any listener can quickly determine you're lying. Nevertheless, you're completely unable to be honest in such situations.
 
 *Source: Dark Archives (Remastered) p. 161*

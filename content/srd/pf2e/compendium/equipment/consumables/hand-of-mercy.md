@@ -19,8 +19,8 @@ source: "Battlecry!"
 - **Price**: 7 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Shaped like an open-palmed hand, this small sculpture of smooth sandstone seems to blunt a weapon when applied rather than sharpen it. For 1 minute, a weapon to which a _hand of mercy_ is applied gains the nonlethal trait and can’t be used to make lethal attacks. Any persistent damage the weapon would deal is negated.
+Shaped like an open-palmed hand, this small sculpture of smooth sandstone seems to blunt a weapon when applied rather than sharpen it. For 1 minute, a weapon to which a _hand of mercy_ is applied gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait and can’t be used to make lethal attacks. Any [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] the weapon would deal is negated.
 
 *Source: Battlecry! p. 135*

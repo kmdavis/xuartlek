@@ -33,10 +33,10 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; darkvision"
-languages: "Common, Necril"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +20, Intimidation +18, Stealth +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +20, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18"
 abilityMods: [6, 2, 4, 0, 3, 2]
 ac: 27
 armorclass:
@@ -45,26 +45,26 @@ armorclass:
 hp: 150
 health:
   - name: "HP"
-    desc: "150 (4 segments, fueled by spite, void healing); __Weaknesses__ area damage 7, splash damage 7"
+    desc: "150 (4 segments, fueled by spite, void healing); __Weaknesses__ area damage 7, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 7"
 abilities_mid:
   - name: "Final Grudge"
     desc: "⬲"
   - name: "Trigger"
     desc: "The wight battalion is about to lose a segment due to Hit Point damage"
   - name: "Effect"
-    desc: "The wights strike out as they fall. Each enemy in a 5-foot emanation takes 2d4 piercing damage (DC 25 basic Reflex save). This occurs before the battalion loses a segment."
+    desc: "The wights strike out as they fall. Each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] takes 2d4 piercing damage (DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). This occurs before the battalion loses a segment."
   - name: "Fueled by Spite"
-    desc: "Each time a creature loses Hit Points due to the wight battalion's corrupting spite curse, the battalion gains 6 temporary Hit Points that last for 1 round."
+    desc: "Each time a creature loses Hit Points due to the wight battalion's corrupting spite curse, the battalion gains 6 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] that last for 1 round."
   - name: "Troop Defenses"
     desc: ""
 speed: "25 feet; troop movement"
 abilities_bot:
   - name: "Corrupting Spite"
-    desc: "(Curse, Divine, Void) The wight battalion's attacks inflict a curse that makes a creature grow weak and spiteful. A living humanoid that dies while under this curse rises as a wight after 1d4 rounds, controlled by the wight battalion that inflicted the curse. This new wight can't inflict corrupting spite and is clumsy 2. If the creating wight battalion dies or after roughly a month of existence, the new wight becomes autonomous and becomes a normal wight"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) The wight battalion's attacks inflict a curse that makes a creature grow weak and spiteful. A living humanoid that dies while under this curse rises as a [[srd/pf2e/bestiary/monster-core/undead/wight|wight]] after 1d4 rounds, controlled by the wight battalion that inflicted the curse. This new wight can't inflict corrupting spite and is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2. If the creating wight battalion dies or after roughly a month of existence, the new wight becomes autonomous and becomes a normal wight"
   - name: "Saving Throw"
     desc: "DC 25 Fortitude"
   - name: "Stage 1"
-    desc: "drained 1 (1 round)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 (1 round)"
   - name: "Stage 2"
     desc: "drained 2 and doesn't treat any creatures as allies (1 round)"
   - name: "Stage 3"
@@ -72,7 +72,7 @@ abilities_bot:
   - name: "Stage 4"
     desc: "As stage 2, except drained 4 (1 round)."
   - name: "Hateful Daggers"
-    desc: "The wights coordinate melee attacks with the daggers they were buried with. Each enemy within a 5-foot emanation attempts a DC 25 basic Reflex save. The damage depends on the number of actions. On a failed save, the creature is also exposed to corrupting spite. ⬻ 2d4 piercing damage ⬺ 4d4+8 piercing damage ⬽ 4d4+14 piercing damage"
+    desc: "The wights coordinate melee attacks with the daggers they were buried with. Each enemy within a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] attempts a DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. On a failed save, the creature is also exposed to corrupting spite. ⬻ 2d4 piercing damage ⬺ 4d4+8 piercing damage ⬽ 4d4+14 piercing damage"
 sourcebook: "_Battlecry!_, page 194."
 ```
 

@@ -18,6 +18,6 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 2 hands
 - **Bulk**: L
 
-This apparatus increases the viscosity of the reagents in alchemical bombs, to deadly effect. As a 10-minute activity that has the manipulate trait, you can use a bomb coagulant alembic to distill the contents of one infused alchemical bomb that deals splash damage into a stickier substance. After distilling, the bomb deals no splash damage but instead deals persistent damage equal to and of the same type as its original splash damage. If the bomb already deals persistent damage, distilling increases that damage by the bomb’s original splash damage.
+This apparatus increases the viscosity of the reagents in alchemical bombs, to deadly effect. As a 10-minute activity that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait, you can use a bomb coagulant alembic to distill the contents of one [[srd/pf2e/compendium/rules-elements/traits/player-core-2/infused|infused]] alchemical bomb that deals [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage into a stickier substance. After distilling, the bomb deals no splash damage but instead deals [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] equal to and of the same type as its original splash damage. If the bomb already deals persistent damage, distilling increases that damage by the bomb’s original splash damage.
 
 *Source: Treasure Vault (Remastered) p. 63*

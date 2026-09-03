@@ -19,6 +19,6 @@ source: "Dark Archives (Remastered)"
 - **Area**: 15-foot emanation centered on you
 - **Duration**: sustained up to 1 minute
 
-You infuse the air around you with a sustained hum that allows creatures within it to resist distractions. The DC of any flat check to Cast a Spell while stupefied for creatures within the area is 2 lower. Confused creatures in the area don't attack anyone, including themselves, and instead lose the ability to speak coherently. You take a –2 penalty to Stealth checks to Hide and Sneak.
+You infuse the air around you with a sustained hum that allows creatures within it to resist distractions. The DC of any flat check to Cast a Spell while [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] for creatures within the area is 2 lower. [[srd/pf2e/compendium/rules-elements/conditions#Confused|Confused]] creatures in the area don't attack anyone, including themselves, and instead lose the ability to speak coherently. You take a –2 penalty to Stealth checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]].
 
 *Source: Dark Archives (Remastered) p. 105*

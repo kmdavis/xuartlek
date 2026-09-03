@@ -35,7 +35,7 @@ perception:
     desc: "Perception +16; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +20, Intimidation +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +20, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +15"
 abilityMods: [7, 2, 4, -5, 2, 2]
 ac: 25
 armorclass:
@@ -44,11 +44,11 @@ armorclass:
 hp: 105
 health:
   - name: "HP"
-    desc: "105 (void healing); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
+    desc: "105 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5, piercing 5, slashing 5"
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +18 (Agile, reach 10 feet) __Damage__ 2d6+11 slashing"
+    desc: "⬻ claw +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+11 slashing"
 abilities_bot:
   - name: "Broad Swipe"
     desc: "⬺ As skeletal giant, but with its claw Strike."

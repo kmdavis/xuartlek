@@ -48,7 +48,7 @@ source: "Guns & Gears (Remastered)"
 
 Like the standard springald, an alchemical springald can launch three arrows simultaneously when its paddle is released. It fires specially crafted and balanced bomb arrows that carry black powder enhanced alchemical payloads that explode on impact.
  **Aim** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") 30 feet, minimum distance 50 feet
- **Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 3 times
- **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate, range increment 100 feet) 10d6 damage and 3 splash damage, three different targets within a 15-foot burst, DC 30 Reflex. The damage type depends on the alchemical ammunition used: acid, cold, electricity, or fire. Creatures take the splash damage only once from the launch, even if they're in the area of more than one of the three splashes.
+ **Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 3 times
+ **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], range increment 100 feet) 10d6 damage and 3 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage, three different targets within a 15-foot burst, DC 30 Reflex. The damage type depends on the alchemical ammunition used: acid, cold, electricity, or fire. Creatures take the splash damage only once from the launch, even if they're in the area of more than one of the three splashes.
 
 *Source: Guns & Gears (Remastered) p. 173*

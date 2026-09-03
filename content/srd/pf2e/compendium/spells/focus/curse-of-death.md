@@ -37,7 +37,7 @@ Your patron wraps a hand around your target's heart. The target must attempt a F
 
 **Failure** The target is afflicted with the curse of death at stage 1.
 
-**Critical Failure** The target is afflicted with the curse of death at stage 2. **Curse of Death** (curse, death, void) This curse ends when the spell ends; **Stage 1** 4d6 void damage and fatigued (1 round); **Stage 2** 8d6 void damage and fatigued (1 round); **Stage 3** 12d6 void damage and fatigued (1 round); **Stage 4** death
+**Critical Failure** The target is afflicted with the curse of death at stage 2. **Curse of Death** ([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) This curse ends when the spell ends; **Stage 1** 4d6 void damage and [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] (1 round); **Stage 2** 8d6 void damage and fatigued (1 round); **Stage 3** 12d6 void damage and fatigued (1 round); **Stage 4** death
 
 ---
 **Heightened (+1)** Increase the void damage taken on a success and during the first three stages of the curse by 1d6.

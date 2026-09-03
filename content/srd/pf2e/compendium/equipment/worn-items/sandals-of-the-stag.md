@@ -20,8 +20,8 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn shoes
 - **Bulk**: L
 
-These sturdy leather sandals feature straps that wrap up to the knees. Etched in the leather are intricate patterns of stags leaping through the forest. You gain a +5-foot item bonus to your land Speed and a +3 item bonus on Athletics checks when attempting to High Jump or Long Jump. When you invest the sandals, you either increase your Strength modifier by 1 or increase it to +4, whichever would give you a higher value.
+These sturdy leather sandals feature straps that wrap up to the knees. Etched in the leather are intricate patterns of stags leaping through the forest. You gain a +5-foot item bonus to your land Speed and a +3 item bonus on [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks when attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#High Jump|High Jump]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Long Jump|Long Jump]]. When you invest the sandals, you either increase your Strength modifier by 1 or increase it to +4, whichever would give you a higher value.
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per minute; **Trigger** You attempt a High Jump or Long Jump but you didn't Stride at least 10 feet; **Effect** You can attempt the jump normally. It doesn't automatically fail.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per minute; **Trigger** You attempt a High Jump or Long Jump but you didn't Stride at least 10 feet; **Effect** You can attempt the jump normally. It doesn't automatically fail.
 
 *Source: Treasure Vault (Remastered) p. 104*

@@ -16,7 +16,7 @@ source: "GM Core"
 `Invested`  `Magical`
 
 - **Usage**: worn gloves
-- **Base Weapon**: Fist
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/brawling/fist|Fist]]
 
 As you invest these embroidered strips of cloth, you must meditate and slowly wrap them around your hands. These handwraps have weapon runes etched into them to give your unarmed attacks the benefits of those runes, making your unarmed attacks work like magic weapons. For example_, +1 striking handwraps of mighty blows_ would give you a +1 item bonus to attack rolls with your unarmed attacks and increase the damage of your unarmed attacks from one weapon die to two (normally 2d4 instead of 1d4, but if your fists have a different weapon damage die or you have other unarmed attacks, use two of that die size instead).
 

@@ -29,18 +29,18 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; darkvision"
-languages: "Common, Dwarven"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +6, Crafting +12, Society +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +6"
 abilityMods: [2, 1, 2, 3, 1, -1]
 abilities_top:
   - name: "Blacksmithing Specialist"
     desc: "For encounters involving blacksmithing, the dwarf smith is a 5th-level challenge."
   - name: "Temper Armament"
-    desc: "(downtime) The smith spends 1 day tempering a single suit of metallic armor, metallic shield, or metallic weapon. Tempering armor or a shield increases its Hardness by 1. Tempering a weapon grants the weapon a +1 circumstance bonus to damage rolls. Regardless of the item, the tempering remains for 3 days, after which item is temporarily immune to further tempering for 1 week as the technique would otherwise damage it."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/downtime|downtime]]) The smith spends 1 day tempering a single suit of metallic armor, metallic shield, or metallic weapon. Tempering armor or a shield increases its Hardness by 1. Tempering a weapon grants the weapon a +1 circumstance bonus to damage rolls. Regardless of the item, the tempering remains for 3 days, after which item is temporarily immune to further tempering for 1 week as the technique would otherwise damage it."
   - name: "Items"
-    desc: "Artisan's Toolkit (blacksmithing), Clan Dagger, leather apron (functions as padded armor), Light Hammer"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]] (blacksmithing), Clan Dagger, leather apron (functions as [[srd/pf2e/compendium/equipment/armor#Padded Armor|padded armor]]), [[srd/pf2e/compendium/equipment/weapons/hammer/light-hammer|Light Hammer]]"
 ac: 14
 armorclass:
   - name: "AC"
@@ -48,20 +48,20 @@ armorclass:
 hp: 12
 health:
   - name: "HP"
-    desc: "12; __Resistances__ fire 1"
+    desc: "12; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 1"
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ light hammer +6 (Agile) __Damage__ 1d6+2 bludgeoning"
+    desc: "⬻ light hammer +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+2 bludgeoning"
   - name: "Melee"
-    desc: "⬻ clan dagger +6 (Agile, Parry, versatile B) __Damage__ 1d4+2 piercing"
+    desc: "⬻ clan dagger +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile B]]) __Damage__ 1d4+2 piercing"
   - name: "Melee"
-    desc: "⬻ fist +6 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ light hammer +4 (Agile, thrown 20 feet) __Damage__ 1d6+2 bludgeoning"
+    desc: "⬻ light hammer +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+2 bludgeoning"
 abilities_bot:
   - name: "Crack the Shell"
-    desc: "⬺ The dwarf smith makes a Strike to break a creature's defenses. If the Strike hits and the creature is wearing armor with Hardness 9 or lower, the armor is broken. This Strike doesn't further damage armor that's already broken."
+    desc: "⬺ The dwarf smith makes a Strike to break a creature's defenses. If the Strike hits and the creature is wearing armor with Hardness 9 or lower, the armor is [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]. This Strike doesn't further damage armor that's already broken."
 sourcebook: "_NPC Core_, page 174."
 ```
 

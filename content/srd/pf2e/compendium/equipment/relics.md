@@ -17,7 +17,7 @@ entries: 102
 
 - **Aspect**: Luck
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per 10 minutes; **Trigger** You attempt a skill check with a DC that is at least 15 higher than your bonus in the skill; **Effect** You roll twice and take the better result.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per 10 minutes; **Trigger** You attempt a skill check with a DC that is at least 15 higher than your bonus in the skill; **Effect** You roll twice and take the better result.
 
 *Source: Treasure Vault (Remastered) p. 200*
 
@@ -27,9 +27,9 @@ entries: 102
 
 - **Aspect**: Metal
 
-Your relic's link to the Plane of Metal tunes it in to the inevitability of rust and decay. You can cast 5th-rank _rust cloud_ at will as an innate spell.
+Your relic's link to the [[srd/pf2e/compendium/gm/planes#Plane of Metal|Plane of Metal]] tunes it in to the inevitability of rust and decay. You can cast 5th-rank [[srd/pf2e/compendium/spells/rank-4/rust-cloud|_rust cloud_]] at will as an innate spell.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (aura, concentrate) **Frequency** once per day; **Effect** Rusted flakes swirl in a cloud around you, creating a 15-foot emanation that lasts for 1 minute. You're concealed to anyone outside the cloud. An enemy that starts its turn in the cloud takes 15 slashing damage with a basic Fortitude save. If the target has the metal trait or is primarily made of metal, the damage is 30 instead. Unattended non-magical metal items within the cloud automatically become broken.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Rusted flakes swirl in a cloud around you, creating a 15-foot emanation that lasts for 1 minute. You're [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] to anyone outside the cloud. An enemy that starts its turn in the cloud takes 15 slashing damage with a basic Fortitude save. If the target has the [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]] trait or is primarily made of metal, the damage is 30 instead. Unattended non-magical metal items within the cloud automatically become broken.
 
 *Source: Rage of Elements p. 148*
 
@@ -39,9 +39,9 @@ Your relic's link to the Plane of Metal tunes it in to the inevitability of rust
 
 - **Aspect**: Celestial
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** At your invitation, a celestial imbues your body with the divine. You gain 50 additional Hit Points, increasing both your maximum and current Hit Points, as well as weakness 10 to unholy. If the relic has the righteous call gift, this activation grants the effects of that gift as well, without expending its daily use.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** At your invitation, a celestial imbues your body with the divine. You gain 50 additional Hit Points, increasing both your maximum and current Hit Points, as well as weakness 10 to [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]. If the relic has the righteous call gift, this activation grants the effects of that gift as well, without expending its daily use.
 
- You can Dismiss the effect. If you do, you can unleash a wave of holy power, causing the relic to cast an 8th-rank _divine decree_ with the holy trait.
+ You can Dismiss the effect. If you do, you can unleash a wave of holy power, causing the relic to cast an 8th-rank _divine decree_ with the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait.
 
 *Source: GM Core p. 311*
 
@@ -59,7 +59,7 @@ Your relic grows potent natural medicines. Each night, two medicinal herbs (or o
 
 - **Aspect**: Artistry
 
-Your relic enhances your skill with Crafting or Performance. (Choose one.) If you succeed at a check with the chosen skill, you get a critical success instead.
+Your relic enhances your skill with [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]. (Choose one.) If you succeed at a check with the chosen skill, you get a critical success instead.
 
 *Source: Treasure Vault (Remastered) p. 198*
 
@@ -78,7 +78,7 @@ The relic grants you an animal's acute senses as long as you wear it. You gain l
 
 - **Aspect**: Luck
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per day; **Trigger** You attempt a d20 roll you're untrained in; **Effect** You treat your proficiency bonus as equal to half your level, or if the relic is 7th level or higher, as equal to your level. Then, roll twice, taking the better of the two results. This doesn't allow you to use a skill's trained actions.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** You attempt a d20 roll you're untrained in; **Effect** You treat your proficiency bonus as equal to half your level, or if the relic is 7th level or higher, as equal to your level. Then, roll twice, taking the better of the two results. This doesn't allow you to use a skill's trained actions.
 
 *Source: Treasure Vault (Remastered) p. 199*
 
@@ -88,7 +88,7 @@ The relic grants you an animal's acute senses as long as you wear it. You gain l
 
 - **Aspect**: Life
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** An infusion of vitality energy from your relic can temporarily animate an unliving object. You transform an adjacent inanimate object into an animated object with a level equal to one-half the relic's level and appropriate to the object (so a broom would become an animated broom). The object pursues a single simple noncombat task you state when you use Bestow Life, ignoring any subsequent commands. The object is mindless and pursues the task single-mindedly and in an uncreative manner. The object remains animated for 1 hour.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** An infusion of vitality energy from your relic can temporarily animate an unliving object. You transform an adjacent inanimate object into an animated object with a level equal to one-half the relic's level and appropriate to the object (so a broom would become an animated broom). The object pursues a single simple noncombat task you state when you use Bestow Life, ignoring any subsequent commands. The object is [[srd/pf2e/compendium/rules-elements/traits/player-core/mindless|mindless]] and pursues the task single-mindedly and in an uncreative manner. The object remains animated for 1 hour.
 
 *Source: GM Core p. 315*
 
@@ -100,7 +100,7 @@ The relic grants you an animal's acute senses as long as you wear it. You gain l
 
 Fire magic suffuses your body and soul, protecting you from lesser flames and allowing you to kindle even the smallest sparks into powerful infernos. You gain fire resistance 10. The first time each hour you are targeted by a fire effect that would deal damage, you regain 1d8 HP for every counteract rank of the effect, in addition to taking the damage.
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Trigger** A creature within 60 feet is critically hit by or critically fails a save against a fire effect and is not reduced to 0 Hit Points; **Effect** Flames roar forth from the triggering creature, dealing 6d6 fire damage to all creatures in a 15-foot burst centered on it, including that creature (basic Reflex). You aren't affected by the activation, though your allies are. If this damage reduces the triggering creature to 0 Hit Points, it's reduced to a fine ash, though its gear remains. You can't use this activation again for 1d4 rounds.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** A creature within 60 feet is critically hit by or critically fails a save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] effect and is not reduced to 0 Hit Points; **Effect** Flames roar forth from the triggering creature, dealing 6d6 fire damage to all creatures in a 15-foot burst centered on it, including that creature (basic Reflex). You aren't affected by the activation, though your allies are. If this damage reduces the triggering creature to 0 Hit Points, it's reduced to a fine ash, though its gear remains. You can't use this activation again for 1d4 rounds.
 
 *Source: GM Core p. 314*
 
@@ -108,7 +108,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Time
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** You point the relic at a creature within 30 feet, imbuing it with urgency. The creature gains the quickened condition for 1 round. After the condition ends, the creature is slowed 1 for 1 round and temporarily immune to this gift until you next perform your daily preparations.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You point the relic at a creature within 30 feet, imbuing it with urgency. The creature gains the [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] condition for 1 round. After the condition ends, the creature is slowed 1 for 1 round and temporarily immune to this gift until you next perform your daily preparations.
 
 *Source: Treasure Vault (Remastered) p. 200*
 
@@ -118,9 +118,9 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Water
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Effect** Your relic can absorb and release water, storing it in an endless reservoir. You either touch your relic to an adjacent body of water and absorb 1 gallon of it into the reservoir, or you release 1 gallon of a liquid from the reservoir. You can add another action to the activation to absorb water from a touched creature made entirely of water, like a water elemental. If you do, it takes 1d6 damage per relic level (basic Fortitude save).
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Your relic can absorb and release water, storing it in an endless reservoir. You either touch your relic to an adjacent body of water and absorb 1 gallon of it into the reservoir, or you release 1 gallon of a liquid from the reservoir. You can add another action to the activation to absorb water from a touched creature made entirely of water, like a water elemental. If you do, it takes 1d6 damage per relic level (basic Fortitude save).
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (manipulate) **Trigger** You are targeted by an acid or water effect; **Effect** Your relic attempts to counteract the effect, expending 1 gallon of stored liquid. At the GM's discretion, you can use this ability on effects made of other liquids, such as blood.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Trigger** You are targeted by an [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] effect; **Effect** Your relic attempts to counteract the effect, expending 1 gallon of stored liquid. At the GM's discretion, you can use this ability on effects made of other liquids, such as blood.
 
 *Source: GM Core p. 319*
 
@@ -128,7 +128,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Beast
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** Your relic summons a creature to fight at your side, casting _summon animal_ with a spell rank of half the item's level rounded up. You can Sustain this activation as you would the spell.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** Your relic summons a creature to fight at your side, casting _summon animal_ with a spell rank of half the item's level rounded up. You can Sustain this activation as you would the spell.
 
 *Source: GM Core p. 310*
 
@@ -138,7 +138,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Artistry
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** You speak briefly about your craft or enact a short performance. The relic casts _charm_ at a rank equal to half its own.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You speak briefly about your craft or enact a short performance. The relic casts _charm_ at a rank equal to half its own.
 
 *Source: Treasure Vault (Remastered) p. 198*
 
@@ -148,7 +148,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Luck
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per 10 minutes; **Trigger** You attempt a d20 roll affected by a misfortune effect; **Effect** Negate the misfortune effect. Any other fortune effect still applies.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per 10 minutes; **Trigger** You attempt a d20 roll affected by a [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect; **Effect** Negate the misfortune effect. Any other [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect still applies.
 
 *Source: Treasure Vault (Remastered) p. 199*
 
@@ -158,9 +158,9 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Fiend
 
-**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (concentrate) **Frequency** once per day; **Effect** Your relic opens a gate within itself, overwhelming your enemies with fiends. You cast 6th-rank summon fiend, but summon two fiends instead of one, and you can command them both with 1 action to Sustain a spell. If the relic has the profane fervor gift, this activation grants the effects of that gift as well, without expending its daily use. For the next minute, you can use the following activation.
+**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Your relic opens a gate within itself, overwhelming your enemies with fiends. You cast 6th-rank [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|summon fiend]], but summon two fiends instead of one, and you can command them both with 1 action to Sustain a spell. If the relic has the profane fervor gift, this activation grants the effects of that gift as well, without expending its daily use. For the next minute, you can use the following activation.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Effect** You summon that same fiend again in an adjacent space. The fiend returns at full Hit Points and all conditions, spells, and other effects on it end before you summon it again. However, it does not recover any limited-use abilities it used before, such as innate spells or abilities with a Frequency entry.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** You summon that same fiend again in an adjacent space. The fiend returns at full Hit Points and all conditions, spells, and other effects on it end before you summon it again. However, it does not recover any limited-use abilities it used before, such as innate spells or abilities with a Frequency entry.
 
 *Source: GM Core p. 314*
 
@@ -171,7 +171,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 - **Aspect**: Fiend
 - **Prerequisite**: The relic is a weapon.
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Trigger** Your Strike with your relic deals damage to a creature within 60 feet; **Effect** The evil within your relic curses an enemy's wound to ensure they won't heal. The triggering creature must attempt a Will save or be unable to restore the Hit Points lost by damage from the triggering Strike until its next daily preparations. If you use Curse Wound on a creature already affected by your Curse Wound, your previous application expires.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** Your Strike with your relic deals damage to a creature within 60 feet; **Effect** The evil within your relic curses an enemy's wound to ensure they won't heal. The triggering creature must attempt a Will save or be unable to restore the Hit Points lost by damage from the triggering Strike until its next daily preparations. If you use Curse Wound on a creature already affected by your Curse Wound, your previous application expires.
 
 *Source: GM Core p. 313*
 
@@ -182,7 +182,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 - **Aspect**: Shadow
 - **Prerequisite**: The relic is a weapon.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per hour; **Effect** Your relic's shadow detaches from your relic and dances through the air to attack an enemy. When you Activate the relic, designate a target. The relic's shadow flies up to 60 feet until it's adjacent to that foe and then makes a Strike against it, dealing 5d8 damage on a success or double that on a critical success; the damage type is of any type normally dealt by your relic. The shadow uses your attack bonus with the relic, and it uses and contributes to your multiple attack penalty. While this activation is in effect, you can use a single action, which has the attack and concentrate traits, to mentally direct the shadow to make another Strike against the same target. The shadow lasts until that target is reduced to 0 Hit Points, that target moves more than 400 feet from you, or that target moves to an area where no shadow could be cast, such as an area of complete darkness, whichever comes first.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** Your relic's shadow detaches from your relic and dances through the air to attack an enemy. When you Activate the relic, designate a target. The relic's shadow flies up to 60 feet until it's adjacent to that foe and then makes a Strike against it, dealing 5d8 damage on a success or double that on a critical success; the damage type is of any type normally dealt by your relic. The shadow uses your attack bonus with the relic, and it uses and contributes to your multiple attack penalty. While this activation is in effect, you can use a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] traits, to mentally direct the shadow to make another Strike against the same target. The shadow lasts until that target is reduced to 0 Hit Points, that target moves more than 400 feet from you, or that target moves to an area where no shadow could be cast, such as an area of complete darkness, whichever comes first.
 
  The shadow doesn't take up space, grant flanking, or have any other attributes a creature would, and it automatically follows the chosen foe. The shadow can't make any attack other than its Strike, and feats or spells that affect weapons do not apply to it.
 
@@ -194,9 +194,9 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Shadow
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Effect** Your relic creates a path from your shadow to a nearby one, teleporting you and any items you're wearing or holding from your current space to an unoccupied one within 30 feet that you can see. You can't use the dark roads gift again for 1d4 rounds.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** Your relic creates a path from your shadow to a nearby one, teleporting you and any items you're wearing or holding from your current space to an unoccupied one within 30 feet that you can see. You can't use the dark roads gift again for 1d4 rounds.
 
- If the destination is not within an area of bright light, the range is instead 60 feet. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the gift fails.
+ If the destination is not within an area of bright light, the range is instead 60 feet. If this would bring another creature with you—even if you're carrying it in an [[srd/pf2e/compendium/rules-elements/traits/player-core/extradimensional|extradimensional]] container—the gift fails.
 
 *Source: GM Core p. 318*
 
@@ -206,7 +206,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Air
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** A spark flashes out from the relic toward a creature within 20 feet. This spark deals 1d12 electricity damage (basic Reflex save). The damage increases by 1d12 at 6th level and by another 1d12 every 4 levels thereafter.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** A spark flashes out from the relic toward a creature within 20 feet. This spark deals 1d12 electricity damage (basic Reflex save). The damage increases by 1d12 at 6th level and by another 1d12 every 4 levels thereafter.
 
 *Source: GM Core p. 309*
 
@@ -216,7 +216,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Death
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** Your stare causes a creature's flesh to rot and wither away. Target a creature you can see within 30 feet. Your stare deals 1d6 void damage to the creature for every 2 levels the relic has (minimum 1d6; basic Fortitude save). An undead creature or other creature with void healing targeted this way is instead healed 1d6 HP per level of the relic and is temporarily immune to this effect for 10 minutes.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Your stare causes a creature's flesh to rot and wither away. Target a creature you can see within 30 feet. Your stare deals 1d6 void damage to the creature for every 2 levels the relic has (minimum 1d6; basic Fortitude save). An undead creature or other creature with void healing targeted this way is instead healed 1d6 HP per level of the relic and is temporarily immune to this effect for 10 minutes.
 
 *Source: GM Core p. 312*
 
@@ -227,7 +227,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 - **Aspect**: Celestial
 - **Prerequisite**: The relic is a weapon.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate); **Effect** Drawing upon divine fury, you single out a target that damaged you or an ally within the past round and fill your relic with divine vengeance against them. Make a Strike against that foe, dealing an additional damage die on a hit. If the target has the unholy trait, it's also enfeebled 1 until the start of your next turn on a hit (or enfeebled 2 on a critical hit).
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate); **Effect** Drawing upon divine fury, you single out a target that damaged you or an ally within the past round and fill your relic with divine vengeance against them. Make a Strike against that foe, dealing an additional damage die on a hit. If the target has the unholy trait, it's also [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] until the start of your next turn on a hit (or enfeebled 2 on a critical hit).
 
 *Source: GM Core p. 310*
 
@@ -237,7 +237,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Emotion
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per hour; **Trigger** You would be adversely affected by an emotion effect; **Effect** The relic tries to neutralize the triggering effect with its own emotion, attempting a counteract check. If the check succeeds, you feel a sudden rush of the relic's emotion and the counteracted effect doesn't take hold of you.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Trigger** You would be adversely affected by an [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effect; **Effect** The relic tries to neutralize the triggering effect with its own emotion, attempting a counteract check. If the check succeeds, you feel a sudden rush of the relic's emotion and the counteracted effect doesn't take hold of you.
 
 *Source: Treasure Vault (Remastered) p. 198*
 
@@ -247,7 +247,7 @@ Fire magic suffuses your body and soul, protecting you from lesser flames and al
 
 - **Aspect**: Earth
 
-Your relic draws strength from the earth underfoot to lighten your load. As long as your relic is on your person and you are standing on the ground, you can carry 1 more Bulk than normal before becoming encumbered, and you increase your maximum Bulk by 2. At 6th level and every 4 levels thereafter, increase the Bulk you can carry before becoming encumbered by 1 and your maximum Bulk by 2.
+Your relic draws strength from the earth underfoot to lighten your load. As long as your relic is on your person and you are standing on the ground, you can carry 1 more Bulk than normal before becoming [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]], and you increase your maximum Bulk by 2. At 6th level and every 4 levels thereafter, increase the Bulk you can carry before becoming encumbered by 1 and your maximum Bulk by 2.
 
 *Source: GM Core p. 312*
 
@@ -257,7 +257,7 @@ Your relic draws strength from the earth underfoot to lighten your load. As long
 
 - **Aspect**: Emotion
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** You channel your relic's emotion at a target within 30 feet, overpowering an emotion effect on that creature. The relic attempts a counteract check. If the check succeeds, the target feels a sudden rush of the relic's emotion, and the counteracted effect ends on the target. The target is temporarily immune to your relic's emotion conduit until you make your next daily preparations.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You channel your relic's emotion at a target within 30 feet, overpowering an [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effect on that creature. The relic attempts a counteract check. If the check succeeds, the target feels a sudden rush of the relic's emotion, and the counteracted effect ends on the target. The target is temporarily immune to your relic's emotion conduit until you make your next daily preparations.
 
 *Source: Treasure Vault (Remastered) p. 199*
 
@@ -267,18 +267,18 @@ Your relic draws strength from the earth underfoot to lighten your load. As long
 
 - **Aspect**: Emotion
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per hour; **Effect** A surge of emotion emanates from your relic, granting a +1 status bonus to skill checks determined by the relic's emotion. This bonus lasts for 1 minute.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** A surge of emotion emanates from your relic, granting a +1 status bonus to skill checks determined by the relic's emotion. This bonus lasts for 1 minute.
 
- **Anger** Athletics checks
- **Awe** Performance checks
+ **Anger** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks
+ **Awe** [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks
  **Dedication** Checks to Recall Knowledge
- **Fear** Stealth checks
- **Hatred** Intimidation checks
- **Joy** Diplomacy checks
- **Love** Medicine checks
- **Misery** Survival checks
- **Pride** Society checks
- **Remorse** Deception checks
+ **Fear** [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks
+ **Hatred** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks
+ **Joy** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks
+ **Love** [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] checks
+ **Misery** [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks
+ **Pride** [[srd/pf2e/compendium/rules-elements/skills/society|Society]] checks
+ **Remorse** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks
 
 *Source: Treasure Vault (Remastered) p. 199*
 
@@ -288,7 +288,7 @@ Your relic draws strength from the earth underfoot to lighten your load. As long
 
 - **Aspect**: Shadow
 
-The shadows at your feet can hold objects. You can Interact with your shadow to store or remove objects, just like you would a mundane container. Your shadow can contain 3 Bulk of objects, which don't count toward the Bulk you are carrying. At 6th level, and every 4 levels thereafter, you can store 1 additional Bulk of objects in your shadow. While the items are in your shadow and can be detected normally, you gain a +4 circumstance bonus to Stealth checks to Conceal the Objects unless someone knows to check your shadow for items.
+The shadows at your feet can hold objects. You can Interact with your shadow to store or remove objects, just like you would a mundane container. Your shadow can contain 3 Bulk of objects, which don't count toward the Bulk you are carrying. At 6th level, and every 4 levels thereafter, you can store 1 additional Bulk of objects in your shadow. While the items are in your shadow and can be detected normally, you gain a +4 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks to Conceal the Objects unless someone knows to check your shadow for items.
 
 *Source: GM Core p. 317*
 
@@ -310,7 +310,7 @@ Your relic is engraved with nodes and elements only visible from up close, lacki
 
 - **Aspect**: Artistry
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** You speak at length about or demonstrate your craft, or you enact a performance. The relic casts _enthrall_ at a level equal to half its own. If you have legendary proficiency in Crafting or Performance, creatures can't critically succeed on their saves against this spell. You can use Sustain an Activation to sustain the effect as you would the spell.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You speak at length about or demonstrate your craft, or you enact a performance. The relic casts _enthrall_ at a level equal to half its own. If you have legendary proficiency in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]], creatures can't critically succeed on their saves against this spell. You can use Sustain an Activation to sustain the effect as you would the spell.
 
 *Source: Treasure Vault (Remastered) p. 198*
 
@@ -331,7 +331,7 @@ You gain the Fascinating Performance skill feat while wearing or wielding the re
 - **Aspect**: Air
 - **Prerequisite**: The relic is a worn item.
 
-While wearing the relic, you do not trigger traps that use weight or pressure plates as a trigger. Also, whenever you fall, you reduce the falling damage by the level of the relic. If this would reduce the falling damage to 0, you land on your feet and are not prone. The relic grants a +1 item bonus to Athletics checks made to Jump, increasing to +2 at 9th level and +3 at 17th level.
+While wearing the relic, you do not trigger traps that use weight or pressure plates as a trigger. Also, whenever you fall, you reduce the falling damage by the level of the relic. If this would reduce the falling damage to 0, you land on your feet and are not [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. The relic grants a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks made to Jump, increasing to +2 at 9th level and +3 at 17th level.
 
 *Source: GM Core p. 310*
 
@@ -342,7 +342,7 @@ While wearing the relic, you do not trigger traps that use weight or pressure pl
 - **Aspect**: Beast
 - **Prerequisite**: The relic is a worn item.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate); **Effect** Your hands transform into a pair of claws. These grant you a claw unarmed attack that deals 1d6 slashing damage and has the agile and finesse traits. This lasts until you Dismiss the effect.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate); **Effect** Your hands transform into a pair of claws. These grant you a claw [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d6 slashing damage and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] traits. This lasts until you Dismiss the effect.
 
 *Source: GM Core p. 310*
 
@@ -355,7 +355,7 @@ While wearing the relic, you do not trigger traps that use weight or pressure pl
 
 While the relic's fervor gift lasts, you have access to the spell provided by the emotional state, which you can cast using your own spell slots. You also have access to the following activation.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, manipulate) **Effect** The relic Casts the Spell associated with its emotional fervor at the spell's lowest rank.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** The relic Casts the Spell associated with its emotional fervor at the spell's lowest rank.
 
 *Source: Treasure Vault (Remastered) p. 199*
 
@@ -365,7 +365,7 @@ While the relic's fervor gift lasts, you have access to the spell provided by th
 
 - **Aspect**: Emotion
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per hour; **Effect** You gain the emotional fervor benefits for your relic's emotional state for the next 3 rounds, but ignore the spell associated with the fervor. The feeling wears off quickly, so you experience no emotional fallout.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** You gain the emotional fervor benefits for your relic's emotional state for the next 3 rounds, but ignore the spell associated with the fervor. The feeling wears off quickly, so you experience no emotional fallout.
 
 *Source: Treasure Vault (Remastered) p. 199*
 
@@ -375,11 +375,11 @@ While the relic's fervor gift lasts, you have access to the spell provided by th
 
 - **Aspect**: Fiend
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Effect** You bargain with the evil force empowering your relic for a boon, though you must trade something in return. Select one of the following benefits to gain. 
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You bargain with the evil force empowering your relic for a boon, though you must trade something in return. Select one of the following benefits to gain. 
 
-Your relic attempts to counteract a harmful condition affecting you.You regain 3d8+16 Hit Points. This is a healing effect.You gain a +2 status bonus to attack rolls for 1 minute. One of the following randomly determined effects occurs to you in payment, after applying the benefit. 
+Your relic attempts to counteract a harmful condition affecting you.You regain 3d8+16 Hit Points. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] effect.You gain a +2 status bonus to attack rolls for 1 minute. One of the following randomly determined effects occurs to you in payment, after applying the benefit. 
 
-You are stupefied 1 for 1 minute.You are clumsy 1 for 1 minute.You lose 1d8 Hit Points.You take a –1 penalty to damage rolls for 1 minute.
+You are [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] for 1 minute.You are [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] for 1 minute.You lose 1d8 Hit Points.You take a –1 penalty to damage rolls for 1 minute.
 
 *Source: GM Core p. 313*
 
@@ -398,7 +398,7 @@ The fiendish power of your relic offers you more protection against celestials a
 
 - **Aspect**: Fire
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (attack, concentrate, manipulate) **Effect** A bolt of flames scorches out from the relic. Make a spell attack roll with your relic against a target within 30 feet. The bolt deals 1d6 fire damage for every 2 levels the relic has (minimum 1d6).
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** A bolt of flames scorches out from the relic. Make a spell attack roll with your relic against a target within 30 feet. The bolt deals 1d6 fire damage for every 2 levels the relic has (minimum 1d6).
 
 **Critical Success** The bolt deals double damage, as well as persistent fire damage equal to the level of the relic.
 
@@ -442,7 +442,7 @@ Whenever you use the relic's form of fury activation, it can cast _aerial form_ 
 
 - **Aspect**: Plant
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate) **Effect** Your relic launches a sticky, multi-stranded vine at a target within 50 feet. Make an attack roll as you would when using a grappling hook, but if you roll a critical failure on the check to secure the vine, you get a failure instead. Once the vine is anchored, creatures receive a +1 status bonus to Athletics checks to Climb the vine, and they gain a +5-foot status bonus to the distance they move with a successful check while Climbing using the vine. The vine lasts for 1 day or until you use grappling vine again, at which point your older vine withers.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Your relic launches a sticky, multi-stranded vine at a target within 50 feet. Make an attack roll as you would when using a grappling hook, but if you roll a critical failure on the check to secure the vine, you get a failure instead. Once the vine is anchored, creatures receive a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to Climb the vine, and they gain a +5-foot status bonus to the distance they move with a successful check while Climbing using the vine. The vine lasts for 1 day or until you use grappling vine again, at which point your older vine withers.
 
 *Source: GM Core p. 317*
 
@@ -452,9 +452,9 @@ Whenever you use the relic's form of fury activation, it can cast _aerial form_ 
 
 - **Aspect**: Death
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, polymorph, void) **Frequency** once per day; **Effect** You can call upon the terrifying powers that fuel your relic to transform yourself into a specter of death. You become incorporeal, having no physical body. You are immune to effects that require a physical body, including precision damage as well as exposure to most diseases and poisons. You also have resistance to all damage equal to half the relic's level; force damage, _ghost touch_ attacks, spirit damage, void damage, and vitality damage ignore this resistance, and the resistance doubles against non-magical damage.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) **Frequency** once per day; **Effect** You can call upon the terrifying powers that fuel your relic to transform yourself into a specter of death. You become [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]], having no physical body. You are immune to effects that require a physical body, including precision damage as well as exposure to most [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|diseases]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]]. You also have resistance to all damage equal to half the relic's level; [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]] damage, _ghost touch_ attacks, [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage, [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] damage, and [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] damage ignore this resistance, and the resistance doubles against non-magical damage.
 
- You can move through solid objects. When inside an object, you can't perceive, attack, or Interact with anything outside it, and you're always slowed 1 on turns you start in an object. Corporeal creatures can pass through you but can't end their movement in your space. You can't attempt Strength-based checks against corporeal creatures or objects, unless those objects have the _ghost touch_ property rune. Likewise, corporeal creatures can't attempt Strength-based checks against you. 
+ You can move through solid objects. When inside an object, you can't perceive, attack, or Interact with anything outside it, and you're always [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] on turns you start in an object. Corporeal creatures can pass through you but can't end their movement in your space. You can't attempt Strength-based checks against corporeal creatures or objects, unless those objects have the _ghost touch_ property rune. Likewise, corporeal creatures can't attempt Strength-based checks against you. 
 
 You can Sustain the activation up to 1 minute.
 
@@ -466,7 +466,7 @@ You can Sustain the activation up to 1 minute.
 
 - **Aspect**: Life
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per hour; **Effect** You release a wave of vitality energy in a 15-foot cone. You and each living target in the area regain 1d4 HP per level of the relic.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** You release a wave of vitality energy in a 15-foot cone. You and each living target in the area regain 1d4 HP per level of the relic.
 
 *Source: GM Core p. 315*
 
@@ -478,7 +478,7 @@ You can Sustain the activation up to 1 minute.
 
 Your relic's heat keeps the air around you pleasantly warm. While you are holding or wearing the relic, it protects you from severe environmental cold. At 9th level, it also protects you from extreme cold, and at 17th level, it protects you from incredible cold. At 4th level, the relic also gains the following activation.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** Your relic erratically elevates the air temperature around you, creating heat shimmers that distort your appearance and grant you the concealed condition for 1 minute. As the nature of this effect still leaves your location obvious, you can't use this concealment to Hide or Sneak.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Your relic erratically elevates the air temperature around you, creating heat shimmers that distort your appearance and grant you the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition for 1 minute. As the nature of this effect still leaves your location obvious, you can't use this concealment to Hide or Sneak.
 
 *Source: GM Core p. 314*
 
@@ -499,7 +499,7 @@ The heavens protect you from harm. While wearing the relic, you gain a +1 status
 
 - **Aspect**: Fire
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** Your eyes become attuned to heat signatures as your vision extends into the infrared, granting you a heatsight precise sense for 1 minute. Your heatsight can see temperature gradients out to a range of 30 feet, allowing you to detect living creatures and warm objects even in the dark. Warm objects block your heatsight even if they are transparent, such as hot water.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Your eyes become attuned to heat signatures as your vision extends into the infrared, granting you a heatsight precise sense for 1 minute. Your heatsight can see temperature gradients out to a range of 30 feet, allowing you to detect living creatures and warm objects even in the dark. Warm objects block your heatsight even if they are transparent, such as hot water.
 
 *Source: GM Core p. 314*
 
@@ -509,7 +509,7 @@ The heavens protect you from harm. While wearing the relic, you gain a +1 status
 
 - **Aspect**: Life
 
-Your connection to life force makes you more difficult to snuff out than others. You die from the dying condition at dying 5, rather than dying 4. If you roll a success on a save against a death or void effect, you get a critical success instead.
+Your connection to life force makes you more difficult to snuff out than others. You die from the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition at dying 5, rather than dying 4. If you roll a success on a save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] effect, you get a critical success instead.
 
 *Source: GM Core p. 315*
 
@@ -519,7 +519,7 @@ Your connection to life force makes you more difficult to snuff out than others.
 
 - **Aspect**: Artistry
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Effect** You create a vision of a token you could have crafted or make a short performance to inspire an ally within 60 feet. This otherwise works as the _uplifting overture_ cantrip.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** You create a vision of a token you could have crafted or make a short performance to inspire an ally within 60 feet. This otherwise works as the [[srd/pf2e/compendium/spells/cantrips/uplifting-overture|_uplifting overture_]] cantrip.
 
 *Source: Treasure Vault (Remastered) p. 198*
 
@@ -529,11 +529,11 @@ Your connection to life force makes you more difficult to snuff out than others.
 
 - **Aspect**: Intelligent Relic
 
-Your relic becomes an intelligent item. The relic possesses precise sight at a range of 30 feet and imprecise hearing at a range of 30 feet. It is trained in Perception, increasing its proficiency when you increase yours. Choose whether it can speak aloud or communicate with you telepathically. It knows languages fitting its backstory, usually from among those you know.
+Your relic becomes an intelligent item. The relic possesses precise sight at a range of 30 feet and imprecise hearing at a range of 30 feet. It is trained in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]], increasing its proficiency when you increase yours. Choose whether it can speak aloud or communicate with you telepathically. It knows languages fitting its backstory, usually from among those you know.
 
 The relic is also trained in three skills, increasing one skill’s proficiency each time the relic gains a new gift. Your relic’s mental attribute modifiers begin at +3, +2, and +1, arranged as you choose. The relic is also trained in Will saves, and its proficiency increases as yours does. Each time you gain a new gift, increase one of the relic’s mental attribute modifiers by 1. The relic otherwise functions as normal for an intelligent item.
 
-If you’re sanctified to holy or to unholy, you can choose to have your relic sanctified in the same way.
+If you’re [[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|sanctified]] to [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or to [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]], you can choose to have your relic sanctified in the same way.
 
 *Source: Treasure Vault (Remastered) p. 200*
 
@@ -543,7 +543,7 @@ If you’re sanctified to holy or to unholy, you can choose to have your relic s
 
 - **Aspect**: Fire
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per hour; **Effect** Flames from your relic channel through your body, erupting from your feet, hands, or other limbs with enough force to blast you across the ground and propel you through the air. For 1 minute, you gain a +10-foot status bonus to your Speed and gain a fly Speed equal to your new Speed or 20 feet, whichever is greater. You must end your turn on solid ground, or you fall.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** Flames from your relic channel through your body, erupting from your feet, hands, or other limbs with enough force to blast you across the ground and propel you through the air. For 1 minute, you gain a +10-foot status bonus to your Speed and gain a fly Speed equal to your new Speed or 20 feet, whichever is greater. You must end your turn on solid ground, or you fall.
 
 *Source: GM Core p. 314*
 
@@ -554,7 +554,7 @@ If you’re sanctified to holy or to unholy, you can choose to have your relic s
 - **Aspect**: Water
 - **Prerequisite**: The relic is a weapon.
 
-Water collects at the tip of your relic. You can adjust your grip on your relic with an Interact action to allow you to make lashing current weapon Strikes with your relic, which deal 1d4 bludgeoning damage; have the disarm, finesse, reach 10, trip, and versatile S traits; and are in the flail group. Your lashing current Strikes gain the benefit of your relic's fundamental and property runes, though any property runes that would not be applicable to the lashing currents are not applied. You can use another Interact action to return to your normal grip and make Strikes with the relic.
+Water collects at the tip of your relic. You can adjust your grip on your relic with an Interact action to allow you to make lashing current weapon Strikes with your relic, which deal 1d4 bludgeoning damage; have the [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]] traits; and are in the flail group. Your lashing current Strikes gain the benefit of your relic's fundamental and property runes, though any property runes that would not be applicable to the lashing currents are not applied. You can use another Interact action to return to your normal grip and make Strikes with the relic.
 
 *Source: GM Core p. 318*
 
@@ -564,7 +564,7 @@ Water collects at the tip of your relic. You can adjust your grip on your relic 
 
 - **Aspect**: Life
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** Massive amounts of vitality energy surge forth. For 1 minute, you emit vitality energy in a 10-foot emanation centered on you. At the end of your turn, you (if you are living) and allied living creatures in the emanation regain 10 Hit Points. If you or an allied creature would die due to an increased dying value, you can Dismiss the activation as a free action to prevent the death; if you do, their dying value doesn't increase.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Massive amounts of vitality energy surge forth. For 1 minute, you emit vitality energy in a 10-foot emanation centered on you. At the end of your turn, you (if you are living) and allied living creatures in the emanation regain 10 Hit Points. If you or an allied creature would die due to an increased [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] value, you can Dismiss the activation as a free action to prevent the death; if you do, their dying value doesn't increase.
 
 *Source: GM Core p. 316*
 
@@ -594,7 +594,7 @@ Your relic grants you a powerful neural plasticity, and as a result, you can lea
 
 - **Aspect**: Fiend
 
-Your relic awakens to sapience, developing a personality (usually one that clashes with your own). Your relic has a personality corresponding to the type of fiend associated with the item, the unholy trait, precise vision and imprecise hearing each out to 30 feet, the ability to understand and speak one language you know, and Intelligence, Wisdom, and Charisma modifiers of +0. Your item's total Perception and Will modifiers are equal to your proficiency modifiers in Perception and Will, respectively. It's trained in the Lore associated with its fiend type (such as Demon Lore), for a total modifier of 2 + the relic's level. Unlike most intelligent items, the relic has no actions or reactions and can't use any of its own activations.
+Your relic awakens to sapience, developing a personality (usually one that clashes with your own). Your relic has a personality corresponding to the type of [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]] associated with the item, the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait, precise vision and imprecise hearing each out to 30 feet, the ability to understand and speak one language you know, and Intelligence, Wisdom, and Charisma modifiers of +0. Your item's total Perception and Will modifiers are equal to your proficiency modifiers in Perception and Will, respectively. It's trained in the [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] associated with its fiend type (such as Demon Lore), for a total modifier of 2 + the relic's level. Unlike most intelligent items, the relic has no actions or reactions and can't use any of its own activations.
 
 *Source: GM Core p. 313*
 
@@ -602,7 +602,7 @@ Your relic awakens to sapience, developing a personality (usually one that clash
 
 - **Aspect**: Death
 
-You stand on the threshold between the living and the dead. If you attempt a saving throw against an effect that would deal void damage to you, such as _harm_, your outcome is one degree of success better than what you rolled. If you roll a critical success and the effect is capable of healing undead, you regain HP equal to half the spell's full damage. Any vitality spell or effect that would heal you has only half the normal effect. All these effects apply only if you are a living creature.
+You stand on the threshold between the living and the dead. If you attempt a saving throw against an effect that would deal void damage to you, such as _harm_, your outcome is one degree of success better than what you rolled. If you roll a critical success and the effect is capable of healing [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]], you regain HP equal to half the spell's full damage. Any [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] spell or effect that would heal you has only half the normal effect. All these effects apply only if you are a living creature.
 
 *Source: GM Core p. 312*
 
@@ -612,7 +612,7 @@ You stand on the threshold between the living and the dead. If you attempt a sav
 
 - **Aspect**: Earth
 
-Your relic's energies have given you control over the boundary between flesh and stone. You can cast 6th-rank _petrify_ and _sure footing_ (to remove petrification only) as innate spells, each once per day. As long as you are standing on the earth, your body reflexively petrifies at the moment you are struck, granting you resistance 5 to physical damage (except adamantine). This increases to 8 in caves or subterranean environments.
+Your relic's energies have given you control over the boundary between flesh and stone. You can cast 6th-rank [[srd/pf2e/compendium/spells/rank-6/petrify|_petrify_]] and [[srd/pf2e/compendium/spells/rank-2/sure-footing|_sure footing_]] (to remove petrification only) as innate spells, each once per day. As long as you are standing on the earth, your body reflexively petrifies at the moment you are struck, granting you resistance 5 to physical damage (except adamantine). This increases to 8 in caves or subterranean environments.
 
 *Source: GM Core p. 313*
 
@@ -622,7 +622,7 @@ Your relic's energies have given you control over the boundary between flesh and
 
 - **Aspect**: Air
 
-The relic grants you a fly Speed equal to your Speed or 60 feet, whichever is greater. In addition, a creature that Strikes you with a melee attack takes 5 electricity damage, and you can cast 5th-rank _lightning bolt_ as an innate spell.
+The relic grants you a fly Speed equal to your Speed or 60 feet, whichever is greater. In addition, a creature that Strikes you with a melee attack takes 5 electricity damage, and you can cast 5th-rank [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|_lightning bolt_]] as an innate spell.
 
 *Source: GM Core p. 310*
 
@@ -632,9 +632,9 @@ The relic grants you a fly Speed equal to your Speed or 60 feet, whichever is gr
 
 - **Aspect**: Plant
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** With a pulse of natural energy, your relic grows massive plants in an instant. The megaflora is of one of the following types, chosen by the GM when the relic gains this gift. A megaflora appears in an unoccupied 10-foot space within 30 feet and has 50 Hit Points, weakness 5 to fire, AC 37, Reflex +20, and Fortitude +30. It persists for 1 minute or until reduced to 0 Hit Points. 
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** With a pulse of natural energy, your relic grows massive plants in an instant. The megaflora is of one of the following types, chosen by the GM when the relic gains this gift. A megaflora appears in an unoccupied 10-foot space within 30 feet and has 50 Hit Points, weakness 5 to fire, AC 37, Reflex +20, and Fortitude +30. It persists for 1 minute or until reduced to 0 Hit Points. 
 
-**Corpseflower** A single putrid-smelling flower grows at the target location. While the flower persists, each round at the end of your turn, all creatures in a 20-foot burst centered on the plant except you must succeed at a Fortitude save or be sickened 2 (also stunned 2 on a critical failure). This is a poison effect.**Thorns** A 10-foot-tall thorned plant or bamboo stalk grows at the target location. While the stalk persists, each round at the end of your turn, sharp stakes erupt from the ground, dealing 6d8 piercing damage to all creatures in a 20-foot burst centered on the plant except you (basic Reflex).**Tree of Life** A large tree bearing life-giving fruit grows at the target location. While the tree persists, living creatures within reach of the tree can use an Interact action to pick and eat one of the tree's fruits, regaining 2d8+5 Hit Points; picking a fruit without eating it causes the fruit to instantly vanish. This is a healing and wood effect, and a given creature can heal from the tree only once per round.
+**Corpseflower** A single putrid-smelling flower grows at the target location. While the flower persists, each round at the end of your turn, all creatures in a 20-foot burst centered on the plant except you must succeed at a Fortitude save or be sickened 2 (also [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 2]] on a critical failure). This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] effect.**Thorns** A 10-foot-tall thorned plant or bamboo stalk grows at the target location. While the stalk persists, each round at the end of your turn, sharp stakes erupt from the ground, dealing 6d8 piercing damage to all creatures in a 20-foot burst centered on the plant except you (basic Reflex).**Tree of Life** A large tree bearing life-giving fruit grows at the target location. While the tree persists, living creatures within reach of the tree can use an Interact action to pick and eat one of the tree's fruits, regaining 2d8+5 Hit Points; picking a fruit without eating it causes the fruit to instantly vanish. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]] effect, and a given creature can heal from the tree only once per round.
 
 *Source: GM Core p. 317*
 
@@ -644,7 +644,7 @@ The relic grants you a fly Speed equal to your Speed or 60 feet, whichever is gr
 
 - **Aspect**: Mind
 
-Your relic takes over some of your mental processes and enhances others. You gain telepathy; if you already have telepathy, you instead increase its range by 30 feet. Whenever you would become stupefied, reduce the value by 1. You are permanently quickened and can use the additional action to Recall Knowledge.
+Your relic takes over some of your mental processes and enhances others. You gain telepathy; if you already have telepathy, you instead increase its range by 30 feet. Whenever you would become [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]], reduce the value by 1. You are permanently [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] and can use the additional action to Recall Knowledge.
 
 *Source: GM Core p. 316*
 
@@ -654,9 +654,9 @@ Your relic takes over some of your mental processes and enhances others. You gai
 
 - **Aspect**: Water
 
-**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (attack, concentrate) **Frequency** once per day; **Effect** You call down a curtain of violent rain in a location within 120 feet. The wall is 5 feet thick, 30 feet long, up to 30 feet high, and lasts for 1 minute. The wall stands vertically, but you can shape its path. The wall has the following effects. 
+**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You call down a curtain of violent rain in a location within 120 feet. The wall is 5 feet thick, 30 feet long, up to 30 feet high, and lasts for 1 minute. The wall stands vertically, but you can shape its path. The wall has the following effects. 
 
-If a fire effect crosses through the wall, it either uses the outcome one degree of success worse than the result of its attack roll or its targets use the outcome one degree of success better than the result of their saving throw, as appropriate.Creatures with a weakness to water that cross the wall or start their turn in the wall take damage equal to their weakness.The wall imposes a –2 status penalty to Perception checks to sense creatures or objects on the other side.
+If a [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] effect crosses through the wall, it either uses the outcome one degree of success worse than the result of its attack roll or its targets use the outcome one degree of success better than the result of their saving throw, as appropriate.Creatures with a weakness to [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] that cross the wall or start their turn in the wall take damage equal to their weakness.The wall imposes a –2 status penalty to Perception checks to sense creatures or objects on the other side.
 
 *Source: GM Core p. 318*
 
@@ -665,7 +665,7 @@ If a fire effect crosses through the wall, it either uses the outcome one degree
 - **Aspect**: Artistry
 - **Prerequisite**: The relic is 3rd level or higher.
 
-The relic guides you in your art like a muse, giving you inspirational ideas and providing an item bonus to Crafting or Performance checks. (Choose one. If your relic allows you to do so, you can take this gift again to choose the other.) If the relic is 3rd level or higher, you gain a +1 item bonus. Once the relic attains 9th level, the bonus increases to +2. The bonus increases to +3 when the relic is 17th level.
+The relic guides you in your art like a muse, giving you inspirational ideas and providing an item bonus to [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks. (Choose one. If your relic allows you to do so, you can take this gift again to choose the other.) If the relic is 3rd level or higher, you gain a +1 item bonus. Once the relic attains 9th level, the bonus increases to +2. The bonus increases to +3 when the relic is 17th level.
 
 *Source: Treasure Vault (Remastered) p. 198*
 
@@ -675,7 +675,7 @@ The relic guides you in your art like a muse, giving you inspirational ideas and
 
 - **Aspect**: Shadow
 
-Your relic absorbs light and wraps shadow around you, hiding you in darkness. As long as you are in dim light in an area of shadows, you can attempt a Stealth check to Hide, even if you aren't concealed against the creature, such as with a creature with darkvision.
+Your relic absorbs light and wraps shadow around you, hiding you in darkness. As long as you are in dim light in an area of shadows, you can attempt a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check to Hide, even if you aren't [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] against the creature, such as with a creature with darkvision.
 
 *Source: GM Core p. 317*
 
@@ -685,7 +685,7 @@ Your relic absorbs light and wraps shadow around you, hiding you in darkness. As
 
 - **Aspect**: Life
 
-Life force flows through you, and vitality energy causes your vital essence to burst through your skin like beads of liquid light. You gain an item bonus equal to half the relic's level (minimum 1) to the Hit Points you recover from healing vitality spells; this bonus applies only the first time per casting that a particular spell heals you.
+Life force flows through you, and vitality energy causes your vital essence to burst through your skin like beads of liquid light. You gain an item bonus equal to half the relic's level (minimum 1) to the Hit Points you recover from [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] spells; this bonus applies only the first time per casting that a particular spell heals you.
 
 *Source: GM Core p. 315*
 
@@ -695,13 +695,13 @@ Life force flows through you, and vitality energy causes your vital essence to b
 
 - **Aspect**: Mind
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** Your relic reaches into the minds of nearby creatures and blocks your presence from their perceptions. For the next 10 minutes, a creature that enters a 120-foot-radius emanation, centered on you, must attempt a secret Will save, after which the creature is then temporarily immune for 1 day.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Your relic reaches into the minds of nearby creatures and blocks your presence from their perceptions. For the next 10 minutes, a creature that enters a 120-foot-radius emanation, centered on you, must attempt a secret Will save, after which the creature is then temporarily immune for 1 day.
 
 **Critical Success** The creature is unaffected.
 
 **Success** The creature takes a –2 status penalty to Perception checks to Seek or otherwise detect you.
 
-**Failure** You filter all of the creature's senses, making it difficult for it to notice you. When you are hidden or undetected from the creature, it doesn't observe you as soon as you do anything other than Hide, Sneak, or Step. If it rolls a Perception check to Seek or otherwise detect you, it gets the outcome one degree of success worse than what it rolled, and if you roll a Stealth check to Hide, Sneak, or otherwise escape its attention, you get the outcome one degree of success better than what you rolled against the creature. If you use a hostile action toward the creature, the effect ends for that creature after your hostile action is completed.
+**Failure** You filter all of the creature's senses, making it difficult for it to notice you. When you are [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] from the creature, it doesn't observe you as soon as you do anything other than Hide, Sneak, or Step. If it rolls a Perception check to Seek or otherwise detect you, it gets the outcome one degree of success worse than what it rolled, and if you roll a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check to Hide, Sneak, or otherwise escape its attention, you get the outcome one degree of success better than what you rolled against the creature. If you use a hostile action toward the creature, the effect ends for that creature after your hostile action is completed.
 
 **Critical Failure** As failure, but the effect doesn't end for that creature if you use a hostile action against it.
 
@@ -713,7 +713,7 @@ Life force flows through you, and vitality energy causes your vital essence to b
 
 - **Aspect**: Plant
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per hour; **Effect** You discorporate into a cloud of petals and leaves. This grants you the swarm trait, immunity to falling damage, resistance 5 to bludgeoning and slashing damage, and weakness 5 to area and splash damage. You can fit into spaces only a few inches wide, moving your constituent petals through the gap. You don't gain the swarm mind ability, so you're still affected normally by mental effects. As a swarm, you can't speak, cast spells, use manipulate actions requiring your hands, activate your magic items, or make any of your Strikes with your normal body. You remain in this form for 1 minute or until you Dismiss the activation. At 13th level, the relic gains a reaction that triggers when you fall or take damage, applying this gift's resistances, weaknesses, and immunity to falling damage to the triggering effect.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** You discorporate into a cloud of petals and leaves. This grants you the [[srd/pf2e/compendium/rules-elements/traits/gm-core/swarm|swarm]] trait, immunity to falling damage, resistance 5 to bludgeoning and slashing damage, and weakness 5 to area and [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage. You can fit into spaces only a few inches wide, moving your constituent petals through the gap. You don't gain the swarm mind ability, so you're still affected normally by [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects. As a swarm, you can't speak, cast spells, use [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] actions requiring your hands, activate your magic items, or make any of your Strikes with your normal body. You remain in this form for 1 minute or until you Dismiss the activation. At 13th level, the relic gains a reaction that triggers when you fall or take damage, applying this gift's resistances, weaknesses, and immunity to falling damage to the triggering effect.
 
 *Source: GM Core p. 317*
 
@@ -722,7 +722,7 @@ Life force flows through you, and vitality energy causes your vital essence to b
 - **Aspect**: Death
 - **Prerequisite**: living death gift
 
-The relic allows you to pierce the veil between life and death. While you are holding or wearing the relic, you have the void healing ability (as though you were undead; vitality energy harms you and void energy heals you). In addition, whenever you are healed by a void spell or effect, you gain resistance 5 to all damage (except force, _ghost touch_, spirit, and vitality) until the start of your next turn. Finally, you gain a +2 item bonus to all saves against death effects while you are the bearer of the relic; this increases to a +3 item bonus at 13th level.
+The relic allows you to pierce the veil between life and death. While you are holding or wearing the relic, you have the void healing ability (as though you were [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]; vitality energy harms you and void energy heals you). In addition, whenever you are healed by a [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] spell or effect, you gain resistance 5 to all damage (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], _ghost touch_, [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) until the start of your next turn. Finally, you gain a +2 item bonus to all saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects while you are the bearer of the relic; this increases to a +3 item bonus at 13th level.
 
 *Source: GM Core p. 312*
 
@@ -732,7 +732,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 - **Aspect**: Plant
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** Pollen and poison spores spray from your relic, dealing 1d6 poison damage for every 2 relic levels (minimum 1d6) to all creatures in a 15-foot cone (basic Fortitude save). On a critical failure, targets are also dazzled for 1 round. You can't use Pollen Spray again for 1d4 rounds.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Pollen and poison spores spray from your relic, dealing 1d6 poison damage for every 2 relic levels (minimum 1d6) to all creatures in a 15-foot cone (basic Fortitude save). On a critical failure, targets are also [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round. You can't use Pollen Spray again for 1d4 rounds.
 
 *Source: GM Core p. 317*
 
@@ -742,7 +742,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 - **Aspect**: Metal
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Effect** For one minute, your relic is affected by a _clad in metal_ spell of a rank equal to half the relic's level, rounded up. You can choose uncommon metals in addition to common ones.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** For one minute, your relic is affected by a [[srd/pf2e/compendium/spells/rank-2/clad-in-metal|_clad in metal_]] spell of a rank equal to half the relic's level, rounded up. You can choose [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] metals in addition to common ones.
 
 *Source: Rage of Elements p. 148*
 
@@ -752,7 +752,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 - **Aspect**: Time
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per day; **Trigger** Your turn starts; **Effect** You analyze diverging time streams to determine the best course of action. Resolve two turns as if they occurred, then choose which one happens. The other does not occur.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** Your turn starts; **Effect** You analyze diverging time streams to determine the best course of action. Resolve two turns as if they occurred, then choose which one happens. The other does not occur.
 
 *Source: Treasure Vault (Remastered) p. 200*
 
@@ -762,7 +762,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 - **Aspect**: Fiend
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** Profane energies twist your weapons, filling them with rage toward everything good. For 1 minute, your weapons and unarmed attacks gain the _unholy_ weapon rune while you hold them. If a weapon is at its limit on property runes, you can choose one property rune on the weapon to go dormant while the _unholy_ rune takes effect. In addition, Strikes your allies make while they're within 30 feet of you gain the unholy trait.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** Profane energies twist your weapons, filling them with rage toward everything good. For 1 minute, your weapons and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks gain the _unholy_ weapon rune while you hold them. If a weapon is at its limit on property runes, you can choose one property rune on the weapon to go dormant while the _unholy_ rune takes effect. In addition, Strikes your allies make while they're within 30 feet of you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait.
 
 *Source: GM Core p. 314*
 
@@ -772,7 +772,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 - **Aspect**: Air
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per hour; **Effect** The relic casts _fly_ targeting you.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** The relic casts _fly_ targeting you.
 
 *Source: GM Core p. 310*
 
@@ -782,7 +782,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 - **Aspect**: Mind
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Effect** Your thoughts build before spilling forth in a powerful telepathic scream. Enemies within a 20-foot-radius burst centered on you must attempt a basic Will save or take 1d10 mental damage for every 2 levels of the relic. On a critical failure, they are also stupefied 1 for 1 minute.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** Your thoughts build before spilling forth in a powerful telepathic scream. Enemies within a 20-foot-radius burst centered on you must attempt a basic Will save or take 1d10 mental damage for every 2 levels of the relic. On a critical failure, they are also [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] for 1 minute.
 
 *Source: GM Core p. 316*
 
@@ -792,7 +792,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 - **Aspect**: Emotion
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Trigger** You are the target of an emotion effect from a hostile source; **Effect** The relic attempts a counteract check. If the check succeeds, the relic absorbs the effect completely, negating it. Instead, you're quickened for up to 1 minute, but no longer than the triggering effect's duration. You then become temporarily immune to this effect for 1 hour.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You are the target of an [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effect from a hostile source; **Effect** The relic attempts a counteract check. If the check succeeds, the relic absorbs the effect completely, negating it. Instead, you're [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] for up to 1 minute, but no longer than the triggering effect's duration. You then become temporarily immune to this effect for 1 hour.
 
 *Source: Treasure Vault (Remastered) p. 199*
 
@@ -812,7 +812,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 - **Aspect**: Earth
 
-**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** Your relic reshapes the earth around you. You cast 5th-level _wall of stone_.
+**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** Your relic reshapes the earth around you. You cast 5th-level _wall of stone_.
 
 *Source: GM Core p. 313*
 
@@ -822,7 +822,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 - **Aspect**: Mind
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Trigger** You fail an attack roll; **Effect** Analysis of angles, probabilities, and myriad other factors flows from your relic into your mind after you miss an attack, preparing you for the next one. You gain a +1 circumstance bonus to your next attack roll against the target you missed, as long as it's made before the beginning of your next turn.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You fail an attack roll; **Effect** Analysis of angles, probabilities, and myriad other factors flows from your relic into your mind after you miss an attack, preparing you for the next one. You gain a +1 circumstance bonus to your next attack roll against the target you missed, as long as it's made before the beginning of your next turn.
 
 *Source: GM Core p. 316*
 
@@ -832,7 +832,7 @@ The relic allows you to pierce the veil between life and death. While you are ho
 
 - **Aspect**: Mind
 
-Your relic is imbued with the psychic impressions of ages past. While the relic is on your person, you are trained in 3 additional Lore skills of the GM's choice that fit the relic's history, decided at the time of gaining this gift. If the relic is 9th level, you instead have expert proficiency in these Lore skills, and if the relic is 17th level, you have master proficiency in these Lore skills.
+Your relic is imbued with the psychic impressions of ages past. While the relic is on your person, you are trained in 3 additional [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skills of the GM's choice that fit the relic's history, decided at the time of gaining this gift. If the relic is 9th level, you instead have expert proficiency in these Lore skills, and if the relic is 17th level, you have master proficiency in these Lore skills.
 
 *Source: GM Core p. 316*
 
@@ -842,7 +842,7 @@ Your relic is imbued with the psychic impressions of ages past. While the relic 
 
 - **Aspect**: Celestial
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** Holy magic fills your armaments, making them true weapons against evil. For 1 minute, your weapons and unarmed attacks gain the _holy_ weapon rune while you hold them. If a weapon is at its limit on property runes, you can choose one property rune on the weapon to go dormant while the _holy_ rune takes effect. In addition, Strikes your allies make while they're within 30 feet of you gain the holy trait.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** Holy magic fills your armaments, making them true weapons against evil. For 1 minute, your weapons and unarmed attacks gain the _holy_ weapon rune while you hold them. If a weapon is at its limit on property runes, you can choose one property rune on the weapon to go dormant while the _holy_ rune takes effect. In addition, Strikes your allies make while they're within 30 feet of you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait.
 
 *Source: GM Core p. 311*
 
@@ -854,7 +854,7 @@ Your relic is imbued with the psychic impressions of ages past. While the relic 
 
 You become attuned to the ebb and flow of all things, as if embodying water itself. You gain wavesense 60 feet as a precise sense and can cast 5th-rank _hydraulic push_ at will as an innate spell.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** Ankle-deep water floods outward from you, filling a 60-foot emanation centered on you for 1 minute. Enemies within the area without a swim Speed treat the area as difficult terrain for movement on land. While the effect persists, you can have any water effects you generate originate from any point within the emanation, in addition to their normal range and area.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Ankle-deep water floods outward from you, filling a 60-foot emanation centered on you for 1 minute. Enemies within the area without a swim Speed treat the area as difficult terrain for movement on land. While the effect persists, you can have any [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] effects you generate originate from any point within the emanation, in addition to their normal range and area.
 
 *Source: GM Core p. 319*
 
@@ -864,7 +864,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Earth
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per hour; **Effect** Stone and crystal form a sphere that chases your foes. You create a geode in an unoccupied square within 30 feet. You can spend a single action, which has the concentrate trait, to move the geode up to 30 feet along the ground. If the geode enters a creature's space, the creature must succeed at a basic Reflex save or take 2d6 bludgeoning damage; a creature can take damage this way only once per turn, even if you roll the geode through its space multiple times. The geode persists for up to 1 minute or until destroyed or Dismissed; it has AC 5, Hardness 10, and 40 Hit Points, and is immune to critical hits and precision damage.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** Stone and crystal form a sphere that chases your foes. You create a geode in an unoccupied square within 30 feet. You can spend a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, to move the geode up to 30 feet along the ground. If the geode enters a creature's space, the creature must succeed at a basic Reflex save or take 2d6 bludgeoning damage; a creature can take damage this way only once per turn, even if you roll the geode through its space multiple times. The geode persists for up to 1 minute or until destroyed or Dismissed; it has AC 5, Hardness 10, and 40 Hit Points, and is immune to critical hits and precision damage.
 
 *Source: GM Core p. 312*
 
@@ -874,7 +874,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Celestial
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** Your relic shines with holy light. This creates bright light in a 30-foot emanation around the item. Unholy creatures in the area are frightened 1 and can't lower their frightened value below 1 as long as they remain in the light. Fiends in the area increase any weakness to holy they have by 5. You can Sustain this activation for up to 1 minute.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Your relic shines with holy light. This creates bright light in a 30-foot emanation around the item. [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]] creatures in the area are [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] and can't lower their frightened value below 1 as long as they remain in the light. Fiends in the area increase any weakness to [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] they have by 5. You can Sustain this activation for up to 1 minute.
 
 *Source: GM Core p. 311*
 
@@ -883,7 +883,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 - **Aspect**: Time
 - **Prerequisite**: The relic is 5th level or higher.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per hour; **Effect** You target one creature within 30 feet, temporarily imposing the decrepitude of time on it. The target must attempt a Fortitude saving throw. The clumsy and enfeebled conditions last 1 minute.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** You target one creature within 30 feet, temporarily imposing the decrepitude of time on it. The target must attempt a Fortitude saving throw. The [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] conditions last 1 minute.
 
 **Critical Success** The target is unaffected.
 
@@ -901,7 +901,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Metal
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** Magnetic repulsion sends a sharp chunk of metal scrap flying from your relic. Make a spell attack roll with your relic against a target within 30 feet. The chunk deals 1d6 piercing damage for every 2 levels the relic has (minimum 1d6). If the target is wearing metal armor or is made of metal, you gain a +1 circumstance bonus to your spell attack roll, and the target becomes clumsy 1 until the start of your next turn as the scrap adheres to the target. If your relic is made of a precious metal, the shot is also made of or coated in that metal, bypassing resistances and the like accordingly. The scrap left behind by the shot rusts or crumbles quickly and isn't worth anything if sold.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Magnetic repulsion sends a sharp chunk of metal scrap flying from your relic. Make a spell attack roll with your relic against a target within 30 feet. The chunk deals 1d6 piercing damage for every 2 levels the relic has (minimum 1d6). If the target is wearing metal armor or is made of metal, you gain a +1 circumstance bonus to your spell attack roll, and the target becomes clumsy 1 until the start of your next turn as the scrap adheres to the target. If your relic is made of a [[srd/pf2e/compendium/rules-elements/traits/gm-core/precious|precious]] metal, the shot is also made of or coated in that metal, bypassing resistances and the like accordingly. The scrap left behind by the shot rusts or crumbles quickly and isn't worth anything if sold.
 
 *Source: Rage of Elements p. 148*
 
@@ -911,7 +911,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Fire
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** You allow a portion of the fire magic housed in your relic to escape in a direction of your choice. You deal 1d10 fire damage for every 2 levels of the relic to all creatures in a 30-foot cone (basic Reflex). You can't use Searing Wave again for 1d4 rounds.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You allow a portion of the fire magic housed in your relic to escape in a direction of your choice. You deal 1d10 fire damage for every 2 levels of the relic to all creatures in a 30-foot cone (basic Reflex). You can't use Searing Wave again for 1d4 rounds.
 
 *Source: GM Core p. 314*
 
@@ -921,7 +921,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Shadow
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Effect** Your relic pulls at nearby shadows, twisting them into the shape of a simple weapon or a simple tool or item, such as a rope or crowbar. It lasts until it's used for a single activity, until you use shadow smith again, or for 1 minute, whichever comes first, after which it dissipates.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Your relic pulls at nearby shadows, twisting them into the shape of a simple weapon or a simple tool or item, such as a rope or crowbar. It lasts until it's used for a single activity, until you use shadow smith again, or for 1 minute, whichever comes first, after which it dissipates.
 
 *Source: GM Core p. 317*
 
@@ -931,7 +931,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Earth
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per hour; **Effect** Seismic pulses from your relic ripple through the nearby ground, shaking sharp fragments to the surface. A 10-foot-radius patch of stone or earth within 60 feet is transformed into difficult terrain. A creature that enters an affected square during a move action must succeed at an Acrobatics check or Reflex save or take 1d6 piercing damage; it needs to roll only once per move action even if it moves through several squares. At 6th level and every 4 levels thereafter, increase the damage by 1d6.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** Seismic pulses from your relic ripple through the nearby ground, shaking sharp fragments to the surface. A 10-foot-radius patch of stone or earth within 60 feet is transformed into difficult terrain. A creature that enters an affected square during a move action must succeed at an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check or Reflex save or take 1d6 piercing damage; it needs to roll only once per [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action even if it moves through several squares. At 6th level and every 4 levels thereafter, increase the damage by 1d6.
 
 *Source: GM Core p. 313*
 
@@ -941,7 +941,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Death
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, manipulate) **Frequency** once per day; **Effect** You shroud yourself with powers from beyond the living realm for 1 minute. While this shroud is active, you take on a pallid appearance and gain poison resistance equal to half the relic's level and a +1 status bonus to saving throws against death effects, diseases, effects that would make you paralyzed, poison, and sleep effects. In addition, the DC for your recovery checks is 9 + your dying value instead of 10 + your dying value.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You shroud yourself with powers from beyond the living realm for 1 minute. While this shroud is active, you take on a pallid appearance and gain [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] resistance equal to half the relic's level and a +1 status bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|diseases]], effects that would make you [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], poison, and [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]] effects. In addition, the DC for your recovery checks is 9 + your [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] value instead of 10 + your dying value.
 
 *Source: GM Core p. 312*
 
@@ -951,7 +951,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Plant
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** Your relic rapidly matures and animates nearby plant matter into an ally to fight by you, casting _summon plant or fungus_, with a rank of half the item's level rounded up. You can Sustain this activation as you would the spell.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** Your relic rapidly matures and animates nearby plant matter into an ally to fight by you, casting _summon plant or fungus_, with a rank of half the item's level rounded up. You can Sustain this activation as you would the spell.
 
 *Source: GM Core p. 317*
 
@@ -961,7 +961,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Luck
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per day; ; **Trigger** You or a creature within 30 feet of you rolls two d20s for a fortune or misfortune effect and you like the higher roll; **Effect** You steal the higher of the two numbers the triggering target rolled; the target must use the other result. Until you make your next daily preparations, you can substitute that number for one d20 roll made for a saving throw or skill check you have to make against an effect created by an enemy, hazard, or the environment. Doing so is a fortune effect. If you fail to do so before your next daily preparations, you lose the stored number.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; ; **Trigger** You or a creature within 30 feet of you rolls two d20s for a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/misfortune|misfortune]] effect and you like the higher roll; **Effect** You steal the higher of the two numbers the triggering target rolled; the target must use the other result. Until you make your next daily preparations, you can substitute that number for one d20 roll made for a saving throw or skill check you have to make against an effect created by an enemy, hazard, or the environment. Doing so is a fortune effect. If you fail to do so before your next daily preparations, you lose the stored number.
 
 *Source: Treasure Vault (Remastered) p. 199*
 
@@ -969,7 +969,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Luck
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per hour; **Trigger** You roll a failure or critical failure on a saving throw against an effect with multiple targets; **Effect** You swap rolls with another target who's willing to swap with you. Each of you determines the new results with your new rolls.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Trigger** You roll a failure or critical failure on a saving throw against an effect with multiple targets; **Effect** You swap rolls with another target who's willing to swap with you. Each of you determines the new results with your new rolls.
 
 *Source: Treasure Vault (Remastered) p. 199*
 
@@ -977,7 +977,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Time
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** You make time shudder around you, stealing it from enemies and granting it to allies. Creatures of your choice within 30 feet must attempt a Will save. For each creature you render slowed with this gift, you can render one ally within 30 feet, including you, quickened for 1 round.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You make time shudder around you, stealing it from enemies and granting it to allies. Creatures of your choice within 30 feet must attempt a Will save. For each creature you render [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] with this gift, you can render one ally within 30 feet, including you, [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] for 1 round.
 
 **Success** The creature is unaffected.
 
@@ -993,7 +993,7 @@ You become attuned to the ebb and flow of all things, as if embodying water itse
 
 - **Aspect**: Water
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** Your relic spews forth a dense sphere of water. Make a spell attack roll against a target within 30 feet. On a success, you deal 2d10 bludgeoning damage plus 2 bludgeoning splash damage. At 3rd level and every 2 levels thereafter, increase the initial damage by 1d10 and the splash damage by 1.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Your relic spews forth a dense sphere of water. Make a spell attack roll against a target within 30 feet. On a success, you deal 2d10 bludgeoning damage plus 2 bludgeoning [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage. At 3rd level and every 2 levels thereafter, increase the initial damage by 1d10 and the splash damage by 1.
 
 *Source: GM Core p. 318*
 
@@ -1012,7 +1012,7 @@ You can Activate death gaze with 3 actions instead of 2. If you do, it targets a
 
 - **Aspect**: Time
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Effect** Your relic casts _time jump_ on you to your specifications.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Your relic casts _time jump_ on you to your specifications.
 
 *Source: Treasure Vault (Remastered) p. 200*
 
@@ -1020,7 +1020,7 @@ You can Activate death gaze with 3 actions instead of 2. If you do, it targets a
 
 - **Aspect**: Time
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Effect** The relic casts _time beacon_ on you.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** The relic casts _time beacon_ on you.
 
 *Source: Treasure Vault (Remastered) p. 200*
 
@@ -1039,7 +1039,7 @@ A +10-foot status bonus to your land Speed.A climb Speed equal to your land Spee
 
 - **Aspect**: Shadow
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** Shadowy essence infuses your body, and you can reshape wisps of yourself into a variety of damaging shadows. This has the effect of a 6th-rank _shadow blast_, choosing from only bludgeoning, slashing, or piercing damage. You can't use this activation again for 1d4 rounds.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Shadowy essence infuses your body, and you can reshape wisps of yourself into a variety of damaging shadows. This has the effect of a 6th-rank _shadow blast_, choosing from only bludgeoning, slashing, or piercing damage. You can't use this activation again for 1d4 rounds.
 
 *Source: GM Core p. 318*
 
@@ -1059,7 +1059,7 @@ Your relic produces metals and stones to empower your weapons. Each day during y
 
 - **Aspect**: Life
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Trigger** An ally within 60 feet regains more Hit Points than it is currently down via a targeted healing vitality effect without a duration; **Effect** Your relic acts as a relay for vitality. You or an adjacent willing creature regain a number of Hit Points equal to the amount in excess of the triggering creature's maximum Hit Points; for instance, if the triggering creature was missing 5 Hit Points and was targeted by a _heal_ spell that restored 12 Hit Points, you or an adjacent willing creature would regain the remaining 7 Hit Points.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** An ally within 60 feet regains more Hit Points than it is currently down via a targeted [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] effect without a duration; **Effect** Your relic acts as a relay for vitality. You or an adjacent willing creature regain a number of Hit Points equal to the amount in excess of the triggering creature's maximum Hit Points; for instance, if the triggering creature was missing 5 Hit Points and was targeted by a _heal_ spell that restored 12 Hit Points, you or an adjacent willing creature would regain the remaining 7 Hit Points.
 
 *Source: GM Core p. 315*
 
@@ -1069,7 +1069,7 @@ Your relic produces metals and stones to empower your weapons. Each day during y
 
 - **Aspect**: Luck
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per day; **Trigger** An enemy within 30 feet rolls a success on an attack roll, saving throw, or skill check; **Effect** Your relic sends out a wave of bad luck, forcing the creature to reroll and take the worse result.
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** An enemy within 30 feet rolls a success on an attack roll, saving throw, or skill check; **Effect** Your relic sends out a wave of bad luck, forcing the creature to reroll and take the worse result.
 
 *Source: Treasure Vault (Remastered) p. 199*
 
@@ -1089,6 +1089,6 @@ Your relic produces metals and stones to empower your weapons. Each day during y
 
 - **Aspect**: Celestial
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per hour; **Effect** Placing your hand on yourself or an ally, you heal their wounds and bolster their spirit. The target regains 1d8 HP per item level and reduces their frightened value by 1.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** Placing your hand on yourself or an ally, you heal their wounds and bolster their spirit. The target regains 1d8 HP per item level and reduces their [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] value by 1.
 
 *Source: GM Core p. 311*

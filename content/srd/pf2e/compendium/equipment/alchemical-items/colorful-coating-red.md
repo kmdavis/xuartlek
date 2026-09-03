@@ -17,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (manipulate)
+- **Activate**: [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 These coatings come in different colors, each with a different special effect. A bottle of colorful coating contains enough to slather over one 5-foot square within your reach or space and is made with a special dispenser that enables you to coat the surface using only one hand. It's possible to use the coating on any surface that can be painted (subject to the GM's discretion). Colorful coating dries instantly, and its effect in the square you coated lasts for 1 minute. After that time, the coating turns to fine, inert powder, returning the square to its original condition unless otherwise noted.
 
@@ -31,7 +31,7 @@ These coatings come in different colors, each with a different special effect. A
 
 Blue colorful coating contains bonding compounds that firm up a surface, making it more stable and more supportive of weight. When applied to material that's loose or unstable, the square can hold twice as much weight before giving way. The coating also slows any collapse, making it easier to avoid and granting a +1 circumstance bonus to Reflex saving throws in reaction to the coated surface's collapse.
 
- This coating can shore up a wall, ceiling, door, or similar opening, granting a +2 circumstance bonus to the DC for Athletics checks to Force Open the coated surface.
+ This coating can shore up a wall, ceiling, door, or similar opening, granting a +2 circumstance bonus to the DC for [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to Force Open the coated surface.
 
 ### Colorful Coating (Green)
 
@@ -41,9 +41,9 @@ Blue colorful coating contains bonding compounds that firm up a surface, making 
 
 ---
 
-Green colorful coating dries into a low-friction surface. It makes the square slippery, making it both difficult terrain and uneven ground with a DC to Balance of 20. A creature that Steps or Crawls doesn’t have to attempt to Balance. 
+Green colorful coating dries into a low-friction surface. It makes the square slippery, making it both [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Uneven Ground|uneven ground]] with a DC to Balance of 20. A creature that [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Steps]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Crawl|Crawls]] doesn’t have to attempt to Balance. 
 
-The coating also makes a coated wall or ceiling harder to climb. It imposes a –2 circumstance penalty to checks to Climb the coated surface.
+The coating also makes a coated wall or ceiling harder to climb. It imposes a –2 circumstance penalty to checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]] the coated surface.
 
 Yellow colorful coating and green colorful coating have opposite effects. If they’re both applied to the same surface, they negate one another.
 
@@ -85,7 +85,7 @@ Red colorful coating contains rubbery compounds, turning any surface it covers i
 
 ---
 
-Violet colorful coating contains compounds that become goopy and sticky. A square of this coating is difficult terrain. Any creature that enters the square must succeed at a DC 20 Reflex save or take a –15-foot penalty to its Speeds until the end of its next turn. On a critical failure, the creature is immobilized in the square until the end of its next turn. The target can end these effects by Escaping (DC 20) or spending 2 Interact actions to remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can help by providing the actions.
+Violet colorful coating contains compounds that become goopy and sticky. A square of this coating is difficult terrain. Any creature that enters the square must succeed at a DC 20 Reflex save or take a –15-foot penalty to its Speeds until the end of its next turn. On a critical failure, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] in the square until the end of its next turn. The target can end these effects by Escaping (DC 20) or spending 2 Interact actions to remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can help by providing the actions.
 
 ### Colorful Coating (Yellow)
 

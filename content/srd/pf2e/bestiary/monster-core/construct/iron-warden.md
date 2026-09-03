@@ -33,7 +33,7 @@ perception:
     desc: "Perception +21; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +30"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +30"
 abilityMods: [8, -1, 4, -5, 0, -5]
 abilities_top:
   - name: "Shield Arm"
@@ -45,21 +45,21 @@ armorclass:
 hp: 190
 health:
   - name: "HP"
-    desc: "190; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, fire, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; __Resistances__ physical 15 (except adamantine), spells 15 (except acid and spells that cause rust)"
+    desc: "190; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Resistances__ physical 15 (except [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]]), spells 15 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] and spells that cause rust)"
 abilities_mid:
   - name: "Shield Block"
     desc: "⬲ (see shield arm)"
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +28 (Magical, reach 10 feet) __Damage__ 3d10+12 bludgeoning"
+    desc: "⬻ fist +28 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 3d10+12 bludgeoning"
 abilities_bot:
   - name: "Breathe Poison"
-    desc: "⬺ (Arcane, Poison) The iron warden exhales poisonous gas in a 10-foot burst centered on the corner of one of the iron warden's squares. The gas persists until the start of the warden's next turn. Any creature in the area (or that later enters the area) is exposed to the iron warden's poison. The warden can't Breathe Poison again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) The iron warden exhales poisonous gas in a 10-foot burst centered on the corner of one of the iron warden's squares. The gas persists until the start of the warden's next turn. Any creature in the area (or that later enters the area) is exposed to the iron warden's poison. The warden can't Breathe Poison again for 1d4 rounds."
   - name: "Inexorable March"
     desc: "⬻ The iron warden Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise, it's damaged as if hit by the iron warden's fist."
   - name: "Iron Warden Poison"
-    desc: "(Poison) Any drained value from this poison is reduced by 1 every hour"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) Any [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] value from this poison is reduced by 1 every hour"
   - name: "Saving Throw"
     desc: "DC 33 Fortitude"
   - name: "Maximum Duration"
@@ -69,7 +69,7 @@ abilities_bot:
   - name: "Stage 2"
     desc: "4d6 poison and drained 2 (1 round)"
   - name: "Stage 3"
-    desc: "8d6 poison and drained 3 (1 round) Iron Scrap An iron warden can be melted down for scrap or traded to fire giants to be repurposed into armor for a Large creature."
+    desc: "8d6 poison and drained 3 (1 round) Iron Scrap An iron warden can be melted down for scrap or traded to [[srd/pf2e/bestiary/monster-core/giant/fire-giant|fire giants]] to be repurposed into armor for a Large creature."
 sourcebook: "_Monster Core_, page 207."
 ```
 

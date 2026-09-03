@@ -16,31 +16,31 @@ At first glance, wood elementals might not seem to have the same destructive pot
 
 ### Members
 
-Carved Beast (Creature 6), Elemental Thicket (Creature 11), Harvest Regiment (Creature 8), Living Grove (Creature 5), Moss Sloth (Creature 2), Nursery Crawler (Creature 3), Painted Stag (Creature 9), Phytohydra (Creature 12), Pine Pangolin (Creature 7), Snapdrake (Creature 8), Timberweb (Creature 14), Twins of Rowan (Creature 13), Vegetable Lamb (Creature 1), Whipping Willow (Creature 4)
+[[srd/pf2e/bestiary/rage-of-elements/elemental/carved-beast|Carved Beast]] (Creature 6), [[srd/pf2e/bestiary/rage-of-elements/elemental/elemental-thicket|Elemental Thicket]] (Creature 11), [[srd/pf2e/bestiary/rage-of-elements/elemental/harvest-regiment|Harvest Regiment]] (Creature 8), [[srd/pf2e/bestiary/rage-of-elements/elemental/living-grove|Living Grove]] (Creature 5), [[srd/pf2e/bestiary/rage-of-elements/elemental/moss-sloth|Moss Sloth]] (Creature 2), [[srd/pf2e/bestiary/rage-of-elements/elemental/nursery-crawler|Nursery Crawler]] (Creature 3), [[srd/pf2e/bestiary/rage-of-elements/elemental/painted-stag|Painted Stag]] (Creature 9), Phytohydra (Creature 12), [[srd/pf2e/bestiary/rage-of-elements/elemental/pine-pangolin|Pine Pangolin]] (Creature 7), [[srd/pf2e/bestiary/rage-of-elements/elemental/snapdrake|Snapdrake]] (Creature 8), Timberweb (Creature 14), [[srd/pf2e/bestiary/rage-of-elements/elemental/twins-of-rowan|Twins of Rowan]] (Creature 13), [[srd/pf2e/bestiary/rage-of-elements/elemental/vegetable-lamb|Vegetable Lamb]] (Creature 1), [[srd/pf2e/bestiary/rage-of-elements/elemental/whipping-willow|Whipping Willow]] (Creature 4)
 
 ### Group Families
 
-Elemental, Air, Elemental, Earth, Elemental, Fire, Elemental, Metal, Elemental, Scamp, Elemental, Water, Elemental, Wisp, Elemental, Wood
+[[srd/pf2e/compendium/gm/creature-families/elemental-air|Elemental, Air]], [[srd/pf2e/compendium/gm/creature-families/elemental-earth|Elemental, Earth]], [[srd/pf2e/compendium/gm/creature-families/elemental-fire|Elemental, Fire]], [[srd/pf2e/compendium/gm/creature-families/elemental-metal|Elemental, Metal]], [[srd/pf2e/compendium/gm/creature-families/elemental-scamp|Elemental, Scamp]], [[srd/pf2e/compendium/gm/creature-families/elemental-water|Elemental, Water]], Elemental, Wisp, [[srd/pf2e/compendium/gm/creature-families/elemental-wood|Elemental, Wood]]
 
 ### A Brain By Any Other Name
 
-Even if Lady Shumunue taught the wood elementals' ancestors to mimic animals, a wood elemental's consciousness is contained not in a brain but in its root system. Entities like nursery crawlers, living groves, and carved beasts use this to their advantage. That an elemental's wooden body can be carved and crafted, apparently without lasting harm, implies that they might not feel pain so long as their roots remain undamaged.
+Even if Lady Shumunue taught the wood elementals' ancestors to mimic animals, a wood elemental's consciousness is contained not in a brain but in its root system. Entities like [[srd/pf2e/bestiary/rage-of-elements/elemental/nursery-crawler|nursery crawlers]], [[srd/pf2e/bestiary/rage-of-elements/elemental/living-grove|living groves]], and [[srd/pf2e/bestiary/rage-of-elements/elemental/carved-beast|carved beasts]] use this to their advantage. That an elemental's wooden body can be carved and crafted, apparently without lasting harm, implies that they might not feel pain so long as their roots remain undamaged.
 
 ### Diverse Elementals
 
-The Elemental Planes are more than expanses of sky, rock, metal fire, wood, and ocean. Clouds of fog, dust, and storms float through the Plane of Air. The Plane of Earth includes verdant groves, shining metal and crystal, and irradiated wastelands. The Plane of Fire features magma, suffocating smoke, and radiant firelight. Amid the endless sea of the Plane of Water are pockets of ooze and brine, plus the otherworldly environs of the deep.
+The Elemental Planes are more than expanses of sky, rock, metal fire, wood, and ocean. Clouds of fog, dust, and storms float through the [[srd/pf2e/compendium/gm/planes#Plane of Air|Plane of Air]]. The [[srd/pf2e/compendium/gm/planes#Plane of Earth|Plane of Earth]] includes verdant groves, shining metal and crystal, and irradiated wastelands. The [[srd/pf2e/compendium/gm/planes#Plane of Fire|Plane of Fire]] features magma, suffocating smoke, and radiant firelight. Amid the endless sea of the [[srd/pf2e/compendium/gm/planes#Plane of Water|Plane of Water]] are pockets of ooze and brine, plus the otherworldly environs of the deep.
 
 ### Elemental Wyrms
 
-The icewyrm is the most widely encountered elemental wyrm, but others exist as well, including the blazing firewyrm, the sleek but somewhat smaller sparkwyrm, and the largest of them all, the immense and acidic sludgewyrm.
+The icewyrm is the most widely encountered elemental wyrm, but others exist as well, including the blazing [[srd/pf2e/bestiary/monster-core/elemental/firewyrm|firewyrm]], the sleek but somewhat smaller sparkwyrm, and the largest of them all, the immense and acidic sludgewyrm.
 
 ### Wild But Unwild
 
-Many wood elementals are created by kizidhar and other powerful creatures on the Plane of Wood and placed in rote roles. Populating nature preserves and sprawling estates, they can be unsure how to behave if released into the wild. They're essentially born domesticated and will likely act far differently than the wild creatures they mimic, even in natural environments. Their natural predators are few, putting the elementals at less risk, although they're still sometimes eaten by giant termites or captured by some as pets.
+Many wood elementals are created by [[srd/pf2e/bestiary/rage-of-elements/elemental/kizidhar|kizidhar]] and other powerful creatures on the [[srd/pf2e/compendium/gm/planes#Plane of Wood|Plane of Wood]] and placed in rote roles. Populating nature preserves and sprawling estates, they can be unsure how to behave if released into the wild. They're essentially born domesticated and will likely act far differently than the wild creatures they mimic, even in natural environments. Their natural predators are few, putting the elementals at less risk, although they're still sometimes eaten by giant termites or captured by some as pets.
 
 ### Elemental
 
 **Related Families**
-Elemental, Air, Elemental, Earth, Elemental, Fire, Elemental, Metal, Elemental, Scamp, Elemental, Water, Elemental, Wisp
+[[srd/pf2e/compendium/gm/creature-families/elemental-air|Elemental, Air]], [[srd/pf2e/compendium/gm/creature-families/elemental-earth|Elemental, Earth]], [[srd/pf2e/compendium/gm/creature-families/elemental-fire|Elemental, Fire]], [[srd/pf2e/compendium/gm/creature-families/elemental-metal|Elemental, Metal]], [[srd/pf2e/compendium/gm/creature-families/elemental-scamp|Elemental, Scamp]], [[srd/pf2e/compendium/gm/creature-families/elemental-water|Elemental, Water]], Elemental, Wisp
 
 *Source: Rage of Elements p. 204*

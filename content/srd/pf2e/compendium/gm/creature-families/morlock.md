@@ -16,6 +16,6 @@ Morlocks descended from humans who were lost among the dark, tangled tunnels of 
 
 ### Members
 
-Morlock Tinkerer (Creature 2)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/morlock-tinkerer|Morlock Tinkerer]] (Creature 2)
 
 *Source: Monster Core 2 p. 226*

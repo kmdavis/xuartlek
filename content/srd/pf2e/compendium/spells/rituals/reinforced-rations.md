@@ -15,8 +15,8 @@ source: "Battlecry!"
 `Uncommon`
 
 - **Cast**: 4 hours
-- **Primary Check**: Cooking Lore (expert) or Crafting (expert)
-- **Area**: 50-foot radius emanation centered on you
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/lore|Cooking Lore]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (expert)
+- **Area**: 50-foot radius [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] centered on you
 - **Target(s)**: all food and drink in the area
 - **Duration**: 1 month
 
@@ -28,6 +28,6 @@ An army marches on its stomach, and a city under siege is often cut off from its
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** The food and water in the area rots and spoils rapidly, releasing noxious fumes. Each living creature in the area becomes sickened 2 and can’t reduce the value of this condition for 24 hours.
+**Critical Failure** The food and water in the area rots and spoils rapidly, releasing noxious fumes. Each living creature in the area becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 2 and can’t reduce the value of this condition for 24 hours.
 
 *Source: Battlecry! p. 94*

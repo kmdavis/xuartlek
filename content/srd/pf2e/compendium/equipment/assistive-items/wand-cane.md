@@ -19,6 +19,6 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 1 hand
 - **Bulk**: L
 
-Though it appears to be a basic cane, the inner workings of the _wand cane_ are an intricate network of lenses and magical circuits, with a slot at the top to insert a wand. The _wand cane_ then spends 1 minute attuning to the wand, after which the wand can be used through the cane.
+Though it appears to be a basic cane, the inner workings of the _wand cane_ are an intricate network of lenses and magical circuits, with a slot at the top to insert a [[srd/pf2e/compendium/rules-elements/traits/player-core/wand|wand]]. The _wand cane_ then spends 1 minute attuning to the wand, after which the wand can be used through the cane.
 
 *Source: Treasure Vault (Remastered) p. 105*

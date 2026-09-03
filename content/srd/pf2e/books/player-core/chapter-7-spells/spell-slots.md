@@ -22,7 +22,7 @@ Characters of spellcasting classes can cast a number of spells each day; the spe
 
 If you're a prepared spellcaster—such as a cleric, druid, witch, or wizard—you must spend time each day preparing spells for that day. At the start of your daily preparations, you select a number of spells of different spell ranks, determined by your character level and class. Your spells remain prepared until you cast them or until you prepare spells again.
 
-Each prepared spell is expended after a single casting, so if you want to cast a particular spell more than once in a day, you need to prepare that spell multiple times. The exception to this rule is for spells with the cantrip trait; once you prepare a cantrip, you can cast it as many times as you want until the next time you prepare spells.
+Each prepared spell is expended after a single casting, so if you want to cast a particular spell more than once in a day, you need to prepare that spell multiple times. The exception to this rule is for spells with the [[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] trait; once you prepare a cantrip, you can cast it as many times as you want until the next time you prepare spells.
 
 You might gain an ability that allows you to swap prepared spells or perform other aspects of preparing spells at different times throughout the day, but only your daily preparation counts for the purpose of effects that last until the next time you prepare spells.
 

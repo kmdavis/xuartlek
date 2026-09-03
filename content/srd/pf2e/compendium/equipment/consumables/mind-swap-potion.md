@@ -22,7 +22,7 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 1,000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Small bolts of brightly colored electricity flicker through the cloudy _mind-swap potion_. The potion often comes in a double-chambered flask, because when you drink it, you consume half the contents. If another creature of the same ancestry consumes the remainder of the contents within 1 minute, your minds swap per the effect of a critical success on a _mind swap_ ritual. The effects last for 24 hours or until one of you Dismisses the activation.
 

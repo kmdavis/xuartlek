@@ -18,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: tattooed on the body
 
-Crafters choose tattoos that represent their dedication and skill in their chosen field. Such tattoos might adorn the arm, fingers, or eyes, and they take the form of artistic patterns or depict tools of the trade, such as anvils, paintbrushes, or trowels. You gain a +2 item bonus to Crafting checks. Furthermore, when you roll a critical failure on a Crafting check to Earn Income, treat it as a failure instead.
+Crafters choose tattoos that represent their dedication and skill in their chosen field. Such tattoos might adorn the arm, fingers, or eyes, and they take the form of artistic patterns or depict tools of the trade, such as anvils, paintbrushes, or trowels. You gain a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] checks. Furthermore, when you roll a critical failure on a Crafting check to Earn Income, treat it as a failure instead.
 
-**Activate** 1 minute (concentrate, manipulate) **Frequency** once per day; **Effect** The tattoo casts _creation_. You choose the item and its appearance, and whether the spell is 4th or 5th rank.
+**Activate** 1 minute ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The tattoo casts _creation_. You choose the item and its appearance, and whether the spell is 4th or 5th rank.
 
 ### Tradecraft Tattoo
 

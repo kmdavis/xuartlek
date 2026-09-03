@@ -33,16 +33,16 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; darkvision"
-languages: "Common, Dwarven, Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Crafting +6, Occultism +6, Stealth +6, Survival +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"
 abilityMods: [1, 3, 2, 3, 1, -1]
 abilities_top:
   - name: "Alchemical Grenades"
-    desc: "A hryngar bombardier carries 6 alchemical grenades that deal either acid, cold, or fire damage plus 1 persistent damage and 1 splash damage of the same type (typically two of each). The bombardier replenishes these grenades each day using easily collected materials."
+    desc: "A hryngar bombardier carries 6 alchemical grenades that deal either acid, cold, or fire damage plus 1 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] and 1 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage of the same type (typically two of each). The bombardier replenishes these grenades each day using easily collected materials."
   - name: "Items"
-    desc: "Alchemist's Toolkit, studded leather, warhammer"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|Alchemist's Toolkit]], studded leather, warhammer"
 ac: 18
 armorclass:
   - name: "AC"
@@ -57,15 +57,15 @@ abilities_mid:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ warhammer +4 (Shove) __Damage__ 1d8+1 bludgeoning"
+    desc: "⬻ warhammer +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 1d8+1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ alchemical grenade +8 (range increment 20 feet, Splash) __Damage__ 1d6 acid, cold, or fire plus 1 persistent damage and 1 splash damage of the same type"
+    desc: "⬻ alchemical grenade +8 (range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]]) __Damage__ 1d6 acid, cold, or fire plus 1 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] and 1 [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage of the same type"
 abilities_bot:
   - name: "Quick Bombardier"
     desc: "⬻ The hryngar bombardier draws an alchemical grenade with an Interact action and throws it as a ranged Strike."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 17 - __Cantrips (1st)__ Sigil - __2nd__ Blood Vendetta, Paranoia"
+    desc: "DC 17 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/sigil|Sigil]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/blood-vendetta|Blood Vendetta]], [[srd/pf2e/compendium/spells/rank-2/paranoia|Paranoia]]"
 sourcebook: "_Monster Core_, page 202."
 ```
 

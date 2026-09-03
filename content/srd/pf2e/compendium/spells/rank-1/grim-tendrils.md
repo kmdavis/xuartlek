@@ -18,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Void`  `Negative`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Ah Pook, Aonaurious, Apep, Charon, Cthulhu, Dajermube, Fumeiyoshi, Iggeret, Neshen, Nhimbaloth, Nulgreth, Nyarlathotep (Haunter in the Dark), Orcus, Treerazer
+- **Deities**: Ah Pook, Aonaurious, Apep, Charon, Cthulhu, Dajermube, Fumeiyoshi, Iggeret, Neshen, Nhimbaloth, Nulgreth, [[srd/pf2e/compendium/character/deities#Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Haunter in the Dark)]], Orcus, Treerazer
 - **Area**: 30-foot line
 - **Defense**: Fortitude
 

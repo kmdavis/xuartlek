@@ -19,7 +19,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Fortune`  `Manipulate`  `Uncommon`
 
-- **Domain**: Luck
+- **Domain**: [[srd/pf2e/compendium/character/domains#Luck|Luck]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 1 minute

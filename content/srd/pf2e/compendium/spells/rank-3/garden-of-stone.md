@@ -18,8 +18,8 @@ source: "Impossible Magic"
 
 - **Traditions**: Arcane, Primal
 - **Range**: 120 feet
-- **Area**: 10-foot burst
-- **Defense**: basic Reflex
+- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 - **Duration**: 1 minute
 
 The ground shakes as you conjure a 10-foot-tall stalagmite from below. The stalagmite fills the area and has AC 10, Hardness 5, and 30 Hit Points. When you Cast the Spell, all creatures in the area take 3d10 piercing damage, with a basic Reflex save, and are pushed to the nearest unoccupied space as the stalagmite rises. The area in a 20-foot emanation around the stalagmite becomes difficult terrain, as smaller stalagmites grow around it. 

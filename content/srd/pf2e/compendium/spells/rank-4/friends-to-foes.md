@@ -23,7 +23,7 @@ source: "Impossible Magic"
 - **Target**: 1 creature
 - **Defense**: Will
 
-You draw upon your past experiences of betrayal to plant thoughts of a friend turning on them in a creature's mind. The target takes 6d6 mental damage with a Will save and becomes frightened. The source of its fear is its allies, and it can't reduce its frightened condition while it's within 10 feet of an ally.
+You draw upon your past experiences of betrayal to plant thoughts of a friend turning on them in a creature's mind. The target takes 6d6 mental damage with a Will save and becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]]. The source of its fear is its allies, and it can't reduce its frightened condition while it's within 10 feet of an ally.
 
 **Critical Success** The target is unaffected.
 
@@ -31,7 +31,7 @@ You draw upon your past experiences of betrayal to plant thoughts of a friend tu
 
 **Failure** The target takes full damage and is frightened 2. It can't move closer to its allies while frightened.
 
-**Critical Failure** The target takes double damage, is frightened 2, and is confused until it's no longer frightened.
+**Critical Failure** The target takes double damage, is frightened 2, and is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] until it's no longer frightened.
 
 ---
 **Heightened (7th)** You can target up to five creatures.

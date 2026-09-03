@@ -14,13 +14,13 @@ A deep distrust of magic drives you to forgo and counter the metaphysical nonsen
 
 ### Instinct Ability—Superstitious Resilience
 
-Your deep superstition means it’s anathema for you to learn or Cast a Spell, or to wield or use an item that can be activated to Cast a Spell. If you violate this anathema, you lose the instinct’s abilities and any feats that list the instinct as a prerequisite until you spend 1 day of downtime re-centering yourself, though you keep all your other barbarian abilities.
+Your deep superstition means it’s anathema for you to learn or [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]], or to wield or use an item that can be activated to Cast a Spell. If you violate this anathema, you lose the instinct’s abilities and any feats that list the instinct as a prerequisite until you spend 1 day of downtime re-centering yourself, though you keep all your other barbarian abilities.
 
-While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from Rage from 2 to 3, or 4 against creatures you have witnessed Casting a Spell within the last hour. When you Rage, you regain Hit Point equal to the temporary HP you gained from the Rage action; you then can’t regain HP in this way again for 10 minutes. While raging, if you willingly accept the effects of a magic spell or effect, you are frightened 1. You cannot reduce your frightened condition below 1 as long as you are affected by the spell or effect.
+While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from Rage from 2 to 3, or 4 against creatures you have witnessed Casting a Spell within the last hour. When you Rage, you regain Hit Point equal to the temporary HP you gained from the Rage action; you then can’t regain HP in this way again for 10 minutes. While raging, if you willingly accept the effects of a magic spell or effect, you are [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1. You cannot reduce your frightened condition below 1 as long as you are affected by the spell or effect.
 
 ### Specialization Ability
 
-Increase the damage from Rage from 3 to 7, or 8 against creatures you have witnessed Casting a Spell within the last hour. If you have greater weapon specialization, instead increase the damage from Rage to 13, or 16 against creatures you have witnessed Casting a Spell within the last hour.
+Increase the damage from Rage from 3 to 7, or 8 against creatures you have witnessed [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Casting a Spell]] within the last hour. If you have greater weapon specialization, instead increase the damage from Rage to 13, or 16 against creatures you have witnessed Casting a Spell within the last hour.
 
 ### Raging Resistance
 

@@ -29,10 +29,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; darkvision"
-languages: "Jotun"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Intimidation +10, Survival +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +10, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
 abilityMods: [6, -1, 4, -2, 0, -2]
 abilities_top:
   - name: "Items"
@@ -48,7 +48,7 @@ health:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ greataxe +14 (reach 10 feet, Sweep) __Damage__ 1d12+8 slashing"
+    desc: "⬻ greataxe +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d12+8 slashing"
   - name: "Melee"
     desc: "⬻ jaws +14 __Damage__ 1d8+8 piercing plus Grab and glutton's feast"
 abilities_bot:
@@ -57,7 +57,7 @@ abilities_bot:
   - name: "Glutton's Rush"
     desc: "⬺ The ogre glutton Strides twice and makes a jaws Strike. If they damage a living creature with this Strike, the temporary Hit Points they receive from glutton's feast is increased to 2d4."
   - name: "Swallow Whole"
-    desc: "⬻ (Attack) Small, 2d4+4 bludgeoning, Rupture 14"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Small, 2d4+4 bludgeoning, Rupture 14"
 sourcebook: "_Monster Core_, page 250."
 ```
 

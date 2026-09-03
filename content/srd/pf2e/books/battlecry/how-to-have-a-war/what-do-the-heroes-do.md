@@ -28,7 +28,7 @@ Similarly, the protagonists aren’t the only ones who run into difficulties. Wh
 | --- | --- |
 | 1 | The enemy has begun to tame new beasts of war, whether flying or simply more dangerous animals. |
 | 2 | You have news that your army is about to be pinched between two individually smaller forces. Can you reach them with news and reinforcements quickly enough to break the encirclement? |
-| 3 | The river is an important natural boundary during this fight, but also the home of naiads and other aquatic fey. What can you offer to win their assistance? |
+| 3 | The river is an important natural boundary during this fight, but also the home of [[srd/pf2e/bestiary/monster-core/fey/naiad\|naiads]] and other [[srd/pf2e/compendium/rules-elements/traits/player-core/aquatic\|aquatic]] [[srd/pf2e/compendium/rules-elements/traits/player-core/fey\|fey]]. What can you offer to win their assistance? |
 | 4 | The latest skirmish was a feint by the enemy command! But where's the real attack going to come from? |
 | 5 | Stories are spreading of atrocities committed by your troops. Although they might be exaggerated for political effect, there's likely some kernel of truth. |
 | 6 | The enemy general seems prepared for your every move. Is it luck, spies in your ranks, or some form of divination you must counteract? |
@@ -42,7 +42,7 @@ Similarly, the protagonists aren’t the only ones who run into difficulties. Wh
 | **d10** | **Situation** |
 | --- | --- |
 | 1 | Your mounts are deeply unhappy about something. You don't know why, and you don't have time to deal with this right now, but you might not have a choice. |
-| 2 | Defending against raids is bad enough. Defending against raiders on hippogriffs, wyverns, or other flying creatures? Far worse |
+| 2 | Defending against raids is bad enough. Defending against raiders on [[srd/pf2e/bestiary/monster-core/animal/hippogriff\|hippogriffs]], [[srd/pf2e/bestiary/monster-core/dragon/wyvern\|wyverns]], or other flying creatures? Far worse |
 | 3 | Turns out there's an old smuggler's tunnel near the front lines. The possibilities for sabotage are limitless, though there's the question of why the tunnel was abandoned in the first place. |
 | 4 | The prisoner transfer could be a trap. Everyone expects it to be a trap. But it might provide your only opportunity to get your people back. |
 | 5 | An old soothsayer claims that to fight tomorrow is to invite tragedy. Even if they have no special insight, their words are shaking the soldiers’ morale. |

@@ -29,10 +29,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; low-light vision"
-languages: "Common, Gnomish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Athletics +7, Performance +8, Thievery +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +8, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +7"
 abilityMods: [3, 4, 1, 1, 1, 3]
 abilities_top:
   - name: "Items"
@@ -48,11 +48,11 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ gnome flickmace +11 (Reach, Sweep) __Damage__ 1d6+3 bludgeoning plus Knockdown"
+    desc: "⬻ gnome flickmace +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+3 bludgeoning plus Knockdown"
   - name: "Melee"
-    desc: "⬻ fist +11 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ composite shortbow +9 (deadly d10, Propulsive, range increment 60 feet, reload 0) __Damage__ 1d6+3 piercing"
+    desc: "⬻ composite shortbow +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 60 feet, reload 0) __Damage__ 1d6+3 piercing"
 abilities_bot:
   - name: "Daredevil Strike"
     desc: "⬺"

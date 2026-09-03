@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Upon consuming this mottled, foul-tasting liquid, the _tentacle potion_ causes you to extrude a long, flexible limb of ectoplasm. Your clothing doesn't need to accommodate this limb of ghostly matter, which can extrude through your clothing and armor. The limb lasts 1 hour, and you can Dismiss the activation. You can't hide or disguise the tentacle. You can use the limb to perform simple Interact actions, such as opening an unlocked door. Your limb can't perform actions that require significant manual dexterity, including any action that would require a check to accomplish. You can't use it to hold items. At one time, you can have only one extra limb from any version of this potion. Stronger tentacle potions replace the effects of weaker ones.
 
@@ -48,6 +48,6 @@ As lesser, but you can use the limb to hold an item of up to light Bulk. You can
 
 ---
 
-As moderate, but the tail can hold an item of up to 1 Bulk or be used as a second hand to help hold an item of up to 2 Bulk. You can also use the limb to make an unarmed attack that deals 1d6 bludgeoning damage and has the sweep trait. This potion lasts 24 hours.
+As moderate, but the tail can hold an item of up to 1 Bulk or be used as a second hand to help hold an item of up to 2 Bulk. You can also use the limb to make an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d6 bludgeoning damage and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]] trait. This potion lasts 24 hours.
 
 *Source: Treasure Vault (Remastered) p. 91*

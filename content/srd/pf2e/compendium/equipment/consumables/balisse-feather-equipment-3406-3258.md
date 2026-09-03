@@ -18,10 +18,10 @@ source: "Player Core 2"
 `Consumable`  `Holy`  `Magical`  `Talisman`
 
 - **Usage**: affixed to a weapon
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
-- **Trigger**: You deal damage using the affixed weapon to a creature that has the unholy trait or that you witnessed harm an ally, an innocent, or noncombatant within the last minute.
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Trigger**: You deal damage using the affixed weapon to a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy trait]] or that you witnessed harm an ally, an innocent, or noncombatant within the last minute.
 
-This long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The creature must succeed at a DC 29 Will save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn. This item has no effect on a creature with the holy trait.
+This long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The creature must succeed at a DC 29 Will save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn. This item has no effect on a creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait.
 
 ### Balisse Feather
 

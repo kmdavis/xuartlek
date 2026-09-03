@@ -22,7 +22,7 @@ Downtime gives you time to rest fully, engage in crafting or a professional ende
 
 ## Earning Income
 
-The Earn Income skill action allows you to make money using a wide variety of skills. You can get creative with the skills you attempt to use, working with the GM on the details. Some skills might be much harder to earn money with than others. Crafting, Lore, and Performance are the most reliable. Jobs in a fantasy world tend not to be particularly stable, so you might need to look for new tasks on a fairly regular basis.
+The [[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Earn Income]] skill action allows you to make money using a wide variety of skills. You can get creative with the skills you attempt to use, working with the GM on the details. Some skills might be much harder to earn money with than others. [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] are the most reliable. Jobs in a fantasy world tend not to be particularly stable, so you might need to look for new tasks on a fairly regular basis.
 
 The GM determines the levels of jobs you can find, as noted in the Earn Income activity. It's often in your best interest to determine what types of jobs are available for a small variety of skills, so you can take on the most lucrative or interesting option.
 
@@ -42,11 +42,11 @@ When retraining, you generally can't make choices you couldn't make when you sel
 
 ### Feats
 
-You can spend a week of downtime retraining to swap out one of your feats. Remove the old feat and replace it with another of the same type. For example, you could swap a skill feat for another skill feat, but not for a wizard feat.
+You can spend a week of downtime retraining to swap out one of your feats. Remove the old feat and replace it with another of the same type. For example, you could swap a [[srd/pf2e/compendium/rules-elements/traits/player-core/skill|skill]] feat for another skill feat, but not for a [[srd/pf2e/compendium/rules-elements/traits/player-core/wizard|wizard]] feat.
 
 ### Skills
 
-You can spend a week of downtime retraining to swap out one of your skill increases. Reduce your proficiency rank in the skill losing its increase by one step and increase your proficiency rank in another skill by one step. The new proficiency rank has to be equal to or lower than the proficiency rank you traded away. For instance, if your bard is a master in Performance and Stealth, and an expert in Occultism, you could reduce the character's proficiency in Stealth to expert and become a master in Occultism, but you couldn't reassign that skill increase to become legendary in Performance. Keep track of your level when you reassign skill increases; the level at which your skill proficiencies changed can influence your ability to retrain feats with skill prerequisites.
+You can spend a week of downtime retraining to swap out one of your skill increases. Reduce your proficiency rank in the skill losing its increase by one step and increase your proficiency rank in another skill by one step. The new proficiency rank has to be equal to or lower than the proficiency rank you traded away. For instance, if your bard is a master in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], and an expert in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], you could reduce the character's proficiency in Stealth to expert and become a master in Occultism, but you couldn't reassign that skill increase to become legendary in Performance. Keep track of your level when you reassign skill increases; the level at which your skill proficiencies changed can influence your ability to retrain feats with skill prerequisites.
 
 You can also spend a week to retrain an initial trained skill you selected during character creation.
 
@@ -64,21 +64,21 @@ The Price of an item indicates the full cost to buy it. You can sell an item for
 
 > [!pf2-sidebar] SKILL DOWNTIME ACTIVITIES
 >
-> [[srd/pf2e/books/player-core/chapter-4-skills|Chapter 4: Skills]] includes several downtime activities, which are summarized here.
+> [[srd/pf2e/books/player-core/chapter-4-skills/index|Chapter 4: Skills]] includes several downtime activities, which are summarized here.
 >
-> **Craft:** Using the Crafting skill, you can create items from raw materials.
-> **Create Forgery:** You forge a document.
-> **Earn Income:** You earn money, typically using Crafting, Lore, or Performance.
-> **Subsist:** You find food and shelter in the wilderness or within a settlement.
-> **Treat Disease:** You spend time caring for a diseased creature in the hope of curing that creature.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]]:** Using the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, you can create items from raw materials.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Create Forgery|Create Forgery]]:** You forge a document.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Earn Income|Earn Income]]:** You earn money, typically using Crafting, [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]].
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]]:** You find food and shelter in the wilderness or within a settlement.
+> **[[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat Disease]]:** You spend time caring for a diseased creature in the hope of curing that creature.
 
 > [!pf2-sidebar] COST OF LIVING
 >
-> You might need to pay your [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Cost of Living|cost of living]] for days spent in downtime. To avoid paying the cost, you can Subsist, using Society in a settlement or Survival in the wild. Experienced adventurers often have friends or patrons who take care of their living expenses. They might even have so much treasure that their cost of living—even one of the more expensive options—becomes a pittance.
+> You might need to pay your [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Cost of Living|cost of living]] for days spent in downtime. To avoid paying the cost, you can [[srd/pf2e/compendium/rules-elements/actions/player-core#Subsist|Subsist]], using [[srd/pf2e/compendium/rules-elements/skills/society|Society]] in a settlement or [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] in the wild. Experienced adventurers often have friends or patrons who take care of their living expenses. They might even have so much treasure that their cost of living—even one of the more expensive options—becomes a pittance.
 
 ### Item Crafting
 
-You can spend downtime to use the Craft skill activity, making new items out of raw materials. Crafting can be an excellent way to refine the gear the party uses, including upgrading items and preparing ones you’re likely to need on an upcoming quest.
+You can spend downtime to use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] skill activity, making new items out of raw materials. Crafting can be an excellent way to refine the gear the party uses, including upgrading items and preparing ones you’re likely to need on an upcoming quest.
 
 ## Other Activities
 

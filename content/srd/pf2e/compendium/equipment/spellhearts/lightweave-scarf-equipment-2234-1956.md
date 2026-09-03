@@ -18,10 +18,10 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: affixed to armor or a weapon
 
-The first of these strips of glittering cloth was worn by a monk from Jinin who would interweave it into his _handwraps of mighty blows_. The spell DC of any spell cast by activating this item is 24. 
-**Armor** You gain a +2 item bonus to saving throws against illusions and Deception checks to Create a Diversion.**Weapon** (visual) After you cast an illusion spell by activating the scarf, the weapon is shrouded in a mesmerizing illusory pattern. Your next Strike causes the target to be confused for 1 round if it hits. If you don't make a Strike by the end of your next turn, the illusion ends with no effect.
+The first of these strips of glittering cloth was worn by a [[srd/pf2e/compendium/character/classes/monk|monk]] from Jinin who would interweave it into his _handwraps of mighty blows_. The spell DC of any spell cast by activating this item is 24. 
+**Armor** You gain a +2 item bonus to saving throws against illusions and [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks to Create a Diversion.**Weapon** ([[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) After you cast an illusion spell by activating the scarf, the weapon is shrouded in a mesmerizing illusory pattern. Your next Strike causes the target to be [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round if it hits. If you don't make a Strike by the end of your next turn, the illusion ends with no effect.
 
-**Activate** Cast a Spell; **Effect** You cast _light_.
+**Activate** Cast a Spell; **Effect** You cast [[srd/pf2e/compendium/spells/cantrips/light|_light_]].
 
 ### Lightweave Scarf
 
@@ -29,7 +29,7 @@ The first of these strips of glittering cloth was worn by a monk from Jinin who 
 
 ---
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _hypnotize_.
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-3/hypnotize|_hypnotize_]].
 
 ### Lightweave Scarf (Greater)
 
@@ -41,7 +41,7 @@ The item bonus when affixed to armor is +2, and spell DC is 34.
 
 **Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast 6th-rank _hypnotize_.
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _vibrant pattern_.
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-6/vibrant-pattern|_vibrant pattern_]].
 
 ### Lightweave Scarf (Major)
 
@@ -53,6 +53,6 @@ Item bonus when affixed to armor is +3; when affixed to a weapon, creatures are 
 
 **Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast 8th-rank _vibrant pattern_.
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _confusing colors_.
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-8/confusing-colors|_confusing colors_]].
 
 *Source: Treasure Vault (Remastered) p. 127*

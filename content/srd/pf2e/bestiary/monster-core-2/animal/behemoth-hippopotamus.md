@@ -29,7 +29,7 @@ perception:
     desc: "Perception +19; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +23, Stealth +18, Survival +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +17"
 abilityMods: [7, 4, 7, -4, 5, -2]
 abilities_top:
   - name: "Deep Breath"
@@ -45,14 +45,14 @@ health:
 speed: "35 feet, swim 35 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +23 (deadly d12, reach 10 feet) __Damage__ 2d12+10 piercing plus Grab"
+    desc: "⬻ jaws +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d12]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+10 piercing plus Grab"
   - name: "Melee"
     desc: "⬻ foot +23 __Damage__ 2d8+10 bludgeoning"
 abilities_bot:
   - name: "Aquatic Ambush"
     desc: "⬻ 40 feet"
   - name: "Capsize"
-    desc: "⬻ (Attack) The behemoth hippopotamus tries to capsize an adjacent aquatic vessel of its size or smaller. The hippopotamus must succeed at an Athletics check with a DC of 30 (reduced by 5 for each size smaller the vessel is than the hippo) or the pilot's Sailing Lore DC, whichever is higher."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) The behemoth hippopotamus tries to capsize an adjacent aquatic vessel of its size or smaller. The hippopotamus must succeed at an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check with a DC of 30 (reduced by 5 for each size smaller the vessel is than the hippo) or the pilot's [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] DC, whichever is higher."
   - name: "Double Chomp"
     desc: "⬻ The behemoth hippo makes a jaws Strike targeting two creatures adjacent to each other. Roll the attack and damage once, and apply it to each creature separately. A Double Chomp counts as two attacks for the multiple attack penalty."
   - name: "Swallow Whole"

@@ -29,10 +29,10 @@ Your performance enraptures listeners, compelling them to follow you. Each creat
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is fascinated with you.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with you.
 
 **Failure** The creature is fascinated by you and uses all its actions to move toward you and compliment your performance. This effect ends if a hostile action is used against the affected creature.
 
-**Critical Failure** The target gains the minion trait and is controlled by you. This effect ends if a hostile action is used against the affected creature, or if you direct the creature to use any action that causes it harm.
+**Critical Failure** The target gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait and is [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] by you. This effect ends if a hostile action is used against the affected creature, or if you direct the creature to use any action that causes it harm.
 
 *Source: Player Core p. 371*

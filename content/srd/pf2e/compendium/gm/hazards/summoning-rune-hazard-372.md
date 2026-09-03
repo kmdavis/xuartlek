@@ -22,9 +22,9 @@ source: "GM Core"
 +12 (trained)
 
 **Disable**
-DC 22 Acrobatics (trained) to approach without triggering the trap, followed by DC 22 Thievery (trained) to erase the rune or _dispel magic_ (3rd level; counteract DC 20) to counteract the rune
+DC 22 [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] (trained) to approach without triggering the trap, followed by DC 22 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) to erase the rune or _dispel magic_ (3rd level; counteract DC 20) to counteract the rune
 
-**Summon Elementals** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (arcane, conjuration, summon) **Trigger** A living creature enters the room; **Effect** Two rounds after a creature enters the room, the room's door slams shut and locks (two DC 20 Thievery checks to pick), and two cinder rat fire elementals emerge from the floor. The elementals roll initiative and remain for 3d6 rounds, after which the spell ends and the creatures disappear. The elementals also disappear if someone disables the trap before the duration expires. The summoned elementals can use 3 actions each round and can use reactions, unlike most summoned creatures.
+**Summon Elementals** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], conjuration, summon) **Trigger** A living creature enters the room; **Effect** Two rounds after a creature enters the room, the room's door slams shut and locks (two DC 20 Thievery checks to pick), and two cinder rat fire elementals emerge from the floor. The elementals roll initiative and remain for 3d6 rounds, after which the spell ends and the creatures disappear. The elementals also disappear if someone disables the trap before the duration expires. The summoned elementals can use 3 actions each round and can use reactions, unlike most [[srd/pf2e/compendium/rules-elements/traits/player-core/summoned|summoned]] creatures.
 
 ---
 **Reset**

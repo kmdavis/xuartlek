@@ -16,7 +16,7 @@ source: "Battlecry!"
 `Animal`  `Eidolon`  `Swarm`
 
 - **Tradition**: Primal
-- **Home Plane**: the universe
+- **Home Plane**: [[srd/pf2e/compendium/gm/planes#The Universe|the universe]]
 
 **Size** Medium (condensed) and Large (dispersed)
 
@@ -40,11 +40,11 @@ source: "Battlecry!"
 - Cha -1
 - +1 AC (+4 Dex cap)
 
-**Skills** Nature, Survival
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
-**Senses** low-light vision
+**Senses** [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Low-Light Vision|low-light vision]]
 
-**Language** Common
+**Language** [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
 **Speed** 25 feet
 

@@ -21,7 +21,7 @@ source: "Impossible Magic"
 - **Tradition**: Divine
 - **Range**: 60 feet
 - **Target**: 1 willing living creature or 1 undead creature
-- **Defense**: basic Fortitude
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
 
 Your heart ejects a bolt of pure life energy, which plunges into the body of your target before it explodes into a plume of vital energy. If the target is a willing living creature, it regains 3d10+15 Hit Points. If the target is undead, the bolt deals that amount of vitality damage to it instead, with a basic Fortitude save. The energy then explodes outward, affecting all other creatures within a 20-foot emanation from the original target, healing living creatures for 15 Hit Points and dealing 15 vitality damage to undead creatures with a basic Fortitude saving throw.
 

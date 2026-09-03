@@ -21,7 +21,7 @@ source: "Dark Archives (Remastered)"
 - **Target**: 1 willing creature other than yourself
 - **Duration**: 1 round
 
-You manipulate time around your ally, pushing them forward a few moments in time. The target is quickened on its next turn and can use the action only to Step, Stride, or Strike.
+You manipulate time around your ally, pushing them forward a few moments in time. The target is [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] on its next turn and can use the action only to Step, Stride, or Strike.
 
 ---
 **Heightened (6th)** You can affect up to four willing creatures other than yourself within range.

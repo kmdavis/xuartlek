@@ -20,4 +20,4 @@ Many of an eidolon's attribute modifiers are set, but when you choose your eidol
 
 This also sets your eidolon's defenses, as represented by an item bonus to AC and their Dexterity cap. If Strength is their key attribute, your eidolon has a +2 item bonus to AC with a +3 Dexterity cap. If Dexterity is their key attribute, your eidolon has +1 item bonus to AC with a +4 Dexterity cap. The appearance of the eidolon's protection can be anything you choose that fits the eidolon: armor, scales, tough hide, a mystical aura of deflection, and so on.
 
-As noted in your attribute boosts class feature, your eidolon gets boosts to their attribute modifiers starting at 5th level at the same time you do. They also increase one modifier by 1 when they gain their transcendence ability.
+As noted in your [[srd/pf2e/compendium/character/classes/summoner|attribute boosts class feature]], your eidolon gets boosts to their attribute modifiers starting at 5th level at the same time you do. They also increase one modifier by 1 when they gain their transcendence ability.

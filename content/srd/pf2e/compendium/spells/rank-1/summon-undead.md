@@ -20,7 +20,7 @@ source: "Player Core"
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the undead trait and whose level is –1 to fight for you.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] trait and whose level is –1 to fight for you.
 
 ---
 **Heightened (2nd)** Level 1.

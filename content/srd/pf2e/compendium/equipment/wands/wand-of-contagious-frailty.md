@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 Cracks and healed fractures spiderweb the shaft of this bone wand, worsening each time the wand is used. The bone's worn epiphysis forms the wand's pommel, and black leather wraps around the handle.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _enfeeble_. After you cast the spell, if the target is enfeebled, it releases a 10-foot emanation that doesn’t include itself. Each creature in that area must attempt a Fortitude save as if targeted by enfeeble, but gets an outcome one degree of success better than it rolled.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-1/enfeeble|_enfeeble_]]. After you cast the spell, if the target is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]], it releases a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] that doesn’t include itself. Each creature in that area must attempt a Fortitude save as if targeted by enfeeble, but gets an outcome one degree of success better than it rolled.
 
 **Craft Requirements** Supply a casting of _enfeeble_.
 

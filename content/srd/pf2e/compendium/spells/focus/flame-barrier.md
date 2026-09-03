@@ -17,7 +17,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Uncommon`
 
-- **Domain**: Fire
+- **Domain**: [[srd/pf2e/compendium/character/domains#Fire|Fire]]
 - **Trigger**: An effect would deal fire damage to you or an ally within range
 - **Range**: 60 feet
 - **Target**: one creature that would take fire damage from the triggering effect

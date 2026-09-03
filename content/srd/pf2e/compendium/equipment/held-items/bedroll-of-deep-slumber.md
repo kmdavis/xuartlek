@@ -18,6 +18,6 @@ source: "Battlecry!"
 - **Usage**: held in 2 hands
 - **Bulk**: L
 
-This bedroll is made of especially fine cotton, stuffed with goose down, and the hem is inscribed with the sigils of the Dreamlands. If you fall asleep in the bedroll, you gain 5 temporary Hit Points that last while you sleep and for 1 minute after you wake up, as well as a +1 status bonus to saves against mental effects that occur while you are asleep, such as the _nightmare_ spell.
+This bedroll is made of especially fine cotton, stuffed with goose down, and the hem is inscribed with the sigils of the [[srd/pf2e/compendium/gm/planes#Dreamlands|Dreamlands]]. If you fall asleep in the bedroll, you gain 5 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] that last while you sleep and for 1 minute after you wake up, as well as a +1 status bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects that occur while you are asleep, such as the [[srd/pf2e/compendium/spells/rank-4/nightmare|_nightmare_]] spell.
 
 *Source: Battlecry! p. 142*

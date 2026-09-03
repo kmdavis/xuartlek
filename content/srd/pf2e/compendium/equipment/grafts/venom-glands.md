@@ -20,6 +20,6 @@ source: "Howl of the Wild"
 - **Price**: 55 gp
 - **Usage**: implanted
 
-Your salivary glands are modified to be capable of spraying a deadly venom. You gain a poison spray unarmed ranged attack with a range increment of 10 feet that deals 1d4 poison damage. On a critical hit, the target is also sickened 1.
+Your salivary glands are modified to be capable of spraying a deadly venom. You gain a poison spray unarmed ranged attack with a [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range increment]] of 10 feet that deals 1d4 poison damage. On a critical hit, the target is also [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
 
 *Source: Howl of the Wild p. 99*

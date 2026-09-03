@@ -18,13 +18,13 @@ source: "GM Core"
 
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Steel Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
 
 **Perception** +12; precise vision 30 feet, imprecise hearing 30 feet
 
-**Communication** speech (Common and Empyrean)
+**Communication** speech ([[srd/pf2e/compendium/rules-elements/languages#Common|Common]] and [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]])
 
-**Skills** Diplomacy +15, Religion +13
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +15, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +13
 
 **Int** +0, **Wis** +2, **Cha** +4
 

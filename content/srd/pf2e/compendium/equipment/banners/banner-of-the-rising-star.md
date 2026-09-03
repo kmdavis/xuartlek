@@ -22,6 +22,6 @@ source: "Battlecry!"
 
 A single pale star shines bravely amid the dark cloth of this magical banner. The star can be seen even in the dead of night. While holding a _banner of the rising star_, you can use the following ability.
 
-**Activate—Rise Up** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, healing) **Frequency** once per minute; **Effect** The magical banner lifts your allies from the brink of death. An ally within the banner’s aura with the dying condition regains 30 Hit Points, does not increase their wounded condition, and can Stand as a free action. They become immune to Rise Up for 1 day.
+**Activate—Rise Up** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]]) **Frequency** once per minute; **Effect** The magical banner lifts your allies from the brink of death. An ally within the banner’s aura with the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition regains 30 Hit Points, does not increase their [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] condition, and can [[srd/pf2e/compendium/rules-elements/actions/player-core#Stand|Stand]] as a free action. They become immune to Rise Up for 1 day.
 
 *Source: Battlecry! p. 139*

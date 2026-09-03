@@ -20,8 +20,8 @@ source: "Impossible Magic"
 - **Price**: 350 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Once you ingest this strongly spiced, glowing red potion, blazing wings of a phoenix sprout from your back. For 1 minute, you gain a fly Speed of 40 feet. The first time each round that you Fly (including to hover in place), you shed burning feathers that deal 3d4 fire damage to all creatures in a 10-foot emanation at the end of your movement (DC 29 basic Reflex save).
+Once you ingest this strongly spiced, glowing red potion, blazing wings of a phoenix sprout from your back. For 1 minute, you gain a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly Speed]] of 40 feet. The first time each round that you Fly (including to hover in place), you shed burning feathers that deal 3d4 fire damage to all creatures in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] at the end of your movement (DC 29 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save).
 
 *Source: Impossible Magic p. 223*

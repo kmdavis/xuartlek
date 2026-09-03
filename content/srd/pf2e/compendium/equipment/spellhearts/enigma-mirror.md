@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: affixed to armor or a weapon
 
 Mist fills the glass of this small circular hand mirror, creating strange patterns in the shifting gray wisps. The back of the mirror bears a flowing script engraving in an unknown language. The spell DC of any spell cast by activating this item is 23. 
-**Armor** After you cast an illusion spell by activating the mirror, choose one ally within 30 feet. That ally is concealed, as if seen in a misty mirror, until the end of your next turn.**Weapon** After you cast an illusion spell by activating the mirror, illusory copies of the weapon swirl in the air around it. You’re affected by the _thicket of knives_ spell until the end of your next turn. The spell ends if you stop wielding the affixed weapon.
+**Armor** After you cast an [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] spell by activating the mirror, choose one ally within 30 feet. That ally is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], as if seen in a misty mirror, until the end of your next turn.**Weapon** After you cast an illusion spell by activating the mirror, illusory copies of the weapon swirl in the air around it. You’re affected by the _thicket of knives_ spell until the end of your next turn. The spell ends if you stop wielding the affixed weapon.
 
 **Activate** Cast a Spell; **Effect** You cast _forbidding ward_.
 
@@ -28,7 +28,7 @@ Mist fills the glass of this small circular hand mirror, creating strange patter
 
 ---
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _blur_.
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-2/blur|_blur_]].
 
 ### Enigma Mirror (Greater)
 

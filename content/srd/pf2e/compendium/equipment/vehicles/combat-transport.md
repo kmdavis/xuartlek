@@ -23,7 +23,7 @@ These massive vehicles incorporate multiple gas filled bladders and clockwork te
 
 **Passengers** 40
 
-**Piloting Check** Crafting (DC 36) or Piloting Lore (DC 34)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 36) or [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] (DC 34)
 
 ---
 
@@ -35,11 +35,11 @@ These massive vehicles incorporate multiple gas filled bladders and clockwork te
 
 **HP** 230 (BT 115)
 
-**Immunities** object immunities, precision damage
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
 ---
 
-**Speed** fly 40 feet (alchemical, clockwork, wind)
+**Speed** fly 40 feet ([[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]], [[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]], wind)
 
 **Collision** 9d12 (DC 34)
 

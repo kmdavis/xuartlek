@@ -13,6 +13,6 @@ source: "Player Core"
 
 - **Class**: Rogue
 
-Your opportunistic attacks are particularly detrimental. When you use Debilitating Strike you can apply two debilitations simultaneously; removing one removes both.
+Your opportunistic attacks are particularly detrimental. When you use [[srd/pf2e/compendium/rules-elements/actions/player-core#Debilitating Strike|Debilitating Strike]] you can apply two debilitations simultaneously; removing one removes both.
 
 *Source: Player Core p. 164*

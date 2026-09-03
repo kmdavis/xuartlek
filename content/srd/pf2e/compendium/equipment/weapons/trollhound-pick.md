@@ -17,17 +17,17 @@ source: "Howl of the Wild"
 - **Price**: 140 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 2
-- **Base Weapon**: Greatpick
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|Greatpick]]
 
-This _+1 striking greatpick_ bears a head studded with the tusks of a trollhound.
+This _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1]] [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/pick/greatpick|greatpick]]_ bears a head studded with the tusks of a trollhound.
 
-**Activate—Ravenous Strike** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (magical, manipulate) **Effect** You Strike with the _trollhound pick_, transferring a portion of a trollhound’s legendary appetite to the target. A living enemy who takes damage from the attack must attempt a DC 19 Will save.
+**Activate—Ravenous Strike** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You Strike with the _trollhound pick_, transferring a portion of a trollhound’s legendary appetite to the target. A living enemy who takes damage from the attack must attempt a DC 19 Will save.
 
 **Critical Success** The creature is unaffected.
 
 **Success** The creature suffers hunger pangs, becoming offguard for 1 round.
 
-**Failure** The creature experiences gnawing hunger, becoming off-guard for 1 round and enfeebled 1 for 1 minute. If the creature consumes any amount of food or drink (including imbibing a potion), the enfeebled condition ends.
+**Failure** The creature experiences gnawing hunger, becoming [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 for 1 minute. If the creature consumes any amount of food or drink (including imbibing a potion), the enfeebled condition ends.
 
 **Critical Failure** As failure, but the creature is enfeebled 2 and each instance of consuming food or drink reduces the penalty by 1.
 

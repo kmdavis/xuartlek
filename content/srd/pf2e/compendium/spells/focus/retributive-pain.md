@@ -19,7 +19,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Mental`  `Nonlethal`  `Uncommon`
 
-- **Domain**: Pain
+- **Domain**: [[srd/pf2e/compendium/character/domains#Pain|Pain]]
 - **Trigger**: A creature in range damages you
 - **Range**: 30 feet
 - **Target**: the triggering creature

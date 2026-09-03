@@ -33,10 +33,10 @@ modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; darkvision"
-languages: "Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +27, Intimidation +22, Nature +22, Plane of Water Lore +22, Stealth +26, Warfare Lore +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +27, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +22, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +22, Plane of Water Lore +22, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +26, Warfare Lore +22"
 abilityMods: [6, 7, 5, 3, 5, 3]
 ac: 34
 armorclass:
@@ -45,34 +45,34 @@ armorclass:
 hp: 240
 health:
   - name: "HP"
-    desc: "240 (16 squares); __Immunities__ bleed, paralyzed, poison, sleep; __Weaknesses__ area damage 10, splash damage 10"
+    desc: "240 (16 squares); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ area damage 10, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
 abilities_mid:
   - name: "Saline Crust"
-    desc: "(aura, water) 20 feet"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) 20 feet"
   - name: "Requirements"
     desc: "The saltborn stalkers are in a body of water"
   - name: "Effect"
-    desc: "Layers of the saltborn's salty skin flake off to foul the water around them. A creature that ends its turn in the aura takes 2d6 acid damage with a DC 30 basic Reflex save; creatures with the amphibious or aquatic trait are immune."
+    desc: "Layers of the saltborn's salty skin flake off to foul the water around them. A creature that ends its turn in the aura takes 2d6 acid damage with a DC 30 basic Reflex save; creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/amphibious|amphibious]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/aquatic|aquatic]] trait are immune."
   - name: "Troop Defenses"
     desc: ""
 speed: "10 feet, swim 60 feet; troop movement"
 abilities_bot:
   - name: "Lightlure"
-    desc: "⬻ (Concentrate, Incapacitation, Mental, Primal, Visual)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]])"
   - name: "Effect"
     desc: "The saltborn stalkers move their luminescent lures in an entrancing light show, drawing nearby creatures into their grasp. Each creature in a 100-foot emanation must attempt a DC 33 Will save; regardless of the result of its save, the creature is then temporarily immune to Lightlure for 24 hours."
   - name: "Success"
     desc: "The creature is unaffected."
   - name: "Failure"
-    desc: "The creature is fascinated with the lures and must spend all its actions on its next turn to move closer to them as expediently as possible, avoiding obvious dangers along its path."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with the lures and must spend all its actions on its next turn to move closer to them as expediently as possible, avoiding obvious dangers along its path."
   - name: "Critical Failure"
-    desc: "As failure, but the creature is also dazzled for 1d4 rounds."
+    desc: "As failure, but the creature is also [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1d4 rounds."
   - name: "Salty Clutch"
     desc: "⬻"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The stalkers reach out to Grab their foes and drag them underwater. Each enemy in a 5-foot emanation must succeed at a DC 33 Reflex save or be grabbed by the stalkers (or restrained on a critical success). For the rest of the current turn, the saltborn stalkers can move toward water or in water without ending the grab, carrying any grabbed or restrained creatures along with them."
+    desc: "The stalkers reach out to Grab their foes and drag them underwater. Each enemy in a 5-foot emanation must succeed at a DC 33 Reflex save or be [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the stalkers (or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] on a critical success). For the rest of the current turn, the saltborn stalkers can move toward water or in water without ending the grab, carrying any grabbed or restrained creatures along with them."
   - name: "Scour the Bones"
     desc: ""
   - name: "Frequency"

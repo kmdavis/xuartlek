@@ -18,7 +18,7 @@ source: "Impossible Magic"
 - **Cast**: 1 day
 - **Cost**: objects collected from the site worth 50 gp × spell’s rank × the primary caster’s level
 - **Secondary Casters**: 2
-- **Primary Check**: Arcana (expert) or Religion (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert)
 - **Secondary Checks**: Arcana or Religion, or Society or Survival
 - **Area**: 100 feet × 100 feet, up to 20 feet high
 - **Duration**: varies
@@ -29,7 +29,7 @@ With magic, not even time can truly hide a crime. You recreate a moment in time 
 
 **Critical Success** As success, but the scene lasts for 10 minutes.
 
-**Success** The suspended scene lasts for 1 minute. While it is present, you can interact with the scene, though any creatures present do not respond to stimuli. This allows you to observe any creatures or objects, Steal items to conceal them from other observers, and otherwise investigate the scene.
+**Success** The suspended scene lasts for 1 minute. While it is present, you can interact with the scene, though any creatures present do not respond to stimuli. This allows you to observe any creatures or objects, [[srd/pf2e/compendium/rules-elements/actions/player-core#Steal|Steal]] items to conceal them from other observers, and otherwise investigate the scene.
 
 **Failure** You create a glimpse of the scene, but it disappears a moment later. You do not have time available to investigate it.
 

@@ -49,7 +49,7 @@ Long traditions of isolation have resulted in most minotaurs taking an evenhande
 
 ### Adventurers
 
-Minotaurs have a reputation for being fearsome melee combatants. While this can be true, and there's no shortage of barbarians or fighters among minotaur adventurers, a minotaur can do very well in many classes. The keen mind and love of puzzles produces many an investigator and wizard, while minotaurs with a taste for the unique find themselves walking the path of an inventor or thaumaturge. The ancestry's affinity for earth and stone can also lead them to join the ranks of druids or sorcerers of the elemental bloodline. Those who wield the divine typically do so by honing inherent power as sorcerers or oracles rather than by supplicating to a higher entity as clerics or witches. 
+Minotaurs have a reputation for being fearsome melee combatants. While this can be true, and there's no shortage of barbarians or fighters among minotaur adventurers, a minotaur can do very well in many classes. The keen mind and love of puzzles produces many an [[srd/pf2e/compendium/character/classes/investigator|investigator]] and [[srd/pf2e/compendium/character/classes/wizard|wizard]], while minotaurs with a taste for the unique find themselves walking the path of an [[srd/pf2e/compendium/character/classes/inventor|inventor]] or [[srd/pf2e/compendium/character/classes/thaumaturge|thaumaturge]]. The ancestry's affinity for earth and stone can also lead them to join the ranks of druids or sorcerers of the elemental bloodline. Those who wield the divine typically do so by honing inherent power as sorcerers or oracles rather than by supplicating to a higher entity as clerics or witches. 
 
 ### Names
 
@@ -63,7 +63,7 @@ Iblydan minotaurs often have names similar to the names of humans from that arch
 
 #### Minotaurs and Other Ancestries
 
- The desire to learn has caused minotaurs to wander far and wide, and as such, they can be encountered far from their original home of Iblydos. Preferring mountainous or underground regions, minotaurs who put down roots often live with ancestries of a like mind, such as dwarves, hobgoblins, and orcs. The nation of Oprak in the Inner Sea has a small subculture of minotaurs that assist with engineering works across the Mindspin Mountains.
+ The desire to learn has caused minotaurs to wander far and wide, and as such, they can be encountered far from their original home of Iblydos. Preferring mountainous or underground regions, minotaurs who put down roots often live with ancestries of a like mind, such as [[srd/pf2e/compendium/character/ancestries/dwarf|dwarves]], hobgoblins, and [[srd/pf2e/compendium/character/ancestries/orc|orcs]]. The nation of Oprak in the Inner Sea has a small subculture of minotaurs that assist with engineering works across the Mindspin Mountains.
 
 Some minotaurs who migrated east from Iblydos made it as far as the islands of Minata in Tian Xia, where they were surprised to encounter another bovine ancestry known as sarangay. The first interactions revealed a clear separation between the cultures: sarangay took pride in their origins, while minotaurs strove to move past theirs. Whenever a minotaur is mistaken for a sarangay, they politely point out the many differences with a good-natured chuckle.
 
@@ -83,11 +83,11 @@ Some minotaurs who migrated east from Iblydos made it as far as the islands of M
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
-Jotun
+[[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]
 
-Additional languages equal to your Intelligence modifier (if positive). Choose from Cyclops, Dwarven, Fey, Petran, Sakvroth, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if positive). Choose from Cyclops, [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 | | |
 | --- | --- |
@@ -95,6 +95,6 @@ Additional languages equal to your Intelligence modifier (if positive). Choose f
 
 #### Horns
 
-Your sharp horns are as deadly as spears. You have a horns unarmed attack that deals 1d8 piercing damage. Your horns are in the brawling group and have the unarmed trait.
+Your sharp horns are as deadly as spears. You have a horns unarmed attack that deals 1d8 piercing damage. Your horns are in the brawling group and have the [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] trait.
 
 *Source: Howl of the Wild p. 40*

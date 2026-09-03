@@ -18,7 +18,7 @@ source: "GM Core"
 
 This rune causes a weapon to transform into pure, brilliant energy. The weapon deals an additional 1d4 fire damage on a successful Strike, as well as 1d4 spirit damage to fiends and 1d4 vitality damage to undead. On a critical hit, the target must succeed at a DC 29 Fortitude save or be blinded for 1 round. 
 
-**Activate—Shine Bright** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, light) **Effect** You plunge your weapon into darkness to return the light. Attempt a counteract check with a counteract rank of 5 and a +19 counteract modifier to end a magical darkness effect whose area is within reach of the weapon.
+**Activate—Shine Bright** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]]) **Effect** You plunge your weapon into darkness to return the light. Attempt a counteract check with a counteract rank of 5 and a +19 counteract modifier to end a magical darkness effect whose area is within reach of the weapon.
 
 ### Brilliant
 

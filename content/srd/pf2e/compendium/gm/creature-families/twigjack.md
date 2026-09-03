@@ -16,7 +16,7 @@ Maladjusted forest denizens, twigjacks form from the cruel and prankish combinat
 
 ### Members
 
-Sprigjack (Creature -1), Twigjack (Creature 3), Twigjack Bramble (Creature 6)
+[[srd/pf2e/bestiary/monster-core/fey/sprigjack|Sprigjack]] (Creature -1), [[srd/pf2e/bestiary/monster-core/fey/twigjack|Twigjack]] (Creature 3), Twigjack Bramble (Creature 6)
 
 ### Twigjack Brambles
 

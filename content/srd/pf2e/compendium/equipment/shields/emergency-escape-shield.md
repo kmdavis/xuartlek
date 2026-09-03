@@ -17,10 +17,10 @@ source: "Impossible Magic"
 - **Price**: 250 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Steel Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
 
-This curved steel shield (Hardness 6, HP 36, BT 18) is painted with a large blue eye with a figure eight-shaped pupil. 
+This curved [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] (Hardness 6, HP 36, BT 18) is painted with a large blue eye with a figure eight-shaped pupil. 
 
-**Activate—Desperate Flight** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate, teleportation) **Frequency** once per day; **Trigger** You use the _emergency escape shield_ to Shield Block, and the shield becomes broken; **Effect** You instantly transport yourself and any items you’re wearing and holding from your current space to an unoccupied space that you can see within 20 feet.
+**Activate—Desperate Flight** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], teleportation) **Frequency** once per day; **Trigger** You use the _emergency escape shield_ to Shield Block, and the shield becomes broken; **Effect** You instantly transport yourself and any items you’re wearing and holding from your current space to an unoccupied space that you can see within 20 feet.
 
 *Source: Impossible Magic p. 206*

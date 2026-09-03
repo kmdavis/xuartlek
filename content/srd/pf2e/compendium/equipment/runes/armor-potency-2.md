@@ -18,7 +18,7 @@ source: "GM Core"
 
 Magic wards deflect attacks. Increase the armor's item bonus to AC by 1. The armor can be etched with one property rune.
 
- You can upgrade the _armor potency rune_ already etched on a suit of armor using the normal process for upgrading items and runes.
+ You can upgrade the _armor potency rune_ already etched on a suit of armor using the normal process for [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/crafting-items|upgrading items and runes]].
 
 ### Armor Potency (+1)
 

@@ -29,7 +29,7 @@ perception:
     desc: "Perception +9; darkvision, tremorsense (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +11, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [4, 2, 3, -5, 2, -4]
 ac: 18
 armorclass:
@@ -45,20 +45,20 @@ abilities_mid:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pincer +11 (Agile, reach 10 feet) __Damage__ 1d8+6 slashing plus Grab"
+    desc: "⬻ pincer +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d8+6 slashing plus Grab"
   - name: "Melee"
-    desc: "⬻ stinger +11 (reach 10 feet) __Damage__ 1d6+6 piercing plus giant scorpion venom"
+    desc: "⬻ stinger +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d6+6 piercing plus giant scorpion venom"
 abilities_bot:
   - name: "Constrict"
     desc: "⬻ 1d6+4 bludgeoning, DC 20"
   - name: "Giant Scorpion Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 18 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d10 poison damage and enfeebled 1 (1 round)"
+    desc: "1d10 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Stage 2"
     desc: "2d10 poison damage and enfeebled 1 (1 round)"
   - name: "Stage 3"

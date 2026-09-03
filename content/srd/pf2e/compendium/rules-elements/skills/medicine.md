@@ -25,14 +25,14 @@ Category
 Consumable
 Note
 
-Healer's Toolkit (Expanded)
+[[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit (Expanded)]]
 +1
 3
 Adventuring Gear
 No
 Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds
 
-Mask of Mercy
+[[srd/pf2e/compendium/equipment/worn-items/mask-of-mercy-equipment-2350|Mask of Mercy]]
 +1
 4
 Other Worn Items
@@ -46,21 +46,21 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-Crying Angel Pendant
+[[srd/pf2e/compendium/equipment/consumables/crying-angel-pendant|Crying Angel Pendant]]
 +1
 2
 Talismans
 Yes
 Medicine to Administer First Aid
 
-Greater Medic’s Armband
+[[srd/pf2e/compendium/equipment/worn-items/greater-medics-armband|Greater Medic’s Armband]]
 +2
 10
 Worn Items
 No
 Item bonus to Diplomacy checks to change the attitudes of diseased, poisoned, and wounded creatures.
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -73,21 +73,21 @@ Sun Herald's Stylus
 Held Items
 No
 
-Medic's Shield
+[[srd/pf2e/compendium/equipment/shields/medics-shield|Medic's Shield]]
 +2
 14
 Specific Shields
 No
 Item bonus to Medicine checks.
 
-Skinstitch Salve
+[[srd/pf2e/compendium/equipment/alchemical-items/skinstitch-salve|Skinstitch Salve]]
 +2
 7
 Alchemical Tools
 Yes
 Medicine checks to Administer First Aid, Treat Wounds, or use Battle Medicine
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

@@ -29,16 +29,16 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10"
-languages: "Common, Iruxi"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], Iruxi"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +12, Nature +10, Stealth +11, Survival +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
 abilityMods: [4, 3, 1, -1, 2, 0]
 abilities_top:
   - name: "Deep Breath"
-    desc: "A tidewater guard can hold their breath for 20 minutes."
+    desc: "A tidewater guard can [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Mounted Defenses|hold their breath]] for 20 minutes."
   - name: "Tethered Tridents"
-    desc: "The tidewater guard's tridents are specially prepared to be aquadynamic and tethered by ropes. They have the tethered trait, meaning that a wielder who has a free hand can Interact to pull the weapon back into their grasp after they have thrown it as a ranged attack or after it has been disarmed (unless it is being held by another creature)."
+    desc: "The tidewater guard's tridents are specially prepared to be aquadynamic and tethered by ropes. They have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/tethered|tethered]] trait, meaning that a wielder who has a free hand can Interact to pull the weapon back into their grasp after they have thrown it as a ranged attack or after it has been disarmed (unless it is being held by another creature)."
   - name: "Items"
     desc: "Studded Leather Armor, trident with 50 feet of line (2)"
 ac: 21
@@ -55,16 +55,16 @@ abilities_mid:
 speed: "25 feet, swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ trident +14 (Tethered) __Damage__ 1d8+7 piercing"
+    desc: "⬻ trident +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core-2/tethered|Tethered]]) __Damage__ 1d8+7 piercing"
   - name: "Melee"
-    desc: "⬻ claw +14 (Agile) __Damage__ 1d6+7 piercing"
+    desc: "⬻ claw +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+7 piercing"
   - name: "Ranged"
-    desc: "⬻ trident +13 (Tethered, thrown 20 feet) __Damage__ 1d8+7 piercing"
+    desc: "⬻ trident +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core-2/tethered|Tethered]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d8+7 piercing"
 abilities_bot:
   - name: "Reel In"
     desc: "⬺ The tidewater guard makes a ranged Strike with their trident. If the Strike hits, the guard can haul on the attached line, moving the target up to 30 feet in a straight line toward the iruxi."
   - name: "Terrain Advantage"
-    desc: "Non-lizardfolk creatures that are in difficult terrain or are in water and lack a swim Speed are off-guard to the tidewater guard."
+    desc: "Non-[[srd/pf2e/compendium/rules-elements/traits/player-core-2/lizardfolk|lizardfolk]] creatures that are in difficult terrain or are in water and lack a swim Speed are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the tidewater guard."
 sourcebook: "_NPC Core_, page 204."
 ```
 

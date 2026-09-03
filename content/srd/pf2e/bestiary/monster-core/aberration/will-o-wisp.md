@@ -29,10 +29,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; darkvision"
-languages: "Aklo, Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +18, Deception +12, Intimidation +12, Stealth +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +18, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +16"
 abilityMods: [-5, 6, 0, 2, 4, 2]
 ac: 27
 armorclass:
@@ -44,24 +44,24 @@ health:
     desc: "50; __Immunities__ magic"
 abilities_mid:
   - name: "Glow"
-    desc: "(aura, light) 20 feet. A will-o'-wisp is itself naturally invisible, but glows with a colored light, casting bright light in the aura and making it visible."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]]) 20 feet. A will-o'-wisp is itself naturally [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]], but glows with a colored light, casting bright light in the aura and making it visible."
   - name: "Magic Immunity"
-    desc: "A will-o'-wisp is immune to all spells except _force barrage_, _quandary_, and _revealing light_."
+    desc: "A will-o'-wisp is immune to all spells except [[srd/pf2e/compendium/spells/rank-1/force-barrage|_force barrage_]], [[srd/pf2e/compendium/spells/rank-8/quandary|_quandary_]], and [[srd/pf2e/compendium/spells/rank-2/revealing-light|_revealing light_]]."
 speed: "fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shock +17 (Electricity, Magical) __Damage__ 2d8+4 electricity"
+    desc: "⬻ shock +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|Electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d8+4 electricity"
 abilities_bot:
   - name: "Feed on Fear"
-    desc: "⬻ (Concentrate)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]])"
   - name: "Frequency"
     desc: "once per round"
   - name: "Requirements"
-    desc: "An enemy within 15 feet is under a fear effect or dying"
+    desc: "An enemy within 15 feet is under a [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effect or [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]]"
   - name: "Effect"
     desc: "The will-o'-wisp feeds on the creature's terror. It regains 2d4 Hit Points, and if it has Gone Dark, its glow reignites."
   - name: "Go Dark"
-    desc: "⬻ (Concentrate) The will-o'-wisp extinguishes its glow, becoming invisible. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the will-o'-wisp only hidden to all observers until it moves. Eyes of the Dead The elder goddess Nhimbaloth, the so-called “Empty Death,” is said by many to be the source of all will-o'-wisps. Cultists of Nhimbaloth claim she has no true form but is merely a presence that can be felt by all in danger of a pointless and futile death. These same cultists maintain that all will-o'-wisps are Nhimbaloth's eyes, and it's through these fear-devouring creatures that she looks upon all worlds from an eldritch realm beyond even the very concept of death."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) The will-o'-wisp extinguishes its glow, becoming [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]]. It can end this effect with another use of this action. If it uses its shock attack while invisible, the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to all observers until it moves. Eyes of the Dead The elder goddess Nhimbaloth, the so-called “Empty Death,” is said by many to be the source of all will-o'-wisps. Cultists of Nhimbaloth claim she has no true form but is merely a presence that can be felt by all in danger of a pointless and futile death. These same cultists maintain that all will-o'-wisps are Nhimbaloth's eyes, and it's through these fear-devouring creatures that she looks upon all worlds from an eldritch realm beyond even the very concept of death."
 sourcebook: "_Monster Core_, page 349."
 ```
 

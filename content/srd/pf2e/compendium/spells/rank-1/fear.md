@@ -35,7 +35,7 @@ You plant fear in the target; it must attempt a Will save.
 
 **Failure** The target is frightened 2.
 
-**Critical Failure** The target is frightened 3 and fleeing for 1 round.
+**Critical Failure** The target is frightened 3 and [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] for 1 round.
 
 ---
 **Heightened (3rd)** You can target up to five creatures.

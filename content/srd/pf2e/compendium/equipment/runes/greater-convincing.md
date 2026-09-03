@@ -16,7 +16,7 @@ source: "Impossible Magic"
 
 - **Usage**: etched onto armor
 
-A _convincing_ rune blends in with your armor’s decorative elements, such as embossed patterns and colorful ornaments. While wearing the armor, you gain a +1 item bonus to Diplomacy checks to Make an Impression and Request.
+A _convincing_ rune blends in with your armor’s decorative elements, such as embossed patterns and colorful ornaments. While wearing the armor, you gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]].
 
 ### Convincing
 

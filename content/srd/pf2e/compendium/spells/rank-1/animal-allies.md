@@ -17,8 +17,8 @@ source: "Impossible Magic"
 
 - **Tradition**: Primal
 - **Deities**: Tjasse, Tresmalvos, Yig
-- **Area**: 5-foot emanation
-- **Defense**: basic Reflex
+- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
 You summon tiny, ordinary animals from the environment, such as insects, birds, or fish, to quickly lash out at nearby foes. The animals swarm around the creatures in the area, dealing 3d4 piercing damage to each creature with a basic Reflex save.
 

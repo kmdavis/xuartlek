@@ -29,10 +29,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; darkvision"
-languages: "Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +5, Stealth +7, Survival +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5"
 abilityMods: [1, 3, 2, -1, 3, 0]
 abilities_top:
   - name: "Items"
@@ -51,18 +51,18 @@ abilities_mid:
 speed: "10 feet, swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ bite +7 (Finesse) __Damage__ 1d6+1 piercing"
+    desc: "⬻ bite +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+1 piercing"
   - name: "Melee"
-    desc: "⬻ tentacle +7 (Agile, Finesse, Trip) __Damage__ 1d4+1 bludgeoning plus Grab"
+    desc: "⬻ tentacle +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+1 bludgeoning plus Grab"
   - name: "Melee"
     desc: "⬻ spear +5 __Damage__ 1d6+1 piercing"
   - name: "Ranged"
-    desc: "⬻ spear +7 (thrown 20 feet) __Damage__ 1d6+1 piercing"
+    desc: "⬻ spear +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+1 piercing"
 abilities_bot:
   - name: "Clinging Suckers"
-    desc: "When a grindylow successfully Grabs a creature larger than themself, they attach to that creature. The grabbed creature is not immobilized, but if it moves, the grindylow moves with it. If the creature is Medium or smaller, it takes a –5-foot status penalty to its Speeds while the grindylow is attached. The grindylow is off-guard while attached to a creature."
+    desc: "When a grindylow successfully Grabs a creature larger than themself, they attach to that creature. The [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] creature is not [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], but if it moves, the grindylow moves with it. If the creature is Medium or smaller, it takes a –5-foot status penalty to its Speeds while the grindylow is attached. The grindylow is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] while attached to a creature."
   - name: "Jet"
-    desc: "⬺ (Move) The grindylow moves up to 60 feet in a straight line through the water without triggering reactions. Giant Grindylows While most grindylows are Small, a minute percentage of these creatures keep growing throughout their lives. Those that become Large or larger gain the giant trait and often become champions of their schools."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The grindylow moves up to 60 feet in a straight line through the water without triggering reactions. Giant Grindylows While most grindylows are Small, a minute percentage of these creatures keep growing throughout their lives. Those that become Large or larger gain the [[srd/pf2e/compendium/gm/creature-families/giant|giant]] trait and often become champions of their schools."
 sourcebook: "_Monster Core_, page 186."
 ```
 

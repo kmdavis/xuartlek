@@ -31,7 +31,7 @@ You reach into a creature’s mind and give them a glimpse of their place in the
 
 **Failure** The creature takes full damage, and you learn the creature’s social status within their society as well as one of their connections to a leader in their society, if any exist.
 
-**Critical Failure** As failure, except the creature takes double damage and is stunned 1. You can attempt a skill check to Recall Knowledge about the creature the next time you Refocus to remember additional information that you may have learned but didn’t have time to process in the moment.
+**Critical Failure** As failure, except the creature takes double damage and is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1. You can attempt a skill check to Recall Knowledge about the creature the next time you Refocus to remember additional information that you may have learned but didn’t have time to process in the moment.
 
 ---
 **Heightened (+2)** The damage increases by 1d10.

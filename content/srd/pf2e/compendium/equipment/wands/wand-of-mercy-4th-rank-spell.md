@@ -18,11 +18,11 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 1 hand
 - **Bulk**: L
 
-The pommel of this rose quartz wand resembles the stylized wings of an angel. When you cast its spell and choose not to make it nonlethal, the crystal deepens to blood red. The color reverts to rose when you cast the spell from the wand nonlethally.
+The pommel of this rose quartz wand resembles the stylized wings of an angel. When you cast its spell and choose not to make it [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], the crystal deepens to blood red. The color reverts to rose when you cast the spell from the wand nonlethally.
 
-**Activate** Cast a Spell; the activation takes [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") if the spell normally takes [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") to cast, or [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") if the spell normally takes [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action"); **Frequency** once per day, plus overcharge; **Effect** You Cast the Spell, and can choose to give it the nonlethal trait.
+**Activate** Cast a Spell; the activation takes [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") if the spell normally takes [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") to cast, or [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") if the spell normally takes [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action"); **Frequency** once per day, plus overcharge; **Effect** You Cast the Spell, and can choose to give it the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait.
 
-**Craft Requirements** Supply a casting of a spell of the appropriate rank. The spell must have a casting time of [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") or [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action"), it must deal damage, and it can’t have the death, nonlethal, or void traits.
+**Craft Requirements** Supply a casting of a spell of the appropriate rank. The spell must have a casting time of [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") or [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action"), it must deal damage, and it can’t have the [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] traits.
 
 ### Wand of Mercy (1st-Rank Spell)
 

@@ -18,7 +18,7 @@ source: "Impossible Magic"
 - **Cast**: 1 day
 - **Cost**: costumes and a stage large enough to fit all casters
 - **Secondary Casters**: 2 to 12
-- **Primary Check**: Occultism (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
 - **Secondary Checks**: Crafting , Performance
 - **Duration**: 1 month
 
@@ -32,6 +32,6 @@ This famous ritual is a sophisticated example of symbolic magic, binding fate an
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** The performance is a dramatic and horrendous botch, and fate strikes out at the casters. You and each secondary caster are doomed 1 for the next month, and this condition can't be removed by anything less than a _wish_ ritual or similarly powerful magic.
+**Critical Failure** The performance is a dramatic and horrendous botch, and fate strikes out at the casters. You and each secondary caster are [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1 for the next month, and this condition can't be removed by anything less than a [[srd/pf2e/compendium/spells/rituals/wish|_wish_]] ritual or similarly powerful magic.
 
 *Source: Impossible Magic p. 199*

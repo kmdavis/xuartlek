@@ -23,6 +23,6 @@ source: "Treasure Vault (Remastered)"
 
 Paper-thin interlocking cogs and gears make up the bronze _clockwork cloak_.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Effect** You wrap the cloak around yourself and the winding gears decelerate your body, causing you to enter standby mode. While in standby mode you don't need to eat, drink, or sleep. You remain aware of your surroundings but take a –4 penalty to Perception checks. You can stay in standby mode indefinitely, although your body ages normally. You can leave standby mode as a free action. If you do so to initiate combat, you gain a +2 item bonus to your initiative roll.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You wrap the cloak around yourself and the winding gears decelerate your body, causing you to enter standby mode. While in standby mode you don't need to eat, drink, or sleep. You remain aware of your surroundings but take a –4 penalty to Perception checks. You can stay in standby mode indefinitely, although your body ages normally. You can leave standby mode as a free action. If you do so to initiate combat, you gain a +2 item bonus to your initiative roll.
 
 *Source: Treasure Vault (Remastered) p. 146*

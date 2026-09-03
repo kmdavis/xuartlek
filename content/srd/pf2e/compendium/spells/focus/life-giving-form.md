@@ -25,9 +25,9 @@ source: "Player Core 2"
 - **Mystery**: Life
 - **Duration**: 1 minute
 
-You transcend your physical form, becoming a beacon of healing energy. Your body exudes bright light like a torch. You gain resistance 5 to precision damage and weakness 5 to void damage, and your unarmed Strikes deal an extra 1d4 vitality damage.
+You transcend your physical form, becoming a beacon of healing energy. Your body exudes bright light like a [[srd/pf2e/compendium/equipment/adventuring-gear/torch|torch]]. You gain resistance 5 to precision damage and weakness 5 to void damage, and your [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] Strikes deal an extra 1d4 vitality damage.
 
- You can touch a living creature with an Interact action to restore 6d8 Hit Points to it, and when a creature touches you with an Interact action you can allow it to gain the same healing; either way, the creature becomes temporarily immune to _life-giving form's_ healing for 1 minute. This is a vitality healing effect. You can't heal yourself with life-giving form. A creature harmed by vitality damage (such as an undead) that touches you or damages you with an unarmed attack or non-reach melee weapon instead takes 3d4 vitality damage, and it doesn't become temporarily immune.
+ You can touch a living creature with an Interact action to restore 6d8 Hit Points to it, and when a creature touches you with an Interact action you can allow it to gain the same healing; either way, the creature becomes temporarily immune to _life-giving form's_ healing for 1 minute. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] effect. You can't heal yourself with life-giving form. A creature harmed by vitality damage (such as an [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]) that touches you or damages you with an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack or non-[[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] melee weapon instead takes 3d4 vitality damage, and it doesn't become temporarily immune.
 
  You can Dismiss this spell.
 

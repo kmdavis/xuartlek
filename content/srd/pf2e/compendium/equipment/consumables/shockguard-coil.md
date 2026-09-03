@@ -19,8 +19,8 @@ source: "Guns & Gears (Remastered)"
 
 - **Price**: 175 gp
 - **Usage**: affixed to a shield
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") manipulate
-- **Trigger**: You Shield Block a foe's melee unarmed attack or melee attack with the affixed shield.
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]
+- **Trigger**: You Shield Block a foe's melee [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack or melee attack with the affixed shield.
 
 This miniature Stasian coil talisman emits small sparks when jostled. It uses a combination of Stasian technology and evocation magic to erupt in electricity when discharged. When you activate the coil, the foe takes 2d12 electricity damage (DC 27 basic Reflex save). On a failed save, the foe is flat-footed until the start of its next turn.
 

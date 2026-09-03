@@ -19,7 +19,7 @@ source: "Impossible Magic"
 
 `Concentrate`  `Focus`  `Spellshape`  `Summoner`  `Uncommon`  `Metamagic`
 
-You focus on the intricacies of the magic binding you to your eidolon to extend the duration of your _boost eidolon_ or _reinforce eidolon_ spell. If your next action is to cast _boost eidolon_ or _reinforce eidolon_, attempt a skill check with the skill associated with the tradition of magic you gain from your eidolon (such as Nature for a primal eidolon). The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
+You focus on the intricacies of the magic binding you to your eidolon to extend the duration of your _boost eidolon_ or _reinforce eidolon_ spell. If your next action is to cast _boost eidolon_ or _reinforce eidolon_, attempt a skill check with the skill associated with the tradition of magic you gain from your eidolon (such as [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] for a primal eidolon). The DC is usually a standard-difficulty DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
 
 **Critical Success** The spell lasts 4 rounds.
 

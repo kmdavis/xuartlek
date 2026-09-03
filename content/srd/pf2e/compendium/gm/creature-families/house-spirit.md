@@ -16,7 +16,7 @@ House spirits are shy, often helpful, sometimes wrathful fey who dwell alongside
 
 ### Members
 
-Domovoi (Creature 2), Dvorovoi (Creature 3), Ovinnik (Creature 4)
+[[srd/pf2e/bestiary/monster-core-2/fey/domovoi|Domovoi]] (Creature 2), [[srd/pf2e/bestiary/monster-core-2/fey/dvorovoi|Dvorovoi]] (Creature 3), [[srd/pf2e/bestiary/monster-core-2/fey/ovinnik|Ovinnik]] (Creature 4)
 
 ### Bound Spirits
 

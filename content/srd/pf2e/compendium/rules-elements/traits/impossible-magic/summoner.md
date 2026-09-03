@@ -13,6 +13,6 @@ source: "Impossible Magic"
 
 `Summoner`
 
-This indicates abilities from the summoner class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/summoner|summoner class.]]
 
 *Source: Impossible Magic p. 254*

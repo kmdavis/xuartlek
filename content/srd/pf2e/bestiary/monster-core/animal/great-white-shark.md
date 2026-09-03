@@ -31,7 +31,7 @@ perception:
     desc: "Perception +11; blood scent, scent (imprecise) 100 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +14, Stealth +12, Survival +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
 abilityMods: [6, 2, 4, -4, 1, -4]
 abilities_top:
   - name: "Blood Scent"
@@ -50,7 +50,7 @@ attacks:
     desc: "⬻ jaws +14 __Damage__ 1d12+8 piercing"
 abilities_bot:
   - name: "Breach"
-    desc: "⬺ The shark Swims up to its swim Speed, then Leaps vertically out of the water up to 25 feet high, making a Strike against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water's surface). After the Strike, the shark splashes back down into the water."
+    desc: "⬺ The shark Swims up to its swim Speed, then [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] vertically out of the water up to 25 feet high, making a Strike against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water's surface). After the Strike, the shark splashes back down into the water."
   - name: "Savage"
     desc: "⬻"
   - name: "Requirements"

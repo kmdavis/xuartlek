@@ -22,6 +22,6 @@ source: "Player Core"
 - **Range**: 60 feet
 - **Target**: the triggering creature
 
-Your ode staves off death. The target's dying condition remains 1 below the value at which it dies. This doesn't help prevent death from effects that kill the target without increasing its dying condition, such as _disintegrate_ and death effects.
+Your ode staves off death. The target's [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition remains 1 below the value at which it dies. This doesn't help prevent death from effects that kill the target without increasing its dying condition, such as _disintegrate_ and [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects.
 
 *Source: Player Core p. 371*

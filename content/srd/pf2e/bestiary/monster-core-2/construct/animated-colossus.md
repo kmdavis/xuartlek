@@ -31,7 +31,7 @@ perception:
     desc: "Perception +23; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +27"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +27"
 abilityMods: [9, 2, 8, -5, 0, -5]
 ac: 39
 armorclass:
@@ -40,7 +40,7 @@ armorclass:
 hp: 245
 health:
   - name: "HP"
-    desc: "245; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; __Hardness__ 15"
+    desc: "245; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], poison, [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Hardness__ 15"
 abilities_mid:
   - name: "Construct Armor"
     desc: "Like normal objects, an animated colossus has Hardness. This Hardness reduces any damage the construct takes by an amount equal to the Hardness. Once an animated colossus is reduced to fewer than half its Hit Points or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 35."
@@ -49,16 +49,16 @@ abilities_mid:
 speed: "50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +32 (Magical, reach 30 feet) __Damage__ 3d12+17 bludgeoning plus Improved Grab"
+    desc: "⬻ fist +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 30 feet]]) __Damage__ 3d12+17 bludgeoning plus Improved Grab"
   - name: "Melee"
-    desc: "⬻ foot +32 (Agile, Magical, reach 20 feet) __Damage__ 3d8+17 bludgeoning"
+    desc: "⬻ foot +32 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 3d8+17 bludgeoning"
 abilities_bot:
   - name: "Colossus's Grasp"
-    desc: "The colossus can Grab a creature using only one hand. It can move normally with a creature grabbed or restrained in its fist, carrying the creature along. If it has two creatures grabbed in this way, it can't use its fist Strike."
+    desc: "The colossus can Grab a creature using only one hand. It can move normally with a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in its fist, carrying the creature along. If it has two creatures grabbed in this way, it can't use its fist Strike."
   - name: "Constrict"
     desc: "⬻ 3d12+11 bludgeoning, DC 36"
   - name: "Trample"
-    desc: "⬽ (Attack) Huge or smaller, foot, DC 36"
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Huge or smaller, foot, DC 36"
 sourcebook: "_Monster Core 2_, page 33."
 ```
 

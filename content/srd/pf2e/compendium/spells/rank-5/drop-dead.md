@@ -24,7 +24,7 @@ source: "Player Core 2"
 - **Target**: 1 creature
 - **Duration**: sustained up to 1 minute
 
-The target appears to fall down dead, though it actually turns invisible. Its illusory corpse remains where it fell, complete with a believable fatal wound. This illusion looks and feels like a dead body. If the target's death seems absurd—for instance, a barbarian at full health appears to be slain by 2 damage—the GM can grant the attacker an immediate Perception check to disbelieve the illusion. If the target uses hostile actions, the spell ends. This ends the entire spell, so the illusory corpse disappears too.
+The target appears to fall down dead, though it actually turns [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]]. Its illusory corpse remains where it fell, complete with a believable fatal wound. This illusion looks and feels like a dead body. If the target's death seems absurd—for instance, a barbarian at full health appears to be slain by 2 damage—the GM can grant the attacker an immediate Perception check to disbelieve the illusion. If the target uses hostile actions, the spell ends. This ends the entire spell, so the illusory corpse disappears too.
 
 ---
 **Heightened (7th)** The spell doesn't end if the target uses a hostile action.

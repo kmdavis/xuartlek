@@ -13,6 +13,6 @@ source: "Player Core"
 
 `Fighter`
 
-This indicates abilities from the fighter class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/fighter|fighter]] class.
 
 *Source: Player Core p. 456*

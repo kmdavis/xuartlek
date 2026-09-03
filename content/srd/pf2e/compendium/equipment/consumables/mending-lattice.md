@@ -19,7 +19,7 @@ source: "GM Core"
 
 - **Price**: 525 gp
 - **Usage**: affixed to a shield or weapon
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: The affixed item would take damage
 - **Requirement**: You are trained in Crafting
 

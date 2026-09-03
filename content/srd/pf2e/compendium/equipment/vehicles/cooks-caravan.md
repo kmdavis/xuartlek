@@ -26,7 +26,7 @@ An army travels on its stomach, and this wagon train is designed to keep that st
 
 **Passengers** 50
 
-**Piloting Check** Driving Lore (DC 40) or Nature (DC 42 to DC 45 depending on the pulling creatures)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]] (DC 40) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 42 to DC 45 depending on the pulling creatures)
 
 ---
 
@@ -38,7 +38,7 @@ An army travels on its stomach, and this wagon train is designed to keep that st
 
 **HP** 350 (BT 175)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
 ---
 

@@ -21,7 +21,7 @@ source: "Battlecry!"
 
 The very fabric of this off-putting magical banner seems to be rotting with a slick, foul texture. Traditionally, these banners were created from the uniforms of fallen enemy troops, but this is considered a cruel and dishonorable practice by many modern nations. While holding a _banner of creeping death_, you can use the following ability.
 
-**Activate—Void’s Embrace** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, void) **Frequency** once per minute; **Effect** A massive wave of void energy floods out from the banner in all directions. All living creatures within the banner’s aura take 1d4+1 void damage (DC 19 basic Fortitude save).
+**Activate—Void’s Embrace** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) **Frequency** once per minute; **Effect** A massive wave of void energy floods out from the banner in all directions. All living creatures within the banner’s aura take 1d4+1 void damage (DC 19 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude save).
 
 ### Lesser Banner of Creeping Death
 

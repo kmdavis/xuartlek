@@ -17,11 +17,11 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Summon`
 
 - **Tradition**: Occult
-- **Deities**: Nyarlathotep (Haunter in the Dark), Nyarlathotep (The Crawling Chaos)
+- **Deities**: [[srd/pf2e/compendium/character/deities#Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Haunter in the Dark)]], Nyarlathotep (The Crawling Chaos)
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the aberration trait and whose level is 5 or lower to fight for you.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberration]] trait and whose level is 5 or lower to fight for you.
 
 ---
 **Heightened (6th)** Level 7.

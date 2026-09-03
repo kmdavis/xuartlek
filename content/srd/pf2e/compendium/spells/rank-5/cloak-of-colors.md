@@ -22,12 +22,12 @@ source: "Player Core 2"
 - **Target**: 1 creature
 - **Duration**: 1 minute
 
-A cloak of swirling colors shrouds the target. Creatures are dazzled while adjacent to it, and attacking the target causes a brilliant flash of light. A creature that hits the target with a melee attack must attempt a Will save. The creature is then temporarily immune until the end of its turn; this effect has the incapacitation trait.
+A cloak of swirling colors shrouds the target. Creatures are [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] while adjacent to it, and attacking the target causes a brilliant flash of light. A creature that hits the target with a melee attack must attempt a Will save. The creature is then temporarily immune until the end of its turn; this effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] trait.
 
 **Success** The attacker is unaffected.
 
-**Failure** The attacker is blinded for 1 round.
+**Failure** The attacker is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round.
 
-**Critical Failure** The attacker is stunned for 1 round.
+**Critical Failure** The attacker is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] for 1 round.
 
 *Source: Player Core 2 p. 242*

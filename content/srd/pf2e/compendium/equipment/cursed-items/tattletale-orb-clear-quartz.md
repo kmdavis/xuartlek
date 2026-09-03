@@ -34,7 +34,7 @@ A _tattletale orb_ is a polished crystal sphere that appears to function as a _c
 
 ---
 
-The target is temporarily immune to the orb’s _see the unseen_ for 24 hours and can choose to be invisible to the orb’s scrying during that time.
+The target is temporarily immune to the orb’s [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]] for 24 hours and can choose to be [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] to the orb’s scrying during that time.
 
 ### Tattletale Orb (Moonstone)
 
@@ -58,6 +58,6 @@ The target can send you one _telepathic demand_.
 
 ---
 
-The target is temporarily immune to the orb’s _truesight_ for 24 hours. During that time, you see a false vision of the target’s choice if you scry on the target. Despite being higher rank than the spell, you can’t disbelieve this illusion if scrying through the orb.
+The target is temporarily immune to the orb’s [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]] for 24 hours. During that time, you see a false vision of the target’s choice if you scry on the target. Despite being higher rank than the spell, you can’t disbelieve this illusion if scrying through the orb.
 
 *Source: Treasure Vault (Remastered) p. 193*

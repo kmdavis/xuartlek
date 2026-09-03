@@ -31,7 +31,7 @@ These bombs have been mixed with sticky algae that glow and emit poison. Attacks
 
 ---
 
-The bomb deals 1d8 poison damage and 1 poison splash damage.
+The bomb deals 1d8 poison damage and 1 poison [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage.
 
 ### Sticky Algae Bomb (Moderate)
 

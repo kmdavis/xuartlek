@@ -22,6 +22,6 @@ source: "Treasure Vault (Remastered)"
 
 Fitted into each of these prosthetic legs is a large spring, tightly bound around a collapsible shaft. When released, the spring unspools rapidly and the shaft telescopes out and back, returning to its compressed form and catapulting you forward.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, manipulate) **Frequency** once per hour; **Effect** You Stride up to twice your speed or Leap up to 20 feet horizontally and 5 feet vertically.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** You Stride up to twice your speed or Leap up to 20 feet horizontally and 5 feet vertically.
 
 *Source: Treasure Vault (Remastered) p. 108*

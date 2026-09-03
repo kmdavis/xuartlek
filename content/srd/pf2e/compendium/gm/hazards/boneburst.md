@@ -23,7 +23,7 @@ source: "War of Immortals"
 +38 (master) to notice that clouds of debris are coalescing into swirling, faceless shapes held together by rust-red fog and spectral, dripping clots of gore
 
 **Disable**
-DC 38 Occultism (master) to temporarily negate the psychic resonances around each fragment, causing the agglomeration to fall apart, or DC 33 Religion (expert) to temporarily interrupt Verex-That-Was's unholy power with divine energy from another source. If a boneburst takes 40 points of damage from a single source and it isn't destroyed, it is rendered dormant for 1 round.
+DC 38 [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master) to temporarily negate the psychic resonances around each fragment, causing the agglomeration to fall apart, or DC 33 [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert) to temporarily interrupt [[srd/pf2e/bestiary/war-of-immortals/aberration/verex-that-was|Verex-That-Was's]] unholy power with divine energy from another source. If a boneburst takes 40 points of damage from a single source and it isn't destroyed, it is rendered dormant for 1 round.
 
 **AC** 33, **Fort** +30, **Ref** +28
 
@@ -40,7 +40,7 @@ critical hits, object immunities, precision damage
 
 ---
 **Routine**
-(2 actions) An awakened boneburst occupies a 20- foot square; it is reduced to a 10-foot square when it reaches its BT. It can occupy the same space as other creatures, but not other bonebursts. On its initiative, the boneburst Flies up to 30 feet toward the nearest living creature as its first action. As its second action, the boneburst then coalesces around any living creature within its space, invisible shards of bone tearing at their flesh. Each living creature in its space takes 2d10+18 slashing damage and 1d10 spirit damage (DC 35 basic Reflex save). If no living creatures are within its space, the boneburst can use its second action to Fly up to 30 feet.
+(2 actions) An awakened boneburst occupies a 20- foot square; it is reduced to a 10-foot square when it reaches its BT. It can occupy the same space as other creatures, but not other bonebursts. On its initiative, the boneburst [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|Flies]] up to 30 feet toward the nearest living creature as its first action. As its second action, the boneburst then coalesces around any living creature within its space, invisible shards of bone tearing at their flesh. Each living creature in its space takes 2d10+18 slashing damage and 1d10 spirit damage (DC 35 basic Reflex save). If no living creatures are within its space, the boneburst can use its second action to Fly up to 30 feet.
 
 ---
 **Reset**

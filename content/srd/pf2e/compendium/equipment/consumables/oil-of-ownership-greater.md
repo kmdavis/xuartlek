@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 You can coat objects of 6 Bulk or less with _oil of ownership_, or “red-handed oil” as some call it. Once applied, this clear oil remains active for 24 hours. Anyone who touches an object coated with this oil comes away with a red stain that won't wash off for a length of time that depends on the oil's type.
 

@@ -20,7 +20,7 @@ Automatons are magical constructs that house the soul and mind of a person. Maki
 
 ### Members
 
-Champion Automaton (Creature 10), Stalker Automaton (Creature 5)
+[[srd/pf2e/bestiary/monster-core-2/construct/champion-automaton|Champion Automaton]] (Creature 10), [[srd/pf2e/bestiary/monster-core-2/construct/stalker-automaton|Stalker Automaton]] (Creature 5)
 
 ### Automaton Cores
 

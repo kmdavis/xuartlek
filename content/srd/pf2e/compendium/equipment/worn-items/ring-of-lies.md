@@ -21,6 +21,6 @@ source: "GM Core"
 
 This plain silver ring has an almost oily sheen. While wearing the ring, you gain a +2 item bonus to Deception checks. 
 
-**Activate—Sweeten Lies** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Frequency** once per day; **Effect** Snapping your fingers on the hand that wears the ring causes the ring to cast _honeyed words_ on you with no visual manifestations of a spell being cast.
+**Activate—Sweeten Lies** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** Snapping your fingers on the hand that wears the ring causes the ring to cast [[srd/pf2e/compendium/spells/rank-4/honeyed-words|_honeyed words_]] on you with no visual manifestations of a spell being cast.
 
 *Source: GM Core p. 294*

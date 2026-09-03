@@ -31,11 +31,11 @@ perception:
     desc: "Perception +18; darkvision, smoke vision"
 skills:
   - name: "Skills"
-    desc: "Athletics +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16"
 abilityMods: [6, 3, 5, -4, 4, 0]
 abilities_top:
   - name: "Smoke Vision"
-    desc: "The magma scorpion ignores the concealed condition from smoke."
+    desc: "The magma scorpion ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from smoke."
 ac: 27
 armorclass:
   - name: "AC"
@@ -43,24 +43,24 @@ armorclass:
 hp: 155
 health:
   - name: "HP"
-    desc: "155; __Immunities__ bleed, fire, paralyzed, poison, sleep; __Weaknesses__ cold 10"
+    desc: "155; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10"
 speed: "40 feet, climb 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pincer +20 (Agile, reach 10 feet) __Damage__ 2d6+9 bludgeoning plus 1d6 persistent fire and Grab"
+    desc: "⬻ pincer +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+9 bludgeoning plus 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire]] and Grab"
   - name: "Melee"
-    desc: "⬻ tail sting +20 (reach 10 feet) __Damage__ 1d10+9 piercing plus 1d6 persistent fire and magma scorpion venom"
+    desc: "⬻ tail sting +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d10+9 piercing plus 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire]] and magma scorpion venom"
   - name: "Ranged"
-    desc: "⬻ magma spit +17 (Fire, range increment 40 feet) __Damage__ 1d6+9 fire plus 1d6 persistent fire"
+    desc: "⬻ magma spit +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], range increment 40 feet) __Damage__ 1d6+9 fire plus 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire]]"
 abilities_bot:
   - name: "Magma Scorpion Venom"
-    desc: "(Fire, injury, poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/gm-core/injury|injury]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]])"
   - name: "Saving Throw"
     desc: "DC 26 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "2d6 fire damage (1 round) and enfeebled 1"
+    desc: "2d6 fire damage (1 round) and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1"
   - name: "Stage 2"
     desc: "3d6 fire damage and enfeebled 2 (1 round)"
 sourcebook: "_Monster Core 2_, page 149."

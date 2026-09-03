@@ -13,6 +13,6 @@ source: "Impossible Magic"
 
 `Runesmith`
 
-This indicates abilities from the runesmith class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/runesmith|runesmith]] class.
 
 *Source: Impossible Magic p. 253*

@@ -19,8 +19,8 @@ source: "Battlecry!"
 - **Usage**: held in 2 hands
 - **Bulk**: 1
 
-Smaller than breath-powered bagpipes, the uilleann pipes are worked using a set of elbow bellows, and the pipes are made from finely carved bone. This bagpipe grants you a +1 item bonus to Performance checks while playing music with the instrument.
+Smaller than breath-powered bagpipes, the uilleann pipes are worked using a set of elbow bellows, and the pipes are made from finely carved bone. This bagpipe grants you a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks while playing music with the instrument.
 
-**Activate—Hand Chords** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (auditory, concentrate, manipulate) **Frequency** once per day; **Effect** You execute a complex set of complementary arpeggios for dramatic effect. You and all allies within a 15-foot emanation gain a +1 status bonus to the next attack roll, Perception check, saving throw, or skill check you attempt before the end of your next turn. Each target chooses which roll to use the bonus on before rolling.
+**Activate—Hand Chords** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You execute a complex set of complementary arpeggios for dramatic effect. You and all allies within a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] gain a +1 status bonus to the next attack roll, Perception check, saving throw, or skill check you attempt before the end of your next turn. Each target chooses which roll to use the bonus on before rolling.
 
 *Source: Battlecry! p. 142*

@@ -31,10 +31,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +9, Deception +10, Intimidation +10, Religion +12, Society +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +10, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +10, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +7"
 abilityMods: [4, 1, 1, 0, 3, 2]
 abilities_top:
   - name: "Items"
@@ -55,27 +55,27 @@ abilities_mid:
   - name: "Trigger"
     desc: "A creature the zealot can see damages a follower of Asmodeus other than the zealot"
   - name: "Effect"
-    desc: "The zealot is affected by a _sure strike_ spell. If the zealot makes an attack roll against anyone other than the triggering creature, the _sure strike_ ends with no effect."
+    desc: "The zealot is affected by a [[srd/pf2e/compendium/spells/rank-1/sure-strike|_sure strike_]] spell. If the zealot makes an attack roll against anyone other than the triggering creature, the _sure strike_ ends with no effect."
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ mace +12 (Shove) __Damage__ 1d8+4 bludgeoning"
+    desc: "⬻ mace +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 1d8+4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +12 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ composite shortbow +9 (deadly 1d10, Propulsive, range increment 60 feet, reload 0) __Damage__ 1d6+2 piercing"
+    desc: "⬻ composite shortbow +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly 1d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 60 feet, reload 0) __Damage__ 1d6+2 piercing"
 abilities_bot:
   - name: "Channel Smite"
-    desc: "⬺ (Divine)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]])"
   - name: "Cost"
-    desc: "the zealot expends a _harm_ spell"
+    desc: "the zealot expends a [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] spell"
   - name: "Effect"
-    desc: "The zealot makes a melee Strike. If it hits, they damage the target with a 1-action _harm_ spell. The target automatically gets a failure (or a critical failure if the Strike was a critical hit). The spell doesn't have the manipulate trait when cast this way."
+    desc: "The zealot makes a melee Strike. If it hits, they damage the target with a 1-action _harm_ spell. The target automatically gets a failure (or a critical failure if the Strike was a critical hit). The spell doesn't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait when cast this way."
   - name: "Deadly Simplicity"
     desc: "The zealot deals 1d8 damage with their mace instead of 1d6."
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 19, attack +11 - __Cantrips (2nd)__ Detect Magic, Divine Lance, Forbidding Ward, Read Aura, Sigil - __1st__ Command, Runic Weapon, Spirit Link - __2nd__ Cleanse Affliction, Harm (×4), See the Unseen, Share Life"
+    desc: "DC 19, attack +11 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/divine-lance|Divine Lance]], [[srd/pf2e/compendium/spells/cantrips/forbidding-ward|Forbidding Ward]], [[srd/pf2e/compendium/spells/cantrips/read-aura|Read Aura]], [[srd/pf2e/compendium/spells/cantrips/sigil|Sigil]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/command|Command]], [[srd/pf2e/compendium/spells/rank-1/runic-weapon|Runic Weapon]], [[srd/pf2e/compendium/spells/rank-1/spirit-link|Spirit Link]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|Cleanse Affliction]], [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (×4), [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]], [[srd/pf2e/compendium/spells/rank-2/share-life|Share Life]]"
 sourcebook: "_NPC Core_, page 31."
 ```
 

@@ -19,6 +19,6 @@ source: "Player Core 2"
 
 - **Price**: 1,500 gp
 
-As soon as a creature enters the snare's square, the snare unleashes wickedly powerful spears at the creature from all directions, dealing 15d8 piercing damage (DC 37 basic Reflex save).
+As soon as a creature enters the snare's square, the snare unleashes wickedly powerful spears at the creature from all directions, dealing 15d8 piercing damage (DC 37 [[srd/pf2e/compendium/rules-elements/actions/howl-of-the-wild|basic]] Reflex save).
 
 *Source: Player Core 2 p. 299*

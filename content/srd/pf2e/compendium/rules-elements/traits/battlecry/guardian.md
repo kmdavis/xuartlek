@@ -13,6 +13,6 @@ source: "Battlecry!"
 
 `Guardian`
 
-This trait indicates abilities from the guardian class.
+This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/guardian|guardian]] class.
 
 *Source: Battlecry! p. 219*

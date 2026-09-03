@@ -27,14 +27,14 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; darkvision"
-languages: "Common; (can't speak any language); master link"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language); master link"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Stealth +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
 abilityMods: [-1, 3, 0, 0, 1, -2]
 abilities_top:
   - name: "Master Link"
-    desc: "(arcane, mental) A homunculus can't speak, but it is telepathically linked to its creator. It can share information back and forth, including its master's knowledge and everything the homunculus hears. The range of this link is 1,500 feet. The homunculus typically has a similar attitude to its creator and is utterly faithful. If the homunculus is destroyed, the master takes 2d10 mental damage. If the master is slain, the homunculus becomes mindless, claims its current location as its lair, and instinctively attacks anyone who comes near."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) A homunculus can't speak, but it is telepathically linked to its creator. It can share information back and forth, including its master's knowledge and everything the homunculus hears. The range of this link is 1,500 feet. The homunculus typically has a similar attitude to its creator and is utterly faithful. If the homunculus is destroyed, the master takes 2d10 mental damage. If the master is slain, the homunculus becomes [[srd/pf2e/compendium/rules-elements/traits/player-core/mindless|mindless]], claims its current location as its lair, and instinctively attacks anyone who comes near."
 ac: 17
 armorclass:
   - name: "AC"
@@ -42,20 +42,20 @@ armorclass:
 hp: 17
 health:
   - name: "HP"
-    desc: "17; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void"
+    desc: "17; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]"
 speed: "15 feet, fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +7 (Finesse, Magical, reach 0 feet) __Damage__ 1d4 piercing plus homunculus poison"
+    desc: "⬻ jaws +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d4 piercing plus homunculus poison"
 abilities_bot:
   - name: "Homunculus Poison"
-    desc: "(Poison) A homunculus has one dose of poison in a reservoir in its head. It can refill this poison from its reserves with an Interact action"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) A homunculus has one dose of poison in a reservoir in its head. It can refill this poison from its reserves with an Interact action"
   - name: "Saving Throw"
     desc: "DC 15 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison and enfeebled 1 (1 round). Soulbound Homunculi Most homunculi use a dose of their creator's blood as their spark of life, but it's possible to use a technique similar to that used in the crafting of a soulbound doll to give a homunculus a personality and the semblance of life. These homunculi gain the soulbound trait, lose immunity to spirit, can speak, and do not have a special link to a creator, yet the process tends to warp the soul used so that, more often than not, what rises in the new homunculus body is a parody of its prior life. As such, soulbound homunculi are generally created by cruel spellcasters as a method of humiliating and tormenting vanquished enemies."
+    desc: "1d6 poison and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round). Soulbound Homunculi Most homunculi use a dose of their creator's blood as their spark of life, but it's possible to use a technique similar to that used in the crafting of a soulbound doll to give a homunculus a personality and the semblance of life. These homunculi gain the [[srd/pf2e/compendium/rules-elements/traits/monster-core/soulbound|soulbound]] trait, lose immunity to [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], can speak, and do not have a special link to a creator, yet the process tends to warp the soul used so that, more often than not, what rises in the new homunculus body is a parody of its prior life. As such, soulbound homunculi are generally created by cruel spellcasters as a method of humiliating and tormenting vanquished enemies."
 sourcebook: "_Monster Core_, page 200."
 ```
 

@@ -37,10 +37,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; darkvision"
-languages: "Common, Necril"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +16, Dwelling Lore +16, Stealth +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/lore|Dwelling Lore]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18"
 abilityMods: [-5, 4, 3, 0, 4, 4]
 abilities_top:
   - name: "Site Bound"
@@ -52,10 +52,10 @@ armorclass:
 hp: 105
 health:
   - name: "HP"
-    desc: "105 (4 segments, rejuvenation, void healing); __Immunities__ bleed, death effects, disease, paralyzed, poison, precision, unconscious; __Resistances__ all damage 10 (except force, _ghost touch_, spirit, or vitality; double resistance vs. non-magical); __Weaknesses__ area damage 8, splash damage 8"
+    desc: "105 (4 segments, rejuvenation, void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ all damage 10 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]; double resistance vs. non-magical); __Weaknesses__ area damage 8, splash damage 8"
 abilities_mid:
   - name: "Rejuvenation"
-    desc: "(divine) When a ghostly mob is destroyed, it reforms after 2d4 days within the location it's bound to, fully healed. A ghostly mob can be permanently destroyed only if someone sets right whatever prevents the troop from resting."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) When a ghostly mob is destroyed, it reforms after 2d4 days within the location it's bound to, fully healed. A ghostly mob can be permanently destroyed only if someone sets right whatever prevents the troop from resting."
   - name: "Troop Defenses"
     desc: ""
 speed: "fly 25 feet; troop movement"
@@ -63,9 +63,9 @@ abilities_bot:
   - name: "Clutching Hands"
     desc: "Frequency__ once per round__"
   - name: "Effect"
-    desc: "The troop attacks enemies in a 5-foot emanation, with a DC 23 basic Reflex save. The damage depends on the number of actions. ⬻ 1d6+3 void damage ⬺ 3d6+6 void damage ⬽ 4d6+9 void damage"
+    desc: "The troop attacks enemies in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d6+3 void damage ⬺ 3d6+6 void damage ⬽ 4d6+9 void damage"
   - name: "Frightful Chorus"
-    desc: "⬺ (Auditory, divine, emotion, fear, mental) The ghostly mob howls in anguish, sharing the pain of their death with any living creature that can hear them. This painful wailing forces each living creature in a 30-foot emanation to attempt a DC 26 Will save or become frightened 2 (frightened 3 on a critical failure). Regardless of the save result, the creature is then temporarily immune to the troop's Frightful Chorus for 1 minute. Echoes Of Tragedy The specific tragedy that created a ghostly mob might alter its abilities. For example, a ghostly mob spawned from a fire might have Burning Grasp rather than Clutching Hands, which deals fire damage instead of void damage. A ghostly mob created in an earthquake might have Earthshaking Chorus rather than Frightful Chorus, which causes living victims to be slowed for 1 round rather than frightened."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) The ghostly mob howls in anguish, sharing the pain of their death with any living creature that can hear them. This painful wailing forces each living creature in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] to attempt a DC 26 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 2 (frightened 3 on a critical failure). Regardless of the save result, the creature is then temporarily immune to the troop's Frightful Chorus for 1 minute. Echoes Of Tragedy The specific tragedy that created a ghostly mob might alter its abilities. For example, a ghostly mob spawned from a fire might have Burning Grasp rather than Clutching Hands, which deals fire damage instead of void damage. A ghostly mob created in an earthquake might have Earthshaking Chorus rather than Frightful Chorus, which causes living victims to be [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] for 1 round rather than [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]]."
 sourcebook: "_Monster Core 2_, page 161."
 ```
 

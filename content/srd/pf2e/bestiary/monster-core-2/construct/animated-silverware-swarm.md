@@ -33,7 +33,7 @@ perception:
     desc: "Perception +5; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8"
 abilityMods: [1, 3, 4, -5, 0, -5]
 ac: 16
 armorclass:
@@ -42,14 +42,14 @@ armorclass:
 hp: 14
 health:
   - name: "HP"
-    desc: "14; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; __Weaknesses__ area damage 3, splash damage 3; __Hardness__ 3"
+    desc: "14; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Weaknesses__ area damage 3, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 3; __Hardness__ 3"
 abilities_mid:
   - name: "Construct Armor"
     desc: "Like normal objects, an animated silverware swarm has Hardness. This Hardness reduces any damage the swarm takes by an amount equal to the Hardness. Once an animated silverware swarm is reduced to fewer than half its Hit Points or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 12."
 speed: "20 feet"
 abilities_bot:
   - name: "Slice and Dice"
-    desc: "⬻ (Magical) Each enemy in the animated silverware swarm's space takes 1d6 piercing or slashing damage (DC 17 basic Reflex save)."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) Each enemy in the animated silverware swarm's space takes 1d6 piercing or slashing damage (DC 17 basic Reflex save)."
   - name: "Stick a Fork in It"
     desc: "⬻ The animated silverware swarm attempts to pin a single creature. The target must attempt a DC 17 Reflex save."
   - name: "Critical Success"
@@ -59,7 +59,7 @@ abilities_bot:
   - name: "Failure"
     desc: "As success, and the target also can't Step until it leaves the swarm's space."
   - name: "Critical Failure"
-    desc: "The target is thoroughly pinned by the silverware, becoming immobilized until it Escapes (DC 17) or uses 2 Interact actions to remove all the silverware pinning it down."
+    desc: "The target is thoroughly pinned by the silverware, becoming [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 17) or uses 2 Interact actions to remove all the silverware pinning it down."
 sourcebook: "_Monster Core 2_, page 32."
 ```
 

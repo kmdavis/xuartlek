@@ -18,8 +18,8 @@ source: "Impossible Magic"
 
 - **Price**: 100 gp
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
-This talisman is made using the interlocking feathers gathered from at least three kinds of birds, carefully trimmed into a circle. When you activate this talisman, you become lighter than air, causing you to levitate 1 foot off the ground for 1 minute. While levitated this way, you can still move as normal, but you ignore most difficult, greater difficult, and hazardous terrain on the ground.
+This talisman is made using the interlocking feathers gathered from at least three kinds of birds, carefully trimmed into a circle. When you activate this talisman, you become lighter than air, causing you to levitate 1 foot off the ground for 1 minute. While levitated this way, you can still move as normal, but you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Ignore Difficult Terrain|ignore most difficult, greater difficult, and hazardous terrain]] on the ground.
 
 *Source: Impossible Magic p. 225*

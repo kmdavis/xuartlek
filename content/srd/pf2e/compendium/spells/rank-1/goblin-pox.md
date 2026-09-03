@@ -32,6 +32,6 @@ Your touch afflicts the target with goblin pox, an irritating allergenic rash. T
 
 **Critical Failure** The target is afflicted with goblin pox at stage 2. 
 
-**Goblin Pox** (disease) Level 1; Creatures that have the goblin trait and goblin dogs are immune; **Stage 1** sickened 1 (1 round); **Stage 2** sickened 1 and slowed 1 (1 round); **Stage 3** sickened 1 and the creature can't reduce its sickened value below 1 (1 day)
+**Goblin Pox** ([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]) Level 1; Creatures that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/goblin|goblin]] trait and goblin dogs are immune; **Stage 1** sickened 1 (1 round); **Stage 2** sickened 1 and slowed 1 (1 round); **Stage 3** sickened 1 and the creature can't reduce its sickened value below 1 (1 day)
 
 *Source: Player Core p. 333*

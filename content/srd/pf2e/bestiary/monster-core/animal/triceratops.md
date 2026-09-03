@@ -31,7 +31,7 @@ perception:
     desc: "Perception +16; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +21"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21"
 abilityMods: [7, 0, 4, -4, 2, -1]
 ac: 26
 armorclass:
@@ -53,16 +53,16 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ horns +19 (reach 15 feet) __Damage__ 2d8+9 piercing plus Knockdown"
+    desc: "⬻ horns +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+9 piercing plus Knockdown"
   - name: "Melee"
-    desc: "⬻ foot +19 (reach 10 feet) __Damage__ 2d6+9 bludgeoning"
+    desc: "⬻ foot +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+9 bludgeoning"
 abilities_bot:
   - name: "Lumbering Charge"
     desc: "⬻ The triceratops Strides up to 10 feet and then makes a Strike."
   - name: "Trample"
     desc: "⬽ Large or smaller, foot, DC 26"
   - name: "Vicious Gore"
-    desc: "A triceratops deals 2d6 extra persistent bleed damage to prone targets it hits with its horns."
+    desc: "A triceratops deals 2d6 extra persistent bleed damage to [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] targets it hits with its horns."
 sourcebook: "_Monster Core_, page 99."
 ```
 

@@ -29,14 +29,14 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; low-light vision"
-languages: "Arboreal, Common, Fey"
+languages: "Arboreal, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +13, Stealth +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
 abilityMods: [5, 1, 3, 1, 3, 1]
 abilities_top:
   - name: "Items"
-    desc: "large bark shield, stone longsword"
+    desc: "large bark shield, stone [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]"
 ac: 20
 armorclass:
   - name: "AC"
@@ -44,7 +44,7 @@ armorclass:
 hp: 75
 health:
   - name: "HP"
-    desc: "75; __Resistances__ bludgeoning 5, piercing 5; __Weaknesses__ axes 5, fire 10"
+    desc: "75; __Resistances__ bludgeoning 5, piercing 5; __Weaknesses__ axes 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10"
 abilities_mid:
   - name: "Reactive Strike"
     desc: "⬲"
@@ -53,7 +53,7 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ stone longsword +13 (reach 10 feet) __Damage__ 1d8+10 bludgeoning"
+    desc: "⬻ stone longsword +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d8+10 bludgeoning"
   - name: "Melee"
     desc: "⬻ shield bash +13 __Damage__ 1d6+10 bludgeoning"
 abilities_bot:

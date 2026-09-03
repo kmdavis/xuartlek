@@ -10,7 +10,7 @@ source: "Monster Core"
 
 # Protean  *Creature Family*
 
-Guardians of disorder and natives of the primal plane of chaos known as the Maelstrom, proteans consider it their calling to spread bedlam and hasten entropic ends. The most powerful proteans are demigods known collectively as the protean lords, although they are mysterious entities whose cults in the Universe tend to be obscure and secretive.
+Guardians of disorder and natives of the primal plane of chaos known as the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]], proteans consider it their calling to spread bedlam and hasten entropic ends. The most powerful proteans are demigods known collectively as the protean lords, although they are mysterious entities whose cults in [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] tend to be obscure and secretive.
 
  Proteans divide themselves into a loose caste system and possess a dizzying variety of powers. Most proteans have a serpentine body with the head of a primeval beast. Scholars have long been intrigued by this fact—that scions of dissolution and disorder would share so many features—pointing out that there is some semblance of order even in the purest chaos. Others note that the serpentine form is one of the most primeval shapes, perhaps suggesting that in a reality at the dawn of time, such shapes were all that could exist. The proteans themselves have little to say on the matter, which, perhaps ironically, only adds to the confusion and lack of consensus surrounding their kind. After all, if even chaos cannot be trusted to be chaotic, would that not be the purest form of entropy? 
 
@@ -20,19 +20,19 @@ Guardians of disorder and natives of the primal plane of chaos known as the Mael
 
 ## 
 
-**d8****Warpwave Effect** 1Clumsy 2 (3 on a critical failure) 2Confused and gains 4d6 temporary Hit Points 3Dazzled (permanent on a critical failure) 4Enfeebled 2 (3 on a critical failure) 5Immobilized by filaments of energy 6Quickened (Stride, Strike, or Step only) 7Slowed 1 8Stupefied 2 (3 on a critical failure)
+**d8****Warpwave Effect** 1[[srd/pf2e/compendium/rules-elements/conditions#Clumsy|Clumsy 2]] (3 on a critical failure) 2[[srd/pf2e/compendium/rules-elements/conditions#Confused|Confused]] and gains 4d6 temporary Hit Points 3[[srd/pf2e/compendium/rules-elements/conditions#Dazzled|Dazzled]] (permanent on a critical failure) 4[[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|Enfeebled 2]] (3 on a critical failure) 5[[srd/pf2e/compendium/rules-elements/conditions#Immobilized|Immobilized]] by filaments of energy 6[[srd/pf2e/compendium/rules-elements/conditions#Quickened|Quickened]] (Stride, Strike, or Step only) 7[[srd/pf2e/compendium/rules-elements/conditions#Slowed|Slowed 1]] 8[[srd/pf2e/compendium/rules-elements/conditions#Stupefied|Stupefied 2]] (3 on a critical failure)
 
 ### Members
 
-Akizendri (Creature 3), Azuretzi (Creature 5), Imentesh (Creature 10), Izfiitar (Creature 20), Keketar (Creature 17), Naunet (Creature 7), Protean Tumult (Creature 12), Voidworm (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/monitor/akizendri|Akizendri]] (Creature 3), [[srd/pf2e/bestiary/monster-core/monitor/azuretzi|Azuretzi]] (Creature 5), [[srd/pf2e/bestiary/monster-core-2/monitor/imentesh|Imentesh]] (Creature 10), [[srd/pf2e/bestiary/monster-core-2/monitor/izfiitar|Izfiitar]] (Creature 20), [[srd/pf2e/bestiary/monster-core/monitor/keketar|Keketar]] (Creature 17), [[srd/pf2e/bestiary/monster-core-2/monitor/naunet|Naunet]] (Creature 7), [[srd/pf2e/bestiary/battlecry/monitor/protean-tumult|Protean Tumult]] (Creature 12), [[srd/pf2e/bestiary/monster-core/monitor/voidworm|Voidworm]] (Creature 1)
 
 ### Ancient Immortals
 
-Among the numerous types of immortals that dwell in the Great Beyond, the proteans are surely some of the oldest. They've waged war against the inevitable aeons from the advent of their first creation and speak longingly of that time before the gods themselves imposed order upon reality
+Among the numerous types of immortals that dwell in the Great Beyond, the proteans are surely some of the oldest. They've waged war against the inevitable [[srd/pf2e/compendium/gm/creature-families/aeon|aeons]] from the advent of their first creation and speak longingly of that time before the gods themselves imposed order upon reality
 
 ### Born From Chaos
 
-The Maelstrom, home of all proteans, is the whirling mass of turbulent primal energy, planar waves, and soul-stuff that surrounds the Outer Planes. Planar scholars theorize that all of reality was originally formed from the Maelstrom in the early days of the cosmos—a theory proteans don't necessarily dispute.
+The [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]], home of all proteans, is the whirling mass of turbulent primal energy, planar waves, and soul-stuff that surrounds the Outer Planes. Planar scholars theorize that all of reality was originally formed from the Maelstrom in the early days of the cosmos—a theory proteans don't necessarily dispute.
 
 ### Defending Chaos
 
@@ -40,15 +40,15 @@ Where proteans go, chaos follows. To proteans, there is no purer form of existen
 
 ### Galisemni
 
-Only powerful magic can stabilize the Maelstrom for a time, allowing stable islands to form. Most prominent among these is the massive planar trade city of Galisemni, which lies in the Borderlands, a somewhat-more-stable region of the Maelstrom where it brushes up against the other Outer Planes.
+Only powerful magic can stabilize the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]] for a time, allowing stable islands to form. Most prominent among these is the massive planar trade city of Galisemni, which lies in the Borderlands, a somewhat-more-stable region of the Maelstrom where it brushes up against the other Outer Planes.
 
 ### Other Proteans
 
-Many other proteans beyond those presented here dwell in the Maelstrom, including knowledge-corrupting akizendris, physically threatening naunets, spectral pelagastrs, nearly humanoid shapechanging ourdivars, and incredibly powerful izfiitars.
+Many other proteans beyond those presented here dwell in the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom]], including knowledge-corrupting akizendris, physically threatening naunets, spectral pelagastrs, nearly humanoid shapechanging ourdivars, and incredibly powerful izfiitars.
 
 ### Protean Divinities
 
-The most powerful of all proteans are a group of demigods known collectively as protean lords. Yet even their vast might pales in comparison to that of the mysterious Speakers of the Depths. The Speakers are the most enigmatic of the Maelstrom'sgods—even their exact nature is unknown, and scholars disagree as to whether they are even divinities or just aspects of the Maelstrom itself.
+The most powerful of all proteans are a group of demigods known collectively as protean lords. Yet even their vast might pales in comparison to that of the mysterious Speakers of the Depths. The Speakers are the most enigmatic of the [[srd/pf2e/compendium/gm/planes#Maelstrom|Maelstrom's]]gods—even their exact nature is unknown, and scholars disagree as to whether they are even divinities or just aspects of the Maelstrom itself.
 
 ### Protean Names
 

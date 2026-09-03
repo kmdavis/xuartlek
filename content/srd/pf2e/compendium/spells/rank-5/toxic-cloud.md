@@ -24,7 +24,7 @@ source: "Player Core"
 - **Defense**: basic Fortitude
 - **Duration**: 1 minute
 
-You conjure a poisonous fog. This functions as _mist_, except the area moves 10 feet away from you each round. A breathing creature that starts its turn in the area takes 6d8 poison damage with a basic Fortitude save. You can Dismiss the spell.
+You conjure a poisonous fog. This functions as [[srd/pf2e/compendium/spells/rank-2/mist|_mist_]], except the area moves 10 feet away from you each round. A breathing creature that starts its turn in the area takes 6d8 poison damage with a basic Fortitude save. You can Dismiss the spell.
 
 ---
 **Heightened (+1)** The damage increases by 1d8.

@@ -17,11 +17,11 @@ source: "Impossible Magic"
 - **Price**: 1,300 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Steel Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
 
-This matte black _moderate reinforcing steel shield_ (Hardness 10, HP 92, BT 46) seems to absorb sound, creating an eerie void around its wielder. 
+This matte black _[[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|moderate reinforcing]] [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]]_ ([[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]] 10, HP 92, BT 46) seems to absorb sound, creating an eerie void around its wielder. 
 
-**Activate—Silence Falls** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (manipulate) **Frequency** once per day; **Trigger** A creature within 15 feet of you Casts a Spell or takes an action with the auditory trait while you have the _stifling shield_ raised; **Requirements** ; **Effect** The shield briefly dampens nearby sound. The triggering creature must attempt a DC 28 Will save.
+**Activate—Silence Falls** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Trigger** A creature within 15 feet of you Casts a Spell or takes an action with the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait while you have the _stifling shield_ raised; **Requirements** ; **Effect** The shield briefly dampens nearby sound. The triggering creature must attempt a DC 28 Will save.
 
 **Critical Success** The creature is unaffected.
 
@@ -29,6 +29,6 @@ This matte black _moderate reinforcing steel shield_ (Hardness 10, HP 92, BT 46)
 
 **Failure** As success, but the penalty is –2.
 
-**Critical Failure** The action is disrupted.
+**Critical Failure** The action is [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells#Disrupted and Lost Spells|disrupted]].
 
 *Source: Impossible Magic p. 207*

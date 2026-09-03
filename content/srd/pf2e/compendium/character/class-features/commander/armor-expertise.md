@@ -13,6 +13,6 @@ source: "Battlecry!"
 
 - **Class**: Commander
 
-You have spent so much time in armor that you know how to make the most of its protection. Your proficiency ranks for light, medium, and heavy armor, as well as for unarmored defense, increase to expert. You gain the armor specialization effects of medium and heavy armor.
+You have spent so much time in armor that you know how to make the most of its protection. Your proficiency ranks for light, medium, and heavy armor, as well as for unarmored defense, increase to expert. You gain the [[srd/pf2e/books/player-core/chapter-6-equipment/armor#Armor Specialization Effects|armor specialization effects]] of medium and heavy armor.
 
 *Source: Battlecry! p. 21*

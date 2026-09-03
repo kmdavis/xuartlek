@@ -22,6 +22,6 @@ source: "Impossible Magic"
 - **Target**: your eidolon
 - **Duration**: 1 minute
 
-You loosen the link between yourself and your eidolon, allowing them to travel farther from you for a short period of time and aiding them against being immobilized. While the spell is active, your eidolon can travel an unlimited distance away from you and gains a +1 status bonus to saving throws and DCs against any effect that would make them grappled, immobilized, or restrained, plus the Reposition and Swallow Whole actions. When the spell ends, if your eidolon is more than 100 feet away from you, they unmanifest.
+You loosen the link between yourself and your eidolon, allowing them to travel farther from you for a short period of time and aiding them against being [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]]. While the spell is active, your eidolon can travel an unlimited distance away from you and gains a +1 status bonus to saving throws and DCs against any effect that would make them [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grappled]], immobilized, or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], plus the [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] and Swallow Whole actions. When the spell ends, if your eidolon is more than 100 feet away from you, they unmanifest.
 
 *Source: Impossible Magic p. 185*

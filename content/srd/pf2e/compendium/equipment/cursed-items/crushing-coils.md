@@ -21,8 +21,8 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: 1
 - **Base Armor**: Leather Armor
 
-Made from constrictor snakeskin, the strips of this _+1 leather armor_ wrap around you like an anaconda might wrap around its victim. The first time you roll a 1 on any attack roll or check after donning the armor, it fuses with you and constricts. It constricts anytime you roll a 1 on any attack roll or check thereafter. When the armor constricts, you're restrained for 1 round.
+Made from constrictor snakeskin, the strips of this _+1 leather armor_ wrap around you like an anaconda might wrap around its victim. The first time you roll a 1 on any attack roll or check after donning the armor, it fuses with you and constricts. It constricts anytime you roll a 1 on any attack roll or check thereafter. When the armor constricts, you're [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] for 1 round.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, manipulate) **Effect** The armor wraps around you, allowing you to don it by the time the activation finishes.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** The armor wraps around you, allowing you to don it by the time the activation finishes.
 
 *Source: Treasure Vault (Remastered) p. 191*

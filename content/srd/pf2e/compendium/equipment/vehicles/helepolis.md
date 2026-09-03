@@ -26,7 +26,7 @@ The helepolis uses both pushed propulsion and turned propulsion to turn a capsta
 
 **Passengers** 306
 
-**Piloting Check** Diplomacy (DC 37), Intimidation (DC 37), or Warfare Lore (DC 35)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] (DC 37), [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] (DC 37), or Warfare Lore (DC 35)
 
 ---
 

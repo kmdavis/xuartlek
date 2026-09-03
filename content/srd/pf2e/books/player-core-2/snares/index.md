@@ -16,7 +16,7 @@ citation: "Player Core 2 pg. 297"
 
 <sup>PC2 p. 297</sup>
 
-Snares are simple traps that can be created quickly with the Snare Crafting feat to injure or bedevil intruders. Unlike other items, found snares can't be collected or sold in their complete form. Snares have the snare trait.
+Snares are simple traps that can be created quickly with the [[srd/pf2e/compendium/feats/player-core-2/skill/snare-crafting|Snare Crafting]] feat to injure or bedevil intruders. Unlike other items, found snares can't be collected or sold in their complete form. Snares have the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/snare|snare]] trait.
 
 ## Contents
 

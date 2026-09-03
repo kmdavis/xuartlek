@@ -14,7 +14,7 @@ Adventurers may need passage on a swift vessel, or they might face danger from r
 
 ### Members
 
-Bosun (Creature 3), Castaway (Creature 5), Diver (Creature 3), Navigator (Creature 2), Ocean Nomad (Creature 6), Pirate (Creature 2), Rigger (Creature 1), Ship Captain (Creature 6), Subaquatic Marauder (Creature 5)
+[[srd/pf2e/bestiary/npc-core/humanoid/bosun|Bosun]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/castaway|Castaway]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/diver|Diver]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/navigator|Navigator]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/ocean-nomad|Ocean Nomad]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/pirate|Pirate]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/rigger|Rigger]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/ship-captain|Ship Captain]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/subaquatic-marauder|Subaquatic Marauder]] (Creature 5)
 
 ### Conscription
 
@@ -22,7 +22,7 @@ While slavery is outlawed across Golarion, the practice of plying sailors into s
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: Jinx eater (level 4)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/jinx-eater|Jinx eater]] (level 4)
 
 ### Religion
 

@@ -29,16 +29,16 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Crafting +10, Diplomacy +8, Medicine +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +10, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +16"
 abilityMods: [1, 3, 1, 2, 4, 0]
 abilities_top:
   - name: "Medical Specialist"
-    desc: "In medical matters, a surgeon is a 6th-level challenge. Doctor's Hand When the surgeon rolls a critical failure on a check to Treat Disease, Treat Poison, or Treat Wounds, they get a failure instead."
+    desc: "In medical matters, a surgeon is a 6th-level challenge. Doctor's Hand When the surgeon rolls a critical failure on a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat Disease]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Poison|Treat Poison]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]], they get a failure instead."
   - name: "Items"
-    desc: "bonesaw (functions as a temple sword), Healer's Toolkit, scalpel (3. functions as a dagger)"
+    desc: "bonesaw (functions as a [[srd/pf2e/compendium/equipment/weapons/sword/temple-sword|temple sword]]), [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|Healer's Toolkit]], scalpel (3. functions as a [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]])"
 ac: 17
 armorclass:
   - name: "AC"
@@ -50,16 +50,16 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ bonesaw +9 (Trip) __Damage__ 1d8+1 slashing"
+    desc: "⬻ bonesaw +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d8+1 slashing"
   - name: "Melee"
-    desc: "⬻ scalpel +11 (Agile, Finesse, versatile S) __Damage__ 1d4+1 piercing"
+    desc: "⬻ scalpel +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+1 piercing"
   - name: "Melee"
-    desc: "⬻ fist +11 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ fist +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ scalpel +11 (Agile, Finesse, thrown 10 feet, versatile S) __Damage__ 1d4+1 piercing"
+    desc: "⬻ scalpel +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+1 piercing"
 abilities_bot:
   - name: "Medical Malpractice"
-    desc: "⬻ The surgeon attempts a Medicine check against the Fortitude DC of one living creature they can see within 60 feet. On a success, the surgeon's melee Strikes deal an extra 1d6 precision damage against that creature (2d6 on a critical success) until 1 minute passes or the surgeon critically hits that creature, whichever comes first. Using this action again ends any previous one. A surgeon can target an individual creature no more than once per day with this ability."
+    desc: "⬻ The surgeon attempts a [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check against the Fortitude DC of one living creature they can see within 60 feet. On a success, the surgeon's melee Strikes deal an extra 1d6 precision damage against that creature (2d6 on a critical success) until 1 minute passes or the surgeon critically hits that creature, whichever comes first. Using this action again ends any previous one. A surgeon can target an individual creature no more than once per day with this ability."
 sourcebook: "_NPC Core_, page 61."
 ```
 

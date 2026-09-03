@@ -31,14 +31,14 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11"
-languages: "Arboreal, Muan"
+languages: "Arboreal, [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12"
 abilityMods: [2, 5, 2, 0, 1, 2]
 abilities_top:
   - name: "Grounded"
-    desc: "When saving against an effect attempting to knock them prone, a whipping willow achieves one degree of success better than what they rolled. Additionally, the willow doesn't fall prone on a critical failure to Trip an opponent."
+    desc: "When saving against an effect attempting to knock them [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], a whipping willow achieves one degree of success better than what they rolled. Additionally, the willow doesn't fall prone on a critical failure to Trip an opponent."
 ac: 20
 armorclass:
   - name: "AC"
@@ -46,18 +46,18 @@ armorclass:
 hp: 75
 health:
   - name: "HP"
-    desc: "75; __Immunities__ bleed, paralyzed, poison, sleep; __Weaknesses__ axes 5, fire 5"
+    desc: "75; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ axes 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
 speed: "30 feet, climb 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ whip +11 (Finesse, reach 15 feet, Trip) __Damage__ 2d8+5 bludgeoning plus strangling vines"
+    desc: "⬻ whip +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 2d8+5 bludgeoning plus strangling vines"
 abilities_bot:
   - name: "Constrict"
     desc: "⬻ 2d4+5 bludgeoning, DC 21"
   - name: "Strangling Vines"
     desc: "When a whipping willow hits a creature with their whip Strike, they can choose to Grab and begin strangling the creature. The target is suffocating and can't speak as long as it's strangled."
   - name: "Unseating Sweep"
-    desc: "⬺ The whipping willow attempts to Trip all creatures within a 15-foot cone, making a single Athletics check against all targets' Reflex DCs."
+    desc: "⬺ The whipping willow attempts to Trip all creatures within a 15-foot cone, making a single [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against all targets' Reflex DCs."
 sourcebook: "_Rage of Elements_, page 207."
 ```
 

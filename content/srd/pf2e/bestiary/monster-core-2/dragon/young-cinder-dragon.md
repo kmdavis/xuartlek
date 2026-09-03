@@ -31,54 +31,54 @@ modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; darkvision, scent (imprecise) 60 feet, smoke vision"
-languages: "Common, Draconic, Pyric"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +15, Athletics +22, Diplomacy +19, Intimidation +21, Nature +18, Stealth +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +22, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +19, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +21, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +18, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17"
 abilityMods: [6, 1, 4, 1, 2, 3]
 abilities_top:
   - name: "Smoke Vision"
-    desc: "Smoke doesn't impair a cinder dragon's vision; they ignore the concealed condition from smoke."
+    desc: "Smoke doesn't impair a cinder dragon's vision; they ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from smoke."
 ac: 29
 armorclass:
   - name: "AC"
-    desc: "29; __Fort__: +21; __Ref__: +17; __Will__: +19 +2 status to all saves vs. primal"
+    desc: "29; __Fort__: +21; __Ref__: +17; __Will__: +19 +2 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]"
 hp: 210
 health:
   - name: "HP"
-    desc: "210; __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 10"
+    desc: "210; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10"
 abilities_mid:
   - name: "Frightful Presence"
-    desc: "(aura, emotion, fear, mental) 90 feet, DC 27"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 90 feet, DC 27"
   - name: "Boiling Blood"
-    desc: "⬲ (fire)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]])"
   - name: "Trigger"
     desc: "The dragon is critically hit with a melee attack"
   - name: "Effect"
-    desc: "The dragon's superheated blood spills onto the attacker. The target takes 6d6 fire damage (DC 29 basic Reflex save)."
+    desc: "The dragon's superheated blood spills onto the attacker. The target takes 6d6 fire damage (DC 29 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save)."
   - name: "Reactive Strike"
     desc: "⬲ Jaws only"
 speed: "40 feet, fly 120 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +23 (Fire, magical, reach 10 feet) __Damage__ 2d12+10 piercing plus 1d8 persistent fire"
+    desc: "⬻ jaws +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+10 piercing plus 1d8 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire]]"
   - name: "Melee"
-    desc: "⬻ horn +21 (Magical, reach 10 feet) __Damage__ 2d12+14 piercing"
+    desc: "⬻ horn +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+14 piercing"
   - name: "Melee"
-    desc: "⬻ claw +23 (Agile, magical) __Damage__ 2d10+10 slashing"
+    desc: "⬻ claw +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]]) __Damage__ 2d10+10 slashing"
   - name: "Melee"
-    desc: "⬻ tail +21 (Magical, reach 15 feet) __Damage__ 2d12+10 bludgeoning"
+    desc: "⬻ tail +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d12+10 bludgeoning"
   - name: "Melee"
-    desc: "⬻ wing +21 (Agile, magical, reach 10 feet) __Damage__ 2d8+10 slashing"
+    desc: "⬻ wing +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+10 slashing"
 abilities_bot:
   - name: "Draconic Frenzy"
     desc: "⬺ The dragon makes two claw Strikes and one wing Strike in any order."
   - name: "Draconic Momentum"
     desc: "The dragon recharges their Pyre Breath whenever they score a critical hit with a Strike."
   - name: "Pyre Breath"
-    desc: "⬺ (Fire, primal) The dragon breathes a blast of flame that deals 9d6 fire damage in a 40-foot cone (DC 29 basic Reflex save). Creatures that critically fail their save catch fire, taking 2d6 persistent fire damage. The area then fills with black smoke for 1 minute. This has the effects of mist, except it fills the cone's area. The dragon can't use Pyre Breath again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The dragon breathes a blast of flame that deals 9d6 fire damage in a 40-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] (DC 29 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). Creatures that critically fail their save catch fire, taking 2d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire damage]]. The area then fills with black smoke for 1 minute. This has the effects of mist, except it fills the cone's area. The dragon can't use Pyre Breath again for 1d4 rounds."
   - name: "Stoke the Flames"
-    desc: "⬻ (Fire, primal) The dragon intensifies nearby fires. Every foe within 60 feet that is taking persistent fire damage takes 3d6 fire damage."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) The dragon intensifies nearby fires. Every foe within 60 feet that is taking [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire damage]] takes 3d6 fire damage."
 sourcebook: "_Monster Core 2_, page 118."
 ```
 

@@ -16,7 +16,7 @@ For many societies, ogres embody brutish, amoral violence and greedy cruelty. St
 
 ### Members
 
-Ogre Boss (Creature 7), Ogre Glutton (Creature 4), Ogre Warrior (Creature 3)
+[[srd/pf2e/bestiary/monster-core/giant/ogre-boss|Ogre Boss]] (Creature 7), [[srd/pf2e/bestiary/monster-core/giant/ogre-glutton|Ogre Glutton]] (Creature 4), [[srd/pf2e/bestiary/monster-core/giant/ogre-warrior|Ogre Warrior]] (Creature 3)
 
 ### Grotesque Treasures
 
@@ -24,6 +24,6 @@ Ogre warrens are abattoirs strewn with severed limbs, offal, and dubious stews. 
 
 ### Ogre Hooks
 
-Ogres are known for using immense, curved picks called ogre hooks. These uncommon martial weapons cost 1 gp, deal 1d10 piercing damage, have 2 Bulk, and require two hands to use. Ogre hooks are in the pick weapon group. Ogre hooks have the deadly d10 and trip weapon traits.
+Ogres are known for using immense, curved picks called ogre hooks. These [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] martial weapons cost 1 gp, deal 1d10 piercing damage, have 2 Bulk, and require two hands to use. Ogre hooks are in the pick weapon group. Ogre hooks have the [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]] weapon traits.
 
 *Source: Monster Core p. 250*

@@ -31,10 +31,10 @@ modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +28, Athletics +28, Stealth +25"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +28, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +28, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +25"
 abilityMods: [8, 5, 2, 2, 4, 1]
 ac: 35
 armorclass:
@@ -43,22 +43,22 @@ armorclass:
 hp: 270
 health:
   - name: "HP"
-    desc: "270 (4 segments); __Weaknesses__ area damage 15, splash damage 15"
+    desc: "270 (4 segments); __Weaknesses__ area damage 15, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 15"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "35 feet, climb 20 feet; troop movement"
 abilities_bot:
   - name: "Coordinated Maneuvers"
-    desc: "⬺ The monk cadre is practiced at putting their foes off-balance. The monks choose Disarm, Grapple, Reposition, or Trip and attempt an Athletics check to perform that action, comparing the result to the appropriate DC (Fortitude for Grapple and Reposition, Reflex for Disarm and Trip) of each enemy within a 5-foot emanation. This can result in a different degree of success for each target."
+    desc: "⬺ The monk cadre is practiced at putting their foes off-balance. The monks choose [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] and attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to perform that action, comparing the result to the appropriate DC (Fortitude for Grapple and Reposition, Reflex for Disarm and Trip) of each enemy within a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]. This can result in a different degree of success for each target."
   - name: "Pummeling Punches"
     desc: ""
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The monks perform well-timed coordinated melee attacks against all enemies in a 5-foot emanation, with a DC 31 basic Reflex save. The damage depends on the number of actions. ⬻ 2d8 bludgeoning damage ⬺ 4d8+8 bludgeoning damage ⬽ 4d8+16 bludgeoning damage"
+    desc: "The monks perform well-timed coordinated melee attacks against all enemies in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 31 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 2d8 bludgeoning damage ⬺ 4d8+8 bludgeoning damage ⬽ 4d8+16 bludgeoning damage"
   - name: "Qi Blast"
-    desc: "(Force, Occult) The monks channel their qi into an explosion of energy that affects all creatures in a 10- foot burst within 60 feet. This explosion deals 6d6 force Qi Blast damage with a DC 31 basic Reflex save. When the monk cadre is reduced to 2 segments, this area decreases to a 5-foot burst."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/force|Force]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The monks channel their qi into an explosion of energy that affects all creatures in a 10- foot burst within 60 feet. This explosion deals 6d6 force Qi Blast damage with a DC 31 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. When the monk cadre is reduced to 2 segments, this area decreases to a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]."
 sourcebook: "_Battlecry!_, page 186."
 ```
 

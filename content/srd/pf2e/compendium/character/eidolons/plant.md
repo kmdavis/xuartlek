@@ -15,7 +15,7 @@ source: "Impossible Magic"
 `Eidolon`  `Plant`
 
 - **Tradition**: Primal
-- **Home Plane**: the Universe
+- **Home Plane**: [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]]
 
 **Size** Medium
 
@@ -29,11 +29,11 @@ source: "Impossible Magic"
 - Cha 0
 - AC ( Dex cap)
 
-**Skills** Nature, Survival
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]
 
 **Senses** low-light vision
 
-**Language** Muan
+**Language** [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]
 
 **Speed** 25 feet
 
@@ -47,11 +47,11 @@ source: "Impossible Magic"
 
 ### Tendril Strike [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
-Stretching to extend their body to its limits, your eidolon attacks a foe that would normally be beyond their reach. Your eidolon makes a melee unarmed Strike, increasing their reach by 5 feet for that Strike. If the unarmed attack has the disarm, shove, or trip trait, the eidolon can use the corresponding action instead of a Strike.
+Stretching to extend their body to its limits, your eidolon attacks a foe that would normally be beyond their reach. Your eidolon makes a melee unarmed Strike, increasing their reach by 5 feet for that Strike. If the unarmed attack has the [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]] trait, the eidolon can use the corresponding action instead of a Strike.
 
 ### Growing Vines
 
-Your eidolon's vines and branches lengthen even more. All your eidolon's melee unarmed attacks gain the reach trait.
+Your eidolon's vines and branches lengthen even more. All your eidolon's melee unarmed attacks gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] trait.
 
 ### Field of Roots [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
@@ -63,6 +63,6 @@ Your eidolon extends their roots underground to entangle and possibly damage all
 
 **Failure** The enemy takes half damage, takes a –10-foot circumstance penalty to its Speeds, and at the end of each of its turns, takes half damage again.
 
-**Critical Failure** The enemy is immobilized, takes full damage, and at the end of each of its turns, takes full damage again.
+**Critical Failure** The enemy is [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], takes full damage, and at the end of each of its turns, takes full damage again.
 
 *Source: Impossible Magic p. 76*

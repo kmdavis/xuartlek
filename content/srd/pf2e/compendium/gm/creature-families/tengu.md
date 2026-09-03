@@ -18,7 +18,7 @@ Tengu are an adaptable people originally from the continent of Tian Xia, but who
 
 ### Members
 
-Gambling Companion (Creature 3), Jinx Eater (Creature 4), Tengu Bladesmith (Creature 6), Tengu Sneak (Creature 2)
+[[srd/pf2e/bestiary/npc-core/humanoid/gambling-companion|Gambling Companion]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/jinx-eater|Jinx Eater]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/tengu-bladesmith|Tengu Bladesmith]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/tengu-sneak|Tengu Sneak]] (Creature 2)
 
 ### Jinx Eaters
 
@@ -26,6 +26,6 @@ In the pirate-controlled archipelago of the Shackles, tengu occupy a unique soci
 
 ### Storm Surge Blade Style
 
-This popular fighting style was originally developed by a master of the tengu gale blade. There are two main disciplines students follow. Gusting Winds encompasses rapid strikes, feints, and disarms. Crashing Waves focuses on tripping and grappling techniques. Those who reach the highest level of training appear to harness the wind to enhance their bladework, manipulating the air around them with every swing.
+This popular fighting style was originally developed by a master of the [[srd/pf2e/compendium/equipment/weapons/sword/tengu-gale-blade|tengu gale blade]]. There are two main disciplines students follow. Gusting Winds encompasses rapid strikes, feints, and disarms. Crashing Waves focuses on tripping and grappling techniques. Those who reach the highest level of training appear to harness the wind to enhance their bladework, manipulating the air around them with every swing.
 
 *Source: Monster Core p. 325*

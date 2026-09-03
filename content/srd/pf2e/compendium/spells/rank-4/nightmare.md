@@ -18,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Illusion`  `Manipulate`  `Mental`
 
 - **Traditions**: Arcane, Occult
-- **Deities**: Alazhra, Corosbel, Cthulhu, Lamashtu, Nyarlathotep (Haunter in the Dark)
+- **Deities**: Alazhra, Corosbel, Cthulhu, Lamashtu, [[srd/pf2e/compendium/character/deities#Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Haunter in the Dark)]]
 - **Cast**: 10 minutes
 - **Range**: planetary
 - **Target**: 1 creature you know by name
@@ -31,8 +31,8 @@ You send disturbing nightmares to your target. The next time the target falls as
 
 **Success** The target has the nightmares but has no adverse effects other than unpleasant memories.
 
-**Failure** The target has the nightmares and awakens fatigued.
+**Failure** The target has the nightmares and awakens [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]].
 
-**Critical Failure** The target has the nightmares, awakens fatigued, and is drained 2 until it is no longer fatigued.
+**Critical Failure** The target has the nightmares, awakens fatigued, and is [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 2 until it is no longer fatigued.
 
 *Source: Player Core p. 346*

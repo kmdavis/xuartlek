@@ -32,31 +32,31 @@ The section after the line describes the item and its constant abilities. If the
 
 > [!pf2-sidebar] NOTABLE ITEM TRAITS
 >
-> The following traits apply to items. Some specific categories of item have special traits-such as elixir or scroll-described in their sections.
+> The following traits apply to items. Some specific categories of item have special traits-such as [[srd/pf2e/compendium/rules-elements/traits/player-core/elixir|elixir]] or [[srd/pf2e/compendium/rules-elements/traits/gm-core/scroll|scroll]]-described in their sections.
 >
-> **Alchemical:** Alchemical items are powered by the reactions of alchemical reagents. Unless otherwise noted, alchemical items aren't magical and don't radiate a magical aura. Characters can Craft these items only if they have the Alchemical Crafting feat.
+> **[[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|Alchemical]]:** Alchemical items are powered by the reactions of alchemical reagents. Unless otherwise noted, alchemical items aren't magical and don't radiate a magical aura. Characters can [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] these items only if they have the [[srd/pf2e/compendium/feats/player-core/skill/alchemical-crafting|Alchemical Crafting]] feat.
 >
-> **Consumable:** An item with this trait can be used only once. Unless stated otherwise, it's destroyed after activation, though part of it might be recoverable for other purposes. For instance, while a potion is consumable, the vial it comes in is not destroyed when you drink it. Consumable items include most alchemical items as well as ammunition, oils, potions, scrolls, talismans, and other magical consumables.
+> **[[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|Consumable]]:** An item with this trait can be used only once. Unless stated otherwise, it's destroyed after activation, though part of it might be recoverable for other purposes. For instance, while a potion is consumable, the vial it comes in is not destroyed when you drink it. Consumable items include most alchemical items as well as ammunition, oils, potions, scrolls, talismans, and other magical consumables.
 >
-> When a character creates consumable items, they can make them in batches of four, as described in the Craft activity.
+> When a character creates consumable items, they can make them in batches of four, as described in the [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] activity.
 >
-> **Focused:** An item with this trait can give you an additional [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|Focus Point]]. This focus point is separate from your focus pool and doesn't count toward the cap on your focus pool. You can gain this benefit only if you have a focus pool, and there might be restrictions on how the point can be used. You can't gain more than 1 Focus Point per day from focused items, no matter how many focused items you have.
+> **[[srd/pf2e/compendium/rules-elements/traits/gm-core/focused|Focused]]:** An item with this trait can give you an additional [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|Focus Point]]. This focus point is separate from your focus pool and doesn't count toward the cap on your focus pool. You can gain this benefit only if you have a focus pool, and there might be restrictions on how the point can be used. You can't gain more than 1 Focus Point per day from focused items, no matter how many focused items you have.
 >
-> **Invested:** A character can invest only 10 magical items that have the invested trait. None of the magical effects of the item apply if the character hasn't invested it, though the character still gains any normal benefits from wearing the physical item (like a hat keeping rain off a character's head).
+> **[[srd/pf2e/compendium/rules-elements/traits/gm-core/invested|Invested]]:** A character can invest only 10 magical items that have the invested trait. None of the magical effects of the item apply if the character hasn't invested it, though the character still gains any normal benefits from wearing the physical item (like a hat keeping rain off a character's head).
 >
-> **[[srd/pf2e/books/gm-core/chapter-4-subsystems/vehicles#Magical|Magical]]:** Items with this trait are imbued with magical energies. A character can craft these items only if they have the Magical Crafting feat. Some items are closely tied to a particular tradition of magic. In these cases, the item has the arcane, divine, occult, or primal trait instead of the magical trait. Any of these traits indicates that the item is magical.
+> **[[srd/pf2e/books/gm-core/chapter-4-subsystems/vehicles#Magical|Magical]]:** Items with this trait are imbued with magical energies. A character can craft these items only if they have the [[srd/pf2e/compendium/feats/player-core/skill/magical-crafting|Magical Crafting]] feat. Some items are closely tied to a particular tradition of magic. In these cases, the item has the [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]] trait instead of the magical trait. Any of these traits indicates that the item is magical.
 
 ## Level
 
-An item’s level indicates what level of adventurer the item is best suited for, but there’s no limit to the items a character can use based on level. A 3rd-level character who finds an item of 4th level or higher while adventuring can use it normally, and they can purchase the item if they can find it for sale and can afford it. When making items, a character can Craft only items whose level is equal to or lower than their own.
+An item’s level indicates what level of adventurer the item is best suited for, but there’s no limit to the items a character can use based on level. A 3rd-level character who finds an item of 4th level or higher while adventuring can use it normally, and they can purchase the item if they can find it for sale and can afford it. When making items, a character can [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] only items whose level is equal to or lower than their own.
 
 ### Multiple Types
 
-If multiple types of an item exist, the title line gives the minimum level followed by a plus symbol (“+”). The description includes information on the base version of the item, and the Type entries at the bottom of the stat block lists the specifics for each version, including the level, Price, and any modified or added abilities of the different types. For some items, the types listed are upgrades to the base item. For other items, such as aeon stones, each type is distinct from the others.
+If multiple types of an item exist, the title line gives the minimum level followed by a plus symbol (“+”). The description includes information on the base version of the item, and the Type entries at the bottom of the stat block lists the specifics for each version, including the level, Price, and any modified or added abilities of the different types. For some items, the types listed are upgrades to the base item. For other items, such as [[srd/pf2e/compendium/equipment/worn-items/aeon-stone-sprouting|aeon stones]], each type is distinct from the others.
 
 ## Price
 
-If an item is available for purchase, a character can typically buy it for the listed Price, and the character uses this Price when they use the Craft activity to make the item. If a character wants to sell an item, they can sell it for half its Price (or full Price, if they made the item for someone else on commission), assuming they’re able to find a buyer. The GM determines whether a buyer is available.
+If an item is available for purchase, a character can typically buy it for the listed Price, and the character uses this Price when they use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] activity to make the item. If a character wants to sell an item, they can sell it for half its Price (or full Price, if they made the item for someone else on commission), assuming they’re able to find a buyer. The GM determines whether a buyer is available.
 
 ## Usage
 
@@ -68,7 +68,7 @@ Talismans function only if affixed to other items. They have a Usage entry indic
 
 ### Etched
 
-Runes must be etched onto permanent items, such as armor, shields, weapons, or runestones to grant their benefit. Adding or transferring a rune takes downtime to accomplish. The Usage entry indicates the type or types of items a rune can be etched into, such as “etched onto a weapon.” More information about etching runes is found [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#The Etching Process|here]].
+Runes must be etched onto permanent items, such as armor, shields, weapons, or [[srd/pf2e/compendium/equipment/consumables/runestone|runestones]] to grant their benefit. Adding or transferring a rune takes downtime to accomplish. The Usage entry indicates the type or types of items a rune can be etched into, such as “etched onto a weapon.” More information about etching runes is found [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/armor-armaments#The Etching Process|here]].
 
 ### Held
 
@@ -76,8 +76,8 @@ If a character must wield the item to use it, this entry in the item’s stat bl
 
 ### Worn
 
-An item that needs to be worn to function lists “worn” as its usage. This is followed by another word if the character is limited to only one of that type of item. For instance, a character can wear any number of rings, so the entry for a ring would list only “worn.” However, if the Usage entry were “worn cloak,” then a character couldn’t wear another cloak on top of that one. It’s assumed that items are meant to be worn by humanoids; any item that can or must be worn by a different type of creature either states this in its description or has the companion trait. Most magic items a character must wear have the invested trait.
+An item that needs to be worn to function lists “worn” as its usage. This is followed by another word if the character is limited to only one of that type of item. For instance, a character can wear any number of rings, so the entry for a ring would list only “worn.” However, if the Usage entry were “worn cloak,” then a character couldn’t wear another cloak on top of that one. It’s assumed that items are meant to be worn by humanoids; any item that can or must be worn by a different type of creature either states this in its description or has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/companion|companion]] trait. Most magic items a character must wear have the [[srd/pf2e/compendium/rules-elements/traits/gm-core/invested|invested]] trait.
 
 ## Craft Requirements
 
-An item might require the crafter to provide specific raw materials, supply spells, or meet other special requirements to Craft it. These appear in the Craft Requirements entry of the stat block. Any of these Craft Requirements are in addition to the normal requirements for crafting the item.
+An item might require the crafter to provide specific raw materials, supply spells, or meet other special requirements to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] it. These appear in the Craft Requirements entry of the stat block. Any of these Craft Requirements are in addition to the normal requirements for crafting the item.

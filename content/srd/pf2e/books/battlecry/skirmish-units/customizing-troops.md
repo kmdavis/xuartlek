@@ -16,9 +16,9 @@ citation: "Battlecry! pg. 169"
 
 <sup>BC p. 169</sup>
 
-Choosing the right troops for your group can be challenging since the number of troops in the game is limited compared to the number of creatures overall. The Troops trait troops options and can be especially useful as a reference.
+Choosing the right troops for your group can be challenging since the number of troops in the game is limited compared to the number of creatures overall. The [[srd/pf2e/compendium/rules-elements/traits/npc-core/troop|Troops]] trait troops options and can be especially useful as a reference.
 
-When choosing troops, first remember that you can stretch a level up or down fairly easily. Second, you can use the elite and weak adjustments for a quick and dirty adjustment to statistics. Third, you can freely “reskin” troops to change their theme, such as making a boggard scouting party human rogues who use grappling hooks instead of tongues to pull in enemies. Fourth, you can mix and match abilities from different troops of similar levels—if one has an emanation offensive ability you like and another's ranged ability works for the theme you like, swap them in as needed!
+When choosing troops, first remember that you can stretch a level up or down fairly easily. Second, you can use the elite and weak adjustments for a quick and dirty adjustment to statistics. Third, you can freely “reskin” troops to change their theme, such as making a [[srd/pf2e/bestiary/battlecry/humanoid/boggard-scouting-party|boggard scouting party]] human rogues who use grappling hooks instead of tongues to pull in enemies. Fourth, you can mix and match abilities from different troops of similar levels—if one has an emanation offensive ability you like and another's ranged ability works for the theme you like, swap them in as needed!
 
 > [!pf2-sidebar] RECURRING TROOPS
 >

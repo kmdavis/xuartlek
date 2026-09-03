@@ -30,7 +30,7 @@ This ash staff is decorated with animals, elementals, and dragons. Creatures sum
 
 ---
 
-**Cantrip** _tangle vine_**1st** _summon animal_**2nd** _marvelous mount_, _mist_, summon animal, _summon elemental_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/tangle-vine|_tangle vine_]]**1st** [[srd/pf2e/compendium/spells/rank-1/summon-animal|_summon animal_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/marvelous-mount|_marvelous mount_]], [[srd/pf2e/compendium/spells/rank-2/mist|_mist_]], summon animal, [[srd/pf2e/compendium/spells/rank-2/summon-elemental|_summon elemental_]]
 
 ### Staff of Summoning (Greater)
 
@@ -46,6 +46,6 @@ This ash staff is decorated with animals, elementals, and dragons. Creatures sum
 
 ---
 
-**5th** summon animal, _summon dragon_, summon elemental**6th** marvelous mount, summon animal, summon dragon, summon elemental
+**5th** summon animal, [[srd/pf2e/compendium/spells/rank-5/summon-dragon|_summon dragon_]], summon elemental**6th** marvelous mount, summon animal, summon dragon, summon elemental
 
 *Source: GM Core p. 280*

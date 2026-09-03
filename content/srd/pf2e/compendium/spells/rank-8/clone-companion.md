@@ -18,7 +18,7 @@ source: "Impossible Magic"
 - **Tradition**: Primal
 - **Range**: 30 feet
 - **Target**: your companion
-- **Duration**: sustained up to 1 minute
+- **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
 You create a duplicate of your companion that fights alongside its twin, mirroring the original's actions. The duplicate appears adjacent to your companion and has the same statistics.
 

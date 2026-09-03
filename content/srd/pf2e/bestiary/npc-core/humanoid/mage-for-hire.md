@@ -33,14 +33,14 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Arcana +11, Society +9, Stealth +7, Thievery +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +11, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +9"
 abilityMods: [0, 2, 1, 4, 1, 1]
 abilities_top:
   - name: "Items"
-    desc: "_invisibility potion_, spellbook, Staff, Thieves' Toolkit"
+    desc: "[[srd/pf2e/compendium/equipment/consumables/invisibility-potion|_invisibility potion_]], spellbook, Staff, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
 ac: 17
 armorclass:
   - name: "AC"
@@ -52,10 +52,10 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +7 (two-hand d8) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ staff +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4 bludgeoning"
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 20, attack +12 - __Cantrips (2nd)__ Daze, Detect Magic, Electric Arc, Light, Message, Shield, Telekinetic Hand - __1st__ Force Barrage, Grease, Mystic Armor, Sure Strike - __2nd__ Floating Flame, Knock, See the Unseen"
+    desc: "DC 20, attack +12 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/electric-arc|Electric Arc]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/message|Message]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/grease|Grease]], [[srd/pf2e/compendium/spells/rank-1/mystic-armor|Mystic Armor]], [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/floating-flame|Floating Flame]], [[srd/pf2e/compendium/spells/rank-2/knock|Knock]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]]"
 sourcebook: "_NPC Core_, page 82."
 ```
 

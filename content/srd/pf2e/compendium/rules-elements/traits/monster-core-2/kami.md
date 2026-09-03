@@ -13,6 +13,6 @@ source: "Monster Core 2"
 
 `Kami`
 
-Kami are spirits of the Universe that bond with a specific object or place.
+Kami are spirits of [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]] that bond with a specific object or place.
 
 *Source: Monster Core 2 p. 365*

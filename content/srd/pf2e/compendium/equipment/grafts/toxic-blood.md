@@ -26,7 +26,7 @@ Creatures that damage you with an attack using their mouths (such as a jaws or f
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is sickened 1.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1.
 
 **Failure** The creature takes 2d6 poison damage and is sickened 1.
 

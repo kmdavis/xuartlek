@@ -33,10 +33,10 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; darkvision"
-languages: "Fey, Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Nature +13, Survival +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +13, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +11"
 abilityMods: [4, 2, 4, 1, 2, 2]
 ac: 20
 armorclass:
@@ -48,7 +48,7 @@ health:
     desc: "90"
 abilities_mid:
   - name: "Death Flood"
-    desc: "(primal, water) When a grodair dies, their body explodes in a blast of pressurized water that deals 4d6 bludgeoning damage to creatures within a 15-foot emanation (DC 22 basic Reflex save). A creature that fails its save is pushed 5 feet away from the grodair's corpse (10 feet on a critical failure)."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) When a grodair dies, their body explodes in a blast of pressurized water that deals 4d6 bludgeoning damage to creatures within a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 22 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). A creature that fails its save is pushed 5 feet away from the grodair's corpse (10 feet on a critical failure)."
 speed: "25 feet, swim 50 feet"
 attacks:
   - name: "Melee"
@@ -59,12 +59,12 @@ attacks:
     desc: "⬻ water jet +13 (range increment 60 feet) __Damage__ 3d6 bludgeoning plus Push 10 feet"
 abilities_bot:
   - name: "Muddy Field"
-    desc: "⬻ (Primal, water) The grodair transforms all soil, sand, or similar sediment in a 10-foot emanation into mud for 1 round. This mud is difficult terrain for creatures other than grodairs."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) The grodair transforms all soil, sand, or similar sediment in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] into mud for 1 round. This mud is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for creatures other than grodairs."
   - name: "Organ of Endless Water"
-    desc: "⬻ (Manipulate, primal, water) The grodair causes water to pour through its scales from a magical sac in its body, either at a rate of 1 gallon per round or in a 5-foot-long stream at a rate of 5 gallons per round. It can stop the flow of water as a single action. Grodair Treasure Amid the vile, rubbery entrails of an exploded grodair is a cluster of tubular organs the size of a melon which contains their extradimensional water storage. Harvesting the organ cluster takes 5 minutes and a successful DC 22 Survival check. For the next 2d6 hours, the cluster can then be used to produce water in the same manner as a grodair's Organ of Endless Water ability. However, on a critical failure to harvest the organ cluster, it bursts and deals 2d6 bludgeoning damage to the harvester."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) The grodair causes water to pour through its scales from a magical sac in its body, either at a rate of 1 gallon per round or in a 5-foot-long stream at a rate of 5 gallons per round. It can stop the flow of water as a single action. Grodair Treasure Amid the vile, rubbery entrails of an exploded grodair is a cluster of tubular organs the size of a melon which contains their extradimensional water storage. Harvesting the organ cluster takes 5 minutes and a successful DC 22 [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check. For the next 2d6 hours, the cluster can then be used to produce water in the same manner as a grodair's Organ of Endless Water ability. However, on a critical failure to harvest the organ cluster, it bursts and deals 2d6 bludgeoning damage to the harvester."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 22 - __5th__ Control Water"
+    desc: "DC 22 - __5th__ [[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]]"
 sourcebook: "_Monster Core 2_, page 181."
 ```
 

@@ -21,7 +21,7 @@ source: "Player Core"
 - **Range**: 30 feet
 - **Target**: you or 1 ally
 
-Your symphony lifts listeners from their worldly concerns. Attempt a Performance check to counteract an effect applying one of the following conditions to the target: grabbed, immobilized, paralyzed, restrained, slowed, or stunned. If you fail, you can't target the same effect on the target for 1 day. Use the condition's source to determine the counteract DC (for example, the Escape DC for grabbed).
+Your symphony lifts listeners from their worldly concerns. Attempt a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] an effect applying one of the following conditions to the target: [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]], or [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]]. If you fail, you can't target the same effect on the target for 1 day. Use the condition's source to determine the counteract DC (for example, the Escape DC for grabbed).
 
 ---
 **Heightened (9th)** You can target up to four creatures.

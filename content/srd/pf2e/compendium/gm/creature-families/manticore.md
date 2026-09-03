@@ -14,6 +14,6 @@ These variant manticores bring more than just their tails to the fray, presentin
 
 ### Members
 
-Barded Manticore (Creature 18), Desert Manticore (Creature 12), Manticore (Creature 6)
+[[srd/pf2e/bestiary/howl-of-the-wild/beast/barded-manticore|Barded Manticore]] (Creature 18), [[srd/pf2e/bestiary/howl-of-the-wild/beast/desert-manticore|Desert Manticore]] (Creature 12), [[srd/pf2e/bestiary/monster-core/beast/manticore|Manticore]] (Creature 6)
 
 *Source: Howl of the Wild p. 172*

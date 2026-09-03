@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Dragonblood`
 
-A creature with this trait has the dragonblood versatile heritage. These creatures are born of draconic lineage and often have draconic appearances.
+A creature with this trait has the [[srd/pf2e/compendium/character/ancestries/dragonblood|dragonblood]] [[srd/pf2e/books/player-core/chapter-2-ancestries-backgrounds/versatile-heritages|versatile heritage]]. These creatures are born of [[srd/pf2e/compendium/gm/creature-families/dragon|draconic]] lineage and often have draconic appearances.
 
 *Source: Player Core 2 p. 317*

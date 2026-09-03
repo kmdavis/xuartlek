@@ -31,7 +31,7 @@ perception:
     desc: "Perception +20; blood scent, scent (imprecise) 100 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +21, Stealth +19, Survival +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +19, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +16"
 abilityMods: [8, 2, 5, -4, 3, -2]
 abilities_top:
   - name: "Blood Scent"
@@ -47,12 +47,12 @@ health:
 speed: "swim 80 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +22 (reach 10 feet) __Damage__ 2d12+10 piercing plus Improved Grab"
+    desc: "⬻ jaws +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+10 piercing plus Improved Grab"
   - name: "Melee"
-    desc: "⬻ tail +22 (Agile, reach 15 feet) __Damage__ 2d8+10 piercing plus Push 15 feet"
+    desc: "⬻ tail +22 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+10 piercing plus Push 15 feet"
 abilities_bot:
   - name: "Breach"
-    desc: "⬺ The shark Swims up to its swim Speed, then Leaps vertically out of the water up to 25 feet high, making a Strike against a creature at any point during the jump (this lets it attack a creature within 35 feet of the water's surface, or 40 feet with its tail). After the Strike, the shark splashes back down into the water."
+    desc: "⬺ The shark Swims up to its swim Speed, then [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] vertically out of the water up to 25 feet high, making a Strike against a creature at any point during the jump (this lets it attack a creature within 35 feet of the water's surface, or 40 feet with its tail). After the Strike, the shark splashes back down into the water."
   - name: "Savage"
     desc: "⬻"
   - name: "Requirements"
@@ -60,7 +60,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The creature the shark hit takes 2d12 slashing damage."
   - name: "Swallow Whole"
-    desc: "⬻ (Attack) Huge, 2d8+5 bludgeoning, Rupture 20"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Huge, 2d8+5 bludgeoning, Rupture 20"
 sourcebook: "_Monster Core_, page 307."
 ```
 

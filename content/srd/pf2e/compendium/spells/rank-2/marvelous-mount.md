@@ -21,7 +21,7 @@ source: "Player Core"
 - **Target**: 1 creature
 - **Duration**: 8 hours
 
-You conjure a Large fantastical creature to serve as a mount for the target. The mount is the target's minion, has a Speed of 40 feet, and can bear the target with any carried possessions. It can't carry any other creature. The mount uses the target's AC and saves, but it's destroyed if it takes more than 10 damage at one time, ending the spell.
+You conjure a Large fantastical creature to serve as a mount for the target. The mount is the target's [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]], has a Speed of 40 feet, and can bear the target with any carried possessions. It can't carry any other creature. The mount uses the target's AC and saves, but it's destroyed if it takes more than 10 damage at one time, ending the spell.
 
 ---
 **Heightened (3rd)** The mount can walk on water, but it must end its turn on solid ground or sink.

@@ -29,10 +29,10 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +9, Deception +10, Diplomacy +8, Intimidation +8, Stealth +12, Survival +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +10, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
 abilityMods: [3, 4, 1, 0, 3, 0]
 abilities_top:
   - name: "Items"
@@ -48,14 +48,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ falchion +13 (Forceful, Sweep) __Damage__ 1d10+6 slashing"
+    desc: "⬻ falchion +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d10+6 slashing"
   - name: "Ranged"
     desc: "⬻ crossbow +14 (range increment 120 feet, reload 1) __Damage__ 1d8+3 piercing"
 abilities_bot:
   - name: "Hunt Prey"
-    desc: "⬻ (Concentrate) The bounty hunter designates a single creature they can see and hear, or one they're Tracking or Gathering Information about, as their prey. The bounty hunter gains a +2 circumstance bonus to Perception checks to Seek the prey, to Survival checks to Track the prey, and to Diplomacy checks to Gather Information about the prey. This effect lasts until they use Hunt Prey again."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) The bounty hunter designates a single creature they can see and hear, or one they're [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Tracking]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Gather Information|Gathering Information]] about, as their prey. The bounty hunter gains a +2 circumstance bonus to Perception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] the prey, to [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks to Track the prey, and to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks to Gather Information about the prey. This effect lasts until they use Hunt Prey again."
   - name: "Running Reload"
-    desc: "⬻ The bounty hunter Stride, Steps, or Sneaks, and then Interacts to reload."
+    desc: "⬻ The bounty hunter Stride, Steps, or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneaks]], and then Interacts to reload."
   - name: "Precision Edge"
     desc: "The first time the bounty hunter hits their hunted prey in a round, they deal an additional 1d8 precision damage."
   - name: "Posse's Edge"

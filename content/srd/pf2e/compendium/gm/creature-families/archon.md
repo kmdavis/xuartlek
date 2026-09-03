@@ -10,7 +10,7 @@ source: "Monster Core"
 
 # Archon  *Creature Family*
 
-Archons are guardians of Heaven and enemies of corruption. Before gods and their servants set foot in the celestial planes, archons already resided in Heaven, the original inhabitants of the realm. Upon meeting, the archons and divine angels quickly discovered they were of a kind, holding justice and righteousness in their hearts. An alliance was formed, and archons now serve as stalwart allies to all celestials and mortals they find worthy.
+Archons are guardians of [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]] and enemies of corruption. Before gods and their servants set foot in the celestial planes, archons already resided in Heaven, the original inhabitants of the realm. Upon meeting, the archons and divine angels quickly discovered they were of a kind, holding justice and righteousness in their hearts. An alliance was formed, and archons now serve as stalwart allies to all celestials and mortals they find worthy.
 
  While the first archons coalesced from the immense seven-tiered mountain of Heaven, they choose willing and worthy Heaven-bound souls to join their ranks. These mortals hear and answer the call of a mysterious voice, manifesting in the Garden at the mountain's peak. There they swear to forever serve the cause of justice and transform into their new archon forms.
 
@@ -20,7 +20,7 @@ Archons are guardians of Heaven and enemies of corruption. Before gods and their
 
 ### Members
 
-Aesra (Creature 7), Archon Bastion (Creature 16), Exscinder (Creature 13), Giylea (Creature 16), Gnokesh (Creature 5), Kadamel (Creature 17), Okenevem (Creature 15), Qarna (Creature 4), Rekhep (Creature 10), Zoaem (Creature 1)
+[[srd/pf2e/bestiary/monster-core/celestial/aesra|Aesra]] (Creature 7), [[srd/pf2e/bestiary/battlecry/celestial/archon-bastion|Archon Bastion]] (Creature 16), [[srd/pf2e/bestiary/monster-core-2/celestial/exscinder|Exscinder]] (Creature 13), [[srd/pf2e/bestiary/monster-core/celestial/giylea|Giylea]] (Creature 16), [[srd/pf2e/bestiary/monster-core-2/celestial/gnokesh|Gnokesh]] (Creature 5), [[srd/pf2e/bestiary/monster-core-2/celestial/kadamel|Kadamel]] (Creature 17), [[srd/pf2e/bestiary/monster-core-2/celestial/okenevem|Okenevem]] (Creature 15), [[srd/pf2e/bestiary/monster-core/celestial/qarna|Qarna]] (Creature 4), [[srd/pf2e/bestiary/monster-core/celestial/rekhep|Rekhep]] (Creature 10), [[srd/pf2e/bestiary/monster-core/celestial/zoaem|Zoaem]] (Creature 1)
 
 ### Archon Aesthetics
 
@@ -28,15 +28,15 @@ While archons do not seek to gather or maintain wealth, they do appreciate beaut
 
 ### Archon Divinities
 
-As with angels and azatas, the most powerful archons count among a group of demigods known collectively as empyreal lords. Each archon empyreal lord is a unique and powerful creature who keeps a domain somewhere in Heaven and is worshipped on mortal worlds. Archon divinities serve a variety of goals and focus on different aspects of righteousness. Some, such as Arqueros, hold influence over the defense of the innocent, while others, like Damerrich, demigod of executions, emphasize the punishment of unrepentant wrongdoers and seek to obliterate evil in all its forms.
+As with [[srd/pf2e/compendium/gm/creature-families/angel|angels]] and [[srd/pf2e/compendium/gm/creature-families/azata|azatas]], the most powerful archons count among a group of demigods known collectively as empyreal lords. Each archon empyreal lord is a unique and powerful creature who keeps a domain somewhere in Heaven and is worshipped on mortal worlds. Archon divinities serve a variety of goals and focus on different aspects of righteousness. Some, such as Arqueros, hold influence over the defense of the innocent, while others, like Damerrich, demigod of executions, emphasize the punishment of unrepentant wrongdoers and seek to obliterate evil in all its forms.
 
 ### Crime And Punishment
 
-Archons enforce law and order as their most fundamental duty. Not terrestrial laws—those concern archons little. The cosmic order, on the other hand, is baked into their very being. Most archons find themselves unable to consciously break cosmic laws, though some who were once mortal petitioners can call up an echo of their past autonomy. Though they enforce cosmic laws, archons still prefer to bring lawbreakers to redemption. Within the mountain of Heaven, the Chambers of Repentance hold fiends and lawbreakers they believe can still be redeemed. Whenever possible, they choose this path over destroying a foe, even if the law would justify doing so.
+Archons enforce law and order as their most fundamental duty. Not terrestrial laws—those concern archons little. The cosmic order, on the other hand, is baked into their very being. Most archons find themselves unable to consciously break cosmic laws, though some who were once mortal petitioners can call up an echo of their past autonomy. Though they enforce cosmic laws, archons still prefer to bring lawbreakers to redemption. Within the mountain of [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]], the Chambers of Repentance hold fiends and lawbreakers they believe can still be redeemed. Whenever possible, they choose this path over destroying a foe, even if the law would justify doing so.
 
 ### Heavenly Mountain
 
-Though they can be found anywhere in their endless battle against fiends, archons originate in Heaven, a plane that appears as a single massive mountain. Heaven is broken into seven tiers, with most archons occupying the second level, Proelera, their base of army operations, or the sixth level, Iudica, the administrative heart of Heaven.
+Though they can be found anywhere in their endless battle against fiends, archons originate in [[srd/pf2e/compendium/gm/planes#Heaven|Heaven]], a plane that appears as a single massive mountain. Heaven is broken into seven tiers, with most archons occupying the second level, Proelera, their base of army operations, or the sixth level, Iudica, the administrative heart of Heaven.
 
 ### Order And Preservation
 

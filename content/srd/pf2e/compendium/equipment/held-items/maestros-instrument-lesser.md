@@ -19,7 +19,7 @@ source: "GM Core"
 
 A _maestro's instrument_ can be crafted in the form of any variety of handheld musical instruments. A _maestro's instrument_ grants you a +1 item bonus to Performance checks while playing music with the instrument. 
 
-**Activate—Charming Performance** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Frequency** once per day; **Effect** You play the instrument, causing it to cast a DC 17 _charm_ spell.
+**Activate—Charming Performance** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You play the instrument, causing it to cast a DC 17 _charm_ spell.
 
 ### Maestro's Instrument (Lesser)
 

@@ -29,10 +29,10 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; darkvision, tremorsense (imprecise) 10 feet"
-languages: "Common, Dwarven, Petran"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +11, Crafting +8, Dwarven Lore +8, Nature +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +8, Dwarven Lore +8, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +12"
 abilityMods: [4, 2, 3, 2, 5, -1]
 abilities_top:
   - name: "Items"
@@ -48,16 +48,16 @@ health:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +12 (two-handed d8) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ staff +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-handed d8]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ clan dagger +12 (Agile, Parry, versatile B) __Damage__ 1d4+4 piercing"
+    desc: "⬻ clan dagger +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile B]]) __Damage__ 1d4+4 piercing"
 abilities_bot:
   - name: "Boulder Roll"
-    desc: "⬺ (Earth, Primal) The stonecaster conjures a rolling boulder that deals 5d6 bludgeoning damage to each creature in a 60-foot line with a DC 21 basic Reflex save. The stonecaster can't use Boulder Roll again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The stonecaster conjures a rolling boulder that deals 5d6 bludgeoning damage to each creature in a 60-foot line with a DC 21 basic Reflex save. The stonecaster can't use Boulder Roll again for 1d4 rounds."
   - name: "Dwarven Doughtiness"
-    desc: "A dwarf is often calm and collected in the face of imminent danger. At the end of this dwarf's turn, reduce their frightened condition by 2 instead of 1."
+    desc: "A dwarf is often calm and collected in the face of imminent danger. At the end of this dwarf's turn, reduce their [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition by 2 instead of 1."
   - name: "Tremor"
-    desc: "⬻ (Earth, Primal) The stonecaster causes the earth below to tremble. Each creature on the ground in a 10-foot emanation takes 2d8 bludgeoning damage with a DC 21 basic Fortitude save. A creature that critically fails is knocked prone."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The stonecaster causes the earth below to tremble. Each creature on the ground in a 10-foot emanation takes 2d8 bludgeoning damage with a DC 21 basic Fortitude save. A creature that critically fails is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
 sourcebook: "_Monster Core_, page 135."
 ```
 

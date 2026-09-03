@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: affixed to armor or a weapon
 
 The golden religious symbol on the top of this spherical incense holder shifts its form to match the faith of its bearer. You gain no benefit from a judgment thurible if you don’t worship a deity. The spell DC of any spell cast by activating this item is 27. 
-**Armor** After you cast a spell by activating the thurible, the thurible casts 3rd-rank _protection_ on you, with a duration of 1 round.**Weapon** After you cast a spell by activating the thurible, the weapon gains a rune that lasts until the end of your next turn. It gains the _holy_ rune if your deity allows holy sanctification or the _unholy_ rune if your deity allows unholy sanctification. If your deity allows both, you can choose which rune the weapon gains. If your deity allows neither, your weapon doesn’t gain a rune.
+**Armor** After you cast a spell by activating the thurible, the thurible casts 3rd-rank [[srd/pf2e/compendium/spells/rank-1/protection|_protection_]] on you, with a duration of 1 round.**Weapon** After you cast a spell by activating the thurible, the weapon gains a rune that lasts until the end of your next turn. It gains the [[srd/pf2e/compendium/equipment/runes/holy|_holy_]] rune if your deity allows holy sanctification or the [[srd/pf2e/compendium/equipment/runes/unholy|_unholy_]] rune if your deity allows unholy sanctification. If your deity allows both, you can choose which rune the weapon gains. If your deity allows neither, your weapon doesn’t gain a rune.
 
 **Activate** Cast a Spell; **Effect** You cast _divine lance_.
 

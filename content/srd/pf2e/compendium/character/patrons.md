@@ -17,11 +17,11 @@ Your patron appeared at the end or near the end of a life, flickering in feveris
 
 **Spell List** Primal
 
-**Patron Skill** Nature
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
 
-**Lesson of the Hungry Scavenger** Your patron teaches ways to convert death into new life. You gain the _scrounger's glee_ hex cantrip, and your familiar learns _enfeeble_.
+**Lesson of the Hungry Scavenger** Your patron teaches ways to convert death into new life. You gain the [[srd/pf2e/compendium/spells/cantrips/scroungers-glee|_scrounger's glee_]] hex cantrip, and your familiar learns [[srd/pf2e/compendium/spells/rank-1/enfeeble|_enfeeble_]].
 
-**Familiar of Parasitic Might** Your familiar appears gaunt and malnourished or otherwise on the brink of death, even though it's quite healthy. When you Cast or Sustain a hex, your familiar can draw on the waning strength of another to sustain itself. One creature within 15 feet of your familiar with less than half of its maximum Hit Points becomes sickened 1 unless it succeeds at a Fortitude saving throw against your spell DC.
+**Familiar of Parasitic Might** Your familiar appears gaunt and malnourished or otherwise on the brink of death, even though it's quite healthy. When you Cast or Sustain a hex, your familiar can draw on the waning strength of another to sustain itself. One creature within 15 feet of your familiar with less than half of its maximum Hit Points becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 unless it succeeds at a Fortitude saving throw against your spell DC.
 
 *Source: Howl of the Wild p. 61*
 
@@ -31,9 +31,9 @@ Your patron contacted you in a moment your willpower was close to sputtering out
 
 **Spell List** Divine
 
-**Patron Skill** Religion
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
 
-**Lesson of Fervor's Grasp** Your patron has taught you that nothing can seize the heart like faith, whether used to inspire or direct. You gain the _stoke the heart_ hex cantrip and your familiar learns _command_.
+**Lesson of Fervor's Grasp** Your patron has taught you that nothing can seize the heart like faith, whether used to inspire or direct. You gain the [[srd/pf2e/compendium/spells/cantrips/stoke-the-heart|_stoke the heart_]] hex cantrip and your familiar learns [[srd/pf2e/compendium/spells/rank-1/command|_command_]].
 
 **Familiar of Restored Spirit** Your familiar is pleasantly warm and soft, seeming to wash away worries with its mere presence. When you Cast or Sustain a hex, one willing creature within 15 feet of your familiar gains temporary Hit Points equal to 2 + half your level, which last until the start of your next turn.
 
@@ -45,9 +45,9 @@ When your patron appeared, it was as an unfathomably large shadow beneath the wa
 
 **Spell List** Primal
 
-**Patron Skill** Nature
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
 
-**Lesson of Surface and Seas** Your patron teaches of the dangers and wonders of its domain, even at the very edges of the water. You gain the _sting of the sea_ hex cantrip, and your familiar learns _dizzying colors_ or _grease_.
+**Lesson of Surface and Seas** Your patron teaches of the dangers and wonders of its domain, even at the very edges of the water. You gain the [[srd/pf2e/compendium/spells/cantrips/sting-of-the-sea|_sting of the sea_]] hex cantrip, and your familiar learns [[srd/pf2e/compendium/spells/rank-1/dizzying-colors|_dizzying colors_]] or [[srd/pf2e/compendium/spells/rank-1/grease|_grease_]].
 
 **Familiar of Overwhelming Tides** Your familiar constantly drips with ocean water. When you Cast or Sustain a hex, you can cause a small wave to surge forth from your familiar. One creature within 10 feet of your familiar is pushed 5 feet away from your familiar.
 
@@ -59,11 +59,11 @@ Bitter cold heralded your patron's appearance, in the depths of the winter solst
 
 **Spell List** Primal
 
-**Patron Skill** Nature
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
 
-**Lesson of Winter's Chill** Your patron taught you the power of winter firsthand by subjecting you to frost and snow. You learn the _clinging ice_ hex cantrip and your familiar learns _gust of wind_.
+**Lesson of Winter's Chill** Your patron taught you the power of winter firsthand by subjecting you to frost and snow. You learn the [[srd/pf2e/compendium/spells/cantrips/clinging-ice|_clinging ice_]] hex cantrip and your familiar learns [[srd/pf2e/compendium/spells/rank-1/gust-of-wind|_gust of wind_]].
 
-**Familiar of Freezing Rime** Your familiar is cold to the touch, its breath always visible. When you Cast or Sustain a hex, you can cause ice to form in a 5-foot burst centered on a square of your familiar's space. Those squares are difficult terrain until the start of your next turn.
+**Familiar of Freezing Rime** Your familiar is cold to the touch, its breath always visible. When you Cast or Sustain a hex, you can cause ice to form in a 5-foot burst centered on a square of your familiar's space. Those squares are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] until the start of your next turn.
 
 *Source: Player Core p. 185*
 
@@ -73,9 +73,9 @@ You met your patron in a memory of an encounter yet to come or a premonition of 
 
 **Spell List** Occult
 
-**Patron Skill** Occultism
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
 
-**Lesson of Fate's Vicissitudes** Your patron's harsh lesson is that fate spares no one, rising and falling in turn for all. You gain the _nudge fate_ hex cantrip and your familiar learns _sure strike_.
+**Lesson of Fate's Vicissitudes** Your patron's harsh lesson is that fate spares no one, rising and falling in turn for all. You gain the [[srd/pf2e/compendium/spells/cantrips/nudge-fate|_nudge fate_]] hex cantrip and your familiar learns [[srd/pf2e/compendium/spells/rank-1/sure-strike|_sure strike_]].
 
 **Familiar of Balanced Luck** Your familiar has a spot on its body that looks like a good luck charm or a bad omen, depending on the angle. When you Cast or Sustain a hex, one creature within 15 feet of your familiar gets your choice of either a +1 status bonus to its AC or a –1 status penalty to its AC until the start of your next turn.
 
@@ -87,11 +87,11 @@ Your patron first contacted you at the witching hour, as your body lay paralyzed
 
 **Spell List** Occult
 
-**Patron Skill** Occultism
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
 
-**Lesson of Night's Terrors** Your patron taught you that the darkness can hide all manner of things best left unseen. You gain the _shroud of night_ hex cantrip, and your familiar learns _fear_.
+**Lesson of Night's Terrors** Your patron taught you that the darkness can hide all manner of things best left unseen. You gain the [[srd/pf2e/compendium/spells/cantrips/shroud-of-night|_shroud of night_]] hex cantrip, and your familiar learns _fear_.
 
-**Familiar of Stalking Night** Your familiar is dark of fur or feather, and light seems to disappear into it. When you Cast or Sustain a hex, and your familiar is adjacent to an enemy to which it's concealed, hidden, or undetected, the enemy becomes frightened 1.
+**Familiar of Stalking Night** Your familiar is dark of fur or feather, and light seems to disappear into it. When you Cast or Sustain a hex, and your familiar is adjacent to an enemy to which it's concealed, hidden, or undetected, the enemy becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1.
 
 *Source: Player Core p. 185*
 
@@ -101,9 +101,9 @@ No words passed your patron's lips in the moment you met; instead, words and gly
 
 **Spell List** Arcane
 
-**Patron Skill** Arcana
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
 
-**Lesson of Glyph's Supremacy** Your patron teaches that the written word can accomplish so much more than it seems. You gain the _discern secrets_ hex and your familiar learns _runic weapon_.
+**Lesson of Glyph's Supremacy** Your patron teaches that the written word can accomplish so much more than it seems. You gain the [[srd/pf2e/compendium/spells/cantrips/discern-secrets|_discern secrets_]] hex and your familiar learns [[srd/pf2e/compendium/spells/rank-1/runic-weapon|_runic weapon_]].
 
 **Familiar of Flowing Script** Your familiar is covered in a pattern that looks similar to letters in an unknown language, one that seems to draw attention even as it eludes understanding. When you Cast or Sustain a hex, the letters begin to rapidly change, causing a distraction. Until the start of your next turn, your familiar can provide flanking for you and your allies as though it were able to attack and had a reach of 5 feet; this is a visual effect.
 
@@ -115,9 +115,9 @@ A single feeling radiated from your patron in the moment you met them, as palpab
 
 **Spell List** Occult
 
-**Patron Skill** Occultism
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
 
-**Lesson of Strength's Impermanence** Your patron has taught you that power can be taken much more easily that it can be built. You gain the _evil eye_ hex cantrip and your familiar learns _enfeeble_.
+**Lesson of Strength's Impermanence** Your patron has taught you that power can be taken much more easily that it can be built. You gain the [[srd/pf2e/compendium/spells/cantrips/evil-eye|_evil eye_]] hex cantrip and your familiar learns [[srd/pf2e/compendium/spells/rank-1/enfeeble|_enfeeble_]].
 
 **Familiar of Ongoing Misery** Your familiar seems hostile to all creatures other than you, hissing at them if they get too near. When you Cast or Sustain a hex, your familiar can curse a creature within 15 feet of it, prolonging one negative condition of your choice affecting the creature by 1 round. This extension can be applied only once to a given case of a condition. This is a curse effect. This prolongs only conditions with a timed duration (such as "1 round" or "until the end of your next turn") and doesn't prevent conditions from being removed by other means.
 
@@ -129,11 +129,11 @@ Whether in a dream, answering a feeling in your heart, or enacting a mysterious 
 
 **Spell List** Occult
 
-**Patron Skill** Occultism
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
 
-**Lesson of the Bound Words** Your patron teaches you about bargains and how they can hold power over others. You gain the _pact broker_ hex cantrip and your familiar learns _command_.
+**Lesson of the Bound Words** Your patron teaches you about bargains and how they can hold power over others. You gain the _pact broker_ hex cantrip and your familiar learns [[srd/pf2e/compendium/spells/rank-1/command|_command_]].
 
-**Familiar of Enticing Negotiation** Your familiar constantly whispers distracting offers of power, wealth, and other temptations to your enemies, even if your familiar normally doesn’t have the means of speaking. When you Cast or Sustain a hex and your familiar is within 10 feet of an enemy, the enemy becomes off-guard until the start of your next turn. Your familiar can only distract a single enemy per round in this way.
+**Familiar of Enticing Negotiation** Your familiar constantly whispers distracting offers of power, wealth, and other temptations to your enemies, even if your familiar normally doesn’t have the means of speaking. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] a hex and your familiar is within 10 feet of an enemy, the enemy becomes [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of your next turn. Your familiar can only distract a single enemy per round in this way.
 
 *Source: Dark Archives (Remastered) p. 159*
 
@@ -143,11 +143,11 @@ You have agreed to act as a mediator between your patron and the rest of the wor
 
 **Spell List** Occult
 
-**Patron Skill** Occultism
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
 
-**Lesson of the Bound Words** Your patron teaches you about bargains and how they can hold power over others. You gain the _pact broker_ hex cantrip and your familiar learns _command_.
+**Lesson of the Bound Words** Your patron teaches you about bargains and how they can hold power over others. You gain the [[srd/pf2e/compendium/spells/cantrips/pact-broker|_pact broker_]] hex cantrip and your familiar learns [[srd/pf2e/compendium/spells/rank-1/command|_command_]].
 
-**Familiar of Enticing Negotiation** Your familiar constantly whispers distracting offers of temptations to your enemies, even if your familiar normally doesn't have the means of speaking. When you Cast or Sustain a hex and your familiar is within 10 feet of an enemy, the enemy becomes off-guard until the start of your next turn. Your familiar can only distract a single enemy per round in this way.
+**Familiar of Enticing Negotiation** Your familiar constantly whispers distracting offers of temptations to your enemies, even if your familiar normally doesn't have the means of speaking. When you Cast or Sustain a hex and your familiar is within 10 feet of an enemy, the enemy becomes [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of your next turn. Your familiar can only distract a single enemy per round in this way.
 
 *Source: Dark Archives (Remastered) p. 159*
 
@@ -157,11 +157,11 @@ Wings and swirling winds announced the approach of your patron. The wings might 
 
 **Spell List** Primal
 
-**Patron Skill** Nature
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
 
-**Lesson of the Observed Sky** Your patron teaches that the sky can guide you anywhere you let it. You gain the _murmuration_ hex cantrip, and your familiar learns _gentle landing_.
+**Lesson of the Observed Sky** Your patron teaches that the sky can guide you anywhere you let it. You gain the [[srd/pf2e/compendium/spells/cantrips/murmuration|_murmuration_]] hex cantrip, and your familiar learns [[srd/pf2e/compendium/spells/rank-1/gentle-landing|_gentle landing_]].
 
-**Familiar of Nimble Flight** Even if your familiar doesn't have wings, it can sometimes move as if carried aloft by the wind. When you Cast or Sustain a hex, your familiar can Fly up to 15 feet; this movement doesn't trigger reactions.
+**Familiar of Nimble Flight** Even if your familiar doesn't have wings, it can sometimes move as if carried aloft by the wind. When you Cast or Sustain a hex, your familiar can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] up to 15 feet; this movement doesn't trigger reactions.
 
 *Source: Howl of the Wild p. 62*
 
@@ -171,9 +171,9 @@ When your patron appeared before you, they moved with the grace and ferocity of 
 
 **Spell List** Primal
 
-**Patron Skill** Nature
+**Patron Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
 
-**Lesson of Wild Speech** Your patron has taught you the complexities of nonverbal speech, letting you influence and call animals and plants to you. You gain the _wilding word_ hex cantrip and your familiar learns your choice of _summon animal_ or _summon plant or fungus_
+**Lesson of Wild Speech** Your patron has taught you the complexities of nonverbal speech, letting you influence and call animals and plants to you. You gain the [[srd/pf2e/compendium/spells/cantrips/wilding-word|_wilding word_]] hex cantrip and your familiar learns your choice of [[srd/pf2e/compendium/spells/rank-1/summon-animal|_summon animal_]] or [[srd/pf2e/compendium/spells/rank-1/summon-plant-or-fungus|_summon plant or fungus_]]
 
 **Familiar of Keen Senses** Your familiar has glinting eyes, twitching ears, or some other sign of a beast's powerful senses. When you Cast or Sustain a hex, your familiar gains your choice of an imprecise scent, tremorsense, or wavesense, with a range of 60 feet until the start of your next turn, and it can immediately Point Out as a free action.
 

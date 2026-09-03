@@ -17,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 `Consumable`  `Magical`  `Missive`
 
 - **Usage**: held in 1 hand
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 You compose a _heartening missive_ by creating a short message or image intended to grant the recipient moral support. You must dedicate the missive to an individual creature you know and address it to their location (typically the settlement where you think they are). Once you finish composing the missive, it folds itself into the shape of an animal and Flies at a speed of 45 feet (about 15 miles per hour) toward the location for up to 24 hours. It alights near the recipient or in their hand. After Activating the missive, the recipient gets its benefit and becomes temporarily immune to all _heartening missives_ for 24 hours.
 
@@ -37,7 +37,7 @@ Folded into a bull, this missive grants the recipient a sense of solidity. The r
 
 ---
 
-Folded into a delicate butterfly, this missive grants the recipient a sense of grace and poise. Once during the next 24 hours, when the recipient fails a Diplomacy or Performance check, they can improve the result from a failure to a success or from a critical failure to a failure. This is a fortune effect.
+Folded into a delicate butterfly, this missive grants the recipient a sense of grace and poise. Once during the next 24 hours, when the recipient fails a [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check, they can improve the result from a failure to a success or from a critical failure to a failure. This is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect.
 
 ### Heartening Missive (Rabbit)
 

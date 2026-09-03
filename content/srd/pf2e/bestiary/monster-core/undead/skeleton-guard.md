@@ -35,7 +35,7 @@ perception:
     desc: "Perception +2; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +3"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +3"
 abilityMods: [2, 4, 0, -5, 0, 0]
 abilities_top:
   - name: "Items"
@@ -47,15 +47,15 @@ armorclass:
 hp: 4
 health:
   - name: "HP"
-    desc: "4 (void healing); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
+    desc: "4 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5, piercing 5, slashing 5"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ scimitar +6 (Forceful, Sweep) __Damage__ 1d6+2 slashing"
+    desc: "⬻ scimitar +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d6+2 slashing"
   - name: "Melee"
-    desc: "⬻ claw +6 (Agile, Finesse) __Damage__ 1d4+2 slashing"
+    desc: "⬻ claw +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4+2 slashing"
   - name: "Ranged"
-    desc: "⬻ shortbow +6 (deadly d10, range increment 60 feet, reload 0) __Damage__ 1d6 piercing"
+    desc: "⬻ shortbow +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], range increment 60 feet, reload 0) __Damage__ 1d6 piercing"
 sourcebook: "_Monster Core_, page 312."
 ```
 

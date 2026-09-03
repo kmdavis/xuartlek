@@ -22,7 +22,7 @@ source: "GM Core"
 DC 30 (expert)
 
 **Disable**
-DC 28 Thievery (expert) once on the hammer itself and once on its joint to prevent the hammer from swinging
+DC 28 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (expert) once on the hammer itself and once on its joint to prevent the hammer from swinging
 
 **AC** 32, **Fort** +24, **Ref** +15
 
@@ -33,9 +33,9 @@ DC 28 Thievery (expert) once on the hammer itself and once on its joint to preve
 88 (BT 44); **Joint Hardness** 16; **Joint HP** 64 (BT 32)
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
-**Forbid Entry** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (divine) **Trigger** A creature attempts to enter through the entrance; **Effect** The hammer swings down, making a Strike against the triggering creature.
+**Forbid Entry** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) **Trigger** A creature attempts to enter through the entrance; **Effect** The hammer swings down, making a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against the triggering creature.
  **Melee** hammer +28, **Damage** 6d8+20 bludgeoning plus the target is knocked back 10 feet and must succeed at a DC 30 Will save or be unable to enter the edifice through any entrance for 24 hours (on a critical hit, the target automatically fails the Will save); no multiple attack penalty
 
 ---

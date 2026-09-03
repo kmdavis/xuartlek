@@ -24,7 +24,7 @@ source: "Treasure Vault (Remastered)"
 
 A broad wooden tube with a handle, a _sparking spellgun_ radiates warmth. You Activate the spellgun by aiming it at one creature and making your choice of a spell attack roll or a firearm attack roll against the target's AC. This spellgun has a range increment of 30 feet. The spellgun fires a small ball of sparks and fire, then crumbles to ash. The ball explodes in a flash when it hits, dealing fire damage and persistent fire damage according to its type.
 
-**Critical Success** The target takes double damage, takes double persistent damage, is blinded for 1 round, and is dazzled while the persistent damage lasts.
+**Critical Success** The target takes double damage, takes double persistent damage, is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round, and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] while the persistent damage lasts.
 
 **Success** The target takes full damage, full persistent damage, and is dazzled while the persistent damage lasts.
 

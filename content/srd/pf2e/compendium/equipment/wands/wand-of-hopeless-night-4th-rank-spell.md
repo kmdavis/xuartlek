@@ -21,9 +21,9 @@ source: "Player Core 2"
 
 This wand is a length of wrought black iron.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _darkness_. Each creature that ends its turn within the spell's area must succeed at a DC 20 Will save or become frightened 1 (frightened 2 on a critical failure).
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-2/darkness|_darkness_]]. Each creature that ends its turn within the spell's area must succeed at a DC 20 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1 (frightened 2 on a critical failure).
 
-**Craft Requirements** Supply a casting of _darkness_ of the appropriate rank.
+**Craft Requirements** Supply a casting of [[srd/pf2e/compendium/spells/rank-2/darkness|_darkness_]] of the appropriate rank.
 
 ### Wand of Hopeless Night (2nd-Rank Spell)
 

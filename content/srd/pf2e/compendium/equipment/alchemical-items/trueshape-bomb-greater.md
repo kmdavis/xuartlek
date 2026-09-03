@@ -22,7 +22,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Strike
 
-Concentrated wolfsbane and other anti-shapechanger reagents fill trueshape bombs. These bombs grant an item bonus to attack rolls and deal poison damage, persistent poison damage, and poison splash damage, according to their type. If the primary target is under the effects of a morph or polymorph effect, it must succeed at a Fortitude saving throw at the bomb's listed DC, or else the effects end and the creature returns to its normal form. Targets taking persistent poison damage from this bomb must succeed at another Fortitude saving throw at the same DC to change shape using a morph or polymorph effect. The persistent damage can last up to 1 minute.
+Concentrated wolfsbane and other anti-shapechanger reagents fill trueshape bombs. These bombs grant an item bonus to attack rolls and deal poison damage, persistent poison damage, and poison splash damage, according to their type. If the primary target is under the effects of a [[srd/pf2e/compendium/rules-elements/traits/player-core/morph|morph]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect, it must succeed at a Fortitude saving throw at the bomb's listed DC, or else the effects end and the creature returns to its normal form. Targets taking persistent poison damage from this bomb must succeed at another Fortitude saving throw at the same DC to change shape using a morph or polymorph effect. The persistent damage can last up to 1 minute.
 
 ### Trueshape Bomb
 

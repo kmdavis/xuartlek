@@ -20,8 +20,8 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 50 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Anoint a weapon with _oil of swiftness_, which hisses upon application, to give it the _quickstrike_ rune for 1 minute.
+Anoint a weapon with _oil of swiftness_, which hisses upon application, to give it the [[srd/pf2e/compendium/equipment/runes/quickstrike|_quickstrike_]] rune for 1 minute.
 
 *Source: Treasure Vault (Remastered) p. 87*

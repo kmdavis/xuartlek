@@ -31,14 +31,14 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; low-light vision"
-languages: "Common, Jotun, Pyric"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +25, Crafting +22, Intimidation +23, Nature +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +22, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +23, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +18"
 abilityMods: [7, 0, 5, 2, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "_+1 striking greatsword_, _+1 half plate_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/sword/greatsword|greatsword]]_, _+1 [[srd/pf2e/compendium/equipment/armor#Half Plate|half plate]]_"
 ac: 31
 armorclass:
   - name: "AC"
@@ -46,21 +46,21 @@ armorclass:
 hp: 175
 health:
   - name: "HP"
-    desc: "175; __Immunities__ fire; __Weaknesses__ cold 10"
+    desc: "175; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10"
 abilities_mid:
   - name: "Reactive Strike"
     desc: "⬲"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _greatsword_ +24 (Magical, reach 10 feet, versatile P) __Damage__ 2d12+13 slashing"
+    desc: "⬻ _greatsword_ +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 2d12+13 slashing"
   - name: "Melee"
-    desc: "⬻ fist +23 (Agile, reach 10 feet) __Damage__ 2d8+13 bludgeoning"
+    desc: "⬻ fist +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+13 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ flame +21 (Fire, Primal, range 120 feet) __Damage__ 4d6 fire plus 2d6 persistent fire"
+    desc: "⬻ flame +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], range 120 feet) __Damage__ 4d6 fire plus 2d6 persistent fire"
 abilities_bot:
   - name: "Flaming Stroke"
-    desc: "⬺ (Fire, Primal) The fire giant imbues their blade with flames and makes a greatsword Strike with a –2 circumstance penalty against each creature in a 15-foot line. They make one attack roll only and compare the result to each creature's AC. This Strike deals an additional 1d6 fire damage and counts as one attack for the fire giant's multiple attack penalty."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The fire giant imbues their blade with flames and makes a greatsword Strike with a –2 circumstance penalty against each creature in a 15-foot line. They make one attack roll only and compare the result to each creature's AC. This Strike deals an additional 1d6 fire damage and counts as one attack for the fire giant's multiple attack penalty."
 sourcebook: "_Monster Core_, page 166."
 ```
 

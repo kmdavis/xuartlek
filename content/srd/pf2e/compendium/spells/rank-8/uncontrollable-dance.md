@@ -25,7 +25,7 @@ source: "Player Core"
 - **Defense**: Will
 - **Duration**: varies
 
-The target is overcome with an all-consuming urge to dance. For the duration of the spell, the target is off-guard and can't use reactions. It also can't use move actions except to dance, using the Stride action to move up to half its Speed.
+The target is overcome with an all-consuming urge to dance. For the duration of the spell, the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and can't use reactions. It also can't use [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] actions except to dance, using the Stride action to move up to half its Speed.
 
 **Critical Success** The target is unaffected.
 

@@ -31,7 +31,7 @@ perception:
     desc: "Perception +15; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18"
 abilityMods: [7, -2, 6, -5, 0, -5]
 ac: 30
 armorclass:
@@ -40,19 +40,19 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; __Hardness__ 10"
+    desc: "135; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Hardness__ 10"
 abilities_mid:
   - name: "Construct Armor"
     desc: "Like normal objects, an animated furnace has Hardness. This Hardness reduces any damage the swarm takes by an amount equal to the Hardness. Once an animated furnace is reduced to fewer than half its Hit Points or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 26."
 speed: "15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ door +21 (Magical) __Damage__ 2d12+9 bludgeoning plus 1d8 fire and Improved Grab"
+    desc: "⬻ door +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d12+9 bludgeoning plus 1d8 fire and Improved Grab"
 abilities_bot:
   - name: "Fan the Flames"
-    desc: "⬺ The animated furnace opens its door and fans its flames in a 30-foot cone that deals 5d6 fire damage (DC 28 basic Reflex save)."
+    desc: "⬺ The animated furnace opens its door and fans its flames in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] that deals 5d6 fire damage (DC 28 basic Reflex save)."
   - name: "Swallow Whole"
-    desc: "⬻ (Attack) Large, 2d8+9 fire, Rupture 15"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Large, 2d8+9 fire, Rupture 15"
 sourcebook: "_Monster Core 2_, page 32."
 ```
 

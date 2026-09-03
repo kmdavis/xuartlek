@@ -22,7 +22,7 @@ source: "Player Core"
 - **Target**: 1 to 3 willing creatures
 - **Duration**: 1 minute
 
-You empower attacks with vital energy. The number of targets is equal to the number of actions you spent casting this spell. Each target's unarmed and weapon Strikes deal an extra 1d4 vitality damage. (This damage typically damages only undead.) If you have the holy trait, you can add that trait to this spell and to the Strikes affected by the spell.
+You empower attacks with vital energy. The number of targets is equal to the number of actions you spent casting this spell. Each target's [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] and weapon Strikes deal an extra 1d4 vitality damage. (This damage typically [[srd/pf2e/books/player-core/chapter-8-playing-the-game/damage-rolls#Step 2: Damage Type|damages only undead]].) If you have the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait, you can add that trait to this spell and to the Strikes affected by the spell.
 
 ---
 **Heightened (3rd)** The damage increases to 2d4 damage.

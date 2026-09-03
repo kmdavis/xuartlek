@@ -45,20 +45,20 @@ Clan Dagger Filigrees
 No
 Item bonus to Society checks
 
-Pristine Epaulets
+[[srd/pf2e/compendium/equipment/worn-items/pristine-epaulets|Pristine Epaulets]]
 +1
 5
 Other Worn Items
 No
 Item bonus to Society
 
-Cognitive Mutagen (Lesser)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
 Yes
 
-Humbug Pocket
+[[srd/pf2e/compendium/equipment/worn-items/humbug-pocket-greater|Humbug Pocket]]
 +2
 9
 Worn Items
@@ -71,27 +71,27 @@ Clan Dagger Filigrees
 No
 Item bonus to Society checks
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Cognitive Mutagen (Moderate)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
 Yes
 
-Humbug Pocket (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/humbug-pocket-greater|Humbug Pocket (Greater)]]
 +3
 17
 Worn Items
 No
-Checks to Conceal an Object
+Checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Conceal an Object|Conceal an Object]]
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
@@ -105,13 +105,13 @@ Apex Items
 No
 item bonus to Society checks
 
-Cognitive Mutagen (Greater)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
 Yes
 
-Cognitive Mutagen (Major)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

@@ -18,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Soothing powders are remedies made to stop a particular type of persistent damage. Each damage type requires a different formula, with the most popular being bleed soothing powder, poison soothing powder, fire soothing powder, and acid soothing powder. You Activate soothing powder by sprinkling it on yourself or another creature within reach. The target can immediately attempt a new flat check to remove persistent damage the powder works against. This powder lowers the DC to 10, as normal for a particularly appropriate type of help.
+Soothing powders are remedies made to stop a particular type of [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]]. Each damage type requires a different formula, with the most popular being bleed soothing powder, poison soothing powder, fire soothing powder, and acid soothing powder. You Activate soothing powder by sprinkling it on yourself or another creature within reach. The target can immediately attempt a new flat check to remove persistent damage the powder works against. This powder lowers the DC to 10, as normal for a particularly appropriate type of help.
 
 ### Soothing Powder (Lesser)
 

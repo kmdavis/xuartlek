@@ -29,7 +29,7 @@ perception:
     desc: "Perception +11; darkvision, wavesense (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Athletics +10, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [4, 4, 2, -5, 3, 0]
 ac: 21
 armorclass:
@@ -47,13 +47,13 @@ abilities_bot:
   - name: "Clutch"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The giant dragonfly has a Medium or smaller creature grabbed in its mandibles"
+    desc: "The giant dragonfly has a Medium or smaller creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] in its mandibles"
   - name: "Effect"
-    desc: "The dragonfly tries to transfer the grabbed creature to be clutched by its legs. The giant dragonfly attempts an Athletics check against the creature's Reflex DC. On a success, it transfers the creature (which remains grabbed) to its legs, freeing its mandibles to attack. The dragonfly can have only one creature clutched at a time."
+    desc: "The dragonfly tries to transfer the grabbed creature to be clutched by its legs. The giant dragonfly attempts an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the creature's Reflex DC. On a success, it transfers the creature (which remains grabbed) to its legs, freeing its mandibles to attack. The dragonfly can have only one creature clutched at a time."
   - name: "Snatch"
-    desc: "The giant dragonfly can Fly at half Speed while it has a creature grabbed or restrained by Clutch, carrying that creature along with it."
+    desc: "The giant dragonfly can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] at half Speed while it has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by Clutch, carrying that creature along with it."
   - name: "Swoop"
-    desc: "⬺ The giant dragonfly Flies up to its Speed and makes one mandible Strike at any point during that movement."
+    desc: "⬺ The giant dragonfly [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to its Speed and makes one mandible Strike at any point during that movement."
 sourcebook: "_Monster Core 2_, page 138."
 ```
 

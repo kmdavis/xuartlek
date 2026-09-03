@@ -19,8 +19,8 @@ source: "Battlecry!"
 - **Price**: 27 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-These whetstones are miniature stone replicas of weapons, such as a sword or an axe, though their function is the same regardless of their shape. When you attempt a Strike as a reaction (such as with a Readied action or the Reactive Strike reaction) using a weapon under the effect of a reactive flash, the target must first succeed at a DC 19 Reflex save or be off-guard against the attack.
+These whetstones are miniature stone replicas of weapons, such as a sword or an axe, though their function is the same regardless of their shape. When you attempt a Strike as a reaction (such as with a [[srd/pf2e/compendium/rules-elements/actions/player-core#Ready|Readied]] action or the [[srd/pf2e/compendium/feats/player-core-2/archetype/reactive-strike|Reactive Strike]] reaction) using a weapon under the effect of a reactive flash, the target must first succeed at a DC 19 Reflex save or be [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the attack.
 
 *Source: Battlecry! p. 137*

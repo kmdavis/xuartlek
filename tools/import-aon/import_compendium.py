@@ -33,6 +33,10 @@ from pathlib import Path
 import requests
 
 from books import ES_KEYS, REMASTER_RULEBOOKS
+from linkmap import LinkMap
+
+LINKS: LinkMap | None = None
+STATS = {"resolved": 0, "dropped": 0}
 
 ES = "https://elasticsearch.aonprd.com/aon/_search"
 BOOK_ABBR = {b.lower(): c for b, c in REMASTER_RULEBOOKS.items()}
@@ -163,9 +167,10 @@ CONSOLIDATE_BY_SOURCE: dict[str, tuple[str, str]] = {
     "sidebar": ("rules-elements/sidebars", "sidebars"),
 }
 
-# A consolidated page past this many bytes is split into alphabetical parts.
-# Treasure Vault alone contributes 459 actions, which is a 290KB page.
-MAX_PAGE_BYTES = 150_000
+# A consolidated page past this many entries is split into alphabetical parts.
+# Deliberately a count rather than a byte size: the link map is built before any
+# body is rendered, so it must be able to predict the same split.
+MAX_PAGE_ENTRIES = 250
 
 # The vault's CSS keys off both the #Actions target and the link title text, so
 # these strings are load-bearing and must match exactly.
@@ -264,6 +269,28 @@ def numeric_id(d: dict) -> str:
     return m.group(1) if m else ""
 
 
+def feat_bucket(d: dict) -> str:
+    """Which section of a rulebook this feat would be printed in.
+
+    Uses AoN's own trait_group plus the archetype/skill fields rather than
+    guessing from traits. Archetype is checked first because an archetype feat
+    also carries class traits and would otherwise be filed as a class feat.
+    """
+    groups = {g.lower() for g in (d.get("trait_group") or [])}
+    traits = {t.lower() for t in (d.get("trait") or [])}
+    if d.get("archetype"):
+        return "archetype"
+    if "ancestry" in groups:
+        return "ancestry"
+    if "class" in groups:
+        return "class"
+    if d.get("skill") or "skill" in traits:
+        return "skill"
+    if "mythic" in groups or "mythic" in traits:
+        return "mythic"
+    return "general"
+
+
 def build_class_index(docs: list[dict]) -> dict[str, str]:
     """Map a Classes.aspx ID to its class name.
 
@@ -308,7 +335,7 @@ def destination(d: dict, root: Path, class_index: dict[str, str],
         owner = class_index.get(m.group(1), "") if m else ""
         parts = ["character", "class-features", slugify(owner) if owner else "general"]
     elif cat == "feat":
-        parts = ["feats", src_slug]
+        parts = ["feats", src_slug, feat_bucket(d)]
     elif cat == "equipment":
         parts = ["equipment", slugify(d.get("item_category") or "other")]
     elif cat == "spell":
@@ -323,6 +350,10 @@ def destination(d: dict, root: Path, class_index: dict[str, str],
             parts = ["spells", f"rank-{d.get('level', 'unknown')}"]
     elif cat == "ritual":
         parts = ["spells", "rituals"]
+    elif cat == "weapon":
+        # weapon_group is the axis PF2e mechanics key on -- critical
+        # specialization and weapon familiarity are both defined per group.
+        parts = ["equipment", "weapons", slugify(d.get("weapon_group") or "other")]
     elif cat in TYPE_FOLDER:
         parts = [FOLDERS.get(cat, DEFAULT_FOLDER), TYPE_FOLDER[cat]]
         # Shard the big flat folders by sourcebook.
@@ -379,6 +410,17 @@ def superseded(d: dict) -> bool:
 
 # The label may itself contain brackets: AoN embeds literal action tokens
 # such as "[free-action]" inside link labels.
+
+# A link whose label is bold -- "[**Troop Defenses**](/url)" or its mirror
+# "**[Troop Defenses](/url)**" -- has to lose the link before field labels are
+# parsed, or the "**" markers get split across the link and strand its tail.
+BOLD_LINK = re.compile(r"\*\*\[([^\]]+)\]\([^)]*\)\*\*|\[\*\*([^\]]+?)\*\*\]\([^)]*\)")
+
+
+def flatten_bold_links(text: str) -> str:
+    return BOLD_LINK.sub(lambda m: f"**{m.group(1) or m.group(2)}**", text)
+
+
 LINK = re.compile(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\([^)]*\)")
 
 
@@ -551,6 +593,11 @@ def parse_entry(d: dict) -> tuple[str, dict]:
     head, prose = split_head_and_prose(body)
     # Resolve links across the whole body before anything slices it up, so no
     # later pass can cut one in half and strand a "](/Url)" fragment.
+    prose = flatten_bold_links(prose)
+    if LINKS is not None:
+        prose, res, drop = LINKS.rewrite(prose)
+        STATS["resolved"] += res
+        STATS["dropped"] += drop
     prose = unlink(prose)
     prose = tabulate_stat_blocks(prose)
     if not prose.strip():
@@ -561,7 +608,10 @@ def parse_entry(d: dict) -> tuple[str, dict]:
     # Resolve links first: a label can sit inside one, as in
     # "_[**PFS Note**](/pathfinder-society) text_", which otherwise leaves the
     # closing bracket and URL stranded in the value.
-    head_flat = unlink(head)
+    head_flat = flatten_bold_links(head)
+    if LINKS is not None:
+        head_flat, _r, _d = LINKS.rewrite(head_flat)
+    head_flat = unlink(head_flat)
     head_flat = re.sub(r'<actions[^>]*string="([^"]*)"[^>]*/?>',
                        lambda mm: action_icon(mm.group(1)), head_flat)
     meta: list[tuple[str, str]] = []
@@ -653,26 +703,34 @@ def render_section(entry: dict) -> str:
     return f"## {entry['name']}{entry['suffix']}\n\n{entry['body']}\n"
 
 
-def split_oversized(path: Path, entries: list[dict]) -> list[tuple[Path, list[dict]]]:
-    """Break a consolidated page into alphabetical parts if it would be huge.
+def shard_paths(path: Path, names: list[str]) -> dict[str, Path]:
+    """Map each entry name to its final page, splitting oversized groups.
 
-    Keeps both levers in check at once: consolidating cuts the file count, and
-    this stops any single page becoming unreadable.
+    Depends only on the sorted names, so build_linkmap.py can compute exactly
+    the same result before any content is rendered.
     """
-    entries = sorted(entries, key=lambda e: e["name"].lower())
-    total = sum(len(e["body"]) + len(e["name"]) + 8 for e in entries)
-    if total <= MAX_PAGE_BYTES or len(entries) < 2:
-        return [(path, entries)]
-
-    parts = -(-total // MAX_PAGE_BYTES)  # ceil
-    per = -(-len(entries) // parts)
-    out: list[tuple[Path, list[dict]]] = []
-    for i in range(0, len(entries), per):
-        chunk = entries[i:i + per]
-        lo = re.sub(r"[^a-z0-9]", "", chunk[0]["name"].lower()[:3]) or "x"
-        hi = re.sub(r"[^a-z0-9]", "", chunk[-1]["name"].lower()[:3]) or "x"
-        out.append((path.with_name(f"{path.stem}-{lo}-{hi}.md"), chunk))
+    names = sorted(names, key=str.lower)
+    if len(names) <= MAX_PAGE_ENTRIES:
+        return {n: path for n in names}
+    parts = -(-len(names) // MAX_PAGE_ENTRIES)
+    per = -(-len(names) // parts)
+    out: dict[str, Path] = {}
+    for i in range(0, len(names), per):
+        chunk = names[i:i + per]
+        lo = re.sub(r"[^a-z0-9]", "", chunk[0].lower()[:3]) or "x"
+        hi = re.sub(r"[^a-z0-9]", "", chunk[-1].lower()[:3]) or "x"
+        shard = path.with_name(f"{path.stem}-{lo}-{hi}.md")
+        for n in chunk:
+            out[n] = shard
     return out
+
+
+def split_oversized(path: Path, entries: list[dict]) -> list[tuple[Path, list[dict]]]:
+    mapping = shard_paths(path, [e["name"] for e in entries])
+    grouped: dict[Path, list[dict]] = {}
+    for e in sorted(entries, key=lambda x: x["name"].lower()):
+        grouped.setdefault(mapping[e["name"]], []).append(e)
+    return list(grouped.items())
 
 
 def page_title(category: str, entries: list[dict], stem: str) -> str:
@@ -740,6 +798,16 @@ def main() -> int:
             here.parents[1] / "content" / "srd" / "pf2e" / "compendium"
             if args.all else here / "staging" / "compendium"
         )
+
+    global LINKS
+    lmpath = here / ".snapshot" / "linkmap.json"
+    LINKS = LinkMap(here.parents[1] / "content")
+    if LINKS.load(lmpath):
+        print(f"Loaded {len(LINKS)} link targets")
+    else:
+        LINKS = None
+        print("No linkmap.json -- run build_linkmap.py first; links stay plain text",
+              file=sys.stderr)
 
     if args.snapshot.exists() and not args.refresh:
         docs = json.loads(args.snapshot.read_text())
@@ -856,6 +924,11 @@ def main() -> int:
             kinds[re.sub(r"\d+", "N", w)] = kinds.get(re.sub(r"\d+", "N", w), 0) + 1
     for k, n in sorted(kinds.items(), key=lambda x: -x[1])[:10]:
         print(f"  {n:6d}  {k}")
+    if LINKS is not None:
+        tot = STATS["resolved"] + STATS["dropped"]
+        pct = 100 * STATS["resolved"] / tot if tot else 0
+        print(f"Cross-links: {STATS['resolved']} resolved, "
+              f"{STATS['dropped']} left as plain text ({pct:.0f}% linked)")
     return 0
 
 

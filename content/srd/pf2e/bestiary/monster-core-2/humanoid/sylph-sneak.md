@@ -31,10 +31,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5"
-languages: "Common, Sussuran"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Deception +6, Diplomacy +6, Society +4, Stealth +7, Thievery +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +6, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +7"
 abilityMods: [0, 4, 1, 1, 0, 3]
 abilities_top:
   - name: "Items"
@@ -49,7 +49,7 @@ health:
     desc: "17"
 abilities_mid:
   - name: "Deflecting Gale"
-    desc: "⬲ (air, primal)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]])"
   - name: "Trigger"
     desc: "The sylph sneak is the target of a physical ranged attack"
   - name: "Requirements"
@@ -59,16 +59,16 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ starknife +9 (Agile, deadly d6, Finesse, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ starknife +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d6]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
   - name: "Ranged"
-    desc: "⬻ starknife +9 (Agile, deadly d6, thrown 30 feet, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ starknife +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d6]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "The sylph sneak's Strikes deal an additional 1d6 precision damage to off-guard creatures."
+    desc: "The sylph sneak's Strikes deal an additional 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
   - name: "Surprise Attacker"
-    desc: "On the first round of combat, creatures that haven't acted yet are off-guard to the sylph sneak."
+    desc: "On the first round of combat, creatures that haven't acted yet are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the sylph sneak."
   - name: "Wind's Guidance"
-    desc: "When the sylph sneak attacks with a thrown weapon, the range increment increases by 10 feet."
+    desc: "When the sylph sneak attacks with a [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapon, the range increment increases by 10 feet."
 sourcebook: "_Monster Core 2_, page 252."
 ```
 

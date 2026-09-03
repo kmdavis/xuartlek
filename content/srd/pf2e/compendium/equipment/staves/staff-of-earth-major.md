@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-Geometric patterns are etched into the smooth brown and gray surface of a _staff of earth_, which makes a solid thud whenever tapped against the ground. While wielding a _staff of_ earth, you gain a +1 circumstance bonus to your Fortitude saves and DC against effects that Shove you or knock you prone. 
+Geometric patterns are etched into the smooth brown and gray surface of a _staff of earth_, which makes a solid thud whenever tapped against the ground. While wielding a _staff of_ earth, you gain a +1 circumstance bonus to your Fortitude saves and DC against effects that Shove you or knock you [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. 
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
@@ -52,6 +52,6 @@ Geometric patterns are etched into the smooth brown and gray surface of a _staff
 
 ---
 
-**4th** _expeditious excavation_, _mountain resilience_, _shape stone_**5th** _blazing fissure_, _wall of stone_
+**4th** _expeditious excavation_, [[srd/pf2e/compendium/spells/rank-4/mountain-resilience|_mountain resilience_]], [[srd/pf2e/compendium/spells/rank-4/shape-stone|_shape stone_]]**5th** _blazing fissure_, [[srd/pf2e/compendium/spells/rank-5/wall-of-stone|_wall of stone_]]
 
 *Source: Treasure Vault (Remastered) p. 135*

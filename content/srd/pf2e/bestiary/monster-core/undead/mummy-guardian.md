@@ -31,10 +31,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; darkvision"
-languages: "Necril; plus any one language they knew while alive"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]; plus any one language they knew while alive"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Stealth +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11"
 abilityMods: [4, 0, 2, -2, 4, 2]
 ac: 23
 armorclass:
@@ -43,23 +43,23 @@ armorclass:
 hp: 125
 health:
   - name: "HP"
-    desc: "125 (void healing); __Immunities__ bleed, death effects, disease, paralyzed, poison, unconscious; __Weaknesses__ alchemical 5 (see alchemical weakness), fire 5"
+    desc: "125 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] 5 (see alchemical weakness), [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
 abilities_mid:
   - name: "Alchemical Weakness"
-    desc: "The guardian's weakness to alchemical items not only applies to damage from alchemical items, but the guardian also takes 5 damage when splashed with non-damaging alchemical items or dosed with alchemical poisons, even if they're immune to their other effects."
+    desc: "The guardian's weakness to alchemical items not only applies to damage from [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] items, but the guardian also takes 5 damage when splashed with non-damaging alchemical items or dosed with alchemical poisons, even if they're immune to their other effects."
   - name: "Blighted Consumption"
-    desc: "⬲ (curse, divine, poison)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]])"
   - name: "Trigger"
     desc: "A creature within 30 feet eats or drinks (including an alchemical item or potion)"
   - name: "Effect"
-    desc: "The food or drink burns like the caustic substances fed to the mummy before its death. If the creature fails a DC 24 Fortitude save, they become sickened 2 after they finish the consumption and can't reduce their sickened condition while within 30 feet of any mummy."
+    desc: "The food or drink burns like the caustic substances fed to the mummy before its death. If the creature fails a DC 24 Fortitude save, they become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 2]] after they finish the consumption and can't reduce their sickened condition while within 30 feet of any mummy."
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +16 (Agile) __Damage__ 2d10+7 bludgeoning plus Choking Pain"
+    desc: "⬻ fist +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d10+7 bludgeoning plus Choking Pain"
 abilities_bot:
   - name: "Choking Pain"
-    desc: "⬻ (Divine, Illusion, Mental, Void)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|Illusion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]])"
   - name: "Requirements"
     desc: "The mummy's last action was a successful fist Strike"
   - name: "Effect"

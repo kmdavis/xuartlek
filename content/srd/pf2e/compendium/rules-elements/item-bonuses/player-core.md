@@ -17,7 +17,7 @@ entries: 7
 
 You need this toolkit to create items from raw materials with the Craft skill. Different sets are needed for different work, as determined by the GM; for example, a blacksmith's toolkit differs from a woodworker's toolkit. If you wear your artisan's toolkit, you can draw and replace it as part of the action that uses it.
 
-You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. See here for details. 
+You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Wearing Toolkits|See here for details]]. 
 
 ### Artisan's Toolkit
 
@@ -43,7 +43,7 @@ A sterling artisan's toolkit gives you a +1 item bonus to the check.
 - **Hands**: 2
 - **Bulk**: L
 
-When Forcing Open an object that doesn't have an easy grip, a crowbar makes it easier to gain the necessary leverage. Without a crowbar, prying something open takes a –2 item penalty to the Athletics check to Force Open.
+When Forcing Open an object that doesn't have an easy grip, a crowbar makes it easier to gain the necessary leverage. Without a crowbar, prying something open takes a –2 item penalty to the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to Force Open.
 
 ### Crowbar
 
@@ -73,9 +73,9 @@ A levered crowbar grants you a +1 item bonus to Athletics checks to Force Open a
 - **Hands**: -1
 - **Bulk**: 1
 
-This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds. If you wear your healer's toolkit, you can draw and replace them as part of the action that uses them.
+This kit of bandages, herbs, and suturing tools is necessary for [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds. If you wear your healer's toolkit, you can draw and replace them as part of the action that uses them.
 
-You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. See here for details. 
+You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Wearing Toolkits|See here for details]]. 
 
 ### Healer's Toolkit
 
@@ -99,7 +99,7 @@ Expanded healer's toolkits provide a +1 item bonus to such checks.
 
 Handheld instruments include bagpipes, a small set of chimes, small drums, fiddles and viols, flutes and recorders, small harps, lutes, trumpets, and similarly sized instruments. The GM might rule that an especially large handheld instrument (like a tuba) has greater Bulk. Heavy instruments such as large drums, a full set of chimes, and keyboard instruments are less portable and generally need to be stationary while being played.
 
- A virtuoso instrument is more finely made and gives a +1 item bonus to Performance checks using that instrument.
+ A virtuoso instrument is more finely made and gives a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks using that instrument.
 
 ### Musical Instrument (Handheld)
 
@@ -139,7 +139,7 @@ Handheld instruments include bagpipes, a small set of chimes, small drums, fiddl
 
 Handheld instruments include bagpipes, a small set of chimes, small drums, fiddles and viols, flutes and recorders, small harps, lutes, trumpets, and similarly sized instruments. The GM might rule that an especially large handheld instrument (like a tuba) has greater Bulk. Heavy instruments such as large drums, a full set of chimes, and keyboard instruments are less portable and generally need to be stationary while being played.
 
- A virtuoso instrument is more finely made and gives a +1 item bonus to Performance checks using that instrument.
+ A virtuoso instrument is more finely made and gives a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks using that instrument.
 
 ### Musical Instrument (Handheld)
 
@@ -177,7 +177,7 @@ Handheld instruments include bagpipes, a small set of chimes, small drums, fiddl
 
 ## Repair Toolkit (Superb)  *Item 0+*
 
-A repair toolkit allows you to perform simple repairs while traveling. It contains a portable anvil, tongs, woodworking tools, a whetstone, and oils for conditioning leather and wood. You can use a repair toolkit to Repair items using the Crafting skill. You can draw and replace a worn repair toolkit as part of the action that uses it.
+A repair toolkit allows you to perform simple repairs while traveling. It contains a portable anvil, tongs, woodworking tools, a whetstone, and oils for conditioning leather and wood. You can use a repair toolkit to Repair items using the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill. You can draw and replace a worn repair toolkit as part of the action that uses it.
 
 ### Repair Toolkit
 
@@ -207,9 +207,9 @@ A superb repair kit gives you a +1 item bonus to the check.
 - **Hands**: -1
 - **Bulk**: L
 
-You need a thieves' toolkit to Pick Locks or Disable Devices (of some types) using the Thievery skill. If your thieves' toolkit is broken, you can repair it by replacing the lock picks with replacement picks appropriate to your toolkit; this doesn't require using the Repair action. If you wear your thieves' toolkit, you can draw and replace it as part of the action that uses it.
+You need a thieves' toolkit to Pick Locks or Disable Devices (of some types) using the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] skill. If your thieves' toolkit is [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]], you can repair it by replacing the lock picks with replacement picks appropriate to your toolkit; this doesn't require using the Repair action. If you wear your thieves' toolkit, you can draw and replace it as part of the action that uses it.
 
-You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. See here for details. 
+You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Wearing Toolkits|See here for details]]. 
 
 ### Thieves' Toolkit
 

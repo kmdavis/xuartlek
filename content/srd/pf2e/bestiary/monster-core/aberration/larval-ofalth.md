@@ -27,14 +27,14 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; darkvision"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +13, Stealth +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
 abilityMods: [5, 1, 3, -2, 1, -2]
 abilities_top:
   - name: "Hide in Filth"
-    desc: "A larval ofalth can hide in any pile of filth or trash that is its size or larger, allowing it to use Stealth for initiative. If it rolls Stealth for initiative, on the first round of combat, creatures that haven't acted yet are off-guard to it."
+    desc: "A larval ofalth can hide in any pile of filth or trash that is its size or larger, allowing it to use [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] for initiative. If it rolls Stealth for initiative, on the first round of combat, creatures that haven't acted yet are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to it."
 ac: 20
 armorclass:
   - name: "AC"
@@ -45,7 +45,7 @@ health:
     desc: "60; __Immunities__ disease, poison"
 abilities_mid:
   - name: "Stench"
-    desc: "(aura, olfactory) 30 feet, DC 19"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]]) 30 feet, DC 19"
   - name: "Shield Block"
     desc: "⬲ The larval ofalth's trash shield has a hardness of 5 and 20 Hit Points."
 speed: "25 feet"
@@ -56,13 +56,13 @@ attacks:
     desc: "⬻ leachate +11 (range 20 feet) __Damage__ 3d8 acid plus wretched weeps"
 abilities_bot:
   - name: "Wretched Weeps"
-    desc: "(Disease)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]])"
   - name: "Saving Throw"
     desc: "DC 19 Fortitude"
   - name: "Stage 1"
     desc: "carrier with no ill effect (1 day)"
   - name: "Stage 2"
-    desc: "2d4 persistent bleed every hour and enfeebled 1 (1 day)"
+    desc: "2d4 persistent bleed every hour and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 day)"
   - name: "Stage 3"
     desc: "2d6 persistent bleed every hour and enfeebled 2 (1 day)"
 sourcebook: "_Monster Core_, page 249."

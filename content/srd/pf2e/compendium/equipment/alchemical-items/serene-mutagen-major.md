@@ -20,11 +20,11 @@ source: "Player Core 2"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 You gain inner serenity, but you find violence off-putting.
 
-**Benefit** You gain an item bonus to Will saves and Perception, Medicine, Nature, Religion, and Survival checks. This bonus improves when you attempt Will saves against mental effects. 
+**Benefit** You gain an item bonus to Will saves and Perception, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], and [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks. This bonus improves when you attempt Will saves against mental effects. 
 
 **Drawback** You take a –1 penalty to attack rolls and save DCs of offensive spells, and a –1 penalty per damage die to all weapon, unarmed attack, and spell damage.
 

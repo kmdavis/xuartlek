@@ -19,7 +19,7 @@ source: "Battlecry!"
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 
-This magical banner is dip-dyed in an ombre from black to red, mottled and uneven. Whenever you or an ally within the banner’s aura critically succeeds with a Strike against an off-guard target, the Strike deals an additional 1d4 precision damage.
+This magical banner is dip-dyed in an ombre from black to red, mottled and uneven. Whenever you or an ally within the banner’s aura critically succeeds with a Strike against an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] target, the Strike deals an additional 1d4 precision damage.
 
 ### Knave’s Standard
 

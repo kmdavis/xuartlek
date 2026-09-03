@@ -13,6 +13,6 @@ source: "Howl of the Wild"
 
 - **Price**: 5 sp
 
-Animal calls are often whistles or similar devices that imitate the calls of animals. Each call is for a specific type of animal, such as a duck or bear. When you use the call, it gives you a +1 item bonus to Command an Animal, provided the animal is of the type as the call. You also do not take a circumstance penalty when attempting to Demoralize that animal for not sharing a language.
+Animal calls are often whistles or similar devices that imitate the calls of [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]]. Each call is for a specific type of animal, such as a duck or bear. When you use the call, it gives you a +1 item bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]], provided the animal is of the type as the call. You also do not take a circumstance penalty when attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] that animal for not sharing a language.
 
 *Source: Howl of the Wild p. 112*

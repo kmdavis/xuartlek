@@ -61,18 +61,18 @@ Lizardfolk names are typically chosen by the clan's astrologer in accordance to 
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
 Iruxi
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Amurrun, Boggard, Draconic, Elven, Fey, Jotun, Thalassic, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from Amurrun, Boggard, [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Claws
 
-Your sharp claws offer an alternative to the fists other humanoids bring to a fight. You have a claw unarmed &lt;%END> attack that deals 1d4 slashing damage, is in the brawling group, and has the agile and finesse traits.
+Your sharp claws offer an alternative to the fists other humanoids bring to a fight. You have a claw [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] &lt;%END> attack that deals 1d4 slashing damage, is in the brawling group, and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] traits.
 
-| | |
-| --- | --- |
-| **Aquatic Adaptation** | Your reptilian biology allows you to hold your breath for a long time. You gain the Breath Control general feat as a bonus feat. |
+#### Aquatic Adaptation
+
+Your reptilian biology allows you to hold your breath for a long time. You gain the [[srd/pf2e/compendium/feats/player-core/general/breath-control|Breath Control]] general feat as a bonus feat.
 
 *Source: Player Core 2 p. 24*

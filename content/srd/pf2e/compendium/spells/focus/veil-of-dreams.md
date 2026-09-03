@@ -29,8 +29,8 @@ Your patron draws the target into a drowsy state, causing daydreams and sluggish
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes a –1 status penalty to Perception, attack rolls, and Will saves. This penalty increases to –2 for Will saves against sleep effects.
+**Success** The target takes a –1 status penalty to Perception, attack rolls, and Will saves. This penalty increases to –2 for Will saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]] effects.
 
-**Failure** As success, and any time the target uses a concentrate action, it must succeed at a DC 5 flat check or the action is disrupted.
+**Failure** As success, and any time the target uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] action, it must succeed at a DC 5 flat check or the action is disrupted.
 
 *Source: Player Core p. 386*

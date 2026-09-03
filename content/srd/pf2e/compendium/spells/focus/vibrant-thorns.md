@@ -20,10 +20,10 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Morph`  `Plant`  `Uncommon`  `Wood`
 
-- **Domain**: Nature
+- **Domain**: [[srd/pf2e/compendium/character/domains#Nature|Nature]]
 - **Duration**: 1 minute
 
-Your body sprouts brambly thorns that thrive on life magic. Adjacent creatures that hit you with a melee attack, as well as creatures that hit you with unarmed attacks, take 1 piercing damage each time they do. Anytime you cast a vitality spell, the thorns' damage increases to 1d6 until the start of your next turn.
+Your body sprouts brambly thorns that thrive on life magic. Adjacent creatures that hit you with a melee attack, as well as creatures that hit you with [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks, take 1 piercing damage each time they do. Anytime you cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] spell, the thorns' damage increases to 1d6 until the start of your next turn.
 
 ---
 **Heightened (+1)** The damage increases by 1, or 1d6 after you cast a vitality spell.

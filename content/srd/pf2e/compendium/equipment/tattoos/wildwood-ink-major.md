@@ -18,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: tattooed on the body
 
-These curving, delicate designs resemble leaves, vines, or creepers, most often wrapped around a limb, ear, or throat, or curled around specific muscles. They help you blend in among plants. You gain a +1 item bonus to Stealth checks, which increases to +2 in forests.
+These curving, delicate designs resemble leaves, vines, or creepers, most often wrapped around a limb, ear, or throat, or curled around specific muscles. They help you blend in among plants. You gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks, which increases to +2 in forests.
 
-**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per day; **Trigger** A creature would detect you by Seeking; **Requirements** You're in a forest or similar natural area; **Effect** The tattoo casts _one with plants_ to turn you into a plant before you can be noticed. The duration of this spell is 10 minutes. 
+**Activate** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** A creature would detect you by Seeking; **Requirements** You're in a forest or similar natural area; **Effect** The tattoo casts [[srd/pf2e/compendium/spells/rank-2/one-with-plants|_one with plants_]] to turn you into a plant before you can be noticed. The duration of this spell is 10 minutes. 
 
 If you’ve already Activated the tattoo, you can supply a separate casting of _one with plants_ to recharge the tattoo instead of having the spell’s normal effect. This allows you to Activate the tattoo again in the same day. You can do so multiple times each day, but only as many times as you continue to cast one with plants to recharge the tattoo after each use.
 

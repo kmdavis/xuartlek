@@ -22,9 +22,9 @@ source: "Dark Archives (Remastered)"
 - **Target**: 1 ally and 1 enemy
 - **Duration**: until the start of your next turn
 
-You quickly view your surroundings from a variety of angles, your senses constructing an overall mental picture. You can choose to Seek the entire emanation of the spell.
+You quickly view your surroundings from a variety of angles, your senses constructing an overall mental picture. You can choose to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] the entire emanation of the spell.
 
- Regardless of whether you Seek, target one ally and one enemy in the area; if a target is concealed or hidden from you, you automatically succeed at the flat check to target it with this spell. You prepare to Aid the target ally on an attack roll against the target enemy. If you take this Aid reaction, you use your spell attack modifier and proficiency rank on your check to Aid. If you critically fail the roll to Aid, you get a failure instead.
+ Regardless of whether you Seek, target one ally and one enemy in the area; if a target is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] from you, you automatically succeed at the flat check to target it with this spell. You prepare to [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]] the target ally on an attack roll against the target enemy. If you take this Aid reaction, you use your spell attack modifier and proficiency rank on your check to Aid. If you critically fail the roll to Aid, you get a failure instead.
 
 ---
 

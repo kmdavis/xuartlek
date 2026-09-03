@@ -23,6 +23,6 @@ source: "Player Core"
 - **Range**: 30 feet
 - **Target**: 1 creature
 
-Your patron weaves the threads of time around the target, giving them some of the benefits of a day's passage. The target decreases the values of any doomed and drained conditions it has by 1 and can immediately attempt one saving throw against each affliction it has with a stage length of 1 day or less. The target is then temporarily immune for 1 day.
+Your patron weaves the threads of time around the target, giving them some of the benefits of a day's passage. The target decreases the values of any [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] and [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] conditions it has by 1 and can immediately attempt one saving throw against each affliction it has with a stage length of 1 day or less. The target is then temporarily immune for 1 day.
 
 *Source: Player Core p. 385*

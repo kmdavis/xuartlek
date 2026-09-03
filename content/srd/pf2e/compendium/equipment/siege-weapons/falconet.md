@@ -48,7 +48,7 @@ source: "Battlecry!"
 
 A compact cannon that fires much smaller ammunition than typical cannons, the falconet has an undersized but lethal shot of similar weight and size to a bird of prey, hence the name. The falconet sits between the heaviest musket and traditional cannon, but its lighter size and cost make it appealing to forces that can’t field a full cannon crew. 
 **Aim** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") 100 feet, minimum distance 30 feet 
-**Load** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) 2 times, requires a successful DC 15 Athletics check 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate, range increment 120 feet) 5d6 bludgeoning, single target, DC 18 Reflex
+**Load** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times, requires a successful DC 15 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check 
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], manipulate, range increment 120 feet) 5d6 bludgeoning, single target, DC 18 Reflex
 
 *Source: Battlecry! p. 102*

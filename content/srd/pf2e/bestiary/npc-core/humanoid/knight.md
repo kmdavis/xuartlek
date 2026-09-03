@@ -29,14 +29,14 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +17, Diplomacy +12, Intimidation +16, Society +13, Warfare Lore +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +16, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +13, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +15"
 abilityMods: [4, 3, 3, 0, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "_+1 bastard sword_, full plate with livery, Spear (3), Steel Shield (Hardness 5, 20 HP, BT 10)"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/weapons/sword/bastard-sword|bastard sword]]_, [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]] with livery, Spear (3), Steel Shield (Hardness 5, 20 HP, BT 10)"
 ac: 25
 armorclass:
   - name: "AC"
@@ -47,7 +47,7 @@ health:
     desc: "110"
 abilities_mid:
   - name: "Knight's Courage"
-    desc: "Any time the knight gains the frightened condition, they reduce its value by 1."
+    desc: "Any time the knight gains the [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition, they reduce its value by 1."
   - name: "Reactive Strike"
     desc: "⬲"
   - name: "Shield Block"
@@ -55,18 +55,18 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _bastard sword_ +18 (Magical, two-hand d12) __Damage__ 1d8+10 slashing"
+    desc: "⬻ _bastard sword_ +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d12]]) __Damage__ 1d8+10 slashing"
   - name: "Melee"
     desc: "⬻ spear +17 __Damage__ 1d6+10 piercing"
   - name: "Melee"
-    desc: "⬻ gauntlet +17 (Agile, Free-Hand) __Damage__ 1d4+10 bludgeoning"
+    desc: "⬻ gauntlet +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/free-hand|Free-Hand]]) __Damage__ 1d4+10 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ spear +17 (thrown 20 feet) __Damage__ 1d6+10 piercing"
+    desc: "⬻ spear +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+10 piercing"
 abilities_bot:
   - name: "Intimidating Strike"
-    desc: "⬺ (Emotion, Fear, Fighter, Mental) The knight makes a melee Strike. If it hits and deals damage, the target is frightened 1, or frightened 2 on a critical hit."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fighter|Fighter]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The knight makes a melee Strike. If it hits and deals damage, the target is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]], or frightened 2 on a critical hit."
   - name: "Rearming Advance"
-    desc: "⬻ The knight Strides or Steps. During this movement, they can Interact to swap from wielding their bastard sword in two hands to wielding it in one hand and wielding their shield in the other, or vice versa. This Interact action doesn't trigger reactions that can be triggered by manipulate actions."
+    desc: "⬻ The knight Strides or Steps. During this movement, they can Interact to swap from wielding their bastard sword in two hands to wielding it in one hand and wielding their shield in the other, or vice versa. This Interact action doesn't trigger reactions that can be triggered by [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] actions."
   - name: "Warding Shift"
     desc: "⬻"
   - name: "Requirements"

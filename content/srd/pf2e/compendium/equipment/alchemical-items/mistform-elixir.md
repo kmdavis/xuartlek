@@ -20,8 +20,8 @@ source: "GM Core"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-A faint mist emanates from your skin, making you concealed for the listed duration. As usual, if you become concealed when your position is still obvious, you can't use this concealment to Hide or Sneak.
+A faint mist emanates from your skin, making you [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] for the listed duration. As usual, if you become concealed when your position is still obvious, you can't use this concealment to Hide or Sneak.
 
 *Source: GM Core p. 247*

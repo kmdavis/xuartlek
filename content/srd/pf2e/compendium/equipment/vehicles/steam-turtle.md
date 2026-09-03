@@ -26,7 +26,7 @@ This heavily armored aquatic vehicle resembles a gargantuan sea turtle covered w
 
 **Passengers** 40
 
-**Piloting Check** Crafting (DC 37) or Sailing Lore (DC 35)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 37) or [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] (DC 35)
 
 ---
 
@@ -38,15 +38,15 @@ This heavily armored aquatic vehicle resembles a gargantuan sea turtle covered w
 
 **HP** 250 (BT 125)
 
-**Immunities** critical hits, object immunities, precision damage
+**Immunities** critical hits, [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
 ---
 
-**Speed** swim 30 feet (alchemical)
+**Speed** swim 30 feet ([[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]])
 
 **Collision** 11d10 (DC 35)
 
 **Sluggish** This vehicle must move twice its length for each 90-degree turn it makes.
-**Release Steam** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (fire, manipulate) **Frequency** once per hour; **Effect** Two crew members each perform a 3-action activity on their turn to release a massive buildup of steam around the vehicle, dealing 11d6 fire damage to each creature in a 10-foot emanation (DC 35 basic Reflex save). The release mechanism stops working if the vehicle is broken.
+**Release Steam** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** Two crew members each perform a 3-action activity on their turn to release a massive buildup of steam around the vehicle, dealing 11d6 fire damage to each creature in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 35 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The release mechanism stops working if the vehicle is broken.
 
 *Source: Battlecry! p. 115*

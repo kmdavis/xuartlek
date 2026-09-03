@@ -45,15 +45,15 @@ These icons appear in stat blocks as shorthand for each type of action. As a pla
 >
 > ## Simultaneous Actions
 >
-> You can use only one single action, activity, or free action that doesn't have a trigger at a time. You must complete one before beginning another. For example, the Sudden Charge activity states you must Stride twice and then Strike, so you couldn't use an Interact action to open a door in the middle of the movement, nor could you perform part of the move, make your attack, and then finish the move.
+> You can use only one single action, activity, or free action that doesn't have a trigger at a time. You must complete one before beginning another. For example, the [[srd/pf2e/compendium/feats/player-core/class/sudden-charge|Sudden Charge]] activity states you must [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] twice and then [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], so you couldn't use an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action to open a door in the middle of the movement, nor could you perform part of the move, make your attack, and then finish the move.
 >
 > Free actions with triggers and reactions work differently. You can use these whenever the trigger occurs, even if the trigger occurs in the middle of another action.
 >
 > ## Subordinate Actions
 >
-> An action might allow you to use a simpler action—usually one of the [[#Basic Actions|Basic Actions]]—in a different circumstance or with different effects. This subordinate action still has its normal traits and effects, but it's modified in any ways listed in the larger action. For example, an activity that tells you to Stride up to half your Speed alters the normal distance you can move in a Stride. The Stride would still have the move trait, would still trigger reactions that occur based on movement, and so on. The subordinate action doesn't gain any of the traits of the larger action unless specified. The action that allows you to use a subordinate action doesn't require you to spend more actions or reactions to do so; that cost is already factored in.
+> An action might allow you to use a simpler action—usually one of the [[#Basic Actions|Basic Actions]]—in a different circumstance or with different effects. This subordinate action still has its normal traits and effects, but it's modified in any ways listed in the larger action. For example, an activity that tells you to Stride up to half your Speed alters the normal distance you can move in a Stride. The Stride would still have the [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] trait, would still trigger reactions that occur based on movement, and so on. The subordinate action doesn't gain any of the traits of the larger action unless specified. The action that allows you to use a subordinate action doesn't require you to spend more actions or reactions to do so; that cost is already factored in.
 >
-> Using an activity is not the same as using any of its subordinate actions. For example, the quickened condition you get from the haste spell lets you spend an extra action each turn to Stride or Strike, but you couldn't use the extra action for an activity that includes a Stride or Strike. As another example, if you used an action that specified, “If the next action you use is a Strike,” an activity that includes a Strike wouldn't count, because the next thing you are doing is starting an activity, not using the Strike basic action
+> Using an activity is not the same as using any of its subordinate actions. For example, the [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] condition you get from the [[srd/pf2e/compendium/spells/rank-3/haste|haste]] spell lets you spend an extra action each turn to Stride or Strike, but you couldn't use the extra action for an activity that includes a Stride or Strike. As another example, if you used an action that specified, “If the next action you use is a Strike,” an activity that includes a Strike wouldn't count, because the next thing you are doing is starting an activity, not using the Strike basic action
 
 ## Activities
 
@@ -65,7 +65,7 @@ You have to spend all the actions of an activity at once to gain its effects. In
 
 ### Exploration and Downtime Activities
 
-Outside of encounters, activities can take minutes, hours, or even days. These activities usually have the exploration or downtime trait to indicate they're meant to be used during these modes of play. You can often do other things off and on as you carry out these activities, provided they aren't significant activities of their own. For instance, if you're Repairing an item, you might stretch your legs or have a brief discussion, but you couldn't Decipher Writing at the same time.
+Outside of encounters, activities can take minutes, hours, or even days. These activities usually have the exploration or downtime trait to indicate they're meant to be used during these modes of play. You can often do other things off and on as you carry out these activities, provided they aren't significant activities of their own. For instance, if you're [[srd/pf2e/compendium/rules-elements/actions/player-core#Repair|Repairing]] an item, you might stretch your legs or have a brief discussion, but you couldn't [[srd/pf2e/compendium/rules-elements/actions/player-core#Decipher Writing|Decipher Writing]] at the same time.
 
 If an activity outside of an encounter is interrupted or disrupted, as described in [[#Disrupting Actions|Disrupting Actions]], you usually lose the time you put in, but no additional time.
 
@@ -83,29 +83,29 @@ This limitation of one action per trigger is per creature; more than one creatur
 
 ## Other Actions
 
-Sometimes you need to attempt something not already covered by defined actions in the game. When this happens, the rules tell you how many actions you need to spend, as well as any traits your action might have. For example, a spell that lets you switch targets might say you can do so “by spending a single action, which has the concentrate trait.” Game Masters can also use this approach when a character tries to do something that isn’t covered in the rules.
+Sometimes you need to attempt something not already covered by defined actions in the game. When this happens, the rules tell you how many actions you need to spend, as well as any traits your action might have. For example, a spell that lets you switch targets might say you can do so “by spending a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait.” Game Masters can also use this approach when a character tries to do something that isn’t covered in the rules.
 
 ## Gaining and Losing Actions
 
-Quickened, slowed, and stunned are the primary ways you can gain or lose actions. The rules for how this works appear [[#Gaining and Losing Actions|here]]. All these conditions alter how many actions you regain at the start of your turn. Gaining quickened or slowed on your turn doesn’t adjust your actions that turn. If you get stunned on your turn, first complete any action or activity you’re in the middle of. If the stunned condition has a value, lose remaining actions to reduce your stunned value rather than waiting until your next turn.
+[[srd/pf2e/compendium/rules-elements/conditions#Quickened|Quickened]], [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]], and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] are the primary ways you can gain or lose actions. The rules for how this works appear [[#Gaining and Losing Actions|here]]. All these conditions alter how many actions you regain at the start of your turn. Gaining quickened or slowed on your turn doesn’t adjust your actions that turn. If you get stunned on your turn, first complete any action or activity you’re in the middle of. If the stunned condition has a value, lose remaining actions to reduce your stunned value rather than waiting until your next turn.
 
-Some effects are even more restrictive. Certain abilities, instead of or in addition to changing the number of actions you can use, say specifically that you can't use reactions. The most restrictive form of reducing actions is when an effect states that you can't act: this means you can't use any actions, or even speak. When you can't act, you still regain your actions unless another effect (like the stunned condition) prevents it.
+Some effects are even more restrictive. Certain abilities, instead of or in addition to changing the number of actions you can use, say specifically that you can't use reactions. The most restrictive form of reducing actions is when an effect states that you can't act: this means you can't use any actions, or even speak. When you can't act, you still regain your actions unless another effect (like the [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] condition) prevents it.
 
 ## Disrupting Actions
 
-Various abilities and conditions, such as a Reactive Strike, can disrupt an action. When an action is disrupted, you still use the actions or reactions you committed and you still expend any costs, but the action's effects don't occur. In the case of an activity, you usually lose all actions spent for the activity up through the end of that turn. For instance, if you began to Cast a Spell requiring 3 actions and the first action was disrupted, you lose all 3 actions that you committed to that activity.
+Various abilities and conditions, such as a [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]], can disrupt an action. When an action is disrupted, you still use the actions or reactions you committed and you still expend any costs, but the action's effects don't occur. In the case of an activity, you usually lose all actions spent for the activity up through the end of that turn. For instance, if you began to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] requiring 3 actions and the first action was disrupted, you lose all 3 actions that you committed to that activity.
 
-The GM decides what effects a disruption causes beyond simply negating the effects that would have occurred from the disrupted action. For instance, a Leap disrupted midway wouldn't transport you back to the start of your jump, and a disrupted item hand off might cause the item to fall to the ground instead of staying in the hand of the creature who was trying to give it away.
+The GM decides what effects a disruption causes beyond simply negating the effects that would have occurred from the disrupted action. For instance, a [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]] disrupted midway wouldn't transport you back to the start of your jump, and a disrupted item hand off might cause the item to fall to the ground instead of staying in the hand of the creature who was trying to give it away.
 
 ## Basic Actions
 
-Basic actions represent common tasks like moving around, attacking, and helping others. As such, every creature can use basic actions except in some extreme circumstances, and many of those actions are used very frequently. Most notably, you'll use Interact, Step, Stride, and Strike a great deal. Many feats and other actions call upon you to use one of these basic actions or modify them to produce different effects. For example, a more complex action might let you Stride twice, and a large number of activities include a Strike. An action or activity might also modify a basic action, such as having you Stride up to half your Speed.
+Basic actions represent common tasks like moving around, attacking, and helping others. As such, every creature can use basic actions except in some extreme circumstances, and many of those actions are used very frequently. Most notably, you'll use [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]], and [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] a great deal. Many feats and other actions call upon you to use one of these basic actions or modify them to produce different effects. For example, a more complex action might let you Stride twice, and a large number of activities include a Strike. An action or activity might also modify a basic action, such as having you Stride up to half your Speed.
 
 Actions that are used less frequently but are still available to most creatures are presented in [[#Specialty Basic Actions|Specialty Basic Actions]]. These typically have requirements that not all characters are likely to meet, such as wielding a shield, having a burrow Speed, or falling through the air.
 
 In addition to the actions in these two sections, the actions for spellcasting can be found [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells|here]], and the actions for using magic items appear [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/activating-items|here]].
 
-**Delay and Ready:** If you want to change when you take actions, two basic actions let you do so. Delay shifts your entire turn later in the round, and Ready lets you prepare to take one specific action when a trigger you choose is met.
+**Delay and Ready:** If you want to change when you take actions, two basic actions let you do so. [[srd/pf2e/compendium/rules-elements/actions/player-core#Delay|Delay]] shifts your entire turn later in the round, and [[srd/pf2e/compendium/rules-elements/actions/player-core#Ready|Ready]] lets you prepare to take one specific action when a trigger you choose is met.
 
 ### Aid [reaction]
 
@@ -215,7 +215,7 @@ Manipulate
 
 ---
 
-You release something you're holding in your hand or hands. This might mean dropping an item, removing one hand from your weapon while continuing to hold it in another hand, releasing a rope suspending a chandelier, or performing a similar action. Unlike most manipulate actions, Release does not trigger reactions that can be triggered by actions with the manipulate trait (such as Reactive Strike).
+You release something you're holding in your hand or hands. This might mean dropping an item, removing one hand from your weapon while continuing to hold it in another hand, releasing a rope suspending a chandelier, or performing a similar action. Unlike most manipulate actions, Release does not trigger reactions that can be triggered by actions with the manipulate trait (such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]]).
 
 If you want to prepare to Release something outside of your turn, use the Ready activity.
 
@@ -264,7 +264,7 @@ Move
 
 ---
 
-You carefully move 5 feet. Unlike most types of movement, Stepping doesn't trigger reactions, such as Reactive Strike, that can be triggered by move actions or upon leaving or entering a square.
+You carefully move 5 feet. Unlike most types of movement, Stepping doesn't trigger reactions, such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]], that can be triggered by move actions or upon leaving or entering a square.
 
 You can't Step into difficult terrain, and you can't Step using a Speed other than your land Speed.
 
@@ -287,11 +287,11 @@ See [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Attack Rolls|
 ### Take Cover [one-action]
 
 **Source** Player Core pg. 418
-**Requirements** You are benefiting from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|standard cover]], are near a feature that allows you to take cover, or are prone.
+**Requirements** You are benefiting from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|standard cover]], are near a feature that allows you to take cover, or are [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 ---
 
-You press yourself against a wall or duck behind an obstacle to take better advantage of cover. If you would have standard cover, you instead gain greater cover, which provides a +4 circumstance bonus to AC; to Reflex saves against area effects; and to Stealth checks to Hide, Sneak, or otherwise avoid detection. Otherwise, you gain standard cover (a +2 circumstance bonus instead). If you're prone, you gain greater cover against ranged attacks. Take Cover lasts until you move from your current space, use an attack action, become unconscious, or end it as a free action.
+You press yourself against a wall or duck behind an obstacle to take better advantage of cover. If you would have standard cover, you instead gain greater cover, which provides a +4 circumstance bonus to AC; to Reflex saves against area effects; and to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]], or otherwise avoid detection. Otherwise, you gain standard cover (a +2 circumstance bonus instead). If you're prone, you gain greater cover against ranged attacks. Take Cover lasts until you move from your current space, use an [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] action, become [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], or end it as a free action.
 
 > [!pf2-sidebar] SPEAKING
 >
@@ -299,7 +299,7 @@ You press yourself against a wall or duck behind an obstacle to take better adva
 
 ## Specialty Basic Actions
 
-These actions are useful under specific circumstances. The Arrest a Fall, Burrow, and Fly actions require you to have a special [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Movement Types|movement type]]. The climb and swim Speeds use the corresponding actions from the Athletics skill.
+These actions are useful under specific circumstances. The [[srd/pf2e/compendium/rules-elements/actions/player-core#Arrest a Fall|Arrest a Fall]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]], and [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] actions require you to have a special [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Movement Types|movement type]]. The climb and swim Speeds use the corresponding actions from the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill.
 
 ### Arrest a Fall [reaction]
 

@@ -48,7 +48,7 @@ source: "Battlecry!"
 
 Also known as an organ gun, a ribauldequin consists of a row of gun barrels set parallel on a frame so that they resemble the pipes of a large organ. Time-consuming to load but highly effective against enemy personnel, the ribauldequin is more at home on the battlefield than behind fixed fortifications. The standard organ gun has twelve barrels, firing a spread that covers a significant area.
 **Aim** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") rotate 45° 
-**Load** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (manipulate) 4 times 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate) 5d6 piercing, 30-foot cone, DC 18 Reflex
+**Load** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 4 times 
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], manipulate) 5d6 piercing, 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]], DC 18 Reflex
 
 *Source: Battlecry! p. 105*

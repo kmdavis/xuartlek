@@ -18,7 +18,7 @@ source: "Impossible Magic"
 - **Cast**: 6 days
 - **Cost**: crafting materials worth at least 50 gp × the target’s level; a lock of hair, nail clippings, or a vial of blood from the target
 - **Secondary Casters**: 1
-- **Primary Check**: Occultism (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
 - **Secondary Checks**: Crafting
 - **Range**: see text
 - **Target(s)**: 1 sentient living creature

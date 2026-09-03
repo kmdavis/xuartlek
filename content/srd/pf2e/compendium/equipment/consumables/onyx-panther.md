@@ -18,7 +18,7 @@ source: "GM Core"
 
 - **Price**: 7 gp
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 This beautiful black pebble is sculpted into a stylized panther shape. When you activate it, use a Sneak action with a +1 item bonus to the check. You can move your full Speed (instead of half) on this Sneak action and any others you take this turn.
 

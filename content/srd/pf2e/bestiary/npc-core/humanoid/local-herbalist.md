@@ -29,18 +29,18 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Crafting +6, Diplomacy +4, Nature +7, Survival +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +4, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
 abilityMods: [3, 0, 1, 1, 4, 0]
 abilities_top:
   - name: "Herbalism Specialist"
     desc: "For encounters involving collecting herbs or making medicine from them, the local herbalist is a 3rd-level challenge."
   - name: "Natural Medicine"
-    desc: "The herbalist can use Nature instead of Medicine to Treat Wounds or Administer First Aid, and gains a +3 circumstance bonus to the check if they're in the wilderness with access to fresh herbal ingredients."
+    desc: "The herbalist can use [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] instead of [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Wounds|Treat Wounds]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Administer First Aid|Administer First Aid]], and gains a +3 circumstance bonus to the check if they're in the wilderness with access to fresh herbal ingredients."
   - name: "Items"
-    desc: "cooking pot, medicine bag (functions as a healer's toolkit), Staff"
+    desc: "cooking pot, medicine bag (functions as a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]]), Staff"
 ac: 13
 armorclass:
   - name: "AC"
@@ -57,22 +57,22 @@ abilities_mid:
   - name: "Trigger"
     desc: "An ally close enough for the herbalist to reach with a Stride is reduced to 0 Hit Points"
   - name: "Effect"
-    desc: "The herbalist Strides until adjacent to the allye and Administers First Aid to that ally."
+    desc: "The herbalist Strides until adjacent to the allye and [[srd/pf2e/compendium/rules-elements/actions/player-core#Administer First Aid|Administers First Aid]] to that ally."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +5 (two-hand d8) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ staff +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +5 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ fungal spores +7 (Fungus, Poison, range increment 10 feet) __Damage__ 1d4 poison plus 1d4 persistent poison"
+    desc: "⬻ fungal spores +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|Fungus]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]], range increment 10 feet) __Damage__ 1d4 poison plus 1d4 persistent poison"
 abilities_bot:
   - name: "Prompt Poultice"
-    desc: "⬻ (Manipulate)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The local herbalist quickly mixes together a potent healing salve with the most precious ingredients from their medicine bag. They create a temporary lesser elixir of life. This elixir remains potent for 1 round before becoming sour and useless."
+    desc: "The local herbalist quickly mixes together a potent healing salve with the most precious ingredients from their medicine bag. They create a temporary [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life-true|lesser elixir of life]]. This elixir remains potent for 1 round before becoming sour and useless."
 sourcebook: "_NPC Core_, page 60."
 ```
 

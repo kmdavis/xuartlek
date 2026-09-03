@@ -19,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: worn
 
-At the center of this silver ring gleams an obsidian gem, its surface emblazoned with a blood-red rune of forgetting. While wearing a _forgotten signet_, you’re subjected to _hidden mind_ (+32 counteract bonus) and easily fade from others’ memory. Sapient creatures must attempt a DC 42 Will save each time you depart from their company or they forget you entirely.
+At the center of this silver ring gleams an obsidian gem, its surface emblazoned with a blood-red rune of forgetting. While wearing a _forgotten signet_, you’re subjected to [[srd/pf2e/compendium/spells/rank-8/hidden-mind|_hidden mind_]] (+32 counteract bonus) and easily fade from others’ memory. Sapient creatures must attempt a DC 42 Will save each time you depart from their company or they forget you entirely.
 
 **Destruction** If a creature learns the true name of a _forgotten signet's_ wearer and makes it public knowledge, that _forgotten signet_ tarnishes and breaks in two.
 

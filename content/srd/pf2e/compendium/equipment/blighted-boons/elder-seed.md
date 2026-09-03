@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 An enormous, perfect, ripe seed from a tree important to a region's druids, an _elder seed_ exudes vitality. Plant life grows quickly and abundantly around it. Anyone who touches the seed understands the nature of its power. Swallowing it whole imparts its effects, but succeeding at the save against the boon causes the swallower to regurgitate the seed.
 
@@ -42,6 +42,6 @@ If you die at this stage or higher, your body sinks into the earth, forming rich
 
 ---
 
-**Purging** You must seek out an arboreal, druid, or nature-loving fey that is your level or higher whom you have never met, and pledge your allegiance to that being. Doing so places you under a _geas_ to accomplish at least one meaningful service, usually a quest, for your new liege. While under the geas, you can't advance to stage 4. Once you complete your service, you regurgitate the _elder seed_, and its effects on you end.
+**Purging** You must seek out an arboreal, [[srd/pf2e/compendium/character/classes/druid|druid]], or nature-loving [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]] that is your level or higher whom you have never met, and pledge your allegiance to that being. Doing so places you under a _geas_ to accomplish at least one meaningful service, usually a quest, for your new liege. While under the geas, you can't advance to stage 4. Once you complete your service, you regurgitate the _elder seed_, and its effects on you end.
 
 *Source: Treasure Vault (Remastered) p. 187*

@@ -18,7 +18,7 @@ Hobgoblins may appear to outsiders to be the most civilized of goblinkind, but t
 
 ### Members
 
-Hobgoblin Archer (Creature 4), Hobgoblin Battalion (Creature 6), Hobgoblin General (Creature 6), Hobgoblin Soldier (Creature 1), Hobgoblin Spellbreaker (Creature 3), Hobgoblin Vanguard (Creature 8), Hobgoblin Veteran Regiment (Creature 9)
+[[srd/pf2e/bestiary/monster-core/humanoid/hobgoblin-archer|Hobgoblin Archer]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/hobgoblin-battalion|Hobgoblin Battalion]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/hobgoblin-general|Hobgoblin General]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/hobgoblin-soldier|Hobgoblin Soldier]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/hobgoblin-spellbreaker|Hobgoblin Spellbreaker]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/hobgoblin-vanguard|Hobgoblin Vanguard]] (Creature 8), [[srd/pf2e/bestiary/battlecry/humanoid/hobgoblin-veteran-regiment|Hobgoblin Veteran Regiment]] (Creature 9)
 
 ### Growing Pains
 
@@ -30,6 +30,6 @@ Hobgoblins generally distrust magic, especially arcane magic, which they derisiv
 
 ### Living with Hobgoblins
 
-With few exceptions, hobgoblin society has no place for those who don't share their blood. Hobgoblins occasionally make use of bugbears as assassins or spies, and most hobgoblin tribes include a small group of goblins who eke out a meager existence on the fringes of hobgoblin society.
+With few exceptions, hobgoblin society has no place for those who don't share their blood. Hobgoblins occasionally make use of [[srd/pf2e/compendium/gm/creature-families/bugbear|bugbears]] as assassins or spies, and most hobgoblin tribes include a small group of [[srd/pf2e/compendium/gm/creature-families/goblin|goblins]] who eke out a meager existence on the fringes of hobgoblin society.
 
 *Source: Monster Core p. 198*

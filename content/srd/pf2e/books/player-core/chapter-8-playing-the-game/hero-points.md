@@ -23,7 +23,7 @@ The GM is in charge of awarding Hero Points. Usually, each character gets 1 Hero
 You can spend your Hero Points in one of two ways. Neither of these is an action, and you can spend Hero Points even if you aren't able to act. You can spend a Hero Point on behalf of your familiar or animal companion.
 
 - **Spend 1 Hero Point to reroll a check**. You must use the second result. This is a fortune effect (which means you can't use more than 1 Hero Point on a check).
-- **Spend all your Hero Points (minimum 1) to avoid death**. You can do this when your dying condition would increase. You lose the dying condition entirely and stabilize with 0 Hit Points. You don't gain the wounded condition or increase its value from losing the dying condition in this way, but if you already had that condition, you don't lose it or decrease its value.
+- **Spend all your Hero Points (minimum 1) to avoid death**. You can do this when your [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition would increase. You lose the dying condition entirely and stabilize with 0 Hit Points. You don't gain the [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] condition or increase its value from losing the dying condition in this way, but if you already had that condition, you don't lose it or decrease its value.
 
 ## Describing Heroic Deeds
 

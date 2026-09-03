@@ -23,9 +23,9 @@ source: "Dark Archives (Remastered)"
 DC 16
 
 **Disable**
-DC 17 Thievery to scratch out the runes, or DC 16 Arcana to destroy the runes
+DC 17 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] to scratch out the runes, or DC 16 [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] to destroy the runes
 
-**Confounding Misdirection** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (arcane, illusion, mental) **Trigger** A creature passes through the rune-carved doorway or hallway; **Effect** The creature is confused by the illusions and directed back into the room they attempted to exit through another doorway or back to the hallway's beginning. This feels no different to the triggering creature than walking through the doorway or hallway, and onlookers are similarly befuddled. A creature who succeeds at a DC 19 Will save resists this illusion and exits the room or proceeds down the hall without being misdirected.
+**Confounding Misdirection** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) **Trigger** A creature passes through the rune-carved doorway or hallway; **Effect** The creature is confused by the illusions and directed back into the room they attempted to exit through another doorway or back to the hallway's beginning. This feels no different to the triggering creature than walking through the doorway or hallway, and onlookers are similarly befuddled. A creature who succeeds at a DC 19 Will save resists this illusion and exits the room or proceeds down the hall without being misdirected.
 
 ---
 **Reset**

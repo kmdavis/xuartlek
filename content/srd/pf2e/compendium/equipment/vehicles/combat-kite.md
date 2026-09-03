@@ -21,7 +21,7 @@ This massive box-shaped kite is flown from the ground with a thin and light magi
 
 **Crew** 1 pilot
 
-**Piloting Check** Nature (DC 24) or Piloting Lore (DC 22)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 24) or [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] (DC 22)
 
 ---
 
@@ -33,16 +33,16 @@ This massive box-shaped kite is flown from the ground with a thin and light magi
 
 **HP** 80 (BT 40)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
-**Weaknesses** fire 5 until broken
+**Weaknesses** fire 5 until [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]
 
 ---
 
-**Speed** fly 15 feet (magical, wind)
+**Speed** fly 15 feet ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], wind)
 
 **Collision** 4d8 (DC 22)
 
-**Cargo Release** The combat kite can carry a glider or up to 20 Bulk of materials. The glider or materials can be remotely released by Interacting with the magical tether.
+**Cargo Release** The combat kite can carry a glider or up to 20 Bulk of materials. The glider or materials can be remotely released by [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interacting]] with the magical tether.
 
 *Source: Battlecry! p. 108*

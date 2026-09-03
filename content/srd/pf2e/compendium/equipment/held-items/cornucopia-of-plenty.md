@@ -22,6 +22,6 @@ source: "Battlecry!"
 
 This exquisite wicker horn is made of green wood and smells of fresh wheat and barley.
 
-**Activate—Bountiful Rations** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per day; **Effect** You draw forth and consume a filling snack from this cornucopia. You gain 5 temporary Hit Points that last for 1 minute and suppress the effects of the fatigued condition for 10 minutes.
+**Activate—Bountiful Rations** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You draw forth and consume a filling snack from this cornucopia. You gain 5 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] that last for 1 minute and suppress the effects of the [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] condition for 10 minutes.
 
 *Source: Battlecry! p. 143*

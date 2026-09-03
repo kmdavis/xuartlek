@@ -17,7 +17,7 @@ source: "Treasure Vault (Remastered)"
 `Consumable`  `Magical`  `Missive`
 
 - **Usage**: held in 1 hand
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 A _messenger missive_ sends itself. When composing the missive, you write a location upon it. You can also include an individual creature you expect to be in that location as a recipient; if you don't, the first creature in the location to touch the missive is treated as the recipient. Once you finish composing the missive, it folds itself into the shape of a bird and Flies at a Speed of 45 feet (15 miles per hour) toward the location for up to 24 hours. It alights near its recipient or in their hand. When activated, the missive becomes non-magical but retains its contents. If it fails to reach its recipient in 24 hours, the missive burns to ash.
 

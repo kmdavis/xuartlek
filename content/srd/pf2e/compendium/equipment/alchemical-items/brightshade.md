@@ -22,10 +22,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 18 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Brewed from a plant native to the First World, brightshade destroys tissue, living or dead. Victims of this poison take poison damage if they’re alive and vitality damage if they’re undead.
+Brewed from a plant native to the First World, brightshade destroys tissue, living or dead. Victims of this poison take poison damage if they’re alive and vitality damage if they’re [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]].
 
- **Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison or vitality damage (1 round); **Stage 2** 2d6 poison or vitality damage (1 round)
+ **Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison or [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] damage (1 round); **Stage 2** 2d6 poison or vitality damage (1 round)
 
 *Source: Treasure Vault (Remastered) p. 67*

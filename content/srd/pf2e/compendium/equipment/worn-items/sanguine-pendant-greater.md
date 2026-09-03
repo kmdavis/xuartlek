@@ -20,7 +20,7 @@ source: "Player Core 2"
 
 This clear crystal pendant contains a drop of blood from a sorcerer that expands and contracts as you cast spells. A _sanguine pendant_ is associated with a specific sorcerer bloodline, and only sorcerers with that bloodline can invest this item. This item gains the trait matching the tradition of that bloodline. The pendant grants a +2 item bonus to both of your bloodline skills.
 
-**Activate—Blood's Call** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can spend only to cast a bloodline spell. If you don't spend this Focus Point by the end of this turn, it's lost.
+**Activate—Blood's Call** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can spend only to cast a bloodline spell. If you don't spend this Focus Point by the end of this turn, it's lost.
 
 **Craft Requirements** You're a sorcerer with the associated bloodline. 
 

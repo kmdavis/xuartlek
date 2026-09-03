@@ -18,10 +18,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 130 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Steel Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
 
-Copper rings spiral around this steel shield. Twin electrical probes near the grip can socket into a jar of moderate (or higher leveled) bottled lightning, which takes 3 Interact actions to install.
+Copper rings spiral around this [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]]. Twin electrical probes near the grip can socket into a jar of moderate (or higher leveled) [[srd/pf2e/compendium/equipment/alchemical-items/bottled-lightning-major|bottled lightning]], which takes 3 Interact actions to install.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Requirements** A bottled lightning is installed in the shield; **Effect** The shield becomes an electromagnet for 3 rounds. When an activated magnetic shield is raised, the circumstance bonus increases by 1 against attacks made with weapons primarily made of metal. If you use a Shield Block against a creature attacking you with such a weapon, you also gain a +1 item bonus to Disarm attempts against that weapon until the end of your next turn. The activation uses up the bottled lightning, and the shield can’t be activated again until a new one is installed.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** A bottled lightning is installed in the shield; **Effect** The shield becomes an electromagnet for 3 rounds. When an activated magnetic shield is raised, the circumstance bonus increases by 1 against attacks made with weapons primarily made of metal. If you use a [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] against a creature attacking you with such a weapon, you also gain a +1 item bonus to Disarm attempts against that weapon until the end of your next turn. The activation uses up the bottled lightning, and the shield can’t be activated again until a new one is installed.
 
 *Source: Treasure Vault (Remastered) p. 64*

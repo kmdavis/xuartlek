@@ -26,7 +26,7 @@ You place the magic items into a neat pile and attempt to draw out their power t
 
 **Success** As critical success, but all the target’s spells and spell slots are expended.
 
-**Failure** As success, but the target is clumsy 1, drained 1, doomed 1, and enfeebled 1 for 1 week.
+**Failure** As success, but the target is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1, [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1, [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1, and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 for 1 week.
 
 **Critical Failure** The ritual fails and can’t be attempted again for that target for 1 week. The magic items are still consumed.
 

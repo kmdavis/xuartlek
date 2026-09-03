@@ -13,6 +13,6 @@ source: "Monster Core 2"
 
 `Asura`
 
-asura These fiends are physical manifestations of divine accidents. Asuras typically have darkvision, immunity to curses, and a weakness to holy.
+asura These fiends are physical manifestations of divine accidents. Asuras typically have darkvision, immunity to [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curses]], and a weakness to [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]].
 
 *Source: Monster Core 2 p. 364*

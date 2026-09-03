@@ -29,14 +29,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14"
-languages: "Common; up to 4 additional languages"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; up to 4 additional languages"
 skills:
   - name: "Skills"
-    desc: "Arcana +12, Diplomacy +13, Medicine +12, Nature +14, Occultism +12, Religion +12, Society +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +12, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +13, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +12, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +14, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +12, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +14"
 abilityMods: [2, 2, 1, 4, 3, 0]
 abilities_top:
   - name: "Items"
-    desc: "religious symbol, _+1 staff_"
+    desc: "[[srd/pf2e/compendium/equipment/armor#Gi|religious symbol]], _+1 [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_"
 ac: 22
 armorclass:
   - name: "AC"
@@ -47,7 +47,7 @@ health:
     desc: "86"
 abilities_mid:
   - name: "Timely Advice"
-    desc: "⬲ (auditory, concentrate, linguistic, mental)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
   - name: "Trigger"
     desc: "An ally is about to attempt an attack roll or skill check and has not yet rolled"
   - name: "Effect"
@@ -55,12 +55,12 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _staff_ +13 (Magical, two-hand d8) __Damage__ 1d4+6 bludgeoning"
+    desc: "⬻ _staff_ +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4+6 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +12 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+6 bludgeoning"
+    desc: "⬻ fist +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+6 bludgeoning"
 abilities_bot:
   - name: "Sage's Analysis"
-    desc: "⬻ (Concentrate) The sage studies a creature, attempting an Arcana, Nature, Occultism, Religion, or Society check against the creature's Recall Knowledge DC. On a success, the sage gains a +2 circumstance bonus to attack rolls and AC against that creature and deals an additional 2d6 damage to the creature with weapon attacks. These benefits last for 1 minute or until the sage uses this ability again."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) The sage studies a creature, attempting an [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]], or [[srd/pf2e/compendium/rules-elements/skills/society|Society]] check against the creature's [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] DC. On a success, the sage gains a +2 circumstance bonus to attack rolls and AC against that creature and deals an additional 2d6 damage to the creature with weapon attacks. These benefits last for 1 minute or until the sage uses this ability again."
 sourcebook: "_NPC Core_, page 141."
 ```
 

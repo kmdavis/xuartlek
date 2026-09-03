@@ -19,7 +19,7 @@ source: "Player Core 2"
 
 - **Price**: 130 gp
 - **Ammunition**: arrow
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 The head of this arrow is made from gleaming copper. When an activated storm arrow hits a target, it's buffeted by raging winds and struck by a bolt of lightning that deals 3d12 electricity damage, and the target must attempt a DC 25 Reflex saving throw. If this arrow is shot from a weapon with a shock property rune, the save DC increases to 27, though the attack doesn't benefit from the _shock property_ rune itself.
 

@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 - **Class**: Champion
 
-You can continue fighting as long as you have divine energy. You gain the _hero’s defiance_ devotion spell
+You can continue fighting as long as you have divine energy. You gain the [[srd/pf2e/compendium/spells/focus/heros-defiance|_hero’s defiance_]] devotion spell
 
 *Source: Player Core 2 p. 86*

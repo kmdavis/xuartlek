@@ -29,7 +29,7 @@ perception:
     desc: "Perception +10; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Athletics +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13"
 abilityMods: [5, 1, 5, -5, 2, -1]
 ac: 22
 armorclass:

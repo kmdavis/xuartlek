@@ -35,10 +35,10 @@ modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; darkvision"
-languages: "Common, Muan; _speak with plants_, _truespeech_"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]; _speak with plants_, _truespeech_"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +20, Arcana +19, Athletics +22, Crafting +23, Deception +21, Intimidation +21, Nature +24, Stealth +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +20, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +19, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +22, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +23, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +21, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +21, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +24, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +22"
 abilityMods: [5, 5, 7, 4, 4, 4]
 abilities_top:
   - name: "Items"
@@ -50,7 +50,7 @@ armorclass:
 hp: 220
 health:
   - name: "HP"
-    desc: "220; __Weaknesses__ axes 10, fire 10"
+    desc: "220; __Weaknesses__ axes 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10"
 abilities_mid:
   - name: "Shield Block"
     desc: "⬲"
@@ -67,12 +67,12 @@ attacks:
   - name: "Melee"
     desc: "⬻ spear +23 __Damage__ 3d6+11 piercing"
   - name: "Ranged"
-    desc: "⬻ spear +23 (thrown 20 feet) __Damage__ 3d6+11 piercing"
+    desc: "⬻ spear +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 3d6+11 piercing"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ (Arcane, Concentrate, Polymorph) The kizidhar transforms into a Small or Medium wood elemental or plant creature. This doesn't affect the kizidhar's statistics, but it could change the damage type of their Strikes."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]]) The kizidhar transforms into a Small or Medium [[srd/pf2e/compendium/gm/creature-families/elemental-wood|wood elemental]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] creature. This doesn't affect the kizidhar's statistics, but it could change the damage type of their Strikes."
   - name: "Manipulative Wish"
-    desc: "(Downtime)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/downtime|Downtime]])"
   - name: "Frequency"
     desc: "three times per year"
   - name: "Effect"
@@ -82,16 +82,16 @@ abilities_bot:
   - name: "Sculpt Wood"
     desc: "⬻ The kizidhar creates a wooden item out of their body that appears in their hand and remains attached. The item can be a one-handed simple weapon, shield, or object of light Bulk. A kizidhar can instead use this ability to transform an item it's already holding or to remove an object to free its hand. Any item created with Sculpt Wood crumbles to splinters if removed from the kizidhar's possession."
   - name: "Seed of Ambition"
-    desc: "⬻ (Auditory, Emotion, Mental)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]])"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
     desc: "The kizidhar plants a desire for greatness in the mind of a creature within 50 feet. The target must attempt a DC 30 Will save. On a failure, until the end of its next turn, the target can't Delay, Ready, or use reactions. Instead, it must use all its actions to Strike or cast the highest rank of spell available to it using spell slots or Focus Points, or take actions to facilitate doing so, such as drawing a weapon or moving toward an enemy. The target must focus its attacks either on the kizidhar or on the opponent it perceives to be the biggest threat. This effect ends if the kizidhar uses Seed of Ambition again."
   - name: "Take Root"
-    desc: "⬻ (Arcane, Plant, Wood) The genie thrusts their weapon into the ground. Plants sprout and grow out of the ground in a 20-foot burst centered on one corner of the kizidhar's square. All squares on the ground in that area are difficult terrain until the kizidhar uses this ability again. Wishcrafters Kizidhar shuyookhs consider themselves artists of wish-crafting, planting, and nurturing the seeds of an idea and guiding its growth into the wish they ultimately bring to life. Shuyookhs take great pride in improving a wish as they conduct the _wish_ ritual, often adding their own unique signature elements to wishes, akin to a maker's mark."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|Plant]], [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|Wood]]) The genie thrusts their weapon into the ground. Plants sprout and grow out of the ground in a 20-foot burst centered on one corner of the kizidhar's square. All squares on the ground in that area are difficult terrain until the kizidhar uses this ability again. Wishcrafters Kizidhar shuyookhs consider themselves artists of wish-crafting, planting, and nurturing the seeds of an idea and guiding its growth into the wish they ultimately bring to life. Shuyookhs take great pride in improving a wish as they conduct the _wish_ ritual, often adding their own unique signature elements to wishes, akin to a maker's mark."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 30 - __Cantrips (6th)__ Detect Magic - __2nd__ Entangling Flora (at will), One with Plants - __3rd__ Wooden Double - __6th__ Invisibility (×2), Lignify, Nature's Pathway (at will) - __7th__ Interplanar Teleport (at will; to Astral Plane, Elemental Planes, or the Universe only) - __Constant (6th)__ Speak with Plants, Truespeech"
+    desc: "DC 30 - __Cantrips (6th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/entangling-flora|Entangling Flora]] (at will), [[srd/pf2e/compendium/spells/rank-2/one-with-plants|One with Plants]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/wooden-double|Wooden Double]] - __6th__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×2), [[srd/pf2e/compendium/spells/rank-6/lignify|Lignify]], [[srd/pf2e/compendium/spells/rank-5/natures-pathway|Nature's Pathway]] (at will) - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (at will; to [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]], Elemental Planes, or the Universe only) - __Constant (6th)__ [[srd/pf2e/compendium/spells/rank-3/speak-with-plants|Speak with Plants]], [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
 sourcebook: "_Rage of Elements_, page 213."
 ```
 

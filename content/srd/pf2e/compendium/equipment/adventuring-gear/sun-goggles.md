@@ -15,6 +15,6 @@ source: "NPC Core"
 - **Price**: 20 gp
 - **Usage**: worn eyepiece
 
-These goggles are usually fitted with a polished piece of yellow-toned crystal, allowing the wearer some protection against the brightness of the sun. Near the Crown of the World, a version of these goggles exists where the crystal is replaced by thin slits, mitigating the effects of the sun's reflection on snow. When wearing these goggles, you gain a +1 item bonus to saving throws against effects that could inflict the dazzled condition.
+These goggles are usually fitted with a polished piece of yellow-toned crystal, allowing the wearer some protection against the brightness of the sun. Near the Crown of the World, a version of these goggles exists where the crystal is replaced by thin slits, mitigating the effects of the sun's reflection on snow. When wearing these goggles, you gain a +1 item bonus to saving throws against effects that could inflict the [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] condition.
 
 *Source: NPC Core p. 59*

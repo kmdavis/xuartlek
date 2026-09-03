@@ -33,10 +33,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5"
-languages: "Common, Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Arcana +3, Athletics +3, Diplomacy +7, Intimidation +7, Nature +5, Survival +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +3, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +3, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +7, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +5, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5"
 abilityMods: [0, 2, 1, 0, 2, 4]
 abilities_top:
   - name: "Items"
@@ -52,15 +52,15 @@ health:
 speed: "25 feet, swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +7 (Agile, Finesse, versatile S) __Damage__ 1d4 piercing"
+    desc: "⬻ dagger +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +7 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4 piercing"
+    desc: "⬻ dagger +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4 piercing"
 abilities_bot:
   - name: "Sorcerer Bloodline Spells"
-    desc: "DC 17, attack +9, 1 Focus Point - __1st__ Elemental Toss (bludgeoning damage)"
+    desc: "DC 17, attack +9, 1 Focus Point - __1st__ [[srd/pf2e/compendium/spells/focus/elemental-toss|Elemental Toss]] (bludgeoning damage)"
 spellcasting:
   - name: "Primal Spontaneous Spells"
-    desc: "DC 17, attack +9 - __Cantrips (1st)__ Caustic Blast, Detect Magic, Know the Way, Stabilize, Tangle Vine - __1st__ Create Water, Heal, Hydraulic Push"
+    desc: "DC 17, attack +9 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/caustic-blast|Caustic Blast]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/know-the-way|Know the Way]], [[srd/pf2e/compendium/spells/cantrips/stabilize|Stabilize]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/create-water|Create Water]], [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]]"
 sourcebook: "_Monster Core 2_, page 253."
 ```
 

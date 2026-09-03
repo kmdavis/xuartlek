@@ -14,6 +14,6 @@ Ankhravs are immense, burrowing, insectile predators, considered by inhabitants 
 
 ### Members
 
-Ankhrav (Creature 3), Ankhrav Hive Mother (Creature 8)
+[[srd/pf2e/bestiary/monster-core/animal/ankhrav|Ankhrav]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/ankhrav-hive-mother|Ankhrav Hive Mother]] (Creature 8)
 
 *Source: Monster Core p. 20*

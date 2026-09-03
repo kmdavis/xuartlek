@@ -20,10 +20,10 @@ source: "Player Core 2"
 - **Price**: 450 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 The toxic deathcap mushroom can be dried, ground, and treated to form a flavorless powder with accelerated effects. 
 
-**Saving Throw** DC 33 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** 7d8 poison damage (1 minute); **Stage 2** 9d6 poison damage and sickened 2 (1 minute); **Stage 3** 8d10 poison damage and sickened 3 (1 minute)
+**Saving Throw** DC 33 Fortitude; **Onset** 10 minutes; **Maximum Duration** 6 minutes; **Stage 1** 7d8 poison damage (1 minute); **Stage 2** 9d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 2 (1 minute); **Stage 3** 8d10 poison damage and sickened 3 (1 minute)
 
 *Source: Player Core 2 p. 292*

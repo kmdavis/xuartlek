@@ -18,11 +18,11 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Plant`  `Wood`
 
 - **Traditions**: Arcane, Primal
-- **Deities**: Green Man, Immaculate Growth, Kzininn, Nhimbaloth, Sicva
+- **Deities**: [[srd/pf2e/compendium/character/deities#Green Man|Green Man]], Immaculate Growth, Kzininn, Nhimbaloth, Sicva
 - **Range**: 120 feet
 - **Area**: all squares in a 20-foot burst
 - **Duration**: 1 minute
 
-Plants and fungi burst out or quickly grow, entangling creatures. All surfaces in the area are difficult terrain. Each round that a creature starts its turn in the area, it must attempt a Reflex save. On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure, it's also immobilized for 1 round. Creatures can attempt to Escape to remove these effects.
+Plants and fungi burst out or quickly grow, entangling creatures. All surfaces in the area are difficult terrain. Each round that a creature starts its turn in the area, it must attempt a Reflex save. On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure, it's also [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round. Creatures can attempt to Escape to remove these effects.
 
 *Source: Player Core p. 329*

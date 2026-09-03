@@ -98,7 +98,7 @@ At 17th level, choose one attribute modifier to either increase by 1 or increase
 
 With this variant, you can ignore as much of the Party Treasure by Level table on page 59 as you want, though you'll usually want to provide consistent currency. The main area your choice will impact is in spellcasting items, such as scrolls and wands.
 
-Remove all potency runes, striking runes, and resilient runes. Items that normally grant an item bonus to statistics or damage dice no longer do, other than the base item bonus to AC from armor. Apex items do not increase attribute modifiers. If you remove *reinforcing runes*, you might want to upgrade shields automatically. If your world still includes magic items, a safe bet is to continue to give out consumable items at roughly the rate on page 59.
+Remove all potency runes, striking runes, and resilient runes. Items that normally grant an item bonus to statistics or damage dice no longer do, other than the base item bonus to AC from armor. Apex items do not increase attribute modifiers. If you remove *[[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|reinforcing runes]]*, you might want to upgrade shields automatically. If your world still includes magic items, a safe bet is to continue to give out consumable items at roughly the rate on page 59.
 
 If you choose to eliminate runes entirely, this can reduce the PCs' damage since they won't have runes like flaming or holy. If you've removed nearly all treasure, challenges might become more difficult, even with automatic bonuses.
 

@@ -31,10 +31,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; low-light vision"
-languages: "Common, Kholo"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +6, Society +4, Stealth +7, Survival +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
 abilityMods: [2, 2, 1, 2, 2, 0]
 abilities_top:
   - name: "Items"
@@ -50,20 +50,20 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ longspear +7 (Reach) __Damage__ 1d8+2 piercing"
+    desc: "⬻ longspear +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|Reach]]) __Damage__ 1d8+2 piercing"
   - name: "Melee"
     desc: "⬻ jaws +7 __Damage__ 1d6+2 piercing"
   - name: "Ranged"
-    desc: "⬻ sling +7 (Propulsive, range increment 50 feet, reload 1) __Damage__ 1d6+1 bludgeoning"
+    desc: "⬻ sling +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 50 feet, reload 1) __Damage__ 1d6+1 bludgeoning"
 abilities_bot:
   - name: "Pack Attack"
     desc: "A kholo pragmatist deals 1d4 extra damage to any creature that's within reach of at least two of the kholo pragmatist's allies."
   - name: "Pragmatic Aid"
-    desc: "⬻ (Concentrate, Visual)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]])"
   - name: "Requirements"
     desc: "The kholo pragmatist is adjacent to a foe"
   - name: "Effect"
-    desc: "The kholo pragmatist sets up an advantageous avenue of attack for an ally within 10 feet of the same foe and then Steps away from that foe. The foe is off-guard to the kholo pragmatist's ally's next attack."
+    desc: "The kholo pragmatist sets up an advantageous avenue of attack for an ally within 10 feet of the same foe and then Steps away from that foe. The foe is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the kholo pragmatist's ally's next attack."
   - name: "Rugged Travel"
     desc: "A kholo ignores the first square of difficult terrain they move into each time they Step or Stride."
   - name: "Spear Parry"

@@ -31,7 +31,7 @@ perception:
     desc: "Perception +8; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +8, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [4, 3, 1, -4, 2, -3]
 ac: 18
 armorclass:
@@ -43,13 +43,13 @@ health:
     desc: "25; __Resistances__ physical 3 (except bludgeoning)"
 abilities_mid:
   - name: "Vulnerable to Prone"
-    desc: "If a creature critically succeeds at a check to Trip the giant crab, the crab is flipped over onto its back in addition to the usual effects. Until it Stands, a giant crab that's flipped onto its back has a particularly hard time defending itself; instead of taking the normal –2 circumstance penalty to AC for being off-guard, it takes a –4 circumstance penalty to AC."
+    desc: "If a creature critically succeeds at a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] the giant crab, the crab is flipped over onto its back in addition to the usual effects. Until it Stands, a giant crab that's flipped onto its back has a particularly hard time defending itself; instead of taking the normal –2 circumstance penalty to AC for being [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], it takes a –4 circumstance penalty to AC."
   - name: "Scuttle"
     desc: "⬲"
   - name: "Trigger"
     desc: "A creature that the giant crab can see targets the crab with an attack while the giant crab isn't prone"
   - name: "Effect"
-    desc: "The giant crab scuttles to the side and gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the crab can Stride up to its speed in a straight line as part of the reaction."
+    desc: "The giant crab scuttles to the side and gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the crab can [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] up to its speed in a straight [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] as part of the reaction."
 speed: "25 feet, swim 15 feet"
 attacks:
   - name: "Melee"

@@ -26,8 +26,8 @@ When a creature enters the snare's square, several strands of strong wires endin
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is knocked prone and immobilized for 1 round (Escape DC 28).
+**Failure** The creature takes full damage and is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round (Escape DC 28).
 
-**Critical Failure** The creature takes double damage, is knocked prone, and is restrained for 1 round (Escape DC 28).
+**Critical Failure** The creature takes double damage, is knocked prone, and is [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] for 1 round (Escape DC 28).
 
 *Source: Guns & Gears (Remastered) p. 78*

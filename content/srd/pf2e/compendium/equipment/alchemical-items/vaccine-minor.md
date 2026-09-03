@@ -19,9 +19,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-A vaccine grants a creature immunity to a specific strain of disease of a level equal to or less than the vaccine’s level, and a +2 item bonus on all saving throws against other strains of the same disease. For example, a vaccine could grant immunity to putrid plague inflicted by harpies but would only grant a +2 bonus against putrid plague inflicted by a giant rat.
+A vaccine grants a creature immunity to a specific strain of disease of a level equal to or less than the vaccine’s level, and a +2 item bonus on all saving throws against other strains of the same disease. For example, a vaccine could grant immunity to putrid plague inflicted by [[srd/pf2e/bestiary/monster-core/beast/harpy|harpies]] but would only grant a +2 bonus against putrid plague inflicted by a [[srd/pf2e/bestiary/monster-core/animal/giant-rat|giant rat]].
 
 **Special** A vaccine is the same rarity as the disease it’s designed to prevent, or as the creature who inflicts the disease if the disease itself doesn’t list a rarity.
 

@@ -16,7 +16,7 @@ Rakshasas are primordial, divine beings who serve as incarnations of all that is
 
 ### Members
 
-Raja-Krodha (Creature 10), Raktavarna (Creature 1)
+[[srd/pf2e/bestiary/monster-core/spirit/raja-krodha|Raja-Krodha]] (Creature 10), [[srd/pf2e/bestiary/monster-core/spirit/raktavarna|Raktavarna]] (Creature 1)
 
 ### Rakshasa Immortals
 

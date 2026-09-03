@@ -32,11 +32,11 @@ perception:
 languages: "Caligni"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Diplomacy +8, Performance +6, Stealth +7, Thievery +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +7"
 abilityMods: [0, 4, 2, -1, 1, 3]
 abilities_top:
   - name: "Items"
-    desc: "baton (functions as light mace), Dagger"
+    desc: "baton (functions as [[srd/pf2e/compendium/equipment/weapons/club/light-mace|light mace]]), Dagger"
 ac: 17
 armorclass:
   - name: "AC"
@@ -47,29 +47,29 @@ health:
     desc: "18 (final dance)"
 abilities_mid:
   - name: "Distracting Frolic"
-    desc: "⬲ (fortune, manipulate)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])"
   - name: "Trigger"
-    desc: "An ally within 10 feet of the dancer rolls a saving throw against a mental or illusion effect"
+    desc: "An ally within 10 feet of the dancer rolls a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] effect"
   - name: "Effect"
     desc: "The target ally can roll the save twice and take the better result."
   - name: "Final Dance"
-    desc: "(occult, shadow, visual) When the dancer dies, their body dissolves into a swirling mass of darkness and light. All creatures in a 10-foot emanation must succeed at a DC 17 Will save or be dazzled for 1d4 rounds. The dancer's possessions are left in a pile where they died."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shadow|shadow]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) When the dancer dies, their body dissolves into a swirling mass of darkness and light. All creatures in a 10-foot emanation must succeed at a DC 17 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1d4 rounds. The dancer's possessions are left in a pile where they died."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ baton +9 (Agile, Finesse, Shove) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ baton +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 1d4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ dagger +9 (Agile, Finesse, versatile S) __Damage__ 1d4 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +9 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4 piercing"
 abilities_bot:
   - name: "Dancer's Curse"
-    desc: "⬻ (Curse, Mental, Occult) The caligni dancer touches a foe and curses it. If the target fails a DC 18 Will save, it gains clumsy 1 and stupefied 1. The target is then temporarily immune for 24 hours. These conditions persist until the curse is removed. The victim can attempt a new DC 18 Will save once per hour to end the curse."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The caligni dancer touches a foe and curses it. If the target fails a DC 18 Will save, it gains [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]]. The target is then temporarily immune for 24 hours. These conditions persist until the curse is removed. The victim can attempt a new DC 18 Will save once per hour to end the curse."
   - name: "Sneak Attack"
-    desc: "The caligni dancer deals 1d6 extra precision damage to off-guard creatures."
+    desc: "The caligni dancer deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 16 - __Cantrips (1st)__ Courageous Anthem - __1st__ Counter Performance (visual only)"
+    desc: "DC 16 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/courageous-anthem|Courageous Anthem]] - __1st__ [[srd/pf2e/compendium/spells/focus/counter-performance|Counter Performance]] (visual only)"
 sourcebook: "_Monster Core_, page 48."
 ```
 

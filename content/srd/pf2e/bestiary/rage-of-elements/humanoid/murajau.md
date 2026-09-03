@@ -29,10 +29,10 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; darkvision, scent (imprecise) 30 feet"
-languages: "Common, Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +14, Diplomacy +11, Survival +13, Talisman Lore +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +13, Talisman Lore +13"
 abilityMods: [5, 2, 4, 2, 2, 2]
 abilities_top:
   - name: "Items"
@@ -53,14 +53,14 @@ abilities_mid:
 speed: "25 feet, swim 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ leg +14 (versatile P) __Damage__ 1d6+9 bludgeoning plus Grab"
+    desc: "⬻ leg +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d6+9 bludgeoning plus Grab"
   - name: "Melee"
     desc: "⬻ spear +14 __Damage__ 1d6+9 piercing"
   - name: "Ranged"
-    desc: "⬻ spear +14 (thrown 20 feet) __Damage__ 1d6+9 piercing"
+    desc: "⬻ spear +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+9 piercing"
 abilities_bot:
   - name: "Retract"
-    desc: "⬺ The murajau fully retreats into their shell, gaining greater cover; the bonus to Stealth applies only if the murajau is undetected. While in their shell, the murajau can't see outside and takes a –2 circumstance penalty to auditory Perception checks. The only move actions the murajau can take are to Stand or Step. The murajau can come back out as a single action."
+    desc: "⬺ The murajau fully retreats into their shell, gaining greater cover; the bonus to Stealth applies only if the murajau is undetected. While in their shell, the murajau can't see outside and takes a –2 circumstance penalty to [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] Perception checks. The only [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] actions the murajau can take are to Stand or Step. The murajau can come back out as a single action."
   - name: "Swinging Spear"
     desc: "⬺ The murajau makes a spear Strike. On a hit, the murajau twists their spear to move the target to any space adjacent to the murajau and deals an additional 2d6 bludgeoning damage as the target smashes into the murajau's thick shell. More than a Mere Shell To murajaus, one's shell signifies homestead, status, identity, and cultural inheritance. Community elders and leaders often wear shells passed down from a long line of successors, which carry modifications and marks that denote predecessors' achievements and failures. On the occasion that their community numbers exceed the number of shells available, a hunting season might be declared. Participants who return with suitable trophies are revered for their contribution and bravery."
 sourcebook: "_Rage of Elements_, page 183."

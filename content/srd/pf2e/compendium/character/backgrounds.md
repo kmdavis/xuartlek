@@ -21,7 +21,7 @@ You spent your early days in a religious monastery or cloister. You may have tra
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Religion skill, and the Scribing Lore skill. You gain the Student of the Canon skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] skill, and the Scribing Lore skill. You gain the Student of the Canon skill feat.
 
 *Source: Player Core p. 84*
 
@@ -32,7 +32,7 @@ In a circus or on the streets, you earned your pay by performing as an acrobat. 
 Choose two attribute boosts. One must be to Strength
 or Dexterity, and one is a free attribute boost.
 
-You're trained in the Acrobatics skill, and the Circus Lore skill. You gain the Steady Balance skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] skill, and the Circus Lore skill. You gain the Steady Balance skill feat.
 
 *Source: Player Core p. 84*
 
@@ -44,7 +44,7 @@ You have mastered the techniques for piloting all manner of airships—balloons,
 
 Choose two attribute boosts. One must be to **Strength** or **Dexterity**, and one is a free attribute boost.
 
-You’re trained in the Athletics skill and the Piloting Lore skill. You gain the Assurance skill feat with Piloting Lore.
+You’re trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill and the [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/assurance|Assurance]] skill feat with Piloting Lore.
 
 *Source: Battlecry! p. 17*
 
@@ -57,7 +57,7 @@ You're an outlaw whose first crime was stealing the guns from Alkenstar's Gunwor
 Choose two attribute boosts. One must be to Dexterity
 or Constitution, and one is a free attribute boost.
 
-You're trained in the Thievery skill, and the Underworld Lore skill. You gain the Subtle Theft skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] skill, and the Underworld Lore skill. You gain the Subtle Theft skill feat.
 
 *Source: Guns & Gears (Remastered) p. 124*
 
@@ -70,7 +70,7 @@ You came to Alkenstar because you heard they had guns, but you stayed because of
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Society skill, and the Engineering Lore skill. You gain the Streetwise skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and the Engineering Lore skill. You gain the Streetwise skill feat.
 
 *Source: Guns & Gears (Remastered) p. 124*
 
@@ -81,7 +81,7 @@ Blacksmithing might be an ancient profession, but you are its cutting edge. You'
 Choose two attribute boosts. One must be to Strength
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Plane of Metal Lore skill. You gain the Specialty Crafting skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Plane of Metal Lore skill. You gain the Specialty Crafting skill feat.
 
 *Source: Rage of Elements p. 44*
 
@@ -102,7 +102,7 @@ You have always felt a connection to animals, and it was only a small leap to le
 Choose two attribute boosts. One must be to Wisdom
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Nature skill, and a Lore skill related to one terrain inhabited by animals you like (such as Plains Lore or Swamp Lore). You gain the Train Animal skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] skill, and a Lore skill related to one terrain inhabited by animals you like (such as Plains Lore or Swamp Lore). You gain the Train Animal skill feat.
 
 *Source: Player Core p. 84*
 
@@ -113,7 +113,7 @@ You've seen the sorts of things that technology brings— polluted environments,
 Choose two attribute boosts. One must be to Constitution
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Intimidation skill, and the Guild Lore skill. You gain the Group Coercion skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] skill, and the Guild Lore skill. You gain the Group Coercion skill feat.
 
 *Source: Guns & Gears (Remastered) p. 44*
 
@@ -126,7 +126,7 @@ You have fought against oppressive leaders and governments, harnessing ancient m
 Choose two attribute boosts. One must be to Dexterity
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Arcana skill, and a Lore skill related to the settlement you liberated. You gain the Quick Identification skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] skill, and a Lore skill related to the settlement you liberated. You gain the [[srd/pf2e/compendium/feats/player-core/skill/quick-identification|Quick Identification]] skill feat.
 
 *Source: Battlecry! p. 17*
 
@@ -137,7 +137,7 @@ As an apprentice, you practiced a particular form of building or crafting, devel
 Choose two attribute boosts. One must be to Strength
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Guild Lore skill. You gain the Specialty Crafting skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Guild Lore skill. You gain the Specialty Crafting skill feat.
 
 *Source: Player Core p. 84*
 
@@ -148,7 +148,7 @@ Your art is your greatest passion, whatever form it takes. Adventuring might hel
 Choose two attribute boosts. One must be to Dexterity
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Art Lore skill. You gain the Specialty Crafting skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Art Lore skill. You gain the Specialty Crafting skill feat.
 
 *Source: Player Core p. 84*
 
@@ -159,7 +159,7 @@ Astrologers look to the stars for signs and portents, using their positions in t
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Occultism skill, and the Astrology Lore skill. You gain the Oddity Identification skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] skill, and the Astrology Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/oddity-identification|Oddity Identification]] skill feat.
 
 *Source: Player Core 2 p. 50*
 
@@ -170,7 +170,7 @@ You're the medic many turn to when a more official clinic or healer might not be
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Medicine skill, and the Underworld Lore skill. You gain the Risky Surgery skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] skill, and the Underworld Lore skill. You gain the Risky Surgery skill feat.
 
 *Source: Guns & Gears (Remastered) p. 122*
 
@@ -181,7 +181,7 @@ Your past includes no small amount of rural banditry, robbing travelers on the r
 Choose two attribute boosts. One must be to Dexterity
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Intimidation skill, and a Lore skill related to the terrain you worked in (such as Desert Lore or Plains Lore). You gain the Group Coercion skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] skill, and a Lore skill related to the terrain you worked in (such as Desert Lore or Plains Lore). You gain the Group Coercion skill feat.
 
 *Source: Player Core p. 84*
 
@@ -192,7 +192,7 @@ Haircuts, dentistry, bloodletting, and surgery—if it takes a steady hand and a
 Choose two attribute boosts. One must be to Dexterity
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Medicine skill, and the Surgery Lore skill. You gain the Risky Surgery skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] skill, and the Surgery Lore skill. You gain the Risky Surgery skill feat.
 
 *Source: Player Core 2 p. 50*
 
@@ -203,7 +203,7 @@ You have five specialties: hefting barrels, drinking, polishing steins, drinking
 Choose two attribute boosts. One must be to Constitution
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Diplomacy skill, and the Alcohol Lore skill. You gain the Hobnobber skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill, and the Alcohol Lore skill. You gain the Hobnobber skill feat.
 
 *Source: Player Core p. 84*
 
@@ -214,7 +214,7 @@ Piles of legal manuals, stern teachers, and experience in the courtroom have ins
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Diplomacy skill, and the Legal Lore skill. You gain the Group Impression skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill, and the Legal Lore skill. You gain the Group Impression skill feat.
 
 *Source: Player Core p. 85*
 
@@ -225,7 +225,7 @@ All vehicles eventually break down, from both wear and tear and through contact 
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Vehicle Lore skill. You gain the Quick Repair skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Vehicle Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/quick-repair|Quick Repair]] skill feat.
 
 *Source: Battlecry! p. 16*
 
@@ -238,7 +238,7 @@ You've spent years rummaging through the corpses of armies and their equipment a
 Choose two attribute boosts. One must be to Strength
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Warfare Lore skill. You gain the Improvise Tool skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Warfare Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core-2/skill/improvise-tool|Improvise Tool]] skill feat.
 
 *Source: Battlecry! p. 17*
 
@@ -250,7 +250,7 @@ You have been blessed by a divinity. For an unknown reason, and irrespective of 
 
  Choose two attribute boosts. One must be to **Wisdom** or **Charisma**, and one is a free attribute boost.
 
- You are trained in a Lore skill associated with the deity who blessed you (such as Shelyn Lore) if you know their identity, or else in a Lore skill of the GM's choice if you don't. Either you can cast _guidance_ as a divine innate spell at will, or you gain a similar blessing determined by the GM.
+ You are trained in a [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skill associated with the deity who blessed you (such as Shelyn Lore) if you know their identity, or else in a Lore skill of the GM's choice if you don't. Either you can cast [[srd/pf2e/compendium/spells/cantrips/guidance|_guidance_]] as a divine innate spell at will, or you gain a similar blessing determined by the GM.
 
 *Source: Player Core 2 p. 52*
 
@@ -261,7 +261,7 @@ You ran the numbers on a large farm, for a merchant's endeavors, or with a major
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Society skill, and the Accounting Lore skill. You gain the Eye for Numbers skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and the Accounting Lore skill. You gain the Eye for Numbers skill feat.
 
 *Source: Player Core 2 p. 50*
 
@@ -272,7 +272,7 @@ Bringing in lawbreakers lined your pockets. Maybe you had an altruistic motive a
 Choose two attribute boosts. One must be to Strength
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Survival skill, and the Legal Lore skill. You gain the Experienced Tracker skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and the Legal Lore skill. You gain the Experienced Tracker skill feat.
 
 *Source: Player Core p. 85*
 
@@ -283,7 +283,7 @@ You served as a crewmate aboard a military vessel or pirate ship and were respon
 Choose two attribute boosts. One must be to Strength
 or Dexterity, and one is a free attribute boost.
 
-You're trained in the Athletics skill, and the Warfare Lore skill. You gain the Hefty Hauler skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, and the Warfare Lore skill. You gain the Hefty Hauler skill feat.
 
 *Source: Guns & Gears (Remastered) p. 122*
 
@@ -294,7 +294,7 @@ You traveled from place to place, peddling false fortunes and snake oil in one t
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Deception skill, and the Underworld Lore skill. You gain the Charming Liar skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] skill, and the Underworld Lore skill. You gain the Charming Liar skill feat.
 
 *Source: Player Core p. 85*
 
@@ -306,7 +306,7 @@ You were born in a village where everyone has a twin with a special link. You ha
 
  Choose two attribute boosts. One must be to **Constitution** or **Charisma**, and one is a free attribute boost.
 
- You're trained in Diplomacy and Dreamlands Lore. You gain the ability to communicate with your twin in your dreams. You and your twin gain the effects of _dream message_ every night, only between the two of you; this isn't a spell, but a natural effect. Unless your twin is another PC, your GM roleplays your twin or summarizes your interaction during these dreams.
+ You're trained in [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] and [[srd/pf2e/compendium/rules-elements/skills/lore|Dreamlands Lore]]. You gain the ability to communicate with your twin in your dreams. You and your twin gain the effects of [[srd/pf2e/compendium/spells/rank-3/dream-message|_dream message_]] every night, only between the two of you; this isn't a spell, but a natural effect. Unless your twin is another PC, your GM roleplays your twin or summarizes your interaction during these dreams.
 
 *Source: Dark Archives (Remastered) p. 73*
 
@@ -319,7 +319,7 @@ You're a circuit judge, a courtroom on horseback who serves a group of communiti
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Deception skill, and the Legal Lore skill. You gain the Lie to Me skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] skill, and the Legal Lore skill. You gain the Lie to Me skill feat.
 
 *Source: Guns & Gears (Remastered) p. 124*
 
@@ -330,7 +330,7 @@ While others choose to use their engineering ability to heal the injured or make
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Gladiatorial Lore skill. You gain the Experienced Professional skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Gladiatorial Lore skill. You gain the Experienced Professional skill feat.
 
 *Source: Guns & Gears (Remastered) p. 44*
 
@@ -341,7 +341,7 @@ New forms of clockwork technology are incredibly interesting to you, and you've 
 Choose two attribute boosts. One must be to Dexterity
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Society skill, and the Engineering Lore skill. You gain the Crafter's Appraisal skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and the Engineering Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core-2/skill/crafters-appraisal|Crafter's Appraisal]] skill feat.
 
 *Source: Guns & Gears (Remastered) p. 44*
 
@@ -352,7 +352,7 @@ Whether you're employed by a military organization to decipher coded messages se
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Society skill, and the Cryptography Lore skill. You gain the Glean Contents skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and the Cryptography Lore skill. You gain the Glean Contents skill feat.
 
 *Source: Guns & Gears (Remastered) p. 44*
 
@@ -363,7 +363,7 @@ You have spent countless hours selecting lumber, drafting designs, and construct
 Choose two attribute boosts. One must be to Dexterity
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Engineering Lore skill. You gain the Specialty Crafting skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Engineering Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/specialty-crafting|Specialty Crafting]] skill feat.
 
 *Source: Battlecry! p. 16*
 
@@ -374,7 +374,7 @@ As a member of the clergy, you have been responsible for tending to the spiritua
 Choose two attribute boosts. One must be to Wisdom
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Religion skill, and a Lore skill associated with the deity you worship. You gain the Recognize Spell skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] skill, and a Lore skill associated with the deity you worship. You gain the [[srd/pf2e/compendium/feats/player-core/skill/recognize-spell|Recognize Spell]] skill feat.
 
 *Source: Battlecry! p. 16*
 
@@ -398,7 +398,7 @@ You were hired by the Concordance of Elements to seek out rumors of planar breac
 
  Choose two attribute boosts. One must be to **Constitution** or **Charisma**, and one is a free attribute boost.
 
- You're trained in the Diplomacy skill and one of the following lore skills: Plane of Air Lore, Plane of Earth Lore, Plane of Fire Lore, Plane of Metal Lore, Plane of Water Lore, or Plane of Wood Lore. You gain the Hobnobber skill feat.
+ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill and one of the following lore skills: Plane of Air Lore, Plane of Earth Lore, Plane of Fire Lore, Plane of Metal Lore, Plane of Water Lore, or Plane of Wood Lore. You gain the Hobnobber skill feat.
 
 *Source: Rage of Elements p. 44*
 
@@ -409,7 +409,7 @@ Like many others in your settlement, you readily performed your duty and served 
 Choose two attribute boosts. One must be to Strength
 or Constitution, and one is a free attribute boost.
 
-You're trained in the Society skill, and the Warfare Lore skill. You gain the Dubious Knowledge skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and the Warfare Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/dubious-knowledge|Dubious Knowledge]] skill feat.
 
 *Source: Battlecry! p. 16*
 
@@ -420,7 +420,7 @@ You grew up in the kitchens of a tavern or other dining establishment and excell
 Choose two attribute boosts. One must be to Constitution
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Survival skill, and the Cooking Lore skill. You gain the Seasoned skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and the Cooking Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/seasoned|Seasoned]] skill feat.
 
 *Source: Player Core p. 85*
 
@@ -431,7 +431,7 @@ In your youth, you earned coin running messages for persons of wealth and influe
 Choose two attribute boosts. One must be to Dexterity
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Society skill, and a Lore skill for your city of origin. You gain the Glean Contents skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and a Lore skill for your city of origin. You gain the Glean Contents skill feat.
 
 *Source: Player Core 2 p. 50*
 
@@ -442,7 +442,7 @@ As an unscrupulous independent or as a member of an underworld organization, you
 Choose two attribute boosts. One must be to Dexterity
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Stealth skill, and the Underworld Lore skill. You gain the Experienced Smuggler skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] skill, and the Underworld Lore skill. You gain the Experienced Smuggler skill feat.
 
 *Source: Player Core p. 85*
 
@@ -453,7 +453,7 @@ Mineral formations can be beautiful things, sparkling and arrayed in geometric c
 Choose two attribute boosts. One must be to Wisdom
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Nature skill, and the Plane of Earth Lore skill. You gain the Natural Medicine skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] skill, and the Plane of Earth Lore skill. You gain the Natural Medicine skill feat.
 
 *Source: Rage of Elements p. 44*
 
@@ -464,7 +464,7 @@ You were (or still are) a member of a cult whose rites may involve sacred dances
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Occultism skill, and a Lore skill related to your deity or cult. You gain the Schooled in Secrets skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] skill, and a Lore skill related to your deity or cult. You gain the Schooled in Secrets skill feat.
 
 *Source: Player Core p. 86*
 
@@ -476,9 +476,9 @@ You are the victim of a personal or hereditary curse. Through great effort and o
 
  Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.
 
- You are trained in Occultism and Curse Lore. You gain the Warding Sign reaction. You and the GM should determine the full effects of the curse, though you've staved most of them off for now. The GM determines the curse's lingering manifestations on you, which usually include at least a constant or very frequent thematic effect and occasional more dangerous effects.
+ You are trained in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] and [[srd/pf2e/compendium/rules-elements/skills/lore|Curse Lore]]. You gain the Warding Sign reaction. You and the GM should determine the full effects of the curse, though you've staved most of them off for now. The GM determines the curse's lingering manifestations on you, which usually include at least a constant or very frequent thematic effect and occasional more dangerous effects.
 
- **Warding Sign** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per minute; **Trigger** You attempt a saving throw against a magical effect, but you haven't rolled yet; **Effect** You call on the power of a personal, eldritch sign of protection, which flares brightly before slowly fading. You gain a +2 circumstance bonus to the triggering saving throw, or a +3 circumstance bonus if the effect is a curse.
+ **Warding Sign** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per minute; **Trigger** You attempt a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] effect, but you haven't rolled yet; **Effect** You call on the power of a personal, eldritch sign of protection, which flares brightly before slowly fading. You gain a +2 circumstance bonus to the triggering saving throw, or a +3 circumstance bonus if the effect is a [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]].
 
 *Source: Player Core 2 p. 52*
 
@@ -489,18 +489,18 @@ The sapphire depths of the seas and the mysteries they hold beneath their surfac
 Choose two attribute boosts. One must be to Strength
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Athletics skill, and the Plane of Water Lore skill. You gain the Underwater Marauder skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, and the Plane of Water Lore skill. You gain the Underwater Marauder skill feat.
 
 *Source: Rage of Elements p. 44*
 
 ## Dendrologist  *Background*
 
-Trees grow in every biome, and your awe at their ability to conquer terrain has inspired deeper study into their workings. There are trees everywhere, and your study of them will inevitably take you ever further afield in search of new varieties, perhaps even to the Plane of Wood itself.
+Trees grow in every biome, and your awe at their ability to conquer terrain has inspired deeper study into their workings. There are trees everywhere, and your study of them will inevitably take you ever further afield in search of new varieties, perhaps even to the [[srd/pf2e/compendium/gm/planes#Plane of Wood|Plane of Wood]] itself.
 
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Survival skill, and the Plane of Wood Lore skill. You gain the Terrain Expertise skill feat for forests.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and the Plane of Wood Lore skill. You gain the Terrain Expertise skill feat for forests.
 
 *Source: Rage of Elements p. 44*
 
@@ -511,7 +511,7 @@ While your life may have taken some twists and turns in the intervening years, y
 Choose two attribute boosts. One must be to Dexterity
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Survival skill, and the Hunting Lore skill. You gain the Experienced Tracker skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and the Hunting Lore skill. You gain the Experienced Tracker skill feat.
 
 *Source: Guns & Gears (Remastered) p. 122*
 
@@ -522,7 +522,7 @@ You solved crimes as a police inspector or took jobs for wealthy clients as a pr
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Society skill, and the Underworld Lore skill. You gain the Streetwise skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and the Underworld Lore skill. You gain the Streetwise skill feat.
 
 *Source: Player Core p. 86*
 
@@ -545,7 +545,7 @@ While many regard science and faith as incompatible, you believe scientific adva
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and a Lore skill for the deity you worship. You gain the Quick Repair skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and a Lore skill for the deity you worship. You gain the Quick Repair skill feat.
 
 *Source: Guns & Gears (Remastered) p. 45*
 
@@ -556,7 +556,7 @@ You live behind the controls of a vehicle, and can handle anything the road or w
 Choose two attribute boosts. One must be to Strength
 or Dexterity, and one is a free attribute boost.
 
-You're trained in the Acrobatics skill, and the Driving Lore Lore skill or Piloting Lore You gain the Assurance skill feat with the chosen lore
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] skill, and the Driving Lore Lore skill or Piloting Lore You gain the Assurance skill feat with the chosen lore
 
 *Source: Guns & Gears (Remastered) p. 45*
 
@@ -567,7 +567,7 @@ You live behind the controls of a vehicle, and can handle anything the road or w
 Choose two attribute boosts. One must be to Strength
 or Dexterity, and one is a free attribute boost.
 
-You're trained in the Acrobatics skill, and the Driving Lore or Piloting Lore skill. You gain the Assurance skill feat with the chosen lore.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] skill, and the Driving Lore or Piloting Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/assurance|Assurance]] skill feat with the chosen lore.
 
 *Source: Player Core 2 p. 50*
 
@@ -579,7 +579,7 @@ You were exposed to a strong burst of elemental essence originating directly fro
 
  Choose two attribute boosts. One must be to **Constitution** or **Charisma**, and one is a free attribute boost.
 
- Choose one elemental plane: Air, Earth, Fire, Metal, Water, or Wood. You are trained in the corresponding Lore skill: Plane of Air Lore, Plane of Earth Lore, Plane of Fire Lore, Plane of Metal Lore, Plane of Water Lore, or Plane of Wood Lore. You also gain a cantrip according to your chosen plane: **air** _gale blast_; **Earth**: _scatter scree_; **Fire**: _ignition_; **Metal**: _needle darts_; **Water** _spout_, or **wood** _root reading_. You can cast this spell as a primal innate spell at will.
+ Choose one elemental plane: Air, Earth, Fire, [[srd/pf2e/compendium/gm/planes#Plane of Metal|Metal]], Water, or [[srd/pf2e/compendium/gm/planes#Plane of Wood|Wood]]. You are trained in the corresponding [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skill: Plane of Air Lore, Plane of Earth Lore, Plane of Fire Lore, Plane of Metal Lore, Plane of Water Lore, or Plane of Wood Lore. You also gain a cantrip according to your chosen plane: **air** _gale blast_; **Earth**: _scatter scree_; **Fire**: _ignition_; **Metal**: [[srd/pf2e/compendium/spells/cantrips/needle-darts|_needle darts_]]; **Water** _spout_, or **wood** [[srd/pf2e/compendium/spells/cantrips/root-reading|_root reading_]]. You can cast this spell as a primal innate spell at will.
 
 *Source: Rage of Elements p. 45*
 
@@ -590,7 +590,7 @@ As a diplomat or messenger, you traveled to lands far and wide. Communicating wi
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Society skill, and a Lore skill related to one city you've visited often. You gain the Multilingual skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and a Lore skill related to one city you've visited often. You gain the Multilingual skill feat.
 
 *Source: Player Core p. 86*
 
@@ -602,7 +602,7 @@ You knew someone once, and now you know only a life stitched together and healed
 
  Choose two attribute boosts. One must be to **Intelligence** or **Wisdom**, and one is a free attribute boost.
 
- You're trained in the Occultism skill and the Planar Rift Lore skill. You get a Planar Rift Lore check to sense planar rifts, even if you aren't specifically Investigating or Searching for them, as well as locations where magic has been used to remove the memory of an object or creature from existence.
+ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] skill and the [[srd/pf2e/compendium/rules-elements/skills/lore|Planar Rift Lore]] skill. You get a Planar Rift Lore check to sense planar rifts, even if you aren't specifically [[srd/pf2e/compendium/rules-elements/actions/player-core#Investigate|Investigating]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Search|Searching]] for them, as well as locations where magic has been used to remove the memory of an object or creature from existence.
 
 *Source: Dark Archives (Remastered) p. 92*
 
@@ -613,7 +613,7 @@ Through an education in the arts or sheer dogged practice, you learned to entert
 Choose two attribute boosts. One must be to Dexterity
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Performance skill, and the Theater Lore skill. You gain the Fascinating Performance skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] skill, and the Theater Lore skill. You gain the Fascinating Performance skill feat.
 
 *Source: Player Core p. 86*
 
@@ -624,7 +624,7 @@ With a strong back and an understanding of seasonal cycles, you tilled the land 
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Athletics skill, and the Farming Lore skill. You gain the Assurance skill feat with Athletics.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, and the Farming Lore skill. You gain the Assurance skill feat with [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]].
 
 *Source: Player Core p. 86*
 
@@ -635,7 +635,7 @@ You built your house using wood from the trees surrounding it. Raised it up from
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Survival skill, and the Farming Lore skill. You gain the Forager skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and the Farming Lore skill. You gain the Forager skill feat.
 
 *Source: Guns & Gears (Remastered) p. 123*
 
@@ -647,7 +647,7 @@ You spent your youth in the wilderness, living close to or perhaps raised by ani
 
  Choose one attribute boost. It must be to **Strength**, **Dexterity**, or **Constitution**.
 
- You are trained in Nature and Survival. You gain low-light vision (or darkvision if you already had low-light vision), imprecise scent with a range of 30 feet, and the Forager skill feat.
+ You are trained in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] and [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]]. You gain low-light vision (or darkvision if you already had low-light vision), imprecise scent with a range of 30 feet, and the [[srd/pf2e/compendium/feats/player-core/skill/forager|Forager]] skill feat.
 
 *Source: Player Core 2 p. 52*
 
@@ -655,13 +655,13 @@ You spent your youth in the wilderness, living close to or perhaps raised by ani
 
 `Rare`
 
-You have spent time in the First World or another realm of the fey and aren't entirely the same person you were before. Perhaps you made a purchase at the legendary Witchmarket or partook deeply of fey food and wine. Whatever the case, willingly or inadvertently, you made a bargain with the fey, the benefits of which come at a price.
+You have spent time in the [[srd/pf2e/compendium/gm/planes#First World|First World]] or another realm of the [[srd/pf2e/compendium/rules-elements/languages#Fey|fey]] and aren't entirely the same person you were before. Perhaps you made a purchase at the legendary Witchmarket or partook deeply of fey food and wine. Whatever the case, willingly or inadvertently, you made a bargain with the fey, the benefits of which come at a price.
 
  Choose two attribute boosts. One must be to **Dexterity** or **Charisma**, and one is a free attribute boost.
 
- You are trained in Fey Lore and gain the Fey's Fortune free action. You gain an anathema as part of your pact with the fey. If you violate this anathema, you lose Fey's Fortune until you receive the effects of a successful _atone_ ritual using the Nature skill. The exact anathema is up to you and the GM, but the most common requirement is that you must fulfill a single request from any fey who knows your name.
+ You are trained in Fey Lore and gain the Fey's Fortune free action. You gain an anathema as part of your pact with the fey. If you violate this anathema, you lose Fey's Fortune until you receive the effects of a successful [[srd/pf2e/compendium/spells/rituals/atone|_atone_]] ritual using the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] skill. The exact anathema is up to you and the GM, but the most common requirement is that you must fulfill a single request from any fey who knows your name.
 
- **Fey's Fortune** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate, fortune) **Frequency** once per day; **Trigger** You attempt a skill check and haven't yet rolled; **Effect** Roll the skill check twice and use the better result.
+ **Fey's Fortune** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]]) **Frequency** once per day; **Trigger** You attempt a skill check and haven't yet rolled; **Effect** Roll the skill check twice and use the better result.
 
 *Source: Player Core 2 p. 52*
 
@@ -672,7 +672,7 @@ In the chaotic rush of battle, you learned to adapt to rapidly changing conditio
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Medicine skill, and the Warfare Lore skill. You gain the Battle Medicine skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] skill, and the Warfare Lore skill. You gain the Battle Medicine skill feat.
 
 *Source: Player Core p. 86*
 
@@ -683,7 +683,7 @@ Whether you fought against fires in the wilderness or in crowded city streets, y
 Choose two attribute boosts. One must be to Strength
 or Constitution, and one is a free attribute boost.
 
-You're trained in the Athletics skill, and the Plane of Fire Lore skill. You gain the Breath Control skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, and the Plane of Fire Lore skill. You gain the Breath Control skill feat.
 
 *Source: Rage of Elements p. 44*
 
@@ -694,7 +694,7 @@ Few celebrations in Tian-Xia are complete without a show of fireworks, and your 
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Performance skill, and the Fireworks Lore skill. You gain the Fascinating Performance skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] skill, and the Fireworks Lore skill. You gain the Fascinating Performance skill feat.
 
 *Source: Guns & Gears (Remastered) p. 122*
 
@@ -705,7 +705,7 @@ The strands of fate are clear to you, as you have learned many traditional forms
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Occultism skill, and the Fortune-Telling Lore skill. You gain the Oddity Identification skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] skill, and the Fortune-Telling Lore skill. You gain the Oddity Identification skill feat.
 
 *Source: Player Core p. 86*
 
@@ -716,7 +716,7 @@ The thrill of the win drew you into games of chance. This might have been a lucr
 Choose two attribute boosts. One must be to Dexterity
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Deception skill, and the Games Lore skill. You gain the Lie to Me skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] skill, and the Games Lore skill. You gain the Lie to Me skill feat.
 
 *Source: Player Core p. 86*
 
@@ -727,7 +727,7 @@ The bloody games of the arena taught you the art of combat. Before you attained 
 Choose two attribute boosts. One must be to Strength
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Performance skill, and the Gladiatorial Lore skill. You gain the Impressive Performance skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] skill, and the Gladiatorial Lore skill. You gain the Impressive Performance skill feat.
 
 *Source: Player Core p. 86*
 
@@ -740,7 +740,7 @@ You're a dwarven agent of the Goldhand Lodge, a collection of dwarven merchants 
 Choose two attribute boosts. One must be to Dexterity
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Diplomacy skill, and the Mercantile Lore skill. You gain the Group Impression skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill, and the Mercantile Lore skill. You gain the Group Impression skill feat.
 
 *Source: Guns & Gears (Remastered) p. 124*
 
@@ -751,7 +751,7 @@ You served in the guard, out of either patriotism or the need for coin. Either w
 Choose two attribute boosts. One must be to Strength
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Intimidation skill, and the Legal Lore skill or Warfare Lore skill. You gain the Quick Coercion skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] skill, and the Legal Lore skill or Warfare Lore skill. You gain the Quick Coercion skill feat.
 
 *Source: Player Core p. 86*
 
@@ -762,7 +762,7 @@ From a young age, you apprenticed to an experienced gunsmith and over time your 
 Choose two attribute boosts. One must be to Dexterity
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Engineering Lore skill. You gain the Quick Repair skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Engineering Lore skill. You gain the Quick Repair skill feat.
 
 *Source: Guns & Gears (Remastered) p. 122*
 
@@ -774,7 +774,7 @@ You are followed by a spirit or entity, either from childhood or since a momento
 
  Choose two attribute boosts. One must be to **Wisdom** or **Charisma**, and one is a free attribute boost.
 
- You are trained in Occultism and an additional skill in which the haunting entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were Aiding you. If you accept but fail the check, you are frightened 2 (frightened 4 on a critical failure). The initial frightened value can't be reduced by effects that would reduce or prevent the condition (such as a fighter's bravery).
+ You are trained in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] and an additional skill in which the haunting entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aiding]] you. If you accept but fail the check, you are [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 2]] (frightened 4 on a critical failure). The initial frightened value can't be reduced by effects that would reduce or prevent the condition (such as a fighter's bravery).
 
 *Source: Player Core 2 p. 53*
 
@@ -785,7 +785,7 @@ As a formally trained apothecary or a rural practitioner of folk medicine, you l
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Nature skill, and the Herbalism Lore skill. You gain the Natural Medicine skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] skill, and the Herbalism Lore skill. You gain the Natural Medicine skill feat.
 
 *Source: Player Core p. 86*
 
@@ -796,8 +796,8 @@ In an isolated place—like a cave, remote oasis, or secluded mansion—you live
 Choose two attribute boosts. One must be to Constitution
 or Intelligence, and one is a free attribute boost.
 
-You're trained in your choice of either the Nature
- or the Occultism skill, as well as a Lore skill related to the terrain you lived in as a hermit (such as Cave Lore or Desert Lore). You gain the Dubious Knowledge skill feat.
+You're trained in your choice of either the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+ or the [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] skill, as well as a Lore skill related to the terrain you lived in as a hermit (such as Cave Lore or Desert Lore). You gain the Dubious Knowledge skill feat.
 
 *Source: Player Core p. 87*
 
@@ -808,7 +808,7 @@ Your life truly began after your first kill. Maybe you killed in self-defense, m
 Choose two attribute boosts. One must be to Strength
 or Dexterity, and one is a free attribute boost.
 
-You're trained in the Stealth skill, and the Underworld Lore skill. You gain the Terrain Stalker skill feat, choosing a terrain appropriate for where you make your kills.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] skill, and the Underworld Lore skill. You gain the Terrain Stalker skill feat, choosing a terrain appropriate for where you make your kills.
 
 *Source: Guns & Gears (Remastered) p. 122*
 
@@ -819,7 +819,7 @@ Some time ago, you stole a unique item from a strange individual. It might have 
 Choose two attribute boosts. One must be to Dexterity
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Thievery skill, and the Underworld Lore skill. You gain the Pickpocket skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] skill, and the Underworld Lore skill. You gain the Pickpocket skill feat.
 
 *Source: Guns & Gears (Remastered) p. 45*
 
@@ -830,7 +830,7 @@ You stalked and took down animals and other creatures of the wild. Skinning anim
 Choose two attribute boosts. One must be to Dexterity
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Survival skill, and the Tanning Lore skill. You gain the Survey Wildlife skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and the Tanning Lore skill. You gain the Survey Wildlife skill feat.
 
 *Source: Player Core p. 87*
 
@@ -841,7 +841,7 @@ You were more than a rebel; you were a revolutionary, fighting for the promise o
 Choose two attribute boosts. One must be to Strength
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Deception skill, and the Warfare Lore skill. You gain the Lengthy Diversion skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] skill, and the Warfare Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/lengthy-diversion|Lengthy Diversion]] skill feat.
 
 *Source: Player Core 2 p. 50*
 
@@ -852,7 +852,7 @@ You live by the adage that one person's trash is another's treasure. Whether by 
 Choose two attribute boosts. One must be to Dexterity
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Engineering Lore skill or Mining Lore skill. You gain the Crafter's Appraisal skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Engineering Lore skill or Mining Lore skill. You gain the Crafter's Appraisal skill feat.
 
 *Source: Guns & Gears (Remastered) p. 123*
 
@@ -863,7 +863,7 @@ You live on the outskirts of civilization, combing through the detritus left beh
 Choose two attribute boosts. One must be to Strength
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Athletics skill, and a Lore skill of the terrain in which you scavenge. You gain the Hefty Hauler skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, and a Lore skill of the terrain in which you scavenge. You gain the Hefty Hauler skill feat.
 
 *Source: Guns & Gears (Remastered) p. 45*
 
@@ -874,7 +874,7 @@ You’ve spent years performing arduous physical labor. It was a difficult life,
 Choose two attribute boosts. One must be to Strength
 or Constitution, and one is a free attribute boost.
 
-You're trained in the Athletics skill, and the Labor Lore skill. You gain the Hefty Hauler skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, and the Labor Lore skill. You gain the Hefty Hauler skill feat.
 
 *Source: Player Core p. 87*
 
@@ -887,7 +887,7 @@ Your introduction to the criminal life was spurred forward by a seemingly innocu
 Choose two attribute boosts. One must be to Dexterity
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Thievery skill, and the Engineering Lore skill. You gain the Concealing Legerdemain skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] skill, and the Engineering Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core-2/skill/concealing-legerdemain|Concealing Legerdemain]] skill feat.
 
 *Source: Dark Archives (Remastered) p. 135*
 
@@ -898,8 +898,8 @@ You dedicated yourself to intense training and rigorous study to become a great 
 Choose two attribute boosts. One must be to Strength
 or Dexterity, and one is a free attribute boost.
 
-You're trained in your choice of either the Acrobatics
- or the Athletics skill, as well as the Warfare Lore skill. You gain a skill feat: Cat Fall if you chose Acrobatics or Quick Jump if you chose Athletics.
+You're trained in your choice of either the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]]
+ or the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, as well as the Warfare Lore skill. You gain a skill feat: Cat Fall if you chose [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or Quick Jump if you chose [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]].
 
 *Source: Player Core p. 87*
 
@@ -912,7 +912,7 @@ Before you were old enough to join the actual fighting forces, you found your wa
 Choose two attribute boosts. One must be to Dexterity
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Performance skill, and the Warfare Lore skill. You gain the Impressive Performance skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] skill, and the Warfare Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/impressive-performance|Impressive Performance]] skill feat.
 
 *Source: Battlecry! p. 17*
 
@@ -923,7 +923,7 @@ The intricate inner workings of machines are no stranger to you. Whether they ar
 Choose two attribute boosts. One must be to Strength
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Engineering Lore skill. You gain the Quick Repair skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Engineering Lore skill. You gain the Quick Repair skill feat.
 
 *Source: Guns & Gears (Remastered) p. 45*
 
@@ -937,7 +937,7 @@ Whether you purposefully took it on or had it thrust upon you, a bronze, clockwo
 
  Choose two ability boosts. One must be to **Intelligence** or **Wisdom**, and one is a free ability boost.
 
- You're trained in the Arcana skill and an additional skill in which the clockwork entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were Aiding you. If you accept but fail the check, the entity clenches up and you are stunned 1 (stunned 2 on a critical failure).
+ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] skill and an additional skill in which the clockwork entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were Aiding you. If you accept but fail the check, the entity clenches up and you are stunned 1 (stunned 2 on a critical failure).
 
 *Source: Guns & Gears (Remastered) p. 46*
 
@@ -948,7 +948,7 @@ While others might have looked to clockwork as a mechanical innovation, you see 
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Medicine skill, and the Engineering Lore skill. You gain the Risky Surgery skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] skill, and the Engineering Lore skill. You gain the Risky Surgery skill feat.
 
 *Source: Guns & Gears (Remastered) p. 45*
 
@@ -959,7 +959,7 @@ In a dusty shop, market stall, or merchant caravan, you bartered wares for coin 
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Diplomacy skill, and the Mercantile Lore skill. You gain the Bargain Hunter skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill, and the Mercantile Lore skill. You gain the Bargain Hunter skill feat.
 
 *Source: Player Core p. 87*
 
@@ -970,7 +970,7 @@ You earned a living wrenching precious minerals from the lightless depths of the
 Choose two attribute boosts. One must be to Strength
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Survival skill, and the Mining Lore skill. You gain the Terrain Expertise skill feat with underground terrain.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and the Mining Lore skill. You gain the Terrain Expertise skill feat with underground terrain.
 
 *Source: Player Core p. 87*
 
@@ -981,7 +981,7 @@ To the common folk, the life of a noble seems one of idyllic luxury, but growing
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Society skill, and the Genealogy Lore skill or Heraldry Lore skill. You gain the Courtly Graces skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and the Genealogy Lore skill or Heraldry Lore skill. You gain the Courtly Graces skill feat.
 
 *Source: Player Core p. 87*
 
@@ -992,7 +992,7 @@ Traveling far and wide, you picked up basic tactics for surviving on the road an
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Survival skill, and a Lore skill related to one terrain you traveled in (such as Desert Lore or Swamp Lore). You gain the Assurance skill feat with Survival.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and a Lore skill related to one terrain you traveled in (such as Desert Lore or Swamp Lore). You gain the Assurance skill feat with [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]].
 
 *Source: Player Core p. 88*
 
@@ -1006,7 +1006,7 @@ You're called to serve a specific purpose—your deity told you so, and so it mu
 
  Choose two ability boosts. One must be to **Wisdom** or **Charisma**, and one is a free ability boost.
 
- You're trained in Religion. Once per adventure, you can ask the voice you believe to be a deity for orders and get some kind of instruction—you never get any kind of explanation, simply a command to go somewhere or do something. Following those commands isn't always safe, but it's usually interesting.
+ You're trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]. Once per adventure, you can ask the voice you believe to be a deity for orders and get some kind of instruction—you never get any kind of explanation, simply a command to go somewhere or do something. Following those commands isn't always safe, but it's usually interesting.
 
 *Source: Guns & Gears (Remastered) p. 125*
 
@@ -1017,7 +1017,7 @@ In your youth, you galloped on horseback over vast prairies, serving as a vangua
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Nature skill, and the Plains Lore skill. You gain the Express Rider skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] skill, and the Plains Lore skill. You gain the Express Rider skill feat.
 
 *Source: Player Core 2 p. 50*
 
@@ -1027,7 +1027,7 @@ In your youth, you made several pilgrimages to important shrines and sacred site
 
 Choose two attribute boosts. One must be to **Wisdom** or **Charisma**, and one is a free attribute boost. 
 
-You're trained in the Religion skill, and the Lore skill for your patron deity. You gain the Pilgrim's Token skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] skill, and the [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skill for your patron deity. You gain the Pilgrim's Token skill feat.
 
 *Source: Player Core 2 p. 50*
 
@@ -1038,7 +1038,7 @@ Plagues often spring from mass deaths and the vermin that multiply after such tr
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Medicine skill, and the Herbalism Lore skill. You gain the Inoculation skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] skill, and the Herbalism Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core-2/skill/inoculation|Inoculation]] skill feat.
 
 *Source: Battlecry! p. 17*
 
@@ -1050,7 +1050,7 @@ Your birthplace was on one of the elemental planes, but you traveled to the Univ
 
  Choose two attribute boosts. One must be **Dexterity** or **Constitution**, and one is a free attribute boost.
 
- You're trained in the Athletics skill and one of the following lore skills: Plane of Air Lore, Plane of Earth Lore, Plane of Fire Lore, Plane of Metal Lore, Plane of Water Lore, or Plane of Wood Lore. You gain the Hefty Hauler and Prescient Planner skill feats.
+ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill and one of the following [[srd/pf2e/compendium/rules-elements/skills/lore|lore]] skills: Plane of Air Lore, Plane of Earth Lore, Plane of Fire Lore, Plane of Metal Lore, Plane of Water Lore, or Plane of Wood Lore. You gain the Hefty Hauler and Prescient Planner skill feats.
 
 *Source: Rage of Elements p. 45*
 
@@ -1058,23 +1058,23 @@ Your birthplace was on one of the elemental planes, but you traveled to the Univ
 
 `Uncommon`
 
-Was it five shots or six? It doesn't really matter in the end, because after those nice folks bought all your drinks, you woke up on the lowest rung of the ladder. Whether a crewmate on a ship, a conscript in an army, or something worse, you've nowhere to go but up. This background generally requires buy-in with the entire group to tell a story allowing you to play a character starting their adventuring due to circumstances outside their own control. However, you can also play a character who was once press-ganged and has since escaped that life. If you do, press-ganged doesn't have the uncommon trait, and it has the same mechanical effects either way.
+Was it five shots or six? It doesn't really matter in the end, because after those nice folks bought all your drinks, you woke up on the lowest rung of the ladder. Whether a crewmate on a ship, a conscript in an army, or something worse, you've nowhere to go but up. This background generally requires buy-in with the entire group to tell a story allowing you to play a character starting their adventuring due to circumstances outside their own control. However, you can also play a character who was once press-ganged and has since escaped that life. If you do, press-ganged doesn't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] trait, and it has the same mechanical effects either way.
 
 Choose two attribute boosts. One must be to Strength
 or Constitution, and one is a free attribute boost.
 
-You're trained in the Athletics skill, and the Labor Lore skill. You gain the Armor Assist skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, and the Labor Lore skill. You gain the Armor Assist skill feat.
 
 *Source: Guns & Gears (Remastered) p. 124*
 
 ## Printer  *Background*
 
-Keeping your finger on the pulse of the city, you write a small news broadsheet to sell on street corners. You rent the use of a printing press to achieve this goal, so you're familiar with such machines. However, people and their stories are your main focus, and you adventure to chase the latest scoop.
+Keeping your finger on the pulse of the city, you write a small news broadsheet to sell on street corners. You rent the use of a [[srd/pf2e/compendium/equipment/adventuring-gear/printing-press|printing press]] to achieve this goal, so you're familiar with such machines. However, people and their stories are your main focus, and you adventure to chase the latest scoop.
 
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Society skill, and the Scribing Lore skill. You gain the Multilingual skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and the Scribing Lore skill. You gain the Multilingual skill feat.
 
 *Source: Guns & Gears (Remastered) p. 45*
 
@@ -1085,7 +1085,7 @@ You might have been imprisoned for crimes (whether you were guilty or not), or e
 Choose two attribute boosts. One must be to Strength
 or Constitution, and one is a free attribute boost.
 
-You're trained in the Stealth skill, and the Underworld Lore skill. You gain the Experienced Smuggler skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] skill, and the Underworld Lore skill. You gain the Experienced Smuggler skill feat.
 
 *Source: Player Core p. 88*
 
@@ -1096,7 +1096,7 @@ An army marches on its stomach, and you have been on the forefront of ensuring y
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Intimidation skill, and the Legal Lore skill. You gain the Intimidating Glare skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] skill, and the Legal Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/intimidating-glare|Intimidating Glare]] skill feat.
 
 *Source: Battlecry! p. 17*
 
@@ -1108,7 +1108,7 @@ Whether in a monastery, a religious household, or just as part of your everyday 
 specified in your deity’s Divine Attribute and the other is a free
 attribute boost.
 
- You’re trained in your deity’s associated skill, and you gain Assurance with that skill. You gain a Lore skill with a subcategory associated with your deity (Abadar Lore, for instance).
+ You’re trained in your deity’s associated skill, and you gain Assurance with that skill. You gain a [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skill with a subcategory associated with your deity (Abadar Lore, for instance).
 
 *Source: Player Core p. 88*
 
@@ -1120,7 +1120,7 @@ You were given a second opportunity at life by mysterious forces in the Lands of
 
  Choose two attribute boosts. One must be to **Constitution** or **Intelligence**, and one is a free attribute boost.
 
- You become trained in two Lore skills, which you and your GM choose from Lore skills associated with your past life. At 3rd level, 7th level, and 15th level, you receive skill increases, which you can apply only to these Lore skills. In certain situations analogous to your past life, fragments of memories resurface, potentially helping or distracting you. The GM can offer you a +1 circumstance bonus on skill checks with either of these Lore skills or on other skill checks that echo your past life. If you accept but fail the check, you're stupefied 1 for 1 minute by the mental distraction of your past-life memories, or stupefied 2 for 1 minute on a critical failure.
+ You become trained in two [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skills, which you and your GM choose from Lore skills associated with your past life. At 3rd level, 7th level, and 15th level, you receive skill increases, which you can apply only to these Lore skills. In certain situations analogous to your past life, fragments of memories resurface, potentially helping or distracting you. The GM can offer you a +1 circumstance bonus on skill checks with either of these Lore skills or on other skill checks that echo your past life. If you accept but fail the check, you're [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 for 1 minute by the mental distraction of your past-life memories, or stupefied 2 for 1 minute on a critical failure.
 
 *Source: Dark Archives (Remastered) p. 176*
 
@@ -1131,7 +1131,7 @@ You come from a land very distant from the one you now find yourself in, driven 
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Society skill, and a Lore skill related to the settlement you came from. You gain the Streetwise skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and a Lore skill related to the settlement you came from. You gain the [[srd/pf2e/compendium/feats/player-core/skill/streetwise|Streetwise]] skill feat.
 
 *Source: Player Core 2 p. 50*
 
@@ -1142,7 +1142,7 @@ During times of war, armies might venture far from the seats of government that 
 Choose two attribute boosts. One must be to Strength
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Nature skill, and the Stabling Lore skill. You gain the Express Rider skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] skill, and the Stabling Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core-2/skill/express-rider|Express Rider]] skill feat.
 
 *Source: Battlecry! p. 17*
 
@@ -1154,7 +1154,7 @@ You died and miraculously returned with knowledge of the realms beyond death and
 
  Choose two attribute boosts. One must be to **Constitution** or **Wisdom**, and one is a free attribute boost.
 
- You gain the Diehard feat and the Additional Lore feat for Boneyard Lore.
+ You gain the [[srd/pf2e/compendium/feats/player-core/general/diehard|Diehard]] feat and the [[srd/pf2e/compendium/feats/player-core/skill/additional-lore|Additional Lore]] feat for [[srd/pf2e/compendium/rules-elements/skills/lore|Boneyard Lore]].
 
 *Source: Player Core 2 p. 53*
 
@@ -1162,11 +1162,11 @@ You died and miraculously returned with knowledge of the realms beyond death and
 
 `Rare`
 
-You died. No real doubt about that. Bullet to the brain or knife to the throat, you were dead as dead can be. Then you got back up again. Maybe you had some unfinished business, or maybe you were just so tough and so mean that Hell itself spat you out. Either way, you came back for a reason. 
+You died. No real doubt about that. Bullet to the brain or knife to the throat, you were dead as dead can be. Then you got back up again. Maybe you had some unfinished business, or maybe you were just so tough and so mean that [[srd/pf2e/compendium/gm/planes#Hell|Hell]] itself spat you out. Either way, you came back for a reason. 
 
 Choose two attribute boosts. One must be to **Constitution** or **Charisma**, and one is a free attribute boost. 
 
-You’re trained in Religion and Boneyard Lore. You’re still alive, not undead, but you have the void healing ability, which means you’re harmed by vitality damage and healed by void effects as if you were undead.
+You’re trained in [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] and [[srd/pf2e/compendium/rules-elements/skills/lore|Boneyard Lore]]. You’re still alive, not [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]], but you have the void healing ability, which means you’re harmed by [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] damage and healed by [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] effects as if you were undead.
 
 *Source: Guns & Gears (Remastered) p. 125*
 
@@ -1177,7 +1177,7 @@ Some ailments can't be cured by herbs alone. You learned ritual remedies as well
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Occultism skill, and the Herbalism Lore skill. You gain the Root Magic skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] skill, and the Herbalism Lore skill. You gain the Root Magic skill feat.
 
 *Source: Player Core 2 p. 51*
 
@@ -1189,7 +1189,7 @@ You are a prominent member of a royal family. You have eschewed the daily routin
 
  Choose two attribute boosts. One must be to **Intelligence** or **Charisma**, and one is a free attribute boost.
 
- You are trained in Society. You gain the Courtly Graces skill feat and can influence commoners in your family's territory, as well as nobility anywhere. If you later gain the Leverage Connections skill feat you automatically have common and noble connections within any community in your royal family's territory and have noble connections in large communities outside your territory.
+ You are trained in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]. You gain the [[srd/pf2e/compendium/feats/player-core/skill/courtly-graces|Courtly Graces]] skill feat and can influence commoners in your family's territory, as well as nobility anywhere. If you later gain the [[srd/pf2e/compendium/feats/player-core-2/skill/leverage-connections|Leverage Connections]] skill feat you automatically have common and noble connections within any community in your royal family's territory and have noble connections in large communities outside your territory.
 
 *Source: Player Core 2 p. 53*
 
@@ -1200,7 +1200,7 @@ Whether you do it for personal enjoyment or at the behest of a mercenary company
 Choose two attribute boosts. One must be to Strength
 or Dexterity, and one is a free attribute boost.
 
-You're trained in the Thievery skill, and the Engineering Lore skill. You gain the Concealing Legerdemain skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] skill, and the Engineering Lore skill. You gain the Concealing Legerdemain skill feat.
 
 *Source: Guns & Gears (Remastered) p. 45*
 
@@ -1211,7 +1211,7 @@ Whether you do it for personal enjoyment or at the behest of a mercenary company
 Choose two attribute boosts. One must be to Strength
 or Dexterity, and one is a free attribute boost.
 
-You're trained in the Thievery skill, and the Engineering Lore skill. You gain the Concealing Legerdemain skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] skill, and the Engineering Lore skill. You gain the Concealing Legerdemain skill feat.
 
 *Source: Player Core 2 p. 51*
 
@@ -1222,7 +1222,7 @@ You heard the call of the sea from a young age. Perhaps you signed onto a mercha
 Choose two attribute boosts. One must be to Strength
 or Dexterity, and one is a free attribute boost.
 
-You're trained in the Athletics skill, and the Sailing Lore skill. You gain the Underwater Marauder skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, and the Sailing Lore skill. You gain the Underwater Marauder skill feat.
 
 *Source: Player Core p. 88*
 
@@ -1233,7 +1233,7 @@ All you want to do is entertain the people, but sure enough, bad news seems to f
 Choose two attribute boosts. One must be to Dexterity
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Performance skill, and a Lore skill of your choice. You gain the Virtuosic Performer skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] skill, and a Lore skill of your choice. You gain the Virtuosic Performer skill feat.
 
 *Source: Guns & Gears (Remastered) p. 123*
 
@@ -1245,7 +1245,7 @@ Through bloody combat, a terrible accident, or purposeful sacrifice, you've lost
 
  Choose two ability boosts. One must be to **Strength** or **Intelligence**, and one is a free ability boost.
 
- You're trained in the Crafting skill. Every day you must perform 10 minutes of maintenance and wind up your clockwork parts, or you risk failure of the components, with consequences depending on what you replaced (determined by you and the GM). Your clockwork components allow you to react to danger with alacrity. You gain a +2 circumstance bonus to initiative rolls.
+ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill. Every day you must perform 10 minutes of maintenance and wind up your clockwork parts, or you risk failure of the components, with consequences depending on what you replaced (determined by you and the GM). Your clockwork components allow you to react to danger with alacrity. You gain a +2 circumstance bonus to initiative rolls.
 
 *Source: Guns & Gears (Remastered) p. 47*
 
@@ -1256,7 +1256,7 @@ You've made a living sorting through the things society throws away. You might h
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Survival skill, and a Lore skill for the settlement you grew up scavenging in. You gain the Forager skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and a Lore skill for the settlement you grew up scavenging in. You gain the [[srd/pf2e/compendium/feats/player-core/skill/forager|Forager]] skill feat.
 
 *Source: Player Core 2 p. 51*
 
@@ -1267,7 +1267,7 @@ You have a knack for learning, and sequestered yourself from the outside world t
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You’re trained in your choice of the Arcana, Nature, Occultism, or Religion skill, and the Academia Lore skill. You gain the Assurance skill feat in your chosen skill.
+You’re trained in your choice of the [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] skill, and the Academia Lore skill. You gain the Assurance skill feat in your chosen skill.
 
 *Source: Player Core p. 88*
 
@@ -1278,7 +1278,7 @@ You called the wilderness home as you found trails and guided travelers. Your wa
 Choose two attribute boosts. One must be to Dexterity
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Survival skill, and a Lore skill related to one terrain you scouted in (such as Forest Lore or Cavern Lore). You gain the Forager skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and a Lore skill related to one terrain you scouted in (such as Forest Lore or Cavern Lore). You gain the Forager skill feat.
 
 *Source: Player Core p. 88*
 
@@ -1289,7 +1289,7 @@ You held a role of servitude, waiting on nobles and engendering their trust as o
 Choose two attribute boosts. One must be to Dexterity
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Society skill, and the Labor Lore skill. You gain the Read Lips skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, and the Labor Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/read-lips|Read Lips]] skill feat.
 
 *Source: Player Core 2 p. 51*
 
@@ -1302,7 +1302,7 @@ You hold an official title of sheriff or deputy in a small community. Those that
 Choose two attribute boosts. One must be to Dexterity
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Intimidation skill, and the Hunting Lore skill. You gain the Group Coercion skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] skill, and the Hunting Lore skill. You gain the Group Coercion skill feat.
 
 *Source: Guns & Gears (Remastered) p. 124*
 
@@ -1313,7 +1313,7 @@ The freedom of a bird in flight is something to envy, and envy it you did, but n
 Choose two attribute boosts. One must be to Dexterity
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Acrobatics skill, and the Plane of Air Lore skill. You gain the Cat Fall skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] skill, and the Plane of Air Lore skill. You gain the Cat Fall skill feat.
 
 *Source: Rage of Elements p. 44*
 
@@ -1324,7 +1324,7 @@ An eye for detail, a sense for the wind, and a strong trust in your gut feelings
 Choose two attribute boosts. One must be to Dexterity
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Stealth skill, and the Scouting Lore skill. You gain the Terrain Stalker skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] skill, and the Scouting Lore skill. You gain the Terrain Stalker skill feat.
 
 *Source: Guns & Gears (Remastered) p. 123*
 
@@ -1335,7 +1335,7 @@ You trained at the feet of a knight, maintaining their gear and supporting them 
 Choose two attribute boosts. One must be to Strength
 or Constitution, and one is a free attribute boost.
 
-You're trained in the Athletics skill, and the Heraldry Lore skill or Warfare Lore skill. You gain the Armor Assist skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, and the Heraldry Lore skill or Warfare Lore skill. You gain the Armor Assist skill feat.
 
 *Source: Player Core 2 p. 51*
 
@@ -1346,7 +1346,7 @@ You eked out a living by picking pockets on the streets of a major city, never k
 Choose two attribute boosts. One must be to Dexterity
 or Constitution, and one is a free attribute boost.
 
-You're trained in the Thievery skill, and a Lore skill for the city you lived in as a street urchin (such as Absalom Lore or Magnimar Lore). You gain the Pickpocket skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] skill, and a Lore skill for the city you lived in as a street urchin (such as Absalom Lore or Magnimar Lore). You gain the Pickpocket skill feat.
 
 *Source: Player Core p. 88*
 
@@ -1358,7 +1358,7 @@ You've ridden a tornado, lassoed a river, mooned a dragon under a full moon, and
 
  Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
- You're trained in Performance. You gain the Impressive Performance skill feat. You can gain the Connections skill feat later without being expert in Society or having Courtly Graces—this represents less traditional social connections and more the way that your legend has spread, and you've learned to leverage your legend, with people wanting to meet you and see you for themselves.
+ You're trained in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]. You gain the Impressive Performance skill feat. You can gain the Connections skill feat later without being expert in [[srd/pf2e/compendium/rules-elements/skills/society|Society]] or having Courtly Graces—this represents less traditional social connections and more the way that your legend has spread, and you've learned to leverage your legend, with people wanting to meet you and see you for themselves.
 
 *Source: Guns & Gears (Remastered) p. 125*
 
@@ -1369,7 +1369,7 @@ Reviled but required, you were sent when taxes were due. Performing your job mig
 Choose two attribute boosts. One must be to Strength
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Intimidation skill, and a Lore skill for the settlement that employed you. You gain the Quick Coercion skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] skill, and a Lore skill for the settlement that employed you. You gain the [[srd/pf2e/compendium/feats/player-core/skill/quick-coercion|Quick Coercion]] skill feat.
 
 *Source: Player Core 2 p. 51*
 
@@ -1380,8 +1380,8 @@ You are incredibly knowledgeable, skilled, and perhaps even trained to teach chi
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in your choice of either the Performance
- or the Society skill, as well as the Academia Lore skill. You gain the Experienced Professional skill feat.
+You're trained in your choice of either the [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]]
+ or the [[srd/pf2e/compendium/rules-elements/skills/society|Society]] skill, as well as the Academia Lore skill. You gain the Experienced Professional skill feat.
 
 *Source: Player Core p. 88*
 
@@ -1393,7 +1393,7 @@ Some event, be it an accident, attack, or disaster, has left you horribly scarre
 
  Choose two ability boosts. One must be to **Constitution** or **Intelligence**, and one is a free ability boost.
 
- You're trained in the Crafting skill and the Medicine skill. You gain the Battle Medicine skill feat, and a +1 circumstance bonus to saving throws against spells. Healing spells, healing magic items, and magical effects with the healing trait have no effect on you.
+ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill and the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] skill. You gain the Battle Medicine skill feat, and a +1 circumstance bonus to saving throws against spells. Healing spells, healing magic items, and magical effects with the [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] trait have no effect on you.
 
 *Source: Guns & Gears (Remastered) p. 47*
 
@@ -1404,7 +1404,7 @@ Creating all sorts of minor inventions scratches your itch for problem-solving. 
 Choose two attribute boosts. One must be to Dexterity
 or Intelligence, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Engineering Lore skill. You gain the Specialty Crafting skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Engineering Lore skill. You gain the Specialty Crafting skill feat.
 
 *Source: Player Core p. 88*
 
@@ -1415,7 +1415,7 @@ You delight in making little trinkets for children of all ages, and seeing their
 Choose two attribute boosts. One must be to Intelligence
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Crafting skill, and the Mercantile Lore skill. You gain the Specialty Crafting skill feat, choosing artistry, blacksmithing, glassmaking, leatherworking, tailoring, or woodworking as your specialty.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill, and the Mercantile Lore skill. You gain the Specialty Crafting skill feat, choosing artistry, blacksmithing, glassmaking, leatherworking, tailoring, or woodworking as your specialty.
 
 *Source: Guns & Gears (Remastered) p. 45*
 
@@ -1426,7 +1426,7 @@ People die. This is the unfortunate fact of life on which you've founded your bu
 Choose two attribute boosts. One must be to Intelligence
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Medicine skill, and a Lore skill specializing in one local type of undead. You gain the Forensic Acumen skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] skill, and a Lore skill specializing in one local type of [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. You gain the Forensic Acumen skill feat.
 
 *Source: Guns & Gears (Remastered) p. 123*
 
@@ -1437,7 +1437,7 @@ You have seen more battles than you can remember and have managed to make it thr
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Athletics skill, and the Warfare Lore skill. You gain the Armor Assist skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill, and the Warfare Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core-2/skill/armor-assist|Armor Assist]] skill feat.
 
 *Source: Battlecry! p. 17*
 
@@ -1448,7 +1448,7 @@ While you once spoke to a small congregation in a ramshackle church, those days 
 Choose two attribute boosts. One must be to Constitution
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Religion skill, and a Lore skill associated with the deity you preach for (such as Pharasmin Lore). You gain the Pilgrim's Token skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] skill, and a Lore skill associated with the deity you preach for (such as Pharasmin Lore). You gain the Pilgrim's Token skill feat.
 
 *Source: Guns & Gears (Remastered) p. 123*
 
@@ -1459,7 +1459,7 @@ The horrors of war have left you orphaned and alone, forcing you to fend for you
 Choose two attribute boosts. One must be to Dexterity
 or Constitution, and one is a free attribute boost.
 
-You're trained in the Thievery skill, and the Underworld Lore skill. You gain the Dirty Trick skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] skill, and the Underworld Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core-2/skill/dirty-trick|Dirty Trick]] skill feat.
 
 *Source: Battlecry! p. 17*
 
@@ -1470,7 +1470,7 @@ When you were young, you became the ward of another house— boarded, fed, and e
 Choose two attribute boosts. One must be to Constitution
 or Charisma, and one is a free attribute boost.
 
-You're trained in the Performance skill, and the Genealogy Lore skill. You gain the Fascinating Performance skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] skill, and the Genealogy Lore skill. You gain the [[srd/pf2e/compendium/feats/player-core/skill/fascinating-performance|Fascinating Performance]] skill feat.
 
 *Source: Player Core 2 p. 51*
 
@@ -1481,7 +1481,7 @@ In your younger days, you waded into battle as a mercenary, a warrior defending 
 Choose two attribute boosts. One must be to Strength
 or Constitution, and one is a free attribute boost.
 
-You're trained in the Intimidation skill, and the Warfare Lore skill. You gain the Intimidating Glare skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] skill, and the Warfare Lore skill. You gain the Intimidating Glare skill feat.
 
 *Source: Player Core p. 88*
 
@@ -1492,7 +1492,7 @@ Whether you grew up in the Mana Wastes or another similarly desolate place, you 
 Choose two attribute boosts. One must be to Strength
 or Wisdom, and one is a free attribute boost.
 
-You're trained in the Survival skill, and the Mana Wastes Lore skill (or another similar Lore skill associated with the wastes where you grew up). You gain the Forager skill feat.
+You're trained in the [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] skill, and the Mana Wastes Lore skill (or another similar Lore skill associated with the wastes where you grew up). You gain the Forager skill feat.
 
 *Source: Guns & Gears (Remastered) p. 123*
 
@@ -1504,6 +1504,6 @@ Once you were a simple construct or inanimate doll, but due to a deeply felt wis
 
  Choose two ability boosts. One must be to **Constitution** or **Charisma**, and one is a free ability boost.
 
- You're trained in the Diplomacy skill. Once per day, you can fervently wish for something you could work towards achieving as a single action which has the concentrate trait. If you do, you gain a +2 circumstance bonus on the first skill check you attempt before the end of your turn to fulfill that wish.
+ You're trained in the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill. Once per day, you can fervently wish for something you could work towards achieving as a single action which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. If you do, you gain a +2 circumstance bonus on the first skill check you attempt before the end of your turn to fulfill that wish.
 
 *Source: Guns & Gears (Remastered) p. 47*

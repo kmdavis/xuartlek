@@ -33,8 +33,8 @@ The blob paste propulsor is a mortar with a 25-foot hose attached to a reinforce
 
 **Aim** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") rotate 45° 
 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 2 times 
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times 
 
-**Launch** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (attack, manipulate, range increment 75 feet) Single target. If the Strike hits, blob paste immediately spreads across the target’s body, weighing it down and restricting movement. The target is grabbed for 1 minute, after which the blob paste melts away. The Escape DC to break free of the blob paste is 23.
+**Launch** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range increment 75 feet]]) Single target. If the Strike hits, blob paste immediately spreads across the target’s body, weighing it down and restricting movement. The target is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] for 1 minute, after which the blob paste melts away. The [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] DC to break free of the blob paste is 23.
 
 *Source: Howl of the Wild p. 115*

@@ -43,10 +43,10 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; darkvision"
-languages: "Common, Muan, Petran, Pyric, Sussuran, Talican, Thalassic; _truespeech_"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]], [[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]], [[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]; _truespeech_"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +17, Athletics +19, Arcana +18, Crafting +16, Deception +17, Diplomacy +19, Survival +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +17, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +18, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +16, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +17, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +19, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +18"
 abilityMods: [6, 4, 4, 3, 5, 4]
 abilities_top:
   - name: "Items"
@@ -61,24 +61,24 @@ health:
     desc: "155; __Resistances__ elemental resistance 10"
 abilities_mid:
   - name: "Commanding Presence"
-    desc: "(aura, emotion, fear, mental) 20 feet. A creature that enters the aura must succeed at a DC 26 Will save or be frightened 2 (frightened 3 on a critical failure), and is then temporarily immune for 1 minute. A genie (with the exception of another jann) takes a –4 circumstance penalty to their save."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 20 feet. A creature that enters the aura must succeed at a DC 26 Will save or be frightened 2 (frightened 3 on a critical failure), and is then temporarily immune for 1 minute. A genie (with the exception of another jann) takes a –4 circumstance penalty to their save."
   - name: "Elemental Resistance"
-    desc: "The jann shuyookh's elemental resistance applies to cold, electricity, and fire damage, as well as all damage from elemental sources (including environmental damage from the elemental planes and damage from anything with the air, earth, fire, metal, water, or wood trait)."
+    desc: "The jann shuyookh's elemental resistance applies to cold, electricity, and fire damage, as well as all damage from elemental sources (including environmental damage from the elemental planes and damage from anything with the [[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]] trait)."
 speed: "25 feet, fly 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _scimitar_ +20 (Forceful, Magical, Sweep) __Damage__ 2d6+12 slashing and All Made One"
+    desc: "⬻ _scimitar_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 2d6+12 slashing and All Made One"
   - name: "Melee"
-    desc: "⬻ fist +19 (Agile, Magical, Nonlethal) __Damage__ 1d8+9 bludgeoning and All Made One"
+    desc: "⬻ fist +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d8+9 bludgeoning and All Made One"
   - name: "Ranged"
-    desc: "⬻ _composite longbow_ +18 (deadly d10, Magical, Propulsive, volley 30 feet) __Damage__ 2d8+9 piercing and all made one"
+    desc: "⬻ _composite longbow_ +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/volley|volley 30 feet]]) __Damage__ 2d8+9 piercing and all made one"
 abilities_bot:
   - name: "All Made One"
     desc: "⬻ The jann shuyookh calls upon all the elements that make up their being and chooses one. They gain an additional arcane spell they can cast at will and empower their Strikes with the element, dealing an extra 1d6 damage of the listed type. These benefits last until the shuyookh uses this ability again."
   - name: "Air"
-    desc: "_lightning bolt_, 1d6 electricity; __earth__ _one with stone_, 1d6 bludgeoning; __fire__ _fireball_, 1d6 fire; __metal__ _noxious metals_, 1d6 electricity; __water__ _wall of water_, 1d6 bludgeoning; __wood__ _wall of thorns_, 1d6 piercing."
+    desc: "_lightning bolt_, 1d6 electricity; __earth__ _one with stone_, 1d6 bludgeoning; __fire__ _fireball_, 1d6 fire; __metal__ [[srd/pf2e/compendium/spells/rank-3/noxious-metals|_noxious metals_]], 1d6 electricity; __water__ _wall of water_, 1d6 bludgeoning; __wood__ _wall of thorns_, 1d6 piercing."
   - name: "Change Shape"
-    desc: "⬻ (Arcane, Concentrate, Polymorph) The genie transforms into a Small or Medium elemental or animal. This doesn't affect the genie's statistics, but it could change the damage type of their Strikes"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]]) The genie transforms into a Small or Medium [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]]. This doesn't affect the genie's statistics, but it could change the damage type of their Strikes"
   - name: "Wanderer's Wish"
     desc: "⬽"
   - name: "Frequency"
@@ -87,7 +87,7 @@ abilities_bot:
     desc: "The jann instantly grants the benefits of a critical success with the _wish_ ritual to a mortal creature. This has no cost. That creature specifies what they wish for, but the interpretation is up to the jann. A jann typically attempts to grant wishes in a way that encourages growth and exploration. A summoned jann can't use this ability. Evolving Essence With the return of the metal and wood elemental planes, janns found new elemental magic surging within their beings. This has caused rapid physical changes, and janns anticipate that it could eventually even change their moods and thoughts. Though most janns now feel the full breadth of elemental power, some still find themselves limited to just the elements of air, earth, fire, and water, or have diminished influence over metal and wood compared to the other four elements."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 28 - __Cantrips (4th)__ Detect Magic, Know the Way - __4th__ Invisibility (×2), Read Omens - __7th__ Interplanar Teleport (at will; to Astral Plane, Elemental Planes, or the Universe only) - __Constant (5th)__ Truespeech"
+    desc: "DC 28 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/know-the-way|Know the Way]] - __4th__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×2), [[srd/pf2e/compendium/spells/rank-4/read-omens|Read Omens]] - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (at will; to [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]], Elemental Planes, or the Universe only) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
 sourcebook: "_Rage of Elements_, page 227."
 ```
 

@@ -31,10 +31,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; darkvision"
-languages: "Common, Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +12, Crafting +10, Survival +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +10, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
 abilityMods: [1, 4, 0, 0, 2, 2]
 ac: 20
 armorclass:
@@ -43,7 +43,7 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60 (4 segments); __Weaknesses__ area damage 5, splash damage 5"
+    desc: "60 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
@@ -54,17 +54,17 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The kobolds Stride up to their Speed plus 5 feet and gain a +2 circumstance bonus to AC against reactions triggered by this movement. If they end this movement with at least 1 segment adjacent to any enemy, the squad is off-guard until the beginning of its next turn."
+    desc: "The kobolds Stride up to their Speed plus 5 feet and gain a +2 circumstance bonus to AC against reactions triggered by this movement. If they end this movement with at least 1 segment adjacent to any enemy, the squad is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the beginning of its next turn."
   - name: "Hasty Traps"
-    desc: "⬺ (Manipulate) The kobolds hastily prepare a handful of rudimentary traps in their vicinity until the beginning of their next turn. The next creature who moves adjacent to the trap squad triggers a trap and must attempt a DC 18 Reflex save. On a failure, the creature takes 1d4 persistent bleed damage (2d4 persistent bleed damage on a critical failure). A creature taking persistent bleed damage from Hasty Traps takes a –5-foot enhancement penalty to its Speed. This occurs to as many creatures as the kobold trap squad has segments when it performed the action, but a single creature can trigger only one trap per turn."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The kobolds hastily prepare a handful of rudimentary traps in their vicinity until the beginning of their next turn. The next creature who moves adjacent to the trap squad triggers a trap and must attempt a DC 18 Reflex save. On a failure, the creature takes 1d4 persistent bleed damage (2d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] on a critical failure). A creature taking persistent bleed damage from Hasty Traps takes a –5-foot enhancement penalty to its Speed. This occurs to as many creatures as the kobold trap squad has segments when it performed the action, but a single creature can trigger only one trap per turn."
   - name: "Sling Barrage"
-    desc: "⬺ The kobolds draw their slings, then launch a ranged barrage of stones. This barrage is a 10-foot burst within 50 feet that deals 3d4 bludgeoning damage with a DC 18 basic Reflex save. When the squad is reduced to 2 segments, this area decreases to a 5-foot burst."
+    desc: "⬺ The kobolds draw their slings, then launch a ranged barrage of stones. This barrage is a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] within 50 feet that deals 3d4 bludgeoning damage with a DC 18 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. When the squad is reduced to 2 segments, this area decreases to a 5-foot burst."
   - name: "Spear Jabs"
     desc: ""
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The kobold trap squad engages in a coordinated melee attack against all enemies in a 5-foot emanation, with a DC 18 basic Reflex save. The damage depends on the number of actions. ⬻ 1d6 piercing damage ⬺ 2d6+4 piercing damage ⬽ 2d6+7 piercing damage"
+    desc: "The kobold trap squad engages in a coordinated melee attack against all enemies in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 18 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d6 piercing damage ⬺ 2d6+4 piercing damage ⬽ 2d6+7 piercing damage"
 sourcebook: "_Battlecry!_, page 184."
 ```
 

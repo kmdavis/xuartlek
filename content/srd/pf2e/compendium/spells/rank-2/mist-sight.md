@@ -20,7 +20,7 @@ source: "Impossible Magic"
 - **Target**: 1 willing creature
 - **Duration**: 1 minute
 
-You enhance the eyes of the target, allowing them to see through fog, smoke, or vapor in a 10-foot emanation from themself; they ignore concealment from such effects in the area. This doesn't prevent them from experiencing adverse effects from poisons or particulates in the air within the area.
+You enhance the eyes of the target, allowing them to see through fog, smoke, or vapor in a 10-foot emanation from themself; they ignore [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealment]] from such effects in the area. This doesn't prevent them from experiencing adverse effects from poisons or particulates in the air within the area.
 
 ---
 **Heightened (4th)** You target up to four willing creatures within 30 feet.

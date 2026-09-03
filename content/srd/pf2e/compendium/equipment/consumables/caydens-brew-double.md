@@ -19,9 +19,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-_Cayden's brew_ is like rich beer or ale, with a golden-brown color and foamy head. For 1 hour after you drink it, you have a +1 item bonus to saving throws against fear effects. Also, you can use a single action to breathe out a 15-foot cone of intoxicating vapor with a burp that can be heard for 100 feet. Any creature in the vapor must attempt a DC 25 Fortitude saving throw. After you unleash this magical burp, you can’t do so again for 1d4 rounds.
+_Cayden's brew_ is like rich beer or ale, with a golden-brown color and foamy head. For 1 hour after you drink it, you have a +1 item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effects. Also, you can use a single action to breathe out a 15-foot cone of intoxicating vapor with a burp that can be heard for 100 feet. Any creature in the vapor must attempt a DC 25 Fortitude saving throw. After you unleash this magical burp, you can’t do so again for 1d4 rounds.
 
 **Critical Success** The creature is unaffected.
 

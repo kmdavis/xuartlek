@@ -14,6 +14,6 @@ _Nethys Note: This entry did not have a separate description for the family_
 
 ### Members
 
-Basilisk (Creature 5), Royal Basilisk (Creature 13)
+[[srd/pf2e/bestiary/monster-core/beast/basilisk|Basilisk]] (Creature 5), [[srd/pf2e/bestiary/howl-of-the-wild/beast/royal-basilisk|Royal Basilisk]] (Creature 13)
 
 *Source: Monster Core p. 39*

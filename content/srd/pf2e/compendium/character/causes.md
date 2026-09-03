@@ -140,7 +140,7 @@ If the enemy refuses, it takes persistent spirit damage equal to your Charisma m
 
 ### Exalted Reaction
 
-Each enemy in your champion's aura other than the triggering creature must also either drop prone or take mental damage (each enemy chooses). These creatures take only minimum damage (typically 3 damage at 11th level, 4 at 12th, 5 at 16th, and 6 at 19th), and the effects they take can't be adjusted by anything that changes your Iron Command. For instance, the Iron Repercussions feat couldn't turn the damage into persistent mental damage for creatures other than the triggering creature.
+Each enemy in your champion's aura other than the triggering creature must also either drop [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] or take mental damage (each enemy chooses). These creatures take only minimum damage (typically 3 damage at 11th level, 4 at 12th, 5 at 16th, and 6 at 19th), and the effects they take can't be adjusted by anything that changes your Iron Command. For instance, the Iron Repercussions feat couldn't turn the damage into persistent mental damage for creatures other than the triggering creature.
 
 *Source: Player Core 2 p. 93*
 

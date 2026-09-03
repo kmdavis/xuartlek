@@ -29,18 +29,18 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; darkvision"
-languages: "Aklo, Common, Jotun"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Jotun|Jotun]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +12, Athletics +14, Deception +13, Diplomacy +11, Intimidation +13, Stealth +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +13, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +16"
 abilityMods: [6, 4, 4, 1, 4, 3]
 abilities_top:
   - name: "Coven"
-    desc: "An iron hag adds _earthbind_, _impaling spike_, and _spellwrack_ to their coven's spells. Their spell DC when leading a coven is 24."
+    desc: "An iron hag adds [[srd/pf2e/compendium/spells/rank-3/earthbind|_earthbind_]], [[srd/pf2e/compendium/spells/rank-5/impaling-spike|_impaling spike_]], and [[srd/pf2e/compendium/spells/rank-6/spellwrack|_spellwrack_]] to their coven's spells. Their spell DC when leading a coven is 24."
 ac: 24
 armorclass:
   - name: "AC"
-    desc: "24; __Fort__: +16; __Ref__: +12; __Will__: +14 +1 status to all saves vs. magic"
+    desc: "24; __Fort__: +16; __Ref__: +12; __Will__: +14 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magic]]"
 hp: 80
 health:
   - name: "HP"
@@ -48,24 +48,24 @@ health:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +16 (Agile, cold iron, Magical, reach 10 feet) __Damage__ 2d8+6 slashing plus Grab"
+    desc: "⬻ claw +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/gm-core/precious|cold iron]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+6 slashing plus Grab"
   - name: "Melee"
-    desc: "⬻ jaws +16 (cold iron, Magical) __Damage__ 2d6+6 piercing"
+    desc: "⬻ jaws +16 ([[srd/pf2e/compendium/rules-elements/traits/gm-core/precious|cold iron]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d6+6 piercing"
 abilities_bot:
   - name: "Bonds of Iron"
-    desc: "⬺ (Attack, Occult)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The hag causes a cage built of cold iron fingernails to spring out of nothingness around one creature within 30 feet, attempting an Athletics check to Grapple against the target's Fortitude DC; if the target has a weakness to cold iron, the iron hag gains a +2 circumstance bonus to this check. On a success, the creature is grabbed by the magical fingernails (or restrained on a critical success). If the creature successfully Escapes (DC 24), the cage crumbles into rust. Any creature can attempt to destroy the cage by attacking it. It has an AC of 19, Hardness 10, and 40 Hit Points."
+    desc: "The hag causes a cage built of cold iron fingernails to spring out of nothingness around one creature within 30 feet, attempting an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grapple|Grapple]] against the target's Fortitude DC; if the target has a weakness to [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]], the iron hag gains a +2 circumstance bonus to this check. On a success, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the magical fingernails (or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] on a critical success). If the creature successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 24), the cage crumbles into rust. Any creature can attempt to destroy the cage by attacking it. It has an AC of 19, Hardness 10, and 40 Hit Points."
   - name: "Change Shape"
-    desc: "⬻ (Concentrate, Occult, Polymorph) The iron hag can take on the appearance of any Medium female humanoid. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning)."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]]) The iron hag can take on the appearance of any Medium female [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]]. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning)."
   - name: "Embrace of Iron"
     desc: "⬻"
   - name: "Requirements"
-    desc: "A creature is grabbed or restrained by the iron hag's claw"
+    desc: "A creature is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] by the iron hag's claw"
   - name: "Effect"
-    desc: "The hag's nails tear into their captured victim, dealing 2d8 piercing damage (the nails are cold iron). Then the hag can attempt to Reposition the creature. If the creature is adjacent to the hag, they can then attempt a jaws Strike against it."
+    desc: "The hag's nails tear into their captured victim, dealing 2d8 piercing damage (the nails are cold iron). Then the hag can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] the creature. If the creature is adjacent to the hag, they can then attempt a jaws Strike against it."
 sourcebook: "_Monster Core_, page 190."
 ```
 

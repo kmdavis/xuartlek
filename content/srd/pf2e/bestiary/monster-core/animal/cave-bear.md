@@ -29,7 +29,7 @@ perception:
     desc: "Perception +13; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +16, Survival +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +11"
 abilityMods: [6, 1, 6, -4, 1, -1]
 ac: 24
 armorclass:
@@ -44,10 +44,10 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +16 __Damage__ 2d10+6 piercing"
   - name: "Melee"
-    desc: "⬻ claw +16 (Agile) __Damage__ 2d8+6 slashing plus Grab"
+    desc: "⬻ claw +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d8+6 slashing plus Grab"
 abilities_bot:
   - name: "Mauler"
-    desc: "The bear gains a +4 circumstance bonus to damage rolls against creatures it has grabbed."
+    desc: "The bear gains a +4 circumstance bonus to damage rolls against creatures it has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]."
   - name: "Rush"
     desc: "⬺ The cave bear Strides and makes a Strike at the end of that movement. During the Stride, it gains a +10-foot circumstance bonus to its Speed."
 sourcebook: "_Monster Core_, page 41."

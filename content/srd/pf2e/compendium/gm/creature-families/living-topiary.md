@@ -14,7 +14,7 @@ Topiaries are an extremely common sight across Golarion, especially within the g
 
 ### Members
 
-Hippopotamus Topiary (Creature 11), Hound Topiary (Creature 3), Tiger Topiary (Creature 5)
+[[srd/pf2e/bestiary/monster-core-2/plant/hippopotamus-topiary|Hippopotamus Topiary]] (Creature 11), [[srd/pf2e/bestiary/monster-core-2/plant/hound-topiary|Hound Topiary]] (Creature 3), [[srd/pf2e/bestiary/monster-core-2/plant/tiger-topiary|Tiger Topiary]] (Creature 5)
 
 ### Corrupted Topiaries
 

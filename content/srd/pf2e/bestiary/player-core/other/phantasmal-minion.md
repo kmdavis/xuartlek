@@ -32,11 +32,11 @@ perception:
 languages: "none (understands its creator)"
 skills:
   - name: "Skills"
-    desc: "Stealth +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
 abilityMods: [-4, 2, 0, -5, 0, 0]
 abilities_top:
   - name: "Force Body"
-    desc: "A phantasmal minion's body is made of magical force. It can't use attack actions. Though it has no physical weight, it can move and use Interact actions to do things such as fetch objects, open unstuck or unlocked doors, hold chairs, and clean. It can't pass through solid objects."
+    desc: "A phantasmal minion's body is made of magical force. It can't use [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] actions. Though it has no physical weight, it can move and use Interact actions to do things such as fetch objects, open unstuck or unlocked doors, hold chairs, and clean. It can't pass through solid objects."
 ac: 13
 armorclass:
   - name: "AC"
@@ -44,7 +44,7 @@ armorclass:
 hp: 4
 health:
   - name: "HP"
-    desc: "4; __Immunities__ disease, mental, non-magical attacks, paralysis, poison, precision, spirit, unconscious; __Resistances__ all damage 5 (except force or _ghost touch_)"
+    desc: "4; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], non-[[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] attacks, paralysis, [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision, [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], unconscious; __Resistances__ all damage 5 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]] or _ghost touch_)"
 speed: "fly 30 feet"
 sourcebook: "_Player Core_, page 349."
 ```

@@ -19,9 +19,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 
-A piquant tamarind and chili-lime flavor infuses a silver crescent, which was first created to aid those battling the undead. For 1 hour, you shed cool, white light like a torch, and you gain an item bonus to saving throws against olfactory effects according to the crescent's type. While shedding this light, you can't be concealed if you're visible, and if you're invisible, you're concealed instead rather than being undetected.
+A piquant tamarind and chili-lime flavor infuses a silver crescent, which was first created to aid those battling the [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. For 1 hour, you shed cool, white light like a torch, and you gain an item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]] effects according to the crescent's type. While shedding this light, you can't be [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] if you're visible, and if you're [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]], you're concealed instead rather than being [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]].
 
- **Secondary Effect** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") **Effect** A ray of light descends on a 5-foot square of your choice within 120 feet. Any creature in that space takes vitality damage with a basic Reflex save and is dazzled until the end of its next turn on a failed save. This is treated as silver for the purposes of weaknesses, resistances, and the like. The silver crescent becomes inert.
+ **Secondary Effect** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") **Effect** A ray of light descends on a 5-foot square of your choice within 120 feet. Any creature in that space takes vitality damage with a basic Reflex save and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the end of its next turn on a failed save. This is treated as silver for the purposes of weaknesses, resistances, and the like. The silver crescent becomes inert.
 
 ### Silver Crescent (Lesser)
 

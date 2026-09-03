@@ -51,7 +51,7 @@ In general, merfolk follow the morals and customs of their parents and the commu
 
 Merfolk become adventurers for all sorts of reasons, but one thing is certain—the decision to leave home, especially to go and live above the waves, is never taken lightly. Some merfolk adventure to defend their homes or forge alliances with other peoples, while other merfolk are exiles, banished for crimes they might or might not have committed. And of course, some merfolk are just curious about the surface world.
 
- Merfolk come from all kinds of backgrounds— adventurous merfolk might come from the artisan, guard, sailor, or warrior backgrounds, and merfolk have their share of emissaries and nobles as well. With their affinity for magic, many merfolk become wizards, witches, or magi. Less magically inclined merfolk are more likely to become fighters (having trained in the local militia) or occasionally rangers, bonding with sharks or other sea life.
+ Merfolk come from all kinds of backgrounds— adventurous merfolk might come from the [[srd/pf2e/compendium/character/backgrounds#Artisan|artisan]], [[srd/pf2e/compendium/character/backgrounds#Guard|guard]], [[srd/pf2e/compendium/character/backgrounds#Sailor|sailor]], or [[srd/pf2e/compendium/character/backgrounds#Warrior|warrior]] backgrounds, and merfolk have their share of [[srd/pf2e/compendium/character/backgrounds#Emissary|emissaries]] and [[srd/pf2e/compendium/character/backgrounds#Noble|nobles]] as well. With their affinity for magic, many merfolk become wizards, witches, or magi. Less magically inclined merfolk are more likely to become fighters (having trained in the local militia) or occasionally rangers, bonding with sharks or other sea life.
 
 ### Names
 
@@ -81,16 +81,19 @@ Outsea is home to not just merfolk but also sedacthies, azarketi, nagas, and sev
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
-Thalassic
+[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Aklo, Azlanti, Draconic, Elven, and Fey, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], Azlanti, [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], and [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], and any other languages to which you have access (such as the languages prevalent in your region).
 
-| | |
-| --- | --- |
-| **Aquatic Grace** | When you roll a success on a saving throw against a water effect, you get a critical success instead. |
-| **Low-Light Vision** | You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light. |
+#### Aquatic Grace
+
+When you roll a success on a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] effect, you get a critical success instead.
+
+#### Low-Light Vision
+
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
 
 #### Hydration
 

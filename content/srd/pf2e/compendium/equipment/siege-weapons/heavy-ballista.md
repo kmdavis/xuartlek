@@ -48,7 +48,7 @@ source: "Guns & Gears (Remastered)"
 
 Capable of launching bolts the size of fully grown trees, a heavy ballista is best suited to smashing down castle gates, walls, or similar fortifications.
  **Aim**[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") 60 feet, minimum distance 40 feet 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 3 times, requires a successful DC 20 Athletics check
- **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate, range increment 180 feet) 7d12 piercing, single target, DC 23 Reflex
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 3 times, requires a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check
+ **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], range increment 180 feet) 7d12 piercing, single target, DC 23 Reflex
 
 *Source: Guns & Gears (Remastered) p. 75*

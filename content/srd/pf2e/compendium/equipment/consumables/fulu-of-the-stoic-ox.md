@@ -19,7 +19,7 @@ source: "Impossible Magic"
 
 - **Price**: 25 gp
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You attempt a Fortitude save against a disease.
 
 The ox on this fulu rests vigilantly on the point of the armor right over the bearer’s heart, protecting the bearer against diseases and safeguarding their health. When you activate the fulu, you gain a +2 status bonus to the triggering Fortitude save and to all Fortitude saves against the same disease for the next minute.

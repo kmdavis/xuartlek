@@ -16,7 +16,7 @@ You'll see the following key terms in many sorcerer abilities.
 
  **Blood Magic:** Casting a sorcerous gift spell granted by your bloodline or a bloodline spell allows you to benefit from a blood magic effect you know. You can typically only benefit from one blood magic effect at a time, though some feats and abilities may change this.
 
- **Spellshape:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 ### Roleplaying the Sorcerer
 
@@ -110,7 +110,7 @@ Choose a bloodline that gives you your spellcasting talent. This choice determin
 
 #### Sorcerer Spellcasting
 
-Your bloodline provides you with incredible magical power. You are a spellcaster and can cast spells using the Cast a Spell activity. The tradition from which your spells come is determined by your bloodline. As a sorcerer, you draw your power from within, and the gestures and incantations you use to shape your power might evoke the nature of your bloodline. For instance, a sorcerer with a demonic bloodline might chant guttural fiendish phrases or make brief curt gestures to cast a spell.
+Your bloodline provides you with incredible magical power. You are a spellcaster and can cast spells using the [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells|Cast a Spell]] activity. The tradition from which your spells come is determined by your bloodline. As a sorcerer, you draw your power from within, and the gestures and incantations you use to shape your power might evoke the nature of your bloodline. For instance, a sorcerer with a demonic bloodline might chant guttural fiendish phrases or make brief curt gestures to cast a spell.
 
  Each day, you can cast up to three 1st-rank spells. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots.
 
@@ -136,7 +136,7 @@ The collection of spells you can cast is called your spell repertoire. At 1st le
 
 #### Swapping Spells In Your Repertoire
 
-As you gain new spells in your spell repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip, but you can't swap out bloodline spells. You can also swap out spells by retraining during downtime.
+As you gain new spells in your spell repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip, but you can't swap out bloodline spells. You can also swap out spells by [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Retraining|retraining]] during downtime.
 
 #### Sorcerous Potency
 

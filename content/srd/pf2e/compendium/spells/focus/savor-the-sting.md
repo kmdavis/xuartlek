@@ -19,7 +19,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Mental`  `Nonlethal`  `Uncommon`
 
-- **Domain**: Pain
+- **Domain**: [[srd/pf2e/compendium/character/domains#Pain|Pain]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Will

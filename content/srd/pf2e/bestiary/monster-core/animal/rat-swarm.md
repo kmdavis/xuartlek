@@ -31,7 +31,7 @@ perception:
     desc: "Perception +5; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Athletics +4, Stealth +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
 abilityMods: [-2, 3, 1, -4, 1, -3]
 ac: 14
 armorclass:
@@ -40,21 +40,21 @@ armorclass:
 hp: 14
 health:
   - name: "HP"
-    desc: "14; __Immunities__ grabbed, precision, prone, restrained, swarm mind; __Resistances__ physical 6 (except bludgeoning); __Weaknesses__ area damage 3, splash damage 3"
+    desc: "14; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], swarm mind; __Resistances__ physical 6 (except bludgeoning); __Weaknesses__ area damage 3, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 3"
 speed: "30 feet, climb 10 feet"
 abilities_bot:
   - name: "Putrid Plague"
-    desc: "(Disease) The sickened and unconscious conditions from putrid plague can't end or be reduced until the disease is cured"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]]) The [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] and [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] conditions from putrid plague can't end or be reduced until the disease is cured"
   - name: "Saving Throw"
     desc: "DC 14 Fortitude"
   - name: "Stage 1"
     desc: "carrier with no ill effect (1d4 hours)"
   - name: "Stage 2"
-    desc: "sickened 1 (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] (1 day)"
   - name: "Stage 3"
-    desc: "sickened 1 and slowed 1 (1 day)"
+    desc: "sickened 1 and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] (1 day)"
   - name: "Stage 4"
-    desc: "unconscious (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] (1 day)"
   - name: "Stage 5"
     desc: "dead"
   - name: "Swarming Bites"

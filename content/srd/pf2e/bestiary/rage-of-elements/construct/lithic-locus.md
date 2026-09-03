@@ -35,10 +35,10 @@ modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; darkvision, tremorsense (imprecise) 60 feet"
-languages: "Petran; plus one ancient language"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]; plus one ancient language"
 skills:
   - name: "Skills"
-    desc: "Athletics +26, Civilization Lore +29, Society +25"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +26, Civilization Lore +29, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +25"
 abilityMods: [6, 0, 6, 7, 6, 2]
 abilities_top:
   - name: "Antiques"
@@ -50,11 +50,11 @@ armorclass:
 hp: 260
 health:
   - name: "HP"
-    desc: "260; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, nonlethal attacks, paralyzed, poison, sickened, unconscious, vitality, void"
+    desc: "260; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]"
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ ancient stone +28 (Earth, Magical) __Damage__ 3d8+16 bludgeoning plus bury"
+    desc: "⬻ ancient stone +28 ([[srd/pf2e/compendium/rules-elements/traits/player-core/earth|Earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 3d8+16 bludgeoning plus bury"
 abilities_bot:
   - name: "Bury"
     desc: "Any creature hit by the locus's ancient stone Strike is partially buried in a tide of earth and rock, becoming immobilized (Escape DC 34)."
@@ -70,7 +70,7 @@ abilities_bot:
     desc: "_ The locus recreates the wall of a building from their civilization, complete with decorations. Ancient Finds Lithic loci often contain important and valuable items. None of these elemental constructs are likely to agree to be looted, but some loci bestow their antiquities upon worthy successors, proud to see their culture's creations put to effective use in the modern day. Lithic loci can also direct earnest seekers to other lost treasures, helping to restore knowledge of an extinct society."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 34 - __Cantrips (7th)__ Daze - __3rd__ One with Stone"
+    desc: "DC 34 - __Cantrips (7th)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/one-with-stone|One with Stone]]"
 sourcebook: "_Rage of Elements_, page 107."
 ```
 

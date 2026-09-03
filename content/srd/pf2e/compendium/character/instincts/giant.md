@@ -14,9 +14,9 @@ Your rage gives you the raw power and size of a giant. This doesn’t necessaril
 
 ### Instinct Ability—Titan Mauler
 
-You can use a weapon built for a Large creature if you are Small or Medium (both normally and when raging). If you’re not Small or Medium, you can use a weapon built for a creature one size larger than you. You start with one such weapon, which you receive for free. It must be a common melee or ranged weapon, it must have a Price of 9 gp or less (not including the Price adjustment for being a larger weapon), and it must be common or you must otherwise have access to it. It is your personal weapon and has no value if sold unless you later add runes to it, and it has the normal Bulk for a weapon of its size.
+You can use a weapon built for a Large creature if you are Small or Medium (both normally and when raging). If you’re not Small or Medium, you can use a weapon built for a creature one size larger than you. You start with one such weapon, which you receive for free. It must be a common melee or ranged weapon, it must have a Price of 9 gp or less (not including the Price adjustment for being a larger weapon), and it must be common or you must otherwise have access to it. It is your personal weapon and has no value if sold unless you later add runes to it, and it has the normal Bulk for a weapon of its [[srd/pf2e/books/player-core/chapter-6-equipment/items-and-sizes|size]].
 
-When wielding a larger weapon in combat, increase your additional damage from Rage from 2 to 6, but you have the clumsy 1 condition because of the weapon’s unwieldy size. You can’t remove this clumsy condition or ignore its penalties by any means while wielding the weapon.
+When wielding a larger weapon in combat, increase your additional damage from Rage from 2 to 6, but you have the [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 condition because of the weapon’s unwieldy size. You can’t remove this clumsy condition or ignore its penalties by any means while wielding the weapon.
 
 ### Specialization Ability
 

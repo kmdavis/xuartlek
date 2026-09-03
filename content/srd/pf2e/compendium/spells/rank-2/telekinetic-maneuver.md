@@ -22,6 +22,6 @@ source: "Player Core"
 - **Range**: 60 feet
 - **Target**: 1 creature
 
-With a rush of telekinetic power, you move a foe or something they carry. You can attempt to Disarm, Reposition, Shove, or Trip the target using a spell attack roll instead of an Athletics check.
+With a rush of telekinetic power, you move a foe or something they carry. You can attempt to Disarm, [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], Shove, or Trip the target using a spell attack roll instead of an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check.
 
 *Source: Player Core p. 363*

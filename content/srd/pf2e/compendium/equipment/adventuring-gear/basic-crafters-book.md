@@ -15,6 +15,6 @@ source: "Player Core"
 - **Hands**: 2
 - **Bulk**: L
 
-This book contains formulas for Crafting the 0-level common items in this chapter.
+This book contains formulas for [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] the 0-level common items in this chapter.
 
 *Source: Player Core p. 287*

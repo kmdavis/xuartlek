@@ -19,8 +19,8 @@ source: "Rage of Elements"
 - **Price**: 250 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-A gray powder that smells like wet rock, _drought powder_ has various uses against water. If you sprinkle it over your body, you and items you carry or wear remain dry for the next 24 hours. Thrown into a body of water, the dust lowers the water in an area 50 feet long by 50 feet wide by 10 feet. You can fling it in the air, coating all creatures in a 10-foot burst centered on a point within 5 feet of you. Creatures who have the water trait in that area are affected as if by a _slow_ spell (DC 28). If you attempt to use the dust in other, similar ways, the GM decides whether the dust can accomplish your aims.
+A gray powder that smells like wet rock, _drought powder_ has various uses against water. If you sprinkle it over your body, you and items you carry or wear remain dry for the next 24 hours. Thrown into a body of water, the dust lowers the water in an area 50 feet long by 50 feet wide by 10 feet. You can fling it in the air, coating all creatures in a 10-foot burst centered on a point within 5 feet of you. Creatures who have the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait in that area are affected as if by a _slow_ spell (DC 28). If you attempt to use the dust in other, similar ways, the GM decides whether the dust can accomplish your aims.
 
 *Source: Rage of Elements p. 98*

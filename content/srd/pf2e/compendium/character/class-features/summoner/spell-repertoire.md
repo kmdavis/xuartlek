@@ -21,6 +21,6 @@ The collection of spells you can cast is called your spell repertoire. At 1st le
 
 #### Swapping Spells In Your Repertoire
 
- As you gain new spells in your repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip, but you can't swap out link spells. You can also swap out spells by retraining during downtime.
+ As you gain new spells in your repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same rank. This spell can be a cantrip, but you can't swap out link spells. You can also swap out spells by [[srd/pf2e/compendium/rules-elements/actions/player-core#Retraining|retraining]] during downtime.
 
 *Source: Impossible Magic p. 63*

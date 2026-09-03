@@ -23,9 +23,9 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") Strike
 
-Elegant silver filigree contains the body of this ephemeral item, which is made of solid light. Its shape resembles a pistol, and it’s often carried by hunters of werecreatures and vampires. You Activate the spellgun by aiming it at one creature and making your choice of a spell attack roll or a firearm attack roll against the target’s AC. This spellgun has a range increment of 30 feet. The spellgun emits a silvery ray of pure moonlight that deals fire damage depending on its type. The spellgun’s damage is treated as silver for the purposes of weaknesses, resistances, and the like.
+Elegant silver filigree contains the body of this ephemeral item, which is made of solid light. Its shape resembles a pistol, and it’s often carried by hunters of [[srd/pf2e/compendium/gm/creature-families/werecreature|werecreatures]] and [[srd/pf2e/compendium/gm/creature-families/vampire|vampires]]. You Activate the spellgun by aiming it at one creature and making your choice of a spell attack roll or a firearm attack roll against the target’s AC. This spellgun has a [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range]] increment of 30 feet. The spellgun emits a silvery ray of pure moonlight that deals fire damage depending on its type. The spellgun’s damage is treated as [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]] for the purposes of [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance|weaknesses, resistances, and the like]].
 
-**Critical Success** The target takes double damage and is dazzled until the start of your next turn. If it has a weakness to silver or a resistance that can be bypassed by silver, it's also enfeebled 1 for 1 minute.
+**Critical Success** The target takes double damage and is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] until the start of your next turn. If it has a weakness to silver or a resistance that can be bypassed by silver, it's also enfeebled 1 for 1 minute.
 
 **Success** The target takes full damage and is dazzled until the start of your next turn.
 

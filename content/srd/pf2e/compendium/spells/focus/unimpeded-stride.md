@@ -17,8 +17,8 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Freedom
+- **Domain**: [[srd/pf2e/compendium/character/domains#Freedom|Freedom]]
 
-Divine grace ensure that nothing can keep you prisoner or hold you back. You immediately escape from every magical effect that has you immobilized or grabbed unless the effect is of a higher rank than your _unimpeded stride_ spell. You then Stride. During this movement, you ignore difficult terrain and any circumstance or status penalties to your Speed.
+Divine grace ensure that nothing can keep you prisoner or hold you back. You immediately escape from every magical effect that has you [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] or [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] unless the effect is of a higher rank than your _unimpeded stride_ spell. You then Stride. During this movement, you ignore difficult terrain and any circumstance or status penalties to your Speed.
 
 *Source: Player Core p. 375*

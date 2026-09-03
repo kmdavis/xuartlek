@@ -16,9 +16,9 @@ Below are some key terms in many rogue class features.
 
 **Debilitation:** Debilitations apply conditions and other negative effects to a creature. When the creature is affected by a new debilitation, any previous one it was affected by ends.
 
-**Flourish:** Actions with this trait are special techniques that require too much exertion for you to perform frequently. You can use only 1 action with the flourish trait per turn.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/flourish|Flourish]]:** Actions with this trait are special techniques that require too much exertion for you to perform frequently. You can use only 1 action with the flourish trait per turn.
 
-**Stance:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/stance|Stance]]:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
 
 ### Roleplaying the Rogue
 
@@ -51,7 +51,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in Stealth
+Trained in [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]]
  Trained in one or more skills determined by your rogue's racket
  Trained in a number of additional skills equal to 7 plus your Intelligence modifier
 
@@ -106,13 +106,13 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 #### Sneak Attack
 
-When your enemy can't properly defend itself, you take advantage to deal extra damage. If you Strike a creature that has the off-guard condition with an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon attack, or a ranged unarmed attack, you deal an extra 1d6 precision damage. For a ranged attack with a thrown melee weapon, that weapon must also be agile or finesse.
+When your enemy can't properly defend itself, you take advantage to deal extra damage. If you Strike a creature that has the [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] condition with an [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] melee weapon, an agile or finesse unarmed attack, a ranged weapon attack, or a ranged [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack, you deal an extra 1d6 precision damage. For a ranged attack with a [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] melee weapon, that weapon must also be agile or finesse.
 
  As your rogue level increases, so does the number of damage dice for your sneak attack. Increase the number of dice by one at 5th, 11th, and 17th levels.
 
 #### Surprise Attack
 
-You spring into combat faster than foes can react. On the first round of combat, if you roll Deception or Stealth for initiative, creatures that haven't acted are off-guard to you.
+You spring into combat faster than foes can react. On the first round of combat, if you roll [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] for initiative, creatures that haven't acted are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to you.
 
 | | |
 | --- | --- |
@@ -127,7 +127,7 @@ You gain more skill increases than members of other classes. At 2nd level and ev
 
 #### Deny Advantage
 
-As someone who takes advantage of openings, you are careful not to leave such gaps yourself. You aren't off-guard to hidden, undetected, or flanking creatures of your level or lower, or creatures of your level or lower using surprise attack. However, they can still help their allies flank.
+As someone who takes advantage of openings, you are careful not to leave such gaps yourself. You aren't [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]], or flanking creatures of your level or lower, or creatures of your level or lower using surprise attack. However, they can still help their allies flank.
 
 | | |
 | --- | --- |
@@ -139,7 +139,7 @@ In addition to the ancestry feat you started with, you gain an ancestry feat at 
 
 #### Weapon Tricks
 
-You gain expert proficiency in simple weapons, martial weapons, and unarmed attacks. When you critically succeed at an attack roll against an off-guard creature while using an agile or finesse weapon or an agile or finesse unarmed attack, you apply the critical specialization effect for that weapon or unarmed attack.
+You gain expert proficiency in simple weapons, martial weapons, and unarmed attacks. When you critically succeed at an attack roll against an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature while using an [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] weapon or an agile or finesse unarmed attack, you apply the critical specialization effect for that weapon or unarmed attack.
 
 #### Evasive Reflexes
 
@@ -177,7 +177,7 @@ You elude danger to a degree that few can match. Your proficiency rank for Refle
 
 #### Double Debilitation
 
-Your opportunistic attacks are particularly detrimental. When you use Debilitating Strike you can apply two debilitations simultaneously; removing one removes both.
+Your opportunistic attacks are particularly detrimental. When you use [[srd/pf2e/compendium/rules-elements/actions/player-core#Debilitating Strike|Debilitating Strike]] you can apply two debilitations simultaneously; removing one removes both.
 
 #### Greater Weapon Specialization
 

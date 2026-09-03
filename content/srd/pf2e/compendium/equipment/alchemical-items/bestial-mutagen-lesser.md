@@ -20,13 +20,13 @@ source: "Player Core 2"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Your features transform into something bestial and lumbering. 
 
-**Benefit** You gain an item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack with the agile trait and a jaws unarmed attack. Striking runes don't modify the damage caused by these attacks. 
+**Benefit** You gain an item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks and unarmed attack rolls. You gain a claw unarmed attack with the agile trait and a jaws unarmed attack. Striking runes don't modify the damage caused by these attacks. 
 
-**Drawback** You take a –2 penalty to Reflex saves, Acrobatics checks, and Stealth checks.
+**Drawback** You take a –2 penalty to Reflex saves, [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] checks, and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks.
 
 ### Bestial Mutagen (Lesser)
 

@@ -16,7 +16,7 @@ Often overlooked as little more than water-dwelling pests, trilobites are a vari
 
 ### Members
 
-Trilobite (Creature -1), Trilobite Swarm (Creature 3)
+[[srd/pf2e/bestiary/monster-core-2/animal/trilobite|Trilobite]] (Creature -1), [[srd/pf2e/bestiary/monster-core-2/animal/trilobite-swarm|Trilobite Swarm]] (Creature 3)
 
 ### Tremendous Variety
 

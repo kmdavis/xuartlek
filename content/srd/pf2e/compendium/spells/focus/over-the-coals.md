@@ -34,7 +34,7 @@ You accuse the target of breaking its word to you and invoke the wrath of your p
 
 **Failure** As success, but if the target doesn’t comply, it is drained 1 and takes 6d8 persistent void damage.
 
-**Critical Failure** As success, but if the target doesn't comply, it is drained 2 and doomed 1, and takes 6d8 persistent void damage. Even if the target completes your commands later, the spell doesn't end until all the conditions end.
+**Critical Failure** As success, but if the target doesn't comply, it is [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 2 and [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1, and takes 6d8 persistent void damage. Even if the target completes your commands later, the spell doesn't end until all the conditions end.
 
 ---
 **Heightened (9th)** You can target up to two creatures.

@@ -31,7 +31,7 @@ perception:
     desc: "Perception +7; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9"
 abilityMods: [2, 4, 3, -4, 0, 0]
 ac: 15
 armorclass:
@@ -40,11 +40,11 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ electricity 3"
+    desc: "20; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 3"
 speed: "5 feet, fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ wing +9 (Finesse) __Damage__ 1d4+2 slashing plus 1 persistent bleed and a thousand cuts"
+    desc: "⬻ wing +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4+2 slashing plus 1 persistent bleed and a thousand cuts"
 abilities_bot:
   - name: "A Thousand Cuts"
     desc: "A ferrous butterfly's knifelike wings cause terrible lacerations that continue to bleed. Any creature with persistent bleed damage from a ferrous butterfly's wing attack has weakness 2 to slashing damage until the bleeding is stopped."

@@ -33,7 +33,7 @@ perception:
     desc: "Perception +9; darkvision, wavesense (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +8, Stealth +9, Survival +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
 abilityMods: [1, 4, 3, -5, 2, 0]
 ac: 18
 armorclass:
@@ -42,11 +42,11 @@ armorclass:
 hp: 30
 health:
   - name: "HP"
-    desc: "30; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 3, piercing 3, slashing 5; __Weaknesses__ area damage 5, splash damage 5"
+    desc: "30; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 3, piercing 3, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 speed: "swim 25 feet"
 abilities_bot:
   - name: "Clinging Bites"
-    desc: "⬻ The trilobites in the swarm latch onto creatures and gnaw at them. Each enemy in the swarm's space takes 2d6 slashing damage (DC 18 basic Reflex save)."
+    desc: "⬻ The trilobites in the swarm latch onto creatures and gnaw at them. Each enemy in the swarm's space takes 2d6 slashing damage (DC 18 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save)."
 sourcebook: "_Monster Core 2_, page 326."
 ```
 

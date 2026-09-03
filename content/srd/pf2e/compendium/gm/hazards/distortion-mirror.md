@@ -22,7 +22,7 @@ source: "Dark Archives (Remastered)"
 DC 38; 0 to notice the mirror
 
 **Disable**
-DC 38 Thievery (master) to deface the mirror's pane, or _dispel magic_ (7th level; counteract DC 36) to dispel the mirror or counteract the transformation
+DC 38 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (master) to deface the mirror's pane, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (7th level; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] DC 36) to dispel the mirror or counteract the transformation
 
 **AC** 33, **Fort** +28, **Ref** +22
 
@@ -35,10 +35,10 @@ DC 38 Thievery (master) to deface the mirror's pane, or _dispel magic_ (7th leve
 **Immunities**
 object immunities
 
-**Painful Transformation** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (attack) **Trigger** A creature is reflected in the mirror; **Effect** The triggering creature's body is painfully squished, stretched, and distorted to match their reflection. The creature takes 6d10+30 force damage and must attempt a DC 39 Fortitude save.
+**Painful Transformation** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]]) **Trigger** A creature is reflected in the mirror; **Effect** The triggering creature's body is painfully squished, stretched, and distorted to match their reflection. The creature takes 6d10+30 force damage and must attempt a DC 39 Fortitude save.
 
  **Critical Success** The target is unaffected.
- **Success** The target takes half damage and is clumsy 1 and enfeebled 1 for 1 round.
+ **Success** The target takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 for 1 round.
  **Failure** The target takes full damage and is clumsy 2 and enfeebled 2 for 4 rounds.
  **Critical Failure** The target takes double damage and is clumsy 2 and enfeebled 2 for 1 minute. As long as the creature is clumsy or enfeebled, it additionally takes a –10-foot status penalty to its Speeds. When the effects of this trap end, the triggering creature's transformationends, and its body reverts to its natural form.
 

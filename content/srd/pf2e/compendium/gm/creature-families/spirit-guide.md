@@ -10,11 +10,11 @@ source: "Howl of the Wild"
 
 # Spirit Guide  *Creature Family*
 
-Many of Sarkoris's fiercest defenders among the land's spirit guides died in the early throes of conflict against the demons spilling forth from the Worldwound. The mighty sunscale serpents from the family of guardian guides used to shed their light across the land, but their wings were among the first lights blackened by the hordes of the demon lord of locusts. The swift guides were first to the fray, and first to fall. With the Worldwound closed and the demons in retreat, some of these guides have returned once more, helping secure the borders of the Sarkoris Scar against demonic resurgence.
+Many of Sarkoris's fiercest defenders among the land's spirit guides died in the early throes of conflict against the [[srd/pf2e/compendium/gm/creature-families/demon|demons]] spilling forth from the Worldwound. The mighty sunscale serpents from the family of guardian guides used to shed their light across the land, but their wings were among the first lights blackened by the hordes of the demon lord of locusts. The swift guides were first to the fray, and first to fall. With the Worldwound closed and the demons in retreat, some of these guides have returned once more, helping secure the borders of the Sarkoris Scar against demonic resurgence.
 
 ### Members
 
-Cunning Fox (Creature 1), Feathered Bear (Creature 10), Green Monkey (Creature 3), Mirror Wolf (Creature 7), Stone-Breasted Owl (Creature 5), Sunscale Serpent (Creature 14)
+[[srd/pf2e/bestiary/monster-core-2/beast/cunning-fox|Cunning Fox]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/beast/feathered-bear|Feathered Bear]] (Creature 10), Green Monkey (Creature 3), [[srd/pf2e/bestiary/howl-of-the-wild/beast/mirror-wolf|Mirror Wolf]] (Creature 7), Stone-Breasted Owl (Creature 5), [[srd/pf2e/bestiary/howl-of-the-wild/animal/sunscale-serpent|Sunscale Serpent]] (Creature 14)
 
 ### Permanent Bonds
 

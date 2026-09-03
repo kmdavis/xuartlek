@@ -20,6 +20,6 @@ source: "Impossible Magic"
 - **Usage**: held in 1 hand
 - **Activate**: Cast a Spell (add 1 action)
 
-Swirling winds shift and whirl within the confines of this small glass marble. When used as a catalyst to cast a __fireball__ spell, a creature that fails its saving throw is also knocked back 5 feet from the center of the spell (10 feet on a critical failure).
+Swirling winds shift and whirl within the confines of this small glass marble. When used as a catalyst to cast a _[[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]]_ spell, a creature that fails its saving throw is also knocked back 5 feet from the center of the spell (10 feet on a critical failure).
 
 *Source: Impossible Magic p. 214*

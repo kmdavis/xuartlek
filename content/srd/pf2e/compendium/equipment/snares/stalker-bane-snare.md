@@ -24,10 +24,10 @@ This snare explodes in a burst of cloying powder that can cling to a creature st
 
 **Critical Success** The creature is unaffected.
 
-**Success** Powder sticks to the target, causing it to leave behind telltale footprints. Being invisible makes the target hidden, rather than undetected, to creatures that could see it if it weren't invisible.
+**Success** Powder sticks to the target, causing it to leave behind telltale footprints. Being [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] makes the target [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], rather than [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]], to creatures that could see it if it weren't invisible.
 
 **Failure** Powder clumps on the target, constantly flaking away. Being invisible makes the target concealed, rather than hidden or undetected, to creatures that could see it if it weren't invisible.
 
-**Critical Failure** As failure, and the creature is blinded until the end of its next turn.
+**Critical Failure** As failure, and the creature is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until the end of its next turn.
 
 *Source: Player Core 2 p. 300*

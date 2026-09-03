@@ -29,7 +29,7 @@ This small figurine is carved from soapstone in the shape of a deity or guardian
 
 ---
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _spiritual armament_.
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-2/spiritual-armament|_spiritual armament_]].
 
 ### Warding Statuette (Greater)
 
@@ -41,6 +41,6 @@ The resistance is 5 when affixed to armor, and the spell attack roll is +20.
 
 **Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast 5th-rank _spiritual armament_.
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _spiritual guardian_.
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-5/spiritual-guardian|_spiritual guardian_]].
 
 *Source: Treasure Vault (Remastered) p. 129*

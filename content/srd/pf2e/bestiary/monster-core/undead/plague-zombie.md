@@ -35,11 +35,11 @@ perception:
     desc: "Perception +3; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9"
 abilityMods: [4, -2, 3, -5, 0, -2]
 abilities_top:
   - name: "Slow"
-    desc: "A zombie is permanently slowed 1 and can't use reactions."
+    desc: "A zombie is permanently [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] and can't use reactions."
 ac: 13
 armorclass:
   - name: "AC"
@@ -47,7 +47,7 @@ armorclass:
 hp: 50
 health:
   - name: "HP"
-    desc: "50 (void healing); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Weaknesses__ slashing 10, vitality 10"
+    desc: "50 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Weaknesses__ slashing 10, vitality 10"
 speed: "25 feet"
 attacks:
   - name: "Melee"
@@ -56,11 +56,11 @@ abilities_bot:
   - name: "Zombie Bite"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The zombie has a creature grabbed or restrained"
+    desc: "The zombie has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]"
   - name: "Effect"
-    desc: "The zombie makes a jaws unarmed melee Strike against that creature with an attack modifier of +9 that deals 1d12+4 piercing damage and exposes the creature to zombie rot."
+    desc: "The zombie makes a jaws [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] melee Strike against that creature with an attack modifier of +9 that deals 1d12+4 piercing damage and exposes the creature to zombie rot."
   - name: "Zombie Rot"
-    desc: "(Disease, Divine, Void) An infected creature can't heal damage it takes from zombie rot until it has been cured of the disease"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) An infected creature can't heal damage it takes from zombie rot until it has been cured of the disease"
   - name: "Saving Throw"
     desc: "DC 18 Fortitude"
   - name: "Stage 1"

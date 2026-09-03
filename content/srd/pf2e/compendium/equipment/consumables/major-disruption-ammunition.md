@@ -16,9 +16,9 @@ source: "Impossible Magic"
 `Consumable`  `Magical`
 
 - **Ammunition**: any
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-_Disruption ammunition_ consists of alchemically treated metal, the surface of which roils like the thrashings of a writhing parasite trapped within. When activated _disruption ammunition_ hits a target, it attempts to counteract one active spell effect that the target is Sustaining with a +11 counteract check modifier (counteract rank 3).
+_Disruption ammunition_ consists of alchemically treated metal, the surface of which roils like the thrashings of a writhing parasite trapped within. When activated _disruption ammunition_ hits a target, it attempts to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] one active spell effect that the target is [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustaining]] with a +11 counteract check modifier (counteract rank 3).
 
 ### Disruption Ammunition
 

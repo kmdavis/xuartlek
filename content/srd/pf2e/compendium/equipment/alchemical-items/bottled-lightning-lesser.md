@@ -22,7 +22,7 @@ source: "Player Core 2"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Strike
 
-Bottled lightning is packed with volatile reagents that create a blast of electricity when they're exposed to air. Bottled lightning deals the listed electricity damage and electricity splash damage. On a hit, the target becomes off-guard until the start of your next turn. Many types grant an item bonus to attack rolls.
+Bottled lightning is packed with volatile reagents that create a blast of electricity when they're exposed to air. Bottled lightning deals the listed electricity damage and electricity splash damage. On a hit, the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of your next turn. Many types grant an item bonus to attack rolls.
 
 ### Bottled Lightning (Lesser)
 

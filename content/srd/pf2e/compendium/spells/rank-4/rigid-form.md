@@ -19,7 +19,7 @@ source: "Rage of Elements"
 - **Traditions**: Arcane, Primal
 - **Duration**: 1 minute
 
-You utilize wood's rigidity to prevent harmful shapechanging effects. For the duration of this spell, whenever you're targeted by a harmful polymorph effect, you can use your reaction to attempt to counteract the effect.
+You utilize wood's rigidity to prevent harmful shapechanging effects. For the duration of this spell, whenever you're targeted by a harmful [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]] effect, you can use your reaction to attempt to counteract the effect.
 
 ---
 **Heightened (6th)** The duration increases to 10 minutes.

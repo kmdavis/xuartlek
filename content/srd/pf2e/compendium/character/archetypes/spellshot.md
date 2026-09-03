@@ -22,7 +22,7 @@ You've learned the intricacies of magic and technology, blending the two togethe
 
  **Spellshot Adjustments**: Instead of choosing a way from the options listed in the gunslinger class, you have the way of the spellshot. It has the following way skill, slinger's reload, and deeds. You gain these abilities at the same levels as normal for the class. You use Intelligence for your class DC.
 
- **Way Skill** Arcana
+ **Way Skill** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
 
  **Slinger's Reload** Thoughtful Reload
 

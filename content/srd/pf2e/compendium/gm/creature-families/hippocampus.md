@@ -18,6 +18,6 @@ The strange beasts known as hippocampi resemble terrestrial horses from head to 
 
 ### Members
 
-Giant Hippocampus (Creature 8), Hippocampus (Creature 1)
+[[srd/pf2e/bestiary/monster-core/animal/giant-hippocampus|Giant Hippocampus]] (Creature 8), [[srd/pf2e/bestiary/monster-core/animal/hippocampus|Hippocampus]] (Creature 1)
 
 *Source: Monster Core p. 196*

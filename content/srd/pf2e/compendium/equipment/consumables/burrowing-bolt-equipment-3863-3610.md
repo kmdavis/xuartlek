@@ -16,9 +16,9 @@ source: "Battlecry!"
 `Consumable`  `Magical`
 
 - **Ammunition**: arrow, bolt
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-These arrows have tips grooved like a drill bit and angled fletching, causing them to spin quickly about their shaft when fired. When striking a structure or object of Hardness 14 or less within your first range increment, an activated _burrowing bolt_ tunnels into the surface silently and leaves a hole behind it, burrowing through up to 5 feet of material before magically vanishing.
+These arrows have tips grooved like a drill bit and angled fletching, causing them to spin quickly about their shaft when fired. When striking a structure or object of [[srd/pf2e/books/player-core/chapter-6-equipment/shields#Hardness|Hardness]] 14 or less within your first range increment, an activated _burrowing bolt_ tunnels into the surface silently and leaves a hole behind it, burrowing through up to 5 feet of material before magically vanishing.
 
 ### Burrowing Bolt
 

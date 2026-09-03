@@ -17,6 +17,6 @@ source: "Impossible Magic"
 
 `Concentrate`  `Focus`  `Magus`  `Uncommon`
 
-As you attack a foe, warding magic transforms your momentum into action and lifts your shield. You can either Raise your Shield if you’re wielding one or cast _shield_ if you have the spell. Then, make a melee Strike.
+As you attack a foe, warding magic transforms your momentum into action and lifts your shield. You can either [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise your Shield]] if you’re wielding one or cast _shield_ if you have the spell. Then, make a melee Strike.
 
 *Source: Impossible Magic p. 179*

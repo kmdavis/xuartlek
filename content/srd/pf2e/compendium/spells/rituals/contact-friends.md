@@ -17,7 +17,7 @@ source: "Dark Archives (Remastered)"
 - **Cast**: 1 hour
 - **Cost**: incense worth 50 gp
 - **Secondary Casters**: 1 (or more)
-- **Primary Check**: Arcana or Occultism (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
 - **Secondary Checks**: Survival
 - **Duration**: up to 10 minutes
 
@@ -29,6 +29,6 @@ You meditate for a quiet moment before your mind seeks out others whom you have 
 
 **Failure** Your mind reaches three friends you've made in the past, but each of them gives you a useless fact. None of these facts help with your situation at all.
 
-**Critical Failure** Your mind freezes. You saw something that terrified you to your core, leaving you and all other casters stupefied 3 for 1 day.
+**Critical Failure** Your mind freezes. You saw something that terrified you to your core, leaving you and all other casters [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 3]] for 1 day.
 
 *Source: Dark Archives (Remastered) p. 145*

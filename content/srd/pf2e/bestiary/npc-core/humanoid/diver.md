@@ -29,14 +29,14 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9"
-languages: "Common, Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Athletics +10, Nature +9, Ocean Lore +11, Thievery +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +9, [[srd/pf2e/compendium/rules-elements/skills/lore|Ocean Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +9"
 abilityMods: [3, 3, 2, 0, 2, 0]
 abilities_top:
   - name: "Underwater Fighter"
-    desc: "The diver isn't off-guard underwater and doesn't take penalties for using a bludgeoning or slashing melee weapon in water."
+    desc: "The diver isn't [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] underwater and doesn't take penalties for using a bludgeoning or slashing melee weapon in water."
   - name: "Items"
     desc: "Trident"
 ac: 17
@@ -59,9 +59,9 @@ attacks:
   - name: "Melee"
     desc: "⬻ trident +12 __Damage__ 1d8+5 piercing"
   - name: "Melee"
-    desc: "⬻ fist +12 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+5 bludgeoning"
+    desc: "⬻ fist +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+5 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ trident +12 (thrown 20 feet) __Damage__ 1d8+5 piercing"
+    desc: "⬻ trident +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d8+5 piercing"
 abilities_bot:
   - name: "Dive"
     desc: "⬻ The diver moves up to twice their swim Speed downward."

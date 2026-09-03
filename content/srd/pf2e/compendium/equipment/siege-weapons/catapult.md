@@ -48,7 +48,7 @@ source: "Guns & Gears (Remastered)"
 
 A sturdy wooden frame holds the spring-loaded beam that gives this weapon its power. At the end of the beam, a bowl-shaped wooden recession holds the payload, typically heavy stones. The arm is winched back to create torsion, until the release is pulled to abruptly swing the arm forward and fling the payload.
  **Aim**[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") 50 feet, minimum distance 50 feet
- **Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 2 times, requires a successful DC 20 Athletics check
- **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate, range increment 150 feet) 5d10 bludgeoning, 10-foot burst, DC 22 Reflex
+ **Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times, requires a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check
+ **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], range increment 150 feet) 5d10 bludgeoning, 10-foot burst, DC 22 Reflex
 
 *Source: Guns & Gears (Remastered) p. 75*

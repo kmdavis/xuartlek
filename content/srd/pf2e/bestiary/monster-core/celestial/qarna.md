@@ -31,10 +31,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; darkvision"
-languages: "Diabolic, Draconic, Empyrean, Utopian; _truespeech_"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Utopian; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +12, Intimidation +11, Nature +11, Religion +9, Stealth +10, Survival +11, Athletics +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +11, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +11, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11"
 abilityMods: [3, 4, 3, 1, 3, 1]
 abilities_top:
   - name: "Items"
@@ -42,11 +42,11 @@ abilities_top:
 ac: 22
 armorclass:
   - name: "AC"
-    desc: "22; __Fort__: +11; __Ref__: +10; __Will__: +11 +1 status to all saves vs. magic"
+    desc: "22; __Fort__: +11; __Ref__: +10; __Will__: +11 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magic]]"
 hp: 65
 health:
   - name: "HP"
-    desc: "65; __Immunities__ fear; __Weaknesses__ unholy 5"
+    desc: "65; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] 5"
 abilities_mid:
   - name: "Archon's Protection"
     desc: "⬲"
@@ -57,25 +57,25 @@ abilities_mid:
 speed: "35 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ horn +13 (Holy, Magical) __Damage__ 1d8+9 piercing plus Push"
+    desc: "⬻ horn +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d8+9 piercing plus Push"
   - name: "Ranged"
-    desc: "⬻ composite longbow +14 (Holy, deadly d10, Magical, Propulsive, range increment 100 feet, volley 30 feet) __Damage__ 1d8+7 piercing"
+    desc: "⬻ composite longbow +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|Propulsive]], range increment 100 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/volley|volley 30 feet]]) __Damage__ 1d8+7 piercing"
 abilities_bot:
   - name: "Archon's Pursuit"
     desc: "⬺"
   - name: "Frequency"
     desc: "once per day"
   - name: "Requirements"
-    desc: "The qarna saw another creature teleport within the last round and has at least one _translocate_ spell remaining"
+    desc: "The qarna saw another creature teleport within the last round and has at least one [[srd/pf2e/compendium/spells/rank-4/translocate|_translocate_]] spell remaining"
   - name: "Effect"
     desc: "The qarna casts one of their _translocate_ spells, which is heightened to 5th rank and causes the qarna to arrive in an unoccupied space it chooses within 30 feet of the creature it's pursuing. If the creature is too far away, the qarna arrives as close as possible."
   - name: "Distracting Arrow"
-    desc: "⬺ (Divine, Mental) The qarna makes a composite longbow Strike. If it hits, the arrow lodges in the target and that creature's senses focus on the archon, leaving all else blurry. That creature takes a –2 status penalty to attack rolls and Perception checks against any target other than the qarna. The creature can Interact to remove the arrow, which ends the effect."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The qarna makes a composite longbow Strike. If it hits, the arrow lodges in the target and that creature's senses focus on the archon, leaving all else blurry. That creature takes a –2 status penalty to attack rolls and Perception checks against any target other than the qarna. The creature can Interact to remove the arrow, which ends the effect."
   - name: "Touch of Charity"
-    desc: "⬻ (Divine, Healing, Manipulate, Vitality) The qarna touches a willing living creature to take on that creature's wounds. The qarna transfers up to 30 of their own HP to the touched creature. (The qarna can't transfer more HP than they currently have.)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|Healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|Vitality]]) The qarna touches a willing living creature to take on that creature's wounds. The qarna transfers up to 30 of their own HP to the touched creature. (The qarna can't transfer more HP than they currently have.)"
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 21 - __Cantrips (2nd)__ Light - __1st__ Charm (animals only; ×3), Sure Strike (×3) - __2nd__ Animal Messenger (×3) - __4th__ Translocate (×3) - __Constant (5th)__ Truespeech"
+    desc: "DC 21 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]] (animals only; ×3), [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] (×3) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/animal-messenger|Animal Messenger]] (×3) - __4th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (×3) - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
 sourcebook: "_Monster Core_, page 27."
 ```
 

@@ -21,9 +21,9 @@ source: "Treasure Vault (Remastered)"
 
 This pale wooden wand is carved to resemble a thigh bone with metal caps at each end. Ghostly tendrils seem to swirl around it every so often.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _false vitality_ of the indicated rank. During the duration of the spell, wisps that resemble spirits flit around you as long as you have any temporary Hit Points from _false vitality_, and you can use the following action.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-2/false-vitality|_false vitality_]] of the indicated rank. During the duration of the spell, wisps that resemble spirits flit around you as long as you have any temporary Hit Points from _false vitality_, and you can use the following action.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Trigger** You successfully impart the frightened 1 condition on a creature; **Requirements** You have at least 1 temporary Hit Point from _false vitality_; **Effect** You end _false vitality_ and increase the creature's frightened condition value to 2.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You successfully impart the frightened 1 condition on a creature; **Requirements** You have at least 1 temporary Hit Point from _false vitality_; **Effect** You end _false vitality_ and increase the creature's frightened condition value to 2.
 
 **Craft Requirements** Supply a casting of _false vitality_ of the appropriate rank.
 

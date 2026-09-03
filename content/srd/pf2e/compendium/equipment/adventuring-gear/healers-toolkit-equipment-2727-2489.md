@@ -15,9 +15,9 @@ source: "Player Core"
 - **Hands**: -1
 - **Bulk**: 1
 
-This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds. If you wear your healer's toolkit, you can draw and replace them as part of the action that uses them.
+This kit of bandages, herbs, and suturing tools is necessary for [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds. If you wear your healer's toolkit, you can draw and replace them as part of the action that uses them.
 
-You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. See here for details. 
+You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Wearing Toolkits|See here for details]]. 
 
 ### Healer's Toolkit
 

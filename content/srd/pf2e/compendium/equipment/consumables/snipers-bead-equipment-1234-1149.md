@@ -17,7 +17,7 @@ source: "Guns & Gears (Remastered)"
 `Consumable`  `Magical`  `Talisman`
 
 - **Usage**: affixed to a two-handed firearm or crossbow
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") concentrate
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]
 - **Trigger**: You attempt a ranged Strike with the affixed weapon before rolling
 - **Requirement**: You're a master with the affixed weapon.
 

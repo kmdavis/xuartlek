@@ -21,44 +21,44 @@ You summon the fury of a mighty dragon and manifest incredible abilities. Perhap
  Dragon Breath
 
 
- Adamantine
- Primal
+ [[srd/pf2e/compendium/gm/creature-families/dragon-adamantine|Adamantine]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]
  Bludgeoning
 
 
- Conspirator
- Occult
- Poison
+ [[srd/pf2e/compendium/gm/creature-families/dragon-conspirator|Conspirator]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]
 
 
- Diabolic
- Divine
- Fire
+ [[srd/pf2e/compendium/gm/creature-families/dragon-diabolic|Diabolic]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]]
 
 
- Empyreal
- Divine
- Spirit
+ [[srd/pf2e/compendium/gm/creature-families/dragon-empyreal|Empyreal]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]]
 
 
- Fortune
- Arcane
- Force
+ [[srd/pf2e/compendium/gm/creature-families/dragon-fortune|Fortune]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/force|Force]]
 
 
- Horned
- Primal
- Poison
+ [[srd/pf2e/compendium/gm/creature-families/dragon-horned|Horned]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]
 
 
- Mirage
- Arcane
- Mental
+ [[srd/pf2e/compendium/gm/creature-families/dragon-mirage|Mirage]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]
 
 
- Omen
- Occult
- Mental
+ [[srd/pf2e/compendium/gm/creature-families/dragon-omen|Omen]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]
+ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]
 
 
 

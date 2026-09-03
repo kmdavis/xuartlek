@@ -19,7 +19,7 @@ source: "Player Core"
 
 - **Cast**: 1 day
 - **Secondary Casters**: 1
-- **Primary Check**: Nature (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert)
 - **Secondary Checks**: Survival
 - **Area**: 1/2-mile-radius circle centered on you
 - **Duration**: 1 year

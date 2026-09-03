@@ -41,14 +41,14 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +11 __Damage__ 1d10+6 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ claw +11 (Agile) __Damage__ 1d8+6 slashing"
+    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d8+6 slashing"
 abilities_bot:
   - name: "Pack Attack"
     desc: "The lion deals 1d4 extra damage to any creature that's within reach of at least two of the lion's allies."
   - name: "Pounce"
-    desc: "⬻ The lion Strides and makes a Strike at the end of that movement. If the lion began this action hidden, it remains hidden until after the ability's Strike."
+    desc: "⬻ The lion Strides and makes a Strike at the end of that movement. If the lion began this action [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], it remains hidden until after the ability's Strike."
   - name: "Sneak Attack"
-    desc: "The lion deals 1d6 extra precision damage to off-guard creatures."
+    desc: "The lion deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_Monster Core_, page 50."
 ```
 

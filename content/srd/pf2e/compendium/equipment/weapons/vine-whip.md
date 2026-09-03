@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 This _+1 striking whip_ is crafted from the vine of a dangerous plant creature. It deals bludgeoning or slashing damage, according to the vine attack of the creature it was harvested from. For example, collecting a vine from an assassin vine would result in a _vine whip_ that deals bludgeoning damage, while one from a mandragora or viper vine would deal piercing damage.
 
-**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (concentrate, manipulate) **Requirements** You have soil or sand within your reach; **Effect** You Release the weapon and plant it in the ground, where it takes root and fights on its own against the last enemy you attacked or the nearest enemy to it if your target has been defeated.
+**Activate** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** You have soil or sand within your reach; **Effect** You Release the weapon and plant it in the ground, where it takes root and fights on its own against the last enemy you attacked or the nearest enemy to it if your target has been defeated.
 
  The weapon has a space of 5 feet, acts on your initiative, and gains two actions. It doesn't block or impede enemies attempting to move though that space, nor does it benefit from or provide flanking. The weapon can't use reactions, and it acts on your turn.
 

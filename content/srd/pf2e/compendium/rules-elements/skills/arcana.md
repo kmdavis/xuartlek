@@ -14,7 +14,7 @@ Arcana measures how much you know about arcane magic and creatures.
 
 ### Arcana Untrained General Actions
 
-- Recall Knowledge about arcane theories; magic traditions; creatures of arcane significance (like constructs, beasts, and elementals); and the Astral Plane, Elemental Planes, and the Netherworld.
+- Recall Knowledge about arcane theories; magic traditions; creatures of arcane significance (like [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|constructs]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beasts]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elementals]]); and the [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]], Elemental Planes, and [[srd/pf2e/compendium/gm/planes#The Netherworld|the Netherworld]].
 
 ### Arcana Trained General Actions
 
@@ -33,7 +33,7 @@ Category
 Consumable
 Note
 
-Mage's Hat
+[[srd/pf2e/compendium/equipment/worn-items/mages-hat-greater|Mage's Hat]]
 +1
 3
 Worn Items
@@ -54,27 +54,27 @@ Other
 No
 Item Bonus
 
-Cognitive Mutagen (Lesser)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
 Yes
 
-Mage's Hat (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/mages-hat-greater|Mage's Hat (Greater)]]
 +2
 9
 Worn Items
 No
 Arcana checks
 
-Fulu Compendium
+[[srd/pf2e/compendium/equipment/held-items/fulu-compendium|Fulu Compendium]]
 +2
 9
 Held Items
 No
 Item bonus to determine a fulu's function or authenticity.
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -101,7 +101,7 @@ Runic Skullcap
 Other Worn Items
 No
 
-Cognitive Mutagen (Moderate)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
@@ -114,20 +114,20 @@ Other
 No
 Item Bonus
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Cognitive Mutagen (Greater)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
 Yes
 
-Cognitive Mutagen (Major)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

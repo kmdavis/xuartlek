@@ -13,6 +13,6 @@ source: "Guns & Gears (Remastered)"
 
 - **Class**: Inventor
 
-Your peerless inventing and Crafting ability has supercharged your Overdrives. You become legendary in Crafting, and on a successful Overdrive, you increase the additional damage by a total of 3, replacing the increase from master overdrive.
+Your peerless inventing and [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] ability has supercharged your Overdrives. You become legendary in Crafting, and on a successful Overdrive, you increase the additional damage by a total of 3, replacing the increase from master overdrive.
 
 *Source: Guns & Gears (Remastered) p. 15*

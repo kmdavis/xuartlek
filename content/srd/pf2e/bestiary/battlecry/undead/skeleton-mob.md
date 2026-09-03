@@ -37,7 +37,7 @@ perception:
     desc: "Perception +11; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13"
 abilityMods: [4, 2, 1, -5, 1, 0]
 ac: 23
 armorclass:
@@ -46,20 +46,20 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90 (4 segments, void healing (page 217)); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Resistances__ cold 7, electricity 7, fire 7, piercing 7, slashing 7; __Weaknesses__ area damage 7, splash damage 7"
+    desc: "90 (4 segments, void healing (page 217)); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 7, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 7, fire 7, piercing 7, slashing 7; __Weaknesses__ area damage 7, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 7"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "25 feet, troop movement"
 abilities_bot:
   - name: "Ossuary Storm"
-    desc: "⬺ The skeleton mob hurls skulls and fragments of bone in a 10-foot burst within 30 feet. This attack deals 3d6 piercing damage (DC 21 basic Reflex save). When the skeleton mob is reduced to 2 segments, this area decreases to a 5-foot burst."
+    desc: "⬺ The skeleton mob hurls skulls and fragments of bone in a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] within 30 feet. This attack deals 3d6 piercing damage (DC 21 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). When the skeleton mob is reduced to 2 segments, this area decreases to a 5-foot burst."
   - name: "Rattling Bones"
     desc: ""
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The skeletons engage using their claws and broken bones to attack each enemy in a 5-foot emanation, with a DC 21 basic Reflex save. The damage depends on the number of actions. ⬻ 1d4+1 piercing or slashing damage ⬺ 2d4+7 piercing or slashing damage ⬽ 3d4+10 piercing or slashing damageto 2 segments, this area decreases to a 5-foot burst."
+    desc: "The skeletons engage using their claws and broken bones to attack each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 21 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d4+1 piercing or slashing damage ⬺ 2d4+7 piercing or slashing damage ⬽ 3d4+10 piercing or slashing damageto 2 segments, this area decreases to a 5-foot burst."
 sourcebook: "_Battlecry!_, page 191."
 ```
 

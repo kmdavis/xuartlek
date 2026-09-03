@@ -21,7 +21,7 @@ source: "Player Core"
 - **Area**: 30-foot emanation
 - **Duration**: 1 hour
 
-By reading trace auras, you detect the presence of scrying effects in the area. If _detect scrying_ is higher rank than a scrying effect, you gain a glimpse of the scrying creature and learn its approximate distance and direction.
+By reading trace auras, you detect the presence of [[srd/pf2e/compendium/rules-elements/traits/player-core/scrying|scrying]] effects in the area. If _detect scrying_ is higher rank than a scrying effect, you gain a glimpse of the scrying creature and learn its approximate distance and direction.
 
 ---
 **Heightened (6th)** The duration is until your next daily preparations.

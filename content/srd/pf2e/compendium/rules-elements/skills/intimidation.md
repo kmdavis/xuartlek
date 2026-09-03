@@ -10,7 +10,7 @@ source: "Player Core"
 
 # Intimidation  *Skill*
 
-You bend others to your will using threats. Unlike Deception or Diplomacy, Intimidation is typically a blunt instrument with little room for nuance or care.
+You bend others to your will using threats. Unlike [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], Intimidation is typically a blunt instrument with little room for nuance or care.
 
 ### Item Bonuses for Intimidation
 
@@ -21,14 +21,14 @@ Category
 Consumable
 Note
 
-Feather of the Unfounded Bravado
+[[srd/pf2e/compendium/equipment/held-items/feather-of-the-unfounded-bravado|Feather of the Unfounded Bravado]]
 +1
 2
 Held Items
 No
 Item bonus to Demoralize
 
-Marshal's Baton
+[[srd/pf2e/compendium/equipment/held-items/marshals-baton|Marshal's Baton]]
 +1
 3
 Held Items
@@ -49,7 +49,7 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-Killer’s Belt
+[[srd/pf2e/compendium/equipment/worn-items/greater-killers-belt|Killer’s Belt]]
 +1
 4
 Worn Items
@@ -91,7 +91,7 @@ Other Worn Items
 No
 Item bonus to Intimidation checks
 
-Draconic Verge
+[[srd/pf2e/compendium/equipment/held-items/draconic-verge|Draconic Verge]]
 +1
 7
 Held Items
@@ -105,40 +105,40 @@ Other Worn Items
 No
 Coerce to convince others of the fairness or accuracy of your judgments.
 
-Crown of Witchcraft
+[[srd/pf2e/compendium/equipment/worn-items/crown-of-witchcraft-greater|Crown of Witchcraft]]
 +1
 10
 Worn Items
 No
 
-Silver Tongue
+[[srd/pf2e/compendium/equipment/spellhearts/greater-silver-tongue|Silver Tongue]]
 +2
 8
 Spellhearts
 No
 Item bonus checks to Intimidation checks to Demoralize until the end of your turn. 
 
-Guise of the Smirking Devil
+[[srd/pf2e/compendium/equipment/worn-items/guise-of-the-smirking-devil-greater|Guise of the Smirking Devil]]
 +2
 9
 Worn Items
 No
 
-Greater Killer’s Belt
+[[srd/pf2e/compendium/equipment/worn-items/greater-killers-belt|Greater Killer’s Belt]]
 +2
 9
 Worn Items
 No
 Item bonus to Intimidation
 
-Admiral's Bicorne
+[[srd/pf2e/compendium/equipment/worn-items/admirals-bicorne|Admiral's Bicorne]]
 +2
 10
 Other Worn Items
 No
 Item bonus to Intimidation
 
-Entertainer's Cincture
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture]]
 +2
 10
 Worn Items
@@ -152,7 +152,7 @@ Clan Dagger Filigrees
 No
 Item bonus to Intimidation checks to Coerce
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -187,13 +187,13 @@ Other Worn Items
 No
 Item bonus to Intimidation checks
 
-Crown of Witchcraft (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/crown-of-witchcraft-greater|Crown of Witchcraft (Greater)]]
 +2
 18
 Worn Items
 No
 
-Mask Of Allure
+[[srd/pf2e/compendium/equipment/apex-items/mask-of-allure|Mask Of Allure]]
 +2
 18
 Apex Items
@@ -214,7 +214,7 @@ Apex Items
 No
 Item bonus to Intimidation checks
 
-Entertainer's Cincture (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture (Greater)]]
 +3
 17
 Worn Items
@@ -228,14 +228,14 @@ Held Items
 No
 item bonus to intimidation checks to influence the undead
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Guise of the Smirking Devil (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/guise-of-the-smirking-devil-greater|Guise of the Smirking Devil (Greater)]]
 +3
 19
 Worn Items

@@ -20,7 +20,7 @@ source: "GM Core"
 
 This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects. 
 
-**Activate—Antimagic Armor** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Frequency** once per day; **Trigger** A spell targets you or includes you in its area; **Effect** The armor attempts to counteract the triggering spell with the effect of a 7th-rank _dispel magic_ spell and a counteract modifier of +26.
+**Activate—Antimagic Armor** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Trigger** A spell targets you or includes you in its area; **Effect** The armor attempts to counteract the triggering spell with the effect of a 7th-rank _dispel magic_ spell and a counteract modifier of +26.
 
 **Craft Requirements** Supply one casting of _dispel magic_.
 

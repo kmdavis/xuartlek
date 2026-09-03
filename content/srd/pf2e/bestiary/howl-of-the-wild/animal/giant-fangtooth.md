@@ -31,11 +31,11 @@ perception:
     desc: "Perception +14; low-light vision, scent (imprecise) 120 feet, wavesense (precise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14"
 abilityMods: [5, 2, 3, -5, 2, -1]
 abilities_top:
   - name: "Sunless Sight"
-    desc: "In an area of bright light, the giant fangtooth is blinded and slowed 1."
+    desc: "In an area of bright light, the giant fangtooth is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]]."
 ac: 20
 armorclass:
   - name: "AC"

@@ -30,6 +30,6 @@ You create a magical lens that distorts space as best suits you. You create the 
 
 ---
 
-**Amp** You can lock the lens in place, allowing it to affect creatures more strongly. The duration of the spell becomes 1 minute, but you cannot Sustain the spell to reposition the lens. Once during a Medium or smaller ally's move action, the ally can move into and out of the lens's area without those spaces counting against the total distance moved. Conversely, the lens is difficult terrain for your enemies.
+**Amp** You can lock the lens in place, allowing it to affect creatures more strongly. The duration of the spell becomes 1 minute, but you cannot Sustain the spell to reposition the lens. Once during a Medium or smaller ally's move action, the ally can move into and out of the lens's area without those spaces counting against the total distance moved. Conversely, the lens is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for your enemies.
 
 *Source: Dark Archives (Remastered) p. 23*

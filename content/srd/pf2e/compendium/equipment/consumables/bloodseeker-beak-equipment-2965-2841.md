@@ -17,8 +17,8 @@ source: "GM Core"
 `Consumable`  `Magical`  `Talisman`
 
 - **Usage**: affixed to a weapon
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
-- **Trigger**: You hit a off-guard creature with the affixed weapon
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Trigger**: You hit a [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature with the affixed weapon
 
 This long, hollow proboscis is harvested from the notorious bloodseeker beast and drips a trickle of blood. When you activate the beak, you deal an extra 1d4 precision damage on your damage roll. If you deal sneak attack damage to the creature, you also deal 1d4 persistent bleed damage.
 

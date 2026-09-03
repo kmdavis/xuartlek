@@ -16,7 +16,7 @@ Asuras claim to recall a time before anything existed, a time of perfect simplic
 
 ### Members
 
-Bikkhasura (Creature 20), Garadasura (Creature 11), Hārakasura (Creature 7), Shokasura (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/spirit/bikkhasura|Bikkhasura]] (Creature 20), [[srd/pf2e/bestiary/monster-core-2/spirit/garadasura|Garadasura]] (Creature 11), [[srd/pf2e/bestiary/monster-core-2/spirit/hārakasura|Hārakasura]] (Creature 7), [[srd/pf2e/bestiary/monster-core-2/spirit/shokasura|Shokasura]] (Creature 1)
 
 ### Asura Ranas
 
@@ -24,14 +24,14 @@ The mightiest asuras are demigods in their own right, and despite knowing their 
 
 ### Asura Realms
 
-Asuras command vast empires in the corners of Hell. While their realms are tiny compared to the massive hierarchy of Asmodeus and devilkind, they exist in a tacit agreement of coexistence with their diabolic neighbors
+Asuras command vast empires in the corners of [[srd/pf2e/compendium/gm/planes#Hell|Hell]]. While their realms are tiny compared to the massive hierarchy of Asmodeus and devilkind, they exist in a tacit agreement of coexistence with their diabolic neighbors
 
 ### Asura Recruits
 
-Many asuras were formerly rakshasas or yakshas, swayed to the asuras' cause and transformed as a result of their broken vows or failed duties. Residents of the Outer Planes are far less likely to be swayed but can sometimes become asuras as well— celestials when they lose faith in the system they once supported and fiends drawn in by the promise that they were judged, damned, and condemned by a flawed system.
+Many asuras were formerly [[srd/pf2e/compendium/gm/creature-families/rakshasa|rakshasas]] or yakshas, swayed to the asuras' cause and transformed as a result of their broken vows or failed duties. Residents of the Outer Planes are far less likely to be swayed but can sometimes become asuras as well— [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestials]] when they lose faith in the system they once supported and [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]] drawn in by the promise that they were judged, damned, and condemned by a flawed system.
 
 ### Geryon
 
-A former asura rana, Geryon joined the ranks of Hell, betraying his asura brethren to prove his loyalty to Asmodeus. Yet some believe that this was simply a ploy for Geryon to draw closer to true divinity, to gain the power necessary to unravel reality— including all of Hell's works.
+A former asura rana, Geryon joined the ranks of [[srd/pf2e/compendium/gm/planes#Hell|Hell]], betraying his asura brethren to prove his loyalty to Asmodeus. Yet some believe that this was simply a ploy for Geryon to draw closer to true divinity, to gain the power necessary to unravel reality— including all of Hell's works.
 
 *Source: Monster Core 2 p. 42*

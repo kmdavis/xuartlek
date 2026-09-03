@@ -18,7 +18,7 @@ source: "GM Core"
 
 - **Price**: 2,400 gp
 - **Usage**: affixed to a weapon
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: Your Strike damages a target
 
 Made from a treated sliver of cold iron, this talisman allows you to counteract magical effects. When you activate the dispelling sliver, it attempts to counteract a single spell active on the target (counteract modifier +29), with the effects of an 8th-rank _dispel magic_ spell.

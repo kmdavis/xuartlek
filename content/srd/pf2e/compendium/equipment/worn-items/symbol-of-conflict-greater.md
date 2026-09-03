@@ -20,7 +20,7 @@ source: "GM Core"
 
 This tarnished necklace can be attuned only by someone who is holy or unholy. When you attune it, it transforms into your deity's religious symbol or a personal symbol if you don't have a deity. You receive a +1 item bonus to Religion and a +1 circumstance bonus to saves against holy and unholy effects. 
 
-**Activate—Presence** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** The symbol casts _bane_ or _bless_. The counteract DC of these effects is 18, and the counteract modifier is +8.
+**Activate—Presence** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The symbol casts _bane_ or _bless_. The counteract DC of these effects is 18, and the counteract modifier is +8.
 
 **Craft Requirements** You must be holy or unholy.
 
@@ -34,7 +34,7 @@ This tarnished necklace can be attuned only by someone who is holy or unholy. Wh
 
 ---
 
-The bonus to Religion is +2. Change the list of spells to 4th- rank _bane_, _bless_, _divine wrath_, and _cleanse affliction_. The DC is 27 and the counteract modifier is +17.
+The bonus to Religion is +2. Change the list of spells to 4th- rank _bane_, _bless_, _divine wrath_, and [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]]. The DC is 27 and the counteract modifier is +17.
 
 ### Symbol of Conflict (Major)
 

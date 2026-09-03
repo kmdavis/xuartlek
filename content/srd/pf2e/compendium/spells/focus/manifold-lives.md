@@ -29,9 +29,9 @@ You cast a creature's mind back through time, forcing them to take other paths a
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is stupefied 2 for 1 round.
+**Success** The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 for 1 round.
 
-**Failure** The creature takes full damage and is stupefied 2 for 1 minute. While affected, the creature must attempt another save at the start of its turn; on a failure, it's slowed 1 for that turn as it sobs uncontrollably.
+**Failure** The creature takes full damage and is stupefied 2 for 1 minute. While affected, the creature must attempt another save at the start of its turn; on a failure, it's [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 for that turn as it sobs uncontrollably.
 
 **Critical Failure** The creature takes double damage and for 1 minute, it’s stupefied 4 and slowed 1 as it sobs uncontrollably.
 

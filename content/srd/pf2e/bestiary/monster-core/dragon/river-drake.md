@@ -31,10 +31,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; darkvision, scent (imprecise) 30 feet"
-languages: "Draconic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +10, Intimidation +6, Stealth +9, Survival +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
 abilityMods: [3, 4, 2, -1, 2, -1]
 ac: 17
 armorclass:
@@ -43,7 +43,7 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ paralyzed, sleep; __Resistances__ acid 10"
+    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] 10"
 abilities_mid:
   - name: "Tail Lash"
     desc: "⬲"
@@ -56,14 +56,14 @@ attacks:
   - name: "Melee"
     desc: "⬻ fangs +12 __Damage__ 2d8+3 piercing"
   - name: "Melee"
-    desc: "⬻ tail +12 (reach 10 feet) __Damage__ 2d6+3 bludgeoning"
+    desc: "⬻ tail +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+3 bludgeoning"
 abilities_bot:
   - name: "Caustic Mucus"
-    desc: "⬺ (Acid, Primal) The river drake spits a ball of caustic mucus up to a range of 50 feet that explodes in a 10-foot burst. Creatures within the burst take 4d6 acid damage (DC 19 basic Reflex save). Those that fail this save also take 1d6 persistent acid damage and take a –5-foot status penalty to their Speed. This Speed reduction ends with the persistent acid damage. The river drake can't use Caustic Mucus again for 1d6 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The river drake spits a ball of caustic mucus up to a range of 50 feet that explodes in a 10-foot burst. Creatures within the burst take 4d6 acid damage (DC 19 basic Reflex save). Those that fail this save also take 1d6 persistent acid damage and take a –5-foot status penalty to their Speed. This Speed reduction ends with the persistent acid damage. The river drake can't use Caustic Mucus again for 1d6 rounds."
   - name: "Draconic Frenzy"
     desc: "⬺ The river drake makes one fangs Strike and two tail Strikes in any order."
   - name: "Speed Surge"
-    desc: "⬻ (Move)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]])"
   - name: "Frequency"
     desc: "three times per day"
   - name: "Effect"

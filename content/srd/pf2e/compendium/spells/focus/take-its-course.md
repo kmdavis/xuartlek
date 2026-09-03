@@ -18,7 +18,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Fortune`  `Uncommon`
 
-- **Domain**: Indulgence
+- **Domain**: [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Defense**: Will

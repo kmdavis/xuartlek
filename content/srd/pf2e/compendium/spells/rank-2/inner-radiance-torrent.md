@@ -18,10 +18,10 @@ source: "Impossible Magic"
 `Concentrate`  `Force`  `Light`  `Manipulate`
 
 - **Traditions**: Divine, Occult
-- **Area**: line 60 feet or longer
-- **Defense**: basic Reflex
+- **Area**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]] 60 feet or longer
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
-You gradually merge several kinds of energy into your cupped hands before firing off a storm of bolts and beams that deal 4d4 force damage to all creatures in a 60-foot line. Creatures in the area must attempt a basic Reflex save. On a critical failure, they're also blinded for 1 round. The number of actions you spend when Casting this Spell determines the area. If the line passes through an area of magical darkness or targets a creature affected by magical darkness, _inner radiance torrent_ attempts to counteract the darkness. 
+You gradually merge several kinds of energy into your cupped hands before firing off a storm of bolts and beams that deal 4d4 force damage to all creatures in a 60-foot line. Creatures in the area must attempt a basic Reflex save. On a critical failure, they're also [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round. The number of actions you spend when Casting this Spell determines the area. If the line passes through an area of magical darkness or targets a creature affected by magical darkness, _inner radiance torrent_ attempts to counteract the darkness. 
 
 [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") The line is 60 feet long. 
 [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") The line is 120 feet long.

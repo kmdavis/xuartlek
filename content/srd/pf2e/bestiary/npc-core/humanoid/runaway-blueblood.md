@@ -31,14 +31,14 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Deception +9, Diplomacy +9, Genealogy Lore +9, Society +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +9, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +9, [[srd/pf2e/compendium/rules-elements/skills/lore|Genealogy Lore]] +9, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +11"
 abilityMods: [1, 3, 0, 2, 0, 4]
 abilities_top:
   - name: "Items"
-    desc: "Dueling Pistol (10 rounds), fine clothing, signet ring, Shortsword"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|Dueling Pistol]] (10 rounds), fine clothing, signet ring, Shortsword"
 ac: 18
 armorclass:
   - name: "AC"
@@ -50,18 +50,18 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +10 (Agile, Finesse, versatile S) __Damage__ 1d6+5 piercing"
+    desc: "⬻ shortsword +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+5 piercing"
   - name: "Melee"
-    desc: "⬻ fist +10 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+5 bludgeoning"
+    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+5 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dueling pistol +10 (Concealable, Concussive, fatal d10, range increment 60 feet, reload 1) __Damage__ 1d6+4 piercing __“Courageous” Retreat__ ⬻"
+    desc: "⬻ dueling pistol +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/concealable|Concealable]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]], range increment 60 feet, reload 1) __Damage__ 1d6+4 piercing __“Courageous” Retreat__ ⬻"
 abilities_bot:
   - name: "Requirements"
     desc: "The runaway blueblood is adjacent to at least one enemy"
   - name: "Effect"
-    desc: "The runaway blueblood gains the fleeing condition, gains a +5- foot status bonus to their Speed, and gains a +2 circumstance bonus to their AC against reactions triggered by their movement. The blueblood Strides. The effects last until the end of the blueblood's current turn."
+    desc: "The runaway blueblood gains the [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] condition, gains a +5- foot status bonus to their Speed, and gains a +2 circumstance bonus to their AC against reactions triggered by their movement. The blueblood Strides. The effects last until the end of the blueblood's current turn."
   - name: "Sneak Attack"
-    desc: "The runaway blueblood deals an extra 1d6 damage to off-guard creatures."
+    desc: "The runaway blueblood deals an extra 1d6 damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_NPC Core_, page 77."
 ```
 

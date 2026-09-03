@@ -26,7 +26,7 @@ These heavily armored rigid airships are carried aloft by a series of massive ga
 
 **Passengers** 30
 
-**Piloting Check** Arcana (DC 37), Crafting (DC 37), or Piloting Lore (DC 35)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (DC 37), [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 37), or [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] (DC 35)
 
 ---
 
@@ -38,17 +38,17 @@ These heavily armored rigid airships are carried aloft by a series of massive ga
 
 **HP** 240 (BT 120)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
-**Weaknesses** 15 fire until broken
+**Weaknesses** 15 fire until [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]
 
 ---
 
-**Speed** fly 50 feet (alchemical, magical)
+**Speed** fly 50 feet ([[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])
 
 **Collision** 4d8 (DC 22)
 
 **Sluggish** This vehicle must move twice its length for each 90-degree turn it makes.
-**Weapon Mounts** This vehicle has four weapon mounts, one on each corner of the gondola. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 3 hours, a successful DC 35 Crafting check, and an appropriate weapon. Three of these weapon mounts can be equipped with Medium or smaller ranged siege weapons, and the fourth can be equipped with a Large or smaller ranged siege weapon.
+**Weapon Mounts** This vehicle has four weapon mounts, one on each corner of the gondola. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 3 hours, a successful DC 35 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, and an appropriate weapon. Three of these weapon mounts can be equipped with Medium or smaller ranged siege weapons, and the fourth can be equipped with a Large or smaller ranged siege weapon.
 
 *Source: Battlecry! p. 108*

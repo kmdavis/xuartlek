@@ -29,7 +29,7 @@ perception:
     desc: "Perception +15; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +14, Athletics +19"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19"
 abilityMods: [7, 2, 5, -4, 1, 2]
 ac: 26
 armorclass:
@@ -42,14 +42,14 @@ health:
 speed: "30 feet, climb 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +21 (Agile, reach 20 feet) __Damage__ 2d8+10 bludgeoning"
+    desc: "⬻ fist +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d8+10 bludgeoning"
   - name: "Melee"
-    desc: "⬻ jaws +21 (reach 10 feet) __Damage__ 2d10+10 piercing"
+    desc: "⬻ jaws +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+10 piercing"
 abilities_bot:
   - name: "Mangling Rend"
-    desc: "⬺ A megaprimatus makes two fist Strikes against the same target. If both hit, the attack deals an additional 2d6 bludgeoning damage, the target is off-guard, and the target takes a –20-foot status penalty to all Speeds until the end of its next turn."
+    desc: "⬺ A megaprimatus makes two fist Strikes against the same target. If both hit, the attack deals an additional 2d6 bludgeoning damage, the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], and the target takes a –20-foot status penalty to all Speeds until the end of its next turn."
   - name: "Terrifying Display"
-    desc: "⬺ (Auditory, Emotion, Fear, Mental) The megaprimatus beats its chest in a terrifying display. Creatures within 50 feet must attempt a DC 27 Will save. While a creature is frightened by this ability, it is off-guard to the megaprimatus and to gorillas."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The megaprimatus beats its chest in a terrifying display. Creatures within 50 feet must attempt a DC 27 Will save. While a creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] by this ability, it is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the megaprimatus and to gorillas."
   - name: "Critical Success"
     desc: "No effect and temporarily immune for 1 minute."
   - name: "Success"
@@ -57,7 +57,7 @@ abilities_bot:
   - name: "Failure"
     desc: "The creature is frightened 1."
   - name: "Critical Failure"
-    desc: "The creature is frightened 2 and fleeing until the end of its next turn."
+    desc: "The creature is frightened 2 and [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] until the end of its next turn."
 sourcebook: "_Monster Core_, page 23."
 ```
 

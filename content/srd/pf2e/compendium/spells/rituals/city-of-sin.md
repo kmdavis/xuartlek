@@ -19,14 +19,14 @@ source: "War of Immortals"
 
 - **Cast**: 7 days
 - **Secondary Casters**: 2
-- **Primary Check**: Diplomacy (mythic) or Society (mythic)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] (mythic) or [[srd/pf2e/compendium/rules-elements/skills/society|Society]] (mythic)
 - **Secondary Checks**: Intimidation , Underworld Lore
 - **Area**: 7-mile radius circle centered on you
 - **Duration**: 1 month
 
 Each day during the casting of this ritual, intelligent creatures within range become increasingly prone to shed their inhibitions and give in to whatever tempts them. Exposed communities experience increases in crime, vice, and violence (however the community defines those vices). At the ritual's culmination, chaos ensues as everyone from every walk of life chooses temptation over faithfulness to their convictions.
 
-**Critical Success** Intelligent creatures in the ritual’s area might betray even their most closely held convictions, including behaviors anathema to their class or faith. They take a –4 circumstance penalty to saves against mental effects and to their Coerce and Request DCs.
+**Critical Success** Intelligent creatures in the ritual’s area might betray even their most closely held convictions, including behaviors anathema to their class or faith. They take a –4 circumstance penalty to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects and to their [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]] DCs.
 
 **Success** Intelligent creatures in the ritual’s area become more likely to give in to temptation, indulging vices and violating all but the strongest convictions. They take a –2 circumstance penalty to saves against mental effects and to their Coerce and Request DCs.
 

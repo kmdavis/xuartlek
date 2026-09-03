@@ -19,10 +19,10 @@ source: "Impossible Magic"
 - **Usage**: affixed to armor or a weapon
 
 Clear streams of water have been magically solidified into a glimmering, iridescent pinwheel that looks as fragile as glass. When affixed, it spins gently without a breeze.
-**• Armor** You gain resistance 3 to persistent acid damage and persistent fire damage.
-**• Weapon** After you cast a water spell by Activating the _enduring helix_, your Strikes with the weapon deal 1d4 persistent cold damage until the end of your next turn. 
+**• Armor** You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 3 to [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent acid damage]] and persistent fire damage.
+**• Weapon** After you cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] spell by Activating the _enduring helix_, your Strikes with the weapon deal 1d4 persistent cold damage until the end of your next turn. 
 
-**Activate** Cast a Spell **Effect** You cast __rousing splash_ ._
+**Activate** Cast a Spell **Effect** You cast _[[srd/pf2e/compendium/spells/cantrips/rousing-splash|_rousing splash_]] ._
 
 ### Hydrating Pinwheel
 
@@ -34,7 +34,7 @@ Clear streams of water have been magically solidified into a glimmering, iridesc
 
 ---
 
-The persistent cold damage when affixed to a weapon is 1d6. The spell DC of any spell cast by Activating this item is 31. 
+The [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent cold damage]] when affixed to a weapon is 1d6. The spell DC of any spell cast by Activating this item is 31. 
 
 **Activate** Cast a Spell **Frequency** once per day; **Effect** You cast __geyser_._
 
@@ -44,7 +44,7 @@ The persistent cold damage when affixed to a weapon is 1d6. The spell DC of any 
 
 ---
 
-The persistent cold damage when affixed to a weapon is 1d8. The spell DC of any spell cast by Activating this item is 38. 
+The [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent cold damage]] when affixed to a weapon is 1d8. The spell DC of any spell cast by Activating this item is 38. 
 
 **Activate** Cast a Spell **Frequency** once per day; **Effect** You cast 8th-rank _geyser_. 
 

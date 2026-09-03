@@ -21,13 +21,13 @@ source: "Howl of the Wild"
 
 Sacs full of dark ink have been implanted inside your mouth, allowing you to spit it forth.
 
-**Activate—Spray Ink** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per day; **Effect** You splatter ink in a 10-foot cone, covering creatures and revealing invisible ones. Each creature in the area must succeed at a DC 20 Reflex save or become covered in ink. If a creature has its invisibility negated by this ink, it is concealed instead of invisible. A creature can negate the effects of the ink by spending two Interact actions to wipe off the ink.
+**Activate—Spray Ink** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You splatter ink in a 10-foot cone, covering creatures and revealing [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] ones. Each creature in the area must succeed at a DC 20 Reflex save or become covered in ink. If a creature has its invisibility negated by this ink, it is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] instead of invisible. A creature can negate the effects of the ink by spending two Interact actions to wipe off the ink.
 
 **Critical Success** The target is unaffected.
 
 **Success** The target’s invisibility is negated for 2 rounds.
 
-**Failure** The target is blinded for 1 round. Its invisibility is negated for 1 minute.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round. Its invisibility is negated for 1 minute.
 
 **Critical Failure** The target is blinded for 10 minutes. Its invisibility is negated for 10 minutes.
 

@@ -33,10 +33,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; darkvision"
-languages: "Chthonian, Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Arcana +9, Deception +9, Intimidation +7, Occultism +9, Outer Rifts Lore +9, Religion +6, Society +9, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +9, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +9, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +9, Outer Rifts Lore +9, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +6, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [0, 2, 0, 4, 1, 2]
 abilities_top:
   - name: "Items"
@@ -52,7 +52,7 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +6 (two-handed 1d8) __Damage__ 1d6 bludgeoning"
+    desc: "⬻ staff +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-handed 1d8]]) __Damage__ 1d6 bludgeoning"
 abilities_bot:
   - name: "Drain Bonded Item"
     desc: "⭓"
@@ -64,9 +64,9 @@ abilities_bot:
     desc: "The adept expends the power stored in its staff. This gives the adept the ability to cast one prepared spell it had already previously cast today (choosing a different spell rank each time), without spending a spell slot. The adept must still Cast the Spell and meet the spell's other requirements."
 spellcasting:
   - name: "Arcane Prepared Spells"
-    desc: "DC 21, attack +11 - __Cantrips (2nd)__ Detect Magic, Shield, Tangle Vine, Telekinetic Hand, Void Warp - __1st__ Charm, Enfeeble, Force Barrage - __2nd__ Floating Flame, Invisibility"
+    desc: "DC 21, attack +11 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/tangle-vine|Tangle Vine]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]], [[srd/pf2e/compendium/spells/cantrips/void-warp|Void Warp]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]], [[srd/pf2e/compendium/spells/rank-1/enfeeble|Enfeeble]], [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/floating-flame|Floating Flame]], [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]]"
   - name: "Divine Innate Spells"
-    desc: "DC 17 - __2nd__ Darkness"
+    desc: "DC 17 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/darkness|Darkness]]"
 sourcebook: "_Monster Core_, page 266."
 ```
 

@@ -18,12 +18,12 @@ source: "Impossible Magic"
 
 - **Cast**: 1 hour
 - **Cost**: a precious gemstone worth 50 gp
-- **Primary Check**: Nature (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert)
 - **Area**: 10-foot emanation
 
 You compel the very earth beneath your feet to rise and follow you. When you cast this ritual, you must be on solid ground in an area without much vegetation. If you are not, the ritual automatically fails. When you successfully cast this ritual, boulders rise up within the emanation and constantly roll alongside you. They can move across most terrain, though if you ever don't have your feet on solid ground (such as by climbing a tree, swimming across a deep river, or flying through the air), the effect of the ritual is suppressed until you return to solid ground.
 
- The area is difficult terrain for all other creatures as the boulders hinder their movement. In addition, the boulders grant you lesser cover.
+ The area is difficult terrain for all other creatures as the boulders hinder their movement. In addition, the boulders grant you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|lesser cover]].
 
  When the ritual's duration has ended, the boulders remain in their last location. They are affected normally by anything in their current environment at the usual rate.
 

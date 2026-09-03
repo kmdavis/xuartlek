@@ -16,4 +16,4 @@ citation: "Treasure Vault (Remastered) pg. 56"
 
 <sup>TV p. 56</sup>
 
-An item with the expandable trait increases to a specific size when activated. Unless otherwise noted, this space must be adjacent to you and on the ground, and the item needs to have enough open space to expand into or else the activation has no effect. When the effect ends, the expanded item disintegrates if it's a consumable or shrinks back to its normal size if it's not a consumable.
+An item with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/expandable|expandable]] trait increases to a specific size when activated. Unless otherwise noted, this space must be adjacent to you and on the ground, and the item needs to have enough open space to expand into or else the activation has no effect. When the effect ends, the expanded item disintegrates if it's a consumable or shrinks back to its normal size if it's not a consumable.

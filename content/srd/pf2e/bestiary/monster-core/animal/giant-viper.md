@@ -29,7 +29,7 @@ perception:
     desc: "Perception +7; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Athletics +8, Stealth +8, Survival +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
 abilityMods: [3, 4, 3, -4, 1, -2]
 ac: 17
 armorclass:
@@ -45,12 +45,12 @@ abilities_mid:
 speed: "20 feet, climb 20 feet, swim 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fangs +11 (Finesse) __Damage__ 1d8+3 piercing plus giant viper venom"
+    desc: "⬻ fangs +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d8+3 piercing plus giant viper venom"
 abilities_bot:
   - name: "Coil"
     desc: "⬻ The giant viper uses an action to coil itself. While Coiled, the reach of its fangs is 10 feet and it has the Reactive Strike reaction. After the giant viper Strikes with its fangs, it becomes uncoiled."
   - name: "Giant Viper Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 17 Fortitude"
   - name: "Maximum Duration"
@@ -58,7 +58,7 @@ abilities_bot:
   - name: "Stage 1"
     desc: "1d6 poison damage (1 round)"
   - name: "Stage 2"
-    desc: "1d6 poison damage and drained 1"
+    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]]"
 sourcebook: "_Monster Core_, page 317."
 ```
 

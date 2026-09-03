@@ -29,8 +29,8 @@ The target glows intensely with an otherworldly light, blinding any who approach
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is dazzled for 1 round.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
 
-**Critical Failure** The creature is blinded for 1 round.
+**Critical Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round.
 
 *Source: Impossible Magic p. 141*

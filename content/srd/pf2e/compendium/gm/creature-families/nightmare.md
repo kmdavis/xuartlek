@@ -14,10 +14,10 @@ Nightmares are flaming equine harbingers of death.
 
 ### Members
 
-Greater Nightmare (Creature 11), Nightmare (Creature 6)
+[[srd/pf2e/bestiary/monster-core/beast/greater-nightmare|Greater Nightmare]] (Creature 11), [[srd/pf2e/bestiary/monster-core/beast/nightmare|Nightmare]] (Creature 6)
 
 ### Nightmare Steeds
 
-Nightmares allow only the evilest of creatures to ride them and are willing partners in the destruction those creatures inflict. Powerful dullahans are particularly well known to associate with nightmares.
+Nightmares allow only the evilest of creatures to ride them and are willing partners in the destruction those creatures inflict. Powerful [[srd/pf2e/bestiary/monster-core/undead/dullahan|dullahans]] are particularly well known to associate with nightmares.
 
 *Source: Monster Core p. 238*

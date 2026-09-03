@@ -25,10 +25,10 @@ You surround yourself in temporal eddies that draw out time for those around you
 
 **Critical Success** The creature is unaffected.
 
-**Success** Squares in the area are difficult terrain for the creature.
+**Success** Squares in the area are [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] for the creature.
 
-**Failure** Squares in the area are difficult terrain for the creature, and the creature is slowed 1 when it starts its turn in the area.
+**Failure** Squares in the area are difficult terrain for the creature, and the creature is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 when it starts its turn in the area.
 
-**Critical Failure** As failure, plus the creature also becomes restrained. The creature can attempt to Escape against your spell DC to remove the restrained condition.
+**Critical Failure** As failure, plus the creature also becomes [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]. The creature can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] against your spell DC to remove the restrained condition.
 
 *Source: Dark Archives (Remastered) p. 182*

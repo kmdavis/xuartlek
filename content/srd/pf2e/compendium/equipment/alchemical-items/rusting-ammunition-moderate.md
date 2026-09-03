@@ -17,9 +17,9 @@ source: "Treasure Vault (Remastered)"
 `Alchemical`  `Consumable`  `Force`
 
 - **Ammunition**: any
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Rusting ammunition is made using a ore louse's saliva and, when activated, deals damage to objects or creatures primarily made of metal. The target takes persistent damage for a duration determined by the type of ammunition used. A creature that drops to 0 Hit Points while taking this persistent damage crumbles into fine powder; its gear remains. The ammunition's type determines the maximum amount of an object that's destroyed.
+Rusting ammunition is made using a [[srd/pf2e/bestiary/rage-of-elements/beast/ore-louse|ore louse's]] saliva and, when activated, deals damage to objects or creatures primarily made of metal. The target takes [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] for a duration determined by the type of ammunition used. A creature that drops to 0 Hit Points while taking this persistent damage crumbles into fine powder; its gear remains. The ammunition's type determines the maximum amount of an object that's destroyed.
 
 **Craft Requirements** Supply the saliva of an ore louse.
 

@@ -20,10 +20,10 @@ source: "Player Core 2"
 - **Price**: 500 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Venom from enormous cave worms leaves a victim weakened. 
 
-**Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 5d6 poison damage and enfeebled 2 (1 round); **Stage 2** 6d6 poison damage and enfeebled 2 (1 round); **Stage 3** 8d6 poison and enfeebled 2 (1 round)
+**Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 5d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 2 (1 round); **Stage 2** 6d6 poison damage and enfeebled 2 (1 round); **Stage 3** 8d6 poison and enfeebled 2 (1 round)
 
 *Source: Player Core 2 p. 292*

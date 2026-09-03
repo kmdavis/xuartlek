@@ -18,7 +18,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Light`  `Manipulate`  `Uncommon`
 
-- **Domain**: Moon
+- **Domain**: [[srd/pf2e/compendium/character/domains#Moon|Moon]]
 - **Range**: touch
 - **Target**: 1 creature
 - **Duration**: 1 minute

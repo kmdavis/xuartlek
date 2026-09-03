@@ -19,7 +19,7 @@ source: "GM Core"
 
 **Passengers** 4
 
-**Piloting Check** Sailing Lore (DC 26), Diplomacy (DC 28), or Intimidation (DC 28)
+**Piloting Check** Sailing [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] (DC 26), [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] (DC 28), or [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] (DC 28)
 
 ---
 

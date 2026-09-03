@@ -22,6 +22,6 @@ source: "Battlecry!"
 
 This magical banner stands as a reminder to fight with everything because you’re fighting for everything. While holding a _zealous banner_, you can use the following ability.
 
-**Activate—Forward with Zeal** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per minute; **Effect** The magical banner offers a magical boost of zeal. An ally within the banner’s aura becomes quickened for 1 round and can use the additional action only to Strike.
+**Activate—Forward with Zeal** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per minute; **Effect** The magical banner offers a magical boost of zeal. An ally within the banner’s aura becomes [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] for 1 round and can use the additional action only to Strike.
 
 *Source: Battlecry! p. 141*

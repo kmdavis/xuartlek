@@ -22,6 +22,6 @@ source: "Player Core"
 - **Range**: 500 feet
 - **Duration**: 10 minutes
 
-You create an invisible floating ear at a location within range (even if it's outside your line of sight or line of effect). It can't move, but you can hear through the ear as if using your normal auditory senses.
+You create an [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] floating ear at a location within range (even if it's outside your line of sight or line of effect). It can't move, but you can hear through the ear as if using your normal auditory senses.
 
 *Source: Player Core p. 320*

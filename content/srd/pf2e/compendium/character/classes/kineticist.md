@@ -14,13 +14,13 @@ source: "Rage of Elements"
 
 The following new key traits appear in many kineticist class features and feats.
 
- **Composite**: A composite impulse combines multiple elements. You can gain an impulse with the composite trait only if your kinetic elements include all the elements listed in the impulse's traits. 
+ **Composite**: A composite impulse combines multiple elements. You can gain an [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulse]] with the composite trait only if your kinetic elements include all the elements listed in the impulse's traits. 
 
-**Impulse**: The primary magical actions kineticists use are called impulses. You can use an impulse only if your kinetic aura is active and channeling that element, and only if you have a hand free to shape the elemental flow. The impulse trait means the action has the concentrate trait unless another ability changes this. If an impulse allows you to choose an element, you can choose any element you're channeling, and the impulse gains that element's trait.
+**Impulse**: The primary magical actions kineticists use are called impulses. You can use an impulse only if your kinetic aura is active and channeling that element, and only if you have a hand free to shape the elemental flow. The impulse trait means the action has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait unless another ability changes this. If an impulse allows you to choose an element, you can choose any element you're channeling, and the impulse gains that element's trait.
 
  **Infusion**: Actions with the infusion trait tweak your kineticist impulses. You must use an infusion action directly before the impulse action you want to alter. If you use any action (including free actions and reactions) other than an impulse action directly after, you waste the benefits of the infusion action. Any additional effects added by an infusion action are part of the impulse's effect, not of the infusion action itself.
 
- **Overflow**: Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with Channel Elements). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
+ **Overflow**: Powerful impulses temporarily overdraw the energy of your kinetic gate. When you use an impulse that has the overflow trait, your kinetic aura deactivates until you revitalize it (typically with [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Channel Elements|Channel Elements]]). Extinguishing your element this severely is taxing, and consequently, you can use only one overflow impulse per round, even if you reactivate your kinetic gate.
 
  **Stance**: A stance is a general combat strategy that you enter by using an action with the stance trait and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can't use another one for 1 round. You can enter or be in a stance only in encounter mode.
 
@@ -73,7 +73,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Expert in Fortitude Expert in Reflex Trained in Will |
-| **Skills** | Trained in Nature Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
+| **Skills** | Trained in [[srd/pf2e/compendium/rules-elements/skills/nature\|Nature]] Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
 | **Attacks** | Trained in simple weapons Trained in unarmed attacks |
 | **Defenses** | Trained in light armor Trained in unarmored defense |
 | **Class DC** | Trained in kineticist class DC |
@@ -147,7 +147,7 @@ Through your kinetic gate, elements flow from an elemental plane to orbit your p
 
 #### Impulses
 
-An impulse is a special type of magical action available to kineticists, allowing them to wield or shape their element into diverse and powerful forms. To wield an element, you must have your kinetic aura active and have a free hand, as described in the impulse trait. You automatically gain the Elemental Blast and Base Kinesis impulses, and your kinetic gate selection gives you additional impulse feats. You can select more impulse feats with kineticist class feats, and at higher levels, you'll automatically get more with the gate's threshold class feature. You can select an impulse feat only if it matches one of your kinetic elements.
+An impulse is a special type of magical action available to kineticists, allowing them to wield or shape their element into diverse and powerful forms. To wield an element, you must have your kinetic aura active and have a free hand, as described in the [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulse]] trait. You automatically gain the Elemental Blast and Base Kinesis impulses, and your kinetic gate selection gives you additional impulse feats. You can select more impulse feats with kineticist class feats, and at higher levels, you'll automatically get more with the gate's threshold class feature. You can select an impulse feat only if it matches one of your kinetic elements.
 
  Impulses are magical, and though they aren't spells, some things that affect spells also affect impulses. Abilities that restrict you from casting spells (such as being polymorphed into a battle form) or protect against spells (such as a spell that protects against other spells or a creature's bonus to saves against spells) also apply to impulses. 
 
@@ -159,7 +159,7 @@ An impulse is a special type of magical action available to kineticists, allowin
 
 #### Impulse Attacks And DCs
 
- An impulse that requires a saving throw uses your kineticist class DC. Some of your impulses require you to attempt an **impulse attack roll** to see how effective they are. Your impulse attack roll uses the same proficiency and attribute modifier as your kineticist class DC. Like a spell attack modifier, your impulse attack modifier uses the following formula: d20 roll + attribute modifier + proficiency bonus + other bonuses + penalties. This means your impulse attack roll is typically 10 lower than your class DC. The drained condition can reduce your impulse attack rolls and class DCs. You can acquire a gate attenuator to gain a bonus to your impulse attack modifier. 
+ An impulse that requires a saving throw uses your kineticist class DC. Some of your impulses require you to attempt an **impulse attack roll** to see how effective they are. Your impulse attack roll uses the same proficiency and attribute modifier as your kineticist class DC. Like a spell attack modifier, your impulse attack modifier uses the following formula: d20 roll + attribute modifier + proficiency bonus + other bonuses + penalties. This means your impulse attack roll is typically 10 lower than your class DC. The drained condition can reduce your impulse attack rolls and class DCs. You can acquire a [[srd/pf2e/compendium/equipment/worn-items/gate-attenuator-major|gate attenuator]] to gain a bonus to your impulse attack modifier. 
 
 #### Elemental Blast
 
@@ -198,7 +198,7 @@ At 3rd level and every 2 levels thereafter, you gain a skill increase. You can u
 #### Gate's Threshold
 
 You reach a new milestone in your odyssey to become in tune with your kinetic gate and must decide how to expand the gate's power. At 5th level and every 4 levels thereafter, you choose to either expand the portal or fork the path. 
-**Expand the Portal**: Your gate attunes more precisely to one of your elements. Gain an impulse feat of your level or lower for one of your kinetic elements; if you have more than one element, you can choose a composite impulse. You also gain a gate junction for one of your kinetic elements. If you have no valid options for the feat—typically because you have one kinetic element and devoted your class feats to gaining that element's impulses—you can instead select any kineticist class feat of your level or lower for which you meet the prerequisites.**Fork the Path**: Your gate reaches to another elemental plane. Add a new element of your choice to your kinetic elements. Gain an impulse feat of your level or lower with the trait of that element. You can't select a composite impulse feat with this feat selection. 
+**Expand the Portal**: Your gate attunes more precisely to one of your elements. Gain an impulse feat of your level or lower for one of your kinetic elements; if you have more than one element, you can choose a [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/composite|composite]] impulse. You also gain a gate junction for one of your kinetic elements. If you have no valid options for the feat—typically because you have one kinetic element and devoted your class feats to gaining that element's impulses—you can instead select any kineticist class feat of your level or lower for which you meet the prerequisites.**Fork the Path**: Your gate reaches to another elemental plane. Add a new element of your choice to your kinetic elements. Gain an impulse feat of your level or lower with the trait of that element. You can't select a composite impulse feat with this feat selection. 
 
 #### Gate Junctions
 
@@ -225,7 +225,7 @@ Your body flows with the elegance of a flame, a wave, a breeze. Your proficiency
 
 #### Reflow Elements
 
-You twist one of the impulses you've learned into a different but still similar magic. When you make your daily preparations, you can replace one of your impulse feats with a different impulse feat that has the same elemental trait. You can reflow only impulse feats that have exactly one elemental trait, not composite impulse feats or feats that vary by element. This follows the same rules as retraining; you can replace impulse feats gained through your class feats or through class features that grant you impulse feats.
+You twist one of the impulses you've learned into a different but still similar magic. When you make your daily preparations, you can replace one of your [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulse]] feats with a different impulse feat that has the same elemental trait. You can reflow only impulse feats that have exactly one elemental trait, not composite impulse feats or feats that vary by element. This follows the same rules as retraining; you can replace impulse feats gained through your class feats or through class features that grant you impulse feats.
 
 | | |
 | --- | --- |
@@ -247,7 +247,7 @@ Your gate protects you even more. Your proficiency rank for Fortitude saves incr
 
 #### Final Gate
 
-Your kinetic gate reaches a perfect form, its power constantly fighting to be released. If your kinetic aura is inactive, you automatically use the first action of your turn to Channel Elements as a free action. You can deliberately suppress the effect. If you're unable to act, final gate still functions, but you don't get to use the Elemental Blast or stance impulse you normally do from using Channel Elements.
+Your kinetic gate reaches a perfect form, its power constantly fighting to be released. If your kinetic aura is inactive, you automatically use the first action of your turn to [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Channel Elements|Channel Elements]] as a free action. You can deliberately suppress the effect. If you're unable to act, final gate still functions, but you don't get to use the [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Elemental Blast|Elemental Blast]] or stance impulse you normally do from using Channel Elements.
 
 | | |
 | --- | --- |

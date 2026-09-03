@@ -22,7 +22,7 @@ source: "Treasure Vault (Remastered)"
 
 **Communication** speech (five languages)
 
-**Skills** Arcana +12, Nature +9, Occultism +10, Religion +9, Scribing Lore +12, Society +10
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +12, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +9, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +10, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +9, Scribing Lore +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +10
 
 **Int** +4, **Wis** +3, **Cha** +1
 

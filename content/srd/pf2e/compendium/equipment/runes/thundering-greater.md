@@ -17,7 +17,7 @@ source: "GM Core"
 
 - **Usage**: etched onto a weapon
 
-A _thundering_ weapon lets out a peal of thunder when it hits, dealing an extra 1d6 sonic damage on a successful Strike. On a critical hit, the target must succeed at a DC 24 Fortitude save or be deafened for 1 minute (or 1 hour on a critical failure). 
+A _thundering_ weapon lets out a peal of thunder when it hits, dealing an extra 1d6 sonic damage on a successful Strike. On a critical hit, the target must succeed at a DC 24 Fortitude save or be [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 minute (or 1 hour on a critical failure). 
 
 ### Thundering
 

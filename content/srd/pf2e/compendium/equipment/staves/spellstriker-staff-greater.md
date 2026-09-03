@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 
 A _spellstriker staff_ is wrought iron with gleaming arcane sigils etched into its surface and a sharp point at the bottom. Used as a weapon, the staff is a _+1 striking shifting staff_.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per hour; **Trigger** You use Spellstrike with a non-cantrip spell and miss with the Strike; **Effect** An explosion of magical energy—stored up for the Spellstrike—explodes out. All creatures in a 5-foot emanation take 1d6 damage per level of the spell, with a basic Reflex save against your spell DC. This damage is the same type the spell would have dealt, and the activation gains that trait; if the spell would have dealt multiple types of damage, choose one of them. If the damage of the explosion is mental, the save is Will instead of Reflex.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Trigger** You use Spellstrike with a non-cantrip spell and miss with the Strike; **Effect** An explosion of magical energy—stored up for the Spellstrike—explodes out. All creatures in a 5-foot emanation take 1d6 damage per level of the spell, with a basic Reflex save against your spell DC. This damage is the same type the spell would have dealt, and the activation gains that trait; if the spell would have dealt multiple types of damage, choose one of them. If the damage of the explosion is mental, the save is Will instead of Reflex.
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
@@ -34,7 +34,7 @@ A _spellstriker staff_ is wrought iron with gleaming arcane sigils etched into i
 
 ---
 
-**Cantrip** _ignition_**1st** _echoing weapon_, _sure strike_**2nd** _acid grip_, _telekinetic maneuver_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/ignition|_ignition_]]**1st** _echoing weapon_, [[srd/pf2e/compendium/spells/rank-1/sure-strike|_sure strike_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/acid-grip|_acid grip_]], [[srd/pf2e/compendium/spells/rank-2/telekinetic-maneuver|_telekinetic maneuver_]]
 
 ### Spellstriker Staff (Greater)
 
@@ -56,6 +56,6 @@ Used as a weapon, the staff is a _+2 striking shifting staff_.
 ---
 
 Used as a weapon, the staff is a _+2 greater striking shifting staff_.
-**5th** _blink charge_, _echoing weapon_, _vampiric feast_**6th** _acid grip_, _weapon storm_**7th** _blink charge_, _true target_
+**5th** _blink charge_, _echoing weapon_, [[srd/pf2e/compendium/spells/rank-3/vampiric-feast|_vampiric feast_]]**6th** _acid grip_, _weapon storm_**7th** _blink charge_, _true target_
 
 *Source: Treasure Vault (Remastered) p. 134*

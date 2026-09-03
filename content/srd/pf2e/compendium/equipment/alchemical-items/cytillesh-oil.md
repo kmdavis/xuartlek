@@ -20,7 +20,7 @@ source: "Player Core 2"
 - **Price**: 10 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This thick substance is distilled from the mind-robbing cytillesh fungus, though it lacks memory-altering capabilities. 
 

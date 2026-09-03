@@ -48,7 +48,7 @@ source: "Battlecry!"
 
 Even without the explosive chemical reaction of black powder, it’s possible to achieve significant propulsion using steam. A steam artillery consists of a bronze tube, fire pot, and bellows attached to a wooden frame with wheels. A steam rocket is loaded into the tube, where it’s subjected to tightly focused heat from the coals in the fire pot fed by air from the bellows. Very quickly, the water within the corked rocket is converted to pressurized steam. Loading the weapon involves first inserting the rocket and then working the bellows.
 **Aim** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") 40 feet, minimum distance 20 feet 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 2 times 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate, range increment 40 feet) 4d10 bludgeoning, single target, DC 19 Reflex
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times 
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], manipulate, range increment 40 feet) 4d10 bludgeoning, single target, DC 19 Reflex
 
 *Source: Battlecry! p. 106*

@@ -29,7 +29,7 @@ perception:
     desc: "Perception +5; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +2, Stealth +5, Survival +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +2, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5"
 abilityMods: [0, 3, 1, -4, 1, -2]
 abilities_top:
   - name: "Deep Breath"
@@ -46,16 +46,16 @@ abilities_mid:
   - name: "Lash Out"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature within the sea snake's reach uses a move action"
+    desc: "A creature within the sea snake's reach uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action"
   - name: "Effect"
     desc: "The sea snake makes a fangs Strike against the attacker."
 speed: "15 feet, swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fangs +7 (Agile, finesse) __Damage__ 1d8 piercing plus sea snake venom"
+    desc: "⬻ fangs +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 1d8 piercing plus sea snake venom"
 abilities_bot:
   - name: "Sea Snake Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 16 Fortitude"
   - name: "Maximum Duration"
@@ -63,7 +63,7 @@ abilities_bot:
   - name: "Stage 1"
     desc: "1d6 poison damage (1 round)"
   - name: "Stage 2"
-    desc: "1d6 poison damage and enfeebled 1 (1 round)"
+    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 round)"
 sourcebook: "_Monster Core 2_, page 294."
 ```
 

@@ -14,6 +14,6 @@ Seals are semi-aquatic carnivorous mammals found on beaches across Golarion. The
 
 ### Members
 
-Harbor Seal (Creature 2), Leopard Seal (Creature 4)
+[[srd/pf2e/bestiary/howl-of-the-wild/animal/harbor-seal|Harbor Seal]] (Creature 2), [[srd/pf2e/bestiary/howl-of-the-wild/animal/leopard-seal|Leopard Seal]] (Creature 4)
 
 *Source: Howl of the Wild p. 178*

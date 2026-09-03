@@ -29,7 +29,7 @@ perception:
     desc: "Perception +9; low-light vision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Intimidation +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +8"
 abilityMods: [5, 3, 4, -4, 0, 1]
 ac: 18
 armorclass:
@@ -52,7 +52,7 @@ abilities_bot:
   - name: "Kick Back"
     desc: "⬻ The moose bucks and kicks back with both hind hooves, making a hoof Strike with a –2 circumstance penalty to the attack roll. If it hits, it deals an extra 1d8 bludgeoning damage. This counts as two attacks when calculating the moose's multiple attack penalty."
   - name: "Thundering Charge"
-    desc: "⬺ The moose Strides twice and then makes an antler Strike. A Medium or smaller creature damaged by this attack must succeed at a DC 18 Fortitude save or be stunned 1."
+    desc: "⬺ The moose Strides twice and then makes an antler Strike. A Medium or smaller creature damaged by this attack must succeed at a DC 18 Fortitude save or be [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1."
   - name: "Trample"
     desc: "⬽ Medium or smaller, hoof, DC 20 Moose Tracks Moose thrive in cooler climates and have many adaptations to survive in the cold, including thick skin and dense, heat-retaining fur. They often make their own trails in the snow to find the best food. Adventurers sometimes stumble upon these trails and assume they lead to shelter, only to find themselves happening upon a fiercely territorial moose."
 sourcebook: "_Monster Core 2_, page 225."

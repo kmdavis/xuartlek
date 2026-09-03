@@ -22,12 +22,12 @@ source: "Player Core"
 
 `Auditory`  `Cleric`  `Concentrate`  `Focus`  `Linguistic`  `Manipulate`  `Mental`  `Sleep`  `Uncommon`
 
-- **Domain**: Dreams
+- **Domain**: [[srd/pf2e/compendium/character/domains#Dreams|Dreams]]
 - **Range**: 30 feet
 - **Target**: 1 willing creature
 - **Duration**: 1 hour
 
-With soothing words, you lull the target into an enchanting dream. When you Cast the Spell, the target falls unconscious if it wasn't already. While unconscious, it experiences a dream of your choice, though lucidly enough it can wake when it pleases. If it wakes up before 1 minute of sleep has passed, the spell ends. 
+With soothing words, you lull the target into an enchanting dream. When you Cast the Spell, the target falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] if it wasn't already. While unconscious, it experiences a dream of your choice, though lucidly enough it can wake when it pleases. If it wakes up before 1 minute of sleep has passed, the spell ends. 
 **Dream of Insight** +1 status bonus to Intelligence-based skill checks**Dream of Glamor** +1 status bonus to Charisma-based skill checks**Dream of Voyaging** +5-foot status bonus to Speed. If you Cast this Spell again, any previous sweet dream you cast ends.
 
 ---

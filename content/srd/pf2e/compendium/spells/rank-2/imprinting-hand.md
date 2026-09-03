@@ -21,7 +21,7 @@ source: "Impossible Magic"
 - **Defense**: Fortitude
 - **Duration**: 1 minute
 
-Your hand presses into your target, leaving an imprint on its body. The target takes 8 force damage with a Fortitude save. The first time within the next minute the target's Hit Points are restored by a healing effect, that healing is reduced by 8. After any amount of healing is reduced, the spell ends.
+Your hand presses into your target, leaving an imprint on its body. The target takes 8 force damage with a Fortitude save. The first time within the next minute the target's Hit Points are restored by a [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] effect, that healing is reduced by 8. After any amount of healing is reduced, the spell ends.
 
 **Critical Success** The target is unaffected.
 

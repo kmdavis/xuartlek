@@ -21,7 +21,7 @@ source: "Rage of Elements"
 - **Target**: 1 creature
 - **Defense**: AC
 
-You throw a hard-packed ball of earth and stone at a creature, and the projectile explodes upon impact. Attempt a spell attack against the target's AC. If you hit, you deal 4d6 bludgeoning damage plus 1d6 bludgeoning splash damage. On a critical hit, double the initial damage, but not the splash damage, and the target you hit must succeed at a Fortitude saving throw or fall prone.
+You throw a hard-packed ball of earth and stone at a creature, and the projectile explodes upon impact. Attempt a spell attack against the target's AC. If you hit, you deal 4d6 bludgeoning damage plus 1d6 bludgeoning [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage. On a critical hit, double the initial damage, but not the splash damage, and the target you hit must succeed at a Fortitude saving throw or fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 ---
 **Heightened (+2)** The damage increases by 2d6, and the splash damage increases by 1d6.

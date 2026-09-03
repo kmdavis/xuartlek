@@ -48,7 +48,7 @@ source: "Guns & Gears (Remastered)"
 
 A springald consists of a wooden board cranked backward and chutes that hold up to three oversized arrows. Rather than having a nock, each arrow has a flat back end. Releasing the board strikes the backs of the arrows, sending them hurtling through the air.
  **Aim**[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") 30 feet, minimum distance 50 feet
- **Load**[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 3 times
- **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate, range increment 100 feet) 5d8 piercing, three different targets within a 15-foot burst, DC 22 Reflex
+ **Load**[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 3 times
+ **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], range increment 100 feet) 5d8 piercing, three different targets within a 15-foot burst, DC 22 Reflex
 
 *Source: Guns & Gears (Remastered) p. 76*

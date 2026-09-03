@@ -57,18 +57,18 @@ Roosted tengu tend toward more traditional names, while migrating tengu readily 
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
 Tengu
 
-Additional languages equal to your Intelligence modifier (if positive). Choose from Dwarven, Elven, Halfling, Gnomish, Goblin, Fey, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], and any other languages to which you have access (such as the languages prevalent in your region).
 
-| | |
-| --- | --- |
-| **Low-Light Vision** | You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light. |
+#### Low-Light Vision
+
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
 
 #### Sharp Beak
 
-With your sharp beak, you are never without a weapon. You have a beak unarmed attack that deals 1d6 piercing damage. Your beak is in the brawling weapon group and has the finesse and unarmed traits.
+With your sharp beak, you are never without a weapon. You have a beak [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d6 piercing damage. Your beak is in the brawling weapon group and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] traits.
 
 *Source: Player Core 2 p. 32*

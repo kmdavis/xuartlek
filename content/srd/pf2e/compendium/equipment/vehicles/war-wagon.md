@@ -23,7 +23,7 @@ Often adorned with spikes and other defensive countermeasures, a war wagon is an
 
 **Passengers** 6
 
-**Piloting Check** Driving Lore (DC 24) or Nature (DC 26 to DC 34 depending on the pulling creatures)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/lore|Driving Lore]] (DC 24) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 26 to DC 34 depending on the pulling creatures)
 
 ---
 
@@ -35,7 +35,7 @@ Often adorned with spikes and other defensive countermeasures, a war wagon is an
 
 **HP** 120 (BT 60)
 
-**Immunities** object immunities, precision damage
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
 ---
 
@@ -43,7 +43,7 @@ Often adorned with spikes and other defensive countermeasures, a war wagon is an
 
 **Collision** 6d10 (DC 24)
 
-**Countermeasures** A creature that Strikes a war wagon with a non-reach melee weapon or unarmed attack takes 3d8 piercing damage (DC 24 basic Reflex save).
-**Weapon Mounts** This vehicle has one weapon mount. At purchase, the weapon mount is initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 24 Crafting check, and an appropriate weapon. This weapon mount can be equipped with a Large or smaller ranged siege weapon.
+**Countermeasures** A creature that Strikes a war wagon with a non-reach melee weapon or unarmed attack takes 3d8 piercing damage (DC 24 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save).
+**Weapon Mounts** This vehicle has one weapon mount. At purchase, the weapon mount is initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 24 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, and an appropriate weapon. This weapon mount can be equipped with a Large or smaller ranged siege weapon.
 
 *Source: Battlecry! p. 112*

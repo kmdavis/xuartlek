@@ -18,6 +18,6 @@ source: "GM Core"
 - **Price**: 10,000 gp
 - **Usage**: etched onto a weapon
 
-Attacks with a _quickstrike_ weapon are supernaturally swift. While wielding a _quickstrike_ weapon, you gain the quickened condition, but you can use the additional action granted only to make a Strike with the etched weapon.
+Attacks with a _quickstrike_ weapon are supernaturally swift. While wielding a _quickstrike_ weapon, you gain the [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] condition, but you can use the additional action granted only to make a Strike with the etched weapon.
 
 *Source: GM Core p. 238*

@@ -25,7 +25,7 @@ entries: 11
 
 **Edicts** be the first to test an item or weapon crafted with your own hands, seek out or innovate formulas for evermore complex creations
 
-**Anathema** destroy the creations of other artisans, refuse an earnest request to repair something that has been broken, use a weapon or item crafted by someone else, except for the purpose of learning its function so you can understand how to create it yourself
+**Anathema** destroy the creations of other artisans, refuse an earnest request to repair something that has been [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]], use a weapon or item crafted by someone else, except for the purpose of learning its function so you can understand how to create it yourself
 
 *Source: War of Immortals p. 79*
 

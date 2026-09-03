@@ -21,13 +21,13 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Emotion`  `Focus`  `Incapacitation`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: Nightmares
+- **Domain**: [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
 - **Duration**: varies
 
-Merging minds with the target, you swap distressing visions. One of you will become confused, based on the target's Will save.
+Merging minds with the target, you swap distressing visions. One of you will become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], based on the target's Will save.
 
 **Critical Success** You are confused for 1 round.
 

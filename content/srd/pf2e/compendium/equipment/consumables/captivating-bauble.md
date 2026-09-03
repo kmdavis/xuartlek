@@ -22,9 +22,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Price**: 350 gp
 - **Usage**: affixed to armor
-- **Activate**: [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (concentrate, manipulate)
-- **Requirement**: You are a master in Deception or Diplomacy.
+- **Activate**: [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
+- **Requirement**: You are a master in [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]].
 
-This talisman appears as an ornate piece of jewelry of the highest quality. When you Activate it, your speech and mannerisms become supernaturally compelling for up to 1 hour. By engaging an intelligent creature in conversation for at least 1 minute, you can cause them to become fascinated unless they succeed at a DC 30 Will save. This fascination lasts for as long as you continue conversing or until you move at least 20 feet away. When the effect ends, the target becomes temporarily immune for 24 hours. If you or any ally within 120 feet takes an overtly hostile action while a creature is fascinated by the bauble, the bauble burns out in a shower of sparks and all its effects end.
+This talisman appears as an ornate piece of jewelry of the highest quality. When you Activate it, your speech and mannerisms become supernaturally compelling for up to 1 hour. By engaging an intelligent creature in conversation for at least 1 minute, you can cause them to become [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] unless they succeed at a DC 30 Will save. This fascination lasts for as long as you continue conversing or until you move at least 20 feet away. When the effect ends, the target becomes temporarily immune for 24 hours. If you or any ally within 120 feet takes an overtly hostile action while a creature is fascinated by the bauble, the bauble burns out in a shower of sparks and all its effects end.
 
 *Source: Treasure Vault (Remastered) p. 92*

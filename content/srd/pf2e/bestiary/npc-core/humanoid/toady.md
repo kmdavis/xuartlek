@@ -29,14 +29,14 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; (9 to eavesdrop)"
-languages: "Common; one additional language spoken by their boss"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; one additional language spoken by their boss"
 skills:
   - name: "Skills"
-    desc: "Athletics +4, Deception +2, Stealth +6, Thievery +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +2, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +4"
 abilityMods: [2, 2, 3, -1, 1, 0]
 abilities_top:
   - name: "Master Sends Their Regards"
-    desc: "A toady can deliver a message from their boss to Demoralize using their boss's Intimidation modifier instead of their own."
+    desc: "A toady can deliver a message from their boss to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] using their boss's Intimidation modifier instead of their own."
   - name: "Items"
     desc: "Sap, supplies for the boss"
 ac: 14
@@ -46,7 +46,7 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Weaknesses__ mental 2"
+    desc: "20; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] 2"
 abilities_mid:
   - name: "Human Shield"
     desc: "⬲"
@@ -57,14 +57,14 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ sap +6 (Agile, Nonlethal) __Damage__ 1d6+2 bludgeoning"
+    desc: "⬻ sap +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d6+2 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +6 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
 abilities_bot:
   - name: "Scurry"
-    desc: "⬻ The toady Strides, then can Hide. They can attempt to Hide from creatures without cover or being concealed, but at a –2 circumstance penalty."
+    desc: "⬻ The toady Strides, then can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]]. They can attempt to Hide from creatures without cover or being [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], but at a –2 circumstance penalty."
   - name: "Throw Cargo"
-    desc: "⬺ A toady carries a heavy load of supplies at their boss's behest. They hurl a heavy item they're carrying, which explodes on impact to deal 1d10 bludgeoning damage to all creatures in a 5-foot burst with a DC 14 basic Reflex save. Perks Of The Job A toady who works for a powerful boss may be granted special abilities or gifts. For example, a high-level spellcaster might give them a _wand of sending_, or an assassin may give them a single dose of a deadly poison to use on a problematic enemy."
+    desc: "⬺ A toady carries a heavy load of supplies at their boss's behest. They hurl a heavy item they're carrying, which explodes on impact to deal 1d10 bludgeoning damage to all creatures in a 5-foot burst with a DC 14 basic Reflex save. Perks Of The Job A toady who works for a powerful boss may be granted special abilities or gifts. For example, a high-level spellcaster might give them a [[srd/pf2e/compendium/spells/rank-5/sending|_wand of sending_]], or an assassin may give them a single dose of a deadly poison to use on a problematic enemy."
 sourcebook: "_NPC Core_, page 152."
 ```
 

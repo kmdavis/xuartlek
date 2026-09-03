@@ -19,7 +19,7 @@ source: "Battlecry!"
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 
-This magical banner seems to impossibly be made from many turning gears that encourage viewers to keep perfect time. Whenever you or an ally within the banner’s aura uses the Delay or Ready action, you or the ally gain 5 temporary Hit Points that last for 1 minute and then become immune to this effect for 10 minutes.
+This magical banner seems to impossibly be made from many turning gears that encourage viewers to keep perfect time. Whenever you or an ally within the banner’s aura uses the [[srd/pf2e/compendium/rules-elements/actions/player-core#Delay|Delay]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Ready|Ready]] action, you or the ally gain 5 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] that last for 1 minute and then become immune to this effect for 10 minutes.
 
 ### Timepiece Standard
 

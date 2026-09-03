@@ -37,11 +37,11 @@ perception:
     desc: "Perception +12; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [5, 2, 4, -5, 2, -2]
 abilities_top:
   - name: "Slow"
-    desc: "A sulfur zombie is permanently slowed 1 and can't use reactions"
+    desc: "A sulfur zombie is permanently [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 and can't use reactions"
 ac: 23
 armorclass:
   - name: "AC"
@@ -49,17 +49,17 @@ armorclass:
 hp: 125
 health:
   - name: "HP"
-    desc: "125 (void healing); __Immunities__ bleed, death effects, disease, fire, mental, paralyzed, poison, unconscious; __Weaknesses__ slashing 7, vitality 7"
+    desc: "125 (void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Weaknesses__ slashing 7, [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] 7"
 abilities_mid:
   - name: "Death Throes"
-    desc: "When a sulfur zombie dies, its body explodes in a 30-foot burst of fire and debris that deals 2d10 bludgeoning damage and 2d10 fire damage to each creature in the area (DC 21 basic Reflex save)."
+    desc: "When a sulfur zombie dies, its body explodes in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] of fire and debris that deals 2d10 bludgeoning damage and 2d10 fire damage to each creature in the area (DC 21 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save)."
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +17 __Damage__ 2d6+5 bludgeoning plus 1d6 persistent fire and blinding sulfur"
+    desc: "⬻ fist +17 __Damage__ 2d6+5 bludgeoning plus 1d6 p[[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|ersistent fire]] and blinding sulfur"
 abilities_bot:
   - name: "Blinding Sulfur"
-    desc: "(Incapacitation) A sulfur zombie burns with putrid inner fire. A creature hit by a sulfur zombie's fist Strike must attempt a DC 22 Fortitude save. On a failure, the creature is blinded for 1 round, or for 1 minute on a critical failure."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]]) A sulfur zombie burns with putrid inner fire. A creature hit by a sulfur zombie's fist Strike must attempt a DC 22 Fortitude save. On a failure, the creature is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round, or for 1 minute on a critical failure."
 sourcebook: "_Monster Core 2_, page 358."
 ```
 

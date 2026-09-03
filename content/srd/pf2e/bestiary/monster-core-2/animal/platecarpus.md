@@ -29,7 +29,7 @@ perception:
     desc: "Perception +9; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +9, Stealth +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11"
 abilityMods: [5, 4, 3, -4, 2, -2]
 abilities_top:
   - name: "Deep Breath"
@@ -50,13 +50,13 @@ abilities_bot:
   - name: "Aquatic Drag"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The platecarpus has a creature grabbed or restrained"
+    desc: "The platecarpus has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]"
   - name: "Effect"
-    desc: "The platecarpus Swims up to half its Speed, carrying the grabbed or restrained creature with it."
+    desc: "The platecarpus [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to half its Speed, carrying the [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] creature with it."
   - name: "Strafing Chomp"
-    desc: "⬻ The platecarpus Swims up to its Speed, making one jaws Strike at any point along the way. The Strike deals half damage."
+    desc: "⬻ The platecarpus [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to its Speed, making one jaws Strike at any point along the way. The Strike deals half damage."
   - name: "Swallow Whole"
-    desc: "⬻ (Attack) Medium, 1d6+2 bludgeoning, Rupture 10"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Medium, 1d6+2 bludgeoning, Rupture 10"
 sourcebook: "_Monster Core 2_, page 227."
 ```
 

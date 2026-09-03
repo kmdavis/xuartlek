@@ -20,10 +20,10 @@ source: "Player Core 2"
 - **Price**: 5 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Sometimes called “deadly nightshade,” belladonna is a widely available toxin produced from a plant similar to a tomato. 
 
-**Saving Throw** DC 19 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** dazzled (10 minutes); **Stage 2** 1d6 poison damage and sickened 1 (10 minutes); **Stage 3** 1d6 poison damage, confused, and sickened 1 (1 minute)
+**Saving Throw** DC 19 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes; **Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] (10 minutes); **Stage 2** 1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (10 minutes); **Stage 3** 1d6 poison damage, [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], and sickened 1 (1 minute)
 
 *Source: Player Core 2 p. 291*

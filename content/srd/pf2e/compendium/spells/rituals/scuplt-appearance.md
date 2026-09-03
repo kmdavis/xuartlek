@@ -16,7 +16,7 @@ source: "Impossible Magic"
 
 - **Cast**: 1 week
 - **Cost**: rare clay and pigments worth 20 gp × the rank of the ritual
-- **Primary Check**: Arcana (expert) or Nature (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (expert) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert)
 - **Range**: touch
 - **Target(s)**: 1 willing creature
 - **Duration**: unlimited
@@ -33,7 +33,7 @@ You permanently alter a creature's appearance, typically by sculpting new featur
 
 **Failure** You fail to create a new appearance for your target.
 
-**Critical Failure** The ritual's magic turns on you, and for the next month, the features of your face change and sometimes even disappear at random intervals when you try to speak with someone or hide these unprompted alterations. During this time, you take a –4 status penalty to Deception, Diplomacy, Intimidation, and Performance checks.
+**Critical Failure** The ritual's magic turns on you, and for the next month, the features of your face change and sometimes even disappear at random intervals when you try to speak with someone or hide these unprompted alterations. During this time, you take a –4 status penalty to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]], [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]], [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]], and [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks.
 
 ---
 **Heightened (5th)** You can adjust the appearance of your target’s ancestry and heritage. This does not change their traits, size, or statistics.

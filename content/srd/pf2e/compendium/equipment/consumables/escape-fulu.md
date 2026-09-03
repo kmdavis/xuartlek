@@ -19,9 +19,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Price**: 70 gp
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You attempt to Escape.
 
-The _escape fulu_ is a charm common among wealthy people, who wear the talisman in case of kidnapping. When you Activate this fulu, for 1 minute, you gain a +2 status bonus to your attempts to Escape as well as to Stealth checks to Hide and Sneak.
+The _escape fulu_ is a charm common among wealthy people, who wear the talisman in case of kidnapping. When you Activate this fulu, for 1 minute, you gain a +2 status bonus to your attempts to Escape as well as to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks to Hide and Sneak.
 
 *Source: Treasure Vault (Remastered) p. 77*

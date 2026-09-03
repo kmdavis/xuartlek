@@ -29,10 +29,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Diplomacy +10, Fortune-Telling Lore +11, Occultism +5, Performance +5, Society +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Fortune-Telling Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +5, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +5, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +5"
 abilityMods: [1, 2, 1, 2, 3, 3]
 abilities_top:
   - name: "Cold Reading Specialist"
@@ -50,14 +50,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ sickle +6 (Agile, Finesse, Trip) __Damage__ 1d4+1 slashing"
+    desc: "⬻ sickle +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+1 slashing"
   - name: "Melee"
-    desc: "⬻ fist +6 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ fist +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
 abilities_bot:
   - name: "Fated Doom"
     desc: "Though harrow readers try to avoid combat, no throw of the cards can avoid fate, so a harrow reader learns how best to survive. In the harrow reader's first encounter each day, they gain a +1 status bonus to their initiative roll, attack rolls, and AC."
   - name: "Read the Harrow"
-    desc: "(Exploration, Occult, Prediction) The harrow reader can conduct a reading over the course of 10 minutes to duplicate the effects of the _augury_ spell. The harrow reader can conduct up to five readings per day, but the flat check DC increases by 2. This is cumulative, to a maximum of DC 14 for the fifth. Forms Of Fortune-Telling"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/exploration|Exploration]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/prediction|Prediction]]) The harrow reader can conduct a reading over the course of 10 minutes to duplicate the effects of the [[srd/pf2e/compendium/spells/rank-2/augury|_augury_]] spell. The harrow reader can conduct up to five readings per day, but the flat check DC increases by 2. This is cumulative, to a maximum of DC 14 for the fifth. Forms Of Fortune-Telling"
   - name: "Anthomancy"
     desc: ": flowers"
   - name: "Astrology"
@@ -67,7 +67,7 @@ abilities_bot:
   - name: "Chiromancy"
     desc: ": reading the palm's heart, life, and head lines"
   - name: "Demonomancy"
-    desc: ": asking demons"
+    desc: ": asking [[srd/pf2e/compendium/gm/creature-families/demon|demons]]"
   - name: "Harrowing"
     desc: ": harrow card readings"
   - name: "Haruspicy"

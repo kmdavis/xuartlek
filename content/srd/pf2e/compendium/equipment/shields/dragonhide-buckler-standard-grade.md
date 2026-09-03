@@ -16,7 +16,7 @@ source: "Player Core 2"
 
 - **Usage**: varies by shield
 - **Bulk**: L
-- **Base Material**: Dragonhide
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/dragonhide-object-high-grade|Dragonhide]]
 
 Dragonhide shields are each immune to one damage type based on the tradition associated with the dragon. 
 

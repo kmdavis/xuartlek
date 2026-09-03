@@ -21,6 +21,6 @@ source: "Treasure Vault (Remastered)"
 
 A star inked on the back of the hand, usually between the thumb and forefinger, keeps you on the right path.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** As you hold up your hand and align the star in view, you learn which direction you're facing.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** As you hold up your hand and align the star in view, you learn which direction you're facing.
 
 *Source: Treasure Vault (Remastered) p. 121*

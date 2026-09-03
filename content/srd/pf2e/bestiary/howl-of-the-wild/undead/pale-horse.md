@@ -33,10 +33,10 @@ modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; darkvision, lifesense 90 feet"
-languages: "Common, Fey, Necril; can't speak any language"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]; can't speak any language"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +26, Intimidation +20, Stealth +23"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +26, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +20, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +23"
 abilityMods: [-5, 8, 3, -2, 4, 3]
 ac: 30
 armorclass:
@@ -45,22 +45,22 @@ armorclass:
 hp: 180
 health:
   - name: "HP"
-    desc: "180 (void healing); __Immunities__ death effects, disease, mental, paralyzed, poison, unconscious; __Resistances__ all damage 10 (except force, _ghost touch_, or vitality; double resistance vs. non-magical)"
+    desc: "180 (void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ all damage 10 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]; double resistance vs. non-[[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])"
 abilities_mid:
   - name: "Aura of Despair"
-    desc: "(aura, emotion, mental) 30 feet. A living creature that begins its turn in the aura must succeed at a DC 27 Will save or become slowed 1. A creature is temporarily immune to the aura for 1 hour if it critically succeeds."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 30 feet. A living creature that begins its turn in the aura must succeed at a DC 27 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]]. A creature is temporarily immune to the aura for 1 hour if it critically succeeds."
 speed: "fly 45 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ spectral horn +24 (Finesse, Magical) __Damage__ 3d10+10 void"
+    desc: "⬻ spectral horn +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 3d10+10 void"
   - name: "Melee"
-    desc: "⬻ hoof +24 (Agile, Finesse, Magical) __Damage__ 3d8+10 void"
+    desc: "⬻ hoof +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 3d8+10 void"
 abilities_bot:
   - name: "Spectral Charge"
-    desc: "⬺ The pale horse Flies twice and then makes a horn Strike. The pale horse can move through creatures."
+    desc: "⬺ The pale horse [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] twice and then makes a horn Strike. The pale horse can move through creatures."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 27 - __2nd__ Darkness (at will) - __4th__ Harm (×3) - __5th__ Toxic Cloud, Translocate"
+    desc: "DC 27 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/darkness|Darkness]] (at will) - __4th__ [[srd/pf2e/compendium/spells/rank-1/harm|Harm]] (×3) - __5th__ [[srd/pf2e/compendium/spells/rank-5/toxic-cloud|Toxic Cloud]], [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]]"
 sourcebook: "_Howl of the Wild_, page 190."
 ```
 

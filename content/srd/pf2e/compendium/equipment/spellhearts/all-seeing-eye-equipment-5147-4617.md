@@ -18,10 +18,10 @@ source: "Impossible Magic"
 - **Usage**: affixed to armor or a weapon
 
 This glass eyeball is slightly uncanny due to the two brightly colored crystal irises it sports on opposing sides. It helps combatants see their foes even in the darkest of situations.
-**• Armor** You gain resistance 2 to damage from illusion effects.
-**• Weapon** (fortune) After you cast a light spell by Activating the eye, your own eyesight sharpens until the end of your next turn. If you fail the flat check to target a concealed or hidden opponent with a Strike with the weapon, you can reroll it and take the new result. 
+**• Armor** You gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 2 to damage from [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] effects.
+**• Weapon** ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]]) After you cast a light spell by Activating the eye, your own eyesight sharpens until the end of your next turn. If you fail the flat check to target a [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] opponent with a Strike with the weapon, you can reroll it and take the new result. 
 
-**Activate** Cast a Spell **Effect** You cast __light_._
+**Activate** Cast a Spell **Effect** You cast _[[srd/pf2e/compendium/spells/cantrips/light|_light_]]._
 
 ### All-seeing Eye
 
@@ -35,6 +35,6 @@ This glass eyeball is slightly uncanny due to the two brightly colored crystal i
 
 The resistance increases to 4. The spell DC of any spell cast by Activating this item is 20. 
 
-**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast __revealing light__.
+**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast _[[srd/pf2e/compendium/spells/rank-2/revealing-light|_revealing light_]]_.
 
 *Source: Impossible Magic p. 234*

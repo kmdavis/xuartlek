@@ -10,36 +10,36 @@ source: "Dark Archives (Remastered)"
 
 # The Oscillating Wave  *Psychic Conscious Mind*
 
-Energy can't be created or destroyed, only transferred or changed—whenever you use your magic to add or remove energy, you must then balance it with the opposing force. While this allows you to invert your spells to cast a scorching _frostbite_ or frozen _fireball_, it also means your spells alternate between fire and cold in equal measure. The first time in an encounter that you cast a granted spell or standard psi cantrip from your conscious mind, decide whether you're adding energy or removing it. Once you add energy, you must remove energy the next time you cast one of these spells, and vice versa. When you Refocus, you restore yourself to a neutral state, allowing you to once again freely choose whether you add or remove energy on your next spell.
+Energy can't be created or destroyed, only transferred or changed—whenever you use your magic to add or remove energy, you must then balance it with the opposing force. While this allows you to invert your spells to cast a scorching _frostbite_ or frozen [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]], it also means your spells alternate between fire and cold in equal measure. The first time in an encounter that you cast a granted spell or standard psi cantrip from your conscious mind, decide whether you're adding energy or removing it. Once you add energy, you must remove energy the next time you cast one of these spells, and vice versa. When you Refocus, you restore yourself to a neutral state, allowing you to once again freely choose whether you add or remove energy on your next spell.
 
 **Granted Spells**
-- **1st** Breathe Fire
-- **2nd** Blazing Bolt
-- **3rd** Fireball
-- **4th** Ice Storm
-- **5th** Howling Blizzard
-- **6th** Frozen Fog
-- **7th** Volcanic Eruption
-- **8th** Arctic Rift
-- **9th** Falling Stars
+- **1st** [[srd/pf2e/compendium/spells/rank-1/breathe-fire|Breathe Fire]]
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/blazing-bolt|Blazing Bolt]]
+- **3rd** [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]]
+- **4th** [[srd/pf2e/compendium/spells/rank-4/ice-storm|Ice Storm]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|Howling Blizzard]]
+- **6th** [[srd/pf2e/compendium/spells/rank-6/frozen-fog|Frozen Fog]]
+- **7th** [[srd/pf2e/compendium/spells/rank-7/volcanic-eruption|Volcanic Eruption]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/arctic-rift|Arctic Rift]]
+- **9th** [[srd/pf2e/compendium/spells/rank-9/falling-stars|Falling Stars]]
 
-**Standard Psi Cantrips** Frostbite and Ignition
+**Standard Psi Cantrips** [[srd/pf2e/compendium/spells/cantrips/frostbite|Frostbite]] and [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]]
 
-**Surface Psi Cantrip** Thermal Stasis
+**Surface Psi Cantrip** [[srd/pf2e/compendium/spells/cantrips/thermal-stasis|Thermal Stasis]]
 
-**Deeper Psi Cantrip (Level 6)** Entropic Wheel
+**Deeper Psi Cantrip (Level 6)** [[srd/pf2e/compendium/spells/cantrips/entropic-wheel|Entropic Wheel]]
 
-**Deepest Psi Cantrip (Level 10)** Redistribute Potential
+**Deepest Psi Cantrip (Level 10)** [[srd/pf2e/compendium/spells/cantrips/redistribute-potential|Redistribute Potential]]
 
 ### Conservation of Energy
 
-Energy can't be created or destroyed, only transferred or changed—whenever you use your magic to add or remove energy, you must then balance it with the opposing force. While this allows you to invert your spells to cast a scorching _frostbite_ or frozen _fireball_, it also means your spells alternate between fire and cold in equal measure. The first time in an encounter that you cast a granted spell or standard psi cantrip from your conscious mind, decide whether you're adding energy or removing it. Once you add energy, you must remove energy the next time you cast one of these spells, and vice versa. When you Refocus, you restore yourself to a neutral state, allowing you to once again freely choose whether you add or remove energy on your next spell.
+Energy can't be created or destroyed, only transferred or changed—whenever you use your magic to add or remove energy, you must then balance it with the opposing force. While this allows you to invert your spells to cast a scorching _frostbite_ or frozen [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]], it also means your spells alternate between fire and cold in equal measure. The first time in an encounter that you cast a granted spell or standard psi cantrip from your conscious mind, decide whether you're adding energy or removing it. Once you add energy, you must remove energy the next time you cast one of these spells, and vice versa. When you Refocus, you restore yourself to a neutral state, allowing you to once again freely choose whether you add or remove energy on your next spell.
 
- **Adding Energy:** The ability gains the fire trait and any damage it deals is fire damage. It loses any traits matching damage types it no longer deals.
+ **Adding Energy:** The ability gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] trait and any damage it deals is fire damage. It loses any traits matching damage types it no longer deals.
 
- **Removing Energy:** The ability gains the cold trait and any damage it deals is cold damage. It loses any traits matching damage types it no longer deals.
+ **Removing Energy:** The ability gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] trait and any damage it deals is cold damage. It loses any traits matching damage types it no longer deals.
 
- **Mindshift:** When you use an action that has the mindshift trait, you can choose to add or remove energy to it instead of making it mental. Alter it as normal for adding or removing energy and change any save it requires to a Reflex save.
+ **Mindshift:** When you use an action that has the [[srd/pf2e/compendium/rules-elements/traits/dark-archives-remastered/mindshift|mindshift]] trait, you can choose to add or remove energy to it instead of making it mental. Alter it as normal for adding or removing energy and change any save it requires to a Reflex save.
 
 ### Frostbite
 

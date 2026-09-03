@@ -20,7 +20,7 @@ source: "Player Core"
 - **Bloodline**: Undead
 - **Duration**: 10 minutes
 
-Your gaze pierces through illusions and finds invisible creatures and spirits. You can see invisible creatures as though they weren't invisible, although their features are blurred, making them concealed and difficult to identify. You can also see incorporeal creatures, like ghosts, phased through an object from within 10 feet of an object's surface as blurry shapes seen through those objects. Subtler clues also grant you a +2 status bonus to checks you make to disbelieve illusions.
+Your gaze pierces through illusions and finds [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] creatures and spirits. You can see invisible creatures as though they weren't invisible, although their features are blurred, making them [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] and difficult to identify. You can also see [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] creatures, like ghosts, phased through an object from within 10 feet of an object's surface as blurry shapes seen through those objects. Subtler clues also grant you a +2 status bonus to checks you make to disbelieve illusions.
 
 ---
 **Heightened (5th)** This spell has a duration of 8 hours.

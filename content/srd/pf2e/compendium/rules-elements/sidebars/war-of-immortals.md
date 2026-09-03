@@ -11,7 +11,7 @@ entries: 4
 
 ## Key Terms  *Sidebar*
 
-- **Parent page**: Animist
+- **Parent page**: [[srd/pf2e/compendium/character/classes/animist|Animist]]
 
 You'll see the following new key terms in many animist class features.
 
@@ -27,7 +27,7 @@ You'll see the following new key terms in many animist class features.
 
 ## Key Terms  *Sidebar*
 
-- **Parent page**: Exemplar
+- **Parent page**: [[srd/pf2e/compendium/character/classes/exemplar|Exemplar]]
 
 The following new key terms appear in many exemplar class features and feats.
 
@@ -35,15 +35,15 @@ The following new key terms appear in many exemplar class features and feats.
 
  **Ikon**: An item with the ikon trait is a special item provided or created by your divinity that is so tied to you it can serve as a sacred vessel for your exemplar might. You gain three ikons at 1st level from the list on page 43. Each ikon has a passive immanence ability and an activated transcendence ability. A feat with the ikon trait imbues one of your ikons with further capabilities. Whenever you gain a feat with the ikon trait, choose which of your ikons gains that ability; if you have multiple ikons that meet the feat's usage requirements, you can take the feat multiple times to apply its effects to another one of your ikons. These feats list what ikon they can be imbued into, and any number of them can be imbued into a single ikon.
 
- **Immanence**: At any given time, your divine spark can rest within one of your ikons, empowering it with beyond-mortal abilities. As long as your divine spark is empowering one of your ikons, that ikon gains the divine trait and grants you the benefits described in its immanence entry (which is also a divine effect). If your ikon has multiple immanence abilities, you gain all of them whenever the ikon is empowered. If an immanence ability occurs on a critical Strike with a weapon, it replaces any critical specialization effect that weapon might otherwise have.
+ **Immanence**: At any given time, your divine spark can rest within one of your ikons, empowering it with beyond-mortal abilities. As long as your divine spark is empowering one of your ikons, that ikon gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] trait and grants you the benefits described in its immanence entry (which is also a divine effect). If your ikon has multiple immanence abilities, you gain all of them whenever the ikon is empowered. If an immanence ability occurs on a critical Strike with a weapon, it replaces any critical specialization effect that weapon might otherwise have.
 
- **Transcendence**: Transcendence channels the might of your divine spark through one of your ikons to surpass the mortal and enact a miraculous deed. Each ikon has an action with the transcendence trait, and using it is called Sparking Transcendence. To use the action, your divine spark must be empowering that ikon and you must have the ikon ready to use (typically holding a weapon ikon or wearing a worn ikon). Immediately after you Spark Transcendence, your divine spark is forcefully ejected from that ikon, coming to rest in another ikon of your choice. You can Spark Transcendence only once each round. As it comes from your divine spark, a transcendence action has the divine trait.
+ **Transcendence**: Transcendence channels the might of your divine spark through one of your ikons to surpass the mortal and enact a miraculous deed. Each ikon has an action with the transcendence trait, and using it is called Sparking Transcendence. To use the action, your divine spark must be empowering that ikon and you must have the ikon ready to use (typically holding a weapon ikon or wearing a worn ikon). Immediately after you Spark Transcendence, your divine spark is forcefully ejected from that ikon, coming to rest in another ikon of your choice. You can Spark Transcendence only once each round. As it comes from your divine spark, a transcendence action has the [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] trait.
 
 *Source: War of Immortals p. 28*
 
 ## Retraining Callings  *Sidebar*
 
-- **Parent page**: Mythic Progression
+- **Parent page**: [[srd/pf2e/books/war-of-immortals/mythic-rules/mythic-progression|Mythic Progression]]
 
 In the right circumstances, you can retrain your Calling to a different one. Retraining a Calling should be coordinated with your GM; typically, a change in a character’s Calling results from a major pivotal event, such as completing the objective of their first Calling or undergoing an immense challenge that fundamentally changes their outlook on life. For example, a character might start with the Hunter’s Calling when their village is ravaged by a mythic monster, and then defeat that monster around the time they reach 10th level. After this pivotal event, the GM might allow them to change their Calling to the Guardian’s Calling, as the new purpose of their mythic power is to protect other villages from the kind of disaster that originally befell their home. A character should have the opportunity to retrain their Calling following such an event without significant time having passed in the world of the game.
 
@@ -51,7 +51,7 @@ In the right circumstances, you can retrain your Calling to a different one. Ret
 
 ## Unlocking New Paths Forward  *Sidebar*
 
-- **Parent page**: Designing Mythic Encounters
+- **Parent page**: [[srd/pf2e/books/war-of-immortals/mythic-rules/designing-mythic-encounters|Designing Mythic Encounters]]
 
 Mythic powers, especially at low levels, can be thought of as skeleton keys that mythic PCs can use to access parts of the world that might normally be inaccessible to them. If the PCs are adventuring in a dungeon, this could be reflected through locked doors, hazards, and other obstacles that normally require a minimum proficiency level of expert or higher to bypass; since mythic proficiency is the highest proficiency level available, mythic characters with the correct Callings or feats can attempt these checks regardless of their level and normal proficiency by spending a Mythic Point.
 

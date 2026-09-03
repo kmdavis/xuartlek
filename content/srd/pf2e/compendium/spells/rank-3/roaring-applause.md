@@ -22,7 +22,7 @@ source: "Impossible Magic"
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: Will
-- **Duration**: sustained up to 10 minutes
+- **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 10 minutes
 
 Your flamboyant flourish invokes such powerful feelings in your audience that you incite cheers and applause. The target of this spell must be able to see, hear, or otherwise understand you. The target must attempt a Will save.
 
@@ -30,9 +30,9 @@ Your flamboyant flourish invokes such powerful feelings in your audience that yo
 
 **Success** The target becomes mildly distracted and applauds while it isn’t fully occupied. It can’t use reactions.
 
-**Failure** The target applauds you so vigorously that it can’t use reactions and is slowed 1. The applause is so involved that it has the manipulate trait. This triggers reactions based on the manipulate trait at the start of the target’s turn.
+**Failure** The target applauds you so vigorously that it can’t use reactions and is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1. The applause is so involved that it has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait. This triggers reactions based on the manipulate trait at the start of the target’s turn.
 
-**Critical Failure** As failure, plus the target is so distracted by its vigorous applauding of you that it’s fascinated with you.
+**Critical Failure** As failure, plus the target is so distracted by its vigorous applauding of you that it’s [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with you.
 
 ---
 **Heightened (6th)** You can target up to 10 creatures.

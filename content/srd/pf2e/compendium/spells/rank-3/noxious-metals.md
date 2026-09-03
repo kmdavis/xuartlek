@@ -23,7 +23,7 @@ source: "Rage of Elements"
 - **Area**: 20-foot burst
 - **Defense**: basic Fortitude
 
-This spell forces toxic metal to coalesce on the skin or surface of all living creatures in the area, dealing 4d6 poison damage with a basic Fortitude save. Any creature that has the plant trait, has the wood trait, or has an anathema toward metal, takes the following effects depending on the result of that Fortitude save.
+This spell forces toxic metal to coalesce on the skin or surface of all living creatures in the area, dealing 4d6 poison damage with a basic Fortitude save. Any creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] trait, has the [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]] trait, or has an anathema toward metal, takes the following effects depending on the result of that Fortitude save.
 
 **Critical Success** The creature suffers no additional effects.
 

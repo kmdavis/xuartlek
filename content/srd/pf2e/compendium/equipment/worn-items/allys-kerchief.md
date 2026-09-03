@@ -20,6 +20,6 @@ source: "Battlecry!"
 
 Organizations generally buy these simple squares of fabric in large batches with an invisible symbol on each. They help armies composed of troops unfamiliar with each other, such as mercenaries or conscripts, to recognize allied units. The kerchiefs might be tied around the head, neck, or arm. They can also be used to root out impostors.
 
-**Activate—Identify Allies** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Trigger** You move within 15 feet of a creature wearing a matching _ally’s kerchief_; **Effect** The symbol magically glows above your head. It’s invisible to everyone not invested in a matching _ally’s kerchief_.
+**Activate—Identify Allies** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You move within 15 feet of a creature wearing a matching _ally’s kerchief_; **Effect** The symbol magically glows above your head. It’s [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] to everyone not invested in a matching _ally’s kerchief_.
 
 *Source: Battlecry! p. 148*

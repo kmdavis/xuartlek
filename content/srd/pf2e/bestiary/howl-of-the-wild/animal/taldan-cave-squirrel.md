@@ -29,7 +29,7 @@ perception:
     desc: "Perception +15; low-light vision, scent (imprecise) 60 feet, tremorsense (imprecise)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +12, Survival +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +13"
 abilityMods: [4, 4, 5, -4, 1, 2]
 abilities_top:
   - name: "Studded Cheeks"
@@ -44,7 +44,7 @@ health:
     desc: "95"
 abilities_mid:
   - name: "Defensive Scream"
-    desc: "⬲ (auditory)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]])"
   - name: "Trigger"
     desc: "The cave squirrel rolls initiative or has taken damage before initiative"
   - name: "Effect"
@@ -52,20 +52,20 @@ abilities_mid:
 speed: "30 feet, burrow 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +15 (Agile) __Damage__ 2d6+4 piercing plus Grab"
+    desc: "⬻ jaws +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d6+4 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ claw +13 (Agile) __Damage__ 2d8+4 slashing"
+    desc: "⬻ claw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d8+4 slashing"
   - name: "Ranged"
     desc: "⬻ gem spit +15 (range 20 feet) __Damage__ 2d8+6 bludgeoning plus concussive gem"
 abilities_bot:
   - name: "Concussive Gem"
-    desc: "On a critical hit on a gem spit Strike, the target must succeed at a DC 22 Fortitude save or become stunned 1."
+    desc: "On a critical hit on a gem spit Strike, the target must succeed at a DC 22 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]]."
   - name: "Forage for Gems"
-    desc: "⬺ The cave squirrel dives underground in search of gems. The cave squirrel Burrows up to its Speed. It must end its movement back on the surface. During its burrow, it happens upon 1d4 cheap gems (such as salt or quartz), which it stuffs in its cheeks, up to its maximum of 6."
+    desc: "⬺ The cave squirrel dives underground in search of gems. The cave squirrel [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrows]] up to its Speed. It must end its movement back on the surface. During its burrow, it happens upon 1d4 cheap gems (such as salt or quartz), which it stuffs in its cheeks, up to its maximum of 6."
   - name: "Natural Speed"
     desc: "A cave squirrel isn't affected by difficult terrain from earth or stone."
   - name: "Screaming Force"
-    desc: "⬻ (Auditory, Sonic) The cave squirrel lets out a terrible scream. Non–cave squirrel creatures within 30 feet must succeed at a DC 22 Fortitude save or take 2d10 sonic damage. On a critical failure, a creature is deafened for 1 minute. The cave squirrel can't use Screaming Force again for 1d4 rounds."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|Sonic]]) The cave squirrel lets out a terrible scream. Non–cave squirrel creatures within 30 feet must succeed at a DC 22 Fortitude save or take 2d10 sonic damage. On a critical failure, a creature is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 minute. The cave squirrel can't use Screaming Force again for 1d4 rounds."
 sourcebook: "_Howl of the Wild_, page 186."
 ```
 

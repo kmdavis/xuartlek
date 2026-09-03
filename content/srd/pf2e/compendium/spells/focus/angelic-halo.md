@@ -23,6 +23,6 @@ source: "Player Core 2"
 - **Area**: 15-foot emanation
 - **Duration**: 1 minute
 
-You gain an angelic halo with an aura that increases allies' healing from the _heal_ spell. Allies in your halo's emanation who are healed by a _heal_ spell gain a status bonus to Hit Points regained equal to double the heal spell's rank.
+You gain an angelic halo with an aura that increases allies' healing from the [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]] spell. Allies in your halo's emanation who are healed by a _heal_ spell gain a status bonus to Hit Points regained equal to double the heal spell's rank.
 
 *Source: Player Core 2 p. 262*

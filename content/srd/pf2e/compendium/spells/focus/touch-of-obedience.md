@@ -18,7 +18,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: Tyranny
+- **Domain**: [[srd/pf2e/compendium/character/domains#Tyranny|Tyranny]]
 - **Range**: touch
 - **Target**: 1 living creature
 - **Defense**: Will
@@ -32,6 +32,6 @@ Your imperious touch erodes the target's willpower, making it easier to control.
 
 **Failure** The target is stupefied 2 until the end of your next turn.
 
-**Critical Failure** The target is stupefied 2 for 1 minute and is forced to its knees, becoming prone.
+**Critical Failure** The target is stupefied 2 for 1 minute and is forced to its knees, becoming [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Player Core p. 380*

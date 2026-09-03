@@ -24,7 +24,7 @@ source: "Impossible Magic"
 - **Duration**: 1 minute
 
 You flood your eidolon with power, creating a temporary evolution in your eidolon’s capabilities. Choose one of the following effects. 
-Your eidolon gains low-light vision and darkvision.Your eidolon gains scent as an imprecise sense up to 30 feet.Your eidolon can breathe underwater and gains a swim Speed equal to their land Speed or 30 feet, whichever is less. Alternatively, if your eidolon is normally aquatic, they can breathe air and gain a land Speed equal to their swim Speed or 30 feet, whichever is less. Either way, they gain the amphibious trait.Your eidolon gains a +20-foot status bonus to their Speed.
+Your eidolon gains low-light vision and darkvision.Your eidolon gains scent as an [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Senses|imprecise sense]] up to 30 feet.Your eidolon can breathe underwater and gains a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Swim Speed|swim Speed]] equal to their land Speed or 30 feet, whichever is less. Alternatively, if your eidolon is normally aquatic, they can breathe air and gain a land Speed equal to their swim Speed or 30 feet, whichever is less. Either way, they gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/amphibious|amphibious]] trait.Your eidolon gains a +20-foot status bonus to their Speed.
 
 ---
 **Heightened (3rd)** Add the following options to the list of effects you can choose.

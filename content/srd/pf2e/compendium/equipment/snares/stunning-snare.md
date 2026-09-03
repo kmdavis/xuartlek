@@ -23,7 +23,7 @@ You rig a snare to disorient a creature with a quick bash, leaving it with littl
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is off-guard for 1 round and stunned 1.
+**Success** The creature takes half damage and is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
 
 **Failure** The creature takes full damage and is off-guard for 1 round and stunned 2.
 

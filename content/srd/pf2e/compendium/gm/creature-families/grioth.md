@@ -18,11 +18,11 @@ Planets that drift out of orbit from their stars grow cold and lifeless as they 
 
 ### Members
 
-Grioth Cultist (Creature 3), Grioth Scout (Creature 1)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/grioth-cultist|Grioth Cultist]] (Creature 3), [[srd/pf2e/bestiary/monster-core-2/humanoid/grioth-scout|Grioth Scout]] (Creature 1)
 
 ### Haunter in the Dark
 
-Nyarlathotep is often venerated by grioths in a bat-like incarnation with a three-lobed burning eye, known as the Haunter in the Dark. He grants the following benefits.
+[[srd/pf2e/compendium/character/deities#Nyarlathotep (Haunter in the Dark)|Nyarlathotep]] is often venerated by grioths in a bat-like incarnation with a three-lobed burning eye, known as the Haunter in the Dark. He grants the following benefits.
 
 ### Void Glass
 

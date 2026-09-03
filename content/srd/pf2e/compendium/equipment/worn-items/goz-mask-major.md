@@ -19,7 +19,7 @@ source: "Treasure Vault (Remastered)"
 
 Originally designed by a sect of Gozren priests, _goz masks_ were designed to help navigate the area around the Eye of Abendego. The masks couldn't contend with the might of the storm, but people all around the Mwangi Expanse still use them. These masks are typically made of wood and sport round, exaggerated features.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per day; **Effect** You ignore concealment caused by fog, smoke, and other obscuring vapors for 1 minute.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You ignore concealment caused by fog, smoke, and other obscuring vapors for 1 minute.
 
 ### Goz Mask
 

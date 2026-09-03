@@ -21,19 +21,19 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Emotion`  `Fear`  `Focus`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: Nightmares
+- **Domain**: [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will
 - **Duration**: varies
 
-You fill the creature's mind with a terrifying vision. The target must attempt a Will save. A creature frightened by this spell takes 1 additional mental damage each time it's hit by a Strike.
+You fill the creature's mind with a terrifying vision. The target must attempt a Will save. A creature [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] by this spell takes 1 additional mental damage each time it's hit by a Strike.
 
 **Critical Success** The target is unaffected.
 
 **Success** The target is frightened 1.
 
-**Failure** The target is frightened 2. If it's asleep, it wakes up and is paralyzed for 1 round.
+**Failure** The target is frightened 2. If it's asleep, it wakes up and is [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] for 1 round.
 
 **Critical Failure** As failure, but frightened 3.
 

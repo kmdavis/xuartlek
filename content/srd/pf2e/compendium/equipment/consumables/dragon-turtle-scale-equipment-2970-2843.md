@@ -17,7 +17,7 @@ source: "GM Core"
 `Consumable`  `Magical`  `Talisman`
 
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Requirement**: You're trained in Athletics.
 
 This shimmering green scale is usually attached to a golden clasp or chain. When you activate the scale, for 1 minute you gain a swim Speed equal to half your land Speed.

@@ -1,0 +1,21 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e/player-core
+- trait/human
+- feat/level/1
+aliases: ["Unconventional Weaponry"]
+aon_id: "feat-4480"
+source: "Player Core"
+---
+
+# Unconventional Weaponry  *Feat 1*
+
+`Human`
+
+You’ve familiarized yourself with a particular weapon, potentially from another ancestry or culture. Choose an uncommon simple or martial weapon with a trait corresponding to an ancestry (such as [[srd/pf2e/compendium/rules-elements/traits/player-core/dwarf|dwarf]], [[srd/pf2e/compendium/rules-elements/traits/player-core/goblin|goblin]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/orc|orc]]) or that is common in another culture. You gain access to that weapon, and for the purpose of proficiency, you treat it as a simple weapon.
+
+If you are trained in all martial weapons, you can instead choose an uncommon advanced weapon that has an ancestry’s trait or is common in another culture. You gain access to that weapon and have familiarity with that weapon. For the purpose of proficiency, you treat it as a martial weapon.
+
+*Source: Player Core p. 64*

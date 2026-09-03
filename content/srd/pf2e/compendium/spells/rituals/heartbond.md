@@ -17,7 +17,7 @@ source: "Player Core 2"
 - **Cast**: 1 hour
 - **Cost**: sacramental beverages and a set of matching rings or other tokens worth 20 gp per secondary caster
 - **Secondary Casters**: 2 or more
-- **Primary Check**: Nature or Religion (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (expert)
 - **Secondary Checks**: Diplomacy , Society
 - **Range**: 20 feet
 
@@ -25,15 +25,15 @@ You officiate the creation of a magical bond between two or more willing creatur
 
 Creatures benefiting from a successful _heartbond_ ritual can later participate in a heightened version of the ritual without requiring new checks by spending the required time and paying the difference of the two costs. A creature can be under the effects of multiple _heartbond_ rituals at once.
 
-**Critical Success** Once per day, each bonded creature can use a 2-action activity, which has the concentrate trait, to learn the present state of one other bonded creature. The creature knows the other creature’s direction and distance and any conditions affecting them. Each participant can cast _message_ as a divine innate spell at will, but can target only another participant.
+**Critical Success** Once per day, each bonded creature can use a 2-action activity, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait, to learn the present state of one other bonded creature. The creature knows the other creature’s direction and distance and any conditions affecting them. Each participant can cast [[srd/pf2e/compendium/spells/cantrips/message|_message_]] as a divine [[srd/pf2e/books/player-core/chapter-7-spells/innate-spells|innate spell]] at will, but can target only another participant.
 
 **Success** As a critical success, except the bonded creatures can’t cast _message_ as a divine innate spell.
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** Magical backlash creates discordant energy among the participants. For 1 week, each secondary caster is clumsy 2 and stupefied 2 whenever they are within 30 feet of another secondary caster.
+**Critical Failure** Magical backlash creates discordant energy among the participants. For 1 week, each secondary caster is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2 and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 whenever they are within 30 feet of another secondary caster.
 
 ---
-**Heightened (6th)** The cost increases to 300 gp per secondary caster. On a success, secondary casters permanently gain the effects of a 6th-rank _telepathy_ spell, but only with each other.
+**Heightened (6th)** The cost increases to 300 gp per secondary caster. On a success, secondary casters permanently gain the effects of a 6th-rank [[srd/pf2e/compendium/spells/rank-4/telepathy|_telepathy_]] spell, but only with each other.
 
 *Source: Player Core 2 p. 268*

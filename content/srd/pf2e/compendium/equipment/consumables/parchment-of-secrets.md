@@ -24,6 +24,6 @@ source: "Dark Archives (Remastered)"
 
 This parchment is crafted with illusion magic, allowing for the transfer of secret messages. You can fill the parchment with the usual amount of text, encoding your secret message within the innocuous message. 
 
-**Activate—Hide Message** (manipulate) **Effect** You tap the letters of your secret message one at a time, causing the letters to glow momentarily before fading to their standard ink color, and a symbol of your choice appears at the corner of the page. The next time someone taps the symbol with a writing instrument, the chosen letters glow again, revealing the secret message, and then the power of the parchment is spent.
+**Activate—Hide Message** ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You tap the letters of your secret message one at a time, causing the letters to glow momentarily before fading to their standard ink color, and a symbol of your choice appears at the corner of the page. The next time someone taps the symbol with a writing instrument, the chosen letters glow again, revealing the secret message, and then the power of the parchment is spent.
 
 *Source: Dark Archives (Remastered) p. 82*

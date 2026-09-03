@@ -27,10 +27,10 @@ modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; darkvision"
-languages: "Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +19, Athletics +23, Stealth +19, Survival +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +19, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +19, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +17"
 abilityMods: [7, 3, 6, 0, 3, 0]
 ac: 30
 armorclass:
@@ -46,12 +46,12 @@ abilities_mid:
 speed: "40 feet, climb 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +23 (reach 15 feet) __Damage__ 2d12+13 piercing"
+    desc: "⬻ jaws +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d12+13 piercing"
   - name: "Melee"
-    desc: "⬻ claw +23 (Agile, reach 15 feet) __Damage__ 2d8+13 slashing"
+    desc: "⬻ claw +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+13 slashing"
 abilities_bot:
   - name: "Eerie Flexibility"
-    desc: "Despite its size, the gug's multiple joints allow it to fit through tight spaces as if it were a Medium creature. While Squeezing, it can move at its full Speed."
+    desc: "Despite its size, the gug's multiple joints allow it to fit through tight spaces as if it were a Medium creature. While [[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeezing]], it can move at its full Speed."
   - name: "Furious Claws"
     desc: "⬺ The gug makes up to four claw Strikes, each against a different target. These attacks all count toward the gug's multiple attack penalty, but the penalty doesn't increase until after the gug makes all its attacks."
   - name: "Rend"

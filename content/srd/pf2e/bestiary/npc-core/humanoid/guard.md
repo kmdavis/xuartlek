@@ -29,10 +29,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; (8 to find concealed objects)"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +7, Intimidation +5, Legal Lore +3"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +3"
 abilityMods: [3, 2, 2, 0, 2, -1]
 abilities_top:
   - name: "Items"
@@ -51,9 +51,9 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ sap +7 (Agile, Nonlethal) __Damage__ 1d6+3 bludgeoning"
+    desc: "⬻ sap +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d6+3 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +7 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
     desc: "⬻ crossbow +6 (range increment 120 feet, reload 1) __Damage__ 1d8 piercing Raise The Alarm! In a settlement with an alarm, brawls, or other major disruptions trigger an alarm 1 round after the watch is alerted. Guards start to arrive after about 5 rounds, usually in patrols of 2 or 3 members, with larger groups of 8–12 near important locations."
 sourcebook: "_NPC Core_, page 110."

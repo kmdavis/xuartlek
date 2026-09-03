@@ -22,9 +22,9 @@ source: "Player Core 2"
 - **Price**: 160 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Distilled from the Netherworld, this oily substance imposes tenebrous effects. The enfeebled condition from nethershade lasts for 24 hours. 
+Distilled from the Netherworld, this oily substance imposes tenebrous effects. The [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] condition from nethershade lasts for 24 hours. 
 
 **Saving Throw** DC 29 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 void damage and 2d6 poison damage (1 round); **Stage 2** 3d6 void damage, 2d6 poison damage, and enfeebled 1 (1 round); **Stage 3** 3d6 void damage, 3d6 poison damage, and enfeebled 2 (1 round)
 

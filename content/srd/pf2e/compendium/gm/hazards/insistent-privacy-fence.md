@@ -23,7 +23,7 @@ source: "Guns & Gears (Remastered)"
 DC 30 (expert)
 
 **Disable**
-Thievery DC 28 (expert) to carefully disconnect the coil from the fence or Crafting DC 30 (master) to jury-rig a grounding device to nullify the shock
+[[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] DC 28 (expert) to carefully disconnect the coil from the fence or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] DC 30 (master) to jury-rig a grounding device to nullify the shock
 
 **AC** 25, **Fort** +20, **Ref** +14
 

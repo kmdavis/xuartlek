@@ -29,7 +29,7 @@ perception:
     desc: "Perception +11; low-light vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12"
 abilityMods: [5, 4, 3, -4, 1, 0]
 ac: 20
 armorclass:
@@ -42,16 +42,16 @@ health:
 speed: "60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ beak +12 (reach 10 feet) __Damage__ 2d8+5 piercing plus tearing clutch"
+    desc: "⬻ beak +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+5 piercing plus tearing clutch"
   - name: "Melee"
-    desc: "⬻ talon +12 (Agile) __Damage__ 2d6+5 piercing plus Knockdown"
+    desc: "⬻ talon +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d6+5 piercing plus Knockdown"
 abilities_bot:
   - name: "Sprint"
     desc: "Frequency__ once per minute__ ⬺"
   - name: "Effect"
-    desc: "The terror shrike Strides three times in a straight line."
+    desc: "The terror shrike Strides three times in a straight [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]]."
   - name: "Tearing Clutch"
-    desc: "The terror shrike's powerful beak can tear through flesh. On a successful beak Strike, the target takes 1 persistent bleed damage. This bleed damage increases to 1d8 on a critical hit."
+    desc: "The terror shrike's powerful beak can tear through flesh. On a successful beak Strike, the target takes 1 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]. This bleed damage increases to 1d8 on a critical hit."
 sourcebook: "_Monster Core 2_, page 318."
 ```
 

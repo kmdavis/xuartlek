@@ -14,10 +14,10 @@ Many varieties of jellyfish drift through the world's oceans, feeding on fish an
 
 ### Members
 
-Fire Jellyfish Swarm (Creature 6), Giant Jellyfish (Creature 7)
+[[srd/pf2e/bestiary/monster-core-2/animal/fire-jellyfish-swarm|Fire Jellyfish Swarm]] (Creature 6), [[srd/pf2e/bestiary/monster-core-2/animal/giant-jellyfish|Giant Jellyfish]] (Creature 7)
 
 ### Jellyfish Species
 
-A large number of types of monstrous jellyfish dwell in the world’s oceans, each with their own unusual specialty in hunting. The immense vampire jellyfish is a blood-drinking monster that often attacks sailors aboard ships. Among the largest are the dreaded whaler jellyfish, colossal creatures that feed on whales or even krakens.
+A large number of types of monstrous jellyfish dwell in the world’s oceans, each with their own unusual specialty in hunting. The immense vampire jellyfish is a blood-drinking monster that often attacks sailors aboard ships. Among the largest are the dreaded whaler jellyfish, colossal creatures that feed on whales or even [[srd/pf2e/bestiary/monster-core/beast/kraken|krakens]].
 
 *Source: Monster Core 2 p. 200*

@@ -23,6 +23,6 @@ source: "Player Core"
 - **Trigger**: You or an ally within 60 feet rolls a saving throw against an auditory or visual effect
 - **Area**: 60-foot emanation
 
-Your performance protects you and your allies. Roll a Performance check for a type you know—it must be an auditory performance if the trigger was auditory or a visual one for a visual trigger, and this action gains the traits for the type of performance. You and allies in the area can use the better result between your Performance check and the saving throw.
+Your performance protects you and your allies. Roll a [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check for a type you know—it must be an auditory performance if the trigger was auditory or a visual one for a visual trigger, and this action gains the traits for the type of performance. You and allies in the area can use the better result between your Performance check and the saving throw.
 
 *Source: Player Core p. 370*

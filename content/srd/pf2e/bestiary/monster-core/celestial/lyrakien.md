@@ -31,10 +31,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision"
-languages: "Common, Diabolic, Draconic, Empyrean"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Diplomacy +6, Performance +8, Religion +6, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +8, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [-2, 4, 1, 1, 3, 3]
 ac: 17
 armorclass:
@@ -47,15 +47,15 @@ health:
 speed: "25 feet, fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +7 (Agile, Finesse, Holy, Magical, reach 0 feet) __Damage__ 1d4–2 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d4–2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ starlight ray +7 (Holy, Light, range 30 feet) __Damage__ 2d4 spirit"
+    desc: "⬻ starlight ray +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|Light]], range 30 feet) __Damage__ 2d4 spirit"
 abilities_bot:
   - name: "Starlight Blast"
-    desc: "⬺ (Holy, Light) The lyrakien unleashes a blast of holy starlight in a 5-foot emanation. Enemies in the area take 2d6 spirit damage with a DC 17 basic Reflex save. The lyrakien can't use Starlight Blast or their starlight ray ranged attack for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|Light]]) The lyrakien unleashes a blast of holy starlight in a 5-foot emanation. Enemies in the area take 2d6 spirit damage with a DC 17 basic Reflex save. The lyrakien can't use Starlight Blast or their starlight ray ranged attack for 1d4 rounds."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17 - __Cantrips (1st)__ Daze, Detect Magic, Light - __1st__ Heal, Illusory Object - __4th__ Read Omens - __Constant (4th)__ Unfettered Movement"
+    desc: "DC 17 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/light|Light]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/illusory-object|Illusory Object]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/read-omens|Read Omens]] - __Constant (4th)__ [[srd/pf2e/compendium/spells/rank-4/unfettered-movement|Unfettered Movement]]"
 sourcebook: "_Monster Core_, page 32."
 ```
 

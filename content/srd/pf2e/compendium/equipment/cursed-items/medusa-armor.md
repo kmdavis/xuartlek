@@ -20,6 +20,6 @@ source: "GM Core"
 - **Usage**: worn armor
 - **Bulk**: 3
 
-This _+2 adamantine scale mail_ appears to have a _fortification_ rune but grants none of its effects. Whenever you are critically hit, after taking damage, you become petrified for 1 round. Once the curse has activated for the first time, the armor fuses to you.
+This _+2 adamantine scale mail_ appears to have a _fortification_ rune but grants none of its effects. Whenever you are critically hit, after taking damage, you become [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]] for 1 round. Once the curse has activated for the first time, the armor fuses to you.
 
 *Source: GM Core p. 306*

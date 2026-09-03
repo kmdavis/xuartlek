@@ -18,9 +18,9 @@ source: "Battlecry!"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This crescent-shaped shard of iridescent metal is strangely translucent, fading to a blurry outline when examined for too long. A weapon under the effects of an _ethereal crescent_ becomes a ghost touch weapon for 1 minute.
+This crescent-shaped shard of iridescent metal is strangely translucent, fading to a blurry outline when examined for too long. A weapon under the effects of an _ethereal crescent_ becomes a [[srd/pf2e/compendium/equipment/runes/ghost-touch|ghost touch]] weapon for 1 minute.
 
 ### Ethereal Crescent
 
@@ -32,6 +32,6 @@ This crescent-shaped shard of iridescent metal is strangely translucent, fading 
 
 ---
 
-A weapon under the effects of a _greater ethereal crescent_ gains the effects of an astral rune for 1 minute. This does not count against the weapon’s normal maximum number of runes.
+A weapon under the effects of a _greater ethereal crescent_ gains the effects of an [[srd/pf2e/compendium/equipment/runes/astral-greater|astral]] rune for 1 minute. This does not count against the weapon’s normal maximum number of runes.
 
 *Source: Battlecry! p. 135*

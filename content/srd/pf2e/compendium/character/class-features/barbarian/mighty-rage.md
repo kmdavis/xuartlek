@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 - **Class**: Barbarian
 
-Your rage intensifies and lets you hit harder at the start of a fight. Your proficiency rank for your barbarian class DC increases to expert. In addition, when you use Quick-Tempered, the first Strike you make during your first turn deals additional damage equal to your Rage damage.
+Your rage intensifies and lets you hit harder at the start of a fight. Your proficiency rank for your barbarian class DC increases to expert. In addition, when you use [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Quick-Tempered|Quick-Tempered]], the first Strike you make during your first turn deals additional damage equal to your [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|Rage]] damage.
 
 *Source: Player Core 2 p. 70*

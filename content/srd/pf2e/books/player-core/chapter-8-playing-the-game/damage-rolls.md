@@ -29,13 +29,13 @@ Damage is sometimes given as a fixed amount, but more often than not you'll make
 
 ## Step 1: Roll Damage Dice
 
-Your weapon, unarmed attack, spell, or even a magic item determines what size and number of dice you roll for damage. For instance, if you're using a normal longsword, you'll roll 1d8. If you're casting a 3rd-rank fireball spell, you'll roll 6d6. Sometimes, especially in the case of weapons, you'll apply modifiers, bonuses, and penalties to the damage.
+Your weapon, unarmed attack, spell, or even a magic item determines what size and number of dice you roll for damage. For instance, if you're using a normal [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]], you'll roll 1d8. If you're casting a 3rd-rank [[srd/pf2e/compendium/spells/rank-3/fireball|fireball]] spell, you'll roll 6d6. Sometimes, especially in the case of weapons, you'll apply modifiers, bonuses, and penalties to the damage.
 
 Damage rolls for melee weapons and unarmed attacks typically add your Strength attribute modifier.
 
 **Melee damage roll = damage die of weapon or unarmed attack + Strength modifier + bonuses + penalties**
 
-Damage rolls for **ranged** weapons typically don't add an attribute modifier, though you add your Strength modifier to damage rolls for thrown weapons or half the modifier to damage rolls for ranged weapons with the propulsive trait.
+Damage rolls for **ranged** weapons typically don't add an attribute modifier, though you add your Strength modifier to damage rolls for [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown]] weapons or half the modifier to damage rolls for ranged weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core/propulsive|propulsive]] trait.
 
 **Ranged damage roll = damage die of weapon** (+ Strength modifier for a thrown weapon or half Strength modifier for a propulsive weapon) **+ bonuses + penalties**
 
@@ -49,11 +49,11 @@ If the combined penalties on an attack would reduce the damage to 0 or below, yo
 
 ### Adding Damage Dice
 
-Each weapon lists the damage die used for its damage roll. A standard weapon deals one die of damage, but a magical *striking rune* can increase the number of dice rolled, as can some special actions and spells. These additional dice use the same die size as the weapon or unarmed attack's normal damage die.
+Each weapon lists the damage die used for its damage roll. A standard weapon deals one die of damage, but a magical *[[srd/pf2e/compendium/equipment/runes/striking-major|striking rune]]* can increase the number of dice rolled, as can some special actions and spells. These additional dice use the same die size as the weapon or unarmed attack's normal damage die.
 
 ### Counting Damage Dice
 
-Effects based on a weapon's number of damage dice include only the weapon's damage die plus any extra dice from a *striking rune*. They don't count extra dice from abilities, critical specialization effects, property runes, weapon traits, or the like.
+Effects based on a weapon's number of damage dice include only the weapon's damage die plus any extra dice from a *[[srd/pf2e/compendium/equipment/runes/striking-major|striking rune]]*. They don't count extra dice from abilities, critical specialization effects, property runes, weapon traits, or the like.
 
 ### Increasing Die Size
 
@@ -63,17 +63,17 @@ When an effect calls on you to increase the size of your weapon damage dice, ins
 
 ### Persistent Damage
 
-Persistent damage is a condition that causes damage to recur beyond the original effect. Like normal damage, it can be doubled or halved based on the results of an attack roll or saving throw. Unlike with normal damage, when you are subject to persistent damage, you don’t take it right away. Instead, you take the specified damage at the end of your turns, after which you attempt a DC 15 flat check to see if you recover from the persistent damage.
+[[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|Persistent damage]] is a condition that causes damage to recur beyond the original effect. Like normal damage, it can be doubled or halved based on the results of an attack roll or saving throw. Unlike with normal damage, when you are subject to persistent damage, you don’t take it right away. Instead, you take the specified damage at the end of your turns, after which you attempt a DC 15 flat check to see if you recover from the persistent damage.
 
 ### Doubling and Halving Damage
 
-Sometimes you'll need to halve or double an amount of damage, such as when the outcome of your Strike is a critical hit or when you succeed at a basic Reflex save against a spell. When this happens, you roll the damage normally, adding all the normal modifiers, bonuses, and penalties. Then you double or halve the amount as appropriate. As normal, round down if you halve the damage (though 1 damage halved remains at a minimum of 1 damage).
+Sometimes you'll need to halve or double an amount of damage, such as when the outcome of your [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] is a critical hit or when you succeed at a basic Reflex save against a spell. When this happens, you roll the damage normally, adding all the normal modifiers, bonuses, and penalties. Then you double or halve the amount as appropriate. As normal, round down if you halve the damage (though 1 damage halved remains at a minimum of 1 damage).
 
-When doubling, the GM might allow you to roll the dice twice and double the modifiers, bonuses, and penalties instead of doubling the entire result, but this usually works best for single-target attacks or spells at low levels when you have a small number of damage dice to roll. Benefits you gain specifically from a critical hit, like the extra damage die from the fatal weapon trait, aren't doubled.
+When doubling, the GM might allow you to roll the dice twice and double the modifiers, bonuses, and penalties instead of doubling the entire result, but this usually works best for single-target attacks or spells at low levels when you have a small number of damage dice to roll. Benefits you gain specifically from a critical hit, like the extra damage die from the [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal]] weapon trait, aren't doubled.
 
 ## Step 2: Damage Type
 
-Once you've calculated how much damage you deal, you'll need to determine the damage type. The smack of a club deals bludgeoning damage. The shock of a *lightning bolt* spell deals electricity damage. Sometimes you might apply precision damage, dealing more damage for hitting a creature in a vulnerable spot or when the target is somehow vulnerable.
+Once you've calculated how much damage you deal, you'll need to determine the damage type. The smack of a [[srd/pf2e/compendium/equipment/weapons/club/club|club]] deals bludgeoning damage. The shock of a *[[srd/pf2e/compendium/spells/rank-3/lightning-bolt|lightning bolt]]* spell deals electricity damage. Sometimes you might apply precision damage, dealing more damage for hitting a creature in a vulnerable spot or when the target is somehow vulnerable.
 
 > [!pf2-sidebar] DAMAGE TYPES
 >
@@ -83,27 +83,27 @@ Once you've calculated how much damage you deal, you'll need to determine the da
 >
 > Damage dealt by weapons, many physical hazards, and a handful of spells is collectively called physical damage. The main types of physical damage are bludgeoning, piercing, and slashing. **Bludgeoning** damage comes from weapons and hazards that deal blunt-force trauma, like a hit from a club or being dashed against rocks. **Piercing** damage is dealt from stabs and punctures, whether from a dragon's fangs or the thrust of a spear. **Slashing** damage is delivered by a cut, be it the swing of the sword or the blow from a scythe blades trap.
 >
-> Ghosts and other incorporeal creatures have a high resistance to physical attacks that aren't magical (attacks that lack the magical trait). Furthermore, most incorporeal creatures have additional, though lower, resistance to magical physical damage (such as damage dealt from a mace with the magical trait) and most other damage types.
+> [[srd/pf2e/compendium/rules-elements/traits/monster-core/ghost|Ghosts]] and other [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] creatures have a high resistance to physical attacks that aren't magical (attacks that lack the magical trait). Furthermore, most incorporeal creatures have additional, though lower, resistance to magical physical damage (such as damage dealt from a [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]] with the [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] trait) and most other damage types.
 >
 > ## Energy Damage
 >
-> Many spells and other magical effects deal energy damage. Energy damage is also dealt from effects in the world, such as the biting cold of a blizzard to a raging forest fire. The main types of energy damage are acid, cold, electricity, fire, and sonic. **Acid** damage can be delivered by gases, liquids, and certain solids that dissolve flesh, and sometimes harder materials. **Cold** damage freezes material by way of contact with chilling gases and ice. **Electricity** damage comes from the discharge of powerful lightning and sparks. **Fire** damage burns through heat and combustion. **Sonic** damage assaults matter with high-frequency vibration and sound waves. Many times, you deal energy damage by casting magic spells, and doing so is often useful against creatures that have immunities or resistances to physical damage.
+> Many spells and other magical effects deal energy damage. Energy damage is also dealt from effects in the world, such as the biting cold of a blizzard to a raging forest fire. The main types of energy damage are acid, cold, electricity, fire, and sonic. **[[srd/pf2e/compendium/rules-elements/traits/player-core/acid|Acid]]** damage can be delivered by gases, liquids, and certain solids that dissolve flesh, and sometimes harder materials. **[[srd/pf2e/compendium/rules-elements/traits/player-core/cold|Cold]]** damage freezes material by way of contact with chilling gases and ice. **[[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|Electricity]]** damage comes from the discharge of powerful lightning and sparks. **[[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]]** damage burns through heat and combustion. **[[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|Sonic]]** damage assaults matter with high-frequency vibration and sound waves. Many times, you deal energy damage by casting magic spells, and doing so is often useful against creatures that have immunities or resistances to physical damage.
 >
-> Two special types of energy damage specifically target the living and the undead. **Vitality** damage harms only undead creatures, withering undead bodies and disrupting incorporeal undead. **Void** damage saps life, damaging only living creatures.
+> Two special types of energy damage specifically target the living and the undead. **[[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|Vitality]]** damage harms only undead creatures, withering undead bodies and disrupting incorporeal undead. **[[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]** damage saps life, damaging only living creatures.
 >
-> Powerful and pure magical energy can manifest itself as **force** damage. Few things can resist this type of damage—not even incorporeal creatures such as ghosts and wraiths.
+> Powerful and pure magical energy can manifest itself as **[[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]]** damage. Few things can resist this type of damage—not even incorporeal creatures such as ghosts and [[srd/pf2e/compendium/rules-elements/traits/monster-core/wraith|wraiths]].
 >
 > ## Spirit Damage
 >
-> Directly affecting the spiritual essence of a creature, **spirit** damage can damage a target projecting its consciousness or possessing another creature even if the target's body is elsewhere. The possessed creature isn't harmed by the blast. Spirit damage doesn't harm creatures that have no spirit, such as constructs. Many effects that deal spirit damage also have the sanctified, holy, or unholy trait.
+> Directly affecting the spiritual essence of a creature, **[[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]]** damage can damage a target projecting its consciousness or possessing another creature even if the target's body is elsewhere. The possessed creature isn't harmed by the blast. Spirit damage doesn't harm creatures that have no spirit, such as [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|constructs]]. Many effects that deal spirit damage also have the [[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|sanctified]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait.
 >
 > ## Mental Damage
 >
-> Sometimes an effect can target the mind with enough psychic force to actually deal damage to the creature. When it does, it deals **mental** damage. Mindless creatures and those with only programmed or rudimentary intelligence are often immune to mental damage and effects.
+> Sometimes an effect can target the mind with enough psychic force to actually deal damage to the creature. When it does, it deals **[[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]** damage. [[srd/pf2e/compendium/rules-elements/traits/player-core/mindless|Mindless]] creatures and those with only programmed or rudimentary intelligence are often immune to mental damage and effects.
 >
 > ## Poison Damage
 >
-> Venoms, toxins and the like can deal **poison** damage, which affects creatures by way of contact, ingestion, inhalation, or injury. In addition to coming from monster attacks, alchemical items, and spells, poison damage is often caused by ongoing afflictions, which follow special rules described [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions|here]].
+> Venoms, toxins and the like can deal **[[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]** damage, which affects creatures by way of contact, ingestion, inhalation, or injury. In addition to coming from monster attacks, alchemical items, and spells, poison damage is often caused by ongoing afflictions, which follow special rules described [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions|here]].
 >
 > ## Bleed Damage
 >
@@ -111,13 +111,13 @@ Once you've calculated how much damage you deal, you'll need to determine the da
 >
 > ## Precision Damage
 >
-> Sometimes you are able to make the most of your attack through sheer precision. When you hit with an ability that grants you **precision** damage, you increase the attack's listed damage, using the same damage type, rather than tracking a separate pool of damage. For example, a nonmagical dagger Strike that deals 1d6 precision damage from a rogue's sneak attack increases the piercing damage by 1d6.
+> Sometimes you are able to make the most of your attack through sheer precision. When you hit with an ability that grants you **precision** damage, you increase the attack's listed damage, using the same damage type, rather than tracking a separate pool of damage. For example, a nonmagical [[srd/pf2e/compendium/equipment/weapons/knife/dagger|dagger]] Strike that deals 1d6 precision damage from a [[srd/pf2e/compendium/character/classes/rogue|rogue's]] sneak attack increases the piercing damage by 1d6.
 >
-> Some creatures are immune to precision damage, regardless of the damage type; these are often amorphous creatures that lack vulnerable anatomy. A creature immune to precision damage would ignore the 1d6 precision damage in the example above, but it would still take the rest of the piercing damage from the Strike. Since precision damage is always the same type of damage as the attack it's augmenting, a creature that is resistant to physical damage, like a gargoyle, would resist not only the dagger's damage but also the precision damage, even though it is not specifically resistant to precision damage.
+> Some creatures are immune to precision damage, regardless of the damage type; these are often amorphous creatures that lack vulnerable anatomy. A creature immune to precision damage would ignore the 1d6 precision damage in the example above, but it would still take the rest of the piercing damage from the Strike. Since precision damage is always the same type of damage as the attack it's augmenting, a creature that is resistant to physical damage, like a [[srd/pf2e/bestiary/monster-core/beast/gargoyle|gargoyle]], would resist not only the dagger's damage but also the precision damage, even though it is not specifically resistant to precision damage.
 >
 > ## Precious Materials
 >
-> While not their own damage category, precious materials can modify damage to penetrate a creature's resistances or take advantage of its weaknesses. For instance, silver weapons are particularly effective against werecreatures and bypass the resistances to physical damage that most devils have.
+> While not their own damage category, precious materials can modify damage to penetrate a creature's resistances or take advantage of its weaknesses. For instance, [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|silver]] weapons are particularly effective against [[srd/pf2e/compendium/rules-elements/traits/gm-core/werecreature|werecreatures]] and bypass the resistances to physical damage that most [[srd/pf2e/compendium/rules-elements/traits/player-core/devil|devils]] have.
 
 ## Step 3: Apply Immunities, Weaknesses, and Resistances
 
@@ -129,4 +129,4 @@ Any remaining damage reduces the target’s Hit Points on a 1-to-1 basis. More i
 
 ### Nonlethal Attacks
 
-You can make a nonlethal attack to knock someone out instead of killing them (see [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Getting Knocked Out|Knocked Out]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Dying|Dying]]). Weapons with the nonlethal trait (including fists) do this automatically. You take a –2 circumstance penalty to the attack roll when you make a nonlethal attack using a weapon or unarmed attack that doesn’t have the nonlethal trait. You also take this penalty when making a lethal attack using a nonlethal weapon. Spells and other effects with the nonlethal trait that reduce a creature to 0 Hit Points knock the creature out instead of killing them.
+You can make a nonlethal attack to knock someone out instead of killing them (see [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Getting Knocked Out|Knocked Out]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Dying|Dying]]). Weapons with the [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] trait (including [[srd/pf2e/compendium/equipment/weapons/brawling/fist|fists]]) do this automatically. You take a –2 circumstance penalty to the attack roll when you make a nonlethal attack using a weapon or unarmed attack that doesn’t have the nonlethal trait. You also take this penalty when making a lethal attack using a nonlethal weapon. Spells and other effects with the nonlethal trait that reduce a creature to 0 Hit Points knock the creature out instead of killing them.

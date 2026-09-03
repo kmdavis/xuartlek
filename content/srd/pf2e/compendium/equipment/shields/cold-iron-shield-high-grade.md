@@ -12,7 +12,7 @@ source: "GM Core"
 # Cold Iron Shield (High-Grade)  *Item 2+*
 
 - **Usage**: varies by shield
-- **Base Material**: Cold Iron
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|Cold Iron]]
 
 Cold iron shields don't typically have an additional effect, though when used for a shield bash, they're cold iron weapons.
 

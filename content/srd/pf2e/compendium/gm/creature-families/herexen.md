@@ -16,15 +16,15 @@ When a cleric rebels against their deity and dies in the grip of blasphemous rag
 
 ### Members
 
-Herexen (Creature 2)
+[[srd/pf2e/bestiary/monster-core/undead/herexen|Herexen]] (Creature 2)
 
 ### Building Herexens
 
 The herexen presented in the stat block below was originally a cleric of Pharasma, but there are as many kinds of herexens as there are deities. To create a herexen of a different deity, do the following. 
-Swap out the herexen's weapon for the deity's favored weapon. If the weapon is simple, increase the damage die by one step; if it's two-handed, decrease the herexen's attack bonus with that weapon by 2.Swap out the herexen's domain spell for a 1st-rank focus spell from a domain associated with that deity.Swap the defiled religious symbol for the correct deity. For example, an ex-Sarenite herexen carries a scimitar and a defiled religious symbol of Sarenrae, and can cast _fire ray_ (attack +12) as a focus spell. 
+Swap out the herexen's weapon for the deity's favored weapon. If the weapon is simple, increase the damage die by one step; if it's two-handed, decrease the herexen's attack bonus with that weapon by 2.Swap out the herexen's domain spell for a 1st-rank focus spell from a domain associated with that deity.Swap the defiled religious symbol for the correct deity. For example, an ex-Sarenite herexen carries a [[srd/pf2e/compendium/equipment/weapons/sword/scimitar|scimitar]] and a defiled religious symbol of Sarenrae, and can cast [[srd/pf2e/compendium/spells/focus/fire-ray|_fire ray_]] (attack +12) as a focus spell. 
 
 ### Greater Herexens
 
- More powerful clerics, or herexens that have existed over long spans of time, might become a more powerful 8th-level variant known as a greater herexen. In addition to the typical increases to its statistics, it casts _harm_ as a 4th-rank spell, gains a second Focus Point and a 4th-rank domain spell, and deals 2d6 spirit damage with heretic's smite instead of 1d6.
+ More powerful clerics, or herexens that have existed over long spans of time, might become a more powerful 8th-level variant known as a greater herexen. In addition to the typical increases to its statistics, it casts [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]] as a 4th-rank spell, gains a second Focus Point and a 4th-rank domain spell, and deals 2d6 spirit damage with heretic's smite instead of 1d6.
 
 *Source: Monster Core p. 195*

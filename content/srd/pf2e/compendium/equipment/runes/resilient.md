@@ -16,7 +16,7 @@ source: "GM Core"
 
 - **Usage**: etched onto armor
 
-_Resilient_ runes imbue armor with additional protective magic. This grants the wearer a +1 item bonus to saving throws. You can upgrade the _resilient rune_ already etched on a suit of armor using the normal process for upgrading items and runes.
+_Resilient_ runes imbue armor with additional protective magic. This grants the wearer a +1 item bonus to saving throws. You can upgrade the _resilient rune_ already etched on a suit of armor using the normal process for [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/crafting-items|upgrading items and runes]].
 
 ### Resilient
 

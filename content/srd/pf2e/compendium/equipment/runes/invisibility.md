@@ -19,7 +19,7 @@ source: "GM Core"
 
 Light seems to partially penetrate this armor. 
 
-**Activate—Go Invisible** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Effect** With a thought, you become invisible for 1 minute, gaining the effects of a 2nd-rank _invisibility_ spell.
+**Activate—Go Invisible** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** With a thought, you become invisible for 1 minute, gaining the effects of a 2nd-rank _invisibility_ spell.
 
 **Craft Requirements** Supply one casting of _invisibility_.
 

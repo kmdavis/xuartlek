@@ -25,7 +25,7 @@ source: "Player Core"
 You heal your animal companion's wounds. You restore 1d10 Hit Points to your animal companion. The number of actions you spend Casting this Spell determines range and other parameters.
 
  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) The spell has a range of touch.
- [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.
+ [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) The spell has a range of 30 feet and restores an additional 8 Hit Points to the target.
 
 ---
 **Heightened (+1)** The amount of healing increases by 1d10, and the additional healing for the 2-action version increases by 8.

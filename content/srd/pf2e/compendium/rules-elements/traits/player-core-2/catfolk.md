@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Catfolk`
 
-A creature with this trait is a member of the catfolk ancestry. Catfolk are humanoids with feline features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
+A creature with this trait is a member of the [[srd/pf2e/compendium/character/ancestries/catfolk|catfolk]] ancestry. Catfolk are humanoids with [[srd/pf2e/compendium/gm/creature-families/cat|feline]] features. An ability with this trait can be used or selected only by catfolk. An item with this trait is created and used by catfolk.
 
 *Source: Player Core 2 p. 315*

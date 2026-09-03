@@ -17,11 +17,11 @@ source: "Battlecry!"
 
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Steel Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
 
-This _minor reinforcing steel shield_ (Hardness 8, HP 64, BT 32) is lined with pale silver that glows when struck. Whenever you use the Shield Block reaction, this shield becomes energized for 1 round.
+This _minor [[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|reinforcing]] [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]]_ (Hardness 8, HP 64, BT 32) is lined with pale silver that glows when struck. Whenever you use the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] reaction, this shield becomes energized for 1 round.
 
-**Activate—Energized Blast** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (force, manipulate) **Frequency** once per 10 minutes; **Requirements** The shield is energized; **Effect** You direct the stored energy into a short blast, targeting a creature within 15 feet. The target takes 2d10 force damage (DC 23 basic Reflex save).
+**Activate—Energized Blast** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per 10 minutes; **Requirements** The shield is energized; **Effect** You direct the stored energy into a short blast, targeting a creature within 15 feet. The target takes 2d10 force damage (DC 23 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save).
 
 ### Lesser Energized Shield
 

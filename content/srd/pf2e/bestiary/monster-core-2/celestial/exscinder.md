@@ -33,10 +33,10 @@ modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; darkvision"
-languages: "Aklo, Chthonian, Diabolic, Draconic, Empyrean, Necril, Sakvroth, Utopian; telepathy 100 feet, _truespeech_"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], Utopian; telepathy 100 feet, [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
-    desc: "Arcana +24, Heaven Lore +26, Intimidation +26, Library Lore +26, Occultism +24, Religion +27, Society +26"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +24, [[srd/pf2e/compendium/rules-elements/skills/lore|Heaven Lore]] +26, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +26, [[srd/pf2e/compendium/rules-elements/skills/lore|Library Lore]] +26, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +24, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +27, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +26"
 abilityMods: [8, 6, 6, 5, 8, 7]
 abilities_top:
   - name: "Items"
@@ -48,7 +48,7 @@ armorclass:
 hp: 240
 health:
   - name: "HP"
-    desc: "240; __Immunities__ fear; __Resistances__ fire 10; __Weaknesses__ unholy 10"
+    desc: "240; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] 10"
 abilities_mid:
   - name: "Archon's Protection"
     desc: "⬲"
@@ -59,18 +59,18 @@ abilities_mid:
 speed: "30 feet, fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ binding chains +27 (Disarm, Finesse, Holy, Magical, Trip) __Damage__ 3d8+11 bludgeoning plus 2d6 fire and censorious lash"
+    desc: "⬻ binding chains +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 3d8+11 bludgeoning plus 2d6 fire and censorious lash"
   - name: "Ranged"
-    desc: "⬻ blazing sigil +25 (Fire, Holy, Magical, range increment 40 feet, Spirit) __Damage__ 5d6 fire plus 3d6 spirit"
+    desc: "⬻ blazing sigil +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 40 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]]) __Damage__ 5d6 fire plus 3d6 spirit"
 abilities_bot:
   - name: "Spells"
-    desc: "DC 33, attack +25 - __Cantrips (7th)__ Light, Message - __1st__ Sure Strike (×3) - __2nd__ Invisibility (at will) - __4th__ Heal (at will), Translocate (at will) - __7th__ Divine Immolation, Interplanar Teleport, Rewrite Memory (at will), Ring of Truth - __Constant (5th)__ Truespeech"
+    desc: "DC 33, attack +25 - __Cantrips (7th)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/message|Message]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/sure-strike|Sure Strike]] (×3) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (at will) - __4th__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]] (at will), [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (at will) - __7th__ [[srd/pf2e/compendium/spells/rank-5/divine-immolation|Divine Immolation]], [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]], [[srd/pf2e/compendium/spells/rank-4/rewrite-memory|Rewrite Memory]] (at will), [[srd/pf2e/compendium/spells/rank-3/ring-of-truth|Ring of Truth]] - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
   - name: "Censorious Lash"
-    desc: "(Divine, Incapacitation, Mental) When the exscinder hits a creature with a binding chains Strike, that creature must attempt a DC 30 Will save. On a failure, it's controlled by the exscinder for its first action on its next turn (or controlled for its entire next turn on a critical failure)."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) When the exscinder hits a creature with a binding chains Strike, that creature must attempt a DC 30 Will save. On a failure, it's [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] by the exscinder for its first action on its next turn (or controlled for its entire next turn on a critical failure)."
   - name: "Change Size"
-    desc: "⬻ (Concentrate, Divine, Polymorph) The exscinder changes size to their choice of Huge, Large, Medium, or Small."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]]) The exscinder changes size to their choice of Huge, Large, Medium, or Small."
   - name: "Temper thy Words"
-    desc: "⬻ (Auditory, Concentrate, Divine) The exscinder chooses one written text within 120 feet. They don't need to be able to observe the text, but they can't target one that's deliberately concealed. The exscinder censors the text, modifying it to their wishes. The text can't be referenced, making it useless for functions like Casting a Spell from a scroll, preparing spells from a spellbook, or consulting a scholarly journal. If the text is attended, the creature possessing it can attempt a DC 33 Will save; an unattended text automatically gets a critical failure."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) The exscinder chooses one written text within 120 feet. They don't need to be able to observe the text, but they can't target one that's deliberately concealed. The exscinder censors the text, modifying it to their wishes. The text can't be referenced, making it useless for functions like Casting a Spell from a scroll, preparing spells from a spellbook, or consulting a scholarly journal. If the text is attended, the creature possessing it can attempt a DC 33 Will save; an unattended text automatically gets a critical failure."
   - name: "Critical Success"
     desc: "The text remains uncensored."
   - name: "Success"
@@ -78,7 +78,7 @@ abilities_bot:
   - name: "Failure"
     desc: "The text is censored for 1 day."
   - name: "Critical Failure"
-    desc: "The text is censored permanently. It can be restored only with a _wish_ ritual or similarly powerful magic. Censorship Is... Holy? Censorship is a contentious topic, as it's often used as a method of control. The exscinder has the holy trait, but its actions—censoring and confiscating texts—can be upsetting and even condemnable. Keep in mind, however, that they exist in a world with magical texts that can be deadly when read! This doesn't mean they can't cross the line into actions that mortals consider to be wrong, nor that they might not clash with mortals due to a lack of nuance."
+    desc: "The text is censored permanently. It can be restored only with a [[srd/pf2e/compendium/spells/rituals/wish|_wish_]] ritual or similarly powerful magic. Censorship Is... Holy? Censorship is a contentious topic, as it's often used as a method of control. The exscinder has the holy trait, but its actions—censoring and confiscating texts—can be upsetting and even condemnable. Keep in mind, however, that they exist in a world with magical texts that can be deadly when read! This doesn't mean they can't cross the line into actions that mortals consider to be wrong, nor that they might not clash with mortals due to a lack of nuance."
 sourcebook: "_Monster Core 2_, page 37."
 ```
 

@@ -14,7 +14,7 @@ source: "Player Core"
 
 You'll see the following key term in many druid class features.
 
-**Spellshape:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]]:** Actions with the spellshape trait tweak the properties of your spells. These actions usually come from spellshape feats. You must use a spellshape action directly before Casting the Spell you want to alter. If you use any action (including free actions and reactions) other than Cast a Spell directly after, you waste the benefits of the spellshape action. Any additional effects added by a spellshape action are part of the spell's effect, not of the spellshape action itself.
 
 ### Roleplaying the Druid
 
@@ -50,7 +50,15 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Trained in Fortitude Trained in Reflex Expert in Will |
-| **Skills** | Trained in Nature Trained in one skill determined by your druidic order Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
+
+#### Skills
+
+Trained in [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
+ Trained in one skill determined by your druidic order
+ Trained in a number of additional skills equal to 2 plus your Intelligence modifier
+
+| | |
+| --- | --- |
 | **Attacks** | Trained in simple weapons Trained in unarmed attacks |
 | **Defenses** | Trained in light armor Trained in medium armor Trained in unarmored defense |
 | **Class DC** | Trained in druid class DC |
@@ -122,7 +130,7 @@ The power of the wild world flows through you. You are a spellcaster and can cas
 
 As stewards of the natural order, druids find affronts to nature anathema. If you repeatedly perform these acts, you lose your magical abilities from the druid class, including your druid spellcasting and the benefits of your order. These abilities can be regained only if you demonstrate your repentance with an _atone_ ritual. The following acts are anathema to all druids.
 
- **Anathema** despoil natural places, consume more natural resources than you require to live comfortably, teach the Wildsong to non-druids.
+ **Anathema** despoil natural places, consume more natural resources than you require to live comfortably, teach the [[srd/pf2e/compendium/rules-elements/languages#Wildsong|Wildsong]] to non-druids.
 
  Your choice of druidic order adds further anathema, as detailed in the order's entry
 
@@ -137,11 +145,14 @@ Upon becoming a druid, you align yourself with a druidic order, which grants you
 | | |
 | --- | --- |
 | **Shield Block** | You gain the Shield Block general feat, a reaction that lets you reduce damage with your shield. |
-| **Voice of Nature** | You gain your choice of the Animal Empathy or Plant Empathy druid feat. |
+
+#### Voice of Nature
+
+You gain your choice of the [[srd/pf2e/compendium/feats/player-core/archetype/animal-empathy-druid|Animal Empathy]] or [[srd/pf2e/compendium/feats/player-core/class/plant-empathy|Plant Empathy]] druid feat.
 
 #### Wildsong
 
-You know the Wildsong, a secret language known only within druid orders, in addition to any languages you know through your ancestry. The Wildsong is a melodic and tonal language sounding more like animal calls than a spoken tongue, and its alphabet involves fractals and spirals, like the arrangement of a seashell's chambers, a snowflake's crystals, or a fern's fronds. Teaching the Wildsong to non-druids is anathema.
+You know the [[srd/pf2e/compendium/rules-elements/languages#Wildsong|Wildsong]], a secret language known only within druid orders, in addition to any languages you know through your ancestry. The Wildsong is a melodic and tonal language sounding more like animal calls than a spoken tongue, and its alphabet involves fractals and spirals, like the arrangement of a seashell's chambers, a snowflake's crystals, or a fern's fronds. Teaching the Wildsong to non-druids is anathema.
 
 | | |
 | --- | --- |

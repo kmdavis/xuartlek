@@ -13,6 +13,6 @@ source: "Monster Core 2"
 
 `Soulrider`
 
-Soulriders are nigh-parasitic aberrations that latch on to souls as they move through the Great Beyond. They sometimes take on the traits of planes.
+Soulriders are nigh-parasitic [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberrations]] that latch on to souls as they move through [[srd/pf2e/books/gm-core/chapter-3-age-of-lost-omens/the-great-beyond|the Great Beyond]]. They sometimes take on the traits of planes.
 
 *Source: Monster Core 2 p. 365*

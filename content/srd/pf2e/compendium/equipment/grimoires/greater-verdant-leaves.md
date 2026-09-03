@@ -19,7 +19,7 @@ source: "Impossible Magic"
 
 The pages of this book are dried leaves in all colors of the seasons, their delicate veins spelling out incantations. It carries the earthy scent of a forest floor. 
 
-**Activate—Nature's Resilience** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, plant, wood) **Frequency** once per day; **Effect** If your last action was to Cast a prepared Spell with the plant or wood trait, you imbue yourself with the strength of the natural world and obtain the effect of a 2nd-rank __oaken resilience__ spell.
+**Activate—Nature's Resilience** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], plant, wood) **Frequency** once per day; **Effect** If your last action was to Cast a prepared Spell with the [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]] trait, you imbue yourself with the strength of the natural world and obtain the effect of a 2nd-rank _[[srd/pf2e/compendium/spells/rank-2/oaken-resilience|_oaken resilience_]]_ spell.
 
 ### Verdant Leaves
 

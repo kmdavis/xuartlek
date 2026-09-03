@@ -46,8 +46,8 @@ The lashtail is named after the segmented chain that the weapon sweeps in a hori
 
 **Aim** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") rotate 45° 
 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 3 times, requires a successful DC 26 Athletics 
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 3 times, requires a successful DC 26 Athletics 
 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate, range increment 120 feet) 8d8 bludgeoning, 30-foot cone, DC 25 Reflex. A creature that fails its Reflex save is off-guard until the end of their next turn. On a critical failure, a creature is instead knocked prone by the chain.
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range increment 120 feet]]) 8d8 bludgeoning, 30-foot cone, DC 25 Reflex. A creature that fails its Reflex save is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the end of their next turn. On a critical failure, a creature is instead knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] by the chain.
 
 *Source: Howl of the Wild p. 116*

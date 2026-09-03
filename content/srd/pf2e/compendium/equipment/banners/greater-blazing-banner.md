@@ -20,7 +20,7 @@ source: "Battlecry!"
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 
-This magical banner shimmers in a fiery array of reds, oranges, and yellows. The rampant threads catch light in the wind and give the appearance of a blazing flame. Whenever you or an ally within the banner’s aura critically succeeds with a Strike, the Strike deals an additional 1d4 persistent fire damage.
+This magical banner shimmers in a fiery array of reds, oranges, and yellows. The rampant threads catch light in the wind and give the appearance of a blazing flame. Whenever you or an ally within the banner’s aura critically succeeds with a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]], the Strike deals an additional 1d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire damage]].
 
 ### Blazing Banner
 

@@ -50,7 +50,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Expert in Fortitude Trained in Reflex Expert in Will |
-| **Skills** | Trained in Athletics Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
+| **Skills** | Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics\|Athletics]] Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
 | **Attacks** | Trained in simple weapons Trained in martial weapons Trained in unarmed attacks |
 | **Defenses** | Trained in all armor Trained in unarmored defense |
 | **Class DC** | Trained in guardian class DC |
@@ -104,7 +104,7 @@ Even when you are struck, your armor protects you from some harm. While wearing 
 
 | | |
 | --- | --- |
-| **Shield Block** | You gain the Shield Block general feat, a reaction that lets you reduce damage with your shield. |
+| **Shield Block** | You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block\|Shield Block]] general feat, a reaction that lets you reduce damage with your shield. |
 
 #### Taunt
 
@@ -135,7 +135,7 @@ At 7th level, you can use skill increases to become a master in a skill in which
 
 #### Tough to Kill
 
-The protectiveness of your armor ensures that even if you fall, you take longer to die. You gain the Diehard general feat. If you already have the Diehard feat, you can retrain it when you get tough to kill. Additionally, the first time each day you’d be reduced to dying 3 or higher, you stay at dying 2 instead.
+The protectiveness of your armor ensures that even if you fall, you take longer to die. You gain the [[srd/pf2e/compendium/feats/player-core/general/diehard|Diehard]] general feat. If you already have the Diehard feat, you can retrain it when you get tough to kill. Additionally, the first time each day you’d be reduced to [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] 3 or higher, you stay at dying 2 instead.
 
 | | |
 | --- | --- |
@@ -185,6 +185,6 @@ Stalwart as your armor, you refuse to break. Your proficiency ranks for Will sav
 
 #### Guardian Mastery
 
-You are known for your suit of armor more than the person inside. Your proficiency rank for your guardian class DC increases to master. While wearing armor, when you attempt a Reflex save to avoid a damaging effect, such as a _fireball_, you can add your armor’s item bonus to AC instead of your Dexterity modifier; if your armor has the bulwark trait, increase this bonus by 1. If you get a success when you do this, you get a critical success instead.
+You are known for your suit of armor more than the person inside. Your proficiency rank for your guardian class DC increases to master. While wearing armor, when you attempt a Reflex save to avoid a damaging effect, such as a [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]], you can add your armor’s item bonus to AC instead of your Dexterity modifier; if your armor has the bulwark trait, increase this bonus by 1. If you get a success when you do this, you get a critical success instead.
 
 *Source: Battlecry! p. 37*

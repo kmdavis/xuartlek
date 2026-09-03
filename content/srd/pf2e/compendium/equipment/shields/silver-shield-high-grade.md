@@ -12,7 +12,7 @@ source: "GM Core"
 # Silver Shield (High-Grade)  *Item 2+*
 
 - **Usage**: varies by shield
-- **Base Material**: Silver
+- **Base Material**: [[srd/pf2e/compendium/equipment/materials/silver-object-high-grade|Silver]]
 
 Silver shields don't typically have an additional effect, though when used for a shield bash, they're silver weapons.
 

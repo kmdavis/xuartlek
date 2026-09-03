@@ -14,7 +14,7 @@ Nagas are serpentine beings with magical powers and keen intellects. Physically,
 
 ### Members
 
-Smaranava (Creature 7), Vicharamuni (Creature 10)
+[[srd/pf2e/bestiary/monster-core/beast/smaranava|Smaranava]] (Creature 7), [[srd/pf2e/bestiary/monster-core/beast/vicharamuni|Vicharamuni]] (Creature 10)
 
 ### Nagajor
 

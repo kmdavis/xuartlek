@@ -14,12 +14,12 @@ source: "Player Core"
 
 Below are some key terms in many fighter class features.
 
-**Flourish:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/flourish|Flourish]]:** Actions with the flourish trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
-**Press:** Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the Ready activity.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/press|Press]]:** Actions with this trait allow you to follow up earlier attacks. An action with the press trait can be used only if you are currently affected by a multiple attack penalty. You can't use a press action when it's not your turn, even if you use the [[srd/pf2e/compendium/equipment/runes/ready-greater|Ready]] activity.
 Some actions with the press trait also grant an effect on a failure. The effects that are added on a failure don't apply on a critical failure. If your press action succeeds, you can choose to apply the failure effect instead. (For example, you may wish to do this when an attack deals no damage due to resistance.)
 
-**Stance:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
+**[[srd/pf2e/compendium/rules-elements/traits/player-core/stance|Stance]]:** A stance is a general combat strategy that you enter by using an action with the stance trait, and you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you use a stance action again, whichever comes first. After you take an action with the stance trait, you can't take another one for 1 round. You can enter or be in a stance only in encounter mode. You can Dismiss a stance.
 
 ### Roleplaying the Fighter
 
@@ -55,7 +55,14 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Expert in Perception |
 | **Saving Throws** | Expert in Fortitude Expert in Reflex Trained in Will |
-| **Skills** | Trained in your choice of Acrobatics or Athletics Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
+
+#### Skills
+
+Trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+ Trained in a number of additional skills equal to 3 plus your Intelligence modifier
+
+| | |
+| --- | --- |
 | **Attacks** | Expert in simple weapons Expert in martial weapons Trained in advanced weapons Expert in unarmed attacks |
 | **Defenses** | Trained in all armor Trained in unarmored defense |
 | **Class DC** | Trained in fighter class DC |
@@ -114,7 +121,7 @@ Ever watchful for weaknesses, you can quickly attack foes that leave an opening 
 
 #### Bravery
 
-Having faced countless foes and the chaos of battle, you have learned how to stand strong in the face of fear. Your proficiency rank for Will saves increases to expert. When you roll a success at a Will save against a fear effect, you get a critical success instead. In addition, anytime you gain the frightened condition, reduce its value by 1.
+Having faced countless foes and the chaos of battle, you have learned how to stand strong in the face of fear. Your proficiency rank for Will saves increases to expert. When you roll a success at a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effect, you get a critical success instead. In addition, anytime you gain the frightened condition, reduce its value by 1.
 
 | | |
 | --- | --- |

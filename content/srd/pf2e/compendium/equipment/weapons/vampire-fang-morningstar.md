@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 This _+1 striking wounding morningstar_ is studded with teeth pulled from a vampire, which usually requires an animate donor, given vampires' tendency to turn to dust when destroyed.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per minute; **Requirements** Your last action was a successful Strike with this weapon and you're not in direct sunlight; **Effect** The _vampire-fang morningstar_ absorbs blood from the target, healing the wielder for 10 Hit Points.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per minute; **Requirements** Your last action was a successful Strike with this weapon and you're not in direct sunlight; **Effect** The _vampire-fang morningstar_ absorbs blood from the target, healing the wielder for 10 Hit Points.
 
 **Craft Requirements** The initial raw materials must include teeth from a vampire.
 

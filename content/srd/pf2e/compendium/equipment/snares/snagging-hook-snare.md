@@ -19,6 +19,6 @@ source: "Player Core 2"
 
 - **Price**: 180 gp
 
-This snare snags a creature with its wicked metal hooks. The first creature to enter the square takes 5d8 piercing damage and 5d8 slashing damage, with a DC 29 basic Reflex save. On a critical failure, the hooks piercing its flesh make the creature immobilized until it successfully Escapes (DC 29).
+This snare snags a creature with its wicked metal hooks. The first creature to enter the square takes 5d8 piercing damage and 5d8 slashing damage, with a DC 29 [[srd/pf2e/compendium/rules-elements/actions/howl-of-the-wild|basic]] Reflex save. On a critical failure, the hooks piercing its flesh make the creature immobilized until it successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 29).
 
 *Source: Player Core 2 p. 300*

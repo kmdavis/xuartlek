@@ -16,8 +16,8 @@ source: "Secrets of the Unlit Star Game Master's Guide"
 
 - **Price**: 60 gp
 - **Bulk**: 1
-- **Base Weapon**: Shortbow
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/bow/shortbow|Shortbow]]
 
-Stealthy hunters and rogues can use this _+1 magic shortbow_ to attack from hiding. If you use this bow to Strike a target that can't see you and you get a critical hit, the target takes an extra 1d6 damage (this is in addition to sneak attack damage if you're a rogue).
+Stealthy hunters and [[srd/pf2e/compendium/character/classes/rogue|rogues]] can use this _+1 magic shortbow_ to attack from hiding. If you use this bow to Strike a target that can't see you and you get a critical hit, the target takes an extra 1d6 damage (this is in addition to sneak attack damage if you're a rogue).
 
 *Source: Secrets of the Unlit Star Game Master's Guide p. 59*

@@ -28,7 +28,7 @@ You cause the target to see all other creatures as dire threats. The target is s
 
 **Critical Success** The target is unaffected.
 
-**Success** The target believes everyone it sees is a potential threat. It becomes unfriendly to all creatures to which it wasn't already hostile, even those that were previously allies. It treats no one as an ally. The spell ends after 1 round.
+**Success** The target believes everyone it sees is a potential threat. It becomes [[srd/pf2e/compendium/rules-elements/conditions#Unfriendly|unfriendly]] to all creatures to which it wasn't already [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]], even those that were previously allies. It treats no one as an ally. The spell ends after 1 round.
 
 **Failure** As success, but the effect lasts 1 minute.
 

@@ -31,10 +31,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; darkvision"
-languages: "Aklo, Common, Fey, Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +12, Athletics +9, Diplomacy +14, Nature +10, Occultism +11, Performance +14, Society +9, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +14, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +11, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +14, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [0, 5, 4, 2, 3, 5]
 ac: 21
 armorclass:
@@ -43,26 +43,26 @@ armorclass:
 hp: 85
 health:
   - name: "HP"
-    desc: "85; __Weaknesses__ cold iron 5"
+    desc: "85; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 5"
 abilities_mid:
   - name: "Cavern Dependent"
-    desc: "A lampad is mystically bonded to a single cavern or other self-contained underground area and must remain within 300 feet of it. If they move beyond that range, they become sickened 1 and are unable to recover. They must attempt a DC 19 Fortitude save every hour or increase their sickened value by 1 (to a maximum of sickened 4). After 24 hours, they become drained 1, with this value increasing by 1 every additional 24 hours. A lampad can perform a 24- hour ritual to bond to a new cavern."
+    desc: "A lampad is mystically bonded to a single cavern or other self-contained underground area and must remain within 300 feet of it. If they move beyond that range, they become [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 and are unable to recover. They must attempt a DC 19 Fortitude save every hour or increase their sickened value by 1 (to a maximum of sickened 4). After 24 hours, they become [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1, with this value increasing by 1 every additional 24 hours. A lampad can perform a 24- hour ritual to bond to a new cavern."
 speed: "25 feet, climb 25 feet (on stone only)"
 attacks:
   - name: "Melee"
-    desc: "⬻ earthen fist +14 (Agile, finesse) __Damage__ 2d10+2 bludgeoning"
+    desc: "⬻ earthen fist +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 2d10+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ light wisp +14 (Magical, range increment 30 feet) __Damage__ 1d8+2 mental plus 1d6 fire and 1d6 vitality"
+    desc: "⬻ light wisp +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range increment 30 feet) __Damage__ 1d8+2 mental plus 1d6 fire and 1d6 vitality"
 abilities_bot:
   - name: "Weep"
-    desc: "⬻ (Auditory, emotion, mental, primal)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]])"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The lampad begins a heart-wrenching fit of weeping, inspiring sympathetic sobbing in nearby creatures. Every non-lampad creature within 30 feet who hears the lampad's weeping must succeed at a DC 20 Will save or be unable to use reactions for 1 round and slowed 1 on its next turn as it sobs uncontrollably. Strong Emotions While lampads are ever vigilant in their assigned tasks, they're known to become lonely and forlorn, as the majority of underground denizens make poor company. True companionship and conversation are among the few things that can keep a moody lampad from sporadically weeping, though like most creatures they find such tears cathartic, feeling better after a good cry."
+    desc: "The lampad begins a heart-wrenching fit of weeping, inspiring sympathetic sobbing in nearby creatures. Every non-lampad creature within 30 feet who hears the lampad's weeping must succeed at a DC 20 Will save or be unable to use reactions for 1 round and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 on its next turn as it sobs uncontrollably. Strong Emotions While lampads are ever vigilant in their assigned tasks, they're known to become lonely and forlorn, as the majority of underground denizens make poor company. True companionship and conversation are among the few things that can keep a moody lampad from sporadically weeping, though like most creatures they find such tears cathartic, feeling better after a good cry."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 22 - __Cantrips (4th)__ Light - __2nd__ Heal, Revealing Light - __3rd__ One with Stone (at will), Pummeling Rubble - __4th__ Shape Stone"
+    desc: "DC 22 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]] - __2nd__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-2/revealing-light|Revealing Light]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/one-with-stone|One with Stone]] (at will), [[srd/pf2e/compendium/spells/rank-1/pummeling-rubble|Pummeling Rubble]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/shape-stone|Shape Stone]]"
 sourcebook: "_Monster Core 2_, page 236."
 ```
 

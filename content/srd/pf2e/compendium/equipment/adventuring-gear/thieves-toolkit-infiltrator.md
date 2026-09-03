@@ -15,9 +15,9 @@ source: "Player Core"
 - **Hands**: -1
 - **Bulk**: L
 
-You need a thieves' toolkit to Pick Locks or Disable Devices (of some types) using the Thievery skill. If your thieves' toolkit is broken, you can repair it by replacing the lock picks with replacement picks appropriate to your toolkit; this doesn't require using the Repair action. If you wear your thieves' toolkit, you can draw and replace it as part of the action that uses it.
+You need a thieves' toolkit to Pick Locks or Disable Devices (of some types) using the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] skill. If your thieves' toolkit is [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]], you can repair it by replacing the lock picks with replacement picks appropriate to your toolkit; this doesn't require using the Repair action. If you wear your thieves' toolkit, you can draw and replace it as part of the action that uses it.
 
-You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. See here for details. 
+You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it. [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Wearing Toolkits|See here for details]]. 
 
 ### Thieves' Toolkit
 

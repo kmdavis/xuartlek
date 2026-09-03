@@ -14,11 +14,11 @@ source: "GM Core"
 - **Price**: 360 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Steel Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
 
 Five jagged spines project from the surface of this steel shield (Hardness 6, HP 24, BT 12). The spines are _+1 striking_ shield spikes. When you use the Shield Block reaction with this shield, the spines take the damage before the shield itself does. When the shield would take damage (after applying Hardness), one spine snaps off per 6 damage, reducing the damage by 6. The shield takes any remaining damage. When there are no spines left, the shield takes damage as normal.
  When all the spines are gone, you lose the ability to attack with them until the spines regenerate the next day.
 
-**Activate—Fire Spine** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Effect** You shoot one of the shield's spines at a target. A fired spine uses the spikes' statistics, but it's a martial ranged weapon with a range increment of 120 feet.
+**Activate—Fire Spine** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** You shoot one of the shield's spines at a target. A fired spine uses the spikes' statistics, but it's a martial ranged weapon with a range increment of 120 feet.
 
 *Source: GM Core p. 234*

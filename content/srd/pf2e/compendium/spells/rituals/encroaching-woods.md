@@ -17,7 +17,7 @@ source: "Battlecry!"
 
 - **Cast**: 1 day
 - **Secondary Casters**: 2
-- **Primary Check**: Nature (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (master)
 - **Secondary Checks**: Survival , Warfare Lore
 - **Area**: a section of forest no larger than 1,000 square feet
 - **Range**: 100 feet
@@ -29,12 +29,12 @@ During the ritual’s duration, creatures within the forest are obscured to thos
 
 Once the ritual’s duration has ended, the trees remain in their last location. They are affected normally by anything in their current environment that would prevent or stunt plant growth, such as a change of soil type or water quality, though such issues occur at the usual rate.
 
-**Critical Success** The affected trees sprout obscuring foliage, causing any creature within the forest to be undetected to creatures outside the forest. Each creature in the forest also gains greater cover.
+**Critical Success** The affected trees sprout obscuring foliage, causing any creature within the forest to be [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] to creatures outside the forest. Each creature in the forest also gains greater [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|cover]].
 
-**Success** As critical success, but the creatures inside the forest are hidden to creatures outside the forest and gain standard cover.
+**Success** As critical success, but the creatures inside the forest are [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to creatures outside the forest and gain standard cover.
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** The primal energy of the forest lashes out at you, cursing you to become one of the trees you sought to control. Each caster immediately gains the petrified condition, though they’re solid wood instead of stone. Instead of the normal Hardness, a petrified caster has a Hardness of 5 and a weakness to axes equal to their level. The DC to counteract this condition is the ritual’s casting DC.
+**Critical Failure** The primal energy of the forest lashes out at you, cursing you to become one of the trees you sought to control. Each caster immediately gains the [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]] condition, though they’re solid wood instead of stone. Instead of the normal Hardness, a petrified caster has a Hardness of 5 and a weakness to axes equal to their level. The DC to counteract this condition is the ritual’s casting DC.
 
 *Source: Battlecry! p. 93*

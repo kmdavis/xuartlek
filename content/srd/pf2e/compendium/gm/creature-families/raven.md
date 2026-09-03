@@ -14,6 +14,6 @@ Few birds are as cunning and social as the raven.
 
 ### Members
 
-Raven Swarm (Creature 3), Trained Raven (Creature -1)
+[[srd/pf2e/bestiary/monster-core-2/animal/raven-swarm|Raven Swarm]] (Creature 3), [[srd/pf2e/bestiary/monster-core-2/animal/trained-raven|Trained Raven]] (Creature -1)
 
 *Source: Monster Core 2 p. 267*

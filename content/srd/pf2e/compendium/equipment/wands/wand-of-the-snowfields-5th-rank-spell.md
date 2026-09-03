@@ -21,9 +21,9 @@ source: "Player Core 2"
 
 This wand is a slender length of ice-blue glass.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _howling blizzard_. Snow lingers in the spell's area, remaining as difficult terrain for 1 minute.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|_howling blizzard_]]. Snow lingers in the spell's area, remaining as difficult terrain for 1 minute.
 
-**Craft Requirements** Supply a casting of _howling blizzard_ of the appropriate rank.
+**Craft Requirements** Supply a casting of [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|_howling blizzard_]] of the appropriate rank.
 
 ### Wand of the Snowfields (5th-Rank Spell)
 

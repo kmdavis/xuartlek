@@ -18,9 +18,9 @@ source: "Player Core 2"
 
 - **Price**: 1,800 gp
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
-This piece of bronzite is shaped like an oval with points at both ends. It has a carved flame at its center and is traditionally worn over the heart. You can activate only one _flame navette_ per day. When you activate the navette, you gain the benefit of the fighter's Determination class feat, with a counteract rank of 8 and a counteract modifier of +22. 
+This piece of bronzite is shaped like an oval with points at both ends. It has a carved flame at its center and is traditionally worn over the heart. You can activate only one _flame navette_ per day. When you activate the navette, you gain the benefit of the fighter's [[srd/pf2e/compendium/feats/player-core/archetype/determination|Determination]] class feat, with a counteract rank of 8 and a counteract modifier of +22. 
 If you have the Determination feat, you can use your own modifier if it's better.
 
 *Source: Player Core 2 p. 305*

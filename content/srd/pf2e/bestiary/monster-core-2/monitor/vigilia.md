@@ -28,11 +28,11 @@ trait_02: "Monitor"
 modifier: 24
 perception:
   - name: "Perception"
-    desc: "Perception +24; darkvision, _see the unseen_"
-languages: "Common, Diabolic, Empyrean, Utopian"
+    desc: "Perception +24; darkvision, [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|_see the unseen_]]"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Utopian"
 skills:
   - name: "Skills"
-    desc: "Athletics +20, Legal Lore +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +20, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +17"
 abilityMods: [7, 3, 5, 2, 5, -1]
 ac: 30
 armorclass:
@@ -41,21 +41,21 @@ armorclass:
 hp: 190
 health:
   - name: "HP"
-    desc: "190; __Immunities__ disease, emotion, fear; __Resistances__ electricity 10"
+    desc: "190; __Immunities__ disease, [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 10"
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +24 (Magical, Nonlethal) __Damage__ 2d10+10 bludgeoning plus 1d10 electricity"
+    desc: "⬻ fist +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 2d10+10 bludgeoning plus 1d10 electricity"
 abilities_bot:
   - name: "Electrical Purge"
-    desc: "⬺ (Divine, Electricity, Nonlethal) The vigilia releases lightning from their body in a 30-foot emanation dealing 4d10 electricity damage (DC 30 basic Reflex save) to all creatures that aren't aeons or constructs. The vigilia is then slowed 1 for 1 round."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|Electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) The vigilia releases lightning from their body in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] dealing 4d10 electricity damage (DC 30 basic Reflex save) to all creatures that aren't [[srd/pf2e/compendium/rules-elements/traits/gm-core/aeon|aeons]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|constructs]]. The vigilia is then [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] for 1 round."
   - name: "Lightning Chain"
-    desc: "⬻ (Divine, Electricity, Nonlethal) The vigilia wraps momentary chains of electrical energy around a creature within 60 feet, dealing 2d10 electricity damage (DC 30 basic Reflex save). A creature that fails its save is also pulled 10 feet toward the vigilia (20 feet on a critical failure)."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|Electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) The vigilia wraps momentary chains of electrical energy around a creature within 60 feet, dealing 2d10 electricity damage (DC 30 basic Reflex save). A creature that fails its save is also pulled 10 feet toward the vigilia (20 feet on a critical failure)."
   - name: "Take Prisoner"
-    desc: "⬻ The vigilia Interacts to pick up a Medium or smaller unconscious creature within its reach, then Strides."
+    desc: "⬻ The vigilia [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interacts]] to pick up a Medium or smaller [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] creature within its reach, then [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]]."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 30 - __Constant (2nd)__ See the Unseen"
+    desc: "DC 30 - __Constant (2nd)__ [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]]"
 sourcebook: "_Monster Core 2_, page 11."
 ```
 

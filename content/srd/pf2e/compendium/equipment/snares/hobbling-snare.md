@@ -24,7 +24,7 @@ You rig vines, ropes, or wires to cinch tight around a creature that triggers th
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes a –5-foot status penalty to its Speed for 1 minute or until it Escapes (DC 18).
+**Success** The creature takes a –5-foot status penalty to its Speed for 1 minute or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]] (DC 18).
 
 **Failure** As success, but the penalty is –10 feet.
 

@@ -21,6 +21,6 @@ source: "GM Core"
 
 This thick leather belt is engraved with imagery of an ancient tree. You gain 15 temporary Hit Points the first time you invest the belt in a day. When you invest the belt, you either increase your Constitution modifier by 1 or increase it to +4, whichever would give you a higher value. 
 
-**Activate—Call Upon the Ancient Life** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per day; **Effect** You draw upon the life- giving energy of the tree on the belt to gain rapid healing. For 2d4 rounds, at the start of your turn each round, you recover 15 Hit Points.
+**Activate—Call Upon the Ancient Life** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You draw upon the life- giving energy of the tree on the belt to gain rapid healing. For 2d4 rounds, at the start of your turn each round, you recover 15 Hit Points.
 
 *Source: GM Core p. 270*

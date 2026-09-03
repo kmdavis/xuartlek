@@ -27,10 +27,10 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; darkvision"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +23, Stealth +19"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +19"
 abilityMods: [7, 3, 6, -2, 2, -2]
 abilities_top:
   - name: "Refuse Pile"
@@ -42,27 +42,27 @@ armorclass:
 hp: 170
 health:
   - name: "HP"
-    desc: "170 (filth wallow); __Immunities__ disease, poison"
+    desc: "170 (filth wallow); __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]"
 abilities_mid:
   - name: "Filth Wallow"
     desc: "An ofalth gains fast healing 2 when in an area with a high concentration of debris or excrement, such as a refuse heap or sewer."
   - name: "Stench"
-    desc: "(aura, olfactory) 30 feet, DC 28"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]]) 30 feet, DC 28"
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +23 (reach 10 feet) __Damage__ 2d12+13 bludgeoning plus wretched weeps"
+    desc: "⬻ fist +23 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d12+13 bludgeoning plus wretched weeps"
   - name: "Ranged"
     desc: "⬻ offal +19 (range increment 30 feet) __Damage__ 2d10+9 bludgeoning plus wretched weeps"
 abilities_bot:
   - name: "Wretched Weeps"
-    desc: "(Disease)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]])"
   - name: "Saving Throw"
     desc: "DC 26 Fortitude"
   - name: "Stage 1"
     desc: "carrier with no ill effect (1 day)"
   - name: "Stage 2"
-    desc: "2d4 persistent bleed every hour and enfeebled 1 (1 day)"
+    desc: "2d4 persistent bleed every hour and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 day)"
   - name: "Stage 3"
     desc: "2d6 persistent bleed every hour and enfeebled 2 (1 day)"
 sourcebook: "_Monster Core_, page 249."

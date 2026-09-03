@@ -11,7 +11,7 @@ source: "Player Core"
 
 # Repair Toolkit  *Item 0+*
 
-A repair toolkit allows you to perform simple repairs while traveling. It contains a portable anvil, tongs, woodworking tools, a whetstone, and oils for conditioning leather and wood. You can use a repair toolkit to Repair items using the Crafting skill. You can draw and replace a worn repair toolkit as part of the action that uses it.
+A repair toolkit allows you to perform simple repairs while traveling. It contains a portable anvil, tongs, woodworking tools, a whetstone, and oils for conditioning leather and wood. You can use a repair toolkit to Repair items using the [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] skill. You can draw and replace a worn repair toolkit as part of the action that uses it.
 
 ### Repair Toolkit
 

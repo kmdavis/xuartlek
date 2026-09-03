@@ -55,15 +55,15 @@ Scarlet in Summer, Verdant Taleweaver, Lurking Hunter, Masterful Sun Drinker, No
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
-Fey
+[[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Draconic, Elven, Gnomish, Goblin, Halfling, Sakvroth, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], and any other languages to which you have access (such as the languages prevalent in your region).
 
-| | |
-| --- | --- |
-| **Low-Light Vision** | You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light. |
+#### Low-Light Vision
+
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
 
 #### Plant Nourishment
 

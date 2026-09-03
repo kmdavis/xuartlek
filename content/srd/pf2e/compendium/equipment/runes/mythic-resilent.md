@@ -21,8 +21,8 @@ source: "War of Immortals"
 
 Mythic resilient runes imbue armor with unrivaled protection from a wide array of effects. The armor grants a +4 item bonus to saving throws to the wearer.
 
-**Activate—Defy Obliteration** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate) **Trigger** You critically fail a saving throw; **Effect** Spend a Mythic Point; if the triggering save was made due to an effect created by a mythic monster, hazard, or other effect, it’s a normal failure instead. If the save was made due to an effect that wasn’t mythic, it becomes a success.
+**Activate—Defy Obliteration** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Trigger** You critically fail a saving throw; **Effect** Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]]; if the triggering save was made due to an effect created by a mythic monster, hazard, or other effect, it’s a normal failure instead. If the save was made due to an effect that wasn’t mythic, it becomes a success.
 
-**Craft Requirements** Mythic resilient runes can only be crafted, etched, or transferred by a mythic character capable of making a Crafting check at mythic proficiency (such as by having the Artisan’s Calling).
+**Craft Requirements** Mythic resilient runes can only be crafted, etched, or transferred by a mythic character capable of making a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check at mythic proficiency (such as by having the Artisan’s Calling).
 
 *Source: War of Immortals p. 149*

@@ -29,10 +29,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; darkvision"
-languages: "Draconic, Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +7, Stealth +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
 abilityMods: [4, 2, 3, -1, 1, 0]
 abilities_top:
   - name: "Items"
@@ -47,7 +47,7 @@ health:
     desc: "21"
 abilities_mid:
   - name: "Stench"
-    desc: "(aura, olfactory) 30 feet, DC 16"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]]) 30 feet, DC 16"
 speed: "25 feet"
 attacks:
   - name: "Melee"
@@ -55,11 +55,11 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +9 __Damage__ 1d6+4 piercing"
   - name: "Melee"
-    desc: "⬻ claw +9 (Agile) __Damage__ 1d4+4 slashing"
+    desc: "⬻ claw +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d4+4 slashing"
   - name: "Ranged"
-    desc: "⬻ club +7 (thrown 10 feet) __Damage__ 1d6+4 bludgeoning"
+    desc: "⬻ club +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ javelin +7 (thrown 30 feet) __Damage__ 1d6+4 piercing"
+    desc: "⬻ javelin +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 1d6+4 piercing"
 sourcebook: "_Monster Core_, page 352."
 ```
 

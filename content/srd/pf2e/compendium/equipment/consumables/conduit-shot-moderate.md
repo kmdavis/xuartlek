@@ -16,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 `Consumable`  `Magical`
 
 - **Ammunition**: any
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 Fine lines of djezet sparkle in _conduit shot_. When you Activate it, you name up to four creatures, in addition to you, that the ammunition's magic works for. When a _conduit shot_ hits a target, which can be a square, it remains intact. It moves with a creature it struck, unless the GM determines otherwise, until that creature regains any Hit Points. If it doesn't stick to the target, the active ammunition instead falls into the target's space, remaining active. 
 

@@ -19,7 +19,7 @@ source: "Player Core 2"
 - **Range**: 120 feet
 - **Target**: 1 willing creature
 
-You teleport one object of light or negligible Bulk held in your hand to the target. The object appears instantly in the target's hand if they have a free hand, or at their feet if they don't. The target knows what object you're attempting to send them. If the target is unconscious or refuses to accept your gift, or if the spell would teleport a creature (even if the creature is inside an extradimensional container), the spell fails.
+You teleport one object of light or negligible Bulk held in your hand to the target. The object appears instantly in the target's hand if they have a free hand, or at their feet if they don't. The target knows what object you're attempting to send them. If the target is [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] or refuses to accept your gift, or if the spell would teleport a creature (even if the creature is inside an [[srd/pf2e/compendium/rules-elements/traits/player-core/extradimensional|extradimensional]] container), the spell fails.
 
 ---
 **Heightened (3rd)** The spell's range increases to 500 feet.

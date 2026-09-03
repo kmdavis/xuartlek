@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e/player-core-2
+- trait/barbarian
+- trait/flourish
+- trait/rage
+- feat/level/8
+aliases: ["Disarming Assault"]
+aon_id: "feat-5836"
+source: "Player Core 2"
+---
+
+# Disarming Assault  *Feat 8*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+
+`Barbarian`  `Flourish`  `Rage`
+
+- **Prerequisites**: Trained in [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]]
+
+You attack with enough force to knock the weapon out of your foe's hands. Make a melee Strike; if you hit, you can attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] that enemy.
+
+*Source: Player Core 2 p. 81*

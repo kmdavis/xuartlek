@@ -31,7 +31,7 @@ perception:
     desc: "Perception +9; low-light vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Thievery +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +10"
 abilityMods: [0, 3, 0, -4, 4, 0]
 ac: 19
 armorclass:
@@ -40,13 +40,13 @@ armorclass:
 hp: 30
 health:
   - name: "HP"
-    desc: "30; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, splash damage 5"
+    desc: "30; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 2, piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 speed: "10 feet, fly 40 feet"
 abilities_bot:
   - name: "Enraged Cunning"
-    desc: "There are few things as dangerously persistent in the natural world as an angry unkindness of ravens. A raven swarm can hound its prey through most barriers. Simple latches, unsecured chimney flues, loosely shuttered windows, and similar obstacles rarely keep an unkindness away. A raven swarm attempts a Thievery check to bypass many of these simple obstructions, typically against DC 20."
+    desc: "There are few things as dangerously persistent in the natural world as an angry unkindness of ravens. A raven swarm can hound its prey through most barriers. Simple latches, unsecured chimney flues, loosely shuttered windows, and similar obstacles rarely keep an unkindness away. A raven swarm attempts a [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check to bypass many of these simple obstructions, typically against DC 20."
   - name: "Swarming Beaks"
-    desc: "⬻ The ravens' angry pecking deals 2d8 piercing damage to each enemy in the swarm's space (DC 20 basic Reflex save). A creature that critically fails its save is blinded for 1d4 rounds as the ravens focus their attacks on the target's vulnerable face."
+    desc: "⬻ The ravens' angry pecking deals 2d8 piercing damage to each enemy in the swarm's space (DC 20 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). A creature that critically fails its save is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1d4 rounds as the ravens focus their attacks on the target's vulnerable face."
 sourcebook: "_Monster Core 2_, page 267."
 ```
 

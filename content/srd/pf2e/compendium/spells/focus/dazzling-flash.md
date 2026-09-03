@@ -20,7 +20,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Light`  `Manipulate`  `Uncommon`  `Visual`
 
-- **Domain**: Sun
+- **Domain**: [[srd/pf2e/compendium/character/domains#Sun|Sun]]
 - **Area**: 15-foot cone
 - **Defense**: Fortitude
 
@@ -28,9 +28,9 @@ You raise your religious symbol and create a blinding flash of light. Each creat
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is dazzled for 1 round.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round.
 
-**Failure** The creature is blinded for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the blinded condition.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the blinded condition.
 
 **Critical Failure** The creature is blinded for 1 round and dazzled for 1 hour.
 

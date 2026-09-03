@@ -11,8 +11,8 @@ source: "NPC Core"
 # Leshy  *Creature Adjustment*
 
 Leshies are nature spirits who have been granted a physical form. They have little tolerance for those who despoil natural places but can find family with anyone. For a fungus leshy, change references to plants to fungi. 
-Change size to Small.Replace the human and humanoid traits with theleshy and plant traits.Add the Fey language.Add the following abilities. **Low-Light Vision**
- **Verdant Burst** (healing) When the leshy dies, a burst of primal energy explodes from their body, restoring Hit Points based on the leshy's level to each plant creature in a 30-foot emanation. This area is filled with plants, becoming difficult terrain. If the terrain is not a viable environment for these plants, they wither after 24 hours.
+Change size to Small.Replace the [[srd/pf2e/compendium/rules-elements/traits/player-core/human|human]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]] traits with the[[srd/pf2e/compendium/rules-elements/traits/player-core/leshy|leshy]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] traits.Add the [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]] language.Add the following abilities. **Low-Light Vision**
+ **Verdant Burst** ([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]]) When the leshy dies, a burst of primal energy explodes from their body, restoring Hit Points based on the leshy's level to each plant creature in a 30-foot emanation. This area is filled with plants, becoming difficult terrain. If the terrain is not a viable environment for these plants, they wither after 24 hours.
 
 ## 
 

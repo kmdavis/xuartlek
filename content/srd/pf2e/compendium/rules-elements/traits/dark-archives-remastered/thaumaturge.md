@@ -13,6 +13,6 @@ source: "Dark Archives (Remastered)"
 
 `Thaumaturge`
 
-This indicates abilities from the thaumaturge class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/thaumaturge|thaumaturge]] class.
 
 *Source: Dark Archives (Remastered) p. 221*

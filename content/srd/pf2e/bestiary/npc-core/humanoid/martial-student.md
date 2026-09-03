@@ -29,10 +29,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Athletics +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10"
 abilityMods: [4, 3, 2, 0, 1, 0]
 abilities_top:
   - name: "Items"
@@ -48,7 +48,7 @@ health:
 speed: "35 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +11 (Agile, Nonlethal, Unarmed) __Damage__ 1d6+4 bludgeoning"
+    desc: "⬻ fist +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d6+4 bludgeoning"
 abilities_bot:
   - name: "Fancy Footwork"
     desc: "⬻ The martial student Steps and Strides in any order."

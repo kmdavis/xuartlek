@@ -31,7 +31,7 @@ perception:
     desc: "Perception +6; darkvision, tremorsense (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Stealth +4, Survival +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +4, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
 abilityMods: [3, -1, 3, -4, 1, -3]
 ac: 15
 armorclass:
@@ -40,14 +40,14 @@ armorclass:
 hp: 25
 health:
   - name: "HP"
-    desc: "25; __Immunities__ bleed, paralyzed, poison, sleep"
+    desc: "25; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 speed: "20 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ crystal teeth +9 __Damage__ 1d4+4 piercing plus Attach"
 abilities_bot:
   - name: "Attach"
-    desc: "⬺ The geode Leaps up to 15 feet and makes a crystal teeth Strike. If it hits a creature larger than itself, it can attach to that creature. Doing so is like Grabbing the creature (Escape DC 17), but the geode moves with that creature rather than holding it in place. The geode is off-guard while attached. If the geode is killed or pushed away while attached to a creature, that creature takes 1 persistent bleed damage. Escaping the attached geode or removing the geode in other ways doesn't cause bleed damage."
+    desc: "⬺ The geode Leaps up to 15 feet and makes a crystal teeth Strike. If it hits a creature larger than itself, it can attach to that creature. Doing so is like Grabbing the creature (Escape DC 17), but the geode moves with that creature rather than holding it in place. The geode is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] while attached. If the geode is killed or pushed away while attached to a creature, that creature takes 1 persistent bleed damage. Escaping the attached geode or removing the geode in other ways doesn't cause bleed damage."
   - name: "Gnaw"
     desc: "⬻"
   - name: "Requirements"

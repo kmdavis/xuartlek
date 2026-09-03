@@ -47,8 +47,8 @@ A smaller version of the _kickback spring_ was first deployed as a deterrent to 
 
 **Aim** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") 25 feet, minimum distance 50 feet 
 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 2 times, requires a successful DC 22 Athletics check 
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times, requires a successful DC 22 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check 
 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (air, attack, manipulate, range increment 60 feet) 6d8 bludgeoning, 15-foot cone, DC 22 Reflex. A creature that fails its Reflex save is pushed 25 feet away from the _kickback spring_ as air rapidly vents from the device. On a critical failure, a creature falls prone after being pushed back.
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range increment 60 feet]]) 6d8 bludgeoning, 15-foot cone, DC 22 Reflex. A creature that fails its Reflex save is pushed 25 feet away from the _kickback spring_ as air rapidly vents from the device. On a critical failure, a creature falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] after being pushed back.
 
 *Source: Howl of the Wild p. 115*

@@ -29,14 +29,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; darkvision, tremorsense (imprecise) 80 feet"
-languages: "Petran"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +21, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [6, -1, 7, -1, 3, -1]
 abilities_top:
   - name: "Earthbound"
-    desc: "When not touching solid ground, a stone mauler is slowed 1 and can't use reactions."
+    desc: "When not touching solid ground, a stone mauler is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] and can't use reactions."
 ac: 27
 armorclass:
   - name: "AC"
@@ -44,21 +44,21 @@ armorclass:
 hp: 180
 health:
   - name: "HP"
-    desc: "180; __Immunities__ bleed, paralyzed, poison, sleep"
+    desc: "180; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 abilities_mid:
   - name: "Spike Stones"
-    desc: "(aura, earth, primal) 5 feet. Spikes of rock rise up from all stone surfaces in the emanation, creating difficult terrain. A creature moving in the terrain takes 2d6 piercing damage for each square of spikes it moves into (a Large or larger creature takes damage only once for each square it moves, even if its space covers multiple squares of spikes). Creatures with the earth trait ignore all effects within the area. The stone mauler can disable or activate this aura using a single action, which has the concentrate trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) 5 feet. Spikes of rock rise up from all stone surfaces in the emanation, creating difficult terrain. A creature moving in the terrain takes 2d6 piercing damage for each square of spikes it moves into (a Large or larger creature takes damage only once for each square it moves, even if its space covers multiple squares of spikes). Creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]] trait ignore all effects within the area. The stone mauler can disable or activate this aura using a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait."
   - name: "Crumble"
-    desc: "⬲ Trigger The elemental takes damage from a hostile source while atop rock or earth; Effect The elemental crumbles into the ground, Burrowingdown 15 feet. This Burrowing does not trigger reactions. The elemental can't Crumble again for 1d4 rounds"
+    desc: "⬲ Trigger The elemental takes damage from a hostile source while atop rock or earth; Effect The elemental crumbles into the ground, [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrowing]]down 15 feet. This Burrowing does not trigger reactions. The elemental can't Crumble again for 1d4 rounds"
 speed: "35 feet, burrow 35 feet; earth glide"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +21 (reach 10 feet) __Damage__ 2d10+10 bludgeoning plus Push 10 feet"
+    desc: "⬻ fist +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+10 bludgeoning plus Push 10 feet"
   - name: "Ranged"
     desc: "⬻ rock +21 (Brutal, range increment 80 feet) __Damage__ 2d12+6 bludgeoning"
 abilities_bot:
   - name: "Earth Glide"
-    desc: "The elemental can Burrow through any earthen matter, including rock. When it does so, the elemental moves at its full burrow Speed, leaving no tunnels or signs of its passing."
+    desc: "The elemental can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through any earthen matter, including rock. When it does so, the elemental moves at its full burrow Speed, leaving no tunnels or signs of its passing."
 sourcebook: "_Monster Core_, page 142."
 ```
 

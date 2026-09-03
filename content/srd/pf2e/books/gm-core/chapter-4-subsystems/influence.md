@@ -28,7 +28,7 @@ During each round of an influence encounter, each PC can act once to either Infl
 
 ### Influence
 
-Concentrate Linguistic
+[[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]] [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]]
 **Source** GM Core pg. 187
 
 ---
@@ -41,7 +41,7 @@ You attempt to make a favorable impression on an NPC to convince the NPC to supp
 
 ### Discover
 
-Concentrate Secret
+[[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]] [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|Secret]]
 **Source** GM Core pg. 187
 
 ---

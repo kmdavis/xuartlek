@@ -19,7 +19,7 @@ source: "GM Core"
 
 This delicately embroidered scarf matches with every outfit and can even complete a costume or disguise with illusions. 
 
-**Activate—Masquerade** 1 minute (manipulate) **Frequency** once per day; **Effect** You arrange the scarf over your lower face, and it casts a 1st-rank _illusory disguise_ spell on you, which ends immediately if the scarf is removed. You can alter the scarf's appearance or make it invisible as part of the _illusory disguise_, but it can still be felt if touched.
+**Activate—Masquerade** 1 minute ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You arrange the scarf over your lower face, and it casts a 1st-rank [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]] spell on you, which ends immediately if the scarf is removed. You can alter the scarf's appearance or make it invisible as part of the _illusory disguise_, but it can still be felt if touched.
 
 ### Masquerade Scarf
 

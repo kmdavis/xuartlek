@@ -21,7 +21,7 @@ Carved in this wooden disc is a humanoid eye, painted in muted
 shades that blend in with the wood. The eye’s pupil continually
 twitches and moves, scanning its bearer’s surroundings.
 
-**Armor** (revelation) You aren’t off-guard to hidden or undetected creatures of the eye’s level or lower, or creatures of the eye’s level or lower using surprise attack, though you can still be flanked.**Weapon** When you make a Strike with the weapon against a target that’s concealed, hidden, or undetected, the DC of your flat check to target it is 4 if the target is concealed or 10 if it’s hidden or undetected.
+**Armor** ([[srd/pf2e/compendium/rules-elements/traits/player-core/revelation|revelation]]) You aren’t [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creatures of the eye’s level or lower, or creatures of the eye’s level or lower using surprise attack, though you can still be [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Flanking|flanked]].**Weapon** When you make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with the weapon against a target that’s [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], hidden, or undetected, the DC of your flat check to target it is 4 if the target is concealed or 10 if it’s hidden or undetected.
 
 **Activate** Cast a Spell; **Effect** You cast _detect magic_.
 
@@ -53,6 +53,6 @@ The flat check DC if the eye is affixed to a weapon is 2 if the target is concea
 
 **Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _clairvoyance_.
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _scouting eye_.
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-5/scouting-eye|_scouting eye_]].
 
 *Source: Treasure Vault (Remastered) p. 129*

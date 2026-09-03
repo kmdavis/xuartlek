@@ -31,7 +31,7 @@ perception:
     desc: "Perception +7; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +9, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [3, 3, 4, -4, 1, 2]
 ac: 17
 armorclass:
@@ -46,12 +46,12 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +9 __Damage__ 2d6+3 piercing"
   - name: "Melee"
-    desc: "⬻ talon +9 (Agile) __Damage__ 1d6+3 slashing plus 1d4 persistent bleed"
+    desc: "⬻ talon +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+3 slashing plus 1d4 persistent bleed"
 abilities_bot:
   - name: "Darting Attack"
     desc: "⬻ The deinonychus Strides up to 10 feet and then makes a Strike, or makes a Strike and then Strides up to 10 feet."
   - name: "Predator's Advantage"
-    desc: "Bleeding creatures are off-guard to the deinonychus"
+    desc: "Bleeding creatures are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the deinonychus"
 sourcebook: "_Monster Core_, page 97."
 ```
 

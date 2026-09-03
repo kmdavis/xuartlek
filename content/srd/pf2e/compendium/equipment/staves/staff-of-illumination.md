@@ -25,7 +25,7 @@ This simple iron staff is capped with a faceted, clear gem.
 
 **Activate** Cast a Spell; **Effect** 
 
-**Cantrip** _light_**2nd** _everlight_**3rd** _everlight_, _holy light_
+**Cantrip** _light_**2nd** [[srd/pf2e/compendium/spells/rank-2/everlight|_everlight_]]**3rd** [[srd/pf2e/compendium/spells/rank-2/everlight|_everlight_]], [[srd/pf2e/compendium/spells/rank-3/holy-light|_holy light_]]
 
 **Craft Requirements** Supply one casting of all listed ranks of all listed spells.
 

@@ -31,14 +31,14 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; darkvision"
-languages: "Common, Necril"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +10, Intimidation +9, Stealth +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
 abilityMods: [4, 1, 4, 0, 3, 2]
 abilities_top:
   - name: "Grave Weapon"
-    desc: "(divine) The wight is bound to a dagger it was buried with. Other wights can be bound to different weapons."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) The wight is bound to a dagger it was buried with. Other wights can be bound to different weapons."
   - name: "Items"
     desc: "Dagger"
 ac: 18
@@ -48,7 +48,7 @@ armorclass:
 hp: 40
 health:
   - name: "HP"
-    desc: "40 (fueled by spite, void healing); __Immunities__ bleed, death effects, disease, paralyzed, poison, unconscious"
+    desc: "40 (fueled by spite, void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]"
 abilities_mid:
   - name: "Final Spite"
     desc: "⬲"
@@ -61,18 +61,18 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +12 (Agile, versatile S) __Damage__ 1d4+6 piercing plus corrupting spite"
+    desc: "⬻ dagger +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+6 piercing plus corrupting spite"
   - name: "Melee"
-    desc: "⬻ claw +12 (Agile) __Damage__ 1d4+6 slashing plus corrupting spite"
+    desc: "⬻ claw +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d4+6 slashing plus corrupting spite"
   - name: "Ranged"
-    desc: "⬻ dagger +10 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+6 slashing plus corrupting spite"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+6 slashing plus corrupting spite"
 abilities_bot:
   - name: "Corrupting Spite"
-    desc: "(Curse, Divine, Void) The wight's unarmed attacks and bound weapons inflict a curse that makes a creature grow weak and spiteful. If a wight inflicts corrupting spite on a creature already afflicted by it, the victim attempts a new save, ignoring the result if it's better than a failure. A living humanoid that dies while under the curse rises as a wight after 1d4 rounds, controlled by the wight that killed it. The wight spawn can't inflict corrupting spite and is clumsy 2. If its creator dies or after roughly a month of existence, the new wight becomes autonomous and turns into a normal wight"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|Void]]) The wight's [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks and bound weapons inflict a curse that makes a creature grow weak and spiteful. If a wight inflicts corrupting spite on a creature already afflicted by it, the victim attempts a new save, ignoring the result if it's better than a failure. A living humanoid that dies while under the curse rises as a wight after 1d4 rounds, [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] by the wight that killed it. The wight spawn can't inflict corrupting spite and is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 2]]. If its creator dies or after roughly a month of existence, the new wight becomes autonomous and turns into a normal wight"
   - name: "Saving Throw"
     desc: "DC 17 Fortitude"
   - name: "Stage 1"
-    desc: "drained 1 (1 round)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]] (1 round)"
   - name: "Stage 2"
     desc: "drained 2 and doesn't treat any creatures as allies (1 round)"
   - name: "Stage 3"

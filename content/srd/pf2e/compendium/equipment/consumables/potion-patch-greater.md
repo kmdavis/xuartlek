@@ -16,10 +16,10 @@ source: "Treasure Vault (Remastered)"
 `Consumable`  `Magical`
 
 - **Usage**: worn
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Requirement**: You must have the _potion patch_ affixed to your skin.
 
-A _potion patch_ is a sticky, bandage-like pad that can be filled with one potion and affixed to the skin. Filling the patch and affixing it is a 1-minute activity that takes two hands and has the manipulate trait. A patch has a maximum level of potion it can absorb, depending on the patch's type. When you Activate the patch, the potion affects you without you needing to have the potion in your hand. The patch's magic is negated after it's used, the next time you make your daily preparations, or when another _potion patch_ is affixed to you, whichever comes first.
+A _potion patch_ is a sticky, bandage-like pad that can be filled with one potion and affixed to the skin. Filling the patch and affixing it is a 1-minute activity that takes two hands and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait. A patch has a maximum level of potion it can absorb, depending on the patch's type. When you Activate the patch, the potion affects you without you needing to have the potion in your hand. The patch's magic is negated after it's used, the next time you make your daily preparations, or when another _potion patch_ is affixed to you, whichever comes first.
 
 ### Potion Patch (Lesser)
 

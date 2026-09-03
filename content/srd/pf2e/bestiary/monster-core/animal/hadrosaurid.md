@@ -31,7 +31,7 @@ perception:
     desc: "Perception +13; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Stealth +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10"
 abilityMods: [6, 2, 3, -4, 1, 0]
 ac: 21
 armorclass:
@@ -44,9 +44,9 @@ health:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tail +14 (reach 15 feet) __Damage__ 2d6+8 bludgeoning"
+    desc: "⬻ tail +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d6+8 bludgeoning"
   - name: "Melee"
-    desc: "⬻ foot +12 (reach 15 feet) __Damage__ 2d4+8 bludgeoning"
+    desc: "⬻ foot +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d4+8 bludgeoning"
 abilities_bot:
   - name: "Sprint"
     desc: "⬺"

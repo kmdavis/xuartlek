@@ -35,16 +35,16 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; blood scent, scent (imprecise) 100 feet"
-languages: "Common; shark empathy"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; shark empathy"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Stealth +9, Survival +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
 abilityMods: [4, 3, 4, -1, 2, -1]
 abilities_top:
   - name: "Blood Scent"
     desc: "The wereshark can smell blood in the water from up to 1 mile away."
   - name: "Shark Empathy"
-    desc: "(primal) A wereshark can communicate with sharks."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) A wereshark can communicate with sharks."
   - name: "Items"
     desc: "studded leather, Trident"
 ac: 21
@@ -65,20 +65,20 @@ attacks:
   - name: "Melee"
     desc: "⬻ trident +14 __Damage__ 1d8+7 piercing plus fish fork"
   - name: "Ranged"
-    desc: "⬻ trident +13 (thrown 20 feet) __Damage__ 1d8+7 piercing"
+    desc: "⬻ trident +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d8+7 piercing"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ (Concentrate, Polymorph, Primal) Medium human with fist +14 for 1d4+7 bludgeoning, or Large shark with jaws +14 for 1d12+7 piercing, no land Speed, and swim Speed 40 feet. The wereshark doesn't have the amphibious trait in human or shark form and has the aquatic trait in shark form."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) Medium human with fist +14 for 1d4+7 bludgeoning, or Large shark with jaws +14 for 1d12+7 piercing, no land Speed, and swim Speed 40 feet. The wereshark doesn't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/amphibious|amphibious]] trait in human or shark form and has the [[srd/pf2e/compendium/rules-elements/traits/player-core/aquatic|aquatic]] trait in shark form."
   - name: "Curse of the Wereshark"
-    desc: "(Curse, Primal) Saving Throw DC 18 Fortitude"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) Saving Throw DC 18 Fortitude"
   - name: "Fish Fork"
     desc: "⬻"
   - name: "Requirements"
     desc: "The wereshark critically hit with a trident Strike on their most recent action this turn"
   - name: "Effect"
-    desc: "The wereshark digs their trident deep within their target, skewering it before taking a massive bite. The target of the Strike becomes grabbed (Escape DC 18) and takes 1d4 persistent bleed damage, and the wereshark attempts a jaws Strike against it. The wereshark can't use their trident while they have a creature grabbed with it, but they can pull the trident free with a single action that has the manipulate trait."
+    desc: "The wereshark digs their trident deep within their target, skewering it before taking a massive bite. The target of the Strike becomes [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] ([[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] DC 18) and takes 1d4 persistent bleed damage, and the wereshark attempts a jaws Strike against it. The wereshark can't use their trident while they have a creature grabbed with it, but they can pull the trident free with a single action that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait."
   - name: "Moon Frenzy"
-    desc: "(Polymorph, Primal)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]])"
 sourcebook: "_Howl of the Wild_, page 197."
 ```
 

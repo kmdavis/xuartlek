@@ -29,10 +29,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision"
-languages: "Pyric; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Athletics +5, Stealth +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
 abilityMods: [1, 4, 2, -2, 2, 1]
 ac: 17
 armorclass:
@@ -41,16 +41,16 @@ armorclass:
 hp: 35
 health:
   - name: "HP"
-    desc: "35; __Immunities__ bleed, fire, paralyzed, poison, sleep; __Weaknesses__ cold 5 __Cloak in Embers [reaction__ ]"
+    desc: "35; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5 __Cloak in Embers [reaction__ ]"
 abilities_mid:
   - name: "Trigger"
     desc: "An adjacent ally is targeted by an effect that deals fire damage"
   - name: "Effect"
-    desc: "The ember fox drapes itself across its ally, granting the ally fire resistance 10 against the incoming attack."
+    desc: "The ember fox drapes itself across its ally, granting the ally fire [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 10 against the incoming attack."
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +10 (Agile, finesse) __Damage__ 1d4+3 piercing plus 1d4 persistent fire"
+    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 1d4+3 piercing plus 1d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire]]"
 sourcebook: "_Monster Core 2_, page 148."
 ```
 

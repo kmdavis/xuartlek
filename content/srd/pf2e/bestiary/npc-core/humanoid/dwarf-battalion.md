@@ -31,10 +31,10 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; darkvision"
-languages: "Common, Dwarven"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Survival +13, Warfare Lore +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +13, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +11"
 abilityMods: [5, 1, 4, 0, 3, -1]
 ac: 22
 armorclass:
@@ -43,10 +43,10 @@ armorclass:
 hp: 105
 health:
   - name: "HP"
-    desc: "105 (4 segments); __Weaknesses__ area damage 5, splash damage 5"
+    desc: "105 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 abilities_mid:
   - name: "Dwarven Doughtiness"
-    desc: "Dwarves are often calm and collected in the face of imminent danger. At the end of the battalion's turn, reduce its frightened condition by 2 instead of 1."
+    desc: "Dwarves are often calm and collected in the face of imminent danger. At the end of the battalion's turn, reduce its [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition by 2 instead of 1."
   - name: "Troop Defenses"
     desc: ""
   - name: "Reactive Strike"
@@ -60,7 +60,7 @@ abilities_bot:
   - name: "Coordinated Pummel"
     desc: "Frequency once per round; Effect The dwarf battalion unleashes a storm of warhammer blows against each enemy in a 5-foot emanation (DC 21 basic Reflex save). The damage depends on the number of actions. ⬻ 1d8 bludgeoning damage ⬺ 2d8+5 bludgeoning damage ⬽ 3d8+5 bludgeoning damage"
   - name: "Dwarven War Song"
-    desc: "⬻ (Auditory, Concentrate, Emotion, Fear, Mental) The battalion joins together to sing a traditional song of battle. Each enemy in a 30-foot emanation must succeed at a DC 23 Will save or be frightened 1 (or frightened 2 on a critical failure). Each enemy is then temporarily immune for 10 minutes. __Shields Up!__ ⬲ The battalion raises their steel shields. It gains a +2 circumstance bonus to AC and Reflex saves until the start of its next turn."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The battalion joins together to sing a traditional song of battle. Each enemy in a 30-foot emanation must succeed at a DC 23 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] (or frightened 2 on a critical failure). Each enemy is then temporarily immune for 10 minutes. __Shields Up!__ ⬲ The battalion raises their steel shields. It gains a +2 circumstance bonus to AC and Reflex saves until the start of its next turn."
 sourcebook: "_NPC Core_, page 175."
 ```
 

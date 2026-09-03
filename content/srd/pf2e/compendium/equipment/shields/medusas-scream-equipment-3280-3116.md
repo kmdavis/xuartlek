@@ -16,11 +16,11 @@ source: "Player Core 2"
 
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Shield**: Steel Shield
+- **Base Shield**: [[srd/pf2e/compendium/equipment/shields#Steel Shield|Steel Shield]]
 
-The ghastly visage of a slain medusa's head stares out from this steel shield (Hardness 13, HP 52, BT 26). The shield comes with a thick leather cover to conceal the head.
+The ghastly visage of a slain medusa's head stares out from this [[srd/pf2e/compendium/equipment/shields#Steel Shield|steel shield]] (Hardness 13, HP 52, BT 26). The shield comes with a thick leather cover to conceal the head.
 
-**Activate—Petrifying Gaze** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate, visual) **Frequency** once per day; **Effect** You reveal the medusa's face, focusing its gaze on one creature within 30 feet. The shield casts a DC 30 petrify spell with a range of 30 feet.
+**Activate—Petrifying Gaze** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) **Frequency** once per day; **Effect** You reveal the medusa's face, focusing its gaze on one creature within 30 feet. The shield casts a DC 30 petrify spell with a range of 30 feet.
 
 **Craft Requirements** The initial raw materials must include the head of a medusa.
 

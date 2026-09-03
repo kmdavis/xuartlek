@@ -23,6 +23,6 @@ source: "Impossible Magic"
 - **Defense**: Fortitude
 - **Duration**: 1 minute
 
-You melt one of your thralls into a massive wave of sticky flesh. Destroy the target thrall to create an area of greater difficult terrain in a 60-foot cone originating from the thrall’s former space. You can destroy a second thrall in the cone to make its limbs grasp your foes. If you do, each enemy in the area must succeed at a Fortitude saving throw or be immobilized for 1 round or until it Escapes; the Escape DC is your spell DC.
+You melt one of your thralls into a massive wave of sticky flesh. Destroy the target thrall to create an area of greater [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]] in a 60-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] originating from the thrall’s former space. You can destroy a second thrall in the cone to make its limbs grasp your foes. If you do, each enemy in the area must succeed at a Fortitude saving throw or be [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round or until it [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escapes]]; the Escape DC is your spell DC.
 
 *Source: Impossible Magic p. 182*

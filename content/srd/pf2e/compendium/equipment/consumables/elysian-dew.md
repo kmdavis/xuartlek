@@ -20,8 +20,8 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 375 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-When you drink sweet, sky-blue _Elysian dew_, for 1 minute, you gain a 10-foot aura that evokes the vitality of Elysium, causing nearby objects to seem more colorful and plants to stand taller. You and any ally that starts its turn in the emanation gain 5 temporary Hit Points, a +1 item bonus to saving throws, and a +1 item bonus to Acrobatics and Athletics checks until the start of your or the ally's next turn. If you're evil and drink this potion, it fails to work, and you must succeed at a DC 30 Fortitude save or the potion renders you drained 2.
+When you drink sweet, sky-blue _Elysian dew_, for 1 minute, you gain a 10-foot aura that evokes the vitality of [[srd/pf2e/compendium/gm/planes#Elysium|Elysium]], causing nearby objects to seem more colorful and plants to stand taller. You and any ally that starts its turn in the emanation gain 5 temporary Hit Points, a +1 item bonus to saving throws, and a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] and [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks until the start of your or the ally's next turn. If you're evil and drink this potion, it fails to work, and you must succeed at a DC 30 Fortitude save or the potion renders you drained 2.
 
 *Source: Treasure Vault (Remastered) p. 89*

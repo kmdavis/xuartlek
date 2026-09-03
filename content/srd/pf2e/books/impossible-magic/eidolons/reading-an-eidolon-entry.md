@@ -19,7 +19,7 @@ citation: "Impossible Magic pg. 70"
 An eidolon entry contains the following information, followed by a description of the eidolon's initial ability and abilities gained from the eidolon symbiosis and eidolon transcendence class features.
 
 **Tradition** This is the eidolon's corresponding magical tradition, which determines the type of magic you can cast.
-**Traits** All eidolons have the eidolon trait, and each type of eidolon has additional traits. They all appear in this entry. Home Plane This is the eidolon's home plane, where they go when unmanifested. This can help you determine the effects of abilities dependent on a creature's home plane, such as banishment.
+**Traits** All eidolons have the [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/eidolon|eidolon]] trait, and each type of eidolon has additional traits. They all appear in this entry. Home Plane This is the eidolon's home plane, where they go when unmanifested. This can help you determine the effects of abilities dependent on a creature's home plane, such as [[srd/pf2e/compendium/spells/rank-5/banishment|banishment]].
 
 ---
 
@@ -37,8 +37,8 @@ An eidolon entry contains the following information, followed by a description o
 
 > [!pf2-sidebar] GEAR AND YOUR EIDOLON
 >
-> Your eidolon can't wear or use magic items, except for items with the eidolon trait. An eidolon can have up to two items [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Gates|invested]]. Your eidolon's link to you means they can benefit from certain magic items invested by you.
+> Your eidolon can't wear or use magic items, except for items with the [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/eidolon|eidolon]] trait. An eidolon can have up to two items [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Gates|invested]]. Your eidolon's link to you means they can benefit from certain magic items invested by you.
 >
 > - Your eidolon gains item bonuses to Perception and skills from any magical items that you have invested.
-> - Your eidolon increases their item bonus to AC based on your armor's armor potency rune or bands of force. They also gain an item bonus to their saves from the resilient rune on your armor or from your bands of force. Other permanent items that grant or increase item bonuses to AC and saves might convey a similar benefit, as determined by the GM.
-> - Your eidolon's Strikes benefit from the fundamental and property runes on your handwraps of mighty blows. Alternatively, you can Invest a magic weapon (even though magic weapons can't normally be Invested) to share its fundamental and property runes with your eidolon. You share these benefits only while you're holding the weapon, and you can have no more than one weapon invested in this way at a time. In either case, the eidolon gains only the benefits that can apply to their attacks, with the same limitations noted in *handwraps of mighty blows*.
+> - Your eidolon increases their item bonus to AC based on your armor's [[srd/pf2e/compendium/equipment/runes/armor-potency-3|armor potency rune]] or [[srd/pf2e/compendium/equipment/worn-items/bands-of-force-major|bands of force]]. They also gain an item bonus to their saves from the [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient rune]] on your armor or from your bands of force. Other permanent items that grant or increase item bonuses to AC and saves might convey a similar benefit, as determined by the GM.
+> - Your eidolon's Strikes benefit from the fundamental and property runes on your [[srd/pf2e/compendium/equipment/worn-items/handwraps-of-mighty-blows-3-major-striking|handwraps of mighty blows]]. Alternatively, you can Invest a magic weapon (even though magic weapons can't normally be Invested) to share its fundamental and property runes with your eidolon. You share these benefits only while you're holding the weapon, and you can have no more than one weapon invested in this way at a time. In either case, the eidolon gains only the benefits that can apply to their attacks, with the same limitations noted in *handwraps of mighty blows*.

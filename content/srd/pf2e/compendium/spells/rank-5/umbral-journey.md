@@ -25,6 +25,6 @@ source: "Player Core"
 - **Target**: you and up to 10 willing creatures touched
 - **Duration**: 8 hours
 
-You move partially into the Netherworld, using its warped nature to speed your travels. Each hour, you cover roughly as much ground as you normally would in 3 days. The landmarks are vague and symbolic rather than concrete, leaving you within a mile of your intended destination when you Dismiss the spell or its duration ends.
+You move partially into the Netherworld, using its warped nature to speed your travels. Each hour, you cover roughly as much ground as you [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Travel Speed|normally would in 3 days]]. The landmarks are vague and symbolic rather than concrete, leaving you within a mile of your intended destination when you Dismiss the spell or its duration ends.
 
 *Source: Player Core p. 364*

@@ -22,7 +22,7 @@ source: "GM Core"
 
 These vestments are made of panels showing various scenes from the legends of a particular deity. It serves as a religious symbol of that deity, and you gain a +2 item bonus to Religion checks. When you cast _harm_ or _heal_, healing granted to followers of that deity is increased by the rank of the spell. 
 
-**Activate—Domain Devotion** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per day; **Effect** Gain 1 Focus Point, which you can spend only to cast a cleric domain spell for a domain belonging to the deity the vestments are dedicated to. If you don't spend this point by the end of this turn, it is lost.
+**Activate—Domain Devotion** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Gain 1 Focus Point, which you can spend only to cast a cleric domain spell for a domain belonging to the deity the vestments are dedicated to. If you don't spend this point by the end of this turn, it is lost.
 
 **Craft Requirements** You are a cleric who worships the deity tied to the vestments.
 

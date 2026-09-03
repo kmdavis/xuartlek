@@ -29,16 +29,16 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; darkvision, rust vision"
-languages: "Talican"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +13, Plane of Metal Lore +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, Plane of Metal Lore +11"
 abilityMods: [6, 2, 5, 2, 2, 2]
 abilities_top:
   - name: "Heavy"
     desc: "As long as it is immobile, the elemental can't be forcibly moved or knocked prone. If it takes a move action, it loses this immunity until the start of its next turn."
   - name: "Rust Vision"
-    desc: "A rust scarab ignores the concealed condition from rust clouds."
+    desc: "A rust scarab ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from rust clouds."
 ac: 21
 armorclass:
   - name: "AC"
@@ -46,17 +46,17 @@ armorclass:
 hp: 65
 health:
   - name: "HP"
-    desc: "65; __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ electricity 5, physical 5 (except adamantine)"
+    desc: "65; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 5, physical 5 (except adamantine)"
 abilities_mid:
   - name: "Crumbling Carapace"
-    desc: "When a rust scarab is reduced to fewer than half its maximum Hit Points or is damaged by a critical hit, its outer shell breaks into a veil of rusty metal flakes. This causes it to lose its resistance to physical damage and its heavy ability, but it gains a rust cloud aura (as metal wisp) and a 35-foot land Speed."
+    desc: "When a rust scarab is reduced to fewer than half its maximum Hit Points or is damaged by a critical hit, its outer shell breaks into a veil of rusty metal flakes. This causes it to lose its resistance to physical damage and its heavy ability, but it gains a rust cloud aura (as [[srd/pf2e/bestiary/rage-of-elements/elemental/metal-wisp|metal wisp]]) and a 35-foot land Speed."
 speed: "25 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ claw +15 __Damage__ 2d8+6 slashing plus tetanus"
 abilities_bot:
   - name: "Tetanus"
-    desc: "(Disease)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|Disease]])"
   - name: "Saving Throw"
     desc: "DC 19 Fortitude"
   - name: "Onset"
@@ -66,7 +66,7 @@ abilities_bot:
   - name: "Stage 2"
     desc: "clumsy 2 and can't speak (1 day)"
   - name: "Stage 3"
-    desc: "paralyzed with spasms (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] with spasms (1 day)"
   - name: "Stage 4"
     desc: "death"
   - name: "Trample"

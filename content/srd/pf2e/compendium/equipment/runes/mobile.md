@@ -17,6 +17,6 @@ source: "Impossible Magic"
 - **Price**: 160 gp
 - **Usage**: etched onto armor
 
-Armor etched with this rune lightens your feet. Once per turn, you can move an additional 5 feet when you Step.
+Armor etched with this rune lightens your feet. Once per turn, you can move an additional 5 feet when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]].
 
 *Source: Impossible Magic p. 204*

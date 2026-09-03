@@ -22,7 +22,7 @@ source: "GM Core"
 
 **Passengers** 15
 
-**Piloting Check** Arcana (DC 32), Crafting (DC 32), Nature (DC 32), or Piloting Lore (DC 30)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (DC 32), [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 32), [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 32), or Piloting Lore (DC 30)
 
 ---
 

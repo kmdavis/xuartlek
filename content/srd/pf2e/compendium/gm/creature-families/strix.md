@@ -14,7 +14,7 @@ Strix, called itarii in their own language, are avian humanoids with sprawling, 
 
 ### Members
 
-Strix Aerialist (Creature 9), Strix Kinmate (Creature 2)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/strix-aerialist|Strix Aerialist]] (Creature 9), [[srd/pf2e/bestiary/monster-core-2/humanoid/strix-kinmate|Strix Kinmate]] (Creature 2)
 
 ### Strix Storytelling
 

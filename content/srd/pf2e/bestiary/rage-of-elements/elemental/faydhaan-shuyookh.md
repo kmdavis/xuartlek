@@ -33,10 +33,10 @@ modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23; (25 to Sense Motive)"
-languages: "Common, Muan, Petran, Pyric, Sussuran, Talican, Thalassic; telepathy 100 feet, _truespeech_"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]], [[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]], [[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]; telepathy 100 feet, _truespeech_"
 skills:
   - name: "Skills"
-    desc: "Athletics +27, Crafting +24, Deception +26, Diplomacy +28, Nature +25, Performance +28, Society +26, Stealth +27"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +27, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +24, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +26, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +28, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +25, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +28, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +26, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +27"
 abilityMods: [7, 7, 5, 4, 5, 8]
 abilities_top:
   - name: "Items"
@@ -48,25 +48,25 @@ armorclass:
 hp: 240
 health:
   - name: "HP"
-    desc: "240; __Resistances__ fire 15"
+    desc: "240; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 15"
 abilities_mid:
   - name: "Aura of Hospitality"
-    desc: "(aura, emotion, mental) 60 feet. The faydhaan shuyookh dissuades those around them from hostility. Willing creatures in the emanation gain a +2 status bonus to Society and Diplomacy checks. The shuyookh can suppress or resume the aura as a free action. If the shuyookh acts hostile, the aura deactivates and can't be reactivated for 1 hour. When any other creature in the aura acts hostile, it must attempt a DC 35 Will save. On a success, it's unaffected and doesn't need to save again for 1 hour; on a failure, its current action is disrupted, as are any other hostile actions it attempts for 1 round."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 60 feet. The faydhaan shuyookh dissuades those around them from hostility. Willing creatures in the emanation gain a +2 status bonus to [[srd/pf2e/compendium/rules-elements/skills/society|Society]] and [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks. The shuyookh can suppress or resume the aura as a free action. If the shuyookh acts hostile, the aura deactivates and can't be reactivated for 1 hour. When any other creature in the aura acts hostile, it must attempt a DC 35 Will save. On a success, it's unaffected and doesn't need to save again for 1 hour; on a failure, its current action is disrupted, as are any other hostile actions it attempts for 1 round."
   - name: "Turbulent Seas"
-    desc: "(aura, water) 60 feet. Water in the aura that is also in the same body of water as the faydhaan is difficult terrain for Swimming creatures. Creatures with the water trait are immune."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) 60 feet. Water in the aura that is also in the same body of water as the faydhaan is difficult terrain for Swimming creatures. Creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait are immune."
 speed: "25 feet, swim 60 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _jambiya_ +29 (Agile, Finesse, Magical, reach 10 feet, versatile S) __Damage__ 2d4+13 piercing"
+    desc: "⬻ _jambiya_ +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 2d4+13 piercing"
   - name: "Melee"
-    desc: "⬻ fist +27 (Agile, Magical, Nonlethal, reach 10 feet) __Damage__ 3d8+13 bludgeoning"
+    desc: "⬻ fist +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 3d8+13 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ _jambiya_ +29 (Agile, Magical, thrown 20 feet, versatile S) __Damage__ 2d4+13 piercing"
+    desc: "⬻ _jambiya_ +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 2d4+13 piercing"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ (Arcane, Concentrate, Polymorph) The faydhaan transforms into a Small or Medium water elemental, aquatic animal, or humanoid. This doesn't affect the faydhaan's statistics, but it could change the damage type of their Strikes."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]]) The faydhaan transforms into a Small or Medium water elemental, aquatic animal, or humanoid. This doesn't affect the faydhaan's statistics, but it could change the damage type of their Strikes."
   - name: "Diplomatic Wish"
-    desc: "(Downtime)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/downtime|Downtime]])"
   - name: "Frequency"
     desc: "three times per year"
   - name: "Effect"
@@ -75,7 +75,7 @@ abilities_bot:
     desc: "⬻ The faydhaan shuyookh makes a melee jambiya Strike and buries the blade deep, dealing an extra 3d6 persistent bleed damage on a hit (6d6 on a critical hit). Shazathared Shazathared is one of geniekind's greatest storytellers, and her noble lineage traces back to long-deposed faydhaan padishahs. Recently freed from a long imprisonment, “the Jewel of the Padishah” can be found enjoying a warm welcome among faydhaans. When the muse strikes, she performs exciting moral tales from the _Songs of Shazathared_ to honor or enlighten her hosts and delight her audience."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 34, attack +26 - __Cantrips (7th)__ Detect Magic - __2nd__ Befitting Attire (at will), Create Water (at will), Invisibility (at will), See the Unseen, Water Breathing - __4th__ Hydraulic Push (at will), Invisibility (×2), Vapor Form - __5th__ Howling Blizzard (at will), Control Water (at will), Mirage, Truespeech (at will) - __7th__ Hydraulic Torrent, Planar Palace, Interplanar Teleport (at will; to Astral Plane, Elemental Planes, or the Universe only), Summon Elemental - __Constant (7th)__ Truespeech"
+    desc: "DC 34, attack +26 - __Cantrips (7th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]] - __2nd__ Befitting Attire (at will), [[srd/pf2e/compendium/spells/rank-1/create-water|Create Water]] (at will), [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (at will), [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]], [[srd/pf2e/compendium/spells/rank-2/water-breathing|Water Breathing]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]] (at will), [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (×2), [[srd/pf2e/compendium/spells/rank-4/vapor-form|Vapor Form]] - __5th__ [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|Howling Blizzard]] (at will), [[srd/pf2e/compendium/spells/rank-5/control-water|Control Water]] (at will), [[srd/pf2e/compendium/spells/rank-4/mirage|Mirage]], [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]] (at will) - __7th__ [[srd/pf2e/compendium/spells/rank-4/hydraulic-torrent|Hydraulic Torrent]], [[srd/pf2e/compendium/spells/rank-7/planar-palace|Planar Palace]], [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (at will; to [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]], Elemental Planes, or the Universe only), [[srd/pf2e/compendium/spells/rank-2/summon-elemental|Summon Elemental]] - __Constant (7th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
 sourcebook: "_Rage of Elements_, page 182."
 ```
 

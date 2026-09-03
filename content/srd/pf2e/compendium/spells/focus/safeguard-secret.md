@@ -19,12 +19,12 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: Secrecy
+- **Domain**: [[srd/pf2e/compendium/character/domains#Secrecy|Secrecy]]
 - **Range**: 30 feet
 - **Target**: you and any number of willing allies
 - **Duration**: 1 hour
 
-You ensure a secret remains safe from prying spies. Choose one piece of information that at least some of the targets know, such as “the location of the stolen treasure” or “the password to enter the guild house.” The spell grants those who know the piece of knowledge you have chosen a +4 status bonus to skill checks (typically Deception checks) to conceal this knowledge, to saving throws against spells that specifically attempt to obtain this knowledge from them, and to effects that would force them to reveal it.
+You ensure a secret remains safe from prying spies. Choose one piece of information that at least some of the targets know, such as “the location of the stolen treasure” or “the password to enter the guild house.” The spell grants those who know the piece of knowledge you have chosen a +4 status bonus to skill checks (typically [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks) to conceal this knowledge, to saving throws against spells that specifically attempt to obtain this knowledge from them, and to effects that would force them to reveal it.
 
  If you Cast this Spell again, any previous _safeguard secret_ you had cast ends.
 

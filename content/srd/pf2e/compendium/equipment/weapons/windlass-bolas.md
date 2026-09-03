@@ -18,10 +18,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 200 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: Bola
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/sling/bola-weapon-123|Bola]]
 
-Clockwork mechanisms tick away inside the weights of these _+1 striking returning bolas_, spooling out more cord in midair.
+Clockwork mechanisms tick away inside the weights of these _+1 striking returning [[srd/pf2e/compendium/equipment/weapons/sling/bola-weapon-123|bolas]]_, spooling out more cord in midair.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per day; **Effect** The cord of the bola snakes out as you throw it, allowing the weapon to wrap around a group of enemies. You use the bolas to attempt a ranged Trip against all creatures in a 5-foot radius burst within the weapon's first range increment. Roll a separate Athletics check for each target. Each attempt counts toward your multiple attack penalty, but don't increase your penalty until you have made all the attempts.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The cord of the bola snakes out as you throw it, allowing the weapon to wrap around a group of enemies. You use the bolas to attempt a ranged Trip against all creatures in a 5-foot radius burst within the weapon's first range increment. Roll a separate [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check for each target. Each attempt counts toward your multiple attack penalty, but don't increase your penalty until you have made all the attempts.
 
 *Source: Treasure Vault (Remastered) p. 34*

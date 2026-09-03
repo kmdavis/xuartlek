@@ -24,7 +24,7 @@ You are skilled at a form of performance, using your talents to impress a crowd 
 
 ## 
 
-**Performance****Additional Traits** Act or perform comedy Auditory, linguistic, and visual Dance Move and visual Play an instrument Auditory and manipulate Orate or sing Auditory and linguistic
+**Performance****Additional Traits** Act or perform comedy [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] Dance [[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] Play an instrument [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] Orate or sing [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]]
 
 ### Performance Trained General Actions
 
@@ -39,14 +39,14 @@ Category
 Consumable
 Note
 
-Musical Instrument (Virtuoso Handheld)
+[[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|Musical Instrument (Virtuoso Handheld)]]
 +1
 3
 Adventuring Gear
 No
 checks using the instrument
 
-Musical Instrument (Virtuoso Heavy)
+[[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|Musical Instrument (Virtuoso Heavy)]]
 +1
 3
 Adventuring Gear
@@ -60,7 +60,7 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-Fife of the Faithful
+[[srd/pf2e/compendium/equipment/held-items/fife-of-the-faithful|Fife of the Faithful]]
 +1
 4
 Held Items
@@ -73,42 +73,42 @@ Uzunjati Storytelling Amulet
 Other Worn Items
 No
 
-Bellows Pipes
+[[srd/pf2e/compendium/equipment/held-items/bellows-pipes|Bellows Pipes]]
 +1
 5
 Held Items
 No
 Item bonus to Performance check using the item
 
-Sinuous Recorder
+[[srd/pf2e/compendium/equipment/held-items/sinuous-recorder|Sinuous Recorder]]
 +1
 5
 Held Items
 No
 Item bonus to Performance check using the item
 
-Warpipes
+[[srd/pf2e/compendium/equipment/held-items/warpipes|Warpipes]]
 +1
 5
 Held Items
 No
 Item bonus to Performance check using the item
 
-Booming Bell
+[[srd/pf2e/compendium/equipment/held-items/booming-bell|Booming Bell]]
 +1
 6
 Held Items
 No
 Item bonus to Performance check using the item
 
-Guangu of the Steppe
+[[srd/pf2e/compendium/equipment/held-items/guangu-of-the-steppe|Guangu of the Steppe]]
 +1
 6
 Held Items
 No
 Item bonus to Performance check using the item
 
-Blakenshipper
+[[srd/pf2e/compendium/equipment/held-items/blakenshipper|Blakenshipper]]
 +1
 7
 Held Items
@@ -122,35 +122,35 @@ Held Items
 No
 item bonus to all Performance checks, but this increases to a +2 item bonus for Performance checks to sing.
 
-Timpani of Panic
+[[srd/pf2e/compendium/equipment/held-items/timpani-of-panic|Timpani of Panic]]
 +2
 9
 Held Items
 No
 Item bonus to Performance check using the item
 
-Taleteller's Ring
+[[srd/pf2e/compendium/equipment/cursed-items/taletellers-ring|Taleteller's Ring]]
 +2
 9
 Cursed Items
 No
 Performance checks for storytelling
 
-Self-Emptying Pocket
+[[srd/pf2e/compendium/equipment/contracts/self-emptying-pocket|Self-Emptying Pocket]]
 +2
 9
 Bargained Contracts
 No
 See text
 
-Wyvern Nafir
+[[srd/pf2e/compendium/equipment/held-items/wyvern-nafir|Wyvern Nafir]]
 +2
 10
 Held Items
 No
 Item bonus to Performance check using the item
 
-Entertainer's Cincture
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture]]
 +2
 10
 Worn Items
@@ -171,7 +171,7 @@ Other Worn Items
 No
 item bonus to all Performance checks
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -192,35 +192,35 @@ Coda
 No
 Performance checks
 
-Core Bugle
+[[srd/pf2e/compendium/equipment/held-items/core-bugle|Core Bugle]]
 +2
 12
 Held Items
 No
 Item bonus to Performance check using the item
 
-Cauthooj Bagpipes
+[[srd/pf2e/compendium/equipment/held-items/cauthooj-bagpipes|Cauthooj Bagpipes]]
 +2
 13
 Held Items
 No
 Performance checks while playing music with the instrument
 
-Snare of Speed
+[[srd/pf2e/compendium/equipment/held-items/snare-of-speed|Snare of Speed]]
 +2
 15
 Held Items
 No
 Item bonus to Performance check using the item
 
-Horn of the Archon
+[[srd/pf2e/compendium/equipment/held-items/horn-of-the-archon|Horn of the Archon]]
 +2
 16
 Held Items
 No
 Item bonus to Performance check using the item
 
-Benthic Drums
+[[srd/pf2e/compendium/equipment/held-items/benthic-drums|Benthic Drums]]
 +2
 17
 Held Items
@@ -248,14 +248,14 @@ Coda
 No
 Performance checks
 
-Entertainer's Cincture (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/entertainers-cincture-greater|Entertainer's Cincture (Greater)]]
 +3
 17
 Worn Items
 No
 Item bonus to Performance if selected
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

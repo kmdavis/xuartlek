@@ -29,14 +29,14 @@ modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; darkvision, tremorsense (imprecise) 90 feet"
-languages: "Petran"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +24, Stealth +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +24, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
 abilityMods: [7, -1, 8, 0, 3, -1]
 abilities_top:
   - name: "Earthbound"
-    desc: "When not touching solid ground, the elemental avalanche is slowed 1, can't use reactions, and can't Trample."
+    desc: "When not touching solid ground, the elemental avalanche is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]], can't use reactions, and can't Trample."
 ac: 32
 armorclass:
   - name: "AC"
@@ -44,23 +44,23 @@ armorclass:
 hp: 215
 health:
   - name: "HP"
-    desc: "215; __Immunities__ bleed, paralyzed, poison, sleep"
+    desc: "215; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 abilities_mid:
   - name: "Spike Stones"
-    desc: "(aura, earth, primal) 5 feet. Spikes of rock rise up from all stone surfaces in the emanation, creating difficult terrain. A creature moving in the terrain takes 2d8 piercing damage for each square of spikes it moves into (a Large or larger creature takes damage only once for each square it moves, even if its space covers multiple squares of spikes). Creatures with the earth trait ignore all effects within the area. The living avalanche can disable or activate this aura using a single action, which has the concentrate trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) 5 feet. Spikes of rock rise up from all stone surfaces in the emanation, creating difficult terrain. A creature moving in the terrain takes 2d8 piercing damage for each square of spikes it moves into (a Large or larger creature takes damage only once for each square it moves, even if its space covers multiple squares of spikes). Creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]] trait ignore all effects within the area. The living avalanche can disable or activate this aura using a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait."
   - name: "Crumble"
-    desc: "⬲ Trigger The living avalanche takes damage from a hostile source while atop rock or earth; Effect The living avalanche crumbles into the ground, Burrowingdown 20 feet. This Burrowing does not trigger reactions. The living avalanche can't Crumble again for 1d4 rounds"
+    desc: "⬲ Trigger The living avalanche takes damage from a hostile source while atop rock or earth; Effect The living avalanche crumbles into the ground, [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrowing]]down 20 feet. This Burrowing does not trigger reactions. The living avalanche can't Crumble again for 1d4 rounds"
 speed: "25 feet, burrow 25 feet; earth glide"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +24 (reach 20 feet) __Damage__ 2d12+11 bludgeoning plus Knockdown"
+    desc: "⬻ fist +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d12+11 bludgeoning plus Knockdown"
   - name: "Ranged"
     desc: "⬻ rock +24 (Brutal, range increment 80 feet) __Damage__ 2d12+7 bludgeoning"
 abilities_bot:
   - name: "Earth Glide"
-    desc: "The living avalanche can Burrow through any earthen matter, including rock. When it does so, the living avalanche moves at its full burrow Speed, leaving no tunnels or signs of its passing."
+    desc: "The living avalanche can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through any earthen matter, including rock. When it does so, the living avalanche moves at its full burrow Speed, leaving no tunnels or signs of its passing."
   - name: "Grinding Stones"
-    desc: "⬺ The elemental avalanche deals 4d12 bludgeoning damage to each prone creature within the elemental's melee reach with a DC 30 basic Reflex save."
+    desc: "⬺ The elemental avalanche deals 4d12 bludgeoning damage to each [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] creature within the elemental's melee reach with a DC 30 basic Reflex save."
   - name: "Trample"
     desc: "⬽ Large or smaller, fist, DC 30"
 sourcebook: "_Monster Core_, page 143."

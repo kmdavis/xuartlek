@@ -20,7 +20,7 @@ source: "GM Core"
 
 **Crew** 1 pilot
 
-**Piloting Check** Athletics (DC 15), Piloting Lore (DC 17)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] (DC 15), Piloting Lore (DC 17)
 
 ---
 
@@ -40,7 +40,7 @@ source: "GM Core"
 
 **Collision** 1d8 (DC 15)
 
-**Fragile** Driving the velocipede over difficult terrain increases the DC by an additional 2 and gains the reckless trait.
- **Portable** The velocipede can be pulled along the ground on its wheel by a Medium creature. The creature is encumbered when doing so.
+**Fragile** Driving the velocipede over difficult terrain increases the DC by an additional 2 and gains the [[srd/pf2e/compendium/rules-elements/traits/gm-core/reckless|reckless]] trait.
+ **Portable** The velocipede can be pulled along the ground on its wheel by a Medium creature. The creature is [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] when doing so.
 
 *Source: GM Core p. 216*

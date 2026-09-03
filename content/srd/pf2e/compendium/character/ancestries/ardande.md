@@ -20,7 +20,7 @@ Associate your personal identity with elemental wood, and believe the characteri
 
 ### Others Probably...
 
-Look to you as an authority on plant creatures and the Plane of Wood.Take you for granted as an endless well of energy, patience, and support.Mistake you for a ghoran or dryad, perhaps not even realizing there is an elemental Plane of Wood.
+Look to you as an authority on [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]] creatures and the Plane of Wood.Take you for granted as an endless well of energy, patience, and support.Mistake you for a ghoran or dryad, perhaps not even realizing there is an elemental Plane of Wood.
 
 ### Physical Description
 
@@ -45,16 +45,16 @@ Misunderstood and unexplained, many ardande children turn to lives of adventure 
 
 #### Ardande Settlements
 
- In most parts of Golarion, ardande bloodlines are only just beginning to return. Two families of ardandes in Tian Xia (both descended from the same forest dragon) managed to retain their connection to elemental wood, while across the world in distant Arcadia, ardande families have kept their elemental heritage intact through continued dealings with the fey
+ In most parts of Golarion, ardande bloodlines are only just beginning to return. Two families of ardandes in Tian Xia (both descended from the same forest dragon) managed to retain their connection to elemental wood, while across the world in distant Arcadia, ardande families have kept their elemental heritage intact through continued dealings with the [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]]
 .
 
 #### Ardande Relations
 
- Forest dragons and dryad are common ancestors for ardandes born before the return of the Plane of Wood, or kizidhars who became trapped in the Universe and were forced to make new lives for themselves. Ardandes with wood scamp parents are often short and bushy, like living shrubs, and are often mistaken for leshies and conrasus.
+ Forest dragons and dryad are common ancestors for ardandes born before the return of the [[srd/pf2e/compendium/gm/planes#Plane of Wood|Plane of Wood]], or kizidhars who became trapped in the Universe and were forced to make new lives for themselves. Ardandes with [[srd/pf2e/bestiary/rage-of-elements/elemental/wood-scamp|wood scamp]] parents are often short and bushy, like living shrubs, and are often mistaken for leshies and conrasus.
 
 ### Ardande Heritage Mechanics
 
-You descend from wood elementals or have some other heritage influenced by the elemental Plane of Wood. You might have green, mossy skin, vines that grow from your head instead of hair, or thin appendages that resemble twigs. You gain the ardande trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision.
+You descend from wood elementals or have some other heritage influenced by the elemental [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|Plane of Wood]]. You might have green, mossy skin, vines that grow from your head instead of hair, or thin appendages that resemble twigs. You gain the [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/ardande|ardande]] trait, in addition to the traits from your ancestry. You also gain low-light vision, or you gain darkvision if your ancestry already has low-light vision.
 
  You can choose from ardande feats, geniekin feats, and feats from your ancestry whenever you gain an ancestry feat.
 

@@ -17,7 +17,7 @@ source: "GM Core"
 
 - **Usage**: etched onto light or medium armor
 
-Armor etched with this rune takes on a hazy black appearance. You gain a +1 item bonus to Stealth checks while wearing the armor.
+Armor etched with this rune takes on a hazy black appearance. You gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks while wearing the armor.
 
 ### Shadow
 

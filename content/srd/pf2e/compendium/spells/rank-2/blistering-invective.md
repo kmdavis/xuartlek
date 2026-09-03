@@ -31,7 +31,7 @@ A heap of insults and invectives spew from your mouth—words so devastating you
 
 **Success** The target takes half the persistent fire damage.
 
-**Failure** The target becomes frightened 1 and takes the full persistent fire damage.
+**Failure** The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]] and takes the full persistent fire damage.
 
 **Critical Failure** The target becomes frightened 2 and takes double the persistent fire damage.
 

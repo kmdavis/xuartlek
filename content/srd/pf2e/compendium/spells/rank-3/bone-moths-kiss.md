@@ -25,12 +25,12 @@ A tiny, bone-white moth emerges from your open mouth. It shakes itself off, spre
 
 **Critical Success** The target is unaffected.
 
-**Success** The moth only briefly brushes its wings against the target. The target is sickened 1.
+**Success** The moth only briefly brushes its wings against the target. The target is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]].
 
 **Failure** The moth lands on the target, kissing the spot with its fluttering. The target is afflicted with the bone moth's kiss at stage 1.
 
 **Critical Failure** The moth lands on an open wound, targeting it with its kiss. The target is afflicted with the bone moth's kiss at stage 2.
 
- **Bone Moth's Kiss** (disease) **Stage 1** drained 1 and sickened 1 (1 round); **Stage 2** drained 2 (1 round); **Stage 3** drained 3 and can't recover from the drained condition until the disease is cured (1 day)
+ **Bone Moth's Kiss** ([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]) **Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]] and [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] (1 round); **Stage 2** drained 2 (1 round); **Stage 3** drained 3 and can't recover from the drained condition until the disease is cured (1 day)
 
 *Source: Impossible Magic p. 126*

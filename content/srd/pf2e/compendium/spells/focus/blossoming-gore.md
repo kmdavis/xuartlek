@@ -24,11 +24,11 @@ source: "Impossible Magic"
 - **Defense**: Fortitude
 - **Duration**: 1 minute
 
-By spilling the blood of a thrall, you grow a large field of bloody roses that feeds on the life force of those around it and uses it to create thralls that do your bidding. This field appears in a 20-foot burst centered on a corner in the target thrall’s space, and that thrall is destroyed. A creature that enters or starts its turn in the area takes 10 persistent bleed damage from the rose’s thorns. You can Dismiss this spell. If a bleeding creature ends its turn in the area, it must attempt a Fortitude saving throw.
+By spilling the blood of a thrall, you grow a large field of bloody roses that feeds on the life force of those around it and uses it to create thralls that do your bidding. This field appears in a 20-foot burst centered on a corner in the target thrall’s space, and that thrall is destroyed. A creature that enters or starts its turn in the area takes 10 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] from the rose’s thorns. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] this spell. If a bleeding creature ends its turn in the area, it must attempt a Fortitude saving throw.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is drained 1.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1.
 
 **Failure** The creature is drained 1, and a single thrall is created in an unoccupied space adjacent to the field.
 

@@ -31,7 +31,7 @@ perception:
     desc: "Perception +6; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Athletics +5, Stealth +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
 abilityMods: [0, 3, 2, -4, 1, 1]
 ac: 16
 armorclass:
@@ -44,9 +44,9 @@ health:
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +8 (Finesse) __Damage__ 1d6+3 piercing"
+    desc: "⬻ jaws +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+3 piercing"
   - name: "Melee"
-    desc: "⬻ talon +8 (Agile, Finesse) __Damage__ 1d4+3 slashing"
+    desc: "⬻ talon +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4+3 slashing"
 abilities_bot:
   - name: "Leaping Charge"
     desc: "⬻ The velociraptor Strides up to 10 feet, ignoring difficult terrain as it leaps over obstacles. It then makes a Strike with its talons, gaining a +1 circumstance bonus to its attack roll."

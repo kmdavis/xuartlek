@@ -18,12 +18,12 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Indulgence
+- **Domain**: [[srd/pf2e/compendium/character/domains#Indulgence|Indulgence]]
 - **Range**: 30 feet
 - **Target**: 1 living creature
 - **Defense**: Fortitude
 
-Huge amounts of food and drink fill the target. It receives a full meal's worth of nourishment and must attempt a Fortitude save. A target sickened by this spell takes a –10-foot status penalty to its Speed until it's no longer sickened.
+Huge amounts of food and drink fill the target. It receives a full meal's worth of nourishment and must attempt a Fortitude save. A target [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] by this spell takes a –10-foot status penalty to its Speed until it's no longer sickened.
 
 **Critical Success** The target is unaffected.
 

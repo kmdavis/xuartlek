@@ -17,12 +17,12 @@ You can infuse your performances with magic to create unique effects called comp
 
  Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. The full rules for focus spells appear here.
 
- You learn the _counter performance_ composition spell, protecting against auditory and visual effects. 
+ You learn the _counter performance_ composition spell, protecting against [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] effects. 
 
 ### Composition Cantrips
 
- Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose with bard spellcasting. Unlike other cantrips, you can't swap out composition cantrips gained from bard feats at a later level, unless you swap out the specific feat via retraining.
+ Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose with bard spellcasting. Unlike other cantrips, you can't swap out composition cantrips gained from bard feats at a later level, unless you swap out the specific feat via [[srd/pf2e/books/player-core/chapter-8-playing-the-game/downtime-mode#Retraining|retraining]].
 
- You learn the _courageous anthem_ composition cantrip, which boosts your allies' attacks, damage, and defense against fear.
+ You learn the _courageous anthem_ composition cantrip, which boosts your allies' attacks, damage, and defense against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]].
 
 *Source: Player Core p. 94*

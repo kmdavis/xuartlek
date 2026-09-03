@@ -18,8 +18,8 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 8,000 gp
 - **Usage**: etched onto light armor
 
-This rune attempts to obfuscate your location through illusory trickery. When you're concealed, the DC of the flat check to target you with an effect is 6 instead of 5.
+This rune attempts to obfuscate your location through illusory trickery. When you're [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** The armor casts _mislead_, affecting you. It lasts until the end of your next turn.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** The armor casts _mislead_, affecting you. It lasts until the end of your next turn.
 
 *Source: Treasure Vault (Remastered) p. 13*

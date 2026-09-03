@@ -29,14 +29,14 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Athletics +8, Deception +12, Performance +12, Religion +8, Society +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +12, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +12, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +8, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +6"
 abilityMods: [0, 4, 3, 0, 2, 4]
 abilities_top:
   - name: "Items"
-    desc: "alchemical tools (used as “blessed items” to fool marks), Backpack, cloak, collection of fake relics, Hand Crossbow (20 bolts), Rapier, wooden religious symbol, Studded Leather Armor"
+    desc: "alchemical tools (used as “blessed items” to fool marks), Backpack, cloak, collection of fake relics, Hand Crossbow (20 bolts), Rapier, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|wooden religious symbol]], Studded Leather Armor"
 ac: 21
 armorclass:
   - name: "AC"
@@ -48,26 +48,26 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ rapier +12 (deadly d8, Disarm, Finesse) __Damage__ 1d6+8 piercing"
+    desc: "⬻ rapier +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+8 piercing"
   - name: "Melee"
-    desc: "⬻ fist +12 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+8 bludgeoning"
+    desc: "⬻ fist +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
   - name: "Ranged"
     desc: "⬻ hand crossbow +12 (range increment 60 feet, reload 1) __Damage__ 1d6+4 piercing"
 abilities_bot:
   - name: "Deceiver's Surprise"
-    desc: "On the first round of combat, if the false priest rolls Deception or Performance for initiative, creatures that haven't acted yet are off-guard to them."
+    desc: "On the first round of combat, if the false priest rolls [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] for initiative, creatures that haven't acted yet are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to them."
   - name: "Fickle Prophecy"
-    desc: "⬻ (Emotion, Mental) The false priest convinces another creature of their omnipotence by attempting a Deception check compared to the creature's Will DC. If successful, the target gains 1d8+4 temporary Hit Points that last for 1 hour or until the false priest removes them by rebuking the target, whichever occurs first."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The false priest convinces another creature of their omnipotence by attempting a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check compared to the creature's Will DC. If successful, the target gains 1d8+4 temporary Hit Points that last for 1 hour or until the false priest removes them by rebuking the target, whichever occurs first."
   - name: "The Jig Is Up"
     desc: "⬲"
   - name: "Frequency"
     desc: "once per hour"
   - name: "Trigger"
-    desc: "The false priest critically fails a Deception or Performance check"
+    desc: "The false priest critically fails a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] check"
   - name: "Effect"
     desc: "The false priest Strides."
   - name: "Sneak Attack"
-    desc: "The false priest deals an additional 1d6 precision damage to off-guard creatures. This increases to 2d6 against creatures off-guard due to the false priest's Feint or deceiver's surprise."
+    desc: "The false priest deals an additional 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures. This increases to 2d6 against creatures off-guard due to the false priest's [[srd/pf2e/compendium/rules-elements/actions/player-core#Feint|Feint]] or deceiver's surprise."
 sourcebook: "_NPC Core_, page 98."
 ```
 

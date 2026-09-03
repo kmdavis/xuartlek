@@ -23,7 +23,7 @@ source: "Impossible Magic"
 - **Target**: 1 of your thralls
 - **Duration**: 1 minute
 
-You shape a thrall into an instrument that plays a silent song that can be heard by only one soul. Choose one living or undead creature of your choice within 15 feet of the target thrall. That creature regains 1d8 Hit Points immediately and gains fast healing 1 for as long as it’s within 15 feet of the target thrall. This spell has the vitality trait if you heal a living creature or the void trait if you choose an undead creature.
+You shape a thrall into an instrument that plays a silent song that can be heard by only one soul. Choose one living or undead creature of your choice within 15 feet of the target thrall. That creature regains 1d8 Hit Points immediately and gains fast healing 1 for as long as it’s within 15 feet of the target thrall. This spell has the [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] trait if you heal a living creature or the [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] trait if you choose an undead creature.
 
 ---
 **Heightened (+1)** The healing increases by 1d8 and the fast healing increases by 1.

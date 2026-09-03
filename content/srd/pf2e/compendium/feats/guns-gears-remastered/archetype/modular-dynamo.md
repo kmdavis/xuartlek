@@ -1,0 +1,26 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e/guns-gears-remastered
+- trait/archetype
+- feat/level/4
+aliases: ["Modular Dynamo"]
+aon_id: "feat-3128"
+source: "Guns & Gears (Remastered)"
+---
+
+# Modular Dynamo  *Feat 4*
+
+`Archetype`
+
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/sterling-dynamo|Sterling Dynamo]]
+- **Prerequisites**: [[srd/pf2e/compendium/feats/guns-gears-remastered/archetype/sterling-dynamo-dedication|Sterling Dynamo Dedication]]
+
+Your dynamo has modular configurations, allowing you to swap between various different possibilities with ease in order to adapt to various situations in combat. Your dynamo attack gains the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/modular|modular]] trait, as well as one of the following configurations of your choice: power driver (1d6 bludgeoning damage; [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]]), percussive striker (1d4 bludgeoning damage; [[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]), rotating sickle (1d6 slashing damage; [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]]), or entangling barbs (1d6 piercing damage; [[srd/pf2e/compendium/rules-elements/traits/player-core/grapple|grapple]]). If you have a manually controlled dynamo, these damage dice increase by 1 size, as usual, and you can also choose the extendable baton (1d4 bludgeoning damage; [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]]), which has the damage increase already factored in.
+
+ When you use an Interact action to switch configurations using the modular trait, you switch between the initial configuration of dynamo you chose with the Sterling Dynamo Dedication and the new configuration you chose with Modular Dynamo.
+
+**Special** You can select this feat multiple times. Each time, you choose another configuration and add it to the list of options you can choose when you use an Interact action with the modular trait.
+
+*Source: Guns & Gears (Remastered) p. 53*

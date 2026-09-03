@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 This _+1 leather armor_ has four knobbed ribs that wrap around the torso. The armor grants you resistance 2 to poison damage.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Effect** The ribs from the armor spread into functional spider limbs. For 1 minute, you gain a climb Speed equal to half your land Speed and have your limbs free as you climb. If you use all your free limbs to help you Climb, your climb Speed equals your land Speed.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** The ribs from the armor spread into functional spider limbs. For 1 minute, you gain a climb Speed equal to half your land Speed and have your limbs free as you climb. If you use all your free limbs to help you Climb, your climb Speed equals your land Speed.
 
 ### Arachnid Harness
 
@@ -29,7 +29,7 @@ This _+1 leather armor_ has four knobbed ribs that wrap around the torso. The ar
 
 **Bulk** 1
 
-**Craft Requirements** The initial raw materials must include four intact legs from a giant tarantula.
+**Craft Requirements** The initial raw materials must include four intact legs from a [[srd/pf2e/bestiary/monster-core/animal/giant-tarantula|giant tarantula]].
 
 ### Arachnid Harness (Greater)
 
@@ -41,6 +41,6 @@ This _+1 leather armor_ has four knobbed ribs that wrap around the torso. The ar
 
 The armor is _+1 resilient leather armor_, the resistance is 5, and the harness can be activated once every 10 minutes.
 
-**Craft Requirements** The initial raw materials must include four intact legs from a goliath spider.
+**Craft Requirements** The initial raw materials must include four intact legs from a [[srd/pf2e/bestiary/monster-core/animal/goliath-spider|goliath spider]].
 
 *Source: Treasure Vault (Remastered) p. 14*

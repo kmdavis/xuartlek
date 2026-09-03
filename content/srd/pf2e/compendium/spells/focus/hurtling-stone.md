@@ -19,7 +19,7 @@ source: "Player Core"
 
 `Attack`  `Cleric`  `Earth`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Earth
+- **Domain**: [[srd/pf2e/compendium/character/domains#Earth|Earth]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 - **Defense**: AC

@@ -29,7 +29,7 @@ perception:
     desc: "Perception +16; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15"
 abilityMods: [2, 6, 4, -5, 3, -5]
 ac: 26
 armorclass:
@@ -38,20 +38,20 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; __Hardness__ 8"
+    desc: "90; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], disease, [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Nonlethal|nonlethal attacks]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Hardness__ 8"
 abilities_mid:
   - name: "Construct Armor"
     desc: "Like normal objects, a tupilaq has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once a tupilaq is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, it loses its Hardness, and its Armor Class is reduced to 22."
 speed: "40 feet, swim 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +19 (Agile, finesse) __Damage__ 2d8+5 piercing plus Grab"
+    desc: "⬻ jaws +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]]) __Damage__ 2d8+5 piercing plus Grab"
 abilities_bot:
   - name: "Carver's Curse"
-    desc: "When a tupilaq is created, the curse imparted by its creator manifests in the form of a single 3rd-rank primal spell the tupilaq can cast three times per day. The particular spell is a reflection of the creator's wish for vengeance. By default, and for a found or summoned tupilaq, this spell is _fireball_. Relics Of The Past A tupilaq can last indefinitely once created, and it isn't uncommon for a tupilaq to be unearthed years, decades, or even centuries after its creator has passed away. Archaeologists working at northern dig sites might accidentally stumble across one of these fierce constructs, inadvertently awakening its vengeful curse."
+    desc: "When a tupilaq is created, the curse imparted by its creator manifests in the form of a single 3rd-rank primal spell the tupilaq can cast three times per day. The particular spell is a reflection of the creator's wish for vengeance. By default, and for a found or summoned tupilaq, this spell is [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]]. Relics Of The Past A tupilaq can last indefinitely once created, and it isn't uncommon for a tupilaq to be unearthed years, decades, or even centuries after its creator has passed away. Archaeologists working at northern dig sites might accidentally stumble across one of these fierce constructs, inadvertently awakening its vengeful curse."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 24 - __3rd__ Fireball (×3)"
+    desc: "DC 24 - __3rd__ [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]] (×3)"
 sourcebook: "_Monster Core 2_, page 333."
 ```
 

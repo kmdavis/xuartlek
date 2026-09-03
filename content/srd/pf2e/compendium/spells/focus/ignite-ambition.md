@@ -20,7 +20,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Emotion`  `Focus`  `Mental`  `Subtle`  `Uncommon`
 
-- **Domain**: Ambition
+- **Domain**: [[srd/pf2e/compendium/character/domains#Ambition|Ambition]]
 - **Trigger**: You or an ally in range attempt to use a mental effect to convince a creature to do something (such as a Coerce, Request, or a suggestion spell)
 - **Range**: 60 feet
 - **Target**: one creature being influenced

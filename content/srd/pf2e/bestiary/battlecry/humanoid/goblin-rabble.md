@@ -31,10 +31,10 @@ modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; darkvision"
-languages: "Common, Goblin"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +12, Athletics +10, Stealth +12, Thievery +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +12"
 abilityMods: [1, 5, 2, 0, 1, 1]
 ac: 20
 armorclass:
@@ -43,16 +43,16 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60 (4 segments); __Weaknesses__ area damage 4, splash damage 4"
+    desc: "60 (4 segments); __Weaknesses__ area damage 4, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 4"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "30 feet; troop movement"
 abilities_bot:
   - name: "Dogpile"
-    desc: "The goblin rabble engage in as coordinated an attack as they can with their dogslicers, attacking each enemy in a 5-foot emanation (DC 18 basic Reflex save). The damage depends on the number of actions. A creature who critically fails their save is also knocked prone. ⬻ 1d6 slashing damage ⬺ 2d6+4 slashing damage ⬽ 2d6+7 slashing damage"
+    desc: "The goblin rabble engage in as coordinated an attack as they can with their dogslicers, attacking each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 18 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). The damage depends on the number of actions. A creature who critically fails their save is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. ⬻ 1d6 slashing damage ⬺ 2d6+4 slashing damage ⬽ 2d6+7 slashing damage"
   - name: "Hobble Pursuit"
-    desc: "⬺ The goblin rabble hamstring and hobble as many enemies as possible. Each enemy in a 5-foot emanation must attempt a DC 18 Reflex save."
+    desc: "⬺ The goblin rabble hamstring and hobble as many enemies as possible. Each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must attempt a DC 18 Reflex save."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
@@ -62,7 +62,7 @@ abilities_bot:
   - name: "Critical Failure"
     desc: "The creature takes a –15-foot circumstance penalty to their Speeds and is slowed 1."
   - name: "Rush and Steal"
-    desc: "⬺ Quickly moving in with grasping hands, the goblin rabble take what they can. The goblin rabble Strides up to twice their Speed. During this movement, the goblins Interact to pick up an unattended object no larger than 2 Bulk or attempt to Steal an item from a creature they are adjacent to; the goblins can pick up or Steal as many objects as they have remaining segments in any combination."
+    desc: "⬺ Quickly moving in with grasping hands, the goblin rabble take what they can. The goblin rabble [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] up to twice their Speed. During this movement, the goblins Interact to pick up an unattended object no larger than 2 Bulk or attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Steal|Steal]] an item from a creature they are adjacent to; the goblins can pick up or Steal as many objects as they have remaining segments in any combination."
 sourcebook: "_Battlecry!_, page 182."
 ```
 

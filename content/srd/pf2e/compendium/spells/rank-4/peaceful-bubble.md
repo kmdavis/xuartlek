@@ -23,8 +23,8 @@ source: "Player Core"
 - **Area**: 100-foot burst
 - **Duration**: 24 hours
 
-An opaque shell of drifting, iridescent runes covers the area, creating a bubble. You can choose to make the burst smaller, in 10-foot increments. The runes don't block travel, but those inside the bubble can't perceive those outside it and vice versa. Detection and scrying effects are likewise blocked.
+An opaque shell of drifting, iridescent runes covers the area, creating a bubble. You can choose to make the burst smaller, in 10-foot increments. The runes don't block travel, but those inside the bubble can't perceive those outside it and vice versa. [[srd/pf2e/compendium/rules-elements/traits/player-core/detection|Detection]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/scrying|scrying]] effects are likewise blocked.
 
- Creatures sleeping within the bubble are immune to dreams sent by spells. Those sleeping 8 hours reduce their doomed condition by 2 instead of 1.
+ Creatures sleeping within the bubble are immune to dreams sent by spells. Those sleeping 8 hours reduce their [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] condition by 2 instead of 1.
 
 *Source: Player Core p. 348*

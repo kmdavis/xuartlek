@@ -17,7 +17,7 @@ source: "Impossible Magic"
 `Air`  `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Area**: 120-foot line
+- **Area**: 120-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]]
 - **Defense**: Reflex
 
 A spinning gale of violent air bursts forth from you, drawing creatures into its vortex. All Medium or smaller creatures that are adjacent to the line are pulled to the nearest unoccupied space within the line. Then, all creatures within the line take 5d12 bludgeoning damage and must attempt a Reflex save.
@@ -28,7 +28,7 @@ A spinning gale of violent air bursts forth from you, drawing creatures into its
 
 **Failure** The target takes full damage and is pushed 5 feet away from you.
 
-**Critical Failure** The target takes double damage, is pushed 10 feet away from you, and is knocked prone.
+**Critical Failure** The target takes double damage, is pushed 10 feet away from you, and is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 ---
 **Heightened (+1)** The damage increases by 1d12.

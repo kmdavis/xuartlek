@@ -29,10 +29,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Diplomacy +11, Medicine +10, Society +8, Warfare Lore +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +10, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +8, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +10"
 abilityMods: [2, 2, 2, 0, 2, 3]
 abilities_top:
   - name: "Items"
@@ -47,15 +47,15 @@ health:
     desc: "60"
 abilities_mid:
   - name: "Inspiring Aura"
-    desc: "(aura, emotion, mental, visual) 60 feet. The standard bearer and each ally in the aura who can see their battle standard gains a +1 status bonus to initiative rolls and saves against fear effects. Each time an affected creature gains the frightened condition, reduce the frightened value by 1."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) 60 feet. The standard bearer and each ally in the aura who can see their battle standard gains a +1 status bonus to initiative rolls and saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effects. Each time an affected creature gains the [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition, reduce the frightened value by 1."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ ranseur +12 (Disarm, reach 10 feet) __Damage__ 1d10+8 piercing"
+    desc: "⬻ ranseur +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d10+8 piercing"
   - name: "Melee"
-    desc: "⬻ shortsword+12 (Agile, versatile S) __Damage__ 1d6+8 piercing"
+    desc: "⬻ shortsword+12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6+8 piercing"
   - name: "Melee"
-    desc: "⬻ fist+12 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+8 bludgeoning __Signal the Advance!__ ⬺ (Mental, Visual) The standard bearer raises their flag to the sky, signaling their allies to charge. Each ally affected by inspiring aura can use a reaction to Stand, Step, or Stride. __Stay in the Fight!__ ⬺ (Auditory, Mental) The standard bearer shouts an inspiring cry. Each ally affected by inspiring aura gains 10 temporary Hit Points that last for 1 minute. The Standard's Significance To be a standard bearer is no easy task. On the battlefield, they serve as the premier representative of the organization they serve, and should their standard be captured or destroyed, it would result in a huge loss of morale. If a standard bearer returns to their company alive and without their battle standard, harsh punishments will soon follow. Outside of battle, standard bearers often make great efforts to befriend the rest of their platoon, as they're the soldier who will need the most protection once combat begins."
+    desc: "⬻ fist+12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning __Signal the Advance!__ ⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]]) The standard bearer raises their flag to the sky, signaling their allies to charge. Each ally affected by inspiring aura can use a reaction to Stand, Step, or Stride. __Stay in the Fight!__ ⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The standard bearer shouts an inspiring cry. Each ally affected by inspiring aura gains 10 temporary Hit Points that last for 1 minute. The Standard's Significance To be a standard bearer is no easy task. On the battlefield, they serve as the premier representative of the organization they serve, and should their standard be captured or destroyed, it would result in a huge loss of morale. If a standard bearer returns to their company alive and without their battle standard, harsh punishments will soon follow. Outside of battle, standard bearers often make great efforts to befriend the rest of their platoon, as they're the soldier who will need the most protection once combat begins."
 sourcebook: "_NPC Core_, page 89."
 ```
 

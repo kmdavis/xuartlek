@@ -31,22 +31,22 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9"
 abilityMods: [4, 2, 2, 0, -1, 0]
 abilities_top:
   - name: "Untrained Rabble"
-    desc: "At the start of each of its turns, the conscript squad must succeed at a DC 10 Will save or be confused that turn."
+    desc: "At the start of each of its turns, the conscript squad must succeed at a DC 10 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] that turn."
 ac: 18
 armorclass:
   - name: "AC"
-    desc: "18; __Fort__: +11; __Ref__: +9; __Will__: +6 –2 circumstance to all saves vs. fear"
+    desc: "18; __Fort__: +11; __Ref__: +9; __Will__: +6 –2 circumstance to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]"
 hp: 54
 health:
   - name: "HP"
-    desc: "54 (4 segments); __Weaknesses__ area damage 5, splash damage 5"
+    desc: "54 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""

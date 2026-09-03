@@ -18,7 +18,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Metal`  `Uncommon`
 
-- **Domain**: Wealth
+- **Domain**: [[srd/pf2e/compendium/character/domains#Wealth|Wealth]]
 - **Range**: touch
 - **Target**: 1 metal shield or weapon, 1 suit of metal armor, or up to 1 Bulk of metal material (such as coins or metal-tipped ammunition)
 - **Duration**: 1 minute

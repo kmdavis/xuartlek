@@ -17,7 +17,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Travel
+- **Domain**: [[srd/pf2e/compendium/character/domains#Travel|Travel]]
 - **Duration**: until the end of the current turn
 
 The blessings of your god make your feet faster and your movements more fluid. You gain a +5-foot status bonus to your Speed and ignore difficult terrain. As part of casting agile feet, you can Step, Stride, or Tumble Through; you can instead Burrow, Climb, Fly, or Swim if you have the appropriate Speed.

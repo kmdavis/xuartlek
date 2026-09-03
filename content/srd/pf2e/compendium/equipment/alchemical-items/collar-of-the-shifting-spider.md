@@ -20,6 +20,6 @@ source: "Treasure Vault (Remastered)"
 
 This intimidating collar contains a hollow central tube and ends in twin metal points shaped like spider fangs. The collar can be loaded with an alchemical mutagen as an Interact action. 
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (manipulate) **Trigger** You roll initiative; **Requirements** A mutagen is loaded in the collar; **Effect** The metal points dig into your neck, inflicting 1 piercing damage and injecting the mutagen directly into your bloodstream. This has the same effect as if you drank the mutagen conventionally, except the duration of the mutagen is halved due to the more direct administration.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Trigger** You roll initiative; **Requirements** A mutagen is loaded in the collar; **Effect** The metal points dig into your neck, inflicting 1 piercing damage and injecting the mutagen directly into your bloodstream. This has the same effect as if you drank the mutagen conventionally, except the duration of the mutagen is halved due to the more direct administration.
 
 *Source: Treasure Vault (Remastered) p. 63*

@@ -19,12 +19,12 @@ source: "Howl of the Wild"
 - **Price**: 2,800 gp
 - **Usage**: worn armor
 - **Bulk**: 4
-- **Base Armor**: Full Plate
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Full Plate|Full Plate]]
 
-The beautiful plates of this _+2 resilient greater ready full plate_ armor are shaped from the carapace of a deadly mantis, providing excellent protection with added flexibility. When wearing a suit of _mantis plate_, you gain a +2 item bonus to your Athletics DC.
+The beautiful plates of this _[[srd/pf2e/compendium/equipment/runes/armor-potency-3|+2]] [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/runes/ready-greater|greater ready]] [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]_ armor are shaped from the carapace of a deadly mantis, providing excellent protection with added flexibility. When wearing a suit of _mantis plate_, you gain a +2 item bonus to your [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] DC.
 
-**Activate—Mandible Vambraces** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Effect** Make a melee Strike. If you succeed, the target is caught by the spikes on the armor’s forearms, taking an additional 6d6 piercing damage (DC 30 basic Reflex save).
+**Activate—Mandible Vambraces** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Effect** Make a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]]. If you succeed, the target is caught by the spikes on the armor’s forearms, taking an additional 6d6 piercing damage (DC 30 basic Reflex save).
 
-**Craft Requirements** The initial raw materials must include the arms and carapace of a deadly mantis.
+**Craft Requirements** The initial raw materials must include the arms and carapace of a [[srd/pf2e/bestiary/monster-core/animal/deadly-mantis|deadly mantis]].
 
 *Source: Howl of the Wild p. 100*

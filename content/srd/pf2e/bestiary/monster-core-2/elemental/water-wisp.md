@@ -29,14 +29,14 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; darkvision, mist vision"
-languages: "Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +4, Medicine +6, Plane of Water Lore +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +6, [[srd/pf2e/compendium/rules-elements/skills/lore|Plane of Water Lore]] +4"
 abilityMods: [2, 2, 3, 0, 1, 0]
 abilities_top:
   - name: "Mist Vision"
-    desc: "The water wisp ignores the concealed condition from mist and fog."
+    desc: "The water wisp ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from mist and fog."
 ac: 13
 armorclass:
   - name: "AC"
@@ -44,25 +44,25 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ fire 2"
+    desc: "20; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 2"
 abilities_mid:
   - name: "Resonance"
-    desc: "(aura, water) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. Creatures in the area gain a +1 status bonus to attack and damage rolls for effects that have the water trait; a creature with the elemental and water traits gains this bonus to all attack and damage rolls."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. Creatures in the area gain a +1 status bonus to attack and damage rolls for effects that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait; a creature with the [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]] and water traits gains this bonus to all attack and damage rolls."
   - name: "Accord Essence"
-    desc: "⬲ (water"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]"
   - name: "Trigger"
     desc: "An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack)"
   - name: "Effect"
-    desc: "The wisp detonates themself in an elemental explosion. This grants temporary Hit Points equal to half the wisp's current Hit Points to allies within 30 feet who have benefited from the wisp's resonance in the last hour. These temporary Hit Points last 1 hour. A wisp that uses this reaction is permanently destroyed, and they can be restored by only a _wish_ ritual or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect."
+    desc: "The wisp detonates themself in an elemental explosion. This grants [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] equal to half the wisp's current Hit Points to allies within 30 feet who have benefited from the wisp's resonance in the last hour. These temporary Hit Points last 1 hour. A wisp that uses this reaction is permanently destroyed, and they can be restored by only a [[srd/pf2e/compendium/spells/rituals/wish|_wish_]] ritual or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|dismissed]]), Accord Essence has no effect."
 speed: "25 feet, swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tendril +6 (reach 10 feet) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ tendril +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d4+2 bludgeoning"
 abilities_bot:
   - name: "Drench"
-    desc: "⬻ (Primal, water) The wisp puts out all fires in a single 5-foot square. They extinguish non-magical fire of that size or smaller automatically and attempt to counteract magical fires (counteract modifier +6)."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) The wisp puts out all fires in a single 5-foot square. They extinguish non-magical fire of that size or smaller automatically and attempt to [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] magical fires (counteract modifier +6)."
   - name: "In Concert"
-    desc: "When a water wisp rolls a critical failure on a check to Aid, they get a failure instead, and when they roll a success, they get a critical success instead."
+    desc: "When a water wisp rolls a critical failure on a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aid]], they get a failure instead, and when they roll a success, they get a critical success instead."
 sourcebook: "_Monster Core 2_, page 153."
 ```
 

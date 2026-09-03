@@ -12,13 +12,13 @@ source: "Monster Core"
 
 Before their ancient clash with humanity devastated their civilization, serpentfolk were masters of a sprawling underground empire. Their power was shattered and their god Ydersius decapitated (although not quite slain). The cunning, intelligence, and magical abilities of serpentfolk have diminished from their ancient heights, and most are born without these boons. This is partially the result of cruel genetic meddling among serpentfolk—though the ruling class, zyss, are born with an innate spellcasting ability, their blood runs thin, making them susceptible to wounds. Seen as the failures of the serpentfolk's experiments are the aapophs, who are strong but prone to mutation and lack innate spellcasting.
 
- Today, the central realm of the Darklands retains the old name of the serpentfolk empire that once dominated this region—Sekamina. This name is also the source of the serpentfolk's Aklo title, sekmin, which they are often called in ancient texts. Serpentfolk dominion had declined before ghouls, gugs, umbral gnomes, and other forces. Yet their recent ventures have brought them back to a stronger place in the Darklands. Many serpentfolk sleeping in torpor in secluded vaults have awakened.
+ Today, the central realm of the Darklands retains the old name of the serpentfolk empire that once dominated this region—Sekamina. This name is also the source of the serpentfolk's [[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]] title, sekmin, which they are often called in ancient texts. Serpentfolk dominion had declined before ghouls, gugs, umbral gnomes, and other forces. Yet their recent ventures have brought them back to a stronger place in the Darklands. Many serpentfolk sleeping in torpor in secluded vaults have awakened.
 
  Zyss serpentfolk tend toward megalomania, with dreams of returning to their place of dominance. Many of their plans hinge on resurrecting Ydersius, their decapitated god. His headless body still thrashes about, mindless, in the Darklands, waiting to be reunited with his lost skull. Serpentfolk numbers are so small that reclaiming their dominance seems a distant dream, especially since their reproduction is slow. Though a parent can birth a dozen young at once, the gestation period lasts up to a decade, and the likelihood that even one will be zyss is low. There's no telling whether a child will be zyss or aapoph, regardless of parentage. A coveted zyss child is just as likely to arise from aapoph parents as from two zyss, and every serpentfolk colony has someone in charge of sorting the young, identifying the earliest signs of magic in them.
 
 ### Members
 
-Aapoph Granitescale (Creature 6), Aapoph Serpentfolk (Creature 3), Bone Prophet (Creature 8), Coil Spy (Creature 4), Zyss Serpentfolk (Creature 2)
+[[srd/pf2e/bestiary/monster-core/humanoid/aapoph-granitescale|Aapoph Granitescale]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/aapoph-serpentfolk|Aapoph Serpentfolk]] (Creature 3), [[srd/pf2e/bestiary/monster-core/humanoid/bone-prophet|Bone Prophet]] (Creature 8), [[srd/pf2e/bestiary/monster-core/humanoid/coil-spy|Coil Spy]] (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/zyss-serpentfolk|Zyss Serpentfolk]] (Creature 2)
 
 ### Above the Surface
 
@@ -26,7 +26,7 @@ A small number of serpentfolk settlements dot Golarion's surface, most of them i
 
 ### Serpentfolk Magic
 
-Some serpentfolk might have entirely different innate spells. These alternative spells are typically illusions, mental spells, or divinatory magic. Examples, listed by their minimum rank, include: **6th** _mislead_, _zealous conviction_; **5th** _mind probe_; **4th** _honeyed words_; **3rd** _dream message_, _enthrall_, _mind reading_; **2nd** _invisibility_ (self only); **1st** _mindlink_, _phantom pain_. Aapoph serpentfolk lack innate spells.
+Some serpentfolk might have entirely different innate spells. These alternative spells are typically illusions, mental spells, or divinatory magic. Examples, listed by their minimum rank, include: **6th** [[srd/pf2e/compendium/spells/rank-6/mislead|_mislead_]], [[srd/pf2e/compendium/spells/rank-6/zealous-conviction|_zealous conviction_]]; **5th** [[srd/pf2e/compendium/spells/rank-5/mind-probe|_mind probe_]]; **4th** [[srd/pf2e/compendium/spells/rank-4/honeyed-words|_honeyed words_]]; **3rd** [[srd/pf2e/compendium/spells/rank-3/dream-message|_dream message_]], [[srd/pf2e/compendium/spells/rank-3/enthrall|_enthrall_]], [[srd/pf2e/compendium/spells/rank-3/mind-reading|_mind reading_]]; **2nd** [[srd/pf2e/compendium/spells/rank-2/invisibility|_invisibility_]] (self only); **1st** [[srd/pf2e/compendium/spells/rank-1/mindlink|_mindlink_]], [[srd/pf2e/compendium/spells/rank-1/phantom-pain|_phantom pain_]]. Aapoph serpentfolk lack innate spells.
 
 ### Zyss Strife
 

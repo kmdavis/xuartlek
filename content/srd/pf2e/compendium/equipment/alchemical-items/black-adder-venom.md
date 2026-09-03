@@ -20,7 +20,7 @@ source: "GM Core"
 - **Price**: 6 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Adder venom is a simple but effective way to enhance a weapon.
  **Saving Throw** DC 18 Fortitude; **Maximum Duration** 3 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage (1 round); **Stage 3** 1d8 poison damage (1 round)

@@ -21,6 +21,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-Blood stains this performer’s mask, which is decorated in both comedy and tragedy motifs and carved with prayers to gods of deception. When used as a catalyst to cast a __mislead__ spell, it tweaks the magical energy used to create the duplicate, allowing you to alter its appearance to resemble any humanoid creature of your size you’ve seen.
+Blood stains this performer’s mask, which is decorated in both comedy and tragedy motifs and carved with prayers to gods of deception. When used as a catalyst to cast a _[[srd/pf2e/compendium/spells/rank-6/mislead|_mislead_]]_ spell, it tweaks the magical energy used to create the duplicate, allowing you to alter its appearance to resemble any [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]] creature of your size you’ve seen.
 
 *Source: Impossible Magic p. 216*

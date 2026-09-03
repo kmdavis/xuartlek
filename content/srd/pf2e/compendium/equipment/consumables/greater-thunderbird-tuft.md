@@ -20,7 +20,7 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell (add 1 action)
 
-This carved chunk of amber contains a single tuft of gray feathers, which spark with electricity to create an odd jittery sensation in anyone holding the amber for long. When used as part of a __thunderstrike__ spell, the _thunderbird tuft_ funnels electricity back into the spellcaster in a defensive nimbus. For 1 minute, any creature that touches you or that hits you with a melee unarmed attack or non-reach melee weapon attack takes the listed electricity damage.
+This carved chunk of amber contains a single tuft of gray feathers, which spark with electricity to create an odd jittery sensation in anyone holding the amber for long. When used as part of a _[[srd/pf2e/compendium/spells/rank-1/thunderstrike|_thunderstrike_]]_ spell, the _thunderbird tuft_ funnels electricity back into the spellcaster in a defensive nimbus. For 1 minute, any creature that touches you or that hits you with a melee unarmed attack or non-reach melee weapon attack takes the listed electricity damage.
 
 ### Lesser Thunderbird Tuft
 

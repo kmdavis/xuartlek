@@ -24,7 +24,7 @@ source: "Player Core"
 - **Defense**: Will
 - **Duration**: sustained up to 1 minute
 
-Your patron's majesty—or their displeasure—comes in a growl from your throat, making other creatures reluctant to harm you. The target must attempt a Will save; if the creature is an animal, fungus, or plant, it takes a –1 circumstance penalty to its save.
+Your patron's majesty—or their displeasure—comes in a growl from your throat, making other creatures reluctant to harm you. The target must attempt a Will save; if the creature is an [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungus]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]], it takes a –1 circumstance penalty to its save.
 
 **Critical Success** The target is unaffected.
 

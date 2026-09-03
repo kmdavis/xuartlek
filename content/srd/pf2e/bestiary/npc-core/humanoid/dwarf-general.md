@@ -29,20 +29,20 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; darkvision"
-languages: "Common, Dwarven"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +19, Diplomacy +12, Intimidation +14, Medicine +15, Society +13, Survival +15, Warfare Lore +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +14, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +15, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +13, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +15"
 abilityMods: [5, 0, 4, 2, 2, 1]
 abilities_top:
   - name: "Opening Orders"
-    desc: "(auditory, linguistic [free-action])"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic [free-action]]])"
   - name: "Trigger"
     desc: "The dwarf general rolls initiative and can see at least one enemy"
   - name: "Effect"
-    desc: "The general unleashes a command to ready for combat. Each ally within 120 feet that can hear the general can either Raise a Shield or Step as a free action when it rolls initiative."
+    desc: "The general unleashes a command to ready for combat. Each ally within 120 feet that can hear the general can either [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] or Step as a free action when it rolls initiative."
   - name: "Items"
-    desc: "Arbalest (10 bolts), Clan Dagger, Full Plate, Steel Shield (Hardness 5, HP 20, BT 10), _+1 striking warhammer_"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|Arbalest]] (10 bolts), Clan Dagger, Full Plate, Steel Shield (Hardness 5, HP 20, BT 10), _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/hammer/warhammer|warhammer]]_"
 ac: 26
 armorclass:
   - name: "AC"
@@ -53,7 +53,7 @@ health:
     desc: "150"
 abilities_mid:
   - name: "Dwarven Doughtiness"
-    desc: "Dwarves are often calm and collected in the face of imminent danger. At the end of the general's turn, reduce its frightened condition by 2 instead of 1."
+    desc: "Dwarves are often calm and collected in the face of imminent danger. At the end of the general's turn, reduce its [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition by 2 instead of 1."
   - name: "Reactive Strike"
     desc: "⬲ The dwarf general gains an additional reaction at the beginning of each of their turns that they can use only for a Reactive Strike."
   - name: "Shield Block"
@@ -61,18 +61,18 @@ abilities_mid:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _warhammer_ +20 (Magical, Shove) __Damage__ 2d8+11 bludgeoning"
+    desc: "⬻ _warhammer_ +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 2d8+11 bludgeoning"
   - name: "Melee"
-    desc: "⬻ clan dagger +19 (Agile, Parry, versatile B) __Damage__ 1d4+11 piercing"
+    desc: "⬻ clan dagger +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile B]]) __Damage__ 1d4+11 piercing"
   - name: "Melee"
-    desc: "⬻ fist +19 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+11 bludgeoning"
+    desc: "⬻ fist +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+11 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ arbalest +15 (Backstabber, range increment 110 feet, reload 1) __Damage__ 1d10+6 piercing"
+    desc: "⬻ arbalest +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], range increment 110 feet, reload 1) __Damage__ 1d10+6 piercing"
 abilities_bot:
   - name: "Advancing Orders"
-    desc: "⬻ (Auditory, Linguistic) The dwarf general issues a command to push forward on the battlefield. Each ally who hears and understands this command becomes quickened until the end of its next turn but can use the extra action only to Step or Stride."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]]) The dwarf general issues a command to push forward on the battlefield. Each ally who hears and understands this command becomes [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] until the end of its next turn but can use the extra action only to Step or Stride."
   - name: "Hammer Critical Specialization"
-    desc: "When the general critically hits with a hammer, the target of the critical hit is knocked prone unless it succeeds at a DC 26 Fortitude save."
+    desc: "When the general critically hits with a hammer, the target of the critical hit is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] unless it succeeds at a DC 26 Fortitude save."
   - name: "Sudden Charge"
     desc: "⬺"
   - name: "Frequency"

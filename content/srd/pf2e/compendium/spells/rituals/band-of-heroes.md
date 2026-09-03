@@ -17,7 +17,7 @@ source: "War of Immortals"
 
 - **Cast**: 1 hour
 - **Secondary Casters**: 2 to 5
-- **Primary Check**: Diplomacy (mythic) or Society (mythic)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] (mythic) or [[srd/pf2e/compendium/rules-elements/skills/society|Society]] (mythic)
 - **Secondary Checks**: Diplomacy, Intimidation , or Society
 - **Range**: 30 feet
 - **Target(s)**: all casters involved in ritual
@@ -25,9 +25,9 @@ source: "War of Immortals"
 
 The sun rises on a gathering of heroes bonded to a cause. While only one secondary caster can attempt the secondary check, each secondary caster must also spend 1 Mythic Point upon successful completion of the ritual. A secondary caster who chooses not to spend the Mythic Point can't benefit from the ritual's effects.
 
-**Critical Success** As success, but the first time a caster gains the doomed, dying, or wounded condition during the ritual’s duration, reduce the value of that condition by 1 (minimum 0).
+**Critical Success** As success, but the first time a caster gains the [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]], or [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] condition during the ritual’s duration, reduce the value of that condition by 1 (minimum 0).
 
-**Success** Each secondary caster must spend 1 Mythic Point. For the duration of the ritual, when a caster Aids another caster, they can attempt the associated check at mythic proficiency. On a success, the circumstance bonus the Aiding caster grants is increased to +2, and on a critical success, the circumstance bonus is increased to +5.
+**Success** Each secondary caster must spend 1 Mythic Point. For the duration of the ritual, when a caster [[srd/pf2e/compendium/rules-elements/actions/player-core#Aid|Aids]] another caster, they can attempt the associated check at mythic proficiency. On a success, the circumstance bonus the Aiding caster grants is increased to +2, and on a critical success, the circumstance bonus is increased to +5.
 
 **Failure** The ritual has no effect. The secondary casters don’t need to each spend 1 Mythic Point.
 

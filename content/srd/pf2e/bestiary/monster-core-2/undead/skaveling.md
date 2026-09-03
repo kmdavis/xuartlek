@@ -29,10 +29,10 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; darkvision, echolocation 40 feet"
-languages: "Aklo, Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +13, Athletics +13, Intimidation +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +11"
 abilityMods: [6, 4, 2, 1, 6, 2]
 abilities_top:
   - name: "Echolocation"
@@ -44,32 +44,32 @@ armorclass:
 hp: 80
 health:
   - name: "HP"
-    desc: "80; __Immunities__ bleed, death effects, disease, paralyzed, poison, unconscious"
+    desc: "80; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]"
 speed: "15 feet, fly 30 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ fangs +15 __Damage__ 2d8+8 piercing"
   - name: "Melee"
-    desc: "⬻ wing +15 (Agile) __Damage__ 2d4+8 bludgeoning"
+    desc: "⬻ wing +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d4+8 bludgeoning"
 abilities_bot:
   - name: "Bone-Chilling Screech"
-    desc: "⬺ (Auditory, emotion, fear, mental, occult) The skaveling unleashes a horrifying screech that chills the very bones of those close enough to feel it. The screech can be heard for miles, but each creature in a 20-foot emanation must also attempt a DC 22 Will save. The skaveling can't use Bone-Chilling Screech again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) The skaveling unleashes a horrifying screech that chills the very bones of those close enough to feel it. The screech can be heard for miles, but each creature in a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must also attempt a DC 22 Will save. The skaveling can't use Bone-Chilling Screech again for 1d4 rounds."
   - name: "Critical Success"
     desc: "The creature is unaffected and is temporarily immune to Bone-Chilling Screech for 24 hours."
   - name: "Success"
-    desc: "The creature is frightened 1."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1."
   - name: "Failure"
     desc: "The creature is frightened 2."
   - name: "Critical Failure"
-    desc: "The creature is frightened 2 and stunned 1 by fear."
+    desc: "The creature is frightened 2 and [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1 by fear."
   - name: "Consume Flesh"
-    desc: "⬻ (Manipulate)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"
   - name: "Requirements"
     desc: "The skaveling is adjacent to the corpse of a creature that died within the last hour"
   - name: "Effect"
     desc: "The skaveling devours a chunk of the corpse and regains 1d6 Hit Points plus 1d6 for every 2 levels the skaveling has. They can regain Hit Points from any given corpse only once."
   - name: "Feast on Fear"
-    desc: "⬲ (occult Trigger The skaveling deals damage to a frightened creature with a fangs Strike) Effect The skaveling draws power from the fear infusing a creature's flesh. The frightened creature must attempt a DC 22 Fortitude saving throw."
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult Trigger The skaveling deals damage to a frightened creature with a fangs Strike]]) Effect The skaveling draws power from the fear infusing a creature's flesh. The frightened creature must attempt a DC 22 Fortitude saving throw."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
@@ -77,9 +77,9 @@ abilities_bot:
   - name: "Failure"
     desc: "The creature takes a –10-foot status penalty to its Speed, and the skaveling gains a +10-foot status bonus to their Speeds until the end of their next turn."
   - name: "Critical Failure"
-    desc: "The creature is slowed 1, and the skaveling can immediately Fly, Step, or Stride as a free action; this movement doesn't trigger reactions."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1, and the skaveling can immediately [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Step|Step]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Stride]] as a free action; this movement doesn't trigger reactions."
   - name: "Swift Dart"
-    desc: "⬻ (Move) The skaveling Flies up to half their Speed. This movement doesn't trigger reactions. Skaveling Intellect As a curious side effect of their creation, skavelings absorb many memories of the ghoul brains on which they were fed. While merely an oversized animal in life, in undeath these memories coalesce into a strange form of intelligence that affords skavelings the ability to speak and reason, all the better to serve their urdefhan masters. Skavelings remain loyal to urdefhans and never take actions in a fight that would harm their creators."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]) The skaveling [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to half their Speed. This movement doesn't trigger reactions. Skaveling Intellect As a curious side effect of their creation, skavelings absorb many memories of the ghoul brains on which they were fed. While merely an oversized animal in life, in undeath these memories coalesce into a strange form of intelligence that affords skavelings the ability to speak and reason, all the better to serve their urdefhan masters. Skavelings remain loyal to urdefhans and never take actions in a fight that would harm their creators."
 sourcebook: "_Monster Core 2_, page 287."
 ```
 

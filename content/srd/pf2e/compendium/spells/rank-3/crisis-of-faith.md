@@ -21,7 +21,7 @@ source: "Player Core"
 - **Target**: 1 creature
 - **Defense**: Will
 
-You assault the target's faith, riddling the creature with doubt and mental turmoil that deal 6d6 mental damage, or 6d8 mental damage if it can cast divine spells. The effects are determined by its Will save. 
+You assault the target's faith, riddling the creature with doubt and mental turmoil that deal 6d6 mental damage, or 6d8 mental damage if it can cast [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] spells. The effects are determined by its Will save. 
 
 **Critical Success** The target is unaffected.
 

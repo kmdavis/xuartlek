@@ -31,7 +31,7 @@ perception:
     desc: "Perception +6; darkvision, tremorsense 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +8, Stealth +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5"
 abilityMods: [4, -1, 4, -4, 2, -1]
 ac: 17
 armorclass:
@@ -40,14 +40,14 @@ armorclass:
 hp: 35
 health:
   - name: "HP"
-    desc: "35; __Immunities__ bleed, paralyzed, poison, sleep"
+    desc: "35; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 speed: "20 feet, burrow 20 feet; earth glide"
 attacks:
   - name: "Melee"
     desc: "⬻ jaws +10 __Damage__ 1d8+6 piercing"
 abilities_bot:
   - name: "Earth Glide"
-    desc: "A living boulder can Burrow through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing."
+    desc: "A living boulder can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing."
   - name: "Rolling Charge"
     desc: "⬺ The living boulder Strides twice, and can then make a Strike with its jaws. This jaws Strike gains Knockdown."
 sourcebook: "_Monster Core 2_, page 146."

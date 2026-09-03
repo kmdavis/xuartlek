@@ -21,8 +21,8 @@ source: "Rage of Elements"
 - **Price**: 350 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This foul-smelling bottle contains compressed, noxious fumes. After you inhale the odious gases of the blight breath, you gain resistance 10 to poison for as long as you hold your breath. You can exhale the blight breath as a single action. The resulting spray of noxious fumes deals 10d6 poison damage to each creature in a 15-foot cone, with a DC 29 basic Reflex save.
+This foul-smelling bottle contains compressed, noxious fumes. After you inhale the odious gases of the blight breath, you gain resistance 10 to [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] for as long as you hold your breath. You can exhale the blight breath as a single action. The resulting spray of noxious fumes deals 10d6 poison damage to each creature in a 15-foot cone, with a DC 29 basic Reflex save.
 
 *Source: Rage of Elements p. 74*

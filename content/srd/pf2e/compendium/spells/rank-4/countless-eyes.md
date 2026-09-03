@@ -20,6 +20,6 @@ source: "Player Core 2"
 - **Target**: 1 creature
 - **Duration**: 1 minute
 
-Eyes form across the touched creature's body, allowing it to see in all directions at once. The subject can't be flanked for the spell's duration. In addition, when the subject succeeds when Seeking, it critically succeeds instead.
+Eyes form across the touched creature's body, allowing it to see in all directions at once. The subject can't be flanked for the spell's duration. In addition, when the subject succeeds when [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeking]], it critically succeeds instead.
 
 *Source: Player Core 2 p. 243*

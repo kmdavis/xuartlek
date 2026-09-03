@@ -22,7 +22,7 @@ You can use this skill to create and repair items.
 
 ### Consumables and Ammunition
 
- You can Craft items with the consumable trait in batches, making up to four of the same item at once with a single check. This requires you to include the raw materials for all the items in the batch at the start, and you must complete the batch all at once. You also Craft non-magical ammunition in batches, using the quantity listed in the Ranged Weapons table (typically 10). 
+ You can Craft items with the [[srd/pf2e/compendium/rules-elements/traits/player-core/consumable|consumable]] trait in batches, making up to four of the same item at once with a single check. This requires you to include the raw materials for all the items in the batch at the start, and you must complete the batch all at once. You also Craft non-magical ammunition in batches, using the quantity listed in the Ranged Weapons table (typically 10). 
 
 ### Getting Formulas
 
@@ -37,35 +37,35 @@ Category
 Consumable
 Note
 
-Alchemist Goggles
+[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles-major|Alchemist Goggles]]
 +1
 0
 Other Worn Items
 No
 Crafting checks to Craft alchemical items
 
-Artisan's Toolkit (Sterling)
+[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit (Sterling)]]
 +1
 3
 Adventuring Gear
 No
 Crafting checks to Craft
 
-Repair Toolkit (Superb)
+[[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|Repair Toolkit (Superb)]]
 +1
 3
 Adventuring Gear
 No
 Crafting checks to Repair
 
-Aeon Stone (Formulating)
+[[srd/pf2e/compendium/equipment/worn-items/aeon-stone-sprouting|Aeon Stone (Formulating)]]
 +1
 4
 Other Worn Items
 No
 Item bonus to crafting checks
 
-Aeon Stone (Repairing)
+[[srd/pf2e/compendium/equipment/worn-items/aeon-stone-sprouting|Aeon Stone (Repairing)]]
 +1
 4
 Other Worn Items
@@ -79,13 +79,13 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-Cognitive Mutagen (Lesser)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Lesser)]]
 +1
 1
 Alchemical Elixirs
 Yes
 
-Alchemist Goggles
+[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles-major|Alchemist Goggles]]
 +2
 0
 Other Worn Items
@@ -99,61 +99,61 @@ Other Worn Items
 No
 Item bonus to Crafting checks to cradt an item whose formula is stored in the _schematic scanner_.
 
-Laboratory Coat
+[[srd/pf2e/compendium/equipment/armor/laboratory-coat|Laboratory Coat]]
 +2
 9
 Specific Magic Armor
 No
 Item bonus to Crafting checks and an escape route should one’s experiments go awry.
 
-Ring of Maniacal Devices
+[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices-greater|Ring of Maniacal Devices]]
 +2
 11
 Worn Items
 No
 Crafting checks to Craft and Repair snares and traps.
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Cognitive Mutagen (Moderate)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Moderate)]]
 +2
 3
 Alchemical Elixirs
 Yes
 
-Alchemist Goggles
+[[srd/pf2e/compendium/equipment/worn-items/alchemist-goggles-major|Alchemist Goggles]]
 +3
 0
 Other Worn Items
 No
 Crafting checks to Craft alchemical items
 
-Ring of Maniacal Devices (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices-greater|Ring of Maniacal Devices (Greater)]]
 +3
 18
 Worn Items
 No
 Crafting checks to Craft and Repair snares and traps.
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Cognitive Mutagen (Greater)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Greater)]]
 +3
 11
 Alchemical Elixirs
 Yes
 
-Cognitive Mutagen (Major)
+[[srd/pf2e/compendium/equipment/alchemical-items/cognitive-mutagen-major|Cognitive Mutagen (Major)]]
 +4
 17
 Alchemical Elixirs

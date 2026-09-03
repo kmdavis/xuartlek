@@ -23,13 +23,13 @@ source: "Dark Archives (Remastered)"
 - **Target**: 1 creature
 - **Defense**: Will
 
-You place a psychic lock in a foe's mind that prevents it from a specific action. Choose “Strike,” “Stride,” “Cast a Spell,” or a specific action you know the creature to have (such as a dragon's magic breath). If the creature attempts that action on its next turn, it must surmount your lock to do so, causing it to take 2d6 mental damage (with a basic Will save). The target is then temporarily immune for 1 minute.
+You place a psychic lock in a foe's mind that prevents it from a specific action. Choose “Strike,” “Stride,” “Cast a Spell,” or a specific action you know the creature to have (such as a [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragon's]] magic breath). If the creature attempts that action on its next turn, it must surmount your lock to do so, causing it to take 2d6 mental damage (with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Will save). The target is then temporarily immune for 1 minute.
 
 ---
 **Heightened (+1)** The damage increases by 1d6.
 
 ---
 
-**Amp** Your telepathic push is particularly shocking to those who resist it. If the target fails its save, it's also stunned 1.
+**Amp** Your telepathic push is particularly shocking to those who resist it. If the target fails its save, it's also [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
 
 *Source: Dark Archives (Remastered) p. 21*

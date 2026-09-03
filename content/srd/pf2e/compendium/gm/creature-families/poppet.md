@@ -14,7 +14,7 @@ Poppets are simple constructs made to assist their creators with basic tasks.
 
 ### Members
 
-Poppet Attendant (Creature 0), Poppet Mage (Creature 2)
+[[srd/pf2e/bestiary/monster-core-2/construct/poppet-attendant|Poppet Attendant]] (Creature 0), [[srd/pf2e/bestiary/monster-core-2/construct/poppet-mage|Poppet Mage]] (Creature 2)
 
 ### Poppet Assistants
 

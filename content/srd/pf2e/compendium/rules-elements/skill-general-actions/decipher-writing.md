@@ -16,13 +16,13 @@ When you encounter particularly archaic or esoteric texts, the GM might require 
 
 ### Skill Uses
 
-[Arcana] Decipher Writing about arcane theory.
+[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] Decipher Writing about arcane theory.
 
-[Occultism] Decipher Writing on occult topics, including complex metaphysical systems, syncretic principles, obscure philosophies, and incoherent ramblings.
+[[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] Decipher Writing on occult topics, including complex metaphysical systems, syncretic principles, obscure philosophies, and incoherent ramblings.
 
-[Religion] Decipher Writing of a religious nature, including allegories, homilies, and proverbs.
+[[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] Decipher Writing of a religious nature, including allegories, homilies, and proverbs.
 
-[Society] Decipher Writing that's a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don't know.
+[[srd/pf2e/compendium/rules-elements/skills/society|Society]] Decipher Writing that's a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don't know.
 
 ### Item Bonuses for Decipher Writing
 

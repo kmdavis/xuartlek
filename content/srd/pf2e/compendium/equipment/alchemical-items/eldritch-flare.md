@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 1,100 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This poison draws power from the magic of its victim. If a creature under the effects of eldritch flare Casts a Spell, excess magical energy feeds back into the toxin, increasing the DC of the poison by 2 that round. In addition, if the spell deals damage, the poison deals half its damage as one of the types of damage the spell deals (the other half remains poison damage). If the target is immune or has resistance to the spell's damage, the poison deals half its damage as mental damage instead. If the victim casts no spells during a round while affected, the poison still deals its poison damage.
 

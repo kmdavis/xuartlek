@@ -20,7 +20,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Illusion`  `Manipulate`  `Uncommon`  `Visual`
 
-- **Domain**: Creation
+- **Domain**: [[srd/pf2e/compendium/character/domains#Creation|Creation]]
 - **Range**: 30 feet
 - **Area**: 5-foot burst
 - **Defense**: Will
@@ -30,6 +30,6 @@ A deluge of paint or colorful illusions descend on the area, reflecting your per
 
 ## Creative Splash
 
-**1d4****Color****Failure****Critical Failure**1WhiteDazzled 1 roundDazzled 1 minute2RedEnfeebled 1 for 1 roundEnfeebled 2 for 1 round3YellowFrightened 1Frightened 24BlueClumsy 1 for 1 roundClumsy 2 for 1 round
+**1d4****Color****Failure****Critical Failure**1White[[srd/pf2e/compendium/rules-elements/conditions#Dazzled|Dazzled]] 1 roundDazzled 1 minute2RedEnfeebled 1 for 1 roundEnfeebled 2 for 1 round3YellowFrightened 1Frightened 24BlueClumsy 1 for 1 roundClumsy 2 for 1 round
 
 *Source: Player Core p. 373*

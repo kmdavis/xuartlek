@@ -29,7 +29,7 @@ You appear larger and stronger to nearby creatures, appearing to possess threate
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is frightened 1. This condition doesn’t decrease at the end of its turn if it damaged you during that turn.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1. This condition doesn’t decrease at the end of its turn if it damaged you during that turn.
 
 **Failure** As success, but frightened 2.
 

@@ -22,7 +22,7 @@ source: "Impossible Magic"
 Channeling forth the power to persevere in the face of adversity. Choose one saving throw: Fortitude, Reflex, or Will. The target gains a +4 status bonus to that saving throw for 1 round. The potency and number of targets of this blessing depend on how many actions you spend when Casting the Spell.
 
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") The spell targets you or one willing ally within range. 
-[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) The spell targets you or one willing ally within range. If you choose Fortitude, the target gains resistance 15 to poison. If you choose Reflex, the target gains a +15-foot status bonus to its Speeds. If you choose Will, the target gains resistance 15 to mental damage. 
-[>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (concentrate) The spell targets you and all willing allies within 30 feet.
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The spell targets you or one willing ally within range. If you choose Fortitude, the target gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Resistance|resistance]] 15 to poison. If you choose Reflex, the target gains a +15-foot status bonus to its Speeds. If you choose Will, the target gains resistance 15 to [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] damage. 
+[>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) The spell targets you and all willing allies within 30 feet.
 
 *Source: Impossible Magic p. 124*

@@ -20,12 +20,12 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn
 - **Bulk**: L
 
-As you move your body, qi flows into _mala beads of foresight_ you wear and have invested, making them one with your life force. In their usual form, beads are spheres of wood, but versions customized to different martial orders are common. You gain a +2 item bonus to Religion checks.
+As you move your body, qi flows into _mala beads of foresight_ you wear and have invested, making them one with your life force. In their usual form, beads are spheres of wood, but versions customized to different martial orders are common. You gain a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] checks.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can use only to cast a divine monk qi spell. If not used by the end of your turn, this Focus Point is lost.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You gain 1 Focus Point, which you can use only to cast a [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] monk qi spell. If not used by the end of your turn, this Focus Point is lost.
 
-**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per hour; **Trigger** You have just Refocused by meditating; **Effect** While meditating, you searched your feelings for a portent of the future. You're affected by an _augury_ spell.
+**Activate** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Trigger** You have just Refocused by meditating; **Effect** While meditating, you searched your feelings for a portent of the future. You're affected by an _augury_ spell.
 
-**Craft Requirements** You are a monk with divine qi spells.
+**Craft Requirements** You are a [[srd/pf2e/compendium/character/classes/monk|monk]] with divine qi spells.
 
 *Source: Treasure Vault (Remastered) p. 150*

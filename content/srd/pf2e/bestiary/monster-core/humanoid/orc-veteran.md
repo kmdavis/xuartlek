@@ -29,10 +29,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; darkvision"
-languages: "Common, Orcish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Orcish|Orcish]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +7, Intimidation +4, Survival +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +4, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"
 abilityMods: [4, 2, 3, -1, 1, 0]
 abilities_top:
   - name: "Items"
@@ -53,13 +53,13 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ orc necksplitter +7 (Forceful, Sweep) __Damage__ 1d8+4 slashing"
+    desc: "⬻ orc necksplitter +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d8+4 slashing"
   - name: "Melee"
-    desc: "⬻ shortsword +7 (Agile, versatile P) __Damage__ 1d6+4 slashing"
+    desc: "⬻ shortsword +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d6+4 slashing"
   - name: "Melee"
-    desc: "⬻ fist +7 (Agile, Nonlethal) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ javelin +5 (thrown 30 feet) __Damage__ 1d6+4 piercing"
+    desc: "⬻ javelin +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 1d6+4 piercing"
 sourcebook: "_Monster Core_, page 258."
 ```
 

@@ -25,7 +25,7 @@ source: "Impossible Magic"
 
 You conjure a blade of spiritual energy and cut at the soul of a foe. Make a melee spell attack against your target’s AC. On a success, you deal spirit damage. On a critical success, the target takes double damage. The number of actions you spend when Casting this Spell determines the range, damage, and other parameters.
 [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") An adjacent target takes 3d6 spirit damage.
-[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") An adjacent target takes 6d6 spirit damage, and on a hit, it becomes enfeebled 1 for 1 round.
+[>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") An adjacent target takes 6d6 spirit damage, and on a hit, it becomes [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 for 1 round.
 [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") The blade flies out from you and attacks a target within 30 feet, dealing 6d6 spirit damage. The spell deals half damage on a failure (but not a critical failure), as the blade’s divine influence guides your attack. Unless you critically fail, the target becomes enfeebled 1 for 1 round.
 
 ---

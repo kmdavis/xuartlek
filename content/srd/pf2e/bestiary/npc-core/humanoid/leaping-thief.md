@@ -29,14 +29,14 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; low-light vision"
-languages: "Amurrun, Common"
+languages: "Amurrun, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +7, Deception +10, Society +9, Stealth +11, Thievery +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +10, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +9"
 abilityMods: [0, 4, 2, 1, 0, 3]
 abilities_top:
   - name: "Items"
-    desc: "Claw Blade, Leather Armor, Thieves' Toolkit"
+    desc: "Claw Blade, Leather Armor, [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit]]"
 ac: 20
 armorclass:
   - name: "AC"
@@ -48,22 +48,22 @@ health:
 speed: "25 feet, climb 10 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw blade +11 (Agile, deadly d8, Disarm, Finesse, versatile P) __Damage__ 1d4+6 slashing"
+    desc: "⬻ claw blade +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d4+6 slashing"
   - name: "Melee"
-    desc: "⬻ claw +11 (Agile, Finesse, Unarmed) __Damage__ 1d4+6 slashing"
+    desc: "⬻ claw +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+6 slashing"
 abilities_bot:
   - name: "Coiled Leap"
-    desc: "⬺ The leaping thief Leaps up to 10 feet vertically or 30 feet horizontally."
+    desc: "⬺ The leaping thief [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] up to 10 feet vertically or 30 feet horizontally."
   - name: "Sneak Attack"
-    desc: "The leaping thief deals an extra 1d6 precision damage to off-guard creatures."
+    desc: "The leaping thief deals an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
   - name: "Stealthy Pad"
     desc: "⬻"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The leaping thief Steps, then Hides or Sneaks, ignoring difficult terrain for this movement."
+    desc: "The leaping thief Steps, then [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hides]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneaks]], ignoring difficult terrain for this movement."
   - name: "Unexpected Angle"
-    desc: "When the leaping thief successfully Tumbles Through a foe's space or Leaps to a position higher than a foe, the foe is off-guard against the next attack the leaping thief makes before the end of their turn."
+    desc: "When the leaping thief successfully [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumbles Through]] a foe's space or [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] to a position higher than a foe, the foe is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the next attack the leaping thief makes before the end of their turn."
 sourcebook: "_NPC Core_, page 172."
 ```
 

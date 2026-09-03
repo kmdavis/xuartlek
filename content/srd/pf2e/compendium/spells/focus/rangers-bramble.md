@@ -23,7 +23,7 @@ source: "Player Core"
 - **Area**: all squares that contain plants in a 5-foot burst
 - **Duration**: 1 minute
 
-You cause plants in the area to entangle your foes, with the effects of _entangling flora_. A creature that critically fails the save takes 2d4 persistent bleed damage in addition to being immobilized. Escaping your bramble doesn't end the bleed damage.
+You cause plants in the area to entangle your foes, with the effects of [[srd/pf2e/compendium/spells/rank-2/entangling-flora|_entangling flora_]]. A creature that critically fails the save takes 2d4 persistent bleed damage in addition to being [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]]. Escaping your bramble doesn't end the bleed damage.
 
 ---
 **Heightened (+1)** The bleed damage on a critical failure increases by 1d4.

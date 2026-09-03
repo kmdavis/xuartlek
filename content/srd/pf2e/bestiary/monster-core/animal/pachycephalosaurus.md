@@ -31,7 +31,7 @@ perception:
     desc: "Perception +10; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +11, Intimidation +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7"
 abilityMods: [4, 3, 4, -4, 3, 0]
 ac: 17
 armorclass:
@@ -44,24 +44,24 @@ health:
 speed: "35 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ skull +11 (Forceful, reach 10 feet) __Damage__ 1d10+6 bludgeoning"
+    desc: "⬻ skull +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d10+6 bludgeoning"
 abilities_bot:
   - name: "Clobbering Charge"
-    desc: "⬺ The pachycephalosaurus Strides up to its Speed. If it ends its movement within melee reach of a target, it can make a skull Strike against that target. If the pachycephalosaurus critically hits with this Strike, the creature hit is stunned 1."
+    desc: "⬺ The pachycephalosaurus Strides up to its Speed. If it ends its movement within melee reach of a target, it can make a skull Strike against that target. If the pachycephalosaurus critically hits with this Strike, the creature hit is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]]."
   - name: "Sudden Shove"
-    desc: "⬲ (Attack)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]])"
   - name: "Trigger"
     desc: "The pachycephalosaurus damages a Medium or smaller foe with its skull Strike"
   - name: "Effect"
-    desc: "The pachycephalosaurus digs in and flings its head up, shoving its foe away. It attempts an Athletics check against the target's Fortitude DC."
+    desc: "The pachycephalosaurus digs in and flings its head up, shoving its foe away. It attempts an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the target's Fortitude DC."
   - name: "Critical Success"
-    desc: "The pachycephalosaurus pushes the opponent up to 10 feet away from itself and knocks the target prone."
+    desc: "The pachycephalosaurus pushes the opponent up to 10 feet away from itself and knocks the target [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
   - name: "Success"
     desc: "The pachycephalosaurus pushes the opponent back 5 feet."
   - name: "Failure"
     desc: "The pachycephalosaurus fails to push the opponent."
   - name: "Critical Failure"
-    desc: "As failure, but the failed attempt leaves the pachycephalosaurus off-guard for 1 round."
+    desc: "As failure, but the failed attempt leaves the pachycephalosaurus [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round."
 sourcebook: "_Monster Core_, page 97."
 ```
 

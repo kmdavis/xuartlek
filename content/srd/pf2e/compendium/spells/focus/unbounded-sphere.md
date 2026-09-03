@@ -19,9 +19,9 @@ source: "Impossible Magic"
 `Concentrate`  `Focus`  `Manipulate`  `Uncommon`  `Wizard`
 
 - **Range**: 30 feet
-- **Area**: 10-foot burst
+- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
 - **Defense**: Will
-- **Duration**: sustained up to 1 minute
+- **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
 You magically desynchronize the current plane of existence, trapping creatures in an area that loops back on itself in the manner of an unbounded plane. Whenever a creature attempts to enter or leave the area, they must attempt a Will saving throw.
 

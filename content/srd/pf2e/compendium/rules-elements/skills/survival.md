@@ -25,7 +25,7 @@ Category
 Consumable
 Note
 
-Staff of Providence
+[[srd/pf2e/compendium/equipment/staves/staff-of-providence-true|Staff of Providence]]
 +1
 0
 Staves
@@ -60,12 +60,12 @@ Other Worn Items
 No
 Item bonus to Survival checks to Subsist. +3 if in mountainous terrain
 
-Tracker's Goggles
+[[srd/pf2e/compendium/equipment/worn-items/trackers-goggles-greater|Tracker's Goggles]]
 +1
 3
 Worn Items
 No
-Survival checks to Sense Direction and Track
+Survival checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]]
 
 Mariner's Astrolabe
 +1
@@ -81,7 +81,7 @@ Held Items
 No
 Temporary item bonus to Survival
 
-Hoax-Hunter's Kit
+[[srd/pf2e/compendium/equipment/adventuring-gear/hoax-hunters-kit|Hoax-Hunter's Kit]]
 +1
 3
 Adventuring Gear
@@ -95,7 +95,7 @@ Other Worn Items
 No
 Item bonus to a check of the crafter's choice
 
-Atlas Arcane
+[[srd/pf2e/compendium/equipment/held-items/atlas-arcane|Atlas Arcane]]
 +1
 7
 Held Items
@@ -116,12 +116,12 @@ Other Worn Items
 No
 item bonus to Survival checks
 
-Tracker's Goggles (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/trackers-goggles-greater|Tracker's Goggles (Greater)]]
 +2
 9
 Worn Items
 No
-Survival checks to Sense Direction and Track
+Survival checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Direction|Sense Direction]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]]
 
 Needle of Undeath
 +2
@@ -130,7 +130,7 @@ Held Items
 No
 item bonus to sense direction when using the stars to orient themself
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -151,7 +151,7 @@ Worn Items
 No
 Item bonus to Survival checks.
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items

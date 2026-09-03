@@ -31,10 +31,10 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; darkvision"
-languages: "Common, Diabolic; telepathy 30 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]]; telepathy 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +15, Athletics +19, Intimidation +15, Performance +15, Religion +15, Stealth +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +19, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +15, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +15, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15"
 abilityMods: [6, 4, 4, 2, 2, 4]
 abilities_top:
   - name: "Items"
@@ -46,22 +46,22 @@ armorclass:
 hp: 130
 health:
   - name: "HP"
-    desc: "130; __Immunities__ curses; __Weaknesses__ holy 5 (see glorious visage)"
+    desc: "130; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curses]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] 5 (see glorious visage)"
 abilities_mid:
   - name: "Dual Mind"
     desc: "⬲"
   - name: "Trigger"
-    desc: "The hārakasura fails a saving throw against a mental effect"
+    desc: "The hārakasura fails a saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect"
   - name: "Effect"
-    desc: "The hārakasura shunts the effect into one of their minds, rendering them temporarily insensible. They change their result to a success, but one of their bodies hangs limply until the end of their next turn. During this time, the hārakasura is clumsy 2; takes a –10-foot circumstance penalty to their Speed; and can't use Dual Mind, Dance of Destruction, or Reactive Strike."
+    desc: "The hārakasura shunts the effect into one of their minds, rendering them temporarily insensible. They change their result to a success, but one of their bodies hangs limply until the end of their next turn. During this time, the hārakasura is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 2]]; takes a –10-foot circumstance penalty to their Speed; and can't use Dual Mind, Dance of Destruction, or Reactive Strike."
   - name: "Reactive Strike"
     desc: "⬲ The hārakasura gains an additional reaction at the beginning of each of their turns that they can use only for a Reactive Strike."
 speed: "40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ kukri +18 (Agile, Trip, Unholy) __Damage__ 1d6+9 slashing plus 2d6 persistent bleed and 1d4 spirit"
+    desc: "⬻ kukri +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) __Damage__ 1d6+9 slashing plus 2d6 persistent bleed and 1d4 spirit"
   - name: "Melee"
-    desc: "⬻ claw +18 (Agile, Unholy) __Damage__ 1d6+9 slashing and 1d4 spirit"
+    desc: "⬻ claw +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|Unholy]]) __Damage__ 1d6+9 slashing and 1d4 spirit"
 abilities_bot:
   - name: "Dance of Destruction"
     desc: "⬻"
@@ -70,9 +70,9 @@ abilities_bot:
   - name: "Effect"
     desc: "The hārakasura Strides up to 10 feet and Strikes."
   - name: "Glorious Visage"
-    desc: "⬻ The asura sanctifies themselves as either holy or unholy, gaining the trait corresponding to their choice and losing the opposing trait; their strikes, spells, and abilities also gain the trait corresponding to their choice. The asura also gains weakness 5 to the opposing sanctification and loses any weakness to its chosen sanctification. The choice is permanent until the asura uses this ability to change their sanctification."
+    desc: "⬻ The asura sanctifies themselves as either [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]], gaining the trait corresponding to their choice and losing the opposing trait; their strikes, spells, and abilities also gain the trait corresponding to their choice. The asura also gains weakness 5 to the opposing sanctification and loses any weakness to its chosen sanctification. The choice is permanent until the asura uses this ability to change their sanctification."
   - name: "Wound Thief"
-    desc: "⬻ (Divine) The hārakasura touches an adjacent creature that is taking persistent bleed damage. If the hārakasura has the holy trait, it ends the persistent bleed effect immediately and restores 2d6 Hit Points to the target; this is a healing and vitality effect. If the hārakasura has the unholy trait, it causes the target to immediately take damage equal to its persistent bleed value, and the hārakasura gains temporary Hit Points equal to the damage taken until the start of its next turn."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]]) The hārakasura touches an adjacent creature that is taking persistent bleed damage. If the hārakasura has the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait, it ends the persistent bleed effect immediately and restores 2d6 Hit Points to the target; this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] effect. If the hārakasura has the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait, it causes the target to immediately take damage equal to its persistent bleed value, and the hārakasura gains [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Temporary Hit Points|temporary Hit Points]] equal to the damage taken until the start of its next turn."
 sourcebook: "_Monster Core 2_, page 43."
 ```
 

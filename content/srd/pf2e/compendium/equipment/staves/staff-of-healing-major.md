@@ -31,7 +31,7 @@ This white wood staff is capped at each end with a golden cross adorned with rub
 ---
 
 The item bonus granted to heal spells is +1.
-**Cantrip** _stabilize_**1st** _heal_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/stabilize|_stabilize_]]**1st** [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]]
 
 ### Staff of Healing (Greater)
 
@@ -40,7 +40,7 @@ The item bonus granted to heal spells is +1.
 ---
 
 The item bonus granted to heal spells is +2.
-**2nd** _clear mind_, heal, _sound body_**3rd** _cleanse affliction_, heal
+**2nd** [[srd/pf2e/compendium/spells/rank-2/clear-mind|_clear mind_]], heal, [[srd/pf2e/compendium/spells/rank-2/sound-body|_sound body_]]**3rd** [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|_cleanse affliction_]], heal
 
 ### Staff of Healing (Major)
 
@@ -49,7 +49,7 @@ The item bonus granted to heal spells is +2.
 ---
 
 The item bonus granted to heal spells is +3.
-**4th** cleanse affliction, clear mind, sound body**5th** _breath of life_, heal
+**4th** cleanse affliction, clear mind, sound body**5th** [[srd/pf2e/compendium/spells/rank-5/breath-of-life|_breath of life_]], heal
 
 ### Staff of Healing (True)
 
@@ -58,6 +58,6 @@ The item bonus granted to heal spells is +3.
 ---
 
 The item bonus granted to heal spells is +4.
-**6th** clear mind, _field of life_, heal**7th** heal, _regenerate_
+**6th** clear mind, [[srd/pf2e/compendium/spells/rank-6/field-of-life|_field of life_]], heal**7th** heal, [[srd/pf2e/compendium/spells/rank-7/regenerate|_regenerate_]]
 
 *Source: GM Core p. 280*

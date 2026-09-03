@@ -20,6 +20,6 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: affixed to instrument
 - **Bulk**: L
 
-This device attaches to any non-percussive musical instrument, allowing a non-verbal character to shape the sounds of the instrument into speech. The speech can be any language the character understands, and the sound of the speech resembles the instrument the device is attached to. You also gain a +1 item bonus to Performance checks made with the instrument.
+This device attaches to any non-percussive musical instrument, allowing a non-verbal character to shape the sounds of the instrument into speech. The speech can be any language the character understands, and the sound of the speech resembles the instrument the device is attached to. You also gain a +1 item bonus to [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks made with the instrument.
 
 *Source: Treasure Vault (Remastered) p. 109*

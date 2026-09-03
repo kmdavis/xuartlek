@@ -24,7 +24,7 @@ source: "Player Core"
 - **Target**: 1 creature that is undead or otherwise has void healing
 - **Defense**: basic Fortitude
 
-You demolish the target's corrupted essence with energy from Creation's Forge. You deal 2d6 vitality damage with a basic Fortitude save. If the creature critically fails the save, it is also enfeebled 1 until the start of your next turn.
+You demolish the target's corrupted essence with energy from Creation's Forge. You deal 2d6 vitality damage with a basic Fortitude save. If the creature critically fails the save, it is also [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 until the start of your next turn.
 
 ---
 **Heightened (+1)** The damage increases by 1d6.

@@ -19,7 +19,7 @@ source: "GM Core"
 
 This silver band is carved with the personal sigils of different individuals, adding one to represent you when you invest it. The ring allows you to cast _sigil_ as an arcane innate cantrip. 
 
-**Activate—Track Sigil** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per 10 minutes; **Effect** You detect the general direction toward the most recent _sigil_ you created using the ring. This activation fails if the _sigil_ is more than 5 miles away or if there's lead or running water between you and the _sigil_. 
+**Activate—Track Sigil** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per 10 minutes; **Effect** You detect the general direction toward the most recent _sigil_ you created using the ring. This activation fails if the _sigil_ is more than 5 miles away or if there's lead or running water between you and the _sigil_. 
 
 ### Ring of Sigils
 

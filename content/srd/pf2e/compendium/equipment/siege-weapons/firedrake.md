@@ -48,7 +48,7 @@ source: "Guns & Gears (Remastered)"
 
 This alchemical black powder hybrid siege weapon uses a blast of black powder to spray alchemical fire from a long metal nozzle, often sculpted or painted with designs resembling a dragon's neck and head. The nozzle turns on a ratcheted, rotating disc with a reservoir in the center to hold a barrel full of combustible alchemical liquid, using black powder to propel the fire. This main structure is atop a wheeled cart to allow it to be easily moved. Unlike most mounted siege weapons, a firedrake is intended to be wheeled out into the thick of a skirmish rather than shooting from a distance.
  **Aim** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") rotate 45º
- **Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 3 times, requires a successful DC 20 Athletics check
- **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) 8d6 fire plus 1d6 persistent fire, 60-foot line or 30-foot cone, DC 23 Reflex. Switching between the firedrake's line or cone mode takes an Interact action, and any of the crew can perform the action.
+ **Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 3 times, requires a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check
+ **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 8d6 fire plus 1d6 persistent fire, 60-foot line or 30-foot cone, DC 23 Reflex. Switching between the firedrake's line or cone mode takes an Interact action, and any of the crew can perform the action.
 
 *Source: Guns & Gears (Remastered) p. 175*

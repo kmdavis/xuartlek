@@ -22,9 +22,9 @@ source: "GM Core"
 +7 (trained)
 
 **Disable**
-DC 15 Acrobatics to approach without triggering the trap followed by DC 17 Thievery (trained) to erase the rune, or _dispel magic_ (1st rank; counteract DC 15) to counteract the rune
+DC 15 [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] to approach without triggering the trap followed by DC 17 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) to erase the rune, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (1st rank; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] DC 15) to counteract the rune
 
-**Summon Monster** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (arcane) **Trigger** A creature enters the cloud of magical sensors; **Effect** This trap summons a specific 1st-level creature, determined when the trap is created. The creature rolls initiative and remains for 2d6 rounds, after which the spell ends and the creature disappears. The creature also disappears if someone disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures.
+**Summon Monster** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]]) **Trigger** A creature enters the cloud of magical sensors; **Effect** This trap summons a specific 1st-level creature, determined when the trap is created. The creature rolls initiative and remains for 2d6 rounds, after which the spell ends and the creature disappears. The creature also disappears if someone disables the trap before the duration expires. The summoned creature can use 3 actions each round and can use reactions, unlike most summoned creatures.
 
 ---
 **Reset**

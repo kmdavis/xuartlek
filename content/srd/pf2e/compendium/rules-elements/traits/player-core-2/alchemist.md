@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Alchemist`
 
-This indicates abilities from the alchemist class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/alchemist|alchemist]] class.
 
 *Source: Player Core 2 p. 315*

@@ -28,15 +28,15 @@ trait_02: "Humanoid"
 modifier: 13
 perception:
   - name: "Perception"
-    desc: "Perception +13; (15 to Sense Motive)"
-languages: "Common"
+    desc: "Perception +13; (15 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]])"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +13, Deception +11, Diplomacy +11, Intimidation +13, Society +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +11, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +13"
 abilityMods: [4, 2, 2, 0, 2, 2]
 abilities_top:
   - name: "Items"
-    desc: "badge, Dueling Pistol (2, 20 rounds), Sap, Scale Mail"
+    desc: "badge, [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|Dueling Pistol]] (2, 20 rounds), Sap, Scale Mail"
 ac: 22
 armorclass:
   - name: "AC"
@@ -51,14 +51,14 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ sap +15 (Agile, Nonlethal) __Damage__ 1d6+7 bludgeoning"
+    desc: "⬻ sap +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d6+7 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +15 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+7 bludgeoning"
+    desc: "⬻ fist +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+7 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dueling pistol +13 (Concealable, Concussive, fatal d10, range increment 60 feet, reload 1) __Damage__ 1d6+5 piercing"
+    desc: "⬻ dueling pistol +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/concealable|Concealable]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]], range increment 60 feet, reload 1) __Damage__ 1d6+5 piercing"
 abilities_bot:
   - name: "Lay Down the Law"
-    desc: "⬻ (Auditory, Concentrate, Linguistic, Mental)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]])"
   - name: "Requirements"
     desc: "The sheriff's last action this turn was a successful Strike against a creature within 30 feet"
   - name: "Effect"

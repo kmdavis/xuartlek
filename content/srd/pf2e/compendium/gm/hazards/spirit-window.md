@@ -20,7 +20,7 @@ source: "Dark Archives (Remastered)"
 DC 51
 
 **Disable**
-DC 48 Occultism (legendary) to free the spirits from the mirror, or DC 48 Religion (legendary) to banish the spirits
+DC 48 [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (legendary) to free the spirits from the mirror, or DC 48 [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (legendary) to banish the spirits
 
 **AC** 45, **Fort** +36, **Ref** +30
 
@@ -33,7 +33,7 @@ DC 48 Occultism (legendary) to free the spirits from the mirror, or DC 48 Religi
 **Immunities**
 object immunities
 
-**Siphon Soul** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (occult, void) **Trigger** A creature touches the window; **Effect** The triggering creature takes 8d10+44 void damage with a DC 42 basic Will save as the window attempts to steal their soul. If this damage would kill the target, the target's soul is trapped inside the window with the effects of _seize soul_.
+**Siphon Soul** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) **Trigger** A creature touches the window; **Effect** The triggering creature takes 8d10+44 void damage with a DC 42 basic Will save as the window attempts to steal their soul. If this damage would kill the target, the target's soul is trapped inside the window with the effects of [[srd/pf2e/compendium/spells/rank-9/seize-soul|_seize soul_]].
 
 ---
 **Reset**

@@ -29,14 +29,14 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; (14 when rolling initiative)"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +14, Diplomacy +8, Intimidation +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +8"
 abilityMods: [4, 2, 3, 0, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "chain mail with palace insignia, Halberd, simple manacles"
+    desc: "[[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]] with palace insignia, Halberd, simple manacles"
 ac: 21
 armorclass:
   - name: "AC"
@@ -53,16 +53,16 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ halberd +14 (reach 10 feet, versatile S) __Damage__ 1d10+7 piercing"
+    desc: "⬻ halberd +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d10+7 piercing"
   - name: "Melee"
-    desc: "⬻ fist +14 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+7 bludgeoning"
+    desc: "⬻ fist +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+7 bludgeoning"
 abilities_bot:
   - name: "Crowd Control"
     desc: "⬻"
   - name: "Requirements"
     desc: "The palace guard's last action was a successful halberd Strike"
   - name: "Effect"
-    desc: "The palace guard attempts to Reposition the creature they hit using their halberd's reach. This attempt neither applies nor counts toward the guard's multiple attack penalty"
+    desc: "The palace guard attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]] the creature they hit using their halberd's reach. This attempt neither applies nor counts toward the guard's multiple attack penalty"
 sourcebook: "_NPC Core_, page 14."
 ```
 

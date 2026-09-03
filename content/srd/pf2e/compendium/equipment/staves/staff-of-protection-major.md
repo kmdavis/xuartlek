@@ -30,7 +30,7 @@ This wooden staff is remarkably sturdy and unyielding. While wielding the staff,
 
 ---
 
-**Cantrip** _shield_**1st** _alarm_, _mystic armor_**2nd** _dispel magic_, _environmental endurance_, _resist energy_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/shield|_shield_]]**1st** [[srd/pf2e/compendium/spells/rank-1/alarm|_alarm_]], [[srd/pf2e/compendium/spells/rank-1/mystic-armor|_mystic armor_]]**2nd** [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]], [[srd/pf2e/compendium/spells/rank-2/environmental-endurance|_environmental endurance_]], [[srd/pf2e/compendium/spells/rank-2/resist-energy|_resist energy_]]
 
 ### Staff of Protection (Greater)
 
@@ -38,7 +38,7 @@ This wooden staff is remarkably sturdy and unyielding. While wielding the staff,
 
 ---
 
-**3rd** alarm, _safe passage_**4th** dispel magic, mystic armor, resist energy
+**3rd** alarm, [[srd/pf2e/compendium/spells/rank-3/safe-passage|_safe passage_]]**4th** dispel magic, mystic armor, resist energy
 
 ### Staff of Protection (Major)
 
@@ -46,6 +46,6 @@ This wooden staff is remarkably sturdy and unyielding. While wielding the staff,
 
 ---
 
-**5th** environmental endurance, safe passage**6th** dispel magic, mystic armor, _repulsion_
+**5th** environmental endurance, safe passage**6th** dispel magic, mystic armor, [[srd/pf2e/compendium/spells/rank-6/repulsion|_repulsion_]]
 
 *Source: GM Core p. 280*

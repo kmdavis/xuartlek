@@ -27,14 +27,14 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; low-light vision"
-languages: "Common, Fey"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +13, Athletics +15, Deception +11, Intimidation +13, Nature +10, Stealth +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +11, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13"
 abilityMods: [4, 4, 2, 1, 1, 2]
 abilities_top:
   - name: "Red Cap"
-    desc: "(primal) A redcap's woolen hat is dyed with the blood of their victims. If the redcap loses their cap, they no longer benefit from fast healing and take a –4 status penalty to their damage rolls. They can create a new cap in 10 minutes, but that cap doesn't grant them powers until the redcap has turned it red with Blood Soak. A cap has no benefit for creatures other than the redcap who made it."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) A redcap's woolen hat is dyed with the blood of their victims. If the redcap loses their cap, they no longer benefit from fast healing and take a –4 status penalty to their damage rolls. They can create a new cap in 10 minutes, but that cap doesn't grant them powers until the redcap has turned it red with Blood Soak. A cap has no benefit for creatures other than the redcap who made it."
   - name: "Items"
     desc: "Halberd, iron boots, red cap"
 ac: 21
@@ -47,22 +47,22 @@ health:
     desc: "60 (fast healing 10); __Weaknesses__ cold iron 5, divine revulsion"
 abilities_mid:
   - name: "Divine Revulsion"
-    desc: "(emotion, fear, mental) If a redcap sees a creature brandish a religious symbol of a deity (which requires an Interact action by that creature) or cast a divine spell while wearing a religious symbol, the redcap must attempt a DC 19 Will save. They then become temporarily immune to all brandished religious symbols for 10 minutes."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) If a redcap sees a creature brandish a religious symbol of a deity (which requires an Interact action by that creature) or cast a divine spell while wearing a religious symbol, the redcap must attempt a DC 19 Will save. They then become temporarily immune to all brandished religious symbols for 10 minutes."
   - name: "Critical Success"
     desc: "The redcap is unaffected."
   - name: "Success"
-    desc: "The redcap is frightened 2."
+    desc: "The redcap is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 2]]."
   - name: "Failure"
-    desc: "The redcap gains the fleeing condition for 1 round and is frightened 4."
+    desc: "The redcap gains the [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] condition for 1 round and is frightened 4."
 speed: "50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ halberd +15 (reach 10 feet, versatile S) __Damage__ 1d10+10 slashing"
+    desc: "⬻ halberd +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d10+10 slashing"
   - name: "Melee"
-    desc: "⬻ iron boot +13 (Agile, versatile B) __Damage__ 1d6+8 piercing"
+    desc: "⬻ iron boot +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile B]]) __Damage__ 1d6+8 piercing"
 abilities_bot:
   - name: "Blood Soak"
-    desc: "⬻ (Manipulate) The redcap dips their cap in the blood of a slain foe. The foe must have died in the last minute, and the redcap must have helped kill it. The redcap gains a +4 status bonus to damage rolls for 1 minute."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The redcap dips their cap in the blood of a slain foe. The foe must have died in the last minute, and the redcap must have helped kill it. The redcap gains a +4 status bonus to damage rolls for 1 minute."
   - name: "Deadly Cleave"
     desc: "⬲"
   - name: "Trigger"
@@ -70,7 +70,7 @@ abilities_bot:
   - name: "Effect"
     desc: "The redcap makes another halberd Strike against a different creature, using the same multiple attack penalty as the halberd Strike that triggered this reaction. This counts toward their multiple attack penalty as normal."
   - name: "Stomp"
-    desc: "⬻ The redcap Strides up to half their Speed and makes a boot Strike at any point during that movement. If the boot Strike hits a prone creature, it deals an extra 2d6 persistent bleed damage. Stomping Ground Unlike some fey, redcaps don't embody a particular natural feature or environment, so they can be found almost anywhere. They tend to prefer areas that allow them to hide or at least get behind cover with their quick movement, such as forests, mountains, and underground tunnels and caverns. Sometimes they take up residence in abandoned buildings, especially barns and sheds."
+    desc: "⬻ The redcap Strides up to half their Speed and makes a boot Strike at any point during that movement. If the boot Strike hits a [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] creature, it deals an extra 2d6 persistent bleed damage. Stomping Ground Unlike some fey, redcaps don't embody a particular natural feature or environment, so they can be found almost anywhere. They tend to prefer areas that allow them to hide or at least get behind cover with their quick movement, such as forests, mountains, and underground tunnels and caverns. Sometimes they take up residence in abandoned buildings, especially barns and sheds."
 sourcebook: "_Monster Core_, page 290."
 ```
 

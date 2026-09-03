@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: affixed to armor or a weapon
 
 The surface of this golden, heart-shaped locket is nearly worn through with cracks. If opened, it reveals a portrait of someone the bearer loved dearly and has lost. The spell DC of any spell cast by activating this item is 24. 
-**Armor** The _desolation locket_ numbs you to further despair, and you gain a +2 item bonus to saving throws against emotion effects.**Weapon** (emotion, mental) After you cast a non-cantrip spell by activating the locket, you emanate an aura of hopelessness in a 5-foot emanation until the start of your next turn. A creature that ends its turn in the aura must succeed at a Will saving throw against the locket’s spell DC or become slowed 1 (slowed 2 on a critical failure) until the end of its next turn.
+**Armor** The _desolation locket_ numbs you to further despair, and you gain a +2 item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects.**Weapon** (emotion, [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) After you cast a non-cantrip spell by activating the locket, you emanate an aura of hopelessness in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] until the start of your next turn. A creature that ends its turn in the aura must succeed at a Will saving throw against the locket’s spell DC or become [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 (slowed 2 on a critical failure) until the end of its next turn.
 
 **Activate** Cast a Spell; **Effect** You cast _haunting hymn_.
 
@@ -28,7 +28,7 @@ The surface of this golden, heart-shaped locket is nearly worn through with crac
 
 ---
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _fear_.
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-1/fear|_fear_]].
 
 ### Desolation Locket (Greater)
 
@@ -40,7 +40,7 @@ The item bonus when affixed to armor is +3, and the spell DC is 30.
 
 **Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast 4th-rank _fear_.
 
-**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast _wave of despair_. 
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You cast [[srd/pf2e/compendium/spells/rank-5/wave-of-despair|_wave of despair_]]. 
 
 ### Desolation Locket (Major)
 

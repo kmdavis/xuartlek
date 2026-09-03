@@ -29,14 +29,14 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; low-light vision"
-languages: "Common, Draconic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +8, Intimidation +5, Nature +6, Religion +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +5, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +6, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +5"
 abilityMods: [4, 1, 3, -1, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "Khopesh, Leather Armor, Longbow (with 20 arrows)"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/sword/khopesh-weapon-476|Khopesh]], [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]], [[srd/pf2e/compendium/equipment/weapons/bow/longbow|Longbow]] (with 20 arrows)"
 ac: 18
 armorclass:
   - name: "AC"
@@ -44,16 +44,16 @@ armorclass:
 hp: 28
 health:
   - name: "HP"
-    desc: "28; __Resistances__ poison 2"
+    desc: "28; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 2"
 abilities_mid:
   - name: "Reactive Strike"
     desc: "⬲"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ khopesh +10 (Trip) __Damage__ 1d8+4 slashing"
+    desc: "⬻ khopesh +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d8+4 slashing"
   - name: "Ranged"
-    desc: "⬻ longbow +7 (deadly d10, range increment 100 feet, volley 30 feet) __Damage__ 1d8 piercing"
+    desc: "⬻ longbow +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], range increment 100 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/volley|volley 30 feet]]) __Damage__ 1d8 piercing"
 abilities_bot:
   - name: "Slough Toxins"
     desc: "⬻"

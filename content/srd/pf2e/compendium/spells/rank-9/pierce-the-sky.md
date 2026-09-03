@@ -26,7 +26,7 @@ source: "Impossible Magic"
 
 You summon a bow and launch up to three arrow-shaped thunderbolts that scream through the air and can be heard from a mile away. Make a ranged spell attack roll against each target. Each attack counts toward your multiple attack penalty, but you don't increase your penalty until you've made all your attacks. Each arrow deals 6d12 electricity damage and 6d6 sonic damage. Regardless of the result, each arrow leaves a line of hazardous terrain between you and the target that lasts for 1 minute. A creature that enters or starts its turn in the hazardous terrain takes 12 electricity damage; a creature can only be damaged by this hazardous terrain once per round.
 
-**Critical Success** The target takes double damage and is deafened for 1 minute.
+**Critical Success** The target takes double damage and is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 minute.
 
 **Success** The target takes full damage and is deafened for 1 round.
 

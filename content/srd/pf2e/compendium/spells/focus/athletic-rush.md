@@ -17,9 +17,9 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Might
+- **Domain**: [[srd/pf2e/compendium/character/domains#Might|Might]]
 - **Duration**: 1 round
 
-Your body fills with physical power and skill. You gain a +10- foot status bonus to Speed and a +2 status bonus to Athletics checks. As a part of Casting this Spell, you can use a Stride, Leap, Climb, or Swim action. The spell's bonuses apply during that action.
+Your body fills with physical power and skill. You gain a +10- foot status bonus to Speed and a +2 status bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks. As a part of Casting this Spell, you can use a Stride, Leap, Climb, or Swim action. The spell's bonuses apply during that action.
 
 *Source: Player Core p. 377*

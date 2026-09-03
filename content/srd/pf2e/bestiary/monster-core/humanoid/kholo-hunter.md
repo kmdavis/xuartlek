@@ -31,10 +31,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; darkvision"
-languages: "Common, Kholo"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Kholo|Kholo]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +8, Intimidation +4, Stealth +7, Survival +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5"
 abilityMods: [4, 3, 2, -1, 1, 0]
 abilities_top:
   - name: "Items"
@@ -50,11 +50,11 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ battle axe +10 (Sweep) __Damage__ 1d8+4 slashing"
+    desc: "⬻ battle axe +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d8+4 slashing"
   - name: "Melee"
-    desc: "⬻ jaws +10 (Agile) __Damage__ 1d8+2 piercing"
+    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d8+2 piercing"
   - name: "Ranged"
-    desc: "⬻ shortbow +10 (deadly d10, range increment 60 feet) __Damage__ 1d6 piercing"
+    desc: "⬻ shortbow +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], range increment 60 feet) __Damage__ 1d6 piercing"
 abilities_bot:
   - name: "Pack Attack"
     desc: "A kholo hunter deals 1d4 extra damage to any creature that's within reach of at least two of the kholo hunter's allies."

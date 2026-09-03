@@ -20,10 +20,10 @@ source: "Player Core"
 - **Deities**: Ananshea, Angazhan, Cernunnos, Drokalion, Geryon, Kagia, Kazutal, Lamashtu, Ravithra, Rowdrosh, Stag Mother of the Forest of Stones, Wadjet, Yrmidar
 - **Duration**: 1 minute
 
-You call upon primal energy to transform yourself into a Medium animal battle form. When you Cast this Spell, choose a listed battle form. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
+You call upon primal energy to transform yourself into a Medium animal battle form. When you Cast this Spell, choose a listed battle form. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]] trait. You can Dismiss the spell.
 
  You gain the following statistics and abilities regardless of which animal you choose: 
-AC = 16 + your level. Ignore your armor's check penalty and Speed reduction.5 temporary Hit Points.Low-light vision and imprecise scent 30 feet.One or more unarmed melee attacks specific to your battle form, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack bonus is higher, you can use it instead.Athletics modifier of +9, unless your own is higher. You also gain specific abilities based on the animal you choose:
+AC = 16 + your level. Ignore your armor's check penalty and Speed reduction.5 temporary Hit Points.Low-light vision and imprecise scent 30 feet.One or more [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] melee attacks specific to your battle form, which are the only attacks you can Strike with. You're trained with them. Your attack modifier is +9, and your damage bonus is +1. These attacks are Strength based (for the purpose of the [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] condition, for example). If your unarmed attack bonus is higher, you can use it instead.[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] modifier of +9, unless your own is higher. You also gain specific abilities based on the animal you choose:
 
 ### Player Core
 
@@ -31,7 +31,7 @@ AC = 16 + your level. Ignore your armor's check penalty and Speed reduction.5 te
 - **Bear** Speed 30 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") jaws, **Damage** 2d8 piercing; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") claw (agile), **Damage** 1d8 slashing.
 - **Bull** Speed 30 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") horn, **Damage** 2d8 piercing.
 - **Canine** Speed 40 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") jaws, **Damage** 2d8 piercing.
-- **Cat** Speed 40 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") jaws, **Damage** 2d6 piercing; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") claw (agile), **Damage** 1d10 slashing.
+- **Cat** Speed 40 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") jaws, **Damage** 2d6 piercing; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]), **Damage** 1d10 slashing.
 - **Deer** Speed 50 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") antler, **Damage** 2d6 piercing.
 - **Frog** Speed 25 feet, swim 25 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")jaws, **Damage** 2d6 bludgeoning; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") tongue (reach 15 feet), **Damage** 2d4 bludgeoning.
 - **Shark** swim 35 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") jaws, **Damage** 2d8 piercing; breathe underwater but not in air.
@@ -39,10 +39,10 @@ AC = 16 + your level. Ignore your armor's check penalty and Speed reduction.5 te
 
 ### Howl of the Wild
 
-- **Crab** Speed 25 feet, swim Speed 15 ft; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") big claw, **Damage** 2d8 piercing; Melee [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") little claw (agile), **Damage** 2d4 piercing; can breathe in water and in air.
-- **Crocodile** Speed 25 feet, swim Speed 30 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") jaws, **Damage** 2d8 piercing; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") tail (agile), **Damage** 1d8 bludgeoning; can hold your breath for the duration of the transformation.
+- **Crab** Speed 25 feet, swim Speed 15 ft; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") big claw, **Damage** 2d8 piercing; Melee [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") little claw ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]), **Damage** 2d4 piercing; can breathe in water and in air.
+- **Crocodile** Speed 25 feet, swim Speed 30 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") jaws, **Damage** 2d8 piercing; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") tail ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile]]), **Damage** 1d8 bludgeoning; can hold your breath for the duration of the transformation.
 - **Orca** swim Speed 35 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") jaws, **Damage** 2d8 piercing; can hold your breath for the duration of the transformation.
-- **Seal** Speed 20 feet, swim Speed 30 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") jaws (grapple), **Damage** 2d6 piercing; can hold your breath for the duration of the transformation.
+- **Seal** Speed 20 feet, swim Speed 30 feet; **Melee** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") jaws ([[srd/pf2e/compendium/rules-elements/traits/player-core/grapple|grapple]]), **Damage** 2d6 piercing; can hold your breath for the duration of the transformation.
 
 ---
 **Heightened (3rd)** You instead gain 10 temporary HP, AC = 17 + your level, attack modifier +14, damage bonus +5, and Athletics +14.

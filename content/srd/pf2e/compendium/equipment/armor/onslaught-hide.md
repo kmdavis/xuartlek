@@ -18,8 +18,8 @@ source: "Player Core 2"
 - **Price**: 700 gp
 - **Usage**: worn armor
 - **Bulk**: 2
-- **Base Armor**: Hide Armor
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Hide Armor|Hide Armor]]
 
-This _+1 resilient hide armor_ is decorated with the horns of many slain beasts. It has an armor check penalty of –1 instead of –2. When you use the Sudden Charge class feat while wearing this armor, your Strike deals an additional 1d8 damage.
+This _+1 [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] [[srd/pf2e/compendium/equipment/armor#Hide Armor|hide armor]]_ is decorated with the horns of many slain beasts. It has an armor check penalty of –1 instead of –2. When you use the [[srd/pf2e/compendium/feats/player-core/class/sudden-charge|Sudden Charge]] class feat while wearing this armor, your [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] deals an additional 1d8 damage.
 
 *Source: Player Core 2 p. 278*

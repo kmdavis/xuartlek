@@ -35,11 +35,11 @@ perception:
     desc: "Perception +4; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11"
 abilityMods: [5, -3, 4, -5, 0, -2]
 abilities_top:
   - name: "Slow"
-    desc: "A zombie is permanently slowed 1 and can't use reactions."
+    desc: "A zombie is permanently [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] and can't use reactions."
 ac: 15
 armorclass:
   - name: "AC"
@@ -47,11 +47,11 @@ armorclass:
 hp: 70
 health:
   - name: "HP"
-    desc: "70 (void healing); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Weaknesses__ slashing 10, vitality 10"
+    desc: "70 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Weaknesses__ slashing 10, vitality 10"
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +11 (reach 10 feet) __Damage__ 1d12+5 bludgeoning plus Improved Push 5 feet"
+    desc: "⬻ fist +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d12+5 bludgeoning plus Improved Push 5 feet"
 sourcebook: "_Monster Core_, page 357."
 ```
 

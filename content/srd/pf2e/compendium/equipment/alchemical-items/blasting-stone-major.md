@@ -22,7 +22,7 @@ source: "Player Core 2"
 - **Bulk**: L
 - **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") Strike
 
-When this pebble hits a creature or a hard surface, it explodes with a deafening bang. A blasting stone deals the listed sonic damage and sonic splash damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a Fortitude saving throw with the listed DC or be deafened until the end of its next turn. Many types of blasting stones grant an item bonus to attack rolls.
+When this pebble hits a creature or a hard surface, it explodes with a deafening bang. A blasting stone deals the listed sonic damage and sonic splash damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a Fortitude saving throw with the listed DC or be [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] until the end of its next turn. Many types of blasting stones grant an item bonus to attack rolls.
 
 ### Blasting Stone (Lesser)
 

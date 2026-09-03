@@ -26,7 +26,7 @@ This tubular vehicle flies with the aid of a pair of large gas-inflated balloons
 
 **Passengers** 30
 
-**Piloting Check** Athletics (DC 38), Piloting Lore (DC 38), Sailing Lore (DC 36)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] (DC 38), [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] (DC 38), Sailing Lore (DC 36)
 
 ---
 
@@ -38,18 +38,18 @@ This tubular vehicle flies with the aid of a pair of large gas-inflated balloons
 
 **HP** 280 (BT 140)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
-**Weaknesses** fire 10 until broken
+**Weaknesses** fire 10 until [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]
 
 ---
 
-**Speed** swim 30 (alchemical, clockwork)
+**Speed** swim 30 ([[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]], [[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]])
 
 **Collision** 11d10 (DC 36)
 
 **Amphibious** This vehicle can land on water and then submerge up to a depth of 200 feet.
-**Deploy Balloons** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (manipulate) The pilot engages a lever that activates the clockwork components to launch two massive tethered balloons and fill them with lighter-than-air gas. This grants the flying submersible a fly Speed of 30 but removes its swim Speed. This transformation lasts until the pilot disengages the balloons by performing this action again. 
+**Deploy Balloons** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) The pilot engages a lever that activates the clockwork components to launch two massive tethered balloons and fill them with lighter-than-air gas. This grants the flying submersible a fly Speed of 30 but removes its swim Speed. This transformation lasts until the pilot disengages the balloons by performing this action again. 
 **Weapon Mounts** This vehicle has two weapon mounts. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 36 Crafting check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
 
 *Source: Battlecry! p. 113*

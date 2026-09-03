@@ -18,7 +18,7 @@ source: "Impossible Magic"
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-This humble oak staff is etched with a geometric pattern. _Quotidian staves_ are popular among those with minor magical abilities to handle everyday tasks. While wielding the staff, you gain a +2 circumstance bonus to Lore checks about food or drink. 
+This humble oak staff is etched with a geometric pattern. _Quotidian staves_ are popular among those with minor magical abilities to handle everyday tasks. While wielding the staff, you gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] checks about food or drink. 
 
 **Activate** Cast a Spell **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
@@ -30,7 +30,7 @@ This humble oak staff is etched with a geometric pattern. _Quotidian staves_ are
 
 ---
 
-**Cantrip** _prestidigitation_**1st** _ant haul_, _fishing spot_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/prestidigitation|_prestidigitation_]]**1st** [[srd/pf2e/compendium/spells/rank-1/ant-haul|_ant haul_]], [[srd/pf2e/compendium/spells/rank-1/fishing-spot|_fishing spot_]]
 
 ### Greater Quotidian Staff
 
@@ -38,6 +38,6 @@ This humble oak staff is etched with a geometric pattern. _Quotidian staves_ are
 
 ---
 
-**2nd** _mending_, _thermal remedy_
+**2nd** [[srd/pf2e/compendium/spells/rank-1/mending|_mending_]], [[srd/pf2e/compendium/spells/rank-2/thermal-remedy|_thermal remedy_]]
 
 *Source: Impossible Magic p. 239*

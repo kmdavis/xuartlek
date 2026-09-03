@@ -21,6 +21,6 @@ source: "Impossible Magic"
 - **Target**: one metal weapon you are wielding
 - **Duration**: 1 minute
 
-You call forth the metal that flows through your veins, welding it together with the weapon you wield. For the duration of this spell, you can’t drop your weapon, and you gain a +4 circumstance bonus to your Reflex DC against attempts to Disarm you.
+You call forth the metal that flows through your veins, welding it together with the weapon you wield. For the duration of this spell, you can’t drop your weapon, and you gain a +4 circumstance bonus to your Reflex DC against attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] you.
 
 *Source: Impossible Magic p. 153*

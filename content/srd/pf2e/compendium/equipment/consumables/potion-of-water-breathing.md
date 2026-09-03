@@ -19,7 +19,7 @@ source: "GM Core"
 - **Price**: 11 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This filmy, gray potion reeks of ocean detritus and tastes even worse. After drinking this potion, you gain the effects of a 2nd- rank _water breathing_ spell for 1 hour.
 

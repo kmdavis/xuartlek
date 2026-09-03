@@ -17,10 +17,10 @@ source: "Secrets of the Unlit Star Game Master's Guide"
 
 - **Price**: 60 gp
 - **Bulk**: 1
-- **Base Weapon**: Longsword
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/sword/longsword|Longsword]]
 
 Smoke constantly belches from this _+1 magic longsword_. Any hit with this sword deals 1 extra fire damage. You can use a special action while holding the sword to command the blade's edges to light on fire.
 
-**Activate—Stoke Flames** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Effect** Until the end of your turn, the blade deals 1d6 extra fire damage instead of just 1. After you use this action, you can’t use it again for 10 minutes.
+**Activate—Stoke Flames** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** Until the end of your turn, the blade deals 1d6 extra [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] damage instead of just 1. After you use this action, you can’t use it again for 10 minutes.
 
 *Source: Secrets of the Unlit Star Game Master's Guide p. 59*

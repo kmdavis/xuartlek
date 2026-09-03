@@ -20,9 +20,9 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 4,200 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-This vile poison is contagious, causing the victim's skin to secrete the toxin, allowing it to spread to others. While under the effects of choleric contagion, the first time during per round the victim succeeds at an attack roll with an unarmed attack against another creature, the target of the attack is exposed to the poison.
+This vile poison is contagious, causing the victim's skin to secrete the toxin, allowing it to spread to others. While under the effects of choleric contagion, the first time during per round the victim succeeds at an attack roll with an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack against another creature, the target of the attack is exposed to the poison.
 
  **Saving Throw** DC 40 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 6d10 poison damage (1 round); **Stage 2** 8d10 poison damage (1 round); **Stage 3** 10d10 poison damage (1 round)
 

@@ -17,7 +17,7 @@ source: "Player Core 2"
 
 - **Price**: 7 gp
 - **Ammunition**: arrow
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 The creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain an escaping foe. When an activated _antler arrow_ hits a target, glowing antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow. 
 

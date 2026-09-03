@@ -11,7 +11,7 @@ entries: 10
 
 ## Alter Egos in Golarion  *Sidebar*
 
-- **Parent page**: Alter Ego
+- **Parent page**: [[srd/pf2e/compendium/character/archetypes/alter-ego|Alter Ego]]
 
 While some alter egos work independently as freelancers, they're especially popular in all sorts of espionage and intelligence agencies throughout the Inner Sea and beyond. The Lion Blades of Taldor, Twilight Talons of Andoran, Silver Ravens of Ravounel, and various Chelaxian secret police use alter egos to keep abreast of situations throughout the Shining Kingdoms and Old Cheliax. Meanwhile, powerful mercantile groups, like the Golden League in Tian Xia or the Aspis Consortium, employ alter egos for corporate espionage, making sure they always stay one step ahead of the competition. In Mzali in the Mwangi Expanse, the rebels known as the Bright Lions often seek the aid of alter egos to escape the notice of the mummified child god Walkena.
 
@@ -19,25 +19,25 @@ While some alter egos work independently as freelancers, they're especially popu
 
 ## Binary Mindscape Statistics  *Sidebar*
 
-- **Parent page**: Psychic Duels
+- **Parent page**: [[srd/pf2e/books/dark-archives-remastered/psychic-duels/index|Psychic Duels]]
 
 Psychic duels take place in a binary mindscape, which is much like a very simple plane or dimension. It can be easily altered by its inhabitants during the duel. The stat block for a binary mindscape is as follows. 
 
 #### Binary Mindscape
 
-Finite
+[[srd/pf2e/compendium/rules-elements/traits/gm-core/finite|Finite]]
 
-Metamorphic
+[[srd/pf2e/compendium/rules-elements/traits/gm-core/metamorphic|Metamorphic]]
 
-Subjective GravityA binary mindscape is formed of only two linked minds and most often created to provide the arena for a psychic duel. It's typically simple in structure, with basic details that become even more indistinct at the edges of the duelists' imaginations.
+[[srd/pf2e/compendium/rules-elements/traits/gm-core/subjective-gravity|Subjective Gravity]]A binary mindscape is formed of only two linked minds and most often created to provide the arena for a psychic duel. It's typically simple in structure, with basic details that become even more indistinct at the edges of the duelists' imaginations.
 
- The time trait typically matches that of the plane on which the participants' forms are. A participant with particularly strong psychic abilities might be able to adjust the time trait (typically to timeless). In a voluntary duel, adjustments like these need to be agreed upon by all participants.
+ The time trait typically matches that of the plane on which the participants' forms are. A participant with particularly strong psychic abilities might be able to adjust the [[srd/pf2e/compendium/rules-elements/traits/gm-core/time|time]] trait (typically to timeless). In a voluntary duel, adjustments like these need to be agreed upon by all participants.
 
 *Source: Dark Archives (Remastered) p. 200*
 
 ## Cards and Astrology  *Sidebar*
 
-- **Parent page**: Thaumaturge
+- **Parent page**: [[srd/pf2e/compendium/character/classes/thaumaturge|Thaumaturge]]
 
 The thaumaturge class draws inspiration from symbolism pertaining to both real-world and fantasy beliefs about divination via cards or reading the stars. The class references the following Golarion- specific divination deck and zodiacs.
 
@@ -51,7 +51,7 @@ The thaumaturge class draws inspiration from symbolism pertaining to both real-w
 
 ## Cryptid Side Effects  *Sidebar*
 
-- **Parent page**: Baleblood Draft
+- **Parent page**: [[srd/pf2e/compendium/equipment/alchemical-items/baleblood-draft|Baleblood Draft]]
 
 The following side effects are appropriate for a baleblood draft or other items made from cryptids.
 
@@ -62,7 +62,7 @@ Your shadow appears to be that of a monstrous, winged fiend. It sometimes claws 
 
 ## Final Usurpation  *Sidebar*
 
-- **Parent page**: Reflection
+- **Parent page**: [[srd/pf2e/compendium/character/ancestries/reflection|Reflection]]
 
 If your progenitor is deceased, you might be able to take over their life. It might require a special ritual and other activities taking 1 week, as you take over your progenitor's lodgings, activities, relationships, and so on. Once you finish, provided no creature has successfully identified you as an impostor, the memories of everyone who knew or interacted with your progenitor are altered, so they forget your progenitor's usual personality and behavior in favor of yours, and you no longer risk discovery for acting out of character for them. You belong now.
 
@@ -70,11 +70,11 @@ If your progenitor is deceased, you might be able to take over their life. It mi
 
 ## Imagery of a Psychic Duel  *Sidebar*
 
-- **Parent page**: Psychic Duels
+- **Parent page**: [[srd/pf2e/books/dark-archives-remastered/psychic-duels/index|Psychic Duels]]
 
 Upon entering the psychic duel, a creature's psychic avatar appears in the minds of the duelists. This mental manifestation looks vaguely like them but might be altered based on their mental abilities and the statistics they used for initiative. For instance, a creature that rolled Deception might appear cloaked, shadowy, or diabolic. Over the course of the battle, this avatar changes appearance multiple times, adapting to the flow of the duel. A vicious, powerful attack might cause the attacker to look more fearsome or increase the splendor of their imaginary attire; a failure might make them shrink or become translucent. Armor might change form to defend against varied manifestations.
 
- Psychic manifestations, too, flex to meet the psychic battlefield. Players should describe the actions they use in imaginative ways unbound by the laws of the physical world. Weapons can grow, shrink, twist, and fly. Spells can become a riot of color and noise, directing sensation straight into the target's mind. Participants transform into animals or warriors that reflect their ferocity or cunning. Mental and illusion spells are particularly mutable since they're more directly tied to the mind and senses. Since the participants are mentally linked, their thoughts can bleed over, making an illusion pull imagery directly from the target's mind to show them a vision of a loved one or a bit of their past.
+ Psychic manifestations, too, flex to meet the psychic battlefield. Players should describe the actions they use in imaginative ways unbound by the laws of the physical world. Weapons can grow, shrink, twist, and fly. Spells can become a riot of color and noise, directing sensation straight into the target's mind. Participants transform into animals or warriors that reflect their ferocity or cunning. [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] spells are particularly mutable since they're more directly tied to the mind and senses. Since the participants are mentally linked, their thoughts can bleed over, making an illusion pull imagery directly from the target's mind to show them a vision of a loved one or a bit of their past.
 
  The varied forms of Psychic Defense illustrate this easily. Just a few examples appear here, but anything that makes sense to a participant's imagination might appear.
 
@@ -92,19 +92,19 @@ Upon entering the psychic duel, a creature's psychic avatar appears in the minds
 
 ## Iriis  *Sidebar*
 
-- **Parent page**: Summon Irii
+- **Parent page**: [[srd/pf2e/compendium/spells/rank-8/summon-irii|Summon Irii]]
 
-These denizens of the Dimension of Time are powerful guardians who ward the timeline against outside meddling, even as they war with each other over their divergent philosophies of time. An irii can be either a fate, with the view that time is immutable, or a fortune, with the opinion that time is fluid. Among practitioners of temporal magic, iriis are famed for their ability to see consequences before they occur, sidestepping them at their leisure.
+These denizens of the [[srd/pf2e/compendium/gm/planes#Dimension of Time|Dimension of Time]] are powerful guardians who ward the timeline against outside meddling, even as they war with each other over their divergent philosophies of time. An irii can be either a fate, with the view that time is immutable, or a fortune, with the opinion that time is fluid. Among practitioners of temporal magic, iriis are famed for their ability to see consequences before they occur, sidestepping them at their leisure.
 
 *Source: Dark Archives (Remastered) p. 182*
 
 ## Key Terms  *Sidebar*
 
-- **Parent page**: Psychic
+- **Parent page**: [[srd/pf2e/compendium/character/classes/psychic|Psychic]]
 
 You'll see the following key terms in many psychic class features.
 
- **Amp:** Amps are special thoughtforms that modify the properties of your psi cantrips. You can apply an amp only to a psi cantrip, spending 1 Focus Point as a free action. If the next action you take is to cast a psi cantrip, you gain its amped effects. The singular focus required to amp a psi cantrip means that unless otherwise noted, you can apply only one amp to a given psi cantrip, and you can't apply both an amp and a spellshape ability to a cantrip at the same time. If both an amp and the amped cantrip deal damage of the same type, combine their damage for the purpose of resistances and weaknesses. Feats with the amp trait provide different amps you can apply to psi cantrips in place of their normal amps. If an amp has its own effect, its rank is the same as the amped cantrip's.
+ **Amp:** Amps are special thoughtforms that modify the properties of your psi cantrips. You can apply an amp only to a psi cantrip, spending 1 Focus Point as a free action. If the next action you take is to cast a psi cantrip, you gain its amped effects. The singular focus required to amp a psi cantrip means that unless otherwise noted, you can apply only one amp to a given psi cantrip, and you can't apply both an amp and a [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]] ability to a cantrip at the same time. If both an amp and the amped cantrip deal damage of the same type, combine their damage for the purpose of resistances and weaknesses. Feats with the amp trait provide different amps you can apply to psi cantrips in place of their normal amps. If an amp has its own effect, its rank is the same as the amped cantrip's.
 
  **Amp Heightened:** Many amps have heightened entries similar to spells. Add the amp's heightened effects when you cast the cantrip at that rank or higher. These are in addition to any heightened effects of the cantrip, though some adjust the cantrip's normal heightened entry (typically in the case of damage increases).
 
@@ -116,19 +116,19 @@ You'll see the following key terms in many psychic class features.
 
 ## Key Terms  *Sidebar*
 
-- **Parent page**: Thaumaturge
+- **Parent page**: [[srd/pf2e/compendium/character/classes/thaumaturge|Thaumaturge]]
 
 You'll see the following key terms in many thaumaturge class features.
 
 **Esoterica:** The esoterica trait is present in many thaumaturge feats and class features that incorporate the various talismans, supernatural trinkets, and other objects you carry with you. Abilities that have the esoterica trait require you to be in possession of your esoterica to use them. Normally, you're assumed to always have your esoterica with you, but in some rare circumstances, you might either not have them on hand or have your gear stripped from you.
 
- **Temporary Items:** Several feats allow you to prepare temporary items. Much like the infused items created by alchemists, these temporary items last only a short time before becoming useless. Temporary items are clearly not up to the same quality as other items, so they typically can't be sold. If an ability doesn't list how long a temporary item lasts, the item lasts until the next time you make your daily preparations. Any effect created by a temporary item also ends at that time if it hasn't already (unless it's a permanent effect).
+ **Temporary Items:** Several feats allow you to prepare temporary items. Much like the [[srd/pf2e/compendium/rules-elements/traits/player-core-2/infused|infused]] items created by [[srd/pf2e/compendium/character/classes/alchemist|alchemists]], these temporary items last only a short time before becoming useless. Temporary items are clearly not up to the same quality as other items, so they typically can't be sold. If an ability doesn't list how long a temporary item lasts, the item lasts until the next time you make your daily preparations. Any effect created by a temporary item also ends at that time if it hasn't already (unless it's a permanent effect).
 
 *Source: Dark Archives (Remastered) p. 31*
 
 ## Manifestations  *Sidebar*
 
-- **Parent page**: Curse Maelstrom
+- **Parent page**: [[srd/pf2e/compendium/character/archetypes/curse-maelstrom|Curse Maelstrom]]
 
 Those at the center of a storm of curses often have peculiar manifestations that mark them as one of the unfortunate. Over time, even the places that they inhabit will begin to show signs of their presence: plants with bizarre growths, dust clouds that form strange symbols in the light, and floors that creak and groan even when no one is walking across them.
 

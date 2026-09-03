@@ -29,7 +29,7 @@ perception:
     desc: "Perception +7; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +9, Stealth +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
 abilityMods: [3, 2, 3, -4, 1, -2]
 ac: 16
 armorclass:
@@ -43,7 +43,7 @@ abilities_mid:
   - name: "Gnashing Grip"
     desc: "⬲"
   - name: "Trigger"
-    desc: "A creature grabbed by the giant monitor lizard's jaws fails a check to Escape"
+    desc: "A creature grabbed by the giant monitor lizard's jaws fails a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]]"
   - name: "Effect"
     desc: "The giant monitor lizard's jaws deal 1d6 piercing damage and the triggering creature is exposed to monitor lizard venom."
 speed: "30 feet, swim 30 feet"
@@ -54,13 +54,13 @@ abilities_bot:
   - name: "Lurching Charge"
     desc: "⬺ The giant monitor lizard Strides twice and then makes a jaws Strike. If the lizard moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll."
   - name: "Monitor Lizard Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 17 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "enfeebled 1 (1 round)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] (1 round)"
   - name: "Stage 2"
     desc: "1d6 poison damage and enfeebled 2 (1 round)"
 sourcebook: "_Monster Core_, page 224."

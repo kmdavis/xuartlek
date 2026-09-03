@@ -29,7 +29,7 @@ perception:
     desc: "Perception +9; scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Survival +10"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +10"
 abilityMods: [6, 0, 4, -4, 3, -1]
 ac: 22
 armorclass:
@@ -47,7 +47,7 @@ attacks:
     desc: "⬻ foot +12 __Damage__ 2d6+6 bludgeoning"
 abilities_bot:
   - name: "Rhinoceros Charge"
-    desc: "⬺ The rhinoceros Strides twice, then makes a horn Strike. As long as the rhinoceros moved at least 20 feet, the Strike's damage increases to 3d8+6. A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex save or be automatically Shoved back 5 feet and knocked prone by the force of the blow."
+    desc: "⬺ The rhinoceros Strides twice, then makes a horn Strike. As long as the rhinoceros moved at least 20 feet, the Strike's damage increases to 3d8+6. A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex save or be automatically [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shoved]] back 5 feet and knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] by the force of the blow."
   - name: "Trample"
     desc: "⬺ Medium or smaller, foot, DC 18"
 sourcebook: "_Monster Core_, page 293."

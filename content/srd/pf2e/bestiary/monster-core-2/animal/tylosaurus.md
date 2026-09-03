@@ -29,7 +29,7 @@ perception:
     desc: "Perception +18; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +16, Stealth +19"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +19"
 abilityMods: [7, 5, 5, -4, 4, -2]
 abilities_top:
   - name: "Deep Breath"
@@ -52,13 +52,13 @@ abilities_bot:
   - name: "Aquatic Drag"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The tylosaurus has a creature grabbed or restrained"
+    desc: "The tylosaurus has a creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]"
   - name: "Effect"
-    desc: "The platecarpus Swims up to half its Speed, carrying the grabbed or restrained creature with it."
+    desc: "The platecarpus [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to half its Speed, carrying the [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] creature with it."
   - name: "Swallow Whole"
-    desc: "⬻ (Attack) Large, 2d6+5 bludgeoning, Rupture 18"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Large, 2d6+5 bludgeoning, Rupture 18"
   - name: "Vicious Strafe"
-    desc: "⬺ The tylosaurus Swims up to its Speed. It can make one jaws Strike and one tail Strike at any point during its movement, each attacking a different target."
+    desc: "⬺ The tylosaurus [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swims]] up to its Speed. It can make one jaws Strike and one tail Strike at any point during its movement, each attacking a different target."
 sourcebook: "_Monster Core 2_, page 227."
 ```
 

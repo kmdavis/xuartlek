@@ -18,7 +18,7 @@ source: "Player Core 2"
 - **Cast**: 7 days
 - **Cost**: rare oils and powdered minerals worth 5,000 gp
 - **Secondary Casters**: 2
-- **Primary Check**: Arcana or Occultism (expert, the check has the secret trait)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert, the check has the [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] trait)
 - **Secondary Checks**: Arcana or Occultism (whichever isn’t used for the primary check), Society
 - **Range**: 20 feet
 - **Target(s)**: up to seven willing creatures of 14th level or lower
@@ -26,7 +26,7 @@ source: "Player Core 2"
 
 You bind yourself and your allies to the specific safe location, referred to as a sanctuary, where you perform the ritual. This allows the participants to return later by simply speaking a word.
 
-**Success** You form the connection with the sanctuary. Any participant in the ritual can Dismiss the ritual. When they do, all the participants can immediately return to the sanctuary from any distance, as long as they are on the same plane as the sanctuary. Each participant arrives in the position in which they were standing during the casting of the ritual. When the word is spoken, all other participants know it, and each can choose whether or not to return to the sanctuary at that time. The ritual then immediately ends.
+**Success** You form the connection with the sanctuary. Any participant in the ritual can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] the ritual. When they do, all the participants can immediately return to the sanctuary from any distance, as long as they are on the same plane as the sanctuary. Each participant arrives in the position in which they were standing during the casting of the ritual. When the word is spoken, all other participants know it, and each can choose whether or not to return to the sanctuary at that time. The ritual then immediately ends.
 
 **Failure** You fail to form the connection between the participants and the sanctuary and are aware that the ritual has failed.
 

@@ -14,12 +14,12 @@ Dogs are trusted and loyal companions that serve as guardians, tracking animals,
 
 ### Members
 
-Guard Dog (Creature -1), Riding Dog (Creature 1)
+[[srd/pf2e/bestiary/monster-core/animal/guard-dog|Guard Dog]] (Creature -1), [[srd/pf2e/bestiary/monster-core/animal/riding-dog|Riding Dog]] (Creature 1)
 
 ### Rabies
 
 Many societies adore dogs and value them for their loyalty as pets. For such pet owners, there's perhaps no affliction more horrible than rabies. While many animals can be stricken with this debilitating illness, the idea of a loyal family pet growing feral and violent makes it all the more feared.
 
- **Rabies** (disease) **Saving Throw** DC 17 Fortitude; **Stage 1** sickened 1 (1 day); **Stage 2** sickened 2 (1 day); **Stage 3** confused (1 day); **Stage 4** dead.
+ **Rabies** ([[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]]) **Saving Throw** DC 17 Fortitude; **Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]] (1 day); **Stage 2** sickened 2 (1 day); **Stage 3** [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] (1 day); **Stage 4** dead.
 
 *Source: Monster Core p. 102*

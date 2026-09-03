@@ -26,7 +26,7 @@ Shaped like its animal namesake, a snail coach is a trolley powered by a combina
 
 **Passengers** 6
 
-**Piloting Check** Driving Lore (DC 23) or Crafting (DC 25)
+**Piloting Check** Driving Lore (DC 23) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 25)
 
 ---
 
@@ -46,6 +46,6 @@ Shaped like its animal namesake, a snail coach is a trolley powered by a combina
 
 **Collision** 7d6 (DC 21)
 
-**Adhesive Secretions** This vehicle secretes an alchemical adhesive that allows it to stick to and climb up solid surfaces. Spaces the snail coach moves through become difficult terrain for 1 round. Any creature that ends their turn on the adhesive must succeed at a DC 23 Reflex save or take a –10-foot status penalty to its Speeds for 1 round. On a critical failure, the creature is also immobilized for 1 round (Escape DC 23).
+**Adhesive Secretions** This vehicle secretes an alchemical adhesive that allows it to stick to and climb up solid surfaces. Spaces the snail coach moves through become difficult terrain for 1 round. Any creature that ends their turn on the adhesive must succeed at a DC 23 Reflex save or take a –10-foot status penalty to its Speeds for 1 round. On a critical failure, the creature is also [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]] for 1 round (Escape DC 23).
 
 *Source: Guns & Gears (Remastered) p. 96*

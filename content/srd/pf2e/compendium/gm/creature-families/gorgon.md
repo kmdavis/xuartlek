@@ -14,6 +14,6 @@ Gorgons are a broad group of animals that share a few peculiar traits. All gorgo
 
 ### Members
 
-Plated Python (Creature 12), Stony Bat (Creature 3)
+[[srd/pf2e/bestiary/howl-of-the-wild/beast/plated-python|Plated Python]] (Creature 12), [[srd/pf2e/bestiary/howl-of-the-wild/beast/stony-bat|Stony Bat]] (Creature 3)
 
 *Source: Howl of the Wild p. 154*

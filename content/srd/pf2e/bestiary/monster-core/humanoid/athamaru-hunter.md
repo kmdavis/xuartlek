@@ -33,10 +33,10 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; low-light vision"
-languages: "Common, Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +11, Diplomacy +5, Nature +7, Stealth +8, Survival +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +5, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
 abilityMods: [4, 3, 0, 1, 2, 0]
 abilities_top:
   - name: "Items"
@@ -52,16 +52,16 @@ health:
 speed: "10 feet, swim 40 feet; smooth swimmer"
 attacks:
   - name: "Melee"
-    desc: "⬻ longspear +11 (reach 10 feet) __Damage__ 1d8+4 piercing"
+    desc: "⬻ longspear +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d8+4 piercing"
   - name: "Melee"
     desc: "⬻ crossbow +10 (range increment 120 feet, reload 1) __Damage__ 1d8 piercing plus fan bolt"
 abilities_bot:
   - name: "Cooperative Hunting"
     desc: "After the hunter attempts a Strike at a Large or larger target (regardless of success or failure), the next Strike one of the hunter's allies makes against the same target gains a +2 circumstance bonus to the attack roll."
   - name: "Fan Bolt"
-    desc: "The hunter prepares their hooked crossbow bolts with carefully woven seaweed. On a successful crossbow Strike, the bolt embeds and the seaweed fan deploys. The target takes a –10-foot status penalty to its swim Speed. A creature can Interact to attempt a DC Athletics check, removing the bolt on a success."
+    desc: "The hunter prepares their hooked crossbow bolts with carefully woven seaweed. On a successful crossbow Strike, the bolt embeds and the seaweed fan deploys. The target takes a –10-foot status penalty to its swim Speed. A creature can Interact to attempt a DC [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check, removing the bolt on a success."
   - name: "Hunt Prey"
-    desc: "⬻ (Concentrate) The athamaru hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to Seek the prey and to Survival checks to Track the prey. The first time the athamaru hits their designated prey in a round, they deal an additional 1d8 precision damage. These effects last until the hunter uses Hunt Prey again."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) The athamaru hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] the prey and to [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Track]] the prey. The first time the athamaru hits their designated prey in a round, they deal an additional 1d8 precision damage. These effects last until the hunter uses Hunt Prey again."
   - name: "Pack Attack"
     desc: "The hunter's Strikes deal an additional 1d8 damage to creatures within reach of at least two of the hunter's allies."
   - name: "Smooth Swimmer"

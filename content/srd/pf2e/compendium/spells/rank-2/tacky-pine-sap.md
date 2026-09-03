@@ -18,10 +18,10 @@ source: "Impossible Magic"
 
 - **Traditions**: Occult, Primal
 - **Range**: 60 feet
-- **Area**: 5-foot burst
+- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]]
 - **Duration**: 1 minute
 
-You conjure highly flammable pine sap, covering the area with it. This area becomes difficult terrain. When a creature within the area uses a fire effect or receives fire damage, the sap ignites, dealing 1d6 persistent fire damage to anyone standing on it; this burns up the sap, removing it and its difficult terrain.
+You conjure highly flammable pine sap, covering the area with it. This area becomes [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Difficult Terrain|difficult terrain]]. When a creature within the area uses a fire effect or receives fire damage, the sap ignites, dealing 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent fire damage]] to anyone standing on it; this burns up the sap, removing it and its difficult terrain.
 
 ---
 **Heightened (+2)** The persistent fire damage increases by 1d6.

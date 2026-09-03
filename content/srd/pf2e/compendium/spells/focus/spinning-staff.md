@@ -19,6 +19,6 @@ source: "Impossible Magic"
 
 - **Requirements**: You’re wielding a staff.
 
-You spin your staff with an impossibly quick twirling flourish, attacking two foes and transforming the momentum into magical energy to charge for your next Spellstrike. Make a melee Strike with your staff against one foe and then a second melee Strike with your staff against a different foe. Your multiple attack penalty applies to both of these attacks as normal.
+You spin your staff with an impossibly quick twirling flourish, attacking two foes and transforming the momentum into magical energy to charge for your next [[srd/pf2e/compendium/rules-elements/actions/impossible-magic#Spellstrike|Spellstrike]]. Make a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] with your staff against one foe and then a second melee Strike with your staff against a different foe. Your multiple attack penalty applies to both of these attacks as normal.
 
 *Source: Impossible Magic p. 180*

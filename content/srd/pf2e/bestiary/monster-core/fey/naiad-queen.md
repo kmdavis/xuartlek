@@ -35,14 +35,14 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; low-light vision"
-languages: "Common, Elven, Fey, Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +16, Athletics +9, Diplomacy +20, Medicine +15, Nature +15, Performance +20, Stealth +14, Survival +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +20, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +15, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +15, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +20, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15"
 abilityMods: [0, 5, 4, 3, 4, 7]
 abilities_top:
   - name: "Animal Empathy"
-    desc: "The naiad queen can ask questions of, receive answers from, and use the Diplomacy skill with animals."
+    desc: "The naiad queen can ask questions of, receive answers from, and use the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill with [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]]."
   - name: "Tied to the Land"
     desc: "The queen is tied to a body of water or area with a great deal of water features."
 ac: 26
@@ -52,30 +52,30 @@ armorclass:
 hp: 100
 health:
   - name: "HP"
-    desc: "100; __Resistances__ fire 10; __Weaknesses__ cold iron 10"
+    desc: "100; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10; __Weaknesses__ cold iron 10"
 abilities_mid:
   - name: "Nymph's Beauty"
-    desc: "(aura, emotion, mental, primal, visual) 30 feet. DC 23. A creature that fails its save is stunned 1 and becomes stunned 1 each time it starts its turn within the aura for the next 24 hours, even if it can't see the naiad queen."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) 30 feet. DC 23. A creature that fails its save is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]] and becomes stunned 1 each time it starts its turn within the aura for the next 24 hours, even if it can't see the naiad queen."
   - name: "Water Healing"
-    desc: "(healing, primal, vitality) Water Healing (healing, primal, vitality) For every 10 minutes a naiad queen spends soaking in any body of water in her domain, she regains 30 Hit Points."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]) Water Healing (healing, primal, vitality) For every 10 minutes a naiad queen spends soaking in any body of water in her domain, she regains 30 Hit Points."
 speed: "25 feet, swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ aqueous fist +18 (Agile, Finesse, Magical, Water) __Damage__ 2d8+6 bludgeoning"
+    desc: "⬻ aqueous fist +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|Water]]) __Damage__ 2d8+6 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ water orb +18 (Magical, range 60 feet, Water) __Damage__ 4d6 bludgeoning"
+    desc: "⬻ water orb +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], range 60 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/water|Water]]) __Damage__ 4d6 bludgeoning"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ (Polymorph, Primal)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]])"
   - name: "Focus Beauty"
-    desc: "⬻ (Emotion, Incapacitation, Mental, Primal, Visual) If a target already affected by nymph's beauty fails its save, the image of the queen sears into the creature's mind, effectively blinding the creature until its vision is restored with _sound body_ or a similar effect. The naiad queen can Dismiss the effect."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]]) If a target already affected by nymph's beauty fails its save, the image of the queen sears into the creature's mind, effectively [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinding]] the creature until its vision is restored with [[srd/pf2e/compendium/spells/rank-2/sound-body|_sound body_]] or a similar effect. The naiad queen can Dismiss the effect."
   - name: "Inspiration"
-    desc: "⬽ (Emotion, Mental, Primal)"
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]])"
 spellcasting:
   - name: "Primal Prepared Spells"
-    desc: "DC 28, attack +18 - __Cantrips (4th)__ Detect Magic, Frostbite, Guidance, Light, Stabilize - __1st__ Air Bubble, Fleet Step, Gust of Wind - __2nd__ Animal Messenger, One with Plants, Revealing Light - __3rd__ Aqueous Orb, Earthbind, Heal - __4th__ Heal, Summon Animal"
+    desc: "DC 28, attack +18 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/frostbite|Frostbite]], [[srd/pf2e/compendium/spells/cantrips/guidance|Guidance]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/stabilize|Stabilize]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/air-bubble|Air Bubble]], [[srd/pf2e/compendium/spells/rank-1/fleet-step|Fleet Step]], [[srd/pf2e/compendium/spells/rank-1/gust-of-wind|Gust of Wind]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/animal-messenger|Animal Messenger]], [[srd/pf2e/compendium/spells/rank-2/one-with-plants|One with Plants]], [[srd/pf2e/compendium/spells/rank-2/revealing-light|Revealing Light]] - __3rd__ [[srd/pf2e/compendium/spells/rank-3/aqueous-orb|Aqueous Orb]], [[srd/pf2e/compendium/spells/rank-3/earthbind|Earthbind]], [[srd/pf2e/compendium/spells/rank-1/heal|Heal]] - __4th__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-1/summon-animal|Summon Animal]]"
   - name: "Primal Innate Spells"
-    desc: "DC 28 - __4th__ Charm, Create Water, Hydraulic Push, Tidal Surge (at will)"
+    desc: "DC 28 - __4th__ [[srd/pf2e/compendium/spells/rank-1/charm|Charm]], [[srd/pf2e/compendium/spells/rank-1/create-water|Create Water]], [[srd/pf2e/compendium/spells/rank-1/hydraulic-push|Hydraulic Push]], [[srd/pf2e/compendium/spells/focus/tidal-surge|Tidal Surge]] (at will)"
 sourcebook: "_Monster Core_, page 246."
 ```
 

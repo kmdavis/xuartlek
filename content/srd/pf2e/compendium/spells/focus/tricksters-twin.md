@@ -20,7 +20,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Illusion`  `Manipulate`  `Uncommon`  `Visual`
 
-- **Domain**: Trickery
+- **Domain**: [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

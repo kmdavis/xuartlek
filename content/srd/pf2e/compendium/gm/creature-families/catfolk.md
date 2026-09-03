@@ -18,7 +18,7 @@ Lithe and agile, with catlike features and long tails, the amurruns are wanderer
 
 ### Members
 
-Catfolk Name Collector (Creature 6), Catfolk Pouncer (Creature 1), Leaping Thief (Creature 3), Lucky Courser (Creature 8)
+[[srd/pf2e/bestiary/npc-core/humanoid/catfolk-name-collector|Catfolk Name Collector]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/catfolk-pouncer|Catfolk Pouncer]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/leaping-thief|Leaping Thief]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/lucky-courser|Lucky Courser]] (Creature 8)
 
 ### Lucky Souvenirs
 

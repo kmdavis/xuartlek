@@ -19,12 +19,12 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Uncommon`  `Water`
 
-- **Domain**: Water
+- **Domain**: [[srd/pf2e/compendium/character/domains#Water|Water]]
 - **Range**: 120 feet
 - **Area**: 30-foot burst
 - **Duration**: 1 minute
 
-You call forth a torrential downpour, which extinguishes non-magical flames. Creatures in the area are concealed and gain fire resistance 10. Creatures outside the area are concealed to those inside the area. If a creature with weakness to water ends its turn in the area, the downpour triggers its weakness.
+You call forth a torrential downpour, which extinguishes non-magical flames. Creatures in the area are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] and gain fire resistance 10. Creatures outside the area are concealed to those inside the area. If a creature with weakness to water ends its turn in the area, the downpour triggers its weakness.
 
 ---
 **Heightened (+1)** The fire resistance increases by 2.

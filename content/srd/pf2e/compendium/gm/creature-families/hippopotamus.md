@@ -14,7 +14,7 @@ Hippopotamuses, or hippos for short, are semiaquatic animals that spend most of 
 
 ### Members
 
-Behemoth Hippopotamus (Creature 10), Hippopotamus (Creature 5)
+[[srd/pf2e/bestiary/monster-core-2/animal/behemoth-hippopotamus|Behemoth Hippopotamus]] (Creature 10), [[srd/pf2e/bestiary/monster-core-2/animal/hippopotamus|Hippopotamus]] (Creature 5)
 
 ### Hippo Sweat
 

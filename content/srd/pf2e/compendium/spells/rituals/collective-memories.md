@@ -17,7 +17,7 @@ source: "Player Core"
 - **Cast**: 1 day
 - **Cost**: rare incense worth a total value of 300 gp
 - **Secondary Casters**: 2
-- **Primary Check**: Occultism (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master)
 - **Secondary Checks**: Performance , Society
 
 You tap into other mortals' memories, knowledge, legends, tales, and lore about a subject. The subject must be an important person, place, or thing. If the subject is present, increase the degree of success of your primary skill check by one step. If you have only vague information about the subject before attempting the ritual, decrease the degree of success of your primary skill check by one step. These modifiers cancel each other out if you have a subject present with little to no baseline information.
@@ -28,6 +28,6 @@ You tap into other mortals' memories, knowledge, legends, tales, and lore about 
 
 **Failure** You fail to learn any useful legends.
 
-**Critical Failure** Your mind becomes overwhelmed with the vast array of knowledge at your disposal. You can't sense or respond to anything in the present for 1 week except to perform necessities like breathing and sleeping. When you recover, however, you can retrain one of your skills into a Lore based on the knowledge of a subject you were accessing, as if you had spent 1 week retraining.
+**Critical Failure** Your mind becomes overwhelmed with the vast array of knowledge at your disposal. You can't sense or respond to anything in the present for 1 week except to perform necessities like breathing and sleeping. When you recover, however, you can retrain one of your skills into a [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] based on the knowledge of a subject you were accessing, as if you had spent 1 week retraining.
 
 *Source: Player Core p. 391*

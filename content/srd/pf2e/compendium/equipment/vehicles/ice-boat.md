@@ -23,7 +23,7 @@ In addition to sailing across open water, this vessel can also travel at high sp
 
 **Passengers** 2
 
-**Piloting Check** Nature (DC 24) or Sailing Lore (DC 22)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 24) or [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] (DC 22)
 
 ---
 
@@ -35,9 +35,9 @@ In addition to sailing across open water, this vessel can also travel at high sp
 
 **HP** 80 (BT 40)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
-**Weaknesses** fire 5 until broken
+**Weaknesses** fire 5 until [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]
 
 ---
 

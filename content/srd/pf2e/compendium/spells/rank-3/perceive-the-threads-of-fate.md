@@ -23,6 +23,6 @@ source: "War of Immortals"
 
 You open your mind to the grand design of existence, enabling you to view the threads of fate in all their complex, tangled glory. You attempt Perception checks and Reflex saving throws at mythic proficiency for the duration.
 
-You can Sustain the spell once per round to untangle these threads. When you do, if your next action requires you to attempt an attack roll or skill check, you roll this check twice and use the higher result. You can untangle the threads of fate up to three times. After the third time, the spell ends.
+You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] the spell once per round to untangle these threads. When you do, if your next action requires you to attempt an attack roll or skill check, you roll this check twice and use the higher result. You can untangle the threads of fate up to three times. After the third time, the spell ends.
 
 *Source: War of Immortals p. 156*

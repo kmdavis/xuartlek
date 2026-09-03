@@ -19,7 +19,7 @@ source: "Battlecry!"
 - **Usage**: affixed or held in 1 hand
 - **Bulk**: L
 
-This peach-colored magical banner offers the promise of a good watch and a comfortable sleep. You and allies within the banner’s aura gain a +1 item bonus to Perception DCs and protection from severe cold and heat.
+This peach-colored magical banner offers the promise of a good watch and a comfortable sleep. You and allies within the banner’s aura gain a +1 item bonus to Perception DCs and protection from [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|severe cold and heat]].
 
 ### Banner of the Restful
 

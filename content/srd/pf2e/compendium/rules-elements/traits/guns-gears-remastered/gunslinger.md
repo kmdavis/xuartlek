@@ -13,6 +13,6 @@ source: "Guns & Gears (Remastered)"
 
 `Gunslinger`
 
-This indicates abilities from the gunslinger class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/gunslinger|gunslinger]] class.
 
 *Source: Guns & Gears (Remastered) p. 233*

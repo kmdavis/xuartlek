@@ -32,8 +32,8 @@ While the official name of this contraption is the “portable catapult,” it g
 
 **Aim** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") 25 feet, minimum distance 25 feet 
 
-**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 2 times, requires a successful DC 12 Athletics check 
+**Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times, requires a successful DC 12 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check 
 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate, range increment 80 feet) 2d8 bludgeoning, single target, DC 14 Reflex. A boulder launched from a teekdoon descends on a creature from above, which might affect if a creature has cover against the attack.
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Range|range increment 80 feet]]) 2d8 bludgeoning, single target, DC 14 Reflex. A boulder launched from a teekdoon descends on a creature from above, which might affect if a creature has [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|cover]] against the attack.
 
 *Source: Howl of the Wild p. 117*

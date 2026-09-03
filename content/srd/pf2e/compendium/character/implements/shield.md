@@ -14,13 +14,13 @@ As a universal symbol of defense, a shield wards against a variety of effects an
 
 ### Initiate Benefit
 
-You gain the Shield Block general feat. If your shield implement would be reduced to 0 Hit Points, it’s instead reduced to 1 Hit Point, its circumstance bonus to AC when you Raise a Shield is reduced by 1 (this can’t reduce the bonus below 0), and you can’t Shield Block with your shield implement until it loses the broken condition. You can still use your shield as an implement when it has the broken condition.
+You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] general feat. If your shield implement would be reduced to 0 Hit Points, it’s instead reduced to 1 Hit Point, its circumstance bonus to AC when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] is reduced by 1 (this can’t reduce the bonus below 0), and you can’t Shield Block with your shield implement until it loses the broken condition. You can still use your shield as an implement when it has the [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]] condition.
 
 At 5th level, whenever you Exploit Vulnerability, you can also Raise a Shield as a free action.
 
 ### Adept Benefit
 
-When you have your shield implement raised, you gain a status bonus to your saves against spells and other magic effects equal to your circumstance bonus to AC from your shield. In addition, damage you take as a result of a spell or magical effect while your Shield is Raised can trigger your Shield Block reaction, even if the damage isn’t physical.
+When you have your shield implement raised, you gain a status bonus to your saves against spells and other magic effects equal to your circumstance bonus to AC from your shield. In addition, damage you take as a result of a spell or magical effect while your Shield is Raised can trigger your [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] reaction, even if the damage isn’t physical.
 
 ### Intensify Benefit
 

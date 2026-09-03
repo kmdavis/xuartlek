@@ -29,10 +29,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; low-light vision"
-languages: "Common, Fey, Gnomish"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +3, Crafting +1, History Lore +5, One Additional Lore +5, Society +4, Thievery +3"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +3, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +1, [[srd/pf2e/compendium/rules-elements/skills/lore|History Lore]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|One Additional Lore]] +5, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +4, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +3"
 abilityMods: [0, 1, 0, 3, 2, 1]
 abilities_top:
   - name: "Local Records Specialist"
@@ -52,12 +52,12 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ staff +4 (two-hand d8) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ staff +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +5 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
 abilities_bot:
   - name: "Innate Primal Spells"
-    desc: "DC 13 - __Cantrips (1st)__ Detect Magic, Light, Prestidigitation __Mind if I Borrow That?__ ⬻ The gnome philomath designates a single item within their sight as an item of interest to their studies. They then gain a +2 circumstance bonus to Disarm or Steal that item. They can only designate one item at a time in this way. If they use Mind if I Borrow That? to designate a new item of interest, they lose the bonus with the previous item."
+    desc: "DC 13 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]] __Mind if I Borrow That?__ ⬻ The gnome philomath designates a single item within their sight as an item of interest to their studies. They then gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disarm|Disarm]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Steal|Steal]] that item. They can only designate one item at a time in this way. If they use Mind if I Borrow That? to designate a new item of interest, they lose the bonus with the previous item."
 sourcebook: "_NPC Core_, page 182."
 ```
 

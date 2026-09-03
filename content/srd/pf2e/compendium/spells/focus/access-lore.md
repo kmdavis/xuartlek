@@ -21,6 +21,6 @@ source: "Player Core 2"
 - **Mystery**: Lore
 - **Duration**: 1 minute
 
-You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one Lore skill. You temporarily gain the same proficiency rank in that Lore skill as your proficiency rank for your oracle spellcasting.
+You sift through the multiverse's divine knowledge, seeking out tidbits related to a particular subject. Choose one [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] skill. You temporarily gain the same proficiency rank in that Lore skill as your proficiency rank for your oracle spellcasting.
 
 *Source: Player Core 2 p. 261*

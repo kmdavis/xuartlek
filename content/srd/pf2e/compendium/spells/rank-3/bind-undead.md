@@ -21,6 +21,6 @@ source: "Player Core"
 - **Target**: 1 mindless undead creature with a level no greater than bind undead ’s spell rank
 - **Duration**: 1 day
 
-With a word of power, you seize control of the target. It gains the minion trait. If you or an ally uses any hostile actions against the target, the spell ends.
+With a word of power, you seize control of the target. It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait. If you or an ally uses any hostile actions against the target, the spell ends.
 
 *Source: Player Core p. 318*

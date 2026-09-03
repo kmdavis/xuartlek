@@ -31,10 +31,10 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Warfare Lore +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +12"
 abilityMods: [5, 2, 3, 0, 1, 0]
 ac: 24
 armorclass:
@@ -43,10 +43,10 @@ armorclass:
 hp: 96
 health:
   - name: "HP"
-    desc: "96 (4 segments); __Weaknesses__ area damage 5, splash damage 5"
+    desc: "96 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 abilities_mid:
   - name: "No Retreat"
-    desc: "These soldiers have been extensively trained to hold their ground no matter the situation. If any effect would force the line infantry to move, reduce the distance by 5 feet. Any time they would be affected by the fleeing condition, the line infantry is instead slowed 2 for the same duration."
+    desc: "These soldiers have been extensively trained to hold their ground no matter the situation. If any effect would force the line infantry to move, reduce the distance by 5 feet. Any time they would be affected by the [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] condition, the line infantry is instead [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 2]] for the same duration."
   - name: "Troop Defenses"
     desc: ""
 speed: "20 feet; troop movement"

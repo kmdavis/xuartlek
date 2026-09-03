@@ -18,9 +18,9 @@ source: "Player Core 2"
 
 - **Price**: 70 gp
 - **Ammunition**: any
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This peculiar ammunition is coated in yellow dust that leaves a stain on anything it touches. When activated _corrosive ammunition_ hits a target, it dissolves across the target's armor. The armor takes 1d8 persistent acid damage that ignores the armor's Hardness; if the target isn't wearing armor, it takes the acid damage instead. This damage occurs at the end of the target's turns.
-The creature can end this effect by spending an Interact action to wipe off the corrosive dust. Otherwise, the effect ends once the armor becomes broken.
+The creature can end this effect by spending an Interact action to wipe off the corrosive dust. Otherwise, the effect ends once the armor becomes [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]].
 
 *Source: Player Core 2 p. 301*

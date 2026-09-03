@@ -26,7 +26,7 @@ Colder oceans are often beset with heavy layers of sea ice, providing some kingd
 
 **Passengers** 100
 
-**Piloting Check** Arcana (DC 42) or Sailing Lore (DC 40)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (DC 42) or [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] (DC 40)
 
 ---
 
@@ -38,16 +38,16 @@ Colder oceans are often beset with heavy layers of sea ice, providing some kingd
 
 **HP** 360 (BT 180)
 
-**Immunities** object immunities, precision damage
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
 ---
 
-**Speed** swim 40 feet or 20 feet in heavy ice (clockwork, magical)
+**Speed** swim 40 feet or 20 feet in heavy ice ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])
 
 **Collision** 15d10 (DC 40)
 
 **Ice Passage** This vessel can move through sea ice up to 20 feet thick, leaving a path of open water behind it. 
 **Sluggish** This vehicle must move twice its length for each 90-degree turn it makes.
-**Weapon Mounts** This vehicle has eight weapon mounts; one each on the bow and stern, and three mounted on each side. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 40 Crafting check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
+**Weapon Mounts** This vehicle has eight weapon mounts; one each on the bow and stern, and three mounted on each side. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 40 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
 
 *Source: Battlecry! p. 114*

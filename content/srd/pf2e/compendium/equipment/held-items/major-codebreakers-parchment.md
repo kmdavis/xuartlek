@@ -17,11 +17,11 @@ source: "Impossible Magic"
 - **Usage**: held in 2 hands
 - **Bulk**: L
 
-This finely crafted, seemingly mundane parchment is useful for writing sensitive documents. When words are written on this parchment, they instantly scramble into unrecognizable script, requiring a DC 20 check to Decipher Writing. Both of the parchment’s activations require speaking a password or pass phrase, imbued into the parchment when created. A character must critically succeed on the check to Identify Magic when examining the parchment to learn the password. 
+This finely crafted, seemingly mundane parchment is useful for writing sensitive documents. When words are written on this parchment, they instantly scramble into unrecognizable script, requiring a DC 20 check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Decipher Writing|Decipher Writing]]. Both of the parchment’s activations require speaking a password or pass phrase, imbued into the parchment when created. A character must critically succeed on the check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Identify Magic|Identify Magic]] when examining the parchment to learn the password. 
 
-**Activate—Burn After Reading** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Effect** The words on the parchment seem to catch fire, completely burning away while leaving the parchment unharmed and ready to bear more text. 
+**Activate—Burn After Reading** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** The words on the parchment seem to catch fire, completely burning away while leaving the parchment unharmed and ready to bear more text. 
 
-**Activate—Decode Writing** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Effect** The scrambled words align into the originally written script.
+**Activate—Decode Writing** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** The scrambled words align into the originally written script.
 
 ### Codebreaker's Parchment
 

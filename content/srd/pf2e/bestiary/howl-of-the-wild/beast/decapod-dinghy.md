@@ -29,14 +29,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; tremorsense (imprecise) 30 feet, wavesense (imprecise) 30 feet"
-languages: "Thalassic; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +15, Athletics +18, Nature +17, Stealth +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15"
 abilityMods: [7, 3, 4, -2, 3, 0]
 abilities_top:
   - name: "All Aboard"
-    desc: "A decapod dinghy can carry up to 30 Bulk of creatures or unattended items on their back, such as five Medium creatures. The anemones' gentle hold on the passengers is sufficient in most situations, but while in combat, those passengers are slowed 1 if they want to take other actions while remaining on the decapod dinghy's back."
+    desc: "A decapod dinghy can carry up to 30 Bulk of creatures or unattended items on their back, such as five Medium creatures. The anemones' gentle hold on the passengers is sufficient in most situations, but while in combat, those passengers are [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] if they want to take other actions while remaining on the decapod dinghy's back."
 ac: 28
 armorclass:
   - name: "AC"
@@ -44,7 +44,7 @@ armorclass:
 hp: 145
 health:
   - name: "HP"
-    desc: "145; __Immunities__ poison; __Weaknesses__ bludgeoning 5"
+    desc: "145; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]; __Weaknesses__ bludgeoning 5"
 abilities_mid:
   - name: "Protect Passenger"
     desc: "⬲"
@@ -55,16 +55,16 @@ abilities_mid:
 speed: "30 feet, climb 25 feet, swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ claw +19 (reach 10 feet) __Damage__ 2d8+7 slashing plus 2d6 poison"
+    desc: "⬻ claw +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+7 slashing plus 2d6 poison"
   - name: "Melee"
-    desc: "⬻ tentacle +19 (Poison, reach 20 feet) __Damage__ 5d6 poison plus Grab"
+    desc: "⬻ tentacle +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 5d6 poison plus Grab"
 abilities_bot:
   - name: "Anemone Transport"
-    desc: "⬽ (Primal, Teleportation) The decapod dinghy and all their willing passengers teleport to a patch of anemones within 10 miles large enough for the decapod dinghy to stand among them. Although the decapod dinghy doesn't need to see the location, they must have been there before. All creatures transported are temporarily immune to this ability for 24 hours."
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|Teleportation]]) The decapod dinghy and all their willing passengers teleport to a patch of anemones within 10 miles large enough for the decapod dinghy to stand among them. Although the decapod dinghy doesn't need to see the location, they must have been there before. All creatures transported are temporarily immune to this ability for 24 hours."
   - name: "Inflate Anemones"
     desc: "⬻ The anemones on the decapod dinghy's back inflate, enveloping all passengers and giving each passenger a +2 circumstance bonus to AC until the beginning of the decapod dinghy's next turn."
   - name: "Stinging Anemones"
-    desc: "⬻ (Poison) The decapod dinghy's anemones sting any number of creatures they choose among passengers and those the decapod dinghy has grabbed or restrained. The stings deal 5d6 poison damage (DC 26 basic Fortitude save). On a failed save, that creature is also enfeebled 2 for 1 hour."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) The decapod dinghy's anemones sting any number of creatures they choose among passengers and those the decapod dinghy has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]. The stings deal 5d6 poison damage (DC 26 basic Fortitude save). On a failed save, that creature is also [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 2]] for 1 hour."
 sourcebook: "_Howl of the Wild_, page 135."
 ```
 

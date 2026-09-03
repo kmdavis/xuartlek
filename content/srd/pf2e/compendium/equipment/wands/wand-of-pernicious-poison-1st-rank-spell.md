@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 This wand is made of chitin, topped with a hooked barb that weeps droplets of foul-smelling, green fluid when you Activate the wand.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You Cast a Spell determined by the wand's type. The poison the spell delivers gains the virulent trait.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You Cast a Spell determined by the wand's type. The poison the spell delivers gains the [[srd/pf2e/compendium/rules-elements/traits/gm-core/virulent|virulent]] trait.
 
 **Craft Requirements** Supply a casting of _spider sting_ of the appropriate rank. 
 
@@ -45,6 +45,6 @@ The spell is _spider sting_.
 
 The spell is 6th-rank _spider sting_, but it deals 3d6 damage on a touch or on a successful save, and delivers this poison. 
 
-**Deadly Spider Venom** (poison, virulent) **Level** 11; **Maximum Duration** 6 rounds; **Stage 1** 3d6 poison damage and enfeebled 2 (1 round); **Stage 2** 4d6 poison damage and enfeebled 2 (1 round); **Stage 3** 6d6 poison damage and enfeebled 2 (1 round)
+**Deadly Spider Venom** ([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], virulent) **Level** 11; **Maximum Duration** 6 rounds; **Stage 1** 3d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 2 (1 round); **Stage 2** 4d6 poison damage and enfeebled 2 (1 round); **Stage 3** 6d6 poison damage and enfeebled 2 (1 round)
 
 *Source: Treasure Vault (Remastered) p. 141*

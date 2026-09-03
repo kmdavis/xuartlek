@@ -33,6 +33,6 @@ These brightly colored, soft-soled boots motivate you to perform risky stunts an
 
 The bonus to Acrobatics checks is +3, and the bonus to Tumble Through is +2. The boots can be activated. 
 
-**Activate—Daredevil Impulse** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** The boots cast _unfettered movement_ on you.
+**Activate—Daredevil Impulse** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** The boots cast [[srd/pf2e/compendium/spells/rank-4/unfettered-movement|_unfettered movement_]] on you.
 
 *Source: GM Core p. 288*

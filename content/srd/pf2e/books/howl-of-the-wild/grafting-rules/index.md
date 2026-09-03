@@ -16,9 +16,9 @@ citation: "Howl of the Wild pg. 97"
 
 <sup>HotW p. 97</sup>
 
-Grafts are living tissues that are implanted into a host, where they integrate with the hosts’ native biology. To implant a graft, you must be an expert in Medicine and have the appropriate formula. Graft formulas can be purchased as outlined in the [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Formulas|formulas rules]].
+Grafts are living tissues that are implanted into a host, where they integrate with the hosts’ native biology. To implant a graft, you must be an expert in [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] and have the appropriate formula. Graft formulas can be purchased as outlined in the [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Formulas|formulas rules]].
 
-You can take the Graft Technician feat to implant grafts.
+You can take the [[srd/pf2e/compendium/feats/howl-of-the-wild/skill/graft-technician|Graft Technician]] feat to implant grafts.
 
 ## Contents
 

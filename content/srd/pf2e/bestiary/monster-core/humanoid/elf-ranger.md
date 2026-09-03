@@ -29,10 +29,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; low-light vision"
-languages: "Common, Elven"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +3, Diplomacy +3, Nature +6, Stealth +7, Survival +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +3, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +3, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
 abilityMods: [1, 4, 1, 3, 3, 1]
 abilities_top:
   - name: "Items"
@@ -48,11 +48,11 @@ health:
 speed: "30 feet; unimpeded journey"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +9 (Agile, Finesse, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
   - name: "Ranged"
-    desc: "⬻ shortbow +9 (deadly d8, range increment 60 feet) __Damage__ 1d6+2 piercing"
+    desc: "⬻ shortbow +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d8]], range increment 60 feet) __Damage__ 1d6+2 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +9 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
 abilities_bot:
   - name: "Double Shot"
     desc: "⬻ The elf ranger makes two shortbow Strikes targeting two different creatures within the shortbow's first range increment. Both Strikes uses the elf's current multiple attack penalty, but each strike takes a –2 penalty."

@@ -33,7 +33,7 @@ perception:
     desc: "Perception +12; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +15, Athletics +17, Stealth +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +15"
 abilityMods: [6, 4, 6, -5, 0, -5]
 ac: 15
 armorclass:
@@ -42,26 +42,26 @@ armorclass:
 hp: 165
 health:
   - name: "HP"
-    desc: "165; __Immunities__ critical hits, mental, precision; __Resistances__ bludgeoning 5, poison 10; __Weaknesses__ piercing 5, slashing 5"
+    desc: "165; __Immunities__ [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Critical Hits|critical hits]], mental, precision; __Resistances__ bludgeoning 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] 10; __Weaknesses__ piercing 5, slashing 5"
 speed: "swim 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tentacle +18 (Agile, reach 20 feet) __Damage__ 2d8+8 bludgeoning plus jellyfish venom"
+    desc: "⬻ tentacle +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d8+8 bludgeoning plus jellyfish venom"
 abilities_bot:
   - name: "Jellyfish Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 25 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "2d8 poison damage and clumsy 1 (1 round)"
+    desc: "2d8 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 (1 round)"
   - name: "Stage 2"
     desc: "3d6 poison damage and clumsy 2 (1 round)"
   - name: "Stage 3"
-    desc: "2d10 poison damage and paralyzed (1 round)"
+    desc: "2d10 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] (1 round)"
   - name: "Squeeze"
-    desc: "A giant jellyfish can fit into tight spaces as if it were a Medium creature. It can move at its full Speed while Squeezing."
+    desc: "A giant jellyfish can fit into tight spaces as if it were a Medium creature. It can move at its full Speed while [[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeezing]]."
 sourcebook: "_Monster Core 2_, page 200."
 ```
 

@@ -14,7 +14,7 @@ Hunters and scavengers that live amid dung and detritus, centipedes are a relati
 
 ### Members
 
-Centipede Swarm (Creature 3), Giant Centipede (Creature -1)
+[[srd/pf2e/bestiary/monster-core/animal/centipede-swarm|Centipede Swarm]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/giant-centipede|Giant Centipede]] (Creature -1)
 
 ### Centipede Species
 

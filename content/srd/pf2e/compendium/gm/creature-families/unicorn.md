@@ -14,6 +14,6 @@ While the most commonly known unicorn is a silver horse with a single horn, a wi
 
 ### Members
 
-Alicorn (Creature 15), Karkadann (Creature 7), Pale Horse (Creature 11), Unicorn (Creature 3)
+[[srd/pf2e/bestiary/howl-of-the-wild/beast/alicorn|Alicorn]] (Creature 15), [[srd/pf2e/bestiary/howl-of-the-wild/beast/karkadann|Karkadann]] (Creature 7), [[srd/pf2e/bestiary/howl-of-the-wild/undead/pale-horse|Pale Horse]] (Creature 11), [[srd/pf2e/bestiary/monster-core/beast/unicorn|Unicorn]] (Creature 3)
 
 *Source: Howl of the Wild p. 190*

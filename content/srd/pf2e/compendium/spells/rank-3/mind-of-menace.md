@@ -29,7 +29,7 @@ This spell wards against those who attempt to subvert your mind and turns mental
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is frightened 2, and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 2, and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.
 
 **Critical Failure** The creature is frightened 2, and you’re unaffected by the triggering mental effect.
 

@@ -20,11 +20,11 @@ source: "Howl of the Wild"
 - **Price**: 2,000 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: Fighting Fan
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/knife/fighting-fan|Fighting Fan]]
 
-This iridescent, black _+2 striking shock thundering fighting fan_ is crafted from the crackling feathers of thunderbirds to resemble one of the beast’s mighty wings. Channeling the avian’s tempestuous nature, you are surrounded by a stormy shell of wind and electricity while wielding a storm herald, granting you resistance 5 to electricity and sonic damage.
+This iridescent, black _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+2]] [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/runes/shock-greater|shock]] [[srd/pf2e/compendium/equipment/runes/thundering-greater|thundering]] [[srd/pf2e/compendium/equipment/weapons/knife/fighting-fan|fighting fan]]_ is crafted from the crackling feathers of thunderbirds to resemble one of the beast’s mighty wings. Channeling the avian’s tempestuous nature, you are surrounded by a stormy shell of wind and electricity while wielding a storm herald, granting you resistance 5 to electricity and sonic damage.
 
-**Activate—Call the Storm** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, magical, manipulate) **Frequency** once per day; **Effect** You channel the full might of a storm with you as its epicenter. All creatures within 30 feet take 3d10 electricity damage and 3d10 sonic damage (DC 30 basic Reflex save).
+**Activate—Call the Storm** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You channel the full might of a storm with you as its epicenter. All creatures within 30 feet take 3d10 electricity damage and 3d10 sonic damage (DC 30 basic Reflex save).
 
 **Craft Requirements** The initial raw materials must include feathers from a thunderbird.
 

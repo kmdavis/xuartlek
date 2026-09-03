@@ -14,10 +14,10 @@ Horses serve as mounts and beasts of burden in many societies. They are loyal an
 
 ### Members
 
-Riding Horse (Creature 1), Riding Pony (Creature 0), War Horse (Creature 2), War Pony (Creature 1)
+[[srd/pf2e/bestiary/monster-core/animal/riding-horse|Riding Horse]] (Creature 1), [[srd/pf2e/bestiary/monster-core/animal/riding-pony|Riding Pony]] (Creature 0), [[srd/pf2e/bestiary/monster-core/animal/war-horse|War Horse]] (Creature 2), [[srd/pf2e/bestiary/monster-core/animal/war-pony|War Pony]] (Creature 1)
 
 ### Goblins and Horses
 
-Goblins have many superstitions and quirks, but few of them are stronger than their fear and hatred of horses. This isn't a one-sided affair. Horses also fear and hate goblins, and some have been known to go out of their way to harm a goblin. A goblin trying to mount a horse is nearly always subject to a torrent of violent bucking, as the horse does everything in its power to fling the goblin to the ground and within reach of its hooves.
+[[srd/pf2e/compendium/gm/creature-families/goblin|Goblins]] have many superstitions and quirks, but few of them are stronger than their fear and hatred of horses. This isn't a one-sided affair. Horses also fear and hate goblins, and some have been known to go out of their way to harm a goblin. A goblin trying to mount a horse is nearly always subject to a torrent of violent bucking, as the horse does everything in its power to fling the goblin to the ground and within reach of its hooves.
 
 *Source: Monster Core p. 201*

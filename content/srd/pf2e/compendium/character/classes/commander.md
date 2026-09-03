@@ -12,13 +12,13 @@ source: "Battlecry!"
 
 ### Key Terms
 
-**Banner:** References to your banner refer to the banner granted by your commander's banner class feature, which gives a constant bonus to all allies within its aura and affects the range and area of many of your tactics.
+**[[srd/pf2e/compendium/rules-elements/traits/battlecry/banner|Banner]]:** References to your banner refer to the banner granted by your commander's banner class feature, which gives a constant bonus to all allies within its aura and affects the range and area of many of your tactics.
 
- **Brandish:** The brandish trait indicates an ability that involves you waving or otherwise actively displaying your banner. To use an ability that has the brandish trait, you must be holding your banner in one hand or wielding a weapon it is attached to. Since you have to be actively signaling with your banner to direct your squadmates while using a tactic with the brandish trait, you cannot use free actions or reactions granted as part of a brandish tactic unless specifically noted otherwise.
+ **[[srd/pf2e/compendium/rules-elements/traits/battlecry/brandish|Brandish]]:** The brandish trait indicates an ability that involves you waving or otherwise actively displaying your banner. To use an ability that has the brandish trait, you must be holding your banner in one hand or wielding a weapon it is attached to. Since you have to be actively signaling with your banner to direct your squadmates while using a tactic with the brandish trait, you cannot use free actions or reactions granted as part of a brandish tactic unless specifically noted otherwise.
 
- **Flourish:** Actions with this trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core/flourish|Flourish]]:** Actions with this trait are special techniques that require too much exertion for you to perform frequently. You can use only one action with the flourish trait per round.
 
- **Tactic:** Tactics are special abilities that involve you signaling your allies to perform predetermined maneuvers. To use a tactic ability, you must have one or more willing allies you have instructed beforehand during your daily preparations, called squadmates. Your squadmates must also be able to perceive your signal, either when you speak or shout it (in which case the tactic action gains the auditory trait), or by physically signaling them, typically by waving your banner (in which case it gains the visual trait). While you can use multiple tactic actions in a round, a character cannot respond to more than one tactic per round, regardless of source. You can't Ready a tactic. Tactics often grant actions or abilities that can be used as a free action; these can be used outside the squadmate's turn just like reactions.
+ **[[srd/pf2e/compendium/rules-elements/traits/battlecry/tactic|Tactic]]:** Tactics are special abilities that involve you signaling your allies to perform predetermined maneuvers. To use a tactic ability, you must have one or more willing allies you have instructed beforehand during your daily preparations, called squadmates. Your squadmates must also be able to perceive your signal, either when you speak or shout it (in which case the tactic action gains the auditory trait), or by physically signaling them, typically by waving your banner (in which case it gains the visual trait). While you can use multiple tactic actions in a round, a character cannot respond to more than one tactic per round, regardless of source. You can't Ready a tactic. Tactics often grant actions or abilities that can be used as a free action; these can be used outside the squadmate's turn just like reactions.
 
 ### Roleplaying the Commander
 
@@ -51,7 +51,14 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Expert in Perception |
 | **Saving Throws** | Trained in Fortitude Expert in Reflex Expert in Will |
-| **Skills** | Trained in Society and Warfare Lore Trained in a number of additional skills equal to 2 plus your Intelligence modifier |
+
+#### Skills
+
+Trained in [[srd/pf2e/compendium/rules-elements/skills/society|Society]] and [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] 
+Trained in a number of additional skills equal to 2 plus your Intelligence modifier
+
+| | |
+| --- | --- |
 | **Attacks** | Trained in simple weapons Trained in martial weapons Trained in unarmed attacks |
 | **Defenses** | Trained in all armor Trained in unarmored defense |
 | **Class DC** | Trained in commander class DC |
@@ -102,9 +109,9 @@ At 5th level and every 5 levels thereafter, you get four free boosts to differen
 
 A commander needs a battle standard to help guide their allies on the field. You start play with a custom banner that you can use to signal allies when using tactics (see below) or to deploy specific abilities. Your banner can be affixed to a weapon or shield you are wielding, attached to a simple pole or handle and held in one hand, or worn affixed to a pole alongside your backpack. Your banner might be a literal flag or pennant, a decorated fan, a personalized totem, or some other highly visible item of negligible or light Bulk. Your banner requires customization and influences your allies’ morale, so you can have only one banner at a time designated as your commander’s banner; designating a new banner or standard as your commander’s banner takes 1 minute. 
 
-As long as your banner is visible and in your possession, it provides an aura that gives you and all allies in a 30-foot emanation a +1 status bonus to Will saves and DCs against fear effects. You can pause or resume this effect as part of any action you would typically use to stow or retrieve your banner. If your banner is destroyed or stolen, allies currently benefiting from its bonuses become frightened 1. This effect has the aura, emotion, mental, and visual traits.
+As long as your banner is visible and in your possession, it provides an aura that gives you and all allies in a 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] a +1 status bonus to Will saves and DCs against fear effects. You can pause or resume this effect as part of any action you would typically use to stow or retrieve your banner. If your banner is destroyed or stolen, allies currently benefiting from its bonuses become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 1. This effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] traits.
 
-Some abilities allow you to place your banner in a specialized manner, such as the Commander’s Companion and Plant Banner feats. As long as you have placed your banner in this way, any banner abilities originate from your banner’s space instead of your own, and you gain the same basic benefits as when it is in your possession. An unattended banner has the base Hardness and Hit Points of a standard item of its type (usually cloth, thin leather, or thin wood; the rules for materials appears here) or the Hardness and Hit Points of the object it is affixed to, whichever is greater.
+Some abilities allow you to place your banner in a specialized manner, such as the Commander’s Companion and Plant Banner feats. As long as you have placed your banner in this way, any banner abilities originate from your banner’s space instead of your own, and you gain the same basic benefits as when it is in your possession. An unattended banner has the base Hardness and Hit Points of a standard item of its type (usually cloth, thin leather, or thin wood; the rules for materials appears [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/materials|here]]) or the Hardness and Hit Points of the object it is affixed to, whichever is greater.
 
 #### Tactics
 
@@ -126,7 +133,7 @@ Your time spent training your allies allows them to respond quickly and instinct
 
 | | |
 | --- | --- |
-| **Shield Block** | You gain the Shield Block general feat, a reaction that lets you reduce damage with your shield. |
+| **Shield Block** | You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block\|Shield Block]] general feat, a reaction that lets you reduce damage with your shield. |
 | **Commander Feats** | At 1st level and every even-numbered level, you gain a commander class feat. |
 
 #### Skill Feats
@@ -145,7 +152,7 @@ At 7th level, you can use skill increases to become a master in a skill in which
 
 #### Warfare Expertise
 
-Your knowledge of war and strategy grows and guides your decisions in battle. You gain expert proficiency in Warfare Lore. You can use Warfare Lore to Recall Knowledge about most creatures regardless of type, but typically only to determine whether they can be reasoned with, their most notable offensive abilities, and whether one of their saving throws is particularly weak. In addition, as long as you are observing at least one opponent when initiative is rolled, you can use Warfare Lore for your initiative roll.
+Your knowledge of war and strategy grows and guides your decisions in battle. You gain expert proficiency in [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]]. You can use Warfare Lore to Recall Knowledge about most creatures regardless of type, but typically only to determine whether they can be reasoned with, their most notable offensive abilities, and whether one of their saving throws is particularly weak. In addition, as long as you are observing at least one opponent when initiative is rolled, you can use Warfare Lore for your initiative roll.
 
 | | |
 | --- | --- |
@@ -157,7 +164,7 @@ You’ve studied in a wide variety of weapons and learned to apply their princip
 
 #### Expert Tactician
 
-Your time spent leading and training others on battlefield tactics has improved your combat acumen. Your proficiency rank for your commander class DC increases to expert, and you add two new tactics to your folio; these can be any mobility or offensive tactics you don’t already know, or you can choose from expert tactics you have access to. The total number of tactics you can have prepared increases to four. In addition, your proficiency rank in Warfare Lore increases to master.
+Your time spent leading and training others on battlefield tactics has improved your combat acumen. Your proficiency rank for your commander class DC increases to expert, and you add two new tactics to your folio; these can be any mobility or offensive tactics you don’t already know, or you can choose from expert tactics you have access to. The total number of tactics you can have prepared increases to four. In addition, your proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] increases to master.
 
 #### Weapon Specialization
 
@@ -169,7 +176,7 @@ You’ve learned how to inflict greater injuries with the weapons you know best.
 
 #### Armor Expertise
 
-You have spent so much time in armor that you know how to make the most of its protection. Your proficiency ranks for light, medium, and heavy armor, as well as for unarmored defense, increase to expert. You gain the armor specialization effects of medium and heavy armor.
+You have spent so much time in armor that you know how to make the most of its protection. Your proficiency ranks for light, medium, and heavy armor, as well as for unarmored defense, increase to expert. You gain the [[srd/pf2e/books/player-core/chapter-6-equipment/armor#Armor Specialization Effects|armor specialization effects]] of medium and heavy armor.
 
 #### Commanding Will
 

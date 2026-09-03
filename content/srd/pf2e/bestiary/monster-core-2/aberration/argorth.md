@@ -31,11 +31,11 @@ perception:
     desc: "Perception +18; bloodsense (precise) 120 feet, no vision, scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +21, Athletics +23"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +21, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23"
 abilityMods: [7, 3, 5, -5, 1, -1]
 abilities_top:
   - name: "Bloodsense"
-    desc: "The argorth can detect any creature that has a heartbeat, such as most humanoids, or any creature that's consumed blood within 1 week, such as a vampire."
+    desc: "The argorth can detect any creature that has a heartbeat, such as most [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoids]], or any creature that's consumed blood within 1 week, such as a [[srd/pf2e/compendium/gm/creature-families/vampire|vampire]]."
 ac: 30
 armorclass:
   - name: "AC"
@@ -43,7 +43,7 @@ armorclass:
 hp: 200
 health:
   - name: "HP"
-    desc: "200; __Immunities__ mental, visual; __Resistances__ acid 10, cold 10"
+    desc: "200; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]] 10, [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 10"
 abilities_mid:
   - name: "Death Slam"
     desc: "⬲"
@@ -54,26 +54,26 @@ abilities_mid:
 speed: "30 feet, burrow 20 feet, climb 20 feet, swim 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +24 (Magical, reach 10 feet) __Damage__ 2d10+13 piercing plus Improved Grab"
+    desc: "⬻ jaws +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+13 piercing plus Improved Grab"
   - name: "Melee"
-    desc: "⬻ tail +24 (Magical, reach 10 feet) __Damage__ 2d8+13 bludgeoning plus Improved Grab"
+    desc: "⬻ tail +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+13 bludgeoning plus Improved Grab"
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻ The argorth can only Constrict creatures grabbed by its tail. 2d8+7 bludgeoning, DC 27"
+    desc: "⬻ The argorth can only Constrict creatures [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by its tail. 2d8+7 bludgeoning, DC 27"
   - name: "Ground Pound"
-    desc: "⬺ The argorth rears up its massive bulk and slams it downward with incredible force. Each creature in a 10-foot emanation takes 5d8 bludgeoning damage (DC 27 basic Reflex save). A creature who critically fails this save is also knocked prone."
+    desc: "⬺ The argorth rears up its massive bulk and slams it downward with incredible force. Each creature in a 10-foot emanation takes 5d8 bludgeoning damage (DC 27 basic Reflex save). A creature who critically fails this save is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
   - name: "Swallow Whole"
-    desc: "⬻ (Attack) Large, 2d8+7 bludgeoning, Rupture 24"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|Attack]]) Large, 2d8+7 bludgeoning, Rupture 24"
   - name: "Unnatural Shriek"
-    desc: "⬺ (Auditory, Emotion, Fear, Mental) The argorth emits a terrible howl not of the mortal world. Each non-aberration creature within 120 feet must attempt a DC 30 Will save. Regardless of the result, a creature is temporarily immune to the argorth's Unnatural Shriek for 24 hours."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) The argorth emits a terrible howl not of the mortal world. Each non-aberration creature within 120 feet must attempt a DC 30 Will save. Regardless of the result, a creature is temporarily immune to the argorth's Unnatural Shriek for 24 hours."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
-    desc: "The creature is frightened 1."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 1]]."
   - name: "Failure"
-    desc: "The creature is stupefied 1 for 1 minute and frightened 2."
+    desc: "The creature is [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] for 1 minute and frightened 2."
   - name: "Critical Failure"
-    desc: "The creature is stupefied 2 for 1 minute and frightened 3. Children Of Oblivion Legends of argorths' creation speak of Malcachavka, a dibrasgorth favored of Lamashtu who was unleashed against a city of mortals. Even after every inhabitant was slain and every building razed, Malcachavka continued to rage, chewing and biting her own flesh. Six of her tentacles were severed in the thrashing, each of which continued to writhe of their own accord. In their mindless frenzy and by Lamashtu's blessing, they grew their own maws and legs, becoming the very first argorths."
+    desc: "The creature is stupefied 2 for 1 minute and frightened 3. Children Of Oblivion Legends of argorths' creation speak of Malcachavka, a [[srd/pf2e/bestiary/monster-core-2/aberration/dibrasgorth|dibrasgorth]] favored of Lamashtu who was unleashed against a city of mortals. Even after every inhabitant was slain and every building razed, Malcachavka continued to rage, chewing and biting her own flesh. Six of her tentacles were severed in the thrashing, each of which continued to writhe of their own accord. In their mindless frenzy and by Lamashtu's blessing, they grew their own maws and legs, becoming the very first argorths."
 sourcebook: "_Monster Core 2_, page 40."
 ```
 

@@ -13,6 +13,6 @@ source: "Rage of Elements"
 
 - **Class**: Kineticist
 
-Your kinetic gate reaches a perfect form, its power constantly fighting to be released. If your kinetic aura is inactive, you automatically use the first action of your turn to Channel Elements as a free action. You can deliberately suppress the effect. If you're unable to act, final gate still functions, but you don't get to use the Elemental Blast or stance impulse you normally do from using Channel Elements.
+Your kinetic gate reaches a perfect form, its power constantly fighting to be released. If your kinetic aura is inactive, you automatically use the first action of your turn to [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Channel Elements|Channel Elements]] as a free action. You can deliberately suppress the effect. If you're unable to act, final gate still functions, but you don't get to use the [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements#Elemental Blast|Elemental Blast]] or stance impulse you normally do from using Channel Elements.
 
 *Source: Rage of Elements p. 13*

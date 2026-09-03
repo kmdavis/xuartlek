@@ -16,7 +16,7 @@ source: "Impossible Magic"
 `Astral`  `Dragon`  `Eidolon`
 
 - **Traits**: (Variable)** The trait matching the eidolon’s tradition
-- **Home Plane**: Astral Plane
+- **Home Plane**: [[srd/pf2e/compendium/gm/planes#Astral Plane|Astral Plane]]
 
 **Size** Medium
 
@@ -34,7 +34,7 @@ source: "Impossible Magic"
 
 **Senses** darkvision
 
-**Language** Draconic
+**Language** [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]
 
 **Speed** 25 feet
 
@@ -50,7 +50,7 @@ source: "Impossible Magic"
 
 Your eidolon exhales a blast of destructive energy that deals 1d6 damage to all creatures in an area with a basic Reflex save against your spell DC. Your eidolon then can't use Dragon Breath again for the next 1d4 rounds. At 3rd level and every 2 levels thereafter, the damage increases by 1d6.
 
- When the eidolon gains this ability, you choose the area—a 60-foot line or a 30-foot cone—as well as the damage type—acid, cold, electricity, fire, piercing, poison, or void. You can instead choose force if your eidolon has the arcane trait, spirit if they have the divine trait, or mental if they have the occult trait. If you model your eidolon after a specific type of dragon, your GM might allow you to choose from additional damage types.
+ When the eidolon gains this ability, you choose the area—a 60-foot line or a 30-foot cone—as well as the damage type—acid, cold, electricity, fire, piercing, poison, or void. You can instead choose force if your eidolon has the [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]] trait, spirit if they have the [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]] trait, or mental if they have the [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]] trait. If you model your eidolon after a specific type of dragon, your GM might allow you to choose from additional damage types.
 
  Dragon Breath has the tradition trait of your eidolon and the trait matching the damage type chosen (unless you choose piercing damage).
 

@@ -26,7 +26,7 @@ The battery tower uses both pushed propulsion and turned propulsion to turn a ca
 
 **Passengers** 204
 
-**Piloting Check** Diplomacy (DC 37), Intimidation (DC 37), or Warfare Lore (DC 35)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] (DC 37), [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] (DC 37), or Warfare Lore (DC 35)
 
 ---
 
@@ -47,7 +47,7 @@ The battery tower uses both pushed propulsion and turned propulsion to turn a ca
 **Collision** 8d10 (DC 32)
 
 **Sluggish** This vehicle must move twice its length for each 90-degree turn it makes.
- **Tiered** A battery tower has five levels. The crew operate at the bottom tier, turning a giant capstan, and up to four passengers can fit on that floor, enough for a full crew for a bombard. The remaining levels carry 50 passengers each. The tiers are specifically meant to be protective, and give those within the battery tower greater cover (or standard cover if the battery tower is broken). A massive ladder runs diagonally through the center of the battery tower, from the front of the top tier to the rear of the bottom tier. The ladder is wide enough for two crew or passengers to climb simultaneously.
+ **Tiered** A battery tower has five levels. The crew operate at the bottom tier, turning a giant capstan, and up to four passengers can fit on that floor, enough for a full crew for a bombard. The remaining levels carry 50 passengers each. The tiers are specifically meant to be protective, and give those within the battery tower greater cover (or standard cover if the battery tower is [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]). A massive ladder runs diagonally through the center of the battery tower, from the front of the top tier to the rear of the bottom tier. The ladder is wide enough for two crew or passengers to climb simultaneously.
  **Weaponry** A battery tower is usually loaded with black powder siege weapons for heavy assaults, with bombards on the bottom two floors and cannons on the other floors. Their Price is included in that of the battery tower. When building a battery tower, you can choose to replace any of these with other siege weapons of a lower Price. If you want a more expensive siege weapon, you must Craft it separately. Passengers of the battery tower can crew these siege weapons.
 
 *Source: Guns & Gears (Remastered) p. 177*

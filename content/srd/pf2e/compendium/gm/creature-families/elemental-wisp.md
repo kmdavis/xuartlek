@@ -12,13 +12,13 @@ source: "Monster Core 2"
 
 Wisps are tiny elemental beings that emerged during the creation of the Elemental Planes. The first wisps roamed the Inner Sphere in shifting symphonies that traded members with their every meeting. These symphonies of free wisps created music out of their combined resonances, but when the wicked Elemental Lords realized the value of the wisps' resonance, they captured whole symphonies for use as servants.
 
- Wisps attune to each other and to those they surround themselves with. This attunement makes them naturally supportive allies. Free wisps still roam the Inner Sphere and the Universe, but they're usually shy and hide themselves from strangers. However, they happily offer their service to those who show them kindness. They especially find themselves drawn to spellcasters who practice elemental magic; these wisps usually watch from afar but sometimes approach those who seem safe to become familiars or comrades.
+ Wisps attune to each other and to those they surround themselves with. This attunement makes them naturally supportive allies. Free wisps still roam the Inner Sphere and [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], but they're usually shy and hide themselves from strangers. However, they happily offer their service to those who show them kindness. They especially find themselves drawn to spellcasters who practice elemental magic; these wisps usually watch from afar but sometimes approach those who seem safe to become familiars or comrades.
 
  Free wisps who find one another become close almost immediately. They get especially excited when they find wisps of elements other than their own, showing none of the animosity sometimes exhibited between elementals of different planes. Instead, they join in an excited dance, emitting resonances that faintly echo the symphonies of ancient days.
 
 ### Members
 
-Air Wisp (Creature 0), Earth Wisp (Creature 0), Fire Wisp (Creature 0), Water Wisp (Creature 0)
+[[srd/pf2e/bestiary/monster-core-2/elemental/air-wisp|Air Wisp]] (Creature 0), [[srd/pf2e/bestiary/monster-core-2/elemental/earth-wisp|Earth Wisp]] (Creature 0), [[srd/pf2e/bestiary/monster-core-2/elemental/fire-wisp|Fire Wisp]] (Creature 0), [[srd/pf2e/bestiary/monster-core-2/elemental/water-wisp|Water Wisp]] (Creature 0)
 
 ### Wisp Symphonies
 

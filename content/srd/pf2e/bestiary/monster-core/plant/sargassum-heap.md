@@ -31,7 +31,7 @@ perception:
     desc: "Perception +10; wavesense (precise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +17, Stealth +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
 abilityMods: [5, 4, 5, -4, 2, 0]
 ac: 14
 armorclass:
@@ -40,14 +40,14 @@ armorclass:
 hp: 180
 health:
   - name: "HP"
-    desc: "180; __Immunities__ critical hits, precision, unconscious; __Resistances__ cold 5; __Weaknesses__ slashing 5"
+    desc: "180; __Immunities__ critical hits, precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5; __Weaknesses__ slashing 5"
 abilities_mid:
   - name: "Mirage Spores"
-    desc: "(aura, incapacitation, mental) 120 feet. The sargassum heap constantly produces a field of hallucinogenic spores that causes those affected to see the monster as whatever they desire most. Each creature within the emanation must succeed a DC 22 Will save or become fascinated with the sargassum heap and compelled to move toward it on the creature's turn. Creatures fascinated this way are also off-guard. If the sargassum heap attacks, the fascinated condition ends only for the creature that is attacked. On a successful save, a creature is temporarily immune to mirage spores for 24 hours."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 120 feet. The sargassum heap constantly produces a field of hallucinogenic spores that causes those affected to see the monster as whatever they desire most. Each creature within the emanation must succeed a DC 22 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with the sargassum heap and compelled to move toward it on the creature's turn. Creatures fascinated this way are also [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]]. If the sargassum heap attacks, the fascinated condition ends only for the creature that is attacked. On a successful save, a creature is temporarily immune to mirage spores for 24 hours."
 speed: "10 feet, climb 10 feet, swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tendril +17 (reach 10 feet) __Damage__ 2d8+8 bludgeoning plus Grab"
+    desc: "⬻ tendril +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+8 bludgeoning plus Grab"
 abilities_bot:
   - name: "Constrict"
     desc: "⬻ 2d8+3 bludgeoning, DC 23"

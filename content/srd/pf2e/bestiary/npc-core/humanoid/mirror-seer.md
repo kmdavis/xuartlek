@@ -31,20 +31,20 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16"
-languages: "Common, Diabolic, Fey, Shadowtongue"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Shadowtongue|Shadowtongue]]"
 skills:
   - name: "Skills"
-    desc: "Deception +21, Diplomacy +17, Occultism +19, Performance +17, Society +17, Stealth +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +21, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +17, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +19, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +17, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17"
 abilityMods: [2, 2, -1, 4, 3, 5]
 abilities_top:
   - name: "Looking Glass Magic"
-    desc: "The mirror seer accesses power from their wicked benefactor through two mirrors: one full-sized _malefic mirror_ in their sanctum and an _enchanted hand mirror_ they can carry on their person."
+    desc: "The mirror seer accesses power from their wicked benefactor through two mirrors: one full-sized [[srd/pf2e/compendium/equipment/other/malefic-mirror|_malefic mirror_]] in their sanctum and an _enchanted hand mirror_ they can carry on their person."
   - name: "Malefic Mirror"
-    desc: "The mirror seer must visit the _malefic mirror_ once per day to retain their spellcasting abilities, and they can activate the mirror for special _scrying_ and _illusory disguise_ spells as noted in the mirror's stat block."
+    desc: "The mirror seer must visit the _malefic mirror_ once per day to retain their spellcasting abilities, and they can activate the mirror for special [[srd/pf2e/compendium/spells/rank-6/scrying|_scrying_]] and [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]] spells as noted in the mirror's stat block."
   - name: "Enchanted Hand Mirror"
     desc: "Without their enchanted hand mirror on their person, the mirror seer takes a –2 circumstance penalty to spell attack rolls and DCs and can't cast their 7th-rank spells. If it's not attended by the mirror seer, the hand mirror has AC 10, Hardness 0, and 1 HP."
   - name: "Items"
-    desc: "_+1 dagger_, _enchanted hand mirror_, _scroll of false vision_, _+1 striking staff_"
+    desc: "_+1 dagger_, _enchanted hand mirror_, [[srd/pf2e/compendium/spells/rank-5/false-vision|_scroll of false vision_]], _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]_"
 ac: 27
 armorclass:
   - name: "AC"
@@ -61,25 +61,25 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _staff_ +19 (Magical, two-hand d8) __Damage__ 2d4+8 bludgeoning"
+    desc: "⬻ _staff_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 2d4+8 bludgeoning"
   - name: "Melee"
-    desc: "⬻ dagger +19 (Agile, Magical, versatile S) __Damage__ 1d4+8 piercing"
+    desc: "⬻ dagger +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+8 piercing"
   - name: "Melee"
-    desc: "⬻ fist +18 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+8 bludgeoning"
+    desc: "⬻ fist +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+8 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +19 (Agile, Magical, thrown 10 feet, versatile S) __Damage__ 1d4+8 piercing"
+    desc: "⬻ dagger +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+8 piercing"
 abilities_bot:
   - name: "A Fairer Face"
-    desc: "⬻ (Concentrate, Emotion, Mental, Occult) The mirror seer chooses a creature within 100 feet that can see its own reflection in a mirror. The creature must succeed at a DC 29 Will save or become fascinated by their reflection for 1 minute. The creature can attempt a new save to end the effect at the end of each of its turns."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The mirror seer chooses a creature within 100 feet that can see its own reflection in a mirror. The creature must succeed at a DC 29 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] by their reflection for 1 minute. The creature can attempt a new save to end the effect at the end of each of its turns."
   - name: "Hall of Mirrors"
-    desc: "⬽ (Concentrate, Illusion, Manipulate, Occult)"
+    desc: "⬽ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|Illusion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The mirror seer causes all surfaces in a 30-foot burst within 100 feet to become reflective for 1 minute. Every creature in the area or that later enters the area must succeed at a DC 27 Will save or become confused by the reflections and refractions. The confusion ends if the creature leaves the area, and the creature can attempt a new save to end the effect at the end of each of its turns. When the effect ends for a creature, that creature becomes temporarily immune for 10 minutes. The Mirror Gazes Back The mirror seer's great power stems from their _malefic mirror_. The story of the being and power behind the mirror can be told in many ways. Is it a demon trapped in the confines of the item, loathing its prison and yearning to be released? An entity working its will in our world through the mirror seer? Both of these have been true of mirror seers in history. And those who defeat a mirror seer might find themselves speaking to the mirror. Or even making their own pact, secure that they, surely, can avoid being corrupted..."
+    desc: "The mirror seer causes all surfaces in a 30-foot burst within 100 feet to become reflective for 1 minute. Every creature in the area or that later enters the area must succeed at a DC 27 Will save or become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] by the reflections and refractions. The confusion ends if the creature leaves the area, and the creature can attempt a new save to end the effect at the end of each of its turns. When the effect ends for a creature, that creature becomes temporarily immune for 10 minutes. The Mirror Gazes Back The mirror seer's great power stems from their [[srd/pf2e/compendium/equipment/other/malefic-mirror|_malefic mirror_]]. The story of the being and power behind the mirror can be told in many ways. Is it a [[srd/pf2e/compendium/gm/creature-families/demon|demon]] trapped in the confines of the item, loathing its prison and yearning to be released? An entity working its will in our world through the mirror seer? Both of these have been true of mirror seers in history. And those who defeat a mirror seer might find themselves speaking to the mirror. Or even making their own pact, secure that they, surely, can avoid being corrupted..."
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 29, attack +21 - __Cantrips (5th)__ Daze, Figment, Prestidigitation, Telekinetic Projectile, Void Warp - __1st__ Alarm, Fear, Item Facade (3 slots) - __2nd__ Invisibility, Revealing Light, Status (3 slots) - __3rd__ Clairaudience, Hypnotize, Locate (3 slots) - __4th__ Clairvoyance, Detect Scrying, Peaceful Bubble (3 slots) - __5th__ Illusory Scene, Shadow Blast (2 slots) - __7th__ Illusory Disguise (self only), Scrying (2 slots)"
+    desc: "DC 29, attack +21 - __Cantrips (5th)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/figment|Figment]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-projectile|Telekinetic Projectile]], [[srd/pf2e/compendium/spells/cantrips/void-warp|Void Warp]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/alarm|Alarm]], [[srd/pf2e/compendium/spells/rank-1/fear|Fear]], [[srd/pf2e/compendium/spells/rank-1/item-facade|Item Facade]] (3 slots) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]], [[srd/pf2e/compendium/spells/rank-2/revealing-light|Revealing Light]], [[srd/pf2e/compendium/spells/rank-2/status|Status]] (3 slots) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/clairaudience|Clairaudience]], [[srd/pf2e/compendium/spells/rank-3/hypnotize|Hypnotize]], [[srd/pf2e/compendium/spells/rank-3/locate|Locate]] (3 slots) - __4th__ [[srd/pf2e/compendium/spells/rank-4/clairvoyance|Clairvoyance]], [[srd/pf2e/compendium/spells/rank-4/detect-scrying|Detect Scrying]], [[srd/pf2e/compendium/spells/rank-4/peaceful-bubble|Peaceful Bubble]] (3 slots) - __5th__ [[srd/pf2e/compendium/spells/rank-5/illusory-scene|Illusory Scene]], [[srd/pf2e/compendium/spells/rank-5/shadow-blast|Shadow Blast]] (2 slots) - __7th__ [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|Illusory Disguise]] (self only), [[srd/pf2e/compendium/spells/rank-6/scrying|Scrying]] (2 slots)"
 sourcebook: "_NPC Core_, page 101."
 ```
 

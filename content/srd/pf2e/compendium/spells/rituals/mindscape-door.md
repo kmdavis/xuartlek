@@ -18,12 +18,12 @@ source: "Dark Archives (Remastered)"
 - **Cast**: 1 hour
 - **Cost**: incense and focusing diagrams worth a total value of the target's level (minimum 1) × 1 gp, for each target
 - **Secondary Casters**: 3
-- **Primary Check**: Arcana or Occultism (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (expert)
 - **Secondary Checks**: Arcana or Occultism, Deception or Diplomacy , Perception
 - **Range**: touch
 - **Target(s)**: yourself and up to 5 willing creatures
 
-You project the targets into an immersive mindscape or cause them to exit one. You must be aware the mindscape exists, though you don't need to know specifics. The casters must be in physical contact with one another in a circle for the duration of the casting and all targets must be selected from these casters. Your bodies typically remain behind in stasis when you enter Door a mindscape, though some mindscapes pull you entirely into them upon entrance. If you enter a mindscape, you can leave only by using another mindscape door ritual, finding an exit within the nature of the mindscape, or when the mindscape ceases to exist. When exiting a mindscape, you typically return to your bodies or to the location where you entered the mindscape. 
+You project the targets into an [[srd/pf2e/books/dark-archives-remastered/mindscape-statistics|immersive mindscape]] or cause them to exit one. You must be aware the mindscape exists, though you don't need to know specifics. The casters must be in physical contact with one another in a circle for the duration of the casting and all targets must be selected from these casters. Your bodies typically remain behind in stasis when you enter Door a mindscape, though some mindscapes pull you entirely into them upon entrance. If you enter a mindscape, you can leave only by using another mindscape door ritual, finding an exit within the nature of the mindscape, or when the mindscape ceases to exist. When exiting a mindscape, you typically return to your bodies or to the location where you entered the mindscape. 
 
 If the mindscape's creator wants to prevent anyone from entering or exiting, the DC of the primary check is the creator's Will DC if that would be higher than the ritual's normal DC.
 
@@ -33,7 +33,7 @@ If the mindscape's creator wants to prevent anyone from entering or exiting, the
 
 **Failure** You fail to enter or exit the mindscape.
 
-**Critical Failure** Something goes horribly wrong. The GM decides whether mental feedback deals 9d6 mental damage to all ritual casters (DC 26 basic Will save) or 1d4 casters are unwillingly pulled into the mindscape (or ejected from it).
+**Critical Failure** Something goes horribly wrong. The GM decides whether mental feedback deals 9d6 mental damage to all ritual casters (DC 26 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Will save) or 1d4 casters are unwillingly pulled into the mindscape (or ejected from it).
 
 ---
 **Heightened (8th)** The ritual targets up to 100 willing creatures, the critical failure damage increases to 20d6, and the critical failure save DC increases to 40.

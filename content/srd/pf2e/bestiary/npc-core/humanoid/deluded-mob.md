@@ -31,14 +31,14 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Conspiracy Lore +6, Intimidation +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/lore|Conspiracy Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9"
 abilityMods: [6, 1, 4, 0, -1, 1]
 abilities_top:
   - name: "Irrational"
-    desc: "The deluded mob is severely disconnected from reality. Diplomacy checks to Make an Impression or otherwise sway their worldview automatically fail."
+    desc: "The deluded mob is severely disconnected from reality. [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]] or otherwise sway their worldview automatically fail."
 ac: 19
 armorclass:
   - name: "AC"

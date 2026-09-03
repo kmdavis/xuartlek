@@ -33,7 +33,7 @@ perception:
     desc: "Perception +4; motion sense 60 feet, no vision"
 skills:
   - name: "Skills"
-    desc: "Athletics +6, Stealth +3"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +3"
 abilityMods: [3, -2, 2, -5, 0, -5]
 abilities_top:
   - name: "Motion Sense"
@@ -45,7 +45,7 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ acid, bleed, critical hits, mental, precision, unconscious, visual; __Weaknesses__ slashing 5"
+    desc: "45; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Critical Hits|critical hits]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]; __Weaknesses__ slashing 5"
 speed: "10 feet, climb 10 feet, swim 10 feet"
 attacks:
   - name: "Melee"
@@ -56,9 +56,9 @@ abilities_bot:
   - name: "Envelop"
     desc: "⬽"
   - name: "Requirements"
-    desc: "The giant amoeba begins its turn with a target its size or smaller grabbed"
+    desc: "The giant amoeba begins its turn with a target its size or smaller [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]"
   - name: "Effect"
-    desc: "The giant amoeba maintains the Grab and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had Engulfed the creature (DC 17, 1d6 acid, Escape DC 17, Rupture 3)."
+    desc: "The giant amoeba maintains the Grab and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had Engulfed the creature (DC 17, 1d6 acid, [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] DC 17, Rupture 3)."
   - name: "Weak Acid"
     desc: "A giant amoeba's acid damages only organic material—not metal, stone, or other inorganic substances. Amoebas Large And Small Giant amoebas and amoeba swarms are usually found near each other, as the two oozes are part of the same life cycle. When a giant amoeba grows large enough, it can spontaneously split apart into two separate amoeba swarms, and when an amoeba swarm feeds enough, its individual components can fuse together into a single creature."
 sourcebook: "_Monster Core 2_, page 241."

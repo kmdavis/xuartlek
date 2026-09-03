@@ -120,17 +120,17 @@ Characters use the actions listed below to move and interact with vehicles. The 
 
 ### Board [one-action]
 
-Move
+[[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]
 **Source** GM Core pg. 212
 **Requirements** You are adjacent to a point of entry on the vehicle you are attempting to board.
 
 ---
 
-You board a vehicle through an open top, a door, a portal, or a hatch; if you’re already on board, you can instead use this action to disembark into an empty space adjacent to the vehicle’s point of entry. Using this action while the vehicle is in motion is challenging, requiring a successful Acrobatics or Athletics check with a DC equal to the vehicle’s AC.
+You board a vehicle through an open top, a door, a portal, or a hatch; if you’re already on board, you can instead use this action to disembark into an empty space adjacent to the vehicle’s point of entry. Using this action while the vehicle is in motion is challenging, requiring a successful [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check with a DC equal to the vehicle’s AC.
 
 ### Drive (Varies)
 
-Move
+[[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]]
 **Source** GM Core pg. 212
 **Requirements** You are piloting a vehicle.
 
@@ -140,13 +140,13 @@ You pilot your vehicle to move. Decide how many actions you intend to spend befo
 
 [one-action] Attempt a piloting check. On a success, the vehicle moves up to its Speed and can turn normally. On a failure, the vehicle moves its Speed in a straight line. On a critical failure, the vehicle moves its Speed in a straight line and becomes uncontrolled.
 
-[two-actions] (reckless) The vehicle moves up to twice its Speed in a straight line at the vehicle’s current heading.
+[two-actions] ([[srd/pf2e/compendium/rules-elements/traits/gm-core/reckless|reckless]]) The vehicle moves up to twice its Speed in a straight line at the vehicle’s current heading.
 
-[three-actions] (reckless) You take a –5 penalty on your piloting check to maintain control of the vehicle. The vehicle moves up to three times its Speed in a straight line at the vehicle’s current heading.
+[three-actions] ([[srd/pf2e/compendium/rules-elements/traits/gm-core/reckless|reckless]]) You take a –5 penalty on your piloting check to maintain control of the vehicle. The vehicle moves up to three times its Speed in a straight line at the vehicle’s current heading.
 
 ### Run Over [three-actions]
 
-Move Reckless
+[[srd/pf2e/compendium/rules-elements/traits/player-core/move|Move]] [[srd/pf2e/compendium/rules-elements/traits/gm-core/reckless|Reckless]]
 **Source** GM Core pg. 212
 **Requirements** You are piloting a vehicle.
 
@@ -158,7 +158,7 @@ Each creature in your path, including a rammed target, takes the vehicle’s col
 
 ### Stop [one-action]
 
-Manipulate
+[[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]
 **Source** GM Core pg. 212
 **Requirements** You are piloting a vehicle in motion.
 
@@ -168,7 +168,7 @@ You bring the vehicle to a stop.
 
 ### Take Control [one-action]
 
-Manipulate
+[[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]
 **Source** GM Core pg. 212
 **Requirements** You are aboard the vehicle and adjacent to its controls.
 

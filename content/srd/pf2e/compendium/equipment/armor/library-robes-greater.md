@@ -17,9 +17,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: worn armor
 - **Bulk**: L
-- **Base Armor**: Scroll Robes
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Scroll Robes|Scroll Robes]]
 
-These _+1 resilient scroll robes_ magically store a spell for you. During your daily preparations, choose one spell you know of 5th level or lower. You inscribe that spell on the robes, as though you had done so using the robes' inscribed trait, but without needing to go through the normal scribing process. You must provide the minimum amount of materials to Craft one scroll of that spell (typically half the Price of a scroll of that level plus any extra cost required for the spell). You don't need to be trained in Crafting, nor do you need the Magical Crafting feat. Using this ability erases any scroll already inscribed on the robe.
+These _+1 resilient [[srd/pf2e/compendium/equipment/armor#Scroll Robes|scroll robes]]_ magically store a spell for you. During your daily preparations, choose one spell you know of 5th level or lower. You inscribe that spell on the robes, as though you had done so using the robes' [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/inscribed|inscribed]] trait, but without needing to go through the normal scribing process. You must provide the minimum amount of materials to Craft one scroll of that spell (typically half the Price of a scroll of that level plus any extra cost required for the spell). You don't need to be trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]], nor do you need the Magical Crafting feat. Using this ability erases any scroll already inscribed on the robe.
 
 ### Library Robes
 

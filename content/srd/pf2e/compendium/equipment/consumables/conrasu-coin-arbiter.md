@@ -18,7 +18,7 @@ source: "Dark Archives (Remastered)"
 `Consumable`  `Magical`  `Talisman`  `Uncommon`
 
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 These wooden discs sometimes form spontaneously at the Wood Pile, a secret conrasu location suffused with extraplanar energy. A _conrasu coin_ can be activated to call upon the power of a specific type of aeon.
 
@@ -28,9 +28,9 @@ These wooden discs sometimes form spontaneously at the Wood Pile, a secret conra
 
 ---
 
-**Trigger** You attempt a Diplomacy check to Make an Impression.
+**Trigger** You attempt a Diplomacy check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Make an Impression|Make an Impression]].
 
- This coin has small wings like an arbiter, the messenger and diplomat aeon. When you activate the coin, you gain a +2 circumstance bonus on the Diplomacy check, which increases to a +3 circumstance bonus to Make an Impression on a creature with the aeon trait.
+ This coin has small wings like an arbiter, the messenger and diplomat aeon. When you activate the coin, you gain a +2 circumstance bonus on the Diplomacy check, which increases to a +3 circumstance bonus to Make an Impression on a creature with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/aeon|aeon]] trait.
 
 ### Conrasu Coin (Bythos)
 
@@ -40,6 +40,6 @@ These wooden discs sometimes form spontaneously at the Wood Pile, a secret conra
 
 **Trigger** You're targeted with an attack but the opponent hasn't rolled yet.
 
- This cog-like coin bears an hourglass on one side and the four-armed silhouette of a bythos—aeons that steward over time—on the other. When activated, you catch a glimpse of your body moving on one of its potential timelines in response to danger and you follow those movements to dodge. You gain a +2 circumstance bonus to AC against the attack, and after resolving the attack, you can Stride up to 10 feet without triggering reactions. If you have the Nimble Roll feat and the attack misses, you can Stride up to 20 feet instead.
+ This cog-like coin bears an hourglass on one side and the four-armed silhouette of a bythos—aeons that steward over time—on the other. When activated, you catch a glimpse of your body moving on one of its potential timelines in response to danger and you follow those movements to dodge. You gain a +2 circumstance bonus to AC against the attack, and after resolving the attack, you can Stride up to 10 feet without triggering reactions. If you have the [[srd/pf2e/compendium/feats/player-core/class/nimble-roll|Nimble Roll]] feat and the attack misses, you can Stride up to 20 feet instead.
 
 *Source: Dark Archives (Remastered) p. 155*

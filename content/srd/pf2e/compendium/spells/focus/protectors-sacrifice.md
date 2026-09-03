@@ -17,7 +17,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`
 
-- **Domain**: Protection
+- **Domain**: [[srd/pf2e/compendium/character/domains#Protection|Protection]]
 - **Trigger**: An ally within 30 feet takes damage
 - **Range**: 30 feet
 

@@ -19,7 +19,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Focus`  `Manipulate`  `Prediction`  `Uncommon`
 
-- **Domain**: Fate
+- **Domain**: [[srd/pf2e/compendium/character/domains#Fate|Fate]]
 - **Range**: 30 feet
 - **Target**: 1 creature other than you
 

@@ -26,7 +26,7 @@ A clockwork wagon is a slow, bulky wagon with cogs and gears running all along i
 
 **Passengers** 2
 
-**Piloting Check** Driving Lore (DC 18) or Crafting (DC 20)
+**Piloting Check** Driving Lore (DC 18) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 20)
 
 ---
 

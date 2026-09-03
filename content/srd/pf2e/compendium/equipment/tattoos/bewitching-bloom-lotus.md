@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 While dormant, this tattoo appears to be a simple flower bud, but when activated the flower swiftly blossoms, remaining that way until the next time you make your daily preparations. These blooms are colorful, elegant representations of distinct flower species, as determined by its type.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** Choose a willing ally you can see within 30 feet. The ally fills with an emotion themed to the flower and gains the benefit listed for the type of _bewitching bloom_ you have.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** Choose a willing ally you can see within 30 feet. The ally fills with an emotion themed to the flower and gains the benefit listed for the type of _bewitching bloom_ you have.
 
 ### Bewitching Bloom (Amaranth)
 
@@ -37,7 +37,7 @@ The ally feels impervious, immortal. The next time they would take damage from a
 
 ---
 
-A need for freedom trills through your ally's blood. Until the end of that ally's next turn, they gain a +2 status bonus to rolls to recover from the confused, frightened, grabbed, paralyzed, and restrained conditions. When you Activate the bloom, the target can attempt a new save against a condition the bonus applies to, or they can use a reaction to attempt to Escape being grabbed, immobilized, or restrained, provided such an attempt is allowed.
+A need for freedom trills through your ally's blood. Until the end of that ally's next turn, they gain a +2 status bonus to rolls to recover from the [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], and [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] conditions. When you Activate the bloom, the target can attempt a new save against a condition the bonus applies to, or they can use a reaction to attempt to Escape being grabbed, [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], or restrained, provided such an attempt is allowed.
 
 ### Bewitching Bloom (Cherry Blossom)
 
@@ -45,7 +45,7 @@ A need for freedom trills through your ally's blood. Until the end of that ally'
 
 ---
 
-The ally understands the fleeting nature of life and accepts fate. For 1 minute, any recovery checks the ally attempts have a DC of 10 instead of 10 + the ally's dying value. The cherry blossom's activation can target an unconscious or dying ally.
+The ally understands the fleeting nature of life and accepts fate. For 1 minute, any recovery checks the ally attempts have a DC of 10 instead of 10 + the ally's [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] value. The cherry blossom's activation can target an [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] or dying ally.
 
 ### Bewitching Bloom (Lilac)
 
@@ -61,7 +61,7 @@ Memories bubble to the surface of your ally's mind. The ally attempts to Recall 
 
 ---
 
-A glow envelops your ally as a sense of enlightened peace ripples out from within. The ally gains a +2 status bonus to Will saves against mental effects for 1 minute. This bonus increases to +3 against emotion effects.
+A glow envelops your ally as a sense of enlightened peace ripples out from within. The ally gains a +2 status bonus to Will saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects for 1 minute. This bonus increases to +3 against [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects.
 
 ### Bewitching Bloom (Magnolia)
 
@@ -69,7 +69,7 @@ A glow envelops your ally as a sense of enlightened peace ripples out from withi
 
 ---
 
-Your ally seems more charming, though no one can pinpoint why. They gain a +1 status bonus to Diplomacy checks for 10 minutes. Once on their next turn, the ally can attempt to draw a creature's attention. To do so, the ally must spend 1 action (which has the emotion, mental, and visual traits) to select a creature the ally can see and make eye contact in a way the target can see. The target must succeed at a DC 20 Will save or be fascinated with your ally until the end of that ally's next turn. If the save succeeds or the effect ends, the target is temporarily immune to being fascinated by any _magnolia bewitching bloom_ for 24 hours.
+Your ally seems more charming, though no one can pinpoint why. They gain a +1 status bonus to [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks for 10 minutes. Once on their next turn, the ally can attempt to draw a creature's attention. To do so, the ally must spend 1 action (which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] traits) to select a creature the ally can see and make eye contact in a way the target can see. The target must succeed at a DC 20 Will save or be [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with your ally until the end of that ally's next turn. If the save succeeds or the effect ends, the target is temporarily immune to being fascinated by any _magnolia bewitching bloom_ for 24 hours.
 
 ### Bewitching Bloom (Purple Iris)
 
@@ -77,7 +77,7 @@ Your ally seems more charming, though no one can pinpoint why. They gain a +1 st
 
 ---
 
-Your ally takes on a regal bearing, exuding the presence of confident royalty. The bloom casts a 5th-rank _command_ spell (DC 28) selecting targets within range of the ally. Each target that fails the save must fall prone and pays homage to your ally.
+Your ally takes on a regal bearing, exuding the presence of confident royalty. The bloom casts a 5th-rank _command_ spell (DC 28) selecting targets within range of the ally. Each target that fails the save must fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and pays homage to your ally.
 
 ### Bewitching Bloom (Red Rose)
 
@@ -85,7 +85,7 @@ Your ally takes on a regal bearing, exuding the presence of confident royalty. T
 
 ---
 
-The ally fills with feelings of love. They chooses a creature that the ally has strong positive emotions toward as beloved. While the ally is within 10 feet of this beloved, the ally gains a +1 status bonus to saving throws. If the ally starts their turn within 10 feet of the beloved, the ally gains 5 temporary Hit Points. These benefits last for 1 minute, and temporary HP remaining from this effect at the end of that time disappear. This effect has the emotion and mental traits.
+The ally fills with feelings of love. They chooses a creature that the ally has strong positive emotions toward as beloved. While the ally is within 10 feet of this beloved, the ally gains a +1 status bonus to saving throws. If the ally starts their turn within 10 feet of the beloved, the ally gains 5 temporary Hit Points. These benefits last for 1 minute, and temporary HP remaining from this effect at the end of that time disappear. This effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] traits.
 
 ### Bewitching Bloom (White Poppy)
 
@@ -93,6 +93,6 @@ The ally fills with feelings of love. They chooses a creature that the ally has 
 
 ---
 
-A sense of peace overwhelms the ally. The tattoo casts _calm_ or _sanctuary_ (your choice) on the ally. The spell affects only the ally and lasts only until the end of your next turn. Your ally need not be willing if under the control of another creature. However, the controlling creature can attempt a DC 20 Will save, disrupting your activation on a success.
+A sense of peace overwhelms the ally. The tattoo casts [[srd/pf2e/compendium/spells/rank-2/calm|_calm_]] or _sanctuary_ (your choice) on the ally. The spell affects only the ally and lasts only until the end of your next turn. Your ally need not be willing if under the control of another creature. However, the controlling creature can attempt a DC 20 Will save, disrupting your activation on a success.
 
 *Source: Treasure Vault (Remastered) p. 119*

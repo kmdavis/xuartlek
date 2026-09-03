@@ -31,14 +31,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; darkvision, snow vision"
-languages: "Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Stealth +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
 abilityMods: [5, 2, 4, 0, 4, 0]
 abilities_top:
   - name: "Snow Vision"
-    desc: "The blizzardborn ignores the concealed condition from falling snow."
+    desc: "The blizzardborn ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from falling snow."
 ac: 24
 armorclass:
   - name: "AC"
@@ -46,21 +46,21 @@ armorclass:
 hp: 105
 health:
   - name: "HP"
-    desc: "105; __Immunities__ bleed, cold, paralyzed, poison, sleep; __Weaknesses__ fire 5"
+    desc: "105; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
 abilities_mid:
   - name: "Shattering Ice"
     desc: "⬲"
   - name: "Trigger"
     desc: "An enemy hits the blizzardborn with an attack that deals physical damage"
   - name: "Effect"
-    desc: "A portion of the blizzardborn's body shatters into an explosion of razor-sharp ice crystals and blinding snow that deals 2d6 piercing damage to opponents in a 5-foot emanation (DC 24 basic Reflex save). Anyone who fails is also blinded for 1 round (3 rounds on a critical failure)."
+    desc: "A portion of the blizzardborn's body shatters into an explosion of razor-sharp ice crystals and blinding snow that deals 2d6 piercing damage to opponents in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] (DC 24 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). Anyone who fails is also [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round (3 rounds on a critical failure)."
 speed: "25 feet, ice burrow 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ ice claw +17 (versatile B) __Damage__ 2d6+8 slashing plus 1d6 persistent cold"
+    desc: "⬻ ice claw +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile B]]) __Damage__ 2d6+8 slashing plus 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent cold]]"
 abilities_bot:
   - name: "Ice Burrow"
-    desc: "The blizzardborn can Burrow through ice or snow with a Speed of 20 feet. It moves at its full burrow Speed, leaving no tunnels or signs of its passing."
+    desc: "The blizzardborn can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through ice or snow with a Speed of 20 feet. It moves at its full burrow Speed, leaving no tunnels or signs of its passing."
 sourcebook: "_Monster Core 2_, page 151."
 ```
 

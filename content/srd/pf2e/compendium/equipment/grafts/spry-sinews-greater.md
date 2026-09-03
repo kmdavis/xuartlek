@@ -18,7 +18,7 @@ source: "Howl of the Wild"
 
 - **Usage**: implanted
 
-The tendons in your legs are uncommonly stretchy. When you Leap, increase the distance traveled by the listed amount.
+The tendons in your legs are uncommonly stretchy. When you [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], increase the distance traveled by the listed amount.
 
 ### Spry Sinews (Lesser)
 
@@ -26,7 +26,7 @@ The tendons in your legs are uncommonly stretchy. When you Leap, increase the di
 
 ---
 
-You increase the horizontal distance of your Leap by 5 feet and the vertical distance by 3 feet.
+You increase the horizontal distance of your [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]] by 5 feet and the vertical distance by 3 feet.
 
 ### Spry Sinews (Greater)
 
@@ -34,6 +34,6 @@ You increase the horizontal distance of your Leap by 5 feet and the vertical dis
 
 ---
 
-You increase the horizontal distance of your Leap by 10 feet and the vertical distance by 6 feet.
+You increase the horizontal distance of your [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]] by 10 feet and the vertical distance by 6 feet.
 
 *Source: Howl of the Wild p. 99*

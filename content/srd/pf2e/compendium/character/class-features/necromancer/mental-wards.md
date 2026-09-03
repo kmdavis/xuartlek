@@ -13,6 +13,6 @@ source: "Impossible Magic"
 
 - **Class**: Necromancer
 
-You have created wards to protect yourself against the mental effects caused by undead creatures and effects. Your proficiency rank for Will saves increases to expert. When you roll a success at a Will save against a mental or possession effect caused by an undead or haunt, you get a critical success instead.
+You have created wards to protect yourself against the mental effects caused by undead creatures and effects. Your proficiency rank for Will saves increases to expert. When you roll a success at a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/possession|possession]] effect caused by an undead or haunt, you get a critical success instead.
 
 *Source: Impossible Magic p. 27*

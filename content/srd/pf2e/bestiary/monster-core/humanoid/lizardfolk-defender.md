@@ -29,10 +29,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7"
-languages: "Common, Draconic, Iruxi"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], Iruxi"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Athletics +6, Survival +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5"
 abilityMods: [3, 2, 3, -1, 2, 0]
 abilities_top:
   - name: "Deep Breath"
@@ -55,16 +55,16 @@ abilities_mid:
 speed: "25 feet, swim 15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ flail +8 (Disarm, Sweep, Trip) __Damage__ 1d6+3 bludgeoning"
+    desc: "⬻ flail +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d6+3 bludgeoning"
   - name: "Melee"
     desc: "⬻ jaws +8 __Damage__ 1d6+3 piercing"
   - name: "Melee"
-    desc: "⬻ tail +8 (Agile) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ tail +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ javelin +7 (thrown 30 feet) __Damage__ 1d6+3 piercing"
+    desc: "⬻ javelin +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 30 feet]]) __Damage__ 1d6+3 piercing"
 abilities_bot:
   - name: "Terrain Advantage"
-    desc: "Non-lizardfolk creatures that are in difficult terrain or are in water and lack a swim Speed are off-guard to the lizardfolk defender."
+    desc: "Non-[[srd/pf2e/compendium/rules-elements/traits/player-core-2/lizardfolk|lizardfolk]] creatures that are in difficult terrain or are in water and lack a swim Speed are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to the lizardfolk defender."
 sourcebook: "_Monster Core_, page 226."
 ```
 

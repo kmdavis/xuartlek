@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 Carved from a hawthorn branch, this wand has a smooth handle, but the shaft remains covered in bark and long thorns. Polished red stones, arranged like a cluster of berries, decorate the pommel.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _oaken resilience_ of the indicated rank, and the target sprouts long thorns like those of a hawthorn tree. While _oaken resilience_ lasts, any creature that hits the target with an unarmed Strike or otherwise touches it takes piercing damage from the thorns, with the amount determined by the wand’s type. A creature that has engulfed or swallowed the target takes this damage as well at the start of each of the target’s turns.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-2/oaken-resilience|_oaken resilience_]] of the indicated rank, and the target sprouts long thorns like those of a hawthorn tree. While _oaken resilience_ lasts, any creature that hits the target with an unarmed Strike or otherwise touches it takes piercing damage from the thorns, with the amount determined by the wand’s type. A creature that has engulfed or swallowed the target takes this damage as well at the start of each of the target’s turns.
 
 **Craft Requirements** Supply a casting of _Oaken Resilience_ of the appropriate rank.
 

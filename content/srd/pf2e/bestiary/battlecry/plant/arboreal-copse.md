@@ -33,10 +33,10 @@ modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; low-light vision"
-languages: "Arboreal, Common, Fey"
+languages: "Arboreal, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +20, Stealth +16"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +20, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +16"
 abilityMods: [5, 1, 5, 2, 5, 1]
 ac: 27
 armorclass:
@@ -45,14 +45,14 @@ armorclass:
 hp: 150
 health:
   - name: "HP"
-    desc: "150 (4 segments); __Resistances__ bludgeoning 8, piercing 8; __Weaknesses__ area damage 10, axes 8, fire 12, splash damage 10"
+    desc: "150 (4 segments); __Resistances__ bludgeoning 8, piercing 8; __Weaknesses__ area damage 10, axes 8, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 12, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
 abilities_mid:
   - name: "Reactive Attack"
     desc: "⬲"
   - name: "Trigger"
-    desc: "An enemy within 5 feet of the arboreal copse uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using"
+    desc: "An enemy within 5 feet of the arboreal copse uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, makes a ranged attack, or leaves a square during a move action it's using"
   - name: "Effect"
-    desc: "The arboreals swing their stone swords. The triggering enemy takes 2d8+9 bludgeoning damage (DC 25 basic Reflex save). If the creature critically fails their saving throw and the trigger was a manipulate action, the troop disrupts that action."
+    desc: "The arboreals swing their stone swords. The triggering enemy takes 2d8+9 bludgeoning damage (DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). If the creature critically fails their saving throw and the trigger was a manipulate action, the troop disrupts that action."
   - name: "Troop Defenses"
     desc: ""
 speed: "25 feet; troop movement"
@@ -60,9 +60,9 @@ abilities_bot:
   - name: "Raise Shields"
     desc: "⬻ The arboreal wardens of the copse raise their shields in tandem, gaining a +2 circumstance bonus to AC and Reflex saves."
   - name: "Shoving Shield Wall"
-    desc: "⬺ The arboreal copse Strides. All enemies whose square the copse begins in or passes through during their movement take 5d6 bludgeoning damage (DC 25 basic Fortitude). On a failed saving throw, the arboreal copse carries the creature along on their shields, moving them in the same distance and direction for the rest of their Stride."
+    desc: "⬺ The arboreal copse Strides. All enemies whose square the copse begins in or passes through during their movement take 5d6 bludgeoning damage (DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude). On a failed saving throw, the arboreal copse carries the creature along on their shields, moving them in the same distance and direction for the rest of their Stride."
   - name: "Sword Bash"
-    desc: "The arboreal copse uses their blunt stone longswords to pummel its foes. Each enemy in a 10- foot emanation must attempt a DC 25 basic Reflex save. The damage depends on the number of actions. ⬻ 1d8+1 bludgeoning damage ⬺ 2d8+9 bludgeoning damage ⬽ 3d8+10 bludgeoning damage"
+    desc: "The arboreal copse uses their blunt stone longswords to pummel its foes. Each enemy in a 10- foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] must attempt a DC 25 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d8+1 bludgeoning damage ⬺ 2d8+9 bludgeoning damage ⬽ 3d8+10 bludgeoning damage"
 sourcebook: "_Battlecry!_, page 173."
 ```
 

@@ -34,34 +34,34 @@ perception:
 languages: "telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +16, Deception +18, Intimidation +18, Occultism +12, Stealth +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +18"
 abilityMods: [-5, 4, 3, 0, 2, 6]
 ac: 24
 armorclass:
   - name: "AC"
-    desc: "24; __Fort__: +15; __Ref__: +18; __Will__: +14 +1 status to all saves vs. magic"
+    desc: "24; __Fort__: +15; __Ref__: +18; __Will__: +14 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magic]]"
 hp: 110
 health:
   - name: "HP"
-    desc: "110; __Immunities__ bleed, disease, paralyzed, poison, precision, sleep; __Resistances__ all 5 (except &amp;lt;%TRAITS%610%%&amp;gt; force &amp;lt;%END>, &amp;lt;%TREASURE%2840%%&amp;gt; _ghost touch_ &amp;lt;%END>, &amp;lt;%TRAITS%737%%&amp;gt; spirit &amp;lt;%END>, or &amp;lt;%TRAITS%510%%&amp;gt; void &amp;lt;%END>) double resistance vs. non-magical)"
+    desc: "110; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision, [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ all 5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/orc|except &amp;lt;%TRAITS%610%%&amp;gt; force]] &amp;lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/monster-core/ghost|&amp;lt;%TREASURE%2840%%&amp;gt; _ghost touch_]] &amp;lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|&amp;lt;%TRAITS%737%%&amp;gt; spirit]] &amp;lt;%END>, [[srd/pf2e/compendium/rules-elements/traits/player-core/void|or &amp;lt;%TRAITS%510%%&amp;gt; void]] &amp;lt;%END>) double resistance vs. non-[[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])"
 speed: "fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ nightmare tendril +20 (Agile, Finesse) __Damage__ 4d8 void plus endless nightmare"
+    desc: "⬻ nightmare tendril +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 4d8 void plus endless nightmare"
 abilities_bot:
   - name: "Endless Nightmare"
-    desc: "(Curse, Emotion, Fear, Mental, Occult) An animate dream's touch fills the victim's mind with terrifying visions"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|Emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|Fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) An animate dream's touch fills the victim's mind with terrifying visions"
   - name: "Saving Throw"
     desc: "DC 26 Fortitude"
   - name: "Stage 1"
-    desc: "fatigued (1 day)"
+    desc: "[[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] (1 day)"
   - name: "Stage 2"
-    desc: "fatigued and stupefied 1 (1 day)"
+    desc: "fatigued and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] (1 day)"
   - name: "Stage 3"
-    desc: "The victim falls asleep and can't be awakened as long as they remain at this stage (1 day). Enslaved Dreams Cuckoo hags have been known to enslave animate dreams, forcing them to feed upon themselves. These captives break down into a fearful essence used for the hag's rituals."
+    desc: "The victim falls asleep and can't be awakened as long as they remain at this stage (1 day). Enslaved Dreams [[srd/pf2e/bestiary/monster-core/humanoid/cuckoo-hag|Cuckoo hags]] have been known to enslave animate dreams, forcing them to feed upon themselves. These captives break down into a fearful essence used for the hag's rituals."
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 26 - __3rd__ Fear - __4th__ Confusion, Nightmare, Sleep, Translocate (at will), Vision of Death"
+    desc: "DC 26 - __3rd__ [[srd/pf2e/compendium/spells/rank-1/fear|Fear]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/confusion|Confusion]], [[srd/pf2e/compendium/spells/rank-4/nightmare|Nightmare]], [[srd/pf2e/compendium/spells/rank-1/sleep|Sleep]], [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (at will), [[srd/pf2e/compendium/spells/rank-4/vision-of-death|Vision of Death]]"
 sourcebook: "_Monster Core 2_, page 31."
 ```
 

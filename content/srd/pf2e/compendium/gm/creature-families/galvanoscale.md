@@ -14,6 +14,6 @@ An interesting characteristic among a number of Golarion's reptiles is their cap
 
 ### Members
 
-Giant Coppermouth (Creature 7), Lightning Turtle (Creature 12), Magnetic Gecko (Creature 1)
+[[srd/pf2e/bestiary/howl-of-the-wild/animal/giant-coppermouth|Giant Coppermouth]] (Creature 7), [[srd/pf2e/bestiary/howl-of-the-wild/animal/lightning-turtle|Lightning Turtle]] (Creature 12), [[srd/pf2e/bestiary/howl-of-the-wild/animal/magnetic-gecko|Magnetic Gecko]] (Creature 1)
 
 *Source: Howl of the Wild p. 152*

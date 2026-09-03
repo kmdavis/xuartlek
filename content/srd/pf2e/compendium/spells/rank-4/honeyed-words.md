@@ -20,6 +20,6 @@ source: "Player Core"
 - **Deities**: Abrogail, Cormigus, Cormion, Dhalavei, Grandmother Spider, Ussharassim, Vulot, Ydajisk
 - **Duration**: 10 minutes
 
-Falsehoods pass your lips as smoothly as silk. You gain a +4 status bonus to Deception checks to Lie and against Perception checks to discern if you are telling the truth, and you add your level even if untrained. If the implausibility of your lies prompts a circumstance penalty or a DC increase, reduce that penalty by half or increase it by half.
+Falsehoods pass your lips as smoothly as silk. You gain a +4 status bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks to Lie and against Perception checks to discern if you are telling the truth, and you add your level even if untrained. If the implausibility of your lies prompts a circumstance penalty or a DC increase, reduce that penalty by half or increase it by half.
 
 *Source: Player Core p. 335*

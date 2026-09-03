@@ -33,9 +33,9 @@ To the target, your words are honey and your visage seems bathed in a dreamy haz
 
 **Critical Success** The target is unaffected and aware you tried to charm it.
 
-**Success** The target is unaffected but thinks your spell was something harmless instead of _charm_, unless it identifies the spell.
+**Success** The target is unaffected but thinks your spell was something harmless instead of _charm_, unless it [[srd/pf2e/books/player-core/chapter-7-spells/identifying-spells|identifies the spell]].
 
-**Failure** The target's attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can't use hostile actions against you.
+**Failure** The target's attitude becomes [[srd/pf2e/compendium/rules-elements/conditions#Friendly|friendly]] toward you. If it was friendly, it becomes [[srd/pf2e/compendium/rules-elements/conditions#Helpful|helpful]]. It can't use hostile actions against you.
 
 **Critical Failure** The target's attitude becomes helpful toward you, and it can't use hostile actions against you.
 

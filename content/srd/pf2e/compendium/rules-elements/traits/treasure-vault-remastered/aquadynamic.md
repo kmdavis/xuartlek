@@ -13,6 +13,6 @@ source: "Treasure Vault (Remastered)"
 
 `Aquadynamic`
 
-This armor is designed for use underwater, with streamlined design and buoyant materials used in strategic places. You don't apply the armor's check penalty to Acrobatics or Athletics checks in water or similar liquids.
+This armor is designed for use underwater, with streamlined design and buoyant materials used in strategic places. You don't apply the armor's check penalty to [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks in water or similar liquids.
 
 *Source: Treasure Vault (Remastered) p. 216*

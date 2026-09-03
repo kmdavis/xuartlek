@@ -23,7 +23,7 @@ source: "Player Core"
 - **Target**: 1 creature
 - **Duration**: sustained up to 1 minute
 
-Your patron's aegis descends to shield a target from harm. Designate one of the following creature traits: aberration, animal, beast, celestial, construct, dragon, elemental, fey, fiend, fungus, monitor, ooze, plant, or undead. The target gains a +1 status bonus to its saving throws and AC against creatures with that trait.
+Your patron's aegis descends to shield a target from harm. Designate one of the following creature traits: [[srd/pf2e/compendium/rules-elements/traits/player-core/aberration|aberration]], [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/beast|beast]], [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestial]], [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|construct]], [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragon]], [[srd/pf2e/compendium/rules-elements/traits/player-core/elemental|elemental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fey|fey]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fungus|fungus]], [[srd/pf2e/compendium/rules-elements/traits/player-core/monitor|monitor]], [[srd/pf2e/compendium/rules-elements/traits/player-core/ooze|ooze]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. The target gains a +1 status bonus to its saving throws and AC against creatures with that trait.
 
 ---
 **Heightened (5th)** The status bonus increases to +2.

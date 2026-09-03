@@ -31,7 +31,7 @@ perception:
     desc: "Perception +9; crystal sense (imprecise) 60 feet, darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +11, Survival +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +9"
 abilityMods: [4, -1, 3, -4, 2, -1]
 abilities_top:
   - name: "Crystal Sense"
@@ -43,14 +43,14 @@ armorclass:
 hp: 44
 health:
   - name: "HP"
-    desc: "44; __Immunities__ bleed, paralyzed, poison, sleep"
+    desc: "44; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 speed: "30 feet, burrow 20 feet; earth glide"
 attacks:
   - name: "Melee"
     desc: "⬻ jaws +11 __Damage__ 1d10+6 piercing plus Knockdown"
 abilities_bot:
   - name: "Earth Glide"
-    desc: "The sod hound can Burrow through any earthen matter, including rock. When it does so, the sod hound moves at its full burrow Speed, leaving no tunnels or signs of its passing."
+    desc: "The sod hound can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through any earthen matter, including rock. When it does so, the sod hound moves at its full burrow Speed, leaving no tunnels or signs of its passing."
 sourcebook: "_Monster Core_, page 142."
 ```
 

@@ -30,6 +30,6 @@ _Preserving_ runes are common among merchants and other travelers who are on the
 
 Non-magical food and drink inside the container never spoil, and the rune has an activation.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** The container casts _cleanse cuisine_ on all the food and drink within.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The container casts [[srd/pf2e/compendium/spells/rank-1/cleanse-cuisine|_cleanse cuisine_]] on all the food and drink within.
 
 *Source: Treasure Vault (Remastered) p. 144*

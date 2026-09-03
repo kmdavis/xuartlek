@@ -20,7 +20,7 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-Sold only in single sticks, this foul incense comes coated with a bevy of alchemical smoke that activates in the presence of intense heat, releasing its namesake pungent odor. Adding this catalyst to a __wall of fire__ spell fills all squares adjacent to the wall with thick, foul smoke. Creatures in this area are concealed, and other creatures are concealed to creatures in the area. The smoke lasts for the duration of the spell.
+Sold only in single sticks, this foul incense comes coated with a bevy of alchemical smoke that activates in the presence of intense heat, releasing its namesake pungent odor. Adding this catalyst to a _[[srd/pf2e/compendium/spells/rank-4/wall-of-fire|_wall of fire_]]_ spell fills all squares adjacent to the wall with thick, foul smoke. Creatures in this area are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and other creatures are concealed to creatures in the area. The smoke lasts for the duration of the spell.
 
 ### Noxious Incense
 

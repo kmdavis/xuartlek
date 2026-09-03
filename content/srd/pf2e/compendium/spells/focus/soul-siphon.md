@@ -24,13 +24,13 @@ source: "Player Core 2"
 - **Target**: 1 living creature
 - **Defense**: Fortitude
 
-You siphon off a portion of the target's soul to bolster your own vitality. The target must attempt a Fortitude save or take 1d4 void damage. You gain temporary Hit Points equal to the total amount of HP the target loses, including the HP lost from becoming drained.
+You siphon off a portion of the target's soul to bolster your own vitality. The target must attempt a Fortitude save or take 1d4 void damage. You gain temporary Hit Points equal to the total amount of HP the target loses, including the HP lost from becoming [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]].
 
 **Critical Success** The creature is unaffected.
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and becomes drained 1.
+**Failure** The creature takes full damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]].
 
 **Critical Failure** The creature takes double damage and becomes drained 2.
 

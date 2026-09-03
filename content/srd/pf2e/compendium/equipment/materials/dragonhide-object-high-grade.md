@@ -18,7 +18,7 @@ source: "Player Core 2"
 - **Price**: 350 gp
 - **Bulk**: L
 
-The hide and scales of a dragon can be used to Craft any item normally made of ordinary leather or hide. Dragonhide varies in color and texture, depending on the dragon it came from. Due to dragonhide's resiliency, it can also be used to Craft armor usually made out of metal plates (such as a breastplate, half plate, and full plate), allowing such armor to be made without metal. Dragonhide objects are immune to one damage type, depending on the tradition associated with the dragon. 
+The hide and scales of a dragon can be used to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] any item normally made of ordinary leather or hide. Dragonhide varies in color and texture, depending on the dragon it came from. Due to dragonhide's resiliency, it can also be used to Craft armor usually made out of metal plates (such as a [[srd/pf2e/compendium/equipment/armor#Breastplate|breastplate]], [[srd/pf2e/compendium/equipment/armor#Half Plate|half plate]], and [[srd/pf2e/compendium/equipment/armor#Full Plate|full plate]]), allowing such armor to be made without metal. Dragonhide objects are immune to one damage type, depending on the tradition associated with the dragon. 
 
 ## 
 
@@ -32,9 +32,9 @@ The hide and scales of a dragon can be used to Craft any item normally made of o
 
 #### Material Uses
 
-Dragonhide Armor
+[[srd/pf2e/compendium/equipment/armor/dragonhide-armor-high-grade|Dragonhide Armor]]
 
-Dragonhide Shield
+[[srd/pf2e/compendium/equipment/shields/dragonhide-shield-high-grade|Dragonhide Shield]]
 
 ### Dragonhide Object (Standard-Grade)
 

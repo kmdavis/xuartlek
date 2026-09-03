@@ -29,9 +29,9 @@ These abilities appear across all kinds of mythic monsters, at the levels indica
 **Mythic Power (4th):** The creature has a pool of 3 Mythic Points, and can spend those Mythic Points for any of the following actions it has.
 
 - **Mythic Skill** [free-action] **Cost** 1 Mythic Point; **Effect** The creature attempts its next skill check with a +4 bonus and is considered to have mythic proficiency for that check. This applies to one skill when this ability is gained and a second skill if the creature is 12th level or higher.
-- **Recharge** [one-action] (concentrate) **Cost** 1 Mythic Point; **Effect** The creature gains one additional use of a spell or ability that is normally only available a limited number of times. For example, a spellcaster can regain an expended slot or use an ability with a frequency of once per day again.
-- **Remove a Condition** [one-action] (concentrate) **Cost** 1 Mythic Point; **Effect** The creature ends one condition affecting it.
-- **Reroll** [free-action] (fortune) **Cost** 1 Mythic Point; **Trigger** The creature fails a check; **Effect** The creature rerolls the check.
+- **Recharge** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Cost** 1 Mythic Point; **Effect** The creature gains one additional use of a spell or ability that is normally only available a limited number of times. For example, a spellcaster can regain an expended slot or use an ability with a frequency of once per day again.
+- **Remove a Condition** [one-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Cost** 1 Mythic Point; **Effect** The creature ends one condition affecting it.
+- **Reroll** [free-action] ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]]) **Cost** 1 Mythic Point; **Trigger** The creature fails a check; **Effect** The creature rerolls the check.
 - **Undying Myth** [free-action] **Cost** all the creature's Mythic Points; **Trigger** The creature would die and has at least 1 Mythic Point; **Effect** The creature remains standing and conscious, and recovers 50% of its maximum Hit Points.
 
 **Mythic Defenses (20th):** Whenever an attacker rolls a critical hit against a creature with mythic defenses, the attacker must reroll the attack roll and take the new result.

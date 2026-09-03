@@ -32,7 +32,7 @@ perception:
 languages: "Caligni"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Athletics +4, Stealth +10, Thievery +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +10, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +8"
 abilityMods: [0, 4, 3, -1, 2, 1]
 abilities_top:
   - name: "Items"
@@ -47,18 +47,18 @@ health:
     desc: "30 (final night)"
 abilities_mid:
   - name: "Final Night"
-    desc: "(darkness, occult) When the caligni skulker dies, their remains dissolve into a 20-foot emanation of inky darkness before dissipating. The darkness extinguishes non-magical light sources and attempts to counteract magical light as a 1st-rank effect with a +10 counteract modifier. The skulker's possessions are left in a pile where they died."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/darkness|darkness]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) When the caligni skulker dies, their remains dissolve into a 20-foot emanation of inky darkness before dissipating. The darkness extinguishes non-magical light sources and attempts to counteract magical [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]] as a 1st-rank effect with a +10 counteract modifier. The skulker's possessions are left in a pile where they died."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +10 (Agile, Finesse, versatile S) __Damage__ 1d4+4 piercing plus darkening poison"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing plus darkening poison"
   - name: "Ranged"
-    desc: "⬻ dagger +10 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4 piercing plus darkening poison"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4 piercing plus darkening poison"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "The caligni skulker deals 1d6 extra precision damage to off-guard creatures."
+    desc: "The caligni skulker deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
   - name: "Tumble Behind"
-    desc: "When the caligni skulker Tumbles Through a creature's space, that creature is off-guard against the next attack the skulker makes against it before the end of its turn."
+    desc: "When the caligni skulker [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumbles Through]] a creature's space, that creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against the next attack the skulker makes against it before the end of its turn."
 sourcebook: "_Monster Core_, page 48."
 ```
 

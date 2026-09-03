@@ -16,7 +16,7 @@ source: "Treasure Vault (Remastered)"
 `Consumable`  `Magical`
 
 - **Ammunition**: any
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
 A glistening, tar-like substance that's displeasing to the touch coats a _black tendril shot_. When the activated ammunition hits a target, it exudes tendrils that encase the target, which must attempt a Fortitude saving throw. The ammunition's effects last until the target Escapes. DCs for the saving throw and Escape vary by type.
 

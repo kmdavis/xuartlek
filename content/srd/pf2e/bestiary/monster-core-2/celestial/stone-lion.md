@@ -31,10 +31,10 @@ modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; darkvision"
-languages: "Common, Empyrean; telepathy 60 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; telepathy 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +10, Intimidation +8, Meteorology Lore +11, Religion +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +8, [[srd/pf2e/compendium/rules-elements/skills/lore|Meteorology Lore]] +11, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +13"
 abilityMods: [4, 3, 3, 1, 5, 0]
 abilities_top:
   - name: "Anchored Soul"
@@ -42,16 +42,16 @@ abilities_top:
 ac: 21
 armorclass:
   - name: "AC"
-    desc: "21; __Fort__: +11; __Ref__: +9; __Will__: +13 +1 status to all saves vs. unholy"
+    desc: "21; __Fort__: +11; __Ref__: +9; __Will__: +13 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]]"
 hp: 50
 health:
   - name: "HP"
-    desc: "50; __Immunities__ disease, paralyzed, petrified, poison"
+    desc: "50; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]"
 abilities_mid:
   - name: "Bonded Vessel"
     desc: "The condition of a stone lion's vessel dictates the lion's maximum Hit Point value. Undamaged, the vessel is an object with 50 hit Points (BT 25). When the cub is in spirit form, damaging it doesn't hurt the vessel, but damaging the vessel deals an equal amount of damage to the lion. When the lion Inhabits its Vessel, they're a single target, and damage reduces the Hit Points of both the lion and the vessel. If the vessel is broken, the lion can still fight normally while inhabiting it and takes no ill effect, but if the vessel is ever destroyed, the lion is instantly slain and can't reconstitute."
   - name: "Reconstitution"
-    desc: "(divine) When the lion reaches 0 Hit Points, its spirit dissipates. If its bonded vessel is intact, the lion re-forms in this vessel after 2d4 days, fully healed. If the vessel is broken, it must first be Repaired, after which the cub reforms in 3d4 days."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) When the lion reaches 0 Hit Points, its spirit dissipates. If its bonded vessel is intact, the lion re-forms in this vessel after 2d4 days, fully healed. If the vessel is [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]], it must first be Repaired, after which the cub reforms in 3d4 days."
 speed: "fly 40 feet"
 attacks:
   - name: "Melee"
@@ -60,9 +60,9 @@ attacks:
     desc: "⬻ stone ball +13 (range increment 30 feet) __Damage__ 2d4+7 bludgeoning"
 abilities_bot:
   - name: "Inhabit Vessel"
-    desc: "⬺ (Manipulate) The lion touches and melds with its bonded vessel, bringing the statue to life. It can cease Inhabiting its Vessel by Dismissing the effect. While Inhabiting the Vessel, it loses its fly Speed and gains: Immunities healing, nonlethal; but Resistances physical 5 (except bludgeoning), Speed 20 feet, and it gains the following Strikes."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The lion touches and melds with its bonded vessel, bringing the statue to life. It can cease Inhabiting its Vessel by [[srd/pf2e/books/player-core/chapter-7-spells/durations#Dismissing|Dismissing]] the effect. While Inhabiting the Vessel, it loses its [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Fly Speed|fly Speed]] and gains: Immunities [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]]; but Resistances physical 5 (except bludgeoning), Speed 20 feet, and it gains the following Strikes."
   - name: "Spirit Body"
-    desc: "When not Inhabiting its Vessel, the cub is incorporeal and gains resistance 5 to all damage (except force damage and damage from Strikes with the _ghost touch_ property rune; double resistance against non-magical)."
+    desc: "When not Inhabiting its Vessel, the cub is [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] and gains resistance 5 to all damage (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]] damage and damage from Strikes with the [[srd/pf2e/compendium/equipment/runes/ghost-touch|_ghost touch_]] property rune; double resistance against non-magical)."
 sourcebook: "_Monster Core 2_, page 183."
 ```
 

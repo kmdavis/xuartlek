@@ -29,7 +29,7 @@ perception:
     desc: "Perception +15; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +14, Athletics +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +14, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17"
 abilityMods: [6, 4, 3, -4, 2, -1]
 ac: 25
 armorclass:
@@ -42,14 +42,14 @@ health:
 speed: "15 feet, fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ beak +17 (deadly d10, reach 10 feet) __Damage__ 2d10+10 piercing plus 1d8 persistent bleed"
+    desc: "⬻ beak +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/deadly|deadly d10]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d10+10 piercing plus 1d8 persistent bleed"
   - name: "Melee"
     desc: "⬻ talon +17 __Damage__ 2d8+10 piercing plus Grab"
 abilities_bot:
   - name: "Carry"
-    desc: "A quetzalcoatlus can Fly at half Speed while it has a single creature grabbed or restrained. Both its talons are occupied while it does this."
+    desc: "A quetzalcoatlus can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] at half Speed while it has a single creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]. Both its talons are occupied while it does this."
   - name: "Swoop"
-    desc: "⬺ The quetzalcoatlus Flies up to its Speed and makes one beak or talon Strike at any point during that movement."
+    desc: "⬺ The quetzalcoatlus [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] up to its Speed and makes one beak or talon Strike at any point during that movement."
 sourcebook: "_Monster Core_, page 278."
 ```
 

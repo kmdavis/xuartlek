@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Rage`
 
-You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.
+You must be [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]] to use abilities with the rage trait, and they end automatically when you stop raging.
 
 *Source: Player Core 2 p. 75*

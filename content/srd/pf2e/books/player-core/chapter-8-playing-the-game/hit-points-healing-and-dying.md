@@ -20,7 +20,7 @@ For adventurers, injury and death lurk around every corner.
 
 ## Hit Points
 
-All creatures and objects have **Hit Points (HP)**. Your maximum Hit Point value represents your health, wherewithal, and heroic drive when you're in good health and rested. Your maximum Hit Points include the Hit Points you gain at 1st level from your ancestry and class, those you gain at higher levels from your class, and any you gain from other sources (like the Toughness general feat). When you take damage, you reduce your current Hit Points by a number equal to the damage dealt.
+All creatures and objects have **Hit Points (HP)**. Your maximum Hit Point value represents your health, wherewithal, and heroic drive when you're in good health and rested. Your maximum Hit Points include the Hit Points you gain at 1st level from your ancestry and class, those you gain at higher levels from your class, and any you gain from other sources (like the [[srd/pf2e/compendium/feats/player-core/general/toughness|Toughness]] general feat). When you take damage, you reduce your current Hit Points by a number equal to the damage dealt.
 
 Some spells, items, and other effects, as well as simply resting, can heal creatures. When you're healed, you regain Hit Points equal to the amount healed, up to your maximum Hit Points.
 
@@ -30,26 +30,26 @@ Some spells or abilities give you temporary Hit Points. Track these separately f
 
 ### Fast Healing and Regeneration
 
-A creature with fast healing or regeneration regains the listed amount of Hit Points each round at the beginning of its turn. A creature with regeneration has additional benefits. Its dying condition can’t increase to a value that would kill it (this stops most creatures from going beyond dying 3) as long as its regeneration is active. If it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn.
+A creature with fast healing or regeneration regains the listed amount of Hit Points each round at the beginning of its turn. A creature with regeneration has additional benefits. Its [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition can’t increase to a value that would kill it (this stops most creatures from going beyond dying 3) as long as its regeneration is active. If it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn.
 
 ### Items and Hit Points
 
-Items have Hit Points like creatures, but the rules for damaging them are different, as explained [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage|here]]. An item has a Hardness statistic that reduces damage the item takes by that amount. The item then takes any damage left over. If an item is reduced to 0 HP, it’s destroyed. An item also has a Broken Threshold. If its HP are reduced to this amount or lower, it’s broken, meaning it can’t be used for its normal function and it doesn’t grant bonuses. You usually can’t attack an attended object (one on a creature’s person).
+Items have Hit Points like creatures, but the rules for damaging them are different, as explained [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage|here]]. An item has a Hardness statistic that reduces damage the item takes by that amount. The item then takes any damage left over. If an item is reduced to 0 HP, it’s destroyed. An item also has a Broken Threshold. If its HP are reduced to this amount or lower, it’s [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]], meaning it can’t be used for its normal function and it doesn’t grant bonuses. You usually can’t attack an attended object (one on a creature’s person).
 
 ## Getting Knocked Out
 
-Creatures can't be reduced to fewer than 0 Hit Points. When most creatures reach 0 Hit Points, they die and are removed from play unless the attack was nonlethal, in which case they're instead knocked out for a significant amount of time (usually 10 minutes or more). When undead and constructs reach 0 Hit Points, they're destroyed.
+Creatures can't be reduced to fewer than 0 Hit Points. When most creatures reach 0 Hit Points, they die and are removed from play unless the attack was [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]], in which case they're instead knocked out for a significant amount of time (usually 10 minutes or more). When [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/construct|constructs]] reach 0 Hit Points, they're destroyed.
 
 Player characters, their companions, and other significant characters and creatures don't automatically die when they reach 0 Hit Points. Instead, they are knocked out and are at risk of death. The GM might determine that villains, powerful monsters, special NPCs, and enemies with special abilities that are likely to bring them back to the fight (like ferocity, regeneration, or healing magic) can use these rules as well.
 
 As a player character, when you're reduced to 0 Hit Points, you're knocked out with the following effects:
 
 - **Move your initiative position** to directly before the turn in which you were reduced to 0 HP.
-- **Gain the dying 1 condition**. If the effect that knocked you out was a critical success from the attacker or the result of your critical failure, you gain the dying 2 condition instead. If you have the wounded condition, increase your dying value by an amount equal to your wounded value. If the damage was dealt by a nonlethal attack or nonlethal effect, you don't gain the dying condition; you're instead unconscious with 0 Hit Points.
+- **Gain the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] 1 condition**. If the effect that knocked you out was a critical success from the attacker or the result of your critical failure, you gain the dying 2 condition instead. If you have the [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] condition, increase your dying value by an amount equal to your wounded value. If the damage was dealt by a nonlethal attack or nonlethal effect, you don't gain the dying condition; you're instead [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] with 0 Hit Points.
 
 ## Dying
 
-While you have the dying condition, you’re bleeding out or otherwise at death’s door. You’re unconscious while you have the dying condition. Dying always includes a value. If this value ever reaches dying 4, you die. While you’re dying, your dying value can increase or decrease in two ways.
+While you have the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition, you’re bleeding out or otherwise at death’s door. You’re [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] while you have the dying condition. Dying always includes a value. If this value ever reaches dying 4, you die. While you’re dying, your dying value can increase or decrease in two ways.
 
 > [!pf2-sidebar] CONDITIONS RELATED TO DYING
 >
@@ -87,7 +87,7 @@ While you have the dying condition, you’re bleeding out or otherwise at death�
 
 ### Recovery Checks
 
-While you're dying, attempt a recovery check at the start of each of your turns. This is a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks|flat check]] with a DC equal to 10 + your current dying value to see if you get better or worse.
+While you're [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]], attempt a recovery check at the start of each of your turns. This is a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks|flat check]] with a DC equal to 10 + your current dying value to see if you get better or worse.
 
 **Critical Success** Your dying value is reduced by 2.
 **Success** Your dying value is reduced by 1.
@@ -96,17 +96,17 @@ While you're dying, attempt a recovery check at the start of each of your turns.
 
 ### Taking Damage
 
-If you take damage while you already have the dying condition, increase your dying condition value by 1, or by 2 if the damage came from an attacker’s critical hit or your own critical failure.
+If you take damage while you already have the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition, increase your dying condition value by 1, or by 2 if the damage came from an attacker’s critical hit or your own critical failure.
 
 ### Losing the Dying Condition
 
-You lose the dying condition if it ever reaches dying 0. If you're still at 0 Hit Points, you remain unconscious, but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more.
+You lose the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition if it ever reaches dying 0. If you're still at 0 Hit Points, you remain [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more.
 
-Anytime you lose the dying condition, you gain the wounded 1 condition, or increase your wounded value by 1 if you already have that condition.
+Anytime you lose the dying condition, you gain the [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] 1 condition, or increase your wounded value by 1 if you already have that condition.
 
 ## Death
 
-After you die, you can’t act or regain actions, can’t be affected by spells that target creatures (unless they specifically target dead creatures), and for all other purposes, you’re an object. When you die, you’re reduced to 0 Hit Points if you had a different amount, and you can’t be brought above 0 Hit Points as long as you remain dead. Some magic can bring creatures back to life, such as the resurrect ritual or the raise dead spell, though these abilities aren’t without their risks or effects, and rare artifacts and powers can even interfere with them.
+After you die, you can’t act or regain actions, can’t be affected by spells that target creatures (unless they specifically target dead creatures), and for all other purposes, you’re an object. When you die, you’re reduced to 0 Hit Points if you had a different amount, and you can’t be brought above 0 Hit Points as long as you remain dead. Some magic can bring creatures back to life, such as the [[srd/pf2e/compendium/spells/rituals/resurrect|resurrect]] ritual or the [[srd/pf2e/compendium/spells/rank-6/raise-dead|raise dead]] spell, though these abilities aren’t without their risks or effects, and rare artifacts and powers can even interfere with them.
 
 ## Instant Death
 
@@ -114,9 +114,9 @@ There are ways in which you can die instantly, without reaching dying 0 first.
 
 ### Death Effects
 
-Some spells and abilities can kill you immediately or bring you closer to death without needing to reduce you to 0 Hit Points first. These abilities have the death trait and usually involve energy from the Void, the antithesis of life, or other effects that target the mind or soul. If you're reduced to 0 Hit Points by a death effect, you're slain instantly without needing to reach dying 4. For instance, the vision of death spell automatically kills those it reduces to 0 Hit Points as terrifying hallucinations cause them to drop dead.
+Some spells and abilities can kill you immediately or bring you closer to death without needing to reduce you to 0 Hit Points first. These abilities have the [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] trait and usually involve energy from the Void, the antithesis of life, or other effects that target the mind or soul. If you're reduced to 0 Hit Points by a death effect, you're slain instantly without needing to reach [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] 4. For instance, the [[srd/pf2e/compendium/spells/rank-4/vision-of-death|vision of death]] spell automatically kills those it reduces to 0 Hit Points as terrifying hallucinations cause them to drop dead.
 
-A death effect might state that it kills you outright, without dealing damage, in which case you die without having to first reach dying 4 or be reduced to 0 Hit Points. For instance, the Grim Reaper, an extremely powerful entity of death, can automatically slay creatures who fail their save against its death strike ability.
+A death effect might state that it kills you outright, without dealing damage, in which case you die without having to first reach dying 4 or be reduced to 0 Hit Points. For instance, the [[srd/pf2e/bestiary/monster-core/undead/grim-reaper|Grim Reaper]], an extremely powerful entity of death, can automatically slay creatures who fail their save against its death strike ability.
 
 ### Massive Damage
 

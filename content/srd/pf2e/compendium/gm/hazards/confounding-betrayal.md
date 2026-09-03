@@ -21,27 +21,27 @@ source: "GM Core"
 +21 (expert)
 
 **Disable**
-DC 28 Deception (expert) twice to confound the haunt with your own deceptions, or DC 28 Occultism (trained) twice to create a ward against the haunt’s mental influence
+DC 28 [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] (expert) twice to confound the haunt with your own deceptions, or DC 28 [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (trained) twice to create a ward against the haunt’s mental influence
 
-**Unmask** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (illusion, occult) **Trigger** Two or more creatures enter the haunt’s area; **Effect** Each creature sees the forms of nearby creatures shift and change, appearing to transform into fiendish or aberrant beings with a thirst for blood. Each creature in the area must attempt a DC 30 Will save. The haunt then rolls initiative.
+**Unmask** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) **Trigger** Two or more creatures enter the haunt’s area; **Effect** Each creature sees the forms of nearby creatures shift and change, appearing to transform into fiendish or aberrant beings with a thirst for blood. Each creature in the area must attempt a DC 30 Will save. The haunt then rolls initiative.
 
 **Critical Success** The creature sees through the illusions entirely and is temporarily immune to the haunt’s routine for 1 minute.
 
 **Success** The creature is unaffected by the strange images.
 
-**Failure** The creature believes the illusions to be true; if they become confused by the haunt’s routine, they can’t attempt flat checks to end the confused condition when they take damage.
+**Failure** The creature believes the illusions to be true; if they become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] by the haunt’s routine, they can’t attempt flat checks to end the confused condition when they take damage.
 
 **Critical Failure** As failure, but the creature is left with a lingering suspicion of others and can’t benefit from Aid reactions for 24 hours.
 
 ---
 **Routine**
-(1 action; illusion, incapacitation, occult) The haunt continues to confound victims’ senses and inspire them to commit violence against each other. Each creature in the haunt’s area must attempt a DC 26 Will save. 
+(1 action; [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) The haunt continues to confound victims’ senses and inspire them to commit violence against each other. Each creature in the haunt’s area must attempt a DC 26 Will save. 
 
 **Critical Success** The creature is unaffected and temporarily immune for 1 minute.
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is confused for 1 round.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round.
 
 **Critical Failure** The creature is confused for 1 minute.
 

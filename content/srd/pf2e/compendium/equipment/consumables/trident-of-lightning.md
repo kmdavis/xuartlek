@@ -19,7 +19,7 @@ source: "GM Core"
 - **Price**: 110 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This item looks like a normal trident carved with Gozren motifs. If thrown without being activated, it wobbles in the air and fails to strike true. When you Activate the trident, the carvings crackle with electricity. You then hurl the trident. It shatters immediately after leaving your hand and unleashes its magic as a 4th-rank _lightning bolt_ originating from your space. The bolt deals 5d12 electricity damage and has a basic Reflex save DC of 25.
 

@@ -33,11 +33,11 @@ perception:
     desc: "Perception +16; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +24"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +24"
 abilityMods: [6, -1, 6, -5, 0, -5]
 abilities_top:
   - name: "Sacred Art"
-    desc: "The creator of a clay effigy can dedicate the effigy to a deity while constructing it. If the deity allows a divine sanctification, the effigy is sanctified to that deity, gaining the holy or unholy trait as appropriate."
+    desc: "The creator of a clay effigy can dedicate the effigy to a deity while constructing it. If the deity allows a [[srd/pf2e/books/player-core/chapter-1-introduction/religion#Deities|divine sanctification]], the effigy is sanctified to that deity, gaining the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait as appropriate."
 ac: 29
 armorclass:
   - name: "AC"
@@ -45,17 +45,17 @@ armorclass:
 hp: 175
 health:
   - name: "HP"
-    desc: "175; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; __Resistances__ physical 10 (except adamantine), spells 10 (except cold, earth, or water)"
+    desc: "175; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Resistances__ physical 10 (except adamantine), spells 10 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]], [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]])"
 abilities_mid:
   - name: "Effigy's Curse"
-    desc: "(curse, divine) When a creature damages the clay effigy, it must succeed at a DC 27 Will save or be afflicted with the effigy's curse. The accursed becomes fatigued when it carries part of the effigy or any item the effigy was assigned to guard. This fatigue can't be removed until the creature has given up such items for at least 24 hours."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) When a creature damages the clay effigy, it must succeed at a DC 27 Will save or be afflicted with the effigy's curse. The accursed becomes [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] when it carries part of the effigy or any item the effigy was assigned to guard. This fatigue can't be removed until the creature has given up such items for at least 24 hours."
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +24 (Magical, reach 10 feet, Sanctified) __Damage__ 2d10+6 bludgeoning plus 2d6 spirit"
+    desc: "⬻ fist +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|Sanctified]]) __Damage__ 2d10+6 bludgeoning plus 2d6 spirit"
 abilities_bot:
   - name: "Cast Out"
-    desc: "⬺ (Divine, Sanctified, Spirit) A 20-foot emanation of spiritual energy pushes against intruders, as though trying to drive their souls away. Each creature in the area takes 8d6 spirit damage depending on a DC 29 Will save. The clay effigy can't Cast Out again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|Sanctified]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]]) A 20-foot emanation of spiritual energy pushes against intruders, as though trying to drive their souls away. Each creature in the area takes 8d6 spirit damage depending on a DC 29 Will save. The clay effigy can't Cast Out again for 1d4 rounds."
   - name: "Critical Success"
     desc: "The creature is unaffected."
   - name: "Success"
@@ -65,7 +65,7 @@ abilities_bot:
   - name: "Critical Failure"
     desc: "As failure, except the persistent damage is increased to 6d6."
   - name: "Heavy Stride"
-    desc: "⬺ The clay effigy Strides and can move through the spaces of Medium and smaller creatures. Each creature it moves through must succeed at a DC 29 Reflex save or be knocked prone. Clay Shards The remains of clay effigies are worth more to archaeologists and scholars than to merchants. The magnificent treasures often guarded by these ancient wardens, however, are another matter entirely."
+    desc: "⬺ The clay effigy Strides and can move through the spaces of Medium and smaller creatures. Each creature it moves through must succeed at a DC 29 Reflex save or be knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. Clay Shards The remains of clay effigies are worth more to archaeologists and scholars than to merchants. The magnificent treasures often guarded by these ancient wardens, however, are another matter entirely."
 sourcebook: "_Monster Core_, page 64."
 ```
 

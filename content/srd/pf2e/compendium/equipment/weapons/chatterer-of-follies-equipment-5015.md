@@ -20,10 +20,10 @@ source: "Impossible Magic"
 - **Price**: 200 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: Khakkhara
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/club/khakkhara|Khakkhara]]
 
-This heavy _+1 striking khakkhara_ is cast from solid steel and plated with pyrite. Metal charms shaped like grinning idols festoon its great arched ring, and during combat, these hanging dolls seem to chatter in tune with the clash and din of battle. Any time you cast an illusion or mental spell while wielding this weapon, you become concealed until the end of the turn. 
+This heavy _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/khakkhara|khakkhara]]_ is cast from solid steel and plated with pyrite. Metal charms shaped like grinning idols festoon its great arched ring, and during combat, these hanging dolls seem to chatter in tune with the clash and din of battle. Any time you cast an [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] spell while wielding this weapon, you become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] until the end of the turn. 
 
-**Activate—Confounding Chatter** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate) **Frequency** once per round; **Requirements** Your last action was a move action; **Effect** The idols gibber at a nearby foe. Choose an adjacent creature. Until the end of your turn, that creature takes a –1 status penalty to Will saves against your illusion and mental spells.
+**Activate—Confounding Chatter** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per round; **Requirements** Your last action was a move action; **Effect** The idols gibber at a nearby foe. Choose an adjacent creature. Until the end of your turn, that creature takes a –1 status penalty to Will saves against your [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] spells.
 
 *Source: Impossible Magic p. 208*

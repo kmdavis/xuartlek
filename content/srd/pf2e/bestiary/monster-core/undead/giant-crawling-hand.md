@@ -29,10 +29,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; lifesense 30 feet, tremorsense (imprecise) 30 feet"
-languages: "Common; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics +13, Stealth +11, Survival +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +12"
 abilityMods: [4, 2, 4, -4, 3, 0]
 ac: 22
 armorclass:
@@ -41,7 +41,7 @@ armorclass:
 hp: 75
 health:
   - name: "HP"
-    desc: "75 (void healing); __Immunities__ bleed, death effects, disease, paralyzed, poison, unconscious, visual"
+    desc: "75 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
 abilities_mid:
   - name: "Pus Burst"
     desc: "⬲"
@@ -52,7 +52,7 @@ abilities_mid:
   - name: "Critical Success"
     desc: "The creature takes no damage."
   - name: "Success"
-    desc: "The creature takes half damage and becomes sickened 1."
+    desc: "The creature takes half damage and becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]]."
   - name: "Failure"
     desc: "The creature takes full damage and becomes sickened 2."
   - name: "Critical Failure"
@@ -63,7 +63,7 @@ attacks:
     desc: "⬻ claw +15 __Damage__ 2d6+7 slashing plus Grab"
 abilities_bot:
   - name: "Mark Quarry"
-    desc: "A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to Perception checks when it Seeks its quarry, to Survival checks when it Tracks its quarry, and to damage rolls when it Strikes its quarry."
+    desc: "A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to Perception checks when it [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seeks]] its quarry, to [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks when it [[srd/pf2e/compendium/rules-elements/actions/player-core#Track|Tracks]] its quarry, and to damage rolls when it Strikes its quarry."
 sourcebook: "_Monster Core_, page 68."
 ```
 

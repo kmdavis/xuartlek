@@ -21,9 +21,9 @@ source: "Player Core"
 - **Range**: 0 feet
 - **Duration**: 1 hour
 
-You conjure a temporary object from magical energy. It must consist of earthen or plant-derived matter (such as wood, paper, brick, or stone) and be 5 cubic feet or smaller. It can't rely on intricate artistry or complex moving parts, never fulfills a cost or the like, and can't be made of precious materials or materials with a rarity of uncommon or higher. It is obviously temporarily conjured, and thus can't be sold or passed off as a genuine item. The spell gains the appropriate trait for the item created, typically earth, plant, or wood.
+You conjure a temporary object from magical energy. It must consist of earthen or plant-derived matter (such as wood, paper, brick, or stone) and be 5 cubic feet or smaller. It can't rely on intricate artistry or complex moving parts, never fulfills a cost or the like, and can't be made of [[srd/pf2e/compendium/rules-elements/traits/gm-core/precious|precious]] materials or materials with a rarity of [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] or higher. It is obviously temporarily conjured, and thus can't be sold or passed off as a genuine item. The spell gains the appropriate trait for the item created, typically [[srd/pf2e/compendium/rules-elements/traits/player-core/earth|earth]], [[srd/pf2e/compendium/rules-elements/traits/player-core/plant|plant]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/wood|wood]].
 
 ---
-**Heightened (5th)** The item is metal and can include common minerals, like feldspar or quartz. The spell gains the metal trait if used to create a metal object.
+**Heightened (5th)** The item is metal and can include common minerals, like feldspar or quartz. The spell gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/metal|metal]] trait if used to create a metal object.
 
 *Source: Player Core p. 322*

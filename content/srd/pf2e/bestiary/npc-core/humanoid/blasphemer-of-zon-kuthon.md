@@ -29,16 +29,16 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8"
-languages: "Common, Shadowtongue"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Shadowtongue|Shadowtongue]]"
 skills:
   - name: "Skills"
-    desc: "Deception +9, Intimidation +7, Performance +7, Religion +6, Society +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +9, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +7, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +7, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +6, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +7"
 abilityMods: [3, 1, 0, 1, 2, 3]
 abilities_top:
   - name: "Twisted Faith"
-    desc: "When attempting a Religion skill check, the blasphemer can roll Deception instead, so long as they have an intelligent creature around as a witness. If the creature is a follower of the blasphemer's faith, the blasphemer receives a +2 circumstance bonus to the check."
+    desc: "When attempting a [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] skill check, the blasphemer can roll [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] instead, so long as they have an intelligent creature around as a witness. If the creature is a follower of the blasphemer's faith, the blasphemer receives a +2 circumstance bonus to the check."
   - name: "Items"
-    desc: "Hand Crossbow, religious symbol of Zon-Kuthon, spiked chain"
+    desc: "Hand Crossbow, [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Zon-Kuthon, spiked chain"
 ac: 17
 armorclass:
   - name: "AC"
@@ -50,16 +50,16 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ spiked chain +9 (Disarm, Trip) __Damage__ 1d8+5 slashing"
+    desc: "⬻ spiked chain +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d8+5 slashing"
   - name: "Melee"
-    desc: "⬻ fist +9 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+6 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+6 bludgeoning"
   - name: "Ranged"
     desc: "⬻ hand crossbow +7 (range increment 60 feet, reload 1) __Damage__ 1d6+2 piercing"
 abilities_bot:
   - name: "False Blessing"
-    desc: "⬻ (Manipulate) The blasphemer attempts a DC 15 Religion check to attempt to cast the 1st-rank spell their deity grants to clerics (_phantom pain_ for Zon-Kuthon). The spell must take 1, 2, or 3 actions to Cast. The blasphemer can use twisted faith to roll Deception instead if they have a witness, as normal."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The blasphemer attempts a DC 15 [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] check to attempt to cast the 1st-rank spell their deity grants to clerics ([[srd/pf2e/compendium/spells/rank-1/phantom-pain|_phantom pain_]] for Zon-Kuthon). The spell must take 1, 2, or 3 actions to Cast. The blasphemer can use twisted faith to roll [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] instead if they have a witness, as normal."
   - name: "Critical Success"
-    desc: "The blasphemer successfully Casts the Spell, then is stunned with a value equal to the number of actions the spell takes – 1."
+    desc: "The blasphemer successfully Casts the Spell, then is [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] with a value equal to the number of actions the spell takes – 1."
   - name: "Success"
     desc: "As critical success, plus the blasphemer takes 1d6 mental damage."
   - name: "Failure"

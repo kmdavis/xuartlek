@@ -31,14 +31,14 @@ modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; darkvision"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +16, Deception +18, Intimidation +18, Survival +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +16, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +18, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +18, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +17"
 abilityMods: [6, 3, 4, 0, 3, 4]
 abilities_top:
   - name: "Items"
-    desc: "_+1 striking tetsubo_"
+    desc: "_+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/club/tetsubo|tetsubo]]_"
 ac: 26
 armorclass:
   - name: "AC"
@@ -46,7 +46,7 @@ armorclass:
 hp: 165
 health:
   - name: "HP"
-    desc: "165; __Weaknesses__ bean panic, spirit 10"
+    desc: "165; __Weaknesses__ bean panic, [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] 10"
 abilities_mid:
   - name: "Bean Panic"
     desc: "Oni are curiously afraid of beans, especially as the seasons begin to change. If a creature Interacts to throw a handful of beans at the oni, the oni becomes frightened 2. While frightened this way, their weakness to spirit damage is increased by 5. The oni then becomes immune to bean panic for 24 hours."
@@ -55,17 +55,17 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _tetsubo_ +21 (Magical, Razing, reach 10 feet, Shove, Sweep) __Damage__ 2d10+9 bludgeoning"
+    desc: "⬻ _tetsubo_ +21 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/razing|Razing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 2d10+9 bludgeoning"
   - name: "Melee"
-    desc: "⬻ jaws +20 (Magical, reach 10 feet) __Damage__ 2d6+9 piercing plus 1d6 persistent bleed"
+    desc: "⬻ jaws +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+9 piercing plus 1d6 persistent bleed"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ (Concentrate, Polymorph, Primal) The mountain oni can take on the appearance of any Medium or Large humanoid creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning)."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|Polymorph]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The mountain oni can take on the appearance of any Medium or Large [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoid]] creature. This doesn't change their Speed or their attack and damage bonuses with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning)."
   - name: "Thundering Iron"
-    desc: "⬺ The oni lifts their tetsubo and brings it down in a deafening peal. They make a tetsubo Strike. On a success, the target takes an additional 1d10 sonic damage. Each creature in a 10-foot emanation around the target, other than the oni, take this damage as well and is pushed 5 feet away from the target. Tetsubo A mountain oni wields a tetsubo, which appears in _Lost Omens Tian Xia Character Guide_. This uncommon martial weapon costs 3 gp, deals 1d10 bludgeoning damage, has 3 Bulk, and require two hands to use. Tetsubo are in the club weapon group and have the razing, shove, and sweep traits. The razing trait means that whenever the weapon damages an object, the object takes an amount of additional damage equal to double the number of weapon damage dice."
+    desc: "⬺ The oni lifts their tetsubo and brings it down in a deafening peal. They make a tetsubo Strike. On a success, the target takes an additional 1d10 sonic damage. Each creature in a 10-foot emanation around the target, other than the oni, take this damage as well and is pushed 5 feet away from the target. Tetsubo A mountain oni wields a [[srd/pf2e/compendium/equipment/weapons/club/tetsubo|tetsubo]], which appears in _Lost Omens Tian Xia Character Guide_. This [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] martial weapon costs 3 gp, deals 1d10 bludgeoning damage, has 3 Bulk, and require two hands to use. Tetsubo are in the club weapon group and have the [[srd/pf2e/compendium/rules-elements/traits/treasure-vault-remastered/razing|razing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]] traits. The razing trait means that whenever the weapon damages an object, the object takes an amount of additional damage equal to double the number of weapon damage dice."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 25 - __2nd__ Invisibility (at will; self only)"
+    desc: "DC 25 - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (at will; self only)"
 sourcebook: "_Monster Core_, page 252."
 ```
 

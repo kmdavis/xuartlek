@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 
 In its normal form, a _spy staff_ is a slim rod of burnished wood with subtle etchings of eyes upon its sides. The first to develop the _spy staff_ were agents of Andoran's Twilight Talons, but such staves have spread to espionage agencies throughout the Inner Sea region and beyond.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Effect** You change the shape and appearance of this staff to that of an ordinary handheld accessory of your choosing of the same Bulk. The staff’s statistics don’t change. Only a creature benefiting from _truesight_ or a similar effect can attempt to disbelieve this illusion, with a DC of 27. 
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** You change the shape and appearance of this staff to that of an ordinary handheld accessory of your choosing of the same Bulk. The staff’s statistics don’t change. Only a creature benefiting from [[srd/pf2e/compendium/spells/rank-6/truesight|_truesight_]] or a similar effect can attempt to disbelieve this illusion, with a DC of 27. 
 
 **Activate** Cast a Spell; **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
@@ -35,7 +35,7 @@ In its normal form, a _spy staff_ is a slim rod of burnished wood with subtle et
 
 ---
 
-**Cantrip** _message_**1st** _illusory disguise_, _invisible item_, _message rune_**2nd** _disguise magic_, _humanoid form_, _illusory disguise_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/message|_message_]]**1st** [[srd/pf2e/compendium/spells/rank-1/illusory-disguise|_illusory disguise_]], [[srd/pf2e/compendium/spells/rank-1/invisible-item|_invisible item_]], _message rune_**2nd** [[srd/pf2e/compendium/spells/rank-1/disguise-magic|_disguise magic_]], [[srd/pf2e/compendium/spells/rank-2/humanoid-form|_humanoid form_]], _illusory disguise_
 
 ### Spy Staff (Greater)
 
@@ -46,7 +46,7 @@ In its normal form, a _spy staff_ is a slim rod of burnished wood with subtle et
 ---
 
 The DC to disbelieve the illusion disguising the staff is 32. 
-**3rd** _clairaudience_, _illusory disguise_, _veil of privacy_**4th** _clairvoyance_, _peaceful bubble_
+**3rd** [[srd/pf2e/compendium/spells/rank-3/clairaudience|_clairaudience_]], _illusory disguise_, [[srd/pf2e/compendium/spells/rank-3/veil-of-privacy|_veil of privacy_]]**4th** _clairvoyance_, [[srd/pf2e/compendium/spells/rank-4/peaceful-bubble|_peaceful bubble_]]
 
 ### Spy Staff (Major)
 
@@ -57,6 +57,6 @@ The DC to disbelieve the illusion disguising the staff is 32.
 ---
 
 The DC to disbelieve the illusion disguising the staff is 38. 
-**5th** _mind probe_, _scouting eye_**6th** _mislead_, _scrying_
+**5th** [[srd/pf2e/compendium/spells/rank-5/mind-probe|_mind probe_]], [[srd/pf2e/compendium/spells/rank-5/scouting-eye|_scouting eye_]]**6th** [[srd/pf2e/compendium/spells/rank-6/mislead|_mislead_]], [[srd/pf2e/compendium/spells/rank-6/scrying|_scrying_]]
 
 *Source: Treasure Vault (Remastered) p. 134*

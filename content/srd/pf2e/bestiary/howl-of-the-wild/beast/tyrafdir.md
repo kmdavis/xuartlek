@@ -33,7 +33,7 @@ perception:
     desc: "Perception +21; scent (imprecise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +23, Deception +21, Survival +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +21, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +22"
 abilityMods: [6, 4, 6, -3, 3, -1]
 ac: 30
 armorclass:
@@ -42,12 +42,12 @@ armorclass:
 hp: 190
 health:
   - name: "HP"
-    desc: "30 (head), deceptive regrowth; __Immunities__ area damage; __Weaknesses__ cold iron 10"
+    desc: "30 (head), deceptive regrowth; __Immunities__ area damage; __Weaknesses__ [[srd/pf2e/compendium/equipment/materials/cold-iron-object-high-grade|cold iron]] 10"
 abilities_mid:
   - name: "Weakness"
     desc: "cold iron 10, slashing 10"
   - name: "Deceptive Heads"
-    desc: "(illusion) A tyrafdir is cunning, if unintelligent, using illusions of regrown heads to confuse and harry opponents. When a tyrafdir fails, but does not critically fail, its Fortitude save to regrow a head, a phantasm materializes to mimic the regrowth. This creates two deceptive heads that function differently than real heads. The tyrafdir gains a deceptive jaws Strike as long as it has at least one deceptive head. Any creature that attacks a deceptive head or uses the Seek action to examine it can attempt to disbelieve the illusion (DC 27 Will save)."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]]) A tyrafdir is cunning, if unintelligent, using illusions of regrown heads to confuse and harry opponents. When a tyrafdir fails, but does not critically fail, its Fortitude save to regrow a head, a phantasm materializes to mimic the regrowth. This creates two deceptive heads that function differently than real heads. The tyrafdir gains a deceptive jaws Strike as long as it has at least one deceptive head. Any creature that attacks a deceptive head or uses the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to examine it can attempt to disbelieve the illusion (DC 27 Will save)."
   - name: "Deceptive Regrowth"
     desc: "A tyrafdir ordinarily has six heads. A creature can attempt to sever one of the tyrafdir's heads by specifically targeting it and dealing damage equal to the head's Hit Points. A head that is not completely severed returns to full Hit Points at the end of any creature's turn. A tyrafdir can regrow a severed head using Hydra Regeneration. A creature can prevent this regrowth by dealing fire damage to the stump, cauterizing it. Single-target fire effects need to be targeted at a specific stump, but effects that deal splash damage or affect areas covering the hydra's whole space cauterize all stumps if they deal fire damage. If the attack that severs a head deals any fire damage or is dealt by a cold-iron weapon, the stump is cauterized instantly. If all six heads are cauterized, the hydra dies."
   - name: "Hydra Regeneration"
@@ -59,12 +59,12 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +24 (reach 15 feet) __Damage__ 2d10+9 piercing"
+    desc: "⬻ jaws +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d10+9 piercing"
   - name: "Melee"
-    desc: "⬻ deceptive jaws +24 (Illusion, Mental, Nonlethal, reach 15 feet) __Damage__ 2d10+9 mental"
+    desc: "⬻ deceptive jaws +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|Illusion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d10+9 mental"
 abilities_bot:
   - name: "Noxious Exhalation"
-    desc: "⬺ (Curse, Primal) The tyrafdir breathes out a noxious mist from all of its mouths, spreading in a 20-foot emanation that deals 4d10 poison damage to creatures within the area (DC 24 basic Reflex save). Any creature that fails its save must attempt a DC 24 Will save or gain weakness to mental 10 and a –1 status penalty to Will saves for 24 hours. The tyrafdir can't use Noxious Exhalation again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The tyrafdir breathes out a noxious mist from all of its mouths, spreading in a 20-foot emanation that deals 4d10 poison damage to creatures within the area (DC 24 basic Reflex save). Any creature that fails its save must attempt a DC 24 Will save or gain weakness to mental 10 and a –1 status penalty to Will saves for 24 hours. The tyrafdir can't use Noxious Exhalation again for 1d4 rounds."
 sourcebook: "_Howl of the Wild_, page 165."
 ```
 

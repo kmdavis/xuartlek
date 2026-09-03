@@ -20,7 +20,7 @@ source: "GM Core"
 
 **Crew** 1 pilot
 
-**Piloting Check** Piloting Lore (DC 14) or Nature (DC 16)
+**Piloting Check** Piloting Lore (DC 14) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 16)
 
 ---
 

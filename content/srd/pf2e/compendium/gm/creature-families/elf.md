@@ -14,7 +14,7 @@ Elves are mysterious and intelligent, and graceful and cunning in battle.
 
 ### Members
 
-Aiuvarin Elementalist (Creature 2), Aiuvarin Translator (Creature 0), Demonbane Warrior (Creature 5), Elf Ranger (Creature 1), Elven Court Guard (Creature 13), Forlorn Artist (Creature 2), Woodland Scouts (Creature 8)
+[[srd/pf2e/bestiary/monster-core/humanoid/aiuvarin-elementalist|Aiuvarin Elementalist]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/aiuvarin-translator|Aiuvarin Translator]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/demonbane-warrior|Demonbane Warrior]] (Creature 5), [[srd/pf2e/bestiary/monster-core/humanoid/elf-ranger|Elf Ranger]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/elven-court-guard|Elven Court Guard]] (Creature 13), [[srd/pf2e/bestiary/npc-core/humanoid/forlorn-artist|Forlorn Artist]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/woodland-scouts|Woodland Scouts]] (Creature 8)
 
 ### A Forlorn Outlook
 

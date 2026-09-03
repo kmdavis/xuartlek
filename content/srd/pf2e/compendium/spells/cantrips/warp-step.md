@@ -18,6 +18,6 @@ source: "Dark Archives (Remastered)"
 
 - **Traditions**: Arcane, Occult
 
-When you walk, the earth warps beneath your feet—your steps extend, distance contracts, and everything is just a little bit closer. You gain a +5-foot status bonus to your Speed until the end of your turn. You then Stride twice. You can use warp step to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type.
+When you walk, the earth warps beneath your feet—your steps extend, distance contracts, and everything is just a little bit closer. You gain a +5-foot status bonus to your Speed until the end of your turn. You then Stride twice. You can use warp step to [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] instead of Stride if you have the corresponding movement type.
 
 *Source: Dark Archives (Remastered) p. 107*

@@ -19,7 +19,7 @@ source: "GM Core"
 
 **Passengers** 6
 
-**Piloting Check** Nature (DC 24), Sailing Lore (DC 22)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 24), Sailing Lore (DC 22)
 
 ---
 

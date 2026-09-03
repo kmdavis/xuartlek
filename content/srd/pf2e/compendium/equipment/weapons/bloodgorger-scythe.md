@@ -18,13 +18,13 @@ source: "Howl of the Wild"
 - **Price**: 340 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 2
-- **Base Weapon**: Scythe
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|Scythe]]
 
-This _+1 striking scythe_ is made from the cruel, blackened branches of the carnivorous scythe tree, which hungrily drink up spilled blood.
+This _[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|+1]] [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]]_ is made from the cruel, blackened branches of the carnivorous scythe tree, which hungrily drink up spilled blood.
 
-**Activate—Root in Blood** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Requirements** Your last action was a successful Strike with this weapon and your target isn’t currently taking any persistent bleed damage; **Effect** You break off a piece of the _bloodgorger scythe_ inside your enemy to feed on their blood and sprout into a new tree. The target takes 1 persistent bleed damage at the end of their turn. Each failure to stop the bleeding increases this bleed damage by 1 as a small scythe tree grows from the wound, to a maximum of 3 persistent bleed damage.
+**Activate—Root in Blood** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** Your last action was a successful Strike with this weapon and your target isn’t currently taking any persistent bleed damage; **Effect** You break off a piece of the _bloodgorger scythe_ inside your enemy to feed on their blood and sprout into a new tree. The target takes 1 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]] at the end of their turn. Each failure to stop the bleeding increases this bleed damage by 1 as a small scythe tree grows from the wound, to a maximum of 3 persistent bleed damage.
 
-**Activate—Sapling Slash** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Requirements** A target has a piece of the _bloodgorger scythe_ broken off inside them and has failed to recover from the persistent bleed damage for 3 consecutive turns; **Effect** The sprouted scythe tree grows large enough to be commanded. It makes a melee Strike against the target or a creature adjacent to the target, with a +18 to hit and dealing 1d10 slashing damage.
+**Activate—Sapling Slash** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Requirements** A target has a piece of the _bloodgorger scythe_ broken off inside them and has failed to recover from the persistent bleed damage for 3 consecutive turns; **Effect** The sprouted scythe tree grows large enough to be commanded. It makes a melee [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against the target or a creature adjacent to the target, with a +18 to hit and dealing 1d10 slashing damage.
 
 **Craft Requirements** The initial raw materials must include branches and roots from a scythe tree.
 

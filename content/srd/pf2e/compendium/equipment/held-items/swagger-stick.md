@@ -20,6 +20,6 @@ source: "Battlecry!"
 
 This stick is a decorative wooden baton with a metal cap on one end and a stylized handle in the shape of a horse or other martial beast on the other. Mundane swagger sticks are carried by officers in armies all across Golarion. This one is made of particularly fine wood, with an aged silver cap and handle, and small garnets for the creature’s eyes.
 
-**Activate—Swagger** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate, visual) **Frequency** once per day; **Effect** You dramatically swing, twirl, or otherwise brandish the _swagger stick_ to direct your troops. All allied creatures within 30 feet who can see your display gain +1 status bonus to attack rolls, Fortitude saves, and Will saves against mental effects for 1 round.
+**Activate—Swagger** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) **Frequency** once per day; **Effect** You dramatically swing, twirl, or otherwise brandish the _swagger stick_ to direct your troops. All allied creatures within 30 feet who can see your display gain +1 status bonus to attack rolls, Fortitude saves, and Will saves against mental effects for 1 round.
 
 *Source: Battlecry! p. 147*

@@ -31,14 +31,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; darkvision"
-languages: "Common, Pyric"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Crafting +11, Plane of Fire Lore +11, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +11, Plane of Fire Lore +11, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [3, 1, 5, 2, 3, 1]
 abilities_top:
   - name: "Items"
-    desc: "breastplate, dueling pistol (20 rounds), warhammer"
+    desc: "breastplate, [[srd/pf2e/compendium/equipment/weapons/firearm/dueling-pistol|dueling pistol]] (20 rounds), warhammer"
 ac: 22
 armorclass:
   - name: "AC"
@@ -46,21 +46,21 @@ armorclass:
 hp: 85
 health:
   - name: "HP"
-    desc: "85; __Immunities__ fire; __Weaknesses__ cold 5"
+    desc: "85; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5"
 abilities_mid:
   - name: "Heat of the Forge"
-    desc: "(aura, fire) 10 feet. An munsahir's skin radiates heat like a forge's fire. A creature that starts its turn in the area must succeed at a DC 20 Fortitude save or become fatigued while it remains in the area. Creatures immune to environmental heat effects or with any fire resistance are immune."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) 10 feet. An munsahir's skin radiates heat like a forge's fire. A creature that starts its turn in the area must succeed at a DC 20 Fortitude save or become fatigued while it remains in the area. Creatures immune to environmental heat effects or with any fire resistance are immune."
   - name: "Reactive Strike"
     desc: "⬲"
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ warhammer +14 (Shove) __Damage__ 1d8+9 bludgeoning plus 1d6 fire"
+    desc: "⬻ warhammer +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 1d8+9 bludgeoning plus 1d6 fire"
   - name: "Ranged"
-    desc: "⬻ dueling pistol +12 (Concealable, Concussive, fatal d10, range increment 60 feet, reload 1) __Damage__ 1d6+6 piercing plus 1d6 fire"
+    desc: "⬻ dueling pistol +12 ([[srd/pf2e/compendium/rules-elements/traits/player-core/concealable|Concealable]], [[srd/pf2e/compendium/rules-elements/traits/npc-core/concussive|Concussive]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fatal|fatal d10]], range increment 60 feet, reload 1) __Damage__ 1d6+6 piercing plus 1d6 fire"
 abilities_bot:
   - name: "Burning Touch"
-    desc: "(Fire, Primal) The munsahir gatecrasher's Strikes deal an extra 1d6 fire damage (included above). When the gatecrasher successfully performs a Grapple or Shove action, they also deal 1d6 fire damage to their target."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) The munsahir gatecrasher's Strikes deal an extra 1d6 fire damage (included above). When the gatecrasher successfully performs a Grapple or Shove action, they also deal 1d6 fire damage to their target."
   - name: "Volcanic Hammer"
     desc: "⬺ The trooper makes a warhammer Strike that deals one extra weapon die of damage and 2d6 persistent fire damage."
 sourcebook: "_Rage of Elements_, page 131."

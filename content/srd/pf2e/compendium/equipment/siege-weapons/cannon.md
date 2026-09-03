@@ -48,7 +48,7 @@ source: "Guns & Gears (Remastered)"
 
 Cannons are perhaps the most well known of all black powder siege weapons, and that's because they represent a good midpoint between power and expense. Keeps and fortresses in Alkenstar prefer to fortify their forces with cannons, as they're relatively easy to construct and their ammunition is cheap enough to build up great supplies.
  **Aim**[>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") 100 feet, minimum distance 50 feet
- **Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) 2 times, requires a successful DC 20 Athletics check
- **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate, range increment 200 feet) 6d12 bludgeoning, single target, DC 23 Reflex
+ **Load** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 2 times, requires a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check
+ **Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], range increment 200 feet) 6d12 bludgeoning, single target, DC 23 Reflex
 
 *Source: Guns & Gears (Remastered) p. 174*

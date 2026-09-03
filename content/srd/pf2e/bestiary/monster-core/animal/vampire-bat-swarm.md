@@ -31,7 +31,7 @@ perception:
     desc: "Perception +10; echolocation (precise) 20 feet, low-light vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +4, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [1, 4, 1, -4, 3, -3]
 abilities_top:
   - name: "Echolocation"
@@ -43,7 +43,7 @@ armorclass:
 hp: 11
 health:
   - name: "HP"
-    desc: "11; __Immunities__ grabbed, precision, prone, restrained, swarm mind; __Resistances__ bludgeoning 6, piercing 6, slashing 3; __Weaknesses__ area damage 3, splash damage 3"
+    desc: "11; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], swarm mind; __Resistances__ bludgeoning 6, piercing 6, slashing 3; __Weaknesses__ area damage 3, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 3"
 speed: "5 feet, fly 30 feet"
 abilities_bot:
   - name: "Blood Feast"

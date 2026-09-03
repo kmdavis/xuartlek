@@ -21,9 +21,9 @@ source: "Treasure Vault (Remastered)"
 
 **Perception** +30; precise vision (darkvision) 30 feet, imprecise hearing 30 feet
 
-**Communication** telepathy (Common and two other common languages; _speak with plants_)
+**Communication** telepathy ([[srd/pf2e/compendium/rules-elements/languages#Common|Common]] and two other common languages; _speak with plants_)
 
-**Skills** Diplomacy +28, Medicine +32, Nature +32
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +28, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +32, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +32
 
 **Int** +6, **Wis** +10, **Cha** +5
 
@@ -35,10 +35,10 @@ An encounter with a toshigami, the enigmatic kami who protect cherry trees, is r
 
  A _toshigami blossom_ has the following activations.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate, manipulate) **Frequency** once per day; **Effect** The blossom casts _nature’s pathway_ on you to your specifications. If you teleport through only cherry trees, the spell is cast at 6th rank.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The blossom casts [[srd/pf2e/compendium/spells/rank-5/natures-pathway|_nature’s pathway_]] on you to your specifications. If you teleport through only cherry trees, the spell is cast at 6th rank.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per hour; **Effect** The blossom casts _soothing blossoms_ to your specifications.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** The blossom casts _soothing blossoms_ to your specifications.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per minute; **Effect** The blossom sends a flurry of cherry blossoms outward in a 20-foot burst that lasts 1 round. You and your allies can see through these blossoms. To all other creatures, creatures within the cloud of blossoms become concealed, and creatures outside the cloud become concealed to creatures within it. When you or an ally succeeds with a Strike against a creature in the blossoms, the Strike deals an additional 1d6 mental damage and an additional 1d6 void damage to living creatures, or an additional 1d6 vitality damage to undead.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per minute; **Effect** The blossom sends a flurry of cherry blossoms outward in a 20-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] that lasts 1 round. You and your allies can see through these blossoms. To all other creatures, creatures within the cloud of blossoms become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]], and creatures outside the cloud become concealed to creatures within it. When you or an ally succeeds with a Strike against a creature in the blossoms, the Strike deals an additional 1d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] damage and an additional 1d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] damage to living creatures, or an additional 1d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]] damage to [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]].
 
 *Source: Treasure Vault (Remastered) p. 197*

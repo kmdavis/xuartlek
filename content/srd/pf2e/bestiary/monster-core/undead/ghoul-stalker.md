@@ -31,10 +31,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; darkvision"
-languages: "Common, Necril"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +8, Stealth +7, Survival +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5"
 abilityMods: [1, 4, 1, 1, 2, 2]
 ac: 17
 armorclass:
@@ -43,23 +43,23 @@ armorclass:
 hp: 16
 health:
   - name: "HP"
-    desc: "16 (void healing); __Immunities__ bleed, death effects, disease, paralyzed, poison, unconscious"
+    desc: "16 (void healing); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]"
 abilities_mid:
   - name: "Stench"
-    desc: "(aura, olfactory) 10 feet, DC 14"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]]) 10 feet, DC 14"
 speed: "25 feet, burrow 5 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +9 (Finesse) __Damage__ 1d8+1 piercing"
+    desc: "⬻ jaws +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d8+1 piercing"
   - name: "Melee"
-    desc: "⬻ claw +9 (Agile, Finesse) __Damage__ 1d6+1 slashing plus Grab"
+    desc: "⬻ claw +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+1 slashing plus Grab"
 abilities_bot:
   - name: "Consume Flesh"
-    desc: "⬻ (Manipulate) 1d6 HP"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) 1d6 HP"
   - name: "Ghoul Whispers"
-    desc: "⬻ (Auditory, Linguistic, Occult) DC 17"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) DC 17"
   - name: "Grave Knowledge"
-    desc: "(Occult) +7 skill modifier"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) +7 skill modifier"
   - name: "Swift Leap"
     desc: "⬻ (move)"
 sourcebook: "_Monster Core_, page 163."

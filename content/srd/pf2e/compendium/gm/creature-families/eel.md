@@ -14,6 +14,6 @@ Although these long, narrow fish share similarities in appearance, eels are a di
 
 ### Members
 
-Electric Eel (Creature 1), Giant Moray Eel (Creature 5)
+[[srd/pf2e/bestiary/monster-core/animal/electric-eel|Electric Eel]] (Creature 1), [[srd/pf2e/bestiary/monster-core/animal/giant-moray-eel|Giant Moray Eel]] (Creature 5)
 
 *Source: Monster Core p. 138*

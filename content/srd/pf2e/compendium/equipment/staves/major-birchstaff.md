@@ -18,7 +18,7 @@ source: "Impossible Magic"
 - **Usage**: held in 1 hand
 - **Bulk**: 1
 
-This staff is carved of golden birchwood, and its roughly patterned surface resembles tree bark. While wielding the staff, you gain a +2 circumstance bonus to your Fortitude DC against attempts to Reposition, Shove, or Trip you. 
+This staff is carved of golden birchwood, and its roughly patterned surface resembles tree bark. While wielding the staff, you gain a +2 circumstance bonus to your Fortitude DC against attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Reposition|Reposition]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] you. 
 
 **Activate** Cast a Spell **Effect** You expend a number of charges from the staff to cast a spell from its list.
 
@@ -30,7 +30,7 @@ This staff is carved of golden birchwood, and its roughly patterned surface rese
 
 ---
 
-**Cantrip** _ timber_**1st** _protector tree_, _wooden fists_
+**Cantrip** [[srd/pf2e/compendium/spells/cantrips/timber|_ timber_]]**1st** [[srd/pf2e/compendium/spells/rank-1/protector-tree|_protector tree_]], [[srd/pf2e/compendium/spells/rank-1/wooden-fists|_wooden fists_]]
 
 ### Greater Birchstaff
 
@@ -38,7 +38,7 @@ This staff is carved of golden birchwood, and its roughly patterned surface rese
 
 ---
 
-**2nd** _helpful wood spirits_, _splinter volley_**3rd** _soothing blossoms_, _wooden double_ ,_wooden fists_ 
+**2nd** [[srd/pf2e/compendium/spells/rank-2/helpful-wood-spirits|_helpful wood spirits_]], [[srd/pf2e/compendium/spells/rank-2/splinter-volley|_splinter volley_]]**3rd** _soothing blossoms_, [[srd/pf2e/compendium/spells/rank-3/wooden-double|_wooden double_]] ,[[srd/pf2e/compendium/spells/rank-1/wooden-fists|_wooden fists_]] 
 
 ### Major Birchstaff
 
@@ -46,6 +46,6 @@ This staff is carved of golden birchwood, and its roughly patterned surface rese
 
 ---
 
-**4th** _blood chestnuts_, _life-draining roots_**5th** _entwined roots_, _tree of life and death_
+**4th** [[srd/pf2e/compendium/spells/rank-4/blood-chestnuts|_blood chestnuts_]], [[srd/pf2e/compendium/spells/rank-4/life-draining-roots|_life-draining roots_]]**5th** [[srd/pf2e/compendium/spells/rank-5/entwined-roots|_entwined roots_]], [[srd/pf2e/compendium/spells/rank-5/tree-of-life-and-death|_tree of life and death_]]
 
 *Source: Impossible Magic p. 238*

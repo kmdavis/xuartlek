@@ -18,12 +18,12 @@ source: "Player Core 2"
 `Concentrate`  `Holy`  `Manipulate`  `Water`
 
 - **Tradition**: Divine
-- **Cost**: One vial of holy water
+- **Cost**: One vial of [[srd/pf2e/compendium/equipment/consumables/holy-water|holy water]]
 - **Range**: 500 feet
 - **Area**: 20-foot burst
-- **Defense**: basic Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
-You call upon sacred energy to amplify a vial of holy water, tossing it an incredible distance. It explodes in an enormous burst that deals 3d6 bludgeoning damage to creatures in the area from the cascade of water. The water deals an additional 6d6 spirit damage to creatures with the unholy trait in the area.
+You call upon sacred energy to amplify a vial of holy water, tossing it an incredible distance. It explodes in an enormous burst that deals 3d6 bludgeoning damage to creatures in the area from the cascade of water. The water deals an additional 6d6 spirit damage to creatures with the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait in the area.
 
 ---
 **Heightened (+1)** The bludgeoning damage increases by 1d6, and the additional spirit damage increases by 2d6.

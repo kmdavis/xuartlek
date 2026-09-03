@@ -23,9 +23,9 @@ source: "Dark Archives (Remastered)"
 DC 20
 
 **Disable**
-DC 17 Crafting (trained) to calculate the room's dimensions despite the illusions, or _dispel magic_ (1st level; counteract DC 17) to counteract the illusions
+DC 17 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (trained) to calculate the room's dimensions despite the illusions, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (1st level; counteract DC 17) to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] the illusions
 
-**Disorient** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (arcane, illusion, mental, visual) **Trigger** A creature enters the room; **Effect** Illusions cause the appearance of the room and the objects inside it to constantly warp, shift, bend, and distort for 1 minute. Each creature in the room while it's distorting must attempt a DC 17 Perception check.
+**Disorient** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]) **Trigger** A creature enters the room; **Effect** Illusions cause the appearance of the room and the objects inside it to constantly warp, shift, bend, and distort for 1 minute. Each creature in the room while it's distorting must attempt a DC 17 Perception check.
 
 **Critical Success** The creature disbelieves the illusions and is unaffected.
 
@@ -33,7 +33,7 @@ DC 17 Crafting (trained) to calculate the room's dimensions despite the illusion
 
 **Failure** The creature is fooled by the illusions. It treats the room as difficult terrain and becomes sickened 1. As long as it remains in the room, it can't reduce its sickened value below 1.
 
-**Critical Failure** As failure, but each time the creature attempts a move action, it must succeed at a DC 5 flat check or they lose the action, and on a critical failure, it also falls prone.
+**Critical Failure** As failure, but each time the creature attempts a move action, it must succeed at a DC 5 flat check or they lose the action, and on a critical failure, it also falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 ---
 **Reset**

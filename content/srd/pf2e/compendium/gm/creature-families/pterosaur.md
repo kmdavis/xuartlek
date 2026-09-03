@@ -16,10 +16,10 @@ Pterosaurs are primitive flying creatures. While many are smaller than a human o
 
 ### Members
 
-Pteranodon (Creature 2), Quetzalcoatlus (Creature 7)
+[[srd/pf2e/bestiary/monster-core/animal/pteranodon|Pteranodon]] (Creature 2), [[srd/pf2e/bestiary/monster-core/animal/quetzalcoatlus|Quetzalcoatlus]] (Creature 7)
 
 ### On Primeval Wings
 
-Although not true dinosaurs, pterosaurs are often found in the same regions as dinosaurs and other megafauna, wheeling in the skies above and adding to the general primeval ambiance of these lost worlds.
+Although not true [[srd/pf2e/compendium/gm/creature-families/dinosaur|dinosaurs]], pterosaurs are often found in the same regions as dinosaurs and other megafauna, wheeling in the skies above and adding to the general primeval ambiance of these lost worlds.
 
 *Source: Monster Core p. 278*

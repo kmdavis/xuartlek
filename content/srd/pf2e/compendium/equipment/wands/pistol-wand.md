@@ -19,10 +19,10 @@ source: "NPC Core"
 - **Price**: 100 gp
 - **Usage**: held in 1 hand
 - **Bulk**: 1
-- **Base Weapon**: Flintlock Pistol
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-pistol-weapon-522|Flintlock Pistol]]
 
-Used by gunwitches who want a bit more power each day, a _pistol wand_ is a firearm that also contains an _enfeeble_ spell that can be cast using the same rules as a wand. Many other variants exist with different 1st-rank spells. This _+1 flintlock pistol_ has a reinforced stock permanently attached to it, and the pistol's _potency rune_ (and any other runes) applies to Strikes with the stock as well.
+Used by gunwitches who want a bit more power each day, a _pistol wand_ is a firearm that also contains an [[srd/pf2e/compendium/spells/rank-1/enfeeble|_enfeeble_]] spell that can be cast using the same rules as a wand. Many other variants exist with different 1st-rank spells. This _+1 [[srd/pf2e/compendium/equipment/weapons/firearm/flintlock-pistol|flintlock pistol]]_ has a [[srd/pf2e/compendium/equipment/weapons/club/reinforced-stock|reinforced stock]] permanently attached to it, and the pistol's [[srd/pf2e/compendium/equipment/runes/weapon-potency-3|_potency rune_]] (and any other runes) applies to Strikes with the stock as well.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _enfeeble_.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-1/enfeeble|_enfeeble_]].
 
 *Source: NPC Core p. 81*

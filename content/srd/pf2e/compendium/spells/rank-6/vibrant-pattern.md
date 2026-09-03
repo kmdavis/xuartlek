@@ -25,7 +25,7 @@ source: "Player Core"
 - **Defense**: Will
 - **Duration**: sustained up to 1 minute
 
-You create a pattern of lights that pulses with intensity. Creatures are dazzled while inside the pattern. In addition, a creature must attempt a Will saving throw if it's inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a Seek or Interact action on the pattern. A creature currently blinded by the pattern doesn't need to attempt new saving throws.
+You create a pattern of lights that pulses with intensity. Creatures are [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] while inside the pattern. In addition, a creature must attempt a Will saving throw if it's inside the pattern when you cast it, enters the pattern, ends its turn within the pattern, or uses a Seek or Interact action on the pattern. A creature currently [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] by the pattern doesn't need to attempt new saving throws.
 
 **Success** The creature is unaffected.
 

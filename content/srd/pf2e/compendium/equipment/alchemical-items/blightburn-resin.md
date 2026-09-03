@@ -20,7 +20,7 @@ source: "GM Core"
 - **Price**: 225 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 This tacky, hardened sap is harvested from trees infected by fungal blights and exposed to open flames.
  **Saving Throw** DC 30 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 rounds; **Stage 1** 6d6 poison damage (1 round); **Stage 2** 7d6 poison damage (1 round); **Stage 3** 9d6 poison damage (1 round)

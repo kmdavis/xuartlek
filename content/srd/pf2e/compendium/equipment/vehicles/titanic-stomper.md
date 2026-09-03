@@ -16,7 +16,7 @@ source: "Guns & Gears (Remastered)"
 
 - **Price**: 19,000 gp
 
-Among the most dangerous vehicles created in Ustalav with a mix of magic and the new Stasian technology, a titanic stomper is shaped like a long sinuous lizard or behir with carefully placed Stasian coils and eight big stomping legs. Titanic stompers were meant to devastate the armies of the undead. Only two exist, making them almost unique, and the means to create more have been stymied, as some of the crucial inventors were killed in the process of attempting to design a follow-up technology, a smaller but more powerful suit of mechanized armor called the Grobelarch that ultimately went berserk and killed its creators.
+Among the most dangerous vehicles created in Ustalav with a mix of magic and the new Stasian technology, a titanic stomper is shaped like a long sinuous lizard or behir with carefully placed Stasian coils and eight big stomping legs. Titanic stompers were meant to devastate the armies of the [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]. Only two exist, making them almost unique, and the means to create more have been stymied, as some of the crucial inventors were killed in the process of attempting to design a follow-up technology, a smaller but more powerful suit of mechanized armor called the Grobelarch that ultimately went berserk and killed its creators.
 
 ---
 
@@ -26,7 +26,7 @@ Among the most dangerous vehicles created in Ustalav with a mix of magic and the
 
 **Passengers** 6
 
-**Piloting Check** Driving Lore (DC 34) or Crafting (DC 36)
+**Piloting Check** Driving Lore (DC 34) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 36)
 
 ---
 
@@ -48,8 +48,8 @@ Among the most dangerous vehicles created in Ustalav with a mix of magic and the
 
 **Collision** 9d12 (DC 32)
 
-**Bolt Blast**[>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") Two crew members each perform a three-action activity on their turn to fire a line of lightning at the end of the second character's turn. This line of lightning erupts from the front of the titanic stomper at an angle of the crew members' choice and deals 5d12 electricity damage to each creature in a 120-foot line (DC 34 basic Reflex save). The Bolt Blast stops working if the titanic stomper is broken.
+**Bolt Blast**[>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") Two crew members each perform a three-action activity on their turn to fire a line of lightning at the end of the second character's turn. This line of lightning erupts from the front of the titanic stomper at an angle of the crew members' choice and deals 5d12 electricity damage to each creature in a 120-foot line (DC 34 basic Reflex save). The Bolt Blast stops working if the titanic stomper is [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]].
  **Electrical Absorption** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** The titanic stomper is targeted by, or in the area of, an effect that deals electricity damage; **Effect** The pilot uses their reaction to activate the Stasian coils, which funnels the electricity into the titanic stomper's electrical engine. The next time Bolt Blast is used within the next minute, the damage it deals increases to 7d12.
- **Quaking Step** The ground shakes with every step a titanic stomper takes. Whenever this vehicle moves, creatures on the ground within 20 feet of its movement path must attempt a DC 32 Reflex save. On a failure, they are flat-footed for 1 round, and on a critical failure, they're knocked prone.
+ **Quaking Step** The ground shakes with every step a titanic stomper takes. Whenever this vehicle moves, creatures on the ground within 20 feet of its movement path must attempt a DC 32 Reflex save. On a failure, they are flat-footed for 1 round, and on a critical failure, they're knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Guns & Gears (Remastered) p. 98*

@@ -16,7 +16,7 @@ Capable and adaptable predators, the reptilian beings known as lizardfolk are he
 
 ### Members
 
-Iruxi Masked Mummer (Creature 9), Lizardfolk Defender (Creature 1), Lizardfolk Scout (Creature 1), Lizardfolk Stargazer (Creature 2), Ravenile (Creature 14), Tidewater Guard (Creature 4)
+[[srd/pf2e/bestiary/npc-core/humanoid/iruxi-masked-mummer|Iruxi Masked Mummer]] (Creature 9), [[srd/pf2e/bestiary/monster-core/humanoid/lizardfolk-defender|Lizardfolk Defender]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/lizardfolk-scout|Lizardfolk Scout]] (Creature 1), [[srd/pf2e/bestiary/monster-core/humanoid/lizardfolk-stargazer|Lizardfolk Stargazer]] (Creature 2), Ravenile (Creature 14), [[srd/pf2e/bestiary/npc-core/humanoid/tidewater-guard|Tidewater Guard]] (Creature 4)
 
 ### Lizardfolk Relations
 

@@ -23,7 +23,7 @@ source: "Treasure Vault (Remastered)"
 
 Solidified radiance comprises this slender, featureless wand. It sheds bright light in a 20-foot radius and dim light for the next 20 feet. After you Activate the wand, the light fades, so it only sheds dim light in a 20-foot radius. The wand returns to its original brightness each dawn.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _holy light_ of the indicated rank, dazzling your target with the beam’s intensity. A creature that takes damage from the spell is blinded for 1 round and dazzled for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target is also blinded for as long as it’s dazzled from the spell. However, it can attempt a Fortitude saving throw against your spell DC at the end of each of its turns, ending the blinded condition on a success (but remaining dazzled).
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-3/holy-light|_holy light_]] of the indicated rank, dazzling your target with the beam’s intensity. A creature that takes damage from the spell is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round and [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target is also blinded for as long as it’s dazzled from the spell. However, it can attempt a Fortitude saving throw against your spell DC at the end of each of its turns, ending the blinded condition on a success (but remaining dazzled).
 
 **Craft Requirements** Supply a casting of _holy light_ of the appropriate rank.
 

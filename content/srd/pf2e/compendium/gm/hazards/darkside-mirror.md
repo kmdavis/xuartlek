@@ -21,7 +21,7 @@ source: "Dark Archives (Remastered)"
 +24 (master)
 
 **Disable**
-DC 34 Thievery (legendary) to retrieve a creature from the other dimension within 10 minutes of the switch (possible only if their mirror duplicate is dead), DC 39 Thievery (master) to permanently disable the mirror once all mirror duplicates are dead, or dispel magic (7th rank; counteract DC 32) to counteract the mirror for 1 minute and prevent additional replacements during that time.
+DC 34 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (legendary) to retrieve a creature from the other dimension within 10 minutes of the switch (possible only if their mirror duplicate is dead), DC 39 Thievery (master) to permanently disable the mirror once all mirror duplicates are dead, or dispel magic (7th rank; counteract DC 32) to counteract the mirror for 1 minute and prevent additional replacements during that time.
 
 **AC** 34, **Fort** +25, **Ref** +20
 
@@ -31,7 +31,7 @@ DC 34 Thievery (legendary) to retrieve a creature from the other dimension withi
 **HP**
 4 (BT 2)
 
-**Reflection of Malice** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (arcane, teleportation) **Trigger** A creature is reflected in the mirror; **Effect** The mirror absorbs the creature, replacing it with a malicious mirror duplicate (DC 34 Reflex to avoid being absorbed into the mirror), and rolls initiative.
+**Reflection of Malice** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]]) **Trigger** A creature is reflected in the mirror; **Effect** The mirror absorbs the creature, replacing it with a malicious mirror duplicate (DC 34 Reflex to avoid being absorbed into the mirror), and rolls initiative.
 
 ---
 **Routine**
@@ -39,6 +39,6 @@ Routine (1 action) The mirror absorbs another reflected creature and replaces it
 
 ---
 **Reset**
-The mirror is always ready to absorb creatures into the other dimension. Ten minutes after a creature is sucked into the mirror, if an ally doesn't rescue the creature, it reaches the other dimension. In the mirror dimension, it counts as a mirror duplicate. These dimensions are alternate realities, not planes, so even spells like _interplanar teleport_ can't reach them.
+The mirror is always ready to absorb creatures into the other dimension. Ten minutes after a creature is sucked into the mirror, if an ally doesn't rescue the creature, it reaches the other dimension. In the mirror dimension, it counts as a mirror duplicate. These dimensions are alternate realities, not planes, so even spells like [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|_interplanar teleport_]] can't reach them.
 
 *Source: Dark Archives (Remastered) p. 125*

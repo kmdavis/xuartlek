@@ -24,7 +24,7 @@ The target loses its hearing. It must attempt a Fortitude save, and it is then t
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is deafened for 1 round.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 round.
 
 **Failure** The target is deafened for 10 minutes.
 

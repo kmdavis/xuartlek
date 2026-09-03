@@ -18,7 +18,7 @@ Slavering, cruel, invincible brutes: this is the villager's stock description fo
 
 ### Members
 
-Cavern Troll (Creature 6), Forest Troll (Creature 5), Ice Troll (Creature 4), Jotund Troll (Creature 15), Sludge Troll (Creature 7), Troll Warleader (Creature 10), Two-Headed Troll (Creature 8)
+[[srd/pf2e/bestiary/monster-core-2/giant/cavern-troll|Cavern Troll]] (Creature 6), [[srd/pf2e/bestiary/monster-core/giant/forest-troll|Forest Troll]] (Creature 5), [[srd/pf2e/bestiary/monster-core-2/giant/ice-troll|Ice Troll]] (Creature 4), [[srd/pf2e/bestiary/monster-core-2/giant/jotund-troll|Jotund Troll]] (Creature 15), Sludge Troll (Creature 7), [[srd/pf2e/bestiary/monster-core/giant/troll-warleader|Troll Warleader]] (Creature 10), [[srd/pf2e/bestiary/monster-core-2/giant/two-headed-troll|Two-Headed Troll]] (Creature 8)
 
 ### Other Trolls
 

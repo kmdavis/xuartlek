@@ -18,6 +18,6 @@ source: "Howl of the Wild"
 
 Made with a brightly colored leather strap, these goggles have a series of overlapping lenses in an array of colors spanning the spectrum of visible light. The effect of this is that every color is more vibrant and similar shades have higher contrast. This means that shapes of even similar colors tend to stand out more, allowing the wearer to see even camouflage easier.
 
-As an Interact action, you can set the lenses to make things stand out at your current location. Until you move, you gain a +1 item bonus to Perception checks when you Seek.
+As an [[srd/pf2e/compendium/rules-elements/actions/player-core#Interact|Interact]] action, you can set the lenses to make things stand out at your current location. Until you move, you gain a +1 item bonus to [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] checks when you [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]].
 
 *Source: Howl of the Wild p. 113*

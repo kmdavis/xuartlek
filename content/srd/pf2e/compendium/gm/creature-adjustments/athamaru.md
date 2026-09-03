@@ -11,6 +11,6 @@ source: "NPC Core"
 # Athamaru  *Creature Adjustment*
 
 The deep sea is home to the fishlike athamarus, who tend to be skilled hunters. 
-Replace the human trait with the athamaru trait and add the amphibious trait.Add the Thalassic language.Add a swim Speed of 25 feet.Add the following abilities. **Low-Light Vision**
+Replace the [[srd/pf2e/compendium/rules-elements/traits/player-core/human|human]] trait with the [[srd/pf2e/compendium/rules-elements/traits/monster-core/athamaru|athamaru]] trait and add the [[srd/pf2e/compendium/rules-elements/traits/player-core/amphibious|amphibious]] trait.Add the [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]] language.Add a swim Speed of 25 feet.Add the following abilities. **Low-Light Vision**
 
 *Source: NPC Core p. 151*

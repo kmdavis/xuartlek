@@ -14,6 +14,6 @@ Rats are a ubiquitous menace, scurrying through the sewers and on the streets of
 
 ### Members
 
-Giant Rat (Creature -1), Rat Swarm (Creature 1)
+[[srd/pf2e/bestiary/monster-core/animal/giant-rat|Giant Rat]] (Creature -1), [[srd/pf2e/bestiary/monster-core/animal/rat-swarm|Rat Swarm]] (Creature 1)
 
 *Source: Monster Core p. 288*

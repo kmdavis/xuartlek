@@ -21,6 +21,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-Wisps of fog and mist waft from this smooth, polished amulet in the shape of a raindrop. When used as a catalyst to cast a __mist__ spell, you can sense the direction of each creature from you within the mist, though you can’t instinctively discern allies from enemies based on direction alone. The DC of flat checks you attempt to target a creature within the mist is reduced from 5 to 3.
+Wisps of fog and mist waft from this smooth, polished amulet in the shape of a raindrop. When used as a catalyst to cast a _[[srd/pf2e/compendium/spells/rank-2/mist|_mist_]]_ spell, you can sense the direction of each creature from you within the mist, though you can’t instinctively discern allies from enemies based on direction alone. The DC of flat checks you attempt to target a creature within the mist is reduced from 5 to 3.
 
 *Source: Impossible Magic p. 215*

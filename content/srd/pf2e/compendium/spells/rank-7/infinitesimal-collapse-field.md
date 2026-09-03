@@ -17,17 +17,17 @@ source: "Impossible Magic"
 `Aura`  `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Occult
-- **Area**: 30-foot emanation
+- **Area**: 30-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
 - **Defense**: Fortitude
-- **Duration**: sustained up to 1 minute
+- **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
 As your enemies attempt to approach you, you create a field around yourself that warps and stretches space and time. The first time an enemy enters or starts their turn in the emanation, they must attempt a Fortitude save. If a target affected by the spell leaves the spell’s area and later re-enters it, the spell’s effects resume based on their previous saving throw.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is encumbered while in the area of the spell.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]] while in the area of the spell.
 
-**Failure** The target is encumbered and slowed 1 while in the area of the spell.
+**Failure** The target is encumbered and [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] while in the area of the spell.
 
 **Critical Failure** The target is encumbered, slowed 1, and cannot take reactions while in the area of the spell.
 

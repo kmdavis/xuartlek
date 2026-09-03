@@ -20,7 +20,7 @@ source: "GM Core"
 - **Price**: 80 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Properly harvested and preserved, the poison from a wyvern's sting is effective and direct.
  **Saving Throw** DC 26 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 3d6 poison damage (1 round); **Stage 2** 3d8 poison damage (1 round); **Stage 3** 3d10 poison damage (1 round)

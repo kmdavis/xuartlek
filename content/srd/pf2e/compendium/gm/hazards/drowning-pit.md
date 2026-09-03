@@ -22,7 +22,7 @@ source: "GM Core"
 +10 (trained); DC 22 (expert) to notice the water spouts once the pit opens
 
 **Disable**
-DC 18 Thievery (trained) to seal each water spout, DC 22 Thievery (trained) to open the trapdoor, or DC 22 Athletics to Force Open the trapdoor
+DC 18 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) to seal each water spout, DC 22 Thievery (trained) to open the trapdoor, or DC 22 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Force Open]] the trapdoor
 
 **AC** 19, **Fort** +8, **Ref** +5
 
@@ -33,13 +33,13 @@ DC 18 Thievery (trained) to seal each water spout, DC 22 Thievery (trained) to o
 60 (BT 30); **Spout Hardness** 8; **Spout** HP 32 (BT 16)
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
-**Pitfall** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature walks onto the trapdoor; **Effect** The triggering creature falls in and takes damage from the fall, reduced by 5 feet for falling into the water (typically 12 bludgeoning damage). A creature can Grab an Edge to avoid falling. The trapdoor then slams shut, and the hazard rolls initiative.
+**Pitfall** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature walks onto the trapdoor; **Effect** The triggering creature falls in and takes damage from the fall, reduced by 5 feet for falling into the water (typically 12 bludgeoning damage). A creature can [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]] to avoid falling. The trapdoor then slams shut, and the hazard rolls initiative.
 
 ---
 **Routine**
-(4 actions) The trap loses 1 action each turn for each disabled water spout. On each of the trap’s actions, a spout pours water, increasing the depth of the water by 5 feet. Once the pit is full of water, the pit stops using actions, but creatures in the pit begin drowning.
+(4 actions) The trap loses 1 action each turn for each disabled water spout. On each of the trap’s actions, a spout pours water, increasing the depth of the water by 5 feet. Once the pit is full of water, the pit stops using actions, but creatures in the pit begin [[srd/pf2e/books/player-core/chapter-8-playing-the-game/encounter-mode#Drowning and Suffocating|drowning]].
 
 ---
 **Reset**

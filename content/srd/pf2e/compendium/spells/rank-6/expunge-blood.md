@@ -21,11 +21,11 @@ source: "Impossible Magic"
 - **Defense**: Fortitude
 - **Duration**: varies
 
-You attempt to forcibly remove a massive amount of blood or other vital fluids from a creature. The target must attempt a Fortitude saving throw. A nonliving creature with blood in its body (such as a vampire) can be affected, but a creature with no blood is immune. The clumsy condition inflicted by this spell increases by 1 while the target is taking persistent bleed damage.
+You attempt to forcibly remove a massive amount of blood or other vital fluids from a creature. The target must attempt a Fortitude saving throw. A nonliving creature with blood in its body (such as a [[srd/pf2e/compendium/gm/creature-families/vampire|vampire]]) can be affected, but a creature with no blood is immune. The [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] condition inflicted by this spell increases by 1 while the target is taking persistent bleed damage.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target becomes drained 1 and clumsy 1 for 1 round.
+**Success** The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]] and clumsy 1 for 1 round.
 
 **Failure** The target becomes drained 2 and clumsy 1 for 1 minute.
 

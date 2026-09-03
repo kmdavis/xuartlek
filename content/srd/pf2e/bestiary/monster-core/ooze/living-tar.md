@@ -31,7 +31,7 @@ perception:
     desc: "Perception +9; motion sense (precise) 60 feet, no vision"
 skills:
   - name: "Skills"
-    desc: "Athletics +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18"
 abilityMods: [7, -5, 7, -5, 0, -5]
 abilities_top:
   - name: "Motion Sense"
@@ -43,19 +43,19 @@ armorclass:
 hp: 165
 health:
   - name: "HP"
-    desc: "165; __Immunities__ acid, bleed, bludgeoning, critical hits, mental, precision, unconscious, visual"
+    desc: "165; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], bleed, bludgeoning, critical hits, [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], precision, [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
 abilities_mid:
   - name: "Adhesive Mass"
-    desc: "A weapon that hits the living tar is stuck to the ooze. Removing it requires a successful DC 23 Athletics check to Break Open. The living tar can have any number of objects or creatures stuck to it at a time. It can release a stuck object with an Interact action, and the adhesive dissolves 1 minute after the ooze dies, releasing all stuck objects and creatures."
+    desc: "A weapon that hits the living tar is stuck to the ooze. Removing it requires a successful DC 23 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Break Open]]. The living tar can have any number of objects or creatures stuck to it at a time. It can release a stuck object with an Interact action, and the adhesive dissolves 1 minute after the ooze dies, releasing all stuck objects and creatures."
 speed: "20 feet, climb 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ pseudopod +18 (reach 10 feet) __Damage__ 2d8+7 bludgeoning plus 2d6 acid and Grab"
+    desc: "⬻ pseudopod +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d8+7 bludgeoning plus 2d6 acid and Grab"
 abilities_bot:
   - name: "Constrict"
     desc: "⬻ 1d8+7 bludgeoning plus 1d6 acid, DC 26"
   - name: "Engulf"
-    desc: "⬽ DC 22, 4d6 acid, Escape DC 22, Rupture 15"
+    desc: "⬽ DC 22, 4d6 acid, [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] DC 22, Rupture 15"
 sourcebook: "_Monster Core_, page 257."
 ```
 

@@ -29,14 +29,14 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +15, Diplomacy +11, Intimidation +13, Legal Lore +12, Society +10, Warfare Lore +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +10, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +8"
 abilityMods: [5, 0, 2, 0, 3, 3]
 abilities_top:
   - name: "Items"
-    desc: "Crossbow (20 bolts), Dagger, Full Plate, _+1 longsword_, Steel Shield (Hardness 5, HP 20, BT 10)"
+    desc: "Crossbow (20 bolts), Dagger, Full Plate, _+1 [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, Steel Shield (Hardness 5, HP 20, BT 10)"
 ac: 24
 armorclass:
   - name: "AC"
@@ -47,9 +47,9 @@ health:
     desc: "95"
 abilities_mid:
   - name: "Aura of Command"
-    desc: "(aura, emotion, mental) 30 feet. The captain of the guard bolsters lower-level guards under their command, granting them a +1 status bonus to their attack rolls and a +2 status bonus to their Will saves."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 30 feet. The captain of the guard bolsters lower-level guards under their command, granting them a +1 status bonus to their attack rolls and a +2 status bonus to their Will saves."
   - name: "Bravery"
-    desc: "When the captain rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the frightened condition, reduce its value by 1."
+    desc: "When the captain rolls a success on a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effect, they get a critical success instead. In addition, any time they gain the [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition, reduce its value by 1."
   - name: "Shield Warden"
     desc: "When the captain has their shield raised, they can Shield Block when an attack is made against an adjacent ally. If they do, the shield prevents that ally from taking damage instead of the captain."
   - name: "Reactive Strike"
@@ -59,9 +59,9 @@ abilities_mid:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _longsword_ +18 (Magical, versatile P) __Damage__ 1d8+11 slashing"
+    desc: "⬻ _longsword_ +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d8+11 slashing"
   - name: "Melee"
-    desc: "⬻ fist +17 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+11 bludgeoning"
+    desc: "⬻ fist +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+11 bludgeoning"
   - name: "Ranged"
     desc: "⬻ crossbow +12 (range increment 120 feet, reload 1) __Damage__ 1d8+6 piercing"
 abilities_bot:
@@ -70,7 +70,7 @@ abilities_bot:
   - name: "Requirements"
     desc: "The captain of the guard has their shield raised"
   - name: "Effect"
-    desc: "The captain of the guard presses forward, using their shield to push back foes. The captain Strides and Shoves, in either order. The multiple attack penalty doesn't apply to this Shove, though the Shove does count toward the captain's multiple attack penalty."
+    desc: "The captain of the guard presses forward, using their shield to push back foes. The captain Strides and [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shoves]], in either order. The multiple attack penalty doesn't apply to this Shove, though the Shove does count toward the captain's multiple attack penalty."
 sourcebook: "_NPC Core_, page 115."
 ```
 

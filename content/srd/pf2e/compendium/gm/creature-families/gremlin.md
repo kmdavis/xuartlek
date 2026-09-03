@@ -10,11 +10,11 @@ source: "Monster Core"
 
 # Gremlin  *Creature Family*
 
-Gremlins are cruel fey tricksters and saboteurs who have fully acclimated to life in the Universe, finding distinct niches for their inventive destructiveness. Nearly all gremlins delight in ruining or breaking things, whether it's something physical like a device or vehicle or something intangible such as an alliance or relationship. A gremlin's greatest joy is watching the collapse of complex creations, preferably after the slightest, carefully targeted nudge from the gremlin. Gremlins tend to denigrate, bully, or even slaughter their lesser kin, particularly mitflits, whom stronger gremlins derisively call “baggies.” 
+Gremlins are cruel [[srd/pf2e/compendium/rules-elements/languages#Fey|fey]] tricksters and saboteurs who have fully acclimated to life in [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], finding distinct niches for their inventive destructiveness. Nearly all gremlins delight in ruining or breaking things, whether it's something physical like a device or vehicle or something intangible such as an alliance or relationship. A gremlin's greatest joy is watching the collapse of complex creations, preferably after the slightest, carefully targeted nudge from the gremlin. Gremlins tend to denigrate, bully, or even slaughter their lesser kin, particularly mitflits, whom stronger gremlins derisively call “baggies.” 
 
 ### Members
 
-Fuath (Creature 1), Grimple (Creature -1), Haniver (Creature -1), Jinkin (Creature 1), Mitflit (Creature -1), Pugwampi (Creature 0)
+[[srd/pf2e/bestiary/monster-core-2/fey/fuath|Fuath]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/fey/grimple|Grimple]] (Creature -1), [[srd/pf2e/bestiary/monster-core-2/fey/haniver|Haniver]] (Creature -1), [[srd/pf2e/bestiary/monster-core/fey/jinkin|Jinkin]] (Creature 1), [[srd/pf2e/bestiary/monster-core/fey/mitflit|Mitflit]] (Creature -1), [[srd/pf2e/bestiary/monster-core/fey/pugwampi|Pugwampi]] (Creature 0)
 
 ### Gremlin “Treasure”
 

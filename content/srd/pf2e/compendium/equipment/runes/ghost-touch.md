@@ -17,6 +17,6 @@ source: "GM Core"
 - **Price**: 75 gp
 - **Usage**: etched onto a weapon
 
-A weapon etched with this rune can harm creatures without physical form. A _ghost touch_ weapon is particularly effective against incorporeal creatures, which almost always have a specific vulnerability to ghost touch weapons. Incorporeal creatures can touch, hold, and wield ghost touch weapons (unlike most physical objects).
+A weapon etched with this rune can harm creatures without physical form. A _ghost touch_ weapon is particularly effective against [[srd/pf2e/compendium/rules-elements/traits/gm-core/incorporeal|incorporeal]] creatures, which almost always have a specific vulnerability to ghost touch weapons. Incorporeal creatures can touch, hold, and wield ghost touch weapons (unlike most physical objects).
 
 *Source: GM Core p. 238*

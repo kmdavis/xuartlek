@@ -10,7 +10,7 @@ source: "Monster Core 2"
 
 # Dragonblood  *Creature Family*
 
-When a dragon holds influence in a community, either by exerting their might or blending in and living among them, a child might be born that exhibits physical or mental aspects of that dragon. These offspring are known as dragonbloods and often have draconic features belying their heritage. Dragonbloods can be found among all ancestries, though many dragonbloods are either human or have some kind of extant dragon connection, such as kobolds who have a close association with a dragon.
+When a dragon holds influence in a community, either by exerting their might or blending in and living among them, a child might be born that exhibits physical or mental aspects of that dragon. These offspring are known as dragonbloods and often have draconic features belying their heritage. Dragonbloods can be found among all ancestries, though many dragonbloods are either [[srd/pf2e/compendium/character/ancestries/human|human]] or have some kind of extant dragon connection, such as kobolds who have a close association with a dragon.
 
  A dragonblood typically possesses some physical feature that gives away their draconic nature. These can be subtle features such as elongated fingernails that resemble claws or unique eye coloration. For many dragonbloods, these features are more overt, taking the form of horns, draconic tails, wings, or patches of scales. In some cases, a dragonblood resembles a bipedal dragon outright, often leading to confusing them with other reptilian ancestries such as kobolds and lizardfolk. For dragonbloods who have no obvious features, there are still the occasional hints of their draconic influence, typically manifesting in times of overwhelming emotions, if only for a moment.
 
@@ -18,6 +18,6 @@ When a dragon holds influence in a community, either by exerting their might or 
 
 ### Members
 
-Dragonblood Occultist (Creature 3)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/dragonblood-occultist|Dragonblood Occultist]] (Creature 3)
 
 *Source: Monster Core 2 p. 136*

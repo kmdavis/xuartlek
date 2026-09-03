@@ -27,14 +27,14 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision"
-languages: "Draconic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +8, Crafting +4, Intimidation +6, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +4, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [4, 1, 3, -3, 2, 0]
 abilities_top:
   - name: "Natural Camouflage"
-    desc: "A tatzlwyrm's green, gray, and brown scales provide it natural camouflage. In areas of dense undergrowth, a tatzlwyrm can move at its full Speed when Sneaking, and it gains a +4 circumstance bonus to Hide."
+    desc: "A tatzlwyrm's green, gray, and brown scales provide it natural camouflage. In areas of dense undergrowth, a tatzlwyrm can move at its full Speed when [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneaking]], and it gains a +4 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]]."
 ac: 18
 armorclass:
   - name: "AC"
@@ -42,24 +42,24 @@ armorclass:
 hp: 30
 health:
   - name: "HP"
-    desc: "30; __Immunities__ paralyzed, sleep"
+    desc: "30; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 speed: "30 feet, climb 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +10 (Magical) __Damage__ 1d8+6 piercing"
+    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d8+6 piercing"
   - name: "Melee"
-    desc: "⬻ claw +10 (Agile, magical) __Damage__ 1d6+6 slashing"
+    desc: "⬻ claw +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]]) __Damage__ 1d6+6 slashing"
 abilities_bot:
   - name: "Poison Gasp"
-    desc: "⬻ The tatzlwyrm belches a puff of poisonous vapor into the face of an adjacent creature, which must attempt a DC 15 Fortitude save; the creature takes a –2 circumstance penalty to this save if it's grabbed or off-guard. The tatzlwyrm can't use Poison Gasp again for 2 rounds."
+    desc: "⬻ The tatzlwyrm belches a puff of poisonous vapor into the face of an adjacent creature, which must attempt a DC 15 Fortitude save; the creature takes a –2 circumstance penalty to this save if it's [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]]. The tatzlwyrm can't use Poison Gasp again for 2 rounds."
   - name: "Critical Success"
     desc: "The target is unaffected."
   - name: "Success"
-    desc: "The target is sickened 1."
+    desc: "The target is [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1."
   - name: "Failure"
-    desc: "The target takes 2d6 poison damage and is enfeebled 1 for 1 round."
+    desc: "The target takes 2d6 poison damage and is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 for 1 round."
   - name: "Critical Failure"
-    desc: "The target takes 4d6 poison damage and is enfeebled 1 for 1 minute. Other Tatzlwyrms People in some regions claim to have seen creatures that appear just like tatzlwyrms in most respects—a long body, two arms, and a head—except that they have traits not of reptilian origin. Travelers on a savanna should beware a furry, lion-headed tatzlwyrm protecting their cubs, while those in the mountains might be attacked by a feathered (but wingless) variant with the head of an eagle."
+    desc: "The target takes 4d6 poison damage and is enfeebled 1 for 1 minute. Other Tatzlwyrms People in some regions claim to have seen creatures that appear just like tatzlwyrms in most respects—a long body, two arms, and a head—except that they have traits not of reptilian origin. Travelers on a savanna should beware a furry, [[srd/pf2e/bestiary/monster-core/animal/lion|lion]]-headed tatzlwyrm protecting their cubs, while those in the mountains might be attacked by a feathered (but wingless) variant with the head of an [[srd/pf2e/bestiary/monster-core/animal/eagle|eagle]]."
 sourcebook: "_Monster Core 2_, page 316."
 ```
 

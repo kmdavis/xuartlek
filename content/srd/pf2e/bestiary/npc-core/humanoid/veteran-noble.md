@@ -29,14 +29,14 @@ modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +13, Deception +12, Diplomacy +12, Heraldry Lore +14, Intimidation +14, Warfare Lore +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +12, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +12, [[srd/pf2e/compendium/rules-elements/skills/lore|Heraldry Lore]] +14, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +14, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +14"
 abilityMods: [3, 2, 0, 2, 3, 2]
 abilities_top:
   - name: "Items"
-    desc: "Dagger, Half Plate, _+1 longsword_, signet ring"
+    desc: "Dagger, Half Plate, _+1 [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]_, signet ring"
 ac: 24
 armorclass:
   - name: "AC"
@@ -47,26 +47,26 @@ health:
     desc: "85"
 abilities_mid:
   - name: "Battle Scarred"
-    desc: "The first time each day the veteran noble would be reduced to 0 HP, they remain at 1 HP and are enfeebled 2 for the rest of the day."
+    desc: "The first time each day the veteran noble would be reduced to 0 HP, they remain at 1 HP and are [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 2]] for the rest of the day."
   - name: "Noble Pride"
-    desc: "⬲ (auditory, emotion, mental)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]])"
   - name: "Trigger"
-    desc: "An opponent attempts to Demoralize the veteran noble or one of the noble's allies within 30 feet"
+    desc: "An opponent attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] the veteran noble or one of the noble's allies within 30 feet"
   - name: "Effect"
-    desc: "The veteran noble attempts to Demoralize the triggering opponent before the opponent rolls. On a critical success, the triggering action is disrupted as well."
+    desc: "The veteran noble attempts to Demoralize the triggering opponent before the opponent rolls. On a critical success, the triggering action is [[srd/pf2e/books/player-core/chapter-8-playing-the-game/actions#Disrupting Actions|disrupted]] as well."
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _longsword_ +16 (Magical, versatile P) __Damage__ 1d8+11 slashing"
+    desc: "⬻ _longsword_ +16 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 1d8+11 slashing"
   - name: "Melee"
-    desc: "⬻ dagger +15 (Agile, versatile S) __Damage__ 1d4+11 piercing"
+    desc: "⬻ dagger +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+11 piercing"
   - name: "Melee"
-    desc: "⬻ gauntlet +15 (Agile, Free-Hand) __Damage__ 1d4+11 bludgeoning"
+    desc: "⬻ gauntlet +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/free-hand|Free-Hand]]) __Damage__ 1d4+11 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +15 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+11 piercing"
+    desc: "⬻ dagger +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+11 piercing"
 abilities_bot:
   - name: "Tactical Command"
-    desc: "⬻ (Auditory, Concentrate, Linguistic, Mental)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|Linguistic]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]])"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"

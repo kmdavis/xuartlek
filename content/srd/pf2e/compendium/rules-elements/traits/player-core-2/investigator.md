@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Investigator`
 
-This trait indicates abilities from the investigator class.
+This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/investigator|investigator]] class.
 
 *Source: Player Core 2 p. 317*

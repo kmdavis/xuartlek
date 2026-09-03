@@ -31,7 +31,7 @@ You shine a blazing ray of light tinged with holy energy. Make a ranged spell at
 
 **Success** The target takes full damage.
 
- If the light passes through an area of magical darkness or targets a creature affected by magical darkness, _holy light_ attempts to counteract the darkness. If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the spell's target.
+ If the light passes through an area of magical [[srd/pf2e/compendium/rules-elements/traits/player-core/darkness|darkness]] or targets a creature affected by magical darkness, _holy light_ attempts to counteract the darkness. If you need to determine whether the light passes through an area of darkness, draw a line between yourself and the spell's target.
 
 ---
 **Heightened (+1)** The fire damage increases by 2d6, and the spirit damage against unholy creatures increases by 2d6.

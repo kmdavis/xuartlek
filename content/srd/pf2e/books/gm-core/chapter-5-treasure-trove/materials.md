@@ -16,13 +16,13 @@ citation: "GM Core pg. 252"
 
 <sup>GMC p. 252</sup>
 
-Most items are made from readily available materials—usually leather, wood, or steel—but some weapons and armor are made from more exotic materials, giving them unique properties and other advantages. Weapons made from precious materials are better able to harm certain creatures, and armor of these materials provides enhanced protection.
+Most items are made from readily available materials—usually leather, wood, or steel—but some weapons and armor are made from more exotic materials, giving them unique properties and other advantages. Weapons made from [[srd/pf2e/compendium/rules-elements/traits/gm-core/precious|precious]] materials are better able to harm certain creatures, and armor of these materials provides enhanced protection.
 
-Most materials are metals; they can be used to make metal weapons and armor. The GM is the final arbiter of what items can be made using a material. An item can be made with no more than one precious material, and only an expert in Crafting can create it. Some rare and exotic materials require master or even legendary proficiency.
+Most materials are metals; they can be used to make metal weapons and armor. The GM is the final arbiter of what items can be made using a material. An item can be made with no more than one precious material, and only an expert in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] can create it. Some rare and exotic materials require master or even legendary proficiency.
 
 A material's Price depends on how hard it is to work, its scarcity, and its purity; most items made with precious materials use an alloy, blend, or coating rather than using the material in its purest form. The three grades of purity for precious materials are low grade, standard grade, and high grade. Regardless of a precious material's purity, an item made from it gains the full effects of the precious material, but creating higher-level items and more powerful magic runes with precious material requires greater purity.
 
-Some precious materials are available only at certain grades. For instance, adamantine can't be low grade, and orichalcum must be high grade. Items made of materials with a lower grade than expected for the item's level, or of a higher grade than necessary, will mention the precious material's grade.
+Some precious materials are available only at certain grades. For instance, [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]] can't be low grade, and [[srd/pf2e/compendium/equipment/materials/orichalcum-object-high-grade|orichalcum]] must be high grade. Items made of materials with a lower grade than expected for the item's level, or of a higher grade than necessary, will mention the precious material's grade.
 
 ## Material Statistics
 
@@ -62,7 +62,7 @@ Materials with the precious trait can be substituted for base materials. For exa
 
 #### Crafting with Precious Materials
 
-Only an expert crafter can create a low-grade item, only a master can create a standard-grade item, and only a legendary crafter can create a high-grade item. In addition, to Craft with a precious material, your character level must be equal to or greater than that of the material.
+Only an expert [[srd/pf2e/compendium/rules-elements/skills/crafting|crafter]] can create a low-grade item, only a master can create a standard-grade item, and only a legendary crafter can create a high-grade item. In addition, to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] with a precious material, your character level must be equal to or greater than that of the material.
 
 Low-grade items can be used in the creation of magic items of up to 8th level, and they can hold runes of up to 8th level. Standard-grade items can be used to create magic items of up to 15th level and can hold runes of up to 15th level. High-grade items use the purest form of the precious material, and can be used to Craft magic items of any level holding any runes. Using purer forms of common materials is so relatively inexpensive that the Price is included in any magic item.
 

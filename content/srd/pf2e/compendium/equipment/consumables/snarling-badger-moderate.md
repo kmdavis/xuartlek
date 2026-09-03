@@ -18,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 `Consumable`  `Magical`  `Mental`  `Talisman`
 
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
-- **Trigger**: You lose the dying condition
-- **Requirement**: You have a wounded value of 1 or more.
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Trigger**: You lose the [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] condition
+- **Requirement**: You have a [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] value of 1 or more.
 
 This tarnished steel pendant is inlaid with the face of an enraged badger. When you Activate the talisman, it casts _heroism_ on you. If you lose the wounded condition, the _heroism_ ends immediately.
 

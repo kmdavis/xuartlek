@@ -31,7 +31,7 @@ perception:
     desc: "Perception +12; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17"
 abilityMods: [7, 0, 4, -4, 2, -1]
 ac: 26
 armorclass:
@@ -44,12 +44,12 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ tail +17 (Backswing, reach 15 feet) __Damage__ 2d8+7 bludgeoning plus punishing tail"
+    desc: "⬻ tail +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/backswing|Backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 15 feet]]) __Damage__ 2d8+7 bludgeoning plus punishing tail"
   - name: "Melee"
-    desc: "⬻ foot +17 (reach 10 feet) __Damage__ 2d6+7 bludgeoning"
+    desc: "⬻ foot +17 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+7 bludgeoning"
 abilities_bot:
   - name: "Punishing Tail"
-    desc: "A creature struck by the ankylosaurus's tail must attempt a DC 24 Fortitude save. On a failure, it's stunned 1; on a critical failure, it's stunned 3."
+    desc: "A creature struck by the ankylosaurus's tail must attempt a DC 24 Fortitude save. On a failure, it's [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned 1]]; on a critical failure, it's stunned 3."
   - name: "Trample"
     desc: "⬽ Medium or smaller, foot, DC 24"
 sourcebook: "_Monster Core_, page 98."

@@ -22,7 +22,7 @@ source: "GM Core"
 +11 (trained) or DC 26 (expert) to notice the control panel
 
 **Disable**
-DC 21 Thievery (trained) twice on the pillar, or DC 19 Thievery (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically (see Reset below).
+DC 21 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) twice on the pillar, or DC 19 Thievery (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically (see Reset below).
 
 **AC** 21, **Fort** +10, **Ref** +12
 
@@ -33,7 +33,7 @@ DC 21 Thievery (trained) twice on the pillar, or DC 19 Thievery (expert) once on
 48 (BT 24); **Panel Hardness** 5; **Panel HP** 20 (BT 10)
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
 **Rising Pillar** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") spinning blade +12, **Damage** 2d10+5 slashing
 

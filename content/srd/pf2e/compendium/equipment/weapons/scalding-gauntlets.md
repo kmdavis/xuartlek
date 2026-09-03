@@ -20,7 +20,7 @@ source: "Rage of Elements"
 - **Bulk**: L
 - **Base Weapon**: Spiked Gauntlet
 
-Prized by naari geniekin who prefer to fight with their fists, _scalding gauntlets_ are a pair of _+2 striking spiked gauntlets_. The intricate golden gauntlets are engraved with Pyric writing praising the glories of the Dominion of Flame and embellished with shimmering black and red gemstones. A creature you grab or restrain while wearing the gauntlets must succeed at a DC 26 Fortitude save or take 2d6 persistent fire damage and be sickened 1 from the pain; it's temporarily immune to being sickened by _scalding gauntlets_ for 1 hour.
+Prized by naari geniekin who prefer to fight with their fists, _scalding gauntlets_ are a pair of _+2 striking spiked gauntlets_. The intricate golden gauntlets are engraved with [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]] writing praising the glories of the Dominion of Flame and embellished with shimmering black and red gemstones. A creature you grab or restrain while wearing the gauntlets must succeed at a DC 26 Fortitude save or take 2d6 persistent fire damage and be sickened 1 from the pain; it's temporarily immune to being sickened by _scalding gauntlets_ for 1 hour.
 
 ### Scalding Gauntlets
 

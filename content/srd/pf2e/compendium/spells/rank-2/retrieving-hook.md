@@ -28,7 +28,7 @@ You conjure a magical hook and rope that hurtles toward the target and pulls the
 
 **Failure** The target is pulled to the nearest empty space adjacent to you.
 
-**Critical Failure** As failure, and the target is off-guard for 1 round.
+**Critical Failure** As failure, and the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] for 1 round.
 
 ---
 **Heightened (5th)** The range increases to 30 feet.

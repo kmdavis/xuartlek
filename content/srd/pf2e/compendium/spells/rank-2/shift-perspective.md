@@ -20,6 +20,6 @@ source: "Impossible Magic"
 - **Range**: 120 feet
 - **Duration**: 1 minute
 
-You throw one item of light Bulk or less that you’re holding to a location within range that you can see, then gain temporary vision from where that object lands. The object sees in all directions with your normal visual senses. You can Sustain this spell to switch between the thrown object’s perspective and your regular vision while the spell is active, but you can only see through one perspective at a time. You can Dismiss this spell.
+You throw one item of light Bulk or less that you’re holding to a location within range that you can see, then gain temporary vision from where that object lands. The object sees in all directions with your normal visual senses. You can Sustain this spell to switch between the thrown object’s perspective and your regular vision while the spell is active, but you can only see through one perspective at a time. You can [[srd/pf2e/compendium/rules-elements/actions/player-core#Dismiss|Dismiss]] this spell.
 
 *Source: Impossible Magic p. 162*

@@ -21,7 +21,7 @@ source: "GM Core"
 DC 20 (trained)
 
 **Disable**
-DC 18 Thievery (trained) on the floor tile or wall socket
+DC 18 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) on the floor tile or wall socket
 
 **AC** 18, **Fort** +11, **Ref** +3
 
@@ -32,9 +32,9 @@ DC 18 Thievery (trained) on the floor tile or wall socket
 32 (BT 16)
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
-**Spear** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** Pressure is applied to the floor tile; **Effect** The trap shoots a spear, making a Strike against the creature or object on the floor tile.
+**Spear** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** Pressure is applied to the floor tile; **Effect** The trap shoots a spear, making a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against the creature or object on the floor tile.
 
 **Ranged** spear +14, **Damage** 2d6+6 piercing
 

@@ -18,7 +18,7 @@ source: "Rage of Elements"
 `Consumable`  `Magical`  `Metal`  `Talisman`
 
 - **Usage**: affixed to a medium metal armor or heavy metal armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You take physical damage
 
 This spiky glob of magnetic liquid attaches directly onto the metal of your armor. When you activate the globule, it reshapes to deflect the incoming harm. You gain resistance to the triggering damage.

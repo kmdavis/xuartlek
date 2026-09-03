@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 - **Class**: Champion
 
-You gain the Shield Block general feat, a reaction that lets you reduce damage with your shield.
+You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block|Shield Block]] general feat, a reaction that lets you reduce damage with your shield.
 
 *Source: Player Core 2 p. 86*

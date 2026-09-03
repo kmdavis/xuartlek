@@ -19,6 +19,6 @@ source: "Player Core 2"
 
 - **Price**: 320 gp
 
-This snare sends a powerful series of scything blades to slice through a creature entering the snare's square, dealing 10d8 slashing damage (DC 32 basic Reflex save).
+This snare sends a powerful series of scything blades to slice through a creature entering the snare's square, dealing 10d8 slashing damage (DC 32 [[srd/pf2e/compendium/rules-elements/actions/howl-of-the-wild|basic]] Reflex save).
 
 *Source: Player Core 2 p. 300*

@@ -18,9 +18,9 @@ source: "GM Core"
 
 - **Price**: 66 gp
 - **Usage**: affixed to a weapon
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
-- **Trigger**: You damage an off-guard creature with a Strike using the affixed weapon.
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
+- **Trigger**: You damage an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature with a Strike using the affixed weapon.
 
-This black strand of leather is tied to look like a peace knot when the weapon is worn, but it doesn't hamper drawing the weapon. When you activate the knot, the creature you damaged takes 1d6 persistent bleed damage and is off-guard until the bleed ends. If you have the Twist the Knife feat, the talisman instead deals persistent bleed damage equal to your sneak attack damage.
+This black strand of leather is tied to look like a peace knot when the weapon is worn, but it doesn't hamper drawing the weapon. When you activate the knot, the creature you damaged takes 1d6 persistent bleed damage and is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the bleed ends. If you have the Twist the Knife feat, the talisman instead deals persistent bleed damage equal to your sneak attack damage.
 
 *Source: GM Core p. 266*

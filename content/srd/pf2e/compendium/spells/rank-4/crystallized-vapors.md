@@ -19,7 +19,7 @@ source: "Impossible Magic"
 `Attack`  `Aura`  `Cold`  `Concentrate`  `Manipulate`
 
 - **Traditions**: Arcane, Primal
-- **Area**: 15-foot emanation
+- **Area**: 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
 - **Defense**: AC
 - **Duration**: 1 minute
 

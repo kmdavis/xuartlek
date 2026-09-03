@@ -29,7 +29,7 @@ perception:
     desc: "Perception +7; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Athletics +7, Stealth +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
 abilityMods: [3, 4, 2, -4, 1, -2]
 ac: 18
 armorclass:
@@ -42,16 +42,16 @@ health:
 speed: "30 feet, climb 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +10 (Finesse) __Damage__ 1d10+3 piercing plus Grab"
+    desc: "⬻ jaws +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d10+3 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ claw +10 (Agile, Finesse) __Damage__ 1d6+3 slashing"
+    desc: "⬻ claw +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+3 slashing"
 abilities_bot:
   - name: "Maul"
-    desc: "⬻ The leopard makes two claw Strikes against a creature it has grabbed. Both count toward its multiple attack penalty, but the penalty increases only after both attacks are made."
+    desc: "⬻ The leopard makes two claw Strikes against a creature it has [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]]. Both count toward its multiple attack penalty, but the penalty increases only after both attacks are made."
   - name: "Pounce"
-    desc: "⬻ The leopard Strides and makes a Strike at the end of that movement. If the leopard began this action hidden, it remains hidden until after this ability's Strike."
+    desc: "⬻ The leopard Strides and makes a Strike at the end of that movement. If the leopard began this action [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], it remains hidden until after this ability's Strike."
   - name: "Sneak Attack"
-    desc: "The leopard deals 1d4 extra precision damage to off-guard creatures."
+    desc: "The leopard deals 1d4 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_Monster Core_, page 50."
 ```
 

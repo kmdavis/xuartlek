@@ -26,24 +26,24 @@ Strength or Intelligence
 
 **Divine Sanctification** must choose unholy
 
-**Divine Skill** Deception
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]]
 
-**Favored Weapon** Whip
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/flail/whip|Whip]]
 
-**Domains** Darkness, Death, Destruction, Trickery
+**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Death|Death]], [[srd/pf2e/compendium/character/domains#Destruction|Destruction]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
 
 **Alternate Domains** Nothingness
 
 **Cleric Spells**
 
 - **1st**
-Ill Omen
+[[srd/pf2e/compendium/spells/rank-1/ill-omen|Ill Omen]]
 
 - **2nd**
-Shatter
+[[srd/pf2e/compendium/spells/rank-2/shatter|Shatter]]
 
 - **5th**
-Wave of Despair
+[[srd/pf2e/compendium/spells/rank-5/wave-of-despair|Wave of Despair]]
 
 *Source: Monster Core 2 p. 110*
 
@@ -63,24 +63,24 @@ Constitution or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** Nature
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
 
-**Favored Weapon** Club
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/club/club|Club]]
 
-**Domains** Healing, Might, Nature, Protection
+**Domains** [[srd/pf2e/compendium/character/domains#Healing|Healing]], [[srd/pf2e/compendium/character/domains#Might|Might]], [[srd/pf2e/compendium/character/domains#Nature|Nature]], [[srd/pf2e/compendium/character/domains#Protection|Protection]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-Summon Plant or Fungus
+[[srd/pf2e/compendium/spells/rank-1/summon-plant-or-fungus|Summon Plant or Fungus]]
 
 - **2nd**
-Entangling Flora
+[[srd/pf2e/compendium/spells/rank-2/entangling-flora|Entangling Flora]]
 
 - **6th**
-Tangling Creepers
+[[srd/pf2e/compendium/spells/rank-6/tangling-creepers|Tangling Creepers]]
 
 *Source: Monster Core 2 p. 175*
 
@@ -101,23 +101,23 @@ Dexterity or Wisdom
 
 **Divine Sanctification** none
 
-**Divine Skill** Occultism
+**Divine Skill** [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
 
-**Favored Weapon** Kukri
+**Favored Weapon** [[srd/pf2e/compendium/equipment/weapons/knife/kukri|Kukri]]
 
-**Domains** Darkness, Knowledge, Nightmares, Trickery
+**Domains** [[srd/pf2e/compendium/character/domains#Darkness|Darkness]], [[srd/pf2e/compendium/character/domains#Knowledge|Knowledge]], [[srd/pf2e/compendium/character/domains#Nightmares|Nightmares]], [[srd/pf2e/compendium/character/domains#Trickery|Trickery]]
 
 **Alternate Domains** 
 
 **Cleric Spells**
 
 - **1st**
-Grim Tendrils
+[[srd/pf2e/compendium/spells/rank-1/grim-tendrils|Grim Tendrils]]
 
 - **4th**
-Nightmare
+[[srd/pf2e/compendium/spells/rank-4/nightmare|Nightmare]]
 
 - **5th**
-Summon Entity
+[[srd/pf2e/compendium/spells/rank-5/summon-entity|Summon Entity]]
 
 *Source: Monster Core 2 p. 178*

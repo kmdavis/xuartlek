@@ -31,22 +31,22 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; keen eyes"
-languages: "Common, Halfling"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +12, Athletics +13, Intimidation +13, Sports Lore +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +12, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +13, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +13, [[srd/pf2e/compendium/rules-elements/skills/lore|Sports Lore]] +11"
 abilityMods: [4, 3, 4, 0, -1, 2]
 abilities_top:
   - name: "Keen Eyes"
-    desc: "The halfling gains a +2 circumstance bonus when using the Seek action to find hidden or undetected creatures within 30 feet of them. Whenever the halfling targets a creature that is concealed or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
+    desc: "The halfling gains a +2 circumstance bonus when using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Seek|Seek]] action to find [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creatures within 30 feet of them. Whenever the halfling targets a creature that is [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one."
 ac: 20
 armorclass:
   - name: "AC"
-    desc: "20; __Fort__: +13; __Ref__: +12; __Will__: +8 +3 status vs. Intimidation checks"
+    desc: "20; __Fort__: +13; __Ref__: +12; __Will__: +8 +3 status vs. [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] checks"
 hp: 90
 health:
   - name: "HP"
-    desc: "90 (4 segments); __Weaknesses__ area damage 5, splash damage 5"
+    desc: "90 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
@@ -57,13 +57,13 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The bill-band deliberately gets under the feet of their opponents, proving they are greater than the sum of their parts. The bill-band attempts to Trip all creatures in or adjacent to their space. They roll one Athletics check and compare the result to the Reflex DC of each target."
+    desc: "The bill-band deliberately gets under the feet of their opponents, proving they are greater than the sum of their parts. The bill-band attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Trip|Trip]] all creatures in or adjacent to their space. They roll one [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check and compare the result to the Reflex DC of each target."
   - name: "Firecracker Salvo"
     desc: "⬺"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The bill-band launches a barrage of lit firecrackers that, upon impact, burst into light and sound. Each creature in a 10-foot burst within 60 feet takes 1d12 sonic damage with a DC 19 basic Reflex save. A creature that fails its save is also dazzled for 1 round. When the bill-band is reduced to 2 or fewer segments, this area decreases to a 5-foot burst."
+    desc: "The bill-band launches a barrage of lit firecrackers that, upon impact, burst into light and sound. Each creature in a 10-foot burst within 60 feet takes 1d12 sonic damage with a DC 19 basic Reflex save. A creature that fails its save is also [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 round. When the bill-band is reduced to 2 or fewer segments, this area decreases to a 5-foot burst."
   - name: "Overwhelming Scrum"
     desc: "The bill-band swarms in and around other creatures. They can move into other creatures' spaces, and other creatures can move into their spaces. The bill-band's spaces are difficult terrain to other creatures. __Stick It to 'Em!__"
   - name: "Frequency"

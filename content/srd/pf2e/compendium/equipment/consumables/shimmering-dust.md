@@ -21,6 +21,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-This luminous mica dust fluoresces for a short time after being exposed to significant amounts of magical energy. When a creature fails its save against a burst of __revealing light__ created using this catalyst, these glowing grains stick to the creature, causing it to shed dim light in a 20-foot radius for as long as its _invisibility_ is negated by the spell as well as causing it to take a –2 circumstance penalty to Stealth for that duration.
+This luminous mica dust fluoresces for a short time after being exposed to significant amounts of magical energy. When a creature fails its save against a burst of _[[srd/pf2e/compendium/spells/rank-2/revealing-light|_revealing light_]]_ created using this catalyst, these glowing grains stick to the creature, causing it to shed dim light in a 20-foot radius for as long as its _invisibility_ is negated by the spell as well as causing it to take a –2 circumstance penalty to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] for that duration.
 
 *Source: Impossible Magic p. 216*

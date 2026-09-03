@@ -35,7 +35,7 @@ perception:
     desc: "Perception +12; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +11, Athletics +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +11, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15"
 abilityMods: [5, 3, 4, -5, 2, -2]
 ac: 24
 armorclass:
@@ -44,7 +44,7 @@ armorclass:
 hp: 90
 health:
   - name: "HP"
-    desc: "90 (void healing); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
+    desc: "90 (void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5, piercing 5, slashing 5"
 speed: "20 feet, fly 20 feet"
 attacks:
   - name: "Melee"
@@ -53,9 +53,9 @@ attacks:
     desc: "⬻ foot +15 __Damage__ 2d6+7 bludgeoning"
 abilities_bot:
   - name: "Abdomen Cache"
-    desc: "The abdomen of a beetle carapace can be fitted with a simple hinge, allowing it to open and be used as storage. The abdomen can hold up to one Medium or smaller creature, a Large or smaller swarm, or a similar amount of cargo. The beetle or a creature stored in it can Interact to open the hatch. If the beetle carapace takes a critical hit by a bludgeoning weapon, roll a DC 10 flat check. If the check fails, the cache is breached, and its contents spill out of the beetle. The hatch can also be Forced Open (DC 22 Athletics)."
+    desc: "The abdomen of a beetle carapace can be fitted with a simple hinge, allowing it to open and be used as storage. The abdomen can hold up to one Medium or smaller creature, a Large or smaller swarm, or a similar amount of cargo. The beetle or a creature stored in it can Interact to open the hatch. If the beetle carapace takes a critical hit by a bludgeoning weapon, roll a DC 10 flat check. If the check fails, the cache is breached, and its contents spill out of the beetle. The hatch can also be [[srd/pf2e/compendium/rules-elements/actions/player-core#Force Open|Forced Open]] (DC 22 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]])."
   - name: "Constrict"
-    desc: "⬻ 2d8+2 piercing, DC 24 Crawling Cargo Undead make for the most common passengers inside a beetle carapace's abdomen, but swarms often pack tight inside the creatures. Insects tend to be more comfortable around undead than other types of animals. The following creatures make good options for combat encounters, in which they can be released at a dramatic moment for a grotesque surprise. Army ant swarm Centipede swarm Cockroach swarm Fen mosquito swarm Scorpion swarm Spider swarm Wasp swarm"
+    desc: "⬻ 2d8+2 piercing, DC 24 Crawling Cargo Undead make for the most common passengers inside a beetle carapace's abdomen, but swarms often pack tight inside the creatures. Insects tend to be more comfortable around undead than other types of animals. The following creatures make good options for combat encounters, in which they can be released at a dramatic moment for a grotesque surprise. [[srd/pf2e/bestiary/monster-core/animal/army-ant-swarm|Army ant swarm]] [[srd/pf2e/bestiary/monster-core/animal/centipede-swarm|Centipede swarm]] [[srd/pf2e/bestiary/monster-core-2/animal/cockroach-swarm|Cockroach swarm]] [[srd/pf2e/bestiary/monster-core-2/animal/fen-mosquito-swarm|Fen mosquito swarm]] [[srd/pf2e/bestiary/monster-core/animal/scorpion-swarm|Scorpion swarm]] [[srd/pf2e/bestiary/monster-core/animal/spider-swarm|Spider swarm]] [[srd/pf2e/bestiary/monster-core/animal/wasp-swarm|Wasp swarm]]"
 sourcebook: "_Monster Core 2_, page 289."
 ```
 

@@ -31,10 +31,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6"
-languages: "Alghollthu, Common"
+languages: "Alghollthu, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +4, Diplomacy +3, Nature +3, Stealth +5, Survival +5, Underwater Lore +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +4, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +3, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +3, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5, Underwater Lore +4"
 abilityMods: [2, 3, 2, 0, 1, 1]
 abilities_top:
   - name: "Items"
@@ -61,9 +61,9 @@ abilities_mid:
 speed: "25 feet; swim 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +7 (Agile, Finesse, thrown 10 feet, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +7 (Agile, Finesse, thrown 10 feet, versatile S) __Damage__ 1d4+2 piercing"
+    desc: "⬻ dagger +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+2 piercing"
 sourcebook: "_Monster Core_, page 31."
 ```
 

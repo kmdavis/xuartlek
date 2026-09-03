@@ -25,6 +25,6 @@ You focus deeply on the link between you and your eidolon and boost the power of
 
 ---
 
-**Special** Your eidolon can benefit from either _boost eidolon_ or _reinforce eidolon_, but not both; if you cast one of these spells during the other's duration, the newer spell replaces the older one.
+**Special** Your eidolon can benefit from either _boost eidolon_ or [[srd/pf2e/compendium/spells/cantrips/reinforce-eidolon|_reinforce eidolon_]], but not both; if you cast one of these spells during the other's duration, the newer spell replaces the older one.
 
 *Source: Impossible Magic p. 185*

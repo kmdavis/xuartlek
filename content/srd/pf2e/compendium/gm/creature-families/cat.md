@@ -14,7 +14,7 @@ Few predators of the natural world can match the cat's talent for stalking and s
 
 ### Members
 
-Leopard (Creature 2), Lion (Creature 3), Smilodon (Creature 6), Tiger (Creature 4)
+[[srd/pf2e/bestiary/monster-core/animal/leopard|Leopard]] (Creature 2), [[srd/pf2e/bestiary/monster-core/animal/lion|Lion]] (Creature 3), [[srd/pf2e/bestiary/monster-core/animal/smilodon|Smilodon]] (Creature 6), [[srd/pf2e/bestiary/monster-core/animal/tiger|Tiger]] (Creature 4)
 
 ### Cat Lairs
 

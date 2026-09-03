@@ -14,15 +14,15 @@ Society is built upon the backs of laborers.
 
 ### Members
 
-Commoner (Creature -1), Construction Worker (Creature 2), Dockhand (Creature 0), Drover (Creature 0), Farmer (Creature 0), Fisher (Creature 0), Gravedigger (Creature 1), Innkeeper (Creature 1), Messenger (Creature 1), Miner (Creature 0), Servant (Creature -1), Vermin Catcher (Creature 2)
+[[srd/pf2e/bestiary/npc-core/humanoid/commoner|Commoner]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/construction-worker|Construction Worker]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/dockhand|Dockhand]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/drover|Drover]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/farmer|Farmer]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/fisher|Fisher]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/gravedigger|Gravedigger]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/innkeeper|Innkeeper]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/messenger|Messenger]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/miner|Miner]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/servant|Servant]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/vermin-catcher|Vermin Catcher]] (Creature 2)
 
 ### Bar Fight!
 
-Bar fights work better without a grid. Use the stat blocks here or in the Downtrodden section for notable participants. Most participants fight non-lethally with fists or improvised weapons. Roll one or two attacks at the end of each round against each PC in the fight (+4 attack modifier, 1d4+2 bludgeoning damage). Particularly inebriated fighters may be off-guard and gain a +1 item bonus to saving throws against fear effects.
+Bar fights work better without a grid. Use the stat blocks here or in the [[srd/pf2e/compendium/gm/creature-families/downtrodden|Downtrodden]] section for notable participants. Most participants fight non-lethally with fists or improvised weapons. Roll one or two attacks at the end of each round against each PC in the fight (+4 attack modifier, 1d4+2 bludgeoning damage). Particularly inebriated fighters may be [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] and gain a +1 item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effects.
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: Orc agriculturalist (level 1), root leshy groundskeeper (level –1), tumbleweed leshy courier (level 3)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/orc-agriculturalist|Orc agriculturalist]] (level 1), [[srd/pf2e/bestiary/npc-core/plant/root-leshy-groundskeeper|root leshy groundskeeper]] (level –1), [[srd/pf2e/bestiary/npc-core/plant/tumbleweed-leshy-courier|tumbleweed leshy courier]] (level 3)
 
 ### Dreams Of Adventure
 

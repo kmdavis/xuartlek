@@ -20,7 +20,7 @@ Girtablilus are desert-dwelling guardians with the upper bodies of muscular huma
 
 ### Members
 
-Girtablilu Seer (Creature 12), Girtablilu Sentry (Creature 8)
+[[srd/pf2e/bestiary/monster-core-2/beast/girtablilu-seer|Girtablilu Seer]] (Creature 12), [[srd/pf2e/bestiary/monster-core-2/beast/girtablilu-sentry|Girtablilu Sentry]] (Creature 8)
 
 ### Bonds of Faith
 

@@ -22,7 +22,7 @@ source: "Rage of Elements"
 - **Defense**: Fortitude
 - **Duration**: sustained up to 1 minute
 
-You inhale all air in the surrounding area, stealing the breath of nearby creatures. During vacuum's duration, you take a –1 circumstance penalty against inhaled threats, such as inhaled poisons. If you cast _vacuum_ in an environment where you can't breathe, the spell fails and you immediately begin to suffocate. Creatures in the area must attempt a Fortitude save. A creature that's holding its breath gets a result one degree of success better than it rolled, and creatures that don't need to breathe air are immune to the spell. A creature that later enters the area or ceases holding its breath must attempt a save against the effect. On subsequent rounds, the first time each round you Sustain the spell, you can force each creature in the area to save against the effect.
+You inhale all air in the surrounding area, stealing the breath of nearby creatures. During vacuum's duration, you take a –1 circumstance penalty against inhaled threats, such as [[srd/pf2e/compendium/rules-elements/traits/gm-core/inhaled|inhaled]] poisons. If you cast _vacuum_ in an environment where you can't breathe, the spell fails and you immediately begin to suffocate. Creatures in the area must attempt a Fortitude save. A creature that's holding its breath gets a result one degree of success better than it rolled, and creatures that don't need to breathe air are immune to the spell. A creature that later enters the area or ceases holding its breath must attempt a save against the effect. On subsequent rounds, the first time each round you Sustain the spell, you can force each creature in the area to save against the effect.
 
 **Success** The creature begins holding its breath.
 

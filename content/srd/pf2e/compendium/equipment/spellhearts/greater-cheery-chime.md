@@ -18,7 +18,7 @@ source: "Impossible Magic"
 - **Usage**: affixed to armor or a weapon
 
 This single crystalline wind chime occasionally jingles as if blown against another chime by a soothing breeze.
-**• Armor** You gain a +1 item bonus to saving throws against emotion effects.
+**• Armor** You gain a +1 item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]] effects.
 **• Weapon** After you cast an emotion spell by Activating the _cheery chime_, your Strikes with the weapon deal an additional 1d4 mental damage until the end of your next turn. 
 
 **Activate** Cast a Spell **Effect** You cast __infectious enthusiasm__.
@@ -35,7 +35,7 @@ This single crystalline wind chime occasionally jingles as if blown against anot
 
 Item bonus when affixed to armor is +2 and extra damage when affixed to a weapon is 1d6. The spell DC of any spell cast by Activating the item is 24. 
 
-**Activate** Cast a Spell **Effect** You cast __laughing fit__.
+**Activate** Cast a Spell **Effect** You cast _[[srd/pf2e/compendium/spells/rank-2/laughing-fit|_laughing fit_]]_.
 
 ### Major Cheery Chime
 
@@ -47,6 +47,6 @@ Item bonus when affixed to armor is +3 and extra damage when affixed to a weapon
 
 **Activate** Cast a Spell **Frequency** once per day; **Effect** You cast 6th-rank _r_oaring applause__ 
 
-**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast __zealous conviction__.
+**Activate** Cast a Spell **Frequency** once per day; **Effect** You cast _[[srd/pf2e/compendium/spells/rank-6/zealous-conviction|_zealous conviction_]]_.
 
 *Source: Impossible Magic p. 234*

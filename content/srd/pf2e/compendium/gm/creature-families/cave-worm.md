@@ -14,7 +14,7 @@ Cave worms are gigantic scavengers that bore through the depths of the world, ea
 
 ### Members
 
-Benthic Worm (Creature 15), Cave Worm (Creature 13), Magma Worm (Creature 18)
+[[srd/pf2e/bestiary/monster-core/animal/benthic-worm|Benthic Worm]] (Creature 15), [[srd/pf2e/bestiary/monster-core/animal/cave-worm|Cave Worm]] (Creature 13), [[srd/pf2e/bestiary/monster-core/beast/magma-worm|Magma Worm]] (Creature 18)
 
 ### Belly of the Beast
 

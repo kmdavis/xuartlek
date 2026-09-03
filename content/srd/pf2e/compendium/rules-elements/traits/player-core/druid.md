@@ -13,6 +13,6 @@ source: "Player Core"
 
 `Druid`
 
-This indicates abilities from the druid class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/druid|druid]] class.
 
 *Source: Player Core p. 455*

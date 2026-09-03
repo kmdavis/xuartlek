@@ -19,7 +19,7 @@ source: "GM Core"
 
 The sleek, black lenses of these goggles somehow make everything seem more brightly lit. While wearing the goggles, you gain a +1 item bonus to Perception checks involving sight. 
 
-**Activate—Darkvision** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per day; **Effect** Adjusting your goggles, you gain darkvision for 1 hour. 
+**Activate—Darkvision** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** Adjusting your goggles, you gain darkvision for 1 hour. 
 
 ### Obsidian Goggles
 

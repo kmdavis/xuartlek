@@ -23,7 +23,7 @@ This very small shield is a favorite of duelists and quick, lightly armored warr
 
 ### Specific Magic Shields
 
-Archer's Bulwark, Bivouac Targe, Fan Buckler, Floating Shield, Glamorous Buckler, Reflecting Shield, Sapling Shield, Shield Of Mental Fortitude, Shield Of Silent Words, Verdant Buckler, War Mage's Buckler
+[[srd/pf2e/compendium/equipment/shields/archers-bulwark|Archer's Bulwark]], [[srd/pf2e/compendium/equipment/shields/bivouac-targe|Bivouac Targe]], Fan Buckler, [[srd/pf2e/compendium/equipment/shields/floating-shield-greater|Floating Shield]], [[srd/pf2e/compendium/equipment/shields/glamorous-buckler|Glamorous Buckler]], [[srd/pf2e/compendium/equipment/shields/reflecting-shield|Reflecting Shield]], Sapling Shield, [[srd/pf2e/compendium/equipment/shields/shield-of-mental-fortitude|Shield Of Mental Fortitude]], [[srd/pf2e/compendium/equipment/shields/shield-of-silent-words|Shield Of Silent Words]], [[srd/pf2e/compendium/equipment/shields/verdant-buckler|Verdant Buckler]], [[srd/pf2e/compendium/equipment/shields/war-mages-buckler|War Mage's Buckler]]
 
 *Source: Player Core p. 274*
 
@@ -100,7 +100,7 @@ This buckler-sized shield is segmented, allowing it to collapse into a housing b
 - **Hardness**: 5
 - **HP (BT)**: 20 (10)
 
-This large steel shield features a specialized opening to hold lances and similar weapons. Harnessed shields are a common backup for those who fight with jousting weapons in case they're forced into combat without their mounts. Balancing the weapon within the shield's hold is somewhat awkward, and longer weapons, like lances, need to be held closer to the body than usual for proper support.
+This large steel shield features a specialized opening to hold lances and similar weapons. Harnessed shields are a common backup for those who fight with [[srd/pf2e/compendium/rules-elements/traits/player-core/jousting|jousting]] weapons in case they're forced into combat without their mounts. Balancing the weapon within the shield's hold is somewhat awkward, and longer weapons, like lances, need to be held closer to the body than usual for proper support.
 
 *Source: Treasure Vault (Remastered) p. 20*
 
@@ -117,7 +117,7 @@ Similar in size to a buckler, this steel shield is intended to absorb as many bl
 
 ### Specific Magic Shields
 
-Starfall Shield, Starfall Shield
+[[srd/pf2e/compendium/equipment/shields/starfall-shield|Starfall Shield]], Starfall Shield
 
 *Source: Treasure Vault (Remastered) p. 20*
 
@@ -132,7 +132,7 @@ Starfall Shield, Starfall Shield
 - **Hardness**: 4
 - **HP (BT)**: 20 (10)
 
-Hide shields come in a variety of shapes and sizes. Specialized tanning techniques combined with tough hides from creatures such as griffons result in these particularly tough shields. The hardened hide of the shield still has enough flexibility to diminish the impact of battering and pummeling attacks.
+Hide shields come in a variety of shapes and sizes. Specialized tanning techniques combined with tough hides from creatures such as [[srd/pf2e/bestiary/monster-core/animal/griffon|griffons]] result in these particularly tough shields. The hardened hide of the shield still has enough flexibility to diminish the impact of battering and pummeling attacks.
 
 *Source: Treasure Vault (Remastered) p. 20*
 
@@ -151,7 +151,7 @@ This traditional Shoanti armament combines a short metal blade with the skull of
 
 ### Specific Magic Shields
 
-Hippopotamus Klar, Sanguine Klar, Sanguine Klar
+[[srd/pf2e/compendium/equipment/shields/hippopotamus-klar|Hippopotamus Klar]], [[srd/pf2e/compendium/equipment/shields/sanguine-klar-greater|Sanguine Klar]], Sanguine Klar
 
 *Source: Treasure Vault (Remastered) p. 20*
 
@@ -170,7 +170,7 @@ Meteor shields are specifically designed with throwing in mind. A meteor shield 
 
 ### Specific Magic Shields
 
-Helmsman's Recourse, Helmsman's Recourse
+[[srd/pf2e/compendium/equipment/shields/helmsmans-recourse-major|Helmsman's Recourse]], Helmsman's Recourse
 
 *Source: Treasure Vault (Remastered) p. 21*
 
@@ -208,7 +208,7 @@ This specialized steel shield features an outer layer of angled wooden or steel 
 
 ### Specific Magic Shields
 
-Turnabout Shield, Turnabout Shield
+[[srd/pf2e/compendium/equipment/shields/turnabout-shield|Turnabout Shield]], Turnabout Shield
 
 *Source: Treasure Vault (Remastered) p. 21*
 
@@ -225,7 +225,7 @@ Like wooden shields, steel shields come in a variety of shapes and sizes. Though
 
 ### Specific Magic Shields
 
-Clockwork Shield, Coward's Shield, Dragon Shield, Dragonslayer's Shield, Emergency Escape Shield, Energized Shield, Force Shield, Forge Warden, Imposing Shield, Indestructible Shield, Lion's Shield, Magnetic Shield, Magnetic Shield, Martyr's Shield, Martyr's Shield, Medusa's Scream, Sensei's Parasol, Shield Of Endurance, Shield Of The Bear, Spellguard Shield, Spellshock Shield, Spined Shield, Stifling Shield, Sturdy Shield
+Clockwork Shield, [[srd/pf2e/compendium/equipment/shields/cowards-shield|Coward's Shield]], [[srd/pf2e/compendium/equipment/shields/dragon-shield|Dragon Shield]], [[srd/pf2e/compendium/equipment/shields/dragonslayers-shield|Dragonslayer's Shield]], [[srd/pf2e/compendium/equipment/shields/emergency-escape-shield|Emergency Escape Shield]], [[srd/pf2e/compendium/equipment/shields/major-energized-shield|Energized Shield]], [[srd/pf2e/compendium/equipment/shields/force-shield|Force Shield]], [[srd/pf2e/compendium/equipment/shields/forge-warden|Forge Warden]], Imposing Shield, [[srd/pf2e/compendium/equipment/shields/indestructible-shield|Indestructible Shield]], [[srd/pf2e/compendium/equipment/shields/lions-shield|Lion's Shield]], Magnetic Shield, [[srd/pf2e/compendium/equipment/alchemical-items/magnetic-shield|Magnetic Shield]], [[srd/pf2e/compendium/equipment/intelligent-items/martyrs-shield|Martyr's Shield]], Martyr's Shield, [[srd/pf2e/compendium/equipment/shields/medusas-scream-greater|Medusa's Scream]], Sensei's Parasol, [[srd/pf2e/compendium/equipment/shields/shield-of-endurance|Shield Of Endurance]], [[srd/pf2e/compendium/equipment/shields/shield-of-the-bear|Shield Of The Bear]], [[srd/pf2e/compendium/equipment/shields/spellguard-shield|Spellguard Shield]], [[srd/pf2e/compendium/equipment/shields/spellshock-shield|Spellshock Shield]], [[srd/pf2e/compendium/equipment/shields/spined-shield|Spined Shield]], [[srd/pf2e/compendium/equipment/shields/stifling-shield|Stifling Shield]], [[srd/pf2e/compendium/equipment/shields/sturdy-shield-supreme|Sturdy Shield]]
 
 *Source: Player Core p. 274*
 
@@ -259,7 +259,7 @@ These massive shields can be used to provide cover to nearly the entire body. Du
 
 ### Specific Magic Shields
 
-Arctic Worm Chitin Shield, Resolute Shield, Sapling Shield, Siege Shield, Testudo Shield, Warding Escutcheon
+[[srd/pf2e/compendium/equipment/shields/arctic-worm-chitin-shield|Arctic Worm Chitin Shield]], [[srd/pf2e/compendium/equipment/shields/resolute-shield|Resolute Shield]], Sapling Shield, [[srd/pf2e/compendium/equipment/shields/siege-shield|Siege Shield]], [[srd/pf2e/compendium/equipment/shields/greater-testudo-shield|Testudo Shield]], Warding Escutcheon
 
 *Source: Player Core p. 274*
 
@@ -276,6 +276,6 @@ Though they come in a variety of shapes and sizes, the protection offered by woo
 
 ### Specific Magic Shields
 
-Bloodroot Shield, Burr Shield, Exploding Shield, Staff-storing Shield, Sun Slayer, Tiger Shield
+Bloodroot Shield, [[srd/pf2e/compendium/equipment/shields/burr-shield|Burr Shield]], [[srd/pf2e/compendium/equipment/shields/exploding-shield|Exploding Shield]], [[srd/pf2e/compendium/equipment/shields/staff-storing-shield|Staff-storing Shield]], [[srd/pf2e/compendium/equipment/shields/sun-slayer|Sun Slayer]], [[srd/pf2e/compendium/equipment/shields/tiger-shield|Tiger Shield]]
 
 *Source: Player Core p. 274*

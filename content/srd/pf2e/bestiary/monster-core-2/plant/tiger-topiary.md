@@ -27,14 +27,14 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; low-light vision, scent (imprecise) 60 feet"
-languages: "Muan; (can't speak any language)"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Muan|Muan]]; (can't speak any language)"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Nature +10, Stealth +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +12"
 abilityMods: [4, 4, 3, -2, 0, 3]
 abilities_top:
   - name: "Stalker"
-    desc: "When in dense foliage or tall grass, the tiger topiary gains a +1 status bonus to checks to Hide."
+    desc: "When in dense foliage or tall grass, the tiger topiary gains a +1 status bonus to checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]]."
 ac: 21
 armorclass:
   - name: "AC"
@@ -42,20 +42,20 @@ armorclass:
 hp: 80
 health:
   - name: "HP"
-    desc: "80; __Immunities__ bleed; __Weaknesses__ fire 8"
+    desc: "80; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 8"
 speed: "40 feet; walk through plants"
 attacks:
   - name: "Melee"
     desc: "⬻ jaws +13 __Damage__ 2d8+7 piercing"
   - name: "Melee"
-    desc: "⬻ claw +13 (Agile) __Damage__ 2d6+7 slashing"
+    desc: "⬻ claw +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 2d6+7 slashing"
 abilities_bot:
   - name: "Pounce"
-    desc: "⬻ The tiger topiary Strides or Leaps and makes a Strike at the end of that movement. If it began this action hidden, it remains hidden until after this ability's Strike."
+    desc: "⬻ The tiger topiary [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] and makes a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] at the end of that movement. If it began this action [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], it remains hidden until after this ability's Strike."
   - name: "Pruning"
-    desc: "⬻ (Concentrate, manipulate, polymorph) The tiger topiary twists and contorts its shape, shedding branches and leaves as needed to change into a topiary of a Large or smaller animal. Until the next time it acts, the topiary has an automatic result of 32 for Deception checks and DCs to appear as a mundane topiary."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorph]]) The tiger topiary twists and contorts its shape, shedding branches and leaves as needed to change into a topiary of a Large or smaller animal. Until the next time it acts, the topiary has an automatic result of 32 for [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks and DCs to appear as a mundane topiary."
   - name: "Walk Through Plants"
-    desc: "The tiger topiary ignores difficult terrain caused by dense vegetation."
+    desc: "The tiger topiary [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Ignore Difficult Terrain|ignores difficult terrain]] caused by dense vegetation."
 sourcebook: "_Monster Core 2_, page 214."
 ```
 

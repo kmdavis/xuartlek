@@ -22,7 +22,7 @@ source: "Howl of the Wild"
 - **Target**: 1 creature
 - **Duration**: 1 round
 
-The target's skin erupts in thick hide or dense scales. It gains resistance 5 to physical damage, except adamantine, until the beginning of its next turn.
+The target's skin erupts in thick hide or dense scales. It gains resistance 5 to physical damage, except [[srd/pf2e/compendium/equipment/materials/adamantine-object-high-grade|adamantine]], until the beginning of its next turn.
 
 ---
 **Heightened (+2)** The resistance increases by 3.

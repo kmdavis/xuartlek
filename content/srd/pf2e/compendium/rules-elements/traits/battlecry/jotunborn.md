@@ -13,6 +13,6 @@ source: "Battlecry!"
 
 `Jotunborn`
 
-A creature with this trait is a member of the jotunborn ancestry. Jotunborn are large people forged from the blood of an ancient group of giants called titans and usually have low-light vision. An ability with this trait can be used or selected only by jotunborn. A weapon with this trait is created and used by jotunborn.
+A creature with this trait is a member of the [[srd/pf2e/compendium/character/ancestries/jotunborn|jotunborn]] ancestry. Jotunborn are large people forged from the blood of an ancient group of giants called titans and usually have low-light vision. An ability with this trait can be used or selected only by jotunborn. A weapon with this trait is created and used by jotunborn.
 
 *Source: Battlecry! p. 220*

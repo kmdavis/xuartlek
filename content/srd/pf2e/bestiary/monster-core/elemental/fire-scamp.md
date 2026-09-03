@@ -29,14 +29,14 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; darkvision, smoke vision"
-languages: "Pyric"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Deception +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +7"
 abilityMods: [0, 4, 0, -2, 0, 2]
 abilities_top:
   - name: "Smoke Vision"
-    desc: "The fire scamp ignores the concealed condition from smoke."
+    desc: "The fire scamp ignores the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition from smoke."
 ac: 17
 armorclass:
   - name: "AC"
@@ -44,17 +44,17 @@ armorclass:
 hp: 16
 health:
   - name: "HP"
-    desc: "16 (fast healing 2 (while touching fire)); __Immunities__ bleed, fire, paralyzed, poison, sleep; __Weaknesses__ cold 3"
+    desc: "16 (fast healing 2 (while touching fire)); __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/cold|cold]] 3"
 speed: "20 feet, fly 25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +9 (Finesse) __Damage__ 1d6 piercing and 1d4 fire"
+    desc: "⬻ jaws +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6 piercing and 1d4 fire"
 abilities_bot:
   - name: "Flame Breath"
-    desc: "⬺ (Arcane, Fire) The fire scamp breathes flames in a 15- foot cone that deals 2d4 fire damage to each creature within the area (DC 17 basic Reflex save). Creatures that fail the save also take 1d4 persistent fire damage. The fire scamp can't use Flame Breath again for 1d4 rounds."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|Fire]]) The fire scamp breathes flames in a 15- foot cone that deals 2d4 fire damage to each creature within the area (DC 17 basic Reflex save). Creatures that fail the save also take 1d4 persistent fire damage. The fire scamp can't use Flame Breath again for 1d4 rounds."
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 15 - __Cantrips (1st)__ Daze, Ignition, Light"
+    desc: "DC 15 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/light|Light]]"
 sourcebook: "_Monster Core_, page 147."
 ```
 

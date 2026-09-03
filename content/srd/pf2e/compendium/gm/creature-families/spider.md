@@ -14,7 +14,7 @@ Few everyday vermin inspire as much dread as the infamous spider.
 
 ### Members
 
-Dream Spider (Creature 0), Giant Tarantula (Creature 6), Goliath Spider (Creature 11), Hunting Spider (Creature 1), Ogre Spider (Creature 5), Spider Swarm (Creature 0)
+[[srd/pf2e/bestiary/monster-core-2/animal/dream-spider|Dream Spider]] (Creature 0), [[srd/pf2e/bestiary/monster-core/animal/giant-tarantula|Giant Tarantula]] (Creature 6), [[srd/pf2e/bestiary/monster-core/animal/goliath-spider|Goliath Spider]] (Creature 11), [[srd/pf2e/bestiary/monster-core/animal/hunting-spider|Hunting Spider]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/animal/ogre-spider|Ogre Spider]] (Creature 5), [[srd/pf2e/bestiary/monster-core/animal/spider-swarm|Spider Swarm]] (Creature 0)
 
 ### Other Giant Spiders
 

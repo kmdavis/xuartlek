@@ -33,10 +33,10 @@ modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; metalsense (imprecise) 60 feet"
-languages: "Talican; telepathy 30 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Talican|Talican]]; telepathy 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +22, Athletics +21, Crafting +20, Diplomacy +21"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +22, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +21, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +20, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +21"
 abilityMods: [4, 7, 6, 5, 3, 4]
 abilities_top:
   - name: "Metalsense"
@@ -48,14 +48,14 @@ armorclass:
 hp: 210
 health:
   - name: "HP"
-    desc: "210 (16 squares); __Resistances__ electricity 10; __Weaknesses__ area damage 15, splash damage 10"
+    desc: "210 (16 squares); __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 10; __Weaknesses__ area damage 15, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 10"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "fly 25 feet; troop movement"
 abilities_bot:
   - name: "Entrancing Shapes"
-    desc: "⬺ (Mental, Occult, Visual) The pelegox cube rapidly shifts, creating a display of seemingly impossible geometric patterns. Creatures in a 60-foot cone take 9d6 mental damage (DC 29 basic Will save). A creature that fails is also fascinated with the pelegox cube and stupefied 1 for 1 minute."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|Visual]]) The pelegox cube rapidly shifts, creating a display of seemingly impossible geometric patterns. Creatures in a 60-foot cone take 9d6 mental damage (DC 29 basic Will save). A creature that fails is also [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with the pelegox cube and stupefied 1 for 1 minute."
   - name: "Scrambled Strike"
     desc: ""
   - name: "Frequency"

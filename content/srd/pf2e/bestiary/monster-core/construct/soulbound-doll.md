@@ -29,10 +29,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision"
-languages: "Common; one spoken by its creator (typically Common)"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; one spoken by its creator (typically [[srd/pf2e/compendium/rules-elements/languages#Common|Common]])"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +8, Occultism +4, Stealth +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +8, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
 abilityMods: [-2, 4, 3, 0, 2, 0]
 abilities_top:
   - name: "Personality Fragments"
@@ -44,37 +44,37 @@ armorclass:
 hp: 23
 health:
   - name: "HP"
-    desc: "23; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, nonlethal attacks, paralyzed, poison, sickened, unconscious, vitality, void; __Resistances__ bludgeoning 3, piercing 5, slashing 3"
+    desc: "23; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Resistances__ bludgeoning 3, piercing 5, slashing 3"
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +10 (Agile, Finesse, Magical, reach 0 feet) __Damage__ 1d6+2 bludgeoning"
+    desc: "⬻ fist +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]]) __Damage__ 1d6+2 bludgeoning"
 abilities_bot:
   - name: "Brave"
-    desc: ": _enlarge_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-2/enlarge|_enlarge_]]"
   - name: "Calm"
-    desc: ": _calm_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-2/calm|_calm_]]"
   - name: "Careful"
-    desc: ": _augury_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-2/augury|_augury_]]"
   - name: "Cruel"
-    desc: ": _harm_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-1/harm|_harm_]]"
   - name: "Gentle"
-    desc: ": _peaceful rest_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-2/peaceful-rest|_peaceful rest_]]"
   - name: "Impish"
-    desc: ": _disguise magic_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-1/disguise-magic|_disguise magic_]]"
   - name: "Jolly"
-    desc: ": _laughing fit_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-2/laughing-fit|_laughing fit_]]"
   - name: "Kind"
-    desc: ": _heal_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-1/heal|_heal_]]"
   - name: "Rash"
-    desc: ": _breathe fire_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-1/breathe-fire|_breathe fire_]]"
   - name: "Sassy"
-    desc: ": _dispel magic_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]]"
   - name: "Timid"
-    desc: ": _invisibility_"
+    desc: ": [[srd/pf2e/compendium/spells/rank-2/invisibility|_invisibility_]]"
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 18, attack +10 - __Cantrips (1st)__ Light, Prestidigitation, Telekinetic Hand - __2nd__ one spell based on donor soul's personality trait (see sidebar) - __3rd__ Levitate Soulbound Personalities A soulbound doll's additional 2nd-rank innate spell depends on a strong personality trait it had in life, as listed below."
+    desc: "DC 18, attack +10 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/telekinetic-hand|Telekinetic Hand]] - __2nd__ one spell based on donor soul's personality trait (see sidebar) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/levitate|Levitate]] Soulbound Personalities A soulbound doll's additional 2nd-rank innate spell depends on a strong personality trait it had in life, as listed below."
 sourcebook: "_Monster Core_, page 318."
 ```
 

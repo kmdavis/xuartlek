@@ -29,10 +29,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; low-light vision"
-languages: "Amurrun, Common"
+languages: "Amurrun, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +6, Nature +4, Stealth +7, Survival +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +4"
 abilityMods: [3, 4, 1, -1, 1, 1]
 abilities_top:
   - name: "Items"
@@ -47,7 +47,7 @@ health:
     desc: "17"
 abilities_mid:
   - name: "Cat's Luck"
-    desc: "⬲ (fortune)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]])"
   - name: "Trigger"
     desc: "The catfolk pouncer fails or critically fails a Reflex saving throw"
   - name: "Frequency"
@@ -57,11 +57,11 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ greataxe +8 (Sweep) __Damage__ 1d12+3 slashing"
+    desc: "⬻ greataxe +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|Sweep]]) __Damage__ 1d12+3 slashing"
   - name: "Melee"
-    desc: "⬻ dagger +9 (Agile, Finesse, versatile S) __Damage__ 1d4+3 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+3 piercing"
   - name: "Ranged"
-    desc: "⬻ dagger +9 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4 +3 piercing"
+    desc: "⬻ dagger +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4 +3 piercing"
 abilities_bot:
   - name: "Sudden Charge"
     desc: "⬺ The catfolk pouncer Strides twice. If the catfolk ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy."

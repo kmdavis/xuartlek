@@ -16,7 +16,7 @@ source: "Player Core"
 
 - **Cast**: 1 day
 - **Secondary Casters**: 1
-- **Primary Check**: Nature (master)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (master)
 - **Secondary Checks**: Survival
 - **Area**: 2-mile-radius circle centered on you
 - **Duration**: 4d12 hours

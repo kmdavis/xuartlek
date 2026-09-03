@@ -31,7 +31,7 @@ perception:
     desc: "Perception +23; motion sense 240 feet, no vision"
 skills:
   - name: "Skills"
-    desc: "Athletics +27"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +27"
 abilityMods: [8, -3, 6, -5, 0, -5]
 abilities_top:
   - name: "Motion Sense"
@@ -43,7 +43,7 @@ armorclass:
 hp: 300
 health:
   - name: "HP"
-    desc: "300; __Immunities__ acid, bleed, critical hits, mental, piercing, precision, slashing, sonic, unconscious, visual"
+    desc: "300; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/acid|acid]], [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/books/player-core/chapter-8-playing-the-game/immunity-weakness-and-resistance#Immunity to Critical Hits|critical hits]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], piercing, precision, slashing, [[srd/pf2e/compendium/rules-elements/traits/player-core/sonic|sonic]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]]"
 abilities_mid:
   - name: "Split"
     desc: "When a carnivorous blob that has 10 or more HP is hit by an attack that would deal piercing or slashing damage, it splits into two identical oozes, each with half the original's HP. One ooze is in the same space as the original, and the other is in an adjacent, unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or heavy to push)."
@@ -59,11 +59,11 @@ attacks:
     desc: "⬻ pseudopod +25 __Damage__ 2d12+12 bludgeoning plus 2d6 acid and Grab"
 abilities_bot:
   - name: "Carnivorous Blob Acid"
-    desc: "A carnivorous blob's acid damages only flesh—not bone, stone, wood, or other materials— but is nonetheless devastating. Whenever a creature takes damage from this acid, it must succeed at a DC 33 Fortitude save or become drained 1 (drained 2 on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4."
+    desc: "A carnivorous blob's acid damages only flesh—not bone, stone, wood, or other materials— but is nonetheless devastating. Whenever a creature takes damage from this acid, it must succeed at a DC 33 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 (drained 2 on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4."
   - name: "Constrict"
     desc: "⬻ 2d12 bludgeoning plus 2d6 acid, DC 33"
   - name: "Engulf"
-    desc: "⬺ DC 33, 4d10 acid, Escape DC 33, Rupture 20"
+    desc: "⬺ DC 33, 4d10 acid, [[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] DC 33, Rupture 20"
 sourcebook: "_Monster Core 2_, page 243."
 ```
 

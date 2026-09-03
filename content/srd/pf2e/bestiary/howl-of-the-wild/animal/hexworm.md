@@ -29,11 +29,11 @@ perception:
     desc: "Perception +10; arcanosense (precise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +10, Arcana +12, Stealth +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +10, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +9"
 abilityMods: [2, 4, 3, -5, 1, 0]
 abilities_top:
   - name: "Arcanosense"
-    desc: "A hexworm can sense sources of magic at the listed range as though it has a 4th-rank _detect magic_ constant innate spell."
+    desc: "A hexworm can sense sources of magic at the listed range as though it has a 4th-rank [[srd/pf2e/compendium/spells/cantrips/detect-magic|_detect magic_]] constant innate spell."
 ac: 20
 armorclass:
   - name: "AC"

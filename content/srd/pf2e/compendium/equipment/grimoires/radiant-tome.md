@@ -20,14 +20,14 @@ source: "Impossible Magic"
 
 A flawless diamond embedded into the cover of this tome gleams with an inner light, refracting multicolored rays to the eyes of viewers. 
 
-**Activate—Flare** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, light, spellshape) **Frequency** once per day; **Effect** If your next action is to Cast a prepared Spell with the light trait, the luminescence of the book grows even more intense, emitting bright light in a 15-foot emanation for 1 minute. Enemies that start their turn in this bright light must attempt a Fortitude save against your spell DC.
+**Activate—Flare** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], light, [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]]) **Frequency** once per day; **Effect** If your next action is to Cast a prepared Spell with the light trait, the luminescence of the book grows even more intense, emitting [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Bright Light|bright light]] in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] for 1 minute. Enemies that start their turn in this bright light must attempt a Fortitude save against your spell DC.
 
 **Critical Success** The creature is unaffected and becomes temporarily immune to this bright light for 1 minute.
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is blinded until the start of your next turn.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until the start of your next turn.
 
-**Critical Failure** The creature is blinded until the start of your next turn and dazzled for 1 minute.
+**Critical Failure** The creature is blinded until the start of your next turn and [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] for 1 minute.
 
 *Source: Impossible Magic p. 230*

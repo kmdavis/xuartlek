@@ -19,7 +19,7 @@ You study spells so you can combine them with your attacks or solve problems tha
 
  As you increase in level as a magus, the number of spells you can prepare each day increases, as does the highest rank of spell you can cast, as shown in the Magus Spells per Day table.
 
- Some of your spells require you to attempt a spell attack to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Your spell attack modifier and spell DC are calculated using your Intelligence modifier. 
+ Some of your spells require you to attempt a spell attack to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell Attack Rolls|spell attack modifier]] and [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Spell DC|spell DC]] are calculated using your Intelligence modifier. 
 
 #### Heightening Spells
 
@@ -31,12 +31,12 @@ You study spells so you can combine them with your attacks or solve problems tha
 
 #### Spellbook
 
- Every arcane spell has a written version, which you record in your personalized book of spells. You start with a spellbook worth 10 sp or less, which you receive for free and must study each day to prepare your spells. Your spellbook's form and name are up to you. It might be anything from a sturdy book with a secure latch entitled _Theses on the Stratagems of Supernatural Warfare_ to a tattered collection of training pamphlets with your name scrawled on the cover.
+ Every arcane spell has a written version, which you record in your personalized book of spells. You start with a [[srd/pf2e/compendium/equipment/adventuring-gear/spellbook-blank|spellbook]] worth 10 sp or less, which you receive for free and must study each day to prepare your spells. Your spellbook's form and name are up to you. It might be anything from a sturdy book with a secure latch entitled _Theses on the Stratagems of Supernatural Warfare_ to a tattered collection of training pamphlets with your name scrawled on the cover.
 
  The spellbook contains your choice of eight arcane cantrips and five 1st-rank arcane spells. You choose these from the common spells on the arcane spell list or from other arcane spells you gain access to.
 
- Each time you gain a level, you add two arcane spells to your spellbook, of any spell rank for which you have spell slots, chosen from common spells of your tradition or others you gain access to. You can also add spells to your spellbook with the Learn a Spell activity.
+ Each time you gain a level, you add two arcane spells to your spellbook, of any spell rank for which you have spell slots, chosen from common spells of your tradition or others you gain access to. You can also add spells to your spellbook with the [[srd/pf2e/compendium/rules-elements/actions/player-core#Learn a Spell|Learn a Spell]] activity.
 
- If you have a spellbook from multiple sources (such as being a magus with the Wizard Dedication feat, you can use the same spellbook for all your spells.
+ If you have a spellbook from multiple sources (such as being a magus with the [[srd/pf2e/compendium/feats/player-core/archetype/wizard-dedication|Wizard Dedication]] feat, you can use the same spellbook for all your spells.
 
 *Source: Impossible Magic p. 9*

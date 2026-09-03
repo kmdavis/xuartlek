@@ -21,6 +21,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell
 
-Light refracts in strange ways through these precisely ground glass tiles, lengthening the refracted force and causing it to push back. Adding this catalyst to a __wall of force__ spell increases the wall’s maximum length to 80 feet and maximum height to 40 feet and causes creatures that try to move into the wall’s space (or are Shoved into the wall) to take 2d6 force damage.
+Light refracts in strange ways through these precisely ground glass tiles, lengthening the refracted force and causing it to push back. Adding this catalyst to a _[[srd/pf2e/compendium/spells/rank-6/wall-of-force|_wall of force_]]_ spell increases the wall’s maximum length to 80 feet and maximum height to 40 feet and causes creatures that try to move into the wall’s space (or are [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shoved]] into the wall) to take 2d6 force damage.
 
 *Source: Impossible Magic p. 215*

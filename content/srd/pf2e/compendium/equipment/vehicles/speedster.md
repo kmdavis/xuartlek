@@ -26,7 +26,7 @@ A speedster is a light streamlined hybrid clockwork and steam-powered alchemical
 
 **Passengers** 1
 
-**Piloting Check** Driving Lore (DC 27) or Crafting (DC 29)
+**Piloting Check** Driving Lore (DC 27) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 29)
 
 ---
 
@@ -46,7 +46,7 @@ A speedster is a light streamlined hybrid clockwork and steam-powered alchemical
 
 **Collision** 7d10 (DC 27)
 
-**Speed Boost** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") The pilot releases built up pressure in the speedster's alchemical steam engine in order to temporarily increase its speed. For 1d4 rounds, the speedster's Speed becomes 80 feet and all move actions the pilot takes gain the reckless trait. When the pilot takes an action that already would have the reckless trait, the pilot uses the degree of success one worse than the one they rolled on the piloting check. The speedster can't use Speed Boost again for 1 hour, as the pressure requires time to rebuild.
+**Speed Boost** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") The pilot releases built up pressure in the speedster's alchemical steam engine in order to temporarily increase its speed. For 1d4 rounds, the speedster's Speed becomes 80 feet and all [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] actions the pilot takes gain the [[srd/pf2e/compendium/rules-elements/traits/gm-core/reckless|reckless]] trait. When the pilot takes an action that already would have the reckless trait, the pilot uses the degree of success one worse than the one they rolled on the piloting check. The speedster can't use Speed Boost again for 1 hour, as the pressure requires time to rebuild.
  **Streamlined** This lightweight vehicle has no additional storage space for cargo.
  **Wind-Up** 10 minutes of wind-up, 2 hours of operational time, DC 28, standby
 

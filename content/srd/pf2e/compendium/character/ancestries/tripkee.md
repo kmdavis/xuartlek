@@ -58,15 +58,18 @@ Tripkee names often include resonant vowels and chirped consonants that remain d
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
-Tripkee
+[[srd/pf2e/compendium/rules-elements/languages#Tripkee|Tripkee]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Boggard, Chthonian, Draconic, Elven, Fey, Iruxi, Thalassic, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from Boggard, [[srd/pf2e/compendium/rules-elements/languages#Chthonian|Chthonian]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], Iruxi, [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]], and any other languages to which you have access (such as the languages prevalent in your region).
 
-| | |
-| --- | --- |
-| **Low-Light Vision** | You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light. |
-| **Natural Climber** | You gain a +2 circumstance bonus to Athletics checks to Climb. |
+#### Low-Light Vision
+
+You can see in dim light as though it were bright light, so you ignore the [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] condition due to dim light.
+
+#### Natural Climber
+
+You gain a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]].
 
 *Source: Player Core 2 p. 36*

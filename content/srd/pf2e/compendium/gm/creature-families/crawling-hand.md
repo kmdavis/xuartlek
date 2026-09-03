@@ -10,11 +10,11 @@ source: "Monster Core"
 
 # Crawling hand  *Creature Family*
 
-Typically, crawling hands form when severed appendages are endowed with a crude sentience by necromantic energies that turn them into tireless killers. Yet, crawling hands can also arise spontaneously, usually when a creature loses an appendage in a place rife with necromantic energy or with a connection to the Void. 
+Typically, crawling hands form when severed appendages are endowed with a crude sentience by necromantic energies that turn them into tireless killers. Yet, crawling hands can also arise spontaneously, usually when a creature loses an appendage in a place rife with necromantic energy or with a connection to [[srd/pf2e/compendium/gm/planes#The Void|the Void]]. 
 
 ### Members
 
-Crawling Hand (Creature -1), Giant Crawling Hand (Creature 5)
+[[srd/pf2e/bestiary/monster-core/undead/crawling-hand|Crawling Hand]] (Creature -1), [[srd/pf2e/bestiary/monster-core/undead/giant-crawling-hand|Giant Crawling Hand]] (Creature 5)
 
 ### Crawling Hand Origins
 

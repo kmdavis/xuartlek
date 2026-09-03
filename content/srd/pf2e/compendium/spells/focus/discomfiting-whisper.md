@@ -20,11 +20,11 @@ source: "War of Immortals"
 
 `Animist`  `Aura`  `Focus`  `Misfortune`  `Uncommon`  `Void`  `Negative`
 
-- **Area**: 5-foot emanation
+- **Area**: 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
 - **Saving Throw**: Will
 - **Duration**: sustained up to 1 minute
 
-You are surrounded by an aura of spiteful murmurings that incite bad luck and punish failure. Each creature that starts their turn within the area of this spell must succeed at a Will save or roll twice on their first attack roll that round and take the lower result. If an attack roll modified in this way results in a failure, the creature that rolled the failed attack takes 1d6 void damage.
+You are surrounded by an aura of spiteful murmurings that incite bad luck and punish failure. Each creature that starts their turn within the area of this spell must succeed at a Will save or roll twice on their first attack roll that round and take the lower result. If an attack roll modified in this way results in a failure, the creature that rolled the failed attack takes 1d6 [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] damage.
 
 ---
 **Heightened (+2)** The void damage dealt on a failure increases by 1d6.

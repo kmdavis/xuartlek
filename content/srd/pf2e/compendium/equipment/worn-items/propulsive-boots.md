@@ -21,6 +21,6 @@ source: "GM Core"
 
 These sleek red boots make your legs feel like they're bursting with energy. You gain a +5-foot item bonus to your land Speed and to any climb or swim Speeds you have. 
 
-**Activate—Quickening Stomp** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Frequency** once per day; **Effect** You stomp three times and gain the quickened condition for 1 minute. You can use the extra action to Stride, Climb, or Swim. (You must still attempt an Athletics check for the Climb and Swim actions unless you have the appropriate movement type.)
+**Activate—Quickening Stomp** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You stomp three times and gain the [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]] condition for 1 minute. You can use the extra action to Stride, Climb, or Swim. (You must still attempt an Athletics check for the Climb and Swim actions unless you have the appropriate movement type.)
 
 *Source: GM Core p. 294*

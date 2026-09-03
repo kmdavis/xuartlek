@@ -21,20 +21,20 @@ Category
 Consumable
 Note
 
-Charlatan's Gloves
+[[srd/pf2e/compendium/equipment/worn-items/charlatans-gloves-greater|Charlatan's Gloves]]
 +1
 3
 Worn Items
 No
 
-Thieves' Toolkit (Infiltrator)
+[[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|Thieves' Toolkit (Infiltrator)]]
 +1
 3
 Adventuring Gear
 No
 Thievery checks to Pick Locks and Disable Devices
 
-Keymaking Tools
+[[srd/pf2e/compendium/equipment/held-items/keymaking-tools|Keymaking Tools]]
 +1
 3
 Held Items
@@ -61,7 +61,7 @@ Other Worn Items
 No
 to Palm an Object
 
-Quicksilver Mutagen
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
 +1
 0
 Alchemical Elixirs
@@ -73,7 +73,7 @@ Shacklebreaker
 Other Worn Items
 No
 
-Charlatan's Gloves (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/charlatans-gloves-greater|Charlatan's Gloves (Greater)]]
 +2
 9
 Worn Items
@@ -86,34 +86,34 @@ Worn Items
 No
 Item bonus to Disable a Device and Pick a Lock
 
-Ring of Maniacal Devices
+[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices-greater|Ring of Maniacal Devices]]
 +2
 11
 Worn Items
 No
 Thievery checks to Disable a Device and to Pick a Lock
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Quicksilver Mutagen
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
 +2
 0
 Alchemical Elixirs
 Yes
 
-Ring of Maniacal Devices (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/ring-of-maniacal-devices-greater|Ring of Maniacal Devices (Greater)]]
 +3
 18
 Worn Items
 No
 Thievery checks to Disable a Device and to Pick a Lock
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
@@ -127,13 +127,13 @@ Worn Items
 No
 Item bonus to Disable a Device and Pick a Lock
 
-Quicksilver Mutagen
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
 +3
 0
 Alchemical Elixirs
 Yes
 
-Quicksilver Mutagen
+[[srd/pf2e/compendium/equipment/alchemical-items/quicksilver-mutagen-major|Quicksilver Mutagen]]
 +4
 0
 Alchemical Elixirs

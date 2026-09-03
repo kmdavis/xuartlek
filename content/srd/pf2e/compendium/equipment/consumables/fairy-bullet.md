@@ -22,6 +22,6 @@ source: "Guns & Gears (Remastered)"
 - **Ammunition**: round
 - **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") command, envision
 
-These bullets glimmer with emerald green light that dances across the surface of the bullet like a mischievous sprite. On a successful Strike, a _fairy bullet_ casts _revealing light_ (DC 23) extending outward from a corner of the target's space. You choose which corner of the target's space you want the burst to extend out from at the time you declare the associated Strike. Since the _fairy bullet_ is fired before _revealing light_ can reveal the target, the effects don't affect the flat check for the attack roll with the fairy bullet if the target is hidden from you.
+These bullets glimmer with emerald green light that dances across the surface of the bullet like a mischievous sprite. On a successful Strike, a _fairy bullet_ casts [[srd/pf2e/compendium/spells/rank-2/revealing-light|_revealing light_]] (DC 23) extending outward from a corner of the target's space. You choose which corner of the target's space you want the burst to extend out from at the time you declare the associated Strike. Since the _fairy bullet_ is fired before _revealing light_ can reveal the target, the effects don't affect the flat check for the attack roll with the fairy bullet if the target is [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] from you.
 
 *Source: Guns & Gears (Remastered) p. 170*

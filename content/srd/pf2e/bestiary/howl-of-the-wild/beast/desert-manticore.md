@@ -29,10 +29,10 @@ modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; darkvision, scent (imprecise) 60 feet"
-languages: "Common, Kelish, Osiriani"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Kelish|Kelish]], [[srd/pf2e/compendium/rules-elements/languages#Osiriani|Osiriani]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +22, Athletics +25, Deception +22, Intimidation +26, Stealth +22"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +22, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +22, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +26, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +22"
 abilityMods: [7, 2, 5, -2, 2, 4]
 ac: 33
 armorclass:
@@ -41,7 +41,7 @@ armorclass:
 hp: 270
 health:
   - name: "HP"
-    desc: "270; __Immunities__ poison"
+    desc: "270; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]"
 abilities_mid:
   - name: "Indomitable Beast"
     desc: "⬲"
@@ -56,26 +56,26 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +25 __Damage__ 4d8+10 piercing plus Grab"
   - name: "Melee"
-    desc: "⬻ claw +25 (Agile) __Damage__ 4d6+10 slashing"
+    desc: "⬻ claw +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 4d6+10 slashing"
   - name: "Melee"
-    desc: "⬻ stinger +25 (reach 10 feet) __Damage__ 3d6+10 piercing plus manticore venom"
+    desc: "⬻ stinger +25 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 3d6+10 piercing plus manticore venom"
 abilities_bot:
   - name: "Manticore Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "Fortitude DC 32"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "3d8 poison damage and drained 1 (1 round)"
+    desc: "3d8 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]] (1 round)"
   - name: "Stage 2"
     desc: "4d8 poison damage and drained 2 (1 round)"
   - name: "Stage 3"
     desc: "5d8 poison damage and drained 3 (1 round)"
   - name: "Scorpion Sting"
-    desc: "⬺ The desert manticore Strikes an off-guard creature with its stinger. The attack injects venom deeply, dealing an additional 4d8 poison damage and giving the target a –2 circumstance penalty to their initial save against the poison."
+    desc: "⬺ The desert manticore Strikes an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature with its stinger. The attack injects venom deeply, dealing an additional 4d8 poison damage and giving the target a –2 circumstance penalty to their initial save against the poison."
   - name: "Venomous Flight"
-    desc: "⬺ The desert manticore Flies twice, dripping venom from its stinger. It chooses a creature it flew directly above during the flight, which is exposed to manticore venom. The desert manticore cannot fly further than 60 feet above the target or the venom becomes too dispersed in fall to take effect."
+    desc: "⬺ The desert manticore [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flies]] twice, dripping venom from its stinger. It chooses a creature it flew directly above during the flight, which is exposed to manticore venom. The desert manticore cannot fly further than 60 feet above the target or the venom becomes too dispersed in fall to take effect."
 sourcebook: "_Howl of the Wild_, page 172."
 ```
 

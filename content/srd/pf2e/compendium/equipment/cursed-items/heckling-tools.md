@@ -24,7 +24,7 @@ source: "Treasure Vault (Remastered)"
 
 **Communication** telepathy (two common languages)
 
-**Skills** Intimidation +9, one skill associated with their use +9
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9, one skill associated with their use +9
 
 **Int** +2, **Wis** +2, **Cha** +2
 
@@ -32,6 +32,6 @@ source: "Treasure Vault (Remastered)"
 
 --- 
 
-Tools that are severely misused or left in malevolent circumstances can develop malicious sapience, dedicated to critiquing those who use them. Such _heckling tools_ are often born from implements useful to adventurers because such people are the likely to misuse tools or leave them in a corrupting situation. When you first set to using the tools, they fuse to you. Used for their intended purpose, the tools telepathically badger and disparage you, mocking your abilities and giving you ill-founded advice. You must succeed at a DC 19 Will save to realize this badgering comes from the tools and not your own negative thoughts. Instead of the tool's usual bonus, you take a –2 circumstance penalty to checks made using _heckling tools_. Once you realize the tools are cursed, you can suppress their negative effects, gaining their typical bonus for 24 hours if you succeed at a DC 17 Deception or Diplomacy check to placate them, often by offering obsequious, public admiration.
+Tools that are severely misused or left in malevolent circumstances can develop malicious sapience, dedicated to critiquing those who use them. Such _heckling tools_ are often born from implements useful to adventurers because such people are the likely to misuse tools or leave them in a corrupting situation. When you first set to using the tools, they fuse to you. Used for their intended purpose, the tools telepathically badger and disparage you, mocking your abilities and giving you ill-founded advice. You must succeed at a DC 19 Will save to realize this badgering comes from the tools and not your own negative thoughts. Instead of the tool's usual bonus, you take a –2 circumstance penalty to checks made using _heckling tools_. Once you realize the tools are cursed, you can suppress their negative effects, gaining their typical bonus for 24 hours if you succeed at a DC 17 [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] or [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check to placate them, often by offering obsequious, public admiration.
 
 *Source: Treasure Vault (Remastered) p. 192*

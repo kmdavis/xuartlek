@@ -22,7 +22,7 @@ Your bell resonates powerfully, causing the effect to last longer. The condition
 
 ### Intensify Benefit
 
-Your reinforced bell can reach into the most basal part of the target's mind, priming it to be vulnerable to the bell's effects. When you successfully Strike the target of your Exploit Vulnerability, your bell implement plays a haunting tone and the creature takes a –2 status penalty on saves against your Ring Bell for 1 round, or a –3 status penalty on a critical hit. This effect has the auditory trait
+Your reinforced bell can reach into the most basal part of the target's mind, priming it to be vulnerable to the bell's effects. When you successfully Strike the target of your Exploit Vulnerability, your bell implement plays a haunting tone and the creature takes a –2 status penalty on saves against your Ring Bell for 1 round, or a –3 status penalty on a critical hit. This effect has the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait
 
 ### Paragon Benefit
 

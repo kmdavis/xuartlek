@@ -18,20 +18,20 @@ source: "Player Core 2"
 - **Cast**: 1 day
 - **Cost**: a small item of personal significance to the creature to be duplicated (such as an item of clothing they wear everyday or a memento of a romantic tryst), plus rare oils, minerals, and pigments with a total value of 300 gp
 - **Secondary Casters**: 3
-- **Primary Check**: Arcana or Occultism (master, the check has the secret trait)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master, the check has the [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] trait)
 - **Secondary Checks**: Arcana , Nature , Occultism , Religion , or Society (whichever is required to Recall Knowledge about the creature being duplicated); Crafting ; Deception
 - **Target(s)**: 1 living creature
 
-You create an illusory duplicate of the target creature by drawing shadowy material from the Netherworld and sculpting it into a semi-solid form. The shadow double is a 4th-level creature with no special abilities. If it needs to attempt a roll or use a DC, use the moderate number for a monster, except as noted below. It doesn’t have any specific memories from the target, but it can use information about the creature gained from any of the casters to Impersonate the target. It looks exactly like the target and has a Deception modifier to Impersonate that creature equal to the modifier of the secondary spellcaster who rolled the Deception check, with a +4 status bonus.
+You create an illusory duplicate of the target creature by drawing shadowy material from the [[srd/pf2e/compendium/gm/planes#The Netherworld|Netherworld]] and sculpting it into a semi-solid form. The shadow double is a 4th-level creature with no special abilities. If it needs to attempt a roll or use a DC, use the [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Understanding Statistics|moderate number]] for a monster, except as noted below. It doesn’t have any specific memories from the target, but it can use information about the creature gained from any of the casters to [[srd/pf2e/compendium/rules-elements/actions/player-core#Impersonate|Impersonate]] the target. It looks exactly like the target and has a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] modifier to Impersonate that creature equal to the modifier of the secondary spellcaster who rolled the Deception check, with a +4 status bonus.
 
-Though it doesn’t have any of the original’s special abilities, like a dragon’s breath, illusions allow it to appear to use those abilities; they just never seem to have an effect. For instance, against a double’s dragon’s breath, all creatures in the area seem to critically succeed at their saving throws and take no damage. Creatures can attempt to disbelieve the illusion by attempting a Perception check against the Deception DC of the secondary spellcaster who rolled the Deception check.
+Though it doesn’t have any of the original’s special abilities, like a dragon’s breath, illusions allow it to appear to use those abilities; they just never seem to have an effect. For instance, against a double’s dragon’s breath, all creatures in the area seem to critically succeed at their saving throws and take no damage. Creatures can attempt to disbelieve the illusion by attempting a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Perception|Perception]] check against the Deception DC of the secondary spellcaster who rolled the Deception check.
 
-**Critical Success** You create the shadow double. It has the minion trait and is under your absolute control. You gain a direct mental link with the shadow double and can spend an action to command the shadow double via this link, even at a distance.
+**Critical Success** You create the shadow double. It has the [[srd/pf2e/compendium/rules-elements/traits/player-core/minion|minion]] trait and is under your absolute control. You gain a direct mental link with the shadow double and can spend an action to command the shadow double via this link, even at a distance.
 
 **Success** As a critical success, but there is no special link between you and the shadow double. You must spend an action to command it verbally or by some other means.
 
 **Failure** The ritual fails and has no effect.
 
-**Critical Failure** The shadow double is created, but it isn’t your minion and is hostile to all the casters. It does everything it can to destroy them, but if it can’t immediately slay them, the shadow double tries to escape and plots their demise.
+**Critical Failure** The shadow double is created, but it isn’t your minion and is [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]] to all the casters. It does everything it can to destroy them, but if it can’t immediately slay them, the shadow double tries to escape and plots their demise.
 
 *Source: Player Core 2 p. 270*

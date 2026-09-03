@@ -33,7 +33,7 @@ perception:
     desc: "Perception +11; darkvision, tremorsense (imprecise) 15 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12"
 abilityMods: [4, 2, 3, -4, 1, -1]
 ac: 20
 armorclass:
@@ -42,11 +42,11 @@ armorclass:
 hp: 42
 health:
   - name: "HP"
-    desc: "42; __Immunities__ precision, swarm mind; __Resistances__ piercing 5, slashing 5; __Weaknesses__ area damage 5, splash damage 5"
+    desc: "42; __Immunities__ precision, swarm mind; __Resistances__ piercing 5, slashing 5; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 speed: "30 feet, swim 15 feet"
 abilities_bot:
   - name: "Swarming Snips"
-    desc: "⬻ Each enemy in the swarm's space takes 2d8 piercing damage (DC 20 basic Reflex save). Creatures that fail this save also take 1d4 persistent bleed damage."
+    desc: "⬻ Each enemy in the swarm's space takes 2d8 piercing damage (DC 20 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). Creatures that fail this save also take 1d4 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent bleed damage]]."
 sourcebook: "_Monster Core 2_, page 77."
 ```
 

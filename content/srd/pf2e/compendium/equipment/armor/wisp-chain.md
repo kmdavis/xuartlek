@@ -19,9 +19,9 @@ source: "Rage of Elements"
 - **Usage**: worn armor
 - **Base Armor**: Chain Shirt
 
-This _+1 resilient chain shirt_ is made of small, interlocking currents of wind carefully woven together. While the links of air don't jingle against each other like chain links might, the tiny cyclones nevertheless create a blustering howl akin to standing at the center of a storm. A creature that ends its turn adjacent to you must attempt a DC 23 Fortitude save. On a failure, it becomes deafened until it moves away from you.
+This _+1 resilient chain shirt_ is made of small, interlocking currents of wind carefully woven together. While the links of air don't jingle against each other like chain links might, the tiny cyclones nevertheless create a blustering howl akin to standing at the center of a storm. A creature that ends its turn adjacent to you must attempt a DC 23 Fortitude save. On a failure, it becomes [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] until it moves away from you.
 
-**Activate—Slicing Links** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (concentrate) **Frequency** once per day; **Effect** You unbind the currents that form your armor and release them as cutting whorls of air that slice into creatures in a 60-foot cone. Creatures in the area take 6d6 slashing damage with a DC 25 basic Fortitude save. A creature that fails its save is also pushed 10 feet (or 20 feet on a critical failure). You lose the AC bonus of your armor until the end of your turn, when the air currents reform the wisp chain around you.
+**Activate—Slicing Links** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Effect** You unbind the currents that form your armor and release them as cutting whorls of air that slice into creatures in a 60-foot cone. Creatures in the area take 6d6 slashing damage with a DC 25 basic Fortitude save. A creature that fails its save is also pushed 10 feet (or 20 feet on a critical failure). You lose the AC bonus of your armor until the end of your turn, when the air currents reform the wisp chain around you.
 
 ### Wisp Chain
 

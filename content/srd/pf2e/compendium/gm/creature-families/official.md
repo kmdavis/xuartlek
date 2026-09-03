@@ -14,15 +14,15 @@ Larger societies rely on those with the authority and the ability to interpret a
 
 ### Members
 
-Accuser Agent (Creature 9), Archer Sentry (Creature 2), Arrester Squadron (Creature 8), Barrister (Creature -1), Captain of the Guard (Creature 6), City Guard Squadron (Creature 5), Equestrian Constable (Creature 4), Executioner (Creature 6), Gendarme (Creature 8), Grand Inquisitor (Creature 15), Guard (Creature 1), Harbormaster (Creature 3), Infernal Registrar (Creature 10), Inspector (Creature 3), Jailer (Creature 3), Judge (Creature -1), Mayor (Creature 0), Prime Minister (Creature 0), Tax Collector (Creature -1), Warden (Creature 6), Watch Officer (Creature 3), Watchmage (Creature 5), Watchmage Squadron (Creature 10)
+[[srd/pf2e/bestiary/npc-core/humanoid/accuser-agent|Accuser Agent]] (Creature 9), [[srd/pf2e/bestiary/npc-core/humanoid/archer-sentry|Archer Sentry]] (Creature 2), [[srd/pf2e/bestiary/npc-core/humanoid/arrester-squadron|Arrester Squadron]] (Creature 8), [[srd/pf2e/bestiary/npc-core/humanoid/barrister|Barrister]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/captain-of-the-guard|Captain of the Guard]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/city-guard-squadron|City Guard Squadron]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/equestrian-constable|Equestrian Constable]] (Creature 4), [[srd/pf2e/bestiary/npc-core/humanoid/executioner|Executioner]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/gendarme|Gendarme]] (Creature 8), [[srd/pf2e/bestiary/npc-core/humanoid/grand-inquisitor|Grand Inquisitor]] (Creature 15), [[srd/pf2e/bestiary/npc-core/humanoid/guard|Guard]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/harbormaster|Harbormaster]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/infernal-registrar|Infernal Registrar]] (Creature 10), [[srd/pf2e/bestiary/npc-core/humanoid/inspector|Inspector]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/jailer|Jailer]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/judge|Judge]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/mayor|Mayor]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/prime-minister|Prime Minister]] (Creature 0), [[srd/pf2e/bestiary/npc-core/humanoid/tax-collector|Tax Collector]] (Creature -1), [[srd/pf2e/bestiary/npc-core/humanoid/warden|Warden]] (Creature 6), [[srd/pf2e/bestiary/npc-core/humanoid/watch-officer|Watch Officer]] (Creature 3), [[srd/pf2e/bestiary/npc-core/humanoid/watchmage|Watchmage]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/watchmage-squadron|Watchmage Squadron]] (Creature 10)
 
 ### At Your Service
 
-Many officials can conscript others into service in a variety of positions. These are usually other officials like guards or jailers, but some NPCs from other sections who might be conscripted include drover, guide, messenger, and tracker. On rare occasions officials are given some amount of authority over NPCs in the military. The harbormaster also can conscript the services of a bosun, dockhand, navigator, or ship captain.
+Many officials can conscript others into service in a variety of positions. These are usually other officials like guards or jailers, but some NPCs from other sections who might be conscripted include [[srd/pf2e/bestiary/npc-core/humanoid/drover|drover]], [[srd/pf2e/bestiary/npc-core/humanoid/guide|guide]], [[srd/pf2e/bestiary/npc-core/humanoid/messenger|messenger]], and [[srd/pf2e/bestiary/npc-core/humanoid/tracker|tracker]]. On rare occasions officials are given some amount of authority over NPCs in the [[srd/pf2e/compendium/gm/creature-families/military|military]]. The harbormaster also can conscript the services of a [[srd/pf2e/bestiary/npc-core/humanoid/bosun|bosun]], [[srd/pf2e/bestiary/npc-core/humanoid/dockhand|dockhand]], [[srd/pf2e/bestiary/npc-core/humanoid/navigator|navigator]], or [[srd/pf2e/bestiary/npc-core/humanoid/ship-captain|ship captain]].
 
 ### Crossover Ancestry NPCs
 
-Several of the NPCs elsewhere in NPC Core can fit well in this group: Big boss goblin (level 6), elven court guard (level 13), kobold egg guardian (level 3), swarm voice (level 3), tidewater guard (level 4)
+Several of the NPCs elsewhere in NPC Core can fit well in this group: [[srd/pf2e/bestiary/npc-core/humanoid/big-boss-goblin|Big boss goblin]] (level 6), [[srd/pf2e/bestiary/npc-core/humanoid/elven-court-guard|elven court guard]] (level 13), [[srd/pf2e/bestiary/npc-core/humanoid/kobold-egg-guardian|kobold egg guardian]] (level 3), [[srd/pf2e/bestiary/npc-core/humanoid/swarm-voice|swarm voice]] (level 3), [[srd/pf2e/bestiary/npc-core/humanoid/tidewater-guard|tidewater guard]] (level 4)
 
 ### Delaying Tactics
 
@@ -46,7 +46,7 @@ Complex governments rely on bureaucracies and trusted messenger systems to monit
 
 ### Jailbreak!
 
-If a PC or ally gets imprisoned, the group might plot a jailbreak. For a complex jail or penitentiary, this might require the use of the infiltration subsystem. With a smaller town or city jail with a simple structure and small staff, it could require just a bit of force. The jailbreak might just be the beginning, leading to additional adventure!
+If a PC or ally gets imprisoned, the group might plot a jailbreak. For a complex jail or penitentiary, this might require the use of the [[srd/pf2e/books/gm-core/chapter-4-subsystems/infiltration|infiltration]] subsystem. With a smaller town or city jail with a simple structure and small staff, it could require just a bit of force. The jailbreak might just be the beginning, leading to additional adventure!
 
 ### Making Bureaucracy Fun
 
@@ -55,7 +55,7 @@ Waiting in lines and filling out forms is rarely fun in real life, so how can it
 ### Off With A Warning
 
 Officers can often be convinced to drop a minor or tenuous investigation. 
-Request with a sympathetic story (standard DC for civil infraction, hard DC for misdemeanor, very hard DC for lesser felony unlikely to go to trial)Explain away suspicious circumstancesGive a bribe of about one-quarter to half the fineInvoke a jurisdiction conflict (Society with a hard DC of the officer's level)Invoke an associate powerful enough to make life difficult for the officer (Coerce, potentially Lie)
+[[srd/pf2e/compendium/rules-elements/actions/player-core#Request|Request]] with a sympathetic story ([[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Level-Based DCs|standard DC]] for civil infraction, hard DC for misdemeanor, very hard DC for lesser felony unlikely to go to trial)Explain away suspicious circumstancesGive a bribe of about one-quarter to half the fineInvoke a jurisdiction conflict ([[srd/pf2e/compendium/rules-elements/skills/society|Society]] with a hard DC of the officer's level)Invoke an associate powerful enough to make life difficult for the officer ([[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]], potentially [[srd/pf2e/compendium/rules-elements/actions/player-core#Lie|Lie]])
 
 ### Officer Ranks
 

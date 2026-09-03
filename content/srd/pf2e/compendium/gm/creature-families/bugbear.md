@@ -14,7 +14,7 @@ These stealthy and cruel goblinoid creatures delight in spreading fear and torme
 
 ### Members
 
-Bonebleacher Bugbear (Creature 12), Bugbear Prowler (Creature 2), Bugbear Tormentor (Creature 3)
+Bonebleacher Bugbear (Creature 12), [[srd/pf2e/bestiary/monster-core/humanoid/bugbear-prowler|Bugbear Prowler]] (Creature 2), [[srd/pf2e/bestiary/monster-core/humanoid/bugbear-tormentor|Bugbear Tormentor]] (Creature 3)
 
 ### Bugbear Lairs
 

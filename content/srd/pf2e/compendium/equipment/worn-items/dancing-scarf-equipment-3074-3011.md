@@ -20,7 +20,7 @@ source: "GM Core"
 
 This long and billowing scarf is typically woven of silk or sheer fabric and adorned with bells or other jangling bits of shiny metal. It grants a +1 item bonus to Performance checks to dance. 
 
-**Activate—Swirling Scarf** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate) **Requirements** On your most recent action, you succeeded at a Performance check to dance; **Effect** You become concealed until the beginning of your next turn.
+**Activate—Swirling Scarf** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Requirements** On your most recent action, you succeeded at a Performance check to dance; **Effect** You become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] until the beginning of your next turn.
 
 ### Dancing Scarf
 

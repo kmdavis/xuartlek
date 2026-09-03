@@ -21,10 +21,10 @@ source: "War of Immortals"
 
 `Animist`  `Aura`  `Emotion`  `Focus`  `Incapacitation`  `Mental`  `Uncommon`  `Visual`
 
-- **Area**: 10-foot emanation
+- **Area**: 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]]
 - **Saving Throw**: Will
 - **Duration**: sustained up to 1 minute
 
-Your apparition manifests as a mask of unearthly beauty that bewilders your enemies. The first time an enemy enters the aura each round, or if they start their turn within the aura, they must succeed at a Will saving throw or become confused for 1 round. While confused by this effect, the creature's confused actions never include harming you.
+Your apparition manifests as a mask of unearthly beauty that bewilders your enemies. The first time an enemy enters the aura each round, or if they start their turn within the aura, they must succeed at a Will saving throw or become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round. While confused by this effect, the creature's confused actions never include harming you.
 
 *Source: War of Immortals p. 19*

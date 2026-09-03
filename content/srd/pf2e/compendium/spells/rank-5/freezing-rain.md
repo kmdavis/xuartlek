@@ -23,7 +23,7 @@ source: "Rage of Elements"
 - **Defense**: Reflex (see text)
 - **Duration**: sustained up to 10 minutes
 
-Intense cold rain comes from nowhere, a microcosm of a sudden downpour, and a magical tweak can turn the rain to freezing sleet. The driving rain and pooling water make the area difficult terrain and extinguish non-magical fires. On subsequent rounds, the first time you Sustain the spell each round, you can move the area up to 20 feet and can also freeze the rain. If you freeze the rain, each creature in the area takes 4d6 cold damage and might be slowed, depending on result of its Reflex save.
+Intense cold rain comes from nowhere, a microcosm of a sudden downpour, and a magical tweak can turn the rain to freezing sleet. The driving rain and pooling water make the area difficult terrain and extinguish non-magical fires. On subsequent rounds, the first time you Sustain the spell each round, you can move the area up to 20 feet and can also freeze the rain. If you freeze the rain, each creature in the area takes 4d6 cold damage and might be [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]], depending on result of its Reflex save.
 
 **Critical Success** The creature is unaffected.
 

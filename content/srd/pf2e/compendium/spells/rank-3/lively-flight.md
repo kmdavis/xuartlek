@@ -22,7 +22,7 @@ source: "Impossible Magic"
 - **Range**: 60 feet
 - **Target**: 1 willing living creature
 
-Healing energy spirals toward your target, taking shape around them like majestic wings of vital energy. The target regains 6d8 Hit Points and can Fly up to 30 feet as a free action along a path of their choice; this movement doesn't trigger reactions but can never put the target in danger, so if they attempt to move toward an enemy or into a hazard, the movement immediately ends.
+Healing energy spirals toward your target, taking shape around them like majestic wings of vital energy. The target regains 6d8 Hit Points and can [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Fly]] up to 30 feet as a free action along a path of their choice; this movement doesn't trigger reactions but can never put the target in danger, so if they attempt to move toward an enemy or into a hazard, the movement immediately ends.
 
 ---
 **Heightened (+1)** The healing increases by 2d8.

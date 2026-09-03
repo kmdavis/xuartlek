@@ -20,18 +20,18 @@ source: "War of Immortals"
 - **Complexity**: Complex An overwhelming trumpeting sound vibrates and suffuses the area, causing everything to slow.
 
 **Stealth**
-+25 (master) to notice the tension of a low vibration forming in the area from the imminent release of the Oliphaunt's trumpet 
++25 (master) to notice the tension of a low vibration forming in the area from the imminent release of the [[srd/pf2e/bestiary/war-of-immortals/monitor/oliphaunt-of-jandelay|Oliphaunt's]] trumpet 
 
 **Disable**
-DC 38 Arcane (expert), Maelstrom Lore (expert), Occultism (master), Religion (master) to recognize and shore up the area against the localized planar instability causing a connection to the Oliphaunt of Jandelay. Four successes are needed to strengthen the area enough against the instability to end the hazard.
+DC 38 [[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|Arcane]] (expert), [[srd/pf2e/compendium/rules-elements/skills/lore|Maelstrom Lore]] (expert), [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (master), [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] (master) to recognize and shore up the area against the localized planar instability causing a connection to the Oliphaunt of Jandelay. Four successes are needed to strengthen the area enough against the instability to end the hazard.
 
 **Bone-Shattering Rhythms** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** Three or more characters enter the area of planar instability; **Effect** Pent-up magical energy from another world begins to release in waves of overwhelming sound. The hazard rolls initiative.
 
 ---
 **Routine**
-(1 action) Each creature in the area must attempt a DC 36 Fortitude save. A creature with the slowed condition from this hazard takes a –2 circumstance penalty on further saves against this effect.
+(1 action) Each creature in the area must attempt a DC 36 Fortitude save. A creature with the [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] condition from this hazard takes a –2 circumstance penalty on further saves against this effect.
  **Critical Success** The creature is unaffected.
- **Success** The creature takes 2d6+6 sonic damage and is deafened for 1 round.
+ **Success** The creature takes 2d6+6 sonic damage and is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 round.
  **Failure** The creature takes 4d6+13 sonic damage and is slowed 1 for 2 rounds.
  **Critical Failure** The creature takes 8d6+26 sonic damage and is slowed 2 for 2 rounds.
 

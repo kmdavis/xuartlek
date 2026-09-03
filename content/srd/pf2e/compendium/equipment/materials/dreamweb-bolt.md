@@ -15,7 +15,7 @@ source: "War of Immortals"
 
 `Precious`  `Rare`
 
-Made from the webs spun from the thorax of the Weaver of Webs herself, dreamweb offers a number of mystic benefits. Cloth items and rope made from dream web have Hardness 4 with 12 HP per inch and a break DC of 16. Light armor made from dream web is lighter than normal cloth or leather: the armor's Bulk is reduced by 1 (reduced to light Bulk if the armor's normal Bulk is 1, with no effect on an item that normally has light Bulk). Light armor made from dream web grants the wearer poison resistance equal to 3 plus the value of its _armor potency_ rune.
+Made from the webs spun from the thorax of the [[srd/pf2e/bestiary/war-of-immortals/beast/weaver-of-webs|Weaver of Webs]] herself, dreamweb offers a number of mystic benefits. Cloth items and rope made from dream web have Hardness 4 with 12 HP per inch and a break DC of 16. Light armor made from dream web is lighter than normal cloth or leather: the armor's Bulk is reduced by 1 (reduced to light Bulk if the armor's normal Bulk is 1, with no effect on an item that normally has light Bulk). Light armor made from dream web grants the wearer poison resistance equal to 3 plus the value of its [[srd/pf2e/compendium/equipment/runes/armor-potency-3|_armor potency_]] rune.
 
 ## Dreamweb
 

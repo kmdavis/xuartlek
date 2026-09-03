@@ -32,7 +32,7 @@ perception:
 languages: "carbuncle empathy 30 feet"
 skills:
   - name: "Skills"
-    desc: "Stealth +3, Survival +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +3, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6"
 abilityMods: [-3, 0, 3, -2, 3, 0]
 abilities_top:
   - name: "Carbuncle Empathy"
@@ -49,9 +49,9 @@ health:
     desc: "20"
 abilities_mid:
   - name: "Easy to Influence"
-    desc: "Any mental spell can affect a carbuncle, regardless of creature type limitations. Against a _suggestion_ spell, a carbuncle always gets an outcome one degree of success worse than it rolled on its saving throw."
+    desc: "Any mental spell can affect a carbuncle, regardless of creature type limitations. Against a [[srd/pf2e/compendium/spells/rank-4/suggestion|_suggestion_]] spell, a carbuncle always gets an outcome one degree of success worse than it rolled on its saving throw."
   - name: "Fatal Faker"
-    desc: "⬲ (arcane, teleportation)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]])"
   - name: "Trigger"
     desc: "The carbuncle takes damage"
   - name: "Effect"
@@ -59,17 +59,17 @@ abilities_mid:
 speed: "15 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +5 (Finesse) __Damage__ 1d6 piercing"
+    desc: "⬻ jaws +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6 piercing"
 abilities_bot:
   - name: "Specious Suggestion"
-    desc: "⬺ (Concentrate, incapacitation, mental, subtle)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/subtle|subtle]])"
   - name: "Frequency"
     desc: "three times per day"
   - name: "Effect"
-    desc: "The carbuncle concentrates on a creature it can see and tries to manipulate that creature, imploring them to perform harmless, pointless, and usually embarrassing actions. The target must attempt a DC 18 Will save. The target then becomes temporarily immune for 24 hours. This has the effects of _suggestion_ except that a critical success bolsters the target and grants them a +1 status bonus to Will saves for 1 hour, the duration on a failure is 1 round, and the duration on a critical failure is a 1 minute. The target can attempt a new save at the end of its turn each round to end the effect. Carbuncle Chatter “A lizard with an apple-sized gem sticking out of its forehead? Wishful thinking!” “Carbuncles are real! I almost caught one, but even though it could barely walk, its magic allowed it to escape my clutches.” “Their mind control powers could make them useful familiars, but if you ever catch one, it dies of fright.” “My advice is to stay away from these pests. They drink your hopes and aspirations through their horns, leaving you empty except for bad luck and bellyaches.” “Planning a carbuncle hunt? You’d better leave your self-respect at home and be ready to emerge with fewer friends than you had at the start!”"
+    desc: "The carbuncle concentrates on a creature it can see and tries to manipulate that creature, imploring them to perform harmless, pointless, and usually embarrassing actions. The target must attempt a DC 18 Will save. The target then becomes temporarily immune for 24 hours. This has the effects of [[srd/pf2e/compendium/spells/rank-4/suggestion|_suggestion_]] except that a critical success bolsters the target and grants them a +1 status bonus to Will saves for 1 hour, the duration on a failure is 1 round, and the duration on a critical failure is a 1 minute. The target can attempt a new save at the end of its turn each round to end the effect. Carbuncle Chatter “A lizard with an apple-sized gem sticking out of its forehead? Wishful thinking!” “Carbuncles are real! I almost caught one, but even though it could barely walk, its magic allowed it to escape my clutches.” “Their mind control powers could make them useful familiars, but if you ever catch one, it dies of fright.” “My advice is to stay away from these pests. They drink your hopes and aspirations through their horns, leaving you empty except for bad luck and bellyaches.” “Planning a carbuncle hunt? You’d better leave your self-respect at home and be ready to emerge with fewer friends than you had at the start!”"
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 18 - __Cantrips (1st)__ Daze - __1st__ Jump (at will) - __3rd__ Levitate (at will; self only)"
+    desc: "DC 18 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/jump|Jump]] (at will) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/levitate|Levitate]] (at will; self only)"
 sourcebook: "_Monster Core 2_, page 68."
 ```
 

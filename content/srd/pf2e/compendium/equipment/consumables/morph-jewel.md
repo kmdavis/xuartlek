@@ -19,7 +19,7 @@ source: "Battlecry!"
 - **Price**: 12 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Constructed of an oddly flexible material, this golden jewel holds whatever shape it’s twisted into. Choose bludgeoning, piercing, or slashing when you apply a _morph jewel_ to a weapon. The weapon’s damage becomes that type for 1 minute.
 

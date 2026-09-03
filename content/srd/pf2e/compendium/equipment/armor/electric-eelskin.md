@@ -18,11 +18,11 @@ source: "GM Core"
 - **Price**: 950 gp
 - **Usage**: worn armor
 - **Bulk**: 1
-- **Base Armor**: Leather Armor
+- **Base Armor**: [[srd/pf2e/compendium/equipment/armor#Leather Armor|Leather Armor]]
 
-Shining, slippery eelskin covers the plates of this _+1 resilient greater slick leather armor_. The armor gives you the ability to breathe water and grants you a +2 item bonus to Athletics checks to Swim and Stealth checks you attempt in the water. 
+Shining, slippery eelskin covers the plates of this _+1 resilient greater slick leather armor_. The armor gives you the ability to breathe water and grants you a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks to Swim and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks you attempt in the water. 
 
-**Activate—Unleash Charge** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Frequency** once per hour; **Effect** You cast a 2nd-rank _thunderstrike_ with a DC of 29.
+**Activate—Unleash Charge** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per hour; **Effect** You cast a 2nd-rank [[srd/pf2e/compendium/spells/rank-1/thunderstrike|_thunderstrike_]] with a DC of 29.
 
 **Craft Requirements** Supply one casting of _thunderstrike_.
 

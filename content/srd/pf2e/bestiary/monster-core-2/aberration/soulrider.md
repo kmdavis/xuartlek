@@ -31,11 +31,11 @@ perception:
     desc: "Perception +5; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +4, Stealth +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +4, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +4"
 abilityMods: [0, 3, 2, -3, 2, -1]
 abilities_top:
   - name: "Planar Adaptation"
-    desc: "If the soulrider has followed a soul to its final destination, it takes on traits appropriate to that plane. These soulriders gain the celestial and holy, fiend and unholy, or monitor traits as appropriate to the destination."
+    desc: "If the soulrider has followed a soul to its final destination, it takes on traits appropriate to that plane. These soulriders gain the [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestial]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiend]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/monitor|monitor]] traits as appropriate to the destination."
 ac: 14
 armorclass:
   - name: "AC"
@@ -43,18 +43,18 @@ armorclass:
 hp: 8
 health:
   - name: "HP"
-    desc: "8; __Weaknesses__ spirit 1"
+    desc: "8; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] 1"
 speed: "20 feet, swim 20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ sucker +6 (Finesse, reach 0 feet, magical) __Damage__ soul attach"
+    desc: "⬻ sucker +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]]) __Damage__ soul attach"
   - name: "Melee"
-    desc: "⬻ tail +6 (Agile, finesse, reach 0 feet, sanctified) __Damage__ 1d4 bludgeoning plus 1 spirit"
+    desc: "⬻ tail +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sanctified|sanctified]]) __Damage__ 1d4 bludgeoning plus 1 [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]]"
 abilities_bot:
   - name: "Propulsive Launch"
-    desc: "⬺ The soulrider Leaps up to 40 feet, then makes a sucker Strike. If it's in the air and not attached to a creature after the Strike, it falls."
+    desc: "⬺ The soulrider [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leaps]] up to 40 feet, then makes a sucker [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]]. If it's in the air and not attached to a creature after the Strike, it [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Falling|falls]]."
   - name: "Soul Attach"
-    desc: "(Spirit) When a soulrider succeeds at a sucker Strike against a target with a soul capable of facing judgment, its sucker attaches it to that soul. While attached, both the soulrider and the host creature are off-guard, and the soulrider moves with its host until the soulrider dies or the host pulls it loose (Escape DC 15). If the host dies while the soulrider is attached, the soulrider disappears immediately to follow the soul leaving the body. A creature returned to life before reaching its final destination generally returns with any attached soulrider."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]]) When a soulrider succeeds at a sucker Strike against a target with a soul capable of facing judgment, its sucker attaches it to that soul. While attached, both the soulrider and the host creature are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]], and the soulrider moves with its host until the soulrider dies or the host pulls it loose ([[srd/pf2e/compendium/rules-elements/actions/player-core#Escape|Escape]] DC 15). If the host dies while the soulrider is attached, the soulrider disappears immediately to follow the soul leaving the body. A creature returned to life before reaching its final destination generally returns with any attached soulrider."
   - name: "Tail Thrash"
     desc: "⬺"
   - name: "Requirements"

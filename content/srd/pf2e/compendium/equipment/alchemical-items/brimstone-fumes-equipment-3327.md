@@ -20,10 +20,10 @@ source: "Player Core 2"
 - **Price**: 1,500 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Fumes from the forges of Hell drain health and strength alike. 
 
-**Saving Throw** DC 36 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds**; Stage 1** 7d8 poison damage and enfeebled 1 (1 round); **Stage 2** 8d8 poison damage and enfeebled 2 (1 round); **Stage 3** 10d8 poison damage and enfeebled 3 (1 round)
+**Saving Throw** DC 36 Fortitude; **Onset** 1 round; **Maximum Duration** 6 rounds**; Stage 1** 7d8 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 round); **Stage 2** 8d8 poison damage and enfeebled 2 (1 round); **Stage 3** 10d8 poison damage and enfeebled 3 (1 round)
 
 *Source: Player Core 2 p. 292*

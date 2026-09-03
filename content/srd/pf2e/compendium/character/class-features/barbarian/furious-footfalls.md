@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 - **Class**: Barbarian
 
-The urge to fight drives you ever forward. You gain a +5-foot status bonus to your Speed. This bonus increases to +10 feet while you’re raging.
+The urge to fight drives you ever forward. You gain a +5-foot status bonus to your Speed. This bonus increases to +10 feet while you’re [[srd/pf2e/compendium/rules-elements/actions/player-core-2#Rage|raging]].
 
 *Source: Player Core 2 p. 70*

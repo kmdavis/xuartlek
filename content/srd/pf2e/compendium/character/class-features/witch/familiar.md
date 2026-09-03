@@ -13,7 +13,7 @@ source: "Player Core"
 
 - **Class**: Witch
 
-Your patron has sent you a familiar, a mystical creature that teaches you magic and facilitates your spells. This familiar follows the familiar rules, though as it's a direct conduit between you and your patron, it's more powerful than typical familiars. Your familiar gains two additional familiar abilities: one of these is a unique ability based on your patron and is always selected, and the other is an additional familiar ability that can be selected daily as normal. Your familiar gains another extra ability at 6th, 12th, and 18th levels.
+Your patron has sent you a familiar, a mystical creature that teaches you magic and facilitates your spells. This familiar follows the [[srd/pf2e/books/player-core/chapter-3-classes/companions#Familiars|familiar rules]], though as it's a direct conduit between you and your patron, it's more powerful than typical familiars. Your familiar gains two additional familiar abilities: one of these is a unique ability based on your patron and is always selected, and the other is an additional familiar ability that can be selected daily as normal. Your familiar gains another extra ability at 6th, 12th, and 18th levels.
 
  **Spells**: Your familiar is the source and repository of the spells your patron has bestowed upon you, and you must commune with your familiar to prepare your spells each day using your witch spellcasting. Your familiar starts off knowing 10 cantrips, five 1st-rank spells, and one additional spell determined by your patron's initial lesson. You choose these spells from the common spells of the tradition determined by your patron or from other spells of that tradition you gain access to.
 

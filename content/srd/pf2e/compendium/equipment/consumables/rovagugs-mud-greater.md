@@ -18,9 +18,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-_Rovagug's mud_ smells and tastes like wet, sour earth. For 1 hour after you drink it, you have a +2 item bonus to saving throws against incapacitation effects. Also, you can use a single action to breathe out a 20-foot cone of bitter vapor that causes an earth-shaking rumble that can be heard for 100 feet. Creatures and objects in the area take 5d6 damage (DC 30 basic Fortitude save), decreasing Hardness by 5. An object's Hardness remains lowered for 1d4 rounds, and you can't use this breath again for the same amount of time.
+_Rovagug's mud_ smells and tastes like wet, sour earth. For 1 hour after you drink it, you have a +2 item bonus to saving throws against [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|incapacitation]] effects. Also, you can use a single action to breathe out a 20-foot cone of bitter vapor that causes an earth-shaking rumble that can be heard for 100 feet. Creatures and objects in the area take 5d6 damage (DC 30 basic Fortitude save), decreasing Hardness by 5. An object's Hardness remains lowered for 1d4 rounds, and you can't use this breath again for the same amount of time.
 
 ### Rovagug's Mud
 

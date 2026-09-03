@@ -16,7 +16,7 @@ citation: "Treasure Vault (Remastered) pg. 41"
 
 <sup>TV p. 41</sup>
 
-Alchemical items are a deep tool set that can be leveraged by nearly any adventuring party. However, they're particularly effective in the hands of an alchemist, or other alchemical specialists like herbalists, munitions crafters, fireworks technicians, and others who specialize in various fields of the alchemical sciences.
+Alchemical items are a deep tool set that can be leveraged by nearly any adventuring party. However, they're particularly effective in the hands of an alchemist, or other alchemical specialists like herbalists, [[srd/pf2e/compendium/feats/guns-gears-remastered/class/munitions-crafter|munitions crafters]], [[srd/pf2e/compendium/character/archetypes/firework-technician|fireworks technicians]], and others who specialize in various fields of the alchemical sciences.
 
 This chapter introduces an array of new alchemical items. Bottled monstrosities in particular bear special mention, as most include a line like, “**Craft Requirements** Supply the corpse of a roc.” While these crafting requirements can be ignored for the sake of the story being told, they can also be a potent storytelling tool, enabling your players to directly convert their triumphs on the battlefield into new tools for adventuring. For more information on integrating items from this book into the stories you tell at the table, see Nature Crafting and Story-Based Crafting in Chapter 5.
 

@@ -21,8 +21,8 @@ source: "Impossible Magic"
 - **Deity**: Talons of the Godclaw
 - **Range**: 120 feet
 - **Area**: 5-foot radius, 40-foot tall cylinder
-- **Defense**: basic Reflex
-- **Duration**: sustained up to 1 minute
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
+- **Duration**: [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|sustained]] up to 1 minute
 
 You combine a blazing inferno and air currents into a fiery vortex. You can Cast this Spell only if you're outside or the ceiling is 40 feet or higher. All squares in the vortex are difficult terrain for flying creatures.
 

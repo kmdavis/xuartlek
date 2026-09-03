@@ -31,10 +31,10 @@ modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; darkvision"
-languages: "Common, Diabolic, Draconic, Empyrean; _speak with animals_"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|_speak with animals_]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Arcana +3, Medicine +6, Nirvana Lore +3, Stealth +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +3, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +6, [[srd/pf2e/compendium/rules-elements/skills/lore|Nirvana Lore]] +3, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7"
 abilityMods: [-2, 4, 2, 0, 3, 2]
 abilities_top:
   - name: "Cat's Curiosity"
@@ -46,21 +46,21 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Weaknesses__ unholy 3"
+    desc: "20; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] 3"
 speed: "25 feet, fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +9 (Finesse, Holy, Magical) __Damage__ 1d6–2 piercing plus 1d4 spirit"
+    desc: "⬻ jaws +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d6–2 piercing plus 1d4 spirit"
   - name: "Melee"
-    desc: "⬻ claw +9 (Agile, Finesse, Holy, Magical) __Damage__ 1d4–2 slashing plus 1d4 spirit"
+    desc: "⬻ claw +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d4–2 slashing plus 1d4 spirit"
 abilities_bot:
   - name: "Champion Focus Spell"
-    desc: "DC 17, 1 Focus Point - __1st__ Lay on Hands"
+    desc: "DC 17, 1 Focus Point - __1st__ [[srd/pf2e/compendium/spells/focus/lay-on-hands|Lay on Hands]]"
   - name: "Cat's Poise"
-    desc: "When a silvanshee uses their _vapor form_ spell, the mist form remains roughly the size and shape of a cat, and the silvanshee retains their fly Speed in this form. Silvanshee Allies Silvanshees will work with heroes who remain patient with their curiosity and skittishness. They're inquisitive, alternating between affection and aloofness. They do what they can to aid and defend their companions, but their strong sense of self-preservation means they'll likely flee if they sense they can't win a fight."
+    desc: "When a silvanshee uses their [[srd/pf2e/compendium/spells/rank-4/vapor-form|_vapor form_]] spell, the mist form remains roughly the size and shape of a cat, and the silvanshee retains their fly Speed in this form. Silvanshee Allies Silvanshees will work with heroes who remain patient with their curiosity and skittishness. They're inquisitive, alternating between affection and aloofness. They do what they can to aid and defend their companions, but their strong sense of self-preservation means they'll likely flee if they sense they can't win a fight."
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17 - __Cantrips (1st)__ Know the Way, Light, Prestidigitation, Stabilize - __4th__ Read Omens, Vapor Form (×3) - __Constant (2nd)__ Speak with Animals"
+    desc: "DC 17 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/know-the-way|Know the Way]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/stabilize|Stabilize]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/read-omens|Read Omens]], [[srd/pf2e/compendium/spells/rank-4/vapor-form|Vapor Form]] (×3) - __Constant (2nd)__ [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]]"
 sourcebook: "_Monster Core 2_, page 16."
 ```
 

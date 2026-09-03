@@ -31,7 +31,7 @@ perception:
     desc: "Perception +9"
 skills:
   - name: "Skills"
-    desc: "Athletics +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +15"
 abilityMods: [6, -5, 5, -5, 0, -5]
 ac: 12
 armorclass:
@@ -40,10 +40,10 @@ armorclass:
 hp: 170
 health:
   - name: "HP"
-    desc: "170; __Immunities__ critical hits, mental, unconscious; __Weaknesses__ electricity 10"
+    desc: "170; __Immunities__ critical hits, [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 10"
 abilities_mid:
   - name: "Stench"
-    desc: "(aura, olfactory) 30 feet, DC 19."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/olfactory|olfactory]]) 30 feet, DC 19."
 speed: "15 feet, swim 30 feet"
 attacks:
   - name: "Melee"
@@ -52,7 +52,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻ 1d8+6, DC 22"
   - name: "Nauseating Slap"
-    desc: "(Poison) A living creature struck by a globster's tendril must attempt a DC 19 Fortitude save. On a failure, the creature becomes sickened 1. If the creature is already sickened, the condition value increases by 1, to a maximum of sickened 4. Once a creature succeeds at its saving throw, it is temporarily immune for 24 hours."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) A living creature struck by a globster's tendril must attempt a DC 19 Fortitude save. On a failure, the creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened 1]]. If the creature is already sickened, the condition value increases by 1, to a maximum of sickened 4. Once a creature succeeds at its saving throw, it is temporarily immune for 24 hours."
   - name: "Saturated"
     desc: "A globster can survive for 1 hour out of the water, after which it risks suffocation. Fetid Decomposition When a globster is killed, its body decays into a mass of goo within 24 hours. However, its stench aura can persist long past its destruction, lasting for 1d10 days, centered on the globster’s position at the time of its death."
 sourcebook: "_Monster Core_, page 171."

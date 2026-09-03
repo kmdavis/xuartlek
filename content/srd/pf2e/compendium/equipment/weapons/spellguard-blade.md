@@ -17,8 +17,8 @@ source: "Player Core 2"
 - **Price**: 320 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: Main-gauche
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/knife/main-gauche|Main-gauche]]
 
-The guard of this _+1 striking main-gauche_ is inscribed with eldritch glyphs that guard against magic. When you're benefiting from the circumstance bonus to AC from this weapon's parry trait, you also apply that circumstance bonus to your saving throws against spells that target you.
+The guard of this _+1 [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] [[srd/pf2e/compendium/equipment/weapons/knife/main-gauche|main-gauche]]_ is inscribed with eldritch glyphs that guard against magic. When you're benefiting from the circumstance bonus to AC from this weapon's [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|parry]] trait, you also apply that circumstance bonus to your saving throws against spells that target you.
 
 *Source: Player Core 2 p. 280*

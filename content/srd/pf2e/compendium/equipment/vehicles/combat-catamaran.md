@@ -23,7 +23,7 @@ This high-speed sailing ship is designed to track down fleeing vessels. When tra
 
 **Passengers** 15
 
-**Piloting Check** Nature (DC 33) or Sailing Lore (DC 31)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 33) or [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] (DC 31)
 
 ---
 
@@ -35,9 +35,9 @@ This high-speed sailing ship is designed to track down fleeing vessels. When tra
 
 **HP** 230 (BT 115)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
-**Weaknesses** 10 fire until broken
+**Weaknesses** 10 fire until [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]
 
 ---
 
@@ -45,7 +45,7 @@ This high-speed sailing ship is designed to track down fleeing vessels. When tra
 
 **Collision** 9d10 (DC 31)
 
-**Deploy Spinnakers** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (manipulate) This vehicle has massive kite-like spinnakers. Deploying and retracting these spinnakers takes two crew members to each perform a 3-action activity on their turn. While the spinnakers are deployed, the weapons installed on the weapon mounts can’t fire.
-**Weapon Mounts** This vehicle has 2 weapon mounts, with one on each of its hulls. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 31 Crafting check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
+**Deploy Spinnakers** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) This vehicle has massive kite-like spinnakers. Deploying and retracting these spinnakers takes two crew members to each perform a 3-action activity on their turn. While the spinnakers are deployed, the weapons installed on the weapon mounts can’t fire.
+**Weapon Mounts** This vehicle has 2 weapon mounts, with one on each of its hulls. At purchase, these weapon mounts are initially empty. Installing or uninstalling a weapon into a mount requires 1 day, a successful DC 31 [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, and an appropriate weapon. The weapon mounts can be equipped with Huge or smaller ranged siege weapons.
 
 *Source: Battlecry! p. 112*

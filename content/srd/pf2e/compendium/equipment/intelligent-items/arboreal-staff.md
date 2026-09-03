@@ -22,9 +22,9 @@ source: "Treasure Vault (Remastered)"
 
 **Perception** +25; precise vision (low-light) 60 feet, imprecise hearing 30 feet, imprecise tremorsense 30 feet (only when touching the ground)
 
-**Communication** speech (Arboreal, Common, Fey; _speak with plants_)
+**Communication** speech (Arboreal, [[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]]; _speak with plants_)
 
-**Skills** Diplomacy +22, Forest Lore +25, Nature +25
+**Skills** [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +22, Forest Lore +25, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +25
 
 **Int** +4, **Wis** +6, **Cha** +4
 

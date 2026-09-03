@@ -26,13 +26,13 @@ You conjure a dark cloud above the battlefield from which leaps a massive giant 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is knocked prone.
+**Success** The creature is knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
-**Failure** The creature is knocked prone and clumsy 1 for 1 round.
+**Failure** The creature is knocked prone and [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 for 1 round.
 
 **Critical Failure** The creature is knocked prone and clumsy 2 for 1 round.
 
-**Depart** _Terrible Blows_ The skeletal giant reaches out with its great hands and attempts to flatten its master's foes. Up to 2 different targets within 30 feet of the giant take 6d6 bludgeoning damage (basic Reflex save).
+**Depart** _Terrible Blows_ The skeletal giant reaches out with its great hands and attempts to flatten its master's foes. Up to 2 different targets within 30 feet of the giant take 6d6 bludgeoning damage ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save).
 
 ---
 **Heightened (+1)** The damage increases by 2d6.

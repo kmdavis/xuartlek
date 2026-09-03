@@ -19,8 +19,8 @@ source: "Player Core 2"
 
 - **Price**: 100 gp
 - **Usage**: affixed to a melee weapon
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
-This bit of jade is usually carved in the shape of a duelist, or sometimes a multi-armed creature. When you activate the bauble, it magically draws the attention of foes. Until the start of your next turn, enemies within the reach of the weapon the talisman is affixed to are off-guard.
+This bit of jade is usually carved in the shape of a duelist, or sometimes a multi-armed creature. When you activate the bauble, it magically draws the attention of foes. Until the start of your next turn, enemies within the reach of the weapon the talisman is affixed to are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]].
 
 *Source: Player Core 2 p. 305*

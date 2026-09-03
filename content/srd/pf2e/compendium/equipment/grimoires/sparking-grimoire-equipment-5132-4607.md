@@ -19,7 +19,7 @@ source: "Impossible Magic"
 
 The black leather cover of this spellbook is embossed with a pattern of lightning, and sparks crackle across it. Touching the book makes one’s hair stand slightly on end. 
 
-**Activate—Static Shock** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate, electricity, spellshape) **Frequency** once per day; **Effect** If your next action is to Cast a prepared Spell with the electricity trait, you charge yourself with electrical energy. Until the end of your next turn, your Strikes deal an additional 2d6 electricity damage, and creatures targeting you with a melee Strike or spell with a range of touch take 2d6 electricity damage, with a basic Reflex save against your spell DC.
+**Activate—Static Shock** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]]) **Frequency** once per day; **Effect** If your next action is to [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/activating-items#Cast a Spell|Cast a prepared Spell]] with the [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] trait, you charge yourself with electrical energy. Until the end of your next turn, your Strikes deal an additional 2d6 electricity damage, and creatures targeting you with a melee Strike or spell with a range of touch take 2d6 electricity damage, with a [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save against your spell DC.
 
 ### Sparking Grimoire
 

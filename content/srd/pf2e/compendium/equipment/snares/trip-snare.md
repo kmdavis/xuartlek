@@ -24,9 +24,9 @@ If you want to create a trip snare to trip a larger creature, you must create a 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is off-guard until the start of its next turn.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of its next turn.
 
-**Failure** The creature falls prone.
+**Failure** The creature falls [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 **Critical Failure** The creature falls prone and takes 1d6 bludgeoning damage.
 

@@ -20,7 +20,7 @@ source: "Player Core"
 
 `Cleric`  `Concentrate`  `Emotion`  `Focus`  `Manipulate`  `Mental`  `Uncommon`
 
-- **Domain**: Confidence
+- **Domain**: [[srd/pf2e/compendium/character/domains#Confidence|Confidence]]
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

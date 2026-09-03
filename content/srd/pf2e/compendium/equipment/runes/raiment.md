@@ -20,6 +20,6 @@ source: "GM Core"
 
 This armor can be disguised with a mere thought. 
 
-**Activate—Costume Change** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Effect** You change the shape and appearance of this armor to appear as ordinary or fine clothes of your imagining. The armor’s statistics don’t change. Only a creature that’s benefiting from _truesight_ or a similar effect can attempt to disbelieve this illusion, with a DC of 25.
+**Activate—Costume Change** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** You change the shape and appearance of this armor to appear as ordinary or fine clothes of your imagining. The armor’s statistics don’t change. Only a creature that’s benefiting from _truesight_ or a similar effect can attempt to disbelieve this illusion, with a DC of 25.
 
 *Source: GM Core p. 226*

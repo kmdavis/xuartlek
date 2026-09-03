@@ -20,6 +20,6 @@ source: "Dark Archives (Remastered)"
 - **Target**: up to 6 creatures
 - **Duration**: until the end of your next turn
 
-You pluck the time stream like a bow—pull one string back, release, and watch a creature fly. All affected targets are quickened. They can use the extra action only to Step or Stride.
+You pluck the time stream like a bow—pull one string back, release, and watch a creature fly. All affected targets are [[srd/pf2e/compendium/rules-elements/conditions#Quickened|quickened]]. They can use the extra action only to Step or Stride.
 
 *Source: Dark Archives (Remastered) p. 182*

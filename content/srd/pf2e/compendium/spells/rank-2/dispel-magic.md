@@ -21,6 +21,6 @@ source: "Player Core"
 - **Range**: 120 feet
 - **Target**: 1 spell effect or unattended magic item
 
-You unravel the magic behind a spell or effect. Attempt a counteract check against the target. If you successfully counteract a magic item, it becomes a mundane item of its type for 10 minutes. This doesn't change the item's non-magical properties. If the target is an artifact or similar item, you automatically fail.
+You unravel the magic behind a spell or effect. Attempt a counteract check against the target. If you successfully counteract a magic item, it becomes a mundane item of its type for 10 minutes. This doesn't change the item's non-magical properties. If the target is an [[srd/pf2e/compendium/rules-elements/traits/gm-core/artifact|artifact]] or similar item, you automatically fail.
 
 *Source: Player Core p. 325*

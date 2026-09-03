@@ -20,7 +20,7 @@ source: "Impossible Magic"
 - **Range**: 100 miles
 - **Target**: your familiar
 
-Your familiar dissolves and rematerializes in your space. The exact appearance of this teleportation differs based on your tradition (a druid's familiar might fall into a spray of autumn leaves, a shadowy familiar might simply fade away), but it's always clearly supernatural.
+Your familiar dissolves and rematerializes in your space. The exact appearance of this teleportation differs based on your tradition (a [[srd/pf2e/compendium/character/classes/druid|druid's]] familiar might fall into a spray of autumn leaves, a shadowy familiar might simply fade away), but it's always clearly supernatural.
 
 ---
 **Heightened (5th)** You can call your familiar so long as your familiar is on the same planet as you.

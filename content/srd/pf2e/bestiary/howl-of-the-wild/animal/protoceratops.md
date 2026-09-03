@@ -31,7 +31,7 @@ perception:
     desc: "Perception +9; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8"
 abilityMods: [4, 2, 3, -4, 2, 1]
 ac: 17
 armorclass:
@@ -55,7 +55,7 @@ attacks:
   - name: "Melee"
     desc: "⬻ head +10 __Damage__ 1d8+4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ tail +10 (Agile) __Damage__ 1d6+4 bludgeoning plus Knockdown"
+    desc: "⬻ tail +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+4 bludgeoning plus Knockdown"
 abilities_bot:
   - name: "Defensive Posture"
     desc: "⬻ The protoceratops tucks in its head and presents its sturdy frill, granting a +1 circumstance bonus to AC adjacent allies. The protoceratops remains in its Defensive Posture until the start of its next turn, but only grants the bonus while allies remain adjacent."

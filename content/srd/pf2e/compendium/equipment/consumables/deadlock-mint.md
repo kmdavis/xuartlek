@@ -20,7 +20,7 @@ source: "Treasure Vault (Remastered)"
 - **Bulk**: L
 - **Activate**: Cast a Spell (add 1 action)
 
-_Deadlock mint_ is a species of mint with small, green flowers, said to grow on battlefields where the opposing sides were equally matched. Sprigs of the flowers blow gently in a breeze of their own creation. If you cast _mystic armor_ using _deadlock mint_, you release a small blast of concussive air in an emanation of a size that depends on the catalyst’s type. Unattended objects up to a certain Bulk limit are pushed away from you. Large or smaller creatures must succeed at a Fortitude save equal to your spell save DC or be pushed the same distance away from you.
+_Deadlock mint_ is a species of mint with small, green flowers, said to grow on battlefields where the opposing sides were equally matched. Sprigs of the flowers blow gently in a breeze of their own creation. If you cast [[srd/pf2e/compendium/spells/rank-1/mystic-armor|_mystic armor_]] using _deadlock mint_, you release a small blast of concussive air in an [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] of a size that depends on the catalyst’s type. Unattended objects up to a certain Bulk limit are pushed away from you. Large or smaller creatures must succeed at a Fortitude save equal to your spell save DC or be pushed the same distance away from you.
 
 ### Deadlock Mint
 

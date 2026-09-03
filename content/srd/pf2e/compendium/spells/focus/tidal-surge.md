@@ -18,7 +18,7 @@ source: "Player Core"
 
 `Cleric`  `Focus`  `Manipulate`  `Uncommon`  `Water`
 
-- **Domain**: Water
+- **Domain**: [[srd/pf2e/compendium/character/domains#Water|Water]]
 - **Range**: 60 feet
 - **Target**: 1 creature
 

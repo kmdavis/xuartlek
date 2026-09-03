@@ -19,10 +19,10 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 2,900 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Base Weapon**: Pepperbox
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/firearm/pepperbox|Pepperbox]]
 
-This _+2 greater striking pepperbox_ cycles through several magical cores, swapping in new ones while the previous ones cool. The gun deals fire or electricity damage, alternating with each attack as it rotates cores. Arcadian gunslingers liken the rotating cores to a group of dancers, each taking their turn in the spotlight.
+This _+2 greater striking [[srd/pf2e/compendium/equipment/weapons/firearm/pepperbox|pepperbox]]_ cycles through several magical cores, swapping in new ones while the previous ones cool. The gun deals fire or electricity damage, alternating with each attack as it rotates cores. Arcadian gunslingers liken the rotating cores to a group of dancers, each taking their turn in the spotlight.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Frequency** once per day; **Effect** The _spark dancer_ casts either _fireball_ or _lightning bolt_, depending on whether the current core would deal fire or electricity damage, as a 7th-level arcane spell (DC 30).
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** The _spark dancer_ casts either _fireball_ or _lightning bolt_, depending on whether the current core would deal fire or electricity damage, as a 7th-level arcane spell (DC 30).
 
 *Source: Treasure Vault (Remastered) p. 39*

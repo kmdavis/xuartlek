@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Snare`
 
-Traps typically made by rangers, snares follow special rules that allow them to be constructed quickly and used on the battlefield.
+Traps typically made by [[srd/pf2e/compendium/character/classes/ranger|rangers]], snares follow special rules that allow them to be constructed quickly and used on the battlefield.
 
 *Source: Player Core 2 p. 297*

@@ -19,9 +19,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-A pearlescent fluid, burial oil applied to a weapon grants the benefits of a _vitalizing_ rune for 1 minute.
+A pearlescent fluid, burial oil applied to a weapon grants the benefits of a [[srd/pf2e/compendium/equipment/runes/vitalizing-greater|_vitalizing_]] rune for 1 minute.
 
 ### Burial Oil
 

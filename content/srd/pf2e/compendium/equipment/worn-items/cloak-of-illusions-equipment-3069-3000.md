@@ -18,9 +18,9 @@ source: "GM Core"
 - **Usage**: worn cloak
 - **Bulk**: L
 
-This cloak flows, covering and concealing the wearer's body. The cloak allows you to cast _figment_ as an occult innate cantrip. Although naturally a dull gray, while invested the cloak picks up colors and patterns from its surroundings, granting a +1 item bonus to Stealth checks. 
+This cloak flows, covering and concealing the wearer's body. The cloak allows you to cast [[srd/pf2e/compendium/spells/cantrips/figment|_figment_]] as an occult innate cantrip. Although naturally a dull gray, while invested the cloak picks up colors and patterns from its surroundings, granting a +1 item bonus to Stealth checks. 
 
-**Activate—Draw Hood** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) **Frequency** once per day; **Effect** You draw the hood up and gain the effects of _invisibility_, with the spell's normal duration or until you pull the hood back down, whichever comes first.
+**Activate—Draw Hood** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You draw the hood up and gain the effects of [[srd/pf2e/compendium/spells/rank-2/invisibility|_invisibility_]], with the spell's normal duration or until you pull the hood back down, whichever comes first.
 
 ### Cloak of Illusions
 

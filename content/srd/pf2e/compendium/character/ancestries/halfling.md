@@ -55,14 +55,14 @@ Anafa, Antal, Bellis, Boram, Etune, Filiu, Jamir, Kaleb, Linna, Marra, Miro, Ril
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
-Halfling
+[[srd/pf2e/compendium/rules-elements/languages#Halfling|Halfling]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Dwarven, Elven, Gnomish, Goblin, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Elven|Elven]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], [[srd/pf2e/compendium/rules-elements/languages#Goblin|Goblin]], and any other languages to which you have access (such as the languages prevalent in your region).
 
 #### Keen Eyes
 
-Your eyes are sharp, allowing you to make out small details about concealed or even invisible creatures that others might miss. You gain a +2 circumstance bonus when using the Seek action to find hidden or undetected creatures within 30 feet of you. When you target an opponent that is concealed from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
+Your eyes are sharp, allowing you to make out small details about [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] or even [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] creatures that others might miss. You gain a +2 circumstance bonus when using the Seek action to find [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] creatures within 30 feet of you. When you target an opponent that is concealed from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
 
 *Source: Player Core p. 58*

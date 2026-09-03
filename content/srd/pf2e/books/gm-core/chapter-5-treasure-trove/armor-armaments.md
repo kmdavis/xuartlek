@@ -22,15 +22,15 @@ Magical weapons and armor are important tools for warriors, even those who do th
 
 Most magic weapons and armor gain their enhancements from potent eldritch runes etched into them. These runes allow for in-depth customization of items.
 
-Runes must be physically engraved on items through a special process to convey their effects. They take two forms: fundamental runes and property runes. Fundamental runes offer the most basic and essential benefits: a weapon potency rune adds a bonus to a weapon's attack rolls, and the striking rune adds extra weapon damage dice. An armor potency rune increases the armor's item bonus to AC, and the resilient rune grants a bonus to the wearer's saving throws. A reinforcing rune increases a shield's durability. Property runes, by contrast, grant more varied effects—typically powers that take effect each time the weapon is used or that are constant while the armor is worn, such as a rune that grants energy resistance or one that adds fire damage to a weapon's attacks.
+Runes must be physically engraved on items through a special process to convey their effects. They take two forms: fundamental runes and property runes. Fundamental runes offer the most basic and essential benefits: a [[srd/pf2e/compendium/equipment/runes/weapon-potency-3|weapon potency]] rune adds a bonus to a weapon's attack rolls, and the [[srd/pf2e/compendium/equipment/runes/striking-major|striking]] rune adds extra weapon damage dice. An [[srd/pf2e/compendium/equipment/runes/armor-potency-3|armor potency]] rune increases the armor's item bonus to AC, and the [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]] rune grants a bonus to the wearer's saving throws. A [[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|reinforcing rune]] increases a shield's durability. Property runes, by contrast, grant more varied effects—typically powers that take effect each time the weapon is used or that are constant while the armor is worn, such as a rune that grants [[srd/pf2e/compendium/equipment/runes/energy-resistant-greater|energy resistance]] or one that adds [[srd/pf2e/compendium/equipment/runes/flaming-greater|fire damage]] to a weapon's attacks.
 
 The number of property runes a weapon or armor can have is equal to the value of its potency rune. A *+1 weapon* can have one property rune, but it could hold another if the *+1 weapon potency rune* were upgraded to a *+2 weapon potency rune*. Since the striking and resilient runes are fundamental runes, they don't count against this limit. A shield can't have property runes, only a *reinforcing rune*.
 
-An item with runes is typically referred to by the value of its potency rune, followed by any other fundamental runes, then the names of any property runes, and ends with the name of the base item. For example, you might have a *+1 longsword* or *+2 greater resilient fire-resistant chain mail*.
+An item with runes is typically referred to by the value of its potency rune, followed by any other fundamental runes, then the names of any property runes, and ends with the name of the base item. For example, you might have a *+1 [[srd/pf2e/compendium/equipment/weapons/sword/longsword|longsword]]* or *+2 greater resilient fire-resistant [[srd/pf2e/compendium/equipment/armor#Chain Mail|chain mail]]*.
 
-Rune-etched items have the same Bulk and general characteristics as the non-magical version unless noted otherwise. The level of an item with runes etched onto it is equal to the highest level among the base item and all runes etched on it; therefore, a *+1 striking mace* (a 4th-level item) with a *frost rune* (an 8th-level rune) would be an 8th-level item.
+Rune-etched items have the same Bulk and general characteristics as the non-magical version unless noted otherwise. The level of an item with runes etched onto it is equal to the highest level among the base item and all runes etched on it; therefore, a *+1 striking [[srd/pf2e/compendium/equipment/weapons/club/mace|mace]]* (a 4th-level item) with a *[[srd/pf2e/compendium/equipment/runes/frost-greater|frost rune]]* (an 8th-level rune) would be an 8th-level item.
 
-Each rune can be etched into a specific type of armor, shield, or weapon, as indicated in the Usage entry of the rune's stat block. Explorer's clothing can have armor runes etched on it even though it's not armor, but because it's not in the light, medium, or heavy armor category, it can't have runes requiring any of those categories.
+Each rune can be etched into a specific type of armor, shield, or weapon, as indicated in the Usage entry of the rune's stat block. [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|Explorer's clothing]] can have armor runes etched on it even though it's not armor, but because it's not in the light, medium, or heavy armor category, it can't have runes requiring any of those categories.
 
 ## Fundamental Runes
 
@@ -68,7 +68,7 @@ Each rune can be etched into a specific type of armor, shield, or weapon, as ind
 
 ### Investiture
 
-If a suit of armor has any runes, it has the invested trait, requiring you to invest it to get its magical benefits.
+If a suit of armor has any runes, it has the [[srd/pf2e/compendium/rules-elements/traits/gm-core/invested|invested]] trait, requiring you to invest it to get its magical benefits.
 
 ### Rune Formulas
 
@@ -76,13 +76,13 @@ The Price of a rune’s formula is the same as the Price of a [[srd/pf2e/books/p
 
 ### The Etching Process
 
-Etching a rune onto an item follows the same process as using the Craft activity to make an item. You must be able to Craft magic items, have the item you're adding the rune to in your possession throughout the etching process, and meet any special Craft Requirements. The rune has no effect until you complete the Craft activity. You can etch only one rune at a time.
+Etching a rune onto an item follows the same process as using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] activity to make an item. You must be able to Craft magic items, have the item you're adding the rune to in your possession throughout the etching process, and meet any special Craft Requirements. The rune has no effect until you complete the Craft activity. You can etch only one rune at a time.
 
 #### Transferring Runes
 
-You can transfer runes between two items. This uses the Craft activity, and you must be able to craft magical items. You can either move one rune from one item to another or swap a rune on one item with a rune on the other item (which can be a runestone). To swap, the runes must both be fundamental runes or both be property runes.
+You can transfer runes between two items. This uses the [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] activity, and you must be able to craft magical items. You can either move one rune from one item to another or swap a rune on one item with a rune on the other item (which can be a [[srd/pf2e/compendium/equipment/consumables/runestone|runestone]]). To swap, the runes must both be fundamental runes or both be property runes.
 
-If an item can have two or more property runes, you decide which runes to swap and which to leave when transferring. If you attempt to transfer a rune to an item that can't accept it, such as transferring a melee weapon rune to a ranged weapon, you get an automatic critical failure on your Crafting check. If you transfer a potency rune, you might end up with property runes on an item that can't benefit from them. These property runes go dormant until transferred to an item with the necessary potency rune or until you etch the appropriate potency rune on the item bearing them.
+If an item can have two or more property runes, you decide which runes to swap and which to leave when transferring. If you attempt to transfer a rune to an item that can't accept it, such as transferring a melee weapon rune to a ranged weapon, you get an automatic critical failure on your [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check. If you transfer a potency rune, you might end up with property runes on an item that can't benefit from them. These property runes go dormant until transferred to an item with the necessary potency rune or until you etch the appropriate potency rune on the item bearing them.
 
 The DC of the Crafting check to transfer a rune is determined by the item level of the rune being transferred, and the Price of the transfer is 10% of the rune's Price, unless transferring from a runestone, which is free. If you're swapping, use the higher level and higher Price between the two runes to determine these values. It takes 1 day (instead of the 4 days usually needed to Craft) to transfer a rune or swap a pair of runes, and you can continue to work over additional days to get a discount, as usual with Craft.
 
@@ -94,7 +94,7 @@ The DC of the Crafting check to transfer a rune is determined by the item level 
 
 ### Fundamental Runes
 
-Five fundamental runes produce the most essential magic of protection and destruction: armor potency and *resilient runes* for armor, the *reinforcing* rune for shields, and *weapon potency* and *striking runes* for weapons. A *potency rune* is what makes a weapon a *runic weapon* or armor *magic armor*.
+Five fundamental runes produce the most essential magic of protection and destruction: [[srd/pf2e/compendium/equipment/runes/armor-potency-3|armor potency]] and *[[srd/pf2e/compendium/equipment/runes/resilient-major|resilient runes]]* for armor, the *[[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|reinforcing]]* rune for shields, and *[[srd/pf2e/compendium/equipment/runes/weapon-potency-3|weapon potency]]* and *[[srd/pf2e/compendium/equipment/runes/striking-major|striking runes]]* for weapons. A *potency rune* is what makes a weapon a *[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|runic weapon]]* or armor *[[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|magic armor]]*.
 
 An item can have only one fundamental rune of each type, though etching a stronger rune can upgrade an existing rune to the more powerful version (as described in each rune's entry). As you level up, you typically alternate between increasing an item's potency rune and its *striking* or *resilient* rune when you can afford to.
 
@@ -106,23 +106,23 @@ Rune abilities that must be activated follow the rules for [[srd/pf2e/books/gm-c
 
 > [!pf2-sidebar] SPECIFIC ARMOR, WEAPONS, AND SHIELDS
 >
-> Unlike armor, weapons, and shields enhanced with runes, specific armor, weapons, and shields (such as moonlit chain, a bloodletting kukri, or a lion's shield) are created for a specific purpose and can work quite differently from other items of their type. These items can’t gain property runes, but you can add or improve their fundamental runes.
+> Unlike armor, weapons, and shields enhanced with runes, specific armor, weapons, and shields (such as [[srd/pf2e/compendium/equipment/armor/moonlit-chain|moonlit chain]], a [[srd/pf2e/compendium/equipment/weapons/bloodletting-kukri|bloodletting kukri]], or a [[srd/pf2e/compendium/equipment/shields/lions-shield|lion's shield]]) are created for a specific purpose and can work quite differently from other items of their type. These items can’t gain property runes, but you can add or improve their fundamental runes.
 
 ## Armor
 
-Suits of armor can be crafted from precious materials or infused with magic to grant them abilities exceeding those of typical armor. Many suits of magic armor are created by [[#The Etching Process|etching runes onto them]]. The magic armor stat block lists the Price and attributes of the most common armors you can make with fundamental runes. Other special suits of armor might be made of precious materials, and some are specially crafted items all on their own.
+Suits of armor can be crafted from precious materials or infused with magic to grant them abilities exceeding those of typical armor. Many suits of magic armor are created by [[#The Etching Process|etching runes onto them]]. The [[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|magic armor]] stat block lists the Price and attributes of the most common armors you can make with fundamental runes. Other special suits of armor might be made of precious materials, and some are specially crafted items all on their own.
 
 > [!pf2-sidebar] ARMOR ALTERNATIVES
 >
-> If you don't want to wear armor, or you're trained in only unarmored defense, you can wear either explorer's clothing or *bands of force*. Explorer's clothing can be etched with runes just like armor can, so it can provide item bonuses to AC or saves. *Bands of force* give a +1 item bonus to AC with a Dex modifier cap of +5, and they also grant a bonus to saves.
+> If you don't want to wear armor, or you're trained in only unarmored defense, you can wear either [[srd/pf2e/compendium/equipment/armor#Explorer's Clothing|explorer's clothing]] or *[[srd/pf2e/compendium/equipment/worn-items/bands-of-force-major|bands of force]]*. Explorer's clothing can be etched with runes just like armor can, so it can provide item bonuses to AC or saves. *Bands of force* give a +1 item bonus to AC with a Dex modifier cap of +5, and they also grant a bonus to saves.
 
 ### Precious Material Armor
 
-Suits of armor made of precious materials are more expensive and sometimes grant special effects. You can make metal armor out of any precious materials except for duskwood, or you can make wooden armor out of duskwood. Because armor’s Bulk is reduced when the armor is worn, use its carried Bulk when determining its material Price. ([[srd/pf2e/books/gm-core/chapter-5-treasure-trove/materials|Materials are found here]].)
+Suits of armor made of precious materials are more expensive and sometimes grant special effects. You can make metal armor out of any precious materials except for [[srd/pf2e/compendium/equipment/materials/duskwood-object-high-grade|duskwood]], or you can make wooden armor out of duskwood. Because armor’s Bulk is reduced when the armor is worn, use its carried Bulk when determining its material Price. ([[srd/pf2e/books/gm-core/chapter-5-treasure-trove/materials|Materials are found here]].)
 
 ### Basic Magic Armor
 
-The most common special armors are suits of armor with some combination of *armor potency* and *resilient runes*. The magic armor stat block provides a quick reference for these types of armor.
+The most common special armors are suits of armor with some combination of *[[srd/pf2e/compendium/equipment/runes/armor-potency-3|armor potency]]* and *[[srd/pf2e/compendium/equipment/runes/resilient-major|resilient runes]]*. The [[srd/pf2e/compendium/equipment/armor/magic-armor-3-major-resilient|magic armor]] stat block provides a quick reference for these types of armor.
 
 ### Specific Magic Armor
 
@@ -130,7 +130,7 @@ These suits of armor have abilities far different from what can be gained by etc
 
 ## Shield Rune
 
-Though shields can't be etched with weapon or armor runes, they can be improved by a specific type of [[#Fundamental Runes|fundamental rune]] known as a *reinforcing* rune. *Reinforcing* runes can be etched only on shields, including specific shields, and every *reinforcing* rune includes maximum Hardness and Hit Point values. Since the runes work by increasing the structural integrity of a shield by a certain amount, they can't increase the durability of a shield beyond a listed maximum value. Shields can't be etched with property runes, only *reinforcing* runes.
+Though shields can't be etched with weapon or armor runes, they can be improved by a specific type of [[#Fundamental Runes|fundamental rune]] known as a *[[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|reinforcing]]* rune. *Reinforcing* runes can be etched only on shields, including specific shields, and every *reinforcing* rune includes maximum Hardness and Hit Point values. Since the runes work by increasing the structural integrity of a shield by a certain amount, they can't increase the durability of a shield beyond a listed maximum value. Shields can't be etched with property runes, only *reinforcing* runes.
 
 ## Shields
 
@@ -138,7 +138,7 @@ All magic shields are specific items with a wide variety of protective effects, 
 
 ### Precious Material Shields
 
-Shields made of precious materials are more expensive and have different durabilities. You can make bucklers and most shields out of any of these precious materials, but only duskwood can be used to make tower shields.
+Shields made of precious materials are more expensive and have different durabilities. You can make [[srd/pf2e/compendium/equipment/shields#Buckler|bucklers]] and most shields out of any of these precious materials, but only [[srd/pf2e/compendium/equipment/materials/duskwood-object-high-grade|duskwood]] can be used to make [[srd/pf2e/compendium/equipment/shields#Tower Shield|tower shields]].
 
 ### Specific Shields
 
@@ -150,11 +150,11 @@ Weapons can be crafted from precious materials or infused with magic to grant th
 
 ### Precious Material Weapons
 
-Weapons made of precious materials are more expensive and sometimes have special effects. You can make metal weapons out of any of these materials except duskwood, and wooden weapons out of duskwood. To determine the Price of 10 pieces of ammunition, use the base Price for a single weapon, without adding any extra for Bulk.
+Weapons made of precious materials are more expensive and sometimes have special effects. You can make metal weapons out of any of these materials except [[srd/pf2e/compendium/equipment/materials/duskwood-object-high-grade|duskwood]], and wooden weapons out of duskwood. To determine the Price of 10 pieces of ammunition, use the base Price for a single weapon, without adding any extra for Bulk.
 
 ### Basic Magic Weapon
 
-Many magic weapons are created by [[#The Etching Process|etching runes onto them]]. The magic weapon stat block covers the Prices and attributes of the most common weapons you can make with only fundamental runes.
+Many magic weapons are created by [[#The Etching Process|etching runes onto them]]. The [[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|magic weapon]] stat block covers the Prices and attributes of the most common weapons you can make with only fundamental runes.
 
 ### Specific Magic Weapons
 

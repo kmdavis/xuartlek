@@ -29,14 +29,14 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; darkvision"
-languages: "Common, Sakvroth, Ysoki"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]], [[srd/pf2e/compendium/rules-elements/languages#Ysoki|Ysoki]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +6, Nature +5, Stealth +8, Survival +5, Thievery +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +5, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +6"
 abilityMods: [3, 3, 0, 1, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "Arbalest (20 bolts), Caltrops (3), Ranseur, Scale Mail"
+    desc: "[[srd/pf2e/compendium/equipment/weapons/crossbow/arbalest|Arbalest]] (20 bolts), Caltrops (3), Ranseur, Scale Mail"
 ac: 16
 armorclass:
   - name: "AC"
@@ -48,20 +48,20 @@ health:
 speed: "25 feet; swarming, tunnel travel"
 attacks:
   - name: "Melee"
-    desc: "⬻ ranseur +8 (Disarm, reach 10 feet) __Damage__ 1d10+3 piercing"
+    desc: "⬻ ranseur +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 1d10+3 piercing"
   - name: "Melee"
-    desc: "⬻ jaws +8 (Agile) __Damage__ 1d4+3 piercing"
+    desc: "⬻ jaws +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d4+3 piercing"
   - name: "Ranged"
-    desc: "⬻ arbalest +8 (Backstabber, range increment 110 feet, reload 1) __Damage__ 1d10 piercing"
+    desc: "⬻ arbalest +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/backstabber|Backstabber]], range increment 110 feet, reload 1) __Damage__ 1d10 piercing"
 abilities_bot:
   - name: "Running Reload"
-    desc: "⬻ The tunnel viper Strides, Steps, or Sneaks, then Interacts to reload."
+    desc: "⬻ The tunnel viper Strides, Steps, or [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneaks]], then Interacts to reload."
   - name: "Swarming"
     desc: "A tunnel viper can end their movement in the same square as an ally that also has this ability. Only two such creatures can share the same space."
   - name: "Tunnel Fighter"
-    desc: "The tunnel viper deals an additional 1d6 precision damage to creatures that are Squeeze or in difficult terrain due to narrow spaces."
+    desc: "The tunnel viper deals an additional 1d6 precision damage to creatures that are [[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]] or in difficult terrain due to narrow spaces."
   - name: "Tunnel Travel"
-    desc: "Narrow spaces aren't difficult terrain for the tunnel viper, and the viper can Squeeze at 5 feet per round (or 10 feet on a critical success)."
+    desc: "Narrow spaces aren't difficult terrain for the tunnel viper, and the viper can [[srd/pf2e/compendium/rules-elements/actions/player-core#Squeeze|Squeeze]] at 5 feet per round (or 10 feet on a critical success)."
 sourcebook: "_NPC Core_, page 210."
 ```
 

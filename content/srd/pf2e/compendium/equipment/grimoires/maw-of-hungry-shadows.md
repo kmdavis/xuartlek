@@ -23,14 +23,14 @@ source: "Treasure Vault (Remastered)"
 
 Shadows swirl around this soot-black tome, swallowing up any light that touches them. A faint whispering emanates from the grimoire's pages when opened.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per day; **Requirements** Your last action was to cast a spell prepared from this grimoire that has the shadow trait; **Effect** Your shadow, and that of the tome, elongates and reaches hungrily for one foe within 30 feet, who must attempt a Fortitude save.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per day; **Requirements** Your last action was to cast a spell prepared from this grimoire that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/shadow|shadow]] trait; **Effect** Your shadow, and that of the tome, elongates and reaches hungrily for one foe within 30 feet, who must attempt a Fortitude save.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is blinded for 1 round and drained 1 as the shadows scrape across it.
+**Success** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] for 1 round and drained 1 as the shadows scrape across it.
 
 **Failure** The creature is blinded for 1 minute and drained 2 as the shadows seize it.
 
-**Critical Failure** As failure, but the shadows also pull the creature into the tome, teleporting it to the Netherworld.
+**Critical Failure** As failure, but the shadows also pull the creature into the tome, teleporting it to the [[srd/pf2e/compendium/gm/planes#The Netherworld|Netherworld]].
 
 *Source: Treasure Vault (Remastered) p. 112*

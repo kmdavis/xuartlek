@@ -31,22 +31,22 @@ modifier: 29
 perception:
   - name: "Perception"
     desc: "Perception +29; darkvision"
-languages: "Diabolic, Draconic, Empyrean, Utopian; _truespeech_"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], Utopian; [[srd/pf2e/compendium/spells/rank-5/truespeech|_truespeech_]]"
 skills:
   - name: "Skills"
-    desc: "Diplomacy +28, Heaven Lore +33, Medicine +28, Nature +28, Religion +31, Society +27"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +28, [[srd/pf2e/compendium/rules-elements/skills/lore|Heaven Lore]] +33, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +28, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +28, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +31, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +27"
 abilityMods: [4, 6, 5, 6, 8, 7]
 ac: 35
 armorclass:
   - name: "AC"
-    desc: "35; __Fort__: +25; __Ref__: +26; __Will__: +31 +1 status to all saves vs. magic"
+    desc: "35; __Fort__: +25; __Ref__: +26; __Will__: +31 +1 status to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magic]]"
 hp: 250
 health:
   - name: "HP"
-    desc: "250; __Immunities__ fear; __Weaknesses__ unholy 10"
+    desc: "250; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]; __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] 10"
 abilities_mid:
   - name: "Divine Defenders"
-    desc: "(aura, divine, holy, spirit) 60 feet. Okenevem hold an exalted place among archons for their holy station. This draws lesser archons to defend them. When an enemy in the aura takes a hostile action against the okenevem, a cloud of minor archons swarms around it, causing it to take 2d6 persistent slashing damage and 2d6 persistent spirit damage. This persistent damage ends automatically if the enemy spends a round without taking a hostile action against the okenevem."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]]) 60 feet. Okenevem hold an exalted place among archons for their holy station. This draws lesser archons to defend them. When an enemy in the aura takes a hostile action against the okenevem, a cloud of minor archons swarms around it, causing it to take 2d6 persistent slashing damage and 2d6 persistent spirit damage. This persistent damage ends automatically if the enemy spends a round without taking a hostile action against the okenevem."
   - name: "Archon's Protection"
     desc: "⬲"
   - name: "Trigger"
@@ -56,20 +56,20 @@ abilities_mid:
 speed: "25 feet, fly 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ humbling touch +29 (Divine, Finesse, Holy, Mental, Nonlethal, Spirit) __Damage__ 4d8 mental plus 4d6 spirit and humble bow"
+    desc: "⬻ humbling touch +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]]) __Damage__ 4d8 mental plus 4d6 spirit and humble bow"
   - name: "Ranged"
-    desc: "⬻ humbling word +27 (Auditory, Divine, Holy, Mental, Nonlethal, range increment 60 feet, Spirit) __Damage__ 4d8 mental plus 4d6 spirit and humble bow"
+    desc: "⬻ humbling word +27 ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|Auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], range increment 60 feet, [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]]) __Damage__ 4d8 mental plus 4d6 spirit and humble bow"
 abilities_bot:
   - name: "Spells"
-    desc: "DC 36, attack +28 - __Cantrips (8th)__ Divine Lance, Light, Message - __4th__ Translocate (at will) - __7th__ Spiritual Guardian (×3) - __8th__ Calm - __Constant (5th)__ Truespeech"
+    desc: "DC 36, attack +28 - __Cantrips (8th)__ [[srd/pf2e/compendium/spells/cantrips/divine-lance|Divine Lance]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/message|Message]] - __4th__ [[srd/pf2e/compendium/spells/rank-4/translocate|Translocate]] (at will) - __7th__ [[srd/pf2e/compendium/spells/rank-5/spiritual-guardian|Spiritual Guardian]] (×3) - __8th__ [[srd/pf2e/compendium/spells/rank-2/calm|Calm]] - __Constant (5th)__ [[srd/pf2e/compendium/spells/rank-5/truespeech|Truespeech]]"
   - name: "Humble Bow"
-    desc: "(Divine, Holy, Mental) A creature hit by one of the okenevem's Strikes is compelled to bow down in reverence. It must succeed at a DC 36 Will save or fall prone. If the creature Stands before the end of its next turn, it takes 3d8 mental damage. If the creature succeeds, it's temporarily immune for 1 minute."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|Mental]]) A creature hit by one of the okenevem's Strikes is compelled to bow down in reverence. It must succeed at a DC 36 Will save or fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. If the creature Stands before the end of its next turn, it takes 3d8 mental damage. If the creature succeeds, it's temporarily immune for 1 minute."
   - name: "Sublime Vision"
-    desc: "⬺ (Divine)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]])"
   - name: "Frequency"
     desc: "once per day"
   - name: "Effect"
-    desc: "The okenevem casts the _overwhelming presence_ spell, except instead of aggrandizing themself, the okenevem summons a vision of Heaven within 100 feet, and the target must humble themself in self-reflection rather than pay tribute."
+    desc: "The okenevem casts the [[srd/pf2e/compendium/spells/rank-9/overwhelming-presence|_overwhelming presence_]] spell, except instead of aggrandizing themself, the okenevem summons a vision of Heaven within 100 feet, and the target must humble themself in self-reflection rather than pay tribute."
 sourcebook: "_Monster Core 2_, page 38."
 ```
 

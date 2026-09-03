@@ -37,7 +37,7 @@ perception:
     desc: "Perception +12; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Stealth +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13"
 abilityMods: [2, 6, 0, -5, 5, -5]
 ac: 21
 armorclass:
@@ -46,26 +46,26 @@ armorclass:
 hp: 75
 health:
   - name: "HP"
-    desc: "75 (4 segments); __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, unconscious, vitality, void; __Weaknesses__ area damage 5, electricity 5, splash damage 5, orichalcum 5"
+    desc: "75 (4 segments); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death effects]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], nonlethal attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]] 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5, [[srd/pf2e/compendium/equipment/materials/orichalcum-object-high-grade|orichalcum]] 5"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""
 speed: "30 feet, climb 20 feet; troop movement"
 abilities_bot:
   - name: "Fire Crossbows"
-    desc: "⬺ The clockwork runners reload the crossbows built onto their backs, then launch a ranged attack in the form of a volley. This volley is a 10-foot burst within 120 feet that deals 2d8 piercing damage (DC 19 basic Reflex save). When the clockwork runners are reduced to 2 segments, this area decreases to a 5-foot burst."
+    desc: "⬺ The clockwork runners reload the crossbows built onto their backs, then launch a ranged attack in the form of a volley. This volley is a 10-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Burst|burst]] within 120 feet that deals 2d8 piercing damage (DC 19 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save). When the clockwork runners are reduced to 2 segments, this area decreases to a 5-foot burst."
   - name: "Scratch and Bite"
     desc: ""
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The clockwork runners engage in a pack attack against each enemy in a 5-foot emanation, with a DC 19 basic Reflex save. The damage depends on the number of actions. ⬻ 1d8 piercing or slashing damage ⬺ 2d8+3 piercing or slashing damage ⬽ 2d8+7 piercing or slashing damage"
+    desc: "The clockwork runners engage in a pack attack against each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]], with a DC 19 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save. The damage depends on the number of actions. ⬻ 1d8 piercing or slashing damage ⬺ 2d8+3 piercing or slashing damage ⬽ 2d8+7 piercing or slashing damage"
   - name: "War Pounce"
     desc: "⬻"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The clockwork runner pack Strides, ignoring difficult terrain (but not greater difficult terrain). At the end of this movement, each enemy in a 5-foot emanation takes 1d8 piercing or slashing damage (DC 19 basic Reflex save)."
+    desc: "The clockwork runner pack Strides, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Ignore Difficult Terrain|ignoring difficult terrain]] (but not [[srd/pf2e/books/gm-core/chapter-1-running-the-game/running-exploration#Difficult Terrain|greater difficult terrain]]). At the end of this movement, each enemy in a 5-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] takes 1d8 piercing or slashing damage (DC 19 [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save)."
 sourcebook: "_Battlecry!_, page 176."
 ```
 

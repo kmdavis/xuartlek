@@ -1,0 +1,27 @@
+---
+obsidianUIMode: preview
+cssclasses: pf2e,pf2e-feat
+tags:
+- compendium/src/pf2e/war-of-immortals
+- trait/mythic
+- feat/level/18
+aliases: ["Fated Duel"]
+aon_id: "feat-7414"
+source: "War of Immortals"
+---
+
+# Fated Duel  *Feat 18*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
+
+`Mythic`
+
+- **Archetype**: [[srd/pf2e/compendium/character/archetypes/prophesied-monarch|Prophesied Monarch]]
+- **Frequency**: once per week
+- **Prerequisites**: [[srd/pf2e/compendium/feats/war-of-immortals/archetype/prophesied-monarch-dedication|Prophesied Monarch Dedication]]
+
+You and your knights are an unbeatable force together, but sometimes it’s a monarch’s duty to resolve the fate of their kingdom with nothing more than their own trusted weapon. Spend a [[srd/pf2e/books/war-of-immortals/mythic-rules/index|Mythic Point]], and choose one opponent within 30 feet; you declare a Fated Duel against that opponent. 
+
+If the opponent accepts your challenge, you’re locked in mystical combat together. Neither you nor your opponent can move more than 30 feet from each other; you both can’t be harmed by any creature other than each other; and you both can’t harm any creature other than each other. This mystical bond is incredibly draining on both parties, pulling at their life and spirit; if neither you nor your opponent has defeated the other by the time 1 minute has passed, you both become [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]] 1. Your doomed conditions increase by 1 for each additional minute that passes until one or both of you die.
+
+If your opponent refuses your challenge, you regain a Mythic Point and can immediately attempt an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check at mythic proficiency to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] them.
+
+*Source: War of Immortals p. 137*

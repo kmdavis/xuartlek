@@ -31,7 +31,7 @@ You create a powerful blast of air and a loud peal of thunder, dealing 2d6 bludg
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is deafened for 1 minute.
+**Failure** The creature takes full damage and is [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 minute.
 
 **Critical Failure** The creature takes double damage and is deafened for 1 hour.
 

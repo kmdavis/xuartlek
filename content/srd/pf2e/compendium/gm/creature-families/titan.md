@@ -14,7 +14,7 @@ Created by ancient deities long before the rise of mortal ancestries, titans uni
 
 ### Members
 
-Danava Titan (Creature 23), Elysian Titan (Creature 21), Hekatonkheires Titan (Creature 24), Thanatotic Titan (Creature 22)
+[[srd/pf2e/bestiary/monster-core-2/humanoid/danava-titan|Danava Titan]] (Creature 23), [[srd/pf2e/bestiary/monster-core-2/humanoid/elysian-titan|Elysian Titan]] (Creature 21), [[srd/pf2e/bestiary/monster-core-2/aberration/hekatonkheires-titan|Hekatonkheires Titan]] (Creature 24), [[srd/pf2e/bestiary/monster-core-2/humanoid/thanatotic-titan|Thanatotic Titan]] (Creature 22)
 
 ### Other Titans
 
@@ -22,6 +22,6 @@ Titans vary widely, depending on what function the deities intended them to serv
 
 ### Titan Weapons
 
-Some titans carry a fabled _sky hammer_. Some might use it to build, though others use it to destroy. Similar weapons include the felling axe of the titans, a greataxe that can be whirled to create a punishing winds effect.
+Some titans carry a fabled [[srd/pf2e/compendium/equipment/weapons/sky-hammer|_sky hammer_]]. Some might use it to build, though others use it to destroy. Similar weapons include the felling axe of the titans, a greataxe that can be whirled to create a punishing winds effect.
 
 *Source: Monster Core 2 p. 320*

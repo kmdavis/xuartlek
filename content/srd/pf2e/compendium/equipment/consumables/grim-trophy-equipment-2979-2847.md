@@ -17,9 +17,9 @@ source: "GM Core"
 `Consumable`  `Magical`  `Talisman`
 
 - **Usage**: affixed to armor
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 
-This talisman comes in many forms, most often a severed piece of a humanoid creature displayed in some gruesome manner. When you activate the trophy, make an Intimidation check to Demoralize up to two targets, comparing your Intimidation check result to both of their DCs
+This talisman comes in many forms, most often a severed piece of a humanoid creature displayed in some gruesome manner. When you activate the trophy, make an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] up to two targets, comparing your Intimidation check result to both of their DCs
 
 ### Grim Trophy
 

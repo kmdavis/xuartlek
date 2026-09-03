@@ -18,7 +18,7 @@ source: "Dark Archives (Remastered)"
 - **Traditions**: Arcane, Divine, Occult
 - **Range**: 120 feet
 - **Area**: 10-foot burst
-- **Defense**: basic Fortitude
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
 - **Duration**: sustained up to 1 minute
 
 All things age, all things die, and at the end of days, even the universe will grow quiet and still. You awaken the cosmic principle of entropy, accelerating time in an area—flesh falters, plants shrivel, and even stone begins to crumble. Any creature that enters or begins its turn in the area takes 8d6 void damage with a basic Fortitude save, or 8d6 force damage if the creature normally doesn't take void damage, such as if the creature is a construct or undead. Even beings such as fiends with unlimited lifespans can be worn away by entropy.

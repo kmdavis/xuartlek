@@ -21,6 +21,6 @@ source: "Player Core"
 - **Area**: 15-foot emanation
 - **Duration**: 1 minute
 
-Blessings from beyond help your companions strike true. You and your allies gain a +1 status bonus to attack rolls while within the emanation. Once per round on subsequent turns, you can Sustain the spell to increase the emanation's radius by 10 feet. _Bless_ can counteract _bane_.
+Blessings from beyond help your companions strike true. You and your allies gain a +1 status bonus to attack rolls while within the emanation. Once per round on subsequent turns, you can Sustain the spell to increase the emanation's radius by 10 feet. _Bless_ can counteract [[srd/pf2e/compendium/spells/rank-1/bane|_bane_]].
 
 *Source: Player Core p. 318*

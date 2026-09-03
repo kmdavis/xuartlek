@@ -18,7 +18,7 @@ source: "Guns & Gears (Remastered)"
 `Consumable`  `Fortune`  `Magical`  `Talisman`
 
 - **Usage**: affixed to armor
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") concentrate
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]
 - **Trigger**: You're critically hit by a firearm attack.
 
 This talisman usually takes the form of a small sentimental object carried in a pocket or attached to the inside of a piece of armor. When you activate it, it slows the attack, and you reduce the damage from the triggering critical hit by 10, as the attack destroys the talisman. This effect only reduces the additional damage from a critical hit; it can't reduce the damage below the amount it would deal on a normal hit.

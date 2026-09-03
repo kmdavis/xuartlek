@@ -17,7 +17,7 @@ source: "Impossible Magic"
 `Concentrate`  `Manipulate`  `Teleportation`
 
 - **Traditions**: Arcane, Occult, Primal
-- **Requirements**: You haven’t Commanded your companion this turn.
+- **Requirements**: You haven’t [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Commanded]] your companion this turn.
 - **Range**: 30 feet
 - **Target**: your companion
 

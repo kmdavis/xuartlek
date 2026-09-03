@@ -31,7 +31,7 @@ perception:
     desc: "Perception +9; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +5, Deception +8, Stealth +8, Survival +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +8, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
 abilityMods: [1, 3, 1, -4, 2, 3]
 ac: 16
 armorclass:
@@ -44,12 +44,12 @@ health:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +8 (Finesse) __Damage__ 1d8+1 piercing"
+    desc: "⬻ jaws +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d8+1 piercing"
   - name: "Melee"
-    desc: "⬻ claw +8 (Agile, Finesse) __Damage__ 1d6+1 slashing"
+    desc: "⬻ claw +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d6+1 slashing"
 abilities_bot:
   - name: "Mimicry"
-    desc: "⬻ The troodon repeats up to twelve words it heard in the last week. If it succeeds at a Deception check against the listeners' Perception DC, the sound is indistinguishable from the original. The troodon can't duplicate voice-based abilities or spells, although it can mimic the verbal sounds of spellcasting."
+    desc: "⬻ The troodon repeats up to twelve words it heard in the last week. If it succeeds at a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check against the listeners' Perception DC, the sound is indistinguishable from the original. The troodon can't duplicate voice-based abilities or spells, although it can mimic the verbal sounds of spellcasting."
   - name: "Running Attack"
     desc: "⬺ The troodon Strides and makes a claw Strike at any point during that movement."
 sourcebook: "_Howl of the Wild_, page 136."

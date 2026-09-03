@@ -20,7 +20,7 @@ source: "GM Core"
 
 Despite covering the entire face, this alabaster mask does not hinder vision or other senses. Wearing the mask grants a +1 item bonus to Performance checks while acting, orating, performing comedy, or singing. 
 
-**Activate—Assume Role** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Effect** You change the mask's appearance into an artistic rendition of a dramatic character of your choice.
+**Activate—Assume Role** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Effect** You change the mask's appearance into an artistic rendition of a dramatic character of your choice.
 
 ### Persona Mask
 
@@ -34,7 +34,7 @@ Despite covering the entire face, this alabaster mask does not hinder vision or 
 
 The mask grants a +2 bonus and gains another activation. 
 
-**Activate—Sacrifice Role** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") (concentrate, fortune)
+**Activate—Sacrifice Role** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]])
  **Frequency** once per day; **Trigger** You fail a Performance check that benefits from the mask's bonus; **Effect** You change the mask's character and reroll the Performance check, using the second result.
 
 *Source: GM Core p. 293*

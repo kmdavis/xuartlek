@@ -29,10 +29,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; darkvision"
-languages: "Common, Dwarven, Empyrean, Fey, Petran, Pyric"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], [[srd/pf2e/compendium/rules-elements/languages#Pyric|Pyric]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +12, Diplomacy +12, Dwarf Lore +10, Occultism +10, Religion +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +12, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +12, [[srd/pf2e/compendium/rules-elements/skills/lore|Dwarf Lore]] +10, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +10, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +14"
 abilityMods: [2, 0, 3, 0, 5, 2]
 abilities_top:
   - name: "Items"
@@ -48,17 +48,17 @@ health:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ clan dagger +11 (Agile, Parry, versatile B) __Damage__ 1d4+6 piercing"
+    desc: "⬻ clan dagger +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/parry|Parry]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile B]]) __Damage__ 1d4+6 piercing"
   - name: "Melee"
-    desc: "⬻ fist +11 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+6 bludgeoning"
+    desc: "⬻ fist +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+6 bludgeoning"
 abilities_bot:
   - name: "Spirit's Interference"
     desc: "⬺ The spirit priest calls out to a local spirit to assault the priest's enemies. The spirit unleashes a blast of rocks, attacks with a set of vines, or uses some other appropriate part of the environment to attack all creatures in a 10-foot burst within 30 feet of the priest. The attack deals 6d6 bludgeoning damage with a DC 18 basic Reflex save. The spirit priest can't use Spirit's Interference for 1d4 rounds. The GM might have this ability deal a different damage type based on the local spirits, such as fire damage when calling on a fire spirit."
   - name: "Spiritual Edge"
-    desc: "⬻ (Concentrate, Spellshape, Spirit) The spirit priest aligns their spirit with their magical effects, enhancing the power of their spells. If their next action is to Cast a Spell that deals damage and doesn't have a duration, the spell deals additional spirit damage equal to the spell's rank."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|Spellshape]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|Spirit]]) The spirit priest aligns their spirit with their magical effects, enhancing the power of their spells. If their next action is to Cast a Spell that deals damage and doesn't have a duration, the spell deals additional spirit damage equal to the spell's rank."
 spellcasting:
   - name: "Divine Spontaneous Spells"
-    desc: "DC 22, attack +14 - __Cantrips (2nd)__ Detect Magic, Divine Lance, Guidance, Shield, Stabilize - __1st__ Bless, Fear, Infuse Vitality, Spirit Link (4 slots) - __2nd__ Augury, Heal, Noise Blast, See the Unseen (4 slots) - __3rd__ Noise Blast, Safe Passage, Spiritual Armament (3 slots)"
+    desc: "DC 22, attack +14 - __Cantrips (2nd)__ [[srd/pf2e/compendium/spells/cantrips/detect-magic|Detect Magic]], [[srd/pf2e/compendium/spells/cantrips/divine-lance|Divine Lance]], [[srd/pf2e/compendium/spells/cantrips/guidance|Guidance]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/stabilize|Stabilize]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/bless|Bless]], [[srd/pf2e/compendium/spells/rank-1/fear|Fear]], [[srd/pf2e/compendium/spells/rank-1/infuse-vitality|Infuse Vitality]], [[srd/pf2e/compendium/spells/rank-1/spirit-link|Spirit Link]] (4 slots) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/augury|Augury]], [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-2/noise-blast|Noise Blast]], [[srd/pf2e/compendium/spells/rank-2/see-the-unseen|See the Unseen]] (4 slots) - __3rd__ [[srd/pf2e/compendium/spells/rank-2/noise-blast|Noise Blast]], [[srd/pf2e/compendium/spells/rank-3/safe-passage|Safe Passage]], [[srd/pf2e/compendium/spells/rank-2/spiritual-armament|Spiritual Armament]] (3 slots)"
 sourcebook: "_NPC Core_, page 174."
 ```
 

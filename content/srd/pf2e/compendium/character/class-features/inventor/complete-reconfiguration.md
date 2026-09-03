@@ -13,6 +13,6 @@ source: "Guns & Gears (Remastered)"
 
 - **Class**: Inventor
 
-When it comes to crafting and tinkering, you've become incredibly adept at changing your modifications to adjust your innovation's functionality. When you spend downtime to reconfigure your innovation and succeed at your Crafting check, you can swap any number of modifications, swap your offensive boost, or retrain any number of modification feats, rather than one. You still must swap a modification only with one of the same type (initial, breakthrough, or revolutionary).
+When it comes to crafting and tinkering, you've become incredibly adept at changing your modifications to adjust your innovation's functionality. When you spend downtime to reconfigure your innovation and succeed at your [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check, you can swap any number of modifications, swap your offensive boost, or retrain any number of [[srd/pf2e/compendium/rules-elements/traits/guns-gears-remastered/modification|modification]] feats, rather than one. You still must swap a modification only with one of the same type (initial, breakthrough, or revolutionary).
 
 *Source: Guns & Gears (Remastered) p. 15*

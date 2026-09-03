@@ -19,8 +19,8 @@ source: "Treasure Vault (Remastered)"
 - **Usage**: worn
 - **Bulk**: L
 
-This prosthetic eye resembles that of a bird of prey. Along with the abilities of the _magical prosthetic eye_, it allows you to strike foes at greater range and with impressive accuracy.
+This prosthetic eye resembles that of a bird of prey. Along with the abilities of the [[srd/pf2e/compendium/equipment/assistive-items/magical-prosthetic-eye|_magical prosthetic eye_]], it allows you to strike foes at greater range and with impressive accuracy.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate) **Frequency** once per hour; **Effect** You become keenly aware of your foes, even those seemingly out of reach. For 1 minute, you can close your eyes as a free action to see through a ranged weapon you're wielding, which reduces the penalty for firing into your weapon's second range increment from –2 to 0. This effect doesn't negate the blinded condition.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]) **Frequency** once per hour; **Effect** You become keenly aware of your foes, even those seemingly out of reach. For 1 minute, you can close your eyes as a free action to see through a ranged weapon you're wielding, which reduces the penalty for firing into your weapon's second range increment from –2 to 0. This effect doesn't negate the [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] condition.
 
 *Source: Treasure Vault (Remastered) p. 108*

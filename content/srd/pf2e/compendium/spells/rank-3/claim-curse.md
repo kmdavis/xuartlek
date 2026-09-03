@@ -20,6 +20,6 @@ source: "Impossible Magic"
 - **Target**: 1 creature affected by a curse
 - **Duration**: 5 minutes
 
-By burning threads of fate around a target and then retying them to yourself instead, you temporarily draw their curse to you, offering them brief succor from the worst of its effects. Choose a curse affecting the target that you don't already have. For 5 minutes, you're affected by the curse (at the same stage as the target, and it can't be changed, if applicable), and the target isn't. If the curse's duration ends before claim curse would, it ends as normal; otherwise, when the spell's duration ends the curse's effects return to the target as normal.
+By burning threads of fate around a target and then retying them to yourself instead, you temporarily draw their [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]] to you, offering them brief succor from the worst of its effects. Choose a curse affecting the target that you don't already have. For 5 minutes, you're affected by the curse (at the same stage as the target, and it can't be changed, if applicable), and the target isn't. If the curse's duration ends before claim curse would, it ends as normal; otherwise, when the spell's duration ends the curse's effects return to the target as normal.
 
 *Source: Impossible Magic p. 128*

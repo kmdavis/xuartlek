@@ -22,7 +22,7 @@ source: "GM Core"
 
 **Passengers** 5
 
-**Piloting Check** Piloting Lore (DC 16) or Nature (DC 18)
+**Piloting Check** Piloting [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] (DC 16) or [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 18)
 
 ---
 

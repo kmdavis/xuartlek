@@ -26,7 +26,7 @@ This clockwork cycle provides most of its mobility via cogs and gears, which all
 
 **Passengers** 2
 
-**Piloting Check** Driving Lore (DC 15) or Crafting (DC 17)
+**Piloting Check** Driving Lore (DC 15) or [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 17)
 
 ---
 

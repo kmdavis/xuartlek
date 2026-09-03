@@ -23,7 +23,7 @@ This sleek vessel generally appears as a fast-moving catamaran. Using a pair of 
 
 **Passengers** 2
 
-**Piloting Check** Nature (DC 30) or Sailing Lore (DC 28)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (DC 30) or [[srd/pf2e/compendium/rules-elements/skills/lore|Sailing Lore]] (DC 28)
 
 ---
 
@@ -35,9 +35,9 @@ This sleek vessel generally appears as a fast-moving catamaran. Using a pair of 
 
 **HP** 150 (BT 75)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
-**Weaknesses** fire 5 until broken
+**Weaknesses** fire 5 until [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]
 
 ---
 
@@ -45,6 +45,6 @@ This sleek vessel generally appears as a fast-moving catamaran. Using a pair of 
 
 **Collision** 7d10 (DC 28)
 
-**Deploy Hydrofoil** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate) The skimmer’s hydrofoils are deployed by pulling a lever, doubling the vehicle’s normal Speed. However, this makes the vehicle less maneuverable, and it must move twice its length for each 90-degree turn it makes while the hydrofoils are deployed. The pilot can take this action again to retract the hydrofoils and return the skimmer to its normal Speed and maneuverability.
+**Deploy Hydrofoil** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) The skimmer’s hydrofoils are deployed by pulling a lever, doubling the vehicle’s normal Speed. However, this makes the vehicle less maneuverable, and it must move twice its length for each 90-degree turn it makes while the hydrofoils are deployed. The pilot can take this action again to retract the hydrofoils and return the skimmer to its normal Speed and maneuverability.
 
 *Source: Battlecry! p. 115*

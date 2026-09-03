@@ -33,10 +33,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16"
-languages: "Common, Diabolic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +13, Athletics +18, Hell Lore +12, Intimidation +17, Religion +12, Society +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/lore|Hell Lore]] +12, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +17, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +12"
 abilityMods: [7, 1, 4, 2, 2, 3]
 ac: 27
 armorclass:
@@ -45,10 +45,10 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135 (4 segments); __Resistances__ mental 5, slashing 5; __Weaknesses__ area damage 8, splash damage 8"
+    desc: "135 (4 segments); __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] 5, slashing 5; __Weaknesses__ area damage 8, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 8"
 abilities_mid:
   - name: "Mounted Troop"
-    desc: "Effects that target only animals or only humanoids might not work on the Hellknight cavalry brigade, subject to the GM's discretion."
+    desc: "Effects that target only [[srd/pf2e/compendium/rules-elements/traits/player-core/animal|animals]] or only [[srd/pf2e/compendium/rules-elements/traits/player-core/humanoid|humanoids]] might not work on the Hellknight cavalry brigade, subject to the GM's discretion."
   - name: "Troop Defenses"
     desc: ""
 speed: "40 feet; trailblazing stride, troop movement"

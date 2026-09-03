@@ -35,14 +35,14 @@ modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; darkvision"
-languages: "Common, Draconic, Empyrean; telepathy 100 feet"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]]; telepathy 100 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +15, Arcana +18, Athletics +18, Diplomacy +20, Nature +21, Occultism +18, Society +16, Stealth +17, Survival +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +18, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +20, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +21, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +18, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +15"
 abilityMods: [6, 3, 4, 4, 5, 4]
 abilities_top:
   - name: "Star Child"
-    desc: "The mix coatl is difficult to discern against starry skies. They can Hide in the air at night without cover or concealment."
+    desc: "The mix coatl is difficult to discern against starry skies. They can [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]] in the air at night without [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|cover]] or concealment."
 ac: 27
 armorclass:
   - name: "AC"
@@ -54,33 +54,33 @@ health:
 speed: "15 feet, fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +20 (Magical) __Damage__ 2d10+9 piercing plus mix coatl venom and Grab"
+    desc: "⬻ jaws +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 2d10+9 piercing plus mix coatl venom and Grab"
 abilities_bot:
   - name: "Constrict"
     desc: "⬻ 2d10+4 bludgeoning, DC 26"
   - name: "Gift of Knowledge"
-    desc: "When a mix coatl casts _rewrite memory_ on a willing creature, the mix coatl can Sustain the spell to rewrite these memories for up to 60 continuous minutes. A mix coatl can grant knowledge of a particular skill to the target as part of the spell. The mix coatl chooses Engineering Lore, Farming Lore, Fishing Lore, Hunting Lore, or Mercantile Lore. The target becomes permanently trained in the chosen skill. A creature can benefit from Gift of Knowledge only once."
+    desc: "When a mix coatl casts [[srd/pf2e/compendium/spells/rank-4/rewrite-memory|_rewrite memory_]] on a willing creature, the mix coatl can [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] the spell to rewrite these memories for up to 60 continuous minutes. A mix coatl can grant knowledge of a particular skill to the target as part of the spell. The mix coatl chooses Engineering [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]], Farming Lore, Fishing Lore, Hunting Lore, or Mercantile Lore. The target becomes permanently trained in the chosen skill. A creature can benefit from Gift of Knowledge only once."
   - name: "Mix Coatl Venom"
-    desc: "(Holy, poison) To unholy creatures, this is a curse instead of a poison and deals spirit damage instead of poison damage"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/holy|Holy]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]) To [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] creatures, this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]] instead of a [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]] and deals [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]] damage instead of poison damage"
   - name: "Saving Throw"
     desc: "DC 26 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison damage and stupefied 1 (1 round)"
+    desc: "1d6 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 1 (1 round)"
   - name: "Stage 2"
-    desc: "2d6 poison damage, stunned 1, and stupefied 1 (1 round)"
+    desc: "2d6 poison damage, [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1, and stupefied 1 (1 round)"
   - name: "Stage 3"
     desc: "2d8 poison damage, stunned 1, and stupefied 2 (1 round)"
   - name: "Wrap in Coils"
     desc: "⬻"
   - name: "Requirements"
-    desc: "The mix coatl has a Medium or smaller creature grabbed or restrained in their jaws"
+    desc: "The mix coatl has a Medium or smaller creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] in their jaws"
   - name: "Effect"
     desc: "The mix coatl moves the creature into their coils, freeing their jaws to make attacks, and then uses Constrict against the creature. The mix coatl can hold as many creatures in their coils as will fit in their space."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 26, attack +18 - __Cantrips (4th)__ Guidance, Light, Ignition, Stabilize - __1st__ Create Water, Mending - __2nd__ Invisibility (self only), Speak with Animals - __3rd__ Heal, Mind Reading (at will) - __4th__ Fireball, Speak with Plants - __6th__ Rewrite Memory (at will) - __7th__ Interplanar Teleport (self only)"
+    desc: "DC 26, attack +18 - __Cantrips (4th)__ [[srd/pf2e/compendium/spells/cantrips/guidance|Guidance]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/ignition|Ignition]], [[srd/pf2e/compendium/spells/cantrips/stabilize|Stabilize]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/create-water|Create Water]], [[srd/pf2e/compendium/spells/rank-1/mending|Mending]] - __2nd__ [[srd/pf2e/compendium/spells/rank-2/invisibility|Invisibility]] (self only), [[srd/pf2e/compendium/spells/rank-2/speak-with-animals|Speak with Animals]] - __3rd__ [[srd/pf2e/compendium/spells/rank-1/heal|Heal]], [[srd/pf2e/compendium/spells/rank-3/mind-reading|Mind Reading]] (at will) - __4th__ [[srd/pf2e/compendium/spells/rank-3/fireball|Fireball]], [[srd/pf2e/compendium/spells/rank-3/speak-with-plants|Speak with Plants]] - __6th__ [[srd/pf2e/compendium/spells/rank-4/rewrite-memory|Rewrite Memory]] (at will) - __7th__ [[srd/pf2e/compendium/spells/rank-7/interplanar-teleport|Interplanar Teleport]] (self only)"
 sourcebook: "_Monster Core 2_, page 74."
 ```
 

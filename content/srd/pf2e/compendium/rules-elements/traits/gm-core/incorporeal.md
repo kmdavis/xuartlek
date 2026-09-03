@@ -13,7 +13,7 @@ source: "GM Core"
 
 `Incorporeal`
 
-An incorporeal creature or object has no physical form. It can pass through solid objects, including walls. When inside an object, an incorporeal creature can’t perceive, attack, or interact with anything outside the object, and if it starts its turn in an object, it’s slowed 1 until the end of its turn. A corporeal and an incorporeal creature can pass through one another, but they can’t end their movement in each other’s space.
+An incorporeal creature or object has no physical form. It can pass through solid objects, including walls. When inside an object, an incorporeal creature can’t perceive, attack, or interact with anything outside the object, and if it starts its turn in an object, it’s [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 until the end of its turn. A corporeal and an incorporeal creature can pass through one another, but they can’t end their movement in each other’s space.
 
 An incorporeal creature can’t attempt Strength-based checks against physical creatures or objects—only against incorporeal ones—unless those objects have the ghost touch property rune. Likewise, a corporeal creature can’t attempt Strength-based checks against incorporeal creatures or objects.
 

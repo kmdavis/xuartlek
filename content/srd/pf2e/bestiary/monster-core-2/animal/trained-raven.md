@@ -29,11 +29,11 @@ perception:
     desc: "Perception +5; low-light vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +5, Deception +5, Thievery +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +5, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +5"
 abilityMods: [-3, 3, 0, -4, 3, 0]
 abilities_top:
   - name: "Cunning"
-    desc: "A raven can use simple items as tools, such as poking a stick at an opening to tease out a piece of food. They're also quite adept at stealing objects. A raven can't use Thievery to Palm an Object, Disable a Device, or Pick a Lock, but it can use Thievery to Steal light objects that it can carry in its beak or talons or to accomplish other relatively simple tasks."
+    desc: "A raven can use simple items as tools, such as poking a stick at an opening to tease out a piece of food. They're also quite adept at stealing objects. A raven can't use [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Palm an Object|Palm an Object]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Disable a Device|Disable a Device]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Pick a Lock|Pick a Lock]], but it can use [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] to [[srd/pf2e/compendium/rules-elements/actions/player-core#Steal|Steal]] light objects that it can carry in its beak or talons or to accomplish other relatively simple tasks."
 ac: 15
 armorclass:
   - name: "AC"
@@ -45,10 +45,10 @@ health:
 speed: "10 feet, fly 40 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ beak +7 (Finesse) __Damage__ 1d4—1 piercing"
+    desc: "⬻ beak +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4—1 piercing"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "A raven's melee Strikes deal an additional 1d4 precision damage to off-guard creatures. Raven Traders Given enough time to develop the relationship and establish what you want, it's possible to engage a raven in a sort of trade. Placing a small, shiny object where the raven can take it might entice it to grab the prize and fly off, returning 3d6 minutes later with something from its own stash. Convincing a raven to trade requires a successful DC 20 Nature check to Command an Animal and, of course, a raven who has the inclination to trade with you in the first place."
+    desc: "A raven's melee Strikes deal an additional 1d4 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures. Raven Traders Given enough time to develop the relationship and establish what you want, it's possible to engage a raven in a sort of trade. Placing a small, shiny object where the raven can take it might entice it to grab the prize and fly off, returning 3d6 minutes later with something from its own stash. Convincing a raven to trade requires a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Command an Animal|Command an Animal]] and, of course, a raven who has the inclination to trade with you in the first place."
 sourcebook: "_Monster Core 2_, page 267."
 ```
 

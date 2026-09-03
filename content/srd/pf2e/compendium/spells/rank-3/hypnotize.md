@@ -24,7 +24,7 @@ source: "Player Core"
 - **Defense**: Will
 - **Duration**: sustained up to 1 minute
 
-You create a cloud of mesmerizing patterns and colors that hovers in the air. Creatures are dazzled while inside the cloud. In addition, a creature must attempt a Will saving throw if it is inside the cloud when you cast it, when it enters the cloud, when it ends its turn within the cloud, or if it uses a Seek or Interact action on the cloud. A creature currently fascinated by _hypnotize_ doesn't attempt new saves.
+You create a cloud of mesmerizing patterns and colors that hovers in the air. Creatures are [[srd/pf2e/compendium/rules-elements/conditions#Dazzled|dazzled]] while inside the cloud. In addition, a creature must attempt a Will saving throw if it is inside the cloud when you cast it, when it enters the cloud, when it ends its turn within the cloud, or if it uses a Seek or Interact action on the cloud. A creature currently [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] by _hypnotize_ doesn't attempt new saves.
 
 **Success** The target is unaffected.
 

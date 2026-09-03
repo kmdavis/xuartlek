@@ -29,7 +29,7 @@ perception:
     desc: "Perception +6; darkvision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +2, Stealth +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +2, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
 abilityMods: [-1, 3, 1, -5, 1, -4]
 ac: 15
 armorclass:
@@ -42,10 +42,10 @@ health:
 speed: "30 feet, climb 30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ mandibles +6 (Finesse) __Damage__ 1d4–1 piercing plus giant centipede venom"
+    desc: "⬻ mandibles +6 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 1d4–1 piercing plus giant centipede venom"
 abilities_bot:
   - name: "Giant Centipede Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 14 Fortitude"
   - name: "Maximum Duration"
@@ -53,9 +53,9 @@ abilities_bot:
   - name: "Stage 1"
     desc: "1d4 poison damage (1 round)"
   - name: "Stage 2"
-    desc: "1d4 poison damage and off-guard (1 round)"
+    desc: "1d4 poison damage and [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] (1 round)"
   - name: "Stage 3"
-    desc: "1d4 poison damage, clumsy 1, and fatigued (1 round)"
+    desc: "1d4 poison damage, [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]], and [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] (1 round)"
 sourcebook: "_Monster Core_, page 59."
 ```
 

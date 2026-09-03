@@ -14,7 +14,7 @@ Though valued by apothecaries and field medics as methods to reduce swelling or 
 
 ### Members
 
-Brood Leech Swarm (Creature 4), Giant Leech (Creature 2)
+[[srd/pf2e/bestiary/monster-core-2/animal/brood-leech-swarm|Brood Leech Swarm]] (Creature 4), [[srd/pf2e/bestiary/monster-core-2/animal/giant-leech|Giant Leech]] (Creature 2)
 
 ### Leech Species
 

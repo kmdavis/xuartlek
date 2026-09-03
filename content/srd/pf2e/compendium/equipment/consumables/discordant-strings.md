@@ -20,6 +20,6 @@ source: "Impossible Magic"
 - **Usage**: held in 1 hand
 - **Activate**: Cast a Spell
 
-Strings used during a mediocre performance are bound together with silver thread and kept in a sealed container. When used as a catalyst to cast a __concordant choir__ spell, a creature that fails its saving throw is also deafened for 1 round.
+Strings used during a mediocre performance are bound together with silver thread and kept in a sealed container. When used as a catalyst to cast a _[[srd/pf2e/compendium/spells/rank-1/concordant-choir|_concordant choir_]]_ spell, a creature that fails its saving throw is also [[srd/pf2e/compendium/rules-elements/conditions#Deafened|deafened]] for 1 round.
 
 *Source: Impossible Magic p. 214*

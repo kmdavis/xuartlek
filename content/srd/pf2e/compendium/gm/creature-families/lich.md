@@ -14,7 +14,7 @@ To gain more time to complete their goals, some desperate spellcasters pursue im
 
 ### Members
 
-Lich (Creature 12), Lich Legion (Creature 18)
+[[srd/pf2e/bestiary/monster-core/undead/lich|Lich]] (Creature 12), [[srd/pf2e/bestiary/battlecry/undead/lich-legion|Lich Legion]] (Creature 18)
 
 ### Lich Lairs
 
@@ -27,7 +27,7 @@ The exact ritual, ingredients for deadly concoctions, and magical conditions req
 ### Creating a Lich
 
 A lich can be any type of spellcaster as long as they have the ability to perform a ritual of undeath as the primary caster (which can usually be performed only by a spellcaster capable of casting 6th-rank spells). To create a lich, increase the spellcaster's level by 1 and change their statistics as follows. 
-It gains the undead trait and usually becomes unholy.It increases spell DCs and spell attack modifier by 2. 
+It gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] trait and usually becomes [[srd/pf2e/compendium/equipment/runes/unholy|unholy]].It increases spell DCs and spell attack modifier by 2. 
 
 ### Lich Abilities
 
@@ -36,23 +36,23 @@ It gains the undead trait and usually becomes unholy.It increases spell DCs and 
  A lich gains the following abilities.
 
  **Darkvision**
- **Saving Throws** +1 status bonus to all saves vs. vitality
+ **Saving Throws** +1 status bonus to all saves vs. [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]]
  **Void Healing**
- **Rejuvenation** (arcane) When a lich is destroyed, their soul immediately transfers to their _soul cage_. A lich can be permanently destroyed only if their _soul cage_ is found and destroyed.
- **Immunities** bleed, death effects, disease, paralyzed, poison, unconscious
- **Resistances** cold 10, physical 10 (except magical bludgeoning)
- **Frightful Presence** (aura, emotion, fear, mental) 60 feet, DC 30
- **Hand of the Lich** All liches have a hand unarmed attack that deals 1d8 void damage for every 3 levels the lich has. This attack has the finesse trait.
+ **Rejuvenation** ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]]) When a lich is destroyed, their soul immediately transfers to their _soul cage_. A lich can be permanently destroyed only if their _soul cage_ is found and destroyed.
+ **Immunities** bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]]effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]
+ **Resistances** cold 10, physical 10 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] bludgeoning)
+ **Frightful Presence** ([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 60 feet, DC 30
+ **Hand of the Lich** All liches have a hand [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack that deals 1d8 void damage for every 3 levels the lich has. This attack has the [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]] trait.
  **Drain Soul Cage** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") **Frequency** once per day; **Effect** The lich taps into their soul cage's power to cast any arcane spell up to the highest rank the lich can cast, even if the spell being cast is not one of the lich's prepared spells. The lich's soul cage doesn't need to be present for the lich to use this ability.
- **Siphon Life** A lich's form draws forth life from those who come into contact with it. When the lich damages a living creature with an unarmed attack, the lich gains 5 temporary Hit Points and the creature must succeed at a Fortitude save against the lich's spell DC – 2 or become drained 1. If the lich is grabbed or restrained at the start of its turn, each creature grabbing or restraining it must succeed at a Fortitude save or become drained 1. If the lich siphons a creature's life again, the drained value increase by 1, to a maximum of drained 4. 
+ **Siphon Life** A lich's form draws forth life from those who come into contact with it. When the lich damages a living creature with an unarmed attack, the lich gains 5 temporary Hit Points and the creature must succeed at a Fortitude save against the lich's spell DC – 2 or become [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained 1]]. If the lich is [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] at the start of its turn, each creature grabbing or restraining it must succeed at a Fortitude save or become drained 1. If the lich siphons a creature's life again, the drained value increase by 1, to a maximum of drained 4. 
 
 ### Alternate Lich Abilities
 
  You can create a more unusual lich by substituting any one of the following abilities for frightful presence, siphon life, or Drain Soul Cage.
 
-**Blasphemous Utterances** (arcane, aura, mental) 10 feet. The lich is accompanied by a constant echo of blasphemous murmurs and tainted whispers. A creature in the aura takes a –2 circumstance penalty to saves against mental effects and can't take actions that have the concentrate trait unless they succeed at a DC 10 flat check. On a failure, the action is disrupted.
- **Cold Beyond Cold** The lich's hand Strike deals cold damage instead of void and the target is slowed 2. A successful Fortitude save reduces this to slowed 1 (or negates it on a critical success).
+**Blasphemous Utterances** ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 10 feet. The lich is accompanied by a constant echo of blasphemous murmurs and tainted whispers. A creature in the aura takes a –2 circumstance penalty to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effects and can't take actions that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]]trait unless they succeed at a DC 10 flat check. On a failure, the action is disrupted.
+ **Cold Beyond Cold** The lich's hand Strike deals cold damage instead of void and the target is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 2]]. A successful Fortitude save reduces this to slowed 1 (or negates it on a critical success).
  **Dark Deliverance** The lich has resistance equal to their level to vitality. 
-**Void Shroud** (aura, death) 30 feet. The lich is surrounded by an aura of death, drawing forth souls to be consumed by the lich's constant hunger. Living creatures in the emanation take a –2 status penalty to saves against fear and death effects. In addition, any creature that starts its turn in the area gains the doomed 1 condition unless it succeeds at a Will save against the lich's spell DC – 4.
+**Void Shroud** ([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]]) 30 feet. The lich is surrounded by an aura of death, drawing forth souls to be consumed by the lich's constant hunger. Living creatures in the emanation take a –2 status penalty to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]]and [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]]effects. In addition, any creature that starts its turn in the area gains the [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed 1]] condition unless it succeeds at a Will save against the lich's spell DC – 4.
 
 *Source: Monster Core p. 218*

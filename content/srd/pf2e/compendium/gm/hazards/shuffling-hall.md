@@ -21,7 +21,7 @@ source: "Dark Archives (Remastered)"
 DC 15
 
 **Disable**
-DC 12 Thievery to deactivate one pressure plate
+DC 12 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] to deactivate one pressure plate
 
 **AC** 18, **Fort** +2, **Ref** +5
 
@@ -34,7 +34,7 @@ DC 12 Thievery to deactivate one pressure plate
 **Immunities**
 object immunities
 
-**Flip** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature steps on a pressure plate; **Effect** The floor and adjoining wall rotate up and over on a central axle, tipping the triggering creature into an adjacent featureless room and simultaneously replacing the pressure plate and wall with another set on the same axle. The triggering creature is pushed into an adjoining room, takes 1d8 bludgeoning damage, and lands prone. A creature who succeeds at a DC 19 Reflex save takes no damage and rolls out of the way of the trap, returning to the space they were in before stepping on the pressure plate.
+**Flip** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature steps on a pressure plate; **Effect** The floor and adjoining wall rotate up and over on a central axle, tipping the triggering creature into an adjacent featureless room and simultaneously replacing the pressure plate and wall with another set on the same axle. The triggering creature is pushed into an adjoining room, takes 1d8 bludgeoning damage, and lands [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. A creature who succeeds at a DC 19 Reflex save takes no damage and rolls out of the way of the trap, returning to the space they were in before stepping on the pressure plate.
 
 ---
 **Reset**

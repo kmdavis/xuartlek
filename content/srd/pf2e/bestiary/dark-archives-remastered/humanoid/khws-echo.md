@@ -31,10 +31,10 @@ modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30"
-languages: "Common, Tien"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Tien|Tien]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +28, Arcana +25, Athletics +25, Esoteric Lore +30, Nature +25, Occultism +25, Religion +25"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +28, [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] +25, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +25, [[srd/pf2e/compendium/rules-elements/skills/lore|Esoteric Lore]] +30, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +25, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +25, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +25"
 abilityMods: [4, 5, 4, 5, 5, 8]
 ac: 36
 armorclass:
@@ -46,18 +46,18 @@ health:
     desc: "280"
 abilities_mid:
   - name: "Destabilized Form"
-    desc: "When the Echo has fewer than 140 Hit Points, his form destabilizes, large chunks disintegrating from his face, limbs, and torso. White moths constantly stream from the missing spaces, creating a 10-foot emanation that deals 6d6 mental damage with a DC 34 basic Will save. As long as the aura persists, he can dissolve into moths and re-form at another location within 15 feet as a free action at the beginning of each of his turns; this has the occult and teleportation traits."
+    desc: "When the Echo has fewer than 140 Hit Points, his form destabilizes, large chunks disintegrating from his face, limbs, and torso. White moths constantly stream from the missing spaces, creating a 10-foot emanation that deals 6d6 mental damage with a DC 34 basic Will save. As long as the aura persists, he can dissolve into moths and re-form at another location within 15 feet as a free action at the beginning of each of his turns; this has the [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/teleportation|teleportation]] traits."
   - name: "Reactive Strike"
     desc: "⬲ The Echo has reach 15 for the purpose of determining when Reactive Strike triggers and when making Reactive Strikes."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ rope dart +29 (Disarm, finesse, magical, sweep, tethered, trip) __Damage__ 4d4+13 piercing plus 2d6 mental"
+    desc: "⬻ rope dart +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/tethered|tethered]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]]) __Damage__ 4d4+13 piercing plus 2d6 mental"
   - name: "Ranged"
-    desc: "⬻ rope dart +29 (Disarm, finesse, magical, sweep, tethered, thrown 80 feet, trip) __Damage__ 4d4+13 piercing plus 2d6 mental"
+    desc: "⬻ rope dart +29 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sweep|sweep]], [[srd/pf2e/compendium/rules-elements/traits/player-core-2/tethered|tethered]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 80 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]]) __Damage__ 4d4+13 piercing plus 2d6 mental"
 abilities_bot:
   - name: "Astral Spindle Implement"
-    desc: "The Echo carries a drop spindle that constantly spins red astral thread, which is both his thaumaturgic implement and weapon. If his rope dart is lost or broken, he can re-form it with an Interact action. If he critically succeeds at a rope dart Strike, overwhelming thoughts and figments flow down the thread into the target's mind. The target becomes confused for 1 round."
+    desc: "The Echo carries a drop spindle that constantly spins red astral thread, which is both his thaumaturgic implement and weapon. If his rope dart is lost or broken, he can re-form it with an Interact action. If he critically succeeds at a rope dart Strike, overwhelming thoughts and figments flow down the thread into the target's mind. The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round."
   - name: "Astral Thread Control"
     desc: "⬻"
   - name: "Frequency"
@@ -69,17 +69,17 @@ abilities_bot:
   - name: "Contingency Oathday-Nine-Rova"
     desc: "Frequency__ once per day__ ⭓"
   - name: "Trigger"
-    desc: "The Echo's turn begins and he's stunned, slowed, confused, controlled, immobilized, grabbed, paralyzed, restrained, or otherwise can't act"
+    desc: "The Echo's turn begins and he's [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]], slowed, [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]], [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]], or otherwise can't act"
   - name: "Effect"
     desc: "The Echo has set up numerous contingencies in the event he's compromised. Talismans on his body shatter, counteracting the triggering effect. The Echo can use this free action even if he can't act."
   - name: "Reconstitute from Thought"
-    desc: "⬻ (Healing)"
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/healing|Healing]])"
   - name: "Requirements"
     desc: "The Echo is standing on one of the eight large islands of the map, and the island hasn't darkened"
   - name: "Effect"
     desc: "The Echo throws his rope dart into the island and uses it to absorb mental essence from the mindscape, repairing himself. He regains 45 Hit Points and the island turns a desaturated gray for 1 day, preventing future absorption and disabling the call of the void hazard on that island (see text)."
   - name: "Spindle's Web"
-    desc: "⬺ The Echo's spindle revolves faster and faster until it's a blur, lashing red threads in every direction. The threads deal 7d6 slashing damage and 7d6 mental damage to all creatures in a 30-foot emanation, with a DC 34 basic Reflex save. If a creature fails its save, the threads awaken the mindscape anchor within it, affecting it differently based on which anchor that creature used to gain access to the center of the mindscape. (If there is a PC who didn't absorb a mindscape anchor, for instance because there are more than four PCs in the party, then use the anchor of the PC closest to them.) The Echo then can't use Spindle's Web for 1d4 rounds. Lantern The lantern outlines the creature with searing revealing light that deals 2d6 persistent fire damage.Mirror The mirror reflects the creature to another location, teleporting them to a clear space within 25 feet of their current location.Chalice The chalice drains life force, granting the Echo temporary HP equal to half the damage dealt.Tome The tome floods the creature's mind with information; the target is slowed 1 for 1 round."
+    desc: "⬺ The Echo's spindle revolves faster and faster until it's a blur, lashing red threads in every direction. The threads deal 7d6 slashing damage and 7d6 mental damage to all creatures in a 30-foot emanation, with a DC 34 basic Reflex save. If a creature fails its save, the threads awaken the mindscape anchor within it, affecting it differently based on which anchor that creature used to gain access to the center of the mindscape. (If there is a PC who didn't absorb a mindscape anchor, for instance because there are more than four PCs in the party, then use the anchor of the PC closest to them.) The Echo then can't use Spindle's Web for 1d4 rounds. Lantern The lantern outlines the creature with searing revealing light that deals 2d6 persistent fire damage.Mirror The mirror reflects the creature to another location, teleporting them to a clear space within 25 feet of their current location.Chalice The chalice drains life force, granting the Echo temporary HP equal to half the damage dealt.Tome The tome floods the creature's mind with information; the target is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 for 1 round."
 sourcebook: "_Dark Archives (Remastered)_, page 214."
 ```
 

@@ -33,7 +33,7 @@ perception:
     desc: "Perception +8; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +10, Stealth +11, Survival +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +8"
 abilityMods: [3, 2, 2, -4, 1, 0]
 ac: 19
 armorclass:
@@ -42,14 +42,14 @@ armorclass:
 hp: 45
 health:
   - name: "HP"
-    desc: "45; __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ fire 5"
+    desc: "45; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 5"
 speed: "15 feet, swim 50 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ jaws +11 __Damage__ 1d12+7 piercing plus Grab"
 abilities_bot:
   - name: "Deep Plunge"
-    desc: "⬻ The brine shark dives into the water, Swimming twice straight down. If it's grabbing or restraining a creature, it brings that creature along with it."
+    desc: "⬻ The brine shark dives into the water, [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swimming]] twice straight down. If it's [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbing]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restraining]] a creature, it brings that creature along with it."
 sourcebook: "_Monster Core_, page 148."
 ```
 

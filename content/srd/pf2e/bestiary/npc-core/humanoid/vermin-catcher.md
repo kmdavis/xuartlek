@@ -29,10 +29,10 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +9, Nature +6, Stealth +8, Survival +6, Vermin Lore +9"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +9, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +6, [[srd/pf2e/compendium/rules-elements/skills/lore|Vermin Lore]] +9"
 abilityMods: [3, 2, 4, 1, 0, -2]
 abilities_top:
   - name: "Items"
@@ -50,14 +50,14 @@ attacks:
   - name: "Melee"
     desc: "⬻ club +9 __Damage__ 1d6+5 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +9 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+5 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+5 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ club +8 (thrown 10 feet) __Damage__ 1d6+5 bludgeoning"
+    desc: "⬻ club +8 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d6+5 bludgeoning"
 abilities_bot:
   - name: "Giant Rat Trap"
     desc: "⬽ The vermin catcher places a rat trap in an adjacent space. Any Small or Medium creature that moves into the space with the trap triggers it and must attempt a DC 18 basic Reflex save. On a failure, the creature takes 1d4 persistent bleed damage (2d4 on a critical failure) and is immobilized and off-guard for 1 round."
   - name: "Sneak Attack"
-    desc: "The vermin catcher deals 1d6 extra precision damage to off-guard creatures."
+    desc: "The vermin catcher deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
 sourcebook: "_NPC Core_, page 71."
 ```
 

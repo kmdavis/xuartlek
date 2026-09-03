@@ -18,8 +18,8 @@ source: "Battlecry!"
 - **Usage**: held in 1 hand
 - **Bulk**: L
 
-This brass horn is marked by age but remains in excellent condition. The rim of the mouth is ringed by finely carved runes. This bugle grants you a +2 item bonus to Performance checks while playing music with the instrument.
+This brass horn is marked by age but remains in excellent condition. The rim of the mouth is ringed by finely carved runes. This bugle grants you a +2 item bonus to [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] checks while playing music with the instrument.
 
-**Activate—Reveille** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (auditory, manipulate) **Frequency** once per day; **Effect** You blow a swift cadence of sharp notes that carries through the air. You and all allies within a 30- foot emanation can immediately Stand as a free action; this doesn’t provoke reactions.
+**Activate—Reveille** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) **Frequency** once per day; **Effect** You blow a swift cadence of sharp notes that carries through the air. You and all allies within a 30- foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Emanation|emanation]] can immediately [[srd/pf2e/compendium/rules-elements/actions/player-core#Stand|Stand]] as a free action; this doesn’t provoke reactions.
 
 *Source: Battlecry! p. 143*

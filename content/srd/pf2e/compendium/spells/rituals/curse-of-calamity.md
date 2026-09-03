@@ -19,7 +19,7 @@ source: "War of Immortals"
 
 - **Cast**: 3 days
 - **Secondary Casters**: 3
-- **Primary Check**: Occultism (mythic)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (mythic)
 - **Secondary Checks**: Arcana , Nature , Religion
 - **Range**: 1 mile
 - **Target(s)**: 1 community group, or settlement
@@ -33,6 +33,6 @@ You condemn your targets to violent misfortune. At the GM's discretion, you can 
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** You unwittingly curse yourself. For the next 24 hours, each caster must roll all attack rolls and skill checks twice and use the worse result.
+**Critical Failure** You unwittingly curse yourself. For the next 24 hours, each caster must roll all [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] rolls and skill checks twice and use the worse result.
 
 *Source: War of Immortals p. 160*

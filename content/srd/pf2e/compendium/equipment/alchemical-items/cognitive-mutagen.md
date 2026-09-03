@@ -20,13 +20,13 @@ source: "Player Core 2"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Your mind becomes clear, but physical matters seem ephemeral. 
 
-**Benefit** You gain an item bonus to Arcana, Crafting, Lore, Occultism, and Society checks and all checks to Recall Knowledge. Your critical failures on Recall Knowledge checks become failures instead. 
+**Benefit** You gain an item bonus to Arcana, Crafting, Lore, Occultism, and Society checks and all checks to Recall Knowledge. Your critical failures on [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] checks become failures instead. 
 
-**Drawback** You take a –2 penalty to weapon and unarmed attack rolls, Athletics checks, and Acrobatics checks. You can carry 2 less Bulk than normal before becoming encumbered, and the maximum Bulk you can carry is reduced by 4.
+**Drawback** You take a –2 penalty to weapon and unarmed attack rolls, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] checks, and [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] checks. You can carry 2 less Bulk than normal before becoming [[srd/pf2e/compendium/rules-elements/conditions#Encumbered|encumbered]], and the maximum Bulk you can carry is reduced by 4.
 
 ### Cognitive Mutagen (Lesser)
 

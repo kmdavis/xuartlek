@@ -29,16 +29,16 @@ modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Deception +14, Diplomacy +14, Legal Lore +12, Occultism +10, Performance +12, Society +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +14, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +14, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +12, [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] +10, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +12, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +12"
 abilityMods: [0, 2, -1, 3, 3, 5]
 abilities_top:
   - name: "Placate"
-    desc: "An advisor is well versed in soothing agitated nobles. Their calming voice gives them a +2 circumstance bonus to Deception and Diplomacy checks when dealing with members of the nobility."
+    desc: "An advisor is well versed in soothing agitated nobles. Their calming voice gives them a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] and [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks when dealing with members of the nobility."
   - name: "Items"
-    desc: "Dagger (2), fine clothes, _minor healing potion_, small harp, Whip"
+    desc: "Dagger (2), [[srd/pf2e/compendium/equipment/adventuring-gear/clothing-desert|fine clothes]], _[[srd/pf2e/compendium/equipment/consumables/healing-potion-major|minor healing potion]]_, [[srd/pf2e/compendium/equipment/adventuring-gear/musical-instrument-virtuoso-heavy|small harp]], Whip"
 ac: 21
 armorclass:
   - name: "AC"
@@ -50,17 +50,17 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ whip +11 (Disarm, Finesse, Nonlethal, reach 10 feet, Trip) __Damage__ 1d4+4 slashing"
+    desc: "⬻ whip +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/disarm|Disarm]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+4 slashing"
   - name: "Melee"
-    desc: "⬻ fist +11 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +11 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+4 piercing"
+    desc: "⬻ dagger +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing"
 abilities_bot:
   - name: "Bard Composition Spells"
-    desc: "DC 22, 1 Focus Point - __Cantrips (3rd)__ Rallying Anthem, Courageous Anthem, Uplifting Overture - __3rd__ Counter Performance"
+    desc: "DC 22, 1 Focus Point - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/rallying-anthem|Rallying Anthem]], [[srd/pf2e/compendium/spells/cantrips/courageous-anthem|Courageous Anthem]], [[srd/pf2e/compendium/spells/cantrips/uplifting-overture|Uplifting Overture]] - __3rd__ [[srd/pf2e/compendium/spells/focus/counter-performance|Counter Performance]]"
 spellcasting:
   - name: "Occult Spontaneous Spells"
-    desc: "DC 22, attack +14 - __Cantrips (3rd)__ Daze, Light, Prestidigitation, Shield, Void Warp - __1st__ Command, Force Barrage, Protection, Soothe (3 slots) - __2nd__ Augury, Cleanse Affliction, Soothe, Stupefy (3 slots) - __3rd__ Mind Reading, Soothe, Ring of Truth (2 slots)"
+    desc: "DC 22, attack +14 - __Cantrips (3rd)__ [[srd/pf2e/compendium/spells/cantrips/daze|Daze]], [[srd/pf2e/compendium/spells/cantrips/light|Light]], [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]], [[srd/pf2e/compendium/spells/cantrips/shield|Shield]], [[srd/pf2e/compendium/spells/cantrips/void-warp|Void Warp]] - __1st__ [[srd/pf2e/compendium/spells/rank-1/command|Command]], [[srd/pf2e/compendium/spells/rank-1/force-barrage|Force Barrage]], [[srd/pf2e/compendium/spells/rank-1/protection|Protection]], [[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]] (3 slots) - __2nd__ [[srd/pf2e/compendium/spells/rank-2/augury|Augury]], [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|Cleanse Affliction]], [[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]], [[srd/pf2e/compendium/spells/rank-2/stupefy|Stupefy]] (3 slots) - __3rd__ [[srd/pf2e/compendium/spells/rank-3/mind-reading|Mind Reading]], [[srd/pf2e/compendium/spells/rank-1/soothe|Soothe]], [[srd/pf2e/compendium/spells/rank-3/ring-of-truth|Ring of Truth]] (2 slots)"
 sourcebook: "_NPC Core_, page 14."
 ```
 

@@ -18,7 +18,7 @@ source: "Battlecry!"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 A miniature ingot of metal hangs upon a leather cord, with deep weapon grooves on its surface. A weapon it’s applied to counts as a particular precious material for physical damage it deals for 1 minute, depending on its type.
 

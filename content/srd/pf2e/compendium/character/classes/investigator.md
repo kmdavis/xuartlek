@@ -51,7 +51,7 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in Society
+Trained in [[srd/pf2e/compendium/rules-elements/skills/society|Society]]
  Trained in one or more skills determined by your methodology
  Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 

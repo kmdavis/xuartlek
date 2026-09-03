@@ -26,7 +26,7 @@ You blind the target. The effect is determined by the target's Fortitude save. T
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is blinded until its next turn begins.
+**Success** The target is [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] until its next turn begins.
 
 **Failure** The target is blinded for 1 minute.
 

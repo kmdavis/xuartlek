@@ -20,7 +20,7 @@ source: "Rage of Elements"
 - **Defense**: basic Reflex
 - **Duration**: until the start of your next turn
 
-You summon a layer of clear glass to keep you from harm. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use. You can Shield Block with the glass shield. It has Hardness 2. You can use the spell's reaction to reduce damage from any spell or magical effect, even if it doesn't deal physical damage. When you Shield Block, the shield explodes in a shower of glass. If creature that broke it is within 5 feet, the shards deal 1d4 piercing damage to that creature with a basic Reflex save. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes.
+You summon a layer of clear glass to keep you from harm. This counts as using the [[srd/pf2e/compendium/rules-elements/actions/player-core#Raise a Shield|Raise a Shield]] action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use. You can Shield Block with the glass shield. It has Hardness 2. You can use the spell's reaction to reduce damage from any spell or magical effect, even if it doesn't deal physical damage. When you Shield Block, the shield explodes in a shower of glass. If creature that broke it is within 5 feet, the shards deal 1d4 piercing damage to that creature with a basic Reflex save. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes.
 
 ---
 **Heightened (3rd)** The shield has Hardness 4, and the damage increases to 3d4.

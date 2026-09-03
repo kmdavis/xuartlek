@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Tripkee`
 
-A creature with this trait is a member of the tripkee ancestry. Tripkees are a family of froglike humanoids. An ability with this trait can be used or selected only by tripkees. An item with this trait is created and used by tripkees.
+A creature with this trait is a member of the [[srd/pf2e/compendium/character/ancestries/tripkee|tripkee]] ancestry. Tripkees are a family of froglike humanoids. An ability with this trait can be used or selected only by tripkees. An item with this trait is created and used by tripkees.
 
 *Source: Player Core 2 p. 319*

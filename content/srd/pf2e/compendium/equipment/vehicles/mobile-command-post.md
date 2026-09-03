@@ -26,7 +26,7 @@ This utilitarian vehicle resembles a small encampment, complete with protective 
 
 **Passengers** 40
 
-**Piloting Check** Arcana (DC 37), Crafting (DC 37), or Driving Lore (DC 35)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (DC 37), [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] (DC 37), or Driving [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] (DC 35)
 
 ---
 
@@ -38,11 +38,11 @@ This utilitarian vehicle resembles a small encampment, complete with protective 
 
 **HP** 250 (BT 125)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
 ---
 
-**Speed** 20 feet (clockwork, magical)
+**Speed** 20 feet ([[srd/pf2e/compendium/rules-elements/traits/monster-core-2/clockwork|clockwork]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])
 
 **Collision** 11d10 (DC 35)
 

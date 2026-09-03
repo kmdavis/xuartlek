@@ -23,7 +23,7 @@ source: "Player Core 2"
 - **Bloodline**: Diabolic
 - **Range**: 60 feet
 - **Area**: 10-foot radius, 60-foot-tall cylinder
-- **Defense**: basic Reflex
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex
 
 You call forth a plume of hellfire that erupts from below, dealing 4d6 fire damage and 4d6 spirit damage.
 

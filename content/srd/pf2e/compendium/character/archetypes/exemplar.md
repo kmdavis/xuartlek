@@ -17,9 +17,9 @@ source: "War of Immortals"
 #### Multiclass Exemplar Characters
 
 The exemplar archetype grants access to great feats for characters who seek to gain a divine ikon and unlock a source of divine power that is not reliant on worship or spellcasting. It’s particularly helpful for characters looking to add a potent weapon or item to their arsenal and enhance their combat capabilities. 
-Bard exemplars combine the bombastic and flashy combat options of the exemplar with selfaggrandizing performances. 
-Champion exemplars double down on divine might, often preferring to pick up a weapon ikon to compliment the defensive capabilities of the champion chassis. 
-Rogue exemplars are often deadly tricksters, combining divine combat techniques with cleverly deployed skills. 
+[[srd/pf2e/compendium/character/classes/bard|Bard]] exemplars combine the bombastic and flashy combat options of the exemplar with selfaggrandizing performances. 
+[[srd/pf2e/compendium/character/classes/champion|Champion]] exemplars double down on divine might, often preferring to pick up a weapon ikon to compliment the defensive capabilities of the champion chassis. 
+[[srd/pf2e/compendium/character/classes/rogue|Rogue]] exemplars are often deadly tricksters, combining divine combat techniques with cleverly deployed skills. 
 Spellcaster exemplars often use magical spells to enhance their accuracy, maximizing the ability to deploy a single attack with a powerful ikon.
 
 *Source: War of Immortals p. 57*

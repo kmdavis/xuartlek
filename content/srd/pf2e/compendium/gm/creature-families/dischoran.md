@@ -16,6 +16,6 @@ Dischorans are a group of predators who hunt via focused sound. Though they poss
 
 ### Members
 
-Drthak (Creature 6), Morthak (Creature 4), Soniphak (Creature 9)
+[[srd/pf2e/bestiary/howl-of-the-wild/beast/drthak|Drthak]] (Creature 6), [[srd/pf2e/bestiary/howl-of-the-wild/beast/morthak|Morthak]] (Creature 4), [[srd/pf2e/bestiary/howl-of-the-wild/beast/soniphak|Soniphak]] (Creature 9)
 
 *Source: Howl of the Wild p. 140*

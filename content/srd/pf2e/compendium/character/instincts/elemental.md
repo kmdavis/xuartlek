@@ -22,8 +22,8 @@ Disrespecting an elemental creature is anathema to your instinct; defending your
 
 ### Elemental Rage (Instinct Ability)
 
-While raging, you're cloaked in a vortex of elemental matter; you become concealed against ranged attacks. You can't use this concealment to Hide or Sneak. While raging, you increase the additional damage from Rage from 2 to 4 and change its damage type to the one you selected for your element.
-If you have any kineticist impulses with the same element type as the one you chose for your instinct, such as ones gained by taking the Kineticist Dedication multiclass feat, you can use them while raging even if they have the concentrate trait.
+While raging, you're cloaked in a vortex of elemental matter; you become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] against ranged attacks. You can't use this concealment to Hide or Sneak. While raging, you increase the additional damage from Rage from 2 to 4 and change its damage type to the one you selected for your element.
+If you have any [[srd/pf2e/compendium/character/classes/kineticist|kineticist]] [[srd/pf2e/compendium/rules-elements/traits/rage-of-elements/impulse|impulses]] with the same element type as the one you chose for your instinct, such as ones gained by taking the [[srd/pf2e/compendium/feats/rage-of-elements/archetype/kineticist-dedication|Kineticist Dedication]] multiclass feat, you can use them while raging even if they have the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait.
 
 ### Specialization Ability
 

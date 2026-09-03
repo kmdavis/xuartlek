@@ -29,14 +29,14 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +7, Graveyard Lore +7, Religion +5, Stealth +4"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/lore|Graveyard Lore]] +7, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +4"
 abilityMods: [4, 1, 3, 0, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "bull's-eye lantern (2 oils), gravedigger's garb (functions as leather armor), religious symbol of Pharasma, shovel"
+    desc: "bull's-eye lantern (2 oils), gravedigger's garb (functions as [[srd/pf2e/compendium/equipment/armor#Leather Armor|leather armor]]), [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] of Pharasma, shovel"
 ac: 15
 armorclass:
   - name: "AC"
@@ -44,20 +44,20 @@ armorclass:
 hp: 20
 health:
   - name: "HP"
-    desc: "20; __Resistances__ void 2"
+    desc: "20; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] 2"
 speed: "25 feet"
 attacks:
   - name: "Melee"
     desc: "⬻ shovel +9 __Damage__ 1d4+4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +9 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ fist +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+4 bludgeoning"
 abilities_bot:
   - name: "Light in the Dark"
-    desc: "⬺ (Concentrate, Divine, Manipulate, Vitality)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|Divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|Vitality]])"
   - name: "Requirements"
-    desc: "The gravedigger is holding a bull's-eye lantern in one hand and their religious symbol in the other, and the lantern contains oil"
+    desc: "The gravedigger is holding a [[srd/pf2e/compendium/equipment/adventuring-gear/lantern-hooded|bull's-eye lantern]] in one hand and their [[srd/pf2e/compendium/equipment/adventuring-gear/religious-symbol-silver|religious symbol]] in the other, and the lantern contains [[srd/pf2e/compendium/equipment/adventuring-gear/oil|oil]]"
   - name: "Effect"
-    desc: "The gravedigger recites a brief chant to ignite their lantern with vital energy. Each undead creature in a 15-foot line takes 3d6 vitality damage with a DC 14 basic Fortitude save. This action uses all remaining oil in the bull's-eye lantern."
+    desc: "The gravedigger recites a brief chant to ignite their lantern with vital energy. Each [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]] creature in a 15-foot line takes 3d6 vitality damage with a DC 14 basic Fortitude save. This action uses all remaining oil in the bull's-eye lantern."
 sourcebook: "_NPC Core_, page 69."
 ```
 

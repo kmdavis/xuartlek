@@ -17,13 +17,13 @@ source: "War of Immortals"
 
 - **Cast**: 1 Day
 - **Secondary Casters**: 2
-- **Primary Check**: Arcana (mythic) or Occultism (mythic)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (mythic) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (mythic)
 - **Secondary Checks**: Arcana, Medicine , or Occultism
 - **Range**: 1 mile
 - **Target(s)**: 1 curse
 - **Duration**: unlimited
 
-You siphon a tiny portion of life force from each of the ritual's casters to empower a curse against disrupting effects. The difficulty of the counteract check to remove the curse changes based on the success of the ritual. Additionally, the first three times the curse is successfully counteracted, it leaps to the closest possible target within 100 feet, forcing the new target to attempt a saving throw against the curse's initial effects. Saves against the curse are attempted at the same DC as the curse when it was cast, subject to changes based on the ritual's success. If any creature successfully saves against the curse's initial effects, the curse dissipates harmlessly.
+You siphon a tiny portion of life force from each of the ritual's casters to empower a [[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]] against disrupting effects. The difficulty of the [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] check to remove the curse changes based on the success of the ritual. Additionally, the first three times the curse is successfully counteracted, it leaps to the closest possible target within 100 feet, forcing the new target to attempt a saving throw against the curse's initial effects. Saves against the curse are attempted at the same DC as the curse when it was cast, subject to changes based on the ritual's success. If any creature successfully saves against the curse's initial effects, the curse dissipates harmlessly.
 
 **Critical Success** The first counteract attempt against the curse automatically fails. After that, the curse’s counteract rank increases by 2 (to a maximum of 10).
 

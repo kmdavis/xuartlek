@@ -18,7 +18,7 @@ source: "Treasure Vault (Remastered)"
 `Consumable`  `Fire`  `Primal`  `Rare`
 
 - **Usage**: touched
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 An incandescent, multipronged crystal the color of dying fire, a _phoenix cinder_ gives off pleasant warmth and a sense of peace. A low, soft chirruping around the crystal invokes the idea of using fire to cleanse and protect. The crystal offers this power to anyone who touches it. A partaker must be willing to gain the boon's effects.
 
@@ -26,15 +26,15 @@ An incandescent, multipronged crystal the color of dying fire, a _phoenix cinder
 
 **Stage 1 (1 Week)** The first time you enter this stage from a particular _phoenix cinder_, you are affected as if by _regenerate_.
 
- For 3 days after taking in the cinder, you are immune to fire. While in this stage or higher, you have fast healing equal to half your level, as well as resistance to fire damage equal to half your level. You gain a +1 circumstance bonus to saving throws (or any other defense) against fire. Treat the outcome of any saving throw you roll against fire effects as one step better. You can cast _produce flame_ as an innate spell, and you have access to the following activation.
+ For 3 days after taking in the cinder, you are immune to [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]. While in this stage or higher, you have fast healing equal to half your level, as well as resistance to fire damage equal to half your level. You gain a +1 circumstance bonus to saving throws (or any other defense) against fire. Treat the outcome of any saving throw you roll against fire effects as one step better. You can cast _produce flame_ as an innate spell, and you have access to the following activation.
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (concentrate, fire) **Frequency** once per day; **Effect** You wreathe yourself in flame for 1 minute. Adjacent creatures that hit you with a melee attack, as well as creatures that touch you or hit you with an unarmed attack, take 2d6 fire damage. You can Dismiss the activation.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]]) **Frequency** once per day; **Effect** You wreathe yourself in flame for 1 minute. Adjacent creatures that hit you with a melee attack, as well as creatures that touch you or hit you with an [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attack, take 2d6 fire damage. You can Dismiss the activation.
 
 ---
 
 **Stage 2 (1 Month)** You can use the activation once per hour. Always feverish and flushed, you feel as if temperatures lower than sweltering are cold. Reduce your current and maximum Hit Points by 2 × your level, and you have a weakness to cold damage equal to half your level. You have urges to burn and use fire when you can. When confronted with the opportunity to do so, you must succeed at a Will save to avoid it. Doing so once after each time you roll initiative is enough.
 
- If you die at this stage or higher, your body burns from the inside out over 1d4 rounds, reducing you to fine ash. Anything flammable on you is destroyed. A phoenix emerges from your remains, but doesn’t have the holy trait and is interested more in selfish pursuits and spreading fire than kindness. You also attempt a DC 8 flat check; on a failure, the phoenix gains the unholy trait, and also thirsts for vengeance against the little beings like the one who dared to use its power for a time. 
+ If you die at this stage or higher, your body burns from the inside out over 1d4 rounds, reducing you to fine ash. Anything flammable on you is destroyed. A [[srd/pf2e/bestiary/monster-core/beast/phoenix|phoenix]] emerges from your remains, but doesn’t have the [[srd/pf2e/compendium/rules-elements/traits/player-core/holy|holy]] trait and is interested more in selfish pursuits and spreading fire than kindness. You also attempt a DC 8 flat check; on a failure, the phoenix gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/unholy|unholy]] trait, and also thirsts for vengeance against the little beings like the one who dared to use its power for a time. 
 
 ---
 

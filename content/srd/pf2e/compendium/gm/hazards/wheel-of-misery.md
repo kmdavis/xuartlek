@@ -23,7 +23,7 @@ source: "GM Core"
 +16 (expert) to detect the magical sensor; noticing the wheel has a DC of 0
 
 **Disable**
-DC 26 Thievery (expert) on the wheel to stop it from spinning, DC 22 Thievery (master) to erase each rune, or _dispel magic_ (4th rank; counteract DC 22) to counteract each rune
+DC 26 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (expert) on the wheel to stop it from spinning, DC 22 Thievery (master) to erase each rune, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (4th rank; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] DC 22) to counteract each rune
 
 **AC** 24, **Fort** +15, **Ref** +13
 
@@ -34,19 +34,19 @@ DC 26 Thievery (expert) on the wheel to stop it from spinning, DC 22 Thievery (m
 56 (BT 28)
 
 **Immunities**
-critical hits, object immunities, precision damage
+[[srd/pf2e/books/player-core/chapter-6-equipment/weapons#Critical Hits|critical hits]], [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]], precision damage
 
 **Wheel Spin** [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction") **Trigger** A creature enters the sensor’s detection area; **Effect** The wheel begins to spin and rolls initiative.
 
 ---
 **Routine**
 (2 actions) On its initiative, the trap uses its first action to spin, then stops. Roll 1d6 to determine which segment is topmost when the wheel stops spinning. The wheel uses its second action to replicate the spell listed for that segment (3rd rank, DC 24, spell attack modifier +14). This spell’s target is centered on or otherwise includes the nearest creature in the area. This increases the spell’s range to 100 feet if necessary. Any spell cast by this trap is arcane. 
-**1** _sleep_ 
-**2** _paralyze_ 
-**3** _lightning bolt_ (100-foot line) 
-**4** _blindness_ 
-**5** _caustic blast_ 
-**6** _enfeeble_
+**1** [[srd/pf2e/compendium/spells/rank-1/sleep|_sleep_]] 
+**2** [[srd/pf2e/compendium/spells/rank-3/paralyze|_paralyze_]] 
+**3** [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|_lightning bolt_]] (100-foot line) 
+**4** [[srd/pf2e/compendium/spells/rank-3/blindness|_blindness_]] 
+**5** [[srd/pf2e/compendium/spells/cantrips/caustic-blast|_caustic blast_]] 
+**6** [[srd/pf2e/compendium/spells/rank-1/enfeeble|_enfeeble_]]
 
 ---
 **Reset**

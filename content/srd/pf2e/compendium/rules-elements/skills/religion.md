@@ -14,7 +14,7 @@ The secrets of deities, dogma, faith, and the realms of divine creatures both su
 
 ### Religion Untrained General Actions
 
-- Recall Knowledge about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like celestials, fiends, and undead), Creation's Forge, the Void, and the Outer Sphere.
+- Recall Knowledge about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like [[srd/pf2e/compendium/rules-elements/traits/player-core/celestial|celestials]], [[srd/pf2e/compendium/rules-elements/traits/player-core/fiend|fiends]], and [[srd/pf2e/compendium/rules-elements/traits/player-core/undead|undead]]), [[srd/pf2e/compendium/gm/planes#Creation's Forge|Creation's Forge]], [[srd/pf2e/compendium/gm/planes#The Void|the Void]], and the Outer Sphere.
 
 ### Religion Trained General Actions
 
@@ -33,20 +33,20 @@ Category
 Consumable
 Note
 
-Staff of Providence
+[[srd/pf2e/compendium/equipment/staves/staff-of-providence-true|Staff of Providence]]
 +1
 0
 Staves
 No
 Religion checks to Recall Knowledge.
 
-Shining Symbol
+[[srd/pf2e/compendium/equipment/worn-items/shining-symbol-major|Shining Symbol]]
 +1
 3
 Worn Items
 No
 
-Symbol of Conflict
+[[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict-major|Symbol of Conflict]]
 +1
 4
 Worn Items
@@ -66,32 +66,32 @@ Other
 No
 Item Bonus
 
-Shining Symbol (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/shining-symbol-major|Shining Symbol (Greater)]]
 +2
 9
 Worn Items
 No
 
-Fulu Compendium
+[[srd/pf2e/compendium/equipment/held-items/fulu-compendium|Fulu Compendium]]
 +2
 9
 Held Items
 No
 Item bonus to determine a fulu's function or authenticity.
 
-Symbol of Conflict (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict-major|Symbol of Conflict (Greater)]]
 +2
 10
 Worn Items
 No
 
-Prognostic Veil
+[[srd/pf2e/compendium/equipment/worn-items/prognostic-veil-greater|Prognostic Veil]]
 +2
 10
 Worn Items
 No
 
-Helm of Zeal
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal]]
 +2
 11
 Worn Items
@@ -111,19 +111,19 @@ Runic Skullcap
 Other Worn Items
 No
 
-Shining Symbol (Major)
+[[srd/pf2e/compendium/equipment/worn-items/shining-symbol-major|Shining Symbol (Major)]]
 +3
 17
 Worn Items
 No
 
-Symbol of Conflict (Major)
+[[srd/pf2e/compendium/equipment/worn-items/symbol-of-conflict-major|Symbol of Conflict (Major)]]
 +3
 18
 Worn Items
 No
 
-Prognostic Veil (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/prognostic-veil-greater|Prognostic Veil (Greater)]]
 +3
 18
 Worn Items
@@ -136,14 +136,14 @@ Other
 No
 Item Bonus
 
-Helm of Zeal (Greater)
+[[srd/pf2e/compendium/equipment/worn-items/helm-of-zeal-greater|Helm of Zeal (Greater)]]
 +3
 18
 Worn Items
 No
 Item bonus of the associated Deity's Divine Skill
 
-Sage's Lash
+[[srd/pf2e/compendium/equipment/apex-items/sages-lash|Sage's Lash]]
 +3
 18
 Apex Items

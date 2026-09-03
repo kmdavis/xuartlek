@@ -20,8 +20,8 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: affixed to armor or a weapon
 
-A _jyoti’s feather_ is a shimmering red-and-gold feather that seems almost metallic, although it’s delicate and flexible to the touch. Though most aren’t made from true jyoti feathers, as the reclusive outsiders avoid visitors from the Universe, the creatures’ connection to life energy lent these spellhearts their name. 
-**Armor** You gain a +2 item bonus to saving throws against death effects and void effects.**Weapon** The weapon has the _vitalizing_ rune while the feather is affixed.
+A _jyoti’s feather_ is a shimmering red-and-gold feather that seems almost metallic, although it’s delicate and flexible to the touch. Though most aren’t made from true jyoti feathers, as the reclusive outsiders avoid visitors from [[srd/pf2e/compendium/gm/planes#The Universe|the Universe]], the creatures’ connection to life energy lent these spellhearts their name. 
+**Armor** You gain a +2 item bonus to saving throws against [[srd/pf2e/books/player-core/chapter-8-playing-the-game/hit-points-healing-and-dying#Death Effects|death effects]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] effects.**Weapon** The weapon has the [[srd/pf2e/compendium/equipment/runes/vitalizing-greater|_vitalizing_]] rune while the feather is affixed.
 
 **Activate** Cast a Spell; **Effect** You cast _stabilize_.
 

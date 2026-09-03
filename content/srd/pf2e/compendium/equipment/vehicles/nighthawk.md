@@ -16,7 +16,7 @@ source: "Battlecry!"
 
 - **Price**: 3,000 gp
 
-These matte-black gliders seem to disappear into the night. Designed to stealthily cross over enemy lines, nighthawks can carry a small squad of combatants behind enemy troops to infiltrate command positions or readily attack the enemy’s flank. Nighthawks must be launched from a high altitude, similar to other gliders. They can be quickly broken down and hidden in 10 minutes after landing. Reconstructing a nighthawk takes an hour and a successful Crafting check (DC 27).
+These matte-black gliders seem to disappear into the night. Designed to stealthily cross over enemy lines, nighthawks can carry a small squad of combatants behind enemy troops to infiltrate command positions or readily attack the enemy’s flank. Nighthawks must be launched from a high altitude, similar to other gliders. They can be quickly broken down and hidden in 10 minutes after landing. Reconstructing a nighthawk takes an hour and a successful [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check (DC 27).
 
 ---
 
@@ -26,7 +26,7 @@ These matte-black gliders seem to disappear into the night. Designed to stealthi
 
 **Passengers** 6
 
-**Piloting Check** Athletics (DC 29) or Piloting Lore (DC 27)
+**Piloting Check** [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] (DC 29) or [[srd/pf2e/compendium/rules-elements/skills/lore|Piloting Lore]] (DC 27)
 
 ---
 
@@ -38,9 +38,9 @@ These matte-black gliders seem to disappear into the night. Designed to stealthi
 
 **HP** 130 (BT 65)
 
-**Immunities** object immunities
+**Immunities** [[srd/pf2e/books/player-core/chapter-6-equipment/item-damage#Object Immunities|object immunities]]
 
-**Weaknesses** 10 fire until broken
+**Weaknesses** 10 fire until [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]]
 
 ---
 

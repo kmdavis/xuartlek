@@ -26,6 +26,6 @@ The steamflight pack allows its user to fly without using magic or wings. Each s
 
  When active, the steamflight pack gives the user a fly Speed of 20 feet. It carries enough water for 20 minutes of operation and can be refilled in five minutes with a supply of normal water and a funnel.
 
-**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") manipulate **Effect** You turn the steamflight pack on or off.
+**Activate** [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] **Effect** You turn the steamflight pack on or off.
 
 *Source: Guns & Gears (Remastered) p. 89*

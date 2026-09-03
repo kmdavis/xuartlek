@@ -31,14 +31,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +17, Athletics +18, Crafting +17, Engineering Lore +17, Medicine +16, Thievery +17"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +17, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +17, [[srd/pf2e/compendium/rules-elements/skills/lore|Engineering Lore]] +17, [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] +16, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +17"
 abilityMods: [6, 3, 2, 3, 2, 0]
 abilities_top:
   - name: "Items"
-    desc: "Artisan's Toolkit (blacksmithing), _+1 dragon mouth pistol_ (10 rounds), Repair Toolkit, steel plating (functions as half plate)"
+    desc: "[[srd/pf2e/compendium/equipment/adventuring-gear/artisans-toolkit-sterling|Artisan's Toolkit]] (blacksmithing), _+1 [[srd/pf2e/compendium/equipment/weapons/firearm/dragon-mouth-pistol|dragon mouth pistol]]_ (10 rounds), [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|Repair Toolkit]], steel plating (functions as [[srd/pf2e/compendium/equipment/armor#Half Plate|half plate]])"
 ac: 26
 armorclass:
   - name: "AC"
@@ -52,14 +52,14 @@ attacks:
   - name: "Melee"
     desc: "⬻ modular prosthesis +20 __Damage__ 2d8+12 and see Modular Prostheses"
   - name: "Ranged"
-    desc: "⬻ dragon mouth pistol +18 (Concussive, range increment 20 feet, reload 1, scatter 5 feet) __Damage__ 1d6+6 piercing"
+    desc: "⬻ dragon mouth pistol +18 ([[srd/pf2e/compendium/rules-elements/traits/npc-core/concussive|Concussive]], range increment 20 feet, reload 1, [[srd/pf2e/compendium/rules-elements/traits/npc-core/scatter|scatter 5 feet]]) __Damage__ 1d6+6 piercing"
 abilities_bot:
   - name: "Extend Arms"
-    desc: "⬻ The dynamo extends their collapsible steel arms, giving them both a reach of 20 feet with all melee attacks. However, the dynamo becomes enfeebled 1 and can't use the Interact action. The dynamo can Dismiss this ability."
+    desc: "⬻ The dynamo extends their collapsible steel arms, giving them both a [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach]] of 20 feet with all melee attacks. However, the dynamo becomes [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] and can't use the Interact action. The dynamo can Dismiss this ability."
   - name: "Extend Legs"
-    desc: "⬻ The dynamo rises into the air on 10-foot-tall telescoping steel legs. While their legs are extended, the dynamo gains a +10-foot status bonus to land Speed and ignores any cover granted by barriers less than 10 feet tall. However, the dynamo becomes clumsy 1 and can't use the Climb, Leap, Swim, or Tumble Through actions. The dynamo can Dismiss this ability."
+    desc: "⬻ The dynamo rises into the air on 10-foot-tall telescoping steel legs. While their legs are extended, the dynamo gains a +10-foot status bonus to land Speed and ignores any cover granted by barriers less than 10 feet tall. However, the dynamo becomes [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] and can't use the [[srd/pf2e/compendium/rules-elements/actions/player-core#Climb|Climb]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Leap|Leap]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]], or [[srd/pf2e/compendium/rules-elements/actions/player-core#Tumble Through|Tumble Through]] actions. The dynamo can Dismiss this ability."
   - name: "Modular Prostheses"
-    desc: "⬻ The dynamo configures one or both of their mechanical prosthetic hands into a specific configuration. Each configuration deals a specific damage type and has its own weapon traits: fist (bludgeoning; free-hand), gaff hook (piercing; grapple), impact driver (bludgeoning; shove), or spinning blade (slashing; trip). The dynamo can alternatively transform a hand into a steel shield with Hardness 8, HP 72, and BT 36. A broken prosthesis can't be reconfigured until repaired."
+    desc: "⬻ The dynamo configures one or both of their mechanical prosthetic hands into a specific configuration. Each configuration deals a specific damage type and has its own weapon traits: fist (bludgeoning; [[srd/pf2e/compendium/rules-elements/traits/player-core/free-hand|free-hand]]), gaff hook (piercing; [[srd/pf2e/compendium/rules-elements/traits/player-core/grapple|grapple]]), impact driver (bludgeoning; [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]]), or spinning blade (slashing; [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|trip]]). The dynamo can alternatively transform a hand into a steel shield with Hardness 8, HP 72, and BT 36. A [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]] prosthesis can't be reconfigured until repaired."
 sourcebook: "_NPC Core_, page 48."
 ```
 

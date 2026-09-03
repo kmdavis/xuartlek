@@ -19,7 +19,7 @@ source: "GM Core"
 
 Elven chain is a chain shirt made of dawnsilver that glitters in even the faintest light. Because it’s constructed with small, supple rings, it has no check penalty.
 
- Created by elven artisans employing ancient crafting techniques, elven chain is exceptionally quiet. Unlike other chain shirts—even other dawnsilver chain shirts—elven chain doesn’t have the noisy trait. This suit of armor can be etched with runes like any other dawnsilver chain shirt.
+ Created by elven artisans employing ancient crafting techniques, elven chain is exceptionally quiet. Unlike other chain shirts—even other dawnsilver chain shirts—elven chain doesn’t have the [[srd/pf2e/compendium/rules-elements/traits/player-core/noisy|noisy]] trait. This suit of armor can be etched with runes like any other dawnsilver chain shirt.
 
 ### Elven Chain (Standard-Grade)
 

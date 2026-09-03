@@ -33,14 +33,14 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +13, Athletics +14, Deception +15, Religion +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +13, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +14, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +15, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +14"
 abilityMods: [4, 3, 2, 2, 2, 1]
 abilities_top:
   - name: "Items"
-    desc: "_+1 striking greatclub_"
+    desc: "_[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/club/greatclub|greatclub]]_"
 ac: 26
 armorclass:
   - name: "AC"
@@ -48,10 +48,10 @@ armorclass:
 hp: 135
 health:
   - name: "HP"
-    desc: "135 (fast healing 5); __Weaknesses__ mental 10"
+    desc: "135 (fast healing 5); __Weaknesses__ [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] 10"
 abilities_mid:
   - name: "Mindbound"
-    desc: "(divine) A nosferatu master exerts a fierce hold over their thrall's mind. If any creature other than the thrall's master targets them with an effect that would give them the controlled condition, the thrall's master rolls a counteract check against it using their Dominate DC – 10 as the counteract check modifier."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]]) A nosferatu master exerts a fierce hold over their thrall's mind. If any creature other than the thrall's master targets them with an effect that would give them the [[srd/pf2e/compendium/rules-elements/conditions#Controlled|controlled]] condition, the thrall's master rolls a [[srd/pf2e/books/player-core/chapter-7-spells/counteracting|counteract]] check against it using their Dominate DC – 10 as the counteract check modifier."
   - name: "Mortal Shield"
     desc: "⬲"
   - name: "Trigger"
@@ -63,13 +63,13 @@ abilities_mid:
   - name: "Trigger"
     desc: "The thrall ends their turn more than 30 feet away from their master"
   - name: "Effect"
-    desc: "The thrall Strides up to their Speed toward their master."
+    desc: "The thrall [[srd/pf2e/compendium/rules-elements/actions/player-core#Stride|Strides]] up to their Speed toward their master."
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ _greatclub_ +19 (Backswing, magical, shove) __Damage__ 2d10+10 bludgeoning"
+    desc: "⬻ _greatclub_ +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/backswing|Backswing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/shove|shove]]) __Damage__ 2d10+10 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +18 (Agile, nonlethal) __Damage__ 2d6+10 bludgeoning"
+    desc: "⬻ fist +18 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]]) __Damage__ 2d6+10 bludgeoning"
 abilities_bot:
   - name: "Swing Back"
     desc: "⬻"

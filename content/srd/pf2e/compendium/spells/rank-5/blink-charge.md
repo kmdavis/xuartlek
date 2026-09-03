@@ -21,7 +21,7 @@ source: "Impossible Magic"
 - **Range**: 60 feet
 - **Target**: 1 creature
 
-You propel yourself through the fabric of space to deal a blow carrying the momentum of your teleportation. You teleport to an empty space adjacent to a creature you can see within range, then make a Strike against the creature with a weapon you're wielding. The Strike deals damage, plus an additional 2d8 force damage, depending on the result of your Strike.
+You propel yourself through the fabric of space to deal a blow carrying the momentum of your teleportation. You teleport to an empty space adjacent to a creature you can see within range, then make a [[srd/pf2e/compendium/rules-elements/actions/player-core#Strike|Strike]] against the creature with a weapon you're wielding. The Strike deals damage, plus an additional 2d8 force damage, depending on the result of your Strike.
 
 **Critical Success** Double damage, plus after the Strike, you can teleport the target into an empty space up to 5 feet away from its current position. The new space must be on the ground if it started on the ground, in the air if it was flying, and so on.
 

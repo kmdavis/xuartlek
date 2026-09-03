@@ -17,9 +17,9 @@ source: "Treasure Vault (Remastered)"
 `Alchemical`  `Consumable`  `Healing`
 
 - **Ammunition**: round
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Life shot is a special cartridge that carries a small dose of elixir of life. A creature hit by activated life shot takes no damage from the successful attack, instead receiving healing and gaining an item bonus to saving throws against diseases and poisons for 1 minute. On a critical hit, roll the healing received twice and take the better result (this is a fortune effect). A target willing to be hit by this attack is off-guard against it.
+Life shot is a special cartridge that carries a small dose of elixir of life. A creature hit by activated life shot takes no damage from the successful attack, instead receiving healing and gaining an item bonus to saving throws against diseases and poisons for 1 minute. On a critical hit, roll the healing received twice and take the better result (this is a [[srd/pf2e/compendium/rules-elements/traits/player-core/fortune|fortune]] effect). A target willing to be hit by this attack is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against it.
 
 ### Life Shot (Minor)
 

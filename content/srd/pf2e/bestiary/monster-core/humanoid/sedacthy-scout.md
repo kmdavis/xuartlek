@@ -31,14 +31,14 @@ modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; darkvision, wavesense 30 feet"
-languages: "Thalassic; sea speech"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]; sea speech"
 skills:
   - name: "Skills"
-    desc: "Athletics +8, Intimidation +9, Stealth +8, Survival +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8, [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] +7"
 abilityMods: [4, 4, 1, 0, 1, 3]
 abilities_top:
   - name: "Sea Speech"
-    desc: "A sedacthy speaking Thalassic can be understood by any animal that has a swim Speed or the amphibious or aquatic trait. By spending a week regularly interacting with such an animal, the sedacthy can make it permanently helpful."
+    desc: "A sedacthy speaking [[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]] can be understood by any animal that has a swim Speed or the [[srd/pf2e/compendium/rules-elements/traits/player-core/amphibious|amphibious]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/aquatic|aquatic]] trait. By spending a week regularly interacting with such an animal, the sedacthy can make it permanently [[srd/pf2e/compendium/rules-elements/conditions#Helpful|helpful]]."
   - name: "Items"
     desc: "Spear"
 ac: 17
@@ -56,9 +56,9 @@ attacks:
   - name: "Melee"
     desc: "⬻ jaws +10 __Damage__ 1d4+4 piercing plus 1d4 persistent bleed"
   - name: "Melee"
-    desc: "⬻ claw +10 (Agile) __Damage__ 1d6+4 slashing"
+    desc: "⬻ claw +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]]) __Damage__ 1d6+4 slashing"
   - name: "Ranged"
-    desc: "⬻ spear +10 (thrown 20 feet) __Damage__ 1d6+4 piercing"
+    desc: "⬻ spear +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 20 feet]]) __Damage__ 1d6+4 piercing"
 abilities_bot:
   - name: "Shared Feast"
     desc: "⬺ The sedacthy makes a jaws Strike. If it hits, an ally of their choice can spend a reaction to make a jaws Strike against the same target. Allies with beaks or similar attacks can use those instead of jaws."
@@ -67,7 +67,7 @@ abilities_bot:
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The scout takes a Stride action and a Swim action, in either order. They ignore difficult terrain from mud, quicksand, and similar terrain during this movement."
+    desc: "The scout takes a Stride action and a [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swim]] action, in either order. They ignore difficult terrain from mud, quicksand, and similar terrain during this movement."
 sourcebook: "_Monster Core_, page 300."
 ```
 

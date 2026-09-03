@@ -14,7 +14,7 @@ Slimes, molds, and other oozes can be found in dank dungeons and shadowed forest
 
 ### Members
 
-Amoeba Swarm (Creature 1), Bulbous Blood Ooze (Creature 6), Carnivorous Blob (Creature 13), Creeping Clot (Creature 5), Creeping Evil (Creature 8), Giant Amoeba (Creature 1), Gutter Ooze (Creature -1), Living Tar (Creature 7), Luminous Ooze (Creature 4), Mindmoppet (Creature 5), Sewer Ooze (Creature 1), Slime Mold (Creature 2), String Slime (Creature 3), Tar Ooze (Creature 10), Tomb Jelly (Creature 5), Verdurous Ooze (Creature 6)
+[[srd/pf2e/bestiary/monster-core-2/ooze/amoeba-swarm|Amoeba Swarm]] (Creature 1), Bulbous Blood Ooze (Creature 6), [[srd/pf2e/bestiary/monster-core-2/ooze/carnivorous-blob|Carnivorous Blob]] (Creature 13), Creeping Clot (Creature 5), Creeping Evil (Creature 8), [[srd/pf2e/bestiary/monster-core-2/ooze/giant-amoeba|Giant Amoeba]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/ooze/gutter-ooze|Gutter Ooze]] (Creature -1), [[srd/pf2e/bestiary/monster-core/ooze/living-tar|Living Tar]] (Creature 7), Luminous Ooze (Creature 4), Mindmoppet (Creature 5), [[srd/pf2e/bestiary/monster-core/ooze/sewer-ooze|Sewer Ooze]] (Creature 1), [[srd/pf2e/bestiary/monster-core-2/fungus/slime-mold|Slime Mold]] (Creature 2), [[srd/pf2e/bestiary/monster-core/ooze/string-slime|String Slime]] (Creature 3), Tar Ooze (Creature 10), [[srd/pf2e/bestiary/monster-core/ooze/tomb-jelly|Tomb Jelly]] (Creature 5), [[srd/pf2e/bestiary/monster-core-2/ooze/verdurous-ooze|Verdurous Ooze]] (Creature 6)
 
 ### Oozing Acid
 

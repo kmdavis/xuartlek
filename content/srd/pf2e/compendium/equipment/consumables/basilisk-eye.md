@@ -19,9 +19,9 @@ source: "GM Core"
 
 - **Price**: 150 gp
 - **Usage**: affixed to a shield
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You Shield Block a melee attack with the affixed shield.
 
-This slimy green stone glows with whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude save or become slowed 1 for 1 minute as its body slowly stiffens in partial petrification.
+This slimy green stone glows with whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 for 1 minute as its body slowly stiffens in partial petrification.
 
 *Source: GM Core p. 263*

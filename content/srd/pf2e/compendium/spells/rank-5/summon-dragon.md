@@ -21,7 +21,7 @@ source: "Player Core"
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the dragon trait and whose level is 5 or lower to fight for you. If the dragon has a magical tradition trait (arcane, divine, occult, or primal), you can summon it only if you're using that tradition to cast summon dragon.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/dragon|dragon]] trait and whose level is 5 or lower to fight for you. If the dragon has a magical tradition trait ([[srd/pf2e/compendium/rules-elements/traits/player-core/arcane|arcane]], [[srd/pf2e/compendium/rules-elements/traits/player-core/divine|divine]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]], or [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]), you can summon it only if you're using that tradition to cast summon dragon.
 
 ---
 **Heightened (6th)** Level 7.

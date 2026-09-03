@@ -31,7 +31,7 @@ perception:
     desc: "Perception +17; darkvision, tremorsense (imprecise) 90 feet"
 skills:
   - name: "Skills"
-    desc: "Athletics +18"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +18"
 abilityMods: [6, 1, 6, 0, 5, 0]
 ac: 27
 armorclass:
@@ -40,16 +40,16 @@ armorclass:
 hp: 145
 health:
   - name: "HP"
-    desc: "145; __Immunities__ bleed, paralyzed, poison, sleep"
+    desc: "145; __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 speed: "30 feet, burrow 20 feet; earth glide"
 attacks:
   - name: "Melee"
-    desc: "⬻ tail +20 (Forceful, reach 10 feet, versatile P) __Damage__ 2d12+9 bludgeoning plus calcification"
+    desc: "⬻ tail +20 ([[srd/pf2e/compendium/rules-elements/traits/player-core/forceful|Forceful]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile P]]) __Damage__ 2d12+9 bludgeoning plus calcification"
 abilities_bot:
   - name: "Calcification"
-    desc: "(Incapacitation, primal) A blow from a granite glyptodont's tail Strike hardens the flesh of the creature struck. The target must succeed at a DC 26 Fortitude save or become slowed 1 (slowed 2 on a critical failure). Further failed saves against calcification increase the value of the slowed condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes petrified. If the creature isn't petrified, the slowed conditions end once 1 minute passes without the creature failing a save against calcification. Every 24 hours after it was petrified, the creature can attempt a DC 26 Fortitude save to recover. On a success, it becomes flesh again but is slowed 1 for the next 24 hours. On a critical success, the creature recovers and isn't slowed. On a failure, the creature remains petrified but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) A blow from a granite glyptodont's tail Strike hardens the flesh of the creature struck. The target must succeed at a DC 26 Fortitude save or become [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 (slowed 2 on a critical failure). Further failed saves against calcification increase the value of the slowed condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]]. If the creature isn't petrified, the slowed conditions end once 1 minute passes without the creature failing a save against calcification. Every 24 hours after it was petrified, the creature can attempt a DC 26 Fortitude save to recover. On a success, it becomes flesh again but is slowed 1 for the next 24 hours. On a critical success, the creature recovers and isn't slowed. On a failure, the creature remains petrified but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves."
   - name: "Earth Glide"
-    desc: "A granite glyptodont can Burrow through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing."
+    desc: "A granite glyptodont can [[srd/pf2e/compendium/rules-elements/actions/player-core#Burrow|Burrow]] through earthen matter, including rock. When it does so, it moves at its full burrow Speed, leaving no tunnels or signs of its passing."
 sourcebook: "_Monster Core 2_, page 147."
 ```
 

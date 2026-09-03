@@ -29,16 +29,16 @@ modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +15, Athletics +8, Circus Lore +5, Deception +5, Performance +9, Stealth +8"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +15, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +8, [[srd/pf2e/compendium/rules-elements/skills/lore|Circus Lore]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +5, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +9, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +8"
 abilityMods: [2, 4, 2, 1, 0, 1]
 abilities_top:
   - name: "Acrobatic Specialist"
     desc: "For encounters involving contests of acrobatics and similar activities, the acrobat is a 5th-level challenge."
   - name: "Steady Balance"
-    desc: "When the acrobat rolls a success on an Acrobatics check, they get a critical success instead. They aren't off-guard when attempting to Balance and can attempt an Acrobatics check instead of a Reflex save to Grab an Edge."
+    desc: "When the acrobat rolls a success on an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check, they get a critical success instead. They aren't off-guard when attempting to [[srd/pf2e/compendium/rules-elements/actions/player-core#Balance|Balance]] and can attempt an Acrobatics check instead of a Reflex save to [[srd/pf2e/compendium/rules-elements/actions/player-core#Grab an Edge|Grab an Edge]]."
   - name: "Items"
     desc: "Climbing Kit, Dagger (5), Rope (50 feet)"
 ac: 18
@@ -61,14 +61,14 @@ abilities_mid:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +10 (Agile, Finesse, versatile S) __Damage__ 1d4+4 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing"
   - name: "Melee"
-    desc: "⬻ foot +10 (Agile, Finesse, Nonlethal) __Damage__ 1d4+4 bludgeoning"
+    desc: "⬻ foot +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d4+4 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +10 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+4 piercing"
+    desc: "⬻ dagger +10 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+4 piercing"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "The acrobat deals an extra 1d6 precision damage to off-guard creatures."
+    desc: "The acrobat deals an extra 1d6 precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
   - name: "Swinging Strike"
     desc: "⬺ The acrobat swings on a rope or trapeze, moving up to double their Speed. At any point during the swing, they can make a melee Strike."
 sourcebook: "_NPC Core_, page 124."

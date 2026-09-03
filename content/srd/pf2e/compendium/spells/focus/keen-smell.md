@@ -21,7 +21,7 @@ source: "Howl of the Wild"
 
 - **Duration**: 1 minute
 
-Your nose becomes more sensitive to the scents of the wild, the better for you to track your quarry. For the spell’s duration, you gain scent as an imprecise sense with a range of 30 feet. Your hunted prey can’t be undetected by you as long as it’s within your scent range.
+Your nose becomes more sensitive to the scents of the wild, the better for you to track your quarry. For the spell’s duration, you gain [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Scent|scent]] as an [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Imprecise Senses|imprecise sense]] with a range of 30 feet. Your [[srd/pf2e/compendium/rules-elements/actions/player-core#Hunt Prey|hunted prey]] can’t be [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] by you as long as it’s within your scent range.
 
 ---
 **Heightened (3rd)** Your scent range increases to 60 feet.

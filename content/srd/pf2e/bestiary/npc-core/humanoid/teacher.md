@@ -29,20 +29,20 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4"
-languages: "Common; up to 3 additional languages"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]; up to 3 additional languages"
 skills:
   - name: "Skills"
-    desc: "Academia Lore +14, Diplomacy +5, Intimidation +5, one additional Lore +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/lore|Academia Lore]] +14, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +5, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|one additional Lore]] +14"
 abilityMods: [0, 0, -1, 4, 2, 3]
 abilities_top:
   - name: "Academic Specialist"
     desc: "For academic encounters, a teacher is a 4th-level challenge."
   - name: "Font of Knowledge"
-    desc: "The teacher can attempt to Recall Knowledge on any general subject with a +10 modifier."
+    desc: "The teacher can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]] on any general subject with a +10 modifier."
   - name: "Inspirational Presence"
-    desc: "(aura, emotion, mental) 50 feet. Any of the teacher's students in the aura gain a +1 circumstance bonus to Recall Knowledge."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 50 feet. Any of the teacher's students in the aura gain a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core#Recall Knowledge|Recall Knowledge]]."
   - name: "Items"
-    desc: "cane (functions as staff), textbook, Writing Set"
+    desc: "cane (functions as [[srd/pf2e/compendium/equipment/weapons/club/staff|staff]]), textbook, Writing Set"
 ac: 12
 armorclass:
   - name: "AC"
@@ -54,9 +54,9 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ cane +4 (two-hand d8) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ cane +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/two-hand|two-hand d8]]) __Damage__ 1d4 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +4 (Agile, Nonlethal, Unarmed) __Damage__ 1d4 bludgeoning"
+    desc: "⬻ fist +4 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4 bludgeoning"
 sourcebook: "_NPC Core_, page 139."
 ```
 

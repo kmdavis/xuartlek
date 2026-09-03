@@ -16,4 +16,4 @@ citation: "Impossible Magic pg. 69"
 
 <sup>IM p. 69</sup>
 
-Your eidolon’s level is equal to yours. They begin with expert proficiency in Fortitude and Will saves and trained proficiency in Reflex saves and Perception. In addition, they’re trained in unarmed attacks and unarmored defense. They share your skill proficiencies. Certain class features increase your eidolon’s proficiencies.
+Your eidolon’s level is equal to yours. They begin with expert proficiency in Fortitude and Will saves and trained proficiency in Reflex saves and Perception. In addition, they’re trained in [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|unarmed]] attacks and unarmored defense. They share your skill proficiencies. Certain class features increase your eidolon’s proficiencies.

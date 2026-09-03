@@ -14,7 +14,7 @@ While many cultures practice mummification for benign reasons, undead mummies ar
 
 ### Members
 
-Mummy Guardian (Creature 6), Mummy Pharaoh (Creature 9), Radiant Veranallia (Creature 20)
+[[srd/pf2e/bestiary/monster-core/undead/mummy-guardian|Mummy Guardian]] (Creature 6), [[srd/pf2e/bestiary/monster-core/undead/mummy-pharaoh|Mummy Pharaoh]] (Creature 9), Radiant Veranallia (Creature 20)
 
 ### Faithful Preservation
 

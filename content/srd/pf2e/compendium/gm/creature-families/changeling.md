@@ -10,7 +10,7 @@ source: "Monster Core"
 
 # Changeling  *Creature Family*
 
-As children of hags, perhaps destined to become hags themselves, changelings face a life of conflict. Born of supernatural creatures who usually kill and consume the child's father, changelings are deposited into their father's society to be raised. These offspring appear to be members of their paternal ancestry and have been found among dwarves, gnomes, orc, goblins, and others, but human-ancestry changelings are by far the most common. Within the normal range for their ancestry, changelings tend toward slighter builds, darker hair, and pale complexions, though their most common feature is a nearly universal heterochromia, leading to widespread superstition about individuals with different colored eyes.
+As children of hags, perhaps destined to become hags themselves, changelings face a life of conflict. Born of supernatural creatures who usually kill and consume the child's father, changelings are deposited into their father's society to be raised. These offspring appear to be members of their paternal ancestry and have been found among dwarves, gnomes, [[srd/pf2e/compendium/character/ancestries/orc|orc]], goblins, and others, but [[srd/pf2e/compendium/character/ancestries/human|human]]-ancestry changelings are by far the most common. Within the normal range for their ancestry, changelings tend toward slighter builds, darker hair, and pale complexions, though their most common feature is a nearly universal heterochromia, leading to widespread superstition about individuals with different colored eyes.
 
  When changelings come of age, they sometimes manifest abilities granted by their hag heritage. Some gain the ability to see in the dark, some grow fingernails long and hard enough to serve as claws, and others gain even stranger abilities specific to their hag mother. For instance, dream mays, the children of cuckoo hags, can gain an enhanced ability to resist the magic of dreams and sleep. Other types of changelings include slag mays, the children of iron hags; callow mays, the children of sweet hags; brine mays, the children of sea hags; and others for each type of hag.
 
@@ -20,7 +20,7 @@ As children of hags, perhaps destined to become hags themselves, changelings fac
 
 ### Members
 
-Changeling Exile (Creature 3)
+[[srd/pf2e/bestiary/monster-core/humanoid/changeling-exile|Changeling Exile]] (Creature 3)
 
 ### Changeling Exiles
 

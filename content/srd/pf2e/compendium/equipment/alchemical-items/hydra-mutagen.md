@@ -20,12 +20,12 @@ source: "Howl of the Wild"
 - **Price**: 600 gp
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 You sprout a second head, increasing your awareness, intuition, and cognitive ability but also causing your physical capabilities to be impaired as both minds struggle to control a single body.
 
-**Benefit** For 10 minutes, you gain all-around vision and a +3 item bonus to all Intelligence- and Wisdom-based skill checks. Once during the mutagen's effect, if you fail or critically fail a Will saving throw against a mental effect, you can treat the result as one degree of success better.
+**Benefit** For 10 minutes, you gain all-around vision and a +3 item bonus to all Intelligence- and Wisdom-based skill checks. Once during the mutagen's effect, if you fail or critically fail a Will saving throw against a [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]] effect, you can treat the result as one degree of success better.
 
-**Drawback** You are clumsy 1 for 10 minutes.
+**Drawback** You are [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 for 10 minutes.
 
 *Source: Howl of the Wild p. 110*

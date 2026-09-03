@@ -14,7 +14,7 @@ Boggards are aggressive humanoid amphibians who thrive in swamps, marshes, and e
 
 ### Members
 
-Boggard Dreadknot (Creature 10), Boggard Guard (Creature -1), Boggard Scout (Creature 1), Boggard Scout (Creature 1), Boggard Scouting Party (Creature 6), Boggard Swampseer (Creature 3), Boggard Warrior (Creature 2)
+[[srd/pf2e/bestiary/battlecry/animal/boggard-dreadknot|Boggard Dreadknot]] (Creature 10), Boggard Guard (Creature -1), [[srd/pf2e/bestiary/monster-core/humanoid/boggard-scout|Boggard Scout]] (Creature 1), Boggard Scout (Creature 1), [[srd/pf2e/bestiary/battlecry/humanoid/boggard-scouting-party|Boggard Scouting Party]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/boggard-swampseer|Boggard Swampseer]] (Creature 3), [[srd/pf2e/bestiary/monster-core/humanoid/boggard-warrior|Boggard Warrior]] (Creature 2)
 
 ### Boggard Villages
 

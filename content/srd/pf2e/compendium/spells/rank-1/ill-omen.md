@@ -18,7 +18,7 @@ source: "Player Core"
 `Concentrate`  `Curse`  `Manipulate`  `Misfortune`
 
 - **Tradition**: Occult
-- **Deities**: Ahriman, Azathoth, Bifrons, Chamiaholom, Dammar, Fortune's Fate, Gyronna, Imot, Lubaiko, Mestama, Sifkesh, The Tides of Chaos, Zeaki, Zyphus
+- **Deities**: [[srd/pf2e/compendium/character/deities#Ahriman|Ahriman]], Azathoth, Bifrons, Chamiaholom, Dammar, Fortune's Fate, Gyronna, Imot, Lubaiko, Mestama, Sifkesh, The Tides of Chaos, Zeaki, Zyphus
 - **Range**: 30 feet
 - **Target**: 1 creature
 - **Defense**: Will

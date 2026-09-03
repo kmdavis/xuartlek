@@ -13,6 +13,6 @@ source: "NPC Core"
 
 `Kickback`
 
-A kickback weapon is extra powerful and difficult to use due to its high recoil. A kickback weapon deals 1 additional damage with all attacks. Firing a kickback weapon gives a –2 circumstance penalty to the attack roll, but characters with +2 or more Strength ignore the penalty. Attaching a kickback weapon to a deployed bipod, tripod, or other stabilizer can lower or negate this penalty.
+A kickback weapon is extra powerful and difficult to use due to its high recoil. A kickback weapon deals 1 additional damage with all attacks. Firing a kickback weapon gives a –2 circumstance penalty to the attack roll, but characters with +2 or more Strength ignore the penalty. Attaching a kickback weapon to a deployed bipod, [[srd/pf2e/compendium/equipment/adventuring-gear/tripod|tripod]], or other stabilizer can lower or negate this penalty.
 
 *Source: NPC Core p. 50*

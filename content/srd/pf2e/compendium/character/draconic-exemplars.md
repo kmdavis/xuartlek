@@ -15,12 +15,12 @@ entries: 4
 Arcane
 
 **Bloodline Skill**
-Arcana
+[[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]
 
 **Sorcerous Gifts**
-- **2nd** Blazing Bolt
-- **5th** Subconscious Suggestion
-- **8th** Quandary
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/blazing-bolt|Blazing Bolt]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/subconscious-suggestion|Subconscious Suggestion]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/quandary|Quandary]]
 
 *Source: Player Core 2 p. 150*
 
@@ -30,12 +30,12 @@ Arcana
 Divine
 
 **Bloodline Skill**
-Religion
+[[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
 
 **Sorcerous Gifts**
-- **2nd** Augury
-- **5th** Divine Immolation
-- **8th** Divine Inspiration
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/augury|Augury]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/divine-immolation|Divine Immolation]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/divine-inspiration|Divine Inspiration]]
 
 *Source: Player Core 2 p. 150*
 
@@ -45,12 +45,12 @@ Religion
 Occult
 
 **Bloodline Skill**
-Occultism
+[[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]]
 
 **Sorcerous Gifts**
-- **2nd** Blood Vendetta
-- **5th** Slither
-- **8th** Unrelenting Observation
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/blood-vendetta|Blood Vendetta]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/slither|Slither]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/unrelenting-observation|Unrelenting Observation]]
 
 *Source: Player Core 2 p. 150*
 
@@ -60,11 +60,11 @@ Occultism
 Primal
 
 **Bloodline Skill**
-Nature
+[[srd/pf2e/compendium/rules-elements/skills/nature|Nature]]
 
 **Sorcerous Gifts**
-- **2nd** Shatter
-- **5th** Howling Blizzard
-- **8th** Earthquake
+- **2nd** [[srd/pf2e/compendium/spells/rank-2/shatter|Shatter]]
+- **5th** [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|Howling Blizzard]]
+- **8th** [[srd/pf2e/compendium/spells/rank-8/earthquake|Earthquake]]
 
 *Source: Player Core 2 p. 150*

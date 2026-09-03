@@ -13,12 +13,12 @@ entries: 114
 
 `Manipulate`
 
-- **Requirements**: You're wearing or holding a healer's toolkit.
+- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]].
 
-You perform first aid on an adjacent creature that is dying or bleeding. If a creature is both dying and bleeding, choose which ailment you're trying to treat before you roll. You can Administer First Aid again to attempt to remedy the other effect. 
-**Stabilize** Attempt a Medicine check on a creature that has 0 Hit Points and the dying condition. The DC is equal to 5 + that creature's recovery roll DC (typically 15 + its dying value).**Stop Bleeding** Attempt a Medicine check on a creature that is taking persistent bleed damage. The DC is usually the DC of the effect that caused the bleed.
+You perform first aid on an adjacent creature that is [[srd/pf2e/compendium/rules-elements/conditions#Dying|dying]] or bleeding. If a creature is both dying and bleeding, choose which ailment you're trying to treat before you roll. You can Administer First Aid again to attempt to remedy the other effect. 
+**Stabilize** Attempt a [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check on a creature that has 0 Hit Points and the dying condition. The DC is equal to 5 + that creature's recovery roll DC (typically 15 + its dying value).**Stop Bleeding** Attempt a Medicine check on a creature that is taking persistent bleed damage. The DC is usually the DC of the effect that caused the bleed.
 
-**Success** If you're trying to stabilize, the target loses the dying condition (but remains unconscious). If you're trying to stop bleeding, the target benefits from an assisted recovery with the lowered DC for particularly appropriate help.
+**Success** If you're trying to stabilize, the target loses the dying condition (but remains [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]). If you're trying to stop bleeding, the target benefits from an assisted recovery with the lowered DC for particularly appropriate help.
 
 **Critical Failure** If you were trying to stabilize, the target's dying value increases by 1. If you were trying to stop bleeding, the target immediately takes an amount of damage equal to its persistent bleed damage.
 
@@ -46,7 +46,7 @@ You try to help your ally with a task. To use this reaction, you must first prep
 - **Trigger**: You fall.
 - **Requirements**: You have a fly Speed.
 
-You attempt your choice of an Acrobatics check or Reflex save to slow your fall. The DC is typically 15, but it might be higher due to air turbulence or other circumstances.
+You attempt your choice of an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check or Reflex save to slow your fall. The DC is typically 15, but it might be higher due to air turbulence or other circumstances.
 
 **Success** You take no damage from the fall.
 
@@ -54,7 +54,7 @@ You attempt your choice of an Acrobatics check or Reflex save to slow your fall.
 
 ## Avert Gaze  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
-You avert your gaze from danger, such as a medusa's gaze. You gain a +2 circumstance bonus to saves against visual abilities that require you to look at a creature or object, such as a medusa's petrifying gaze. Your gaze remains averted until the start of your next turn.
+You avert your gaze from danger, such as a medusa's gaze. You gain a +2 circumstance bonus to saves against [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] abilities that require you to look at a creature or object, such as a medusa's petrifying gaze. Your gaze remains averted until the start of your next turn.
 
 *Source: Player Core p. 419*
 
@@ -62,7 +62,7 @@ You avert your gaze from danger, such as a medusa's gaze. You gain a +2 circumst
 
 `Exploration`
 
-You attempt a Stealth check to avoid notice while traveling at half speed. If you're Avoiding Notice at the start of an encounter, you usually roll a Stealth check instead of a Perception check both to determine your initiative and to see if the enemies notice you (based on their Perception DCs, as normal for Sneak, regardless of their initiative check results).
+You attempt a [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check to avoid notice while traveling at half speed. If you're Avoiding Notice at the start of an encounter, you usually roll a Stealth check instead of a Perception check both to determine your initiative and to see if the enemies notice you (based on their Perception DCs, as normal for Sneak, regardless of their initiative check results).
 
 *Source: Player Core p. 438*
 
@@ -70,10 +70,10 @@ You attempt a Stealth check to avoid notice while traveling at half speed. If yo
 
 `Concentrate`  `Emotion`  `Mental`
 
-- **Requirements**: The badger isn’t fatigued or raging.
+- **Requirements**: The badger isn’t [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] or raging.
 
-The badger enters a state of pure rage that lasts for 1 minute, until there are no enemies it can perceive, or until it falls unconscious, whichever comes first. It can't voluntarily stop raging. While raging, the badger is affected in the following ways. 
-It deals 4 additional damage with its bite attacks and 2 additional damage with its claw attacks.It takes a –1 penalty to AC.It can't use actions that have the concentrate trait. The animal companion can Seek even while raging.After it has stopped raging, it can't use Badger Rage again for 1 minute.
+The badger enters a state of pure rage that lasts for 1 minute, until there are no enemies it can perceive, or until it falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], whichever comes first. It can't voluntarily stop raging. While raging, the badger is affected in the following ways. 
+It deals 4 additional damage with its bite attacks and 2 additional damage with its claw attacks.It takes a –1 penalty to AC.It can't use actions that have the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait. The animal companion can Seek even while raging.After it has stopped raging, it can't use Badger Rage again for 1 minute.
 
 *Source: Player Core p. 207*
 
@@ -83,7 +83,7 @@ It deals 4 additional damage with its bite attacks and 2 additional damage with 
 
 - **Requirements**: You are in a square that contains a narrow surface, uneven ground, or another similar feature.
 
-You move across a narrow surface or uneven ground, attempting an Acrobatics check against its Balance DC. You are off-guard while on a narrow surface or uneven ground.
+You move across a narrow surface or uneven ground, attempting an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check against its Balance DC. You are [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] while on a narrow surface or uneven ground.
 
 **Critical Success** You move up to your Speed.
 
@@ -111,7 +111,7 @@ You move across a narrow surface or uneven ground, attempting an Acrobatics chec
 
 - **Requirements**: The bear’s last action was a successful claw Strike.
 
-The bear makes another claw Strike against the same target. If this Strike hits, the target is also grabbed, as if the bear had successfully Grappled the target.
+The bear makes another claw Strike against the same target. If this Strike hits, the target is also [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], as if the bear had successfully Grappled the target.
 
 *Source: Player Core p. 207*
 
@@ -153,9 +153,9 @@ Your ancestors' innate resistance to magic surges, before slowly ebbing down. Yo
 
 ## Cast a Spell  *Action*
 
-Spells can vary in how many actions they take, as shown in the spell’s stat block. You cast cantrips, spells from spell slots, and focus spells using the same process, but must expend the spell when casting a spell from a spell slot and must spend 1 Focus Point to cast a focus spell. Some rules will refer to the Cast a Spell activity, such as “if the next action you use is to Cast a Spell.” Any spell qualifies as a Cast a Spell activity, and any characteristics of the spell use those of the specific spell you’re casting.
+Spells can vary in how many actions they take, as shown in the spell’s stat block. You cast [[srd/pf2e/books/player-core/chapter-7-spells/cantrips|cantrips]], spells from [[srd/pf2e/books/player-core/chapter-7-spells/spell-slots|spell slots]], and [[srd/pf2e/books/player-core/chapter-7-spells/focus-spells|focus spells]] using the same process, but must expend the spell when casting a spell from a spell slot and must spend 1 Focus Point to cast a focus spell. Some rules will refer to the Cast a Spell activity, such as “if the next action you use is to Cast a Spell.” Any spell qualifies as a Cast a Spell activity, and any characteristics of the spell use those of the specific spell you’re casting.
 
-See rules for Casting Spells for more information.
+See rules for [[srd/pf2e/books/player-core/chapter-7-spells/casting-spells|Casting Spells]] for more information.
 
 *Source: Player Core p. 299*
 
@@ -163,7 +163,7 @@ See rules for Casting Spells for more information.
 
 `Flourish`
 
-The cat Strides and then Strikes. If it was undetected at the start of its Cat Pounce, it remains undetected until after the attack.
+The cat Strides and then Strikes. If it was [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] at the start of its Cat Pounce, it remains undetected until after the attack.
 
 *Source: Player Core p. 208*
 
@@ -173,13 +173,13 @@ The cat Strides and then Strikes. If it was undetected at the start of its Cat P
 
 - **Requirements**: You have two hands free.
 
-You attempt an Athletics check to move a maximum distance of 5 feet up, down, or across an incline. You're off-guard while climbing unless you have a climb Speed. The GM determines the DC based on the nature of the incline and environmental circumstances; you might get an automatic critical success on an incline that's trivial to climb. If your land Speed is 40 feet or higher, increase the maximum distance by 5 feet for every 20 feet of Speed above 20 feet.
+You attempt an Athletics check to move a maximum distance of 5 feet up, down, or across an incline. You're [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] while climbing unless you have a climb Speed. The GM determines the DC based on the nature of the incline and environmental circumstances; you might get an automatic critical success on an incline that's trivial to climb. If your land Speed is 40 feet or higher, increase the maximum distance by 5 feet for every 20 feet of Speed above 20 feet.
 
 **Critical Success** You move along the incline, increasing the maximum distance by 5 feet.
 
 **Success** You move along the incline.
 
-**Critical Failure** You fall. If you began the climb on stable ground, you fall and land prone.
+**Critical Failure** You fall. If you began the climb on stable ground, you fall and land [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 ### Sample Climb Tasks
 
@@ -199,9 +199,9 @@ You attempt an Athletics check to move a maximum distance of 5 feet up, down, or
 
 `Auditory`  `Concentrate`  `Emotion`  `Exploration`  `Linguistic`  `Mental`
 
-With threats either veiled or overt, you attempt to bully a creature into doing what you want. You must spend at least 1 minute of conversation with the creature. At the end of the conversation, attempt an Intimidation check against the target's Will DC, modified by any circumstances the GM determines. (The attitudes referenced in the effects below are summarized in the Changing Attitudes sidebar and described in full in the Conditions Appendix.)
+With threats either veiled or overt, you attempt to bully a creature into doing what you want. You must spend at least 1 minute of conversation with the creature. At the end of the conversation, attempt an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against the target's Will DC, modified by any circumstances the GM determines. (The attitudes referenced in the effects below are summarized in the Changing Attitudes sidebar and described in full in the [[srd/pf2e/books/player-core/conditions-appendix/index|Conditions Appendix]].)
 
-**Critical Success** The target gives you the information you seek or agrees to follow your directives so long as they aren't likely to harm the target in any way. The target continues to comply for an amount of time determined by the GM but not exceeding 1 day, at which point the target becomes unfriendly (if it wasn't already unfriendly or hostile). However, the target is too scared of you to retaliate—at least in the short term.
+**Critical Success** The target gives you the information you seek or agrees to follow your directives so long as they aren't likely to harm the target in any way. The target continues to comply for an amount of time determined by the GM but not exceeding 1 day, at which point the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Unfriendly|unfriendly]] (if it wasn't already unfriendly or [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]]). However, the target is too scared of you to retaliate—at least in the short term.
 
 **Success** As critical success, but once the target becomes unfriendly, they might decide to act against you—for example, by reporting you to the authorities or assisting your enemies.
 
@@ -215,9 +215,9 @@ With threats either veiled or overt, you attempt to bully a creature into doing 
 
 `Auditory`  `Concentrate`
 
-You issue an order to an animal. Attempt a Nature check against the animal's Will DC. The GM might adjust the DC if the animal has a good attitude toward you, you suggest a course of action it was predisposed toward, or you offer it a treat.
+You issue an order to an animal. Attempt a [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] check against the animal's Will DC. The GM might adjust the DC if the animal has a good attitude toward you, you suggest a course of action it was predisposed toward, or you offer it a treat.
 
- You automatically fail if the animal is hostile or unfriendly to you. If the animal is helpful to you, increase your degree of success by one step. You might be able to Command an Animal more easily with a feat like Ride. Most animals know the Drop Prone, Leap, Seek, Stand, Stride, and Strike basic actions. If an animal knows an activity, such as a horse's Gallop, you can Command the Animal to perform the activity, but you must spend as many actions on Command an Animal as the activity's number of actions. You can also spend multiple actions to Command the Animal to perform that number of basic actions on its next turn; for instance, you could spend 3 actions to Command an Animal to Stride three times or to Stride twice and then make a Strike.
+ You automatically fail if the animal is [[srd/pf2e/compendium/rules-elements/conditions#Hostile|hostile]] or [[srd/pf2e/compendium/rules-elements/conditions#Unfriendly|unfriendly]] to you. If the animal is [[srd/pf2e/compendium/rules-elements/conditions#Helpful|helpful]] to you, increase your degree of success by one step. You might be able to Command an Animal more easily with a feat like Ride. Most animals know the Drop Prone, Leap, Seek, Stand, Stride, and Strike basic actions. If an animal knows an activity, such as a horse's Gallop, you can Command the Animal to perform the activity, but you must spend as many actions on Command an Animal as the activity's number of actions. You can also spend multiple actions to Command the Animal to perform that number of basic actions on its next turn; for instance, you could spend 3 actions to Command an Animal to Stride three times or to Stride twice and then make a Strike.
 
 **Success** The animal does as you command on its next turn.
 
@@ -231,7 +231,7 @@ You issue an order to an animal. Attempt a Nature check against the animal's Wil
 
 `Manipulate`  `Secret`
 
-You hide a small object on your person (such as a weapon of light Bulk). When you try to sneak a concealed object past someone who might notice it, the GM rolls your Stealth check and compares it to this passive observer's Perception DC. Once the GM rolls your check for a concealed object, that same result is used no matter how many passive observers you try to sneak it past. If a creature is specifically searching you for an item, it can attempt a Perception check against your Stealth DC (finding the object on success).
+You hide a small object on your person (such as a weapon of light Bulk). When you try to sneak a concealed object past someone who might notice it, the GM rolls your [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check and compares it to this passive observer's Perception DC. Once the GM rolls your check for a concealed object, that same result is used no matter how many passive observers you try to sneak it past. If a creature is specifically searching you for an item, it can attempt a Perception check against your Stealth DC (finding the object on success).
 
  You can also conceal an object somewhere other than your person, such as among undergrowth or in a secret compartment within a piece of furniture. In this case, characters Seeking in an area compare their Perception check results to your Stealth DC to determine whether they find the object.
 
@@ -243,7 +243,7 @@ You hide a small object on your person (such as a weapon of light Bulk). When yo
 
 ## Constrict  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
-- **Requirements**: The snake has a smaller creature grabbed.
+- **Requirements**: The snake has a smaller creature [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]].
 
 The snake deals 12 bludgeoning damage to the grabbed creature; the creature must attempt a basic Fortitude save against your class DC. If the snake is a specialized animal companion, increase this damage to 20.
 
@@ -253,7 +253,7 @@ The snake deals 12 bludgeoning damage to the grabbed creature; the creature must
 
 `Concentrate`  `Exploration`  `Move`
 
-You cover your tracks, moving up to half your travel Speed. You don't need to attempt a Survival check to cover your tracks, but anyone tracking you must succeed at a Survival check against your Survival DC if it is higher than the normal DC to Track.
+You cover your tracks, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Exploration Activities|moving up to half your travel Speed]]. You don't need to attempt a [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check to cover your tracks, but anyone tracking you must succeed at a Survival check against your Survival DC if it is higher than the normal DC to Track.
 
  In some cases, you might Cover Tracks in an encounter. In this case, Cover Tracks is a single action and doesn't have the exploration trait.
 
@@ -266,7 +266,7 @@ You cover your tracks, moving up to half your travel Speed. You don't need to at
 You can make an item from raw materials. You need the Alchemical Crafting skill feat to create alchemical items and the Magical Crafting skill feat to create magic items.
 
  To Craft an item, you must meet the following requirements: 
-The item is your level or lower. An item that doesn't list a level is level 0. If the item is 9th level or higher, you must be a master in Crafting, and if it's 17th or higher, you must be legendary.The item must be common, or you must otherwise have access to it.You have an appropriate set of tools and, in many cases, a workshop. For example, you need access to a smithy to forge a metal shield, or an alchemist's lab to produce alchemical items.You must supply raw materials worth at least half the item's Price. You always expend at least that amount of raw materials when you Craft successfully. If you're in a settlement, you can usually spend currency to get the amount of raw materials you need, except in the case of rarer precious materials. You attempt a Crafting check after you spend 2 days of work setting up, or 1 day if you have the item's formula. The GM determines the DC to Craft the item based on its level, rarity, and other circumstances.
+The item is your level or lower. An item that doesn't list a level is level 0. If the item is 9th level or higher, you must be a master in Crafting, and if it's 17th or higher, you must be legendary.The item must be [[srd/pf2e/compendium/rules-elements/languages#Common|common]], or you must otherwise have access to it.You have an appropriate set of tools and, in many cases, a workshop. For example, you need access to a smithy to forge a metal shield, or an alchemist's lab to produce alchemical items.You must supply raw materials worth at least half the item's Price. You always expend at least that amount of raw materials when you Craft successfully. If you're in a settlement, you can usually spend currency to get the amount of raw materials you need, except in the case of rarer precious materials. You attempt a Crafting check after you spend 2 days of work setting up, or 1 day if you have the item's formula. The GM determines the DC to Craft the item based on its level, rarity, and other circumstances.
 
  If your attempt to create the item is successful, you expend the raw materials you supplied. You can pay the remaining portion of the item's Price in materials to complete the item immediately, or you can spend additional downtime days working on it. For each additional day you spend, reduce the value of the materials you need to expend to complete the item. This amount is determined using the Income Earned table, based on your proficiency rank in Crafting and using your own level instead of a task level.
 
@@ -290,7 +290,7 @@ The item is your level or lower. An item that doesn't list a level is level 0. I
 
 `Move`
 
-- **Requirements**: You are prone and your Speed is at least 10 feet.
+- **Requirements**: You are [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] and your Speed is at least 10 feet.
 
 You move 5 feet by crawling and continue to stay prone.
 
@@ -300,11 +300,11 @@ You move 5 feet by crawling and continue to stay prone.
 
 `Mental`
 
-With a gesture, a trick, or some distracting words, you can create a diversion that draws creatures' attention elsewhere. If you use a gesture or trick, this action gains the manipulate trait. If you use distracting words, it gains the auditory and linguistic traits.
+With a gesture, a trick, or some distracting words, you can create a diversion that draws creatures' attention elsewhere. If you use a gesture or trick, this action gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] trait. If you use distracting words, it gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/linguistic|linguistic]] traits.
 
- Attempt a single Deception check and compare it to the Perception DCs of the creatures whose attention you're trying to divert. Whether or not you succeed, creatures you attempt to divert gain a +4 circumstance bonus to their Perception DCs against your attempts to Create a Diversion for 1 minute.
+ Attempt a single [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check and compare it to the Perception DCs of the creatures whose attention you're trying to divert. Whether or not you succeed, creatures you attempt to divert gain a +4 circumstance bonus to their Perception DCs against your attempts to Create a Diversion for 1 minute.
 
-**Success** You become hidden to each creature whose Perception DC is less than or equal to your result. (The hidden condition allows you to Sneak away) This lasts until the end of your turn or until you do anything except Step or use the Stealth skill to Hide or Sneak. If you Strike a creature, the creature remains off-guard against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise.
+**Success** You become [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to each creature whose Perception DC is less than or equal to your result. (The hidden condition allows you to Sneak away) This lasts until the end of your turn or until you do anything except Step or use the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] skill to Hide or Sneak. If you Strike a creature, the creature remains [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against that attack, and you then become [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]]. If you do anything else, you become observed just before you act unless the GM determines otherwise.
 
 **Failure** You don't divert the attention of any creatures whose Perception DC exceeds your result, and those creatures are aware you were trying to trick them.
 
@@ -316,7 +316,7 @@ With a gesture, a trick, or some distracting words, you can create a diversion t
 
 - **Requirements**: You provide the proper writing materials for your forgery.
 
-You create a forged document, usually over the course of a day or a week. The GM rolls a secret DC 20 Society check. If you need to forge a specific person's handwriting, you need a sample of that person's handwriting. Otherwise, you need only to have seen a similar document, and you gain up to a +4 circumstance bonus to the check (the GM determines the bonus).
+You create a forged document, usually over the course of a day or a week. The GM rolls a secret DC 20 [[srd/pf2e/compendium/rules-elements/skills/society|Society]] check. If you need to forge a specific person's handwriting, you need a sample of that person's handwriting. Otherwise, you need only to have seen a similar document, and you gain up to a +4 circumstance bonus to the check (the GM determines the bonus).
 
 **Success** The forgery is of good enough quality that passive observers can't notice the fake (but see Examining Forgeries).
 
@@ -334,9 +334,9 @@ The raptor Steps up to 10 feet and then Strikes, or Strikes and then Steps up to
 
 ## Death Roll  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
-- **Requirements**: The crocodile has a creature grabbed.
+- **Requirements**: The crocodile has a creature [[srd/pf2e/compendium/rules-elements/actions/rage-of-elements|grabbed]].
 
-The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature prone. If it misses, it releases the creature.
+The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]. If it misses, it releases the creature.
 
 *Source: Player Core p. 208*
 
@@ -344,7 +344,7 @@ The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a 
 
 `Rogue`
 
-- **Trigger**: Your Strike hits an off-guard creature and deals damage.
+- **Trigger**: Your Strike hits an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature and deals damage.
 
 You apply one of the following debilitations, which lasts until the end of your next turn. 
 **Debilitation** The target takes a –10-foot status penalty to its Speeds.**Debilitation** The target becomes enfeebled 1.
@@ -355,7 +355,7 @@ You apply one of the following debilitations, which lasts until the end of your 
 
 `Concentrate`  `Exploration`  `Secret`
 
-You attempt to decipher complicated writing or literature on an obscure topic. This usually takes 1 minute per page of text, but might take longer (typically an hour per page for decrypting ciphers or the like). The text must be in a language you can read, though the GM might allow you to attempt to decipher text written in an unfamiliar language using Society instead.
+You attempt to decipher complicated writing or literature on an obscure topic. This usually takes 1 minute per page of text, but might take longer (typically an hour per page for decrypting ciphers or the like). The text must be in a language you can read, though the GM might allow you to attempt to decipher text written in an unfamiliar language using [[srd/pf2e/compendium/rules-elements/skills/society|Society]] instead.
 
  The DC is determined by the GM based on the state or complexity of the document. The GM might have you roll one check for a short text or a check for each section of a larger text.
 
@@ -393,7 +393,7 @@ You move at half your travel speed with your shield raised. If combat breaks out
 
 You wait for the right moment to act. The rest of your turn doesn't happen yet. Instead, you're removed from the initiative order. You can return to the initiative order as a free action triggered by the end of any other creature's turn. This permanently changes your initiative to the new position. You can't use reactions until you return to the initiative order. If you Delay an entire round without returning to the initiative order, the actions from the Delayed turn are lost, your initiative doesn't change, and your next turn occurs at your original position in the initiative order.
 
- When you Delay, any persistent damage or other negative effects that normally occur at the start or end of your turn occur immediately when you use the Delay action. Any beneficial effects that would end at any point during your turn also end. The GM might determine that other effects end when you Delay as well. Essentially, you can't Delay to avoid negative consequences that would happen on your turn or to extend beneficial effects that would end on your turn.
+ When you Delay, any [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent damage]] or other negative effects that normally occur at the start or end of your turn occur immediately when you use the Delay action. Any beneficial effects that would end at any point during your turn also end. The GM might determine that other effects end when you Delay as well. Essentially, you can't Delay to avoid negative consequences that would happen on your turn or to extend beneficial effects that would end on your turn.
 
 *Source: Player Core p. 416*
 
@@ -401,9 +401,9 @@ You wait for the right moment to act. The rest of your turn doesn't happen yet. 
 
 `Auditory`  `Concentrate`  `Emotion`  `Fear`  `Mental`
 
-With a sudden shout, a well-timed taunt, or a cutting put-down, you can shake an enemy's resolve. Choose a creature within 30 feet of you who you're aware of. Attempt an Intimidation check against that target's Will DC. If the target doesn't understand the language you are speaking, or you're not speaking a language, you take a –4 circumstance penalty to the check. Regardless of your result, the target is temporarily immune to your attempts to Demoralize it for 10 minutes.
+With a sudden shout, a well-timed taunt, or a cutting put-down, you can shake an enemy's resolve. Choose a creature within 30 feet of you who you're aware of. Attempt an [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] check against that target's Will DC. If the target doesn't understand the language you are speaking, or you're not speaking a language, you take a –4 circumstance penalty to the check. Regardless of your result, the target is temporarily immune to your attempts to Demoralize it for 10 minutes.
 
-**Critical Success** The target becomes frightened 2.
+**Critical Success** The target becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened 2]].
 
 **Success** The target becomes frightened 1.
 
@@ -421,7 +421,7 @@ You cast _detect magic_ at regular intervals. You move at half your travel speed
 
 `Manipulate`
 
-This action allows you to disarm a trap or another complex device. Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. A thieves' toolkit is helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in Thievery to disable it.
+This action allows you to disarm a trap or another complex device. Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. A [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|thieves' toolkit]] is helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] to disable it.
 
  Your Thievery check result determines your progress.
 
@@ -439,13 +439,13 @@ This action allows you to disarm a trap or another complex device. Often, a devi
 
 - **Requirements**: You have at least one hand free. The target can't be more than one size larger than you.
 
-You try to knock an item out of a creature's grasp. Attempt an Athletics check against the target's Reflex DC.
+You try to knock an item out of a creature's grasp. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the target's Reflex DC.
 
 **Critical Success** You knock the item out of the target's grasp. It falls to the ground in the target's space.
 
 **Success** You weaken your target's grasp on the item. Further attempts to Disarm the target of that item gain a +2 circumstance bonus, and the target takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item. The creature can end the effect by Interacting to change its grip on the item; otherwise, it lasts as long as the creature holds the item.
 
-**Critical Failure** You lose your balance and become off-guard until the start of your next turn.
+**Critical Failure** You lose your balance and become [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] until the start of your next turn.
 
 *Source: Player Core p. 236*
 
@@ -472,7 +472,7 @@ You expend the magical power stored in your bonded item. During the current turn
 
 `Move`
 
-You fall prone.
+You fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Player Core p. 416*
 
@@ -480,7 +480,7 @@ You fall prone.
 
 `Downtime`
 
-You use one of your skills to make money during downtime. The GM assigns a task level representing the most lucrative job available. You can search for lower-level tasks, with the GM determining whether you find any. Sometimes you can attempt to find better work than the initial offerings, though this takes time and requires using the Diplomacy skill to Gather Information, doing some research, or socializing.
+You use one of your skills to make money during downtime. The GM assigns a task level representing the most lucrative job available. You can search for lower-level tasks, with the GM determining whether you find any. Sometimes you can attempt to find better work than the initial offerings, though this takes time and requires using the [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] skill to Gather Information, doing some research, or socializing.
 
  When you take on a job, the GM secretly sets the DC of your skill check. After your first day of work, you roll to determine your earnings. You gain an amount of income based on your result, the task's level, and your proficiency rank (as listed on the Income Earned table).
 
@@ -516,7 +516,7 @@ These examples use Alcohol Lore to work in a bar or Legal Lore to perform legal 
 
 `Attack`
 
-You attempt to escape from being grabbed, immobilized, or restrained. Choose one creature, object, spell effect, hazard, or other impediment imposing any of those conditions on you. Attempt a check using your unarmed attack modifier against the DC of the effect. This is typically the Athletics DC of a creature grabbing you, the Thievery DC of a creature who tied you up, the spell DC for a spell effect, or the listed Escape DC of an object, hazard, or other impediment. You can attempt an Acrobatics or Athletics check instead of using your attack modifier if you choose (but this action still has the attack trait).
+You attempt to escape from being [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]], [[srd/pf2e/compendium/rules-elements/conditions#Immobilized|immobilized]], or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]]. Choose one creature, object, spell effect, hazard, or other impediment imposing any of those conditions on you. Attempt a check using your unarmed attack modifier against the DC of the effect. This is typically the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] DC of a creature grabbing you, the [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] DC of a creature who tied you up, the spell DC for a spell effect, or the listed Escape DC of an object, hazard, or other impediment. You can attempt an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] or [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check instead of using your attack modifier if you choose (but this action still has the [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] trait).
 
 **Critical Success** You get free and remove the grabbed, immobilized, and restrained conditions imposed by your chosen target. You can then Stride up to 5 feet.
 
@@ -532,9 +532,9 @@ You attempt to escape from being grabbed, immobilized, or restrained. Choose one
 
 - **Requirements**: You are within melee reach of the target you attempt to Feint.
 
-With a misleading flourish, you leave an opponent unprepared for your real attack. Attempt a Deception check against your target's Perception DC.
+With a misleading flourish, you leave an opponent unprepared for your real attack. Attempt a [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check against your target's Perception DC.
 
-**Critical Success** You throw your enemy's defenses against you entirely off. The target is off-guard against melee attacks that you attempt against it until the end of your next turn.
+**Critical Success** You throw your enemy's defenses against you entirely off. The target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against melee attacks that you attempt against it until the end of your next turn.
 
 **Success** Your foe is fooled, but only momentarily. The target is off-guard against the next melee attack that you attempt against it before the end of your current turn.
 
@@ -580,11 +580,11 @@ Choose an ally attempting a recurring skill check while exploring, such as climb
 
 `Attack`
 
-Using your body, a lever, or some other tool, you attempt to forcefully open a door, window, container or heavy gate. With a high enough result, you can even smash through walls. Without a crowbar, prying something open takes a –2 item penalty to the Athletics check to Force Open.
+Using your body, a lever, or some other tool, you attempt to forcefully open a door, window, container or heavy gate. With a high enough result, you can even smash through walls. Without a crowbar, prying something open takes a –2 item penalty to the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to Force Open.
 
 **Critical Success** You open the door, window, container, or gate and can avoid damaging it in the process.
 
-**Success** You break the door, window, container, or gate open, and it gains the broken condition. If it's especially sturdy, the GM might have it take damage but not be broken.
+**Success** You break the door, window, container, or gate open, and it gains the [[srd/pf2e/compendium/rules-elements/conditions#Broken|broken]] condition. If it's especially sturdy, the GM might have it take damage but not be broken.
 
 **Critical Failure** Your attempt jams the door, window, container, or gate shut, imposing a –2 circumstance penalty on future attempts to Force it Open.
 
@@ -604,7 +604,7 @@ Using your body, a lever, or some other tool, you attempt to forcefully open a d
 
 ## Frightening Display  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
-Your ape makes a loud and frightening display, throwing a foe off balance. The ape attempts to Demoralize the target creature; this display gains the visual trait and doesn't require language. While frightened by this ability, the target is off-guard to your ape.
+Your ape makes a loud and frightening display, throwing a foe off balance. The ape attempts to Demoralize the target creature; this display gains the [[srd/pf2e/compendium/rules-elements/traits/player-core/visual|visual]] trait and doesn't require language. While frightened by this ability, the target is [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] to your ape.
 
 *Source: Player Core p. 206*
 
@@ -647,7 +647,7 @@ You canvass local markets, taverns, and gathering places in an attempt to learn 
 - **Trigger**: You fall from or past an edge or handhold.
 - **Requirements**: Your hands are not tied behind your back or otherwise restrained
 
-When you fall off or past an edge or other handhold, you can try to grab it, potentially stopping your fall. You must succeed at your choice of an Acrobatics check or a Reflex save, usually at the Climb DC. If you grab the edge or handhold, you can then Climb up using Athletics.
+When you fall off or past an edge or other handhold, you can try to grab it, potentially stopping your fall. You must succeed at your choice of an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check or a Reflex save, usually at the Climb DC. If you grab the edge or handhold, you can then Climb up using Athletics.
 
 **Critical Success** You grab the edge or handhold, whether or not you have a hand free, typically by using a suitable held item to catch yourself (catching a battle axe on a ledge, for example). You still take damage from the distance fallen so far, but you treat the fall as though it were 30 feet shorter.
 
@@ -659,7 +659,7 @@ When you fall off or past an edge or other handhold, you can try to grab it, pot
 
 ## Grab and Sting  *Action*  [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action")
 
-The scorpion holds its foe in place with its pincers in order to sting it. It makes a pincer Strike. If the Strike hits, the target creature automatically becomes grabbed by the scorpion, which then makes a stinger Strike against it. The grabbed condition lasts until the end of your next turn.
+The scorpion holds its foe in place with its pincers in order to sting it. It makes a pincer Strike. If the Strike hits, the target creature automatically becomes [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] by the scorpion, which then makes a stinger Strike against it. The grabbed condition lasts until the end of your next turn.
 
 *Source: Player Core p. 210*
 
@@ -669,7 +669,7 @@ The scorpion holds its foe in place with its pincers in order to sting it. It ma
 
 - **Requirements**: You have at least one free hand and your target is no more than one size larger than you.
 
-Attempt an Athletics check against the target's Fortitude DC. You can Grapple a target you already have grabbed or restrained without having a hand free.
+Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the target's Fortitude DC. You can Grapple a target you already have [[srd/pf2e/compendium/rules-elements/conditions#Grabbed|grabbed]] or [[srd/pf2e/compendium/rules-elements/conditions#Restrained|restrained]] without having a hand free.
 
 **Critical Success** Your target is restrained until the end of your next turn unless you move or your target Escapes.
 
@@ -677,7 +677,7 @@ Attempt an Athletics check against the target's Fortitude DC. You can Grapple a 
 
 **Failure** You fail to grab your target. If you already had the target grabbed or restrained using a Grapple, those conditions on the target end.
 
-**Critical Failure** If you already had the target grabbed or restrained, it breaks free. Your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to fall and land prone.
+**Critical Failure** If you already had the target grabbed or restrained, it breaks free. Your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to fall and land [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Player Core p. 235*
 
@@ -685,11 +685,11 @@ Attempt an Athletics check against the target's Fortitude DC. You can Grapple a 
 
 `Secret`
 
-You huddle behind cover or greater cover or deeper into concealment to become hidden, rather than observed. The GM rolls your Stealth check in secret and compares the result to the Perception DC of each creature you're observed by but that you have cover or greater cover against or are concealed from. You get a +2 circumstance bonus to your check if you have standard cover (or +4 from greater cover).
+You huddle behind cover or greater cover or deeper into concealment to become [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]], rather than [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]]. The GM rolls your [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check in secret and compares the result to the Perception DC of each creature you're observed by but that you have cover or greater cover against or are concealed from. You get a +2 circumstance bonus to your check if you have standard cover (or +4 from greater cover).
 
-**Success** If the creature could see you, you're now hidden from it instead of observed. If you were hidden from or undetected by the creature, you retain that condition.
+**Success** If the creature could see you, you're now hidden from it instead of observed. If you were hidden from or [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] by the creature, you retain that condition.
 
- If you successfully become hidden to a creature but then cease to have cover or greater cover against it or be concealed from it, you become observed again. You cease being hidden if you do anything except Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains off-guard against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check.
+ If you successfully become hidden to a creature but then cease to have cover or greater cover against it or be [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from it, you become observed again. You cease being hidden if you do anything except Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check.
 
  If a creature uses Seek to make you observed by it, you must successfully Hide to become hidden from it again.
 
@@ -705,7 +705,7 @@ You Stride, then attempt a DC 30 Athletics check to jump vertically. If you didn
 
 **Failure** You Leap normally.
 
-**Critical Failure** You fall prone in your space.
+**Critical Failure** You fall [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] in your space.
 
 *Source: Player Core p. 235*
 
@@ -713,7 +713,7 @@ You Stride, then attempt a DC 30 Athletics check to jump vertically. If you didn
 
 `Concentrate`  `Ranger`
 
-You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration. You gain a +2 circumstance bonus to Perception checks when you Seek your prey and a +2 circumstance bonus to Survival checks when you Track your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you're hunting.
+You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration. You gain a +2 circumstance bonus to Perception checks when you Seek your prey and a +2 circumstance bonus to [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] checks when you Track your prey. You also ignore the penalty for making ranged attacks within your second range increment against the prey you're hunting.
 
  You can have only one creature designated as your prey at a time. If you use Hunt Prey against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preparations.
 
@@ -731,9 +731,9 @@ You strain yourself to move at double your travel speed. You can Hustle only for
 
 `Concentrate`  `Exploration`  `Secret`
 
-- **Requirements**: You are holding or wearing an alchemist's toolkit.
+- **Requirements**: You are holding or wearing an [[srd/pf2e/compendium/equipment/adventuring-gear/alchemists-toolkit|alchemist's toolkit]].
 
-You can identify the nature of an alchemical item with 10 minutes of testing using your alchemist's toolkit. If your attempt is interrupted in any way, you must start over. 
+You can identify the nature of an [[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|alchemical]] item with 10 minutes of testing using your alchemist's toolkit. If your attempt is interrupted in any way, you must start over. 
 
 **Success** You identify the item and the means of activating it.
 
@@ -765,7 +765,7 @@ Once you discover that an item, location, or ongoing effect is magical, you can 
 
 You create a disguise to pass yourself off as someone or something you are not. Assembling a convincing disguise takes 10 minutes and requires a disguise kit, but a simpler, quicker disguise might do the job if you're not trying to imitate a specific individual, at the GM's discretion.
 
- In most cases, creatures have a chance to detect your deception only if they use the Seek action to attempt Perception checks against your Deception DC. If you attempt to directly interact with someone while disguised, the GM rolls a secret Deception check for you against that creature's Perception DC instead.
+ In most cases, creatures have a chance to detect your deception only if they use the Seek action to attempt Perception checks against your [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] DC. If you attempt to directly interact with someone while disguised, the GM rolls a [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] Deception check for you against that creature's Perception DC instead.
 
  If you're disguised as a specific individual, the GM might give creatures you interact with a circumstance bonus based on how well they know the person you're imitating, or the GM might roll a secret Deception check even if you aren't directly interacting with others.
 
@@ -781,7 +781,7 @@ You create a disguise to pass yourself off as someone or something you are not. 
 
 `Manipulate`
 
-You use your hand or hands to manipulate an object or the terrain. You can grab an unattended or stored object, draw a weapon, swap a held item for another, open a door, or achieve a similar effect. On rare occasions, you might have to attempt a skill check to determine if your Interact action was successful.
+You use your hand or hands to manipulate an object or the terrain. You can grab an unattended or stored object, draw a weapon, [[srd/pf2e/books/player-core/chapter-6-equipment/carrying-items#Drawing and Stowing Items|swap a held item for another]], open a door, or achieve a similar effect. On rare occasions, you might have to attempt a skill check to determine if your Interact action was successful.
 
 *Source: Player Core p. 416*
 
@@ -789,7 +789,7 @@ You use your hand or hands to manipulate an object or the terrain. You can grab 
 
 `Concentrate`  `Exploration`
 
-You seek out information about your surroundings while traveling at half speed. You use Recall Knowledge as a secret check to discover clues among the various things you can see and engage with as you journey along. You can use any skill that has a Recall Knowledge action while Investigating, but the GM determines whether the skill is relevant to the clues you could find.
+You seek out information about your surroundings while traveling at half speed. You use Recall Knowledge as a [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] check to discover clues among the various things you can see and engage with as you journey along. You can use any skill that has a Recall Knowledge action while Investigating, but the GM determines whether the skill is relevant to the clues you could find.
 
 *Source: Player Core p. 439*
 
@@ -813,7 +813,7 @@ You can curse another creature with clumsiness. This curse has a range of 30 fee
 
 `Move`
 
-You take a short horizontal or vertical jump. Jumping a greater distance requires using the Athletics skill for a High Jump or Long Jump. 
+You take a short horizontal or vertical jump. Jumping a greater distance requires using the [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] skill for a High Jump or Long Jump. 
 **Horizontal Jump** up to 10 feet horizontally if your Speed is at least 15 feet, or up to 15 feet horizontally if your Speed is at least 30 feet. You land in the space where your Leap ends (meaning you can typically clear a 5-foot gap, or a 10-foot gap if your Speed is 30 feet or more). You can't make a horizontal Leap if your Speed is less than 15 feet.**Vertical Jump** up to 3 feet vertically and 5 feet horizontally onto an elevated surface.
 
 *Source: Player Core p. 417*
@@ -824,10 +824,10 @@ You take a short horizontal or vertical jump. Jumping a greater distance require
 
 - **Requirements**: You have a spellcasting class feature, and the spell you want to learn is on your magical tradition's spell list
 
-You can gain access to a new spell of your tradition from someone who knows that spell or from magical writing like a spellbook or scroll. If you can cast spells of multiple traditions, you can Learn a Spell of any of those traditions, but you must use the corresponding skill to do so. For example, if you were a cleric with the bard multiclass archetype, you couldn't use Religion to add an occult spell to your bardic spell repertoire.
+You can gain access to a new spell of your tradition from someone who knows that spell or from magical writing like a spellbook or scroll. If you can cast spells of multiple traditions, you can Learn a Spell of any of those traditions, but you must use the corresponding skill to do so. For example, if you were a [[srd/pf2e/compendium/character/classes/cleric|cleric]] with the bard multiclass archetype, you couldn't use [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] to add an occult spell to your bardic spell repertoire.
 
  To learn the spell, you must do the following: 
-Spend 1 hour per spell rank, during which you must remain in conversation with a person who knows the spell or have the magical writing in your possession.Have materials with the Price indicated in the Learning a Spell table.Attempt a skill check for the skill corresponding to your tradition (DC determined by the GM, often close to the DC on the Learning a Spell Table). Uncommon or rare spells have higher DCs. 
+Spend 1 hour per spell rank, during which you must remain in conversation with a person who knows the spell or have the magical writing in your possession.Have materials with the Price indicated in the Learning a Spell table.Attempt a skill check for the skill corresponding to your tradition (DC determined by the GM, often close to the DC on the Learning a Spell Table). Uncommon or rare spells have [[srd/pf2e/books/gm-core/chapter-1-running-the-game/difficulty-classes#Adjusting Difficulty|higher DCs]]. 
 
 **Critical Success** You expend half the materials and learn the spell.
 
@@ -852,7 +852,7 @@ Spend 1 hour per spell rank, during which you must remain in conversation with a
 
 `Auditory`  `Concentrate`  `Linguistic`  `Mental`  `Secret`
 
-You try to fool someone with an untruth. Doing so takes at least 1 round, or longer if the lie is elaborate. You roll a single Deception check and compare it against the Perception DC of every creature you are trying to fool. The GM might give them a circumstance bonus based on the situation and the nature of the lie you are trying to tell. Elaborate or highly unbelievable lies are much harder to get a creature to believe than simpler and more believable lies, and some lies are so big that it's impossible to get anyone to believe them.
+You try to fool someone with an untruth. Doing so takes at least 1 round, or longer if the lie is elaborate. You roll a single [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] check and compare it against the Perception DC of every creature you are trying to fool. The GM might give them a circumstance bonus based on the situation and the nature of the lie you are trying to tell. Elaborate or highly unbelievable lies are much harder to get a creature to believe than simpler and more believable lies, and some lies are so big that it's impossible to get anyone to believe them.
 
  At the GM's discretion, if a creature initially believes your lie, it might attempt a Perception check later to Sense Motive against your Deception DC to realize it's a lie. This usually happens if the creature discovers enough evidence to counter your statements.
 
@@ -870,7 +870,7 @@ You Stride, then attempt a DC 15 Athletics check to make a long jump in the dire
 
 **Failure** You make a normal horizontal Leap.
 
-**Critical Failure** You make a normal horizontal Leap, then fall and land prone.
+**Critical Failure** You make a normal horizontal Leap, then fall and land [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Player Core p. 235*
 
@@ -886,7 +886,7 @@ You can spend an entire day and night resting during downtime to recover Hit Poi
 
 `Auditory`  `Concentrate`  `Exploration`  `Linguistic`  `Mental`
 
-With at least 1 minute of conversation, during which you engage in charismatic overtures, flattery, and other acts of goodwill, you seek to make a good impression on someone to make them temporarily agreeable. At the end of the conversation, attempt a Diplomacy check against the Will DC of one target. You can instead choose up to five targets if you take a –2 penalty. The GM might add other bonuses or penalties based on the situation. Any impression you make lasts for only the current social interaction unless the GM decides otherwise. See the Changing Attitudes sidebar for a summary of the attitude conditions.
+With at least 1 minute of conversation, during which you engage in charismatic overtures, flattery, and other acts of goodwill, you seek to make a good impression on someone to make them temporarily agreeable. At the end of the conversation, attempt a [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] check against the Will DC of one target. You can instead choose up to five targets if you take a –2 penalty. The GM might add other bonuses or penalties based on the situation. Any impression you make lasts for only the current social interaction unless the GM decides otherwise. See the Changing Attitudes sidebar for a summary of the attitude conditions.
 
 **Critical Success** The target's attitude toward you improves by two steps.
 
@@ -902,7 +902,7 @@ With at least 1 minute of conversation, during which you engage in charismatic o
 
 - **Requirements**: You have a fly Speed.
 
-You try a difficult maneuver while flying. Attempt an Acrobatics check. The GM determines what maneuvers are possible, but they rarely allow you to move farther than your fly Speed.
+You try a difficult maneuver while flying. Attempt an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check. The GM determines what maneuvers are possible, but they rarely allow you to move farther than your fly Speed.
 
 **Success** You succeed at the maneuver.
 
@@ -926,7 +926,7 @@ You try a difficult maneuver while flying. Attempt an Acrobatics check. The GM d
 
 `Incapacitation`  `Rogue`
 
-- **Trigger**: Your Strike hits an off-guard creature and deals damage.
+- **Trigger**: Your Strike hits an [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creature and deals damage.
 
 The target attempts a Fortitude save against your class DC. It then becomes temporarily immune to your Master Strike for 1 day.
 
@@ -934,9 +934,9 @@ The target attempts a Fortitude save against your class DC. It then becomes temp
 
 **Success** The target is enfeebled 2 until the end of your next turn.
 
-**Failure** The target is paralyzed for 4 rounds.
+**Failure** The target is [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] for 4 rounds.
 
-**Critical Failure** The target is paralyzed for 4 rounds, knocked unconscious for 2 hours, or killed (your choice).
+**Critical Failure** The target is paralyzed for 4 rounds, knocked [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] for 2 hours, or killed (your choice).
 
 *Source: Player Core p. 169*
 
@@ -954,7 +954,7 @@ You move onto the creature and ride it. If you're already mounted, you can inste
 
 `Manipulate`
 
-You pick up a small, unattended object and try not to be noticed. Roll a single Thievery check against the Perception DCs of all creatures who are currently observing you. You can typically only Palm Objects of negligible Bulk, though the GM might determine otherwise depending on the situation.
+You pick up a small, unattended object and try not to be noticed. Roll a single [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check against the Perception DCs of all creatures who are currently observing you. You can typically only Palm Objects of negligible Bulk, though the GM might determine otherwise depending on the situation.
 
 **Success** The creature doesn't notice you Palming the Object.
 
@@ -966,7 +966,7 @@ You pick up a small, unattended object and try not to be noticed. Roll a single 
 
 `Concentrate`
 
-When making a brief performance—one song, a quick dance, or a few jokes—you use the Perform action. This action is most useful when you want to prove your capability or impress someone quickly. Performing rarely has an impact on its own, but it might influence the DCs of subsequent Diplomacy checks against the observers, or even change their attitudes if the GM sees fit.
+When making a brief performance—one song, a quick dance, or a few jokes—you use the Perform action. This action is most useful when you want to prove your capability or impress someone quickly. Performing rarely has an impact on its own, but it might influence the DCs of subsequent [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] checks against the observers, or even change their attitudes if the GM sees fit.
 
 **Critical Success** Your performance impresses the observers, and they're likely to share stories of your ability.
 
@@ -994,7 +994,7 @@ When making a brief performance—one song, a quick dance, or a few jokes—you 
 
 `Manipulate`
 
-- **Requirements**: You're holding or wearing a thieves' toolkit.
+- **Requirements**: You're holding or wearing a [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|thieves' toolkit]].
 
 Opening a lock without a key is very similar to Disabling a Device, but the DC of the check is determined by the complexity and construction of the lock you are attempting to pick (locks and their DCs can be found on their page). Locks of higher quality might require multiple successes to unlock. If you lack the proper tools, the GM might let you use improvised picks, which are treated as a shoddy toolkit.
 
@@ -1002,7 +1002,7 @@ Opening a lock without a key is very similar to Disabling a Device, but the DC o
 
 **Success** You open the lock, or you achieve one success toward opening a lock that requires more than one success. You leave behind damage that indicates the lock was picked on close scrutiny.
 
-**Critical Failure** You break your toolkit and leave behind obvious damage. Fixing a broken toolkit requires using Crafting to Repair it or else swapping in replacement picks (costing 3 sp, or 3 gp for an infiltrator thieves' toolkit).
+**Critical Failure** You break your toolkit and leave behind obvious damage. Fixing a broken toolkit requires using [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] to Repair it or else swapping in [[srd/pf2e/compendium/equipment/adventuring-gear/thieves-toolkit-infiltrator-picks|replacement picks]] (costing 3 sp, or 3 gp for an infiltrator thieves' toolkit).
 
 *Source: Player Core p. 247*
 
@@ -1010,9 +1010,9 @@ Opening a lock without a key is very similar to Disabling a Device, but the DC o
 
 `Auditory`  `Manipulate`  `Visual`
 
-- **Requirements**: A creature is undetected by one or more of your allies but isn't undetected by you.
+- **Requirements**: A creature is [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] by one or more of your allies but isn't undetected by you.
 
-You indicate a creature that you can see to one or more allies, gesturing in a direction and describing the distance verbally. That creature is hidden to your allies, rather than undetected. This works only for allies who can see you and are in a position where they could potentially detect the target. If your allies can't hear or understand you, they must succeed at a Perception check against the creature's Stealth DC or they misunderstand and believe the target is in a different location.
+You indicate a creature that you can see to one or more allies, gesturing in a direction and describing the distance verbally. That creature is [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] to your allies, rather than undetected. This works only for allies who can see you and are in a position where they could potentially detect the target. If your allies can't hear or understand you, they must succeed at a Perception check against the creature's [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] DC or they misunderstand and believe the target is in a different location.
 
 *Source: Player Core p. 419*
 
@@ -1026,9 +1026,9 @@ You position your shield to protect yourself. When you have Raised a Shield, you
 
 ## Reactive Strike  *Action*  [<](books/player-core/chapter-8-playing-the-game/actions#Actions "Reaction")
 
-- **Trigger**: A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.
+- **Trigger**: A creature within your reach uses a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action or a [[srd/pf2e/compendium/rules-elements/traits/player-core/move|move]] action, makes a ranged attack, or leaves a square during a move action it's using.
 
-You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.
+You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.
 
 *Source: Player Core p. 138*
 
@@ -1038,7 +1038,7 @@ You lash out at a foe that leaves an opening. Make a melee Strike against the tr
 
 You prepare to use an action that will occur outside your turn. Choose a single action or free action you can use, and designate a trigger. Your turn then ends. If the trigger you designated occurs before the start of your next turn, you can use the chosen action as a reaction (provided you still meet the requirements to use it). You can't Ready a free action that already has a trigger.
 
- If you have a multiple attack penalty and your readied action is an attack action, your readied attack takes the multiple attack penalty you had at the time you used Ready. This is one of the few times the multiple attack penalty applies when it's not your turn.
+ If you have a multiple attack penalty and your readied action is an [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] action, your readied attack takes the multiple attack penalty you had at the time you used Ready. This is one of the few times the multiple attack penalty applies when it's not your turn.
 
 *Source: Player Core p. 417*
 
@@ -1084,7 +1084,7 @@ You spend 10 minutes performing deeds to restore your magical connection. This r
 
 `Manipulate`
 
-You release something you're holding in your hand or hands. This might mean dropping an item, removing one hand from your weapon while continuing to hold it in another hand, releasing a rope suspending a chandelier, or performing a similar action. Unlike most manipulate actions, Release does not trigger reactions that can be triggered by actions with the manipulate trait (such as Reactive Strike).
+You release something you're holding in your hand or hands. This might mean dropping an item, removing one hand from your weapon while continuing to hold it in another hand, releasing a rope suspending a chandelier, or performing a similar action. Unlike most [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] actions, Release does not trigger reactions that can be triggered by actions with the manipulate trait (such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]]).
 
  If you want to prepare to Release something outside of your turn, use the Ready activity.
 
@@ -1094,9 +1094,9 @@ You release something you're holding in your hand or hands. This might mean drop
 
 `Exploration`  `Manipulate`
 
-- **Requirements**: You are holding or wearing a repair toolkit.
+- **Requirements**: You are holding or wearing a [[srd/pf2e/compendium/equipment/adventuring-gear/repair-toolkit-superb|repair toolkit]].
 
-You spend 10 minutes attempting to fix a damaged item, placing the item on a stable surface and using the repair toolkit with both hands. Roll a Crafting check. The GM sets the DC, but it's usually about the same DC to Repair a given item as it is to Craft it in the first place. You can't Repair a destroyed item.
+You spend 10 minutes attempting to fix a damaged item, placing the item on a stable surface and using the repair toolkit with both hands. Roll a [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check. The GM sets the DC, but it's usually about the same DC to Repair a given item as it is to Craft it in the first place. You can't Repair a destroyed item.
 
 **Critical Success** You restore 10 Hit Points to the item, plus an additional 10 Hit Points per proficiency rank you have in Crafting (a total of 20 HP if you're trained, 30 HP if you're an expert, 40 HP if you're a master, or 50 HP if you're legendary).
 
@@ -1110,7 +1110,7 @@ You spend 10 minutes attempting to fix a damaged item, placing the item on a sta
 
 `Concentrate`  `Exploration`
 
-You repeatedly cast the same spell while moving at half speed. Typically, this spell is a cantrip that you want to have in effect in the event a combat breaks out, and it must be one you can cast in 2 actions or fewer. Repeating a spell that requires making complex decisions, such as _figment_, can make you fatigued, as determined by the GM.
+You repeatedly cast the same spell while moving at half speed. Typically, this spell is a [[srd/pf2e/compendium/rules-elements/traits/player-core/cantrip|cantrip]] that you want to have in effect in the event a combat breaks out, and it must be one you can cast in 2 actions or fewer. Repeating a spell that requires making complex decisions, such as [[srd/pf2e/compendium/spells/cantrips/figment|_figment_]], can make you [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], as determined by the GM.
 
 *Source: Player Core p. 439*
 
@@ -1120,7 +1120,7 @@ You repeatedly cast the same spell while moving at half speed. Typically, this s
 
 - **Requirements**: You either have at least one hand free, or you're grabbing or restraining the target. The target can't be more than one size larger than you.
 
-You muscle a creature or object around. Attempt an Athletics check against the target's Fortitude DC.
+You muscle a creature or object around. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the target's Fortitude DC.
 
 **Critical Success** You move the creature up to 10 feet. It must remain within your reach during this movement, and you can't move it into or through obstacles.
 
@@ -1164,7 +1164,7 @@ Retraining offers a way to alter some of your character choices, which is helpfu
 
 ### Skills
 
- You can spend a week of downtime retraining to swap out one of your skill increases. Reduce your proficiency rank in the skill losing its increase by one step and increase your proficiency rank in another skill by one step. The new proficiency rank has to be equal to or lower than the proficiency rank you traded away. For instance, if your bard is a master in Performance and Stealth, and an expert in Occultism, you could reduce the character's proficiency in Stealth to expert and become a master in Occultism, but you couldn't reassign that skill increase to become legendary in Performance. Keep track of your level when you reassign skill increases; the level at which your skill proficiencies changed can influence your ability to retrain feats with skill prerequisites.
+ You can spend a week of downtime retraining to swap out one of your skill increases. Reduce your proficiency rank in the skill losing its increase by one step and increase your proficiency rank in another skill by one step. The new proficiency rank has to be equal to or lower than the proficiency rank you traded away. For instance, if your bard is a master in [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] and [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]], and an expert in [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], you could reduce the character's proficiency in Stealth to expert and become a master in Occultism, but you couldn't reassign that skill increase to become legendary in Performance. Keep track of your level when you reassign skill increases; the level at which your skill proficiencies changed can influence your ability to retrain feats with skill prerequisites.
 
  You can also spend a week to retrain an initial trained skill you gained during character creation. 
 
@@ -1196,7 +1196,7 @@ You Seek meticulously for hidden doors, concealed hazards, and so on. You can us
 
 You scan an area for signs of creatures or objects, possibly including secret doors or hazards. Choose an area to scan. The GM determines the area you can scan with one Seek action—almost always 30 feet or less in any dimension. The GM might impose a penalty if you search far away from you or adjust the number of actions it takes to Seek a particularly cluttered area.
 
- The GM attempts a single secret Perception check for you and compares the result to the Stealth DCs of any undetected or hidden creatures in the area, or the DC to detect each object in the area (as determined by the GM or by someone Concealing the Object). A creature you detect might remain hidden, rather than becoming observed, if you're using an imprecise sense or if an effect (such as _invisibility_) prevents the subject from being observed.
+ The GM attempts a single [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] Perception check for you and compares the result to the [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] DCs of any [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]] or [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] creatures in the area, or the DC to detect each object in the area (as determined by the GM or by someone Concealing the Object). A creature you detect might remain hidden, rather than becoming [[srd/pf2e/compendium/rules-elements/conditions#Observed|observed]], if you're using an imprecise sense or if an effect (such as _invisibility_) prevents the subject from being observed.
 
 **Critical Success** Any undetected or hidden creature you critically succeeded against becomes observed by you. You learn the location of objects in the area you critically succeeded against.
 
@@ -1208,7 +1208,7 @@ You scan an area for signs of creatures or objects, possibly including secret do
 
 `Exploration`  `Secret`
 
-Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild. Typically, you attempt a Survival check only once per day, but some environments or changes might necessitate rolling more often. The GM determines the DC and how long this activity takes (usually just a minute or so). More unusual locales or those you're unfamiliar with might require you to have a minimum proficiency rank to Sense Direction. Without a compass, you take a –2 item penalty to checks to Sense Direction.
+Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild. Typically, you attempt a [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check only once per day, but some environments or changes might necessitate rolling more often. The GM determines the DC and how long this activity takes (usually just a minute or so). More unusual locales or those you're unfamiliar with might require you to have a minimum proficiency rank to Sense Direction. Without a compass, you take a –2 item penalty to checks to Sense Direction.
 
 **Critical Success** You get an excellent sense of where you are. If you are in an environment with cardinal directions, you know them exactly.
 
@@ -1232,7 +1232,7 @@ Using the stars, the position of the sun, traits of the geography or flora, or t
 
 `Concentrate`  `Secret`
 
-You try to tell whether a creature's behavior is abnormal. Choose one creature and assess it for odd body language, signs of nervousness, and other indicators that it might be trying to deceive someone. The GM attempts a single secret Perception check for you and compares the result to the Deception DC of the creature, the DC of a spell affecting the creature's mental state, or another appropriate DC determined by the GM. You typically can't try to Sense the Motive of the same creature again until the situation changes significantly.
+You try to tell whether a creature's behavior is abnormal. Choose one creature and assess it for odd body language, signs of nervousness, and other indicators that it might be trying to deceive someone. The GM attempts a single [[srd/pf2e/compendium/rules-elements/traits/player-core/secret|secret]] Perception check for you and compares the result to the [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] DC of the creature, the DC of a spell affecting the creature's mental state, or another appropriate DC determined by the GM. You typically can't try to Sense the Motive of the same creature again until the situation changes significantly.
 
 **Critical Success** You determine the creature's true intentions and get a solid idea of any mental magic affecting it.
 
@@ -1250,13 +1250,13 @@ You try to tell whether a creature's behavior is abnormal. Choose one creature a
 
 - **Requirements**: You have at least one hand free. The target can't be more than one size larger than you.
 
-You push a creature away from you. Attempt an Athletics check against your target's Fortitude DC.
+You push a creature away from you. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against your target's Fortitude DC.
 
 **Critical Success** You push your target up to 10 feet away from you. You can Stride after it, but you must move the same distance and in the same direction.
 
 **Success** You push your target back 5 feet. You can Stride after it, but you must move the same distance and in the same direction.
 
-**Critical Failure** You lose your balance, fall, and land prone.
+**Critical Failure** You lose your balance, fall, and land [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Player Core p. 235*
 
@@ -1272,19 +1272,19 @@ The shark viciously rips into the wound. The target of the shark’s Strike take
 
 `Move`  `Secret`
 
-You attempt to move to another place while becoming or staying undetected. Stride up to half your Speed. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that Speed.)
+You attempt to move to another place while becoming or staying [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]]. Stride up to half your Speed. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that Speed.)
 
- At the end of your movement, the GM rolls your Stealth check in secret and compares the result to the Perception DC of each creature you were hidden from or undetected by at the start of your movement. If you have cover or greater cover from the creature throughout your Stride, you gain the +2 circumstance bonus from cover (or +4 from greater cover) to your Stealth check. Because you're moving, the bonus increase from Taking Cover doesn't apply. You don't get to roll against a creature if, at the end of your movement, you neither are concealed from it nor have cover or greater cover against it. You automatically become observed by such a creature.
+ At the end of your movement, the GM rolls your [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] check in secret and compares the result to the Perception DC of each creature you were [[srd/pf2e/compendium/rules-elements/conditions#Hidden|hidden]] from or undetected by at the start of your movement. If you have cover or greater cover from the creature throughout your Stride, you gain the +2 circumstance bonus from cover (or +4 from greater cover) to your Stealth check. Because you're moving, the bonus increase from Taking Cover doesn't apply. You don't get to roll against a creature if, at the end of your movement, you neither are [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] from it nor have cover or greater cover against it. You automatically become observed by such a creature.
 
 **Success** You're undetected by the creature during your movement and remain undetected by the creature at the end of it.
 
- You become observed as soon as you do anything other than Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains off-guard against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check. If you speak or make a deliberate loud noise, you become hidden instead of undetected.
+ You become observed as soon as you do anything other than Hide, Sneak, or Step. If you attempt to Strike a creature, the creature remains [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check. If you speak or make a deliberate loud noise, you become hidden instead of undetected.
 
  If a creature uses Seek and you become hidden to it as a result, you must Sneak if you want to become undetected by that creature again.
 
 **Failure** A telltale sound or other sign gives your position away, though you still remain unseen. You're hidden from the creature throughout your movement and remain so.
 
-**Critical Failure** You're spotted! You're observed by the creature throughout your movement and remain so. If you're invisible and were hidden from the creature, instead of being observed you're hidden throughout your movement and remain so.
+**Critical Failure** You're spotted! You're observed by the creature throughout your movement and remain so. If you're [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] and were hidden from the creature, instead of being observed you're hidden throughout your movement and remain so.
 
 *Source: Player Core p. 245*
 
@@ -1312,7 +1312,7 @@ You contort yourself to squeeze through a space so small you can barely fit thro
 
 `Move`
 
-You stand up from being prone.
+You stand up from being [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Player Core p. 418*
 
@@ -1322,7 +1322,7 @@ You stand up from being prone.
 
 You try to take a small object from another creature without being noticed. Typically, you can Steal only an object of negligible Bulk, you must have a free hand, and you automatically fail if the creature who has the object is in combat or on guard.
 
- Attempt a Thievery check to determine if you successfully Steal the object. The DC is usually the Perception DC of the creature wearing the object. It's easiest to steal an object that is worn but not closely guarded (like a loosely carried pouch filled with coins, or an object within such a pouch). The GM might increase the DC if the object is protected or if the nature of the object makes it harder to steal (such as a very small item in a large pack, or a sheet of parchment mixed in with other documents). For instance, the DC is typically 5 higher if the object is in a pocket, held in a creature's hand, or similarly protected.
+ Attempt a [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] check to determine if you successfully Steal the object. The DC is usually the Perception DC of the creature wearing the object. It's easiest to steal an object that is worn but not closely guarded (like a loosely carried pouch filled with coins, or an object within such a pouch). The GM might increase the DC if the object is protected or if the nature of the object makes it harder to steal (such as a very small item in a large pack, or a sheet of parchment mixed in with other documents). For instance, the DC is typically 5 higher if the object is in a pocket, held in a creature's hand, or similarly protected.
 
  You might also need to compare your Thievery check result against the Perception DCs of observers other than the person wearing the object. The GM might impose a circumstance penalty to the DCs of observers who are distracted.
 
@@ -1338,7 +1338,7 @@ You try to take a small object from another creature without being noticed. Typi
 
 - **Requirements**: Your Speed is at least 10 feet.
 
-You carefully move 5 feet. Unlike most types of movement, Stepping doesn't trigger reactions, such as Reactive Strike, that can be triggered by move actions or upon leaving or entering a square.
+You carefully move 5 feet. Unlike most types of movement, Stepping doesn't trigger reactions, such as [[srd/pf2e/compendium/rules-elements/actions/player-core#Reactive Strike|Reactive Strike]], that can be triggered by move actions or upon leaving or entering a square.
 
  You can't Step into difficult terrain, and you can't Step using a Speed other than your land Speed.
 
@@ -1348,7 +1348,7 @@ You carefully move 5 feet. Unlike most types of movement, Stepping doesn't trigg
 
 `Move`
 
-You move up to your Speed.
+You move up to your [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Speed|Speed]].
 
 *Source: Player Core p. 418*
 
@@ -1358,7 +1358,7 @@ You move up to your Speed.
 
 You attack with a weapon you're wielding or with an unarmed attack, targeting one creature within your reach (for a melee attack) or within range (for a ranged attack). Roll an attack roll using the attack modifier for the weapon or unarmed attack you're using, and compare the result to the target creature's AC to determine the effect.
 
-**Critical Success** You make a damage roll according to the weapon or unarmed attack and deal double damage (see Doubling and Halving Damage for rules on doubling damage).
+**Critical Success** You make a damage roll according to the weapon or unarmed attack and deal double damage (see [[srd/pf2e/books/player-core/chapter-8-playing-the-game/damage-rolls#Doubling and Halving Damage|Doubling and Halving Damage]] for rules on doubling damage).
 
 **Success** You make a damage roll according to the weapon or unarmed attack and deal damage.
 
@@ -1368,7 +1368,7 @@ You attack with a weapon you're wielding or with an unarmed attack, targeting on
 
 `Downtime`
 
-You try to provide food and shelter for yourself, and possibly others as well, with a standard of living described here. The GM determines the DC based on the nature of the place where you're trying to Subsist. You might need a minimum proficiency rank to Subsist in particularly strange environments. Unlike most downtime activities, you can Subsist after 8 hours or less of exploration, but if you do, you take a –5 penalty.
+You try to provide food and shelter for yourself, and possibly others as well, with a standard of living described [[srd/pf2e/books/player-core/chapter-6-equipment/gear#Cost of Living|here]]. The GM determines the DC based on the nature of the place where you're trying to Subsist. You might need a minimum proficiency rank to Subsist in particularly strange environments. Unlike most downtime activities, you can Subsist after 8 hours or less of exploration, but if you do, you take a –5 penalty.
 
 **Critical Success** You either provide a subsistence living for yourself and one additional creature, or you improve your own food and shelter, granting yourself a comfortable living.
 
@@ -1416,7 +1416,7 @@ Choose one of your effects that has a sustained duration or lists a special bene
 
 `Concentrate`  `Exploration`
 
-You Sustain one effect with a sustained duration while moving at half speed. Most such effects can be sustained for 10 minutes, though some specify they can be sustained for a different duration. Sustaining an effect that requires making complex decisions, such as _spiritual armament_, can make you fatigued, as determined by the GM.
+You [[srd/pf2e/compendium/rules-elements/actions/player-core#Sustain|Sustain]] one effect with a sustained duration while moving at half speed. Most such effects can be sustained for 10 minutes, though some specify they can be sustained for a different duration. Sustaining an effect that requires making complex decisions, such as [[srd/pf2e/compendium/spells/rank-2/spiritual-armament|_spiritual armament_]], can make you [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], as determined by the GM.
 
 *Source: Player Core p. 439*
 
@@ -1424,7 +1424,7 @@ You Sustain one effect with a sustained duration while moving at half speed. Mos
 
 `Move`
 
-You attempt an Athletics check to move a maximum distance of 10 feet through water. The GM determines the DC based on the turbulence or danger of the water; in most instances of calm water, you get an automatic critical success. If your land Speed is 40 feet or higher, increase the maximum possible distance by 5 feet for every 20 feet of Speed above 20 feet.
+You attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check to move a maximum distance of 10 feet through water. The GM determines the DC based on the turbulence or danger of the water; in most instances of calm water, you get an automatic critical success. If your land Speed is 40 feet or higher, increase the maximum possible distance by 5 feet for every 20 feet of Speed above 20 feet.
 
  If you end your turn in water and haven't succeeded at a Swim action that turn, you sink 10 feet or get moved by the current, as determined by the GM. This doesn't apply if your last action on your turn was to enter the water.
 
@@ -1450,9 +1450,9 @@ You attempt an Athletics check to move a maximum distance of 10 feet through wat
 
 ## Take Cover  *Action*  [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action")
 
-- **Requirements**: You are benefiting from standard cover, are near a feature that allows you to take cover, or are prone.
+- **Requirements**: You are benefiting from [[srd/pf2e/books/player-core/chapter-8-playing-the-game/movement#Cover|standard cover]], are near a feature that allows you to take cover, or are [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
-You press yourself against a wall or duck behind an obstacle to take better advantage of cover. If you would have standard cover, you instead gain greater cover, which provides a +4 circumstance bonus to AC; to Reflex saves against area effects; and to Stealth checks to Hide, Sneak, or otherwise avoid detection. Otherwise, you gain standard cover (a +2 circumstance bonus instead). If you're prone, you gain greater cover against ranged attacks. Take Cover lasts until you move from your current space, use an attack action, become unconscious, or end it as a free action.
+You press yourself against a wall or duck behind an obstacle to take better advantage of cover. If you would have standard cover, you instead gain greater cover, which provides a +4 circumstance bonus to AC; to Reflex saves against area effects; and to [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hide]], [[srd/pf2e/compendium/rules-elements/actions/player-core#Sneak|Sneak]], or otherwise avoid detection. Otherwise, you gain standard cover (a +2 circumstance bonus instead). If you're prone, you gain greater cover against ranged attacks. Take Cover lasts until you move from your current space, use an [[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]] action, become [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], or end it as a free action.
 
 *Source: Player Core p. 418*
 
@@ -1460,7 +1460,7 @@ You press yourself against a wall or duck behind an obstacle to take better adva
 
 - **Requirements**: The animal companion’s last action was a successful jaws Strike.
 
-The wolf automatically knocks the target of its jaws Strike prone.
+The wolf automatically knocks the target of its jaws Strike [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]].
 
 *Source: Player Core p. 210*
 
@@ -1474,11 +1474,11 @@ The arboreal sapling Interacts to pick up a rock within reach or retrieve a stow
 
 `Concentrate`  `Exploration`  `Move`
 
-You follow tracks, moving at up to half your travel Speed. After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour.
+You follow tracks, [[srd/pf2e/books/player-core/chapter-8-playing-the-game/exploration-mode#Exploration Activities|moving at up to half your travel Speed]]. After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour.
 
  In some cases, you might Track in an encounter. In this case, Track is a single action and doesn't have the exploration trait, but you might need to roll more often because you're in a tense situation. The GM determines how often you must attempt this check.
 
- You attempt your Survival check when you start Tracking, once every hour you continue tracking, and any time something significant changes in the trail. The GM determines the DCs for such checks, depending on the freshness of the trail, the weather, and the type of ground.
+ You attempt your [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check when you start Tracking, once every hour you continue tracking, and any time something significant changes in the trail. The GM determines the DCs for such checks, depending on the freshness of the trail, the weather, and the type of ground.
 
 **Success** You find the trail or continue to follow the one you're already following.
 
@@ -1504,9 +1504,9 @@ You follow tracks, moving at up to half your travel Speed. After a successful ch
 
 `Downtime`  `Manipulate`
 
-- **Requirements**: You're wearing or holding a healer's toolkit.
+- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]].
 
-You spend at least 8 hours caring for a diseased creature. Attempt a Medicine check against the disease's DC. After you attempt to Treat a Disease for a creature, you can't try again until after that creature's next save against the disease.
+You spend at least 8 hours caring for a diseased creature. Attempt a [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check against the [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease's]] DC. After you attempt to Treat a Disease for a creature, you can't try again until after that creature's next save against the disease.
 
 **Critical Success** You grant the creature a +4 circumstance bonus to its next saving throw against the disease.
 
@@ -1520,9 +1520,9 @@ You spend at least 8 hours caring for a diseased creature. Attempt a Medicine ch
 
 `Manipulate`
 
-- **Requirements**: You're wearing or holding a healer's toolkit.
+- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]].
 
-You treat a patient to prevent the spread of poison. Attempt a Medicine check against the poison's DC. After you attempt to Treat a Poison for a creature, you can't try again until after the next time that creature attempts a save against the poison.
+You treat a patient to prevent the spread of [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]]. Attempt a [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check against the poison's DC. After you attempt to Treat a Poison for a creature, you can't try again until after the next time that creature attempts a save against the poison.
 
 **Critical Success** You grant the creature a +4 circumstance bonus to its next saving throw against the poison.
 
@@ -1536,11 +1536,11 @@ You treat a patient to prevent the spread of poison. Attempt a Medicine check ag
 
 `Exploration`  `Healing`  `Manipulate`
 
-- **Requirements**: You're wearing or holding a healer's toolkit.
+- **Requirements**: You're wearing or holding a [[srd/pf2e/compendium/equipment/adventuring-gear/healers-toolkit-expanded|healer's toolkit]].
 
 You spend 10 minutes treating one injured living creature (targeting yourself, if you so choose). The target is then temporarily immune to Treat Wounds actions for 1 hour, but this interval overlaps with the time you spent treating (so a patient can be treated once per hour, not once per 70 minutes).
 
- The Medicine check DC is usually 15, though the GM might adjust it based on the circumstances, such as treating a patient outside in a storm, or treating magically cursed wounds. If you're an expert in Medicine, you can instead attempt a DC 20 check to increase the Hit Points regained by 10; if you're a master of Medicine, you can instead attempt a DC 30 check to increase the Hit Points regained by 30; and if you're legendary, you can instead attempt a DC 40 check to increase the Hit Points regained by 50. The damage dealt on a critical failure remains the same.
+ The [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] check DC is usually 15, though the GM might adjust it based on the circumstances, such as treating a patient outside in a storm, or treating magically cursed wounds. If you're an expert in Medicine, you can instead attempt a DC 20 check to increase the Hit Points regained by 10; if you're a master of Medicine, you can instead attempt a DC 30 check to increase the Hit Points regained by 30; and if you're legendary, you can instead attempt a DC 40 check to increase the Hit Points regained by 50. The damage dealt on a critical failure remains the same.
 
  If you succeed at your check, you can continue treating the target to grant additional healing. If you treat it for a total of 1 hour, double the Hit Points it regains from Treat Wounds.
 
@@ -1550,7 +1550,7 @@ You spend 10 minutes treating one injured living creature (targeting yourself, i
 
  **Proficiency****DC****Success Healing****Critical Healing** Trained152d84d8 Expert*202d8+104d8+10 Master*302d8+304d8+30 Legendary*402d8+504d8+50 * Rolling against a higher DC is optional.
 
-**Critical Success** The target regains 4d8 Hit Points and loses the wounded condition.
+**Critical Success** The target regains 4d8 Hit Points and loses the [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] condition.
 
 **Success** The target regains 2d8 Hit Points, and loses the wounded condition.
 
@@ -1564,9 +1564,9 @@ You spend 10 minutes treating one injured living creature (targeting yourself, i
 
 - **Requirements**: You have at least one hand free. Your target can't be more than one size larger than you.
 
-You try to knock a creature to the ground. Attempt an Athletics check against the target's Reflex DC.
+You try to knock a creature to the ground. Attempt an [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check against the target's Reflex DC.
 
-**Critical Success** The target falls, lands prone, and takes 1d6 bludgeoning damage.
+**Critical Success** The target falls, lands [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]], and takes 1d6 bludgeoning damage.
 
 **Success** The target falls and lands prone.
 
@@ -1578,7 +1578,7 @@ You try to knock a creature to the ground. Attempt an Athletics check against th
 
 `Move`
 
-You Stride up to your Speed. During this movement, you can try to move through the space of one enemy. Attempt an Acrobatics check against the enemy's Reflex DC as soon as you try to enter its space. You can Tumble Through using Climb, Fly, Swim, or another action instead of Stride in the appropriate environment.
+You Stride up to your Speed. During this movement, you can try to move through the space of one enemy. Attempt an [[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] check against the enemy's Reflex DC as soon as you try to enter its space. You can Tumble Through using Climb, Fly, Swim, or another action instead of Stride in the appropriate environment.
 
 **Success** You move through the enemy's space, treating the squares in its space as difficult terrain (every 5 feet costs 10 feet of movement). If you don't have enough Speed to move all the way through its space, you get the same effect as a failure.
 

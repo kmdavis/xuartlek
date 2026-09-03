@@ -20,9 +20,9 @@ source: "Treasure Vault (Remastered)"
 
 - **Usage**: held in 1 hand
 - **Bulk**: L
-- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (manipulate)
+- **Activate**: [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
-Each draft of _fey dragonet liqueur_ has a different flavor. For 1 hour after you drink it, you can use a single action to breathe out a 15-foot cone of euphoric gas. Each creature in the cone must attempt a DC 23 Will save. After you expel this magical breath, you can’t do so again for 1d4 rounds.
+Each draft of _fey dragonet liqueur_ has a different flavor. For 1 hour after you drink it, you can use a single action to breathe out a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]] of euphoric gas. Each creature in the cone must attempt a DC 23 Will save. After you expel this magical breath, you can’t do so again for 1d4 rounds.
 
 **Critical Success** The creature is unaffected.
 

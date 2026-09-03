@@ -31,10 +31,10 @@ modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; darkvision"
-languages: "Sussuran"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"
-    desc: "Diplomacy +11, Nature +12"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +11, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +12"
 abilityMods: [-5, 4, 0, -1, 3, 4]
 abilities_top:
   - name: "Plasmatic Form"
@@ -46,14 +46,14 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60; __Immunities__ disease, electricity, paralyzed, poison, precision; __Resistances__ all damage 5 (except force or _ghost touch_; double resistance vs. non-magical)"
+    desc: "60; __Immunities__ [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], precision; __Resistances__ all damage 5 (except [[srd/pf2e/compendium/rules-elements/traits/player-core/force|force]] or _ghost touch_; double resistance vs. non-[[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]])"
 abilities_mid:
   - name: "Illuminating Flames"
-    desc: "(aura, electricity, light, primal) 30 feet. The comozant wyrd sheds bright light in the emanation and dim light for another 30 feet. Heatless flames similar to the wyrd's own surround any creature in the emanation. A visible creature can't become concealed while in the emanation, and an invisible creature becomes concealed rather than undetected. The wyrd can communicate empathically with any non-mindless creature affected by illuminating flames, even if they don't share a language."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|electricity]], [[srd/pf2e/compendium/rules-elements/traits/player-core/light|light]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|primal]]) 30 feet. The comozant wyrd sheds bright light in the emanation and dim light for another 30 feet. Heatless flames similar to the wyrd's own surround any creature in the emanation. A visible creature can't become [[srd/pf2e/compendium/rules-elements/conditions#Concealed|concealed]] while in the emanation, and an [[srd/pf2e/compendium/rules-elements/conditions#Invisible|invisible]] creature becomes concealed rather than [[srd/pf2e/compendium/rules-elements/conditions#Undetected|undetected]]. The wyrd can communicate empathically with any non-[[srd/pf2e/compendium/rules-elements/traits/player-core/mindless|mindless]] creature affected by illuminating flames, even if they don't share a language."
 speed: "15 feet, fly 25 feet"
 attacks:
   - name: "Ranged"
-    desc: "⬻ lightning lash +15 (Electricity, range 30 feet) __Damage__ 2d12 electricity"
+    desc: "⬻ lightning lash +15 ([[srd/pf2e/compendium/rules-elements/traits/player-core/electricity|Electricity]], range 30 feet) __Damage__ 2d12 electricity"
 abilities_bot:
   - name: "Leap the Gap"
     desc: "⬺"

@@ -29,10 +29,10 @@ modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Athletics +7, Diplomacy +6, Performance +13, Stealth +6, Theater Lore +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/performance|Performance]] +13, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6, [[srd/pf2e/compendium/rules-elements/skills/lore|Theater Lore]] +5"
 abilityMods: [1, 3, 1, 0, 0, 4]
 abilities_top:
   - name: "Dance Specialist"
@@ -50,18 +50,18 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ dagger +7 (Agile, Finesse, versatile S) __Damage__ 1d4+3 piercing"
+    desc: "⬻ dagger +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+3 piercing"
   - name: "Melee"
-    desc: "⬻ foot +7 (Agile, Finesse, Nonlethal) __Damage__ 1d4+3 bludgeoning"
+    desc: "⬻ foot +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]]) __Damage__ 1d4+3 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ dagger +7 (Agile, thrown 10 feet, versatile S) __Damage__ 1d4+3 piercing"
+    desc: "⬻ dagger +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d4+3 piercing"
 abilities_bot:
   - name: "Fascinating Dance"
     desc: "⬻"
   - name: "Frequency"
     desc: "once per round"
   - name: "Effect"
-    desc: "The dancer Strides up to their Speed. Once during this movement, when the dancer is adjacent to a creature, the dancer can attempt to mesmerize that creature, who attempts a DC 17 Will save. On a failure, that creature is fascinated with the dancer until the end of its next turn."
+    desc: "The dancer Strides up to their Speed. Once during this movement, when the dancer is adjacent to a creature, the dancer can attempt to mesmerize that creature, who attempts a DC 17 Will save. On a failure, that creature is [[srd/pf2e/compendium/rules-elements/conditions#Fascinated|fascinated]] with the dancer until the end of its next turn."
 sourcebook: "_NPC Core_, page 124."
 ```
 

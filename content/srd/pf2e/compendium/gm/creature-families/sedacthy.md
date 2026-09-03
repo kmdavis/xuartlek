@@ -14,11 +14,11 @@ Sedacthies are amphibious, fish-like humanoids who lurk in Golarion's oceans and
 
 ### Members
 
-Sedacthy Marauder (Creature 4), Sedacthy Scout (Creature 2), Sedacthy Speaker (Creature 6)
+[[srd/pf2e/bestiary/monster-core/humanoid/sedacthy-marauder|Sedacthy Marauder]] (Creature 4), [[srd/pf2e/bestiary/monster-core/humanoid/sedacthy-scout|Sedacthy Scout]] (Creature 2), [[srd/pf2e/bestiary/monster-core/humanoid/sedacthy-speaker|Sedacthy Speaker]] (Creature 6)
 
 ### Ancient Wish
 
-The most important story in sedacthy oral history tells of impressing a powerful faydhaan genie in a game of wordplay and being granted the ability to speak with all creatures worthy of wisdom. As a result, faydhaans are held in special regard and are among the few that can broker peace with sedacthies.
+The most important story in sedacthy oral history tells of impressing a powerful [[srd/pf2e/bestiary/monster-core/elemental/faydhaan|faydhaan genie]] in a game of wordplay and being granted the ability to speak with all creatures worthy of wisdom. As a result, faydhaans are held in special regard and are among the few that can broker peace with sedacthies.
 
 ### Fleshwarping
 

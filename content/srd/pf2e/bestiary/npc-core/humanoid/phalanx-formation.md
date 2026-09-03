@@ -31,10 +31,10 @@ modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +17, Intimidation +14, Warfare Lore +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +17, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +14, [[srd/pf2e/compendium/rules-elements/skills/lore|Warfare Lore]] +11"
 abilityMods: [5, 0, 2, 1, 2, 2]
 ac: 23
 armorclass:
@@ -43,7 +43,7 @@ armorclass:
 hp: 99
 health:
   - name: "HP"
-    desc: "99 (4 segments); __Weaknesses__ area damage 5, splash damage 5"
+    desc: "99 (4 segments); __Weaknesses__ area damage 5, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 5"
 abilities_mid:
   - name: "Troop Defenses"
     desc: ""

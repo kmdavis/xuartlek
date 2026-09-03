@@ -45,15 +45,15 @@ Endemic to jungles of the Mwangi Expanse, blinding sickness is transmitted by di
 
 **Stage 1** carrier with no effects (1 day)
 
-**Stage 2** enfeebled 1 (1 day)
+**Stage 2** [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 1 (1 day)
 
 **Stage 3** enfeebled 2 (1 day)
 
-**Stage 4** enfeebled 2 and permanently blinded (1 day)
+**Stage 4** enfeebled 2 and permanently [[srd/pf2e/compendium/rules-elements/conditions#Blinded|blinded]] (1 day)
 
 **Stage 5** enfeebled 4 (1 day)
 
-**Stage 6** unconscious (1 day)
+**Stage 6** [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] (1 day)
 
 **Stage 7** death
 
@@ -70,7 +70,7 @@ Sometimes called bog foot, bog rot is caused by having waterlogged feet for an e
 **Onset**
 1 day
 
-**Stage 1** clumsy 1 (1 day)
+**Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 (1 day)
 
 **Stage 2** clumsy 1 and a –5-foot status penalty to Speed (1 day)
 
@@ -82,20 +82,20 @@ Sometimes called bog foot, bog rot is caused by having waterlogged feet for an e
 
 `Disease`  `Primal`
 
-If you are wounded and exposed to persistent cold, you might contract bonechill.
+If you are [[srd/pf2e/compendium/rules-elements/conditions#Wounded|wounded]] and exposed to [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent]] cold, you might contract bonechill.
 
 **Saving Throw** DC 20 Fortitude
 
 **Onset**
 1 day
 
-**Stage 1** clumsy 1 (1 day)
+**Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 (1 day)
 
 **Stage 2** clumsy 2 and can’t heal cold damage until this disease is cured (1 day)
 
-**Stage 3** clumsy 3 and all cold temperature effects are one step more severe for the victim (1 day)
+**Stage 3** clumsy 3 and all cold [[srd/pf2e/books/gm-core/chapter-2-building-games/environment#Temperature|temperature]] effects are one step more severe for the victim (1 day)
 
-**Stage 4** paralyzed and all cold temperature effects are one step more severe for the victim (1 day)
+**Stage 4** [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] and all cold temperature effects are one step more severe for the victim (1 day)
 
 *Source: GM Core p. 88*
 
@@ -110,15 +110,15 @@ Scholars suspect these brain parasites have an otherworldly or extraplanar origi
 **Onset**
 1 day
 
-**Stage 1** stupefied 2 (1 day)
+**Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 (1 day)
 
-**Stage 2** stupefied 2, and whenever you take damage, you must succeed at a Will save against the disease’s DC or become confused for 1 round (1 day)
+**Stage 2** stupefied 2, and whenever you take damage, you must succeed at a [[srd/pf2e/books/gm-core/chapter-5-treasure-trove/intelligent-items#Will Save|Will save]] against the disease’s DC or become [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]] for 1 round (1 day)
 
 **Stage 3** stupefied 3, and whenever you take damage, you must succeed at a Will save against the disease’s DC or become confused for 1 minute (1 day)
 
 **Stage 4** stupefied 4 and confused, damage does not end the confused condition (1 day)
 
-**Stage 5** unconscious (1 day)
+**Stage 5** [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] (1 day)
 
 **Stage 6** death
 
@@ -128,16 +128,16 @@ Scholars suspect these brain parasites have an otherworldly or extraplanar origi
 
 `Disease`
 
-This widespread illness can sweep through entire communities, leaving few unaffected. The first indication of the disease is a telltale swelling of glands. In some cases, the disease can move into your lungs (pneumonic plague) or blood (septicemic plague), which is even more fatal. If you have bubonic plague, you can’t remove the fatigued condition while affected.
+This widespread illness can sweep through entire communities, leaving few unaffected. The first indication of the disease is a telltale swelling of glands. In some cases, the disease can move into your lungs (pneumonic plague) or blood (septicemic plague), which is even more fatal. If you have bubonic plague, you can’t remove the [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] condition while affected.
 
 **Saving Throw** DC 17 Fortitude
 
 **Onset**
 1 day
 
-**Stage 1** fatigued (1 day)
+**Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] (1 day)
 
-**Stage 2** enfeebled 2 and fatigued (1 day)
+**Stage 2** [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 2 and fatigued (1 day)
 
 **Stage 3** enfeebled 3, fatigued, and take 1d6 persistent bleed damage every 1d20 minutes (1 day)
 
@@ -156,7 +156,7 @@ This disease is capable of wiping out nations or even entire continents. A few p
 
 **Stage 1** hoarse voice but no other symptoms (1 day)
 
-**Stage 2** drained 1 (1 day)
+**Stage 2** [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 1 (1 day)
 
 **Stage 3** drained 2 and can’t speak (1 day)
 
@@ -172,15 +172,15 @@ This devastating fungus infects your hand and can be cured by amputating the lim
 
 **Saving Throw** DC 34 Fortitude
 
-**Stage 1** clumsy 1 (1 day)
+**Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 (1 day)
 
 **Stage 2** clumsy 2, and using the infected hand deals 3d6 persistent bleed damage (1 day)
 
-**Stage 3** clumsy 2, stupefied 2, and the infected hand is unusable (1 day)
+**Stage 3** clumsy 2, [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2, and the infected hand is unusable (1 day)
 
 **Stage 4** clumsy 3, stupefied 3, and infected hand is permanently unusable (1 day)
 
-**Stage 5** confused, and damage does not end the confused condition (1 day)
+**Stage 5** [[srd/pf2e/compendium/rules-elements/conditions#Confused|confused]], and damage does not end the confused condition (1 day)
 
 **Stage 6** death
 
@@ -190,20 +190,20 @@ This devastating fungus infects your hand and can be cured by amputating the lim
 
 `Disease`
 
-A pernicious disease spread by bloodsucking insects, malaria sometimes enters long periods of dormancy. If you succumb to malaria, you may continue to be periodically affected by the disease, even if you’re cured. You can’t reduce your sickened condition while affected with malaria.
+A pernicious disease spread by bloodsucking insects, malaria sometimes enters long periods of dormancy. If you succumb to malaria, you may continue to be periodically affected by the disease, even if you’re cured. You can’t reduce your [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] condition while affected with malaria.
 
 **Saving Throw** DC 16 Fortitude
 
 **Onset**
 10 days
 
-**Stage 1** sickened 1 (1 day)
+**Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (1 day)
 
 **Stage 2** sickened 2 (1 day)
 
 **Stage 3** sickened 2, and disease recurs every 1d4 months even if cured (1 day)
 
-**Stage 4** unconscious (1 day)
+**Stage 4** [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]] (1 day)
 
 **Stage 5** death
 
@@ -213,17 +213,17 @@ A pernicious disease spread by bloodsucking insects, malaria sometimes enters lo
 
 `Disease`  `Occult`
 
-Thought to be caused by a divine curse, nightmare fever inflicts you with terrible nightmares, and you awaken with the wounds you received in your dreams. Some versions cause you to dream of being wounded by bludgeoning or piercing weapons, in which case you take that type of damage instead. Damage and the fatigued condition caused by the disease can’t be healed until the disease is removed.
+Thought to be caused by a divine curse, nightmare fever inflicts you with terrible nightmares, and you awaken with the wounds you received in your dreams. Some versions cause you to dream of being wounded by bludgeoning or piercing weapons, in which case you take that type of damage instead. Damage and the [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] condition caused by the disease can’t be healed until the disease is removed.
 
 **Saving Throw** DC 25 Will
 
-**Stage 1** 2d6 slashing damage and fatigued (1 day)
+**Stage 1** 2d6 slashing damage and [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]] (1 day)
 
 **Stage 2** 4d6 slashing damage and fatigued (1 day)
 
-**Stage 3** 4d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become frightened 2 (1 day)
+**Stage 3** 4d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] 2 (1 day)
 
-**Stage 4** 6d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become paralyzed for 1 round (1 day); **Stage 5** 6d6 slashing damage and unconscious
+**Stage 4** 6d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] for 1 round (1 day); **Stage 5** 6d6 slashing damage and [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]
 
 *Source: GM Core p. 89*
 
@@ -231,14 +231,14 @@ Thought to be caused by a divine curse, nightmare fever inflicts you with terrib
 
 `Disease`
 
-The relatively simple sore throat caused by this disease leads many victims to initially dismiss it as a mild illness, but scarlet fever can be deadly if left untreated. You can’t reduce your sickened condition while affected with scarlet fever.
+The relatively simple sore throat caused by this disease leads many victims to initially dismiss it as a mild illness, but scarlet fever can be deadly if left untreated. You can’t reduce your [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] condition while affected with scarlet fever.
 
 **Saving Throw** DC 13 Fortitude
 
 **Onset**
 2 days
 
-**Stage 1** sickened 1 (1 day)
+**Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]] 1 (1 day)
 
 **Stage 2** sickened 2 (1 day)
 
@@ -278,9 +278,9 @@ Many healers and alchemists suspect that sewer haze has a supernatural origin, b
 **Onset**
 3 days
 
-**Stage 1** stupefied 2 (1 day)
+**Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] 2 (1 day)
 
-**Stage 2** drained 2 and stupefied 2 (1 day)
+**Stage 2** [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 2 and stupefied 2 (1 day)
 
 **Stage 3** drained 3 and stupefied 3 (1 day)
 
@@ -297,11 +297,11 @@ An infection introduced through open wounds, tetanus can produce stiffness, musc
 **Onset**
 10 days
 
-**Stage 1** clumsy 1 (1 week)
+**Stage 1** [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 (1 week)
 
 **Stage 2** clumsy 2 and can’t speak (1 day)
 
-**Stage 3** paralyzed with spasms (1 day)
+**Stage 3** [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]] with spasms (1 day)
 
 **Stage 4** death
 
@@ -320,9 +320,9 @@ An extended respiratory disease, tuberculosis can pose particular challenges to 
 
 **Stage 1** carrier with no effects (1 week)
 
-**Stage 2** coughing requires you to succeed at a DC 5 flat check to Cast a Spell that has the concentrate trait or Activate an Item that has the concentrate trait (1 week)
+**Stage 2** coughing requires you to succeed at a DC 5 flat check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait or Activate an Item that has the concentrate trait (1 week)
 
-**Stage 3** fatigued, can’t recover from the fatigued condition, and coughing requires a successful DC 15 flat check to Cast a Spell that has the concentrate trait or Activate an Item that has the concentrate trait (1 week)
+**Stage 3** [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], can’t recover from the fatigued condition, and coughing requires a successful DC 15 flat check to Cast a Spell that has the concentrate trait or Activate an Item that has the concentrate trait (1 week)
 
 **Stage 4** unconscious (1 week)
 

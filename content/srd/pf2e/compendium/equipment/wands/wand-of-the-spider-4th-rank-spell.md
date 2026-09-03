@@ -21,7 +21,7 @@ source: "Player Core 2"
 
 The length of this wand is a pair of twisted giant spider legs.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _web_, but the strands of webbing are toxic. Any creature that fails its Athletics check or Reflex save to navigate the web takes 1d6 poison damage.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast [[srd/pf2e/compendium/spells/rank-2/web|_web_]], but the strands of webbing are toxic. Any creature that fails its Athletics check or Reflex save to navigate the web takes 1d6 poison damage.
 
 **Craft Requirements** Supply a casting of _web_ of the appropriate rank.
 

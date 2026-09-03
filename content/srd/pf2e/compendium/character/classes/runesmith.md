@@ -16,7 +16,7 @@ The following new key terms appear in many runesmith class features and feats.
 
 **Rune**: A runesmith doesn't cast spells, but they can apply various magical effects through runes. Runes can be applied via etching or tracing. Etched runes are applied in exploration mode and last indefinitely, while traced runes can be applied more quickly but last only until the end of your next turn. Their effects, however, are the same. Several abilities refer to creatures bearing one of your runes—this is any creature who has one of your runes applied to its body or to any gear it is wearing or holding.
 
-**Invocation**: An invocation action allows a runesmith to surge power through their rune by uttering its true name. Invocation requires you to be able to speak clearly in a strong voice and requires that you be within 30 feet of the target rune or runes unless another ability changes this. These actions include the Invoke Rune action, which makes the rune's invocation take place, then causes the rune to fade away. Using Invoke Rune normally allows you to invoke two runes, but other abilities that include the Invoke Rune action often change that number or the specific runes you can invoke.
+**Invocation**: An invocation action allows a [[srd/pf2e/compendium/character/classes/runesmith|runesmith]] to surge power through their rune by uttering its true name. Invocation requires you to be able to speak clearly in a strong voice and requires that you be within 30 feet of the target rune or runes unless another ability changes this. These actions include the Invoke Rune action, which makes the rune's invocation take place, then causes the rune to fade away. Using Invoke Rune normally allows you to invoke two runes, but other abilities that include the Invoke Rune action often change that number or the specific runes you can invoke.
 
 **Diacritic**: A diacritic is a special type of rune that's not applied directly to a creature or object, but rather drawn on another rune itself, modifying or empowering that base rune. A diacritic can never be applied by itself, and any effect that would remove or invoke the base rune always also removes or invokes the diacritic rune. A rune can have only one diacritic. A base rune with a diacritic counts as one rune for the purposes of invoking.
 
@@ -24,7 +24,7 @@ The following new key terms appear in many runesmith class features and feats.
 
 ### Runic Phrases
 
-While runes can have different proper names in various cultures or magical schools, the following represent some of their most common forms. Scholars and runesmiths will assemble runes according to a standard grammar, often appending diacritic runes onto their base runes. For instance, the combined form of _ranshu, the rune of thunder_, and _en, the rune of expansion_, might be called “en-ranshu.” While runes describe fundamental forces of the world, language is ever-changing, and so new runes might be born (and old runes fade from memory) as words and concepts are born and fall out of use.
+While runes can have different proper names in various cultures or magical schools, the following represent some of their most common forms. Scholars and runesmiths will assemble runes according to a standard grammar, often appending [[srd/pf2e/compendium/rules-elements/traits/impossible-magic/diacritic|diacritic]] runes onto their base runes. For instance, the combined form of _ranshu, the rune of thunder_, and _en, the rune of expansion_, might be called “en-ranshu.” While runes describe fundamental forces of the world, language is ever-changing, and so new runes might be born (and old runes fade from memory) as words and concepts are born and fall out of use.
 
 ### Roleplaying the Runesmith
 
@@ -63,8 +63,8 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 
 #### Skills
 
-Trained in Crafting
- Trained in your choice of Arcana, Nature, Occultism, or Religion
+Trained in [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]]
+ Trained in your choice of [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]], [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]], [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]], or [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]]
  Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
 | | |
@@ -131,9 +131,9 @@ Through meticulous study, you have carved the knowledge of secret runes into you
 
 #### Runic Magic
 
- Runes are magical effects. Some runes have a specific tradition trait; for instance, the elemental ranshu, rune of thunder is a primal rune. If a rune has the magical trait, you can choose to replace the magical trait with a specific tradition trait, provided you're trained in the skill matching that tradition. For instance, you could create an arcane _pluuna, rune of illumination_ if you were trained in Arcana. 
+ Runes are magical effects. Some runes have a specific tradition trait; for instance, the elemental ranshu, rune of thunder is a primal rune. If a rune has the [[srd/pf2e/compendium/rules-elements/traits/player-core/magical|magical]] trait, you can choose to replace the magical trait with a specific tradition trait, provided you're trained in the skill matching that tradition. For instance, you could create an arcane _pluuna, rune of illumination_ if you were trained in [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]]. 
 
-Though runes aren't spells, some things that affect spells also affect runes. Abilities that restrict you from casting spells (such as being polymorphed into a battle form) or protect against spells (such as a spell that protects against other spells or a creature's bonus to saves against spells) also apply to tracing or invoking runes, though you can continue to benefit from the effects of a rune that's already applied.
+Though runes aren't spells, some things that affect spells also affect runes. Abilities that restrict you from casting spells (such as being [[srd/pf2e/compendium/rules-elements/traits/player-core/polymorph|polymorphed]] into a battle form) or protect against spells (such as a spell that protects against other spells or a creature's bonus to saves against spells) also apply to tracing or invoking runes, though you can continue to benefit from the effects of a rune that's already applied.
 
  Any runes that require a saving throw use your runesmith class DC. Rune you etch or trace have the same level as you, even if this would increase the rune's initial level. For instance, if you're 5th level, your runes would be 5th level (and their counteract rank would be 3rd rank), even if you gained the rune at 1st level. Similar to spells, many runes get more powerful as you increase in level. In these cases, the rune ends with one or more Level entries. This either lists the levels the rune gets an upgrade or has an entry with a plus sign that describes a benefit that increases on a regular basis. For instance, a 1st-level rune with a “Level (+4)” entry would get stronger at 5th, 9th, 13th, and 17th levels.
 
@@ -149,12 +149,12 @@ Your LevelRunic RepertoireMax Etched Runes14224234244256366376386398410841184128
 
 | | |
 | --- | --- |
-| **Shield Block** | You gain the Shield Block general feat, a reaction that lets you reduce damage with your shield. |
+| **Shield Block** | You gain the [[srd/pf2e/compendium/feats/player-core/general/shield-block\|Shield Block]] general feat, a reaction that lets you reduce damage with your shield. |
 | **Runesmith Feats** | At 1st level and every even-numbered level thereafter, you gain a runesmith class feat. |
 
 #### Runic Crafter
 
-Your study of secret runes leaves you well practiced in crafting their more common cousins. You gain the Magical Crafting skill feat, even if you don't meet the prerequisites. You automatically learn the formulas for the fundamental armor runes (armor potency and resilient), fundamental shield rune (reinforcing), and fundamental weapon runes (weapon potency and striking) as soon as your level equals each item's. You practice your runes so thoroughly you can draw them by heart and thus do not need a formula book to record the formula of any runes you learn how to create.
+Your study of secret runes leaves you well practiced in crafting their more common cousins. You gain the [[srd/pf2e/compendium/feats/player-core/skill/magical-crafting|Magical Crafting]] skill feat, even if you don't meet the prerequisites. You automatically learn the formulas for the fundamental armor runes ([[srd/pf2e/compendium/equipment/runes/armor-potency-3|armor potency]] and [[srd/pf2e/compendium/equipment/runes/resilient-major|resilient]]), fundamental shield rune ([[srd/pf2e/compendium/equipment/runes/reinforcing-rune-supreme|reinforcing]]), and fundamental weapon runes ([[srd/pf2e/compendium/equipment/runes/weapon-potency-3|weapon potency]] and [[srd/pf2e/compendium/equipment/runes/striking-major|striking]]) as soon as your level equals each item's. You practice your runes so thoroughly you can draw them by heart and thus do not need a formula book to record the formula of any runes you learn how to create.
 
 At 4th level and every 2 levels thereafter, you learn the formula for an armor or weapon property rune of your choice. The rune must be of your level or lower, and can be a common rune or another rune to which you have access.
 
@@ -188,7 +188,7 @@ You've learned to draw upon the magic of weapon runes to deal greater damage. Yo
 
 #### Assured Runic Crafter
 
-You're so used to tracing and etching runes in the field that when given the peace and quiet of a proper workshop, it's hard for things to go too astray. When you roll a check to Craft a magic item in downtime and that item is a permanent rune, you get the outcome one degree of success better than the result of your Crafting check.
+You're so used to tracing and etching runes in the field that when given the peace and quiet of a proper workshop, it's hard for things to go too astray. When you roll a check to [[srd/pf2e/compendium/rules-elements/actions/player-core#Craft|Craft]] a magic item in downtime and that item is a permanent rune, you get the outcome one degree of success better than the result of your [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] check.
 
 #### Forged Endurance
 

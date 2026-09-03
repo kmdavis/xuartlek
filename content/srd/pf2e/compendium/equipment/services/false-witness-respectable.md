@@ -20,7 +20,7 @@ There comes a time in every thief's life when they need a friend, an ally, a boo
 
  False witnesses generally know better than to ask questions, but depending on their background, might refuse to protect—and might even turn in—someone involved in a particularly heinous crime. A tavern keeper might have no qualms about covering for burglars and footpads but will gladly send a child murderer to the gallows.
 
- **Detecting False Testimony:** To defeat a false witness's testimony, an investigator must succeed at a check against the DC listed in the entry. The check used depends on the investigation: Perception to Sense Motive versus spoken testimony, Society to determine forgeries, and so on. A false witness can sometimes stymie an investigation where the lead investigator is sufficiently lower level than the false witness, and they might be able to delay or befuddle a more serious investigation.
+ **Detecting False Testimony:** To defeat a false witness's testimony, an investigator must succeed at a check against the DC listed in the entry. The check used depends on the investigation: Perception to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]] versus spoken testimony, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] to determine forgeries, and so on. A false witness can sometimes stymie an investigation where the lead investigator is sufficiently lower level than the false witness, and they might be able to delay or befuddle a more serious investigation.
 
 ### False Witness (Disreputable)
 

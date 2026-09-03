@@ -29,10 +29,10 @@ modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; darkvision"
-languages: "Sakvroth"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +7, Crafting +5, Deception +5, Nature +5, Stealth +7, Thievery +7"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +7, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +5, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +5, [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] +5, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +7, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +7"
 abilityMods: [-2, 4, 0, 2, 2, 2]
 abilities_top:
   - name: "Items"
@@ -48,15 +48,15 @@ health:
 speed: "30 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ shortsword +9 (Agile, Finesse, reach 0 feet, versatile S) __Damage__ 1d6–2 piercing"
+    desc: "⬻ shortsword +9 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 0 feet]], [[srd/pf2e/compendium/rules-elements/traits/player-core/versatile|versatile S]]) __Damage__ 1d6–2 piercing"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "The jinkin deals 1d6 extra precision damage to off-guard creatures."
+    desc: "The jinkin deals 1d6 extra precision damage to [[srd/pf2e/compendium/rules-elements/conditions#Off-Guard|off-guard]] creatures."
   - name: "Tinker"
-    desc: "(Curse, Primal) A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while Hiding. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (DC 5 flat check or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]]) A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while [[srd/pf2e/compendium/rules-elements/actions/player-core#Hide|Hiding]]. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (DC 5 flat check or waste any action to Interact with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber."
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17 - __Cantrips (1st)__ Prestidigitation"
+    desc: "DC 17 - __Cantrips (1st)__ [[srd/pf2e/compendium/spells/cantrips/prestidigitation|Prestidigitation]]"
 sourcebook: "_Monster Core_, page 181."
 ```
 

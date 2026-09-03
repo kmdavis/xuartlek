@@ -17,7 +17,7 @@ source: "Player Core"
 `Concentrate`  `Manipulate`  `Sonic`
 
 - **Traditions**: Occult, Primal
-- **Deities**: Ahriman, Hadregash, Zyphus
+- **Deities**: [[srd/pf2e/compendium/character/deities#Ahriman|Ahriman]], Hadregash, Zyphus
 - **Range**: 30 feet
 - **Target**: 1 unattended object
 

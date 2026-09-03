@@ -29,7 +29,7 @@ perception:
     desc: "Perception +6; low-light vision, scent (imprecise) 30 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +6, Athletics +7, Stealth +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +6, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +7, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +6"
 abilityMods: [3, 3, 2, -4, 1, -2]
 ac: 16
 armorclass:
@@ -45,7 +45,7 @@ attacks:
     desc: "⬻ jaws +8 __Damage__ 1d8+3 piercing plus Knockdown"
 abilities_bot:
   - name: "Drag"
-    desc: "⬻ The hyena makes a jaws Strike against a prone enemy. If it hits, in addition to dealing damage, the hyena Strides up to 10 feet, dragging the enemy along."
+    desc: "⬻ The hyena makes a jaws Strike against a [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] enemy. If it hits, in addition to dealing damage, the hyena Strides up to 10 feet, dragging the enemy along."
   - name: "Pack Attack"
     desc: "The hyena deals an extra 1d4 damage to any creature that's within reach of at least two of the hyena's allies."
 sourcebook: "_Monster Core_, page 205."

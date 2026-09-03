@@ -62,14 +62,14 @@ A young kobold's given name is rarely more than a syllable or two. However, as t
 
 #### Languages
 
-Common
+[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]
 
-Sakvroth
+[[srd/pf2e/compendium/rules-elements/languages#Sakvroth|Sakvroth]]
 
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Aklo, Diabolic, Draconic, Dwarven, Empyrean, Fey, Gnomish, and Petran, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from [[srd/pf2e/compendium/rules-elements/languages#Aklo|Aklo]], [[srd/pf2e/compendium/rules-elements/languages#Diabolic|Diabolic]], [[srd/pf2e/compendium/rules-elements/languages#Draconic|Draconic]], [[srd/pf2e/compendium/rules-elements/languages#Dwarven|Dwarven]], [[srd/pf2e/compendium/rules-elements/languages#Empyrean|Empyrean]], [[srd/pf2e/compendium/rules-elements/languages#Fey|Fey]], [[srd/pf2e/compendium/rules-elements/languages#Gnomish|Gnomish]], and [[srd/pf2e/compendium/rules-elements/languages#Petran|Petran]], and any other languages to which you have access (such as the languages prevalent in your region).
 
-| | |
-| --- | --- |
-| **Darkvision** | You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white. |
+#### Darkvision
+
+You can see in [[srd/pf2e/books/player-core/chapter-8-playing-the-game/perception-and-detection#Darkness|darkness]] and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
 
 *Source: Player Core 2 p. 20*

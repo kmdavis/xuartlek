@@ -30,7 +30,7 @@ This staff is tapered at the base and carved into a gem-studded twist at the top
 
 ---
 
- **Cantrip** _frostbite_ **1st** _breathe fire_, _pummeling rubble_, _thunderstrike_ **2nd** _blazing bolt_, _resist energy_ 
+ **Cantrip** [[srd/pf2e/compendium/spells/cantrips/frostbite|_frostbite_]] **1st** [[srd/pf2e/compendium/spells/rank-1/breathe-fire|_breathe fire_]], [[srd/pf2e/compendium/spells/rank-1/pummeling-rubble|_pummeling rubble_]], [[srd/pf2e/compendium/spells/rank-1/thunderstrike|_thunderstrike_]] **2nd** [[srd/pf2e/compendium/spells/rank-2/blazing-bolt|_blazing bolt_]], [[srd/pf2e/compendium/spells/rank-2/resist-energy|_resist energy_]] 
 
 ### Staff of Elemental Power (Greater)
 
@@ -38,7 +38,7 @@ This staff is tapered at the base and carved into a gem-studded twist at the top
 
 ---
 
- **3rd** _fireball_, _lightning bolt_ **4th** resist energy, _wall of fire_ 
+ **3rd** [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]], [[srd/pf2e/compendium/spells/rank-3/lightning-bolt|_lightning bolt_]] **4th** resist energy, [[srd/pf2e/compendium/spells/rank-4/wall-of-fire|_wall of fire_]] 
 
 ### Staff of Elemental Power (Major)
 
@@ -46,6 +46,6 @@ This staff is tapered at the base and carved into a gem-studded twist at the top
 
 ---
 
- **5th** _howling blizzard_, _wall of ice_ **6th** _chain lightning_, fireball
+ **5th** [[srd/pf2e/compendium/spells/rank-5/howling-blizzard|_howling blizzard_]], [[srd/pf2e/compendium/spells/rank-5/wall-of-ice|_wall of ice_]] **6th** [[srd/pf2e/compendium/spells/rank-6/chain-lightning|_chain lightning_]], fireball
 
 *Source: GM Core p. 279*

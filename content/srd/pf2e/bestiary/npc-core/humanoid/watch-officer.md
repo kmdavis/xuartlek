@@ -28,11 +28,11 @@ trait_02: "Humanoid"
 modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +8; (9 to Sense Motive)"
-languages: "Common"
+    desc: "Perception +8; (9 to [[srd/pf2e/compendium/rules-elements/actions/player-core#Sense Motive|Sense Motive]])"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +11, Diplomacy +6, Intimidation +9, Legal Lore +7, Society +5"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11, [[srd/pf2e/compendium/rules-elements/skills/diplomacy|Diplomacy]] +6, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +9, [[srd/pf2e/compendium/rules-elements/skills/lore|Legal Lore]] +7, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +5"
 abilityMods: [4, 1, 3, 0, 1, 1]
 abilities_top:
   - name: "Items"
@@ -47,9 +47,9 @@ health:
     desc: "45"
 abilities_mid:
   - name: "Air of Authority"
-    desc: "(aura, emotion, mental) 10 feet. Creatures in the aura who are the same or lower level than the watch officer take a –2 status penalty to their Will DC against the watch officer's attempts to Coerce or Demoralize them."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]]) 10 feet. Creatures in the aura who are the same or lower level than the watch officer take a –2 status penalty to their Will DC against the watch officer's attempts to [[srd/pf2e/compendium/rules-elements/actions/player-core#Coerce|Coerce]] or [[srd/pf2e/compendium/rules-elements/actions/player-core#Demoralize|Demoralize]] them."
   - name: "Bravery"
-    desc: "When the watch officer rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the frightened condition, reduce its value by 1."
+    desc: "When the watch officer rolls a success on a Will save against a [[srd/pf2e/compendium/rules-elements/traits/player-core/fear|fear]] effect, they get a critical success instead. In addition, any time they gain the [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] condition, reduce its value by 1."
   - name: "Reactive Strike"
     desc: "⬲"
   - name: "Shield Block"
@@ -57,9 +57,9 @@ abilities_mid:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ warhammer +13 (Shove) __Damage__ 1d8+7 bludgeoning"
+    desc: "⬻ warhammer +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/shove|Shove]]) __Damage__ 1d8+7 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +13 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+7 bludgeoning"
+    desc: "⬻ fist +13 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+7 bludgeoning"
   - name: "Ranged"
     desc: "⬻ crossbow +10 (range increment 120 feet, reload 1) __Damage__ 1d8+3 piercing"
 abilities_bot:

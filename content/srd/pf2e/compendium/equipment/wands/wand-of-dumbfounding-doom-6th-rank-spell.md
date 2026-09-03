@@ -25,7 +25,7 @@ source: "Treasure Vault (Remastered)"
 
 Carvings of skulls, monsters, and all manner of violence decorate this wand of blackened bone, but it makes absurd sounds when Activated, such as a honking horn, a manic giggle, or a daydreamy sigh.
 
-**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _impending doom_ of the indicated rank, showing the target a potential death that's gruesome and absurd. If the target becomes frightened by the spell, it also becomes stupefied with a value 1 higher than the frightened value. This lasts for the duration of the spell.
+**Activate** Cast a Spell; **Frequency** once per day, plus overcharge; **Effect** You cast _impending doom_ of the indicated rank, showing the target a potential death that's gruesome and absurd. If the target becomes [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]] by the spell, it also becomes [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.
 
 **Craft Requirements** Supply a casting of _impending doom_ of the appropriate rank.
 

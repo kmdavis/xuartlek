@@ -23,11 +23,11 @@ The most rare and valuable skymetal, orichalcum is coveted for its incredible ti
 
 #### Material Uses
 
-Orichalcum Armor
+[[srd/pf2e/compendium/equipment/armor/orichalcum-armor-high-grade|Orichalcum Armor]]
 
-Orichalcum Shield
+[[srd/pf2e/compendium/equipment/shields/orichalcum-shield-high-grade|Orichalcum Shield]]
 
-Orichalcum Weapon
+[[srd/pf2e/compendium/equipment/weapons/orichalcum-weapon-high-grade|Orichalcum Weapon]]
 
 ### Orichalcum Chunk
 

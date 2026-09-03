@@ -21,6 +21,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell (add 1 action)
 
-This simple lead weight is inscribed with Petran runes. When used as a catalyst to cast a __gravity well__ spell, the lead sublimates into an acrid gas, which then clings to the targets’ legs and feet. A creature that fails its saving throw is also knocked prone after it moves.
+This simple lead weight is inscribed with Petran runes. When used as a catalyst to cast a _[[srd/pf2e/compendium/spells/rank-3/gravity-well|_gravity well_]]_ spell, the lead sublimates into an acrid gas, which then clings to the targets’ legs and feet. A creature that fails its saving throw is also knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]] after it moves.
 
 *Source: Impossible Magic p. 215*

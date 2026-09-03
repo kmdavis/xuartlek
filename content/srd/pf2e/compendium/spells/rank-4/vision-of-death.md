@@ -33,7 +33,7 @@ You force the target to see a vision of its own death. It takes 8d6 mental damag
 
 **Failure** The target takes full damage and is frightened 2.
 
-**Critical Failure** The target takes double damage, is frightened 4, and is fleeing for as long as it's frightened.
+**Critical Failure** The target takes double damage, is frightened 4, and is [[srd/pf2e/compendium/rules-elements/conditions#Fleeing|fleeing]] for as long as it's frightened.
 
 ---
 **Heightened (+1)** The damage increases by 2d6.

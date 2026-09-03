@@ -14,7 +14,7 @@ Elusive, flighty, and ebullient, sprites are what many villagers first imagine w
 
 ### Members
 
-Draxie (Creature 3), Pixie (Creature 4), Sprite (Creature -1)
+[[srd/pf2e/bestiary/monster-core/fey/draxie|Draxie]] (Creature 3), [[srd/pf2e/bestiary/monster-core/fey/pixie|Pixie]] (Creature 4), [[srd/pf2e/bestiary/monster-core/fey/sprite|Sprite]] (Creature -1)
 
 ### Sprite Pranks
 

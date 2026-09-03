@@ -29,10 +29,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; darkvision"
-languages: "Sussuran"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Sussuran|Sussuran]]"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +16, Stealth +14"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +16, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +14"
 abilityMods: [3, 5, 2, -2, 1, 0]
 ac: 24
 armorclass:
@@ -41,12 +41,12 @@ armorclass:
 hp: 50
 health:
   - name: "HP"
-    desc: "50; __Immunities__ bleed, paralyzed, poison, sleep"
+    desc: "50; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]"
 abilities_mid:
   - name: "High Winds"
-    desc: "(air, aura) 20 feet. Air within the emanation is difficult terrain for Flying creatures that don't have the air trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]]) 20 feet. Air within the emanation is difficult terrain for [[srd/pf2e/compendium/rules-elements/actions/player-core#Fly|Flying]] creatures that don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]] trait."
   - name: "Disperse"
-    desc: "⬲ (air)"
+    desc: "⬲ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|air]])"
   - name: "Trigger"
     desc: "The living whirlwind takes damage from a hostile action"
   - name: "Effect"
@@ -54,10 +54,10 @@ abilities_mid:
 speed: "fly 50 feet; swiftness"
 attacks:
   - name: "Melee"
-    desc: "⬻ gust +14 (Finesse, reach 10 feet) __Damage__ 2d6+7 bludgeoning"
+    desc: "⬻ gust +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 10 feet]]) __Damage__ 2d6+7 bludgeoning"
 abilities_bot:
   - name: "Forceful Winds"
-    desc: "⬺ (Air) The living whirlwind creates a 60-foot line of violent wind. Creatures in the area must succeed at a DC 25 Fortitude save or be pushed back 10 feet and knocked prone."
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/air|Air]]) The living whirlwind creates a 60-foot line of violent wind. Creatures in the area must succeed at a DC 25 Fortitude save or be pushed back 10 feet and knocked [[srd/pf2e/compendium/rules-elements/conditions#Prone|prone]]."
   - name: "Swiftness"
     desc: "The living whirlwind's movement doesn't trigger reactions."
 sourcebook: "_Monster Core_, page 140."

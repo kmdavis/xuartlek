@@ -24,7 +24,7 @@ source: "Player Core"
 
 You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.
 
- You detect illusion magic only if that magic's effect has a lower rank than the rank of your _detect magic_ spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an _invisibility potion_) typically are detected normally.
+ You detect [[srd/pf2e/compendium/rules-elements/traits/player-core/illusion|illusion]] magic only if that magic's effect has a lower rank than the rank of your _detect magic_ spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an _invisibility potion_) typically are detected normally.
 
 ---
 **Heightened (3rd)** You learn the rank or level of the most powerful magical effect the spell detects, as determined by the GM.

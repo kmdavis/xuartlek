@@ -17,14 +17,14 @@ source: "Impossible Magic"
 - **Price**: 475 gp
 - **Usage**: held in 2 hands
 - **Bulk**: 2
-- **Base Weapon**: Scythe
+- **Base Weapon**: [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|Scythe]]
 
-This _+1 striking scythe_’s handles are made from a dull gray wood of bone-like consistency, and when you slice with it, a fluttering gust of hundreds of moths’ wingbeats fills the air. If you’re a devotee of Urgathoa, you can use this scythe as a divine locus, and with every Strike, it exudes a pallid cloud of powdery dust. 
+This _[[srd/pf2e/compendium/equipment/weapons/magic-weapon-3-major-striking|+1 striking]] [[srd/pf2e/compendium/equipment/weapons/polearm/scythe|scythe]]_’s handles are made from a dull gray wood of bone-like consistency, and when you slice with it, a fluttering gust of hundreds of moths’ wingbeats fills the air. If you’re a devotee of Urgathoa, you can use this scythe as a divine locus, and with every Strike, it exudes a pallid cloud of powdery dust. 
 
-**Activate—Pallid Reaping** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate, manipulate, spellshape, void) **Frequency** once per round; **Effect** You deal 1d10 void damage to yourself. This damage ignores all 
+**Activate—Pallid Reaping** [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spellshape|spellshape]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]) **Frequency** once per round; **Effect** You deal 1d10 void damage to yourself. This damage ignores all 
 
-### resistances
+### [[srd/pf2e/books/gm-core/chapter-2-building-games/building-creatures#Immunities, Weaknesses, and Resistances|resistances
 
- and immunities, and you take it even if you would be healed by void effects. If your next action is to Strike with the scythe or to Cast a Spell with the disease or void trait, that Strike or spell deals additional void damage equal to the damage you took.
+ and immunities]], and you take it even if you would be healed by [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]] effects. If your next action is to Strike with the scythe or to [[srd/pf2e/compendium/rules-elements/actions/player-core#Cast a Spell|Cast a Spell]] with the [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]] or void trait, that Strike or spell deals additional void damage equal to the damage you took.
 
 *Source: Impossible Magic p. 209*

@@ -20,7 +20,7 @@ source: "Dark Archives (Remastered)"
 
 - **Range**: 60 feet
 - **Area**: 2 non-overlapping 5-foot bursts
-- **Defense**: basic Fortitude
+- **Defense**: [[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Fortitude
 
 Your mind creates a violent axis of motion in a nearby space that can smash or sever at your will. You deal your choice of 1d6 bludgeoning or 1d6 slashing damage to all creatures in the area, with a basic Fortitude save. A creature large enough to be in more than one of the bursts takes damage only once.
 
@@ -29,7 +29,7 @@ Your mind creates a violent axis of motion in a nearby space that can smash or s
 
 ---
 
-**Amp** Your thoughts expand in scope and power. The bursts deal 1d6 bludgeoning damage and 1d6 slashing damage, instead of the usual damage. A creature that critically fails its save is also stunned 1.
+**Amp** Your thoughts expand in scope and power. The bursts deal 1d6 bludgeoning damage and 1d6 slashing damage, instead of the usual damage. A creature that critically fails its save is also [[srd/pf2e/compendium/rules-elements/conditions#Stunned|stunned]] 1.
 
 **Amp Heightened (+2)**
 Both types of damage increase by 1d6 instead of just one. Add a third non-overlapping 5-foot burst to the area.

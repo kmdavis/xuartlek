@@ -14,7 +14,7 @@ Despite their small stature, a halfling can prove to be a mighty foe if you find
 
 ### Members
 
-Bill-Band (Creature 5), Halfling Head Chef (Creature 2), Halfling Lucky Draw (Creature 8), Halfling Smuggler (Creature 6), Halfling Street Watcher (Creature -1), Halfling Troublemaker (Creature 1), Halfling Yarnspinner (Creature 7)
+[[srd/pf2e/bestiary/npc-core/humanoid/bill-band|Bill-Band]] (Creature 5), [[srd/pf2e/bestiary/npc-core/humanoid/halfling-head-chef|Halfling Head Chef]] (Creature 2), [[srd/pf2e/bestiary/battlecry/humanoid/halfling-lucky-draw|Halfling Lucky Draw]] (Creature 8), [[srd/pf2e/bestiary/npc-core/humanoid/halfling-smuggler|Halfling Smuggler]] (Creature 6), [[srd/pf2e/bestiary/monster-core/humanoid/halfling-street-watcher|Halfling Street Watcher]] (Creature -1), [[srd/pf2e/bestiary/monster-core/humanoid/halfling-troublemaker|Halfling Troublemaker]] (Creature 1), [[srd/pf2e/bestiary/npc-core/humanoid/halfling-yarnspinner|Halfling Yarnspinner]] (Creature 7)
 
 ### Halfling Communities
 

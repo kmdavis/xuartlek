@@ -21,7 +21,7 @@ source: "Treasure Vault (Remastered)"
 - **Price**: 45 gp
 - **Usage**: held in 2 hands
 - **Bulk**: L
-- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") (manipulate)
+- **Activate**: [>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Two-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]])
 
 Prepared from brown mold, this liquid oscillates between rapidly absorbing and releasing heat from its victim. Each round the type of damage dealt by this poison changes, starting with cold, then fire, then cold, and so on. If the victim of this poison takes cold damage from a source other than the oil, reduce the save DC to 22 for 1 round. If the victim takes fire damage from a source other than the oil, increase the save DC to 25 for 1 round.
 

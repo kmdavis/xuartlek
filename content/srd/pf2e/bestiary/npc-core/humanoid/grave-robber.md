@@ -29,10 +29,10 @@ modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Crafting +6, Deception +2, Intimidation +2, Society +6, Stealth +5, Underworld Lore +6"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +6, [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +2, [[srd/pf2e/compendium/rules-elements/skills/intimidation|Intimidation]] +2, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Underworld Lore]] +6"
 abilityMods: [1, 2, 2, 3, 2, -1]
 abilities_top:
   - name: "Items"
@@ -50,12 +50,12 @@ attacks:
   - name: "Melee"
     desc: "⬻ shovel +6 __Damage__ 1d6+1 bludgeoning"
   - name: "Melee"
-    desc: "⬻ fist +7 (Agile, Finesse, Nonlethal, Unarmed) __Damage__ 1d4+1 bludgeoning"
+    desc: "⬻ fist +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+1 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ embalming flask +7 (Alchemical, range increment 20 feet, Splash) __Damage__ 1d4 acid plus 1 acid splash damage and alchemical embalming"
+    desc: "⬻ embalming flask +7 ([[srd/pf2e/compendium/rules-elements/traits/player-core/alchemical|Alchemical]], range increment 20 feet, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|Splash]]) __Damage__ 1d4 acid plus 1 acid splash damage and alchemical embalming"
 abilities_bot:
   - name: "Alchemical Embalming"
-    desc: "The grave robber carries alchemical vials of specially prepared embalming fluid meant to hinder pursuit by anyone who interrupts their grave-robbing. A creature hit by a grave robber's embalming flask takes a –10-foot penalty to all its Speeds for 1 round. On a critical hit from an embalming flask, the target is also clumsy 1 for 1 minute."
+    desc: "The grave robber carries alchemical vials of specially prepared embalming fluid meant to hinder pursuit by anyone who interrupts their grave-robbing. A creature hit by a grave robber's embalming flask takes a –10-foot penalty to all its Speeds for 1 round. On a critical hit from an embalming flask, the target is also [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] for 1 minute."
 sourcebook: "_NPC Core_, page 18."
 ```
 

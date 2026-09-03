@@ -33,7 +33,7 @@ perception:
     desc: "Perception +11; low-light vision"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +9, Athletics +6, Stealth +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +9, [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +6, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +11"
 abilityMods: [2, 3, 2, -5, 1, -1]
 ac: 16
 armorclass:
@@ -42,7 +42,7 @@ armorclass:
 hp: 25
 health:
   - name: "HP"
-    desc: "25; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 3, slashing 3; __Weaknesses__ area damage 3, splash damage 3"
+    desc: "25; __Immunities__ precision, swarm mind; __Resistances__ bludgeoning 3, slashing 3; __Weaknesses__ area damage 3, [[srd/pf2e/compendium/rules-elements/traits/gm-core/splash|splash]] damage 3"
 abilities_mid:
   - name: "Defensive Spines"
     desc: "When a creature enters the stonefish swarm's space, that creature takes 1d4 piercing damage and is exposed to stonefish swarm venom."
@@ -51,15 +51,15 @@ abilities_bot:
   - name: "Inject Poison"
     desc: "⬻ Each enemy in the swarm's space takes 2d4 piercing damage (DC 18 basic Reflex save). Creatures that fail the save are exposed to stonefish swarm venom."
   - name: "Reef Camouflage"
-    desc: "⬻ (Concentrate) Until the next time it acts, the stonefish swarm appears to be a colorful coral reef. It has an automatic result of 26 on Deception checks and DCs to pass as a reef."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|Concentrate]]) Until the next time it acts, the stonefish swarm appears to be a colorful coral reef. It has an automatic result of 26 on [[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] checks and DCs to pass as a reef."
   - name: "Stonefish Swarm Venom"
-    desc: "(Poison)"
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]])"
   - name: "Saving Throw"
     desc: "DC 18 Fortitude"
   - name: "Maximum Duration"
     desc: "6 rounds"
   - name: "Stage 1"
-    desc: "1d6 poison and clumsy 1 (1 round)"
+    desc: "1d6 poison and [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy 1]] (1 round)"
   - name: "Stage 2"
     desc: "1d6 poison and clumsy 2 (1 round)"
   - name: "Stage 3"

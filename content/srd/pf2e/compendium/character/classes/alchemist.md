@@ -14,15 +14,15 @@ source: "Player Core 2"
 
 You'll see the following key terms in many alchemist class features and abilities.
 
- **Additive:** Feats with the additive trait allow you to add special substances to alchemical consumables you create when you use Quick Alchemy to create a consumable (you can't use additives with quick vials). You can add only one additive to a single alchemical item, you can add an additive only once per round, and most additive abilities specify a subset of alchemical consumables you can add them to.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core-2/additive|Additive]]:** Feats with the additive trait allow you to add special substances to alchemical consumables you create when you use Quick Alchemy to create a consumable (you can't use additives with quick vials). You can add only one additive to a single alchemical item, you can add an additive only once per round, and most additive abilities specify a subset of alchemical consumables you can add them to.
 
- **Coagulant:** Healing alchemical items with the coagulant trait lose effectiveness when many are applied in a short period of time. If a creature heals Hit Points from an item with the coagulant trait, that creature is temporarily immune to healing Hit Points from subsequent items with the coagulant trait for 10 minutes (but not immune to any other effects of those items).
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core-2/coagulant|Coagulant]]:** Healing alchemical items with the coagulant trait lose effectiveness when many are applied in a short period of time. If a creature heals Hit Points from an item with the coagulant trait, that creature is temporarily immune to healing Hit Points from subsequent items with the coagulant trait for 10 minutes (but not immune to any other effects of those items).
 
- **Infused:** An alchemical item with the infused trait has a limited time before it becomes inert. Any non-permanent effects from your infused alchemical items, with the exception of afflictions such as slow-acting poisons, end when you make your daily preparations again.
+ **[[srd/pf2e/compendium/rules-elements/traits/player-core-2/infused|Infused]]:** An alchemical item with the infused trait has a limited time before it becomes inert. Any non-permanent effects from your infused alchemical items, with the exception of afflictions such as slow-acting poisons, end when you make your daily preparations again.
 
 ### Sample Formula Book
 
-You can choose any 1st-level common alchemical items for your formula book, but the list below contains a good selection of starter formulas. A beginner's book with these formulas called _The Fundamentals of Alchemy_ has become popular among mainstream alchemists by staying away from controversial topics like mutagens, though it has drawn criticism from fringe alchemists for guiding fledgling alchemists away from more innovative experiments. **Alchemical Item Formulas**: Alchemist's fire, frost vial, cheetah's elixir, elixir of life, glue bomb, smoke ball; **Bomber** Acid flask, bottled lightning; **Chirurgeon** Antidote, antiplague; **Mutagenist** Bestial mutagen, cognitive mutagen; **Toxicologist** Arsenic, giant centipede venom
+You can choose any 1st-level common alchemical items for your formula book, but the list below contains a good selection of starter formulas. A beginner's book with these formulas called _The Fundamentals of Alchemy_ has become popular among mainstream alchemists by staying away from controversial topics like mutagens, though it has drawn criticism from fringe alchemists for guiding fledgling alchemists away from more innovative experiments. **Alchemical Item Formulas**: [[srd/pf2e/compendium/equipment/alchemical-items/alchemists-fire|Alchemist's fire]], frost vial, [[srd/pf2e/compendium/equipment/alchemical-items/cheetahs-elixir|cheetah's elixir]], [[srd/pf2e/compendium/equipment/alchemical-items/elixir-of-life|elixir of life]], [[srd/pf2e/compendium/equipment/alchemical-items/glue-bomb|glue bomb]], [[srd/pf2e/compendium/equipment/alchemical-items/smoke-ball|smoke ball]]; **Bomber** [[srd/pf2e/compendium/equipment/alchemical-items/acid-flask|Acid flask]], bottled lightning; **Chirurgeon** [[srd/pf2e/compendium/equipment/alchemical-items/antidote|Antidote]], [[srd/pf2e/compendium/equipment/alchemical-items/antiplague|antiplague]]; **Mutagenist** Bestial mutagen, cognitive mutagen; **Toxicologist** [[srd/pf2e/compendium/equipment/alchemical-items/arsenic|Arsenic]], [[srd/pf2e/compendium/equipment/alchemical-items/giant-centipede-venom|giant centipede venom]]
 
 ### Roleplaying the Alchemist
 
@@ -52,8 +52,8 @@ At 1st level, you gain the listed proficiency ranks in the following statistics.
 | --- | --- |
 | **Perception** | Trained in Perception |
 | **Saving Throws** | Expert in Fortitude Expert in Reflex Trained in Will |
-| **Skills** | Trained in Crafting Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
-| **Attacks** | Trained in simple weapons Trained in alchemical bombs Trained in unarmed attacks |
+| **Skills** | Trained in [[srd/pf2e/compendium/rules-elements/skills/crafting\|Crafting]] Trained in a number of additional skills equal to 3 plus your Intelligence modifier |
+| **Attacks** | Trained in simple weapons Trained in [[srd/pf2e/compendium/rules-elements/traits/player-core/bomb\|alchemical bombs]] Trained in unarmed attacks |
 | **Defenses** | Trained in light armor Trained in medium armor Trained in unarmored defense |
 | **Class DC** | Trained in alchemist class DC |
 
@@ -103,13 +103,13 @@ In addition to what you get from your class at 1st level, you have four free boo
 
 You understand the reactions between all manner of reagents and can concoct alchemical items to meet your needs. You can do this using normal reagents and the Craft activity, or you can use specially prepared chemicals that allow you to craft temporary items quickly and at no cost. Over time, you can create more and more alchemical items for free, and since each of them becomes more and more powerful, you advance in power dramatically, leaving behind those who don't understand your strange science.
 
- You gain the Alchemical Crafting feat, and you can automatically identify alchemical items that you have the formula for. 
+ You gain the [[srd/pf2e/compendium/feats/player-core/skill/alchemical-crafting|Alchemical Crafting]] feat, and you can automatically identify alchemical items that you have the formula for. 
 
 #### Formula Book
 
- An alchemist keeps meticulous formulas for every item they can create. You start with a standard formula book for free. The formula book contains the formulas for two common 1st-level alchemical items of your choice, in addition to any formulas you gained from Alchemical Crafting and your research field. 
+ An alchemist keeps meticulous formulas for every item they can create. You start with a standard [[srd/pf2e/compendium/equipment/adventuring-gear/formula-book-blank|formula book]] for free. The formula book contains the formulas for two common 1st-level alchemical items of your choice, in addition to any formulas you gained from Alchemical Crafting and your research field. 
 
-Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to select the Inventor skill feat so you can invent them.
+Each time you gain a level, you can add the formulas for two common alchemical items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other alchemists, or to select the [[srd/pf2e/compendium/feats/player-core/skill/inventor|Inventor]] skill feat so you can invent them.
 
  As normal, having the base formula is sufficient when Crafting upgraded types of the item—you don't need to learn higher-level formulas. For instance, if you have the 1st-level formula for a minor elixir of life, you can create a minor, lesser, moderate, greater, major, or true elixir of life as long as you meet the level and other prerequisites. Items with type entries that have widely varied functions require separate formulas, but most alchemical items have a structure similar to elixir of life. 
 

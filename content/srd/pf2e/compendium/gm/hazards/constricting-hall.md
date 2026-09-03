@@ -22,7 +22,7 @@ source: "Dark Archives (Remastered)"
 DC 31
 
 **Disable**
-DC 28 Thievery (trained) to stabilize each wall, or _dispel magic_ (4th level; counteract DC 26) to counteract each wall
+DC 28 [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] (trained) to stabilize each wall, or [[srd/pf2e/compendium/spells/rank-2/dispel-magic|_dispel magic_]] (4th level; [[srd/pf2e/books/player-core/chapter-8-playing-the-game/afflictions#Counteracting|counteract]] DC 26) to counteract each wall
 
 **Lose Form** [](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") wall +20, **Damage** 2d10+11 bludgeoning
 

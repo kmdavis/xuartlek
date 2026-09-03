@@ -13,6 +13,6 @@ source: "Battlecry!"
 
 - **Class**: Guardian
 
-You are known for your suit of armor more than the person inside. Your proficiency rank for your guardian class DC increases to master. While wearing armor, when you attempt a Reflex save to avoid a damaging effect, such as a _fireball_, you can add your armor’s item bonus to AC instead of your Dexterity modifier; if your armor has the bulwark trait, increase this bonus by 1. If you get a success when you do this, you get a critical success instead.
+You are known for your suit of armor more than the person inside. Your proficiency rank for your guardian class DC increases to master. While wearing armor, when you attempt a Reflex save to avoid a damaging effect, such as a [[srd/pf2e/compendium/spells/rank-3/fireball|_fireball_]], you can add your armor’s item bonus to AC instead of your Dexterity modifier; if your armor has the bulwark trait, increase this bonus by 1. If you get a success when you do this, you get a critical success instead.
 
 *Source: Battlecry! p. 37*

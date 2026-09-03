@@ -20,7 +20,7 @@ source: "Player Core"
 - **Range**: 30 feet
 - **Duration**: sustained up to 1 minute
 
-You summon a creature that has the monitor trait and whose level is 5 or lower to fight for you. The GM might determine your deity restricts the specific types of monitors you can summon in certain cases. For instance, Urgathoa typically doesn't allow her followers to summon psychopomps.
+You summon a creature that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/monitor|monitor]] trait and whose level is 5 or lower to fight for you. The GM might determine your deity restricts the specific types of monitors you can summon in certain cases. For instance, Urgathoa typically doesn't allow her followers to summon psychopomps.
 
 ---
 **Heightened (6th)** Level 7.

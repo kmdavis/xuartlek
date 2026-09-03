@@ -31,7 +31,7 @@ perception:
     desc: "Perception +9; darkvision"
 skills:
   - name: "Skills"
-    desc: "Athletics +11"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +11"
 abilityMods: [4, -2, 5, -5, 0, -5]
 ac: 19
 armorclass:
@@ -40,14 +40,14 @@ armorclass:
 hp: 35
 health:
   - name: "HP"
-    desc: "35; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; __Hardness__ 6"
+    desc: "35; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Doomed|doomed]], [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]], [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]], [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|nonlethal]] attacks, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Sickened|sickened]], [[srd/pf2e/compendium/rules-elements/traits/player-core/spirit|spirit]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]], [[srd/pf2e/compendium/rules-elements/traits/player-core/vitality|vitality]], [[srd/pf2e/compendium/rules-elements/traits/player-core/void|void]]; __Hardness__ 6"
 abilities_mid:
   - name: "Construct Armor"
     desc: "Like normal objects, an animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 15."
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ fist +11 (Magical) __Damage__ 1d8+6 bludgeoning plus Grab"
+    desc: "⬻ fist +11 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]]) __Damage__ 1d8+6 bludgeoning plus Grab"
 sourcebook: "_Monster Core_, page 19."
 ```
 

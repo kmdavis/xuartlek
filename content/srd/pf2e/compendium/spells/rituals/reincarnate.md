@@ -17,18 +17,18 @@ source: "Player Core 2"
 - **Cast**: 4 hours
 - **Cost**: rare herbs worth a total value of the target’s level (minimum 1) × 25 gp
 - **Secondary Casters**: 2
-- **Primary Check**: Nature (expert)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] (expert)
 - **Secondary Checks**: Occultism , Religion
 - **Range**: 10 feet
 - **Target(s)**: 1 dead creature of up to 8th level
 
-You call forth the target’s soul and attempt to incarnate it into a brand-new body. As the soul won’t be returning to the original body, only a small portion of the creature’s remains are required. These remains must have been part of the original body at the time of death, and the target must have died within the past week. If Pharasma has decided that the target’s time has come or the target’s soul is trapped or doesn’t wish to return, this ritual automatically fails, but you discover this after you succeed at the Religion check and can end the ritual without paying the cost.
+You call forth the target’s soul and attempt to incarnate it into a brand-new body. As the soul won’t be returning to the original body, only a small portion of the creature’s remains are required. These remains must have been part of the original body at the time of death, and the target must have died within the past week. If Pharasma has decided that the target’s time has come or the target’s soul is trapped or doesn’t wish to return, this ritual automatically fails, but you discover this after you succeed at the [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] check and can end the ritual without paying the cost.
 
-If the ritual is successful, the target’s new body has a random ancestry. Roll 1d20. On a result of 1 through 14, the new body is one of a common ancestry, while on a 15 through 20 they become a member of an uncommon or rare ancestry. The GM chooses possible ancestries based on those found in the region and randomly determines the ancestry. For instance, the GM could roll 1d8 to choose a common ancestry from Player Core. The target replaces their ancestry Hit Points, size, Speeds, attribute boosts and flaws, traits, and special abilities with those of their new ancestry. The target loses their heritage and ancestry feats, selecting replacements from their new ancestry. The target’s background, class features, and languages remain unaltered.
+If the ritual is successful, the target’s new body has a random ancestry. Roll 1d20. On a result of 1 through 14, the new body is one of a common ancestry, while on a 15 through 20 they become a member of an [[srd/pf2e/compendium/rules-elements/traits/player-core/uncommon|uncommon]] or [[srd/pf2e/compendium/rules-elements/traits/player-core/rare|rare]] ancestry. The GM chooses possible ancestries based on those found in the region and randomly determines the ancestry. For instance, the GM could roll 1d8 to choose a common ancestry from Player Core. The target replaces their ancestry Hit Points, size, Speeds, attribute boosts and flaws, traits, and special abilities with those of their new ancestry. The target loses their heritage and ancestry feats, selecting replacements from their new ancestry. The target’s background, class features, and languages remain unaltered.
 
 **Critical Success** You reincarnate the target into a new adult body. This new body has full HP and has the same spells prepared as the original did when it died.
 
-**Success** As critical success, except the new body has 1 HP and no spells prepared. The soul takes some time to adjust to their new body, leaving them clumsy 2, drained 2, and enfeebled 2 for 1 week; these conditions can’t be removed or reduced by any means until the week has passed.
+**Success** As critical success, except the new body has 1 HP and no spells prepared. The soul takes some time to adjust to their new body, leaving them [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 2, [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] 2, and [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled]] 2 for 1 week; these conditions can’t be removed or reduced by any means until the week has passed.
 
 **Failure** You fail to reincarnate the target.
 

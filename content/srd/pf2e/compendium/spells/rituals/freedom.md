@@ -18,12 +18,12 @@ source: "War of Immortals"
 - **Cast**: 1 day
 - **Cost**: valuable oils and objects associated with the target worth a total value of 100 gp × the spell rank × the target’s level
 - **Secondary Casters**: 2
-- **Primary Check**: Arcana (mythic) or Occultism (mythic)
+- **Primary Check**: [[srd/pf2e/compendium/rules-elements/skills/arcana|Arcana]] (mythic) or [[srd/pf2e/compendium/rules-elements/skills/occultism|Occultism]] (mythic)
 - **Secondary Checks**: Society
 - **Range**: see text
 - **Target(s)**: 1 creature
 
-You perform a ritual to free a creature imprisoned, petrified, or otherwise put into stasis by any magical effects. You free them from all such effects, even effects like imprisonment that don't have a duration, as long as _freedom's_ spell rank is equal to or higher than the effect's spell rank. To perform the ritual, you must be within 10 feet of the target, or within 10 feet of the place where the target was imprisoned (in the case of effects that trap the creature in an unreachable prison, like the oubliette form of imprisonment). You must know the name of the creature and details of its background; if the creature isn't a close associate, a failure or critical failure on a secondary Society check reduces even a critical success on the primary check to a failure.
+You perform a ritual to free a creature imprisoned, [[srd/pf2e/compendium/rules-elements/conditions#Petrified|petrified]], or otherwise put into stasis by any magical effects. You free them from all such effects, even effects like imprisonment that don't have a duration, as long as _freedom's_ spell rank is equal to or higher than the effect's spell rank. To perform the ritual, you must be within 10 feet of the target, or within 10 feet of the place where the target was imprisoned (in the case of effects that trap the creature in an unreachable prison, like the oubliette form of imprisonment). You must know the name of the creature and details of its background; if the creature isn't a close associate, a failure or critical failure on a secondary [[srd/pf2e/compendium/rules-elements/skills/society|Society]] check reduces even a critical success on the primary check to a failure.
 
 **Critical Success** You free the target from all magical effects imprisoning it, petrifying it, or putting it into stasis. It gains a +1 status bonus to saving throws to resist those same magical effects for 1 week.
 

@@ -29,10 +29,10 @@ modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; darkvision"
-languages: "Common, Necril"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]], [[srd/pf2e/compendium/rules-elements/languages#Necril|Necril]]"
 skills:
   - name: "Skills"
-    desc: "Deception +11, Society +10, Stealth +13"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/deception|Deception]] +11, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +10, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +13"
 abilityMods: [0, 5, 0, 2, 4, 3]
 ac: 21
 armorclass:
@@ -41,10 +41,10 @@ armorclass:
 hp: 60
 health:
   - name: "HP"
-    desc: "60 (void healing); __Immunities__ bleed, death effects, disease, paralyzed, poison, unconscious"
+    desc: "60 (void healing); __Immunities__ [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|bleed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/death|death]] effects, [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]"
 abilities_mid:
   - name: "Aura of Sobs"
-    desc: "(auditory, aura, emotion, mental, occult) 10 feet. An attic whisperer enshrouds itself in a tapestry of stolen voices. Each living creature that enters or starts their turn in the aura must succeed at a DC 19 Will save or the unnerving, bitter sobs render them distraught and they become stupefied 1 for as long as they remain within the aura. A creature that succeeds is temporarily immune for 1 hour. The attic whisperer can activate or deactivate the aura with a single action, which has the concentrate trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]], [[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/emotion|emotion]], [[srd/pf2e/compendium/rules-elements/traits/player-core/mental|mental]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|occult]]) 10 feet. An attic whisperer enshrouds itself in a tapestry of stolen voices. Each living creature that enters or starts their turn in the aura must succeed at a DC 19 Will save or the unnerving, bitter sobs render them distraught and they become [[srd/pf2e/compendium/rules-elements/conditions#Stupefied|stupefied 1]] for as long as they remain within the aura. A creature that succeeds is temporarily immune for 1 hour. The attic whisperer can activate or deactivate the aura with a single action, which has the [[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]] trait."
   - name: "Whispered Despair"
     desc: "⬲"
   - name: "Trigger"
@@ -54,26 +54,26 @@ abilities_mid:
 speed: "20 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ jaws +14 (Agile, Finesse) __Damage__ 2d8 piercing plus steal breath"
+    desc: "⬻ jaws +14 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/finesse|Finesse]]) __Damage__ 2d8 piercing plus steal breath"
   - name: "Melee"
-    desc: "⬻ bony hand (agile +12) __Damage__ 2d10 void plus steal voice"
+    desc: "⬻ bony hand ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|agile +12]]) __Damage__ 2d10 void plus steal voice"
 abilities_bot:
   - name: "Steal Breath"
-    desc: "(Curse, Incapacitation, Occult) The attic whisperer siphons the breath from living creatures, sapping their strength. A living creature hit by a jaws Strike must attempt a DC 21 Fortitude save."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/incapacitation|Incapacitation]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) The attic whisperer siphons the breath from living creatures, sapping their strength. A living creature hit by a jaws Strike must attempt a DC 21 Fortitude save."
   - name: "Critical Success"
     desc: "The target is unaffected."
   - name: "Success"
-    desc: "The target is enfeebled 1 for 1 round."
+    desc: "The target is [[srd/pf2e/compendium/rules-elements/conditions#Enfeebled|enfeebled 1]] for 1 round."
   - name: "Failure"
-    desc: "The target is enfeebled 1 for 24 hours and fatigued."
+    desc: "The target is enfeebled 1 for 24 hours and [[srd/pf2e/compendium/rules-elements/conditions#Fatigued|fatigued]]."
   - name: "Critical Failure"
-    desc: "The target is enfeebled 1 for 24 hours, fatigued, and falls unconscious."
+    desc: "The target is enfeebled 1 for 24 hours, fatigued, and falls [[srd/pf2e/compendium/rules-elements/conditions#Unconscious|unconscious]]."
   - name: "Steal Voice"
-    desc: "(Curse, Occult) When an attic whisperer hits a living creature with a bony hand Strike, it tries to pull the victim's voice into its aura. The victim must attempt a DC 21 Will save."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|Curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/occult|Occult]]) When an attic whisperer hits a living creature with a bony hand Strike, it tries to pull the victim's voice into its aura. The victim must attempt a DC 21 Will save."
   - name: "Critical Success"
     desc: "The target is unaffected."
   - name: "Success"
-    desc: "The target's voice is weak for 1 minute. Anytime it attempts to Cast a Spell or use an action that has the auditory trait, it must succeed at a DC 5 flat check or the action is lost."
+    desc: "The target's voice is weak for 1 minute. Anytime it attempts to Cast a Spell or use an action that has the [[srd/pf2e/compendium/rules-elements/traits/player-core/auditory|auditory]] trait, it must succeed at a DC 5 flat check or the action is lost."
   - name: "Failure"
     desc: "The target loses the ability to speak for 1 hour, until the curse is removed, or until the attic whisperer is destroyed, whichever comes first. During this time, the attic whisperer can perfectly mimic the target's voice, and the target takes a –2 circumstance penalty to saving throws against that attic whisperer's aura of sobs."
   - name: "Critical Failure"

@@ -14,6 +14,6 @@ The most commonly seen hydra famously has five heads that it uses in unison to a
 
 ### Members
 
-Hydra (Creature 6), Mocking Chorus (Creature 18), Prismhydra (Creature 16), Stargut Hydra (Creature 9), Tyrafdir (Creature 11)
+[[srd/pf2e/bestiary/monster-core/beast/hydra|Hydra]] (Creature 6), [[srd/pf2e/bestiary/howl-of-the-wild/beast/mocking-chorus|Mocking Chorus]] (Creature 18), [[srd/pf2e/bestiary/howl-of-the-wild/beast/prismhydra|Prismhydra]] (Creature 16), [[srd/pf2e/bestiary/howl-of-the-wild/beast/stargut-hydra|Stargut Hydra]] (Creature 9), [[srd/pf2e/bestiary/howl-of-the-wild/beast/tyrafdir|Tyrafdir]] (Creature 11)
 
 *Source: Howl of the Wild p. 164*

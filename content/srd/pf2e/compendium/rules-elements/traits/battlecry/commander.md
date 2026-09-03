@@ -13,6 +13,6 @@ source: "Battlecry!"
 
 `Commander`
 
-This trait indicates abilities from the commander class.
+This trait indicates abilities from the [[srd/pf2e/compendium/character/classes/commander|commander]] class.
 
 *Source: Battlecry! p. 219*

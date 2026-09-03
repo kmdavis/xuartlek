@@ -48,7 +48,7 @@ source: "Battlecry!"
 
 Another design originating from the snow-covered land of Irrisen, the volley gun trades the power of black-powder cannons for a high rate of fire at a much smaller caliber. The nine barrels of the volley gun are triggered via a crank, rotating around the central shaft. The weapon is reloaded by slotting a single block placed into the breach, allowing each of the nine barrels to be fired before this mounted gun needs to be reloaded.
 **Aim** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") rotate 45° 
-**Load** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") (manipulate) 1 time, requires a successful DC 20 Athletics check 
-**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") (attack, manipulate) 18d6 piercing, 120-foot line, DC 35 Reflex
+**Load** [>>>](books/player-core/chapter-8-playing-the-game/actions#Actions "Three-Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]]) 1 time, requires a successful DC 20 [[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] check 
+**Launch** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/attack|attack]], manipulate) 18d6 piercing, 120-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Line|line]], DC 35 Reflex
 
 *Source: Battlecry! p. 107*

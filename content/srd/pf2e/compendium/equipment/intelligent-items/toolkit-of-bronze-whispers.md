@@ -21,9 +21,9 @@ source: "Treasure Vault (Remastered)"
 
 **Perception** +12; precise vision 30 feet, imprecise hearing 30 feet
 
-**Communication** telepathy (Common and two other common languages)
+**Communication** telepathy ([[srd/pf2e/compendium/rules-elements/languages#Common|Common]] and two other common languages)
 
-**Skills** Clockwork Lore +15, Crafting +13, Religion +11
+**Skills** Clockwork Lore +15, [[srd/pf2e/compendium/rules-elements/skills/crafting|Crafting]] +13, [[srd/pf2e/compendium/rules-elements/skills/religion|Religion]] +11
 
 **Int** +4, **Wis** +3, **Cha** +0
 

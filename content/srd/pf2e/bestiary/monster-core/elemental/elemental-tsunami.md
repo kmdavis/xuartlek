@@ -31,14 +31,14 @@ modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; darkvision"
-languages: "Thalassic"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Thalassic|Thalassic]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +23, Stealth +23"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +23, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +23"
 abilityMods: [6, 6, 6, 0, 3, 0]
 abilities_top:
   - name: "Waterbound"
-    desc: "When not touching water, the elemental tsunami is slowed 1 and can't use reactions."
+    desc: "When not touching water, the elemental tsunami is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] and can't use reactions."
 ac: 31
 armorclass:
   - name: "AC"
@@ -46,17 +46,17 @@ armorclass:
 hp: 195
 health:
   - name: "HP"
-    desc: "195; __Immunities__ bleed, paralyzed, poison, sleep; __Resistances__ fire 10"
+    desc: "195; __Immunities__ bleed, [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], [[srd/pf2e/compendium/rules-elements/traits/player-core/sleep|sleep]]; __Resistances__ [[srd/pf2e/compendium/rules-elements/traits/player-core/fire|fire]] 10"
 abilities_mid:
   - name: "Vortex"
-    desc: "(aura, water) 50 feet. Water in the area that is in the same body of water as the elemental tsunami is difficult terrain for Swimmingcreatures that don't have the water trait."
+    desc: "([[srd/pf2e/compendium/rules-elements/traits/player-core/aura|aura]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]]) 50 feet. Water in the area that is in the same body of water as the elemental tsunami is difficult terrain for [[srd/pf2e/compendium/rules-elements/actions/player-core#Swim|Swimming]]creatures that don't have the [[srd/pf2e/compendium/rules-elements/traits/player-core/water|water]] trait."
 speed: "35 feet, swim 100 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ wave +24 (reach 20 feet) __Damage__ 2d12+12 bludgeoning plus Push or Pull 10 feet"
+    desc: "⬻ wave +24 ([[srd/pf2e/compendium/rules-elements/traits/player-core/reach|reach 20 feet]]) __Damage__ 2d12+12 bludgeoning plus Push or Pull 10 feet"
 abilities_bot:
   - name: "Drench"
-    desc: "⬻ (Primal, Water) The elemental puts out all fires in a 20-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier)."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/primal|Primal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/water|Water]]) The elemental puts out all fires in a 20-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier)."
   - name: "Surge"
     desc: "⬺ The elemental tsunami momentarily expands to fill the area of its vortex. Creatures within the aura take 5d12+6 bludgeoning damage with a DC 31 basic Fortitude save. A creature that fails this save is pushed 20 feet. The elemental tsunami then shrinks to its normal space and can't Surge again for 1d4 rounds."
 sourcebook: "_Monster Core_, page 149."

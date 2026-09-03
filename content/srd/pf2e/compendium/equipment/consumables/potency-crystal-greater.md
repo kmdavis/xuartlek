@@ -17,7 +17,7 @@ source: "GM Core"
 `Consumable`  `Magical`  `Talisman`
 
 - **Usage**: affixed to a weapon
-- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") (concentrate)
+- **Activate**: [ ](books/player-core/chapter-8-playing-the-game/actions#Actions "Free Action") ([[srd/pf2e/compendium/rules-elements/traits/player-core/concentrate|concentrate]])
 - **Trigger**: You make an attack with the affixed weapon, but you haven't rolled yet
 
 This fluorite crystal glows with a strange phosphorescence. When you activate the crystal, the weapon becomes a _+1 striking weapon_ on the Strike and until the end of this turn, gaining a +1 item bonus to the attack roll and increasing the damage to two weapon damage dice.

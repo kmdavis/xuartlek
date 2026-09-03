@@ -33,6 +33,6 @@ The clockwork diving suit is a marvel of technology that allows its user to brea
 
  **AC Bonus** +4; **Dex Cap** +1; **Check Penalty** –4; **Speed Penalty** –15 ft; **Strength** 18
 
-**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") manipulate **Effect** The diving suit shoots out a water jet that causes you to Swim 25 feet in a straight line. The distance of this movement is unaffected by your swim Speed, if you have one, or the armor's Speed penalty. However, difficult terrain, such as the difficult terrain for moving up or down or moving against a current, still slows this movement.
+**Activate** [>](books/player-core/chapter-8-playing-the-game/actions#Actions "Single Action") [[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|manipulate]] **Effect** The diving suit shoots out a water jet that causes you to Swim 25 feet in a straight line. The distance of this movement is unaffected by your swim Speed, if you have one, or the armor's Speed penalty. However, difficult terrain, such as the difficult terrain for moving up or down or moving against a current, still slows this movement.
 
 *Source: Guns & Gears (Remastered) p. 86*

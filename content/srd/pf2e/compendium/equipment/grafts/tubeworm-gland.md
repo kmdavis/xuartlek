@@ -19,6 +19,6 @@ source: "Howl of the Wild"
 - **Price**: 330 gp
 - **Usage**: implanted
 
-Thanks to a graft from a hardy deep-sea invertebrate in your stomach, you can ingest food and water that would be toxic to others. You gain a +2 item bonus to Fortitude saving throws against ingested diseases and poisons.
+Thanks to a graft from a hardy deep-sea invertebrate in your stomach, you can ingest food and water that would be toxic to others. You gain a +2 item bonus to Fortitude saving throws against ingested [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|diseases]] and [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poisons]].
 
 *Source: Howl of the Wild p. 99*

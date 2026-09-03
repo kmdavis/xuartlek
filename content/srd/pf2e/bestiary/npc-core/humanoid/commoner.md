@@ -29,10 +29,10 @@ modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3"
-languages: "Common"
+languages: "[[srd/pf2e/compendium/rules-elements/languages#Common|Common]]"
 skills:
   - name: "Skills"
-    desc: "Athletics +5, Lore +6, Society +2"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/athletics|Athletics]] +5, [[srd/pf2e/compendium/rules-elements/skills/lore|Lore]] +6, [[srd/pf2e/compendium/rules-elements/skills/society|Society]] +2"
 abilityMods: [3, 1, 2, 0, 1, 0]
 abilities_top:
   - name: "Items"
@@ -48,14 +48,14 @@ health:
 speed: "25 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ sickle +5 (Agile, Trip) __Damage__ 1d4+2 slashing"
+    desc: "⬻ sickle +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/trip|Trip]]) __Damage__ 1d4+2 slashing"
   - name: "Melee"
-    desc: "⬻ fist +5 (Agile, Nonlethal, Unarmed) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ fist +5 ([[srd/pf2e/compendium/rules-elements/traits/player-core/agile|Agile]], [[srd/pf2e/compendium/rules-elements/traits/player-core/nonlethal|Nonlethal]], [[srd/pf2e/compendium/rules-elements/traits/player-core/unarmed|Unarmed]]) __Damage__ 1d4+2 bludgeoning"
   - name: "Ranged"
-    desc: "⬻ rock +3 (thrown 10 feet) __Damage__ 1d4+2 bludgeoning"
+    desc: "⬻ rock +3 ([[srd/pf2e/compendium/rules-elements/traits/player-core/thrown|thrown 10 feet]]) __Damage__ 1d4+2 bludgeoning"
 abilities_bot:
   - name: "Power of the Mob"
-    desc: "When three or more commoners are adjacent to each other, each commoner gets a +1 circumstance bonus to Athletic checks to Shove, attack rolls, and damage rolls."
+    desc: "When three or more commoners are adjacent to each other, each commoner gets a +1 circumstance bonus to [[srd/pf2e/compendium/rules-elements/actions/player-core-2|Athletic]] checks to [[srd/pf2e/compendium/rules-elements/actions/player-core#Shove|Shove]], attack rolls, and damage rolls."
 sourcebook: "_NPC Core_, page 66."
 ```
 

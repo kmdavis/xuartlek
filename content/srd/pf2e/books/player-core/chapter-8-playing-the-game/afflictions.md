@@ -24,7 +24,7 @@ Whether appearing in a spell, as an item, or within a creature’s stat block, a
 
 ### Name and Traits
 
-The affliction’s name is given first, followed by its traits in parentheses—including the trait for the type of affliction (curse, disease, poison, and so forth). If the affliction needs to have a level specified, it follows the parentheses, followed by any unusual details, such as restrictions on removing the conditions imposed by an affliction. If no level is listed, the affliction matches the level of the creature, hazard, or item causing the affliction.
+The affliction’s name is given first, followed by its traits in parentheses—including the trait for the type of affliction ([[srd/pf2e/compendium/rules-elements/traits/player-core/curse|curse]], [[srd/pf2e/compendium/rules-elements/traits/player-core/disease|disease]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|poison]], and so forth). If the affliction needs to have a level specified, it follows the parentheses, followed by any unusual details, such as restrictions on removing the conditions imposed by an affliction. If no level is listed, the affliction matches the level of the creature, hazard, or item causing the affliction.
 
 ### Saving Throw
 
@@ -52,7 +52,7 @@ On a failure, the stage increases by 1; on a critical failure, the stage increas
 
 ## Damage and Conditions
 
-Any damage listed for a stage happens immediately when you reach that stage. Conditions affect you when you reach the stage and last for their normal duration. For instance, if you were drained for an affliction with a maximum duration of 5 minutes, you remain drained after the affliction ends, as normal for the drained condition. A condition that automatically changes its value or ends under certain circumstances, like frightened, still does so. Any condition that doesn’t have a default duration, such as clumsy or paralyzed, lasts as long as you’re at that stage unless noted otherwise, as do any penalties or any other effect of the stage that doesn’t list a duration.
+Any damage listed for a stage happens immediately when you reach that stage. Conditions affect you when you reach the stage and last for their normal duration. For instance, if you were [[srd/pf2e/compendium/rules-elements/conditions#Drained|drained]] for an affliction with a maximum duration of 5 minutes, you remain drained after the affliction ends, as normal for the drained condition. A condition that automatically changes its value or ends under certain circumstances, like [[srd/pf2e/compendium/rules-elements/conditions#Frightened|frightened]], still does so. Any condition that doesn’t have a default duration, such as [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] or [[srd/pf2e/compendium/rules-elements/conditions#Paralyzed|paralyzed]], lasts as long as you’re at that stage unless noted otherwise, as do any penalties or any other effect of the stage that doesn’t list a duration.
 
 ## Multiple Exposures
 
@@ -60,15 +60,15 @@ Multiple exposures to the same curse or disease currently affecting you have no 
 
 ## Virulent Afflictions
 
-Afflictions with the virulent trait are harder to remove. You must succeed at two consecutive saves to reduce a virulent affliction’s stage by 1. A critical success reduces a virulent affliction’s stage by only 1 instead of by 2.
+Afflictions with the [[srd/pf2e/compendium/rules-elements/traits/gm-core/virulent|virulent]] trait are harder to remove. You must succeed at two consecutive saves to reduce a virulent affliction’s stage by 1. A critical success reduces a virulent affliction’s stage by only 1 instead of by 2.
 
 ## Removing Afflictions
 
-Apart from waiting them out, afflictions can be removed through certain uses of the skills and spells. The Treat Disease and Treat Poison uses of Medicine are commonly used to treat those afflictions.
+Apart from waiting them out, afflictions can be removed through certain uses of the skills and spells. The [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Disease|Treat Disease]] and [[srd/pf2e/compendium/rules-elements/actions/player-core#Treat Poison|Treat Poison]] uses of [[srd/pf2e/compendium/rules-elements/skills/medicine|Medicine]] are commonly used to treat those afflictions.
 
-The cleanse affliction spell is also available to most spellcasters. Spells that counteract conditions at the source, such as sound body, can also be effective against diseases and poisons that cause those conditions.
+The [[srd/pf2e/compendium/spells/rank-2/cleanse-affliction|cleanse affliction]] spell is also available to most spellcasters. Spells that counteract conditions at the source, such as [[srd/pf2e/compendium/spells/rank-2/sound-body|sound body]], can also be effective against diseases and poisons that cause those conditions.
 
-Curses are trickier, requiring solutions that specifically mention them, such as a 4th-rank *cleanse affliction* or the Break Curse skill feat.
+Curses are trickier, requiring solutions that specifically mention them, such as a 4th-rank *cleanse affliction* or the [[srd/pf2e/compendium/feats/player-core/skill/break-curse|Break Curse]] skill feat.
 
 ## Counteracting
 

@@ -26,9 +26,9 @@ Your enemy’s heart has been stopped, but you cause it to start pumping blood o
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes 1d6 persistent acid damage.
+**Success** The creature takes 1d6 [[srd/pf2e/compendium/rules-elements/conditions#Persistent Damage|persistent acid damage]].
 
-**Failure** The creature is clumsy 1 for 1 minute and takes 2d6 persistent acid damage.
+**Failure** The creature is [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] 1 for 1 minute and takes 2d6 persistent acid damage.
 
 **Critical Failure** The creature is clumsy 2 for 1 minute and takes 3d6 persistent acid damage.
 

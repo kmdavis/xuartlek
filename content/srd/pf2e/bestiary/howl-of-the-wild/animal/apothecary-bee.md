@@ -29,15 +29,15 @@ perception:
     desc: "Perception +15; darkvision, potionsight (precise) 60 feet"
 skills:
   - name: "Skills"
-    desc: "Acrobatics +17, Stealth +17, Thievery +15"
+    desc: "[[srd/pf2e/compendium/rules-elements/skills/acrobatics|Acrobatics]] +17, [[srd/pf2e/compendium/rules-elements/skills/stealth|Stealth]] +17, [[srd/pf2e/compendium/rules-elements/skills/thievery|Thievery]] +15"
 abilityMods: [1, 6, 3, -4, 2, 2]
 abilities_top:
   - name: "Internal Cauldron"
-    desc: "With an appropriate diet, an apothecary bee will create a potion of 6th level or lower every two weeks. Most often, this is a _moderate healing potion_. Each apothecary bee can store only one completed potion at a time. Unused potions can generally be harvested from an apothecary bee with a successful DC 23 Nature or Survival check."
+    desc: "With an appropriate diet, an apothecary bee will create a potion of 6th level or lower every two weeks. Most often, this is a [[srd/pf2e/compendium/equipment/consumables/healing-potion-major|_moderate healing potion_]]. Each apothecary bee can store only one completed potion at a time. Unused potions can generally be harvested from an apothecary bee with a successful DC 23 [[srd/pf2e/compendium/rules-elements/skills/nature|Nature]] or [[srd/pf2e/compendium/rules-elements/skills/survival|Survival]] check."
   - name: "Potionsight"
-    desc: "Apothecary bees' complex eyes let them see the auras of magical potions and instinctively identify potions of their level or lower. These auras are visible through mundane containers, though their eyes have no special ability to perceive or identify non-magical solutions, such as alchemical elixirs."
+    desc: "Apothecary bees' complex eyes let them see the auras of magical [[srd/pf2e/compendium/rules-elements/traits/player-core/potion|potions]] and instinctively identify potions of their level or lower. These auras are visible through mundane containers, though their eyes have no special ability to perceive or identify non-magical solutions, such as alchemical [[srd/pf2e/compendium/rules-elements/traits/player-core/elixir|elixirs]]."
   - name: "Items"
-    desc: "_moderate healing potion_"
+    desc: "[[srd/pf2e/compendium/equipment/consumables/healing-potion-major|_moderate healing potion_]]"
 ac: 25
 armorclass:
   - name: "AC"
@@ -48,22 +48,22 @@ health:
     desc: "115; __Weaknesses__ smoke susceptibility"
 abilities_mid:
   - name: "Smoke Susceptibility"
-    desc: "An apothecary bee is slowed 1 if it starts its turn in heavy smoke."
+    desc: "An apothecary bee is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed 1]] if it starts its turn in heavy smoke."
 speed: "10 feet, climb 10 feet, fly 50 feet"
 attacks:
   - name: "Melee"
-    desc: "⬻ stinger +19 (Magical, Poison) __Damage__ 1d4+4 piercing plus 3d6 poison"
+    desc: "⬻ stinger +19 ([[srd/pf2e/compendium/rules-elements/traits/player-core/magical|Magical]], [[srd/pf2e/compendium/rules-elements/traits/player-core/poison|Poison]]) __Damage__ 1d4+4 piercing plus 3d6 poison"
 abilities_bot:
   - name: "Drain Potion"
-    desc: "⬺ (Manipulate)"
+    desc: "⬺ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]])"
   - name: "Requirements"
     desc: "The apothecary bee has no stored potions"
   - name: "Effect"
     desc: "The apothecary bee slurps up a potion within its reach, storing it internally. A creature can attempt a DC 25 Reflex save to protect a potion in its possession."
   - name: "Ingest Potion"
-    desc: "⬻ The apothecary bee consumes the potion it has stored in its body. If the potion has the healing trait, the apothecary bee heals for the maximum amount."
+    desc: "⬻ The apothecary bee consumes the potion it has stored in its body. If the potion has the [[srd/pf2e/compendium/rules-elements/traits/player-core/healing|healing]] trait, the apothecary bee heals for the maximum amount."
   - name: "Inject Potion"
-    desc: "⬻ (Manipulate) The apothecary bee injects its stored potion into a willing creature within its reach. This deals 1 piercing damage and grants the recipient the normal effects of drinking the potion."
+    desc: "⬻ ([[srd/pf2e/compendium/rules-elements/traits/player-core/manipulate|Manipulate]]) The apothecary bee injects its stored potion into a willing creature within its reach. This deals 1 piercing damage and grants the recipient the normal effects of drinking the potion."
 sourcebook: "_Howl of the Wild_, page 125."
 ```
 

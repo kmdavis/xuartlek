@@ -21,6 +21,6 @@ source: "Impossible Magic"
 - **Bulk**: L
 - **Activate**: Cast a Spell (add 1 action)
 
-This ornate cryptex, made of bronze or similar metals, spins slowly until activated. When used as a catalyst to cast an __imaginary lockbox__ spell, the cryptex turns to generate a random release phrase before crumbling to dust and placing the magical lockbox in your mind. Items from the lockbox can be retrieved by anyone adjacent to you with whom you’ve shared the release phrase with.
+This ornate cryptex, made of bronze or similar metals, spins slowly until activated. When used as a catalyst to cast an _[[srd/pf2e/compendium/spells/rank-5/imaginary-lockbox|_imaginary lockbox_]]_ spell, the cryptex turns to generate a random release phrase before crumbling to dust and placing the magical lockbox in your mind. Items from the lockbox can be retrieved by anyone adjacent to you with whom you’ve shared the release phrase with.
 
 *Source: Impossible Magic p. 214*

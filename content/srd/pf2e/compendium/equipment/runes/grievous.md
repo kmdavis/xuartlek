@@ -33,7 +33,7 @@ When your attack roll with this weapon is a critical hit and gains the critical 
  **Polearm** You can move the target up to 10 feet.
  **Shield** You can knock the target up to 10 feet away.
  **Sling** The target also takes a –10-foot status penalty to its Speed for 1 round if it fails the save.
- **Spear** The clumsy condition lasts for 2 rounds.
+ **Spear** The [[srd/pf2e/compendium/rules-elements/conditions#Clumsy|clumsy]] condition lasts for 2 rounds.
  **Sword** The target is off-guard until the end of your next turn.
 
 *Source: GM Core p. 238*

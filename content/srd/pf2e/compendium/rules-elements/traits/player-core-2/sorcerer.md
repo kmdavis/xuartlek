@@ -13,6 +13,6 @@ source: "Player Core 2"
 
 `Sorcerer`
 
-This indicates abilities from the sorcerer class.
+This indicates abilities from the [[srd/pf2e/compendium/character/classes/sorcerer|sorcerer]] class.
 
 *Source: Player Core 2 p. 318*

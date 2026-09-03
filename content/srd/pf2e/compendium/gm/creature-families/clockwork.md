@@ -20,7 +20,7 @@ Intricate, complex machines, clockworks are built with care by highly skilled en
 
  **Wind-Up** For a clockwork to act, it must be wound with a unique key by another creature. This takes 1 minute. Once wound, it remains operational for the listed amount of time, usually 24 hours, after which time it becomes unaware of its surroundings and can't act until it's wound again. Some clockworks' abilities require them to spend some of their remaining operational time. They can't spend more than they have and shut down immediately once they have 0 time remaining. If it's unclear when a clockwork was last wound, most clockwork keepers wind all their clockworks at a set time, typically 8 a.m.
 
- A creature can attempt to Disable a Device to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time (or 2 hours on a critical success). This can be done even if the clockwork is in standby mode.
+ A creature can attempt to [[srd/pf2e/compendium/rules-elements/actions/player-core#Disable a Device|Disable a Device]] to wind a clockwork down (with a DC listed in the wind-up entry). For each success, the clockwork loses 1 hour of operational time (or 2 hours on a critical success). This can be done even if the clockwork is in standby mode.
 
  A clockwork that lists standby in its wind-up entry has the following action.
 
@@ -28,7 +28,7 @@ Intricate, complex machines, clockworks are built with care by highly skilled en
 
 ### Members
 
-Clockwork Dragon (Creature 16), Clockwork Mage (Creature 9), Clockwork Soldier (Creature 6), Clockwork Spy (Creature -1), Clockwork Whale (Creature 17)
+[[srd/pf2e/bestiary/monster-core-2/construct/clockwork-dragon|Clockwork Dragon]] (Creature 16), [[srd/pf2e/bestiary/monster-core-2/construct/clockwork-mage|Clockwork Mage]] (Creature 9), [[srd/pf2e/bestiary/monster-core-2/construct/clockwork-soldier|Clockwork Soldier]] (Creature 6), [[srd/pf2e/bestiary/monster-core-2/construct/clockwork-spy|Clockwork Spy]] (Creature -1), Clockwork Whale (Creature 17)
 
 ### Clockwork Research
 
@@ -38,7 +38,7 @@ Clockworks were invented in ancient times, culminating in the clockwork army of 
 
 Clockworks can be prone to errors if not well maintained or properly programmed. You might want to introduce one of the malfunctions listed on the facing page in a clockwork that is in disrepair or gets damaged heavily in battle (such as with a critical hit). 
 
-**Backfire:** The clockwork rolls a DC 5 flat check at the start of each of its turns. On a failure, it backfires, dealing 2d6 fire damage in a 15-foot cone, including to itself (basic Reflex save at the standard DC for its level), and is slowed 1 this turn.
+**Backfire:** The clockwork rolls a DC 5 flat check at the start of each of its turns. On a failure, it backfires, dealing 2d6 fire damage in a 15-foot [[srd/pf2e/books/player-core/chapter-8-playing-the-game/area#Cone|cone]], including to itself ([[srd/pf2e/books/player-core/chapter-8-playing-the-game/checks#Basic Saving Throws|basic]] Reflex save at the standard DC for its level), and is [[srd/pf2e/compendium/rules-elements/conditions#Slowed|slowed]] 1 this turn.
 
 **Damaged Propulsion:** The clockwork loses 1d4 hours of operational time at the end of each of its turns. 
 
